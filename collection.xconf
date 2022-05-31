@@ -6,16 +6,13 @@
             <text qname="tei:text">
                 <facet dimension="volume" expression="let $title := ancestor::tei:TEI//tei:fileDesc/tei:titleStmt/tei:title[@type='volume'] return ('Band ' || substring($title/@n, 5) || ': ' || $title/text())" />
                 <facet dimension="date" expression="nav:get-date(ancestor::tei:TEI)" hierarchical="yes" />
-                <facet dimension="year" expression="nav:get-date(ancestor::tei:TEI)[1]"/>
                 <facet dimension="type" expression="ancestor::tei:TEI//tei:profileDesc/tei:textClass/tei:keywords/tei:term" />
-                <facet dimension="sender" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='sent']/tei:persName" />
-                <facet dimension="receiver" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='received']/tei:persName" />
-                <facet dimension="receivePlace" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='received']/tei:placeName" />
-                <facet dimension="place" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='sent']/tei:placeName" />
+                <facet dimension="person" expression="ancestor::tei:TEI//tei:persName/@ref/string()" />
+                <facet dimension="place" expression="ancestor::tei:TEI//tei:placeName/@ref/string()" />
+                <facet dimension="term" expression=".//tei:term/@ref/string()"/>
+                <facet dimension="bible" expression=".//tei:ref[@type='can'][@subtype='bible']/@target/string()"/>
                 <facet dimension="language" expression="nav:get-language(ancestor::tei:TEI)"/>
                 <facet dimension="corpus" expression="'kb'"/>
-                <facet dimension="author" expression="(ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='sent']/tei:persName, 'Karl Barth')[1]"/>
-                <facet dimension="genre" expression="ancestor::tei:TEI//tei:profileDesc/tei:textClass/tei:keywords/tei:term" />
 
                 <field name="position" expression="ancestor::tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:biblScope[@unit='part']" type="xs:integer" />
                 <field name="title" expression="string-join(ancestor::tei:TEI//tei:titleStmt/tei:title[@type=('formal', 'content')], ' - ')" />
