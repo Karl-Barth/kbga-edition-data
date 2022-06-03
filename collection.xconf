@@ -4,9 +4,9 @@
         <lucene>
             <module uri="http://teipublisher.com/index" prefix="nav" at="index.xql"/>
             <text qname="tei:text">
-                <facet dimension="volume" expression="let $title := ancestor::tei:TEI//tei:fileDesc/tei:titleStmt/tei:title[@type='volume'] return ('Band ' || substring($title/@n, 5) || ': ' || $title/text())" />
+                <facet dimension="volume" expression="nav:get-volume(ancestor::tei:TEI)" />
                 <facet dimension="date" expression="nav:get-date(ancestor::tei:TEI)" hierarchical="yes" />
-                <facet dimension="type" expression="ancestor::tei:TEI//tei:profileDesc/tei:textClass/tei:keywords/tei:term" />
+                <facet dimension="type" expression="nav:get-type(ancestor::tei:TEI)" />
                 <facet dimension="person" expression="ancestor::tei:TEI//tei:persName/@ref/string()" />
                 <facet dimension="place" expression="ancestor::tei:TEI//tei:placeName/@ref/string()" />
                 <facet dimension="term" expression=".//tei:term/@ref/string()"/>
