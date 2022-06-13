@@ -121,9 +121,9 @@ Trotz aller Standardisierung benötigt eine komplexe Anwendung regelmässige Upd
 
 ### Workflow
 
-![KBGA Datenerstellung Workflow](/images/Workflow_Datenfluss__1_.jpg)
+![KBGA Datenerstellung Workflow](/images/Workflow_Datenfluss_1.jpg)
 
-<!--![KBGA ](/images/Workflow_Datenfluss_2_.jpg)-->
+<!--![KBGA ](/images/Workflow_Datenfluss_2.jpg)-->
 
 ### Lizenzen
 Die Karl Barth-Stiftung hat für die Bände 1-52 vom TVZ das Recht erworben, die Texte Karl Barths unter einer [Creative Commons BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu publizieren.
