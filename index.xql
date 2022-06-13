@@ -24,18 +24,31 @@ declare function idx:get-language($root as element()) {
 };
 
 declare function idx:get-date($root as element()) {
-    let $date := 
-        for $d in (
-            $root//tei:profileDesc/tei:correspDesc/tei:correspAction[@type="sent"]/tei:date,
-            $root//tei:msDesc[@type="source"]/tei:msContents//tei:docDate/tei:date
-        )
-        return
-            if ($d/@period) then
-                substring-before($d/@period, "/")
-            else
-                $d/@when
+    let $d := (
+        $root//tei:profileDesc/tei:creation/tei:date
+    )[1]
     return
-        tokenize($date, '-')
+        if (empty($d)) then
+            "1000-01-01"
+        else if ($d/@period) then
+            idx:normalize-date(substring-before($d/@period, "/"))
+        else if ($d/@when) then
+            idx:normalize-date($d/@when)
+        else if ($d/@to) then
+            idx:normalize-date($d/@to)
+        else
+            "1000-01-01"
+};
+
+declare function idx:normalize-date($date as xs:string) {
+    if (matches($date, "^\d{4}-\d{2}-\d{2}$")) then
+        $date
+    else if (matches($date, "^\d{4}-\d{2}")) then
+        $date || "-01"
+    else if (matches($date, "^\d{4}")) then
+        $date || "01-01"
+    else
+        "1000-01-01"
 };
 
 declare function idx:get-type($root as element()) {

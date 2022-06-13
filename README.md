@@ -1,3 +1,5 @@
+# Karl Barth-Gesamtausgabe
+
 ## Über die Edition
 
 ### Impressum/Kontakt
@@ -12,7 +14,7 @@ Mail: [bartharchiv-theol@unibas.ch](mailto:bartharchiv-theol@unibas.ch)
 [https://karlbarth.unibas.ch](https://karlbarth.unibas.ch)
 
 ### Förderinstitutionen
-- [Schweizerische Akademie der Geistes- und Souialwissenschaften](https://www.sagw.ch/sagw/) (seit 2021)
+- [Schweizerische Akademie der Geistes- und Sozialwissenschaften](https://www.sagw.ch/sagw/) (seit 2021)
 - [Schweizerischer Nationalfonds](https://snf.ch/de) (bis 2021)
 - Karl Barth-Stiftung
 - [Ernst Göhner-Stiftung](https://www.ernst-goehner-stiftung.ch/index.php/de) (Migration des KBA-Katalogs)
@@ -121,7 +123,7 @@ Trotz aller Standardisierung benötigt eine komplexe Anwendung regelmässige Upd
 
 ### Workflow
 
-![KBGA Datenerstellung Workflow](/images/Workflow_Datenfluss_1.jpg)
+![KBGA Datenerstellung Workflow](https://raw.githubusercontent.com/Karl-Barth/kbga-edition-data/master/images/Workflow_Datenfluss_1.jpg)
 
 <!--![KBGA ](/images/Workflow_Datenfluss_2.jpg)-->
 
