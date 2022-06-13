@@ -51,29 +51,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <msDesc type="source" xml:id="A" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 9229.252</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/17113</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-17113</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-114</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung</title>
-              <docDate>
-                <date type="creation" when="1929-11-28">28. November 1929</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" corresp="KBA 9229.252" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung, 28. November 1929. <idno ref="https://kba.karl-barth.ch/objects/17113">KBA 9229.252</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -131,7 +109,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:08+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:08+02:00</change>
+      <change when="2022-06-13T09:40:10+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:10+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

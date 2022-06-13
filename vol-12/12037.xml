@@ -50,100 +50,12 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Als sie den Herrn sahen, 1964, in: Ba.Pr.; St.G. Jg.16 (1964), Sp.261-264
-R.m.a. S.120-130.<idno type="zotero">zotero-HPAFVZLD</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/HPAFVZLD</idno></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1662.2</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2111</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2111</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1461</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen"</title>
-              <docDate>
-                <date type="creation" when="1964-03-29">29. März 1964</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1662.1</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2210</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2210</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1462</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen"</title>
-              <docDate>
-                <date type="creation" when="1964-03-29">29. März 1964</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="D" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1662.3</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2211</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2211</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1463</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen"</title>
-              <docDate>
-                <date type="creation" when="1964-03-29">29. März 1964</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="E" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 912</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6241</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6241</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1460</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>"Als sie den Herrn sahen". Predigt über Joh. 20, 19-20</title>
-              <docDate>
-                <date type="creation" when="1964-03-29">29. März 1964</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Als sie den Herrn sahen, 1964, in: Ba.Pr.; St.G. Jg.16 (1964), Sp.261-264
+R.m.a. S.120-130. </bibl>
+        <bibl xml:id="B" corresp="KBA 1662.2" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2111">KBA 1662.2</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 1662.1" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2210">KBA 1662.1</idno></bibl>
+        <bibl xml:id="D" corresp="KBA 1662.3" type="source">D (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2211">KBA 1662.3</idno></bibl>
+        <bibl xml:id="E" corresp="KBA 912" type="source">E (Weitere Vorlage): Barth, Karl, "Als sie den Herrn sahen". Predigt über Joh. 20, 19-20, 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/6241">KBA 912</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -201,7 +113,7 @@ R.m.a. S.120-130.<idno type="zotero">zotero-HPAFVZLD</idno><idno type="URI">http
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

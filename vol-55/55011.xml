@@ -37,79 +37,10 @@
           <biblScope unit="part">11</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <msDesc type="source" xml:id="A" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11121</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/594</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-594</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2487</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Das christliche Verständnis der Offenbarung</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11120</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/593</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-593</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2488</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Das christliche Verständnis der Offenbarung</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Manuskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <bibl corresp="kbga-bibls-136" type="source" xml:id="C" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Revelation</title>, in: <title level="m">Revelation</title>, hrsg. von <editor ref="kbga-actors-6566">John Baillie</editor> / <editor>Hugh Martin</editor>, <pubPlace ref="kbga-places-40">London</pubPlace> <date>1937</date>, <biblScope>S. 41–81</biblScope></bibl>
-        <msDesc type="source" xml:id="D" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10106</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/115</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-115</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2489</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>L'intelligence de la relevation</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Typoskript in französischer Übersetzung</note>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" corresp="KBA 11121" type="source">A (Vorlage der Edition): Barth, Karl, Das christliche Verständnis der Offenbarung, 1937. Typoskript<idno ref="https://kba.karl-barth.ch/objects/594">KBA 11121</idno></bibl>
+        <bibl xml:id="B" corresp="KBA 11120" type="source">B (Weitere Vorlage): Barth, Karl, Das christliche Verständnis der Offenbarung, 1937. Manuskript<idno ref="https://kba.karl-barth.ch/objects/593">KBA 11120</idno></bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): , Karl Barth: Revelation, in: Revelation, hrsg. von John Baillie / Hugh Martin, London 1937, S. 41–81, 1937. </bibl>
+        <bibl xml:id="D" corresp="KBA 10106" type="source">D (Weitere Vorlage): Barth, Karl, L'intelligence de la relevation, 1937. Typoskript in französischer Übersetzung<idno ref="https://kba.karl-barth.ch/objects/115">KBA 10106</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -167,7 +98,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

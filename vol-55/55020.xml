@@ -37,126 +37,11 @@
           <biblScope unit="part">20</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <msDesc type="source" xml:id="A" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11111</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/552</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-552</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2513</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent Dr. Dr. Hollweg.) [Abschrift]</title>
-              <docDate>
-                <date type="creation" when="1936-06-18">18. Juni 1936</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11109</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/550</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-550</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2514</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent D. Dr. Hollweg.)</title>
-              <docDate>
-                <date type="creation" when="1936-06-18">18. Juni 1936</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11110</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/551</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-551</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2515</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent D. Dr. Hollweg.)</title>
-              <docDate>
-                <date type="creation" when="1936-06-18">18. Juni 1936</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="D" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 17174</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/88623</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-88623</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2516</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Vorlage für den reformierten Kirchenkonvent, dem Reformierten Kirchenausschuss in Hannover am 2. Juni 1936 von Landessuperintendent D. Dr. Hollweg vorgelegt. </title>
-              <docDate>
-                <date type="creation" when="1936-06-02">2. Juni 1936</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="E" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11108</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/549</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-549</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2517</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent, vorgelegt von Landessuperintendent D. Dr. Hollweg</title>
-              <docDate>
-                <date type="creation" when="1936-06-18">18. Juni 1936</date>
-              </docDate>
-              <note type="comment-relation">Manuskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" corresp="KBA 11111" type="source">A (Vorlage der Edition): Barth, Karl, Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent Dr. Dr. Hollweg.) [Abschrift], 18. Juni 1936. Typoskript<idno ref="https://kba.karl-barth.ch/objects/552">KBA 11111</idno></bibl>
+        <bibl xml:id="B" corresp="KBA 11109" type="source">B (Weitere Vorlage): Barth, Karl, Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent D. Dr. Hollweg.), 18. Juni 1936. Typoskript<idno ref="https://kba.karl-barth.ch/objects/550">KBA 11109</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 11110" type="source">C (Weitere Vorlage): Barth, Karl, Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent. (vorgelegt von Landessuperintendent D. Dr. Hollweg.), 18. Juni 1936. Typoskript<idno ref="https://kba.karl-barth.ch/objects/551">KBA 11110</idno></bibl>
+        <bibl xml:id="D" corresp="KBA 17174" type="source">D (Weitere Vorlage): unbekannt, Vorlage für den reformierten Kirchenkonvent, dem Reformierten Kirchenausschuss in Hannover am 2. Juni 1936 von Landessuperintendent D. Dr. Hollweg vorgelegt. , 2. Juni 1936. Typoskript<idno ref="https://kba.karl-barth.ch/objects/88623">KBA 17174</idno></bibl>
+        <bibl xml:id="E" corresp="KBA 11108" type="source">E (Weitere Vorlage): Barth, Karl, Bemerkungen zu der Vorlage für den Reformierten Kirchenkonvent, vorgelegt von Landessuperintendent D. Dr. Hollweg, 18. Juni 1936. Manuskript<idno ref="https://kba.karl-barth.ch/objects/549">KBA 11108</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -214,7 +99,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

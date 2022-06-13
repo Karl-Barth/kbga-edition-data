@@ -37,55 +37,9 @@
           <biblScope unit="part">22</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-725" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author>ck</author>: <title level="a">Kirchliche Bezirksfeier in Rifferswil</title>, in: <title level="j">Volksblatt aus dem Bezirk Affoltern</title> <biblScope unit="volume">Jg. 39, Nr. 106 und 107</biblScope> (<date>9.9.1936 und 11.9.1936</date>),</bibl>
-        <msDesc type="source" xml:id="B" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11322</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/90639</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-90639</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2547</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Was haben uns die kirchlichen Vorgänge in Deutschland zu sagen?</title>
-              <docDate>
-                <date type="creation" when="1936-09">September 1936</date>
-              </docDate>
-              <note type="comment-relation">Text 2: Stichwort-Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 11321</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/90638</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-90638</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2548</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Was haben uns die kirchlichen Vorgänge in Deutschland zu sagen?</title>
-              <docDate>
-                <date type="creation" when="1936-09">September 1936</date>
-              </docDate>
-              <note type="comment-relation">Stichwort-Manuskript, Vorlage von B</note>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , ck: Kirchliche Bezirksfeier in Rifferswil, in: Volksblatt aus dem Bezirk Affoltern Jg. 39, Nr. 106 und 107 (9.9.1936 und 11.9.1936), kein Datum. Text 1: Gedruckter Artikel über den Vortrag</bibl>
+        <bibl xml:id="B" corresp="KBA 11322" type="source">B (Vorlage der Edition): Barth, Karl, Was haben uns die kirchlichen Vorgänge in Deutschland zu sagen?, September 1936. Text 2: Stichwort-Typoskript<idno ref="https://kba.karl-barth.ch/objects/90639">KBA 11322</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 11321" type="source">C (Weitere Vorlage): Barth, Karl, Was haben uns die kirchlichen Vorgänge in Deutschland zu sagen?, September 1936. Stichwort-Manuskript, Vorlage von B<idno ref="https://kba.karl-barth.ch/objects/90638">KBA 11321</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -143,7 +97,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

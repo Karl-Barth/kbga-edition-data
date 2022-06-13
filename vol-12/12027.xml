@@ -50,76 +50,10 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Rufe mich an!, 1965, in: Rufe mich an! Neue Predigten aus der Strafanstalt Basel, 27-36; St.G. Jg.18 (1966), Sp. 261-264.<idno type="zotero">zotero-GPEVFUIG</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/GPEVFUIG</idno></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1652</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2101</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2101</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1425</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Ps 50,15: "Rufe mich an!"</title>
-              <docDate>
-                <date type="creation" when="1960-09-11">11. September 1960</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 878.2</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6377</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6377</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1426</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Rufe mich an! Predigt über Psalm 50, 15</title>
-              <docDate>
-                <date type="creation" when="1960-09-11">11. September 1960</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="D" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 878.1</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6205</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6205</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1424</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Rufe mich an! Predigt über Psalm 50, 15</title>
-              <docDate>
-                <date type="creation" when="1960-09-11">11. September 1960</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Rufe mich an!, 1965, in: Rufe mich an! Neue Predigten aus der Strafanstalt Basel, 27-36; St.G. Jg.18 (1966), Sp. 261-264. </bibl>
+        <bibl xml:id="B" corresp="KBA 1652" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Ps 50,15: "Rufe mich an!", 11. September 1960. <idno ref="https://kba.karl-barth.ch/objects/2101">KBA 1652</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 878.2" type="source">C (Weitere Vorlage): Barth, Karl, Rufe mich an! Predigt über Psalm 50, 15, 11. September 1960. <idno ref="https://kba.karl-barth.ch/objects/6377">KBA 878.2</idno></bibl>
+        <bibl xml:id="D" corresp="KBA 878.1" type="source">D (Weitere Vorlage): Barth, Karl, Rufe mich an! Predigt über Psalm 50, 15, 11. September 1960. <idno ref="https://kba.karl-barth.ch/objects/6205">KBA 878.1</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -177,7 +111,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

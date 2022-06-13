@@ -50,29 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <msDesc type="source" xml:id="A" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1290</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/1753</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-1753</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1733</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Mt 10,1-4</title>
-              <docDate>
-                <date type="creation" when="1916-02-20">20. Februar 1916</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" corresp="KBA 1290" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 10,1-4, 20. Februar 1916. <idno ref="https://kba.karl-barth.ch/objects/1753">KBA 1290</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -130,7 +108,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:10+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:10+02:00</change>
+      <change when="2022-06-13T09:40:12+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:12+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -36,31 +36,8 @@
           <biblScope unit="part">32</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-313" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">K. Barth</author>: <title level="m">Der deutsche Kirchenkampf. Vortrag, gehalten im Volkshaus in Basel am 23. April 1937</title>, <pubPlace ref="kbga-places-5">Basel</pubPlace> <date>1937</date></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10103</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/112</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-112</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2555</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Der deutsche Kirchenkampf</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , K. Barth: Der deutsche Kirchenkampf. Vortrag, gehalten im Volkshaus in Basel am 23. April 1937, Basel 1937, 1937. </bibl>
+        <bibl xml:id="B" corresp="KBA 10103" type="source">B (Weitere Vorlage): Barth, Karl, Der deutsche Kirchenkampf, 1937. Typoskript<idno ref="https://kba.karl-barth.ch/objects/112">KBA 10103</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -118,7 +95,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:12+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:12+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

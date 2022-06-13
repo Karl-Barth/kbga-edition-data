@@ -37,8 +37,8 @@
           <biblScope unit="part">19</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-1997" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Die deutsche Bekenntniskirche 1935/36</title>, in: <title level="j">Zwingli-Kalender,</title> <biblScope unit="volume">Jg. 19 (1937)</biblScope>, <biblScope>S. 67–69</biblScope></bibl>
-        <bibl corresp="kbga-bibls-667" type="source" xml:id="B" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="m">Karl Barth zum Kirchenkampf, Beteiligung – Mahnung – Zuspruch</title> (<title level="s">ThExh NF</title> <biblScope unit="volume">49</biblScope>), <pubPlace ref="kbga-places-81">München</pubPlace> <date>1956</date></bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Die deutsche Bekenntniskirche 1935/36, in: Zwingli-Kalender, Jg. 19 (1937), S. 67–69, kein Datum. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): , Karl Barth: Karl Barth zum Kirchenkampf, Beteiligung – Mahnung – Zuspruch (ThExh NF 49), München 1956, 1956. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -96,7 +96,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -50,33 +50,11 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Alle!, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 92–102; Ba. Pr. Jg. 21 Nr. 6, Oktober 1957;
-St. G. Jg. 15 (1963), Sp. 5–10.<idno type="zotero">zotero-NJ3LGCAA</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/NJ3LGCAA</idno></bibl>
-        <bibl type="source" xml:id="B" subtype="Weitere_Vorlage">Barth, Karl, Alle!, 1957, in: Ba.Pr.; St.G. Jg.15 (1963), Sp.5-10
-D.G.B. S.92-102.<idno type="zotero">zotero-24CVDPRL</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/24CVDPRL</idno></bibl>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 743.2</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6376</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6376</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1405</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Alle! Predigt über Römer 11, 32</title>
-              <docDate>
-                <date type="creation" when="1957-09-22">22. September 1957</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Alle!, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 92–102; Ba. Pr. Jg. 21 Nr. 6, Oktober 1957;
+St. G. Jg. 15 (1963), Sp. 5–10. Seitenumbrüche im Text entstammen dieser Edition</bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Alle!, 1957, in: Ba.Pr.; St.G. Jg.15 (1963), Sp.5-10
+D.G.B. S.92-102. </bibl>
+        <bibl xml:id="C" corresp="KBA 743.2" type="source">C (Weitere Vorlage): Barth, Karl, Alle! Predigt über Römer 11, 32, 22. September 1957. <idno ref="https://kba.karl-barth.ch/objects/6376">KBA 743.2</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -134,7 +112,7 @@ D.G.B. S.92-102.<idno type="zotero">zotero-24CVDPRL</idno><idno type="URI">https
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:10+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:10+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

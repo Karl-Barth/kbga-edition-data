@@ -51,29 +51,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <msDesc type="source" xml:id="A" subtype="Vorlage_der_Edition">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 9125.239</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/13498</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-13498</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-35</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Rudolf Bultmann an Karl Barth</title>
-              <docDate>
-                <date type="creation" when="1925-08-22">22. August 1925</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" corresp="KBA 9125.239" type="source">A (Vorlage der Edition): Bultmann, Rudolf, Rudolf Bultmann an Karl Barth, 22. August 1925. <idno ref="https://kba.karl-barth.ch/objects/13498">KBA 9125.239</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -147,7 +125,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:05+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:05+02:00</change>
+      <change when="2022-06-13T09:40:06+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:06+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

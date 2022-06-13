@@ -50,53 +50,9 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Der Herr, dein Erbarmer, 1965, in: Rufe mich an! Neue Predigten aus der Strafanstalt Basel, 5-16.<idno type="zotero">zotero-T2RPIDRG</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/T2RPIDRG</idno></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1650</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2099</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2099</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1421</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt: Jes 54,10: "Der Herr, dein Erbarmer"</title>
-              <docDate>
-                <date type="creation" when="1959-12-27">27. Dezember 1959</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 808</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6125</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6125</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1420</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Der Herr dein Erbarmer. Predigt über Jesaja 54, 10</title>
-              <docDate>
-                <date type="creation" when="1959-12-27">27. Dezember 1959</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Der Herr, dein Erbarmer, 1965, in: Rufe mich an! Neue Predigten aus der Strafanstalt Basel, 5-16. </bibl>
+        <bibl xml:id="B" corresp="KBA 1650" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Jes 54,10: "Der Herr, dein Erbarmer", 27. Dezember 1959. <idno ref="https://kba.karl-barth.ch/objects/2099">KBA 1650</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 808" type="source">C (Weitere Vorlage): Barth, Karl, Der Herr dein Erbarmer. Predigt über Jesaja 54, 10, 27. Dezember 1959. <idno ref="https://kba.karl-barth.ch/objects/6125">KBA 808</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -154,7 +110,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

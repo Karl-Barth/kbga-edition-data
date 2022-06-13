@@ -37,8 +37,8 @@
           <biblScope unit="part">3</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-2211" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Die Kirche und die Kirchen. Vier Vorlesungen, gehalten im Oekumenischen Seminar in Genf im Juli 1935</title>, in: ders., <title level="m">Theologische Fragen und Antworten</title> (<title level="s">Gesammelte Vorträge,</title> <biblScope unit="volume">3</biblScope>), <pubPlace ref="kbga-places-390">Zollikon</pubPlace> <date>1957</date>, <biblScope>214–232</biblScope></bibl>
-        <bibl corresp="kbga-bibls-7" type="source" xml:id="B" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Die Kirche und die Kirchen</title>, in: ders., <title level="m">Die Kirche und die Kirchen</title> (<title level="s">ThExh</title> <biblScope unit="volume">27</biblScope>), <pubPlace ref="kbga-places-43">München</pubPlace> <date>1935</date>, <biblScope>S. 4–24</biblScope></bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Die Kirche und die Kirchen. Vier Vorlesungen, gehalten im Oekumenischen Seminar in Genf im Juli 1935, in: ders., Theologische Fragen und Antworten (Gesammelte Vorträge, 3), Zollikon 1957, 214–232, 1957. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): , Karl Barth: Die Kirche und die Kirchen, in: ders., Die Kirche und die Kirchen (ThExh 27), München 1935, S. 4–24, 1935. Erste Veröffentlichung</bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -96,7 +96,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

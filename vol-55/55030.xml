@@ -7,7 +7,7 @@
         <title type="content">Eine Frage und eine Antwort</title>
         <title type="citation_line_1">Barth, Karl: Eine Frage und eine Antwort, 1937</title>
         <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55030 (Stand: 13. Juni 2022)</title>
-        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Vorträge und kleinere Arbeiten 1935–1937, Zürich 2020, S..</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Vorträge und kleinere Arbeiten 1935–1937, Zürich 2020, S.690–702.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -32,83 +32,16 @@
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2020</date>
+          <biblScope unit="page">690-702</biblScope>
           <!--position within a volume-->
           <biblScope unit="part">30</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-2178" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Eine Frage und eine Antwort</title>, in: ders., <title level="m">Karl Barth zum Kirchenkampf. Beteiligung – Mahnung – Zuspruch</title> (<title level="s">ThExh.NF</title> <biblScope unit="volume">49</biblScope>), <pubPlace ref="kbga-places-43">München</pubPlace> <date>1956</date>, <biblScope>67-71</biblScope></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10104</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/113</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-113</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2551</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Eine Frage und eine Antwort</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Manuskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10105</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/114</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-114</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2552</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Eine Frage und eine Antwort</title>
-              <docDate>
-                <date type="creation" when="1937-04-22">22. April 1937</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <bibl corresp="kbga-bibls-803" type="source" xml:id="D" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Eine Frage und eine Antwort</title>, in: <title level="j">Ökumenischer Nachrichtendienst der Vorläufigen Leitung der Deutschen Evangelischen Kirche</title> <biblScope unit="volume">Nr. 5</biblScope> (<date>9. Juni 1937</date>), , <biblScope>S. 7–10</biblScope></bibl>
-        <msDesc type="source" xml:id="D1" subtype="Exemplar_von_D">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 17410</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/88793</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-88793</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2721</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Literatur zu Geschichte und gegenwärtigem Stand der ökumensichen Arbeit. </title>
-              <docDate>
-                <date type="creation" when="1937-06-09">9. Juni 1937</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Eine Frage und eine Antwort, in: ders., Karl Barth zum Kirchenkampf. Beteiligung – Mahnung – Zuspruch (ThExh.NF 49), München 1956, 67-71, 1956. </bibl>
+        <bibl xml:id="B" corresp="KBA 10104" type="source">B (Weitere Vorlage): Barth, Karl, Eine Frage und eine Antwort, 1937. Manuskript<idno ref="https://kba.karl-barth.ch/objects/113">KBA 10104</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 10105" type="source">C (Weitere Vorlage): Barth, Karl, Eine Frage und eine Antwort, 22. April 1937. Typoskript<idno ref="https://kba.karl-barth.ch/objects/114">KBA 10105</idno></bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): , Karl Barth: Eine Frage und eine Antwort, in: Ökumenischer Nachrichtendienst der Vorläufigen Leitung der Deutschen Evangelischen Kirche Nr. 5 (9. Juni 1937), S. 7–10, kein Datum. </bibl>
+        <bibl xml:id="D1" corresp="KBA 17410" type="source">D1 (Exemplar von D): Oekumenischer Nachrichtendienst der vorläufigen Leitung der Deutschen Evangelischen Kirche. Nr. 2, Literatur zu Geschichte und gegenwärtigem Stand der ökumensichen Arbeit. , 9. Juni 1937. <idno ref="https://kba.karl-barth.ch/objects/88793">KBA 17410</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -166,7 +99,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:12+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:12+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

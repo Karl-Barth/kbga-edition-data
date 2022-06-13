@@ -37,33 +37,10 @@
           <biblScope unit="part">8</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-109" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">K. Barth</author>: <title level="m">Evangelium und Gesetz</title> (<title level="s">ThExh</title> <biblScope unit="volume">32</biblScope>), <pubPlace ref="kbga-places-43">München</pubPlace> <date>1935</date></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10092</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/102</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-102</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2483</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Evangelium und Gesetz</title>
-              <docDate>
-                <date type="creation" when="1935">1935</date>
-              </docDate>
-              <note type="comment-relation">Manuskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <bibl corresp="kbga-bibls-110" type="source" xml:id="C" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">K. Barth</author>: <title level="m">Evangelium und Gesetz</title> (<title level="s">ThExh NF</title> <biblScope unit="volume">50</biblScope>), <pubPlace ref="kbga-places-43">München</pubPlace> <date>1956</date></bibl>
-        <bibl corresp="kbga-bibls-1166" type="source" xml:id="D" subtype="Weitere_Vorlage"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Evangelium und Gesetz</title>, in: <title level="m">Gesetz und Evangelium. Beiträge zur gegenwärtigen theologischen Diskussion</title>, hrsg. von <editor ref="kbga-actors-3316">Ernst Kinder</editor> / <editor ref="kbga-actors-8845">Klaus Haendler</editor> (<title level="s">WdF</title> <biblScope unit="volume">142</biblScope>), <pubPlace ref="kbga-places-14">Darmstadt</pubPlace> <date>1968</date>, <biblScope>S. 1–29</biblScope></bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , K. Barth: Evangelium und Gesetz (ThExh 32), München 1935, 1935. </bibl>
+        <bibl xml:id="B" corresp="KBA 10092" type="source">B (Weitere Vorlage): Barth, Karl, Evangelium und Gesetz, 1935. Manuskript<idno ref="https://kba.karl-barth.ch/objects/102">KBA 10092</idno></bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): , K. Barth: Evangelium und Gesetz (ThExh NF 50), München 1956, 1956. Weitgehend identisch mit A</bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): , Karl Barth: Evangelium und Gesetz, in: Gesetz und Evangelium. Beiträge zur gegenwärtigen theologischen Diskussion, hrsg. von Ernst Kinder / Klaus Haendler (WdF 142), Darmstadt 1968, S. 1–29, 1968. Weitgehend identisch mit A</bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -121,7 +98,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

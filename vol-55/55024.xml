@@ -37,54 +37,9 @@
           <biblScope unit="part">24</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-740" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Volkskirche, Freikirche, Bekenntniskirche</title>, in: <title level="j">EvTh</title> <biblScope unit="volume">3</biblScope> (<date>1936</date>), , <biblScope>S. 411–422</biblScope></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10099</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/108</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-108</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2417</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Volkskirche, Freikirche, Bekenntniskirche</title>
-              <docDate>
-                <date type="creation" when="1936-10">Oktober 1936</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 288</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/5646</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-5646</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2521</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Volkskirche, Freikirche, Bekenntniskirche</title>
-              <docDate>
-                <date type="creation" when="1936">1936</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Volkskirche, Freikirche, Bekenntniskirche, in: EvTh 3 (1936), S. 411–422, 1936. </bibl>
+        <bibl xml:id="B" corresp="KBA 10099" type="source">B (Weitere Vorlage): Barth, Karl, Volkskirche, Freikirche, Bekenntniskirche, Oktober 1936. Typoskript<idno ref="https://kba.karl-barth.ch/objects/108">KBA 10099</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 288" type="source">C (Weitere Vorlage): Barth, Karl, Volkskirche, Freikirche, Bekenntniskirche, 1936. <idno ref="https://kba.karl-barth.ch/objects/5646">KBA 288</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -142,7 +97,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

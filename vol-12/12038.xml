@@ -50,53 +50,9 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957, in: L.Gl., S. 4f; St.G. Jg.9 (1957), Sp. 321-324.<idno type="zotero">zotero-8PZ6TDFL</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/8PZ6TDFL</idno></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 739</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6058</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6058</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1465</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Wo der Geist des Herrn ist, da ist Freiheit</title>
-              <docDate>
-                <date type="creation" when="1957">1957</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 740</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/6059</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-6059</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1464</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Wo der Geist des Herrn ist, da ist Freiheit</title>
-              <docDate>
-                <date type="creation" when="1957-06-08">8. Juni 1957</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957, in: L.Gl., S. 4f; St.G. Jg.9 (1957), Sp. 321-324. </bibl>
+        <bibl xml:id="B" corresp="KBA 739" type="source">B (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957. <idno ref="https://kba.karl-barth.ch/objects/6058">KBA 739</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 740" type="source">C (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 8. Juni 1957. <idno ref="https://kba.karl-barth.ch/objects/6059">KBA 740</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -154,7 +110,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:11+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

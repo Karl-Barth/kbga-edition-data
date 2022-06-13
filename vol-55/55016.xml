@@ -37,31 +37,8 @@
           <biblScope unit="part">16</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-676" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Samuel Werenfels (1657–1740) und die Theologie seiner Zeit. Antrittsvorlesung, gehalten am Mittwoch, den 6. Mai 1936, in der Aula der Universität Basel</title>, in: <title level="j">EvTh</title> <biblScope unit="volume">3</biblScope> (<date>1936</date>), , <biblScope>S. 180–203</biblScope></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10096</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/105</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-105</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2415</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Samuel Werenfels (1691.1740) und die Theologie seiner Zeit</title>
-              <docDate>
-                <date type="creation" when="1936-05-06">6. Mai 1936</date>
-              </docDate>
-              <note type="comment-relation">Manuskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Samuel Werenfels (1657–1740) und die Theologie seiner Zeit. Antrittsvorlesung, gehalten am Mittwoch, den 6. Mai 1936, in der Aula der Universität Basel, in: EvTh 3 (1936), S. 180–203, 1936. </bibl>
+        <bibl xml:id="B" corresp="KBA 10096" type="source">B (Weitere Vorlage): Barth, Karl, Samuel Werenfels (1691.1740) und die Theologie seiner Zeit, 6. Mai 1936. Manuskript<idno ref="https://kba.karl-barth.ch/objects/105">KBA 10096</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -119,7 +96,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

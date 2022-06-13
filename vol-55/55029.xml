@@ -7,7 +7,7 @@
         <title type="content">Kirchliche Entscheidungen in der Schweiz</title>
         <title type="citation_line_1">Barth, Karl: Kirchliche Entscheidungen in der Schweiz, 1937</title>
         <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55029 (Stand: 13. Juni 2022)</title>
-        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Vorträge und kleinere Arbeiten 1935–1937, Zürich 2020, S..</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Vorträge und kleinere Arbeiten 1935–1937, Zürich 2020, S.679–689.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -32,58 +32,14 @@
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2020</date>
+          <biblScope unit="page">679-689</biblScope>
           <!--position within a volume-->
           <biblScope unit="part">29</biblScope>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl corresp="kbga-bibls-798" type="source" xml:id="A" subtype="Vorlage_der_Edition"><author ref="kbga-actors-2151">Karl Barth</author>: <title level="a">Kirchliche Entscheidungen in der Schweiz</title>, in: <title level="j">Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft</title> <biblScope unit="volume">Jg. 5, Nr. 16</biblScope> (<date>15.4.1937</date>), , <biblScope>S. 1f.</biblScope></bibl>
-        <msDesc type="source" xml:id="B" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 10107</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/116</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-116</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2549</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Kirchliche Entscheidungen in der Schweiz</title>
-              <docDate>
-                <date type="creation" when="1937">1937</date>
-              </docDate>
-              <note type="comment-relation">Typoskript</note>
-            </msItem>
-          </msContents>
-        </msDesc>
-        <msDesc type="source" xml:id="C" subtype="Material_zum_Kontext">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 3754</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/82668</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-82668</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-2550</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Der deutsche Kirchenstreit. </title>
-              <docDate>
-                <date type="creation" when="1937-03-04">4. März 1937</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: Kirchliche Entscheidungen in der Schweiz, in: Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft Jg. 5, Nr. 16 (15.4.1937), S. 1f., kein Datum. </bibl>
+        <bibl xml:id="B" corresp="KBA 10107" type="source">B (Weitere Vorlage): Barth, Karl, Kirchliche Entscheidungen in der Schweiz, 1937. Typoskript<idno ref="https://kba.karl-barth.ch/objects/116">KBA 10107</idno></bibl>
+        <bibl xml:id="C" corresp="KBA 3754" type="source">C (Material zum Kontext): Burri-Fahrni, Eduard, Der deutsche Kirchenstreit. , 4. März 1937. <idno ref="https://kba.karl-barth.ch/objects/82668">KBA 3754</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -141,7 +97,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:11+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:11+02:00</change>
+      <change when="2022-06-13T09:40:13+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:13+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

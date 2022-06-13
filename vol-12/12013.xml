@@ -50,31 +50,9 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl type="source" xml:id="A" subtype="Vorlage_der_Edition">Barth, Karl, Mitten unter euch – euer Gott – mein Volk!, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 59-68; K.Barth, Die Menschlichkeit Gottes (Th.St.48), 1956, S. 28–35.<idno type="zotero">zotero-JIUBKWNM</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/JIUBKWNM</idno></bibl>
-        <bibl type="source" xml:id="B" subtype="Weitere_Vorlage">Barth, Karl, Mitten unter euch - euer Gott - mein Volk! (Die Menschlichkeit Gottes), 1956, in: Th.St., S. 28-35; D.G.B. S.59-68.<idno type="zotero">zotero-F44GYZX6</idno><idno type="URI">https://www.zotero.org/groups/2431654/kbga/items/F44GYZX6</idno></bibl>
-        <msDesc type="source" xml:id="C" subtype="Weitere_Vorlage">
-          <msIdentifier>
-            <repository>Karl Barth-Archiv</repository>
-            <idno type="kba-objects-identifier">KBA 1638.1</idno>
-            <altIdentifier>
-              <idno type="URI">https://kba.karl-barth.ch/objects/2087</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kba-objects-id">kba-objects-2087</idno>
-            </altIdentifier>
-            <altIdentifier>
-              <idno type="kbga-sources-id">kbga-sources-1402</idno>
-            </altIdentifier>
-          </msIdentifier>
-          <msContents>
-            <msItem>
-              <title>Predigt:  (Abendgottesdienst): "Mitten unter euch - euer Gott - mein Volk!"</title>
-              <docDate>
-                <date type="creation" when="1956-10-07">7. Oktober 1956</date>
-              </docDate>
-            </msItem>
-          </msContents>
-        </msDesc>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Mitten unter euch – euer Gott – mein Volk!, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 59-68; K.Barth, Die Menschlichkeit Gottes (Th.St.48), 1956, S. 28–35. Seitenumbrüche im Text entstammen dieser Edition</bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Mitten unter euch - euer Gott - mein Volk! (Die Menschlichkeit Gottes), 1956, in: Th.St., S. 28-35; D.G.B. S.59-68. </bibl>
+        <bibl xml:id="C" corresp="KBA 1638.1" type="source">C (Weitere Vorlage): Barth, Karl, Predigt:  (Abendgottesdienst): "Mitten unter euch - euer Gott - mein Volk!", 7. Oktober 1956. <idno ref="https://kba.karl-barth.ch/objects/2087">KBA 1638.1</idno></bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -132,7 +110,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-13T09:35:09+02:00">teiHeader was automatically produced from the database 2022-06-13T09:35:09+02:00</change>
+      <change when="2022-06-13T09:40:10+02:00">teiHeader was automatically produced from the database 2022-06-13T09:40:10+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
