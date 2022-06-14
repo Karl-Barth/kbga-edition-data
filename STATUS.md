@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2022-06-13
+2022-06-14
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -20,9 +20,9 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |:---|---:|---:|
 |Bände | 7 |7 |
 |Personen | 387 |2090 |
-|Organisationen | 88 |509 |
-|Orte | 662 |662 |
-|Literaturangaben | 810 |2061 |
+|Organisationen | 88 |507 |
+|Orte | 524 |662 |
+|Literaturangaben | 844 |2059 |
 |Lieder | 183 |183 |
 |Begriffe | 1955 |1955 |
 

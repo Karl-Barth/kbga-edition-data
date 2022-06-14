@@ -34,6 +34,13 @@
             <text qname="tei:person" index="no">
                 <field name="name" expression="tei:persName[not(@type)]"/>
             </text>
+            <text qname="tei:org" index="no">
+                <field name="name" expression="tei:orgName[not(@type)]"/>
+            </text>
+            <text qname="tei:place" index="no">
+                <field name="name" expression="tei:placeName[not(@type)]"/>
+                <field name="lname" expression="tei:placeName[not(@type)] => lower-case()"/>
+            </text>
         </lucene>
         <range>
             <create qname="@target" type="xs:string"/>
