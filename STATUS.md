@@ -19,11 +19,11 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
 |Bände | 7 |7 |
-|Personen | 387 |2090 |
-|Organisationen | 88 |507 |
-|Orte | 524 |662 |
-|Literaturangaben | 844 |2059 |
-|Lieder | 183 |183 |
+|Personen | 381 |1557 |
+|Organisationen | 87 |446 |
+|Orte | 206 |525 |
+|Literaturangaben | 786 |1515 |
+|Lieder | 181 |181 |
 |Begriffe | 1955 |1955 |
 
 Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.
