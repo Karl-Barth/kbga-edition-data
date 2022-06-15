@@ -4,8 +4,18 @@
     <property name="project.version" value="${package(version)}"/>
     <property name="project.app" value="${package(abbrev)}"/>
     <property name="build.dir" value="build"/>
+
     <target name="xar">
         <mkdir dir="${build.dir}"/>
         <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.xar" excludes="${build.dir}/* build.xml .*/**"/>
     </target>
+
+    <target name="production-prepare">
+        <copy file="expath-pkg.xml" tofile="expath-pkg.orig.xml" overwrite="true"/>
+        <copy file="repo.xml" tofile="repo.orig.xml" overwrite="true"/>
+        <copy file="repo.prod.xml" tofile="repo.xml" overwrite="true"/>
+        <copy file="expath-pkg.prod.xml" tofile="expath-pkg.xml" overwrite="true"/>
+    </target>
+
+    <target name="xar-production" depends="production-prepare,xar"/>
 </project>

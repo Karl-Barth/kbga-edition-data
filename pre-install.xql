@@ -27,7 +27,7 @@ declare function local:mkcol($collection, $path) {
     local:mkcol-recursive($collection, tokenize($path, "/"))
 };
 
-local:mkcol(repo:get-root(), 'kb-latest-version'),
+local:mkcol(repo:get-root(), replace($target, "^.*/([^/]+)$", "$1")),
 sm:chgrp(xs:anyURI($target), "tei"),
 sm:chown(xs:anyURI($target), "kb"),
 xdb:store-files-from-pattern($target, $dir, 'index.xql'),

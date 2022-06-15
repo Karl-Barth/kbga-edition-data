@@ -1,7 +1,7 @@
 # Karl Barth-Gesamtausgabe
 
 <!-- vscode-markdown-toc -->
-- [](#karl-barth-gesamtausgabe)
+- (#karl-barth-gesamtausgabe)
 	- [1. <a name='1.Beteiligte'></a> 1. Beteiligte](#1--1-beteiligte)
 		- [1.1. <a name='ImpressumKontakt'></a>Impressum/Kontakt](#11-impressumkontakt)
 		- [1.2. <a name='Frderinstitutionen'></a>Förderinstitutionen](#12-förderinstitutionen)

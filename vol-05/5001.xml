@@ -7,7 +7,7 @@
         <title type="formal">Vorwort</title>
         <title type="content">Vorwort</title>
         <title type="citation_line_1">Fähler, Ursula, Fähler, Jochen: Vorwort, 1974</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 14. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 15. Juni 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. VII–XI.</title>
       </titleStmt>
       <editionStmt>
@@ -110,13 +110,13 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-14T21:00:31+02:00">teiHeader was automatically produced from the database 2022-06-14T21:00:31+02:00</change>
+      <change when="2022-06-15T14:16:46+02:00">teiHeader was automatically produced from the database 2022-06-15T14:16:46+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <pb xml:id="pr007" ed="pga"/>
-      <div type="sermon">
+      <div type="paper">
         <head>VORWORT</head>
         <p>Zehn Jahre (<date>1911–1921</date>) hat <persName ref="kbga-actors-2151">Karl Barth</persName> fast jeden Sonntag in dem Aargauer Arbeiterdorf
                <placeName ref="kbga-places-54">Safenwil</placeName> gepredigt. Bis Mai <date>1918</date> hat er seine Predigten Wort für Wort ausgearbeitet,
@@ -180,10 +180,11 @@
                jedem Stadium der Arbeit durch seine tatkräftige Mitarbeit ermutigt und geholfen.
                Ganz besonderer Dank gilt Frau <persName ref="kbga-actors-26">Nelly Barth</persName>, die uns durch ihre Entzifferung und
                Transskription der Predigten des Jahres 1913 den Weg gebahnt hat.</p>
-        </div>
-        <div type="closer">
-          <salute rendition="left">Bayreuth im August 1974</salute>
-          <signed>Ursula und Jochen Fähler</signed>
+        
+        <closer>
+          <dateline rend="left">Bayreuth im August 1974</dateline>
+          <signed rend="right">Ursula und Jochen Fähler</signed>
+        </closer>
       </div>
       <!--   
       <div type="preface"> 
