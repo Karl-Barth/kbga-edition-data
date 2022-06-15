@@ -109,18 +109,17 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-15T14:16:48+02:00">teiHeader was automatically produced from the database 2022-06-15T14:16:48+02:00</change>
+      <change when="2022-06-15T16:41:15+02:00">teiHeader was automatically produced from the database 2022-06-15T16:41:15+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
-      <pb xml:id="p439" ed="pga"/>
       <div type="sermon">
-      <!-- <head>KASUALREDEN</head> -->
+      <pb xml:id="p439" ed="pga"/>
         <div type="opener">
-          <dateline><date when="1916-02-08">8. Februar 1916</date></dateline>
-          <epigraph><ab>Trauung von <persName ref="kbga-actors-6549">Willy und Elisabeth Spoendlin</persName></ab></epigraph>
-          <head><placeName ref="kbga-places-66">Zürich</placeName><note xml:id="n01"><persName ref="kbga-actors-783">Wilhelm Spoendlin</persName> (<date from="1886" to="1965">1886-1965</date>) war ein Freund und Klassenkamerad
+          <!-- <head>Kasualreden</head> -->
+          
+          <dateline><date when="1916-02-08">8. Februar 1916</date>, <placeName ref="kbga-places-66">Zürich</placeName><note xml:id="n01"><persName ref="kbga-actors-783">Wilhelm Spoendlin</persName> (<date from="1886" to="1965">1886-1965</date>) war ein Freund und Klassenkamerad
             <persName ref="kbga-actors-2151">Barths</persName> auf dem Freien Gymnasium in <placeName ref="kbga-places-9">Bern</placeName> und absolvierte mit ihm <date when="1904">1904</date> das
             Abitur. <date when="1910">1910</date>  verbrachte <persName ref="kbga-actors-2151">Barth</persName> einen Teil seiner Ferien auf <placeName ref="kbga-places-742">Schloß Greifensee</placeName>, dem
             Elternhaus <persName ref="kbga-actors-783">Spoendlins</persName> (<bibl corresp="kbga-bibls-215"><title level="m">Vorträge und kleinere Arbeiten 1909-1914</title>, in Verbindung
@@ -129,7 +128,11 @@
             <placeName ref="kbga-places-66">Zürich</placeName> tätig. Weitere Begegnungen der Freunde sind dokumentiert aus den Jahren
             <date when="1917">1917</date>, <date when="1921">1921</date> (<bibl corresp="kbga-bibls-931"><title level="m"><abbr ref="kbga-abbreviations-47">Bw. Th. I</abbr></title>, <biblScope><ref type="pub-" target="../vol-03/p185#p185">S. 185</ref>. <ref type="pub-" target="../vol-03/p522#p522">522</ref></biblScope></bibl>), <date when="1924">1924</date> und <date when="1928">1928</date> (<bibl corresp="kbga-bibls-932"><title level="m"><abbr ref="kbga-abbreviations-47">Bw. Th. II</abbr></title>, <biblScope><ref type="pub-" target="../vol-04/p146#p146">S. 271</ref>. <ref type="pub-" target="../vol-04/p146#p146">274</ref>. <ref type="pub-" target="../vol-04/p146#p146">619</ref></biblScope></bibl>).
             <persName ref="kbga-actors-7434">Elisabeth Spoendlin</persName> (<date from="1889" to="1979">1889-1979</date>) war eine geborene Feurer aus <placeName ref="kbga-places-105">St. Gallen</placeName>.</note>
-         </head>
+            </dateline>
+        
+        
+         <head type="event"> Trauung von <persName ref="kbga-actors-6549">Willy und Elisabeth Spoendlin</persName></head>
+
          <salute>Liebe Freunde!</salute>
         </div>
         <div type="main">

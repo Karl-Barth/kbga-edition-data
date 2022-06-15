@@ -22,7 +22,7 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Personen | 381 |1557 |
 |Organisationen | 87 |446 |
 |Orte | 206 |525 |
-|Literaturangaben | 792 |1516 |
+|Literaturangaben | 792 |1523 |
 |Lieder | 181 |181 |
 |Begriffe | 1955 |1955 |
 
