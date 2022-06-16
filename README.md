@@ -1,42 +1,42 @@
 # Karl Barth-Gesamtausgabe
+https://kbga.karl-barth.ch
 
 <!-- vscode-markdown-toc -->
-- (#karl-barth-gesamtausgabe)
-	- [1. <a name='1.Beteiligte'></a> 1. Beteiligte](#1--1-beteiligte)
-		- [1.1. <a name='ImpressumKontakt'></a>Impressum/Kontakt](#11-impressumkontakt)
-		- [1.2. <a name='Frderinstitutionen'></a>Förderinstitutionen](#12-förderinstitutionen)
-		- [1.3. <a name='TechnischeUmsetzungderdigitalenAusgabe'></a>Technische Umsetzung der digitalen Ausgabe](#13-technische-umsetzung-der-digitalen-ausgabe)
-		- [1.4. <a name='TeamderdigitalenAusgabe'></a>Team der digitalen Ausgabe](#14-team-der-digitalen-ausgabe)
-			- [1.4.1. <a name='EhemaligeMitarbeitende'></a>Ehemalige Mitarbeitende](#141-ehemalige-mitarbeitende)
-		- [1.5. <a name='Kooperationspartner'></a>Kooperationspartner](#15-kooperationspartner)
-	- [2. <a name='Editionsziele'></a>Editionsziele](#2-editionsziele)
-		- [2.1. <a name='ZielgruppenNutzergruppe'></a>Zielgruppen/Nutzergruppe](#21-zielgruppennutzergruppe)
-	- [3. <a name='TechnischeUmsetzung'></a>Technische Umsetzung](#3-technische-umsetzung)
-		- [3.1. <a name='KarlBarth-Archiv:VorlagenfrdieEdition'></a>Karl Barth-Archiv: Vorlagen für die Edition](#31-karl-barth-archiv-vorlagen-für-die-edition)
-		- [3.2. <a name='Texterstellung'></a>Texterstellung](#32-texterstellung)
-			- [3.2.1. <a name='NeueTexte'></a>Neue Texte](#321-neue-texte)
-			- [3.2.2. <a name='BereitsgedruckteTexte'></a>Bereits gedruckte Texte](#322-bereits-gedruckte-texte)
-		- [3.3. <a name='Registerdaten'></a>Registerdaten](#33-registerdaten)
-			- [3.3.1. <a name='Akteure'></a>Akteure](#331-akteure)
-			- [3.3.2. <a name='Orte'></a>Orte](#332-orte)
-			- [3.3.3. <a name='Begriffe'></a>Begriffe](#333-begriffe)
-			- [3.3.4. <a name='Literatur'></a>Literatur](#334-literatur)
-			- [3.3.5. <a name='Lieder'></a>Lieder](#335-lieder)
-			- [3.3.6. <a name='Bibelstellen'></a>Bibelstellen](#336-bibelstellen)
-		- [3.4. <a name='Textpublikation'></a>Textpublikation](#34-textpublikation)
-			- [3.4.1. <a name='Druckausgabe'></a>Druckausgabe](#341-druckausgabe)
-			- [3.4.2. <a name='Webapplikation'></a>Webapplikation](#342-webapplikation)
-		- [3.5. <a name='Nachhaltigkeit'></a>Nachhaltigkeit](#35-nachhaltigkeit)
-		- [3.6. <a name='Infrastruktur'></a>Infrastruktur](#36-infrastruktur)
-		- [3.7. <a name='Workflow'></a>Workflow](#37-workflow)
-		- [3.8. <a name='Lizenzen'></a>Lizenzen](#38-lizenzen)
+* 1. [ 1. Beteiligte](#1.Beteiligte)
+	* 1.1. [Impressum/Kontakt](#ImpressumKontakt)
+	* 1.2. [Förderinstitutionen](#Frderinstitutionen)
+	* 1.3. [Technische Umsetzung der digitalen Ausgabe](#TechnischeUmsetzungderdigitalenAusgabe)
+	* 1.4. [Team der digitalen Ausgabe](#TeamderdigitalenAusgabe)
+		* 1.4.1. [Ehemalige Mitarbeitende](#EhemaligeMitarbeitende)
+	* 1.5. [Kooperationspartner](#Kooperationspartner)
+* 2. [Editionsziele](#Editionsziele)
+	* 2.1. [Zielgruppen/Nutzergruppe](#ZielgruppenNutzergruppe)
+* 3. [Technische Umsetzung](#TechnischeUmsetzung)
+	* 3.1. [Karl Barth-Archiv: Vorlagen für die Edition](#KarlBarth-Archiv:VorlagenfrdieEdition)
+	* 3.2. [Texterstellung](#Texterstellung)
+		* 3.2.1. [Neue Texte](#NeueTexte)
+		* 3.2.2. [Bereits gedruckte Texte](#BereitsgedruckteTexte)
+	* 3.3. [Registerdaten](#Registerdaten)
+		* 3.3.1. [Akteure](#Akteure)
+		* 3.3.2. [Orte](#Orte)
+		* 3.3.3. [Begriffe](#Begriffe)
+		* 3.3.4. [Literatur](#Literatur)
+		* 3.3.5. [Lieder](#Lieder)
+		* 3.3.6. [Bibelstellen](#Bibelstellen)
+	* 3.4. [Textpublikation](#Textpublikation)
+		* 3.4.1. [Druckausgabe](#Druckausgabe)
+		* 3.4.2. [Webapplikation](#Webapplikation)
+	* 3.5. [Nachhaltigkeit](#Nachhaltigkeit)
+	* 3.6. [Infrastruktur](#Infrastruktur)
+	* 3.7. [Workflow](#Workflow)
+	* 3.8. [3.9 Daten](#Daten)
+	* 3.9. [Lizenzen](#Lizenzen)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
-
 
 ##  1. <a name='1.Beteiligte'></a> 1. Beteiligte
 
@@ -168,9 +168,10 @@ Trotz aller Standardisierung benötigt eine komplexe Anwendung regelmässige Upd
 
 ![KBGA Datenerstellung Workflow](https://raw.githubusercontent.com/Karl-Barth/kbga-edition-data/master/images/Workflow_Datenfluss_1.jpg)
 
-<!--![KBGA ](/images/Workflow_Datenfluss_2.jpg)-->
+###  3.8. <a name='Daten'></a>3.9 Daten
+Die Daten der Edition können auf [Github](https://github.com/Karl-Barth/kbga-edition-data) heruntergeladen werden.
 
-###  3.8. <a name='Lizenzen'></a>Lizenzen
+###  3.9. <a name='Lizenzen'></a>Lizenzen
 Die Karl Barth-Stiftung hat für die Bände 1-52 vom TVZ das Recht erworben, die Texte Karl Barths unter einer [Creative Commons BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu publizieren.
 
 Ab Band 56 werden die Texte unter einer [Creative Commons  BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) publiziert.
