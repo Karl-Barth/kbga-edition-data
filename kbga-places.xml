@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2022-06-16 09:09:31</p>
+        <p>Datenbankexport vom 2022-06-16 11:53:29</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T09:09:31+02:00">teiHeader was automatically produced from the database 2022-06-16T09:09:31+02:00</change>
+      <change when="2022-06-16T11:53:29+02:00">teiHeader was automatically produced from the database 2022-06-16T11:53:29+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1372,8 +1372,19 @@
         </place>
         <place type="S" xml:id="kbga-places-1020">
           <placeName>Bundeshaus</placeName>
-          <placeName type="full">Bundeshaus / Bern</placeName>
+          <placeName type="full">Bundeshaus / Bern (BE)</placeName>
+          <location>
+            <geo>46.94731 7.44402</geo>
+          </location>
           <settlement>Bern</settlement>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bundeshaus_(Bern)">https://de.wikipedia.org/wiki/Bundeshaus_(Bern)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q30911">https://www.wikidata.org/wiki/Q30911</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/173187993/">https://viaf.org/viaf/173187993/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-173187993/">https://www.worldcat.org/identities/viaf-173187993/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4198117-0">https://d-nb.info/gnd/4198117-0</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/011007">https://hls-dhs-dss.ch/de/articles/011007</idno>
+          <idno type="geonames" target="https://www.geonames.org/10383313">https://www.geonames.org/10383313</idno>
         </place>
         <place type="P" xml:id="kbga-places-854">
           <placeName>Burgdorf</placeName>
@@ -1776,8 +1787,17 @@
         </place>
         <place type="S" xml:id="kbga-places-1017">
           <placeName>Dominikanerkirche</placeName>
-          <placeName type="full">Dominikanerkirche / Basel</placeName>
+          <placeName type="full">Dominikanerkirche / Basel (BS)</placeName>
+          <placeName type="alternative">Predigerkirche</placeName>
+          <location>
+            <geo>47.56216 7.58475</geo>
+          </location>
           <settlement>Basel</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/11427660">https://www.geonames.org/11427660</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Predigerkirche_(Basel)">https://de.wikipedia.org/wiki/Predigerkirche_(Basel)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1340020">https://www.wikidata.org/wiki/Q1340020</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/235709479/">https://viaf.org/viaf/235709479/</idno>
         </place>
         <place type="H" xml:id="kbga-places-962">
           <placeName>Donau</placeName>
@@ -2369,8 +2389,16 @@
         </place>
         <place type="L" xml:id="kbga-places-1025">
           <placeName>Fußballstadion St. Jakob</placeName>
-          <placeName type="full">Fußballstadion St. Jakob / Basel</placeName>
+          <placeName type="full">Fußballstadion St. Jakob / Basel (BS)</placeName>
+          <placeName type="alternative">St. Jakob-Park</placeName>
+          <location>
+            <geo>47.5416 7.6201</geo>
+          </location>
           <settlement>Basel</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6639790">https://www.geonames.org/6639790</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/St._Jakob-Park">https://de.wikipedia.org/wiki/St._Jakob-Park</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q190010">https://www.wikidata.org/wiki/Q190010</idno>
         </place>
         <place type="A" xml:id="kbga-places-780">
           <placeName>Galiläa</placeName>
@@ -2517,9 +2545,19 @@
           <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/06540a.htm">https://www.newadvent.org/cathen/06540a.htm</idno>
           <note type="description">Garten am Ölberg bei Jerusalem, Ort in der biblischen Passionsgeschichte.</note>
         </place>
-        <place xml:id="kbga-places-1018">
+        <place type="P" xml:id="kbga-places-1018">
           <placeName>Gibeon</placeName>
           <placeName type="full">Gibeon</placeName>
+          <location>
+            <geo>31.84763 35.18318</geo>
+          </location>
+          <country>Israel</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Gibeon">https://de.wikipedia.org/wiki/Gibeon</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q889398">https://www.wikidata.org/wiki/Q889398</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/235662340/">https://viaf.org/viaf/235662340/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4086718-3">https://d-nb.info/gnd/4086718-3</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Gibeon">https://www.britannica.com/place/Gibeon</idno>
+          <idno type="geonames" target="https://www.geonames.org/12440502">https://www.geonames.org/12440502</idno>
         </place>
         <place type="A" xml:id="kbga-places-1067">
           <placeName>Gibraltar</placeName>
@@ -2645,6 +2683,18 @@
         <place type="R" xml:id="kbga-places-1024">
           <placeName>Gotthard-Tunnel</placeName>
           <placeName type="full">Gotthard-Tunnel</placeName>
+          <placeName type="alternative">Gotthardtunnel</placeName>
+          <location>
+            <geo>46.51667 8.61667</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Gotthardtunnel">https://de.wikipedia.org/wiki/Gotthardtunnel</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q688618">https://www.wikidata.org/wiki/Q688618</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/239870827/">https://viaf.org/viaf/239870827/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh2012000780">https://id.loc.gov/authorities/sh2012000780</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4021693-7">https://d-nb.info/gnd/4021693-7</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Saint-Gotthard-Tunnel-railway-tunnel-Switzerland">https://www.britannica.com/place/Saint-Gotthard-Tunnel-railway-tunnel-Switzerland</idno>
+          <idno type="geonames" target="https://www.geonames.org/2660546">https://www.geonames.org/2660546</idno>
         </place>
         <place type="P" xml:id="kbga-places-27">
           <placeName>Göttingen</placeName>
@@ -3829,7 +3879,17 @@
         <place type="S" xml:id="kbga-places-1019">
           <placeName>Kreml</placeName>
           <placeName type="full">Kreml / Moskau</placeName>
+          <location>
+            <geo>55.75167 37.61778</geo>
+          </location>
           <settlement>Moskau</settlement>
+          <country>Russische Föderation</country>
+          <idno type="geonames" target="https://www.geonames.org/7289610">https://www.geonames.org/7289610</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Moskauer_Kreml">https://de.wikipedia.org/wiki/Moskauer_Kreml</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q133274">https://www.wikidata.org/wiki/Q133274</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85073267">https://id.loc.gov/authorities/sh85073267</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4074990-3">https://d-nb.info/gnd/4074990-3</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/The-Kremlin">https://www.britannica.com/topic/The-Kremlin</idno>
         </place>
         <place type="P" xml:id="kbga-places-739">
           <placeName>Kreuzlingen</placeName>
@@ -4917,6 +4977,10 @@
         <place type="A" xml:id="kbga-places-1027">
           <placeName>Nordafrika</placeName>
           <placeName type="full">Nordafrika</placeName>
+          <location>
+            <geo>32.95337 9.97559</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/7729887">https://www.geonames.org/7729887</idno>
         </place>
         <place type="H" xml:id="kbga-places-984">
           <placeName>Nordsee</placeName>
@@ -5392,6 +5456,20 @@
         <place type="A" xml:id="kbga-places-1023">
           <placeName>Philippinen</placeName>
           <placeName type="full">Philippinen</placeName>
+          <location>
+            <geo>13.40882 122.56155</geo>
+          </location>
+          <country>Philippinen</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Philippinen">https://de.wikipedia.org/wiki/Philippinen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q928">https://www.wikidata.org/wiki/Q928</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/147665514/">https://viaf.org/viaf/147665514/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79058386">https://id.loc.gov/authorities/n79058386</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79058386/">https://www.worldcat.org/identities/lccn-n79058386/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4045771-0">https://d-nb.info/gnd/4045771-0</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Philippines">https://www.britannica.com/place/Philippines</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/12010a.htm">https://www.newadvent.org/cathen/12010a.htm</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/003424">https://hls-dhs-dss.ch/de/articles/003424</idno>
+          <idno type="geonames" target="https://www.geonames.org/1694008">https://www.geonames.org/1694008</idno>
         </place>
         <place type="T" xml:id="kbga-places-1030">
           <placeName>Piavetal</placeName>
@@ -6716,10 +6794,14 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         <place type="S" xml:id="kbga-places-893">
           <placeName>Stadtkirche</placeName>
           <placeName type="full">Stadtkirche / Aarau (AG)</placeName>
+          <location>
+            <geo>47.39262 8.04286</geo>
+          </location>
           <settlement>Aarau</settlement>
           <country>Schweiz</country>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1678578">https://www.wikidata.org/wiki/Q1678578</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Stadtkirche_Aarau">https://de.wikipedia.org/wiki/Stadtkirche_Aarau</idno>
+          <idno type="geonames" target="https://www.geonames.org/12470270">https://www.geonames.org/12470270</idno>
           <note type="description">Spätgotische, dreischiffige Basilika der Reformierten Kirchgemeinde Aarau; erbaut 1471-1478 im Stil der "Bettelordensarchitektur".</note>
         </place>
         <place type="P" xml:id="kbga-places-104">
@@ -7628,8 +7710,20 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-1022">
           <placeName>Weiße Haus</placeName>
-          <placeName type="full">Weiße Haus / Washington</placeName>
+          <placeName type="full">Weiße Haus / Washington (D.C.)</placeName>
+          <placeName type="alternative">The White House</placeName>
+          <location>
+            <geo>38.89761 -77.03637</geo>
+          </location>
           <settlement>Washington</settlement>
+          <country>Vereinigte Staaten von Amerika</country>
+          <idno type="geonames" target="https://www.geonames.org/4140704">https://www.geonames.org/4140704</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States">https://de.wikipedia.org/wiki/Executive_Office_of_the_President_of_the_United_States</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1355327">https://www.wikidata.org/wiki/Q1355327</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/129583033/">https://viaf.org/viaf/129583033/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79071234">https://id.loc.gov/authorities/n79071234</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79071234/">https://www.worldcat.org/identities/lccn-n79071234/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/16300-4">https://d-nb.info/gnd/16300-4</idno>
         </place>
         <place type="P" xml:id="kbga-places-1074">
           <placeName>Welschenrohr</placeName>

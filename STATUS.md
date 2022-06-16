@@ -22,8 +22,8 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Personen | 381 |1557 |
 |Organisationen | 87 |446 |
 |Orte | 206 |525 |
-|Literaturangaben | 886 |1536 |
-|Lieder | 181 |181 |
+|Literaturangaben | 886 |1535 |
+|Lieder | 182 |182 |
 |Begriffe | 1955 |1955 |
 
 Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.
