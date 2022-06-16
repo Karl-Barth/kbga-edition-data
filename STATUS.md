@@ -1,5 +1,7 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6651916.svg)](https://doi.org/10.5281/zenodo.6651916)
+
 2022-06-16
 
 ### Bände online
