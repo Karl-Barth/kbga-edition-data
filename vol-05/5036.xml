@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Epheser 2,4-6</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Epheser 2,4-6, 26. Juli 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5036 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5036 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 384–395.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1209" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Eph 2,4 (Ultimatum von Österreich an Serbien), 26. Juli 1914. <idno ref="https://kba.karl-barth.ch/objects/1672">KBA 1209</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Eph 2,4 (Ultimatum von Österreich an Serbien), 26. Juli 1914. <ref target="https://kba.karl-barth.ch/objects/1672">KBA 1209</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,11 @@
       <div type="sermon">
         <pb xml:id="p384" ed="pga"/>
         <div type="opener">
-        <head><idno>231</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName> und <placeName ref="kbga-places-382">Ürkheim</placeName>,<note xml:id="n01">Nachbardorf von
+        <head>
+                        <idno>231</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName> und <placeName ref="kbga-places-382">Ürkheim</placeName>,<note xml:id="n01">Nachbardorf von
                      <placeName ref="kbga-places-54">Safenwil</placeName>. Barth vertrat den dortigen Pfarrer <persName ref="kbga-actors-763">Paul Schild</persName>.</note> Sonntag, den
                      <date when="1914-07-26">26. Juli 1914</date>
                </dateline>
@@ -126,7 +89,7 @@
               <hi rend="i">Ultimatum von <orgName ref="kbga-actors-8248">Österreich</orgName> an <orgName ref="kbga-actors-8731">Serbien</orgName></hi><note xml:id="n02">Nachdem am <date when="1914-06-28">28. Juni 1914</date> das österreichische
                         <rs n="p384" type="person" ref="kbga-actors-1357">Thronfolgerehepaar</rs> in <placeName ref="kbga-places-303">Sarajewo</placeName> einem Attentat zum Opfer gefallen war (vgl.
                            Predigt 242 vom <date when="1914-10-18">18. Oktober
-                              1914</date> <ref type="pub" target="5047.xml#fn_n03">Anm. 3</ref>), veranlaßte das auf 48 Stunden befristete
+                              1914</date> <ref type="pub" target="5047#fn_n03">Anm. 3</ref>), veranlaßte das auf 48 Stunden befristete
                         Ultimatum <orgName ref="kbga-actors-8248">Österreich-Ungarns</orgName> an <orgName ref="kbga-actors-8731">Serbien</orgName> vom <date when="1914-07-23">23. Juli 1914</date> den
                         Ersten Weltkrieg.</note>
             </ab>
@@ -158,7 +121,8 @@
                hingeschrieben, ohne den Kopf zu schütteln und ohne zu zweifeln: Gott hat uns in das
                himmlische Wesen versetzt!</p>
         
-        <p><pb xml:id="p385" ed="pga"/> «<hi rend="i">Himmlisches Wesen</hi>»! Was ist das? Unendlich viel ist das,
+        <p>
+                        <pb rend="noPipe" xml:id="p385" ed="pga"/> «<hi rend="i">Himmlisches Wesen</hi>»! Was ist das? Unendlich viel ist das,
                aber eben darum kann mans mit trockenen Worten gar nicht beschreiben. Etwas Schönes
                wie Sonnenschein im Buchenlaub, etwas Fröhliches wie Kinderlachen, etwas Ernstes wie
                die ewige Ruhe, mit der die Gestirne ihre ewige Bahn ziehen, etwas Gütiges wie der
@@ -222,7 +186,8 @@
                und sagen: ich weiß nichts davon. Nein, sie ist, und sie ist da. Aber das ist die
                Frage, ob sie für uns da ist, ob wir zu ihr gehören, ob wir lebendige Erfahrung von
                ihr haben, — das ist die Frage, ob wir drin sind in dem himmlischen Wesen.</p>
-        <p><persName ref="kbga-actors-313">Paulus</persName> gibt Antwort und sagt: Gott hat uns <hi rend="i">hineinversetzt</hi>. Ja, sagt
+        <p>
+                        <persName ref="kbga-actors-313">Paulus</persName> gibt Antwort und sagt: Gott hat uns <hi rend="i">hineinversetzt</hi>. Ja, sagt
                er, wir sind mitten in der Himmelswelt drin. Er sagt es den Leuten, an die er seinen
                Brief schreibt: Gott ist reich an Barmherzigkeit, und durch seine Liebe, mit der er
                uns geliebt hat, hat er uns in das himmlische Wesen versetzt. So sicher und freudig
@@ -233,8 +198,14 @@
         <p>Wir müssen uns so jämmerlich mühen und sorgen, um nur das trockene Brot zu haben von
                einem Tag zum andern. Wir haben so wenig Zeit, um über die hohen Dinge zu studieren.
                Es ist so viel Zwietracht unter uns, es gibt eben gar böse Leute, mit denen der
-               Frömmste nicht in Frieden leben kann.<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-846"><author ref="kbga-actors-764">Fr. von Schiller</author>, <title level="m">Wilhelm Tell</title> IV,
-                        3 (Vers 2683f.)</bibl>: <q rend="block"><lg><l xml:space="preserve">Es kann der Frömmste nicht im Frieden bleiben,</l><l xml:space="preserve">Wenn es dem bösen Nachbar nicht gefällt.</l></lg></q>
+               Frömmste nicht in Frieden leben kann.<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-846">
+                                <author ref="kbga-actors-764">Fr. von Schiller</author>, <title level="m">Wilhelm Tell</title> IV,
+                        3 (Vers 2683f.)</bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Es kann der Frömmste nicht im Frieden bleiben,</l>
+                                    <l xml:space="preserve">Wenn es dem bösen Nachbar nicht gefällt.</l>
+                                </lg>
+                            </q>
                </note> Und Feigheit, ja es ist viel Feigheit da, man muß sich eben in Acht nehmen
                vor denen, die die Macht und das Geld haben, sonst könnte es unangenehm werden. Und
                aufrichtig und wahr, wer von uns ist es, wer von uns hat nicht so und so viel zu
@@ -348,7 +319,8 @@
                Lebenstatsache. Und von da versanken und verschwanden ihm nun alle anderen, sie
                durften gar keine Tatsachen mehr sein, nur noch ein Schein, ein Schatten, der eben
                unvermeidlich ist, weil das Licht so hell scheint.</p>
-        <p><persName ref="kbga-actors-313">Paulus</persName> weiß auch von dem anderen Zustand, von dem Zustand, wo man die Welt ernst
+        <p>
+                        <persName ref="kbga-actors-313">Paulus</persName> weiß auch von dem anderen Zustand, von dem Zustand, wo man die Welt ernst
                nimmt mit ihren Schrecken, wo man seufzt: aber ich bin doch arm und krank, ich
                sündige ja alle Tage und
                <pb xml:id="p392" ed="pga"/>

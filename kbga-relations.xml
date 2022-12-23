@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2022-06-16 12:40:40</p>
+        <p>Datenbankexport vom 2022-12-23 11:07:18</p>
         <p>Es wurden die Datensätze aus der Tabelle relations exportiert.</p>
         <p>Beziehungen zwischen Begriffen werden innehalb der terms ausgedrückt.</p>
       </sourceDesc>
@@ -183,16 +183,26 @@
             <relation name="RT" xml:id="kbga-relations-220" mutual="kbga-actors-2200 kbga-actors-8959"/>
             <relation name="RT" xml:id="kbga-relations-225" mutual="kbga-actors-8288 kbga-actors-7774"/>
             <relation name="RT" xml:id="kbga-relations-226" mutual="kbga-actors-7774 kbga-actors-8288"/>
-            <relation name="RT" xml:id="kbga-relations-227" mutual="kbga-bibls-951 kbga-bibls-950"/>
-            <relation name="RT" xml:id="kbga-relations-228" mutual="kbga-bibls-950 kbga-bibls-951"/>
+            <relation name="AE" xml:id="kbga-relations-227" mutual="kbga-bibls-951 kbga-bibls-950"/>
+            <relation name="AE" xml:id="kbga-relations-228" mutual="kbga-bibls-950 kbga-bibls-951"/>
             <relation name="RT" xml:id="kbga-relations-229" mutual="kbga-actors-5483 kbga-actors-6403"/>
             <relation name="RT" xml:id="kbga-relations-230" mutual="kbga-actors-6403 kbga-actors-5483"/>
+            <relation name="AE" xml:id="kbga-relations-231" mutual="kbga-bibls-2837 kbga-bibls-1814"/>
+            <relation name="AE" xml:id="kbga-relations-232" mutual="kbga-bibls-1814 kbga-bibls-2837"/>
+            <relation name="AE" xml:id="kbga-relations-233" mutual="kbga-bibls-2963 kbga-bibls-2954"/>
+            <relation name="AE" xml:id="kbga-relations-234" mutual="kbga-bibls-2954 kbga-bibls-2963"/>
+            <relation name="AE" xml:id="kbga-relations-235" mutual="kbga-bibls-2964 kbga-bibls-2954"/>
+            <relation name="AE" xml:id="kbga-relations-236" mutual="kbga-bibls-2954 kbga-bibls-2964"/>
+            <relation name="AE" xml:id="kbga-relations-237" mutual="kbga-bibls-2987 kbga-bibls-2933"/>
+            <relation name="AE" xml:id="kbga-relations-238" mutual="kbga-bibls-2933 kbga-bibls-2987"/>
+            <relation name="AE" xml:id="kbga-relations-239" mutual="kbga-bibls-48 kbga-bibls-96"/>
+            <relation name="AE" xml:id="kbga-relations-240" mutual="kbga-bibls-96 kbga-bibls-48"/>
           </listRelation>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:40:40+02:00">teiHeader was automatically produced from the database 2022-06-16T12:40:40+02:00</change>
+      <change when="2022-12-23T11:07:18+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:18+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

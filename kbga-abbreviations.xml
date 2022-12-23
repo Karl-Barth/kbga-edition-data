@@ -20,24 +20,34 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2022-06-16 12:40:36</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2022-12-23 11:07:08</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <encodingDesc>
       <classDecl>
-        <taxonomy xml:id="kbga-abbreviations"/>
+        <taxonomy xml:id="kbga-abbreviations">
+          <category xml:id="kbga-abbreviations-396">
+            <!--, hrsg. von K. Barth u.a., Zürich 1,1938 - 142,1997-->
+            <catDesc>
+              <abbr>ThSt [B]</abbr>
+              <expan>Theologische Studien</expan>
+            </catDesc>
+          </category>
+        </taxonomy>
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:40:36+02:00">teiHeader was automatically produced from the database 2022-06-16T12:40:36+02:00</change>
+      <change when="2022-12-23T11:07:08+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:08+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <list type="gloss" xml:id="kbga-abbreviations">
         <head>Abkürzungen</head>
+        <label xml:id="kbga-abbreviations-396">ThSt [B]</label>
+        <item corresp="kbga-abbreviations-396">Theologische Studien</item>
       </list>
     </body>
   </text>

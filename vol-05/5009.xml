@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Römer 1,16 (V)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Römer 1,16 (V), 8. Februar 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5009 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5009 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 61–74.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1183" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Röm 1,16 (V), 8. Februar 1914. <idno ref="https://kba.karl-barth.ch/objects/1648">KBA 1183</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Röm 1,16 (V), 8. Februar 1914. <ref target="https://kba.karl-barth.ch/objects/1648">KBA 1183</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,12 +76,21 @@
       <div type="sermon">
         <pb xml:id="p061" ed="pga"/>
         <div type="opener">
-        <head><idno>205</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-02-08">8. Februar 1914</date></dateline>
+        <head>
+                        <idno>205</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-02-08">8. Februar 1914</date>
+                    </dateline>
           <epigraph>
-            <cit><ref type="can" subtype="bible" target="Röm.1.16">Römer 1,16</ref><span><idno>V</idno></span>
+            <cit>
+                            <ref type="can" subtype="bible" target="Röm.1.16">Römer 1,16</ref>
+                            <span>
+                                <idno>V</idno>
+                            </span>
             <quote>Ich schäme mich des Evangeliums nicht, denn es ist eine Kraft Gottes zum
-                        Heil Allen, die daran glauben.</quote></cit>
+                        Heil Allen, die daran glauben.</quote>
+                        </cit>
           </epigraph>
           <salute>Liebe Freunde!</salute>
         </div>
@@ -159,7 +128,8 @@
                Heil, selig zu machen Alle, die daran glauben. Wir können heute diesen Reichtum nicht
                ausschöpfen, nur in den großen Hauptlinien und andeutend klar machen, was uns
                angeboten ist, was uns geschenkt wird im Evangelium. —</p>
-        <p><hi rend="i">Seligkeit!</hi> Wir denken schon beim Klang des Wortes unwillkürlich an
+        <p>
+                        <hi rend="i">Seligkeit!</hi> Wir denken schon beim Klang des Wortes unwillkürlich an
                einen Zustand reinen vollkommenen Glückes. Seligkeit ist die Freude, die durch nichts
                mehr gestört, die durch nichts überboten werden kann. Wir alle tragen die Ahnung
                eines solchen Zustandes, die Sehnsucht danach in uns herum. Aus dem Unvollkommenen
@@ -327,7 +297,8 @@
                kann: führe mich nicht in Versuchung [<ref type="can" subtype="bible" target="Mt.6.13">Mt. 6,13</ref>], laß mich nicht umkommen darin; und siegreicher
                oder doch ehrenvoller wird er aus den neuen Kämpfen hervorgehen. So bewährt sich die
                Seligkeit in der Versuchung, sie wird größer durch sie.</p>
-        <p><hi rend="i">Die Not und die Sorge</hi> sind Feinde der Seligkeit. Menschen,
+        <p>
+                        <hi rend="i">Die Not und die Sorge</hi> sind Feinde der Seligkeit. Menschen,
                die Gott nicht kennen, müssen es schon diese zwei dunklen Wolken über ihrem Leben
                unmöglich machen, selig zu sein. Der Druck gegenwärtigen und zukünftigen Leides, der
                doch über uns allen liegt, in stärkerem oder schwächerem Maße, er ist doch
@@ -343,11 +314,14 @@
                hätte wie jeder Andere. <persName ref="kbga-actors-2281">Elias</persName> hat einmal in großer Bedrängnis gebetet: Es ist genug,
                Herr! so nimm nun meine Seele [<ref type="can" subtype="bible" target="1.Kön.19.4">1.Kön. 19,4</ref>]! 
                Und <persName ref="kbga-actors-443">Zwingli</persName> hat in ähnlicher Lage das Lied gedichtet, das mit
-          den Worten an<pb xml:id="p069" ed="pga" break="no"/>fängt: Herr, nun heb den Wagen selbst!<note xml:id="n01"><bibl corresp="kbga-bibls-1538"><author ref="kbga-actors-443">H. Zwingli</author>, <title level="a">Ein geistlich lied um hilf und
+          den Worten an<pb xml:id="p069" ed="pga" break="no"/>fängt: Herr, nun heb den Wagen selbst!<note xml:id="n01">
+                            <bibl corresp="kbga-bibls-1538">
+                                <author ref="kbga-actors-443">H. Zwingli</author>, <title level="a">Ein geistlich lied um hilf und
                            bystand in kriegsgefar</title> (<date when="1529">1529</date>), in: <title level="m">Huldreich Zwingli’s Werke</title>, hrsg. v. <editor>M. Schuler</editor>
                         und <editor>J. Schultheß</editor>, Bd. II Abt. 2,
                            <pubPlace>Zürich</pubPlace>
-                        <date when="1832">1832</date>, S. 275f.</bibl></note> Aber was unterscheidet das Kreuz des Gottesfreundes von dem, das der
+                        <date when="1832">1832</date>, S. 275f.</bibl>
+                        </note> Aber was unterscheidet das Kreuz des Gottesfreundes von dem, das der
                Gottesfremde tragen muß? Daß doch jener auch im Leid der Seligkeit nicht verlustig
                gehen kann. Er kann sich wohl dadurch beugen, nicht aber zerschmettern, vernichten
                lassen. Er wird ins Wanken gebracht, aber nicht aus der Bahn gebracht. Er hat in

@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 102,26-28</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 102,26-28, 6. September 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5042 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5042 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 456–468.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1215" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 102,26-28, 6. September 1914. <idno ref="https://kba.karl-barth.ch/objects/1677">KBA 1215</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 102,26-28, 6. September 1914. <ref target="https://kba.karl-barth.ch/objects/1677">KBA 1215</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,12 @@
       <div type="sermon">
         <pb xml:id="p456" ed="pga"/>
         <div type="opener">
-        <head><idno>237</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-09-06">6. September 1914</date></dateline>
+        <head>
+                        <idno>237</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-09-06">6. September 1914</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Ps.102.26 Ps.102.28">Psalm 102,26–28</ref>
@@ -172,7 +136,8 @@
                würden jetzt kleinlaut sein, auch wir würden jetzt in unserer Not Gott bestürmen,
                wenn wir zu ihnen, zu den Besiegten gehören würden.</p>
 
-        <p><pb xml:id="p458" ed="pga"/> Aber wir müssen tiefer gehen. Was sollen wir denn nun eigentlich zu dem allem sagen,
+        <p>
+                        <pb rend="noPipe" xml:id="p458" ed="pga"/> Aber wir müssen tiefer gehen. Was sollen wir denn nun eigentlich zu dem allem sagen,
                wir, die wir weder hüben noch drüben stehen, jetzt bei diesen ersten Siegen und
                Niederlagen und später, wenn einmal der Krieg zu Ende ist und die Einen mit Erfolg,
                die Anderen als Unterlegene aus dem ungeheuren Ringen herausgehen werden? Wollen wir
@@ -228,7 +193,8 @@
                rufen. Kein Zweifel, daß ein Volk mit einem solchen Gottesglauben kraftvoll und
                tapfer auf seinen Feind losgehen wird.</p>
 
-        <p><pb xml:id="p460" ed="pga"/> Wenn die alten Israeliten so dachten und beteten, so ist das nicht verwunderlich, sie
+        <p>
+                        <pb rend="noPipe" xml:id="p460" ed="pga"/> Wenn die alten Israeliten so dachten und beteten, so ist das nicht verwunderlich, sie
                wußten es nicht besser. Aber was sollen wir dazu sagen, wenn nun in unseren Tagen auf
                die scheinbar allerfrömmste Weise von allen Seiten dieser Kriegs- und Siegesgott des
                Alten Testaments, man könnte auch sagen: dieser alte Sturmgott <persName ref="kbga-actors-3952">Wotan</persName> der heidnischen
@@ -335,13 +301,15 @@
                Gott denen, die Recht haben. Ja, so sucht man sich dann zu entschuldigen. So hat
                selbst ein Mann, der dem Herzen Gottes so nahe stand wie <persName ref="kbga-actors-261">Luther</persName>, reden können. Er hat
                eine besondere Schrift geschrieben darüber, daß die Christen mit gutem Gewissen Krieg
-               führen dürften.<note xml:id="n02"><bibl corresp="kbga-bibls-1995"><author ref="kbga-actors-261">M. Luther</author>, «<title level="a">Ob Kriegsleute auch in seligem
-                           Stande sein können</title>» (<date when="1526">1526</date>), <title level="m"><abbr ref="kbga-abbreviations-301">WA</abbr></title> 19, 623–662</bibl>. Im <date from="1914-08" to="1914-09">August und September 1914</date> druckte <persName ref="kbga-actors-329">M. Rade</persName> diese Schrift
+               führen dürften.<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-1995">
+                                <author ref="kbga-actors-261">M. Luther</author>, «<title level="a">Ob Kriegsleute auch in seligem
+                           Stande sein können</title>» (<date when="1526">1526</date>), <title><abbr ref="kbga-abbreviations-301">WA</abbr></title> 19, 623–662</bibl>. Im <date from="1914-08" to="1914-09">August und September 1914</date> druckte <persName ref="kbga-actors-329">M. Rade</persName> diese Schrift
                   auszugsweise in Fortsetzungen in der «<title level="m">Christlichen Welt</title>» (Nr. 34–38) ab. Vgl. <persName ref="kbga-actors-2151">Barths</persName> kritische
                   Äußerung dazu in seinem Brief vom <date when="1914-08-29">29. August 1914</date> an <persName ref="kbga-actors-403">E. Thurneysen</persName>,
                   in: <bibl corresp="kbga-bibls-931">«<title level="m">K. Barth/E. Thurneysen, Briefwechsel</title>» Bd. I,
                            <date from="1913" to="1921">1913–1921</date>, <pubPlace>Zürich</pubPlace>
-                        <date when="1973">1973</date>, <ref target="../vol-03/3008.xml" type="pub">S. 7</ref></bibl>.</note> Ein Krieg sei nichts Anderes,
+                        <date when="1973">1973</date>, <ref target="3008" type="pub">S. 7</ref></bibl>.</note> Ein Krieg sei nichts Anderes,
                <pb xml:id="p464" ed="pga"/>
                 als wenn der Henker auf Befehl der Obrigkeit einen Spitzbuben vom Leben zum Tode
                bringt. Nur daß im Kriege auf Befehl der Obrigkeit gleich eine ganze Menge Spitzbuben

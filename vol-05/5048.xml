@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 119,142</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 119,142, 25. Oktober 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5048 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5048 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 532–543.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1221" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 119,142, 25. Oktober 1914. <idno ref="https://kba.karl-barth.ch/objects/1683">KBA 1221</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 119,142, 25. Oktober 1914. <ref target="https://kba.karl-barth.ch/objects/1683">KBA 1221</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,12 @@
       <div type="sermon">
         <pb xml:id="p532" ed="pga"/>
         <div type="opener">
-        <head><idno>243</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-10-25">25. Oktober 1914</date></dateline>
+        <head>
+                        <idno>243</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-10-25">25. Oktober 1914</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Ps.119.142">Psalm 119,142</ref>
@@ -130,7 +94,9 @@
         <p>Am Anfang des gegenwärtigen Krieges ist ein merkwürdiges Wort ausgesprochen worden.
                Es war am 4. August, in der Sitzung
                <pb xml:id="p533" ed="pga"/>
-                des <orgName ref="kbga-actors-8623">Deutschen Reichstages</orgName>, der <rs type="person" ref="kbga-actors-902">Reichskanzler</rs>,<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-902">Theobald von
+                des <orgName ref="kbga-actors-8623">Deutschen Reichstages</orgName>, der <rs type="person" ref="kbga-actors-902">Reichskanzler</rs>,<note xml:id="n01">
+                            <seg type="bio">
+                                <persName ref="kbga-actors-902">Theobald von
                   Bethmann Hollweg</persName> (<date from="1856" to="1921">1856–1921</date>), <date from="1909" to="1917">1909–1917</date> deutscher
                   Reichskanzler</seg>.</note> der oberste Beamte des Kaisers, setzte den Volksvertretern
                auseinander, wie Alles gekommen war. Dabei kam er auf <placeName ref="kbga-places-167">Belgien</placeName> zu reden. Die deutschen
@@ -196,7 +162,8 @@
                Beobachtungsposten, es tut uns leid um die wundervolle Kirche, aber wir müssen sie
                beschießen, Not kennt kein Gebot. Und mit demselben Notrecht rufen wie die Engländer
                die Franzosen ihre schwarzen und braunen Hilfstruppen nach <placeName ref="kbga-places-204">Europa</placeName>, wilde, grausame
-               Menschen, von denen es nur heißen kann: wehe, wenn sie losgelassen!<note xml:id="n02">Aus <bibl corresp="kbga-bibls-1267"><author ref="kbga-actors-764">Fr. von Schillers</author> «<title level="a">Lied von der Glocke</title>»</bibl>.</note> Helfe, was helfen mag, die Verhältnisse zwingen uns, nichts zu
+               Menschen, von denen es nur heißen kann: wehe, wenn sie losgelassen!<note xml:id="n02">Aus <bibl corresp="kbga-bibls-1267">
+                                <author ref="kbga-actors-764">Fr. von Schillers</author> «<title level="a">Lied von der Glocke</title>»</bibl>.</note> Helfe, was helfen mag, die Verhältnisse zwingen uns, nichts zu
                unterlassen, was nützlich sein kann. Not kennt kein Gebot. Und so weiter durch Alles
                hindurch auf allen Seiten. Überall heißt es als letzte Entschuldigung oder
                Begründung: wir müssen! wir müssen: hart, grausam, rücksichtslos, hinterlistig sein.
@@ -309,7 +276,7 @@
                Unwiderstehlich treibt sie uns ins Unrecht hinein, wir können nichts dagegen machen,
                wir können es nur unter Achselzucken geschehen lassen. Wir bedauern, aber wir können
                nicht anders!, so müssen wir reden wie die Deutschen, als ihre Kanonen schon vor
-               <placeName ref="kbga-places-976">Lüttich</placeName> donnerten.<note xml:id="n03">Vgl. Anm. 2 zur Predigt 239 vom <date when="1914-09-20">20. September 1914</date>, <ref target="5044.xml#fn_n02" type="pub">S. 484</ref>.
+               <placeName ref="kbga-places-976">Lüttich</placeName> donnerten.<note xml:id="n03">Vgl. Anm. 2 zur Predigt 239 vom <date when="1914-09-20">20. September 1914</date>, <ref target="5044#fn_n02" type="pub">S. 484</ref>.
                </note>
             </p>
         <p>Wir müssen. Ja, aber was ist denn eigentlich die <hi rend="i">Not</hi>, die uns
@@ -379,7 +346,8 @@
                die Not nicht. Dann könnte die Not kein Unrecht erzeugen. Dann gäbe es weder Krieg
                noch Lüge noch Diebstahl noch Feigheit. </p>
        
-        <p><pb xml:id="p542" ed="pga"/> Die Not, die das Unrecht erzeugt, ist unsere Gerechtigkeit, die nicht
+        <p>
+                        <pb rend="noPipe" xml:id="p542" ed="pga"/> Die Not, die das Unrecht erzeugt, ist unsere Gerechtigkeit, die nicht
                Gottesgerechtigkeit, die keine ewige Gerechtigkeit ist. Unsere Gerechtigkeit ist der
                gute Wille in uns. Er ist wohl da in uns. Er ist da in jedem Menschen. Kein Mensch
                will eigentlich das Unrecht, den Krieg, die Lüge. Jeder Mensch will eigentlich im

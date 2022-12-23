@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53032">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 30</title>
+        <title type="content">Predigt: Jakobus 1,5</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,5, 23. Januar 1910</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53032 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53032</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">32</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Jak 1,5, 23. Januar 1910. <ref target="https://kba.karl-barth.ch/objects/1473">KBA 1008</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1910-01-23">23. Januar 1910</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p309" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                    <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>30</idno>
+                </head>
+                
+                    <dateline>Sonntag, den <date when="1910-01-23">23. Januar 1910</date>,
+                                <placeName ref="kbga-places-67">
+                            <hi rend="i">Genf</hi></placeName> <date rend="right">(Sonntag Septuagesimae)</date> 
+                    </dateline>
+                    <epigraph>
+                      
+                       <cit> <ref type="can" subtype="bible" target="Jak.1.5"> Jakobus 1,5<note type="textcritical" n="a" xml:id="na"> Im Mskr. ist ursprünglich Vers 5–7 angegeben; dies
+                                wurde durch gründliches Radieren in Vers 5 korrigiert. Die
+                                bereits mitübersetzten Verse 6f. wurden im Mskr.
+                                überklebt.</note>
+                            </ref>
+                       
+                            <quote>
+                                <hi rend="italic" resp="kb">Wenn aber einer von euch an
+                                    Weisheit zurück ist, der bitte von Gott, welcher Allen gibt,
+                                    ohne Weiteres<note xml:id="n01">Zur Übersetzung
+                                        s. unten, <ref type="pub" target="#fn_n18">Anm. 18</ref>.</note> und rückt nichts vor, und es
+                                    wird ihm gegeben werden.</hi>
+                            </quote>
+                       </cit>
+                    </epigraph>
+               
+                <salute>Meine Freunde!</salute>
+                </div>
+                <div type="main">
+                <p>Wir haben uns in den beiden letzten Predigten mit den kurzen, fast trockenen
+                    Worten beschäftigt, in denen <persName ref="kbga-actors-8959">Jakobus</persName> die Grundzüge des Lebens des Christen in der <term type="Sachen" key="Christen, Leben in der Welt">Welt</term>
+                        darstellt.<note xml:id="n02">Predigten zu <ref type="can" subtype="bible" target="Jak.1.1 Jak.1.2 ">Jak. 1,1f.</ref> und <ref type="can" subtype="bible" target="Jak.1.2 Jak.1.4">Jak. 1,2–4</ref>; s.
+                        oben, <ref type="pub" target="../volume/53/p280#p280">S. 280-293</ref> und <ref type="pub" target="../volume/53/p294#p294">S. 294-308</ref>
+                        </note> Euer inneres <term type="Sachen" key="Leben, inneres">Leben</term> wird da bedroht werden durch <term type="Sachen" key="Versuchung">Versuchungen</term>, sagt er seinen
+                    Lesern, aber ihr sollt das nicht als ein Unglück ansehen, sondern als eine
+                        <term type="Sachen" key="Freude">Freude</term>, weil der Kampf dagegen
+                    der Weg zu <term type="Sachen" key="Versuchung, Weg zu Gott">Gott</term>
+                    ist. Denn wenn sich in diesem Kampf euer inneres Leben bewährt und
+                    behauptet, dann kommt <term type="Sachen" key="Standhaftigkeit">Stetigkeit</term> und Beharrlichkeit in dies euer inneres Leben, die
+                    hilft euch weiterwandern dem Ziele entgegen. Das <pb ed="-A" n="2"/> Ziel heißt aber: vollkommene und ganze Menschen werden, Menschen der
+                    Freiheit und des Sieges. So haben wir’s gehört, und so steht’s
+                    da in kräftigen, fast hätte ich gesagt: kalten Zügen. Es weht uns etwas an
+                    wie scharfe Bergluft aus den kurzen Sätzen am Anfang dieses Briefs. Weil es
+                    ganze, konsequente Sätze sind, bei denen es nicht viel zu grübeln gibt,
+                    sondern die uns ohne Umschweife vor das Entweder-Oder stellen, das das Wesen
+                    der christlichen <term type="Sachen" key="Entscheidung, Wesen der christlichen Religion">Religion</term>
+                    ausmacht, weil sie nicht eine beliebige Religion der Gedanken und Gefühle
+                    ist, sondern die Religion der <term type="Sachen" key="Christentum, Religion der Sittlichkeit">Sittlichkeit</term>. Du
+                    sollst! rufen diese Sätze, klipp und klar und ohne Nebentöne, und das macht,
+                    dass Bergluft daraus weht. Bergluft ist freilich nicht für jedermann. Und so
+                    kann ich mir’s wohl denken, dass <pb xml:id="p310" ed="pga"/> diese Sätze
+                    vielleicht auch nicht jedermann Freude machen. Wenn sie nicht im Neuen <term type="Sachen" key="Neues Testament">Testament</term> stünden, hätte
+                    vielleicht auch der eine oder andre von uns Lust, sich davor zu behüten und
+                    zu sagen: das sei eine reine <term type="Sachen" key="Moralpredigt">Moralpredigt</term>, und auf diese Weise komme die <term type="Sachen" key="Religion">Religion</term> zu kurz. Ihr habt gewiss auch schon davon
+                    gehört, dass viele Leute die Pfarrer einteilen in solche, die Moral
+                    predigen, und in solche, die Christum predigen. Je nachdem gibt man dann den
+                    einen und den andern die bekannten Parteinamen. <persName ref="kbga-actors-8959">Jakobus</persName> müsste nach dieser Unterscheidung zu denen
+                    gehören, die Moral predigen, denn der Name Jesu kommt in seinem Brief nur
+                    zwei Mal vor, wie ich euch auch schon gesagt habe.<note xml:id="n03">Siehe oben, <ref type="pub" target="../volume/53/p281#p281">S. 281</ref>.</note> Aber es ist doch eine oberflächliche
+                    Sache um diese Unterscheidung. Denn wer so ernsthaft von der <term type="Sachen" key="Moral">Moral</term> redet, d. h. von der Frage, wie
+                    das zugeht, dass einer ein guter Mensch werde, wenn einer das so ernst und
+                    folgerichtig tut wie Jakobus, der redet im Grunde vom Herrn Jesus, auch wenn
+                    sein Name dabei kein einziges Mal vorkäme. Und umgekehrt: wer ernsthaft
+                    Christum predigt, <pb ed="-A" n="3"/> wer nicht nur ein frommes Spiel
+                    treibt mit den bekannten großen Gedanken der <term type="Sachen" key="Apostel">Apostel</term> über ihn, sondern sich eindringlichst die
+                    Frage stellt: wer war Jesus, und was hat er für uns zu bedeuten?, der redet
+                    im Grunde von der Frage: wie werden wir gute Menschen? <term type="Sachen" key="Religion, und Moral">Religion</term> und Moral sind eben im
+                    Christentum nicht mehr zweierlei, Gott <term type="Sachen" key="Gott, haben">haben</term> heißt ein guter Mensch werden, und ein guter Mensch werden
+                    heißt Gott haben. Und weil beides eins ist, darum muss in allem Reden vom
+                    Christentum die Bergluft wehen, die uns durch Mark und Bein geht, weil es
+                    sich darum handelt, dass wir andre, neue <term type="Sachen" key="Mensch, neuer">Menschen</term> werden. Und wenn sie uns vielleicht
+                    etwas unfreundlich angeweht hat aus den ersten Sätzen des Jakobus, so wollen
+                    wir uns dadurch nicht abschrecken lassen, sondern es soll uns ein Zeichen
+                    sein, dass dieser Mann uns etwas zu sagen hat von echtem, wirklichem <term type="Sachen" key="Christentum, echtes">Christentum</term>. Wenn man
+                    seine Worte eine Moralpredigt nennen will, so ist’s jedenfalls eine
+                    Moralpredigt im Lichte der Ewigkeit, nicht eine, die sich zersplittert über
+                    allerlei Fragen nach dem, was wohlanständig und nützlich ist, sondern eine
+                    Moralpredigt im großen Stil, die nur in einer Forderung besteht: Mensch,
+                    werde wesentlich!<note xml:id="n04">Vgl. das <bibl corresp="kbga-bibls-2630">Sinngedicht «Zufall
+                        und Wesen» von <author ref="kbga-actors-864">Angelus Silesius</author> (=
+                        Johannes Scheffler [1624–1677]) aus dessen Sammlung
+                        «Cherubinischer Wandersmann» (1657/75; in: <hi rend="i">Das Zeitalter des
+                            Barock. Texte und Zeugnisse</hi>, Studienausgabe, hrsg. von
+                        A. Schöne, München 1988, S. 282)</bibl>: 
+                        <q rend="block">
+                            <lg>
+                        <l>Mensch, werde wesentlich: denn wann die Welt vergeht,</l>
+                        <l>So fällt der Zufall weg, das Wesen, das besteht.</l>
+                                </lg>
+                            </q>
+                        </note> 
+                    Und diese Forderung ist keine andre als die For<pb xml:id="p311" ed="pga"/>derung: Mensch, werde ein <term type="Sachen" key="Mensch, Gottesmensch">Gottesmensch</term>!, wie Jesus sie
+                    aufgestellt hat. Gott in seinem ganzen <term type="Sachen" key="Gott, Ernst">Ernst</term> steht hinter dieser <term type="Sachen" key="Moralpredigt">Moralpredigt</term> und hinter dieser Forderung. Aber nicht nur in
+                    seinem ganzen Ernst. Auch in seiner ganzen <term type="Sachen" key="Gott, Freundlichkeit">Freundlichkeit</term>.</p>
+                <p rend="margin-top">Und wenn das nicht wäre, dass Gott uns seine Freundlichkeit
+                    erleben lässt, so wäre es eine sinnlose Grausamkeit, einen Menschen zum
+                    Gehorsam gegen das <term type="Sachen" key="Gesetz, göttliches">Gottesgesetz</term> aufzufordern. Um uns das klar zu machen, brauchen
+                    wir nur noch einmal an <pb ed="-A" n="4"/> die zwei Marksteine zu
+                    denken, von denen wir am Anfang der letzten Predigt sprachen. Der Gehorsam
+                    gegen das sittliche <term type="Sachen" key="Gesetz, sittliches">Gesetz</term> bringt dich in einen Kampf mit dir selbst, der dich
+                    unglücklich macht, das war der eine Markstein. Aber der Gehorsam gegen das
+                    sittliche Gesetz <hi rend="i">allein</hi> schafft freies, persönliches <term type="Sachen" key="Leben, persönliches">Leben</term> in dir, das war der
+                        andre.<note xml:id="n05">Siehe oben, <ref type="pub" target="../volume/53/p294#p294">S. 294-297</ref>.</note> Die Bewährung in den gleichgiltigen
+                        <term type="Sachen" key="Entscheidung">Entscheidungen</term> des
+                    Alltags, das sind die Schritte, die vom einen zum andern führen, und es
+                    gilt, den Weg zu gehen ohne Zaudern, weil das Ziel immer noch
+                        <hi rend="i">vor</hi> uns liegt. Das wäre nun recht und gut, und es mag uns
+                    einleuchten, dass das in der Tat der Weg ist <hi rend="i">und</hi> die Art, ihn
+                    zu gehen. Aber wir haben uns an das Selbstbekenntnis des <persName ref="kbga-actors-313">Paulus</persName> Römer 7 erinnert, und da
+                    steckt nun eine Frage darin, auf die wir trotz Allem noch keine Antwort
+                    haben: die große Menschheitsfrage: Wollen habe ich wohl, aber Vollbringen
+                    des Guten nicht [<ref type="can" subtype="bible" target="Röm.7.18">Röm. 7,18</ref>]. |</p>
+                <p>Wenn ein Mann wie Paulus auf der reifen Höhe seines großen und reichen Lebens
+                    so etwas von sich sagt, um wieviel mehr wir. Denn wenn wir nicht den Mut und
+                    die <term type="Sachen" key="Wahrhaftigkeit">Wahrhaftigkeit</term> und die
+                    Folgerichtigkeit besitzen, mit der er sich selbst beurteilte, so ist das
+                    noch kein Beweis dagegen, dass es mit uns gerade so steht. Im Gegenteil: Der
+                    Anfang zum Vollbringen des <term type="Sachen" key="Gutes / das Gute">Guten</term> besteht darin, dass wir merken, dass es uns an Kraft zum
+                    Vollbringen <hi rend="i">fehlt</hi>, gerade wie <persName ref="kbga-actors-777">Sokrates</persName> gesagt hat, der Anfang des Wissens
+                    bestehe darin, zu wissen, dass wir nichts <pb xml:id="p312" ed="pga"/>
+                        wissen.<note xml:id="n06">
+                        <bibl corresp="kbga-bibls-2558">
+                                <author ref="kbga-actors-322">Platon</author>, <hi rend="i">Apologie</hi>,
+                        21d</bibl>; s. oben, <ref type="pub" target="../volume/53/p199#fn_n06">S. 199, Anm. 6</ref>.</note> Solange es uns nicht klar ist, dass es eine
+                    harte und verzweiflungsvolle Sache ist, jenen Weg zu gehen, solange ist uns
+                    das Ziel noch nicht deutlich in seiner niederdrückenden Erhabenheit. Und
+                    wenn <persName ref="kbga-actors-2676">Schopenhauer</persName> in
+                    einem scharf zugespitzten Wort gesagt hat, <term type="Sachen" key="Optimismus, Ruchlosigkeit">Optimismus</term> sei nicht nur ein
+                    Irrtum, sondern eine Ruchlosigkeit,<note xml:id="n07">Vgl. 
+                            <bibl corresp="kbga-bibls-2631">
+                                <author ref="kbga-actors-2676">A. Schopenhauer</author>, <hi rend="i">Die Welt als Wille und Vorstellung</hi>,
+                        Erster Band: <hi rend="i">Vier Bücher nebst einem Anhange, der die Kritik der
+                            Kantischen Philosophie enthält</hi> (1819; 1859<hi rend="sup">3</hi>; ders., Werke in 5 Bänden, hrsg. von L. Lütkehaus, Bd. 1,
+                        Frankfurt/Main 2006, S. 424 (4. Buch, § 59)</bibl>: «Uebrigens kann ich hier
+                        die Erklärung nicht zurückhalten, daß mir der <hi rend="i">Optimismus</hi>
+                        […] nicht bloß als eine absurde, sondern auch als eine wahrhaft
+                            <hi rend="i">ruchlose</hi> Denkungsart erscheint, als ein bitterer Hohn
+                        über die namenlosen Leiden der Menschheit.»</note> so ist daran
+                    jedenfalls richtig, dass eine optimistische Beurteilung des eigenen Könnens
+                    von vornherein der Ruin <pb ed="-A" n="5"/> eines wahrhaft
+                    sittlichen <term type="Sachen" key="Sittlichkeit">Wollens</term> und
+                    Vollbringens ist. Denn wenn uns unser Können nicht eine Frage ist, sondern
+                    eine Selbstverständlichkeit, dann verdient unser Wollen den Namen sittlich
+                    und gut noch nicht, weil sittliches, gutes Wollen gerade auf das gerichtet
+                    sein muss, was <hi rend="i">über</hi> unser Können geht. Es ist eine schöne und
+                    erfreuliche Sache, wenn wir’s in der Bewährung des <term type="Sachen" key="Glaube, Bewährung">Glaubens</term> an irgend einem
+                    bestimmten Punkt zur <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term>, also zum Können, zum Vollbringen des Guten
+                    gebracht haben, aber wenn wir’s nicht sofort darauf absehen, es durch
+                    die Standhaftigkeit zur <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> zu bringen, so heißt das, dass wir auf der
+                    Wanderung faul geworden sind. Die erworbene Standhaftigkeit gegen die <term type="Sachen" key="Versuchung">Versuchungen</term>, das erkämpfte Können
+                    kann und darf uns in keinem Augenblick genug sein, wenn wir lebendige
+                    Menschen <anchor type="note" xml:id="fn-b"/>werden wollen<note type="textcritical" n="b" xml:id="nb" target="fn-b"> Im Mskr. ursprünglich vertauscht und nachträglich mit Bleistift
+                            korrigiert.</note>. Gerade diese Erkenntnis des Ungenügens unsres Wesens, gerade sie
+                    bringt das Leben in unser Dasein. Aber mit dem Leben jene innere Unruhe, die
+                    in manchen Momenten bis zur Verzweiflung an uns selbst gehen kann. Wenn wir
+                    nämlich auf die Schranken in unserm Wesen stoßen, auf unsre natürlichen
+                    Triebe und Neigungen, die uns vom Lande der Freiheit trennen, auf die
+                    Gesetze der stumpfen <term type="Sachen" key="Welt, stumpfe">Welt</term>,<note xml:id="n08">Anspielung auf den <bibl corresp="kbga-bibls-1871">Beginn der
+                        siebten Strophe des Gedichts «Epilog zu Schillers Glocke» von 
+                    <author ref="kbga-actors-136">J. W. von Goethe</author></bibl>(s. oben, <ref type="pub" target="../volume/53/p293#fn_n15">S. 293, Anm. 15</ref>).</note> die wir auch in uns spüren, als hätten
+                    wir sie bei der Geburt mit auf die Welt bekommen. |</p>
+                
+                <p> <pb rend="noPipe" xml:id="p313" ed="pga"/> Und wenn darum <persName ref="kbga-actors-8959">Jakobus</persName> in unserm
+                    heutigen Textwort den Fall setzt, dass <hi rend="i">einer von euch an Weisheit
+                        zurück ist</hi>, so redet er keineswegs etwa von einem merkwürdigen
+                    Ausnahmefall des innern <term type="Sachen" key="Leben, inneres">Lebens</term>, für den er den Rat gibt zu beten, wie ein Doktor für
+                    diese oder jene Krankheit ein Rezept gibt. Der Fall, den er setzt, ist
+                    vielmehr gerade der Fall jedes ernsten, lebendigen Menschen, der durch die
+                    Bewährung des Glaubens zur Vollkommenheit wandern möchte. Ihr müsst nämlich
+                    das Wort <term type="Sachen" key="Weisheit">«Weisheit»</term> recht
+                    verstehen. Wir denken dabei unwillkürlich an so <pb ed="-A" n="6"/>
+                    etwas wie Wissenschaft oder Gelehrsamkeit. Aber es gibt leider viele
+                    Gelehrte und Männer der Wissenschaft, die noch lange keine <term type="Sachen" key="Weisheit, und Gelehrsamkeit">Weisen</term> sind. Im
+                        <term type="Sachen" key="Altertum">Altertum</term> verstand man etwas
+                    viel Wichtigeres darunter als das intellektuelle Wissen: <term type="Sachen" key="Weisheit, Lebenstüchtigkeit">Lebenstüchtigkeit</term>, das hieß
+                    Weisheit. Bei den Juden stand sie so hoch im Ansehen, dass man davon redete
+                    wie von einem besondern persönlichen Mittelwesen zwischen Gott und Mensch.
+                    Ein Weiser sein, hieß weise, nach Gottes Gesetz <term type="Sachen" key="Weisheit, Leben nach Gottes Gesetz">leben</term>.<note xml:id="n09">Vgl. etwa <ref type="can" subtype="bible" target="Ps.1.1 Ps.1.3">Ps. 1,1–3</ref>; <ref type="can" subtype="bible" target="Spr.16.20 Spr.16.23">Spr. 16,20–23</ref>; ausführlich: <ref type="can" subtype="bible" target="Spr.1 Spr.9">Spr. 1–9</ref>; <ref type="can" subtype="bible" target="Hiob 28">Hiob 28</ref>. Siehe auch <bibl corresp="kbga-bibls-2632">
+                                <author ref="kbga-actors-9240">M. Saur</author>, <hi rend="i">Einführung in
+                            die alttestamentliche Weisheitsliteratur</hi>, Darmstadt
+                        2012</bibl>.</note> Und bei den Griechen hieß der ein Philosoph, d. h. ein
+                    Liebhaber der Weisheit, der auf der Suche war nach der <term type="Sachen" key="Weisheit, Suche nach der Kunst zu leben">Kunst</term> zu
+                        leben.<note xml:id="n10">Insbesondere die philosophischen
+                        Schulen des <term type="Sachen" key="Epikureismus">Epikureismus</term>
+                        und <term type="Sachen" key="Stoizismus">Stoizismus</term> wiesen «ein
+                        durch Selbstsorge und Lebenskunst gekennzeichnetes
+                        Philosophieverständnis» auf, «in dem die Philosophie als Weisheit im
+                        Sinne einer umfassenden theoretischen und vor allem praktischen
+                        Daseinsorientierung und in diesem Sinn als Lebensform verstanden wird»
+                        (<bibl corresp="kbga-bibls-2633">
+                                <author ref="kbga-actors-9241">A. Speer</author>, Art.
+                        «Weisheit», in: HWP 12, Sp. 371–397, dort Sp. 373</bibl>).</note>
+                    Lebenstüchtigkeit, Einsicht und Fähigkeit, recht zu leben, das ist’s,
+                    wovon <persName ref="kbga-actors-8959">Jakobus</persName> redet. Und er meint
+                    also, ein ernsthafter Mensch komme früher oder später, nicht nur einmal,
+                    sondern öfters, je ernster er’s nehme, desto mehr auf den Punkt, wo
+                    er sich sagen müsse, dass er an <term type="Sachen" key="Weisheit">Weisheit</term>, d. h. an Lebenstüchtigkeit, an Kraft und Mut, es durch
+                    die <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term> zur
+                        <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> zu
+                    bringen, dass er in diesem einen, was nottut [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], nicht auf der Höhe,
+                    sondern zurück sei. Dass er zurück sei in dem, was er <hi rend="i">sei</hi>,
+                    gegenüber dem, was er sein <hi rend="i">sollte</hi>. Jakobus war keine so
+                    lebhafte, durchgreifende und klare Natur wie <persName ref="kbga-actors-313">Paulus</persName>. Wir finden bei ihm keinen solchen aus
+                    tiefster Seele aufsteigenden Seufzer wie den: ich unglücklicher Mensch! wer
+                    wird mich <pb xml:id="p314" ed="pga"/> erlösen von diesem Leibe des Todes! [<ref type="can" subtype="bible" target="Röm.7.24">Röm. 7,24</ref>] Aber offenbar hat
+                    er uns hier mit seinem schlichteren, weniger tiefen Gedanken doch auf
+                    denselben Punkt geführt wie dort Paulus, auf den Punkt nämlich, wo es heißt:
+                    Wollen habe ich wohl, aber Vollbringen des <term type="Sachen" key="Gutes / das Gute">Guten</term> nicht.</p>
+                <p>Wer seine Bibel kennt, weiß, wie Paulus an diesem merkwürdigen und für das
+                    innere Leben so unendlich wichtigen Punkte fortfährt, nachdem er jenen
+                    Seufzer nach <term type="Sachen" key="Erlösung">Er<pb ed="-A" n="7"/>lösung</term> ausgestoßen. Kurz und
+                    unvermittelt folgt der Satz: Dank sei Gott durch Jesum Christum, unsern
+                    Herrn [<ref type="can" subtype="bible" target="Röm.7.25">Röm. 7,25</ref>]. In
+                    plötzlich ausbrechender Freude sieht er die Brücke geschlagen von der Not
+                    des Kampfes zur Freude des Sieges. Jakobus führt uns bedächtiger, aber er
+                    führt uns an dasselbe Ziel. Er heißt den Menschen, der nach der <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> des
+                    persönlichen <term type="Sachen" key="Leben, persönliches">Lebens</term>
+                    wandert, <term type="Sachen" key="Beten">
+                            <hi rend="i">beten</hi></term>&gt;. Und in
+                    den Sinn dieser Aufforderung müssen wir uns nun vertiefen.</p>
+                <p rend="margin-top">Wenn einer von euch an <term type="Sachen" key="Weisheit">Weisheit</term> zurück ist, <hi rend="i">der bitte von Gott, welcher Allen
+                        gibt, ohne Weiteres, und rückt nichts vor</hi>. Wenn wir verstehen
+                    wollen, was das heißen will, aus tiefer <term type="Sachen" key="Not">Not</term>, aus der tiefsten, die es gibt, der Not des innern Lebens,
+                    das um seine Existenz kämpft, zu Gott rufen, zu beten, dann brauchen wir uns
+                    nur, wie wir’s eben getan haben, die Erfahrung des <persName ref="kbga-actors-313">Paulus</persName> zu vergegenwärtigen, wie er
+                    sie Römer 7 schildert. Ich wiederhole es: Paulus und <persName ref="kbga-actors-8959">Jakobus</persName> sind grundverschiedene Menschen gewesen,
+                    aber weil es für uns hier weniger auf die Menschen ankommt als auf die große
+                    Sache, von der sie in so verschiedener Weise geredet haben, dürfen wir uns
+                    unbedenklich den Jakobus durch Paulus interpretieren lassen: Jakobus
+                    antwortet auf die Frage, was einer tun soll, wenn er merkt, dass die Kraft
+                    seines innern <term type="Sachen" key="Leben, inneres">Lebens</term> nicht
+                    genüge, mit dem inhaltschweren Wort: der bitte von Gott! Paulus gibt sich
+                    selbst und seinen Lesern keinen solchen Rat. Zusammenhangslos scheinbar und
+                    plötzlich kommt es heraus: Dank sei Gott durch Jesum Christum, unsern Herrn.
+                    Und doch ist’s bei näherem Zusehen dieselbe Antwort auf dieselbe
+                    Frage. Und wenn wir den Rat des Jakobus für unser Leben fruchtbar machen
+                    wollen, dann müssen wir zusehen, wie Paulus diesen Rat, den ja Jakobus nicht
+                    selbst erdacht hat, befolgt hat.</p>
+                <p>Offenbar so: ihm war Gott ein harter, schrecklicher Gott geworden in dem
+                    Augenblick, wo er dessen gewahr wurde, wie fern<pb ed="-A" n="8"/>er dem <pb xml:id="p315" ed="pga"/> Gehorsam gegen sein gutes und heiliges <term type="Sachen" key="Gesetz, göttliches">Gesetz</term> sei, wie unendlich
+                    fern der Vollkommenheit. Das hat ihn niedergedrückt und lässt ihn seufzen:
+                    ich unglücklicher Mensch. Aber nun erinnert er sich einer Tatsache, die sagt
+                    ihm, dass Gott noch etwas Anderes ist als ein harter, endlos fordernder
+                        <term type="Sachen" key="Gott, fordernder Gesetzgeber">Gesetzgeber</term>. Sie sagt ihm, dass er nicht nur gehorchen muss,
+                    sondern dass er vertrauen darf, weil Gott nicht nur <term type="Sachen" key="Gott, Gerechtigkeit">Gerechtigkeit</term> ist, sondern <term type="Sachen" key="Gott, Liebe">Liebe</term>. Die Tatsache, an die er
+                    sich erinnert, ist die Tatsache, dass einmal ein so merkwürdiger Mensch
+                    gelebt hat wie Jesus Christus. In ihm waren unauflöslich verbunden der große
+                        <term type="Sachen" key="Jesus Christus, Ernst">Ernst</term>, der nichts
+                    sucht als Gottes <term type="Sachen" key="Gott, Ehre">Ehre</term>, und die
+                    große <term type="Sachen" key="Jesus Christus, Freundlichkeit">Freundlichkeit</term>, die nichts will, als dass allen Menschen
+                    geholfen werde [vgl. <ref type="can" subtype="bible" target="1.Tim.2.4">1.Tim. 2,4</ref>]. Wenn seine Freunde und Paulus mit ihnen an ihn dachten,
+                    dann sagten sie zueinander: gerade so und nicht anders ist Gott, so ernst
+                    und so freundlich. Diese Erinnerung wurde ihnen mehr als eine Erinnerung,
+                    sie wurde ihre <term type="Sachen" key="Gewissheit, des Glaubens">Glaubensgewissheit</term>, die nie versiegende Quelle ihres innern
+                    Lebens. Und so verwandelt sich der Schrecken und die Traurigkeit des
+                    sittlichen Gehorsamskampfes dem <persName ref="kbga-actors-313">Paulus</persName> in Sieg und Befreiung, weil er’s erleben durfte
+                    und immer wieder erlebte, dass Gott schenkt wie er fordert. Und das war
+                    seine Erlösung, wenn er in den Augenblicken höchster Not dessen gewahr
+                    wurde, dass er in all seiner Schwachheit geborgen sei in der starken Hand
+                    des freundlichen <term type="Sachen" key="Gott, Freundlichkeit">Gottes</term>.</p>
+                <p> Und nun ist <term type="Sachen" key="Beten">Beten</term> nichts Anderes im
+                    tiefsten Grunde als dies einfache, immer erneute Gewahrwerden der Quelle
+                    unsres innern Lebens, dies Gewahrwerden der schenkenden Liebe <term type="Sachen" key="Gott, Liebe">Gottes</term>, der verborgene Rekurs auf
+                    den Schöpfer alles <term type="Sachen" key="Gott, Schöpfer">Lebens</term>.
+                    Wie der Riese der griechischen Sage immer neue Kraft gewann, sooft er die
+                    Mutter Erde berührte,<note xml:id="n11">Gemeint ist der Titan
+                        Antaios, in der griechischen Mythologie der Sohn der Gaia (und des
+                        Poseidon), dem die Berührung mit seiner Mutter, der Erde, immer neue
+                        Kraft verlieh. In den Kämpfen, zu denen er alle aufforderte, die in sein
+                        Land kamen, konnte er deshalb nicht besiegt werden. Vgl. <bibl corresp="kbga-bibls-2634">
+                                <author ref="kbga-actors-9242">I. Becher</author>, Art. «Antaios»,
+                        in: <hi rend="i">Lexikon der Antike</hi>, hrsg. von J. Irmscher in
+                        Zusammenarbeit mit R. Johne, Leipzig 1990<hi rend="sup">10</hi>,
+                        S. 39</bibl>.</note> so geht’s den inwendig lebendigen Menschen, sooft
+                    er die Quelle berührt, der die Kraft und der Inhalt seines Lebens entflossen
+                    ist.</p>
+               
+                <p> <pb rend="noPipe" xml:id="p316" ed="pga"/> <pb ed="-A" n="9"/> Wenn du an <term type="Sachen" key="Weisheit">Weisheit</term> zurück bist, dann bitte von Gott! Wenn du merkst, wie
+                    fern du der Vollkommenheit bist, weil dein Können nicht ausreicht, dann
+                    befiehl dem Herrn deine Wege [vgl. <ref type="can" subtype="bible" target="Ps.37.5">Ps. 37,5</ref>]. Er hat das große Wollen in dein Herz
+                    gepflanzt, die Sehnsucht nach dem Großen, Ganzen, Vollkommenen, die der
+                    bewegende Nerv deines innern Lebens geworden ist. Danke ihm für diese
+                    Sehnsucht, sie hebt dich heraus aus der grauen Reihe der Gleichgiltigen, der
+                    viel zu Vielen,<note xml:id="n12">Vgl.<bibl corresp="kbga-bibls-326"> <author ref="kbga-actors-301">Fr. Nietzsche</author>, <hi rend="i">Also sprach
+                            Zarathustra. Ein Buch für Alle und Keinen</hi>, Sämtliche Werke.
+                        Kritische Studienausgabe in 15 Bänden, hrsg. von G. Colli / M.
+                        Montinari, Bd. 4, München / Berlin 1999, S. 226f.</bibl>: «Ach! Immer sind
+                        ihrer nur wenige, deren Herz einen langen Mut und Übermut hat; und
+                        solchen bleibt auch der Geist geduldsam. Der Rest aber ist
+                            <hi rend="i">feige</hi>. Der Rest: das sind immer die Allermeisten, der
+                        Alltag, der Überfluß, die Viel-zu-Vielen – diese alle sind
+                        feige!» Vgl. auch <bibl corresp="kbga-bibls-326">a.a.O., S. 55.62.91</bibl>.</note> sie macht dich zum
+                    lebendigen Menschen. Danke Gott dafür, freue dich darüber, auch wenn diese
+                    Sehnsucht dir jene schmerzlichen Stunden des Ungenügens schafft. Dieser Dank
+                    ist ja nichts Anderes als die tiefe, letzte Erkenntnis, dass er die Macht
+                    ist über Alles, größer auch als dein Herz, das dich anklagt [vgl. 
+                        <ref type="can" subtype="bible" target="1.Joh.3.20">1.Joh. 3,20</ref>]. Und zu dieser
+                    tiefen, letzten Erkenntnis weiß ich dir auch keinen bessern Weg als den, den
+                    Paulus eingeschlagen. Besinne dich auf das merkwürdige Leben, das aus den
+                    Worten und Taten des Herrn Jesus hervorleuchtet. Das ist eine Tatsache, die
+                    offen vor Aller Augen liegt, die sehen wollen, eine Tatsache, die nicht
+                    erfunden werden kann und die nichts [zu] tun hat mit den <term type="Sachen" key="Dogmen">Dogmen</term>, in die man sie nachher eingekleidet hat,
+                    eine Tatsache, die nicht einmal gewesen ist und dann vorbeiging, sondern die
+                    gegenwärtig, unmittelbar wirkt, wo sie hinkommt. Und das ist ihre Wirkung,
+                    dass sie den suchenden, kämpfenden Menschen Gottes <term type="Sachen" key="Gott, Freundlichkeit">Freundlichkeit</term> erleben lässt. Wo Jesus
+                    einem solchen Menschen deutlich und lebendig wird, da hört er Gottes Stimme:
+                    Kommet her zu mir Alle, die ihr mühselig und beladen seid, ich will euch
+                    erquicken [<ref type="can" subtype="bible" target="Mt.11.28">Mt. 11,28</ref>]. Er
+                    hat gemerkt: ich kann nicht! Nun merkt er: aber Gott kann. Wahrhaftig, diese
+                        <term type="Sachen" key="Gewissheit">Gewissheit</term> ist nicht ein
+                    bequemes Ruhekissen für das unruhige <term type="Sachen" key="Gewissen">Gewissen</term>,<note xml:id="n13">Vgl. das deutsche
+                        Sprichwort: «Ein gutes Gewissen ist ein sanftes Ruhekissen» (dazu: <bibl corresp="kbga-bibls-826">
+                                <author ref="kbga-actors-5761">Röhrich</author> II,
+                        S. 547</bibl>).</note>
+                    <pb ed="-A" n="10"/> denn der Gott, der spricht: du kannst!, ist
+                    derselbe, der spricht: du sollst! Der Kampf gegen die <term type="Sachen" key="Versuchung">Versuchungen</term>
+                    <pb xml:id="p317" ed="pga"/> wird dem Menschen keinen Augenblick abgenommen, aber
+                    der Kämpfer wird ein anderer. Die Freudigkeit zum Kämpfen, von der wir vor
+                    14 Tagen geredet,<note xml:id="n14">Siehe oben,
+                            <ref type="pub" target="../volume/53/p290#p290">S. 290-293</ref>.</note> ist nun
+                    da. Gott ist ihm nun nicht bloß ein fernes Ziel, das über allerlei
+                    Hindernisse weg gewonnen werden muss, sondern eine gegenwärtige <term type="Sachen" key="Gotteskraft">Kraft</term>, die uns geschenkt ist.</p>
+                <p> Und nun sagt <persName ref="kbga-actors-8959">Jakobus</persName> noch einige
+                    schlichte, aber feinsinnige Worte über die Art, wie uns diese Kraft, die uns
+                    mangelt, geschenkt wird: Einmal, meint er, der Gott, zu dem ihr bitten
+                    sollt, ist einer, <hi rend="i">welcher Allen gibt</hi>. Es ist nicht
+                    gleichgiltig, ob ein Menschenkind fürchten muss, das Erlebnis des Siegs und
+                    der Befreiung auf dem Weg nach der <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> sei etwas, was nur wenigen Aristokraten des
+                    Geistes, Herrenmenschen, wie <persName ref="kbga-actors-301">Nietzsche</persName> das nannte,<note xml:id="n15">Der Begriff «Herrenmensch» findet sich bei
+                            <persName ref="kbga-actors-301">Nietzsche</persName>
+                        wörtlich nicht, wurde aber schon 1906 als ein auf Nietzsche
+                        zurückgehendes «Modeschlagwort großer Bildungskreise» bezeichnet, das
+                        auf von Nietzsche eingeführte Begriffe wie «Übermensch»,
+                        «Herren-Rechte», «Eroberer- und Herrenrasse» sowie seine
+                        Gegenüberstellung von «Herren-Moral und Sklaven-Moral» zurückgehe (<bibl corresp="kbga-bibls-2635">Art.
+                        «Herrenmensch», in: <author ref="kbga-actors-9243">O. Ladendorf</author>, <hi rend="i">Historisches Schlagwörterbuch. Ein
+                            Versuch</hi>, Straßburg / Berlin 1906, S. 122</bibl>).</note>
+                    zuteilwerden könne, oder ob ihm gesagt wird, dass ein Gott da ist, der Allen
+                    gibt, die ihn bitten. Freilich, unsre menschliche Betrachtungsweise muss oft
+                    mit dem betrüblichen Resultat schließen: auf zehn Tote ein Lebendiger. Und
+                    dies Resultat hat auf zwei so verschiedene Geister wie <persName ref="kbga-actors-77">Johannes Calvin</persName> und Friedrich <persName ref="kbga-actors-301">Nietzsche</persName> den Eindruck
+                    gemacht, als ob überhaupt nur ein Teil der Menschen zum Leben berufen
+                        seien.<note xml:id="n16">Zu <bibl corresp="kbga-bibls-16">
+                                <author ref="kbga-actors-77">Calvin</author> vgl. bes. Inst. III,21</bibl>: «Von
+                        der ewigen Erwählung, kraft deren Gott die einen zum Heil, die anderen
+                        zum Verderben bestimmt hat»; zu <persName ref="kbga-actors-301">Nietzsche</persName> s. oben im Text.</note>
+                    Wer darf auftreten und behaupten, dass das nicht wahr sei angesichts des
+                        Schattenspiels,<note xml:id="n17">Zu dieser Anspielung auf
+                            <persName ref="kbga-actors-322">Platons</persName> Höhlengleichnis
+                        vgl. oben, <ref type="pub" target="../volume/53/p155#fn_n05">S. 155, Anm. 5</ref>.</note> das sich täglich um uns abspielt und das sich
+                    Menschenleben heißt? Aber das darf gesagt werden: dies Urteil mag für
+                    menschliche Betrachtungsweise unvermeidlich sein; wir dürfen es aber nicht
+                    als das letzte Wort, als das Urteil Gottes, als <term type="Sachen" key="Wahrheit, im Licht der Ewigkeit">Wahrheit</term> im Lichte der
+                    Ewigkeit betrachten. Diese feine Linie haben <persName ref="kbga-actors-77">Calvin</persName> und Nietzsche überschritten, und
+                    hier liegt ihr Irrtum. Der Gott, den wir durch Je<pb xml:id="p318" ed="pga"/>sum
+                    kennenlernen, ist ein Gott für <term type="Sachen" key="Gott, für alle">Alle</term>, und seine <pb ed="-A" n="11"/>
+                    <term type="Sachen" key="Gott, Liebe">Liebe</term> ist auf Alles gerichtet,
+                    was Mensch heißt. Wenn es anders wäre und wo man Wert darauf legt, es sich
+                    anders zu denken, da bekommt das innere Leben, der Glaube des Menschen im
+                    frömmsten und tiefsinnigsten Gewand einen Zug von peinlicher <term type="Sachen" key="Selbstsucht">Selbstsucht</term>. Und das in Jesus uns
+                    geschenkte innere Leben, der christliche <term type="Sachen" key="Glaube, in Jesus Christus geschenkt">Glaube</term>, soll doch
+                    gerade Überwindung auch der frommen <term type="Sachen" key="Selbstsucht, fromme">Selbstsucht</term> sein. Du bist kein <term type="Sachen" key="Gottesmensch">Gottesmensch</term>, solange
+                    du’s nicht gemerkt, dass wirklich alle Menschen das werden sollen.
+                    Das höchste persönliche Leben, die scheinbar größte Gottesnähe schlägt um in
+                    die fatalste Brutalität, die vom persönlichen <term type="Sachen" key="Leben, persönliches">Leben</term> weltenfern geschieden ist, wenn
+                    sie vergiftet wird durch den Gedanken: Ja, <hi rend="i">ich</hi>, aber die andern
+                        <hi rend="i">nicht</hi>, der Nachbar und die Nachbarin zur Rechten und zur
+                    Linken nicht. Ein so kraftvoller, lebendiger Mensch wie Nietzsche ist
+                    gescheitert an dieser Klippe. Und es scheitern heimlich Viele an dieser
+                    Klippe, die sich vor <persName ref="kbga-actors-301">Nietzsche</persName> nicht genug bekreuzigen können. So gibt uns der Zusatz
+                    des <persName ref="kbga-actors-8959">Jakobus</persName>: der Gott, welcher
+                    Allen gibt, zweierlei mit auf den Weg: einmal: freue dich, du darfst dich an
+                    Gott wenden, tu nur die Augen auf, sein Geschenk ist auch für dich! und
+                    dann: merk wohl auf!, wendest du dich wirklich an den Gott, der Allen <term type="Sachen" key="Gott, für alle">gibt</term>, ist dein inneres Leben
+                    so beschaffen, dass du Gott anders gar nicht kennst denn als den <term type="Sachen" key="Gott, Vater">Vater</term> deiner Brüder und
+                    Schwestern, wie er der Deine ist? Oder wendest du dich an einen
+                    selbstgemachten Gott, zu dessen Lieblingssohn du dich eingesetzt hast? Merk
+                    wohl auf, das eine heißt <term type="Sachen" key="Beten">Beten</term>, das
+                    andre heißt fromme Spielerei.</p>
+                <p>Und nun kommt eine zweite wichtige Bestimmung hieher über die Art, wie uns
+                    Gott im Kampf um die <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> seine <term type="Sachen" key="Gott, Freundlichkeit">Freundlichkeit</term> erleben lässt, oder mit
+                    andern Worten, wie er das Gebet unsrer tiefsten Seele um Kraft zum <pb ed="-A" n="12"/> Leben erhört. Gott <hi rend="i">gibt ohne
+                        Weiteres</hi>, habe ich nach dem Neuen Testament von <persName ref="kbga-actors-6226">Weizsäcker</persName> übersetzt.<note xml:id="n18">
+                            <bibl corresp="kbga-bibls-2412">
+                                <hi rend="i">Das Neue Testament</hi>, übersetzt von
+                        C. Weizsäcker, Tübingen / Leipzig 1903<hi rend="sup">9</hi>,
+                        S. 166.</bibl>
+                        </note>
+                    <persName ref="kbga-actors-261">Luther</persName> braucht den
+                    Ausdruck «einfältiglich» und meint dasselbe.<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-2636">WA.DB 7, 388 u. 389</bibl>; so auch noch in der revidierten Ausgabe der
+                        Luther-Bibel von 1892.</note> Gottes Geschenk ist eine ganz schlichte,
+                    einfache Sache. Es besteht in nichts Andrem als darin, dass dein innerstes
+                    Wesen frei und freudig <pb xml:id="p319" ed="pga"/> und trotzig wird, obwohl du
+                    weißt, dass du dich keiner Vollkommenheit rühmen darfst. Nicht mehr zögernd
+                    und zweifelnd, sondern in getroster Siegesgewissheit seinem Ziele zuwandern,
+                    das heißt ein Mensch sein, dessen <term type="Sachen" key="Gebet">Gebet</term> erhört ist. |</p>
+                <p>Dass es wirklich und tatsächlich etwas höchst Einfaches ist um die <term type="Sachen" key="Religion">Religion</term>, dieselbe schlichte Sache
+                    für die Männer und Frauen der Arbeit und des Erwerbslebens wie für die
+                    Herren Pfarrer, für die Gebildeten wie für die Ungebildeten, für die, die in
+                    jede Versammlung<note xml:id="n20">Gemeint sind die
+                        Zusammenkünfte der meist pietistisch orientierten landeskirchlichen
+                        Gemeinschaften.</note> gehen, und für die, denen das etwas Schreckliches
+                    ist, dass wirklich und tatsächlich Gottes Geschenk für sie alle in der
+                    einzigen schlichten Sache besteht, das geht uns Allen freilich schwer genug
+                    in den Kopf. Wir haben Alle noch vom <term type="Sachen" key="Katholizismus">Katholizismus</term> her – und auch von gewissen Richtungen des
+                        <term type="Sachen" key="Pietismus">Pietismus</term> her die
+                    Vorstellung, <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> müsse
+                    irgendwie etwas Verzwicktes sein, ein Gebäude mit Vorräumen, mit
+                    Empfangssälen für jedermann und mit Hinterstuben und Salons für bevorzugte
+                    Gäste, ein merkwürdiges Gemisch von hohen Lehren und schwierigen Geboten,
+                    etwas, wozu wenn nicht Kerzen und Weihrauch, so doch ein gewisses
+                    Geschmäcklein und eine besondere Sprache, nämlich die Sprache der <term type="Sachen" key="Lutherbibel">Lutherbibel</term>, notwendig gehöre,
+                    etwas, worüber man am besten nur halblaut redet oder dann gleich im Brustton
+                    des Bekenners. |</p>
+                <p>Etwas von solchen Vorstellungen über Frömmigkeit tragen wir Alle in uns
+                    herum, es ist vielleicht auch ein Stück von den <term type="Sachen" key="Gesetze, weltliche">Gesetzen</term> der Welt, die mit uns geboren
+                    scheinen. Und gerade bei lebendigen Menschen und <term type="Sachen" key="Christen">Christen</term> ist das am öftesten der Fall. Aber wir
+                    wollen uns nun sagen, dass das, in welcher Form <pb ed="-A" n="13"/>
+                    es bei uns der Fall sein mag, eine schwere Schranke unsres innern <term type="Sachen" key="Leben, inneres">Lebens</term> ist, die fallen muss.
+                    Seht doch einmal, wie Jesus gelehrt und gelebt hat! In seiner Art war
+                    wahrhaftig gar nichts von dem Komplizierten, Heimlichen, Weihrauchmäßigen,
+                    das nachher aus dem <term type="Sachen" key="Christentum">Christentum</term>
+                    immer wieder geworden <term type="Sachen" key="Jesus Christus, und Christentum">ist</term>. Wenn das wirklich
+                    deine Erfahrung ist, dass Gott dir in ihm etwas geschenkt hat, wenn es dir
+                    so geht, dass du dich nur zu ihm zu wenden brauchst, wie <persName ref="kbga-actors-313">Paulus</persName> es dort tat, um sagen zu
+                    dürfen: Dank sei Gott!, bevor du noch Gedanken und Worte zum <term type="Sachen" key="Beten">Beten</term> gesammelt hast, <pb xml:id="p320" ed="pga"/> wenn das bei dir so ist, nicht wahr, dann musst du, welches
+                    auch sonst die Art deiner Frömmigkeit sei, sagen, dass <persName ref="kbga-actors-8959">Jakobus</persName> recht hat, dass Gott wirklich ohne Weiteres
+                    gibt, einfältiglich. Sein Geschenk besteht in der unendlich schlichten und
+                    einfachen Sache, dass er dich bei der Hand nimmt und zu dir sagt: So, du
+                    bist mein liebes Kind, und nun gehen wir den weitern Weg zusammen. Das waren
+                    die Großen auf dem Gebiet des persönlichen <term type="Sachen" key="Leben, persönliches">Lebens</term>, die zu sich selbst und zu den
+                    andern gesagt haben: all das Drum und Dran im Leben der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> ist schön und gut, aber das, worauf
+                    es für dich ankommt, ist, dass du merkst, dass Gott ohne Weiteres gibt,
+                    einfältiglich, schlicht und unscheinbar. Das Große auf diesem Gebiet ist das
+                    Einfache. Lieber Freund, wer du auch seist, ich wünsche dir, dass dir Gott
+                    einen Menschen auf deinen Lebensweg stelle, der dir das zeige, wie er mir
+                    einen solchen auf meinen Lebensweg gestellt hat.<note xml:id="n21">Möglicherweise meint Barth hier <persName ref="kbga-actors-2">Robert Aeschbacher</persName> (1869–1910), bis
+                        1907 Pfarrer an der Berner Nydegg-Kirche, danach am Berner Münster, bei
+                        dem er einen ihn sehr beeindruckenden Konfirmandenunterricht erlebte,
+                        der ihn ausweislich seiner späteren Erinnerungen einen entscheidenden
+                        Anstoß dazu gab, Theologe werden zu wollen. Vgl. <bibl corresp="kbga-bibls-134">
+                                <author ref="kbga-actors-3129">Busch</author>, S. 42f.</bibl>
+                        </note> Vielleicht ist
+                    die Vereinfachung, um die sich’s hier handelt, der wichtigste Schritt
+                    auf dem Weg zur <term type="Sachen" key="Ewigkeit">Ewigkeit</term>.</p>
+                <p>Und nun das Letzte, was Jakobus über Gottes freundliches Geschenk sagt: Gott
+                    gibt und <hi rend="i">rückt</hi>
+                    <pb ed="-A" n="14"/>
+                    <hi rend="i">nichts vor</hi>. Das Bild, das er da braucht, leuchtet unmittelbar
+                    ein: es wird viel geschenkt im Leben der Menschen. Es ist erstaunlich zu
+                    hören, wieviel z. B. in einer Stadt wie <placeName ref="kbga-places-67">Genf</placeName> alle Tage geschenkt wird. Aber es ist eben mit dem <term type="Sachen" key="Schenken">Schenken</term> von uns Menschen immer eine
+                    merkwürdige Sache. Fragt einmal die, die darauf angewiesen sind, Geschenke
+                    anzunehmen, wie es ihnen dabei zumute sei. Und noch besser, ihr, die ihr
+                    schenkt, sei’s in dieser oder jener Weise, wir wollen einmal
+                    revidieren, wie es <hi rend="i">uns</hi> dabei zumute ist. Wenn wir’s
+                    genau nehmen, merken wir da bald, wieviel von dem darin ist, was unser Text
+                    «vorrücken» oder «aufrücken» nennt. Ob wir’s laut oder leise tun,
+                    macht dabei keinen Unterschied. Wir schenken, aber wir schenken mit dem
+                    ausgesprochenen oder stillen Hintergedanken: Hier, mein lieber Freund! Hier,
+                    gute Frau! Da hast du etwas! Aber eigentlich verdienst du es nicht. Denn
+                    erstlich hast du dich selbst <pb xml:id="p321" ed="pga"/> ins Pech gebracht, und
+                    zweitens wirst du nur zu bald wiederkommen. Der freundliche Schenker mag zu
+                    solchen Hintergedanken allen Anlass und alles Recht haben, aber das ändert
+                    nichts daran, dass er mit Hintergedanken <term type="Sachen" key="Schenken">schenkt</term>. So machen es wir Menschen. Gott macht es anders, er
+                    schenkt und rückt nichts vor. Er hätte zwar allen Anlass, viel größern als
+                    ein Mensch irgend einem andern gegenüber. Denn erstlich müssten wir uns auch
+                    sagen, dass wir selbst schuld sind, wenn es uns an Kraft fehlt, die <term type="Sachen" key="Versuchung">Versuchungen</term> zu überwinden, und
+                    dies Bewusstsein macht ja gerade, dass unsre Lage so peinlich ist. Und
+                    zweitens ist keiner davor gefeit, Gottes freundliches Geschenk gar bald ein
+                    zweites und drittes Mal in Anspruch nehmen zu müssen. Aber Gott rückt nichts
+                    vor. Das heißt: er pflanzt Sieg und Überwindung in dein inneres <term type="Sachen" key="Leben, inneres">Leben</term> in ganzer Fülle, ohne
+                    dass <term type="Sachen" key="Vergangenheit">Vergangenheit</term> und <term type="Sachen" key="Zukunft">Zukunft</term> mit ihren Skrupeln dazwischen
+                    treten dürfen, ohne dass dich der stechende <pb ed="-A" n="15"/>
+                    Schmerz der Erinnerung plagen muss, wie es bis jetzt gestanden mit deinem
+                    Nicht-Können, noch der Zweifel, wie es in Zukunft stehen werde.</p>
+                    <q rend="block">
+                        <lg>
+                            <l>Wie du bist, so darfst du kommen,</l>
+                            <l>Höre, was sein Wort verspricht.</l>
+                            <l>Du wirst freundlich aufgenommen,</l>
+                            <l>Kehre wieder, zaudre nicht!<note xml:id="n22">
+                                    <bibl type="song" corresp="kbga-songs-176">Schlussverse der ersten Strophe des Liedes «Kehre wieder,
+                                    kehre wieder» von <author ref="kbga-actors-1254">K. J. Ph. Spitta</author> (GERS
+                                    222).</bibl>
+                                </note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Gott rückt nichts vor. D. h., wenn du betest, so ist er
+                    wirklich und wahrhaftig bei dir, und du bist stark und trotzig gegen Alles,
+                    was kommen mag. Wenn du betest! So war nach dem Bericht des Alten Testaments
+                    in der Amalekiterschlacht der Sieg auf Seiten <term type="Sachen" key="Israel (Volk)">Israels</term>, solange <persName ref="kbga-actors-2228">Mose</persName> seine betenden Hände zum Himmel erhob [<ref type="can" subtype="bible" target="Ex.17.11">Ex. 17,11</ref>]. Solang du betest!
+                    Solang dein inneres Auge unverwandt auf das Leben des Ernstes und der
+                    Freundlichkeit gerichtet ist, das Jesus von <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Nazareth</term> gelebt hat. Wir
+                    müssen das nächste Mal mehr davon reden, was das heißt: <term type="Sachen" key="Beten">Beten</term>. Denn wenn das wahr ist, dass Gott dem, der
+                    betet, nichts vorrückt, dass er vielmehr in seiner ganzen <term type="Sachen" key="Gott, Fülle">Fülle</term> einzieht in sein Leben,
+                    dann muss für uns Alles darauf ankommen, dass wir beten, wirklich beten.
+                    Eins will ich dir schon heute sagen: es kann in nichts <pb xml:id="p322" ed="pga"/> Andrem bestehen, als dass du mit dem <rs type="person" ref="kbga-actors-313">Apostel</rs> sagen lernst: <hi rend="i">Dank</hi> sei Gott durch unsern
+                    Herrn Jesum Christum [<ref type="can" subtype="bible" target="Röm.7.25">Röm. 7,25</ref>].</p>
+                <p>Freue dich, dir wird gegeben werden, nein, dir <hi rend="i">ist</hi> gegeben!</p>
+            </div>  
+            <div type="closer">
+                    <salute>Amen.</salute>
+            </div>
+            <div type="songs">
+                <head>Lieder:</head>
+                    <listBibl type="songs" rend="simple">
+                        <bibl type="song" corresp="kbga-songs-122">Nr. 171: «Liebster Jesu, wir sind hier» von <author ref="kbga-actors-2169">T. Clausnitzer</author>,
+                            Strophen 1–3 (RG 159; EG 161 [mit geringen
+                            Textabweichungen]).</bibl>
+                        <bibl type="song" corresp="kbga-songs-267">Nr. 245: «Eins ist not! Ach Herr, dies Eine» von <author ref="kbga-actors-2499">J. H. Schröder</author>,
+                            Strophen 1–2 (EG 386, 1–2 [mit
+                            Textabweichungen]).</bibl>
+                       <bibl type="song" corresp="kbga-songs-46">Nr. 298: «Mache dich, mein Geist, bereit» von<author ref="kbga-actors-2396"> J. B. Freystein</author>,
+                            Strophen 6.7.8 (EG 387,3.4,6).</bibl>
+                    </listBibl>
+                </div>
+                <div>
+                    <head>Lesungstext:</head>
+                    <list type="simple">
+                        <item>
+                            <ref type="can" subtype="bible" target="Ps.86">Psalm 86.</ref>
+                        </item>
+                    </list>
+                </div>
+
+            </div>
+        </body>
+    </text>
+</TEI>

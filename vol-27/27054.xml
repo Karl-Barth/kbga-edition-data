@@ -6,7 +6,7 @@
         <title type="volume" n="vol-27">Predigten 1915</title>
         <title type="content">Kasualreden</title>
         <title type="citation_line_1">Kasualreden, kein Datum</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27054 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27054 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1915, Zürich 1996, S. 538–542.</title>
       </titleStmt>
       <editionStmt>
@@ -53,7 +53,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date type="creation" when="">kein Datum</date>
+        <date type="creation">kein Datum</date>
       </creation>
       <langUsage>
         <language ident="ger">German</language>
@@ -65,48 +65,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:03+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:03+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,9 +76,12 @@
       <head>KASUALREDEN<note xml:id="n01">Auf einigen freien Seiten seines Taschenkalenders des Jahres <date when="1915">1915</date> hat
 <persName ref="kbga-actors-2151">Barth</persName> die folgenden Kasualreden aus dem Familienkreis skizziert. Alle drei
 Amtshandlungen fanden in <placeName ref="kbga-places-66">Zürich</placeName> statt. Zu den beiden vom <date when="1915-06-26">26. Juni</date> vgl.
-<ref type="pub"><bibl><title level="m">Bw. Th. I</title>, <biblScope>S. 52f</biblScope>.</bibl></ref> Der Taufansprache scheint als Predigttext <ref type="can" subtype="bible" target="Jer.29.11">Jer. 29, 11</ref>, der Traurede
+<ref type="pub">
+                            <bibl>
+                                <title level="m">Bw. Th. I</title>, <biblScope>S. 52f</biblScope>.</bibl>
+                        </ref> Der Taufansprache scheint als Predigttext <ref type="can" subtype="bible" target="Jer.29.11">Jer. 29,11</ref>, der Traurede
 vom <date when="1915-06-26">26.6.1915</date> 
-                  <ref type="can" subtype="bible" target="Ps.65.10">Ps. 65, 10</ref> zugrunde zu liegen. Die Traurede vom <date when="1915-01-09">9.1.1915</date> läßt
+                  <ref type="can" subtype="bible" target="Ps.65.10">Ps. 65,10</ref> zugrunde zu liegen. Die Traurede vom <date when="1915-01-09">9.1.1915</date> läßt
 auf keinen bestimmten Text schließen. — Wie bei der Wiedergabe aller nur als
 Skizzen vorliegenden Texte in der Gesamtausgabe bleibt die originale Orthographie
 einschließlich der Abkürzungen unverändert. Wo es zur leichteren Verständlichkeit
@@ -126,15 +89,19 @@ erforderlich schien, wurden abgekürzte Worte in eckigen Klammern
 ergänzt. Die Transkription besorgte <persName ref="kbga-actors-397">Hinrich Stoevesandt</persName>.</note>
       </head>
         <div type="sermon">
-<head>Trauung von <persName ref="kbga-actors-5801">Helene Hoffmann und Antonio d’Abreu</persName><ref><note xml:id="n02"><persName ref="kbga-actors-6741">Helene Hoffmann</persName> war eine Schwester von Barths Ehefrau <persName ref="kbga-actors-26">Nelly</persName>, ihr
-Ehemann war portugiesischer Nationalität.</note></ref>
+<head>Trauung von <persName ref="kbga-actors-5801">Helene Hoffmann und Antonio d’Abreu</persName>
+                        <ref><note xml:id="n02">
+                                <persName ref="kbga-actors-6741">Helene Hoffmann</persName> war eine Schwester von Barths Ehefrau <persName ref="kbga-actors-26">Nelly</persName>, ihr
+Ehemann war portugiesischer Nationalität.</note>
+                        </ref>
             <date when="1915-01-09">9. Januar 1915</date>
          </head>
       <div type="main">
         <p>Besonderheit u. Größe d. <hi rend="i">Tages?</hi> Aber kein Tag hat das in sich. Wichtig ist das Gestern und das Morgen. Das Heute ist nicht mehr u. nicht weniger als das, was wir daraus machen. So bedeutet der heutige Tag für euch nicht mehr, als jeder andre bedeuten soll. Ihr dürft leben aus der Vergangenheit heraus mit all ihrem schönen, ernsten Inhalt hinüber in eine ebenso ernste u. schöne Zukunft: das ist die Gabe des Lebens u. zugleich seine Aufgabe.</p>
         <p>Ich kann euch über das Leben (L. in der Ehe!) nichts sagen, als was ihr <hi rend="i">schon wißt</hi>. Das Geheimnis des Lebens ist das, was jedermann weiß. Das Leben ist keine Kunst u. keine Wissenschaft. Die nicht leben können. Die leben können. Das Unheil in der Welt. Das Heil u. der Fortschritt. Die eine Sünde u. die eine Tugend. Gott: das Selbstverständliche. An ihn uns erinnern weiht u. heiligt unser Leben. Es giebt keine andre Lebenskraft als diese Rückkehr zur Quelle. So wollen wir uns an das Selbstverständliche erinnern, damit auch dieser Tag seine Weihe habe.</p>
         <p>Wir können d. Leben auffassen als eine <hi rend="i">zufällige</hi> Reihe von Tagen u. Jahren u. Ereignissen, groß u. klein, zwischen denen wir gedankenlos wandeln, ohne etwas zu suchen, ohne etwas zu behalten. Aber damit belügen wir uns selbst. Das Leben ist kein Theater, es will unsre Teilnahme, wir müssen seinen Wert herausarbeiten, oder wir ersterben in Langeweile. Es ist schon dafür gesorgt, daß uns Vieles entgeht, aber wir sollen <hi rend="i">wach</hi> sein.</p>
-        <p><pb xml:id="p539" ed="pga"/> Wir können unser Ziel darein setzen, feiner oder gröber zu <hi rend="i">genießen</hi>, überall möglichst viel Angenehmes für Körper u. Geist herauszuholen. Aber wieder wäre das nicht Aufrichtigkeit gegen uns selbst. Wir verstecken uns damit vor der Tatsache des Leides in unserm Dasein u. in dem der Andern. Tatsache, die auch zum Leben gehört. Das Glück wartet auf uns, aber wir können uns nicht vornehmen, glücklich sein zu wollen, sonst Enttäuschung, wir müssen uns rüsten für <hi rend="i">alle</hi> Seiten des Lebens.</p>
+        <p>
+                            <pb xml:id="p539" ed="pga" rend="noPipe"/> Wir können unser Ziel darein setzen, feiner oder gröber zu <hi rend="i">genießen</hi>, überall möglichst viel Angenehmes für Körper u. Geist herauszuholen. Aber wieder wäre das nicht Aufrichtigkeit gegen uns selbst. Wir verstecken uns damit vor der Tatsache des Leides in unserm Dasein u. in dem der Andern. Tatsache, die auch zum Leben gehört. Das Glück wartet auf uns, aber wir können uns nicht vornehmen, glücklich sein zu wollen, sonst Enttäuschung, wir müssen uns rüsten für <hi rend="i">alle</hi> Seiten des Lebens.</p>
         <p>Und auch <hi rend="i">Pflichterfüllung</hi> genügt nicht. Es ist gut, daß wir Pfl. haben. Sie geben uns Halt u. Ziele. Sie bilden das feste Gerüst des Lebens. Arme M., die keine haben! Aber ein seliges Leben entsteht nicht durch noch so treue Pfl.erfüllg. Denn die Pfl. kommen von außen u. reißen uns nach außen zur Tätigkeit. Das muß so sein, aber wir brauchen ein Gegengewicht. Sonst machen uns unsre Aufgaben leer u. trocken u. müde. Wir müssen etwas <hi rend="i">sein</hi>, um etwas leisten zu können. (Das Alles auch von der <hi rend="i">Ehe</hi> u. vom Leben der <hi rend="i">Seele</hi> in der Ehe: wach sein, bereit sein, lebendig sein.)</p>
         <p>Wenn wir darauf achten, kommen wir von selbst auf die <hi rend="i">Liebe</hi> als auf das Wesen des Lebens. Sie begründet die Ehe, ist unendlich viel mehr als sie u. treibt doch in ihr ihre schönste Blüte.</p>
         <p>Liebe ist <hi rend="i">Reinheit</hi>: Erlösung von allem Kleinlichen u. Unguten. Sich nicht aufhalten lassen. Sich nicht hinüberziehen lassen. Richtung auf das Große u. Hauptsächliche.</p>
@@ -144,15 +111,21 @@ Ehemann war portugiesischer Nationalität.</note></ref>
       </div>
       </div>
       <div type="sermon">
-        <head><pb xml:id="p540" ed="pga"/>Taufe von <persName ref="kbga-actors-5832">Walter Kisling</persName><note xml:id="n04"><persName ref="kbga-actors-5832">Walter Kisling</persName> war ein Kind von <persName ref="kbga-actors-640">Richard Kisling</persName> und seiner Frau <persName ref="kbga-actors-5831">Hedwig</persName>, geb. Hoffmann, einer weiteren Schwester <persName ref="kbga-actors-26">Nelly Barths</persName>.</note> 
+        <head>
+                        <pb xml:id="p540" ed="pga" rend="noPipe"/>Taufe von <persName ref="kbga-actors-5832">Walter Kisling</persName><note xml:id="n04">
+                            <persName ref="kbga-actors-5832">Walter Kisling</persName> war ein Kind von <persName ref="kbga-actors-640">Richard Kisling</persName> und seiner Frau <persName ref="kbga-actors-5831">Hedwig</persName>, geb. Hoffmann, einer weiteren Schwester <persName ref="kbga-actors-26">Nelly Barths</persName>.</note> 
                <date when="1915-06-26">26. Juni 1915</date>
             </head>
         <div type="main">
         <p>L. Eltern! Ihr wollt, daß dieses Kindlein getauft werde. Da habt ihr <hi rend="i">etwas Großes</hi> vor. Das sichtbare Zeichen möchtet ihr sehen nach altem christlichem Brauch, daß das Schönste u. Tiefste des Lebens auch für euer Kindlein Geltung u. Wahrheit hat. Das Wort möchtet ihr hören, das euch verheißt, daß der ewige Gott auch euer Kindlein lieb hat. Ja, das dürft ihr sicher <hi rend="i">sehen u. hören</hi>. Dessen dürft ihr nun [?] aufs Neue <hi rend="i">gewiß werden</hi>, daß das Leben in seiner ganzen herrl. Fülle u. Tiefe wartet auf dies liebe kleine Wesen, daß Gott seine ganz besondern Gedanken über ihn hat. Ihr macht euch ja auch eure Ged., aufricht. Ged. d. Liebe u. Fürsorge, freundl. Ged. der Hoffnung. Aber das ist doch das Beste, daß da auch der himml. Vater ist mit <hi rend="i">seinen</hi> Gedanken über ihn. Denn Vieles, was wir über s. <hi rend="i">Zukunft</hi> wissen möchten, ist uns Menschen <hi rend="i">dunkel</hi> u. muß es sein. Wir können nicht wissen: längere od. kürzere Lebenszeit, Leid od. Freude, gerade od. Umwege z. Lebensfrieden, große od. kl. Welten [?], verborg. Leben od. Glanz u. Wärme [?]. <hi rend="i">Sicher</hi> sind <hi rend="i">Gottes Ged</hi>., u. wenn wir uns in sie hineindenken, dürfen wir mit innerm Frieden Allem entgegensehen, was kommen wird.</p>
-        <p><hi rend="i">1. Euch eine Freude</hi>. Gott schenkt euch: euch selbst in verjüngter Gestalt, selber wieder jung werden, besser machen. Und dann: jedes Kind etwas Besonderes. Der unerschöpfl. Reichtum einer Seele breitet sich um euch aus von der Knospe bis zu den ersten Früchten. Ihr sollt helfen, beraten, mitarbeiten dürfen — sollt seine erste Liebe empfangen— beides an Gottes Stelle. Erziehung ist ein Säen, dem das Ernten folgt.</p>
-        <p><hi rend="i">2. Selber ein Mensch</hi> werden. Kind soll das werden, was es sein muß. Der Reichtum in den Besonderheiten. Der Wille G.s geschieht dadurch daß jeder M. etwas Eigenes wird. Gebt ihm genug <hi rend="i">Anregung</hi> u. genug Freiheit.</p>
-        <p><hi rend="i">3. Ein Glied d. Gemeinschaft</hi>. Glanz [?] Gottes, um selber Halt zu geben. M. wohnen nicht auf Inselchen, sondern bilden einen Kosmos. Die Welt ist voll Leid u. Unrecht, jeder M. ist bestimmt, Gott zum Sieg zu verhelfen. Nicht Alle könnens. Aber ihr. Wem viel gegeben ist…[<ref type="can" subtype="bible" target="Lk.12.48">Lk. 12, 48</ref>] Ehre sei Gott…[<ref type="can" subtype="bible" target="Lk.2.14">Lk. 2, 14</ref>]</p>
-          <p><pb xml:id="p541" ed="pga"/> Das sind Gottes Gedanken üb. d. Menschheit. Auch üb. d. Kindlein. In Jesus sind sie als lebendige Kraft in die Geschichte getreten. Christl. Gem. Laßt sie gelten. Taufe bedeutet Anschluß. Wollt ihr das? Stellvertretung. Gott fragt euch.</p>
+        <p>
+                            <hi rend="i">1. Euch eine Freude</hi>. Gott schenkt euch: euch selbst in verjüngter Gestalt, selber wieder jung werden, besser machen. Und dann: jedes Kind etwas Besonderes. Der unerschöpfl. Reichtum einer Seele breitet sich um euch aus von der Knospe bis zu den ersten Früchten. Ihr sollt helfen, beraten, mitarbeiten dürfen — sollt seine erste Liebe empfangen— beides an Gottes Stelle. Erziehung ist ein Säen, dem das Ernten folgt.</p>
+        <p>
+                            <hi rend="i">2. Selber ein Mensch</hi> werden. Kind soll das werden, was es sein muß. Der Reichtum in den Besonderheiten. Der Wille G.s geschieht dadurch daß jeder M. etwas Eigenes wird. Gebt ihm genug <hi rend="i">Anregung</hi> u. genug Freiheit.</p>
+        <p>
+                            <hi rend="i">3. Ein Glied d. Gemeinschaft</hi>. Glanz [?] Gottes, um selber Halt zu geben. M. wohnen nicht auf Inselchen, sondern bilden einen Kosmos. Die Welt ist voll Leid u. Unrecht, jeder M. ist bestimmt, Gott zum Sieg zu verhelfen. Nicht Alle könnens. Aber ihr. Wem viel gegeben ist…[<ref type="can" subtype="bible" target="Lk.12.48">Lk. 12,48</ref>] Ehre sei Gott…[<ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>]</p>
+          <p>
+                            <pb xml:id="p541" ed="pga" rend="noPipe"/> Das sind Gottes Gedanken üb. d. Menschheit. Auch üb. d. Kindlein. In Jesus sind sie als lebendige Kraft in die Geschichte getreten. Christl. Gem. Laßt sie gelten. Taufe bedeutet Anschluß. Wollt ihr das? Stellvertretung. Gott fragt euch.</p>
       </div>
       </div>
       <div type="sermon">
@@ -160,12 +133,17 @@ Ehemann war portugiesischer Nationalität.</note></ref>
                <date when="1915-06-26">26. Juni 1915</date>
             </head>
         <div type="main">
-        <p>L[iebes] Br[autpaar!] So steht ihr nun zum ersten Mal vor uns als <hi rend="i">Mann u. Frau</hi>, am Ziel eurer vielen u. sehnsüchtigen u. oft getäuschten Wünsche, u. wir Alle freuen uns von Herzen mit euch, daß ihr soweit seid. Aber mit euren Gedanken wandern die unsrigen in eure Zukunft, erwartend, hoffnungsvoll freudig, denn der Ehestand ist ein rechter <hi rend="i">Freudenstand</hi>. Da lernt man sich selber kennen. Da wird man etwas. Da tut sich Einem in der liebenden u. vertrauenden Seele des Andern das wahre Leben auf. Da merkt man erst, wie viel aus dem Leben eigentlich zu machen ist u. was das Großes bedeutet, ein Mensch sein zu dürfen. Aber wir wissen es u. ihr wißt es: das Alles fällt einem nicht nur so in den Schoß, das will jeden Tag <hi rend="i">neu gefunden</hi> sein. Das ist für jedes neue Menschenpaar zunächst eine Frage, ob seine Ehe auch eine Freude werden wird. Auch die, die längst Hand in Hand gegangen sind u.d. Lebens Last miteinander getragen haben, müssen ja immer wieder neu die Fundamente der Freude legen. Laßt mich euch etwas sagen von diesen Fundamenten. Ich möchte es zus.fassen in ein schönes u. fast hätte ich gesagt fröhliches Wort der Bibel: <hi rend="i">Gottes Brünnlein</hi> … [hat Wassers die Fülle, <ref type="can" subtype="bible" target="Ps.65.10">Ps. 65, 10</ref>]</p>
+        <p>L[iebes] Br[autpaar!] So steht ihr nun zum ersten Mal vor uns als <hi rend="i">Mann u. Frau</hi>, am Ziel eurer vielen u. sehnsüchtigen u. oft getäuschten Wünsche, u. wir Alle freuen uns von Herzen mit euch, daß ihr soweit seid. Aber mit euren Gedanken wandern die unsrigen in eure Zukunft, erwartend, hoffnungsvoll freudig, denn der Ehestand ist ein rechter <hi rend="i">Freudenstand</hi>. Da lernt man sich selber kennen. Da wird man etwas. Da tut sich Einem in der liebenden u. vertrauenden Seele des Andern das wahre Leben auf. Da merkt man erst, wie viel aus dem Leben eigentlich zu machen ist u. was das Großes bedeutet, ein Mensch sein zu dürfen. Aber wir wissen es u. ihr wißt es: das Alles fällt einem nicht nur so in den Schoß, das will jeden Tag <hi rend="i">neu gefunden</hi> sein. Das ist für jedes neue Menschenpaar zunächst eine Frage, ob seine Ehe auch eine Freude werden wird. Auch die, die längst Hand in Hand gegangen sind u.d. Lebens Last miteinander getragen haben, müssen ja immer wieder neu die Fundamente der Freude legen. Laßt mich euch etwas sagen von diesen Fundamenten. Ich möchte es zus.fassen in ein schönes u. fast hätte ich gesagt fröhliches Wort der Bibel: <hi rend="i">Gottes Brünnlein</hi> … [hat Wassers die Fülle, <ref type="can" subtype="bible" target="Ps.65.10">Ps. 65,10</ref>]</p>
         <p>Ja auf was kommts an, daß der Ehestand wirklicher Freudenstand werde?</p>
-        <p><hi rend="i">1 Nicht auf die äußern Lebensgüter</hi>. Bescheiden anfangen. Schwierigkeiten. Sorge, ob nicht zuviel gewagt? Darauf kommts nicht an. Das kann auch in die Enge treiben, aber gefährlich ist das nicht, Gottes Brünnlein quellen auch dann, erst recht sagen: denen, die G. lieben … [<ref type="can" subtype="bible" target="Röm.8.28">Röm. 8, 28</ref>]</p>
-        <p><hi rend="i"><pb xml:id="p542" ed="pga"/>2. Nicht auf die Fertigkeit d. Charakters</hi>. Wichtig, als was für ein M. man in die Ehe hineingeht. Aber nicht entscheidend. Das Beste giebt die Ehe. Unfertig bleibt man bis zuletzt. Einander verzeihen u. helfen muß man darum. Wo Gottes Brünnlein fließen, <hi rend="i">werden</hi> die Charaktere.</p>
-        <p><hi rend="i">3. Nicht auf die Liebe</hi>. Ja: Ihr geht jetzt mit gr. Liebe zueinander ins Leben hinein, aber das ist nur der <hi rend="i">Anfang</hi>, nicht die <hi rend="i">Quelle</hi> der Freude. Eine Ehe, die nur auf der Liebe gegründet ist, muß <hi rend="i">verarmen</hi> u. hat schließlich keinen Halt gegen die Lebenselemente, die d. Liebe auflösen wollen. Was dann? Aus d. Br. G. fließen die Kräfte, die die Schranken u. Gefahren der bloßen Menschenliebe überwunden.</p>
-        <p><hi rend="i">Die Brünnlein G’s</hi>: Was <hi rend="i">größer</hi> ist als wir selbst, eine <hi rend="i">Sache</hi>, die uns erfüllt, begeistert u. trägt, eine <hi rend="i">Sehnsucht</hi> u. ein Glaube, die das Leben erleuchten, ihm den Sinn geben.</p>
+        <p>
+                            <hi rend="i">1 Nicht auf die äußern Lebensgüter</hi>. Bescheiden anfangen. Schwierigkeiten. Sorge, ob nicht zuviel gewagt? Darauf kommts nicht an. Das kann auch in die Enge treiben, aber gefährlich ist das nicht, Gottes Brünnlein quellen auch dann, erst recht sagen: denen, die G. lieben … [<ref type="can" subtype="bible" target="Röm.8.28">Röm. 8,28</ref>]</p>
+        <p>
+                            <hi rend="i">
+                                <pb xml:id="p542" ed="pga"/>2. Nicht auf die Fertigkeit d. Charakters</hi>. Wichtig, als was für ein M. man in die Ehe hineingeht. Aber nicht entscheidend. Das Beste giebt die Ehe. Unfertig bleibt man bis zuletzt. Einander verzeihen u. helfen muß man darum. Wo Gottes Brünnlein fließen, <hi rend="i">werden</hi> die Charaktere.</p>
+        <p>
+                            <hi rend="i">3. Nicht auf die Liebe</hi>. Ja: Ihr geht jetzt mit gr. Liebe zueinander ins Leben hinein, aber das ist nur der <hi rend="i">Anfang</hi>, nicht die <hi rend="i">Quelle</hi> der Freude. Eine Ehe, die nur auf der Liebe gegründet ist, muß <hi rend="i">verarmen</hi> u. hat schließlich keinen Halt gegen die Lebenselemente, die d. Liebe auflösen wollen. Was dann? Aus d. Br. G. fließen die Kräfte, die die Schranken u. Gefahren der bloßen Menschenliebe überwunden.</p>
+        <p>
+                            <hi rend="i">Die Brünnlein G’s</hi>: Was <hi rend="i">größer</hi> ist als wir selbst, eine <hi rend="i">Sache</hi>, die uns erfüllt, begeistert u. trägt, eine <hi rend="i">Sehnsucht</hi> u. ein Glaube, die das Leben erleuchten, ihm den Sinn geben.</p>
         <p>Wollt ihr mehr wissen? Euer Leben verhelfe euch dazu. <foreign xml:lang="grc" rend="Ell">Xρ</foreign> [Christus] hat die Br. erschlossen. Suchet…<note xml:id="n06">Zu ergänzen ist wohl: «…so werdet ihr finden» (<ref type="can" subtype="bible" target="Mt.7.7">Mt.7, 7</ref>).</note>
             </p>
         </div>

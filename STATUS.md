@@ -1,8 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6651916.svg)](https://doi.org/10.5281/zenodo.6651916)
-
-2022-06-16
+2022-12-23
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -14,19 +12,20 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 | Predigten 1954–1967 (Abt. I Predigten), Zürich 2003 | [[Band 12](https://kbga.karl-barth.ch/volume/12)] |
 | Predigten 1915 (Abt. I Predigten), Zürich 1996 | [[Band 27](https://kbga.karl-barth.ch/volume/27)] |
 | Predigten 1916 (Abt. I Predigten), Zürich 1998 | [[Band 29](https://kbga.karl-barth.ch/volume/29)] |
+| Predigten 1907–1910 (Abt. I Predigten), Zürich 2018 | [[Band 53](https://kbga.karl-barth.ch/volume/53)] |
 | Vorträge und kleinere Arbeiten 1935–1937 (Abt. III Vorträge und kleinere Arbeiten), Zürich 2020 | [[Band 55](https://kbga.karl-barth.ch/volume/55)] |
 | Predigten 1912 (Abt. I Predigten), Zürich 2022 | [[Band 56](https://kbga.karl-barth.ch/volume/56)] |
 
 ### Statistik
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
-|Bände | 7 |7 |
-|Personen | 381 |1557 |
-|Organisationen | 87 |446 |
-|Orte | 206 |525 |
-|Literaturangaben | 886 |1535 |
-|Lieder | 182 |182 |
-|Begriffe | 1955 |1955 |
+|Bände | 8 |8 |
+|Personen | 0 |0 |
+|Organisationen | 0 |0 |
+|Orte | 0 |0 |
+|Literaturangaben | 0 |0 |
+|Lieder | 0 |0 |
+|Begriffe | 0 |0 |
 
 Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.
 

@@ -6,7 +6,7 @@
         <title type="volume" n="vol-27">Predigten 1915</title>
         <title type="content">Predigt: 2. Mose 17,8-15 (III)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 2. Mose 17,8-15 (III), 12. September 1915</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27038 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27038 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1915, Zürich 1996, S. 366–378.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1267" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ex 17,8-15 (III), 12. September 1915. <idno ref="https://kba.karl-barth.ch/objects/1730">KBA 1267</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ex 17,8-15 (III), 12. September 1915. <ref target="https://kba.karl-barth.ch/objects/1730">KBA 1267</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,18 +76,24 @@
       <div type="sermon">
         <pb xml:id="p366" ed="pga"/>
         <div type="opener">
-          <head><idno>289</idno></head>
-          <dateline><placeName>Safenwil</placeName>, Sonntag, den <date when="1915-09-12">12.
-              September 1915</date></dateline>
+          <head>
+                        <idno>289</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1915-09-12">12.
+              September 1915</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Ex.17.8 Ex.17.15">2. Mose 17, 8-15</ref>
-              <span><idno>III</idno></span>
-            </cit><note xml:id="n01">Am Freitag, <date when="1915-09-10">10. September</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> an <persName ref="kbga-actors-403">Thurneysen</persName>: «Wir hatten
+              <span>
+                                <idno>III</idno>
+                            </span>
+            </cit><note xml:id="n01">Am Freitag, 10. September schrieb Barth an <persName ref="kbga-actors-403">Thurneysen</persName>: «Wir hatten
               gestern Abend eine interessante Kirchenpflegesitzung mit langer Aussprache über den
               lieben Gott und sein Verhältnis zu den Safenwilern im Speziellen, im Anschluß an die
               letzte Predigt. … Jetzt bin ich an der 3. Bearbeitung der Amalekiterschlacht, zu der
-              ich gestern Abend viel Anregung und Stoff bekam» (<bibl><title level="m">Bw. Th. I</title>, <biblScope>S. 80</biblScope></bibl>).</note>
+              ich gestern Abend viel Anregung und Stoff bekam» (<bibl corresp="kbga-bibls-931">Bw. Th. I, S. 80</bibl>).</note>
           </epigraph>
           <salute>Liebe Freunde!</salute>
         </div>
@@ -137,8 +103,8 @@
             während <persName ref="kbga-actors-2228">Mose</persName> seine Hände emporhielt, <term ref="kbga-terms-427">Israel</term> siegte; wenn er aber seine Hände sinken
             ließ, siegten Israels Feinde. Im Gebet des Gottesmenschen war verborgen die unsichtbare
             Ursache des Sieges oder der Niederlage seines Volkes. Und wie ein Barometer zeigte das
-            Vorwärts- und Rückwärtsschwanken des Kampfes die <bibl><title level="m">Kraft oder
-                Unkraft seines Gebets</title></bibl>, seines Glaubens. Wir wollen von der
+            Vorwärts- und Rückwärtsschwanken des Kampfes die Kraft oder
+                Unkraft seines Gebets, seines Glaubens. Wir wollen von der
             Amalekiterschlacht sofort wieder auf unseren <hi rend="i">Lebenskampf</hi> zurückkommen,
             auf den Kampf zwischen Licht und Finsternis, zwischen Leben und Tod, zwischen
             Himmelsmacht und Höllenmacht, zwischen Gott und dem Teufel, in dem wir drinstehen. Eine
@@ -187,8 +153,8 @@
             Da soll nun auf den kommenden Bettag<note xml:id="n02">Alljährlich am dritten Sonntag im
               September wird in den protestantischen und katholischen Kirchen der Schweiz der
               Eidgenössische Dank-, Buß- und Bettag als religiös-patriotischer Festtag begangen.
-              Durch Beschluß der Tagsatzung (bis <date when="1848">1848</date> einziges gemeinsames
-              politisches Organ der Gesamtschweiz) von <date when="1832">1832</date> wurde er für
+              Durch Beschluß der Tagsatzung (bis 1848 einziges gemeinsames
+              politisches Organ der Gesamtschweiz) von 1832 wurde er für
               alle Stände (= Kantone) verbindlich gemacht.</note> hin ein <pb xml:id="p369" ed="pga"/>jedes für sich selbst sich klar zu machen suchen, wer die Kämpfer sind hüben und
             drüben und was die großen Gegensätze von Gott und Teufel in unserem Volksleben.</p>
           <p>Wir könnten aber schließlich auch in die weite <hi rend="i">Welt</hi> hinaussehen und
@@ -199,7 +165,7 @@
             Leben der Tier- und Pflanzenwelt, und die Steine und die Gestirne des Himmels würden uns
             erzählen vom Leiden und von den Freuden, vom Bösen und vom Guten und von den Rätseln und
             von den Offenbarungen Gottes auch in der <hi rend="i">Natur</hi>, die sich mit uns sehnt
-            nach Erlösung und Verwandlung [vgl. <ref type="can" subtype="bible" target="Röm.8.22">Röm. 8, 22</ref>]. Wohin wir auch blicken, redet uns die Erfahrung unseres Lebens und
+            nach Erlösung und Verwandlung [vgl. <ref type="can" subtype="bible" target="Röm.8.22">Röm. 8,22</ref>]. Wohin wir auch blicken, redet uns die Erfahrung unseres Lebens und
             die Beobachtung der Welt um uns von diesem heiligen Krieg, von den tiefen Gegensätzen
             zweier ganz verschiedener Welten, von ihrem Ringen und Kämpfen um die Herrschaft. Ja,
             das ist unsere Amalekiterschlacht. Wir sehen sie alle. Wir müssen sie sehen.</p>
@@ -214,10 +180,10 @@
             vor sich hat, freuen uns oder betrüben uns darüber, machen uns einen Begriff und ein
             Urteil davon, suchen daran zu rütteln und zu verbessern, sie [in] Bewegung zu setzen
             oder stillzustellen, etwa wie ein Wilder, der wirklich zum ersten Mal ein Automobil, <pb xml:id="p370" ed="pga"/>oder wie ein Pfarrer, der eine Strickmaschine<note xml:id="n03">Unter den Industrieunternehmen, in denen die Mehrzahl der erwerbstätigen
-              Bevölkerung Safenwils arbeitete, war die Strickerei Hochuli das bedeutendste (<persName ref="kbga-actors-2151">Barth</persName>
-              spricht von 500 Angestellten und Arbeitern: <bibl><title level="m">Bw. Th. I</title>, <biblScope>S.
-                123</biblScope></bibl>). An den Strickmaschinen arbeiteten die Frauen zu extrem niedrigen
-              Löhnen. Über die permanenten Konflikte Barths mit dem «Fabrikanten» vgl. <bibl><title level="m">Bw. Th. I</title>, <biblScope>S. 535</biblScope> (Register: Hochuli).</bibl>
+              Bevölkerung Safenwils arbeitete, war die Strickerei Hochuli das bedeutendste (Barth
+              spricht von 500 Angestellten und Arbeitern: <bibl corresp="kbga-bibls-931">Bw. Th. I, S.
+                123</bibl>). An den Strickmaschinen arbeiteten die Frauen zu extrem niedrigen
+              Löhnen. Über die permanenten Konflikte Barths mit dem «Fabrikanten» vgl. <bibl corresp="kbga-bibls-931">Bw. Th. I, S. 535 (Register: Hochuli).</bibl>
             </note> zu sehen und zu dirigieren bekäme. Wir ahnen und verstehen und beherrschen die
             verborgene <hi rend="i">Macht</hi> nicht, die die Amalekiterschlacht jetzt zum Sieg und
             jetzt zur Niederlage wendet, die die äußere Mechanik jetzt vorwärts und jetzt rückwärts
@@ -294,7 +260,7 @@
             Gottes. Wenn die Gottesmenschen nicht beten, <hi rend="i">nicht beten</hi> können oder
             nicht beten wollen, dann geschieht nichts, dann behauptet die Finsternis das Feld und
             macht Fortschritte. «Dieweil <persName ref="kbga-actors-2228">Mose</persName> seine Hand emporhielt, siegte <term ref="kbga-terms-427">Israel</term>, wenn er aber
-            seine Hand niederließ, siegte <term ref="kbga-terms-1419">Amalek</term>.» Solche <persName ref="kbga-actors-2228">Mose</persName>[s] <hi rend="i">braucht</hi> Gott für
+            seine Hand niederließ, siegte <term ref="kbga-terms-1419">Amalek</term>.» Solche Mose[s] <hi rend="i">braucht</hi> Gott für
             sein Reich und seine Sache. Wenn sie sich brauchen lassen, dann geht’s vorwärts, wenn
             sie sich nicht brauchen lassen aus Angst und Trägheit, dann heißt’s eben Stillstand und
             Rückschritt. <hi rend="i">Hier</hi> müssen wir hinsehen, wenn wir das Leben von innen
@@ -304,7 +270,7 @@
             und haben auch gehört, daß sie da und dort tatsächlich unter uns vorhanden sind; nur daß
             sie noch nicht zu ihrem Beruf erwacht scheinen. Warum sollst nicht du, warum nicht ich
             Mose sein, der sich von Gott brauchen läßt? und wenn wir nicht <persName ref="kbga-actors-2228">Mose</persName> sein <pb xml:id="p373" ed="pga"/>sollten, warum nicht wenigstens <persName ref="kbga-actors-5800">Aaron</persName> und <persName ref="kbga-actors-5826">Hur</persName>, die in treuer
-            Gemeinschaft <persName ref="kbga-actors-2228">Mose</persName> beten helfen? Ja, es mag jetzt nur einmal jedes denken, es gehe
+            Gemeinschaft Mose beten helfen? Ja, es mag jetzt nur einmal jedes denken, es gehe
               ihns<note xml:id="n04">Akkusativ von «es».</note> an, wenn ich sage: <hi rend="i">Du</hi> bist der Gottesmensch, auf den Alles ankommt, von dem Alles abhängt! Du hast
             es in der Hand und bist verantwortlich für Sieg oder Niederlage, Licht oder Finsternis,
             <term ref="kbga-terms-1419">Amalek</term> oder <term ref="kbga-terms-427">Israel</term> in deinem Leben. Aber wohlverstanden nicht nur in deinem Leben!
@@ -313,9 +279,9 @@
             für das, was geschieht zwischen Himmel und Erde! Ja, Du! Denn du kannst beten, und das
             Gebet ist die Macht, die Himmel und Erde bewegt. <hi rend="i">Gott wartet</hi> darauf,
             daß du ihn von ganzem Herzen suchst, und wenn du ihn suchst, läßt er sich von dir finden
-            [vgl. <ref type="can" subtype="bible" target="Jer.29.13">Jer. 29, 13f.</ref>], und wenn
+            [vgl. <ref type="can" subtype="bible" target="Jer.29.13">Jer. 29,13f.</ref>], und wenn
             du ihn gefunden hast, so gibt er dir die Macht, Berge zu versetzen, wenn es sein muß
-            [vgl. <ref type="can" subtype="bible" target="1.Kor.13.2">1. Kor. 13, 2</ref>]. Nicht
+            [vgl. <ref type="can" subtype="bible" target="1.Kor.13.2">1. Kor. 13,2</ref>]. Nicht
             ratlos sollst du dem Leben gegenüberstehen, sondern als einer, der weiß. Nicht machtlos
             oder als törichter Pfuscher sollst du vor der äußeren Mechanik des Lebens stehen,
             sondern als einer, der sie arbeiten läßt, so wie es recht ist. Nicht spielen sollst du
@@ -337,10 +303,10 @@
             alles nicht will, was die Menschenkinder leiden und einander zuleide tun. Gottes Leben
             ist das volle Gegenteil von der Verwirrung, dem Stumpfsinn, den Entsetzlichkeiten des
             Menschenlebens. Und Lichter sind dir aufgeleuchtet und Kräfte hast du wirken gespürt, an
-            denen du merktest: Gott ist am Werke, Gott steht im Kampfe Tag und Nacht<note xml:id="n05">Assoziation an die <bibl corresp="kbga-songs-88" type="song"><biblScope>1. Strophe</biblScope> des Liedes «<title level="a">Zeuch an die Macht, du Arm des
-              Herrn</title>» von <author ref="kbga-actors-1389">Fr. Oser</author> (Nr.
-                <idno>83</idno>; <bibl><title level="m">GERS [1952]</title> <idno>194</idno></bibl>; <bibl><title level="m">EG</title> <idno>377</idno></bibl>)</bibl>: <cit><quote rend="block">Wir sind im Kampfe Tag und Nacht
-                …</quote></cit>
+            denen du merktest: Gott ist am Werke, Gott steht im Kampfe Tag und Nacht<note xml:id="n05">Assoziation an die <bibl corresp="kbga-songs-88" type="song">1. Strophe des Liedes «Zeuch an die Macht, du Arm des
+              Herrn» von <author ref="kbga-actors-1389">Fr. Oser</author> (Nr.
+                83; GERS [1952] 194; <title level="m">EG</title> 377)</bibl>: <q rend="block">Wir sind im Kampfe Tag und Nacht
+                …</q>
             </note>. Er will uns frei machen, wie er selber frei ist. Er will uns stark machen, wie
             er selber stark ist, er will uns selig machen, wie er selber selig ist. Und nun weißt du
             noch etwas: du weißt, daß <hi rend="i">Gott siegen wird</hi>, weil er der Herr ist, und
@@ -354,13 +320,13 @@
             immer Krieg gegeben hat — ja, ja, das ist alles auch wahr, aber nicht wahr, du weißt
             eben etwas, das noch wahrer ist: Gott! Der lebendige Gott! Der Gott, der Meister wird!
             Der Gott, der sich vor nichts fürchtet, sondern spricht: siehe, ich mache Alles neu
-              [<ref type="can" subtype="bible" target="Jer.21.5">Apk. 21, 5</ref>]!</p>
+              [<ref type="can" subtype="bible" target="Jer.21.5">Apk. 21,5</ref>]!</p>
           <p>Das ist der <hi rend="i">Unterschied</hi> der Gottesmenschen von den gewöhnlichen
             Menschen. Die gewöhnlichen Menschen wissen das, was auch wahr ist: eben das Böse,
             Traurige, Kleine, Knorzige, Hindernde, das tatsächlich da ist und sich geltend macht;
             die Gottesmenschen wie <persName ref="kbga-actors-2228">Mose</persName> wissen das auch, aber sie wissen zugleich, was noch wahrer
             ist: daß es Gott ernst ist, daß bei Gott Macht ist über Alles, daß Gott alle Tränen
-            trocknen [vgl. <ref type="can" subtype="bible" target="Jes.25.8">Jes. 25, 8</ref>] und
+            trocknen [vgl. <ref type="can" subtype="bible" target="Jes.25.8">Jes. 25,8</ref>] und
             alle Sünde vergeben und allen Tod in Leben verwandeln will. Diese Klarheit leuchtet aus
             ihren Augen, macht ihr Herz froh, ihr Gewissen fest, ihren Gang leicht, mit dieser
             festen Gewißheit pakken sie das Leben an. Und nun bist du ein Mensch, der betet, d.h.
@@ -370,22 +336,22 @@
             herunterziehen und stumpf und traurig machen will. Du siehst, wie die Menschen sind. Du
             siehst die Berge sich türmen dem Kommen des Gottesreiches zu trotz. Aber du bietest <hi rend="i">dem Trotze Trotz</hi>. Du hast ein Dennoch! bereit, das nie versagt, nirgends
             zum Schweigen zu bringen ist. Du siehst über alles Widrige und Kleine hinweg auf den
-            großen, gnädigen Gott, der hilft und vom Tode errettet [vgl. <ref type="can" subtype="bible" target="Ps.68.21">Ps. 68, 21</ref> ]. Du streckst dich aus nach ihm:
+            großen, gnädigen Gott, der hilft und vom Tode errettet [vgl. <ref type="can" subtype="bible" target="Ps.68.21">Ps. 68,21</ref> ]. Du streckst dich aus nach ihm:
             ich will dich sehen, dich und nur dich und dich ganz! Du rufst ihn an in der Not [vgl.
-              <ref type="can" subtype="bible" target="Ps.50.15">Ps. 50, 15</ref>], in den Tiefen der
+              <ref type="can" subtype="bible" target="Ps.50.15">Ps. 50,15</ref>], in den Tiefen der
             Sünde, in der Nacht einer gottlosen Welt, im Angesicht des Todes: Du mußt dich mir
             zeigen, ich kann nicht ohne dich sein und du nicht ohne mich, weil ich dein Kind bin.
             Und wenn du ihn scheinbar nicht sehen kannst, wenn die Wogen des Unvollkommenen, des
             Bösen, dessen, was leider vorläufig noch wahr ist, über dir zusammenschlagen wollen,
             dann schließest du die Augen und weißt, daß er dir doch nahe ist und daß er die Menschen
             und unsere Gemeinde und die weite Welt um keinen Preis aufgeben kann und daß er uns zum
-            Ziele führt auch durch die Nacht<note xml:id="n06">Zitate aus dem Lied <bibl corresp="kbga-songs-33" type="song">«<title level="a">So nimm denn
-              meine Hände</title>» von <author ref="kbga-actors-1365">J. Hausmann</author>; <biblScope>Strophe 2</biblScope>: «… es will die Augen schließen»; <biblScope>Strophe 3</biblScope>:
-              «… du führst mich doch zum Ziele auch durch die Nacht» (<bibl><title level="m">EG</title> <idno>376</idno></bibl>)</bibl>.</note>.</p>
+            Ziele führt auch durch die Nacht<note xml:id="n06">Zitate aus dem Lied <bibl corresp="kbga-songs-33" type="song">«So nimm denn
+              meine Hände» von <author ref="kbga-actors-1365">J. Hausmann</author>; Strophe 2: «… es will die Augen schließen»; Strophe 3:
+              «… du führst mich doch zum Ziele auch durch die Nacht» (<title level="m">EG</title> 376)</bibl>.</note>.</p>
           <p>Und nach diesem Ziele bist du nun innerlich beständig <hi rend="i">in Bewegung</hi>.
             Diese Bewegung über die Welt hinweg zu Gott hin wird nun dein eigentliches Leben. Immer
             wieder mußt du ansetzen, immer wieder zu Gott sagen: ich lasse dich nicht, du segnest
-            mich denn! [<ref type="can" subtype="bible" target="Gen.32.27">Gen. 32, 27</ref>]. Das
+            mich denn! [<ref type="can" subtype="bible" target="Gen.32.27">Gen. 32,27</ref>]. Das
             ganze Gewicht deines inwendigen Lebens fällt auf das stürmische Verlangen, ihn
             wahrzunehmen, seine Hand zu ergreifen, der der Herr und Meister ist — so, nun denk dir’s
             einen Augenblick: ein solcher betender Mensch <hi rend="i">seist du!</hi>, und nun
@@ -427,13 +393,14 @@
           <p>Und glaubt ihr nicht auch, daß die Wirkung solcher betender Menschen dann noch viel
             weiter gehen würde, auch auf <hi rend="i">Volk</hi> und Vaterland, ja, auf die weite <hi rend="i">Welt</hi>, die sich sehnt nach etwas Anderem, Besserem in <pb xml:id="p377" ed="pga"/>ihrer großen Not, die aber durch nichts Anderes in Bewegung gesetzt werden
             kann als durch Gott selbst; und Gott will von uns gesucht und gebeten sein, wenn er was
-            soll geben<note xml:id="n07">Zitat aus dem Lied <bibl corresp="kbga-songs-46" type="song">«<title level="a">Mache dich, mein Geist, bereit</title>» von <author ref="kbga-actors-2396">J.
-              B. Freystein</author> (Nr. <idno>298</idno>,
-              <biblScope>Strophe 7</biblScope>; <bibl><title level="m">GERS [1952]</title> <idno>302</idno>, <biblScope>6</biblScope></bibl>; <bibl><title level="m">EG</title> <idno>387</idno>, <biblScope>4</biblScope></bibl>)</bibl>.</note>. Glaubt ihr nicht auch, daß vom Beten
+            soll geben<note xml:id="n07">Zitat aus dem Lied <bibl corresp="kbga-songs-46" type="song">«Mache dich, mein Geist, bereit» von <author ref="kbga-actors-2396">J.
+              B. Freystein</author> (Nr. 298,
+              Strophe 7; GERS [1952] 302, 6; EG 387, 4)</bibl>.</note>. Glaubt ihr nicht auch, daß vom Beten
             solcher Menschen, von ihrem Ganz-auf-Gott-Abstellen <hi rend="i">Revolutionen</hi>,
             Erneuerungen zum Besseren ausgehen könnten, größer und schöner als Alles miteinander,
             was bis jetzt zur Hebung der Menschheit geleistet worden ist?</p>
-          <p><hi rend="i">Wo sind sie</hi>, diese Menschen, die sich durch ihren Glauben Gott
+          <p>
+                        <hi rend="i">Wo sind sie</hi>, diese Menschen, die sich durch ihren Glauben Gott
             darbieten, daß er so Großes, das Allergrößte an uns tun kann? Ist ihr Beten noch ein
             schwaches, unzulängliches, halbes Beten? Ist ihnen die Last zu schwer, die es da gilt
             auf sich zu nehmen? Ahnen sie ihren wunderbaren Beruf noch nicht? Fehlt es ihnen an der
@@ -452,17 +419,17 @@
               11f.</ref>]! Aber was brauche ich es euch erst zu sagen? Ihr <hi rend="i">wißt es</hi>
             so gut und besser als ich. Gott redet mit euch! Laßt ihn mit euch reden, und redet mit
             ihm! Er ist ja nicht ferne einem Jeglichen unter uns, in ihm leben, weben und sind wir
-              [<ref type="can" subtype="bible" target="Act.17.27">Act. 17, 27f.</ref>]. Wie können
+              [<ref type="can" subtype="bible" target="Act.17.27">Act. 17,27f.</ref>]. Wie können
             wir anders und wie lange noch? <hi rend="i">Jauchzet</hi> dem Herrn, alle Welt! Dienet
             dem Herrn mit Freuden und kommt vor sein Angesicht mit Frohlocken! Denn der Herr ist
-            freundlich, und seine Gnade währet ewig und seine Wahrheit für und für [<ref type="can" subtype="bible" target="Ps.100.1">Ps. 100, 1f.</ref>
+            freundlich, und seine Gnade währet ewig und seine Wahrheit für und für [<ref type="can" subtype="bible" target="Ps.100.1">Ps. 100,1f.</ref>
             <ref type="can" subtype="bible" target="Ps.100.5">5</ref>.].</p>
         </div>
         <div type="closer">
-          <salute>Amen.<note xml:id="n08">Am Dienstag, <date when="1915-09-14">14. September</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> an
+          <salute>Amen.<note xml:id="n08">Am Dienstag, 14. September schrieb Barth an
               <persName ref="kbga-actors-403">Thurneysen</persName>: «Ich schicke dir hier unerbetenerweise die drei Predigten über <persName ref="kbga-actors-2228">Mose</persName>. Das
               Hölzige und Forcierte daran sehe ich schon auch, konnte es aber jetzt noch nicht
-              anders sagen. Sag mir dann, wo und wie dus anders machen würdest!» (<ref type="pub" subtype="ges27-abk"><bibl><title level="m">Bw. Th. I</title>, <biblScope>S. 81</biblScope></bibl></ref>) Eine
+              anders sagen. Sag mir dann, wo und wie dus anders machen würdest!» (<bibl corresp="kbga-bibls-931">Bw. Th. I, S. 81</bibl>) Eine
               schriftliche Äußerung <persName ref="kbga-actors-403">Thurneysens</persName> liegt nicht vor.</note>
           </salute>
         </div>
@@ -470,8 +437,8 @@
         <div type="songs">
             <head>Lieder:</head>
             <listBibl type="songs">
-              <bibl corresp="kbga-songs-119" type="song">Nr. <idno>311</idno>: «<title level="a">Mit dem Herrn fang’ alles an!</title>» von <author ref="kbga-actors-8803">Chr. Hohlfeldt</author>, <biblScope>Strophen 1-2</biblScope> (= <bibl><title level="m"><abbr ref="kbga-abbreviations-324">Reichs-Lieder</abbr></title> <idno>77</idno></bibl>)</bibl>
-              <bibl corresp="kbga-songs-120" type="song">Nr. <idno>159</idno>: «<title level="a">Fahre fort, fahre fort</title>» von <author ref="kbga-actors-5610">J. E. Schmidt</author>, <biblScope>Strophen 4-6</biblScope> (= <bibl><title level="m"><abbr ref="kbga-abbreviations-108">GERS [1952]</abbr></title> <idno>351</idno>, <biblScope>5-7</biblScope></bibl>; <bibl><title level="m"><abbr ref="kbga-abbreviations-88">EG</abbr></title> <idno>213</idno>, <biblScope>5-7</biblScope></bibl>)</bibl>
+              <bibl corresp="kbga-songs-119" type="song">Nr. 311: «Mit dem Herrn fang’ alles an!» von <author ref="kbga-actors-8803">Chr. Hohlfeldt</author>, Strophen 1-2 (= Reichs-Lieder 77)</bibl>
+              <bibl corresp="kbga-songs-120" type="song">Nr. 159: «Fahre fort, fahre fort» von <author ref="kbga-actors-5610">J. E. Schmidt</author>, Strophen 4-6 (= GERS [1952] 351, 5-7; EG 213, 5-7)</bibl>
             <!--<item><ref type="pub" subtype="bib1-ein1935" target="b0311">Nr. 311</ref>: «Mit dem
               Herrn fang’ alles an!» von Chr. Hohlfeldt, Strophen 1- 2 (<bibl><title level="m"
                   >Reichs-Lieder</title>, <ref type="pub" subtype="bib1-ein1913" target="b0077">Nr.

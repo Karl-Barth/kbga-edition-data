@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Matthäus 26,30-46</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 26,30-46, 1. März 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5012 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5012 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 101–115.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1186" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 26,30-46, 1. März 1914. <idno ref="https://kba.karl-barth.ch/objects/1650">KBA 1186</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 26,30-46, 1. März 1914. <ref target="https://kba.karl-barth.ch/objects/1650">KBA 1186</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,12 @@
       <div type="sermon">
         <pb xml:id="p101" ed="pga"/>
         <div type="opener">
-        <head><idno>208</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-03-01">1. März 1914</date></dateline>
+        <head>
+                        <idno>208</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-03-01">1. März 1914</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Mt.26.30 Mt.26.46">Matthäus 26,30–46</ref>
@@ -125,7 +89,8 @@
           </epigraph>
           <argument>
             <ab>
-              <hi rend="i"><placeName ref="kbga-places-864">Gethsemane</placeName></hi>
+              <hi rend="i">
+                                <placeName ref="kbga-places-864">Gethsemane</placeName></hi>
             </ab>
           </argument>
           <salute>Liebe Freunde!</salute>
@@ -199,7 +164,8 @@
                wir dort einen sehen, der das Leid anders als wir gewöhnlich, auf eine göttliche
                große Weise aufgenommen und verarbeitet hat.</p>
         
-        <p><pb xml:id="p104" ed="pga"/> Das erste, was uns in der <placeName ref="kbga-places-864">Gethsemane</placeName>-Geschichte auffallen muß, ist, daß Jesus seine
+        <p>
+                        <pb rend="noPipe" xml:id="p104" ed="pga"/> Das erste, was uns in der <placeName ref="kbga-places-864">Gethsemane</placeName>-Geschichte auffallen muß, ist, daß Jesus seine
                Not keineswegs in erster Linie als seine persönliche private Not betrachtet und
                behandelt. Es liegt ihm Alles daran, die ihn begleitenden <hi rend="i">Jünger zu
                   beteiligen</hi>, hineinzuziehen in seine Gedanken. Mit einer ganz auffallenden
@@ -230,9 +196,9 @@
         
         <q rend="block">
           <lg>
-            <l xml:space="preserve"><pb xml:id="p105" ed="pga"/> Es kann mir nichts geschehen,</l>
+            <l xml:space="preserve"><pb rend="noPipe" xml:id="p105" ed="pga"/> Es kann mir nichts geschehen,</l>
             <l xml:space="preserve">als was er hat ersehen</l>
-            <l xml:space="preserve">und was mir selig ist!<note xml:id="n01"><bibl corresp="kbga-songs-18" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>263</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>292</idno></bibl>): «<title level="a">In allen meinen Taten…</title>» von <author ref="kbga-actors-1354"><choice><sic ed="pga">P. Flemming</sic><corr resp="ak" type="misprint">P. Fleming</corr></choice></author> (<date from="1609" to="1640">1609–1640</date>),<biblScope> Strophe </biblScope>3.</bibl></note></l>
+            <l xml:space="preserve">und was mir selig ist!<note xml:id="n01"><bibl corresp="kbga-songs-18" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>263</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>292</idno></bibl>): «<title level="a">In allen meinen Taten…</title>» von <author ref="kbga-actors-1354"><choice><sic ed="pga">P. Flemming</sic><corr resp="ak" type="misprint">P. Fleming</corr></choice></author> (<date from="1609" to="1640">1609–1640</date>),<biblScope> Strophe</biblScope>3.</bibl></note></l>
           </lg>
         </q>
         <p>Nun wars umgekehrt: die Jünger ahnten nichts von einer äußeren Gefahr. Sie
@@ -343,7 +309,8 @@
                Welt- und Böse- und Gottloswerden. Er muß der Welt Sünde tragen, unter der Welt Sünde
                leiden können, auch wenn er damit ganz allein stehen, auch wenn er damit nicht Dank,
                sondern Gleichgültigkeit und Undank ernten sollte.</p>
-        <p><hi rend="i">Wachet und betet!</hi> Was heißt nun das? Wir können es in dem einzigen
+        <p>
+                        <hi rend="i">Wachet und betet!</hi> Was heißt nun das? Wir können es in dem einzigen
                Ausdruck zusammenziehen: Seid bereit! Bereit für die
                <pb xml:id="p109" ed="pga"/>
                 Stunde, wo Unheil, Not und Verderben über euch hereinbricht und hinter ihnen
@@ -373,7 +340,7 @@
                Leute gegen uns herankommen. Wir sind dann eben ganz sicher schlecht unter den
                Schlechten. Was man nicht erworben hat, das hat man nicht.</p>
        
-        <p> <pb xml:id="p110" ed="pga"/> Vielleicht wirst du irgendwo so recht erschüttert in deinem Vertrauen, das du zu
+        <p> <pb rend="noPipe" xml:id="p110" ed="pga"/> Vielleicht wirst du irgendwo so recht erschüttert in deinem Vertrauen, das du zu
                einem Menschen hast. Das kann dir sehr leicht einmal geschehen, und das ist etwas
                Trauriges. Noch trauriger aber ist es, wenn wir uns nun durch eine solche Erfahrung
                innerlich vergiften, uns von dem betreffenden Menschen abspenstig machen lassen. Wenn
@@ -406,14 +373,22 @@
                beizeiten vermeiden, müssen uns schon zu ihren Lebzeiten zu unseren Angehörigen so
                stellen, daß die Sünde in irgendeiner Form nicht Meister werden kann über uns, wenn
                sie nun, einem höheren Rufe folgend, Abschied nehmen von uns. Beizeiten! Wachet und
-               betet! <q rend="block"><lg><l xml:space="preserve">O lieb, solang du lieben 
-                 kannst,</l><l xml:space="preserve">o lieb, solang du lieben magst,</l><l xml:space="preserve">die 
-                   Stunde kommt, die Stunde kommt,</l><l xml:space="preserve">wo du am Grabe stehst und 
+               betet! <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">O lieb, solang du lieben 
+                 kannst,</l>
+                                <l xml:space="preserve">o lieb, solang du lieben magst,</l>
+                                <l xml:space="preserve">die 
+                   Stunde kommt, die Stunde kommt,</l>
+                                <l xml:space="preserve">wo du am Grabe stehst und 
                   klagst.<note xml:id="n03">Anfang des <date when="1830">1830</date> entstandenen, 
                     zuerst im <hi rend="i">Morgenblatt</hi> <date when="1841">1841</date>, Nr. 271, veröffentlichten 
-                    Gedichtes von <persName ref="kbga-actors-1358">F. Freiligrath</persName> (<date from="1810" to="1876">1810–1876</date>). In: <bibl corresp="kbga-bibls-1540"><author ref="kbga-actors-1358">F. Freiligrath</author>, <title level="m">Gesammelte Werke in 6 Bänden</title>, hrsg. von <editor>J. Schwering</editor>, <pubPlace>Berlin</pubPlace>/<pubPlace>Leipzig</pubPlace>/<pubPlace>Wien</pubPlace>/<pubPlace> Stuttgart</pubPlace> <date when="1909">1909</date>, <biblScope unit="volume">Bd. 1</biblScope>, <biblScope>S. 184</biblScope></bibl>.</note></l></lg></q> Bereit sein, bevor die Stunde kommt.</p>
+                    Gedichtes von <persName ref="kbga-actors-1358">F. Freiligrath</persName> (<date from="1810" to="1876">1810–1876</date>). In: <bibl corresp="kbga-bibls-1540"><author ref="kbga-actors-1358">F. Freiligrath</author>, <title level="m">Gesammelte Werke in 6 Bänden</title>, hrsg. von <editor>J. Schwering</editor>, <pubPlace>Berlin</pubPlace>/<pubPlace>Leipzig</pubPlace>/<pubPlace>Wien</pubPlace>/<pubPlace> Stuttgart</pubPlace> <date when="1909">1909</date>, <biblScope unit="volume">Bd. 1</biblScope>, <biblScope>S. 184</biblScope></bibl>.</note></l>
+                            </lg>
+                        </q> Bereit sein, bevor die Stunde kommt.</p>
         <p>Ich könnte noch lange fortfahren mit Aufzählen von solchen Fällen. «Bereit sein ist
-                  alles!»<note xml:id="n04">Das Zitat aus <bibl corresp="kbga-bibls-1541"><author ref="kbga-actors-382">W. Shakespeare</author>, <title level="m">Hamlet</title> V, 2
+                  alles!»<note xml:id="n04">Das Zitat aus <bibl corresp="kbga-bibls-1541">
+                                <author ref="kbga-actors-382">W. Shakespeare</author>, <title level="m">Hamlet</title> V, 2
                   («The readiness is all»)</bibl> wurde im Vorkriegsdeutschland zum geflügelten Wort, das
                   die politische Stimmung deutlich spiegelt.</note> hat ein großer Dichter gesagt.
                Bereit sein <hi rend="i">ist</hi> wirklich Alles, es ist das große Geheimnis des
@@ -425,7 +400,8 @@
                eingestehen müßt: es war zu spät, ich hatte mich nicht vorgesehen, ich war auf einen
                solchen Fall nicht gefaßt, das Gute war zu schwach in mir. </p>
         
-        <p><pb xml:id="p112" ed="pga"/> Doch wir wenden uns zurück zu Jesus. Wir verstehen seine Mahnung zum Bereitsein erst
+        <p>
+                        <pb rend="noPipe" xml:id="p112" ed="pga"/> Doch wir wenden uns zurück zu Jesus. Wir verstehen seine Mahnung zum Bereitsein erst
                so ganz, wenn wir sehen, wie er selber nun wirklich bereit gewesen ist gegenüber der
                Gefahr der Gottesentfremdung, die im Leiden auch auf ihn, ja auf ihn vor Allem
                wartete. Das ist eben das Wunderbare bei Jesus, daß wir bei ihm das, was er geredet
@@ -452,8 +428,14 @@
                selber wünscht und ersehnt, steht ihm etwas Anderes: der Wille Gottes: Nicht wie ich
                will, sondern wie du willst. Du! Jesus spricht ganz offen von dem, was er wünscht und
                hofft, aber von vornherein steht hoch über seinem Wünschen und Hoffen die Einsicht:
-               <pb xml:id="p113" ed="pga"/>
-               <q rend="block"><lg><l xml:space="preserve">Gott wills machen,</l><l xml:space="preserve">daß die Sachen</l><l xml:space="preserve">gehen, wie es heilsam ist.<note xml:id="n05"><bibl type="song" corresp="kbga-songs-226">Anfang des <bibl corresp="kbga-bibls-1087">Liedes <idno>271</idno></bibl> von <author ref="kbga-actors-1370">J. D. Herrnschmidt</author> (<date to="1723" from="1647">1647–<choice><sic ed="pga">1699</sic><corr type="misprint">1723</corr></choice></date>).</bibl></note></l></lg></q> Jesus will nicht recht behalten mit seiner Furcht und seiner Hoffnung, er will,
+               
+               <q rend="block">
+                            <lg>
+                                <l xml:space="preserve"><pb rend="noPipe" xml:id="p113" ed="pga"/>Gott wills machen,</l>
+                                <l xml:space="preserve">daß die Sachen</l>
+                                <l xml:space="preserve">gehen, wie es heilsam ist.<note xml:id="n05"><bibl type="song" corresp="kbga-songs-226">Anfang des <bibl corresp="kbga-bibls-1087">Liedes <idno>271</idno></bibl> von <author ref="kbga-actors-1370">J. D. Herrnschmidt</author> (<date to="1723" from="1647">1647–<choice><sic ed="pga">1699</sic><corr type="misprint">1723</corr></choice></date>).</bibl></note></l>
+                            </lg>
+                        </q> Jesus will nicht recht behalten mit seiner Furcht und seiner Hoffnung, er will,
                daß auf alle Fälle und wie es auch gehe, Gott recht behalte.</p>
         <p>Seht, das heißt bereit sein, das heißt wachen und beten, wenn wir uns das so ganz
                klar machen, wie es dort Jesus getan hat: in dem, was das Leben mir jetzt bringt,
@@ -481,8 +463,25 @@
                geschritten ist: <hi rend="i">Mein Vater, ists nicht möglich, daß dieser Kelch von
                   mir gehe, ich trinke ihn denn, so geschehe dein Wille!</hi> Nun ist er schon
                hinaus über das Fragen und Bitten: Muß es sein? Könnte es nicht anders sein? Nun weiß
-               er nur noch das Eine: <q rend="block"><lg><l xml:space="preserve">Was mein Gott will, das will auch ich,</l><l xml:space="preserve">Sein Will, der ist der beste!<note xml:id="n06"><bibl type="song" corresp="kbga-songs-225"><biblScope>Vers 1</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>261</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>280</idno></bibl>) von <author ref="kbga-actors-1339">Albrecht Herzog von Preußen</author> (<date from="1490" to="1568">1490–1568</date>)</bibl> beginnt mit den Zeilen: <q rend="block"><lg>   <l xml:space="preserve">Was mein Gott will, das g’scheh allzeit,</l>   <l xml:space="preserve">Sein Will, der ist der beste.</l></lg></q> <bibl corresp="kbga-songs-178" type="song">In <bibl corresp="kbga-bibls-1087">Lied <idno>63</idno>,</bibl> «<title level="a">Durch Trauern und durch Plagen</title>», von <author ref="kbga-actors-1399">G. W. Sacer</author> (<date from="1635" to="1699">1635–1699</date>), <biblScope>Strophe 3</biblScope>,</bibl> heißt es: <q rend="block"><lg>   <l xml:space="preserve">Mein Gott und meine Liebe,</l>   <l xml:space="preserve">Was du willst, will auch ich.</l></lg></q> </note></l></lg></q> Eine schwindelnd hohe Reife des Lebens ist das, wo man so zum Schwersten sagen
-               kann: ich will es tragen! Wie es in einem alten Volkslied heißt: <q rend="block"><lg><l xml:space="preserve">Trotz Tod komm her,</l><l xml:space="preserve">ich fürcht dich nit!<note xml:id="n07"><bibl corresp="kbga-songs-179" type="song">Anfang der letzten Strophe aus «<title level="a">Es ist ein Schnitter, heißt der Tod</title>», <date when="1638">1638</date> zuerst überliefert (Dichter unbekannt)</bibl>.</note></l></lg></q> oder wie <persName ref="kbga-actors-131">Paul Gerhardt</persName> gesungen hat: <q rend="block"><lg><l xml:space="preserve">Ich will gehen in Angst und Not,</l><l xml:space="preserve">Ich will gehen bis in den Tod,</l><l xml:space="preserve">Ich will gehen ins Grab hinein</l><l xml:space="preserve">Und doch allzeit fröhlich sein!<note xml:id="n08"><bibl corresp="kbga-songs-180" type="song"><biblScope>Vers 15</biblScope> des Liedes «<title level="a">Auf den Nebel folgt die Sonn…</title>» von <author ref="kbga-actors-131">P. Gerhardt</author> (<date from="1607" to="1676">1607–1676</date>).</bibl></note></l></lg></q> </p>
+               er nur noch das Eine: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Was mein Gott will, das will auch ich,</l>
+                                <l xml:space="preserve">Sein Will, der ist der beste!<note xml:id="n06"><bibl type="song" corresp="kbga-songs-225"><biblScope>Vers 1</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>261</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>280</idno></bibl>) von <author ref="kbga-actors-1339">Albrecht Herzog von Preußen</author> (<date from="1490" to="1568">1490–1568</date>)</bibl> beginnt mit den Zeilen: <q rend="block"><lg>   <l xml:space="preserve">Was mein Gott will, das g’scheh allzeit,</l>   <l xml:space="preserve">Sein Will, der ist der beste.</l></lg></q> <bibl corresp="kbga-songs-178" type="song">In <bibl corresp="kbga-bibls-1087">Lied <idno>63</idno>,</bibl> «<title level="a">Durch Trauern und durch Plagen</title>», von <author ref="kbga-actors-1399">G. W. Sacer</author> (<date from="1635" to="1699">1635–1699</date>), <biblScope>Strophe 3</biblScope>,</bibl> heißt es: <q rend="block"><lg>   <l xml:space="preserve">Mein Gott und meine Liebe,</l>   <l xml:space="preserve">Was du willst, will auch ich.</l></lg></q> </note></l>
+                            </lg>
+                        </q> Eine schwindelnd hohe Reife des Lebens ist das, wo man so zum Schwersten sagen
+               kann: ich will es tragen! Wie es in einem alten Volkslied heißt: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Trotz Tod komm her,</l>
+                                <l xml:space="preserve">ich fürcht dich nit!<note xml:id="n07"><bibl corresp="kbga-songs-179" type="song">Anfang der letzten Strophe aus «<title level="a">Es ist ein Schnitter, heißt der Tod</title>», <date when="1638">1638</date> zuerst überliefert (Dichter unbekannt)</bibl>.</note></l>
+                            </lg>
+                        </q> oder wie <persName ref="kbga-actors-131">Paul Gerhardt</persName> gesungen hat: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Ich will gehen in Angst und Not,</l>
+                                <l xml:space="preserve">Ich will gehen bis in den Tod,</l>
+                                <l xml:space="preserve">Ich will gehen ins Grab hinein</l>
+                                <l xml:space="preserve">Und doch allzeit fröhlich sein!<note xml:id="n08"><bibl corresp="kbga-songs-180" type="song"><biblScope>Vers 15</biblScope> des Liedes «<title level="a">Auf den Nebel folgt die Sonn…</title>» von <author ref="kbga-actors-131">P. Gerhardt</author> (<date from="1607" to="1676">1607–1676</date>).</bibl></note></l>
+                            </lg>
+                        </q> </p>
                <p>Meine Freunde, das ist für uns, wenigstens wenn wir nicht ganz reife Christen
                sind, einfach zu hoch, da kommen wir nicht mehr
                <pb xml:id="p115" ed="pga"/>

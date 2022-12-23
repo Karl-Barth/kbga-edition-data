@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">"Als sie den Herrn sahen". Predigt über Johannes 20, 19-20</title>
         <title type="citation_line_1">Barth, Karl: "Als sie den Herrn sahen". Predigt über Johannes 20, 19-20, 29. März 1964</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12037 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12037 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 252–259.</title>
       </titleStmt>
       <editionStmt>
@@ -52,10 +52,10 @@
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Als sie den Herrn sahen, 1964, in: Ba.Pr.; St.G. Jg.16 (1964), Sp.261-264
 R.m.a. S.120-130. </bibl>
-        <bibl xml:id="B" corresp="KBA 1662.2" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2111">KBA 1662.2</idno>. </bibl>
-        <bibl xml:id="C" corresp="KBA 1662.1" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2210">KBA 1662.1</idno>. </bibl>
-        <bibl xml:id="D" corresp="KBA 1662.3" type="source">D (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/2211">KBA 1662.3</idno>. </bibl>
-        <bibl xml:id="E" corresp="KBA 912" type="source">E (Weitere Vorlage): Barth, Karl, "Als sie den Herrn sahen". Predigt über Joh. 20, 19-20, 29. März 1964. <idno ref="https://kba.karl-barth.ch/objects/6241">KBA 912</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <ref target="https://kba.karl-barth.ch/objects/2111">KBA 1662.2</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <ref target="https://kba.karl-barth.ch/objects/2210">KBA 1662.1</ref>. </bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): Barth, Karl, Predigt: Joh 20,19-20 (Ostern): "Als sie den Herrn sahen", 29. März 1964. <ref target="https://kba.karl-barth.ch/objects/2211">KBA 1662.3</ref>. </bibl>
+        <bibl xml:id="E" type="source">E (Weitere Vorlage): Barth, Karl, "Als sie den Herrn sahen". Predigt über Joh. 20, 19-20, 29. März 1964. <ref target="https://kba.karl-barth.ch/objects/6241">KBA 912</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -72,48 +72,8 @@ R.m.a. S.120-130. </bibl>
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,18 +83,24 @@ R.m.a. S.120-130. </bibl>
       <div type="opener">
       <head type="header">ALS SIE DEN HERRN SAHEN</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="Joh.20.19 Joh.20.20">Johannes 20,19–20</ref>
+        <cit>
+                            <ref type="can" subtype="bible" target="Joh.20.19 Joh.20.20">Johannes 20,19–20</ref>
         <quote>Am Abend jenes Tages, des ersten der Woche — die Türen des Ortes, wo die Jünger waren, waren aber verschlossen aus Furcht vor den Juden —, kam Jesus und trat in die Mitte und spricht zu ihnen: «Friede sei mit euch!» Und indem er das sagte, zeigte er ihnen seine Hände und seine Seite. Da wurden die Jünger froh, als sie den Herrn sahen.</quote>
-      </cit></epigraph>
-        <dateline>Ostersonntag, <date when="1964-03-29">29. März 1964</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName></dateline>
+      </cit>
+                    </epigraph>
+        <dateline>Ostersonntag, <date when="1964-03-29">29. März 1964</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName>
+                    </dateline>
         <div type="prayer">
           <p>Lieber, allmächtiger Gott und Vater! Wenn wir es doch recht erkennen würden, was du für dein Volk, für die ganze Welt und so auch für uns tatest, indem du Jesus Christus, deinen Sohn, unseren Bruder, von den Toten, denen auch er zugesellt war, auferweckt und mit unvergänglichem Leben zu deiner Ehre und unserem Heil bekleidet hast! Wenn wir doch so recht dankbar wären für die Verheißung, den Trost und die Weisung, die du damit uns anderen Menschen ein für allemal gegeben hast! Wenn wir es doch annehmen und in dem, was wir sind, denken, reden und tun, bewähren wollten, daß der Ostertag unser aller wahrer Geburtstag ist, dem sich alle unsere anderen Tage anreihen dürfen als Tage der Freiheit, des Friedens und der Freude!</p>
           <p>Laß uns etwas davon merken, wenn wir in dieser Stunde miteinander beten, singen, dein Wort zu verkündigen und zu hören versuchen. Du weißt ja, daß auch unser tiefster Ernst und Eifer, auch unsere größte Aufmerksamkeit das nicht schaffen können, daß wir jetzt eine rechte Ostergemeinde werden. Das Licht, das es dazu hier wie in allen Kirchen dieser Stadt und überall braucht, kann nur von dir selber kommen. Wir bitten dich ohne Anspruch, aber in kindlichem Vertrauen, du möchtest es daran nirgends und so auch uns nicht fehlen lassen.</p>
           <p>Unser Vater …!</p>
-          <div type="closer"><salute>Amen. <pb ed="A" n="121"/></salute></div>
+          <div type="closer">
+                            <salute>Amen. 
+                            </salute>
+                        </div>
         </div>
 
-          <salute>Meine lieben Brüder!</salute>
+          <salute><pb ed="A" n="121"/> Meine lieben Brüder!</salute>
       </div>
       <div type="main">
         <p>Wir sind hier zur Feier des Gedächtnisses «jenes Tages», jenes ersten Wochentages. An Stelle des jüdischen Sabbats als des siebenten ist die<pb xml:id="p253" ed="pga"/>ser erste in der christlichen Gemeinde wie von selbst zum wahren Sabbat und so zu ihrem wöchentlichen Feiertag geworden. Der hat also seinen Grund und Ursprung in jenem Tag. In den germanischen Sprachen heißt er ein wenig heidnisch: der «Sonntag». Nun ja, weil an jenem Tag mitten in der dunklen Welt der Ungerechtigkeit die Sonne der Gerechtigkeit [vgl. <ref type="can" subtype="bible" target="Mal.3.20">Mal. 3,20</ref>] aufging, mag er jetzt auch Sonntag heißen. Besser wird er doch in den romanischen Sprachen der «Tag des Herrn» genannt: weil Er, der Herr, die an jenem Tag aufgegangene Sonne der Gerechtigkeit ist.</p>
@@ -148,19 +114,39 @@ R.m.a. S.120-130. </bibl>
         <p>Zu ihnen kam, in ihre Mitte trat der auferstandene Jesus. Wozu? Um sich in der Macht der großen Barmherzigkeit Gottes, seines Vaters, zum Haupt dieses verlorenen Haufens, dieser Mühseligen und Beladenen [vgl. <ref type="can" subtype="bible" target="Mt.11.28">Mt. 11,28</ref>], dieser Betrübten und Erschrockenen und Feiglinge — zum Haupt dieses durch und durch kranken Leibes [vgl. <ref type="can" subtype="bible" target="Kol.1.18">Kol. 1,18</ref> u. ö.] zu machen. Er tat das in der denkbar einfachsten Weise: «Friede sei mit euch!», hat er zu ihnen gesagt, und das bedeutete in der damaligen Sprache nicht weniger, aber auch nicht mehr, als wenn bei uns ein Mensch zu anderen Menschen tritt und sagt: «Guten Abend (oder guten Tag) miteinander!» So menschlich, so als Ihresgleichen trat er in ihre Mitte. Aber wenn Zwei dasselbe tun, ist es nicht dasselbe. Jesus wünschte seinen Jüngern nicht nur, sondern Jesus brachte, ja schuf seinen Jüngern das, was jenes einfache Wort sagte: Frieden, einen guten Abend, einen guten Tag. Er tat das aber, indem er ihnen seine durchbohrten Hände, seine durchstochene Seite und also <pb ed="A" n="125"/> die Spuren seines Kreuzestodes zeigte. Damit offenbarte er sich selbst als der, dem es nicht nur wie durch ein Schicksal widerfahren war, so geschlagen, verwundet und getötet zu werden, der das vielmehr in der Freiheit des Gehorsams gegen Gott, seinen Vater, auf sich genommen hatte und dessen Schmach nun von Gott gerade zu seiner Ehre gemacht war. Gerade als das am Kreuz geschlachtete Lamm Gottes erwies er sich als der siegreich lebendige Löwe von Juda [vgl. <ref type="can" subtype="bible" target="Apk.5.5 Apk.5.6">Apk. 5,5f.</ref>]: als Erretter der ganzen von Gott geliebten Welt und so auch als ihr Erretter. So erschien und begegnete der auferstandene Jesus den Seinen: so als Prophet der einen unveränderlichen und unfehlbaren Wahrheit Gottes, der nun wirksam und <pb xml:id="p256" ed="pga"/> endgültig die Unterweisung, die Ordnung, die Ausrüstung, die Führung jenes verlorenen Haufens, seiner Gemeinde, in die Hand nahm. So machte er dieses Völklein in seiner ganzen Ohnmacht mächtiger als alle Weltvölker. So wünschte, nein brachte und schuf er ihm Frieden, den guten Abend, den guten Tag, indem er in seine Mitte trat.</p>
         <p>Wir dürfen und müssen hier aber etwas hinzufügen: Er trat, indem er in ihre Mitte trat, in die Mitte des Lebens jedes Einzelnen von ihnen: ob er nun <persName ref="kbga-actors-1814">Petrus</persName> oder <persName ref="kbga-actors-1073">Johannes</persName>, <persName ref="kbga-actors-2148">Andreas</persName> oder <persName ref="kbga-actors-2294">Jakobus</persName> hieß. Friede sei mit euch!, Guten Tag miteinander!, das hieß sofort: Friede gerade mit dir!, gerade dir einen guten neuen Tag! Ist er als das Haupt seines ganzen Leibes gestorben und auferstanden, dann auch als Haupt eines jeden von dessen Gliedern, dann auch zu deiner Rechtfertigung vor Gott, dann zur Heiligung auch deines Lebens! Steht sein Volk, indem er in seine Mitte trat, nicht mehr vor seiner Leiche, vor seinem Grab, nicht mehr vor einem Scherbenhaufen — dann auch du nicht, dann bist vielmehr auch du durch seine Auferstehung neu geboren zu einer lebendigen Hoffnung
           [vgl. <ref type="can" subtype="bible" target="1.Petr.1.0">1.Petr. 1,3</ref>]. Bekommt seine Gemeinde als solche seine Erlaubnis und seinen Befehl, zu <pb ed="A" n="126"/> beten: «Unser Vater im Himmel!» [<ref type="can" subtype="bible" target="Mt.6.9">Mt. 6,9</ref>], dann darfst und sollst gerade du Gott anrufen gerade als deinen Vater, darfst und sollst du wissen, daß gerade du sein liebes Kind bist. Was Alle angeht in der Begegnung des Auferstandenen mit seinen Jüngern, das geht unfehlbar eben dich an. «Mein Herr und mein Gott!» [<ref type="can" subtype="bible" target="Joh.20.28">Joh. 20,28</ref>], hat <persName ref="kbga-actors-3001">Thomas</persName> ausgerufen, als er ihn nach und mit allen Anderen erkannte.</p>
-        <p>Hier darf und muß aber noch etwas hinzugefügt werden: Der an jenem Tag in die Mitte seiner Jünger trat, trat eben damit in die Mitte, bestieg eben damit den ihm gebührenden Thron in der Mitte des ganzen Weltgeschehens. Frieden, einen guten Tag hat Jesus damals allen Menschen aller Völker und Zeiten der ganzen Erde, der ganzen sichtbaren und unsichtbaren Welt gewünscht, gebracht und geschaffen. Mitten in das ganze jetzt himmelhoch jauchzende, jetzt zu Tode betrübte Menschenvolk<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1552"><author ref="kbga-actors-136">J. W. Goethe</author>, <title level="m">Egmont</title>, Dritter Aufzug (aus dem Lied Klärchens)</bibl>: <q rend="block"><lg><l xml:space="preserve">…</l><l xml:space="preserve">Himmelhoch jauchzend,</l><l xml:space="preserve">Zum Tode betrübt —</l><l xml:space="preserve">Glücklich allein</l><l xml:space="preserve">Ist die Seele, die liebt.</l></lg></q>
-               </note>, mitten unter all die allzu dummen und allzu schlauen, allzu <pb xml:id="p257" ed="pga"/> sicheren und allzu verzagten, unter all die religiösen und nichtreligiösen Leute ist an jenem Tage der gekreuzigte und auferstandene Jesus als ihrer aller Herr mächtig hineingetreten. Mitten hinein in all die Krankheiten und Naturkatastrophen, all die Kriege und Revolutionen, die Friedensschlüsse und Friedensbrüche, in all den Fortschritt, Stillstand und Rückschritt, in all das unschuldige und schuldige menschliche Elend geschah es zu seiner Zeit, daß er sich erwies und offenbarte als der, der er war, ist und sein wird: Friede sei mit euch!, und zeigte ihnen seine Hände und seine Seite. Unter soviel Kraut und Unkraut ist an jenem Tag auch dieser Same gesät worden, reift auch er der Ernte entgegen. Verlassen wir uns darauf: Was an jenem Tag geschah, das wurde, war und blieb die Mitte, um die sich alles Andere bewegt, von dem es erstlich herkommt, dem es letztlich entgegeneilt. Es gibt viele wirkliche und viele scheinbare, viel helle und viel trübe <pb ed="A" n="127"/> Lichter: dieses aber wird am längsten brennen: noch wenn alle anderen ihre Zeit gehabt haben und wieder erloschen sein werden. Denn alles Ding währt seine Zeit, die Liebe Gottes aber, die in der Auferweckung Jesu Christi von den Toten am Werk war und zur Sprache kam, währt in Ewigkeit.<note xml:id="n02">Vgl. den Refrain des <bibl corresp="kbga-songs-20" type="song"><bibl corresp="kbga-bibls-1087">Liedes <idno>48</idno></bibl> <bibl corresp="kbga-bibls-1086">(<title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>232</idno>)</bibl> «<title level="a">Sollt ich meinem Gott nicht singen</title>» (<date when="1653">1653</date>) von <author ref="kbga-actors-131">P. Gerhardt</author></bibl> <q rend="block"><lg><l xml:space="preserve">Alles Ding währt seine Zeit,</l><l xml:space="preserve">Gottes Lieb in Ewigkeit.</l></lg></q>
+        <p>Hier darf und muß aber noch etwas hinzugefügt werden: Der an jenem Tag in die Mitte seiner Jünger trat, trat eben damit in die Mitte, bestieg eben damit den ihm gebührenden Thron in der Mitte des ganzen Weltgeschehens. Frieden, einen guten Tag hat Jesus damals allen Menschen aller Völker und Zeiten der ganzen Erde, der ganzen sichtbaren und unsichtbaren Welt gewünscht, gebracht und geschaffen. Mitten in das ganze jetzt himmelhoch jauchzende, jetzt zu Tode betrübte Menschenvolk<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1552">
+                                <author ref="kbga-actors-136">J. W. Goethe</author>, <title level="m">Egmont</title>, Dritter Aufzug (aus dem Lied Klärchens)</bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">…</l>
+                                    <l xml:space="preserve">Himmelhoch jauchzend,</l>
+                                    <l xml:space="preserve">Zum Tode betrübt —</l>
+                                    <l xml:space="preserve">Glücklich allein</l>
+                                    <l xml:space="preserve">Ist die Seele, die liebt.</l>
+                                </lg>
+                            </q>
+               </note>, mitten unter all die allzu dummen und allzu schlauen, allzu <pb xml:id="p257" ed="pga"/> sicheren und allzu verzagten, unter all die religiösen und nichtreligiösen Leute ist an jenem Tage der gekreuzigte und auferstandene Jesus als ihrer aller Herr mächtig hineingetreten. Mitten hinein in all die Krankheiten und Naturkatastrophen, all die Kriege und Revolutionen, die Friedensschlüsse und Friedensbrüche, in all den Fortschritt, Stillstand und Rückschritt, in all das unschuldige und schuldige menschliche Elend geschah es zu seiner Zeit, daß er sich erwies und offenbarte als der, der er war, ist und sein wird: Friede sei mit euch!, und zeigte ihnen seine Hände und seine Seite. Unter soviel Kraut und Unkraut ist an jenem Tag auch dieser Same gesät worden, reift auch er der Ernte entgegen. Verlassen wir uns darauf: Was an jenem Tag geschah, das wurde, war und blieb die Mitte, um die sich alles Andere bewegt, von dem es erstlich herkommt, dem es letztlich entgegeneilt. Es gibt viele wirkliche und viele scheinbare, viel helle und viel trübe <pb ed="A" n="127"/> Lichter: dieses aber wird am längsten brennen: noch wenn alle anderen ihre Zeit gehabt haben und wieder erloschen sein werden. Denn alles Ding währt seine Zeit, die Liebe Gottes aber, die in der Auferweckung Jesu Christi von den Toten am Werk war und zur Sprache kam, währt in Ewigkeit.<note xml:id="n02">Vgl. den Refrain des <bibl corresp="kbga-songs-20" type="song">
+                                <bibl corresp="kbga-bibls-1087">Liedes <idno>48</idno></bibl> <bibl corresp="kbga-bibls-1086">(<title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>232</idno>)</bibl> «<title level="a">Sollt ich meinem Gott nicht singen</title>» (<date when="1653">1653</date>) von <author ref="kbga-actors-131">P. Gerhardt</author></bibl> <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Alles Ding währt seine Zeit,</l>
+                                    <l xml:space="preserve">Gottes Lieb in Ewigkeit.</l>
+                                </lg>
+                            </q>
                </note> Weil einmal auch das geschah, darum gibt es keinen Grund zum Verzweifeln, darum besteht aller Grund zum Hoffen — auch beim Lesen der Zeitung mit allen ihren verwirrenden und erschreckenden Nachrichten, auch für die in so vielen Farben unheimlich schillernde Geschichte, die wir die Weltgeschichte nennen.</p>
         <p>So also trat Jesus, der eine große Mittler zwischen Gott und uns Menschen [vgl. <ref type="can" subtype="bible" target="1.Tim.2.5">1.Tim. 2,5</ref>], auferstanden von den Toten, in die Mitte seiner Gemeinde und des Lebens jedes einzelnen Menschen und des ganzen Weltgeschehens. So sprach und spricht er von da aus das erste und das letzte Wort. Aber kehren wir noch einmal zurück zu den Jüngern an jenem Tag, dem guten Tag des Herrn, dem ersten Sonntag! Von ihnen hören wir ja am Schluß unseres Textes: «Sie wurden froh, als sie den Herrn sahen.» Das heißt nicht, daß sie jetzt auf einmal nichts mehr zu fragen und zu klagen hatten oder daß sie schließlich doch noch große Heilige und Helden geworden wären. Es heißt aber, daß sie sich getrö<pb xml:id="p258" ed="pga"/>stet, ermutigt, auf die Füße gestellt fanden, daß sie in aller Demut den Kopf ein wenig aufrichten und hochhalten durften. Was sie hörten, indem sie den Herrn sahen, das war ja ein unwiderstehlicher, ganz praktischer Appell, der Ruf zum Dienst als seine Zeugen in der Welt, unter den anderen Menschen. Was sie dort bekamen, das war der Ausblick auf eine in ihrer ganzen Begrenzung klare und gefüllte Zukunft ihres Daseins in der Zeit. Und was sie, indem sie den Herrn sahen, weit darüber hinaus hörten, das war der feine, aber ganz starke Ton ewiger Hoffnung für sie<note xml:id="n03">Original: «sich»; Änderung vom Hrsg.</note> und die ganze Schöpfung. «Tod, wo ist dein Stachel? Tod, wo ist dein Sieg? Gott sei Dank, der <pb ed="A" n="128"/> uns den Sieg gegeben hat durch unseren Herrn Jesus Christus!» [<ref type="can" subtype="bible" target="1.Kor.15.55">1.Kor. 15,55</ref>.<ref type="can" subtype="bible" target="1.Kor.15.57">57</ref>]. Sie bekamen Ausblick auf eine letzte Durchbrechung aller Bande, auf eine letzte und endgültige Lösung aller Rätsel, auf ein Erkennen und Sein im Reich des ewigen Lichtes, dessen erster Strahl sie jetzt eben, an jenem Tage, getroffen und erleuchtet hatte. Dazu und darüber wurden sie froh, als sie den Herrn sahen. Daß sie froh wurden, hieß gewiß schon für sie, daß sie — nicht immer gleich über das ganze Gesicht, wohl aber von da an beständig weit hinten auch ein wenig lachen durften.</p>
         <p>Liebe Brüder, wir waren nicht dabei, als der auferstandene Jesus trotz aller Torheit und Trauer seiner Jünger, trotz jener aus lauter Angst verschlossenen Türen in ihre Mitte trat. So direkt wie sie können wir ihn jetzt nicht sehen, werden wir ihn erst zu sehen bekommen, wenn er am Ende aller Tage kommen wird, zu richten die Lebendigen und die Toten. Aber in unserer Weise, indirekt, nämlich im Spiegel der Erzählung und so des Zeugnisses, des Bekenntnisses, der Verkündigung der ersten Gemeinde können und dürfen auch wir ihn jetzt schon sehen. Viele vor uns, ein ganzes Volk von Menschen, haben ihn so gesehen und sind froh geworden. Eben dazu feiern wir Ostern, das Gedächtnis jenes Tages, um uns jenem Volk auch anzuschließen, um den Herrn in jenem Spiegel auch zu sehen und also auch froh zu werden. Ohne den Herrn zu sehen, kann niemand froh werden. Wer ihn sieht, der wird froh. Warum sollte das nicht gerade auch uns hier widerfahren: der kleinen Ostergemeinde von Gefangenen an der Spitalstraße in <placeName ref="kbga-places-5">Basel</placeName> mit ihrem Pfarrer und ihrem Organisten, mit allen Insassen und Angestellten dieses <placeName ref="kbga-places-989">Hauses</placeName> und (ich gehöre ja nachgerade auch ein wenig dazu) auch mit dem alten Professor, der hier gelegentlich zu Besuch sein darf? Wir alle <pb xml:id="p259" ed="pga"/> können den Herrn auch sehen. So dürfen wir alle auch froh werden. Gott gebe, daß uns das geschehe!</p>
               </div>
-              <div type="closer"><salute>Amen. <pb ed="A" n="129"/></salute></div>
+              <div type="closer">
+                    <salute>Amen. 
+                    </salute>
+                </div>
         <div type="prayer">
-          <p>Herr Jesus Christus! Du weißt, was das heißt, ein Mensch und im Elend zu sein. Du bist ja hinuntergestoßen worden, in Freiheit hinuntergestiegen bis in die tiefsten Tiefen, bist als größter Sünder verlassen, verraten, verleugnet, verurteilt, getötet worden, bist ganz und gar unter den Toten gewesen, um ganz und gar unser Bruder zu sein. Du weißt aber auch, was es heißt, ein Mensch mit Gott zu sein. Als solcher bist du ja auferweckt worden in der Macht deines Vaters und seines Heiligen Geistes, bist du auferstanden von den Toten und das Licht deiner Gemeinde, eines jeden Menschen und Christen, der ganzen Welt geworden. So bist du am Werk, uns aus der Tiefe in die Höhe emporzureißen. Wir danken dir für das alles. Wir bitten dich, das möge auch für uns nicht umsonst geschehen sein und noch geschehen.</p>
+          <p><pb ed="A" n="129"/> Herr Jesus Christus! Du weißt, was das heißt, ein Mensch und im Elend zu sein. Du bist ja hinuntergestoßen worden, in Freiheit hinuntergestiegen bis in die tiefsten Tiefen, bist als größter Sünder verlassen, verraten, verleugnet, verurteilt, getötet worden, bist ganz und gar unter den Toten gewesen, um ganz und gar unser Bruder zu sein. Du weißt aber auch, was es heißt, ein Mensch mit Gott zu sein. Als solcher bist du ja auferweckt worden in der Macht deines Vaters und seines Heiligen Geistes, bist du auferstanden von den Toten und das Licht deiner Gemeinde, eines jeden Menschen und Christen, der ganzen Welt geworden. So bist du am Werk, uns aus der Tiefe in die Höhe emporzureißen. Wir danken dir für das alles. Wir bitten dich, das möge auch für uns nicht umsonst geschehen sein und noch geschehen.</p>
           <p>Dies bitten wir dich zusammen mit allen Anderen, die dich auch als den Herrn gesehen und erkannt haben, vor allem aber auch für die Vielen, die dich als solchen noch nicht oder nicht mehr kennen. Halte unsere Augen offen und tu auch ihnen die Augen auf: den Gleichgültigen, den Verzweifelnden, den groben und den feinen Atheisten, Skeptikern oder wie sie sich sonst nennen mögen, damit sie — sie sind ja alle im Grunde so traurig — auch froh werden!</p>
           <p>Laß das Licht deiner Auferstehung leuchten in den Kirchen aller Art und Richtung, auch in allen anderen Gefängnissen, auch in den Krankenhäusern und Irrenhäusern, auch in den Ratssälen und Beratungszimmern unserer Behörden, auch in den Redaktionen unserer Zeitungen, auch in unseren Schulen, auch in all den Privathäusern und Familien, in denen es so viel offene und heimliche Not, Verwirrung und Sorge gibt! Wir denken dabei nicht zuletzt an unsere Angehörigen in der Nähe <pb ed="A" n="130"/> und Ferne: sei du ihr Freund und Tröster, ihr Berater und Helfer!</p>
           <p>Und wenn einst die Schatten des Todes uns allen noch näher kommen, dann sei und bleibe du uns der Allernächste, dann sag uns das Eine, was wir dann hören müssen: daß du lebst und daß wir auch leben werden.</p>
-          <div type="closer"><salute>Amen.</salute></div>
+          <div type="closer">
+                        <salute>Amen.</salute>
+                    </div>
         </div>
         <div type="songs">
           <p>Lieder: unbekannt</p>

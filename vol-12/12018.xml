@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Predigt: Philipper 4,5-6 (Akademischer Weihnachtsgottesdienst)): "Der grosse Dispens"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Philipper 4,5-6 (Akademischer Weihnachtsgottesdienst)): "Der grosse Dispens", 20. Dezember 1957</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12018 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12018 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 97–104.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Der grosse Dispens, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 113-121. </bibl>
-        <bibl xml:id="B" corresp="KBA 1643" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Phil 4,5-6 (Akademischer Weihnachtsgottesdienst)): "Der grosse Dispens", 20. Dezember 1957. <idno ref="https://kba.karl-barth.ch/objects/2092">KBA 1643</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Phil 4,5-6 (Akademischer Weihnachtsgottesdienst)): "Der grosse Dispens", 20. Dezember 1957. <ref target="https://kba.karl-barth.ch/objects/2092">KBA 1643</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -68,48 +68,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -119,11 +79,14 @@
       <div type="opener">
       <head type="header">DER GROSSE DISPENS</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="Phil.4.5 Phil.4.6">Philipper 4,5–6</ref>
+        <cit>
+                            <ref type="can" subtype="bible" target="Phil.4.5 Phil.4.6">Philipper 4,5–6</ref>
           <quote>Der Herr ist nahe. Sorget euch um nichts, sondern in allen Dingen lasset eure Bitten in Gebet und Flehen mit Danksagung vor Gott kund werden.</quote>
         </cit>
       </epigraph>
-      <dateline><date when="1957-12-20">20. Dezember 1957</date>, <placeName ref="kbga-places-1015">Peterskirche Basel</placeName></dateline>
+      <dateline>
+                        <date when="1957-12-20">20. Dezember 1957</date>, <placeName ref="kbga-places-1015">Peterskirche Basel</placeName>
+                    </dateline>
       <head type="event">Akademischer Weihnachtsgottesdienst</head>
         <div type="prayer">
           <p>Herr unser Gott! Du hast dich erniedrigt, um uns zu erhöhen. Du wurdest arm, damit wir reich würden. Du kamst zu uns, damit wir zu dir kämen. Du wurdest ein Mensch wie wir, um uns aufzunehmen in die Teilnahme an deinem ewigen Leben. Das alles aus deiner freien, unverdienten Gnade. Das alles in deinem lieben Sohn, unserem Herrn und Heiland Jesus Christus.</p>
@@ -131,11 +94,13 @@
           <p>Unser Vater …</p>
         </div>
 
-          <salute><pb ed="A" n="114"/> Liebe Kommilitonen, liebe Kollegen, liebe Gemeinde!</salute>
+          <salute>
+                        <pb ed="A" n="114"/> Liebe Kommilitonen, liebe Kollegen, liebe Gemeinde!</salute>
       </div>
       <div type="main">
         <p>Mir hat ein guter Freund in <placeName ref="kbga-places-514">Holland</placeName><note xml:id="n01">Prof. Dr. <persName ref="kbga-actors-1142">K. H. Miskotte</persName>, <placeName ref="kbga-places-83">Leiden</placeName>.</note> vor einer Woche geschrieben, er wünsche mir in der Weihnachtszeit möglichst viel Feier und möglichst wenig Feierlichkeit. Das hat mir gut gefallen — ich möchte aber jetzt keine Minute verlieren, irgend ein böses oder auch nur kritisches <pb xml:id="p098" ed="pga"/> Wort zu sagen zu all den kirchlichen und weltlichen, öffentlichen und familiären Weihnachtsfeierlichkeiten, an die wir denken könnten. Was an ihnen fragwürdig ist, das ist uns allen gut genug bekannt. Eines aber ist sicher: Weihnacht ist eine Sache des Feierns und nicht der Feierlichkeit.</p>
-        <p><hi rend="i">Feiern!</hi> Wenn wir das Wort in seiner ursprünglichen Bedeutung nehmen, wie sie noch in dem schönen Wort «Feierabend» anklingt, meint es: Urlaub, Ferier, aufhören dürfen mit allem Betrieb und allem Getriebe, mit allem Geläufe, Getue und Krampf, zur Ruhe kommen dürfen. In diesem Sinn sollen, dürfen, wollen wir Weihnacht feiern. Wobei wir uns gleich merken wollen: Feiern der <hi rend="i">Weihnacht</hi> kann kein bloß vorübergehendes Geschehen sein, sondern nur ein solches, das hineingeht in unsere Herzen, in uns selbst, in unser Leben, um von uns Besitz zu ergreifen, um zu bleiben, das kein Aufhören kennt, das ein Aufatmen bedeutet, das nicht abgelöst wird von einem Keuchen, eine Befreiung vom Getriebe, die durchhält.</p>
+        <p>
+                        <hi rend="i">Feiern!</hi> Wenn wir das Wort in seiner ursprünglichen Bedeutung nehmen, wie sie noch in dem schönen Wort «Feierabend» anklingt, meint es: Urlaub, Ferier, aufhören dürfen mit allem Betrieb und allem Getriebe, mit allem Geläufe, Getue und Krampf, zur Ruhe kommen dürfen. In diesem Sinn sollen, dürfen, wollen wir Weihnacht feiern. Wobei wir uns gleich merken wollen: Feiern der <hi rend="i">Weihnacht</hi> kann kein bloß vorübergehendes Geschehen sein, sondern nur ein solches, das hineingeht in unsere Herzen, in uns selbst, in unser Leben, um von uns Besitz zu ergreifen, um zu bleiben, das kein Aufhören kennt, das ein Aufatmen bedeutet, das nicht abgelöst wird von einem Keuchen, eine Befreiung vom Getriebe, die durchhält.</p>
         <p>Dieses «Feiern» meint dasselbe, was wir vorhin von <persName ref="kbga-actors-313">Paulus</persName> hörten: daß wir uns <hi rend="i">um nichts sorgen</hi> sollen! Liebe Freunde, das ist die Ankündigung des großen Weihnachtsurlaubs, der dauernden und gänzlichen Weihnachtsferien. Wir <hi rend="i">sollen</hi> uns um <pb ed="A" n="115"/> nichts sorgen? Ach, das Wort «sollen» ist nicht gut: nein, wir <hi rend="i">dürfen</hi> es uns leisten, uns nicht zu sorgen, um nichts zu sorgen. Wir dürfen diesen Dispens annehmen und von diesem Dispens Gebrauch machen. Das heißt: <hi rend="i">Weihnacht</hi> feiern: Sorget euch um nichts!</p>
         <p>Sorgen: das heißt sich selber so ernst nehmen, daß man meint, die großen, ernsten Fragen des Lebens <hi rend="i">selber</hi> beantworten und lösen zu können — die große Schwere des Lebens und alle die kleinen Lasten wie <persName ref="kbga-actors-8785">Atlas</persName> auf uns nehmen und <hi rend="i">selber</hi> manipulieren, meistern, wegschaffen zu müssen und zu sollen. Wir merken schon: Sorgen hat viel mit Feierlichkeit zu tun. Wenn man sich sorgt, dann wird man feierlich, und wo es feierlich zugeht, da ist gewöhnlich ein Sorgen im Hintergrund.</p>
         <p>Lasten und Fragen unseres Lebens, ja, die gibt es. Wir würden alle so gern <hi rend="i">glücklich sein</hi>, wahrscheinlich darum, weil wir alle irgendwie unglücklich sind. Das ist eine Frage unseres Lebens! Eine andere ist die: Was ist meine und was ist deine <hi rend="i">Lebensaufgabe?</hi> Werden wir ihr gerecht? Oder: Was mache ich für eine Figur in meiner Umgebung, komme ich auch zur <hi rend="i">Geltung</hi>, empfange ich von meinen Mitmenschen, was <pb xml:id="p099" ed="pga"/> mir gebührt? Oder: Wie mache ich es nur mit dem oder jenem <hi rend="i">Mitmenschen</hi>, wie kann ich ihn aushaken, und wie kann ich ihm etwa auch helfen? Oder: Was ist es überhaupt mit dem <hi rend="i">Menschsein?</hi> Kann man es ertragen, hat es einen Sinn, ein Mensch zu sein? Eine sehr ernste Frage, und wem sie noch nie zur Frage wurde, der gehe zu <persName ref="kbga-actors-351">Sartre</persName> oder <persName ref="kbga-actors-78">Camus</persName> und lerne dort diese Frage ernst zu nehmen! Und endlich: Wie steht es mit des Menschen ewigem <hi rend="i">Heil</hi> oder auch <hi rend="i">Unheil?</hi>
@@ -144,32 +109,61 @@
         <p>Sorget euch um nichts! Das heißt: Feierabend haben, aufhören und aufatmen dürfen, endlich zur Ruhe kommen, endlich und endgültig Ferien haben!</p>
         <p rend="margin-top">Du fragst vielleicht: Was hat das alles mit der <hi rend="i">Weihnacht</hi> zu tun? Mit der Feier der Weihnacht? Liebe Freunde, sehr viel, geradezu Alles! Denn wenn dieses Feiern wirklich dieses «um nichts Sorgen» ist, wenn es also echtes, wirkliches Feiern ist, dann ist es genau <hi rend="i">das</hi> Feiern, das uns durch die Botschaft des Wortes <hi rend="i">erlaubt und geboten</hi> ist. Wäre es nicht das Feiern der <hi rend="i">Weihnacht</hi>, dann könnte es eine ganz üble Sache sein: Sache einer törichten und böswilligen Blindheit für den Ernst und für die Schwere des Lebens, Sache eines willkürlichen und sträflichen Leichtsinns, existentialistischer Schabernack oder auch Sache einer müden, unverantwortlichen Skepsis. Gott behüte uns vor solchem «Feiern», das nur eine andere Form eigenmächtigen Sorgens ist! Wir sind auch davon dispensiert!</p>
         
-        <p><pb xml:id="p100" ed="pga"/> Die Einladung zum <hi rend="i">rechten Feiern</hi>, das mit Sorgen nichts zu tun hat, kommt damit und davon, daß der <hi rend="i">Herr nahe ist</hi>. Der Herr, dessen Geburt die Engel den Hirten von <placeName ref="kbga-places-385">Bethlehem</placeName> an<pb ed="A" n="117"/>zeigten: «welcher ist Christus der Herr, in der Stadt <persName ref="kbga-actors-2172">Davids</persName>» [<ref type="can" subtype="bible" target="Lk.2.11">Lk. 2,11</ref>]! Der Herr, dessen Stern nicht nur tausendmal, sondern unendlich wichtiger ist als der geglückte russische und als der verunglückte amerikanische Sputnik<note xml:id="n02">Erster erfolgreicher Abschuß eines sowjetischen Erdsatelliten («Sputnik») am <date when="1957-10-04">4.10.1957</date>. Ihm folgte am <date when="1957-11-03">3.11.</date> ein zweiter («Sputnik II»). Am <date when="1957-12-06">6.12.1957</date> scheiterte der erste amerikanische Versuch, einen Erdsatelliten abzuschießen, weil die Trägerrakete beim Start explodierte.</note> — der Herr des Himmels und der Erde, der ewige Gott, dem es nicht zu viel und nicht zu gering war, der Unsrige zu werden, damit wir die Seinigen würden. Der Herr, der in seinem Leben und Sterben als Mensch wie wir die Welt geliebt und mit sich selbst versöhnt hat [vgl. <ref type="can" subtype="bible" target="Joh.3.16">Joh. 3,16</ref>; <ref type="can" subtype="bible" target="2.Kor.5.19">2.Kor. 5,19</ref>]. Der Herr, der alle unsere Fragen und alle unsere Lasten auf sich genommen, weggetragen hat, damit wir durch und mit und in ihm leben dürfen. Ehre sei Gott in der Höhe und Friede auf Erden unter den Menschen, denen Gott sein unendliches freies Wohlgefallen zugewendet hat [vgl. <ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>]!</p>
-        <p><hi rend="i">Dieser Herr ist nahe</hi>. Nicht irgend eine der Tröstungen der Religionen ist uns nahe, sie sind wahrlich noch einmal ein Zeichen davon, daß der Mensch sich nicht selber trösten kann. Und auch nicht die Kirche mit ihrer alten oder neuen Lehre und Theologie oder auch mit ihren Ordnungen und Einrichtungen, mit ihren Traditionen ist uns als solche nahe. Sie hat nicht als Zeuge von sich selber, sondern nur als Zeuge von dem <hi rend="i">Herrn</hi> Wert: von dem Herrn, der nicht tot, sondern lebendig ist, der nicht gegangen oder vergangen ist, sondern der <hi rend="i">kommt</hi>, und zwar jetzt kommt, und nicht nur zu Anderen, sondern zu <hi rend="i">dir</hi> und <hi rend="i">mir</hi>: «Siehe, Ich stehe vor der Tür und klopfe an!» [<ref type="can" subtype="bible" target="Apk.3.20">Apk. 3,20</ref>].</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p100" ed="pga"/> Die Einladung zum <hi rend="i">rechten Feiern</hi>, das mit Sorgen nichts zu tun hat, kommt damit und davon, daß der <hi rend="i">Herr nahe ist</hi>. Der Herr, dessen Geburt die Engel den Hirten von <placeName ref="kbga-places-385">Bethlehem</placeName> an<pb ed="A" n="117"/>zeigten: «welcher ist Christus der Herr, in der Stadt <persName ref="kbga-actors-2172">Davids</persName>» [<ref type="can" subtype="bible" target="Lk.2.11">Lk. 2,11</ref>]! Der Herr, dessen Stern nicht nur tausendmal, sondern unendlich wichtiger ist als der geglückte russische und als der verunglückte amerikanische Sputnik<note xml:id="n02">Erster erfolgreicher Abschuß eines sowjetischen Erdsatelliten («Sputnik») am <date when="1957-10-04">4.10.1957</date>. Ihm folgte am <date when="1957-11-03">3.11.</date> ein zweiter («Sputnik II»). Am <date when="1957-12-06">6.12.1957</date> scheiterte der erste amerikanische Versuch, einen Erdsatelliten abzuschießen, weil die Trägerrakete beim Start explodierte.</note> — der Herr des Himmels und der Erde, der ewige Gott, dem es nicht zu viel und nicht zu gering war, der Unsrige zu werden, damit wir die Seinigen würden. Der Herr, der in seinem Leben und Sterben als Mensch wie wir die Welt geliebt und mit sich selbst versöhnt hat [vgl. <ref type="can" subtype="bible" target="Joh.3.16">Joh. 3,16</ref>; <ref type="can" subtype="bible" target="2.Kor.5.19">2.Kor. 5,19</ref>]. Der Herr, der alle unsere Fragen und alle unsere Lasten auf sich genommen, weggetragen hat, damit wir durch und mit und in ihm leben dürfen. Ehre sei Gott in der Höhe und Friede auf Erden unter den Menschen, denen Gott sein unendliches freies Wohlgefallen zugewendet hat [vgl. <ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>]!</p>
+        <p>
+                        <hi rend="i">Dieser Herr ist nahe</hi>. Nicht irgend eine der Tröstungen der Religionen ist uns nahe, sie sind wahrlich noch einmal ein Zeichen davon, daß der Mensch sich nicht selber trösten kann. Und auch nicht die Kirche mit ihrer alten oder neuen Lehre und Theologie oder auch mit ihren Ordnungen und Einrichtungen, mit ihren Traditionen ist uns als solche nahe. Sie hat nicht als Zeuge von sich selber, sondern nur als Zeuge von dem <hi rend="i">Herrn</hi> Wert: von dem Herrn, der nicht tot, sondern lebendig ist, der nicht gegangen oder vergangen ist, sondern der <hi rend="i">kommt</hi>, und zwar jetzt kommt, und nicht nur zu Anderen, sondern zu <hi rend="i">dir</hi> und <hi rend="i">mir</hi>: «Siehe, Ich stehe vor der Tür und klopfe an!» [<ref type="can" subtype="bible" target="Apk.3.20">Apk. 3,20</ref>].</p>
         <p>Daß <hi rend="i">dieser Herr</hi> nahe ist, das ist das Geheimnis des großen Dispenses. Wie der Frühlingssturm Eis und Schnee auftaut oder wie das Feuer den Holzstoß in Flammen setzt, so macht das allen unseren Sorgen ein Ende, so fegt es sie alle fort. Wir brauchen nicht zu sorgen, weil für uns gesorgt ist, weil wir rechtmäßig davon befreit sind, weil es Unrecht wäre, wenn wir dennoch sorgen wollten.</p>
-        <p><pb ed="A" n="118"/> Ihr fragt mich: Aber <hi rend="i">was bleibt uns</hi>, wenn wir uns nicht sorgen? Da regt sich eine andersartige Sorge, nämlich ein stolzer, trotziger <hi rend="i">Wider<pb xml:id="p101" ed="pga"/>stand</hi>, still und doch sehr heftig, als wäre das Beste und Heiligste im Menschen verletzt. Wir sind merkwürdige Gesellen. Wir reden von unseren Sorgen, wir leiden an ihnen, aber wenn der Dispens laut wird, wenn das Won ertönt: Sorget nicht!, dann wird es offenbar, daß wir unsere Sorgen (und in ihnen uns selber) hochhalten und schätzen, ja lieben und pflegen. Ich werde nie vergessen, wie ich einmal von einer alten Freundin angerufen wurde und sie mir ihr Leid klagte — sie hat viel gelitten an Asthma und an Schwermut — und ich sie damit zu trösten versuchte, daß ich ihr ein altes Kinderverslein aufsagte: «Der lieb Gott het recht an mi denkt / Und het mer hit vyl Fraide gschenkt / Er b’hietet und segnet mi: / s’isch hitte luschtig gsi»<note xml:id="n03"><persName ref="kbga-actors-2639">A. Burckhardt</persName>, Abendlied, 3. Strophe: <q rend="block"><lg><l xml:space="preserve">Jetz schlof i frehlig y;</l><l xml:space="preserve">’s isch hitte luschtig gsi,</l><l xml:space="preserve">Der lieb Gott het recht an mi denkt</l><l xml:space="preserve">Und het mer hit vyl Fraide gschenkt,</l><l xml:space="preserve">Er bhietet und segnet mi:</l><l xml:space="preserve">’s isch hitte luschtig gsi.</l></lg></q> In: <bibl corresp="kbga-bibls-1592"><author>A. Burckhardt</author>, <title level="m">Kinder-Lieder. Eine Weihnachtsgabe für die Kinder und Mütter der Heimat</title> (<date when="1859">1859</date>). Neue Ausgabe, <pubPlace>Basel</pubPlace>
+        <p>
+                        <pb ed="A" n="118"/> Ihr fragt mich: Aber <hi rend="i">was bleibt uns</hi>, wenn wir uns nicht sorgen? Da regt sich eine andersartige Sorge, nämlich ein stolzer, trotziger <hi rend="i">Wider<pb xml:id="p101" ed="pga"/>stand</hi>, still und doch sehr heftig, als wäre das Beste und Heiligste im Menschen verletzt. Wir sind merkwürdige Gesellen. Wir reden von unseren Sorgen, wir leiden an ihnen, aber wenn der Dispens laut wird, wenn das Won ertönt: Sorget nicht!, dann wird es offenbar, daß wir unsere Sorgen (und in ihnen uns selber) hochhalten und schätzen, ja lieben und pflegen. Ich werde nie vergessen, wie ich einmal von einer alten Freundin angerufen wurde und sie mir ihr Leid klagte — sie hat viel gelitten an Asthma und an Schwermut — und ich sie damit zu trösten versuchte, daß ich ihr ein altes Kinderverslein aufsagte: «Der lieb Gott het recht an mi denkt / Und het mer hit vyl Fraide gschenkt / Er b’hietet und segnet mi: / s’isch hitte luschtig gsi»<note xml:id="n03">
+                            <persName ref="kbga-actors-2639">A. Burckhardt</persName>, Abendlied, 3. Strophe: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Jetz schlof i frehlig y;</l>
+                                    <l xml:space="preserve">’s isch hitte luschtig gsi,</l>
+                                    <l xml:space="preserve">Der lieb Gott het recht an mi denkt</l>
+                                    <l xml:space="preserve">Und het mer hit vyl Fraide gschenkt,</l>
+                                    <l xml:space="preserve">Er bhietet und segnet mi:</l>
+                                    <l xml:space="preserve">’s isch hitte luschtig gsi.</l>
+                                </lg>
+                            </q> In: <bibl corresp="kbga-bibls-1592">
+                                <author>A. Burckhardt</author>, <title level="m">Kinder-Lieder. Eine Weihnachtsgabe für die Kinder und Mütter der Heimat</title> (<date when="1859">1859</date>). Neue Ausgabe, <pubPlace>Basel</pubPlace>
                         <date when="1923">1923</date>, S. 36.</bibl>
                </note>, da fuhr sie heftig auf: «Nai, der lieb Gott hett <hi rend="i">nit</hi> an mi denkt, nai, s’isch hitte <hi rend="i">nit</hi> luschtig gsi!» — Ihre Sorge war ihr zu lieb, als daß sie sie hätte hergeben können (es kann freilich auch sein, daß ich nicht das rechte Wort des Trostes für sie gefunden habe).</p>
         <p>Aber könnte nicht auch etwas Richtiges und Wichtiges in diesem Widerstand gegen das Nicht-Sorgen sein? Nehmen wir einmal an, wir würden uns den großen Dispens gefallen lassen. Was dann? Wo doch die Schatten der Fragen und Lasten, die unser Herr auf sich genommen hat, auch wenn die Sorge um sie geschmolzen und verbrannt sein sollte wie jener Holzstoß, noch da sind? Sind wir verurteilt, die Hände in den Schoß zu legen und nichts zu tun? Könnten wir so unser Leben aushalten, wäre das ein ehrliches, ein menschenwürdiges Leben? Müßte es nicht neue Sorge bedeuten, in dieser Haltung zu verharren?</p>
-        <p>Nein, darum kann es freilich nicht gehen. Durch die <hi rend="i">Nähe des Herrn</hi>, durch die die Türe zum Sorgen verschlossen wird, wird <pb ed="A" n="119"/> unerwartet eine andere Türe aufgetan, wird uns ein neuer Boden unter die Füße gelegt, auf dem wir Besseres tun dürfen und tun sollen als sorgen. <persName ref="kbga-actors-313">Paulus</persName> beschreibt dieses «Bessere» mit den Worten: … <hi rend="i">sondern in allen Dingen <pb xml:id="p102" ed="pga"/> lasset eure Bitten…vor Gott kund werden</hi>. Das ist das Weihnachtliche, was wir als die durch den Herrn schon Erretteten und Befreiten, als die aus der Sorge Entlassenen tun können, dürfen und sollen. Das ist die aufgeschlossene Türe zum schönen Paradeis, von der wir vorhin gesungen haben.<note xml:id="n04"><bibl type="song" corresp="kbga-songs-8"><biblScope>Schlußstrophe</biblScope> des eingangs gesungenen <bibl corresp="kbga-bibls-1087">Liedes <idno>113</idno></bibl></bibl>: <q rend="block"><lg><l xml:space="preserve">Heut schleußt er wieder auf die Tür</l><l xml:space="preserve">zum schönen Paradeis …</l></lg></q>
+        <p>Nein, darum kann es freilich nicht gehen. Durch die <hi rend="i">Nähe des Herrn</hi>, durch die die Türe zum Sorgen verschlossen wird, wird <pb ed="A" n="119"/> unerwartet eine andere Türe aufgetan, wird uns ein neuer Boden unter die Füße gelegt, auf dem wir Besseres tun dürfen und tun sollen als sorgen. <persName ref="kbga-actors-313">Paulus</persName> beschreibt dieses «Bessere» mit den Worten: … <hi rend="i">sondern in allen Dingen <pb xml:id="p102" ed="pga"/> lasset eure Bitten…vor Gott kund werden</hi>. Das ist das Weihnachtliche, was wir als die durch den Herrn schon Erretteten und Befreiten, als die aus der Sorge Entlassenen tun können, dürfen und sollen. Das ist die aufgeschlossene Türe zum schönen Paradeis, von der wir vorhin gesungen haben.<note xml:id="n04">
+                            <bibl type="song" corresp="kbga-songs-8">
+                                <biblScope>Schlußstrophe</biblScope> des eingangs gesungenen <bibl corresp="kbga-bibls-1087">Liedes <idno>113</idno></bibl></bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Heut schleußt er wieder auf die Tür</l>
+                                    <l xml:space="preserve">zum schönen Paradeis …</l>
+                                </lg>
+                            </q>
                </note> Nicht, daß Gott es nötig hätte, sich von uns erzählen zu lassen, was uns als Schatten quält — wohl aber, daß wir es wie Kinder vor ihn bringen dürfen, um mit ihm über Alles zu reden, was uns betrifft, das Große und das Kleine, die wichtigen und die unwichtigen, die klugen und die dummen Dinge: <hi rend="i">in allen Dingen</hi> lasset eure Bitten vor Gott kund werden. Wir dürfen ihm sagen, wie schwer uns Alles fällt, wie rätselhaft uns die Dinge und Menschen immer wieder vorkommen, was wir vor allem uns selbst vorzuwerfen haben und wie wenig wir mit den Anderen zu Rande kommen. Wir dürfen es kundtun: <hi rend="i">im Gebet</hi>, und das heißt in großer und aufrichtiger Demut, im <hi rend="i">Flehen</hi>, und das heißt in großer kindlicher Dringlichkeit und Zutraulichkeit, und mit <hi rend="i">Danksagung</hi>, das heißt dankbar dafür, daß es so ist und daß wir das wissen dürfen: daß durch unseren Herrn im Grunde Alles schon in Ordnung gebracht ist, und dankbar dafür, daß wir so vor ihn treten dürfen. Und das alles miteinander als unser <hi rend="i">Bitten</hi>, daß sein Angesicht auch inmitten der uns noch umgebenden Schatten nicht aufhöre uns zu leuchten und wir nicht müde werden in der Hoffnung auf deren Zerreißen, auf die Beseitigung der Nebel und Schleier, die uns jetzt noch plagen. — Das ist das <hi rend="i">bessere Tun</hi>, zu dem wir an Stelle des Sorgens, von dem wir dispensiert sind, uns aufmachen dürfen.</p>
-        <p><pb ed="A" n="120"/> Also doch <hi rend="i">nur beten?</hi> Ja, nur beten! Hast du es etwa schon versucht, nicht aus Gewohnheit, sondern weil der Herr nahe ist und weil du es als sein Bruder, als seine Schwester, als Gottes Kind wagen darfst und wagen sollst, bittend und flehend im Gebet Alles vor Gott zu bringen? Wer das versucht und getan hat, der weiß, daß solches Beten, nur Beten, auch stille, rüstige, stetige <hi rend="i">Arbeit</hi> einschließt. Der hat keine Sorge, daß Beten zu wenig sein könnte, der tut vielmehr, gerade indem er betet, auch in seinem Leben, Denken, Reden und Tun die seinem Beten <hi rend="i">entsprechenden Schritte</hi>: kleine, anspruchslose, unscheinbare, aber bestimmte Schritte, und zwar in aller Bedrängnis muntere, ja lustige <pb xml:id="p103" ed="pga"/> Schritte, mit denen er wohl auch, ganz ohne es zu wollen, ohne es vorauszusehen und zu wollen, ein wenig <hi rend="i">Licht</hi> für Andere in dieser dunklen Welt sein und verbreiten darf.</p>
+        <p>
+                        <pb ed="A" n="120"/> Also doch <hi rend="i">nur beten?</hi> Ja, nur beten! Hast du es etwa schon versucht, nicht aus Gewohnheit, sondern weil der Herr nahe ist und weil du es als sein Bruder, als seine Schwester, als Gottes Kind wagen darfst und wagen sollst, bittend und flehend im Gebet Alles vor Gott zu bringen? Wer das versucht und getan hat, der weiß, daß solches Beten, nur Beten, auch stille, rüstige, stetige <hi rend="i">Arbeit</hi> einschließt. Der hat keine Sorge, daß Beten zu wenig sein könnte, der tut vielmehr, gerade indem er betet, auch in seinem Leben, Denken, Reden und Tun die seinem Beten <hi rend="i">entsprechenden Schritte</hi>: kleine, anspruchslose, unscheinbare, aber bestimmte Schritte, und zwar in aller Bedrängnis muntere, ja lustige <pb xml:id="p103" ed="pga"/> Schritte, mit denen er wohl auch, ganz ohne es zu wollen, ohne es vorauszusehen und zu wollen, ein wenig <hi rend="i">Licht</hi> für Andere in dieser dunklen Welt sein und verbreiten darf.</p>
         <p>Laßt uns in diesem Sinn fröhliche Weihnacht feiern! Wir sollen und dürfen, wir können es aber auch, wir haben alle Anlaß dazu: Der Herr ist nahe! Warum also sollten wir <hi rend="i">nicht</hi> fröhlich feiern?</p>
               </div>
         <div type="prayer">
           <p>Lieber Vater durch Jesus Christus, unseren Herrn! Mach du gut, was wir Menschen nicht gut machen — auch diesen Gottesdienst in seiner ganzen Unvollkommenheit — auch die vielen weiteren Weihnachtsfeiern, denen wir nun mit Verstand und Unverstand entgegen gehen! Du kannst ja Wasser aus dem Felsen fließen lassen, Wasser in Wein verwandeln und dem <persName ref="kbga-actors-444">Abraham</persName> aus diesen Steinen Kinder erwecken — Alles in der großen, unbegreiflichen Treue, die du deinem Volk geschworen und wieder und wieder gehalten hast. Wir danken dir, daß sie uns im Evangelium leuchtet und daß wir uns unter allen Umständen <pb ed="A" n="121"/> an sie halten dürfen. Erlaube es uns nicht, uns ihr gegenüber zu verhärten! Erwecke uns immer wieder aus dem Schlaf der Gleichgültigkeit und aus den bösen Träumen unserer frommen und unfrommen Leidenschaften und Begierden! Werde es nicht müde, uns immer wieder auf deine Wege zurückzuführen!</p>
           <p>Wehre du dem Narrenwerk des kalten Krieges und der gegenseitigen Bedrohung, mit dem die Völkerwelt sich heute in so furchtbare Gefahr begibt! Gib du den Regierungen und denen, die für die öffentliche Meinung verantwortlich sind, die neue Weisheit, Geduld und Entschlossenheit, deren es heute bedürfte, um auf deiner guten Erde Allen ihr Recht zu verschaffen und zu erhalten! Wir bitten dich, daß, was in unserer Stadt, in unserer Kirche, in unserer Universität, in unseren Schulen gearbeitet wird, nicht ohne dein Licht und dann auch nicht ohne deinen Segen zum wahren Wohl der Menschen und zu deiner Ehre geschehen möge. Wir bitten dich vor allem für die Vielen, denen es schwer fallen muß, sich jetzt der Weihnacht zu freuen: für die bekannten und unbekannten Armen, für die in Einsamkeit Alternden, für die Kranken und die Geisteskranken, für die Gefangenen: daß es trotz Allem auch für sie ein wenig hell werde! Dir anbefehlen wir schließlich unsere Angehörigen in der Nähe und in der <pb xml:id="p104" ed="pga"/> Ferne und dann uns alle: daß du deine Hand gnädig über unserem Lebenslauf und einst über unserem Ende halten mögest.</p>
           <p>Herr, erbarme dich unser! Dein Name sei gelobt: jetzt und in Ewigkeit!</p>
-          <div type="closer"><salute>Amen.</salute></div>
+          <div type="closer">
+                        <salute>Amen.</salute>
+                    </div>
         </div>
         <div type="songs">
           <head>Lieder:</head>
           <listBibl>
-            <bibl corresp="kbga-songs-8" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>113</idno></bibl>: «<title level="a">Lobt Gott, ihr Christen, allzugleich</title>» von <author ref="kbga-actors-2876">N. Herman</author>, <biblScope>Strophen 1–4</biblScope>
-              (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>21</idno>, <biblScope>Str. 1–3, 6</biblScope></bibl>)</bibl>
-            <bibl corresp="kbga-songs-31" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>118</idno></bibl>: «<title level="a">Freut euch, freut euch all insgemein</title>» von <author ref="kbga-actors-6043">A. Lobwasser</author>, <biblScope>Strophen 1–4</biblScope></bibl>
-            <bibl corresp="kbga-songs-32" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>115</idno></bibl>: «<title level="a">Vom Himmel hoch, da komm ich her</title>» von <author ref="kbga-actors-261">M. Luther</author>, <biblScope>Strophe 12</biblScope>
-              (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>16</idno>, <biblScope>Str. 15</biblScope></bibl>)</bibl>
+            <bibl corresp="kbga-songs-8" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>113</idno></bibl>: «<title level="a">Lobt Gott, ihr Christen, allzugleich</title>» von <author ref="kbga-actors-2876">N. Herman</author>, <biblScope>Strophen 1–4</biblScope>
+              (= <bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>21</idno>, <biblScope>Str. 1–3, 6</biblScope></bibl>)</bibl>
+            <bibl corresp="kbga-songs-31" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>118</idno></bibl>: «<title level="a">Freut euch, freut euch all insgemein</title>» von <author ref="kbga-actors-6043">A. Lobwasser</author>, <biblScope>Strophen 1–4</biblScope></bibl>
+            <bibl corresp="kbga-songs-32" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>115</idno></bibl>: «<title level="a">Vom Himmel hoch, da komm ich her</title>» von <author ref="kbga-actors-261">M. Luther</author>, <biblScope>Strophe 12</biblScope>
+              (= <bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>16</idno>, <biblScope>Str. 15</biblScope></bibl>)</bibl>
           </listBibl>
         </div>
         <!--

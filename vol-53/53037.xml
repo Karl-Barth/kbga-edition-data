@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53037">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 35</title>
+        <title type="content">Predigt: Jakobus 1,22-25</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,22-25, 13. März 1910</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53037 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53037</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">37</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Jak 1,22-25, 13. März 1910. <ref target="https://kba.karl-barth.ch/objects/1478">KBA 1013</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1910-03-13">13. März 1910</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p379" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                    <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>35</idno>
+                </head>
+                
+                    <dateline>
+                        <placeName ref="kbga-places-67">Genf</placeName>,
+                            <date when="1910-03-13">Sonntag, den 13. März 1910</date> <date rend="right">(Sonntag Judica)</date> 
+                    </dateline>
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="Jak.1.22 Jak.1.25">Jakobus 1,22–25</ref>
+                        
+                            <quote>
+                                <hi rend="italic" resp="kb">Werdet aber Täter des <term type="Sachen" key="Christen, Täter des Wortes">Worts</term> und nicht <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> allein,
+                                    womit ihr euch selbst betrüget. Denn wenn Einer Hörer des
+                                    Worts ist und nicht Täter, der gleicht einem Mann, der sein
+                                    natürliches Angesicht im Spiegel betrachtet. Er betrachtet
+                                    sich und geht weg und vergisst sofort, wie er war. Wer aber
+                                    hineinsieht in das vollkommene Gesetz der <term type="Sachen" key="Freiheit">Freiheit</term> und dabei
+                                    bleibt, wer nicht ein vergesslicher Hörer wird, sondern ein
+                                    wirklicher Täter, der wird selig sein in seinem Tun.</hi>
+                            </quote>
+                        </cit> 
+                    </epigraph>
+
+                <salute>Meine Freunde!</salute>
+                </div>
+                <div type="main">
+                <p>Es könnte fast wie Gedankenlosigkeit und Pietätlosigkeit aussehen, dass wir
+                    auch in dieser Nähe der <term type="Sachen" key="Passionswoche">Passionswoche</term> fortfahren mit unsrer Betrachtung des <term type="Sachen" key="Jakobusbrief">Jakobusbriefs</term>. Wären wir eine
+                    evangelisch-lutherische Gemeinde, so würden uns die Ordnung des
+                    Gottesdienstes und die vorgeschriebenen Predigttexte schon seit vielen
+                    Wochen daran erinnert haben, dass die christliche <term type="Sachen" key="Kirche, christliche">Kirche</term> der <term type="Sachen" key="Karfreitag">Gedächtnisfeier</term> des <term type="Sachen" key="Kreuz / ^@+ Kreuzestod">Todes</term> ihres Anfängers und <term type="Sachen" key="Jesus Christus, Anfänger und Meister der Kirche">Meisters</term> entgegengeht. So kam ich vor einem Jahr in eine
+                        Gemeinde,<note xml:id="n01">Die Passionszeit 1909 verbrachte
+                        Barth überwiegend in <placeName ref="kbga-places-41">Marburg</placeName>. Da die Gemeinde <placeName ref="kbga-places-1066">Niedergrenzebach</placeName>, in der er am
+                        21. Februar zum dritten Mal predigte (s. oben, <ref type="pub" target="../volume/53/p128#p128">S. 128-138</ref>), eine
+                        reformierte war, kommen als Ort der hier angesprochenen Gemeinde
+                        eigentlich nur <placeName ref="kbga-places-883">Siegen</placeName> und
+                            <placeName ref="kbga-places-195">Eisenach</placeName> in Frage:
+                        Gemeinsam mit seinem <rs type="person" ref="kbga-actors-21">Vater</rs> hatte Barth vom 6.–9. März in Siegen die
+                        «Westdeutsche Christliche Akademikerkonferenz» besucht (vgl. <bibl corresp="kbga-bibls-2657">
+                                <author ref="kbga-actors-239">K. Kupisch</author>, <hi rend="i">Studenten
+                            entdecken die Bibel. Die Geschichte der Deutschen Christlichen
+                            Studenten-Vereinigung [DCSV]</hi>, Hamburg 1964, S. 80</bibl>) und war im
+                        Anschluss daran (10./11. März) mit ihm in Eisenach und auf der
+                            <placeName ref="kbga-places-352">Wartburg</placeName> gewesen;
+                        vgl. für beides Barths Taschenkalender 1909, Einträge vom
+                        6.–11. März.</note> in der wird
+                    der <term type="Sachen" key="Gottesdienst">Gottesdienst</term> an allen
+                    diesen Sonntagen und außerdem immer noch einmal mitten in der Woche <pb ed="-A" n="2"/> mit dem dreimaligen Gesang jener gewaltigen
+                    alten Strophe begonnen:</p>
+                    <q rend="block">
+                        <lg>
+                            <l>O Lamm Gottes, unschuldig</l>
+                            <l>Am Kreuzesstamm geschlachtet,</l>
+                            <l> <pb rend="noPipe" xml:id="p380" ed="pga"/> Erfunden stets geduldig,</l>
+                            <l>Wiewohl du warst verachtet!</l>
+                            <l>All Sünd’ hast du getragen.</l>
+                            <l>Sonst müssten wir verzagen.</l>
+                            <l>Erbarm dich unser, o Jesu!<note xml:id="n02">
+                                    <bibl type="song" corresp="kbga-songs-75">Erste
+                                    Strophe des Liedes «O Lamm Gottes unschuldig» von <author ref="kbga-actors-1349">N. Decius</author>,
+                                    nach dem altkirchlichen Agnus Dei (GERS 117; RG 312; EG
+                                    190.1).</bibl>
+                                </note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Wenn wir an solche regelmäßigen Feierlichkeiten denken, wie
+                    sie dort und noch mehr in der römisch-katholischen <term type="Sachen" key="Kirche, römisch-katholische">Kirche</term> zu dieser Zeit üblich
+                    sind, oder an die hohen Gedanken, die die Betrachtung der <term type="Sachen" key="Passion">Leidensgeschichte</term> Jesu dort jetzt in
+                    den Predigern und Gemeinden wachrufen mögen, dann möchte uns wohl unser
+                        <term type="Sachen" key="Jakobusbrief">Jakobus</term> vorkommen wie
+                    trockenes Hausbrot am Festtag. Und speziell beim Anhören des heutigen
+                    Textwortes hat vielleicht der eine oder andre ein wenig verdrießlich
+                    gedacht, es würde sich wohl schicken, jetzt ein etwas außerordentlicheres
+                    Problem vorzunehmen als die landläufige Wahrheit, dass es gelte Täter des
+                        <term type="Sachen" key="Christen, Täter des Wortes">Worts</term> zu
+                    sein und nicht <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> allein. Diese Wahrheit gehöre in die <term type="Sachen" key="Moral">Moral</term>, jetzt aber sei es Zeit, vom <term type="Sachen" key="Glaube">Glauben</term> zu reden. Demgegenüber würde
+                    ich geltend machen, dass der rechtverstandene Inhalt gerade unsres
+                    Textwortes in näherer Beziehung zur <term type="Sachen" key="Passionsbotschaft">Passionsbotschaft</term> steht, als es auf den
+                    ersten Blick aussehen mag. Und ich würde weiter sagen, dass die
+                    Lebenswahrheit an der Wurzel erfasst immer <term type="Sachen" key="Wahrheit, Glaubenswahrheit">Glaubenswahrheit</term> ist, wie
+                    umgekehrt die Glaubenswahrheit sich immer bewähren und betätigen muss als
+                        <term type="Sachen" key="Wahrheit, Lebenswahrheit">Lebenswahrheit</term>. Denn wir haben uns schon früher darüber verständigt,
+                    dass die christliche <term type="Sachen" key="Wahrheit, christliche">Wahrheit</term> überhaupt nicht ein kunstvolles System von allerlei
+                    Gedanken, Vorschriften, Lehren, Geschichten und Lebensregeln ist, sondern
+                    eine einzige, einfache Beziehung zwischen dem lebendigen <term type="Sachen" key="Gott, lebendiger">Gott</term> und dem aufrichtigen Menschen. <pb ed="-A" n="3"/> Diese einzige, einfache Beziehung liegt in
+                    entfalteter Mannigfaltigkeit vor uns in der heiligen <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term> und in den Jahrtausenden
+                    der christlichen Erfahrung, an der auch wir in schwächerem oder stärkerem
+                    Maße teilnehmen dürfen. Aber es gilt von dieser Mannigfaltigkeit, was <persName ref="kbga-actors-136">Goethe</persName> vom
+                    Menschenleben sagt, dass sie, wo man sie packt, wieder in die Tiefe der
+                    Einfachheit führt, aus der sie <pb xml:id="p381" ed="pga"/> entsprungen ist,<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-647">
+                                <author ref="kbga-actors-136">J. W. von Goethe</author>, <hi rend="i">Faust. Eine
+                            Tragödie</hi>, V. 167–169 (Vorspiel auf dem Theater)</bibl>:
+                            <q rend="block">
+                                <lg>
+                                    <l>Greift nur hinein ins volle Menschenleben! </l>
+                                    <l>Ein jeder lebt’s, nicht vielen ist’s
+                                        bekannt, </l>
+                                    <l>Und wo ihr’s packt, da ist’s
+                                        interessant.</l>
+                                </lg>
+                            </q>
+                        </note> dass wir, wo wir auf ihrer Oberfläche schürfen, auf den
+                    Felsgrund stoßen des Einen, was nottut [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], wenn wir nur den Spaten ernsthaft
+                    ansetzen. Und so sicher dieser Felsgrund in dem persönlichen <term type="Sachen" key="Leben, persönliches">Leben</term> besteht, wie Jesus
+                    es gelebt und wie er es vollendet durch seinen Tod am <term type="Sachen" key="Kreuz / Kreuzestod">Kreuz</term>, so sicher dürfen wir der Führung
+                    des neutestamentlichen Schriftstellers vertrauen, sein scheinbar abseits
+                    liegendes Wort werde uns diesem Grunde einen Schritt näher führen.</p>
+                <p>Aber wenn wir uns dieser Hoffnung hingeben, dann müssen wir uns vor Allem
+                    klar machen, dass die Aufforderung, Täter des <term type="Sachen" key="Christen, Täter des Wortes">Worts</term> zu werden und nicht <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> allein,
+                    keineswegs eine landläufige Wahrheit ist. Die Wahrheit ist niemals
+                    landläufig, und <hi rend="i">wenn</hi> sie landläufig wird, so ist sie nicht mehr
+                    die <term type="Sachen" key="Wahrheit">Wahrheit</term>. Wir sehen das gerade
+                    an der Aufforderung unsres Textwortes. Man kann sagen, dass sie in der
+                    christlichen Gemeinde ihre eigene Geschichte hat, und diese Geschichte ist
+                    merkwürdig genug. Wir sehen, wie die Kirchen und die Parteien sie sich zu
+                    eigen machen, sie ihren Gegnern vorhalten als die schwerste und wirksamste
+                    Waffe und wie dann für eine nach der andern die Zeit kommt, da diese Waffe
+                    gegen sie selbst gekehrt wird, da andre kommen und ihnen zurufen: ihr seid
+                    Hörer des Worts, aber es gilt, Täter zu sein! und wie dann diese andren
+                    denselben Kreislauf vollenden. So kann man weiter sagen, dass der <term type="Sachen" key="Fortschritt, religiöser">Fortschritt</term> in der
+                    Geschichte der christlichen <term type="Sachen" key="Christentum, Geschichte">Religion</term> geradezu bezeichnet wird
+                    durch die verschiedenen Stufen, in denen die wechselnden Geschlechter diese
+                    Aufforderung fruchtbar gemacht haben. Wo man anfing, <pb ed="-A" n="4"/> sie als eine Selbstverständlichkeit anzusehen, da war das immer
+                    ein Zeichen dafür, dass sie tatsächlich im Begriff war, sich in ihr
+                    Gegenteil zu verkehren, dass an Stelle des wirklichen Tuns, von dem als
+                    landläufiger Wahrheit die Rede war, ein vergessliches Hören getreten war und
+                    dass ein neues Geschlecht von Neuem damit anfangen musste, Täter zu
+                        <hi rend="i">werden</hi> und nicht Hörer allein. So wird man z. B. in der
+                    kirchlichen und religiösen Geschichte des 19. Jahrhunderts, aus dem wir Alle
+                    her<pb xml:id="p382" ed="pga"/>kommen, die bekannten Streitigkeiten zwischen
+                        <term type="Sachen" key="Christen, orthodoxe (prot.)">Orthodoxen</term>
+                    und <term type="Sachen" key="Christen, liberale">Liberalen</term>, zwischen
+                        <term type="Sachen" key="Pietisten">Pietisten</term> und <term type="Sachen" key="Christen, Weltchristen">Weltchristen</term> von
+                    diesem Gesichtspunkt aus billiger und gerechter verstehen, als es gewöhnlich
+                    von beiden Seiten der Fall ist. Sie sind in ihrem Kern <hi rend="i">ein</hi>
+                    gewaltiges Ringen um die beste Weise, Täter des <term type="Sachen" key="Christen, Täter des Wortes">Wortes</term> zu werden, und Recht und
+                    Unrecht, Stärke und Schwäche verteilen sich dabei gleichmäßiger, als manche
+                    Eiferer zur Rechten und zur Linken sich wohl einbilden mögen.</p>
+                <p> Aber was von der Geschichte der christlichen <term type="Sachen" key="Christentum, Geschichte">Religion</term> und <term type="Sachen" key="Kirchengeschichte">Kirche</term> gilt, das gilt noch viel mehr vom
+                    persönlichen <term type="Sachen" key="Leben, persönliches">Leben</term> des
+                    einzelnen Menschen. Sein Fortschritt, sein Stillstand, sein Rückschritt sind
+                    bedingt und bezeichnet durch das Maß, in dem er Täter wird und nicht Hörer
+                    allein. Der Nachdruck liegt auf dem Wörtchen «<hi rend="i">wird</hi>»,
+                    wohlverstanden. Es ist schade, dass <persName ref="kbga-actors-261">Luther</persName> ungenau übersetzt hat:
+                        <hi rend="i">Seid</hi> aber Täter des Worts –, denn es geht dadurch
+                    der Ausdruck der notwendigen Vorwärtsbewegung verloren, der in dem
+                        «<hi rend="i">Werdet</hi>» des Urtextes liegt und auf den gerade Alles
+                    ankommt. Denn das ist das <term type="Sachen" key="Christentum, Werden was wir sein sollen">Christentum</term>, nicht
+                    dass wir bleiben, was wir sind, sondern dass wir werden, was wir sein
+                    sollen. Und so wollen wir einmal versuchen, von diesem «<hi rend="i">Werden</hi>»
+                    aus den reichen Inhalt unsres Textwortes zu überblicken.</p>
+                <p> <pb rend="noPipe" ed="-A" n="5"/> Werden! Aus einem <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> ein <term type="Sachen" key="Christen, Täter des Wortes">Täter</term> werden, darum handelt es
+                    sich. Das Hören, das gemeint ist, ist das Hören des <term type="Sachen" key="Wort Gottes">Wortes</term>, des <term type="Sachen" key="Evangelium">Evangeliums</term>. Wir haben vor 14 Tagen gesehen<note type="textcritical" n="a" xml:id="na"> Im Mskr. nachträglich mit Bleistift korrigiert aus:
+                            «gehört».</note>, wie solches Hören und solche Empfänglichkeit gelernt sein will in
+                    der Übung der <term type="Sachen" key="Liebe">Liebe</term>, die nicht das
+                    Ihre sucht.<note xml:id="n04">Vgl. oben, <ref type="pub" target="../volume/53/p364#p364">S. 364-378</ref>.</note> Nun steigen wir
+                    gleichsam eine Stufe höher. Das Hören ist da, es wird als vorhanden
+                    vorausgesetzt, aber das Werden hört damit nicht auf, ja wenn das Hören ein
+                    rechtes war, so ist es gerade der Anfang neuer Vorwärtsbewegung. Denn wenn
+                    das Evangelium die frohe Botschaft ist von der <term type="Sachen" key="Gott, Freundlichkeit">Freundlichkeit</term>, mit der Gott sich
+                    unsrer <term type="Sachen" key="Mensch, Schwachheit">Schwachheit</term>
+                    annimmt, so ist es ebenso sehr die Botschaft von dem fernen, hohen Ziel, das
+                    wir unermüdlich wandernd anstreben sollen. Das Evangelium hören heißt
+                    eintauchen in den Lebensstrom, der vorwärts rauscht. Wer sich abseits von
+                    diesem Strom ein Hüttchen baut, <pb xml:id="p383" ed="pga"/> um der Ruhe zu
+                    pflegen, der hat nicht das Evangelium gehört. Denn das ist das Evangelium,
+                    wenn ein unvergänglicher Keim des Werdens in unser inneres <term type="Sachen" key="Leben, inneres">Leben</term> gepflanzt wird. Der
+                    rechte Hörer <hi rend="i">wird</hi> ein Täter, er kann gar nicht anders. Und wenn
+                    unser Textwort von «Hörern des Worts» redet, die <hi rend="i">nicht</hi> Täter
+                    werden, so müssen wir uns dies «Hörer» in Anführungszeichen gesetzt denken.
+                    Es sind solche, die meinen, gehört zu haben; in Wirklichkeit steht es aber
+                    mit ihrer Empfänglichkeit so wie mit der Empfänglichkeit jener verschiedenen
+                    Arten von Ackerboden, von denen Jesus einmal geredet hat 
+                    [vgl. <ref type="can" subtype="bible" target="Mk.4.3 Mk.4.8">Mk. 4,3–8</ref> par.].
+                    Der gute Same ist wohl auch da hingeworfen, aber da sind die Vögel des
+                    Himmels, die ungenügende Tiefe, die Disteln und Dornen; und diese Dinge
+                    machen, dass es ist, als wäre der Same nicht geworfen. Es fehlt die rechte
+                    Disposition, es fehlt die Empfänglichkeit, es fehlt das Hören. Denn nur da
+                    ist das rechte Hören, wo sofort der Keim des Werdens sich bemerkbar macht,
+                    des Werdens vom <pb ed="-A" n="6"/>
+                    <term type="Sachen" key="Christen, Hörer des Wortes">Hören</term> zum <term type="Sachen" key="Christen, Täter des Wortes">Tun</term>. Wir müssen
+                    darauf näher eintreten. |</p>
+                <p> Ich sagte, im <term type="Sachen" key="Evangelium">Evangelium</term> sei uns
+                    ein Ziel gezeigt, ebenso wie uns darin der Weg zu diesem Ziel aufgetan ist.
+                    Das Ziel und der Weg ist das persönliche Leben <term type="Sachen" key="Jesus Christus, persönliches Leben">Jesu</term>. Wenn wir es
+                    anschauen, wie es gewesen ist und noch ist, so spüren wir, dass Gott in
+                    unverdienter <term type="Sachen" key="Gott, Liebe">Liebe</term> sich unser
+                    annehmen will. Denn dieses wunderbare, fleckenlose <term type="Sachen" key="Jesus Christus, fleckenloses Menschenbild">Menschenbild</term>
+                    macht uns den Eindruck, dass wir auch so sein dürfen. Das ist nicht ein
+                    zufälliger, vergänglicher, subjektiver Eindruck, sondern es ist die
+                    gewisseste <term type="Sachen" key="Gewissheit">Gewissheit</term>, die es
+                    auf Erden überhaupt gibt. Und dieser Eindruck ist das herrliche Geschenk,
+                    das uns im Evangelium gegeben ist.<note xml:id="n05">Zur Nähe der
+                        hier von Barth formulierten Gedanken zu solchen seines Lehrers Wilhelm
+                        Herrmann vgl. die folgenden, in Barths Exemplar von: <bibl corresp="kbga-bibls-1793">
+                                <author ref="kbga-actors-181">W. Herrmann</author>, <hi rend="i">Der
+                            Verkehr des Christen mit Gott. Im Anschluss an Luther
+                            dargestellt</hi>, Stuttgart / Berlin 1903<hi rend="sup">4</hi>,</bibl>
+                        unterstrichenen Sätze: «Wir werden uns des Verkehrs Gottes mit uns
+                        selbst am deutlichsten an dem Ereignis bewusst, dass sich uns die Person
+                        Jesu durch die Kraft ihres inneren Lebens offenbart» (S. 65); «Vor allem
+                        aber wird uns, wenn uns die sittliche Lebendigkeit Jesu ergriffen hat,
+                        etwas anderes an dem überlieferten Bilde Jesu deutlich und gewiss,
+                        […]. Als der Messias wollte er Gottes vollkommene Gabe den
+                        Menschen bringen, nicht nur eine Aufgabe stellen» (S. 75); «Jesus aber
+                        begründet in uns durch die Tatsache seines persönlichen Lebens eine
+                        jedem Zweifel überlegene Gewissheit von Gott» (S. 79).</note> Aber mit
+                    dem Geschenk ist wieder unauflöslich verbunden die <pb xml:id="p384" ed="pga"/>
+                    Aufforderung, mit dem «Du darfst» das «Du sollst». Jesus hat gesagt: «Kommet
+                    her zu mir alle, die ihr mühselig und beladen seid, ich will euch
+                    erquicken.» [<ref type="can" subtype="bible" target="Mt.11.28">Mt. 11,28</ref>]
+                    Aber er hat unmittelbar fortgefahren: «Nehmet auf euch mein Joch!» [<ref type="can" subtype="bible" target="Mt.11.29">Mt. 11,29</ref>] Es leidet also
+                    keinen Zweifel, dass wir nur dann recht gehört haben, wenn Jesus nicht nur
+                    hinter uns steht als der Verheißende und Schenkende, sondern zur selben Zeit
+                    vor uns als der Fordernde und Führende. Eben in dieser Doppelgestalt ist das
+                        <term type="Sachen" key="Evangelium, Verheißung und Forderung">Evangelium</term> der Lebenskeim, von dem ich geredet habe. <persName ref="kbga-actors-8959">Jakobus</persName> stellt nun den geistigen
+                    Vorgang, mit dem wir’s zu tun haben, mit einem treffenden Bild aus
+                    dem Alltagsleben dar. Er nennt das Evangelium einen Spiegel. Es zeigt uns in
+                    der Person <term type="Sachen" key="Jesus Christus">Jesu</term>, die sein
+                    Inhalt ist, wie wir sein sollen, gerade umgekehrt nämlich, als wir sind. Es
+                    zeigt uns die Einheit, die Feinheit, den Gehorsam, die Liebe, die das
+                    persönliche <term type="Sachen" key="Leben, persönliches">Leben</term>
+                    ausmachen, wie es sein sollte. Und wie wir dem umgekehrten Bilde des
+                    Spiegels entnehmen, wie wir sind, so erblicken wir uns im Spiegel des
+                    Evangeliums in unsrer traurigen kleinen Wirklichkeit, in der
+                    Flatterhaftigkeit, der Unreinheit, dem <term type="Sachen" key="Christen, Ungehorsam">Ungehorsam</term>, der <term type="Sachen" key="Christen, Lieblosigkeit">Lieblosigkeit</term>, die tatsäch <pb ed="-A" n="7"/> lich unser inneres Dasein ausmachen. Das ist der
+                    Augenblick, auf den es ankommt für die Frage, ob wir aus Hörern Täter
+                    werden. Jakobus weiß von solchen, die ihr Angesicht im Spiegel beschauen,
+                    dann hinweggehen und den Anblick vergessen. Es ist für sie, als ob er<note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift korrigiert aus: «das Bild des
+                            Spiegels».</note>
+                     nicht dagewesen wäre. Ohne Bild: Jakobus kennt Leute, die das
+                    Evangelium <term type="Sachen" key="Christen, Hörer des Wortes">«hören»</term>, denen Gott allsonntäglich, nein alltäglich in
+                    Erinnerung ruft, wie sie sein sollten, und die auch wohl daraus entnehmen
+                    können, wie sie sind. Aber die Wirkung ist Null, die Sache mit dem
+                    Evangelium war ein Spiel, ihr Hören war Schein-Hören. Solche Leute hat es zu
+                    allen Zeiten gegeben, vielleicht waren sie sogar zu allen Zeiten die
+                    Mehrzahl, und so kann es uns gar nicht wundern, dass sie schon unter den
+                    ersten Generationen der <term type="Sachen" key="Christen, frühe">Christenheit</term> verbreitet waren. Die Menschen sind eben
+                    merkwürdige Geschöpfe. Wenn beim Hören des Evangeliums der Zustand, in dem
+                    sie sich befinden, zusammengestellt, konfrontiert wird mit dem, in dem sie
+                    sich befinden sollten, so ist das zweifellos eine ernste und harte Sache.
+                    Erfreulich sind die Betrachtungen, die sie vor dem Spiegel an<pb xml:id="p385" ed="pga"/>zustellen genötigt sind, keineswegs. Aber das kommt ihnen
+                    zunächst ganz nicht<note xml:id="n06">«Ganz nicht» steht im
+                        Oberdeutschen als Verstärkung der Verneinung, und ist hochdeutsch zu
+                        lesen als «ganz und gar nicht» oder «gar nicht»; vgl. <bibl corresp="kbga-bibls-2658">
+                                <author ref="kbga-actors-6743">J. Chr. Adelung</author>,
+                            <hi rend="i">Auszug aus dem grammatisch-kritischen Wörterbuche der
+                            Hochdeutschen Mundart</hi>, Zweyter Theil, von F–L, Leipzig
+                        1796, Sp. 348</bibl>.</note> zum Bewusstsein. Vielmehr lassen sie sich diese
+                    Konfrontierung ruhig gefallen, ohne sich dadurch im Mindesten beunruhigen zu
+                    lassen, ja sie empfinden das gewisse Gruseln, das sie dabei ergreift, nur
+                    als eine Vermehrung und Erhöhung ihrer Gemütsruhe und Zufriedenheit. Gerade
+                    diese Gemütsruhe und Zufriedenheit, die hört und doch nicht hört, ist aber
+                    das innere Gegenteil des Christentums, denn ein <term type="Sachen" key="Christen, Sein im Werden">Christ</term> ist einer, der
+                        <hi rend="i">wird</hi>, und nicht einer, der gemütsruhig ist. Sie weist
+                    darauf hin, dass es mit den Voraussetzungen des Christentums nicht in
+                    Ordnung sein muss, von denen wir das letzte Mal sprachen. |</p>
+                <p>Aber man sollte es freilich nicht glauben, welch schöne und christliche
+                    Formen das hörende <term type="Sachen" key="Christen, Hörer des Wortes">Nichthören</term> annehmen kann. Ich will zwei von diesen Formen bei
+                    Namen nennen, <pb ed="-A" n="8"/> die gerade in unsrer Zeit ein
+                    verlockendes Wesen treiben. Die eine Form ist das sogenannte «religiöse
+                        <term type="Sachen" key="Religion, religiöses Interesse">Interesse»</term>. Man rühmt es unsrer Zeit nach, dass sie wieder
+                    beginne, religiöses Interesse zu zeigen. Es ist richtig: der sogenannte
+                    moderne <term type="Sachen" key="Mensch, moderner">Mensch</term> zeigt neben
+                    allerlei andern auch ein ziemlich starkes religiöses Interesse. Beweis: der
+                    Zulauf und das Aufsehen, das <term type="Sachen" key="Evangelisten">evangelistische</term> Reiseprediger oder Veranstaltungen wie das
+                    bekannte Zelt<note xml:id="n07">Die auf die Erweckungsbewegung
+                        zurückgehende Zeltmission beruht auf dem Gedanken, die Menschen in einem
+                        ‚neutralen‘ Zelt leichter zu erreichen als in einem konventionellen
+                        sakralen Raum. Der eigentliche Begründer der mitteleuropäischen
+                        Zeltmission, <persName ref="kbga-actors-3943">Jakob Vetter</persName> (1872–1918), hatte in St. Chrischona bei Basel
+                        eine Predigerausbildung absolviert; seit Beginn des 20. Jahrhunderts kam
+                        es auch in der Schweiz zu Zeltmissionen. Vgl. <bibl corresp="kbga-bibls-2659">
+                                <hi rend="i">50 Jahre
+                            Schweizerische Zeltmission</hi></bibl>, Basel o. J. [1951].<term type="Sachen" key="Mission, Zeltmission"/>
+                        </note> überall erregen,
+                    die Nachfrage nach religiöser <term type="Sachen" key="Religion, religiöse Aufklärung">Aufklärung</term>, die gewaltig
+                    anströmende populäre Literatur auf diesem Gebiet, die Beliebtheit religiöser
+                    Diskussionen. Wir haben gerade in den letzten Wochen ein Schauspiel erlebt,
+                    das von diesem religiösen Interesse redet. Prof. <persName ref="kbga-actors-99">Arthur Drews</persName><note xml:id="n08">
+                            <persName ref="kbga-actors-99">Arthur Drews</persName> (1865–1935), deutscher
+                        Philosoph, Vertreter des deutschen Monismus.</note> in <placeName ref="kbga-places-138">Karlsruhe</placeName> hatte ein Buch geschrieben, in dem er
+                    nach<pb xml:id="p386" ed="pga"/>weisen wollte, Jesus habe überhaupt nie
+                        gelebt,<note xml:id="n09">Gemeint ist: <bibl corresp="kbga-bibls-1391">
+                                <author ref="kbga-actors-99">A. Drews</author>, <hi rend="i">Die
+                            Christusmythe</hi>, Jena 1909</bibl>. Das Buch löste schnell heftige
+                        Kontroversen aus und erschien bereits im folgenden Jahr in dritter
+                        Auflage. 1911 veröffentlichte Drews einen zweiten Teil, in dem er diese
+                        Kontroversen aufnahm: <bibl corresp="kbga-bibls-2660">
+                                <author ref="kbga-actors-99">ders.</author>, <hi rend="i">Die Christusmythe</hi>, Teil 2:
+                            <hi rend="i">Die Zeugnisse für die Geschichtlichkeit Jesu. Eine Antwort an
+                            die Schriftgelehrten mit besonderer Berücksichtigung der
+                            theologischen Methode</hi>, Jena 1911</bibl>. – Die Diskussion
+                        spiegelt sich ebenfalls noch in: <bibl corresp="kbga-bibls-2661">
+                                <author ref="kbga-actors-1243">A. Schweitzer</author>, <hi rend="i">Geschichte der
+                            Leben-Jesu-Forschung</hi>, Tübingen (1913) 1926<hi rend="sup">4</hi>, S. 489–496</bibl>.</note> und er hat in <placeName ref="kbga-places-8">Berlin</placeName> und anderswo Vorträge gleichen
+                    Inhalts gehalten.<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-2662">
+                                <author ref="kbga-actors-99">A. Drews</author>, <hi rend="i">Hat Jesus
+                            gelebt? Reden gehalten auf dem Berliner Religionsgespräch des
+                            Deutschen Monistenbundes am 31. Januar und 1. Februar 1910 im
+                            Zoologischen Garten über «Die Christusmythe»</hi>, hrsg. vom
+                        Deutschen Monistenbund, Berlin 1910</bibl>.</note> Als Antwort darauf
+                    veranstalteten eine Anzahl Berliner Pfarrer eine Versammlung, und die
+                    Beteiligung war so enorm, wie es selbst in einer Weltstadt ungewöhnlich ist.
+                    Der große Zirkus <term type="Sachen" key="Berlin, Zirkus Busch">Busch</term>
+                    und der Berliner <term type="Sachen" key="Berlin, Dom">Dom</term> waren nach
+                    den Berichten bis auf die letzten Plätze gefüllt, auf der Straße sang die
+                    Menge «Ein feste Burg ist unser Gott»<note xml:id="n11">
+                            <bibl type="song" corresp="kbga-songs-59">Lied
+                            <author ref="kbga-actors-261">M. Luthers</author> (GERS 157;
+                        RG 32; EG 362)</bibl>.</note>, und ein Pfarrer hätte von einem Stein herunter
+                    eine Rede gehalten, wenn ihn nicht die Ordnungsliebe der preußischen Polizei
+                    daran verhindert hätte.<note xml:id="n12">
+                            <bibl corresp="kbga-bibls-2663">H. F., Art. «Der
+                        ‚schwarze‘ Sonntag», in: Berliner Tageblatt, 39. Jg., Nr. 93 vom
+                        21.2.1910, S. 3</bibl>, berichtete über die Proteste: «Die Einladung zu einer
+                            <hi rend="i">religiösen Protestveranstaltung</hi> im <hi rend="i">Zirkus
+                            Busch</hi> hatte gestern mittag dem wundervollen Frühlingswetter
+                        zum Trotz […] wohl zehntausend Menschen mobil gemacht. Bereits
+                        eine Stunde vor der als Beginn festgesetzten Zeit war der große
+                        Zirkusbau samt der Manege überfüllt […]. Der Vorstand der
+                            <hi rend="i">Positiven kirchlichen Vereinigung</hi> […] hatte für
+                        das festgesetzte Kampfthema ‚<hi rend="i">Jesus lebt</hi>‘, dem nun schon
+                        seit Wochen infolge der Angriffe von Drews das besondere Interesse der
+                        Christusfreunde und -gegner gilt, nicht weniger als fünf Geistliche
+                        gewonnen. Sämtliche Herren sprachen ungewöhnlich gut. […] Zu
+                        Beginn und Schluß der Versammlung und auch zwischen den Reden sangen die
+                        Tausende unter Begleitung eines Posaunenchors Kirchenlieder. […]
+                        Berlin hat jedenfalls seit vielen Jahren nicht eine kirchliche
+                        Kundgebung von dieser Geschlossenheit und Größe erlebt. Den vom Zirkus
+                        durch die Polizei zurückgedrängten Menschenmassen, so weit sie keinen
+                        Einlaß mehr gefunden hatten, war irgendwie gesagt worden, sie sollten
+                        sich zum Dom begeben. Schon eine halbe Stunde später war auch die
+                        Domkirche bis zum letzten Platz gefüllt, während draußen von der breiten
+                        Domtreppe herab ein Geistlicher bereits eine Ansprache hielt.»<lb/> Vgl. auch <bibl corresp="kbga-bibls-2664">Lp., Art. «Jesus lebt!», in: Der Reichsbote, 38. Jg,
+                        3. Beilage zu Nr. 44 vom 22.2.1910, S. 1f.</bibl> Über diesen Bericht schrieb
+                        Barth wenig später: «Unerfreulich ist dagegen ein Sonderdruck aus dem
+                        ‚Reichsboten‘, der seinen Weg in zahlreichen Exemplaren nach Genf
+                        gefunden hat» (<bibl corresp="kbga-bibls-2665">
+                                <author ref="kbga-actors-2151">K. Barth</author>, <hi rend="i">Ob Jesus gelebt hat? Eine nachträgliche
+                            Osterbetrachtung</hi> [1910], in: V.u.kl.A. 1909–1914,
+                        S. 37–45, dort <ref type="pub-" target="../volume/22/p041#fn_n*">S. 41, Anm. *</ref></bibl>).</note>
+                    <pb xml:id="p387" ed="pga"/> Sollen wir in derartigen Erscheinungen ein besonderes
+                    Flügelrauschen göttlichen Geistes hören? Ich gestehe, dass ich nicht den Mut
+                    dazu habe. Denn das Reich <term type="Sachen" key="Reich Gottes">Gottes</term> kommt nicht mit äußern Gebärden [Lk. 17,20], also auch
+                    nicht mit <term type="Sachen" key="Evangelisten">Reisepredigern</term>,
+                    christlicher Literatur und Massenversammlungen. Das <term type="Sachen" key="Evangelium">Evangelium</term> hören und eine Erweckungsrede ist
+                    ganz zweierlei. Wohl aber sind das «religiöse <term type="Sachen" key="Religion, religiöses Interesse">Interesse»</term> und seine
+                    Gebärden oft genug der Vorwand, sich um die Religion zu drücken, um die
+                    christliche <term type="Sachen" key="Religion, christliche">Religion</term>
+                    nämlich, in der Alles darauf ankommt, dass das <term type="Sachen" key="Christen, Hörer des Wortes">Hören</term> nicht eine interessante
+                    Annehmlichkeit ist, sondern der fruchtbare Boden, <pb ed="-A" n="9"/> auf dem das <term type="Sachen" key="Christen, Täter des Wortes">Tun</term> wachsen muss. Dann ist es aber überhaupt<note type="textcritical" n="c" xml:id="nc"> Im Mskr. nachträglich mit Bleistift eingefügt.</note>
+                     durchaus nicht Interessantes, sondern nur etwas Ernsthaftes.
+                    –</p>
+                <p>Die andre Form, die das hörende Nichthören annimmt, ist weniger modern, aber
+                    gleich sehr verbreitet. Ich meine das <term type="Sachen" key="Kirchenwesen">Kirchenwesen</term>. Was ich sage, sage ich nicht von den Katholiken
+                    und nicht vom finstern <term type="Sachen" key="Deutschland, finsteres">Deutschland</term>, sondern von unsren schweizerischen christlichen
+                        <term type="Sachen" key="Kirchenwesen, schweizerisches">Gemeinden</term>. Es hat gerade bei uns oft zu sehr den Anschein, als
+                    bestehe das Christentum in dem wohlgeordneten Apparat von Kirchenbehörden,
+                    Pfarrern, Armenpflegern, stimmfähigen Bürgern und sonntäglichen
+                    Predigthörern, und es sei Alles hübsch und gut und befriedigend, wenn dieser
+                    Apparat ohne allzu großes Geräusch seinen gewohnten Gang gehe. Man ist
+                    eingeschriebenes Mitglied dieser merkwürdigen Körperschaft, man hat nichts
+                    Besonderes gegen den lieben Gott einzuwenden, man hält Sitzungen und Festlichkeiten<note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift korrigiert aus:
+                            «Banketten».</note>, man hört und hält Reden, die wieder die allgemeine Befriedigung zum
+                    Ausdruck bringen, man schreitet das eine Mal oder das andre mit mehr oder
+                    weniger christlicher Aufregung zur Wahlurne, und das Ganze heißt eine
+                    christliche Kirche. Meine Freunde! Ich weiß, dass <pb xml:id="p388" ed="pga"/> man
+                    den Inhalt einer Sache nicht nach ihrer Oberfläche beurteilen oder gar
+                    verurteilen darf, aber darin werdet ihr mit mir einig sein, dass es für das
+                    hörende <term type="Sachen" key="Christen, Hörer des Wortes">Nicht-Hören</term>, von dem wir reden, kaum ein praktischeres Kostüm
+                    gibt als unser offizielles <term type="Sachen" key="Kirchenwesen, schweizerisches">Kirchenwesen</term>, das mit all
+                    seinen Feierlichkeiten und Umständlichkeiten und Redensarten so geeignet
+                    ist, allerlei Gegenteile des Christentums unter den schützenden Mantel der
+                    Christlichkeit zu nehmen. – |</p>
+                <p>Es gibt auch andre schöne, interessante und christliche Arten, sich des
+                    Christentums zu entledigen, das darin besteht, dass man nicht bleibt, was
+                    man ist, sondern etwas <term type="Sachen" key="Christen, Sein im Werden">
+                            <hi rend="i">wird</hi></term>&gt;. Es mag jeder selbst überlegen, wie es mit
+                    ihm in dieser Beziehung steht. Aber die Sache, das Prinzip, wie die
+                    Gelehrten <pb ed="-A" n="10"/> sagen, bleibt immer dasselbe: der
+                    gute Same ist aus[ge]worfen, aber die Disposition ist nicht da, dass er
+                    seinen Sinn und Zweck erfülle, und so ist es in Wirklichkeit, als ob er
+                    nicht ausgeworfen wäre. Oder noch einmal im Bilde des Jakobus: der Mann geht
+                    vom Spiegel weg und vergisst, was er gesehen, als hätte er es nicht gesehen.
+                    Der Mensch «hört» das <term type="Sachen" key="Christen, Hörer des Wortes">Evangelium</term>, aber es ist ihm dabei keine Aufforderung, keine
+                    Aufgabe, kein Vorwärts! in die Seele gedrungen, sondern er begnügt sich, die
+                    Sache interessant und feierlich und christlich zu finden und im Übrigen auf
+                    sich beruhen zu lassen.</p>
+                <p>Folge: Er bleibt, wie er ist. Das hat für ihn den großen Vorteil, dass seine
+                        <term type="Sachen" key="Zufriedenheit, Selbstbetrug">Zufriedenheit</term> nicht gestört wird. Aber es hat den einen
+                    Nachteil, dass er sich damit selbst betrügt, wie <persName ref="kbga-actors-8959">Jakobus</persName> das etwas grob, aber richtig bei Namen
+                    nennt. Er hat etwas läuten hören von Gott und göttlichen Dingen, und dies
+                    Glockengeläute scheint ihm eine gar nicht unangenehme Verschönerung seines
+                    befriedigenden Zustandes. In Wirklichkeit ist das, was er gehört, Schall und
+                    Rauch gewesen. Ja, es war die Gelegenheit da zu etwas Besserem, aber die
+                    Gelegenheit ist eben verpasst. Und da ist es schon im gewöhnlichen Leben
+                    eine sonderbare Selbsttäuschung, wenn einer in der Erinnerung an verpasste
+                    Gelegenheiten eine besondere Verschönerung seines Daseins finden wollte,
+                    obwohl es auch da solche merkwürdigen Käuze gibt. Auf dem Gebiet des innern
+                        <term type="Sachen" key="Leben, inneres">Lebens</term> befinden wir uns
+                    aber Alle mehr oder weniger in dieser Gesellschaft. Wir sind <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> allein,
+                    womit wir uns selbst betrügen, d. h. wir meinen empfangen zu haben und haben
+                    doch nichts empfangen. Unser inneres Leben bleibt, wie es war, es kommt
+                    nicht zur Sammlung unsres Wesens, unsrer <term type="Sachen" key="Mensch, Persönlichkeit">Persönlichkeit</term>, es <pb xml:id="p389" ed="pga"/> kommt nicht zur Reinigung, zum Willen, zum <term type="Sachen" key="Mensch, Gehorsam">Gehorsam</term> und zur <term type="Sachen" key="Mensch, Liebe">Liebe</term>, sondern die Sache bleibt
+                    stehen, weil wir zufrieden damit sind. Aber der Still<pb ed="-A" n="11"/>stand ist auf diesem Gebiet immer nur ein Schein. Wer nicht
+                    vorwärts geht, geht zurück. In dem Hören, aus dem kein Tun wird, ist die
+                    tiefste Unwahrhaftigkeit verborgen, und die muss früher oder später ihre
+                    Früchte tragen. Die Frucht ist die Unfreiheit. Wie denn? Ist’s nicht
+                    gerade ein heimlicher Freiheits- und Unabhängigkeitsdrang, der uns heißt,
+                    uns der Forderung des <term type="Sachen" key="Evangelium, Forderung">Evangeliums</term> gegenüber zur Ruhe zu setzen und uns mit seiner
+                        <term type="Sachen" key="Evangelium, Verheißung">Verheißung</term> und
+                    Tröstung genug sein zu lassen? In der Tat: Der Weg des Hörens und Nicht-Tuns
+                    scheint auf den ersten Blick immer der Weg der Freiheit. Aber er scheint es
+                    nur; denn die Freiheit, die da gemeint ist, ist die Freiheit des <term type="Sachen" key="Freiheit, des Egoismus">Egoismus</term>. Egoismus
+                    aber ist nichts Andres als Steckenbleiben in der eigenen kleinen Natur und
+                    ihren Wünschen; Egoismus heißt, die Zügel des Lebens fahren lassen, heißt
+                    abhängig, Sklave werden von sich selber, nicht von seinem bessern Ich,
+                    sondern vom schlechtern. Wenn man die Erlaubnis zu solchem Tun Freiheit
+                    nennen will, so kann man es; in Wirklichkeit handelt es sich dabei um die
+                    größtmögliche Unfreiheit, die es gibt. Und zweifellos wird das Elend, in das
+                    der <term type="Sachen" key="Mensch, Elend">Mensch</term> tatsächlich durch
+                    solche Unfreiheit versetzt wird, noch verschärft durch die angebliche
+                    Verschönerung seines Lebens, die er durch allerlei interessante und
+                    feierliche <term type="Sachen" key="Mensch, Religiosität">Religiosität</term> zu haben meint. Denn wenn einer sich z. B. für
+                    einen Musikkenner hält, merkt aber den Unterschied des Wertes nicht zwischen
+                    einer Symphonie von <persName ref="kbga-actors-488">Beethoven</persName> und einem Gassenhauer<note xml:id="n13">Umgangssprachlich für: ein einfach zu singendes, sehr bekanntes
+                        Lied.</note>, so mag das für sein inneres Dasein verhältnismäßig
+                    gleichgiltig sein. Wenn sich aber einer für einen Christen hält und merkt
+                    nicht, dass es dabei darauf ankommt, von Tag zu Tag eine neue Kreatur zu
+                    werden [vgl. <ref type="can" subtype="bible" target="2.Kor.5.17">2.Kor. 5,17</ref>], so steht die Sache viel ernster. Beide betrügen sich selber,
+                    aber der Letztere betrügt sich um sein Leben.</p>
+                <p>Kehren wir zurück zu dem Kreuzweg, von dem wir ausgegangen sind. Der Kreuzweg
+                    ist der wichtige Augenblick, in dem beim <pb ed="-A" n="12"/>
+                    <term type="Sachen" key="Christen, Hörer des Wortes">Hören</term> des
+                    Evangeliums riesengroß vor uns steht, was wir sein sollten. Wir haben
+                    gesehen, wohin der eine Weg führt, der von da ausgeht, der Weg des
+                    Nicht-Tuns, auf dem die Religion zu einer harmlosen <term type="Sachen" key="Religion, harmlose Verschönerungsanlage">Verschönerungsanlage</term> wird.</p>
+                
+                <p> <pb rend="noPipe" xml:id="p390" ed="pga"/> <hi rend="i">Wer aber hineinsieht in das vollkommene Gesetz der Freiheit und dabei
+                        bleibt, wer nicht ein vergesslicher Hörer wird, sondern ein wirklicher
+                            <term type="Sachen" key="Christen, Täter des Wortes">Täter</term></hi>
+                        <hi rend="i">, der wird selig sein in seinem Tun</hi>. In
+                    dem merkwürdigen Wort vom Gesetze der <term type="Sachen" key="Freiheit, Gesetz der Fr.">Freiheit</term> fasst sich der ganze
+                    Inhalt unsres Textes zusammen, in seiner Einfachheit und in seiner
+                    unendlichen Tragweite. Auf den ersten Blick ein unerträglicher<note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                     Widerspruch: Gesetz und Freiheit. Wird nicht das Gesetz die Freiheit
+                    unmöglich machen oder umgekehrt die Freiheit das Gesetz? Aber wir ahnen nun
+                    schon, dass es nicht anders sein kann, dass in der Tat das Gesetz der
+                    Freiheit der Weg zu Gott ist. Denn da ist der Same des <term type="Sachen" key="Evangelium">Evangeliums</term> auf guten Boden gefallen, wo ein
+                    Mensch es nicht mehr kann bewenden lassen bei dem, was er ist, sondern in
+                    der <term type="Sachen" key="Nachfolge">Nachfolge</term> Jesu den Weg der
+                    Selbstverleugnung betritt, der vorwärts führt. Denn das vollkommene Gesetz,
+                    von dem <persName ref="kbga-actors-8959">Jakobus</persName> spricht, ist das
+                    Gesetz der Selbstverleugnung. Es besteht aus einem einzigen Paragraphen, der
+                    lautet so: Wer sein Leben will behalten, der wird es verlieren, und wer sein
+                    Leben verliert um meinetwillen, der wird es finden [<ref type="can" subtype="bible" target="Mt.10.39">Mt. 10,39</ref> par.]. Denn wenn wir
+                    uns vor dem Spiegel des Evangeliums klar werden über die Erbärmlichkeit
+                    unsres innern Daseins, mit andern Worten: wenn wir das Evangelium recht
+                    gehört haben, dann muss es uns ohne Weiteres einleuchten, dass es, um dieser
+                    Erbärmlichkeit abzuhelfen, nicht darauf ankommen kann, dies und das zu tun
+                    oder zu «glauben», sondern allein darauf, uns unter die kleine und
+                    bescheidene Schar der <term type="Sachen" key="Jünger">Jünger</term> Jesu zu
+                    stellen, d. h. von Grund aus andre Menschen zu werden. Denn all das
+                    Flatterhafte, Unreine, Lieblose in unserm Wesen, das unser Dasein so
+                    erbärmlich macht, hat seinen Grund <pb ed="-A" n="13"/> nicht in
+                    sich selber, sondern in unserm lieben Ich, das das Seine sucht. Wollen wir
+                    aufräumen mit jenem Wesen oder Unwesen, dann geht es nicht anders, als dass
+                    wir es an der Wurzel packen, dass wir mit uns selbst aufräumen und Jesus und
+                    seine Art an die Stelle treten lassen. Das ist freilich eine harte Sache,
+                    aber die <term type="Sachen" key="Wahrheit">Wahrheit</term> und das <term type="Sachen" key="Gutes / das Gute">Gute</term> sind immer hart. Das
+                    Gesetz nur kann uns Freiheit geben, aber das Gesetz <hi rend="i">gibt</hi> die
+                        <term type="Sachen" key="Gesetz, gibt die Freiheit">Freiheit</term>.
+                    Denn wenn das Gesetz in uns herrscht, dann wachen die Kräfte und Gaben auf,
+                    die unter der Herrschaft des alten Ich in uns schliefen wie <persName ref="kbga-actors-9255">Dornröschen</persName> im
+                        Zauberschloss.<note xml:id="n14">Vgl. das Märchen
+                        <bibl corresp="kbga-bibls-2666">«Dornröschen», in: <hi rend="i">Kinder- und Hausmärchen</hi>, gesammelt durch
+                            die <rs type="person" ref="kbga-actors-2032 kbga-actors-2031">Brüder Grimm</rs>, Große Ausgabe,
+                        Bd. 1, Göttingen 1857<hi rend="sup">7</hi> (Ausgabe letzter
+                        Hand), S. 251–254</bibl>.</note> Die entfalten und sammeln und ei<pb xml:id="p391" ed="pga"/>nigen sich zu einem ganz neuen Gebilde. Indem wir uns
+                    unterwerfen, beginnen wir zu siegen; indem wir gehorchen, werden wir frei;
+                    indem wir das Ich überwinden, wird die <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term>. Nur dass dieses wichtigste
+                    aller innern Ereignisse sich bei Keinem einmal und auf einen Schlag
+                    vollzieht, wie manche Christen sich die <term type="Sachen" key="Bekehrung">Bekehrung</term> vorstellen, sondern in der immer höhern und reinern
+                    Entwicklung der Persönlichkeit muss das Hineinsehen ins Gesetz der <term type="Sachen" key="Freiheit, Gesetz der Fr.">Freiheit</term> tiefer und
+                    umfassender werden, muss der vergessliche <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> immer neu ein wirklicher
+                        <term type="Sachen" key="Christen, Täter des Wortes">Täter</term>
+                    werden, muss er hören im Tun und Tun im Hören. Freue dich, im Gesetz der
+                    Freiheit wirst du selig sein, und diese <term type="Sachen" key="Seligkeit">Seligkeit</term> ist keine müßige Ruhestatt, sondern Ansporn und
+                    Führung auf dem ewigen Weg, auf dem Gott mit dir geht, denn <term type="Sachen" key="Gott, Ewigkeit">Gott</term> ist die Ewigkeit.</p>
+                <p>Und nun will ich euch eine Geschichte erzählen. Es war einmal ein <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Mann</term>, der
+                    hatte in seinem Innern Gottes Stimme gehört in ihrem ganzen reinen und
+                    vollen Klang, wie vor ihm Keiner. Er hat auch vor der Frage gestanden, ob er
+                    den Klang, den er gehört, brauchen wolle zu einer eindrucksvollen
+                    Verschönerung des Lebens, aber er hat der Versuchung widerstanden, weil er
+                    merkte, dass es dann wäre, als habe er nicht gehört. <pb ed="-A" n="14"/> Er hielt darum nichts auf den «religiös Interessierten»,
+                    sondern sagte ihnen, sie bauten ein Haus auf den Sand [vgl. <ref type="can" subtype="bible" target="Mt.7.26">Mt. 7,26</ref>]. Und hielt nichts auf
+                    dem Kirchenwesen, sondern rief denen mit den Gebetsriemen und den langen
+                    Gewändern ein siebenfaches Wehe zu [vgl. Mt. <ref type="can" subtype="bible" target="Mt.23.13–33">23,13–33</ref>]. Dafür ging er nun zu
+                    den Armen und zu den Kranken, zu den Sündern und zu den Heiden. Er hat ihnen
+                    gesagt, dass Gott sie lieb habe, und hat ihnen geholfen; denn es waren nicht
+                    Worte in ihm, sondern Kraft [vgl. <ref type="can" subtype="bible" target="1.Kor.4.20">1.Kor. 4,20</ref>]. Er hat in keinem Augenblick sich selber
+                    gelebt, und so wurde auch sein Leben ein solches, wie es die Welt vor ihm
+                    und nach ihm nicht gesehen hat. Er hat Feinde gehabt und solche, denen er
+                    gleichgiltig war; aber an der Fleckenlosigkeit seiner Persönlichkeit hat
+                    noch keiner zu rühren gewagt. Darum konnte er zu seinen Freunden sagen:
+                    Folget mir nach! [<ref type="can" subtype="bible" target="Mk.1.17">Mk. 1,17</ref>
+                    par.] ohne Selbstüberhebung, denn bei ihm war das Ich überwunden im Gesetz
+                    der Freiheit. Die Stimme Gottes war bei ihm nicht <pb xml:id="p392" ed="pga"/> nur
+                    Klang, sondern ganz Tat. Und eben darum ist er auch dem Tod nicht
+                    ausgewichen, hat es vielmehr von vornherein klar ins Auge gefasst, dass des
+                    Menschen <term type="Sachen" key="Jesus Christus, Menschensohn">Sohn</term>
+                    sterben <hi rend="i">müsse</hi> [vgl. <ref type="can" subtype="bible" target="Mk.8.31"> Mk. 8,31</ref> par.], um das unvergängliche Leben, das in
+                    ihm war, ganz ans Licht zu bringen [vgl. <ref type="can" subtype="bible" target="2.Tim.1.10">2.Tim. 1,10</ref>]. Er ist gestorben, um es damit restlos zu
+                    offenbaren, dass das göttliche Leben, das in ihm war und das er in den
+                    Seinen geweckt, in der Überwindung des Ich bestehe, und sie hatten darum
+                    wahrlich Recht, wenn sie in seinem <term type="Sachen" key="Kreuz / Kreuzestod">Kreuz</term> das Wesen und den Inhalt seines
+                    Lebens sahen. Sein Tod sagte ihnen, wozu er gelebt habe, und wieder sagte
+                    ihnen die Erinnerung an sein Leben, dass dieser Tod für sie geschehen sei.
+                    Denn weil dieser Tod die vollkommene Erfüllung des vollkommenen Gesetzes der
+                        <term type="Sachen" key="Freiheit, Gesetz der Fr.">Freiheit</term> war,
+                    war er die Geburtsstunde eines neuen Lebens in der <term type="Sachen" key="Kreuz / Kreuzestod, Geburtsstunde des neuen Lebens">Menschheit</term>. In seiner Nachfolge hat die um sein Kreuz
+                    versammelte Gemeinde es erlebt:</p>
+                    <q rend="block">
+                        <lg>
+                            <l>Das Weizenkorn, bevor</l>
+                            <l> <pb rend="noPipe" ed="-A" n="15"/> Es fruchtbar sprosst zum Licht
+                                empor,</l>
+                            <l>Muss sterben in der Erde Schoß,</l>
+                            <l>Zuvor vom eignen Wesen los,</l>
+                            <l>Durch Sterben los.<note xml:id="n15">Aus <bibl type="song" corresp="kbga-songs-138">Strophe 1
+                                    des Liedes «Die Sach’ ist dein, Herr Jesu Christ» von
+                                        <author ref="kbga-actors-736">S. Preiswerk</author> (GERS 170; RG 801)</bibl>.</note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Aber im Sterben fanden sie das Leben. Und im Sterben Jesu
+                    fanden sie die Kraft für ihre Unvollkommenheit. Ihn wussten sie neben sich
+                    in der Siegeskraft seines Kreuzes auf jenem ewigen Weg, der von einer
+                    Seligkeit zur andern führt [vgl. <ref type="can" subtype="bible" target="2.Kor.3.18">2.Kor. 3,18</ref>].</p>
+                <p>Und nun stellt <hi rend="i">uns</hi>, liebe Freunde, die <term type="Sachen" key="Passionszeit">Passionszeit</term> die Frage, ob wir auch zu der
+                    Gemeinde unter dem Kreuz gehören, d. h. ob wir <term type="Sachen" key="Christen, Täter des Wortes">Täter</term> sind und nicht <term type="Sachen" key="Christen, Hörer des Wortes">Hörer</term> allein.</p>
+                <p> Wer mir will <term type="Sachen" key="Nachfolge">nachfolgen</term>, der
+                    nehme sein Kreuz auf sich [<ref type="can" subtype="bible" target="Mk.8.34">Mk. 8,34</ref> par.]. Das ist das Tun, das vonnöten ist. Im Kreuz aber ist
+                    die Freiheit. Das ist Gottes gnädiges Geschenk. Und die <term type="Sachen" key="Freiheit, des Gesetzes Ende">Freiheit</term> ist des Gesetzes Ende
+                    [vgl. <ref type="can" subtype="bible" target="Röm.10.4">Röm. 10,4</ref>].</p>
+                </div>  
+                <div type="closer">
+                        <salute>Amen.</salute>
+                </div>
+                <div type="songs">
+                    <head>Lieder:</head>
+                        <listBibl type="songs" rend="simple">
+                        <bibl type="song" corresp="kbga-songs-273">Nr. 294: «<idno>Mir nach! spricht Christus, unser Held</idno>» von <author ref="kbga-actors-864">J.
+                            Scheffler</author>, Strophen 1–3 und 5–7 (RG 812,1f.4–6;
+                            EG 385,1f.4–6 [jeweils ohne Strophe 3 und mit
+                            Textabweichungen]).</bibl>
+                        <bibl type="song" corresp="kbga-songs-77">Nr. 124: «Marter Jesu, wer kann dein vergessen» von <author ref="kbga-actors-2142">Chr. R. von
+                            Zinzendorf</author>, Strophen 1.3.4.</bibl>
+                    </listBibl>
+                </div>
+
+            </div>
+        </body>
+    </text>
+</TEI>

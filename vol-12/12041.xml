@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Ein Wort zum Neuen Jahr</title>
         <title type="citation_line_1">Barth, Karl: Ein Wort zum Neuen Jahr, 1. Januar 1962</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12041 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12041 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 271–273.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Ein Wort zum Neuen Jahr, 1962, in: Be.Pr., S. 15f.; Schweizerischer evangelischer Pressedienst, 4.1.1962, S.1; Neue Wege (Zürich) Jg. 56 (1962), S.1. </bibl>
-        <bibl xml:id="A1" corresp="KBA 858.2" type="source">A1 (Exemplar von A): Barth, Karl, Ein Wort zum Neuen Jahr über Radio Beromünster von Karl Barth, 1. Januar 1962. <idno ref="https://kba.karl-barth.ch/objects/6184">KBA 858.2</idno>. </bibl>
+        <bibl xml:id="A1" type="source">A1 (Exemplar von A): Barth, Karl, Ein Wort zum Neuen Jahr über Radio Beromünster von Karl Barth, 1. Januar 1962. <ref target="https://kba.karl-barth.ch/objects/6184">KBA 858.2</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -68,48 +68,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -117,7 +77,8 @@
       <div type="paper">
       <pb xml:id="p271" ed="pga"/>
      
-      <head type="header">EIN WORT ZUM NEUEN JAHR<note xml:id="n01">Ansprache über <orgName ref="kbga-actors-8793">Radio Beromünster</orgName>.</note></head>
+      <head type="header">EIN WORT ZUM NEUEN JAHR<note xml:id="n01">Ansprache über <orgName ref="kbga-actors-8793">Radio Beromünster</orgName>.</note>
+                </head>
       <p rend="center">[Neujahr <date when="1962">1962</date>] </p>
         
         <p>
@@ -126,7 +87,23 @@
       
         <p>Laßt uns aufrichtig sein: die Sorge, ja Angst, in der auch wir Schweizer in dieses neue Jahr eintreten, ist, tief in uns verborgen, stärker als die guten Wünsche und Hoffnungen, die wir uns ja auch heute, wie gewohnt, gegenseitig zurufen mögen. Der Horizont der uns heute umge<pb xml:id="p272" ed="pga"/>benden Weltverhältnisse könnte ja kaum dunkler sein. Wird die wilde Bewegung, die die Völker heute ergriffen hat, aufzuhalten sein? Wird es einen Schutz geben vor den Mitteln, mit denen sie sich und uns alle heute bedrohen? Ob unsere Demokratie, unsere Neutralität, unser Wohlstand, unsere Wehrbereitschaft — ob wir alten und jungen Schweizer und Schweizerinnen dem Sturm, wenn er, schlimmer als alle früheren, losbrechen sollte, standhalten werden?</p>
         <p>Ganz sicher werden dann nur feste Herzen standhalten [vgl. <ref type="can" subtype="bible" target="Hebr.13.9">Hebr. 13,9</ref>]. Fest sind die Herzen von Menschen, die heute nicht hassen, wo die Meisten hassen, sondern lieben, wo nur Wenige lieben. Fest sind die Herzen von Menschen, denen Geben seliger ist als Nehmen [vgl. <ref type="can" subtype="bible" target="Act.20.35">Apg. 20,35</ref>]: denen Brot für die Brüder<note xml:id="n02">«<orgName ref="kbga-actors-8794">Brot für Brüder</orgName>» heißt die kirchliche Hilfsorganisation für die Dritte Welt, das schweizerische Gegenstück zu «<orgName ref="kbga-actors-8795">Brot für die Welt</orgName>» in Deutschland.</note> bereit zu stellen heute wichtiger erscheint, als, um sich selbst zu verteidigen, nach neuen, noch schrecklicheren Waffen zu greifen. Fest sind die Herzen von Menschen, die darauf vertrauen, daß auch alles das, was vermöge unserer menschlichen Torheit heute geschieht und noch geschehen mag, in der festen Hand des gnädigen Gottes seine Grenze und sein Ziel hat. Die festen Herzen solcher Menschen werden auch im Jahr <date when="1962">1962</date>, was es uns auch bringe — sie werden in Ewigkeit standhalten.</p>
-        <p>Wir haben im vergangenen Jahr eine neue, freilich altbekannte Nationalhymne bekommen.<note xml:id="n03">Nachdem es in der <placeName ref="kbga-places-58">Schweiz</placeName> bis dahin keine offizielle Nationalhymne, sondern verschiedene Lieder, die abwechselnd bzw. konkurrierend faktisch eine entsprechende Funktion ausübten, gegeben hatte, beschloß der Bundesrat am <date when="1961-09-12">12.9.1961</date>, den <bibl type="song" corresp="kbga-songs-239">«Schweizerpsalm» (<date when="1841">1841</date>) von <author ref="kbga-actors-2685">L. Widmer</author> (<date from="1808" to="1868">1808–1868</date>)</bibl> provisorisch bis zum <date when="1964-12-31">31.12.1964</date> als Nationalhymne für die Armee und für den Einflußbereich der schweizerischen diplomatischen Vertretungen im Ausland einzuführen. (Am <date when="1965-07-13">13.7.1965</date> wurde dieses Provisorium unbefristet verlängert.) Die 1. Strophe lautet: <q rend="block"><lg><l xml:space="preserve">Trittst im Morgenrot daher,</l><l xml:space="preserve">seh’ ich dich im Strahlenmeer,</l><l xml:space="preserve">dich, du Hocherhabener, Herrlicher!</l><l xml:space="preserve">Wenn der Alpen Firn sich rötet,</l><l xml:space="preserve">betet, freie Schweizer, betet!</l><l xml:space="preserve">Eure fromme Seele ahnt</l><l xml:space="preserve">Gott im hehren Vaterland!</l></lg></q> Der Anfang der 3. Strophe lautet: <q rend="block"><lg><l xml:space="preserve">Ziehst im Nebelflor daher,</l><l xml:space="preserve">such’ ich dich im Wolkenmeer,</l><l xml:space="preserve">dich, du Unergründlicher, Ewiger!</l></lg></q>
+        <p>Wir haben im vergangenen Jahr eine neue, freilich altbekannte Nationalhymne bekommen.<note xml:id="n03">Nachdem es in der <placeName ref="kbga-places-58">Schweiz</placeName> bis dahin keine offizielle Nationalhymne, sondern verschiedene Lieder, die abwechselnd bzw. konkurrierend faktisch eine entsprechende Funktion ausübten, gegeben hatte, beschloß der Bundesrat am <date when="1961-09-12">12.9.1961</date>, den <bibl type="song" corresp="kbga-songs-239">«Schweizerpsalm» (<date when="1841">1841</date>) von <author ref="kbga-actors-2685">L. Widmer</author> (<date from="1808" to="1868">1808–1868</date>)</bibl> provisorisch bis zum <date when="1964-12-31">31.12.1964</date> als Nationalhymne für die Armee und für den Einflußbereich der schweizerischen diplomatischen Vertretungen im Ausland einzuführen. (Am <date when="1965-07-13">13.7.1965</date> wurde dieses Provisorium unbefristet verlängert.) Die 1. Strophe lautet: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Trittst im Morgenrot daher,</l>
+                                <l xml:space="preserve">seh’ ich dich im Strahlenmeer,</l>
+                                <l xml:space="preserve">dich, du Hocherhabener, Herrlicher!</l>
+                                <l xml:space="preserve">Wenn der Alpen Firn sich rötet,</l>
+                                <l xml:space="preserve">betet, freie Schweizer, betet!</l>
+                                <l xml:space="preserve">Eure fromme Seele ahnt</l>
+                                <l xml:space="preserve">Gott im hehren Vaterland!</l>
+                            </lg>
+                        </q> Der Anfang der 3. Strophe lautet: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Ziehst im Nebelflor daher,</l>
+                                <l xml:space="preserve">such’ ich dich im Wolkenmeer,</l>
+                                <l xml:space="preserve">dich, du Unergründlicher, Ewiger!</l>
+                            </lg>
+                        </q>
                </note> Ich meine, daß darin etwas zu viel von Morgen<pb xml:id="p273" ed="pga"/>rot, Nebelmeer, Alpenfirn und dergleichen die Rede ist. Aber ein Satz darin ist gut. Er lautet: «Betet, freie Schweizer, betet!» Der Schweizer, der jetzt betet, ist ein freier Schweizer, hat ein festes und also ein liebendes, offenes, vertrauendes Herz, das auch <date when="1962">1962</date> durchhalten wird. Unser Vater im Himmel! Geheiligt werde dein Name! Es komme dein Reich! Es geschehe dein Wille! auf Erden wie im Himmel! [<ref type="can" subtype="bible" target="Mt.6.9 Mt.6.10">Mt. 6,9f.</ref>].</p>
      
     </div>

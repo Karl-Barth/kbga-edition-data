@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Aber seid getrost!</title>
         <title type="citation_line_1">Aber seid getrost!, kein Datum</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12047 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12047 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 296–305.</title>
       </titleStmt>
       <editionStmt>
@@ -54,7 +54,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date type="creation" when="">kein Datum</date>
+        <date type="creation">kein Datum</date>
       </creation>
       <langUsage>
         <language ident="ger">German</language>
@@ -65,48 +65,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,20 +76,32 @@
       <div type="opener">
       <head type="header">ABER SEID GETROST!</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="Joh.16.33">Johannes 16,33</ref></cit></epigraph>
-        <p rend="center">Wörtliche Wiedergabe der am <date when="1963-12-24">24. Dezember 1963</date><lb/>
-          in der <placeName ref="kbga-places-989">Strafanstalt Basel</placeName> gehaltenen Predigt<note xml:id="n01"><p>Vgl. oben <ref type="pub" target="./p242#p242">S. 242ff</ref>. Der Gottesdienst, in dem diese Predigt gehalten wurde, wurde von <orgName ref="kbga-actors-8793">Radio Beromünster</orgName> und vom <orgName ref="kbga-actors-8797">Süddeutschen Rundfunk</orgName> übertragen. Die untenstehende Wiedergabe beruht auf einer Nachschrift einer Tonbandaufzeichnung von dieser Radioübertragung. Die Nachweise finden sich in den Anmerkungen oben im Hauptteil; sie werden hier nicht wiederholt.</p><p>Eine Reproduktion der Tonbandaufzeichnung ist unter dem Titel «<bibl><title level="a">Aber seid getrost! — Weihnachtspredigt</title>» <date when="1979">1979</date> als Tonbandcassette im <orgName ref="kbga-actors-8344">Theologischen Verlag Zürich</orgName></bibl> erschienen.</p></note>
+        <cit>
+                            <ref type="can" subtype="bible" target="Joh.16.33">Johannes 16,33</ref>
+                        </cit>
+                    </epigraph>
+        <p rend="center">Wörtliche Wiedergabe der am <date when="1963-12-24">24. Dezember 1963</date>
+                        <lb/>
+          in der <placeName ref="kbga-places-989">Strafanstalt Basel</placeName> gehaltenen Predigt<note xml:id="n01">
+                            <p>Vgl. oben <ref type="pub" target="../volume/12/p242#p242">S. 242ff</ref>. Der Gottesdienst, in dem diese Predigt gehalten wurde, wurde von <orgName ref="kbga-actors-8793">Radio Beromünster</orgName> und vom <orgName ref="kbga-actors-8797">Süddeutschen Rundfunk</orgName> übertragen. Die untenstehende Wiedergabe beruht auf einer Nachschrift einer Tonbandaufzeichnung von dieser Radioübertragung. Die Nachweise finden sich in den Anmerkungen oben im Hauptteil; sie werden hier nicht wiederholt.</p>
+                            <p>Eine Reproduktion der Tonbandaufzeichnung ist unter dem Titel «<bibl>
+                                    <title level="a">Aber seid getrost! — Weihnachtspredigt</title>» <date when="1979">1979</date> als Tonbandcassette im <orgName ref="kbga-actors-8344">Theologischen Verlag Zürich</orgName></bibl> erschienen.</p>
+                        </note>
         </p>
         <p rend="left">Das Wort der Heiligen Schrift, das wir heute zu uns reden lassen wollen, steht im Johannesevangelium im 16. Kapitel im 33. Vers. Es ist ein Wort unseres Herrn Jesus Christus:</p>
-        <epigraph><cit>
-        <quote><pb xml:id="p297" ed="pga"/> In der Welt habt ihr Angst. Aber seid getrost! Ich habe die Welt überwunden.</quote></cit>
+        <epigraph>
+                        <cit>
+        <quote>
+                                <pb rend="noPipe" xml:id="p297" ed="pga"/> In der Welt habt ihr Angst. Aber seid getrost! Ich habe die Welt überwunden.</quote>
+                        </cit>
       </epigraph> 
       
           <salute>Meine lieben Brüder!</salute>
       </div>
       <div type="main">
         <p>Wir sind an diesem Heiligen Abend vor dem Weihnachtstag beieinander, um uns vorzubereiten darauf, die Weihnachtsbotschaft zu hören. Und nun wißt ihr ja, daß diesmal auch viele andere Menschen uns hier unsichtbar hören, wie wir beten und singen und das Wort der Heiligen Schrift zu verstehen suchen: draußen in der Stadt und in der übrigen <placeName ref="kbga-places-58">Schweiz</placeName> und draußen in <placeName ref="kbga-places-151">Deutschland</placeName> — beinahe wörtlich so, wie wir eben gesungen haben: «Alle Luft jauchzt und ruft: Christus ist geboren.» Wir wollen uns also durch diesen Umstand nicht stören lassen, sondern wollen uns freuen, daß wir heute in ganz großer Gesellschaft sind. Und wir grüßen all die Anderen, die hier zuhören.</p>
-        <p><hi rend="i">Ich habe die Welt überwunden</hi>. Das ist die Weihnachtsbotschaft. Das Kind in der Krippe von <placeName ref="kbga-places-385">Bethlehem</placeName> sagt das — in großer Demut, aber in großer Bestimmtheit. Ich, der Sohn Gottes, des Vaters, des allmächtigen Schöpfers Himmels und der Erde, den er hat Menschensohn werden lassen für euch, damit er euer Gott sei und ihr sein Volk und damit ihr, ihr Menschen alle, Anteil haben sollt an der Freude und an der Kraft und an dem Frieden dieses Bundes. <hi rend="i">Ich</hi> habe die Welt überwunden. Ich habe das getan, sagt er, nicht ihr, ihr bösen Menschen nicht und ihr guten auch nicht, ihr törichten nicht und ihr gescheiten auch nicht, ihr ungläubigen nicht und auch nicht ihr gläubigen. Kein Papst und kein Konzil, keine Regierung und keine Universität hat das getan und eure Technik und Wissenschaft auch nicht, und wenn ihr es dazu bringen solltet, übermorgen über die Milchstraße Schlitten zu fahren. <hi rend="i">Ich</hi> habe das getan, ich ganz allein.</p>
+        <p>
+                        <hi rend="i">Ich habe die Welt überwunden</hi>. Das ist die Weihnachtsbotschaft. Das Kind in der Krippe von <placeName ref="kbga-places-385">Bethlehem</placeName> sagt das — in großer Demut, aber in großer Bestimmtheit. Ich, der Sohn Gottes, des Vaters, des allmächtigen Schöpfers Himmels und der Erde, den er hat Menschensohn werden lassen für euch, damit er euer Gott sei und ihr sein Volk und damit ihr, ihr Menschen alle, Anteil haben sollt an der Freude und an der Kraft und an dem Frieden dieses Bundes. <hi rend="i">Ich</hi> habe die Welt überwunden. Ich habe das getan, sagt er, nicht ihr, ihr bösen Menschen nicht und ihr guten auch nicht, ihr törichten nicht und ihr gescheiten auch nicht, ihr ungläubigen nicht und auch nicht ihr gläubigen. Kein Papst und kein Konzil, keine Regierung und keine Universität hat das getan und eure Technik und Wissenschaft auch nicht, und wenn ihr es dazu bringen solltet, übermorgen über die Milchstraße Schlitten zu fahren. <hi rend="i">Ich</hi> habe das getan, ich ganz allein.</p>
         <p>Ich habe die <hi rend="i">Welt</hi> überwunden. Es geht in der Weihnachtsbotschaft um die Welt. Die Welt, das ist unser großes Wohnhaus, Gottes gute, herrliche Schöpfung und nun doch ein Ort mit so viel Finsternis, eine Stätte von so viel Missetat und Trauer. Die Welt, das seid ihr Menschen, auch ihr, jeder von euch, dazu bestimmt, Gottes Kind zu sein, auch ihr, jeder von euch, von Gott gut geschaffen, und nun doch von ihm abgefallen und nun doch seine Feinde geworden, und weil seine Feinde, darum Feinde untereinander und darum ein Jeder sein eigener Feind. Also <pb xml:id="p298" ed="pga"/> hat Gott diese Welt geliebt. Dazu hat er mich, so sagt uns das Kind von <placeName ref="kbga-places-385">Bethlehem</placeName>, dazu hat er mich, seinen Sohn, gegeben, dahingegeben [vgl. <ref type="can" subtype="bible" target="Joh.3.16">Joh. 3,16</ref>].</p>
         <p>Ich habe die Welt <hi rend="i">überwunden</hi>. Es braucht einen großen Herrn dazu, das zu tun. Aber ich <hi rend="i">bin</hi> dieser große Herr. Ein wunderlicher Herr freilich, verglichen mit den vielen anderen Herren, die es ja auch versucht haben, die Welt oder wenigstens irgend einen Teil der Welt zu überwinden und sich zu unterwerfen und sich zu eigen zu machen mit ihrer Schlauheit und mit ihrer Gewalt. Ich habe die Welt überwunden, indem ich als armer Leute Kind in einem Stall geboren wurde und in eine Krippe gelegt. Und wer weiß, ob das Holz, aus dem diese Krippe gemacht war, nicht aus demselben Walde genommen war, aus dem später Holz zu einem Kreuz gezimmert wurde? Denn ich habe die Welt überwunden, indem ich mich für euch, für eure Sünde und Schuld dahingegeben habe in den Tod und in die Schande. Ich habe die Welt überwunden, indem ich sie mit Gott versöhnt habe, indem ich sie von ihrem Verderben erlöst habe. Ich habe die Welt überwunden, indem ich sie für Gott gewonnen habe und damit auch für euch wiedergewonnen habe, daß sie wieder das Wohnhaus sei, wo alle froh werden dürfen, und damit wir Menschen wieder die sein dürften, die wir eigentlich sind, Gottes liebe Kinder.</p>
         <p>Ich <hi rend="i">habe</hi> die Welt überwunden. Also nicht erst, daß ich es irgendeinmal wohl tun werde. Sondern das ist geschehen, das ist vollbracht, euch bleibt nur übrig, zu merken, daß sie die von mir überwundene Welt ist und daß ihr Menschen alle die von mir schon überwundenen Leute seid.</p>
@@ -152,12 +124,15 @@
         <p>Jetzt muß ich freilich noch etwas hinzufügen. So wenig wie jemand von sich aus getrost werden kann, so wenig kann man auch für sich allein getrost werden wollen. Jedermann kann getrost werden, habe ich gesagt, und es bleibt dabei. Aber nur zusammen mit den Anderen, nur indem er sich gerade durch diesen Anruf versammeln läßt zu dem Volk derer, die diesen Ruf auch hören, also nur in der Zusammengehörigkeit aller derer, zu denen Jesus Christus so geredet hat und noch redet. Seht, er hat’s ja nicht gewissermaßen privatim dir oder dir oder dir oder mir ins Ohr geflüstert: Sei du getrost! Sondern das ist ein Trompetenstoß: <hi rend="i">Seid</hi> getrost! Und wenn du wissen möchtest, ob’s wohl stimmt, daß du mitten in der Angst die Engel hören darfst, wie sie sprachen und sangen in der Weihnachtsnacht: «Ehre sei Gott in der Höhe!», dann mach die Probe darauf, ob du auch das Andere hörst, was sie gesungen und gesagt haben: «Und Frieden auf Erden!» [<ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>] — Frieden unter uns! Meine lieben Brüder, Friede auch in diesem Hause, Friede eines Jeden mit seinem Nachbarn hier aus der Bank, Friede zwischen dem Mann in dieser Zelle und dem in der anderen, Friede zwischen den Gefangenen und zwischen den Aufsehern, Friede in diesem ganzen Haus! Wo man Beides hört: Ehre sei Gott in der Höhe! und: Frieden auf Erden!, Frieden hier für uns!, da wird dann auch das Erste stimmen, und da darf dann ein Jeder getrost sein.</p>
         <p>Ich könnt’s auch anders sagen. Du könntest fragen: Ja, stimmt das wohl, wenn ich jetzt da so nach oben und nach vorne sehe oder sehen möchte, wie es vorhin gesagt wurde: werde ich dann wirklich getrost sein? Dann wäre zu sagen: Ja, du darfst und wirst getrost sein. Aber du mußt, indem du nach oben blickst und nach vorwärts blickst, auch immer nach links und nach rechts blicken, wo diese Anderen sind, diese Nächsten, die mit dir nach vorne und nach oben blicken möchten.</p>
         
-        <p><pb xml:id="p304" ed="pga"/> Oder noch anders: Stimmt’s denn, daß ich einen Heiland haben darf, an den ich mich halten und mit dem ich durchkommen mag? Es stimmt, du darfst ihn haben, du wirst ihn haben, du wirst mit ihm durchkommen. Aber sieh zu, daß du deine Umgebung, diese anderen Leute da um dich her, und die Unangenehmen zuerst, daß du die nicht so als einen Haufen ansiehst von Köpfen und Leuten, mit denen man mehr oder weniger etwas anfangen kann, sondern daß du dir klar wirst darüber und klar bleibst darin: Das ist Gottes Gemeinde auf Erden; und ich kann nicht nur für mich, ich kann nur in der Gemeinde getrost werden. Ob es wahr ist, daß du ein Kind Gottes heißen und sein darfst? Ja, es ist wahr; aber die Probe darauf ist, daß du erkennst in den Anderen deine Brüder, die auch Kinder Gottes sind. Nun, warum sollten wir diese Probe, wie ich jetzt ein paarmal sagte, warum sollten wir die nicht bestehen? Allzu schwer ist sie eigentlich nicht, sondern einfach; wenn man das Eine verstanden hat, dann muß man ja und wird man auch das Andere verstehen und dann auch ein ganz klein wenig zu leben wissen.</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p304" ed="pga"/> Oder noch anders: Stimmt’s denn, daß ich einen Heiland haben darf, an den ich mich halten und mit dem ich durchkommen mag? Es stimmt, du darfst ihn haben, du wirst ihn haben, du wirst mit ihm durchkommen. Aber sieh zu, daß du deine Umgebung, diese anderen Leute da um dich her, und die Unangenehmen zuerst, daß du die nicht so als einen Haufen ansiehst von Köpfen und Leuten, mit denen man mehr oder weniger etwas anfangen kann, sondern daß du dir klar wirst darüber und klar bleibst darin: Das ist Gottes Gemeinde auf Erden; und ich kann nicht nur für mich, ich kann nur in der Gemeinde getrost werden. Ob es wahr ist, daß du ein Kind Gottes heißen und sein darfst? Ja, es ist wahr; aber die Probe darauf ist, daß du erkennst in den Anderen deine Brüder, die auch Kinder Gottes sind. Nun, warum sollten wir diese Probe, wie ich jetzt ein paarmal sagte, warum sollten wir die nicht bestehen? Allzu schwer ist sie eigentlich nicht, sondern einfach; wenn man das Eine verstanden hat, dann muß man ja und wird man auch das Andere verstehen und dann auch ein ganz klein wenig zu leben wissen.</p>
         <p>Wir wollen uns also an diesem Heiligen Abend bereit machen, eben das zu vernehmen, was wir jetzt da zuletzt hörten, daß wir mitten in der Angst — «wenn wir in höchsten Nöten sein und wissen nicht wo aus und ein» —, daß wir da getrost sein dürfen. Aber nicht wahr, wir wollen das Letzte nicht vergessen, wir wollen uns bereit machen und offen auch dafür, mit allen anderen denen zusammen dieses große «Seid getrost!» zu vernehmen, welchen derselbe Herr und Heiland es <hi rend="i">auch</hi> zugesagt hat.</p>
         <p>Das ist nun unser Heiliger Abend in diesem Jahr. Letztes Jahr war auch ein Heiliger Abend, und nächstes Jahr, wenn wir das Leben noch haben, wird wieder einer sein. Laßt mich zum Schluß jetzt noch etwas sagen: Es ist sicher so, daß genau genommen unser ganzes menschliches Leben von Anfang bis zu Ende ein einziger großer Heiliger Abend ist, der dazu bestimmt ist, daß wir uns vorbereiten auf den letzten, den ewigen, den endgültigen, den großen Weihnachtstag, welcher das Ziel aller Wege Gottes mit dem Menschengeschlecht ist und das Ziel seiner Wege mit einem Jeden von uns.</p>
         <p>Ich will zum Schluß jetzt nur noch ein paar Verse lesen aus dem letzten Buch der Bibel, in welchem die Rede ist von diesem ewigen Weihnachtstag, dem wir während des Heiligen Abends unseres ganzen zeitlichen Lebens entgegensehen dürfen: «Ich sah einen neuen Himmel und <pb xml:id="p305" ed="pga"/> eine neue Erde, denn der erste Himmel und die erste Erde verging … Und ich sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabfahren, bereitet als eine geschmückte Braut ihrem Mann. Und ich hörte eine große Stimme von dem Stuhl, die sprach: Siehe da, die Hütte Gottes bei den Menschen. Und er wird bei ihnen wohnen, und sie werden sein Volk sein, und er selbst, Gott mit ihnen, wird ihr Gott sein. Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, noch Leid, noch Geschrei, noch Schmerz wird mehr sein! Denn das Erste ist vergangen. Und der auf dem Stuhl saß, sprach: Siehe, ich mache Alles neu!» [<ref type="can" subtype="bible" target="Apk.21.1 Apk.21.5">Apk. 21,1-5</ref>]. Das wird die ewige Weihnacht sein.</p>
           </div>
-        <div type="closer"><salute>Amen.</salute></div>
+        <div type="closer">
+                    <salute>Amen.</salute>
+                </div>
       </div>
     </body>
   </text>

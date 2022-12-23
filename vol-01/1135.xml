@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 23</title>
         <title type="content">Ernst Wolf an Rudolf Bultmann (Ausschnitt)</title>
         <title type="citation_line_1">Ernst Wolf an Rudolf Bultmann (Ausschnitt), 29. Juni 1934</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1135 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1135 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 264–265.</title>
       </titleStmt>
       <editionStmt>
@@ -69,7 +69,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="kbga-actors-431">Wolf, Ernst</persName>
-          <placeName key="kbga-places-10">Bonn</placeName>
+          <placeName ref="kbga-places-10">Bonn</placeName>
           <date when="1934-06-29">29. Juni 1934</date>
         </correspAction>
         <correspAction type="received">
@@ -83,48 +83,8 @@
         </correspContext>
       </correspDesc>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -133,21 +93,31 @@
         <pb xml:id="p264" ed="pga"/>
         <head>23</head>
         <div type="abstract">
-          <p>[Aus einer Postkarte von <hi rend="text-recte">Prof. D. <persName ref="kbga-actors-431">Ernst Wolf</persName>, </hi><placeName ref="kbga-places-10">Bonn</placeName> (<date when="1934-06-29">29.6.1934</date>), an <hi rend="text-recte"><persName ref="kbga-actors-512">R. Bultmann</persName></hi> (Orig. in der <bibl type="archival">UB Marburg, Handschr.-Abt. Ms 860</bibl>):]
+          <p>[Aus einer Postkarte von <hi rend="text-recte">Prof. D. <persName ref="kbga-actors-431">Ernst Wolf</persName>,</hi>
+                        <placeName ref="kbga-places-10">Bonn</placeName> (<date when="1934-06-29">29.6.1934</date>), an <hi rend="text-recte">
+                            <persName ref="kbga-actors-512">R. Bultmann</persName></hi> (Orig. in der <bibl type="archival">UB Marburg, Handschr.-Abt. Ms 860</bibl>):]
           </p>
         </div>
         <div>
-          <p><persName ref="kbga-actors-2151">K[arl] B[arth]</persName> sendet Ihnen einen Durchschlag seiner Antwort auf <persName ref="kbga-actors-224">Kittels</persName> «langen Erguß» zu. <persName ref="kbga-actors-224">Kittel</persName> hat gestern daraufhin wieder acht Seiten
+          <p>
+                        <persName ref="kbga-actors-2151">K[arl] B[arth]</persName> sendet Ihnen einen Durchschlag seiner Antwort auf <persName ref="kbga-actors-224">Kittels</persName> «langen Erguß» zu. <persName ref="kbga-actors-224">Kittel</persName> hat gestern daraufhin wieder acht Seiten
             vollgeschrieben. Ich kann mich des Eindrucks einer peinlichen Sophisterei und einer
             verkrampften Leidenschaftlichkeit als der Grundmotive dieses Schreibens nicht erwehren.
             Vielleicht sendet Ihnen K. auch davon einen Durchschlag. Daß B. «der Kirche die
             biblische Vollmacht der Geschichtsdeutung» bestreite, «ist die Irrlehre, welche ich
               (<persName ref="kbga-actors-224">Kittel</persName>) Ihnen (Barth) vorwerfe, mit der
-            Sie die Kirche verwüsten und die Gemeinde zerstören.»!<note xml:id="n01"><persName ref="kbga-actors-224">G. Kittel</persName> an <persName ref="kbga-actors-2151">K. Barth</persName>,
-                <date when="1934-06-28">28.6.1934</date>, in: <bibl corresp="kbga-bibls-1217"><title level="m">K. Barth / G. Kittel, a.a.O.</title> (s. <ref type="pub" target="1133.xml#fn_n01">Anh. 21, Anm. 1</ref>), <biblScope>S. 35</biblScope>.</bibl></note> Zum Schluß der Vorwurf einer «doketischen Ekklesiologie».<note xml:id="n02"><bibl corresp="kbga-bibls-1217"><title>A. a. O.</title>, <biblScope>S. 36</biblScope>.</bibl></note>
+            Sie die Kirche verwüsten und die Gemeinde zerstören.»!<note xml:id="n01">
+                            <persName ref="kbga-actors-224">G. Kittel</persName> an <persName ref="kbga-actors-2151">K. Barth</persName>,
+                <date when="1934-06-28">28.6.1934</date>, in: <bibl corresp="kbga-bibls-1217">
+                                <title level="m">K. Barth / G. Kittel, a.a.O.</title> (s. <ref type="pub" target="1133#fn_n01">Anh. 21, Anm. 1</ref>), <biblScope>S. 35</biblScope>.</bibl>
+                        </note> Zum Schluß der Vorwurf einer «doketischen Ekklesiologie».<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-1217">
+                                <title>A. a. O.</title>, <biblScope>S. 36</biblScope>.</bibl>
+                        </note>
           </p>
           
-          <p><pb xml:id="p265" ed="pga"/> Vielleicht habe ich Gelegenheit, nach einem Vortrag im Gießener Fachschaftslager am <date when="1934-07-14">14.
+          <p>
+                        <pb rend="noPipe" xml:id="p265" ed="pga"/> Vielleicht habe ich Gelegenheit, nach einem Vortrag im Gießener Fachschaftslager am <date when="1934-07-14">14.
             [Juli]</date> kurz auch <placeName ref="kbga-places-41">Marburg</placeName> zu besuchen und
             dann zur Sache <persName ref="kbga-actors-224">Kittel</persName> und zu anderem manches
             zu erfahren.</p>

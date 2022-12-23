@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Matthäus 6,33 (II)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 6,33 (II), 3. Mai 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5022 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5022 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 223–231.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1196" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 6,33 (II), 3. Mai 1914. <idno ref="https://kba.karl-barth.ch/objects/1660">KBA 1196</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 6,33 (II), 3. Mai 1914. <ref target="https://kba.karl-barth.ch/objects/1660">KBA 1196</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,18 +76,29 @@
       <div type="sermon">
         <pb xml:id="p223" ed="pga"/>
         <div type="opener">
-        <head><idno>218</idno></head>
+        <head>
+                        <idno>218</idno>
+                    </head>
      
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-05-03">3. Mai 1914</date><note xml:id="n01">Als 
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-05-03">3. Mai 1914</date><note xml:id="n01">Als 
             Lieder, die in dem Gottesdienst gesungen wurden, sind auf
-                     dem Mskr. notiert: <bibl corresp="kbga-songs-106" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>176</idno></bibl>
+                     dem Mskr. notiert: <bibl corresp="kbga-songs-106" type="song">
+                                <bibl corresp="kbga-bibls-1087">Lied <idno>176</idno></bibl>
                         <biblScope>Vers 1,  2,
                          3</biblScope>: «<title level="a">Gottesruhe,
-                     Sabbatstille…</title>» von <author ref="kbga-actors-1403">Chr. Fr. Dan. Schubart</author> (<date from="1739" to="1791">1739–1791</date>)</bibl> und <bibl corresp="kbga-songs-60" type="song"> <bibl corresp="kbga-bibls-1087">Lied <idno>297</idno></bibl> (<bibl corresp="kbga-bibls-1086"><abbr ref="kbga-abbreviations-90"><title level="m">EKG</title></abbr> <idno>262</idno></bibl>) <biblScope>Vers 1, 4, 5</biblScope>: «<title level="a">O Durchbrecher aller Bande…</title>» von <author ref="kbga-actors-1342">G. Arnold</author>
-                        (<date from="1666" to="1714">1666–1714</date>)</bibl>.</note></dateline>
+                     Sabbatstille…</title>» von <author ref="kbga-actors-1403">Chr. Fr. Dan. Schubart</author> (<date from="1739" to="1791">1739–1791</date>)</bibl> und <bibl corresp="kbga-songs-60" type="song"> <bibl corresp="kbga-bibls-1087">Lied <idno>297</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                    <abbr ref="kbga-abbreviations-90">
+                                        <title level="m">EKG</title>
+                                    </abbr> <idno>262</idno></bibl>) <biblScope>Vers 1, 4, 5</biblScope>: «<title level="a">O Durchbrecher aller Bande…</title>» von <author ref="kbga-actors-1342">G. Arnold</author>
+                        (<date from="1666" to="1714">1666–1714</date>)</bibl>.</note>
+                    </dateline>
           <epigraph>
             <cit>
-              <ref type="can" subtype="bible" target="Mt.6.33">Matthäus 6,33</ref><span><idno>II</idno></span>
+              <ref type="can" subtype="bible" target="Mt.6.33">Matthäus 6,33</ref>
+                            <span>
+                                <idno>II</idno>
+                            </span>
               <quote>Trachtet am ersten nach dem Reiche Gottes und nach seiner Gerechtigkeit,
                         so wird euch solches alles zufallen.</quote>
             </cit>
@@ -179,7 +150,8 @@
                unseren Herzen, die uns jenem Ziele entgegentreiben! Das wäre die Seligkeit, für uns
                selbst und für Alle, die um uns sind.</p>
        
-        <p><pb xml:id="p225" ed="pga"/> Jawohl — das müssen wir sagen, und darüber soll sich niemand täuschen —: Wer auf das
+        <p>
+                        <pb rend="noPipe" xml:id="p225" ed="pga"/> Jawohl — das müssen wir sagen, und darüber soll sich niemand täuschen —: Wer auf das
                Reich Gottes hofft und ihm entgegengeht, der geht einen einsamen und <hi rend="i">beschwerlichen Weg</hi>. Kein Wunder, wenn die Anderen, die sein Ziel nicht
                sehen, ihn nicht verstehen können, ihn einen unruhigen, närrischen Kopf nennen. Da
                bekommt man auf einmal nachzudenken und zu studieren, während Alle um Einen her

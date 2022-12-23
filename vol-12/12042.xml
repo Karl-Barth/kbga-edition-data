@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Gottes Geburt</title>
         <title type="citation_line_1">Barth, Karl: Gottes Geburt, 21. Dezember 1962</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12042 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12042 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 273–276.</title>
       </titleStmt>
       <editionStmt>
@@ -51,9 +51,9 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Gottes Geburt, kein Datum, in: Wir Brückenbauer (Zürich), S. 1f. </bibl>
-        <bibl xml:id="A1" corresp="KBA 873" type="source">A1 (Exemplar von A): Barth, Karl, Gottes Geburt, 21. Dezember 1962. <idno ref="https://kba.karl-barth.ch/objects/6200">KBA 873</idno>. </bibl>
-        <bibl xml:id="B" corresp="KBA 10387" type="source">B (Weitere Vorlage): Barth, Karl, Gottes Geburt, 23. Dezember 1962. Manuskript<idno ref="https://kba.karl-barth.ch/objects/371">KBA 10387</idno>. </bibl>
-        <bibl xml:id="C" corresp="KBA 10388" type="source">C (Weitere Vorlage): Barth, Karl, Gottes Geburt, 23. Dezember 1962. Typoskript<idno ref="https://kba.karl-barth.ch/objects/372">KBA 10388</idno>. </bibl>
+        <bibl xml:id="A1" type="source">A1 (Exemplar von A): Barth, Karl, Gottes Geburt, 21. Dezember 1962. <ref target="https://kba.karl-barth.ch/objects/6200">KBA 873</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Gottes Geburt, 23. Dezember 1962. Manuskript<ref target="https://kba.karl-barth.ch/objects/371">KBA 10387</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Gottes Geburt, 23. Dezember 1962. Typoskript<ref target="https://kba.karl-barth.ch/objects/372">KBA 10388</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -70,48 +70,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -127,13 +87,22 @@
         <p>«Von Gottes Geburte»! Ganz so kindlich waren die Menschen des Mittelalters nicht, wie man es sich oft vorstellt, und besser und frömmer als wir waren sie auch nicht. Ihr Denken und Reden hatte aber offenbar eine Dimension, die uns wenn nicht verloren gegangen, so doch undeutlich geworden sein könnte. Sie haben, indem sie, auch wenn es um Geld und Gut, Handel und Wandel ging, «von Gottes Geburt» her «zählten», um das Geheimnis ihrer Zeit, ihrer Geschichte und ihres Lebens wohl besser gewußt als wir.</p>
         <p>An dieses Geheimnis, das, ob wir es wissen und bedenken oder nicht, auch das unserer Zeit, unserer Geschichte, auch unseres Lebens ist, erinnert uns die <hi rend="i">Weihnacht</hi>. Von daher kommen wir. Von dorther «zählt» Alles. Von dorther hat auch alles Wirtschaftliche und Politische seinen Sinn und seine Ordnung, seinen verborgenen Anfang und sein verborgenes Ziel: daß Gott es sich gefallen ließ — in seiner ganzen Hoheit sogar <hi rend="i">Wohl gefallen</hi> ließ —, <hi rend="i">geboren</hi> und also ein <hi rend="i">Mensch</hi> zu werden. Der Widerspruch dieser Botschaft (der Weihnachtsbotschaft) gegen Alles, was der Mensch von Gott und von sich selbst denken und halten möchte, liegt klar am Tage.</p>
        
-        <p><pb xml:id="p274" ed="pga"/> Wie sollte der über Alles, was ist, Erhabene, der nur eben Ewige und Unfaßliche geboren, ein Mensch, wie sollte der Mensch sein Bruder geworden sein — und das ein für allemal: vor 1371 oder heute vor 1962 Jahren? Es braucht keinen besonderen Scharfsinn dazu, um daran zu zweifeln, dagegen zu protestieren als gegen eine Beleidigung des gesunden Menschenverstandes und aller Erfahrung. Aber damit ist nun zum Glück nichts auszurichten. Eben dieser Widerspruch gegen das, was der Mensch von Gott und von sich selbst meinen und halten möchte, ist in der Weihnachtsbotschaft, allem gesunden und ungesunden Menschenverstand und aller sicheren und unsicheren Erfahrung überlegen, tatsächlich ausgesprochen.</p>
+        <p>
+                    <pb rend="noPipe" xml:id="p274" ed="pga"/> Wie sollte der über Alles, was ist, Erhabene, der nur eben Ewige und Unfaßliche geboren, ein Mensch, wie sollte der Mensch sein Bruder geworden sein — und das ein für allemal: vor 1371 oder heute vor 1962 Jahren? Es braucht keinen besonderen Scharfsinn dazu, um daran zu zweifeln, dagegen zu protestieren als gegen eine Beleidigung des gesunden Menschenverstandes und aller Erfahrung. Aber damit ist nun zum Glück nichts auszurichten. Eben dieser Widerspruch gegen das, was der Mensch von Gott und von sich selbst meinen und halten möchte, ist in der Weihnachtsbotschaft, allem gesunden und ungesunden Menschenverstand und aller sicheren und unsicheren Erfahrung überlegen, tatsächlich ausgesprochen.</p>
         <p>Sie sagt, daß die Zeit der nur eben hohen, fernen und fremden, der raum- und zeitlosen, der unmenschlichen Götter, die auch die Zeit des gottlosen Menschen ist, abgelaufen und vorbei ist. Sie sagt sogar, daß es immer nur Irrtum und Lüge war, wenn unsere Zeiten, Weltgeschichten und Lebensgeschichten als die Reiche solcher unmenschlicher Götter und dementsprechend als die Reiche der gottlosen Menschen verstanden wurden. Herr der Zeit, der Geschichte, des Lebens war von jeher, ist heute, wird immer sein: der Gott, der den Menschen geliebt hat, liebt und lieben wird: nicht zum Schaden, sondern im Erweis seiner göttlichen Majestät.</p>
-        <p>Es war der Mensch von jeher — er ist auch in aller Gegenwart und Zukunft der Partner dieses Gottes. Eben darüber ist laut der Weihnachtsbotschaft ein für allemal entschieden worden, indem Gott geboren, ein Mensch, unseresgleichen wurde. Dieser ist der wahre, der lebendige Gott, neben dem alle anderen (auch die höchsten, die geistigsten, die herrlichsten unter ihnen) falsche, tote Götter sind. Und dieses Gottes Partner ist der wirkliche Mensch, neben dem der Gottlose immer nur als Gespenst existieren kann. «Fragst du, wer der ist?», hat <persName ref="kbga-actors-261">Luther</persName> von diesem Gott gesungen: «Er heißt Jesus Christ, der Herr Zebaoth, und ist kein andrer Gott, das Feld muß er behalten.»<note xml:id="n01"><bibl type="song" corresp="kbga-songs-59"><biblScope>Aus Strophe 2</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>342</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>201</idno></bibl>) «<title>Ein feste Burg ist unser Gott</title>» (<date when="1529">1529</date>) von <author ref="kbga-actors-261">M. Luther</author></bibl>.</note>
+        <p>Es war der Mensch von jeher — er ist auch in aller Gegenwart und Zukunft der Partner dieses Gottes. Eben darüber ist laut der Weihnachtsbotschaft ein für allemal entschieden worden, indem Gott geboren, ein Mensch, unseresgleichen wurde. Dieser ist der wahre, der lebendige Gott, neben dem alle anderen (auch die höchsten, die geistigsten, die herrlichsten unter ihnen) falsche, tote Götter sind. Und dieses Gottes Partner ist der wirkliche Mensch, neben dem der Gottlose immer nur als Gespenst existieren kann. «Fragst du, wer der ist?», hat <persName ref="kbga-actors-261">Luther</persName> von diesem Gott gesungen: «Er heißt Jesus Christ, der Herr Zebaoth, und ist kein andrer Gott, das Feld muß er behalten.»<note xml:id="n01">
+                        <bibl type="song" corresp="kbga-songs-59">
+                            <biblScope>Aus Strophe 2</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>342</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>201</idno></bibl>) «<title>Ein feste Burg ist unser Gott</title>» (<date when="1529">1529</date>) von <author ref="kbga-actors-261">M. Luther</author></bibl>.</note>
             </p>
-        <p>Man kann an Vielem zweifeln, aber nicht daran, daß dieser Gott das Feld behalten wird. Und so auch daran nicht, daß unsere Feier der Weihnacht als Erinnerung an Gottes Geburt die nur eben gloriose Sache sein dürfte, müßte und könnte, als die sie in unseren Weihnachtsliedern <pb xml:id="p275" ed="pga"/> gerühmt wird: <title>«Fröhlich soll mein Herze springen»</title><note xml:id="n02"><bibl type="song" corresp="kbga-songs-7"><bibl corresp="kbga-bibls-1087">Lied <idno>119</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>27</idno></bibl>) (<date when="1653">1653</date>) von <author ref="kbga-actors-131">P. Gerhardt</author></bibl>.</note> usw.! Woran liegt es, wenn sie heute weithin eine so tief zweideutige Sache geworden ist, bei der zu «springen» unser Herz kaum große Neigung zeigt? Irgendwie brav und fromm (religiös) sind wir doch alle. Die üblichen Klagen über die Bosheit und Torheit des Menschengeschlechtes rennen in dieser Hinsicht offene Türen ein.</p>
+        <p>Man kann an Vielem zweifeln, aber nicht daran, daß dieser Gott das Feld behalten wird. Und so auch daran nicht, daß unsere Feier der Weihnacht als Erinnerung an Gottes Geburt die nur eben gloriose Sache sein dürfte, müßte und könnte, als die sie in unseren Weihnachtsliedern <pb xml:id="p275" ed="pga"/> gerühmt wird: <title>«Fröhlich soll mein Herze springen»</title><note xml:id="n02">
+                        <bibl type="song" corresp="kbga-songs-7">
+                            <bibl corresp="kbga-bibls-1087">Lied <idno>119</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>27</idno></bibl>) (<date when="1653">1653</date>) von <author ref="kbga-actors-131">P. Gerhardt</author></bibl>.</note> usw.! Woran liegt es, wenn sie heute weithin eine so tief zweideutige Sache geworden ist, bei der zu «springen» unser Herz kaum große Neigung zeigt? Irgendwie brav und fromm (religiös) sind wir doch alle. Die üblichen Klagen über die Bosheit und Torheit des Menschengeschlechtes rennen in dieser Hinsicht offene Türen ein.</p>
         <p>Das Mißliche besteht darin, daß wir in Arbeit und Erholung, in unserer hohen und niederen «Politik», im Wirtschaftsleben, im Sport und Verkehr, übrigens leider oft und oft auch in unseren Kirchen und nicht zuletzt in unseren familiären und anderen sozialen Beziehungen jahraus, jahrein dahinleben, als ob wir statt von Gottes Geburt von den Offenbarungen irgendwelcher falschen, weil unmenschlichen Götter her «zählten». Das bedeutet dann aber, daß wir im Dienst dieser Götter, die doch keine sind, brav und fromm sind: im Verhältnis zu allen möglichen Ideen, Prinzipien und Mächten, die wir nach unserem Gutfinden für göttlich halten und also als Autoritäten respektieren — nur eben nicht im Verhältnis zu dem Gott, der Mensch wurde, ist und sein wird.</p>
-        <p>Was Wunder, wenn dann unter und zwischen uns Menschen auch beim besten Willen Alles so unmenschlich, hart, steif und brüchig wird: ein stiller oder offener «kalter Krieg» ohne Ende! Und was Wunder, wenn dann auch aus der Weihnacht ein Geschäft und Betrieb wird, dem man nur ein bißchen traurig entgegenzublicken und auf den man nachher nur ein bißchen traurig zurückzublicken pflegt: Ohne ihr Geheimnis kann die Weihnachtszeit die fröhliche, die selige, die gnadenbringende, von der die Kinder singen<note xml:id="n03"><bibl type="song" corresp="kbga-songs-235"><bibl corresp="kbga-bibls-1087">Lied <idno>128</idno></bibl>: «<title>O du fröhliche</title>» von <author ref="kbga-actors-2645">J. D. Falk</author> (<date from="1768" to="1826">1768–1826</date>)</bibl>.</note>, unmöglich sein.</p>
+        <p>Was Wunder, wenn dann unter und zwischen uns Menschen auch beim besten Willen Alles so unmenschlich, hart, steif und brüchig wird: ein stiller oder offener «kalter Krieg» ohne Ende! Und was Wunder, wenn dann auch aus der Weihnacht ein Geschäft und Betrieb wird, dem man nur ein bißchen traurig entgegenzublicken und auf den man nachher nur ein bißchen traurig zurückzublicken pflegt: Ohne ihr Geheimnis kann die Weihnachtszeit die fröhliche, die selige, die gnadenbringende, von der die Kinder singen<note xml:id="n03">
+                        <bibl type="song" corresp="kbga-songs-235">
+                            <bibl corresp="kbga-bibls-1087">Lied <idno>128</idno></bibl>: «<title>O du fröhliche</title>» von <author ref="kbga-actors-2645">J. D. Falk</author> (<date from="1768" to="1826">1768–1826</date>)</bibl>.</note>, unmöglich sein.</p>
         <p>Es geht nicht um das «Dogma». Es stünde uns zwar wohl an, mit dem Dogma nicht so leichtfertig und auch nicht so mißtrauisch umzugehen, wie es oft geschieht. Man könnte sich — und das wäre besser — durch seinen Lobpreis des wahren Gottes und des wahren Menschen, von dem zum Beispiel eben alle ordentlichen Weihnachtslieder erfüllt sind, auf das Geheimnis der Weihnacht aufmerksam machen lassen. Aber es geht nicht um das Dogma, sondern um das Geheimnis der Weihnacht selbst, das im Dogma doch nur stammelnd angezeigt ist.</p>
         <p>Es geht um Gottes Geburt, von der wir herkommen, die die Luft ist, in der wir atmen dürfen, ohne die wir, mit der Atombombe und ande<pb xml:id="p276" ed="pga"/>ren Greueln oder ohne sie, auf unserer guten, alten Erde oder im sogenannten «Weltraum» als Kommunisten oder als Antikommunisten nur eben hilflos nach Atem ringen können und schließlich ersticken müßten. Es geht darum, daß wir die Menschlichkeit Gottes, in der seine wahre Göttlichkeit sichtbar und greifbar wird, zu uns reden — sie als die uns im Großen wie im Kleinen vorgegebene Wirklichkeit gelten lassen, in ihr bleiben, statt aus ihr heraus ins Leere zu treten. Wir können sie nicht erfinden und schaffen. Das zu tun (es wäre reiner Übermut, das tun zu wollen!) ist auch nicht nötig, weil sie der ganzen Welt und jedem einzelnen Menschen zum Heil von dem dazu allein kompetenten Erfinder schon erfunden, von dem dazu allein mächtigen Schöpfer längst geschaffen ist. Wir dürfen ihrer einfach, aber ernstlich froh sein.</p>
         <p>Wir dürfen damit rechnen, daß das erste und so das letzte Wort im Streit der Menschlichkeit gegen die Unmenschlichkeit ein für allemal gültig ausgesprochen ist. Wir dürfen auch, indem wir kaufen und verkaufen, «zählen von Gottes Geburt neunzehn Hundert zwei und sechzig Jahre» — von Gottes Geburt, die «höher als alle Vernunft» [<ref type="can" subtype="bible" target="Phil.4.7">Phil. 4,7</ref>] geschehen ist: nicht gegen, sondern für die arge, aber von Gott geliebte Welt, nicht gegen, sondern für den allerdings bösen und törichten, aber von Gott zu seinem Bruder erwählten Menschen. Es geht nur darum, daß wir <hi rend="i">tun</hi>, was wir tun <hi rend="i">dürfen</hi>.</p>

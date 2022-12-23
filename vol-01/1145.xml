@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 33</title>
         <title type="content">Autobiographische Bemerkungen von Rudolf Bultmann</title>
         <title type="citation_line_1">Bultmann, Rudolf: Autobiographische Bemerkungen von Rudolf Bultmann, 28. Januar 1956</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1145 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1145 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 302–311.</title>
       </titleStmt>
       <editionStmt>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -120,16 +80,17 @@
           <p>
             [Diese autobiographischen Bemerkungen schrieb
             <hi rend="text-recte">
-              <persName ref="kbga-actors-512">R. Bultmann</persName>
-            </hi>
+              <persName ref="kbga-actors-512">R. Bultmann</persName></hi>
             am <date when="1956-01-28">28. Januar 1956</date> in <placeName ref="kbga-places-41">Marburg</placeName>. Die Erstfassung wurde von <persName ref="kbga-actors-307">Schubert M. Ogden</persName> ins Englische übersetzt und
                             veröffentlicht in:
-            <bibl corresp="kbga-bibls-1467"><hi rend="text-recte">
-              <title xml:lang="eng">Existence and faith.</title>
-            </hi>
+            <bibl corresp="kbga-bibls-1467">
+                            <hi rend="text-recte">
+              <title xml:lang="eng">Existence and faith.</title></hi>
             <foreign xml:lang="eng">Selected, Translated and Introduced by</foreign> <editor>S. M. Ogden</editor>, <pubPlace>New York</pubPlace> <date>1960</date>, <biblScope>S. 284–288</biblScope>.</bibl>
             <persName ref="kbga-actors-512">Bultmann</persName> überarbeitete seine Bemerkungen <date when="1963">1963</date> und ergänzte sie. Seine Tochter, <persName ref="kbga-actors-242">Antje Lemke-Bultmann</persName>, übersetzte die Zweitfassung, die nach Durchsicht von <persName ref="kbga-actors-226">Betsy Knapp</persName> in
-            <bibl corresp="kbga-bibls-1001"><hi rend="text-recte"><title xml:lang="eng">The Theology of Rudolf Bultmann.</title></hi>
+            <bibl corresp="kbga-bibls-1001">
+                            <hi rend="text-recte">
+                                <title xml:lang="eng">The Theology of Rudolf Bultmann.</title></hi>
             <foreign xml:lang="eng">Edited by</foreign> <editor>C. W. Kegley</editor>, <pubPlace>New York</pubPlace> <date when="1966">1966</date>, <biblScope>S. XIX-XXV</biblScope>,</bibl> veröffentlicht wurde. <bibl>Die folgende, mit freundlicher Genehmigung des Verlages Harper; Row, <pubPlace>New York</pubPlace>, von Meredith Butler und Bernd Jaspert angefertigte Übersetzung aus dem Englischen beruht auf der von Kegley veröffentlichten Fassung.</bibl> Fehler der englischen Vorlage wurden stillschweigend korrigiert und Anmerkungen hinzugefügt:]
           </p>
         </div>
@@ -155,7 +116,8 @@
                         auf die im Gymnasium. Was mich außer dem Religionsunterricht besonders
                         interessierte, war der Unterricht im Griechischen und in der deutschen Literaturgeschichte. Auch
                         ging ich gerne in Konzerte und ins Theater.</p>
-          <p><date when="1903">1903</date> legte ich das Abitur am Gymnasium ab und begann an der <orgName ref="kbga-actors-8660">Universität Tübingen</orgName> Theologie zu
+          <p>
+                        <date when="1903">1903</date> legte ich das Abitur am Gymnasium ab und begann an der <orgName ref="kbga-actors-8660">Universität Tübingen</orgName> Theologie zu
                         studieren. Nach drei Semestern ging ich für zwei Semester nach <placeName ref="kbga-places-8">Berlin</placeName> und schließlich für zwei weitere
                         nach <placeName ref="kbga-places-41">Marburg</placeName>. Ich belegte ebenso
                         Vorlesungen in Philosophie und Philosophiegeschichte wie in Theologie.
@@ -174,13 +136,16 @@
                         hauptsächlich um Erfahrung zu sammeln. Als ich im Herbst <date when="1907">1907</date> eine
                         Repetentenstelle am Seminarium <orgName ref="kbga-actors-8224">Philippinum in Marburg</orgName> erhielt, konnte ich an meiner
                         Promotion und Habilitation arbeiten. <date when="1910">1910</date> wurde ich aufgrund meiner Arbeit
-                            <bibl corresp="kbga-bibls-912"><title level="m"> der paulinischen Predigt und die
+                            <bibl corresp="kbga-bibls-912">
+                            <title level="m"> der paulinischen Predigt und die
                                     kynisch-stoische Diatribe</title></bibl> zum Lic. theol. promoviert. Das Thema hatte mir <persName ref="kbga-actors-418">Johannes Weiß</persName> gestellt. Das Thema
-                        meiner Habilitation, <bibl corresp="kbga-bibls-1469"><title level="m">Die Exegese des Theodor von <pb xml:id="p304" ed="pga"/> Mopsuestia</title></bibl>, hatte <persName ref="kbga-actors-210">Adolf Jülicher</persName>
+                        meiner Habilitation, <bibl corresp="kbga-bibls-1469">
+                            <title level="m">Die Exegese des Theodor von <pb xml:id="p304" ed="pga"/> Mopsuestia</title></bibl>, hatte <persName ref="kbga-actors-210">Adolf Jülicher</persName>
                         vorgeschlagen. <date when="1912">1912</date> habilitierte ich mich damit als Dozent für Neues
                         Testament in <placeName ref="kbga-places-41">Marburg</placeName> und lehrte
                         dort als solcher bis zum Herbst <date when="1916">1916</date>.</p>
-          <p><date when="1908">1908</date> wurde mein Lehrer <persName ref="kbga-actors-418">Johannes
+          <p>
+                        <date when="1908">1908</date> wurde mein Lehrer <persName ref="kbga-actors-418">Johannes
                             Weiß</persName> nach <placeName ref="kbga-places-31">Heidelberg</placeName> berufen. Mit seinem Nachfolger, <persName ref="kbga-actors-175">Wilhelm Heitmüller</persName>, hatte ich bald ein
                         freundschaftliches Verhältnis, und ihm fühle ich mich besonders
                         verpflichtet. Während dieser Jahre verbrachte ich einen großen Teil meiner
@@ -189,22 +154,30 @@
                         Treffen. Hier traf man die Theologen des freien Protestantismus und nahm an
                         den Diskussionen teil, die Theologie und Kirche in den Jahren unmittelbar
                         vor und nach dem Ersten Weltkrieg bewegten. Ich erlebte auch persönlich
-                        einen beachtlichen Teil der Geschichte, die <bibl corresp="kbga-bibls-1478"><persName ref="kbga-actors-333">Johannes Rathje</persName> in seiner <persName ref="kbga-actors-329">Rade</persName>-Biographie <title level="m">Die Welt des freien
-                            Protestantismus</title></bibl><note xml:id="n01"><bibl corresp="kbga-bibls-1478">Untertitel: <title level="a">Ein Beitrag zur deutsch-evangelischen
+                        einen beachtlichen Teil der Geschichte, die <bibl corresp="kbga-bibls-1478">
+                            <persName ref="kbga-actors-333">Johannes Rathje</persName> in seiner <persName ref="kbga-actors-329">Rade</persName>-Biographie <title level="m">Die Welt des freien
+                            Protestantismus</title></bibl><note xml:id="n01">
+                            <bibl corresp="kbga-bibls-1478">Untertitel: <title level="a">Ein Beitrag zur deutsch-evangelischen
                                         Geistesgeschichte. Dargestellt am Leben und Werk</title> von
                                         <author ref="kbga-actors-329">Martin Rade</author>,
                                         <pubPlace>Stuttgart</pubPlace>
-                                    <date when="1952">1952</date>.</bibl></note> (1952) beschrieben hat.</p>
+                                    <date when="1952">1952</date>.</bibl>
+                        </note> (1952) beschrieben hat.</p>
           <p>Im Herbst <date when="1916">1916</date> wurde ich als außerordentlicher Professor nach <placeName ref="kbga-places-179">Breslau</placeName> berufen, wo ich bis <date when="1920">1920</date>
                         wirkte. Dort heiratete ich, und dort wurden unsere beiden ersten Töchter
-                            geboren.<note xml:id="n02"><persName ref="kbga-actors-242">Antje</persName> (geb.
+                            geboren.<note xml:id="n02">
+                            <persName ref="kbga-actors-242">Antje</persName> (geb.
                                 <date when="1918-07-27">27.7.1918</date>) und <persName ref="kbga-actors-94">Gesine</persName> (geb. <date when="1920-07-01">1.7.1920</date>) <persName ref="kbga-actors-94">Bultmann</persName>.</note> In den harten
                         Zeiten der letzten Kriegsjahre und der Nachkriegszeit mit mancherlei
-                        Entbehrungen sahen wir viel Not und Elend. <date when="1917">1917</date> ist mein jüngster <rs type="person" ref="kbga-actors-71">Bruder</rs> in <placeName ref="kbga-places-21">Frankreich</placeName> gefallen.<note xml:id="n03"><persName ref="kbga-actors-71">Arthur Bultmann</persName> als 17jähriger
+                        Entbehrungen sahen wir viel Not und Elend. <date when="1917">1917</date> ist mein jüngster <rs type="person" ref="kbga-actors-71">Bruder</rs> in <placeName ref="kbga-places-21">Frankreich</placeName> gefallen.<note xml:id="n03">
+                            <persName ref="kbga-actors-71">Arthur Bultmann</persName> als 17jähriger
                             Kriegsfreiwilliger.</note> Wir erfuhren aber auch viel Freundschaft und
                         Hilfe. In <placeName ref="kbga-places-179">Breslau</placeName> schrieb ich
-                            <bibl corresp="kbga-bibls-1470"><title level="m">Die Geschichte der synoptischen Tradition</title></bibl>, die <date when="1921">1921</date> veröffentlicht wurde.<note xml:id="n04"><bibl corresp="kbga-bibls-1470">(<title level="s"><abbr ref="kbga-abbreviations-103">FRLANT</abbr></title> <biblScope unit="volume">29</biblScope>), <pubPlace>Göttingen</pubPlace>
-                                    <date when="1921">1921</date> (<date when="1979">1979</date><edition>9</edition>).</bibl></note>
+                            <bibl corresp="kbga-bibls-1470">
+                            <title level="m">Die Geschichte der synoptischen Tradition</title></bibl>, die <date when="1921">1921</date> veröffentlicht wurde.<note xml:id="n04">
+                            <bibl corresp="kbga-bibls-1470">(<title><abbr ref="kbga-abbreviations-103">FRLANT</abbr></title> <biblScope unit="volume">29</biblScope>), <pubPlace>Göttingen</pubPlace>
+                                    <date when="1921">1921</date> (<date when="1979">1979</date><edition rend="sup">9</edition>).</bibl>
+                        </note>
                     </p>
           <p>Im Herbst <date when="1920">1920</date> wurde ich als Ordinarius zum Nachfolger <persName ref="kbga-actors-58">Wilhelm Boussets</persName> nach <placeName ref="kbga-places-24">Gießen</placeName> berufen. Auf die dortige Zeit
                         sehe ich mit besonderer Freude zurück, weil der freundschaftliche geistige
@@ -213,15 +186,18 @@
                             <placeName ref="kbga-places-24">Gießen</placeName> zu verlassen, aber
                         ich war überzeugt, daß ich den Ruf nach <placeName ref="kbga-places-41">Marburg</placeName>, das sozusagen meine akademische Heimat war, nicht
                         ablehnen durfte. So kehrte ich im Herbst <date when="1921">1921</date> als Nachfolger von <persName ref="kbga-actors-175">Wilhelm Heit<pb xml:id="p305" ed="pga" break="no"/>müller</persName> nach <placeName ref="kbga-places-41">Marburg</placeName> zurück. Ich blieb in <placeName ref="kbga-places-41">Marburg</placeName>, lehnte <date when="1930">1930</date> einen Ruf nach
-                            <placeName ref="kbga-places-39">Leipzig</placeName> ab<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-1479"><author ref="kbga-actors-415">G. Wartenberg</author>, <title level="a">Verpaßte Chance oder vergebliche Mühe? Dokumente
+                            <placeName ref="kbga-places-39">Leipzig</placeName> ab<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-1479">
+                                <author ref="kbga-actors-415">G. Wartenberg</author>, <title level="a">Verpaßte Chance oder vergebliche Mühe? Dokumente
                             zu dem Versuch, Rudolf Bultmann Anfang des Jahres 1930 nach Leipzig zu
-                                        berufen</title>, in: <title level="j"><abbr ref="kbga-abbreviations-275">ThLZ</abbr></title>, <biblScope unit="issue">Jg. 115
-                                        (<date when="1990">1990</date>)</biblScope>, <biblScope>Sp. 385–398</biblScope>.</bibl></note> und wurde im Herbst <date when="1951">1951</date> emeritiert.</p>
+                                        berufen</title>, in: <title><abbr ref="kbga-abbreviations-275">ThLZ</abbr></title>, <biblScope unit="issue">Jg. 115
+                                        (<date when="1990">1990</date>)</biblScope>, <biblScope>Sp. 385–398</biblScope>.</bibl>
+                        </note> und wurde im Herbst <date when="1951">1951</date> emeritiert.</p>
           <p>Die Jahre in <placeName ref="kbga-places-41">Marburg</placeName> waren zum
                         einen erschwert durch die politische Entwicklung nach <date when="1933">1933</date> und zum andern
                         durch den Ausbruch des Zweiten Weltkrieges <date when="1939">1939</date>. Während der 20er Jahre
                         waren die äußeren Lebensbedingungen angenehm, und <date when="1924">1924</date> wurde unsere dritte
-                            Tochter<note xml:id="n06"><persName ref="kbga-actors-73">Heilke Bultmann</persName> (geb.
+                            Tochter<note xml:id="n06">
+                            <persName ref="kbga-actors-73">Heilke Bultmann</persName> (geb.
                                 <date when="1924-02-21">21.2.1924</date>).</note> geboren. Die Arbeit mit den
                         Studenten, die noch von der «Jugendbewegung» vom Anfang des Jahrhunderts
                         geprägt waren, war höchst erfreulich. Dann kam das <persName ref="kbga-actors-185">Hitler</persName>-Regime mit seiner
@@ -230,7 +206,8 @@
                         in einem kleinen Kreis von gleichgesinnten Bekannten konnte man sich des
                         offenen und stärkenden Austausches der intellektuellen Welt erfreuen. Viele
                         jüdische Freunde wurden zum Emigrieren gezwungen. Während des Krieges, in
-                        dessen Verlauf mein einziger überlebender Bruder<note xml:id="n07"><persName ref="kbga-actors-75">Peter Bultmann</persName>, verstorben
+                        dessen Verlauf mein einziger überlebender Bruder<note xml:id="n07">
+                            <persName ref="kbga-actors-75">Peter Bultmann</persName>, verstorben
                             unter nicht näher bekannten Umständen in einem KZ in Südfrankreich.</note> in einem Konzentrationslager
                         starb, wurde die Unterdrückung durch den Nazi-Terror am schlimmsten. Als die
                         Alliierten (in <placeName ref="kbga-places-41">Marburg</placeName> die
@@ -240,8 +217,11 @@
                         <orgName ref="kbga-actors-8288">Bekennenden Kirche</orgName> an und bemühte mich — zusammen mit meinem Freund
                             <persName ref="kbga-actors-388">Hans von Soden</persName> — darum, daß
                         die freie Gelehrtenarbeit ihren eigenen Platz in ihr erhielt, trotz
-                        gegenteiliger Tendenzen.<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-1480"><author ref="kbga-actors-250">A. Lindemann</author>, <title level="a">Neutestamentler in der Zeit des Nationalsozialismus. Hans von Soden und Rudolf Bultmann</title>, in: <title level="m">Wort und Dienst. Jahrbuch der Theologischen Schule Bethel</title>, <biblScope unit="volume">Bd. XX</biblScope>, <pubPlace>Bielefeld</pubPlace> <date when="1989">1989</date>, <biblScope>S. 25–52</biblScope></bibl>; <bibl corresp="kbga-bibls-1481"><author ref="kbga-actors-205">B. Jaspert</author>, <title level="a">Sachkritik und Widerstand. Das Beispiel Rudolf Bultmanns</title>, in: <title level="j"><abbr ref="kbga-abbreviations-275">ThLZ</abbr></title>, <biblScope unit="issue">Jg. 115
-                                        (<date when="1990">1990</date>)</biblScope>, <biblScope>Sp. 161–182</biblScope>.</bibl></note>
+                        gegenteiliger Tendenzen.<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-1480">
+                                <author ref="kbga-actors-250">A. Lindemann</author>, <title level="a">Neutestamentler in der Zeit des Nationalsozialismus. Hans von Soden und Rudolf Bultmann</title>, in: <title level="m">Wort und Dienst. Jahrbuch der Theologischen Schule Bethel</title>, <biblScope unit="volume">Bd. XX</biblScope>, <pubPlace>Bielefeld</pubPlace> <date when="1989">1989</date>, <biblScope>S. 25–52</biblScope></bibl>; <bibl corresp="kbga-bibls-1481">
+                                <author ref="kbga-actors-205">B. Jaspert</author>, <title level="a">Sachkritik und Widerstand. Das Beispiel Rudolf Bultmanns</title>, in: <title><abbr ref="kbga-abbreviations-275">ThLZ</abbr></title>, <biblScope unit="issue">Jg. 115
+                                        (<date when="1990">1990</date>)</biblScope>, <biblScope>Sp. 161–182</biblScope>.</bibl>
+                        </note>
                     </p>
           <p>Die Jahre unmittelbar nach <date when="1945">1945</date> waren nicht leicht, obwohl unsere äußere Not
                         durch freiwillige Spenden aus dem Ausland beträchtlich leichter wurde, und
@@ -294,14 +274,18 @@
                         Gelehrten <persName ref="kbga-actors-85">H. Dahlmann</persName>, <persName ref="kbga-actors-284">Friedrich Müller</persName> und <persName ref="kbga-actors-36">Carl Becker</persName> und dem Historiker <persName ref="kbga-actors-400">Friedrich Taeger</persName> für meine Arbeit
                         äußerst fruchtbar.</p>
           <p>Die Veröffentlichungen, die aus meiner Arbeit in <placeName ref="kbga-places-41">Marburg</placeName> hervorgingen, sind in der
-                        Bibliographie zusammengestellt, die in der <bibl corresp="kbga-bibls-1482"><title level="m">Theologischen Rundschau 1954</title></bibl> publiziert wurde.<note xml:id="n09"><bibl corresp="kbga-bibls-1482"><title level="a">Veröffentlichungen <hi rend="i">von</hi>  Rudolf Bultmann,</title> in:
-                                        <title level="j"><abbr ref="kbga-abbreviations-276">ThR</abbr></title>, <biblScope unit="issue">Jg. 22.
+                        Bibliographie zusammengestellt, die in der <bibl corresp="kbga-bibls-1482">
+                            <title level="m">Theologischen Rundschau 1954</title></bibl> publiziert wurde.<note xml:id="n09">
+                            <bibl corresp="kbga-bibls-1482">
+                                <title level="a">Veröffentlichungen <hi rend="i">von</hi>  Rudolf Bultmann,</title> in:
+                                        <title><abbr ref="kbga-abbreviations-276">ThR</abbr></title>, <biblScope unit="issue">Jg. 22.
                                     (<date when="1954">1954</date>)</biblScope>, <biblScope>S. 3–20.</biblScope></bibl> Die bisher vollständigste Bibliographie Bultmanns einschließlich
-                            seiner erst posthum erschienenen Arbeiten bietet <bibl corresp="kbga-bibls-1484"><author ref="kbga-actors-164">E. Hauschildt</author>, <title level="a">Rudolf Bultmanns
+                            seiner erst posthum erschienenen Arbeiten bietet <bibl corresp="kbga-bibls-1484">
+                                <author ref="kbga-actors-164">E. Hauschildt</author>, <title level="a">Rudolf Bultmanns
                                         Predigten. Existentiale Interpretation und lutherisches
-                                        Erbe. Mit einem Verzeichnis der Veröffentlichungen Bultmanns
-                                    </title> (<title level="s"><abbr ref="kbga-abbreviations-177">MThSt</abbr></title> <biblScope unit="volume">26</biblScope>), <pubPlace>Marburg</pubPlace>
-                                    <date when="1989">1989</date>, <biblScope>S. XX-XXXIX</biblScope>.</bibl></note> In den Jahren vor dem Zweiten Weltkrieg hatte ich mehrmals
+                                        Erbe. Mit einem Verzeichnis der Veröffentlichungen Bultmanns</title> (<title><abbr ref="kbga-abbreviations-177">MThSt</abbr></title> <biblScope unit="volume">26</biblScope>), <pubPlace>Marburg</pubPlace>
+                                    <date when="1989">1989</date>, <biblScope>S. XX-XXXIX</biblScope>.</bibl>
+                        </note> In den Jahren vor dem Zweiten Weltkrieg hatte ich mehrmals
                         Gelegenheit, ins Ausland zu reisen. Ich wurde zu Vorlesungen in
                         skandinavischen Ländern, [<placeName ref="kbga-places-18">England</placeName>,] <placeName ref="kbga-places-514">Holland</placeName> und in der <placeName ref="kbga-places-58">Schweiz</placeName> eingeladen. Nach dem Krieg wurde ich 1947 vom
                         <orgName ref="kbga-actors-8694">Schwedischen Institut für Kulturaustausch</orgName> für acht Wochen nach <placeName ref="kbga-places-628">Schweden</placeName> eingeladen. Ich erinnere mich
@@ -311,15 +295,22 @@
                         denen wir während des Krieges abgeschnitten waren, publiziert wurde.
                         Besonders dankbar bin ich für die Freundschaft mit <persName ref="kbga-actors-126">Anton Fridrichsen</persName>.</p>
           <p>1951 ging ich auf Einladung der <orgName ref="kbga-actors-8211">Yale University</orgName> in die <orgName ref="kbga-actors-8455">Vereinigten Staaten</orgName>,
-                        um die Shaffer Lectures zu halten, die später unter dem Titel <bibl corresp="kbga-bibls-1280"><title level="m">Jesus Christ and Mythology</title></bibl><note xml:id="n10">Siehe <ref type="pub" target="1143.xml#fn_n01">Anh. 31, Anm. 1</ref>.</note> veröffentlicht wurden.
+                        um die Shaffer Lectures zu halten, die später unter dem Titel <bibl corresp="kbga-bibls-1280">
+                            <title level="m">Jesus Christ and Mythology</title></bibl><note xml:id="n10">Siehe <ref type="pub" target="1143#fn_n01">Anh. 31, Anm. 1</ref>.</note> veröffentlicht wurden.
                         Weitere Einladungen von verschiedenen Universitäten und theologischen
                         Seminaren gaben weitere Gelegenheiten, amerikanische Gelehrte zu treffen. Der geistige Austausch,
                         der im Laufe dieses dreimonatigen Besuches möglich war, war ein bedeutsames
                         Erlebnis für mich. Ein paar Jahre später, 1955, nahm ich die Einladung der
                             <orgName ref="kbga-actors-8598">Edinburgh University</orgName> an, die
-                        <orgName ref="kbga-actors-8672">Gifford Lectures</orgName> zu halten, die später als Buch unter dem Titel <bibl corresp="kbga-bibls-1471"><title level="m" xml:lang="eng">The Presence of <pb xml:id="p308" ed="pga"/>
-                                    Eternity</title></bibl><note xml:id="n11"><bibl corresp="kbga-bibls-1471"><pubPlace>New York</pubPlace> <date when="1957">1957</date></bibl>; im selben Jahr in <bibl corresp="kbga-bibls-1485"><pubPlace>Edinburgh</pubPlace> unter dem Titel <title level="m" xml:lang="eng">History and Eschatology</title>
-                                    erschienen</bibl>; deutsch: <bibl corresp="kbga-bibls-1022"><title level="m">Geschichte und Eschatologie</title>, <pubPlace>Tübingen</pubPlace> <date when="1958">1958</date> (<date when="1979">1979</date><edition>3</edition>).</bibl></note> erschienen. <date when="1959">1959</date> ging ich auf Einladung der <orgName ref="kbga-actors-8695">Syracuse University</orgName>
+                        <orgName ref="kbga-actors-8672">Gifford Lectures</orgName> zu halten, die später als Buch unter dem Titel <bibl corresp="kbga-bibls-1471">
+                            <title level="m" xml:lang="eng">The Presence of <pb xml:id="p308" ed="pga"/>
+                                    Eternity</title></bibl><note xml:id="n11">
+                            <bibl corresp="kbga-bibls-1471">
+                                <pubPlace>New York</pubPlace> <date when="1957">1957</date></bibl>; im selben Jahr in <bibl corresp="kbga-bibls-1485">
+                                <pubPlace>Edinburgh</pubPlace> unter dem Titel <title level="m" xml:lang="eng">History and Eschatology</title>
+                                    erschienen</bibl>; deutsch: <bibl corresp="kbga-bibls-1022">
+                                <title level="m">Geschichte und Eschatologie</title>, <pubPlace>Tübingen</pubPlace> <date when="1958">1958</date> (<date when="1979">1979</date><edition rend="sup">3</edition>).</bibl>
+                        </note> erschienen. <date when="1959">1959</date> ging ich auf Einladung der <orgName ref="kbga-actors-8695">Syracuse University</orgName>
                         wieder in die <orgName ref="kbga-actors-8455">Vereinigten Staaten</orgName>, um dort am <foreign xml:lang="eng">Department of Bible and
                         Religion</foreign> während des Frühjahrssemesters Vorlesungen zu halten. Wieder war es
                         ein interessantes und fruchtbares Erlebnis.</p>
@@ -329,41 +320,68 @@
                         sondern auch in meinem theologischen Denken überhaupt. Ich habe persönlich
                         eine wichtige Umkehr in der Geschichte der Theologie und in der Geschichte
                         der modernen Philosophie durchlebt — Entwicklungen, die seltsam parallel
-                        laufen. Im Jahre <date when="1919">1919</date> erschien <persName ref="kbga-actors-2151">Karl Barths</persName> Buch <bibl corresp="kbga-bibls-119"><title level="m">Der Römerbrief</title></bibl>.<note xml:id="n12"><ref type="pub" target="1144.xml#fn_n14">Siehe Anh. 32, Anm. 14.</ref></note> Barths Einfluß auf
+                        laufen. Im Jahre <date when="1919">1919</date> erschien <persName ref="kbga-actors-2151">Karl Barths</persName> Buch <bibl corresp="kbga-bibls-119">
+                            <title level="m">Der Römerbrief</title></bibl>.<note xml:id="n12">
+                            <ref type="pub" target="1144#fn_n14">Siehe Anh. 32, Anm. 14.</ref>
+                        </note> Barths Einfluß auf
                         die theologische Arbeit wuchs vom Beginn der 20er Jahre an ständig. <date when="1920">1920</date>
                         hielt <persName ref="kbga-actors-137">Gogarten</persName> seinen Vortrag
-                            <bibl corresp="kbga-bibls-1472"><title level="a">Die Krisis unserer Kultur</title></bibl> auf der Jahrestagung der <orgName ref="kbga-actors-4183">Freunde der Christlichen
-                            Welt</orgName>.<note xml:id="n13">In: <bibl corresp="kbga-bibls-1472"><title level="j"><abbr ref="kbga-abbreviations-69">CW</abbr></title>, <biblScope unit="issue">Jg. 34 (<date when="1920">1920</date>)</biblScope>, <biblScope>Sp. 770–776.786–791</biblScope></bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1411"><author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Die religiöse Entscheidung</title>, <pubPlace>Jena</pubPlace> <date when="1921">1921</date>, <biblScope>S. 32–53</biblScope></bibl> (= <bibl corresp="kbga-bibls-914"><abbr ref="kbga-abbreviations-12">Anfänge II</abbr>, <biblScope>S. 101–121</biblScope></bibl>).</note> <date when="1923">1923</date> begann die Zeitschrift <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>, herausgegeben von Barth, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName>, als das Organ der theologischen Bewegung zu
+                            <bibl corresp="kbga-bibls-1472">
+                            <title level="a">Die Krisis unserer Kultur</title></bibl> auf der Jahrestagung der <orgName ref="kbga-actors-4183">Freunde der Christlichen
+                            Welt</orgName>.<note xml:id="n13">In: <bibl corresp="kbga-bibls-1472">
+                                <title><abbr ref="kbga-abbreviations-69">CW</abbr></title>, <biblScope unit="issue">Jg. 34 (<date when="1920">1920</date>)</biblScope>, <biblScope>Sp. 770–776.786–791</biblScope></bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1411">
+                                <author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Die religiöse Entscheidung</title>, <pubPlace>Jena</pubPlace> <date when="1921">1921</date>, <biblScope>S. 32–53</biblScope></bibl> (= <bibl corresp="kbga-bibls-914">
+                                <abbr ref="kbga-abbreviations-12">Anfänge II</abbr>, <biblScope>S. 101–121</biblScope></bibl>).</note> <date when="1923">1923</date> begann die Zeitschrift <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>, herausgegeben von Barth, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName>, als das Organ der theologischen Bewegung zu
                         erscheinen, die bald als «dialektische Theologie» bezeichnet wurde. Ich
                         versuchte, in die Diskussion mit dieser Theologie einzutreten, zuerst in dem
-                        Aufsatz <bibl corresp="kbga-bibls-984"><title level="a">Die liberale Theologie und die jüngste theologische
-                            Bewegung</title></bibl><note xml:id="n14">In: <bibl corresp="kbga-bibls-984"><title level="j"><abbr ref="kbga-abbreviations-268">ThBl</abbr></title>, <biblScope unit="issue">Jg. 3 (<date when="1924">1924</date>)</biblScope>, <biblScope>Sp. 73–86</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 1–25</biblScope>)</bibl>.</note> und später in dem Vortrag <bibl corresp="kbga-bibls-1077"><title level="a">Die Bedeutung der «dialektischen Theologie» für die
-                                    neutestamentliche Wissenschaft</title></bibl><note xml:id="n15">In: <bibl corresp="kbga-bibls-1077"><title level="j"><abbr ref="kbga-abbreviations-268">ThBl</abbr></title>, <biblScope unit="issue">Jg. 7 (<date when="1928">1928</date>)</biblScope>, <biblScope>Sp. 57–67</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 114–133</biblScope></bibl>)</note>. Ich arbeitete auch an der Zeitschrift <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName> mit.<note xml:id="n16"><bibl corresp="kbga-bibls-1486"><author ref="kbga-actors-512">Bultmanns</author> Beiträge in
-                                        <title level="j"><abbr ref="kbga-abbreviations-313">ZdZ</abbr></title>: <title level="a">Geschichtliche und übergeschichtliche
+                        Aufsatz <bibl corresp="kbga-bibls-984">
+                            <title level="a">Die liberale Theologie und die jüngste theologische
+                            Bewegung</title></bibl><note xml:id="n14">In: <bibl corresp="kbga-bibls-984">
+                                <title><abbr ref="kbga-abbreviations-268">ThBl</abbr></title>, <biblScope unit="issue">Jg. 3 (<date when="1924">1924</date>)</biblScope>, <biblScope>Sp. 73–86</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 1–25</biblScope>)</bibl>.</note> und später in dem Vortrag <bibl corresp="kbga-bibls-1077">
+                            <title level="a">Die Bedeutung der «dialektischen Theologie» für die
+                                    neutestamentliche Wissenschaft</title></bibl><note xml:id="n15">In: <bibl corresp="kbga-bibls-1077">
+                                <title><abbr ref="kbga-abbreviations-268">ThBl</abbr></title>, <biblScope unit="issue">Jg. 7 (<date when="1928">1928</date>)</biblScope>, <biblScope>Sp. 57–67</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 114–133</biblScope></bibl>)</note>. Ich arbeitete auch an der Zeitschrift <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName> mit.<note xml:id="n16">
+                            <bibl corresp="kbga-bibls-1486">
+                                <author ref="kbga-actors-512">Bultmanns</author> Beiträge in
+                                        <title><abbr ref="kbga-abbreviations-313">ZdZ</abbr></title>: <title level="a">Geschichtliche und übergeschichtliche
                                         Religion im Christentum?</title>, <biblScope unit="issue">Jg. 4 (<date when="1926">1926</date>)</biblScope>,
-                                    <biblScope>S. 385–403</biblScope></bibl> ( = <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 65–84</biblScope></bibl>); <bibl corresp="kbga-bibls-1055"><title level="j">Zur Frage der Christologie</title>,<biblScope unit="issue"> Jg. 5
-                                        (<date when="1927">1927</date>)</biblScope>, <biblScope>S. 41–69</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV
-                                        I</abbr>, <biblScope>S. 85–113</biblScope></bibl>); <bibl corresp="kbga-bibls-1074"><title level="j">Die Eschatologie des Johannes-Evangeliums</title>, <biblScope unit="issue">Jg. 6 (<date when="1928">1928</date>)</biblScope>, <biblScope>S. 4–22</biblScope></bibl> ( = <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 134–152</biblScope></bibl>); <bibl corresp="kbga-bibls-1291"><title level="j">Kirche und Lehre im Neuen Testament</title>,
-                                    <biblScope unit="issue">Jg. 7 (<date when="1929">1929</date>)</biblScope>, <biblScope>S. 9–43</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV
+                                    <biblScope>S. 385–403</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 65–84</biblScope></bibl>); <bibl corresp="kbga-bibls-1055">
+                                <title level="j">Zur Frage der Christologie</title>,<biblScope unit="issue"> Jg. 5
+                                        (<date when="1927">1927</date>)</biblScope>, <biblScope>S. 41–69</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV
+                                        I</abbr>, <biblScope>S. 85–113</biblScope></bibl>); <bibl corresp="kbga-bibls-1074">
+                                <title level="j">Die Eschatologie des Johannes-Evangeliums</title>, <biblScope unit="issue">Jg. 6 (<date when="1928">1928</date>)</biblScope>, <biblScope>S. 4–22</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 134–152</biblScope></bibl>); <bibl corresp="kbga-bibls-1291">
+                                <title level="j">Kirche und Lehre im Neuen Testament</title>,
+                                    <biblScope unit="issue">Jg. 7 (<date when="1929">1929</date>)</biblScope>, <biblScope>S. 9–43</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV
                                         I</abbr>, <biblScope>S. 153–187</biblScope></bibl>).</note>
                     </p>
           <p>In dieser neuen theologischen Bewegung schien mir im Unterschied zur
                         «liberalen» Theologie, von der ich herkam, richtig erkannt, daß der
-                        christliche Glaube kein Phänomen der Religionsgeschichte ist, daß er <pb xml:id="p309" ed="pga"/> nicht auf einem «religiösen <foreign xml:lang="lat">apriori</foreign>» (<persName ref="kbga-actors-410">Troeltsch</persName>)<note xml:id="n17">Vgl. <bibl corresp="kbga-bibls-1488"><author ref="kbga-actors-410">E. Troeltsch</author>, <title level="a">Das Historische in Kants Religionsphilosophie. Zugleich ein
+                        christliche Glaube kein Phänomen der Religionsgeschichte ist, daß er <pb xml:id="p309" ed="pga"/> nicht auf einem «religiösen <foreign xml:lang="lat">apriori</foreign>» (<persName ref="kbga-actors-410">Troeltsch</persName>)<note xml:id="n17">Vgl. <bibl corresp="kbga-bibls-1488">
+                                <author ref="kbga-actors-410">E. Troeltsch</author>, <title level="a">Das Historische in Kants Religionsphilosophie. Zugleich ein
                                         Beitrag zu den Untersuchungen über Kants Philosophie der
                                         Geschichte</title>, in: <title level="j">Kant-Studien</title>, <biblScope unit="issue">Jg. 9 (<date when="1904">1904</date>)</biblScope>,
-                                    <biblScope>S. 21–154</biblScope></bibl>; ders., <bibl corresp="kbga-bibls-1489"><title level="m">Psychologie und Erkenntnistheorie in der
+                                    <biblScope>S. 21–154</biblScope></bibl>; ders., <bibl corresp="kbga-bibls-1489">
+                                <title level="m">Psychologie und Erkenntnistheorie in der
                                         Religionswissenschaft. Eine Untersuchung über die Bedeutung
                                         der Kantischen Religionslehre für die heutige
-                                    Religionswissenschaft</title>, <pubPlace>Tübingen</pubPlace> <date when="1905">1905</date> (<date when="1922">1922</date><edition>2</edition>)</bibl>; ders., <bibl corresp="kbga-bibls-1490"><title level="a">Zur Frage des religiösen Apriori. Eine
+                                    Religionswissenschaft</title>, <pubPlace>Tübingen</pubPlace> <date when="1905">1905</date> (<date when="1922">1922</date><edition rend="sup">2</edition>)</bibl>; ders., <bibl corresp="kbga-bibls-1490">
+                                <title level="a">Zur Frage des religiösen Apriori. Eine
                                         Erwiderung auf die Bemerkungen von Paul Spieß</title>, in:
                                         <title level="j">Religion und Geisteskultur</title>
                                         (<pubPlace>Göttingen</pubPlace>), <biblScope unit="issue">Jg. 3
-                                        (<date when="1909">1909</date>)</biblScope>, <biblScope>S. 263–273</biblScope></bibl>, in überarbeiteter und erweiterter Fassung in: ders., <bibl corresp="kbga-bibls-1491"><title level="m">Gesammelte Schriften</title>, <biblScope unit="volume">Bd. II</biblScope>: <title level="a">Zur religiösen Lage, Religionsphilosophe und
+                                        (<date when="1909">1909</date>)</biblScope>, <biblScope>S. 263–273</biblScope></bibl>, in überarbeiteter und erweiterter Fassung in: ders., <bibl corresp="kbga-bibls-1491">
+                                <title level="m">Gesammelte Schriften</title>, <biblScope unit="volume">Bd. II</biblScope>: <title level="a">Zur religiösen Lage, Religionsphilosophe und
                                         Ethik</title>, <pubPlace>Tübingen</pubPlace> <date when="1913">1913</date> (<edition rend="normal">2. Nachdruck der 2. Aufl.</edition>
                                     <pubPlace>Tübingen</pubPlace>
                                     <date when="1922">1922</date>: <pubPlace>Aalen</pubPlace>
-                                    <date when="1981">1981</date>), <biblScope>S. 754–768</biblScope>.</bibl></note> beruht und daß daher die Theologie den christlichen Glauben nicht
+                                    <date when="1981">1981</date>), <biblScope>S. 754–768</biblScope>.</bibl>
+                        </note> beruht und daß daher die Theologie den christlichen Glauben nicht
                         als ein Phänomen der religiösen oder kulturellen Geschichte zu betrachten
                         hat. Von einer solchen Sicht unterschieden, schien mir die neue Theologie
                         richtig zu sehen, daß christlicher Glaube die Antwort auf das Wort des
@@ -385,45 +403,74 @@
                         jedoch dankbar für die entscheidenden Dinge, die ich von ihm gelernt habe.
                         Ich glaube nicht, daß eine endgültige Klärung unserer Beziehung schon
                         erreicht ist; <persName ref="kbga-actors-309">Heinrich Ott</persName> hat
-                        hier einen guten Anfang gemacht mit seinem Buch <bibl corresp="kbga-bibls-1337"><title level="m">Geschichte und Heilsgeschichte in der Theologie Rudolf Bultmanns
-                                </title> (<date when="1955">1955</date>)</bibl>.<note xml:id="n18"><bibl corresp="kbga-bibls-1337">(<abbr ref="kbga-abbreviations-27">BHTh</abbr> <biblScope unit="volume">19</biblScope>), <pubPlace>Tübingen</pubPlace>
-                                    <date when="1955">1955</date>.</bibl></note> Auf der anderen Seite ist die Gemeinsamkeit in den theologischen
+                        hier einen guten Anfang gemacht mit seinem Buch <bibl corresp="kbga-bibls-1337">
+                            <title level="m">Geschichte und Heilsgeschichte in der Theologie Rudolf Bultmanns</title> (<date when="1955">1955</date>)</bibl>.<note xml:id="n18">
+                            <bibl corresp="kbga-bibls-1337">(<abbr ref="kbga-abbreviations-27">BHTh</abbr> <biblScope unit="volume">19</biblScope>), <pubPlace>Tübingen</pubPlace>
+                                    <date when="1955">1955</date>.</bibl>
+                        </note> Auf der anderen Seite ist die Gemeinsamkeit in den theologischen
                         Intentionen von <persName ref="kbga-actors-137">Gogarten</persName> und mir
                         immer deutlicher geworden.</p>
 
-          <p><pb xml:id="p310" ed="pga"/> Diese autobiographischen Bemerkungen wären unvollständig, ohne den Begriff
+          <p>
+                        <pb rend="noPipe" xml:id="p310" ed="pga"/> Diese autobiographischen Bemerkungen wären unvollständig, ohne den Begriff
                         der «Entmythologisierung» erwähnt zu haben, der zum Brennpunkt vieler
                         theologischer Debatten geworden ist. Ich benutzte diesen Ausdruck zum ersten
-                        Mal 1941 in einem Vortrag, der später in dem Band <bibl corresp="kbga-bibls-1473"><title level="m">Offenbarung und Heilsgeschehen</title></bibl><note xml:id="n19"><ref type="pub" target="1138.xml#fn_n04">Siehe Anh. 26, Anm. 4.</ref></note> veröffentlicht wurde. Die
+                        Mal 1941 in einem Vortrag, der später in dem Band <bibl corresp="kbga-bibls-1473">
+                            <title level="m">Offenbarung und Heilsgeschehen</title></bibl><note xml:id="n19">
+                            <ref type="pub" target="1138#fn_n04">Siehe Anh. 26, Anm. 4.</ref>
+                        </note> veröffentlicht wurde. Die
                         Entmythologisierungsdebatte ist noch im Gange. Seit <date when="1948">1948</date> wurden verschiedene
-                        Bände mit Kommentaren unter dem Titel <bibl corresp="kbga-bibls-1272"><title level="m">Kerygma und Mythos</title></bibl>, herausgegeben von  <persName ref="kbga-actors-28">H. W.  Bartsch</persName>, veröffentlicht.<note xml:id="n20"><bibl corresp="kbga-bibls-1492">Innerhalb der
+                        Bände mit Kommentaren unter dem Titel <bibl corresp="kbga-bibls-1272">
+                            <title level="m">Kerygma und Mythos</title></bibl>, herausgegeben von  <persName ref="kbga-actors-28">H. W.  Bartsch</persName>, veröffentlicht.<note xml:id="n20">
+                            <bibl corresp="kbga-bibls-1492">Innerhalb der
                             Reihe «<title level="s">Theologische Forschung — Wissenschaftliche Beiträge zur
                             kirchlich-evangelischen Lehre</title>» gab <editor>Hans-Werner Bartsch</editor> zusammen mit anderen von
                                 <date when="1948">1948</date> bis <date when="1963">1963</date>, dem Jahr der Überarbeitung
                             der autobiographischen Bemerkungen <persName ref="kbga-actors-512">Bultmanns</persName>, 6 Bände <title level="m">Kerygma und Mythos</title> mit Diskussionsbeiträgen heraus. Der <biblScope unit="volume">5. Band</biblScope> erschien mit zwei
                             Ergänzungsbänden (Monographien), der <biblScope unit="volume">6.</biblScope> in zwei Teilbänden</bibl>.</note> Band
-                        IV (1963) enthält einige Vorlesungen des römischen Symposions <bibl corresp="kbga-bibls-1474"><title level="m">Il problema della Demitizzazione</title></bibl>, das <date when="1961">1961</date> unter der Leitung von <persName ref="kbga-actors-79">Enrico
-                            Castelli</persName> stattfand.<note xml:id="n21"><bibl corresp="kbga-bibls-1474"><editor>E. Castelli</editor> (ed.), <title level="m">Il Problema della
+                        IV (1963) enthält einige Vorlesungen des römischen Symposions <bibl corresp="kbga-bibls-1474">
+                            <title level="m">Il problema della Demitizzazione</title></bibl>, das <date when="1961">1961</date> unter der Leitung von <persName ref="kbga-actors-79">Enrico
+                            Castelli</persName> stattfand.<note xml:id="n21">
+                            <bibl corresp="kbga-bibls-1474">
+                                <editor>E. Castelli</editor> (ed.), <title level="m">Il Problema della
                                         Demitizzazione</title>, <pubPlace>Roma</pubPlace>
                                     <date when="1961">1961</date>
-                                ; darin: <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, <biblScope>S. 19–26</biblScope></bibl>; Nachdruck in: <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-155">KuM</abbr> <biblScope unit="volume">IV/1</biblScope> (<date when="1963">1963</date>), <biblScope>S. 19–27</biblScope></bibl> ( = <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV IV</abbr>, <biblScope>S. 128–137</biblScope></bibl>). Die römischen Kolloquien wurden in den folgenden Jahren unter
+                                ; darin: <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, <biblScope>S. 19–26</biblScope></bibl>; Nachdruck in: <bibl corresp="kbga-bibls-1271">
+                                <abbr ref="kbga-abbreviations-155">KuM</abbr> <biblScope unit="volume">IV/1</biblScope> (<date when="1963">1963</date>), <biblScope>S. 19–27</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV IV</abbr>, <biblScope>S. 128–137</biblScope></bibl>). Die römischen Kolloquien wurden in den folgenden Jahren unter
                             Leitung von <persName ref="kbga-actors-79">Enrico Castelli</persName> am
                             <orgName ref="kbga-actors-8696">Istituto di Studi Filosofici</orgName> der <orgName ref="kbga-actors-8697">römischen Staatsuniversität</orgName>
                             fortgesetzt. Eine Auswahl der Akten wurde in Deutschland weiterhin in <abbr ref="kbga-abbreviations-155">KuM</abbr> publiziert.</note> Unter den Kritikern meiner Theologie ist der
                         Philosoph <persName ref="kbga-actors-204">Karl Jaspers</persName>. Unser
-                        Gedankenaustausch wurde <date when="1954">1954</date> unter dem Titel <bibl corresp="kbga-bibls-1475"><title level="m">Die Frage der Entmythologisierung</title></bibl> veröffentlicht.<note xml:id="n22">München <date when="1954">1954</date>; Neuausgabe <bibl corresp="kbga-bibls-1493">mit einer Einführung von <editor>H. Ott</editor> («<title level="m">Zur
+                        Gedankenaustausch wurde <date when="1954">1954</date> unter dem Titel <bibl corresp="kbga-bibls-1475">
+                            <title level="m">Die Frage der Entmythologisierung</title></bibl> veröffentlicht.<note xml:id="n22">München <date when="1954">1954</date>; Neuausgabe <bibl corresp="kbga-bibls-1493">mit einer Einführung von <editor>H. Ott</editor> («<title level="m">Zur
                             Wirkungsgeschichte der Entmythologisierungs-Debatte</title>») <pubPlace>München</pubPlace>
                             <date when="1981">1981</date></bibl>.</note> Auf der anderen Seite schrieb <persName ref="kbga-actors-137">Friedrich Gogarten</persName>, ein Befürworter der
-                        Entmythologisierung, <date when="1953">1953</date> <bibl corresp="kbga-bibls-1476"><title level="m">Entmythologisierung und Kirche</title></bibl>.<note xml:id="n23"><bibl corresp="kbga-bibls-1476"><pubPlace>Stuttgart</pubPlace> <date when="1953">1953</date> (<date when="1967">1967</date><edition rend="sup">4</edition>).</bibl></note> In jüngerer Zeit habe ich die Ansichten
+                        Entmythologisierung, <date when="1953">1953</date> <bibl corresp="kbga-bibls-1476">
+                            <title level="m">Entmythologisierung und Kirche</title></bibl>.<note xml:id="n23">
+                            <bibl corresp="kbga-bibls-1476">
+                                <pubPlace>Stuttgart</pubPlace> <date when="1953">1953</date> (<date when="1967">1967</date><edition rend="sup">4</edition>).</bibl>
+                        </note> In jüngerer Zeit habe ich die Ansichten
                         unterstützt, die Bischof <persName ref="kbga-actors-343">John A. T.
-                            Robinson</persName> in seinem Buch <bibl corresp="kbga-bibls-1371"><title level="m">Honest to God</title> (<date when="1963">1963</date>)</bibl><note xml:id="n24"><bibl corresp="kbga-bibls-1371"><pubPlace>London</pubPlace> <date when="1963">1963</date>; deutsch: <title level="m">Gott ist anders —
-                                        Honest to God</title>, <pubPlace>München</pubPlace> <date when="1963">1963</date> (<date when="1967">1967</date><edition>13</edition>).</bibl></note> vertrat. Die <bibl corresp="kbga-bibls-1477"><title level="m">Honest to God Debate</title>, <date when="1923">1963</date> von <editor>Robinson</editor> und <editor>David L. Ewards</editor></bibl> veröffentlicht<note xml:id="n25">London <date when="1963">1963</date>. Einige Beiträge der englischen Ausgabe sind übersetzt in: <bibl corresp="kbga-bibls-1494"><editor>H. W. Augustin</editor> (Hrsg.), <title level="m">Diskussion zu Bischof Robinsons Gott ist anders</title>, <pubPlace>München</pubPlace>
+                            Robinson</persName> in seinem Buch <bibl corresp="kbga-bibls-1371">
+                            <title level="m">Honest to God</title> (<date when="1963">1963</date>)</bibl><note xml:id="n24">
+                            <bibl corresp="kbga-bibls-1371">
+                                <pubPlace>London</pubPlace> <date when="1963">1963</date>; deutsch: <title level="m">Gott ist anders —
+                                        Honest to God</title>, <pubPlace>München</pubPlace> <date when="1963">1963</date> (<date when="1967">1967</date><edition rend="sup">13</edition>).</bibl>
+                        </note> vertrat. Die <bibl corresp="kbga-bibls-1477">
+                            <title level="m">Honest to God Debate</title>, <date when="1923">1963</date> von <editor>Robinson</editor> und <editor>David L. Ewards</editor></bibl> veröffentlicht<note xml:id="n25">London <date when="1963">1963</date>. Einige Beiträge der englischen Ausgabe sind übersetzt in: <bibl corresp="kbga-bibls-1494">
+                                <editor>H. W. Augustin</editor> (Hrsg.), <title level="m">Diskussion zu Bischof Robinsons Gott ist anders</title>, <pubPlace>München</pubPlace>
                                     <date when="1964">1964</date>; darin <biblScope>S. 104–117</biblScope></bibl> Nachdruck von<bibl corresp="kbga-bibls-1373"> <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Der Gottesgedanke und der moderne Mensch</title>,
-                                    aus: <title level="j"><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 60 (<date when="1963">1963</date>)</biblScope>,
-                                    <biblScope>S. 335–348</biblScope></bibl> ( = <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV IV</abbr>, <biblScope>S. 113–127</biblScope></bibl>).</note>, enthält einen Auszug <pb xml:id="p311" ed="pga"/>
-                        meines ursprünglich für die deutsche Wochenzeitung <bibl corresp="kbga-bibls-1372"><title level="m">Die Zeit</title></bibl> geschriebenen Diskussionsbeitrages.<note xml:id="n26"><bibl corresp="kbga-bibls-1372"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Ist der Glaube an Gott erledigt?</title>, in:
+                                    aus: <title><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 60 (<date when="1963">1963</date>)</biblScope>,
+                                    <biblScope>S. 335–348</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV IV</abbr>, <biblScope>S. 113–127</biblScope></bibl>).</note>, enthält einen Auszug <pb xml:id="p311" ed="pga"/>
+                        meines ursprünglich für die deutsche Wochenzeitung <bibl corresp="kbga-bibls-1372">
+                            <title level="m">Die Zeit</title></bibl> geschriebenen Diskussionsbeitrages.<note xml:id="n26">
+                            <bibl corresp="kbga-bibls-1372">
+                                <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Ist der Glaube an Gott erledigt?</title>, in:
                                         <title level="j">Die Zeit</title>, <biblScope unit="issue">Nr. 19 vom
-                                        <date when="1963-05-10">10.5.1963</date></biblScope>, <biblScope>S. 18</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV
+                                        <date when="1963-05-10">10.5.1963</date></biblScope>, <biblScope>S. 18</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                                <abbr ref="kbga-abbreviations-117">GuV
                                         IV</abbr>, <biblScope>S. 107–112</biblScope></bibl>).</note> Ich bin froh, unter den gegenwärtigen Entwicklungen in der
                         theologischen Wissenschaft den fruchtbaren Austausch zwischen jenen zu
                         beobachten, die auf dem Gebiet der historischen Interpretation des Neuen
@@ -433,7 +480,9 @@
                             Ogden</persName> und <persName ref="kbga-actors-160">Van
                             Harvey</persName>.</p>
           <closer>
-            <signed><persName ref="kbga-actors-512">R. B.</persName></signed>
+            <signed>
+                            <persName ref="kbga-actors-512">R. B.</persName>
+                        </signed>
           </closer>
         </div>
       </div>

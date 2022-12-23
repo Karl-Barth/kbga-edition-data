@@ -7,7 +7,7 @@
         <title type="formal">Vorwort</title>
         <title type="content">Vorwort</title>
         <title type="citation_line_1">Fähler, Ursula, Fähler, Jochen: Vorwort, 1974</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. VII–XI.</title>
       </titleStmt>
       <editionStmt>
@@ -69,48 +69,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -120,7 +80,8 @@
         <head>VORWORT</head>
         <p>Zehn Jahre (<date>1911–1921</date>) hat <persName ref="kbga-actors-2151">Karl Barth</persName> fast jeden Sonntag in dem Aargauer Arbeiterdorf
                <placeName ref="kbga-places-54">Safenwil</placeName> gepredigt. Bis Mai <date>1918</date> hat er seine Predigten Wort für Wort ausgearbeitet,
-               sie aber dann sonntags frei<note xml:id="n01">So <bibl corresp="kbga-bibls-1534"><author ref="kbga-actors-403">E. Thurneysen</author>, <title level="a">Die Anfänge</title>, in:
+               sie aber dann sonntags frei<note xml:id="n01">So <bibl corresp="kbga-bibls-1534">
+                            <author ref="kbga-actors-403">E. Thurneysen</author>, <title level="a">Die Anfänge</title>, in:
                            <title level="m">Antwort. Karl Barth zum 70. Geburtstag</title>.
                  <pubPlace>Zürich</pubPlace> <date when="1956">1956</date>, S. 831</bibl>.</note> und straffer<note xml:id="n02">Nach Auskunft von Frau <persName ref="kbga-actors-26">Nelly
                    Barth</persName>.</note> gehalten. Später hat er sich teilweise mit Stichworten begnügt. Die
@@ -135,8 +96,11 @@
                Grabrede zu einem Suicid, vermutlich wegen Alkoholabusus. Während <persName ref="kbga-actors-2151">Barth</persName> ab Mitte <date>1915</date>
                zwischen deutscher und lateinischer Handschrift wechselt, sind <date>1914</date> noch alle
                Predigten in einer höchst eigenwilligen deutschen Handschrift geschrieben, die schon
-               seinem Freund <persName ref="kbga-actors-403">Eduard Thurneysen</persName> große Schwierigkeiten machte.<note xml:id="n03"><bibl corresp="kbga-bibls-931"><title level="m">K. Barth/E.Thurneysen, Briefwechsel Band 1</title>,
-                           <pubPlace>Zürich</pubPlace> <date when="1973">1973</date>, <ref type="pub" target="../vol-03/p068#p068">S. 68</ref>.</bibl></note> Das Schriftbild ist überaus einheitlich, Durchstreichungen und Korrekturen
+               seinem Freund <persName ref="kbga-actors-403">Eduard Thurneysen</persName> große Schwierigkeiten machte.<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-931">
+                            <title level="m">K. Barth/E.Thurneysen, Briefwechsel Band 1</title>,
+                           <pubPlace>Zürich</pubPlace> <date when="1973">1973</date>, <ref type="pub" target="../volume/03/p068#p068">S. 68</ref>.</bibl>
+                    </note> Das Schriftbild ist überaus einheitlich, Durchstreichungen und Korrekturen
                finden sich nur sehr selten.</p>
         <p>Die Publikation der Predigten im Rahmen der Gesamtausgabe
                <pb xml:id="pr008" ed="pga"/>
@@ -162,17 +126,19 @@
                gekennzeichnet:.</p>
         <p>Manchmal, ab Predigt 244 vom <date when="1914-11-01">1. November 1914</date> regelmäßig, hat Barth die im
                Gottesdienst gesungenen Lieder auf dem Predigtkopf vermerkt. Sie wurden ebenso wie
-               die Liedzitate im Predigttext nach dem in Safenwil benutzten <bibl corresp="kbga-bibls-1087"><title level="m">Gesangbuch für die evangelisch-reformirte Kirche der
+               die Liedzitate im Predigttext nach dem in Safenwil benutzten <bibl corresp="kbga-bibls-1087">
+                        <title level="m">Gesangbuch für die evangelisch-reformierte Kirche der
                      Schweiz</title> von <date when="1891">1891</date><note xml:id="n04">Die Liednummern ohne weitere Angaben in den Anmerkungen beziehen
                  sich auf dieses Gesangbuch.</note></bibl> nachgewiesen und soweit
                <pb xml:id="pr009" ed="pga"/>
-                möglich auch der Fundort im <bibl corresp="kbga-bibls-1086"><title level="m">Evangelischen Kirchengesangbuch</title>
+                möglich auch der Fundort im <bibl corresp="kbga-bibls-1086">
+                        <title level="m">Evangelischen Kirchengesangbuch</title>
                   (<abbr ref="kbga-abbreviations-90">EKG</abbr>)</bibl> angegeben. Größere Abweichungen zwischen den
                Textfassungen beider Gesangbücher wurden vermerkt, weil das schweizerische Gesangbuch
                die Liedtexte häufig in einer gegenüber dem Original stark veränderten Fassung
-               bringt. Bei den Abkürzungen haben wir uns an <bibl corresp="kbga-bibls-395"><title level="m">Die Religion in Geschichte und Gegenwart</title>, 3. Aufl.,
-                  Tübingen <date from="1957" to="1965">1957–1965</date>
-               </bibl>, orientiert.</p>
+               bringt. Bei den Abkürzungen haben wir uns an <bibl corresp="kbga-bibls-395">
+                        <title level="m">Die Religion in Geschichte und Gegenwart</title>, 3. Aufl.,
+                  Tübingen <date from="1957" to="1965">1957–1965</date></bibl>, orientiert.</p>
         <p>Viele Gesangbuchzitate hätten wir ohne die Hilfe von Pfr. Dr. Markus Jenny, Zürich,
                nicht aufgefunden. Frau Heide Bieler und Frau Dagmar van Borght haben die Korrekturen
                mitgelesen. Pfr. Dr. Hinrich Stoevesandt im <orgName ref="kbga-actors-8253">Karl-Barth-Archiv</orgName>, Basel, hat seinen

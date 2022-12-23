@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Predigt: 1 Timotheus 4,4-5 (Abendgottesdienst): "Gottes gute Kreatur"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 1 Timotheus 4,4-5 (Abendgottesdienst): "Gottes gute Kreatur", 6. Oktober 1957</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12017 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12017 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 89–97.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Gottes gute Kreatur, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 103-112. </bibl>
-        <bibl xml:id="B" corresp="KBA 1642" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 1 Tim 4,4-5 (Abendgottesdienst): "Gottes gute Kreatur", 6. Oktober 1957. <idno ref="https://kba.karl-barth.ch/objects/2091">KBA 1642</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 1 Tim 4,4-5 (Abendgottesdienst): "Gottes gute Kreatur", 6. Oktober 1957. <ref target="https://kba.karl-barth.ch/objects/2091">KBA 1642</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -68,48 +68,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -119,28 +79,35 @@
       <div type="opener">
       <head type="header">GOTTES GUTE KREATUR</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="1.Tim.4.4 1.Tim.4.5">1.Timotheus 4,4–5</ref>
+        <cit>
+                            <ref type="can" subtype="bible" target="1.Tim.4.4 1.Tim.4.5">1.Timotheus 4,4–5</ref>
           <quote>Alle Kreatur Gottes ist gut, und nichts ist verwerflich, was mit Danksagung empfangen wird; denn es wird durch das Wort Gottes und durch das Gebet geheiligt.</quote>
         </cit>
       </epigraph>
-      <dateline><date when="1957-10-06">6. Oktober 1957</date>, <placeName ref="kbga-places-999">Bruderholzkapelle Basel</placeName><note xml:id="n01">Vgl. <ref type="pub" target="./p055#fn_n01">S. 55  Anm. 1</ref>.</note></dateline>
+      <dateline>
+                        <date when="1957-10-06">6. Oktober 1957</date>, <placeName ref="kbga-places-999">Bruderholzkapelle Basel</placeName><note xml:id="n01">Vgl. <ref type="pub" target="../volume/12/p055#fn_n01">S. 55  Anm. 1</ref>.</note>
+                    </dateline>
 
       <head type="event">Abendgottesdienst</head>
         <div type="prayer">
           <p>Lieber Vater im Himmel! Wir danken dir, daß du uns erlaubt und geboten hast, uns in dieser Stunde zu versammeln, um dich anzubeten, dein Wort zu verkündigen, zu hören und zu Herzen zu nehmen.</p>
           <p>Aber wir sind nicht die Leute, das so zu tun, daß es dir gefallen kann und für uns selbst heilsam ist. So bitten wir dich herzlich und demütig: Sei du unter uns und nimm deine Sache auch hier in deine <pb xml:id="p090" ed="pga"/> eigene Hand! Reinige du unser Reden und Hören. Öffne und erleuchte du unsere Herzen und unseren Verstand! Erwecke und kräftige du unseren Willen, dich zu erkennen, und unsere Bereitschaft, dir recht zu geben! Laß du uns Atem schöpfen in der frischen Luft deines Geistes, damit wir morgen in neuer Bescheidenheit, Liebe und Freude an unsere Arbeit zurückkehren dürfen!</p>
           <p>Deiner Gegenwart und Leitung empfehlen wir aber mit uns selbst auch alle die anderen Menschen in unserer Umgebung, in dieser Stadt, in unserem Lande, überall. Du hast Mittel und Wege, mit ihnen allen zu reden, sie alle zu trösten und zu mahnen. Laß sie und uns nicht allein, damit es heiter werde, wo es jetzt dunkel ist — daß Friede werde, wo jetzt gestritten wird — Mut und Zuversicht erwachse, wo jetzt Sorge und Angst herrschen! Erhöre uns — nicht weil wir es verdient hätten, aber um Jesu Christi willen, in welchem du uns in deiner unbegreiflichen Gnade von Ewigkeit her gewürdigt hast, deine Kinder zu sein!</p>
-          <div type="closer"><salute>Amen. <pb ed="A" n="104"/></salute></div>
+          <div type="closer">
+                            <salute>Amen. 
+                            </salute>
+                        </div>
         </div>
 
-          <salute>Liebe Gemeinde!</salute>
+          <salute><pb ed="A" n="104"/> Liebe Gemeinde!</salute>
       </div>
       <div type="main">
         <p>Alle Kreatur Gottes — das will sagen: Alles, was Gott geschaffen hat — ist gut. So steht es da. Es heißt nicht einfach: Alles ist gut. Es ist wirklich gar nicht Alles gut. Was von uns Menschen geschaffen wurde und geschaffen wird, ist immer auch mehr oder weniger verderbt durch unsere Lüge und Faulheit, unseren Hochmut und unsere Bosheit. Was daran gut ist, kommt davon her, daß in ihm etwas mitläuft von der guten Kreatur Gottes: von dem, was Gott gut geschaffen hat — oder eben von daher, daß wir von Gottes Vergebung leben dürfen und daß in dem, was wir tun, immer auch etwas von Gottes erlösender Gnade wirksam sein oder sich doch darin ankündigen mag.</p>
         <p>Was aber von Gott geschaffen ist, das ist ganz und vorbehaltlos gut: alle Kreatur Gottes! Wenn ihr vielleicht zu Hause unseren Text noch einmal nachlesen wollt, so werdet ihr finden, daß dort zunächst von der Beziehung von Mann und Frau und vom Essen und Trinken die Rede ist — und also von zwei Bereichen, auf denen menschliche Verderbnis <pb xml:id="p091" ed="pga"/> gewiß genug Raum und Wesen zu haben pflegt. Trotzdem gelte es auch von diesen Bereichen, daß, was Gott geschaffen hat, gut ist. Aber nun wird das ja eben von aller Kreatur Gottes gesagt: also auch von der ganzen Natur mit allen ihren Kräften, auch von denen, die uns dunkel und unheimlich sein mögen wie etwa die Atomkraft. Und weiter: vom ganzen Menschen, wie er ist, nicht etwa nur von seiner Seele, sondern auch von seinem Leib und allen seinen Organen, von allen menschlichen Gaben und Möglichkeiten, <pb ed="A" n="105"/> auch von denen, in denen er sich selber immer wieder ein Geheimnis sein mag. Und weiter: von der ganzen Menschheit aller Zeiten und an allen Orten: auch an denen, die wir für lauter Finsternis halten möchten. Ja: vom ganzen Menschenleben mit Einschluß dessen, daß es so flüchtig ist, so rasch vorübergeht und daß wir alle einmal sterben müssen! Alle Kreatur Gottes ist gut. Da mögen nun gewiß allerhand Fragen und Bedenken sich melden. Aber stellen wir sie fürs erste zurück, um uns das einfach sagen zu lassen, daß Alles, was Gott geschaffen hat, gut ist. So steht es ja schon am Ende der Schöpfungsgeschichte zu lesen: Gott sah an Alles, was er gemacht hatte, und siehe, es war gut — sehr gut sogar [<ref type="can" subtype="bible" target="Gen.1.31">Gen. 1,31</ref>]!</p>
         <p>Gut: das Wort, das im griechischen Text an dieser Stelle steht, bedeutet eigentlich «schön». Wie merkwürdig, daß das wirklich so in der Bibel steht: Was Gott geschaffen hat, ist «schön»! Gemeint ist nun freilich: es ist gut, recht, in Ordnung und also heilsam. Warum schön? Darauf ist zunächst sicher sehr einfach zu antworten: eben darum, weil Gott es geschaffen — was den Menschen angeht, sogar zu seinem Ebenbild geschaffen [vgl. <ref type="can" subtype="bible" target="Gen.1.27">Gen. 1,27</ref>], weil er alle Kreatur dazu bestimmt hat, ihm Ehre zu machen. Aber im Neuen Testament hören wir nun doch noch etwas in dieser Hinsicht Genaueres. Ganz am Anfang des Johannesevangeliums liest man nämlich in Übereinstimmung mit anderen ähnlichen Stellen: daß alle Dinge durch Ihn, d. h. aber durch das Wort Gottes, welches Jesus Christus heißt, geworden und daß ohne Ihn, ohne Jesus Christus, nichts geworden sei von Allem, was geworden ist [<ref type="can" subtype="bible" target="Joh.1.3">Joh. 1,3</ref>]. Von da aus werden wir doch wohl sagen müssen: daß Gottes Kreatur darum gut ist, weil Er, weil Jesus Christus der Grund und die Absicht der Schöpfung Gottes und alles von ihm Geschaffenen ist — weil wir es in der ganzen Kreatur Gottes mit Jesus Christus als ihrem innersten Geheimnis zu tun haben. Wie sollte sie da nicht schön und gut zu nennen sein?</p>
 
-        <p><pb ed="A" n="106"/> <pb xml:id="p092" ed="pga"/> Das Wörtlein «gut» bekommt von daher einen ganz besonderen Klang und Sinn. Alle Kreatur Gottes — so werden wir jetzt fortfahren müssen — ist darum gut, weil sie — denn das ist doch Jesus Christus! — Gottes Gnade, seinen freien Willen, seine königliche Macht, uns zu helfen und uns zu erretten, uns zu sich zu ziehen, in sich enthält und anzeigt, weil seine Liebe und so seine Ehre das Geheimnis alles von ihm Geschaffenen ist. Weil Gott Alles, was ist, dazu bestimmt hat, ihm und uns, seiner Liebe und unserem Heil zu dienen! Weil Alles, was durch ihn geworden ist, einem großen Haus zu vergleichen ist, das er dazu gebaut und eingerichtet hat, um uns als seine lieben Kinder darin willkommen zu heißen und uns in ihm Wohnung zu geben!</p>
+        <p>
+                        <pb ed="A" n="106"/> <pb rend="noPipe" xml:id="p092" ed="pga"/> Das Wörtlein «gut» bekommt von daher einen ganz besonderen Klang und Sinn. Alle Kreatur Gottes — so werden wir jetzt fortfahren müssen — ist darum gut, weil sie — denn das ist doch Jesus Christus! — Gottes Gnade, seinen freien Willen, seine königliche Macht, uns zu helfen und uns zu erretten, uns zu sich zu ziehen, in sich enthält und anzeigt, weil seine Liebe und so seine Ehre das Geheimnis alles von ihm Geschaffenen ist. Weil Gott Alles, was ist, dazu bestimmt hat, ihm und uns, seiner Liebe und unserem Heil zu dienen! Weil Alles, was durch ihn geworden ist, einem großen Haus zu vergleichen ist, das er dazu gebaut und eingerichtet hat, um uns als seine lieben Kinder darin willkommen zu heißen und uns in ihm Wohnung zu geben!</p>
         <p>In dem, was Gott geschaffen hat, ist also nichts Verwerfliches: nichts Wüstes, nichts Böses, nichts Gefährliches, das wir als solches scheuen, fürchten, meiden, fliehen müßten. Wie sollte Gott verwerfen, was er selbst geschaffen hat? Wie sollte er verwerfen, was er in der Absicht auf Jesus Christus gewollt und geschaffen, und wie sollte er uns gebieten, das zu scheuen und zu meiden?</p>
         <p>Es gibt wohl Verwerfliches, weil Wüstes, Böses, Gefährliches. Unser Leben und die Welt ist voll davon. Aber was verwerflich ist, das ist bestimmt nicht von Gott geschaffen. Man kann das geradezu das Wesen des Verwerflichen, des Wüsten und Bösen nennen: daß es von Gott nicht gewollt, nicht geschaffen ist. Und als solches ist es daran erkennbar, daß es mit Jesus Christus, mit seiner Gnade nichts zu tun hat, daß es weder Gott noch uns dient, daß es dem Bau und Sinn jenes Vaterhauses fremd ist. Es kann eben nur aus unserem verkehrten Herzen und Verstand hervorgehen, nur vom Teufel stammen, der kein zweiter Schöpfer ist. Und indem es von Gott nur eben verworfen und verneint, nur eben zu seiner Linken gestellt ist, <pb ed="A" n="107"/> ist es allerdings das, was wir auch unsererseits nur verwerfen, meiden, fürchten, fliehen können und was zu meiden und zu fliehen uns allerdings geboten ist. Aber daß es solch Verwerfliches — viel, viel Verwerfliches! — gibt, das ändert nichts daran, daß alle Kreatur Gottes gut ist. Daran können wir, daran kann auch der Teufel nichts ändern.</p>
         <p rend="margin-top">Daß wir es in unserem Leben und in der Welt mit Gottes guter Schöpfung zu tun haben, das ist aber daran immer und überall zu erkennen, daß wir, was sich uns darbietet, was wir erfahren, mit Danksagung <pb xml:id="p093" ed="pga"/> empfangen können, in Dankbarkeit damit umgehen dürfen und dann sicher auch umgehen müssen.</p>
@@ -148,29 +115,39 @@
         <p>Danksagung, Eucharistie bezeichnet einerseits die Haltung und Handlungsweise eines Menschen, dem Gottes Gnade begegnet und der sie als solche erkennt und also empfängt, wie man eben Gnade empfangen darf und muß: nicht als etwas, was man gesucht und dann schließlich gefunden, begehrt und schließlich gewonnen oder gar sich erobert und dann als Eroberung angeeignet, sondern was man einfach unverhofft und unverdient geschenkt, obendrein bekommen hat. Wenn einer Dank sagt, so heißt das, daß sein Denken und Reden, Tun und Lassen durch das von ihm Empfangene als ihm zuteil gewordene Gnade bestimmt ist, ihr entspricht, auf sie antwortet, diese Gnade gewissermaßen<note xml:id="n02">Original: «… auf sie antwortet, das diese Gnade gewissermaßen …»; «das» vom Hrsg. gestrichen.</note> abbildet. Für das Verwerfliche kann der Mensch nicht danken, so gewiß es eben mit Gnade nichts zu tun hat. Nach dem Verwerflichen greift er vielmehr wie ein Räuber nach seiner Beute, wie ein Raubtier nach seinem Fraß. Umgekehrt: Was er als Gottes Gnade erken<pb ed="A" n="108" break="no"/>nen und annehmen und also mit Danksagung empfangen darf, das ist Gottes gute Kreatur und also nicht verwerflich.</p>
         <p>Aber nun bedeutet Danksagung, Eucharistie noch etwas Anderes. Mit diesem Wort ist nämlich in den Anfängen der Christenheit sehr schlicht das Abendmahl bezeichnet worden: also die Tischgemeinschaft, in welcher leiblich und natürlich Brot gegessen und Wein getrunken, von der Kreatur Gottes, von Brot und Wein Gebrauch gemacht wird — so aber, daß der gekreuzigte und auferstandene Jesus Christus der Gastgeber, und nicht nur der Gastgeber, sondern auch selber die Gabe ist, seinen Gästen sich selber, sein Leben hingibt als Speise und Trank, zur Nahrung, von der sie leben dürfen. Was gäbe es da zu fürchten und zu meiden? Aber eben so, wie man das Abendmahl empfangen darf, kann man das Verwerfliche, das wir ja nur eben fürchten und meiden können, nicht empfangen. Jesus Christus ist es ja gewiß nicht, der uns dabei Speise und Trank gibt und selber ist. Seine Gäste <pb xml:id="p094" ed="pga"/> sind wir dabei<note xml:id="n03">Original, wohl irrtümlich: «daher». Änderung vom Hrsg.</note> nicht. Umgekehrt: was wir empfangen dürfen in der Art und Weise des Abendmahls, als seine Gäste, das ist Gottes gute Kreatur, an dem ist nichts Verwerfliches, an dem ist dann auch nichts zu meiden, weil nichts zu fürchten.</p>
         <p>Ich fasse zusammen: Wo wir in unserem Leben und in der Welt, in unseren Gedanken, Wünschen und Hoffnungen, in unserem Verkehr mit den Menschen, in unserer Freude oder auch in unserem Leid mit Danksagung dabei sein dürfen — so wie man eben Gnade, so wie man das Abendmahl empfängt —, da ist Alles in Ordnung, da haben wir es mit Gottes guter Schöpfung zu tun, da haben wir offene Bahn, da brauchen wir uns nicht zu scheuen, da dürfen wir leben in der Freiheit der Kinder Gottes [vgl. <ref type="can" subtype="bible" target="Röm.8.21">Röm. 8,21</ref>], die dann bestimmt auch der rechte Gehorsam sein wird. Der Gehorsam der Kinder Gottes geschieht eben in dieser ihrer Freiheit.</p>
-        <p rend="nargin-top"><pb ed="A" n="109"/> Ich komme zum Letzten und doch wohl Wichtigsten. Das ist das Merkwürdige unseres menschlichen Lebens und der Welt, die uns umgibt, daß wir immer wieder in einen seltsamen Widerspruch verwickelt sind. Da ist es ja einerseits so, daß wir es beständig und in Allem eben mit Gottes guter Kreatur, mit seiner schönen Schöpfung zu tun haben, in der es nichts Verwerfliches gibt, in der wir uns einfach freuen dürfen, weil Alles recht ist, in der wir einfach freie und gerade so gehorsame Menschen, Gottes Menschenkinder sein dürfen. Da begegnet und erfüllt uns aber auf der anderen Seite immer auch das Verwerfliche, das Gott nicht gewollt und nicht geschaffen hat, was nur eben Finsternis ist. Eben das ist immer auch da und entfaltet sich gewaltig: immer wieder aufsteigend aus unserem verkehrten Herzen und Verstand, immer wieder als teuflische Bedrohung.</p>
+        <p rend="nargin-top">
+                        <pb ed="A" n="109"/> Ich komme zum Letzten und doch wohl Wichtigsten. Das ist das Merkwürdige unseres menschlichen Lebens und der Welt, die uns umgibt, daß wir immer wieder in einen seltsamen Widerspruch verwickelt sind. Da ist es ja einerseits so, daß wir es beständig und in Allem eben mit Gottes guter Kreatur, mit seiner schönen Schöpfung zu tun haben, in der es nichts Verwerfliches gibt, in der wir uns einfach freuen dürfen, weil Alles recht ist, in der wir einfach freie und gerade so gehorsame Menschen, Gottes Menschenkinder sein dürfen. Da begegnet und erfüllt uns aber auf der anderen Seite immer auch das Verwerfliche, das Gott nicht gewollt und nicht geschaffen hat, was nur eben Finsternis ist. Eben das ist immer auch da und entfaltet sich gewaltig: immer wieder aufsteigend aus unserem verkehrten Herzen und Verstand, immer wieder als teuflische Bedrohung.</p>
         <p>Daß wir Gottes gute Kreatur in diesem Widerspruch mit Danksagung empfangen, daß unser Leben in der Welt recht und in Ordnung ist, das versteht sich also wirklich nicht von selbst. Es möchte uns das vielmehr wie eine wunderbare, fast unmögliche Ausnahme vorkommen, daß wir Gottes gute Kreatur als solche erkennen und mit Danksagung (als Gnade und eben: wie beim Abendmahl) empfangen und also im Umgang mit ihr freie, gehorsame Menschen werden und sein dürfen. Nein, das versteht sich gar nicht von selbst!</p>
 
-        <p><pb xml:id="p095" ed="pga"/> Eben zu diesem Wunderbaren kommt es aber, indem unser menschliches Sein, indem wir selbst «geheiligt werden durch das Wort Gottes und durch das Gebet». Was heißt das? Das heißt: daß wir teilnehmen an der großen Geschichte, in der das ganz Einfache, aber auch ganz Unermeßliche geschieht, daß Gott mit dem Menschen redet und der Mensch seinerseits mit Gott reden darf und will. Indem diese Geschichte — das Wort Gottes und das Gebet — geschieht, und zwar in unser <pb ed="A" n="110"/> Leben hinein geschieht, indem diese Geschichte zwischen Gott und Mensch der rote Faden unserer eigenen Lebensgeschichte wird, vollzieht sich unsere Heiligung, geschieht es, daß jener Widerspruch in unserem Leben sich aufzulösen beginnt, daß wir allmählich, aber sicher frei werden von dem Übergewicht des Verwerflichen und geöffnet für die Güte der uns umgebenden Kreatur Gottes, um eben damit zu erwachen zur Danksagung, freie und gehorsame Empfänger der Gnade und des Abendmahls zu werden.</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p095" ed="pga"/> Eben zu diesem Wunderbaren kommt es aber, indem unser menschliches Sein, indem wir selbst «geheiligt werden durch das Wort Gottes und durch das Gebet». Was heißt das? Das heißt: daß wir teilnehmen an der großen Geschichte, in der das ganz Einfache, aber auch ganz Unermeßliche geschieht, daß Gott mit dem Menschen redet und der Mensch seinerseits mit Gott reden darf und will. Indem diese Geschichte — das Wort Gottes und das Gebet — geschieht, und zwar in unser <pb ed="A" n="110"/> Leben hinein geschieht, indem diese Geschichte zwischen Gott und Mensch der rote Faden unserer eigenen Lebensgeschichte wird, vollzieht sich unsere Heiligung, geschieht es, daß jener Widerspruch in unserem Leben sich aufzulösen beginnt, daß wir allmählich, aber sicher frei werden von dem Übergewicht des Verwerflichen und geöffnet für die Güte der uns umgebenden Kreatur Gottes, um eben damit zu erwachen zur Danksagung, freie und gehorsame Empfänger der Gnade und des Abendmahls zu werden.</p>
         <p>Diese große Geschichte zwischen Gott und Mensch, in der wir, indem sie in unser Leben hinein geschieht, geheiligt werden durch Gottes Wort und durch das Gebet, ist aber keine andere als die Geschichte unseres Herrn und Heilandes Jesus Christus. Er war und ist ja der wahre, mit dem Menschen redende Gott und der wahre, mit Gott redende Mensch. In ihm redet Gott auch mit uns, mit dir und mit mir, und wieder in ihm dürfen auch wir, darfst du und darf ich mit Gott reden. Wenn das, was dort, in Jesus Christus, geschieht — dieses Reden Gottes mit dem Menschen und dieses Reden des Menschen mit Gott —, auch hier, unter uns, bei und in uns sich ereignet, dann ist das unsere Heiligung. Und alles Andere, was man hier noch nennen könnte: der Glaube, die Liebe, die Hoffnung, das ganze Leben in der Macht und unter der Führung des Heiligen Geistes, sind nur andere Worte für das Geschehen der großen Christusgeschichte hinein in unser Leben und seine Geschichte. Daß wir durch sie geheiligt werden und so «durch das Wort Gottes und durch das Gebet», das ist dann unbedingt und gewiß die nicht versiegende Quelle unserer Freiheit und unseres Gehorsams, der Danksagung, in und mit der wir es bestimmt mit Gottes guter Kreatur zu tun bekommen und haben.</p>
         <p>Gott gebe uns allen, einem Jeden in seiner Weise — wir alle haben es immer wieder nötig — ein neues Aufbrechen dieser <pb ed="A" n="111"/> Quelle der Danksagung in unserem Leben und eine neue Bereitschaft und Freudig<pb xml:id="p096" ed="pga"/>keit, in echtem Durst aus dieser Quelle zu trinken! Er gebe uns, daß wir es hören — jeden Tag, jeden Morgen und Abend immer wieder neu hören dürfen: Ihr seid Christen! Um dann auch das Andere hören zu dürfen: weil ihr Christen seid, weil ihr ihm gehört, darum ist Alles euer [vgl. <ref type="can" subtype="bible" target="1.Kor.3.21 1.Kor.3.23">1. Kor. 3,21–23</ref>], die ganze gute Kreatur Gottes — Alles, was Gott recht und schön geschaffen hat!</p>
       </div>
-      <div type="closer"><salute>Amen.</salute></div>
+      <div type="closer">
+                    <salute>Amen.</salute>
+                </div>
         <div type="prayer">
           <p>Herr, du hast uns unser Leben und Alles, was wir sind, haben und vermögen, in deiner großen Barmherzigkeit gegeben und bis auf diesen Tag erhalten. Vergib uns alle Willkür, alle Nachlässigkeit, allen Mißbrauch, dessen wir uns von jeher, auch in der vergangenen Woche und wohl auch an diesem Sonntag, schuldig gemacht haben! Laß uns auch heute und morgen nicht fallen! Befreie uns von allem Krampf und Schlendrian und von der Tyrannei der Gewohnheit, der Mode und der öffentlichen Meinung! Laß uns dein Wort fernerhin hören und gib uns fernerhin den Mut und die Freiheit, zu dir zu beten. Und so bekehre uns immer wieder zur Danksagung des Herzens und der Tat, damit wir nicht verloren gehen, sondern das ewige Leben haben!</p>
           <p>Tu aber dieses Werk deines guten, heiligen Geistes auch in den nahen und fernen Bezirken der ganzen Menschenwelt: unter Kleinen und Großen — an denen mit den weiteren und an denen mit engeren Verantwortlichkeiten und Aufgaben — an Arbeitgebern und Arbeitnehmern — an Gesunden und Kranken — an den Vermöglichen und an den Bedürftigen — an denen, die zu beschließen und zu befehlen, und an denen, die zu gehorchen haben — an unseren Behörden und Richtern <pb ed="A" n="112"/> und an den Übertretern und Verurteilten — an den Pfarrern und Missionaren und an den Christen und Nicht-Christen, denen wir dienen dürfen und möchten!</p>
           <p>Herr, erbarme dich unser, deines Volkes, deiner Schöpfung! Wir preisen und rühmen dich, da wir wissen dürfen, daß dein Erbarmen kein Ende und deine Macht keine Grenzen hat. Und so rufen wir dich jetzt noch einmal an, wie dein Sohn es uns geheißen hat: Unser Vater … </p>
-          <div type="closer"><salute>Amen.</salute></div>
+          <div type="closer">
+                        <salute>Amen.</salute>
+                    </div>
         </div>
         <div type="songs">
           <head>Lieder:</head>
           <listBibl type="songs" rend="simple">
-            <bibl corresp="kbga-songs-30" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>27</idno></bibl>: «<title level="a">Nun jauchzt dem Herren, alle Welt</title>» (nach <ref type="can" subtype="bible" target="Ps.100">Ps. 100</ref>) von <author ref="kbga-actors-5687">D. Denicke</author>,
+            <bibl corresp="kbga-songs-30" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>27</idno></bibl>: «<title level="a">Nun jauchzt dem Herren, alle Welt</title>» (nach <ref type="can" subtype="bible" target="Ps.100">Ps. 100</ref>) von <author ref="kbga-actors-5687">D. Denicke</author>,
               <biblScope>Strophen 1–6</biblScope></bibl>
             <pb xml:id="p097" ed="pga"/>
-            <bibl corresp="kbga-songs-16" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>47</idno></bibl>: «<title level="a">Du meine Seele, singe</title>» von <author ref="kbga-actors-131">P. Gerhardt</author>, <biblScope>Strophen 1–5</biblScope> (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>197</idno>,
+            <bibl corresp="kbga-songs-16" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>47</idno></bibl>: «<title level="a">Du meine Seele, singe</title>» von <author ref="kbga-actors-131">P. Gerhardt</author>, <biblScope>Strophen 1–5</biblScope> (= <bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>197</idno>,
               <biblScope>Str. 1–4, 8</biblScope></bibl>)</bibl>
-            <bibl corresp="kbga-songs-4" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>44</idno></bibl>: «<title level="a">Nun danket alle Gott</title>» von <author ref="kbga-actors-1393">M. Rinckart</author>, <biblScope>Strophe 3</biblScope></bibl>
+            <bibl corresp="kbga-songs-4" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>44</idno></bibl>: «<title level="a">Nun danket alle Gott</title>» von <author ref="kbga-actors-1393">M. Rinckart</author>, <biblScope>Strophe 3</biblScope></bibl>
           </listBibl>
         </div>
 

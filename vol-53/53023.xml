@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53023">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 21</title>
+        <title type="content">Predigt: Deuteronomium 33,25</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Deuteronomium 33,25, 21. November 1909</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53023 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53023</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">23</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Dtn 33,25, 21. November 1909. <ref target="https://kba.karl-barth.ch/objects/1464">KBA 999</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1909-11-21">21. November 1909</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p195" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                        <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>21</idno>
+                </head>
+                
+                    <dateline>
+                        <placeName ref="kbga-places-67">
+                            <hi rend="i">Genf</hi></placeName>, <date when="1909-11-21">Sonntag, den
+                            21. November 1909</date> <date rend="right">(24. nach Trinitatis)</date>
+                    </dateline>
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="Dtn.33.25">Deuteronomium 33,25</ref>
+                     
+                            <quote>
+                                <hi rend="italic" resp="kb">Dein <term type="Sachen" key="Alter">Alter</term> sei wie deine <term type="Sachen" key="Jugend">Jugend</term>.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+               
+                <salute>Liebe Gemeinde!</salute>
+                </div>
+                <div type="main">
+                <p> Im evangelischen <term type="Sachen" key="Deutschland">Deutschland</term>
+                    draußen heißt der heutige Sonntag, der letzte vor dem 1. Advent, <term type="Sachen" key="Totensonntag">Totensonntag</term>. Dem Gedanken an
+                    die Verstorbenen und an das Sterben ist dort jetzt überall die Predigt
+                    gewidmet, und am Nachmittag ziehen Hunderte und in den großen Städten
+                    Tausende und Zehntausende mit Kränzen beladen auf die Friedhöfe hinaus. Wie
+                    die Katholiken ihr Aller <term type="Sachen" key="Allerseelen">Seelen-Fest</term> haben, so die Evangelischen Deutschlands ihren <term type="Sachen" key="Totensonntag">Totensonntag</term>.</p>
+                <p> Wir schweizerischen <term type="Sachen" key="Reformierte, schweizerische">Reformierten</term> haben keinen solchen Festtag. Vielleicht weil
+                    unsrer Art, wie in so mancher Beziehung, das Verständnis für das Sinnige
+                    solcher Feier abgeht, weil wir ein zu scharfes Empfinden haben für Alles,
+                    was nur irgendwie uns an katholisches Wesen erinnern könnte. Vielleicht ist
+                    aber diese unsre <pb ed="-A" n="2"/> nüchterne, trockene Art, die
+                    wir weder bestreiten noch bedauern wollen, in der verborgenen und doch
+                    überall deutlichen Sonderart unsrer <term type="Sachen" key="Glaube, reformierter">reformierten</term> und schweizerischen <term type="Sachen" key="Glaube, schweizerischer">Glaubensweise</term>
+                    begründet. Ich könnte mir <persName ref="kbga-actors-443">Zwingli</persName> oder <persName ref="kbga-actors-77">Calvin</persName> schwer vorstellen teilnehmend an einer jener schönen und
+                    pietätvollen Friedhofswallfahrten. Ihre Frömmigkeit war durch und durch eine
+                        <term type="Sachen" key="Frömmigkeit, des Lebens">Frömmigkeit</term> des
+                    Lebens.</p>
+                <p> Und darum wollen auch wir heute vom <term type="Sachen" key="Leben">Leben</term> reden und nicht vom Sterben. Und doch vom <term type="Sachen" key="Sterben">Sterben</term>, denn die Wende der
+                    Jahreszeit, in der wir stehen, legt uns solche Gedanken nahe. Wir haben
+                    wieder einmal das von so vielen Dichtern besungene Gelbwerden, Welken und
+                    Abfallen der Blätter mitangesehen. Die Knospen, die wir im Mai wachsen
+                    sahen, sind längst aufgegangen, und nun ist das Aufgegangene abgefallen, wie
+                    wir’s schon so manches Jahr sahen und sehen werden. An die Stelle der
+                    freundlichen Sonnenwärme sind die kalten Nebel und Winde getreten. Das Jahr
+                    1909 hat die letzten Stücke seines Feiertagsgewandes abgelegt, um hart und
+                        <term type="Sachen" key="Winter">wintermäßig</term> seinem Ende entgegen<pb xml:id="p196" ed="pga"/>zugehen, wie es begonnen hat. Ein Naturprozess,
+                    nichts weiter. Und doch macht er uns alle Jahre wehmütig und nachdenklich.
+                    Wir spüren an solchen Wendepunkten des Naturlebens, wie sehr unser
+                    Menschenleben daran Teil hat. Wie <pb ed="-A" n="3"/> uns der <term type="Sachen" key="Frühling">Frühling</term> von Freude und <term type="Sachen" key="Auferstehung">Auferstehung</term> redet, so der
+                    winterliche <term type="Sachen" key="Herbst">Herbst</term> von Schmerz und
+                        <term type="Sachen" key="Vergänglichkeit">Vergänglichkeit</term>. Wir
+                    blicken in solchen Zeiten unwillkürlich auf die großen oder kleinen Strecken
+                    unsres eigenen Lebensweges, die schon hinter uns oder noch vor uns liegen,
+                    und es überkommt uns etwas von dem Schauer des Gedankens, dass unser <term type="Sachen" key="Leben, Vergänglichkeit">Leben</term> schnell
+                    dahinfährt, als flögen wir davon 
+                    [vgl. <ref type="can" subtype="bible" target="Ps.90.10">Ps. 90,10</ref>]. Welches auch unsre Gedanken über Gott und
+                        <term type="Sachen" key="Ewigkeit">Ewigkeit</term> sein mögen, es drängt
+                    sich uns in solchen Zeiten die Erkenntnis auf:</p>
+                    <q rend="block">
+                        <lg>
+                            <l>Alles stirbt, das Ird’sche findet</l>
+                            <l>In dem Irdischen sein Grab.<note xml:id="n01">
+                                    <bibl type="song" corresp="kbga-songs-242">Beginn
+                                    der dritten Strophe des Liedes «Bleibt bei dem, der
+                                    euretwillen» von <author ref="kbga-actors-1254">K. J. Ph. Spitta</author> (GERS
+                                    254)</bibl>: 
+                                        <q rend="block">
+                                            <lg>
+                                              <l>Alles stirbt, das Ird’sche findet </l>
+                                              <l>In dem Irdischen sein Grab; </l>
+                                              <l>Alle Lust der Welt verschwindet, </l>
+                                              <l>Und das Herz stirbt selbst ihr ab. </l>
+                                              <l>Ird’sches Wesen muss verwesen, </l>
+                                              <l>Ird’sche Flamme muss verglühn, </l>
+                                              <l>Ird’sche Fessel muss sich lösen, </l>
+                                              <l>Ird’sche Blüte muss verblühn.</l>
+                                        </lg>
+                                    </q>
+                                </note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Ich möchte heute in dies Wogen der <term type="Sachen" key="Herbststimmung">Herbststimmung</term>, das wir sicher stark oder
+                    schwach Alle kennen, jenes Wort aus alter Zeit hineinwerfen, damit es sich
+                    kläre aus aller Traurigkeit und Sentimentalität zu starken und freudigen
+                    Ewigkeitsgedanken:</p>
+                    <q rend="block">
+                        <lg>
+                            <l>
+                                <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                <hi rend="i">.</hi>
+                            </l>
+                        </lg>
+                    </q>
+                <div>
+                    <head type="4">I</head>
+                    <p rend="noindent">Wenn die Vergänglichkeit des Lebens einem Menschen
+                        schwere Gedanken macht, so ist im letzten Grund immer die Beobachtung
+                        daran schuld, dass er alt wird. Altwerden ist ja nichts Anderes, als ein
+                        großes, das größte Stück Leben vielleicht, unwiederbringlich hinter sich
+                        haben. <pb ed="-A" n="4"/> Und die andre Seite dieser
+                        Beobachtung ist: je größer das Stück hinter uns, desto kleiner das Stück vor<note type="textcritical" n="a" xml:id="na"> Im Mskr. doppeltes «vor» am Zeilenende und -anfang.</note>
+                         uns, desto geringer dann auch <pb xml:id="p197" ed="pga"/> die Kraft
+                        und die Hoffnung, mit der wir dies noch zu durchwandernde Stück
+                        antreten. Am <term type="Sachen" key="Altwerden">Altwerden</term> merken
+                        wir die <term type="Sachen" key="Vergänglichkeit">Vergänglichkeit</term>, das ist’s. Und das merken nicht etwa nur
+                        die Menschen, die von den andern «alte <term type="Sachen" key="Alter, alte Leute">Leute»</term> geheißen werden, weil sie 60
+                        Jahre und darüber zählen. Was wollen die grauen oder braunen Haare
+                        besagen gegenüber den Lebenstatsachen, die vor <hi rend="i">Aller</hi> Augen
+                        stehen? Den 10jährigen, den 15jährigen überläuft’s kalt und warm,
+                        wenn er sich dunkel erinnert an die Tage, da er als kleiner und
+                        kleinster Geselle auf der Mutter Schoß saß, da Alles so ganz anders
+                        gewesen. Gewesen! Dann gaukelt<note xml:id="n02">Dichterisch
+                            für: leicht oder spielerisch schaukelnd schweben.</note> der
+                        Schmetterling weiter, aber es ist etwas in ihm anders geworden, er hat
+                        gespürt, dass er älter geworden, weil etwas hinter ihm liegt. Wenn ich
+                        in <placeName ref="kbga-places-9">Bern</placeName> an dem großen Haus
+                        vorübergehe, in dem ich 12½ Jahre lang die Leiden und Freuden der
+                        Schule und des Gymnasiums erlebt,<note xml:id="n03">Barth
+                            besuchte von April 1892 bis September 1904 das <placeName ref="kbga-places-1128">Freie Gymnasium</placeName> an der Nägeligasse in Bern (davon bis 1896
+                            dessen «Elementarabteilung»), das vormals nach seinem Gründer
+                            <persName ref="kbga-actors-9185">Theodor von Lerber</persName> (1823–1901) «Lerberschule» genannt wurde;
+                            vgl. <bibl corresp="kbga-bibls-2560">K. Barth, <hi rend="i">Karl Barth</hi>, in: <hi rend="i">Schweizerköpfe der
+                                Gegenwart / Figures Suisse Contemporaines / Svizzeri
+                                d’oggi</hi>, Bd. I, Zürich 1945, S. 117–121,
+                            dort S. 117</bibl>; <bibl corresp="kbga-bibls-134">Busch, S. 25.43</bibl>.</note> dann ist’s mir jedes
+                        Mal, als zöge sich etwas krampfhaft in mir zusammen, was ich nicht
+                        beschreiben kann. Gewesen, <term type="Sachen" key="Vergänglichkeit">gewesen</term>! Ich gehe weiter, aber ich spüre, dass etwas hinter
+                        mir liegt und dass ich etwas weniger vor mir habe. Und so denkt der
+                        reife Mann auf der Höhe seines Lebens zurück an die Zeit, da er als ein
+                        mutiger Wanderer auszog, die Welt zu erobern im Handwerk oder <pb ed="-A" n="5"/> auf den Bänken der Universität. Er sieht
+                        zurück. Gewesen, gewesen! Er sieht vorwärts: er ist älter geworden.</p>
+                    <p> Das, was die Menschen schmerzt beim <term type="Sachen" key="Altwerden">Altwerden</term>, ist das Bewusstwerden, dass ihnen die <term type="Sachen" key="Zukunft">Zukunft</term> keinen Lebenswert mehr
+                        bringe oder nur noch geringere als die der <term type="Sachen" key="Vergangenheit">Vergangenheit</term>. Wer eine schöne
+                        Vergangenheit hinter sich hat, wird leicht zu dem Gedanken neigen, dass
+                        das Schöne nun vorbei sei, und in diesem Gedanken zeigt es sich, dass er
+                        älter geworden. Und wer ein Leben voll schwerer Tage hinter sich hat,
+                        der kann sich’s nicht denken, dass es im Rest seines Daseins noch
+                        besser kommen werde, und in diesem Verzicht erkennt er selbst, dass er
+                        alt geworden.</p>
+                    
+                    <p> <pb rend="noPipe" xml:id="p198" ed="pga"/> Seht, meine Freunde, nun haben wir’s schon erkannt und
+                        ausgesprochen, dass das wirkliche Alt-Werden mit der Zahl der Jahre und
+                        mit der Farbe der Haare nichts zu tun hat. Alt-Werden, das wirkliche
+                        Alt-Werden meine ich, heißt keine Zukunft <term type="Sachen" key="Altwerden, keine Zukunft mehr haben">mehr</term> vor sich
+                        haben, heißt fertig sein, heißt seine Rechnung abgeschlossen <term type="Sachen" key="Altwerden, mit dem Leben abgeschlossen haben">haben</term> im Guten oder im Bösen. Wir Alle kennen das Gefühl des
+                        Älterwerdens, das uns in jenen Momenten des Rückblicks überkommt, und
+                        wir haben uns seiner nicht zu schämen. Aber wenn das Alt-Werden und
+                        Alt-Sein die herrschende Stimmung unsres Lebens wird, dann ist’s
+                        die tödlichste Krankheit, die es gibt. Und <pb ed="-A" n="6"/>
+                        an dieser Krankheit leidet mancher 20jährige so gut wie mancher <term type="Sachen" key="Altwerden, keine Frage des Alters">60jährige</term>. Da ist ein Jugendfreund, mit dem wir jahraus
+                        jahrein uns gefreut und begeistert hatten. Wir schienen in ihm zu
+                        finden, was uns selber noch fehlte an idealem Sinn und an jugendlicher
+                        Stärke. Ich hatt’ einen Kameraden, einen treuern findst du
+                            nicht.<note xml:id="n04">
+                                <bibl corresp="kbga-bibls-2561">Anfang der ersten Strophe des
+                            Gedichts «Der gute Kamerad» (1809) von <author ref="kbga-actors-814">Ludwig Uhland</author></bibl> (1787–1862), das in
+                            der 1825 erfolgten Vertonung durch <persName ref="kbga-actors-7425">Friedrich Silcher</persName> (1789–1860) und
+                            unter dem Titel: «Ich hatt’ einen Kameraden» zu einem
+                            weltweit bekannten Soldatenlied wurde.</note> Dann kam vielleicht
+                        eine Zeit einer gewissen Lauheit, und dann sahen wir ihn nicht mehr ein
+                        Jahr, zwei Jahre, und wie wir ihn wiederfanden, da war er ganz anders
+                        als zuvor. Er hatte sich innerlich zur Ruhe gesetzt, er hatte mit dem
+                        Leben <term type="Sachen" key="Altwerden, mit dem Leben abgeschlossen haben">abgeschlossen</term>, er war ein fertiger, satter <term type="Sachen" key="Spießbürger">Spießbürger</term> geworden wie
+                        tausend Andere. Wie bist du vom Himmel gefallen, du schöner Morgenstern!
+                        [Jes. 14,12] Um wie Viele möchten wir solche Totenklage erheben zur
+                        Rechten und zur Linken, die wir eben erst ins tätige Leben eintreten
+                        sahen oder die noch auf der Höhe dieses Lebens stehen. Sie sind alt
+                        geworden, bevor die Locken <term type="Sachen" key="Altwerden, keine Frage des Alters">grauten</term>. Und wenn wir
+                        dann mit noch schärferem Blick unser eigenes Inwendiges mustern, wieviel
+                        Rost, wieviel stehengebliebene Räder, wieviel uraltes Gerumpel entdecken
+                        wir da, oft unter dem, was wir für das Wertvollste an uns erachteten.
+                        Wir brauchen nur einmal einen Tag lang so recht zufrieden mit uns selbst
+                        gewesen zu sein, wie greisenhaft fade kommen wir uns am nächsten
+                        vor.</p>
+                    <p>Alt ist, wer irgendwie fertig mit sich selber ist.</p>
+                    <p> <pb rend="noPipe" ed="-A" n="7"/> Alt <term type="Sachen" key="Altsein">ist</term>, wer sich mit der Vergangenheit zufrieden <term type="Sachen" key="Altsein, sich zufrieden geben">gibt</term>, wer
+                        ein für alle Mal den Sinn des <term type="Sachen" key="Sinn des Lebens">Lebens</term> glaubt erfasst, den normalen Weg gefunden zu haben.
+                        Alt ist, wer sich behäbig in ausgefahrenen Geleisen <pb xml:id="p199" ed="pga"/> bewegt, wer in seinem Denken und Wollen auf einen Punkt gelangt ist,
+                        wo er seinen kleinen Anteil an der <term type="Sachen" key="Wahrheit">Wahrheit</term> für die ewiggültige Form aller Wahrheit <term type="Sachen" key="Altsein, sich nicht mehr in Frage stellen">ansieht</term>. Alt ist, wer vom Leben nichts mehr verlangt als
+                        einen Platz an der Sonne, um da mit möglichstem Anstand seine Tage zu
+                            verbringen.<note xml:id="n05">Zur hier im ursprünglichen
+                            Sinn verwendeten Metapher vom «Platz an der Sonne» vgl. oben,
+                                <ref type="pub" target="../volume/53/p153#fn_n03">S. 153, Anm. 3</ref>.</note>
+                        </p>
+                    <p> Es gibt ein altgewordenes <term type="Sachen" key="Altwerden, Wollen">Wollen</term>, überall da, wo einer meint, er brauche sich nun
+                        nicht mehr anzustrengen, überall da, wo einem seine Lorbeeren süß
+                        dünken.</p>
+                    <p> Es gibt ein altgewordenes <term type="Sachen" key="Altwerden, Denken">Denken</term> überall da, wo einer meint, er wisse, so er doch
+                        nichts weiß.<note xml:id="n06">Anspielung auf <bibl corresp="kbga-bibls-2558">
+                                    <author ref="kbga-actors-322">Platon</author>,
+                                <hi rend="i">Apologie</hi>, 21d</bibl>: «[…] <foreign xml:lang="grc" rend="Ell">οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ,
+                                ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι· ἔοικα γοῦν τούτου γε σμικρῷ
+                                τινι αὐτῷ τούτῳ σοφώτερος εἶναι, ὅτι, ἃ μὴ οἶδα, οὐδὲ οἴομαι
+                                εἰδέναι</foreign>» («[…] dieser doch meint zu wissen, da
+                            er nicht weiß, ich aber, wie ich eben nicht weiß, so meine ich es
+                            auch nicht. Ich scheine also um dieses wenige doch weiser zu sein
+                            als er, dass ich, was ich nicht weiß, auch nicht glaube zu
+                            wissen»).</note>
+                        </p>
+                    <p> Es gibt eine altgewordene <term type="Sachen" key="Altwerden, Frömmigkeit">Frömmigkeit</term>, meine Freunde,
+                        überall da, wo man viele Worte macht entweder über die sogenannte <term type="Sachen" key="Rechtgläubigkeit">Rechtgläubigkeit</term> oder
+                        über den sogenannten religiösen <term type="Sachen" key="Fortschritt, religiöser">Fortschritt</term>. Wenn die flüssige,
+                        glühende Lava des Lebens zum harten, spröden Gestein des Alltags wird,
+                        wenn der sprudelnde Bergbach des Geistes zum schleichenden Sumpf der
+                        Formel und Phrase wird, das ist Altwerden.</p>
+                    <p>Und wie es altgewordene Menschen gibt, so gibt es altgewordene Völker und
+                            <term type="Sachen" key="Altwerden, Völker und Staaten">Staaten</term>, altgewordene <term type="Sachen" key="Altwerden, Kirchen">Kirchen</term>, altgewordene <term type="Sachen" key="Altwerden, Parteien">Parteien</term> und
+                        Richtungen, mag ihr Name oft noch so lang das Gegenteil davon
+                        besagen.</p>
+                    <p>
+                        <term type="Sachen" key="Altwerden, Sterben des Lebens">Alt-Werden</term> ist das Sterben des wirklichen Lebens.</p>
+                    <p> <pb rend="noPipe" ed="-A" n="8"/> Gott behüte uns vor diesem Alt-Werden. Gott
+                        behüte uns vor dem Fertig-Sein.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>
+                                    <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                    <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                    <hi rend="i">.</hi>
+                                </l>
+                            </lg>
+                        </q>
+                </div>
+                <div>
+                    <head type="4">II</head>
+                    <p rend="noindent">Denn auch Jugend ist wahrlich etwas ganz Anderes, als was
+                        die Oberflächlichen in der Welt Jugend nennen. Wenn nur des Lebens
+                        Blütenzeit diesen Namen tragen soll, dann ist Jugend etwas <term type="Sachen" key="Jugend, vergänglich">Vergängliches</term>, <pb xml:id="p200" ed="pga"/> denn der Blütenzeit soll die Zeit der Früchte
+                        folgen. Wenn nur die Zeit der ungebrochenen Körper- und Geisteskraft
+                        Jugend heißen soll, dann ist sie vergänglich, denn die Scheide muss sich
+                        abnutzen, je länger wir das Schwert führen. Wenn nur die Zeit der
+                        tätigen Teilnahme an den Freuden jenes Alters Jugend ist, dann ist
+                        Jugend vergänglich, denn jenem Alter muss ein anderes folgen, das höhere
+                        Tätigkeit und höhere Teilnahme von uns fordert. Dann ist’s
+                        sentimentale Spielerei, dem verlorenen Jugendland nachzusinnen. Dann tun
+                        wir gut, mit Bewusstsein abzutun, was kindisch war und vorwärts zu
+                        blicken [vgl. <ref type="can" subtype="bible" target="1.Kor.13.11">1.Kor. 13,11</ref>]. Der Jüngling muss zum Manne wachsen und das Mädchen
+                        zur Frau. Für eine kindische Erwachsenheit wollen wir nichts übrig
+                        haben.</p>
+                    <p>Aber Jugend ist in Wirklichkeit etwas Anderes als die blonden oder
+                        braunen Locken, so gut wie Alter etwas <pb ed="-A" n="9"/>
+                        Anderes ist als die grauen und weißen.</p>
+                    <p> Jugend heißt, das Leben vor sich <term type="Sachen" key="Jugend, das Leben vor sich haben">haben</term>. Das Leben!
+                        Weißt du, was das heißt? Wenn’s die Spanne Zeit wäre, die
+                        zwischen Geburt und Sterben liegt, dann hätten die Oberflächlichen
+                        recht, dann wäre die Jugend von Anfang an ein vergänglicher Schein, und
+                        die einzige Wirklichkeit des Lebens wäre das Altwerden. Dann wäre das
+                        die höchste Weisheit, die spricht: Lasset uns essen und trinken und
+                        fröhlich sein, denn morgen sind wir alt und übermorgen sind wir tot
+                        [vgl. <ref type="can" subtype="bible" target="1.Kor.15.32">1.Kor. 15,32</ref>].
+                        Aber das ist ja nicht Leben. Das, was die Menschen Geborenwerden,
+                        Jungsein, Altwerden, Sterben nennen, das ist ja bloß der Ablauf eines
+                            <term type="Sachen" key="Leben, nicht bloß Naturprozess">Naturprozesses</term>. So treibt die Pflanze Sprossen und Keime,
+                        und aus ihnen werden Zweige und Blätter, und beide fallen ab, wenn ihre
+                        Zeit gekommen ist. Leben ist etwas Anderes. Leben heißt, im Ablauf jenes
+                        Prozesses, dem wir Alle als Glieder der Naturwelt unterworfen sind, den
+                        roten Faden der <term type="Sachen" key="Leben, Wahrhaftigkeit finden">Wahrhaftigkeit</term> gefunden haben. Leben heißt die Entdeckung
+                        des unermesslich reichen Zieles, das wir <term type="Sachen" key="Leben, Freiheit als Ziel">Freiheit</term> oder <term type="Sachen" key="Leben, Persönlichkeit als Ziel">Persönlichkeit</term> nennen. Leben ist der schnurstracke Gegensatz
+                        zum Zwang der äußern Notwendigkeit, die scheinbar Gewalt hat über unser
+                        ganzes Dasein.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Es ist nicht draußen, da sucht es der Tor,</l>
+                                <l>Es ist in dir, du bringst es ewig hervor.<note xml:id="n07">
+                                        <bibl corresp="kbga-bibls-1777">Schlusszeilen der fünften und letzten Strophe
+                                        des Gedichts «Die Worte des Wahns» von <author ref="kbga-actors-764">Fr. Schiller</author> (Erstdruck: 1800; Sämtliche Werke,
+                                        Bd. 1, München 1962<hi rend="sup">3</hi>, S. 215f., dort
+                                        S. 216)</bibl>: 
+                                            <q rend="block">
+                                              <lg>
+                                              <l>Drum, edle Seele, entreiß dich dem Wahn </l>
+                                              <l>Und den himmlischen Glauben bewahre! </l>
+                                              <l>Was kein Ohr vernahm, was die Augen nicht sahn, </l>
+                                              <l>Es ist dennoch das Schöne, das Wahre! </l>
+                                              <l>Es ist nicht draußen, da sucht es der Tor, </l>
+                                              <l>Es ist in dir, Du bringst es ewig hervor!</l>
+                                            </lg>
+                                        </q>
+                                    </note>
+                                </l>
+                            </lg>
+                        </q>
+                    
+                    <p> <pb rend="noPipe" xml:id="p201" ed="pga"/>
+                        <pb ed="-A" n="10"/> Und was in uns ist, wird erweckt, wenn uns
+                        der Zauberstab des verborgenen Lebens berührt hat, das in der Geschichte
+                        der Natur und der Menschen geheimnisvoll waltet. Wir werden uns unsres
+                        Reichtums bewusst, wenn uns die Augen aufgehen für den Reichtum der
+                        Welt, die uns umgibt. Leben heißt den Dingen auf den <term type="Sachen" key="Leben, Dingen auf den Grund kommen">Grund</term> kommen, nicht
+                        durch kluge Spekulationen, sondern durch die einfache Besinnung auf das,
+                        was den Namen «wirklich» verdient in unserm Dasein. Und dies Leben vor
+                        sich haben heiße uns <term type="Sachen" key="Jugend, das Leben vor sich haben">Jugend</term>, nichts
+                        Anderes.</p>
+                    <p>Man sagt uns, es sei das schöne Vorrecht der jungen Leute, den Glauben an
+                        die Zukunft zu haben. Ich erwidere: es ist nichts mit dieser Grenze
+                        zwischen jungen und alten Leuten, und jenes scheinbare Vorrecht ist das
+                        heilige Recht Aller, die den Namen <term type="Sachen" key="Mensch, Glaube an die Zukunft">Mensch</term> tragen. Was man
+                        mit Achselzucken Jugendträume, Jugendidealismus nennt und gelassen
+                        preisgibt gegen die angebliche Reife des Alters, es ist nur zu oft das
+                            <term type="Sachen" key="Leben, Idealismus und Träume">Leben</term>
+                        selbst.</p>
+                        <q rend="block">
+                            <lg> 
+                                <l rend="right2">Sagen sie</l>
+                                <l>Ihm, dass er für die Träume seiner Jugend</l>
+                                <l>Soll Achtung tragen, wenn er Mann sein wird,</l>
+                                <l>Nicht öffnen soll dem tötenden Insekte</l>
+                                <l>Gerühmter besserer Vernunft das Herz,</l>
+                                <l>Der zarten Götterblume – dass er nicht</l>
+                                <l>Soll irre werden, wenn des Staubes Weisheit</l>
+                                <l> <pb rend="noPipe" ed="-A" n="11"/> Begeisterung die Himmelstochter
+                                        lästert.<note xml:id="n08">
+                                        <bibl corresp="kbga-bibls-2562">
+                                            <author ref="kbga-actors-764">Fr. Schiller</author>, <hi rend="i">Don Carlos</hi>, vierter
+                                        Akt, einundzwanzigster Auftritt (Sämtliche Werke, Bd. 2,
+                                        München 1962<hi rend="sup">3</hi>, S. 173)</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Jung sein heißt das Leben vor sich <term type="Sachen" key="Jugend, das Leben vor sich haben">haben</term>, heißt dem roten
+                        Faden der Wahrhaftigkeit <term type="Sachen" key="Leben, Wahrhaftigkeit finden">nachgehen</term>, unermüdet,
+                        unermüdlich, ob nun die Strecke des äußern Wegs, den wir dabei wandern,
+                        noch lang oder schon kurz sei. Und wie wir Alle eine <term type="Sachen" key="Jugend, Zeichen des Alters tragende">Jugend</term> kennen, die
+                        schon alle Zeichen des Alters an sich trägt, so könnte ich euch zu einem
+                            <term type="Sachen" key="Alter, wirklich Jugend verkörpernd">Alter</term> führen, das <pb xml:id="p202" ed="pga"/> die Verkörperung
+                        der wirklichen Jugend ist. Ich denke an das Alter <persName ref="kbga-actors-136">Goethes</persName>, ich denke an das
+                        Alter Friedrich Schleiermachers<note xml:id="n09">
+                                <bibl corresp="kbga-bibls-2270">
+                                    <author ref="kbga-actors-360">Friedrich D. E. Schleiermacher</author> (1768–1834) ließ sein
+                            Hauptwerk, «Der christliche Glaube», an dem er lange Jahre
+                            gearbeitet hatte, 1821/22 in zwei Bänden erscheinen</bibl>; die wesentlich
+                            überarbeitete zweite Auflage, mit deren Erarbeitung er 1829 begonnen
+                            hatte, erschien 1830/31, also erst wenige Jahre vor seinem Tod. Vgl.
+                            <bibl corresp="kbga-bibls-256">
+                                    <author ref="kbga-actors-360">Fr. D. E. Schleiermacher</author>, <hi rend="i">Der christliche Glaube nach den
+                                Grundsätzen der evangelischen Kirche im Zusammenhange
+                                dargestellt. Zweite Auflage (1830/31)</hi></bibl>, Teilbd. 1,
+                            Kritische Gesamtausgabe, Abt. 1, Bd. 13/1, hrsg. von R.
+                            Schäfer, Berlin 2003, S. XII–XIV.</note>, des
+                        Begründers der neuen Theologie, ich denke an einen Mann wie
+                            Bodelschwingh<note xml:id="n10">
+                                <persName ref="kbga-actors-7587">Friedrich von
+                            Bodelschwingh</persName> [d. Ä.] (1831–1910), seit 1872 und bis zu
+                            seinem Tod Leiter der «Evangelischen Heil- und Pflegeanstalt für
+                            Epileptische» bei Bielefeld (heute: «v. Bodelschwinghsche Stiftungen
+                                Bethel»).</note>, ich denke an
+                        Menschen, die vielleicht in unsrer Mitte sind und die mich beschämen,
+                        wenn ich mir ihre stille innere Lebendigkeit vorhalte und daneben
+                        stelle, wie oft ich selbst müde und greisenhaft bin.</p>
+                    <p> Wie das die Alten sind, die fertig zu sein <term type="Sachen" key="Altsein, fertig sein">wähnen</term>, so sind das die Jungen,
+                        die in jedem Moment ihres Lebens sich ans Ufer des grenzenlosen Ozeans
+                        gestellt fühlen, denen die Augen aufgegangen sind für die unendlichen
+                        Tiefen des Daseins, denen immer neue Ziele und Aufgaben sich <term type="Sachen" key="Jungsein, immer neue Ziele und Aufgaben haben">stellen</term>. Und wie das die Alten sind, die abgeschlossen <term type="Sachen" key="Altsein, abgeschlossen haben">haben</term>, so
+                        sind das die Jungen, die immer wieder sich auftun, um neues Leben zu
+                        empfangen und selber lebendig neues Leben <term type="Sachen" key="Jungsein, neues Leben empfangen und hervorbringen">hervorzubringen</term>. Wenn wir, die Alten und die Jungen, so
+                        Jugend und Alter schauen gelernt haben, seht, dann verliert <pb ed="-A" n="12"/> sich für uns die Vision des herbstlichen
+                        Vergehens, von der wir sprachen, in der Dämmerung. Der rote Faden des
+                            <term type="Sachen" key="Leben roter Faden">Lebens</term> führt uns
+                        auf die Schwelle eines Bezirks, wo es kein Vergehen gibt, sondern lauter
+                        Werden. Wohl uns, wenn wir den roten Faden gefasst haben.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>
+                                    <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                    <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                    <hi rend="i">.</hi>
+                                </l>
+                            </lg>
+                        </q>
+                </div>
+                <div>
+                    <head type="4">III</head>
+                    <p rend="noindent">Aber dies Wort aus ferner Vergangenheit ist ein Wort der
+                            <term type="Sachen" key="Verheißung">Verheißung</term>, meine
+                        Freunde, und wir wollen uns freuen, dass dem so ist. Solange uns diese
+                        Gedanken bloß eine hohe Aufforderung sind, solange mö<pb xml:id="p203" ed="pga"/>gen sie uns erbauen und begeistern, aber sie helfen uns
+                        im Grunde nicht, weil sie uns zur selben Zeit beschämen und demütigen.
+                        Wenn alle Weisen der Welt es uns geböten und wenn ein Engel vom Himmel
+                        käme und uns aufforderte: Du sollst jung sein, wie am Anfang, so in der
+                        Mitte und so am Ende deines Lebens – wir sind’s damit noch
+                        nicht. Die Botschaft hör’ ich wohl, doch wie der Klang im Ohr
+                        zergehet, der mächtig tönend ihr entschallt,<note xml:id="n11">Kombination der beiden bekannten Verse «Die Botschaft
+                            hör’ ich wohl, allein mir fehlt der Glaube» (<bibl corresp="kbga-bibls-647">
+                                    <author ref="kbga-actors-136">J. W. von Goethe</author>,
+                                <hi rend="i">Faust. Der Tragödie erster Teil</hi>, V. 765 [Nacht]</bibl>)
+                            und «Und wie der Klang im Ohr vergehet, / Der mächtig tönend ihr
+                            entschallt» (<bibl corresp="kbga-bibls-1267">
+                                    <author ref="kbga-actors-764">Fr. Schiller</author>, <hi rend="i">Das Lied von der Glocke</hi>, V. 414f.
+                            [Erstdruck: 1799; Sämtliche Werke, Bd. 1, München 1962<hi rend="sup">3</hi>, S. 429–442, dort S. 441)</bibl>.</note> so rauschen die
+                        schönen Gedanken an mir vorüber und lassen mich zurück, wie ich bin.</p>
+                    <p>Meine Freunde! In Allem, was wir über Alter und Jugend <pb ed="-A" n="13"/> eben geredet haben, ist der Name Gottes
+                        nicht vorgekommen. Und doch haben wir von nichts Anderem geredet als von
+                        Gott. Denn das Leben der <term type="Sachen" key="Wahrhaftigkeit">Wahrhaftigkeit</term>, das unendlich reich vor jedem von uns liegt,
+                        ob er alt oder jung sei, dies Leben ist <term type="Sachen" key="Gott, Leben der Wahrhaftigkeit">Gott</term>. Und die Wanderung
+                        nach dem Leben, ob wir es finden und ergreifen möchten inmitten der
+                        Tiefen und Untiefen unsres äußern Daseins, sie ist doch nichts Andres
+                        als die Wanderschaft zu <term type="Sachen" key="Mensch, Wanderschaft zu Gott">Gott</term>, «bis wir dort nach
+                        Kanaan durch die Wüste kommen werden»<note xml:id="n12">
+                                <bibl type="song" corresp="kbga-songs-258">Aus
+                            Strophe 1 des im Gottesdienst gesungenen Liedes «Himmelan geht unsre
+                            Bahn» (s. unten, Lieder)</bibl>: 
+                                <q rend="block">
+                                    <lg>
+                                        <l>Himmelan geht unsre Bahn! </l>
+                                        <l>Wir sind Gäste nur auf Erden, </l>
+                                        <l>Bis wir dort nach Kanaan </l>
+                                        <l>Durch die Wüste kommen werden. </l>
+                                        <l>Hier ist unser Pilgerstand, </l>
+                                        <l>Droben unser Vaterland.</l>
+                                    </lg>
+                                </q>
+                            </note>. 
+                        Ob wir faule oder rüstige Wanderer sind auf dieser
+                        verborgenen Pilgerfahrt, davon hängt’s ab, ob wir Alte sind oder
+                        Junge. Gott steht <hi rend="i">vor</hi> uns, meine Freunde! Aber nun sage
+                        ich, dass wir uns freuen wollen, dass unser Gott mehr ist als ein
+                        schönes Ziel und eine hohe Aufgabe.</p>
+                    <p> Gott ist <term type="Sachen" key="Gott, Gegenwart">Gegenwart</term> und
+                        Gott ist <term type="Sachen" key="Gott, Gewissheit">Gewissheit</term>,
+                        und wo er ist, da <hi rend="i">ist</hi> dein Alter wie deine Jugend, da
+                            <hi rend="i">ist</hi> dein <term type="Sachen" key="Alter">Alter</term>,
+                        oder was die Menschen so nennen, aufgelöst in unvergänglicher <term type="Sachen" key="Jugend">Jugend</term>.</p>
+                   
+                    <p> <pb rend="noPipe" xml:id="p204" ed="pga"/> Wir Alle wandern im Glauben und nicht im Schauen [<ref type="can" subtype="bible" target="2.Kor.5.7">2.Kor. 5,7</ref>]. Da ist keiner, der
+                            <anchor type="note" xml:id="fn-b"/>auf seiner Wanderschaft<note type="textcritical" n="b" xml:id="nb" target="fn-b"> Im Mskr. mit Bleistift nachträglich eingefügt.</note>
+                         die Hemmungen des ewig <term type="Sachen" key="Mensch, Hemmungen des Alltäglichen">Alltäglichen</term> nicht
+                        kennte, nicht einer. Und diese Hemmungen sind’s, die uns müde und
+                        alt machen. Lange nicht immer bestehen diese Hemmungen in gewaltigen,
+                            <pb ed="-A" n="14"/> schweren Schicksalen, die uns treffen,
+                        in offener Bosheit Anderer, mit der wir zu kämpfen haben, in deutlich
+                        erkennbaren Irrwegen, die wir selber einschlagen. Die kleinsten
+                        Hemmungen sind die größten, weil ihrer Viele, Unzählige sind. Einer der
+                        originellsten deutschen Schriftsteller des 19. Jahrhunderts hat ein
+                        ganzes Buch geschrieben über den Kampf mit der Tücke des <term type="Sachen" key="Tücke des Objekts">Objekts</term>, mit der Tücke
+                        der kleinen, ordinären, langweiligen Dinge, die auf unser aller Weg
+                            liegen.<note xml:id="n13">Gemeint ist: <bibl corresp="kbga-bibls-2563">
+                                    <author ref="kbga-actors-2134">Fr. Th. Vischer</author>, <hi rend="i">Auch einer. Eine
+                                Reisebekanntschaft</hi>, 2. Bde., Stuttgart / Leipzig 1879</bibl>.
+                            <persName ref="kbga-actors-2134">Friedrich Theodor Vischer</persName> (1807–1887) lehrte seit 1835 als
+                            Literaturwissenschaftler in Tübingen und seit 1855 in Zürich; der
+                            genannte Roman ist sein erfolgreichstes und meistgelesenes Buch, mit
+                            dem er die Redewendung «Tücke des Objekts» prägte (vgl. <bibl corresp="kbga-bibls-2563">a.a.O.,
+                            Bd. 1, S. 24</bibl>) und das zu Beginn des 20. Jahrhunderts bereits
+                            in mehr als dreißig Auflagen erschienen war.</note> Das ist der
+                        Kampf, wir kennen ihn alle, an dem sich Unzählige wund reiben. Und in
+                        diesem Kampf kommt dann immer wieder die <term type="Sachen" key="Stimmungen">Stimmung</term> über uns, die uns heißt, uns
+                        innerlich zur Ruhe setzen, uns zufrieden zu geben mit dem Erreichten,
+                        uns in das behagliche Schneckenhaus irgend einer selbstgemachten oder am
+                        Weg aufgelesenen sogenannten Lebensweisheit zurückzuziehen. Und dann
+                        sind wir alt geworden, und Gott wird uns ein hoher, aber ferner <term type="Sachen" key="Gott, hoher und ferner Name">Name</term>. Denn
+                        Gott ist nicht ein Gott der Toten, sondern der Lebendigen [<ref type="can" subtype="bible" target="Mt.22.32">Mt. 22,32</ref> par.].</p>
+                    <p>Aber nun ist’s das Große, dass Gott unsrer Pilgerschaft, den
+                        Kämpfen unsrer Jugend mit den Gewalten des Alters nicht von ferne
+                        zusieht, wie ein orientalischer Despot der Fronarbeit seiner Untertanen
+                        zusieht: Er sagt zu einem jeden von uns: Ich habe dich je und je
+                        geliebet, darum habe ich dich zu mir gezogen aus lauter <term type="Sachen" key="Gott, Güte">Güte</term> [<ref type="can" subtype="bible" target="Jer.31.3">Jer. 31,3</ref>]. Und er sagt <pb ed="-A" n="15"/> es nicht nur, sondern er tut es. Denn wenn
+                        wir ihn haben, dann haben wir den, der der Herr ist auch über den
+                        rätselhaften Naturprozess, in dessen erbarmungslose Räder die kleine
+                        Strecke unsres <pb xml:id="p205" ed="pga"/> Lebensweges eingeschlossen
+                        scheint. Wo Gott ist, da steht der Mensch mitten drin in dem Bezirk, in
+                        dem es kein <term type="Sachen" key="Vergänglichkeit">Vergehen</term>
+                        gibt, sondern nur <term type="Sachen" key="Freiheit">Freiheit</term>,
+                        nur Freude, nur Werden, kein Rückwärts und keinen Stillstand, sondern
+                        lauter Vorwärts und Bewegung, keinen <term type="Sachen" key="Herbst">Herbst</term>, sondern lauter <term type="Sachen" key="Frühling">Frühling</term>, kein <term type="Sachen" key="Alter">Alter</term>,
+                        sondern lauter <term type="Sachen" key="Jugend">Jugend</term>. Wo Gott
+                        ist, da verliert auch das rätselhafte Ende jenes rätselhaften
+                        Naturprozesses, den sie das Leben heißen, seinen Schrecken. Weil auch
+                        der <term type="Sachen" key="Tod, in Gottes Hand">Tod</term> in Gottes
+                        Hand ist, so muss auch der Tod Leben und Freiheit sein.</p>
+                    <p>Und wo Gott ist, da verstehen wir das andere Wort eines seiner Freunde
+                        aus vergangenen Zeiten:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Wem ist Zeit wie Ewigkeit</l>
+                                <l>Und Ewigkeit wie diese Zeit,</l>
+                                <l>Der ist befreit von allem Streit.<note xml:id="n14">Beliebter und häufig zitierter Aphorismus des
+                                        Mystikers <persName ref="kbga-actors-2802">Jacob Böhme</persName> (1575–1624); vgl.
+                                        <bibl corresp="kbga-bibls-1641">Konfirmandenunterricht, <ref type="pub-" target="../volume/18/p041#fn_n84">S. 41, Anm. 84</ref></bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Und in seine Hände befehlen wir dann unsern Eingang und
+                        unsern Ausgang in dieser Zeit [vgl. <ref type="can" subtype="bible" target="Ps.121.8">Ps. 121,8</ref>] und sagen ohne Resignation und ohne
+                        Weltverdruss, aber in Freude und Offenheit:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Kommt, Brüder, lasst uns gehen!</l>
+                                <l>Der Abend kommt herbei;</l>
+                                <l>Es ist gefährlich stehen</l>
+                                <l>In dieser Wüstenei.</l>
+                                <l>Kommt, stärket euren Mut,</l>
+                                <l>Zur Ewigkeit zu wandern</l>
+                                <l>Von einer Kraft zur andern:</l>
+                                <l>Es ist das Ende gut.<note xml:id="n15">
+                                        <bibl type="song" corresp="kbga-songs-76">Strophe 1
+                                        des Liedes «Kommt, Brüder, lasst uns gehen» von <author ref="kbga-actors-797">G. Tersteegen</author> (GERS 327; EG 393 [dort: «Kommt,
+                                        Kinder, lasst uns gehen»])</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    </div>  
+                    <div type="closer">
+                            <salute>Amen.</salute>
+                    </div>
+
+                    <div type="songs">
+                        <head>Lieder:</head>
+                            <listBibl type="songs" rend="simple">
+                            <bibl type="song" corresp="kbga-songs-67">Nr. 9: «Sei Lob und Ehr dem höchsten Gut» von <author ref="kbga-actors-1404">J. J. Schütz</author>,
+                                Strophen 1–3 (RG 240; EG 326).</bibl>
+                            <bibl type="song" corresp="kbga-songs-258">Nr. 227: «Himmelan geht unsre Bahn» von <author ref="kbga-actors-5770">B. Schmolck</author>, Strophen
+                                1.2.7.</bibl>
+                            <bibl type="song" corresp="kbga-songs-103">Nr. 352: «Ich hab von ferne, Herr, deinen Thron erblickt» von
+                                <author ref="kbga-actors-4392">J. T. Hermes</author>, Strophen 1.4.5.</bibl>
+                        </listBibl>
+                    </div>
+                </div>
+
+            </div>
+        </body>
+    </text>
+</TEI>

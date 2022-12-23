@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Jesaia 42,23-43,1 (2. Advent)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jesaia 42,23-43,1 (2. Advent), 6. Dezember 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5054 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5054 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 600–612.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1227" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Jes 42,23-43,1 (2. Advent), 6. Dezember 1914. <idno ref="https://kba.karl-barth.ch/objects/1690">KBA 1227</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Jes 42,23-43,1 (2. Advent), 6. Dezember 1914. <ref target="https://kba.karl-barth.ch/objects/1690">KBA 1227</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,23 +76,31 @@
       <div type="sermon">
         <pb xml:id="p600" ed="pga"/>
         <div type="opener">
-        <head><idno>249</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-12-06">6. Dezember 1914</date><note xml:id="n01">Als Lied, das in dem Gottesdienst gesungen wurde, ist auf dem
-                     Mskr. notiert: <bibl corresp="kbga-songs-130" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>87</idno></bibl>: «<title level="a">Auf, auf, ihr Reichsgenossen…</title>» von <author ref="kbga-actors-1395">J. Rist</author>
-                        (<date from="1607" to="1667">1607–1667</date>), <biblScope>Strophen 1–3; 4–6</biblScope> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>8</idno>, <biblScope>Strophen 1, 2, 5; 6–8</biblScope></bibl>)</bibl>.</note></dateline>
+        <head>
+                        <idno>249</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-12-06">6. Dezember 1914</date><note xml:id="n01">Als Lied, das in dem Gottesdienst gesungen wurde, ist auf dem
+                     Mskr. notiert: <bibl corresp="kbga-songs-130" type="song">
+                                <bibl corresp="kbga-bibls-1087">Nr. <idno>87</idno></bibl>: «<title level="a">Auf, auf, ihr Reichsgenossen…</title>» von <author ref="kbga-actors-1395">J. Rist</author>
+                        (<date from="1607" to="1667">1607–1667</date>), <biblScope>Strophen 1–3; 4–6</biblScope> (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>8</idno>, <biblScope>Strophen 1, 2, 5; 6–8</biblScope></bibl>)</bibl>.</note>
+                    </dateline>
           <head type="event">II. Advent</head>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Jes.42.23 Jes.43.1">Jesaja 42,23–43,1</ref>
             
-            <quote><hi rend="text-recte">… Wer hat <persName ref="kbga-actors-2199">Jakob</persName> übergeben den Plünderern und Israel den Räubern?</hi> Hats nicht der Herr getan, an dem wir uns versündigt haben, <hi rend="text-recte">und sie
+            <quote>
+                                <hi rend="text-recte">… Wer hat <persName ref="kbga-actors-2199">Jakob</persName> übergeben den Plünderern und Israel den Räubern?</hi> Hats nicht der Herr getan, an dem wir uns versündigt haben, <hi rend="text-recte">und sie
                      wollten auf seinen Wegen nicht wandeln und gehorchten seinem Gesetz nicht.
                      Darum hat er über sie ausgeschüttet den Grimm seines Zornes und die Wut des
                      Krieges, und hat es rings um sie her entzündet, aber sie merken es nicht, und
                      hat sie in Brand gesteckt, aber sie nehmen es nicht zu Herzen. Und nun <pb xml:id="p601" ed="pga" break="no"/> spricht der Herr, der dich geschaffen hat, <persName ref="kbga-actors-2199">Jakob</persName>, und dich gemacht hat,
                      Israel:</hi> Fürchte dich nicht, denn ich habe dich erlöset; ich habe
                         dich bei deinem Namen gerufen: du bist mein!
-                  </quote></cit>
+                  </quote>
+                        </cit>
           </epigraph>
           <salute>Liebe Freunde!</salute>
         </div>
@@ -144,7 +112,15 @@
                stillem, ruhigem Sinnen und Betrachten: Woher? und Wohin? Hinter uns liegt das Jahr
                mit seinen Sorgen und Freuden, seinen Fortschritten und Verwirrungen, mit seinen
                Sünden und Gnadenerfahrungen — vor uns nun noch die Weihnacht mit ihrer alten, ewig
-               neuen Botschaft: <q rend="block"><lg><l xml:space="preserve">Christ ist erschienen,</l><l xml:space="preserve">uns zu versühnen,</l><l xml:space="preserve">freue, freue dich, o Christenheit!<note xml:id="n02">Aus dem geistlichen Volkslied <bibl corresp="kbga-songs-212" type="song">«<title level="a">O du fröhliche…</title>», <biblScope>Strophe 2</biblScope> (von <author ref="kbga-actors-1371">H. Holzschuher</author>, <date from="1798" to="1847">1798–1847</date>)</bibl>.</note></l></lg></q></p><p> Hinter uns liegt die Welt mit ihrer Schuld und ihrer Sehnsucht, vor uns das Wort
+               neuen Botschaft: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Christ ist erschienen,</l>
+                                <l xml:space="preserve">uns zu versühnen,</l>
+                                <l xml:space="preserve">freue, freue dich, o Christenheit!<note xml:id="n02">Aus dem geistlichen Volkslied <bibl corresp="kbga-songs-235" type="song">«<title level="a">O du fröhliche…</title>», <biblScope>Strophe 2</biblScope> (von <author ref="kbga-actors-1371">H. Holzschuher</author>, <date from="1798" to="1847">1798–1847</date>)</bibl>.</note></l>
+                            </lg>
+                        </q>
+                    </p>
+                    <p> Hinter uns liegt die Welt mit ihrer Schuld und ihrer Sehnsucht, vor uns das Wort
                und die Verheißung Gottes: mache dich auf und werde licht! denn dein Licht kommt, und
                die Herrlichkeit des Herrn geht auf über Dir [<ref type="can" subtype="bible" target="Jes.60.1">Jes. 60,1</ref>]. Hinter uns die Zeit, vor uns die Ewigkeit. Wie
                sollten da unsere Gedanken nicht gern einen hohen Flug nehmen, mehr als gewöhnlich,
@@ -153,7 +129,7 @@
                Kriegszeit. So vielen Menschen fehlt es gerade jetzt am freien Überblick über die
                großen Grundwahrheiten des Lebens. So viel ist da, was sich an uns heran, in uns
                hinein drängen und uns hinunterziehen will in die finsteren Täler, in denen der Nebel
-               herrscht und aus denen es keinen Ausweg gibt. Die Sorgen und<pb xml:id="p602" ed="pga"/>
+               herrscht und aus denen es keinen Ausweg gibt. Die Sorgen und <pb xml:id="p602" ed="pga"/>
                 Kummer: wie wird Alles noch gehen und wie werden wir es überstehen! kommen daher und
                werden dringend, je weiter der Winter fortschreitet. Und die Fragen und Gedanken
                lasten auf uns: wie das in der Welt noch werden wird? warum es so sein mußte? wie es
@@ -210,7 +186,8 @@
                Menschenseele fremd in der Welt; sie ist von Gott, aber die Welt ist nicht von Gott,
                will es scheinen, zu viel Trauriges, Dunkles, Schlechtes ist darin! </p>
        
-        <p><pb xml:id="p604" ed="pga"/> Aber nicht nur fremd muß sie sein, sondern umdrängt von <hi rend="i">Feinden</hi>.
+        <p>
+                        <pb rend="noPipe" xml:id="p604" ed="pga"/> Aber nicht nur fremd muß sie sein, sondern umdrängt von <hi rend="i">Feinden</hi>.
                Unsere Augen werden scharf über all der Not, in der wir sind, und wir fangen an, die
                Menschen zu durchschauen: die einen in ihrer Oberflächlichkeit, die anderen in ihrer
                Begehrlichkeit, die anderen in ihrem Hochmut, die anderen in ihrer Streitlust. Zuerst
@@ -260,8 +237,15 @@
                ängstet und drückt und bedrängt. Es ist sein Werk, daß wir leiden und straucheln und
                schwach sein müssen gegenüber den Mächten des Bösen. Es ist sein Werk, daß wir, von
                Feinden umgeben, im Kampf sein müssen Tag und Nacht.<note xml:id="n04">Anspielung auf
-                     <bibl corresp="kbga-songs-88" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>83</idno></bibl> <bibl corresp="kbga-bibls-1086">(<title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>223</idno>)</bibl>: «<title level="a">Zeuch an die Macht, du Arm des Herrn</title>» von <author ref="kbga-actors-1389">Fr. Oser</author>
-                     (<date from="1820" to="1891">1820–1891</date>), <biblScope>Ende der 1. Strophe</biblScope></bibl>: <q rend="block"><lg><l xml:space="preserve">Wir sind im Kampfe Tag und Nacht,</l><l xml:space="preserve">O Herr, nimm gnädig uns in acht</l><l xml:space="preserve">Und steh uns an der Seiten!</l></lg></q>
+                     <bibl corresp="kbga-songs-88" type="song">
+                                <bibl corresp="kbga-bibls-1087">Lied <idno>83</idno></bibl> <bibl corresp="kbga-bibls-1086">(<title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>223</idno>)</bibl>: «<title level="a">Zeuch an die Macht, du Arm des Herrn</title>» von <author ref="kbga-actors-1389">Fr. Oser</author>
+                     (<date from="1820" to="1891">1820–1891</date>), <biblScope>Ende der 1. Strophe</biblScope></bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Wir sind im Kampfe Tag und Nacht,</l>
+                                    <l xml:space="preserve">O Herr, nimm gnädig uns in acht</l>
+                                    <l xml:space="preserve">Und steh uns an der Seiten!</l>
+                                </lg>
+                            </q>
                </note> Es ist sein Werk, daß wir in einer solchen Welt leben müssen. So wenig uns
                das gefallen und überzeugen mag, so sicher steht
                <pb xml:id="p606" ed="pga"/>
@@ -270,8 +254,15 @@
                anders, wir sehen ihn endigen unter dem ganzen furchtbaren Druck dieses Lebens, der
                uns tausendfach von allen Seiten zuzuschreien scheint: du bist nicht das Himmelskind,
                das du gerne wärest, du bist Staub und Erde, und die Welt ist wert, daß sie zu Grunde
-                  gehe!<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-647"><author ref="kbga-actors-136">J. W. von Goethe</author>, <title level="m">Faust I</title>, Vers
-                        1338–1340 (Mephistopheles)</bibl>: <q rend="block"><lg><l xml:space="preserve">Ich bin der Geist, der stets verneint!</l><l xml:space="preserve">Und das mit Recht; denn alles, was entsteht,</l><l xml:space="preserve">Ist wert, daß es zu Grunde geht.</l></lg></q>
+                  gehe!<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-647">
+                                <author ref="kbga-actors-136">J. W. von Goethe</author>, <title level="m">Faust I</title>, Vers
+                        1338–1340 (Mephistopheles)</bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Ich bin der Geist, der stets verneint!</l>
+                                    <l xml:space="preserve">Und das mit Recht; denn alles, was entsteht,</l>
+                                    <l xml:space="preserve">Ist wert, daß es zu Grunde geht.</l>
+                                </lg>
+                            </q>
                </note> Auch Jesus konnte das Leben solches zuschreien, auch über ihn konnten der
                Zweifel und die Fragen kommen mit mehr Recht als über uns, denn er hat mehr erlitten.
                «Er hatte keine Gestalt noch Schönheit, wir sahen ihn, aber da war keine Gestalt, die
@@ -414,7 +405,8 @@
                seinem großen, geduldigen Leiden am Kreuze: Vater, nicht mein, sondern dein Wille
                geschehe! [<ref type="can" subtype="bible" target="Lk.22.42">Lk. 22,42</ref>]. Ja,
                sein Wille muß geschehen, denn sein Gericht über uns ist gerecht.</p>
-        <p><hi rend="i">Und nun spricht der Herr, der dich geschaffen hat, <persName ref="kbga-actors-2199">Jakob</persName>, und dich
+        <p>
+                        <hi rend="i">Und nun spricht der Herr, der dich geschaffen hat, <persName ref="kbga-actors-2199">Jakob</persName>, und dich
                   gemacht hat, Israel: Fürchte dich nicht, denn ich habe dich erlöset; ich habe dich
                   bei deinem Namen gerufen, du bist mein!</hi> Ich brauche nun nicht mehr viel
                hinzuzufügen zu diesen wunderbar tiefen und frohen Worten des Propheten. Das Kreuz

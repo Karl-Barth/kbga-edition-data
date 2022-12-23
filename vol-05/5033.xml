@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Hebräer 10,31 und Psalm 16,11</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Hebräer 10,31 und Psalm 16,11, 5. Juli 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5033 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5033 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 349–361.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1206" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Hebr 10,31 und Ps 16,11, 5. Juli 1914. <idno ref="https://kba.karl-barth.ch/objects/1669">KBA 1206</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Hebr 10,31 und Ps 16,11, 5. Juli 1914. <ref target="https://kba.karl-barth.ch/objects/1669">KBA 1206</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,12 @@
       <div type="sermon">
         <pb xml:id="p349" ed="pga"/>
         <div type="opener">
-        <head><idno>228</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-07-05">5. Juli 1914</date></dateline>
+        <head>
+                        <idno>228</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-07-05">5. Juli 1914</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Hebr.10.31">Hebräer 10,31</ref>
@@ -168,11 +132,17 @@
                und vom Jubel und vom Frieden eines Gotteskindes, wenn wir unsere Lieder singen:
                Sollt’ ich meinem Gott nicht singen, sollt’ ich ihm nicht fröhlich sein… Geh aus mein
                Herz und suche Freud’ in dieser lieben Sommerszeit… Fröhlich soll mein Herze
-                  springen…,<note xml:id="n01">Drei Lieder von <bibl type="song" corresp="kbga-songs-20"><persName ref="kbga-actors-131">P. Gerhardt</persName> (<date from="1607" to="1676">1607–1676</date>):
-                     <bibl corresp="kbga-bibls-1087">Nr. 3</bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>232</idno></bibl>)</bibl>, 
-                     <bibl type="song" corresp="kbga-songs-228"><bibl corresp="kbga-bibls-1087">Nr. <idno>57</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>371</idno></bibl>)</bibl> und 
-                     <bibl type="song" corresp="kbga-songs-7"><bibl corresp="kbga-bibls-1087">Nr. <idno>97</idno></bibl>
-                     (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>27</idno></bibl>)</bibl>. Barth zitiert in der Fassung des Schweizer Gesangbuchs, die bei Nr. 3 vom Original («…
+                  springen…,<note xml:id="n01">Drei Lieder von <bibl type="song" corresp="kbga-songs-20">
+                                <persName ref="kbga-actors-131">P. Gerhardt</persName> (<date from="1607" to="1676">1607–1676</date>):
+                     <bibl corresp="kbga-bibls-1087">Nr. 3</bibl> (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>232</idno></bibl>)</bibl>, 
+                     <bibl type="song" corresp="kbga-songs-228">
+                                <bibl corresp="kbga-bibls-1087">Nr. <idno>57</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>371</idno></bibl>)</bibl> und 
+                     <bibl type="song" corresp="kbga-songs-7">
+                                <bibl corresp="kbga-bibls-1087">Nr. <idno>97</idno></bibl>
+                     (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>27</idno></bibl>)</bibl>. Barth zitiert in der Fassung des Schweizer Gesangbuchs, die bei Nr. 3 vom Original («…
                   sollt ich ihm nicht dankbar sein?») abweicht.</note> dann verstehen wir das
                einfach nicht. Wir hören es wohl, aber wie etwas, was weit weg, was für uns nicht
                wahr ist. Freuet euch in dem Herrn allewege [<ref type="can" subtype="bible" target="Phil.4.4">Phil. 4,4</ref>] — lesen wir in der Bibel, ja, aber Gott ist
@@ -282,8 +252,15 @@
                der mir jetzt so weh tut, er ist der Gleiche, dem ich in guten Stunden dankbar war,
                dem ich als klein<note xml:id="n02">= als ich klein war.</note> so fröhlich singen
                konnte: «Gott ist die Liebe, er liebt auch mich!»<note xml:id="n03">Refrain des Liedes<bibl type="song" corresp="kbga-songs-229"> «<title>Gott ist die Liebe…</title>» von <author ref="kbga-actors-1394">Dietr. Aug. Rische</author>
-                        (<date from="1819" to="1906">1819–1906</date>)</bibl>:<p>Drum sag ichs noch einmal: <q rend="block"><lg><l xml:space="preserve">Gott ist die Liebe,</l><l xml:space="preserve">Gott ist die Liebe,</l><l xml:space="preserve">Er liebt auch mich.</l></lg></q>
-                  </p></note> Er ist doch derselbe, ich glaube es, auch wenn ich es nicht begreifen kann!
+                        (<date from="1819" to="1906">1819–1906</date>)</bibl>:<p>Drum sag ichs noch einmal: <q rend="block">
+                                    <lg>
+                                        <l xml:space="preserve">Gott ist die Liebe,</l>
+                                        <l xml:space="preserve">Gott ist die Liebe,</l>
+                                        <l xml:space="preserve">Er liebt auch mich.</l>
+                                    </lg>
+                                </q>
+                  </p>
+                        </note> Er ist doch derselbe, ich glaube es, auch wenn ich es nicht begreifen kann!
                Werden wir hindurchdringen? Dann dringen wir hindurch zur vollen, zur reifen
                Gotteserfahrung, wie Jesus sie hatte, das war ja sein Kampf und sein Sieg in
                <placeName ref="kbga-places-864">Gethsemane</placeName> [vgl. <ref type="can" subtype="bible" target="Mt.26.36 Mt.26.46">Mt. 26,36–46</ref>]. Oder werden wir zurückbleiben: nein, das Schreckliche, was ich jetzt
@@ -305,9 +282,15 @@
                ja ich erkenne dich, der mir jetzt so Leides zufügt, du bist doch, der du bist, du
                bist doch die Liebe!</p>
         <p>Wir wollen einen anderen Weg einschlagen. Wir denken an unsere <hi rend="i">Lebensaufgaben</hi>, an unsere Pflichten gegen uns selbst und unsere Mitmenschen.
-               Wir hören Gottes Stimme, die uns auffordert, edel zu sein, hilfreich und gut,<note xml:id="n04">Vgl. <bibl corresp="kbga-bibls-117"><author ref="kbga-actors-136">J. W. von Goethes</author> Gedicht <title level="a">Das
+               Wir hören Gottes Stimme, die uns auffordert, edel zu sein, hilfreich und gut,<note xml:id="n04">Vgl. <bibl corresp="kbga-bibls-117">
+                                <author ref="kbga-actors-136">J. W. von Goethes</author> Gedicht <title level="a">Das
                            Göttliche</title> (<date when="1783">1783</date>) aus: <title level="m">Vermischte Gedichte. 2.
-                        Abteilung</title></bibl>: <q rend="block"><lg><l xml:space="preserve">Edel sei der Mensch,</l><l xml:space="preserve">Hilfreich und gut! …</l></lg></q>
+                        Abteilung</title></bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Edel sei der Mensch,</l>
+                                    <l xml:space="preserve">Hilfreich und gut! …</l>
+                                </lg>
+                            </q>
                </note> Ewigkeitsmenschen zu werden in der Zeit und unsere Nächsten zu lieben wie uns
                selbst [vgl. <ref type="can" subtype="bible" target="Mt.22.39">Mt. 22,39</ref>]. Wie
                gern hören wir das, wie tönt da das Echo zurück aus dem Tiefsten unserer Seele: Zu

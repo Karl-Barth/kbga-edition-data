@@ -20,8 +20,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2022-06-16 12:40:38</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2022-12-23 11:07:13</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:40:38+02:00">teiHeader was automatically produced from the database 2022-06-16T12:40:38+02:00</change>
+      <change when="2022-12-23T11:07:13+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1091,10 +1091,11 @@
         </org>
         <org xml:id="kbga-actors-8207">
           <orgName>Evangelisch-Theologische Fakultät Bonn</orgName>
-          <orgName type="full">Evangelisch-Theologische Fakultät Bonn</orgName>
+          <orgName type="full">Evangelisch-Theologische Fakultät Bonn (1818-)</orgName>
           <persName type="variant">Bonner Ev.-Theol. Fakultät</persName>
           <persName type="variant">Evangel. theol. Fakultät Bonn</persName>
           <persName type="variant">Ev.-Theol. Fakultät in Bonn</persName>
+          <birth when="1818"/>
           <ref target="https://kba.karl-barth.ch/actors/2991">kba</ref>
           <ref target="https://d-nb.info/gnd/36150-1">gnd</ref>
           <ref target="https://de.wikipedia.org/wiki/Rheinische_Friedrich-Wilhelms-Universität_Bonn">wikipedia</ref>
@@ -1103,6 +1104,7 @@
           <ref target="https://id.loc.gov/authorities/n79110441">lcnaf</ref>
           <ref target="https://www.worldcat.org/identities/lccn-n79110441/">worldcat</ref>
           <ref target="https://www.britannica.com/place/Rhenish-Friedrich-Wilhelm-University-of-Bonn">encyclopaedia-britannica-online</ref>
+          <desc>Theologische Fakultät der Rheinischen Friedrich-Wilhelms-Universität Bonn, an der 1930 bis 1935 auch Karl Barth lehrte.</desc>
         </org>
         <org xml:id="kbga-actors-8578">
           <orgName>Evangelisch-theologische Fakultät Breslau</orgName>
@@ -1347,6 +1349,12 @@
         <org xml:id="kbga-actors-8242">
           <orgName>Freie Universität Berlin</orgName>
           <orgName type="full">Freie Universität Berlin</orgName>
+        </org>
+        <org xml:id="kbga-actors-9032">
+          <orgName>Freies Gymnasium Bern</orgName>
+          <orgName type="full">Freies Gymnasium Bern (1892-)</orgName>
+          <birth when="1892"/>
+          <desc>Von Karl Barth besuchtes, aus der Lerberschule (1859-1892) hervorgegangenes Gymnasium in Bern.</desc>
         </org>
         <org xml:id="kbga-actors-8619">
           <orgName>Freiheit. Schweizerische Volkszeitung</orgName>
@@ -2326,14 +2334,13 @@
         <org xml:id="kbga-actors-8245">
           <orgName>Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</orgName>
           <orgName type="full">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</orgName>
-          <persName type="variant">Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
-          <persName type="variant">Kultusministeriums</persName>
-          <persName type="variant">Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung</persName>
+          <persName type="variant">Preußisches Kultusministerium</persName>
           <ref target="https://d-nb.info/gnd/35255-X">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q2109317">wikidata</ref>
           <ref target="https://viaf.org/viaf/249759886/">viaf</ref>
           <ref target="https://www.worldcat.org/identities/viaf-249759886/">worldcat</ref>
           <ref target="https://de.wikipedia.org/wiki/Preußisches_Ministerium_der_geistlichen,_Unterrichts-_und_Medizinalangelegenheiten">wikipedia</ref>
+          <desc>1918-1935 Name des für Schul- und Wissenschaftsangelegenheiten zuständigen preußischen Ministeriums.</desc>
         </org>
         <org xml:id="kbga-actors-8283">
           <orgName>Preußisches Oberverwaltungsgericht Berlin</orgName>
@@ -2856,7 +2863,10 @@
         </org>
         <org xml:id="kbga-actors-8059">
           <orgName>Svenska Morgonbladet</orgName>
-          <orgName type="full">Svenska Morgonbladet</orgName>
+          <orgName type="full">Svenska Morgonbladet (1890-1958)</orgName>
+          <birth when="1890"/>
+          <death when="1958"/>
+          <desc>Erste christliche (freikirchlich geprägte) Tageszeitung Schwedens, politisch überwiegend liberal eingestellt.</desc>
         </org>
         <org xml:id="kbga-actors-8695">
           <orgName>Syracuse University</orgName>
@@ -2889,6 +2899,7 @@
           <persName type="variant">alter Marburger Theologen in Marburg</persName>
           <persName type="variant">Kreis ehem. Marburger Theologen</persName>
           <birth when="1927"/>
+          <desc>Auf Initiative Rudolf Bultmanns gegründete jährliche Konferenz seiner ehemaligen Schüler und Schülerinnen mit geladenen Gästen bzw. Referenten. Nach 1945 von Ernst Fuchs und Günther Bornkamm neu konstituiert als "Theologische Arbeitsgemeinschaft alter Marburger".</desc>
         </org>
         <org xml:id="kbga-actors-7468">
           <orgName>Theologische Blätter</orgName>
@@ -3218,13 +3229,6 @@
           <ref target="https://www.worldcat.org/identities/lccn-n87863371/">worldcat</ref>
           <ref target="https://www.britannica.com/place/Friedrich-Schiller-University">encyclopaedia-britannica-online</ref>
         </org>
-        <org xml:id="kbga-actors-8600">
-          <orgName>Universität St. Andrews</orgName>
-          <orgName type="full">Universität St. Andrews</orgName>
-          <persName type="variant">University St. Andrews</persName>
-          <ref target="https://d-nb.info/gnd/1011194-3">gnd</ref>
-          <ref target="https://de.wikipedia.org/wiki/University_of_St_Andrews">wikipedia</ref>
-        </org>
         <org xml:id="kbga-actors-8660">
           <orgName>Universität Tübingen</orgName>
           <orgName type="full">Universität Tübingen (1477-)</orgName>
@@ -3264,6 +3268,15 @@
           <orgName>University in Exile, New York City</orgName>
           <orgName type="full">University in Exile, New York City (1933-)</orgName>
           <birth when="1933"/>
+        </org>
+        <org xml:id="kbga-actors-8600">
+          <orgName>University of St. Andrews</orgName>
+          <orgName type="full">University of St. Andrews (1413-)</orgName>
+          <persName type="variant">Universität St. Andrews</persName>
+          <birth when="1413"/>
+          <ref target="https://d-nb.info/gnd/1011194-3">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/University_of_St_Andrews">wikipedia</ref>
+          <desc>Älteste Universität Schottlands und nach Oxford und Cambridge die drittälteste Universität in der englischsprachigen Welt. Die Universität verlieh Barth im März 1937 den Titel eines juristischen Ehrendoktors.</desc>
         </org>
         <org xml:id="kbga-actors-8222">
           <orgName>Vanderbilt University</orgName>

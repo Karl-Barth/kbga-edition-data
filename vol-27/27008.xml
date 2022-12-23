@@ -6,7 +6,7 @@
         <title type="volume" n="vol-27">Predigten 1915</title>
         <title type="content">Predigt: Lukas 12,32: "Gottes Vorhut"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Lukas 12,32: "Gottes Vorhut", 14. Februar 1915</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27008 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27008 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1915, Zürich 1996, S. 52–68.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth: In Gottes Vorhut, in: Neue Wege. Blätter für religiöse Arbeit Jg. 9 (1915), S. 89–97, 1915. </bibl>
-        <bibl xml:id="B" corresp="KBA 1237" type="source">B (Weitere Vorlage der Edition): Barth, Karl, Predigt: Lk 12,32: "Gottes Vorhut", 14. Februar 1915. <idno ref="https://kba.karl-barth.ch/objects/1700">KBA 1237</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage der Edition): Barth, Karl, Predigt: Lk 12,32: "Gottes Vorhut", 14. Februar 1915. <ref target="https://kba.karl-barth.ch/objects/1700">KBA 1237</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -69,48 +69,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -118,105 +78,147 @@
       <div type="sermon">
         <pb xml:id="p052" ed="pga"/>
         <div type="opener">
-      <head><idno>[259]</idno></head>
-          <head>Gottes Vorhut<note xml:id="n01"><p>Am 15.2.1915 fragte Barth bei <persName ref="kbga-actors-330">L. Ragaz</persName> an,
+      <head>
+                        <idno>[259]</idno>
+                    </head>
+          <head>Gottes Vorhut<note xml:id="n01">
+                            <p>Am 15.2.1915 fragte Barth bei <persName ref="kbga-actors-330">L. Ragaz</persName> an,
       ob die Predigt zum Abdruck in den «<orgName ref="kbga-actors-4867">Neuen
         Wegen</orgName>» evtl. geeignet sei. «Mir persönlich ist es einigermaßen
       erwünscht, nochmals zu Worte zu kommen, als ich durch jenen Kriegsbrief an <persName ref="kbga-actors-329">Rade</persName> in den Ruf
       eines schrecklichen Streithahns gekommen bin, und das möchte ich wirklich nicht sein.» Zur
       Predigt selbst schrieb Barth: «Sie war die letzte einer Reihe von Predigten, in denen ich
       versuchte, zu zeigen, wie unsre Zeit als eine besondere Gottesreichszeit aufgefaßt und erlebt
-      werden müsse.» Barths «Kriegsbrief» (<bibl corresp="kbga-bibls-966"><author ref="kbga-actors-2151">K. Barth</author>/<author ref="kbga-actors-329">M. Rade</author>,
+      werden müsse.» Barths «Kriegsbrief» (<bibl corresp="kbga-bibls-966">
+                                    <author ref="kbga-actors-2151">K. Barth</author>/<author ref="kbga-actors-329">M. Rade</author>,
          <hi rend="i">Ein Briefwechsel</hi>, hrsg. von Chr. Schwöbel,
          Gütersloh
                         1981, S. 95-98) war in Neue Wege. Blätter für
         religiöse Arbeit, Jg. 8 (1914), S. 429-432 veröffentlicht worden.</bibl>
-      Die Predigt über <ref type="can" subtype="bible" target="Lk.12.32">Lk. 12, 32</ref> erschien
+      Die Predigt über <ref type="can" subtype="bible" target="Lk.12.32">Lk. 12,32</ref> erschien
             dann in: <bibl corresp="kbga-bibls-2011">Neue Wege …, Jg. 9
         (1915), S. 89-97.</bibl> Dem im folgenden dargebotenen Text liegt die
             Druckfassung zugrunde. <persName ref="kbga-actors-403">Thurneysen</persName> hat sich auf Barths Bitte hin zu dieser Predigt geäußert
        (<bibl corresp="kbga-bibls-931">Bw. Th. I, S. 36-38</bibl>). Übrigens
       sprechen von da an die Freunde gerne von der «kleinen Herde» im Blick auf die einsichtigen
       Glieder der Kirche (<bibl corresp="kbga-bibls-931">Bw. Th. I, S. 59.116.175
-        u.ö.</bibl>).</p><p>Bei der Anfertigung der Reinschrift für den Druck hat Barth zahlreiche Veränderungen
+        u.ö.</bibl>).</p>
+                            <p>Bei der Anfertigung der Reinschrift für den Druck hat Barth zahlreiche Veränderungen
       vorgenommen. Um dem Leser einen Einblick in Barths Arbeitsweise zu geben, weisen wir die
       Abweichungen vollständig nach. Reine Erweiterungen gegenüber dem Predigtmanuskript sind in
       gesetzt. Veränderungen sind in einem ersten durch Buchstaben gekennzeichneten Apparat
       dokumentiert. Vernachlässigt wurden Unterstreichungen im <ref corresp="B">Mskr.</ref> Die zwischen mitgerührten
-      Seitenzahlen sind die des Erstdrucks.</p></note></head>
-          <dateline>Predigt, gehalten in <placeName ref="kbga-places-54">Safenwil</placeName> am <date when="1915-02-14">14. Februar 1915</date></dateline>
+      Seitenzahlen sind die des Erstdrucks.</p>
+                        </note>
+                    </head>
+          <dateline>Predigt, gehalten in <placeName ref="kbga-places-54">Safenwil</placeName> am <date when="1915-02-14">14. Februar 1915</date>
+                    </dateline>
           <epigraph>
-            <cit><ref type="can" subtype="bible" target="Lk.12.32">Lukas 12, 32</ref>
-          <quote>Fürchte dich nicht, du kleine Herde! Denn es ist eures Vaters Wohlgefallen, euch das Reich zu geben.</quote></cit>
+            <cit>
+                            <ref type="can" subtype="bible" target="Lk.12.32">Lukas 12, 32</ref>
+          <quote>Fürchte dich nicht, du kleine Herde! Denn es ist eures Vaters Wohlgefallen, euch das Reich zu geben.</quote>
+                        </cit>
           </epigraph>
           <salute>Liebe Freunde!</salute>
         </div>
         <div type="main">
         <p>In den großen Frühlingszeiten des Reiches Gottes sammelt und bildet sich die «kleine Herde».
-     Das sind die Menschen, bei denen es dann auch Gottesfrühling wird mitten im Weltwinter<note place="footnote" n="a" type="textcritical" xml:id="na"><ref corresp="B">Mskr.</ref>: «… auch Frühling wird mitten im Winter, der scheinbar die Welt
-       beherrscht.»</note>. Die bereit sind und den erlösenden Ruf Gottes hören und aufstehen.<note place="footnote" n="b" type="textcritical" xml:id="nb"><ref corresp="B">Mskr.</ref>: «Die bereit waren und aufstanden, als der erlösende Ruf Gottes
-         kam.»</note> In denen etwas ist, das sich jubelnd dem kommenden Neuen entgegenstreckt.<note place="footnote" n="c" type="textcritical" xml:id="nc"><ref corresp="B">Mskr.</ref>: «In denen etwas jubelnd dem kommenden Neuen sich entgegenstreckt.»</note>
+     Das sind die Menschen, bei denen es dann auch Gottesfrühling wird mitten im Weltwinter<note place="footnote" n="a" type="textcritical" xml:id="na">
+                            <ref corresp="B">Mskr.</ref>: «… auch Frühling wird mitten im Winter, der scheinbar die Welt
+       beherrscht.»</note>. Die bereit sind und den erlösenden Ruf Gottes hören und aufstehen.<note place="footnote" n="b" type="textcritical" xml:id="nb">
+                            <ref corresp="B">Mskr.</ref>: «Die bereit waren und aufstanden, als der erlösende Ruf Gottes
+         kam.»</note> In denen etwas ist, das sich jubelnd dem kommenden Neuen entgegenstreckt.<note place="footnote" n="c" type="textcritical" xml:id="nc">
+                            <ref corresp="B">Mskr.</ref>: «In denen etwas jubelnd dem kommenden Neuen sich entgegenstreckt.»</note>
                <pb xml:id="p053" ed="pga"/>Die sich ergreifen und verändern lassen von der Macht des guten Geistes, der sich auf einmal
      wieder fühlbar macht und die Seelen und die Menschen gewinnen möchte für sein Befreiungswerk.
      Die sich beugen unter die Gerichte des Ewigen, die in solchen Zeiten sich vollziehen unter
      Sturm und Grausen, und unter die Offenbarungen seiner Güte, die sich da auftun wie strahlender
      Sonnenaufgang. Die sich von dem Ernst und von der Seligkeit des nahen Gottesreiches so erfüllen
-     lassen, wie das überhaupt unvollkommenen, sündigen Menschenkindern geschehen kann<note place="footnote" n="d" type="textcritical" xml:id="nd"><ref corresp="B">Mskr.</ref>: «… sündigen Menschen möglich ist.»</note>. Das sind die Menschen, die dann
-          wieder als Saat dienen müssen für Gottes Zukunft. Mit ihnen arbeitet er<note place="footnote" n="e" type="textcritical" xml:id="ne"><ref corresp="B">Mskr.</ref>: «…arbeitet dann Gott…»</note> weiter, wenn die besonderen Zeiten vorüber sind. Eine
+     lassen, wie das überhaupt unvollkommenen, sündigen Menschenkindern geschehen kann<note place="footnote" n="d" type="textcritical" xml:id="nd">
+                            <ref corresp="B">Mskr.</ref>: «… sündigen Menschen möglich ist.»</note>. Das sind die Menschen, die dann
+          wieder als Saat dienen müssen für Gottes Zukunft. Mit ihnen arbeitet er<note place="footnote" n="e" type="textcritical" xml:id="ne">
+                            <ref corresp="B">Mskr.</ref>: «…arbeitet dann Gott…»</note> weiter, wenn die besonderen Zeiten vorüber sind. Eine
      «kleine Herde», die den Ruf vernommen hat, ein paar Tausend Menschen hier und dort, die die
-     Quellen des Lebens entdeckt und daraus getrunken haben<note place="footnote" n="f" type="textcritical" xml:id="nf"><ref corresp="B">Mskr.</ref>: «die zu den
+     Quellen des Lebens entdeckt und daraus getrunken haben<note place="footnote" n="f" type="textcritical" xml:id="nf">
+                            <ref corresp="B">Mskr.</ref>: «die zu den
       Quellen des Lebens gekommen sind, die ihre Grundmauern tiefer und fester gelegt haben».</note>
      — sie sind der Ertrag Gottes von solchen Gerichts- und Offenbarungszeiten; den wirft er dann
-     wieder hinein in den Strom der Geschichte<note place="footnote" n="g" type="textcritical" xml:id="ng"><ref corresp="B">Mskr.</ref>: «… der Geschichte, der
-       weiterrauscht,».</note> und gibt ihm damit neue Richtung und neue Kraft<note place="footnote" n="h" type="textcritical" xml:id="nh"><ref corresp="B">Mskr.</ref>: «Gewalt».</note>. Sie werden die verborgenen Ecksteine, mit denen Gott weiterbaut. Sie
+     wieder hinein in den Strom der Geschichte<note place="footnote" n="g" type="textcritical" xml:id="ng">
+                            <ref corresp="B">Mskr.</ref>: «… der Geschichte, der
+       weiterrauscht,».</note> und gibt ihm damit neue Richtung und neue Kraft<note place="footnote" n="h" type="textcritical" xml:id="nh">
+                            <ref corresp="B">Mskr.</ref>: «Gewalt».</note>. Sie werden die verborgenen Ecksteine, mit denen Gott weiterbaut. Sie
      sind die auserlesene Vorhut Gottes, die stürmend voraneilen muß, um noch größeren Siegen
-     vorzuarbeiten<note place="footnote" n="i" type="textcritical" xml:id="ni"><ref corresp="B">Mskr.</ref>: «… den Weg zu bereiten».</note>.</p>
-          <p>Eine kleine Herde!<note place="footnote" n="j" type="textcritical" xml:id="nj"><ref corresp="B">Mskr.</ref>: «… Herde, eine geringe Anzahl!»</note> Wie
-            wunderbar ist ⌜doch⌝ Gott, daß er es immer wieder gerade so und nicht anders machen will.<note place="footnote" n="k" type="textcritical" xml:id="nk"><ref corresp="B">Mskr.</ref>: «macht!»</note> Wir denken es uns so<note place="footnote" n="l" type="textcritical" xml:id="nl"><ref corresp="B">Mskr.</ref>: «Das
+     vorzuarbeiten<note place="footnote" n="i" type="textcritical" xml:id="ni">
+                            <ref corresp="B">Mskr.</ref>: «… den Weg zu bereiten».</note>.</p>
+          <p>Eine kleine Herde!<note place="footnote" n="j" type="textcritical" xml:id="nj">
+                            <ref corresp="B">Mskr.</ref>: «… Herde, eine geringe Anzahl!»</note> Wie
+            wunderbar ist ⌜doch⌝ Gott, daß er es immer wieder gerade so und nicht anders machen will.<note place="footnote" n="k" type="textcritical" xml:id="nk">
+                            <ref corresp="B">Mskr.</ref>: «macht!»</note> Wir denken es uns so<note place="footnote" n="l" type="textcritical" xml:id="nl">
+                            <ref corresp="B">Mskr.</ref>: «Das
             Menschenherz denkt es sich …»</note> ganz anders aus. Wir meinen: ein großes allgemeines <pb ed="A" n="90"/>Verstehen und Ergreifen des Ewigen und Göttlichen sollte die Folge solcher Gottesreichszeiten
      sein. Wie ein Regen sollte sich die Güte Gottes ergießen über alles Land. Wie ein Feuer sollte
      seine Herrlichkeit Alles erfassen und verzehren. Die Menschenseelen weit und breit müßten in
      Dankbarkeit und Empfänglichkeit sich ihm zuneigen, willig werden, sich ihm zu öffnen und in
-     seinen Dienst zu treten. Jauchzet dem Herrn, alle Welt! [<ref type="can" subtype="bible" target="Ps.98.4">Ps. 98, 4</ref>; <ref type="can" subtype="bible" target="Ps.100.1">100,
-       1</ref>]. Ja, haben wir denn nicht recht, wenn wir das er<pb xml:id="p054" ed="pga" break="no"/>warten?<note place="footnote" n="m" type="textcritical" xml:id="nm"><ref corresp="B">Mskr.</ref>: «O, was wir da erwarten und hoffen, ist wohl wahr.»</note> O
-            ja: dieses Sich-sammeln<note place="footnote" n="n" type="textcritical" xml:id="nn"><ref corresp="B">Mskr.</ref>: «Dieses Sammeln …»</note> und
+     seinen Dienst zu treten. Jauchzet dem Herrn, alle Welt! [<ref type="can" subtype="bible" target="Ps.98.4">Ps. 98,4</ref>; <ref type="can" subtype="bible" target="Ps.100.1">100,
+       1</ref>]. Ja, haben wir denn nicht recht, wenn wir das er<pb xml:id="p054" ed="pga" break="no"/>warten?<note place="footnote" n="m" type="textcritical" xml:id="nm">
+                            <ref corresp="B">Mskr.</ref>: «O, was wir da erwarten und hoffen, ist wohl wahr.»</note> O
+            ja: dieses Sich-sammeln<note place="footnote" n="n" type="textcritical" xml:id="nn">
+                            <ref corresp="B">Mskr.</ref>: «Dieses Sammeln …»</note> und
      Sich-wieder-finden aller Menschenseelen, dieses Zurückströmen alles Lebens zu seinem Urquell,
-     dieses allgewaltige Durchdringen der Gottesgnade<note place="footnote" n="o" type="textcritical" xml:id="no"><ref corresp="B">Mskr.</ref>: «der ewigen
+     dieses allgewaltige Durchdringen der Gottesgnade<note place="footnote" n="o" type="textcritical" xml:id="no">
+                            <ref corresp="B">Mskr.</ref>: «der ewigen
       Gottesgnade».</note> bis in die hoffnungslosesten, bösesten Winkel und Ecken, bis in die
      tiefsten Abgründe der Welt, dieses Jubeln und Jauchzen aller Kreatur vor dem Vater des Lichts
-     [vgl. <ref type="can" subtype="bible" target="Jak.1.17">Jak. 1, 17</ref>] — das ist das
+     [vgl. <ref type="can" subtype="bible" target="Jak.1.17">Jak. 1,17</ref>] — das ist das
           geheimnisvolle Ende der Wege Gottes<note xml:id="n02">Anspielung auf das bekannte Wort von <persName ref="kbga-actors-306">Fr.
       Chr. Oetinger</persName>: «Leiblichkeit ist das Ende des Werkes GOttes, wie aus der Stadt GOttes klar
-            erhellet Offenb. 20» (<bibl corresp="kbga-bibls-2009"><hi rend="i">Biblisches und Emblematisches
+            erhellet Offenb. 20» (<bibl corresp="kbga-bibls-2009">
+                                <hi rend="i">Biblisches und Emblematisches
          Wörterbuch, dem Tellerischen Wörterbuch und Anderer falschen Schrifterklärungen entgegen
          gesezt</hi>, o. O. 1776, S. 407</bibl>). Barth gebraucht dieses Zitat — mit der
       Abweichung: «Wege» statt «Werke» — häufig.</note>. Aber der Weg dahin ist anders, als wir es
      uns ausmalen möchten. Da klopft Gott an bei den Menschen einer Zeit mit einer seiner großen,
-     freundlichen Taten<note place="footnote" n="p" type="textcritical" xml:id="np"><ref corresp="B">Mskr.</ref>: «mit irgend einer seiner Taten der Größe und
-       Freundlichkeit».</note>, und wir meinen, er tue es so deutlich<note place="footnote" n="q" type="textcritical" xml:id="nq"><ref corresp="B">Mskr.</ref>: «so
-         lebendig und deutlich».</note>, daß die Völkerwelt<note place="footnote" n="r" type="textcritical" xml:id="nr"><ref corresp="B">Mskr.</ref>: «daß die
+     freundlichen Taten<note place="footnote" n="p" type="textcritical" xml:id="np">
+                            <ref corresp="B">Mskr.</ref>: «mit irgend einer seiner Taten der Größe und
+       Freundlichkeit».</note>, und wir meinen, er tue es so deutlich<note place="footnote" n="q" type="textcritical" xml:id="nq">
+                            <ref corresp="B">Mskr.</ref>: «so
+         lebendig und deutlich».</note>, daß die Völkerwelt<note place="footnote" n="r" type="textcritical" xml:id="nr">
+                            <ref corresp="B">Mskr.</ref>: «daß die
       Millionen, daß die Völker».</note>, daß das ganze Dorf es merken müßte. Aber gerade das
-            geschieht nicht; sondern nun ist’s<note place="footnote" n="s" type="textcritical" xml:id="ns"><ref corresp="B">Mskr.</ref>: «sondern es ist».</note>,
-            wie wenn eine merkwürdige Art von Auslese stattfinden würde, die von den Vielen<note place="footnote" n="t" type="textcritical" xml:id="nt"><ref corresp="B">Mskr.</ref>: «von den Vielen, Vielen».</note> nur Wenige trifft. Sie richtet sich nicht
+            geschieht nicht; sondern nun ist’s<note place="footnote" n="s" type="textcritical" xml:id="ns">
+                            <ref corresp="B">Mskr.</ref>: «sondern es ist».</note>,
+            wie wenn eine merkwürdige Art von Auslese stattfinden würde, die von den Vielen<note place="footnote" n="t" type="textcritical" xml:id="nt">
+                            <ref corresp="B">Mskr.</ref>: «von den Vielen, Vielen».</note> nur Wenige trifft. Sie richtet sich nicht
      nach der Bildung der Menschen, — denn auch unter den sogenannten Gebildeten sind ganz Wenige,
-     die merken und verstehen und aufstehen<note place="footnote" n="u" type="textcritical" xml:id="nu"><ref corresp="B">Mskr.</ref>: «aufwachen».</note>. Sie
-            richtet sich noch weniger nach Stand und Vermögen<note place="footnote" n="v" type="textcritical" xml:id="nv"><ref corresp="B">Mskr.</ref>: «Reichtum».</note>,
-            — denn immer bleibt’s wahr, daß<note place="footnote" n="w" type="textcritical" xml:id="nw"><ref corresp="B">Mskr.</ref>: «wahr, was Jesus schon vor
+     die merken und verstehen und aufstehen<note place="footnote" n="u" type="textcritical" xml:id="nu">
+                            <ref corresp="B">Mskr.</ref>: «aufwachen».</note>. Sie
+            richtet sich noch weniger nach Stand und Vermögen<note place="footnote" n="v" type="textcritical" xml:id="nv">
+                            <ref corresp="B">Mskr.</ref>: «Reichtum».</note>,
+            — denn immer bleibt’s wahr, daß<note place="footnote" n="w" type="textcritical" xml:id="nw">
+                            <ref corresp="B">Mskr.</ref>: «wahr, was Jesus schon vor
       2000 Jahren gesagt hat, daß …»</note> die Reichen es ungeheuer schwer haben, ins Reich Gottes
-     einzugehen, zu groß sind für sie die Hindernisse [vgl. <ref type="can" subtype="bible" target="Mk.10.24">Mk. 10, 24f.</ref> par.]. Und auch nach der Frömmigkeit und Gerechtigkeit
+     einzugehen, zu groß sind für sie die Hindernisse [vgl. <ref type="can" subtype="bible" target="Mk.10.24">Mk. 10,24f.</ref> par.]. Und auch nach der Frömmigkeit und Gerechtigkeit
      der Leute richtet sich diese Auswahl nicht, danach am allerwenigsten. Kaum kann uns etwas
-     gefährlicher sein in den großen Gotteszeiten, als wenn wir bereits bekehrt und brav sind<note place="footnote" n="x" type="textcritical" xml:id="nx"><ref corresp="B">Mskr.</ref>: «als wenn wir zu den Frommen und Braven gehören».</note>. Die Auswahl
-            <pb xml:id="p055" ed="pga"/>der «kleinen Herde» richtet sich nicht nach menschlichen Merkmalen<note place="footnote" n="y" type="textcritical" xml:id="ny"><ref corresp="B">Mskr.</ref>:
+     gefährlicher sein in den großen Gotteszeiten, als wenn wir bereits bekehrt und brav sind<note place="footnote" n="x" type="textcritical" xml:id="nx">
+                            <ref corresp="B">Mskr.</ref>: «als wenn wir zu den Frommen und Braven gehören».</note>. Die Auswahl
+            <pb xml:id="p055" ed="pga"/>der «kleinen Herde» richtet sich nicht nach menschlichen Merkmalen<note place="footnote" n="y" type="textcritical" xml:id="ny">
+                            <ref corresp="B">Mskr.</ref>:
       «Klassen».</note> und Unterschieden. Wer da meint: ich bin sowieso dabei kraft meiner
      Herkunft, meiner Vergangenheit, meines Charakters, meiner Leistungen, der ist sicher nicht
-     dabei<note place="footnote" n="z" type="textcritical" xml:id="nz"><ref corresp="B">Mskr.</ref>: «der gehört sicher nicht dazu».</note>. Da gilt nur eins: Eine
-            große innere Bedürftigkeit, eine große Freiheit<note place="footnote" n="aa" type="textcritical" xml:id="naa"><ref corresp="B">Mskr.</ref>: «Da gilt nur eins: die
+     dabei<note place="footnote" n="z" type="textcritical" xml:id="nz">
+                            <ref corresp="B">Mskr.</ref>: «der gehört sicher nicht dazu».</note>. Da gilt nur eins: Eine
+            große innere Bedürftigkeit, eine große Freiheit<note place="footnote" n="aa" type="textcritical" xml:id="naa">
+                            <ref corresp="B">Mskr.</ref>: «Da gilt nur eins: die
       innere Bereitschaft zur Demut und zum Lernen, die Freiheit…»</note> von allen politischen,
-            gesellschaftlichen, religiösen<note place="footnote" n="ab" type="textcritical" xml:id="nab"><ref corresp="B">Mskr.</ref>: «kirchlichen».</note> und persönlichen
-            Schachteln, Schubladen und Schablonen, ein großer Wille<note place="footnote" n="ac" type="textcritical" xml:id="nac"><ref corresp="B">Mskr.</ref>: «der
+            gesellschaftlichen, religiösen<note place="footnote" n="ab" type="textcritical" xml:id="nab">
+                            <ref corresp="B">Mskr.</ref>: «kirchlichen».</note> und persönlichen
+            Schachteln, Schubladen und Schablonen, ein großer Wille<note place="footnote" n="ac" type="textcritical" xml:id="nac">
+                            <ref corresp="B">Mskr.</ref>: «der
       Wille».</note>, freudig von vorn anzufangen (und wenn du vielleicht schon lange auf stolzer
-            Höhe gestanden wärest!), eine<note place="footnote" n="ad" type="textcritical" xml:id="nad"><ref corresp="B">Mskr.</ref>: «die».</note> große ernsthafte Absicht,
-            dem Ruf Gottes wirklich Gehör zu geben<note place="footnote" n="ae" type="textcritical" xml:id="nae"><ref corresp="B">Mskr.</ref>: «wirklich nachzugehen».</note>,
+            Höhe gestanden wärest!), eine<note place="footnote" n="ad" type="textcritical" xml:id="nad">
+                            <ref corresp="B">Mskr.</ref>: «die».</note> große ernsthafte Absicht,
+            dem Ruf Gottes wirklich Gehör zu geben<note place="footnote" n="ae" type="textcritical" xml:id="nae">
+                            <ref corresp="B">Mskr.</ref>: «wirklich nachzugehen».</note>,
      ihm nicht gleich wieder durch eigenes Bedenken, Besserwissen und Schwatzen dreinzureden und die
      Arbeit zu verderben. Solche Menschen werden zur «Kleinen Herde» gesammelt in den Zeiten des
      Gottesreiches. Hier Einer und don Einer. Hier ein Einsamer, der wohl gar meint, er sei ganz
@@ -229,53 +231,70 @@
      geheimnisvolle Segenszeit schon vorbei ⌜ist⌝, daß auf den Frühling der Sommer gefolgt ist. Diese
      Dinge müssen ja auch sein, aber was sich da sammelt, das ist ⌜dann⌝ gewöhnlich schon nicht mehr
      die ⌜einfältige⌝, kraftvolle, selige kleine Schar der wirklich Erwachten und Lebendigen. Nichts
-     Äußerliches zeichnet die<note place="footnote" n="af" type="textcritical" xml:id="naf"><ref corresp="B">Mskr.</ref>: «diese kleine Schar».</note> aus. Kaum daß
-            man ihnen<note place="footnote" n="ag" type="textcritical" xml:id="nag"><ref corresp="B">Mskr.</ref>: «ihr».</note> vielleicht eine gewisse gleichmäßige Ruhe,
+     Äußerliches zeichnet die<note place="footnote" n="af" type="textcritical" xml:id="naf">
+                            <ref corresp="B">Mskr.</ref>: «diese kleine Schar».</note> aus. Kaum daß
+            man ihnen<note place="footnote" n="ag" type="textcritical" xml:id="nag">
+                            <ref corresp="B">Mskr.</ref>: «ihr».</note> vielleicht eine gewisse gleichmäßige Ruhe,
      eine
-            <pb xml:id="p056" ed="pga"/>gewisse<note place="footnote" n="ah" type="textcritical" xml:id="nah"><ref corresp="B">Mskr.</ref>: «gewisse stille, …»</note> durch nichts zu unterdrückende
-            innere Heiterkeit anspürt, eine etwas geschlossenere<note place="footnote" n="ai" type="textcritical" xml:id="nai"><ref corresp="B">Mskr.</ref>: «eine gewisse
-              geschlossene».</note> Energie ihres Denkens, einen etwas größeren Zug<note place="footnote" n="aj" type="textcritical" xml:id="naj"><ref corresp="B">Mskr.</ref>:
+            <pb xml:id="p056" ed="pga"/>gewisse<note place="footnote" n="ah" type="textcritical" xml:id="nah">
+                            <ref corresp="B">Mskr.</ref>: «gewisse stille, …»</note> durch nichts zu unterdrückende
+            innere Heiterkeit anspürt, eine etwas geschlossenere<note place="footnote" n="ai" type="textcritical" xml:id="nai">
+                            <ref corresp="B">Mskr.</ref>: «eine gewisse
+              geschlossene».</note> Energie ihres Denkens, einen etwas größeren Zug<note place="footnote" n="aj" type="textcritical" xml:id="naj">
+                            <ref corresp="B">Mskr.</ref>:
       «einen gewissen großen Zug»; Druck: «ein etwas größerer Zug», Korrektur vom Hrsg.</note> in
      der Auffassung des Lebens und seiner Fragen. Aber die meisten um sie herum merken ihnen
      überhaupt nichts besonderes an. Sie halten ihnen mit Genugtuung und Wonne vor, daß sie denn
      doch auch ihre persönlichen Fehler hätten. Sie stellen mit weisem Gesicht ihre Wunderlichkeit
      und Überspanntheit fest. Sie schütteln freundlich oder unfreundlich den Kopf über sie. ⌜Sie
-     haben das dringende Bedürfnis, sie immer wieder zu widerlegen⌝. Gerade<note place="footnote" n="ak" type="textcritical" xml:id="nak"><ref corresp="B">Mskr.</ref>:
+     haben das dringende Bedürfnis, sie immer wieder zu widerlegen⌝. Gerade<note place="footnote" n="ak" type="textcritical" xml:id="nak">
+                            <ref corresp="B">Mskr.</ref>:
       «… merken ihnen überhaupt nichts Besonderes an, außer daß sie sie vielleicht für ein wenig
       wunderlich und überspannt halten und zeitweilig freundlich über sie den Kopf schütteln —
       gerade …»</note> wie die meisten eben überhaupt nichts merken von der Besonderheit der Zeiten,
-            in denen jene Wenigen<note place="footnote" n="al" type="textcritical" xml:id="nal"><ref corresp="B">Mskr.</ref>: «Einzelnen».</note> zu solch besonderen Menschen
+            in denen jene Wenigen<note place="footnote" n="al" type="textcritical" xml:id="nal">
+                            <ref corresp="B">Mskr.</ref>: «Einzelnen».</note> zu solch besonderen Menschen
           werden. Sie leben und denken weiter wie gewohnt⌜, trösten sich mit den alten Tröstern⌝ und sind
-          ganz erstaunt über den Gedanken<note place="footnote" n="am" type="textcritical" xml:id="nam"><ref corresp="B">Mskr.</ref>: «darüber».</note>, daß es anders sein
+          ganz erstaunt über den Gedanken<note place="footnote" n="am" type="textcritical" xml:id="nam">
+                            <ref corresp="B">Mskr.</ref>: «darüber».</note>, daß es anders sein
      könnte.</p>
         <p>Die Meisten! Ja, was ist denn mit den Meisten? Das ist doch ganz sicher, daß sie auch Gottes
      Kinder sind und daß sie der Vater um kein Stäublein weniger lieb hat als jene, die er sich zur
      kleinen Herde sammelt. Das ist sicher, daß auch sie der Ehre und Herrlichkeit Gottes dienen
-     müssen, daß auch sie auf ihre Weise ihm unverloren sind<note place="footnote" n="an" type="textcritical" xml:id="nan"><ref corresp="B">Mskr.</ref>: «daß er auch
+     müssen, daß auch sie auf ihre Weise ihm unverloren sind<note place="footnote" n="an" type="textcritical" xml:id="nan">
+                            <ref corresp="B">Mskr.</ref>: «daß er auch
       sie irgendwie findet auf ihre Weise».</note>. Vielleicht, daß sie an Rechtschaffenheit,
-          Tüchtigkeit<note place="footnote" n="ao" type="textcritical" xml:id="nao"><ref corresp="B">Mskr.</ref>: «an Tüchtigkeit und Rechtschaffenheit».</note> ⌜und
+          Tüchtigkeit<note place="footnote" n="ao" type="textcritical" xml:id="nao">
+                            <ref corresp="B">Mskr.</ref>: «an Tüchtigkeit und Rechtschaffenheit».</note> ⌜und
           Gescheitheit⌝ und anderen guten Eigenschaften jenen Wenigen weit überlegen sind: nun, alles
      wirklich Gute ist in seinem Ursprung von Gott und kann darum auch in seinem Ziel schließlich
-     nur für Gott sein.<note place="footnote" n="ap" type="textcritical" xml:id="nap"><ref corresp="B">Mskr.</ref>: «und alles Gute ist von Gott und kann darum für
+     nur für Gott sein.<note place="footnote" n="ap" type="textcritical" xml:id="nap">
+                            <ref corresp="B">Mskr.</ref>: «und alles Gute ist von Gott und kann darum für
        Gott nicht verloren sein.»</note> Vielleicht, daß sie ⌜gerade⌝ durch ihre Trägheit und ihren
      Widerstand helfen müssen, die Kräfte Gottes zu vermehren: Gott braucht ja in seinem großen
-     Haushalt auch die <orgName ref="kbga-actors-8805">Pharisäer</orgName> und <orgName ref="kbga-actors-8961">Sadduzäer</orgName> und Römer, auch den Professor, der sich selber
+     Haushalt auch die <term ref="kbga-terms-808">Pharisäer</term> und Sadduzäer und Römer, auch den Professor, der sich selber
      verurteilt hat, immer nur an den Schalen zu
-          <pb xml:id="p057" ed="pga"/>nagen<note place="footnote" n="aq" type="textcritical" xml:id="naq"><ref corresp="B">Mskr.</ref>: «auch die nörgelnden Professoren hinter ihren Büchern in
+          <pb xml:id="p057" ed="pga"/>nagen<note place="footnote" n="aq" type="textcritical" xml:id="naq">
+                            <ref corresp="B">Mskr.</ref>: «auch die nörgelnden Professoren hinter ihren Büchern in
       Basel».</note>, und den sicheren Mann in seiner Villa<note xml:id="n03">Am
         21.5.1915 unterschrieb der Zürcher Eisenhändler <persName ref="kbga-actors-640">Richard Kisling</persName> einen
         freundlichen Brief an seinen Schwager Barth, diesen Ausdruck aufgreifend: «der sichere Mann in
-      seiner Villa».</note> und den gedankenlosen Haufen, der nur «Kreuzige ihn» rufen kann [<ref type="can" subtype="bible" target="Mk.15.13">Mk. 15, 13f.</ref> par.]. Für Gott ist auch alles
-          Bremsen und Widerreden und absichtliche Mißverstehen nicht verloren.<note place="footnote" n="ar" type="textcritical" xml:id="nar"><ref corresp="B">Mskr.</ref>:
+      seiner Villa».</note> und den gedankenlosen Haufen, der nur «Kreuzige ihn» rufen kann [<ref type="can" subtype="bible" target="Mk.15.13">Mk. 15,13f.</ref> par.]. Für Gott ist auch alles
+          Bremsen und Widerreden und absichtliche Mißverstehen nicht verloren.<note place="footnote" n="ar" type="textcritical" xml:id="nar">
+                            <ref corresp="B">Mskr.</ref>:
       «Für Gott ist nichts verloren.»</note> Vielleicht, daß sie ihre Seligkeit bereits genossen,
      ihren Dienst bereits getan haben: sie waren lebendige, wache Menschen, fruchtbarer Gottessame
-     in einer früheren Zeit des Himmelreichs<note place="footnote" n="as" type="textcritical" xml:id="nas"><ref corresp="B">Mskr.</ref>: «Gottesreichs».</note>, und
+     in einer früheren Zeit des Himmelreichs<note place="footnote" n="as" type="textcritical" xml:id="nas">
+                            <ref corresp="B">Mskr.</ref>: «Gottesreichs».</note>, und
      nun können sie sich in die neue Zeit nicht mehr finden, können es nicht glauben, daß Gott auch
      noch andere Worte habe als die, die sie einst gehört haben. Schade, wenn es so ist, aber für
-     Gott⌜, der der Anfang und das Ende ist [vgl. <ref type="can" subtype="bible" target="Apk.1.8">Apk. 1, 8</ref>]⌝, können sie darum nicht verloren sein<note place="footnote" n="at" type="textcritical" xml:id="nat"><ref corresp="B">Mskr.</ref>: «für Gott
-       verloren können sie darum nicht sein».</note>. Vielleicht, daß der Augenblick<note place="footnote" n="au" type="textcritical" xml:id="nau"><ref corresp="B">Mskr.</ref>: «Moment».</note> des Erwachens und Aufstehens <pb ed="A" n="92"/>ihrer erst wartet, daß
+     Gott⌜, der der Anfang und das Ende ist [vgl. <ref type="can" subtype="bible" target="Apk.1.8">Apk. 1,8</ref>]⌝, können sie darum nicht verloren sein<note place="footnote" n="at" type="textcritical" xml:id="nat">
+                            <ref corresp="B">Mskr.</ref>: «für Gott
+       verloren können sie darum nicht sein».</note>. Vielleicht, daß der Augenblick<note place="footnote" n="au" type="textcritical" xml:id="nau">
+                            <ref corresp="B">Mskr.</ref>: «Moment».</note> des Erwachens und Aufstehens <pb ed="A" n="92"/>ihrer erst wartet, daß
      diese Zeit eben noch nicht ihre Zeit ist, daß ihre Zeit aber auch kommt, größer und klarer
-     sogar, als was jetzt ist<note place="footnote" n="av" type="textcritical" xml:id="nav"><ref corresp="B">Mskr.</ref>: «daß aber einmal eine Gotteszeit auch für sie
+     sogar, als was jetzt ist<note place="footnote" n="av" type="textcritical" xml:id="nav">
+                            <ref corresp="B">Mskr.</ref>: «daß aber einmal eine Gotteszeit auch für sie
       kommen wird, größer vielleicht und reicher als das, was wir jetzt zu sehen und zu erleben
       vermögen».</note>. Es ist ein unangenehmer Gedanke, aber wir müssen ihm ehrlich in die Augen
      sehen: die «kleine Herde» von heute kann zur großen Masse von morgen gehören, die nichts
@@ -284,25 +303,30 @@
       zu den wenigen Erwählten gehören, einmal vor ihnen stehen werden als solche, die zu den
       ‹Meisten› gehören und nicht verstehen können.»</note> Doch was wollen wir lange raten und
       studieren<note xml:id="n04">= grübeln.</note> darüber! Wie unnütz ist das, wenn wir daran
-          denken, wie mannigfaltig die Wege Gottes zu uns Menschen sind<note place="footnote" n="ax" type="textcritical" xml:id="nax"><ref corresp="B">Mskr.</ref>: «… die
+          denken, wie mannigfaltig die Wege Gottes zu uns Menschen sind<note place="footnote" n="ax" type="textcritical" xml:id="nax">
+                            <ref corresp="B">Mskr.</ref>: «… die
       Wege Gottes zu den Menschen sind und wie groß seine Güte gegen uns».</note>. Wir brauchen uns
      um «die Meisten», die jetzt schlafen und schlafen wollen, wahrhaftig nicht den Kopf zu
      zerbrechen. Gott ist hinter
      <pb xml:id="p058" ed="pga"/>ihnen und über ihnen und vor ihnen und weiß schon, was er mit ihnen im Sinne hat, und es wird
-          sicher etwas Göttliches<note place="footnote" n="ay" type="textcritical" xml:id="nay"><ref corresp="B">Mskr.</ref>: «etwas Gutes, Göttliches».</note> sein. Er hat
-          sie und sie haben ihn auf ihre Art.<note place="footnote" n="az" type="textcritical" xml:id="naz"><ref corresp="B">Mskr.</ref>: «Gott hat sie, und sie haben Gott
+          sicher etwas Göttliches<note place="footnote" n="ay" type="textcritical" xml:id="nay">
+                            <ref corresp="B">Mskr.</ref>: «etwas Gutes, Göttliches».</note> sein. Er hat
+          sie und sie haben ihn auf ihre Art.<note place="footnote" n="az" type="textcritical" xml:id="naz">
+                            <ref corresp="B">Mskr.</ref>: «Gott hat sie, und sie haben Gott
       auf ihre Weise.»</note> Nur eins haben sie nicht: sie sind jetzt, in der Zeit des nahen
      Gottesreiches, keine Samenkörner für Gottes Zukunft, keine Ecksteine, auf denen Gott nun
      weiterbauen könnte, keine Vorhutsoldaten, die er nun weit voran ins Feindesland treiben könnte
      in seinem heiligen Krieg. Das scheint nun einmal Gottes wunderbare Ordnung und unbegreifliche
      Absicht so zu sein, daß er dazu immer nur Einige aufruft, Andere, Viele, die Meisten aber
      nicht.</p>
-          <p>Einst<note place="footnote" n="ba" type="textcritical" xml:id="nba"><ref corresp="B">Mskr.</ref>: «Zur Zeit Jesu».</note> waren diese Einigen die paar Jünger
+          <p>Einst<note place="footnote" n="ba" type="textcritical" xml:id="nba">
+                            <ref corresp="B">Mskr.</ref>: «Zur Zeit Jesu».</note> waren diese Einigen die paar Jünger
           Jesu ⌜und ihre Nachfolger⌝. Aus der ganzen wimmelnden Masse von Fischern und Zöllnern und
      Soldaten, Bürgern und Bauern in <placeName ref="kbga-places-780">Galiläa</placeName> und <placeName ref="kbga-places-37">Jerusalem</placeName> nur die paar, <persName ref="kbga-actors-1814">Petrus</persName>, <persName ref="kbga-actors-1073">Johannes</persName>, <persName ref="kbga-actors-2294">Jakobus</persName>
           und wie sie alle hießen, und mit der Zeit noch Einige dazu. Und ⌜dann⌝ aus alle den
           Hunderttausenden der großen syrischen, griechischen, römischen Städte ein paar Hundert, ⌜ein
-          paar Tausend,⌝ die sich zu den ersten Gemeinden<note place="footnote" n="bb" type="textcritical" xml:id="nbb"><ref corresp="B">Mskr.</ref>: «zu den kleinen
+          paar Tausend,⌝ die sich zu den ersten Gemeinden<note place="footnote" n="bb" type="textcritical" xml:id="nbb">
+                            <ref corresp="B">Mskr.</ref>: «zu den kleinen
             Gemeindlein».</note> der Christen zusammenfanden.<note place="footnote" n="bc" type="textcritical" xml:id="nbc">Im <ref corresp="B">Mskr.</ref> steht der Passus
       «Aus der ganzen wimmelnden Masse…» hinter dem jetzt folgenden Pauluszitat.</note> «Sehet an
             eure Berufung, liebe Brüder,<note place="footnote" n="bd" type="textcritical" xml:id="nbd">Im <ref corresp="B">Mskr.</ref> steht hier noch: «…, konnte noch der
@@ -310,54 +334,75 @@
      Fleisch, nicht viel Gewaltige, nicht viel Edle sind berufen, sondern was töricht und was
      schwach ist vor der Welt, und das Unedle und Verachtete vor der Welt, das hat Gott erwählt!»
      [vgl. <ref type="can" subtype="bible" target="1.Kor.1.26 1.Kor.1.28">1. Kor. 1,
-       26-28</ref>]. Was für eine unscheinbare Sache nach Zahl und Art.<note place="footnote" n="be" type="textcritical" xml:id="nbe"><ref corresp="B">Mskr.</ref>: «Was
+       26-28</ref>]. Was für eine unscheinbare Sache nach Zahl und Art.<note place="footnote" n="be" type="textcritical" xml:id="nbe">
+                            <ref corresp="B">Mskr.</ref>: «Was
        für eine durch und durch unscheinbare Sache, von außen betrachtet!»</note> ⌜Aber von diesen
           Leuten hat ein alter Dichter, der sie gut verstand, geschrieben:⌝ 
-          <q rend="poem"><lg>
+          <q rend="poem">
+                            <lg>
             <l>Doch innerlich sind sie aus göttlichem Stamme,</l>
             <l>Die Gott durch sein mächtig Wort selber gezeugt,</l>
             <l>Ein Funke und Flämmlein aus göttlicher Flamme,</l>
-            <l>Die oben Jerusalem freundlich gesäugt.<note xml:id="n05">Aus der <bibl corresp="kbga-songs-69" type="song">4. Strophe des Liedes «Es glänzet der Christen inwendiges Leben» von <author ref="kbga-actors-2243">Chr. Fr. Richter</author>; die von Barth zitierte Originalfassung findet sich z.B. in: <hi rend="i">Gesangbuch für die evangelisch-reformierte Gemeinde zu Lübeck</hi>, Lübeck 1832, Nr. 221, 3; andere Textfassungen: GERS (1952) 307, 3 und EKG 265, 4.</bibl></note></l></lg></q>
+            <l>Die oben Jerusalem freundlich gesäugt.<note xml:id="n05">Aus der <bibl corresp="kbga-songs-69" type="song">4. Strophe des Liedes «Es glänzet der Christen inwendiges Leben» von <author ref="kbga-actors-2243">Chr. Fr. Richter</author>; die von Barth zitierte Originalfassung findet sich z.B. in: <hi rend="i">Gesangbuch für die evangelisch-reformierte Gemeinde zu Lübeck</hi>, Lübeck 1832, Nr. 221, 3; andere Textfassungen: GERS (1952) 307, 3 und EKG 265, 4.</bibl>
+                                    </note>
+                                </l>
+                            </lg>
+                        </q>
             </p>
-        <p><pb xml:id="p059" ed="pga"/> Ja, innerlich sind das schon lange nicht mehr die sonnenverbrannten<note xml:id="n06">In der
+        <p>
+                        <pb xml:id="p059" ed="pga" rend="noPipe"/> Ja, innerlich sind das schon lange nicht mehr die sonnenverbrannten<note xml:id="n06">In der
           <bibl corresp="kbga-songs-69">1. Strophe</bibl> des in <ref type="pub" target="#fn_n05">Anm. 5</ref> genannten Liedes: «… obgleich sie von außen die Sonne
       verbrannt».</note>, arbeitsmüden, sündigen, törichten Menschlein, als die sie äußerlich
      anzusehen sind, sondern sie leben ganz und gar von der Verheißung: Es ist eures Vaters Wille,
      euch das Reich zu geben! Innerlich triumphieren sie<note place="footnote" n="bf" type="textcritical" xml:id="nbf">Im <ref corresp="B">Mskr.</ref> steht hier noch:
       «bei aller Schwachheit».</note>, weil in ihnen eine neue Welt angebrochen ist, und diese neue
      Welt wollen und werden sie nun fröhlich und siegesgewiß hinaustragen in die arme alte Welt da
-     draußen. Denn ihnen geht ja einer voran als ein rechter Freudenmeister<note place="footnote" n="bg" type="textcritical" xml:id="nbg"><p><ref corresp="B">Mskr.</ref>: «als Meister, als ein Freudenmeister»<note xml:id="n07">Vgl. die letzte Strophe
+     draußen. Denn ihnen geht ja einer voran als ein rechter Freudenmeister<note place="footnote" n="bg" type="textcritical" xml:id="nbg">
+                            <p>
+                                <ref corresp="B">Mskr.</ref>: «als Meister, als ein Freudenmeister»<note xml:id="n07">Vgl. die letzte Strophe
        des Liedes <bibl corresp="kbga-songs-70" type="song">«Jesu, meine Freude» von <author ref="kbga-actors-5696">J. Franck</author> (Nr. 240; GERS [1952]
           280; EG
-          396)</bibl>.</note>.</p></note>, in dem ist ihnen <pb ed="A" n="93"/>ein anderes Leben wunderbar aufgegangen<note place="footnote" n="bh" type="textcritical" xml:id="nbh"><ref corresp="B">Mskr.</ref>:
+          396)</bibl>.</note>.</p>
+                        </note>, in dem ist ihnen <pb ed="A" n="93"/>ein anderes Leben wunderbar aufgegangen<note place="footnote" n="bh" type="textcritical" xml:id="nbh">
+                            <ref corresp="B">Mskr.</ref>:
       «in dem ihnen ein neues wunderbares Leben aufgegangen ist».</note>, der hat Liebe und Frieden
-          in ihre Seelen gesenkt<note place="footnote" n="bi" type="textcritical" xml:id="nbi"><ref corresp="B">Mskr.</ref>: «der Liebe und Frieden in ihre Herzen gesenkt
-            hat».</note> in überreicher Fülle, der steht vor ihnen<note place="footnote" n="bj" type="textcritical" xml:id="nbj"><ref corresp="B">Mskr.</ref>: «der vor ihnen
+          in ihre Seelen gesenkt<note place="footnote" n="bi" type="textcritical" xml:id="nbi">
+                            <ref corresp="B">Mskr.</ref>: «der Liebe und Frieden in ihre Herzen gesenkt
+            hat».</note> in überreicher Fülle, der steht vor ihnen<note place="footnote" n="bj" type="textcritical" xml:id="nbj">
+                            <ref corresp="B">Mskr.</ref>: «der vor ihnen
       steht».</note>, wie er sein Kreuz getragen und Gott gehorcht hat, als ein Held, der sie selber
-          zu Helden macht<note place="footnote" n="bk" type="textcritical" xml:id="nbk"><ref corresp="B">Mskr.</ref>: «gemacht».</note>. Von Haus aus sind sie es ja nicht:
+          zu Helden macht<note place="footnote" n="bk" type="textcritical" xml:id="nbk">
+                            <ref corresp="B">Mskr.</ref>: «gemacht».</note>. Von Haus aus sind sie es ja nicht:
      Es ist viel Unklarheit und Widerspruch in ihren Köpfen. Feigheit und gelegentliche arge
      Inkonsequenzen waren durchaus möglich bei ihnen. Nicht einmal einig waren sie untereinander,
      man denke! Zwischen <persName ref="kbga-actors-1814">Petrus</persName> und <persName ref="kbga-actors-313">Paulus</persName> war eine breite Kluft, und mitunter kam’s zu
-     fatalen Szenen [vgl. <ref type="can" subtype="bible" target="Gal.2.14">Gal. 2, 14</ref>]. Gut,
+     fatalen Szenen [vgl. <ref type="can" subtype="bible" target="Gal.2.14">Gal. 2,14</ref>]. Gut,
      daß wir nicht Alles wissen! Aber es war ihnen einfach eine Freude, das Werk Jesu fortzusetzen,
-     so gut sie es konnten<note place="footnote" n="bl" type="textcritical" xml:id="nbl"><ref corresp="B">Mskr.</ref>: «können».</note>. Alles verlassen sie und folgen
-          ihm nach, lassen als Kinder des Vaters Licht<note place="footnote" n="bm" type="textcritical" xml:id="nbm"><ref corresp="B">Mskr.</ref>: «als die Kinder des
-            Vaters sein Licht».</note> leuchten vor den Leuten, wie ihr Meister<note place="footnote" n="bn" type="textcritical" xml:id="nbn"><ref corresp="B">Mskr.</ref>:
+     so gut sie es konnten<note place="footnote" n="bl" type="textcritical" xml:id="nbl">
+                            <ref corresp="B">Mskr.</ref>: «können».</note>. Alles verlassen sie und folgen
+          ihm nach, lassen als Kinder des Vaters Licht<note place="footnote" n="bm" type="textcritical" xml:id="nbm">
+                            <ref corresp="B">Mskr.</ref>: «als die Kinder des
+            Vaters sein Licht».</note> leuchten vor den Leuten, wie ihr Meister<note place="footnote" n="bn" type="textcritical" xml:id="nbn">
+                            <ref corresp="B">Mskr.</ref>:
       «wie es Jesus».</note> sie geheißen [<ref type="can" subtype="bible" target="Mt.5.16">Mt. 5,
-        16</ref>], gehen hierhin und dorthin zu <term ref="kbga-terms-783">Juden</term> und <term ref="kbga-terms-109">Heiden</term><note place="footnote" n="bo" type="textcritical" xml:id="nbo"><ref corresp="B">Mskr.</ref>: «zu den
+        16</ref>], gehen hierhin und dorthin zu <term ref="kbga-terms-783">Juden</term> und <term ref="kbga-terms-109">Heiden</term><note place="footnote" n="bo" type="textcritical" xml:id="nbo">
+                            <ref corresp="B">Mskr.</ref>: «zu den
       Juden und zu den Heiden».</note>, sagen es ihnen, was sie wissen, mühen sich endlos, ihnen
      allen das Geheimnis des Lebens entdecken zu helfen, das sie
      <pb xml:id="p060" ed="pga"/>selbst entdeckt haben, werden verachtet und ausgelacht und verfolgt und nehmen das hin, als ob
-          es nicht anders sein könnte<note place="footnote" n="bp" type="textcritical" xml:id="nbp"><ref corresp="B">Mskr.</ref>: «als ob es selbstverständlich
+          es nicht anders sein könnte<note place="footnote" n="bp" type="textcritical" xml:id="nbp">
+                            <ref corresp="B">Mskr.</ref>: «als ob es selbstverständlich
        wäre».</note>, gehen fröhlich weiter als die Musikanten des lieben Gottes<note xml:id="n08">Als Musikanten des lieben Gottes = <foreign xml:lang="lat">ioculatores Domini</foreign> wollte <persName ref="kbga-actors-555">Franz von Assisi</persName> seine Brüder
-         wirken sehen. In: <bibl corresp="kbga-bibls-119"><hi rend="i">Der Römerbrief (Erste Fassung)
+         wirken sehen. In: <bibl corresp="kbga-bibls-119">
+                                <hi rend="i">Der Römerbrief (Erste Fassung)
          1919</hi>, hrsg. von H. Schmidt (Gesamtausgabe, Abt. II), S.
            569</bibl>, stellt Barth den lateinischen Ausdruck neben den deutschen und gibt
       dadurch den Ursprung zu erkennen. Dort auch der Beleg.</note>, die sich nicht wundern, wenn
      Viele kein Musikgehör haben, so leid es ihnen tut um sie. Werden schließlich fast Alle irgendwo
      totgeschlagen oder hingerichtet mit ihrer frohen Botschaft, weil man die ⌜ja natürlich⌝ nicht
      brauchen kann in der Welt. Das war die kleine Herde von damals. ⌜Sie war eben keine «Auslese der
-     Tüchtigsten und Besten»<note xml:id="n09">Anspielung auf die Lehre von <bibl corresp="kbga-bibls-2008"><author ref="kbga-actors-2013">Ch. Darwin</author> in seinem
+     Tüchtigsten und Besten»<note xml:id="n09">Anspielung auf die Lehre von <bibl corresp="kbga-bibls-2008">
+                                <author ref="kbga-actors-2013">Ch. Darwin</author> in seinem
       Buch <hi rend="i">On the Origin of Species by Means of Natural
          Selection, or The Preservation of Favoured Races in the Struggle for Life</hi>,
          London 1859 (Über die Entstehung
@@ -365,92 +410,128 @@
          vervollkommneten Rassen im Kampfe um’s Daseyn,
            Stuttgart 1863)</bibl>.</note>, sonst wäre es ihnen anders gegangen.⌝ Ist’s
           ⌜denn⌝ an ihnen wahr geworden, was ihnen verheißen war: Der Vater will euch das Reich geben!?
-          Wenn wir als trokkene, unbeteiligte Zuschauer<note place="footnote" n="bq" type="textcritical" xml:id="nbq"><ref corresp="B">Mskr.</ref>: «Zuschauer oder
-            Leser».</note> ihr Schicksal und Ende ansehen, könnten wir mit Fug und Recht<note place="footnote" n="br" type="textcritical" xml:id="nbr"><ref corresp="B">Mskr.</ref>: «vielleicht».</note> daran zweifeln. Sie selber haben freilich<note place="footnote" n="bs" type="textcritical" xml:id="nbs"><ref corresp="B">Mskr.</ref>: «sicher».</note> nicht daran gezweifelt. In ihnen war bei allen Unvollkommenheiten und
-          Leiden die Freudigkeit und Seligkeit<note place="footnote" n="bt" type="textcritical" xml:id="nbt"><ref corresp="B">Mskr.</ref>: «In ihrer Seele war bei allen
+          Wenn wir als trokkene, unbeteiligte Zuschauer<note place="footnote" n="bq" type="textcritical" xml:id="nbq">
+                            <ref corresp="B">Mskr.</ref>: «Zuschauer oder
+            Leser».</note> ihr Schicksal und Ende ansehen, könnten wir mit Fug und Recht<note place="footnote" n="br" type="textcritical" xml:id="nbr">
+                            <ref corresp="B">Mskr.</ref>: «vielleicht».</note> daran zweifeln. Sie selber haben freilich<note place="footnote" n="bs" type="textcritical" xml:id="nbs">
+                            <ref corresp="B">Mskr.</ref>: «sicher».</note> nicht daran gezweifelt. In ihnen war bei allen Unvollkommenheiten und
+          Leiden die Freudigkeit und Seligkeit<note place="footnote" n="bt" type="textcritical" xml:id="nbt">
+                            <ref corresp="B">Mskr.</ref>: «In ihrer Seele war bei allen
       Leiden und Anfechtungen und Unvollkommenheiten die Seligkeit und Freudigkeit …»</note> des
-          gegenwärtigen Gottesreiches. Sie hätten mit niemand getauscht. Sie dachten mit Stolz<note place="footnote" n="bu" type="textcritical" xml:id="nbu"><ref corresp="B">Mskr.</ref>: «Mit Stolz dachten sie».</note> an das Wort Jesu: Wahrlich, ich sage euch,
+          gegenwärtigen Gottesreiches. Sie hätten mit niemand getauscht. Sie dachten mit Stolz<note place="footnote" n="bu" type="textcritical" xml:id="nbu">
+                            <ref corresp="B">Mskr.</ref>: «Mit Stolz dachten sie».</note> an das Wort Jesu: Wahrlich, ich sage euch,
      viele Propheten und Könige wollten sehen, was ihr gesehen habt, und haben es nicht gesehen, und
-     hören, was ihr gehört habt, und haben es nicht gehört! [<ref type="can" subtype="bible" target="Lk.10.24">Lk. 10, 24</ref>]. Und auch in ihrem Wirken war die Klarheit und Kraft des
-          gegenwärtigen Gottesreiches.<note place="footnote" n="bv" type="textcritical" xml:id="nbv"><ref corresp="B">Mskr.</ref>: «Und in ihrem Wirken muß die Klarheit und
+     hören, was ihr gehört habt, und haben es nicht gehört! [<ref type="can" subtype="bible" target="Lk.10.24">Lk. 10,24</ref>]. Und auch in ihrem Wirken war die Klarheit und Kraft des
+          gegenwärtigen Gottesreiches.<note place="footnote" n="bv" type="textcritical" xml:id="nbv">
+                            <ref corresp="B">Mskr.</ref>: «Und in ihrem Wirken muß die Klarheit und
       Kraft gelegen sein, ohne die wir uns das Gottesreich nicht denken können.»</note> Von ihrem
-          Wirken ist ja die ungeheuerste Entwicklung<note place="footnote" n="bw" type="textcritical" xml:id="nbw"><ref corresp="B">Mskr.</ref>: «denn von ihrem Wirken ist
+          Wirken ist ja die ungeheuerste Entwicklung<note place="footnote" n="bw" type="textcritical" xml:id="nbw">
+                            <ref corresp="B">Mskr.</ref>: «denn von ihrem Wirken ist
       ja eine der ungeheuersten Entwicklungen».</note> in der
-          <pb xml:id="p061" ed="pga"/>Geschichte der Menschheit ausgegangen, ⌜allem Anschein zum Trotz,⌝ unter den Folgen<note place="footnote" n="bx" type="textcritical" xml:id="nbx"><ref corresp="B">Mskr.</ref>: «den segensreichen Folgen».</note> ihres Wirkens stehen wir bis heute,
-          und<note place="footnote" n="by" type="textcritical" xml:id="nby"><ref corresp="B">Mskr.</ref>: «ja».</note> vielleicht will die Ernte der Saat, die sie
-          ausgeworfen, erst recht beginnen<note place="footnote" n="bz" type="textcritical" xml:id="nbz"><ref corresp="B">Mskr.</ref>: «erst jetzt so recht
+          <pb xml:id="p061" ed="pga"/>Geschichte der Menschheit ausgegangen, ⌜allem Anschein zum Trotz,⌝ unter den Folgen<note place="footnote" n="bx" type="textcritical" xml:id="nbx">
+                            <ref corresp="B">Mskr.</ref>: «den segensreichen Folgen».</note> ihres Wirkens stehen wir bis heute,
+          und<note place="footnote" n="by" type="textcritical" xml:id="nby">
+                            <ref corresp="B">Mskr.</ref>: «ja».</note> vielleicht will die Ernte der Saat, die sie
+          ausgeworfen, erst recht beginnen<note place="footnote" n="bz" type="textcritical" xml:id="nbz">
+                            <ref corresp="B">Mskr.</ref>: «erst jetzt so recht
       beginnen».</note>. Ja, ihnen war das Reich gegeben von ihrem Vater, dieser kleinen Herde von
-          damals! O diese glücklichen Wenigen! Diese seligen Helden und Stürmer und Dränger!<note xml:id="n10">Vgl. die Predigt vom 24. Januar über <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11, 12</ref>, s. oben <ref type="pub" target="./p022#p022">S. 22-33</ref>.</note> O die armen Meisten von damals,
+          damals! O diese glücklichen Wenigen! Diese seligen Helden und Stürmer und Dränger!<note xml:id="n10">Vgl. die Predigt vom 24. Januar über <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11,12</ref>, s. oben <ref type="pub" target="../volume/27/p022#p022">S. 22-33</ref>.</note> O die armen Meisten von damals,
      die von dem allem nichts fanden und gewannen! O die Armen, die nicht bereit waren, als das
-     Reich Gottes ihnen so nahe kam, die für das Göttliche an<note place="footnote" n="ca" type="textcritical" xml:id="nca"><ref corresp="B">Mskr.</ref>: «in».</note>
-          Jesus, für das Wunderbare an dem Leben, das von ihm ausging, keine Augen und Ohren<note place="footnote" n="cb" type="textcritical" xml:id="ncb"><ref corresp="B">Mskr.</ref>: «kein Auge und Ohr und Gefühl».</note> hatten! Die es nicht fassen
+     Reich Gottes ihnen so nahe kam, die für das Göttliche an<note place="footnote" n="ca" type="textcritical" xml:id="nca">
+                            <ref corresp="B">Mskr.</ref>: «in».</note>
+          Jesus, für das Wunderbare an dem Leben, das von ihm ausging, keine Augen und Ohren<note place="footnote" n="cb" type="textcritical" xml:id="ncb">
+                            <ref corresp="B">Mskr.</ref>: «kein Auge und Ohr und Gefühl».</note> hatten! Die es nicht fassen
      konnten, daß ein neuer Tag Gottes angebrochen sei, denen die Worte Jesu als schöne, aber
-     unbegreiflich unbequeme <pb ed="A" n="94"/> Ideale vorkamen<note place="footnote" n="cc" type="textcritical" xml:id="ncc"><ref corresp="B">Mskr.</ref>: «oder denen die Worte Jesu
+     unbegreiflich unbequeme <pb ed="A" n="94"/> Ideale vorkamen<note place="footnote" n="cc" type="textcritical" xml:id="ncc">
+                            <ref corresp="B">Mskr.</ref>: «oder denen die Worte Jesu
       unbegreiflich hart und seine Nachfolge schrecklich unbequem und schwer vorkamen».</note>, die
      sich gegenüber der lauten, freundlichen Ankündigung der neuen Welt mit klugen Gründen und
-     Unterscheidungen verschanzten!<note place="footnote" n="cd" type="textcritical" xml:id="ncd"><ref corresp="B">Mskr.</ref>: «der neuen Welt des Friedens und der
+     Unterscheidungen verschanzten!<note place="footnote" n="cd" type="textcritical" xml:id="ncd">
+                            <ref corresp="B">Mskr.</ref>: «der neuen Welt des Friedens und der
       Kraft verschanzten mit einem unwirschen, grollenden: Wir wollen nicht, wir brauchen das
       nicht!»</note> Die Armen! Es wäre ja für Keinen von ihnen, von all den Vielen, viel zu Vielen
      ein Hindernis dagewesen — es ist für keinen Menschen ein Hindernis da! —, auch Einer zu werden
      von der kleinen Herde, von der fröhlichen Vorhut Gottes. Aber es gab’s ihnen nicht
       zu.<note xml:id="n11">= Aber sie brachten es nicht über sich.</note> Sie wagten den Sprung
-          nicht. Sie blieben alle, wie sie waren. Und so mußten die Jünger Jesu, ohne Groll<note place="footnote" n="ce" type="textcritical" xml:id="nce"><ref corresp="B">Mskr.</ref>: «Groll und Haß».</note> und Verachtung, aber in tiefem, bitterem Ernst zu
+          nicht. Sie blieben alle, wie sie waren. Und so mußten die Jünger Jesu, ohne Groll<note place="footnote" n="ce" type="textcritical" xml:id="nce">
+                            <ref corresp="B">Mskr.</ref>: «Groll und Haß».</note> und Verachtung, aber in tiefem, bitterem Ernst zu
           ihnen sagen<note place="footnote" n="cf" type="textcritical" xml:id="ncf">Im <ref corresp="B">Mskr.</ref> steht hier noch: «wie ihr Meister sie gelehrt
-      hatte».</note>: Ihr sollt wissen, daß euch das Reich Gottes nahe gewesen ist! [<ref type="can" subtype="bible" target="Lk.10.11">Lk. 10, 11</ref>]. Gewesen ist! Unseren herrlichen Posten
+      hatte».</note>: Ihr sollt wissen, daß euch das Reich Gottes nahe gewesen ist! [<ref type="can" subtype="bible" target="Lk.10.11">Lk. 10,11</ref>]. Gewesen ist! Unseren herrlichen Posten
      und Dienst könnt ihr nun nicht mit uns teilen. Ihr könnt nicht, weil ihr nicht wollt!</p>
         <p>Wie ist’s, meine Freunde, wenn Gott nun im Gewitter des Völker<pb xml:id="p062" ed="pga" break="no"/>krieges auch wieder eine Gottesreichszeit hat anbrechen lassen für uns? Unser Nachdenken über
      den Sinn der gegenwärtigen Ereignisse hat uns in der letzten Zeit immer wieder vor diese
-     bedeutungsschwere Tatsache geführt.<note place="footnote" n="cg" type="textcritical" xml:id="ncg"><ref corresp="B">Mskr.</ref>: «Wir sind nun seit einer Reihe von
+     bedeutungsschwere Tatsache geführt.<note place="footnote" n="cg" type="textcritical" xml:id="ncg">
+                            <ref corresp="B">Mskr.</ref>: «Wir sind nun seit einer Reihe von
       Sonntagen immer wieder vor diese gedanken- und bedeutungsvolle Tatsache geführt
-      worden.»</note> Mir ist es sicher, daß das<note place="footnote" n="ch" type="textcritical" xml:id="nch"><ref corresp="B">Mskr.</ref>: «es».</note> eine Tatsache
+      worden.»</note> Mir ist es sicher, daß das<note place="footnote" n="ch" type="textcritical" xml:id="nch">
+                            <ref corresp="B">Mskr.</ref>: «es».</note> eine Tatsache
      ist. Einer ganzen Anzahl Menschen in allen Ländern ist es auch sicher. Und ich hoffe im
      stillen, daß es auch Einigen von euch sicher geworden ist, daß diese Zeit nicht nur eine
      schwere und ernste Zeit ist, wie man etwa sagt, nicht nur eine interessante Zeit, in der es
-     viel zu hören, zu denken und zu reden<note place="footnote" n="ci" type="textcritical" xml:id="nci"><ref corresp="B">Mskr.</ref>: «viel zu denken und zu reden und
+     viel zu hören, zu denken und zu reden<note place="footnote" n="ci" type="textcritical" xml:id="nci">
+                            <ref corresp="B">Mskr.</ref>: «viel zu denken und zu reden und
        zu hören».</note> gibt, ⌜auch⌝ nicht nur eine Zeit großer Aufgaben und Pflichten, sondern ⌜vor
           allem⌝ eine Gotteszeit in ganz besonderem Sinn. Ein Wendepunkt im Fluß der
-          Geistesgeschichte<note place="footnote" n="cj" type="textcritical" xml:id="ncj"><ref corresp="B">Mskr.</ref>: «Geschichte».</note> Ein Tag, an dem Gott sich
+          Geistesgeschichte<note place="footnote" n="cj" type="textcritical" xml:id="ncj">
+                            <ref corresp="B">Mskr.</ref>: «Geschichte».</note> Ein Tag, an dem Gott sich
      anschickt, ein Neues zu schaffen, indem er uns durch das Gericht seine Verheißungen lebendig
      macht. Nun ist wieder einmal Saatzeit für bessere zukünftige Ernten, Grundsteinlegung für neue
      Bauten, nun werden wieder Vorposten ausgesandt.<note place="footnote" n="ck" type="textcritical" xml:id="nck">Anstelle der letzten beiden
       Sätze steht im <ref corresp="B">Mskr.</ref>: «Ein Tag, an dem Gott wieder einmal Saaten auswirft für bessere
       zukünftige Ernten, Ecksteine legt für neue Bauten, Vorhuten aussendet zu gewaltigen,
-      unabsehbaren Eroberungen.»</note> Gottes Reich<note place="footnote" n="cl" type="textcritical" xml:id="ncl"><ref corresp="B">Mskr.</ref>: «Sein Reich».</note>
-          ist ⌜wieder einmal⌝ nahe herbeigekommen. Wie wird es nun sein? Nun braucht es wieder<note place="footnote" n="cm" type="textcritical" xml:id="ncm"><ref corresp="B">Mskr.</ref>: «wieder einmal».</note> Menschen, die den Ruf Jesu vernehmen und vernehmen
-          wollen.<note place="footnote" n="cn" type="textcritical" xml:id="ncn"><ref corresp="B">Mskr.</ref>: « …die seinen Ruf vernehmen und vernehmen wollen, den Ruf
-      Jesu: Ich bin der Weg, die Wahrheit und das Leben [<ref type="can" subtype="bible" target="Joh.14.6">Joh. 14, 6</ref>].»</note> Denn wer unsere Zeit versteht, der weiß, daß nun
+      unabsehbaren Eroberungen.»</note> Gottes Reich<note place="footnote" n="cl" type="textcritical" xml:id="ncl">
+                            <ref corresp="B">Mskr.</ref>: «Sein Reich».</note>
+          ist ⌜wieder einmal⌝ nahe herbeigekommen. Wie wird es nun sein? Nun braucht es wieder<note place="footnote" n="cm" type="textcritical" xml:id="ncm">
+                            <ref corresp="B">Mskr.</ref>: «wieder einmal».</note> Menschen, die den Ruf Jesu vernehmen und vernehmen
+          wollen.<note place="footnote" n="cn" type="textcritical" xml:id="ncn">
+                            <ref corresp="B">Mskr.</ref>: « …die seinen Ruf vernehmen und vernehmen wollen, den Ruf
+      Jesu: Ich bin der Weg, die Wahrheit und das Leben [<ref type="can" subtype="bible" target="Joh.14.6">Joh. 14,6</ref>].»</note> Denn wer unsere Zeit versteht, der weiß, daß nun
      gerade wieder Jesus entscheidend zum Wort kommt, Jesus mit seiner Botschaft von der
-     unbedingten, grenzenlosen Majestät und Güte Gottes gegenüber allem Menschenwesen.<note place="footnote" n="co" type="textcritical" xml:id="nco"><ref corresp="B">Mskr.</ref>: «Denn nie ist es so deutlich gewesen wie jetzt, daß dieser selbe Jesus von
+     unbedingten, grenzenlosen Majestät und Güte Gottes gegenüber allem Menschenwesen.<note place="footnote" n="co" type="textcritical" xml:id="nco">
+                            <ref corresp="B">Mskr.</ref>: «Denn nie ist es so deutlich gewesen wie jetzt, daß dieser selbe Jesus von
       Nazareth, der in jener alten Zeit den Menschen das Reich Gottes nahebrachte, wahrhaftig der
-      Welt Heiland ist.»</note> Menschen ⌜braucht es nun⌝, die bereit sind, auf den Ruf Jesu<note place="footnote" n="cp" type="textcritical" xml:id="ncp"><ref corresp="B">Mskr.</ref>: «auf diesen Ruf».</note> zu antworten mit Gehorsam und Vertrauen. Die zur
+      Welt Heiland ist.»</note> Menschen ⌜braucht es nun⌝, die bereit sind, auf den Ruf Jesu<note place="footnote" n="cp" type="textcritical" xml:id="ncp">
+                            <ref corresp="B">Mskr.</ref>: «auf diesen Ruf».</note> zu antworten mit Gehorsam und Vertrauen. Die zur
      Klarheit gekommen sind darüber, daß die Ordnungen dieser jetzigen Menschen<pb xml:id="p063" ed="pga" break="no"/>welt in ihren Grundlagen sinnlos und verbrecherisch sind, und zur Entschlossenheit dazu,
-          innerlich nichts mehr mit ihnen gemein zu haben<note place="footnote" n="cq" type="textcritical" xml:id="ncq"><ref corresp="B">Mskr.</ref>: «Menschen braucht es
+          innerlich nichts mehr mit ihnen gemein zu haben<note place="footnote" n="cq" type="textcritical" xml:id="ncq">
+                            <ref corresp="B">Mskr.</ref>: «Menschen braucht es
       jetzt, die sich klar davon überzeugen, daß die Verhältnisse und Ordnungen der Welt, in der wir
       leben, in ihren Grundlagen sinnlos und verbrecherisch sind und daß wir innerlich nichts mit
       ihnen gemein haben können …»</note>, weil sie stracks gegen alles Recht und alle Liebe sind.
-          Die davon durchdrungen sind, daß mit Gewalt weder Recht<note place="footnote" n="cr" type="textcritical" xml:id="ncr"><ref corresp="B">Mskr.</ref>: «daß durch
+          Die davon durchdrungen sind, daß mit Gewalt weder Recht<note place="footnote" n="cr" type="textcritical" xml:id="ncr">
+                            <ref corresp="B">Mskr.</ref>: «daß durch
        Gewalt nie und nimmer Recht».</note> geschaffen ⌜noch Recht geschützt⌝ werden kann und daß die
      Torheit, sich gegeneinander zu waffnen, um miteinander auszukommen, notwendig endigen muß in
-     solchen<note place="footnote" n="cs" type="textcritical" xml:id="ncs"><ref corresp="B">Mskr.</ref>: «in entsetzlichen».</note> Katastrophen des Hasses und der
-          Vernichtung, wie wir sie jetzt erleben. Die den heiligen Respekt vor dem Mammon gründlich<note place="footnote" n="ct" type="textcritical" xml:id="nct"><ref corresp="B">Mskr.</ref>: «gründlich und für immer».</note> verlernt haben, weil sie es jetzt
+     solchen<note place="footnote" n="cs" type="textcritical" xml:id="ncs">
+                            <ref corresp="B">Mskr.</ref>: «in entsetzlichen».</note> Katastrophen des Hasses und der
+          Vernichtung, wie wir sie jetzt erleben. Die den heiligen Respekt vor dem Mammon gründlich<note place="footnote" n="ct" type="textcritical" xml:id="nct">
+                            <ref corresp="B">Mskr.</ref>: «gründlich und für immer».</note> verlernt haben, weil sie es jetzt
      gesehen haben, wie der nicht Heil, sondern Unheil schafft und darum nicht Gott sein kann neben
-          <pb ed="A" n="95"/>Gott.<note place="footnote" n="cu" type="textcritical" xml:id="ncu"><ref corresp="B">Mskr.</ref>: «wie der Mammon nicht dem Heil dient, sondern dem Unheil, und
-            darum nicht ein Gott sein kann.»</note> Und mag die Vernunft uns<note place="footnote" n="cv" type="textcritical" xml:id="ncv"><ref corresp="B">Mskr.</ref>: «Und
+          <pb ed="A" n="95"/>Gott.<note place="footnote" n="cu" type="textcritical" xml:id="ncu">
+                            <ref corresp="B">Mskr.</ref>: «wie der Mammon nicht dem Heil dient, sondern dem Unheil, und
+            darum nicht ein Gott sein kann.»</note> Und mag die Vernunft uns<note place="footnote" n="cv" type="textcritical" xml:id="ncv">
+                            <ref corresp="B">Mskr.</ref>: «Und
       mag uns die sogenannte Vernunft …»</note> noch so lange sagen, wie tief diese Ordnungen
-          wurzeln in fast unerschütterlichen «Verhältnissen», in der «Wirklichkeit»<note place="footnote" n="cw" type="textcritical" xml:id="ncw"><ref corresp="B">Mskr.</ref>: «… daß diese Verhältnisse vorläufig nicht wohl andere sein können und …»</note>, daß
-          wir uns ihnen<note place="footnote" n="cx" type="textcritical" xml:id="ncx"><ref corresp="B">Mskr.</ref>: «ihnen eben».</note> unterwerfen müssen — ⌜mögen wir uns
+          wurzeln in fast unerschütterlichen «Verhältnissen», in der «Wirklichkeit»<note place="footnote" n="cw" type="textcritical" xml:id="ncw">
+                            <ref corresp="B">Mskr.</ref>: «… daß diese Verhältnisse vorläufig nicht wohl andere sein können und …»</note>, daß
+          wir uns ihnen<note place="footnote" n="cx" type="textcritical" xml:id="ncx">
+                            <ref corresp="B">Mskr.</ref>: «ihnen eben».</note> unterwerfen müssen — ⌜mögen wir uns
           ihnen vorläufig unterwerfen, wir können sie nicht anerkennen, nicht innerlich ernst nehmen,⌝
-          nicht an sie glauben, weil wir an Gott glauben müssen.<note place="footnote" n="cy" type="textcritical" xml:id="ncy"><ref corresp="B">Mskr.</ref>: « — wir sollen
+          nicht an sie glauben, weil wir an Gott glauben müssen.<note place="footnote" n="cy" type="textcritical" xml:id="ncy">
+                            <ref corresp="B">Mskr.</ref>: « — wir sollen
        nicht an sie glauben, wir sollen an Gott glauben, der ganz anders ist als sie.»</note> ⌜Denn
      Gott offenbart sich uns jetzt in der schrecklichen «Wirklichkeit» der Menschenwelt, nicht damit
      wir <hi rend="i">sie</hi> anerkennen, sondern damit wir dazu kommen, <hi rend="i">ihn</hi>
           wieder zu anerkennen, der uns im Evangelium seine wunderbare Welt erschlossen hat.⌝ Menschen
      braucht es nun, die an die Wirklichkeit der Gotteswelt glauben, in ihr ihren Standort nehmen
-     und darum innerlich frei sind von der Gefangenschaft der Vergangenheit und Gegenwart.<note place="footnote" n="cz" type="textcritical" xml:id="ncz"><ref corresp="B">Mskr.</ref>: «Es braucht jetzt Menschen, die frei geworden sind von dem Vorurteil, es
+     und darum innerlich frei sind von der Gefangenschaft der Vergangenheit und Gegenwart.<note place="footnote" n="cz" type="textcritical" xml:id="ncz">
+                            <ref corresp="B">Mskr.</ref>: «Es braucht jetzt Menschen, die frei geworden sind von dem Vorurteil, es
       könne nicht anders sein, die es wagen, der Vernunft zum Trotz an den Gott der Liebe und des
-      Friedens zu glauben und nur an ihn.»</note> So haben<note place="footnote" n="da" type="textcritical" xml:id="nda"><ref corresp="B">Mskr.</ref>:
+      Friedens zu glauben und nur an ihn.»</note> So haben<note place="footnote" n="da" type="textcritical" xml:id="nda">
+                            <ref corresp="B">Mskr.</ref>:
       «standen».</note> die ersten
-          <pb xml:id="p064" ed="pga"/>Christen in einer ebenso finstern Welt wie die unsrige gebetet<note place="footnote" n="db" type="textcritical" xml:id="ndb"><ref corresp="B">Mskr.</ref>: «wie
+          <pb xml:id="p064" ed="pga"/>Christen in einer ebenso finstern Welt wie die unsrige gebetet<note place="footnote" n="db" type="textcritical" xml:id="ndb">
+                            <ref corresp="B">Mskr.</ref>: «wie
       die unsere und beteten».</note>: es vergehe <hi rend="i">diese</hi> Welt und es komme <hi rend="i">dein</hi> Reich!<note xml:id="n12">Vgl. <ref type="can" subtype="bible" target="Did.10.6">Didache 10, 6</ref>:<foreign xml:lang="grc" rend="Ell">Ἐλθέτω χάρις καὶ
        παρελθέτω ὁ κόσμος οὗτος</foreign>
                </note> Sie lebten in der Hoffnung. In ihrer Hoffnung
@@ -465,34 +546,43 @@
       die in der Hoffnung leben — darin <hi rend="i">leben</hi> und nicht bloß neben allerlei
       Götzendienst auch noch eine Hoffnung haben — die Hoffnung, daß Gott wahr machen wird
      …»</note>, was er verheißen hat. Daß diese ganze Welt voll Mißtrauen und Militär und Haß und
-          Interessenpolitik und sogenannter Vaterlandsliebe eigentlich und wirklich eine<note place="footnote" n="dd" type="textcritical" xml:id="ndd"><ref corresp="B">Mskr.</ref>: «Vaterlandsliebe, daß diese ganze Welt eigentlich eine …»</note>
+          Interessenpolitik und sogenannter Vaterlandsliebe eigentlich und wirklich eine<note place="footnote" n="dd" type="textcritical" xml:id="ndd">
+                            <ref corresp="B">Mskr.</ref>: «Vaterlandsliebe, daß diese ganze Welt eigentlich eine …»</note>
      Unmöglichkeit ist, die abgelöst und überwunden werden muß durch das Leben der Kinder Gottes,
      die allesamt Brüder sind, ⌜einfach⌝ weil sie ⌜allesamt⌝ einen Vater haben.<note place="footnote" n="de" type="textcritical" xml:id="nde">Im
       <ref corresp="B">Mskr.</ref> folgt hier der Satz: «Menschen braucht’s, die sich nicht mehr mit einer
       Religion begnügen können, die bloß aus Glockengeläut und Predigtworten und sanfter Erbauung
       besteht, sondern die wissen und fest davon überzeugt sind, daß all die wunderbaren Wahrheiten
       dieser Religion Gestalt annehmen müssen in der Gemeinschaft unseres Lebens, im Großen so gut
-      wie im Kleinen.»</note> Hervorbrechen will<note place="footnote" n="df" type="textcritical" xml:id="ndf"><ref corresp="B">Mskr.</ref>: «soll».</note> Gottes
-          Gerechtigkeit ⌜aus unseren Konfusionen⌝ wie die Morgenröte aus der Finsternis [vgl. <ref type="can" subtype="bible" target="Jes.58.8">Jes. 58, 8</ref>]. Zerbrechen müssen<note place="footnote" n="dg" type="textcritical" xml:id="ndg"><ref corresp="B">Mskr.</ref>: «sollen».</note> die Ketten der Schuld, die die Menschheit seufzend von
+      wie im Kleinen.»</note> Hervorbrechen will<note place="footnote" n="df" type="textcritical" xml:id="ndf">
+                            <ref corresp="B">Mskr.</ref>: «soll».</note> Gottes
+          Gerechtigkeit ⌜aus unseren Konfusionen⌝ wie die Morgenröte aus der Finsternis [vgl. <ref type="can" subtype="bible" target="Jes.58.8">Jes. 58,8</ref>]. Zerbrechen müssen<note place="footnote" n="dg" type="textcritical" xml:id="ndg">
+                            <ref corresp="B">Mskr.</ref>: «sollen».</note> die Ketten der Schuld, die die Menschheit seufzend von
      Jahrhundert zu Jahrhundert schleppte. Wahrhaftig sollen die Reiche dieser Welt Gottes und
      seines Christus werden [vgl. <ref type="can" subtype="bible" target="Apk.11.15">Apk. 11,
-      15</ref>]. Und der Friede Gottes, der höher ist als alle Vernunfdbt [<ref type="can" subtype="bible" target="Phil.4.7">Phil. 4, 7</ref>], will den inneren und äußeren Krieg, in
+      15</ref>]. Und der Friede Gottes, der höher ist als alle Vernunfdbt [<ref type="can" subtype="bible" target="Phil.4.7">Phil. 4,7</ref>], will den inneren und äußeren Krieg, in
      dem wir
-          <pb xml:id="p065" ed="pga"/>lebten, aufheben<note place="footnote" n="dh" type="textcritical" xml:id="ndh"><ref corresp="B">Mskr.</ref>: «soll … überwinden».</note>. Mit solcher Hoffnung
+          <pb xml:id="p065" ed="pga"/>lebten, aufheben<note place="footnote" n="dh" type="textcritical" xml:id="ndh">
+                            <ref corresp="B">Mskr.</ref>: «soll … überwinden».</note>. Mit solcher Hoffnung
           sind die ersten Christen zu den <term ref="kbga-terms-783">Juden</term> und <term ref="kbga-terms-109">Heiden</term> gegangen ⌜und hatten ihnen damit etwas zu
      bieten und zu bringen. Denn an Religiositäten von allen Sorten, an Tröstern und Krücken und
      farbigen Brillen, um sich in dieser Welt zurechtzufinden, fehlte es denen durchaus nicht, wohl
      aber an der Hoffnung auf einen Sieg, der diese Welt überwindet. Und so ist es heute wieder.⌝ Nun
-     braucht und fordert Gott Menschen, die<note place="footnote" n="di" type="textcritical" xml:id="ndi"><ref corresp="B">Mskr.</ref>: «Menschen mit solcher Freiheit
+     braucht und fordert Gott Menschen, die<note place="footnote" n="di" type="textcritical" xml:id="ndi">
+                            <ref corresp="B">Mskr.</ref>: «Menschen mit solcher Freiheit
       von der alten und solcher Hoffnung auf die neue Welt braucht es jetzt. Menschen mit einem
       Wort, die …»</note> angesichts des furchtbaren Resultats, das die Ordnungen der
-          Menschenwelt<note place="footnote" n="dj" type="textcritical" xml:id="ndj"><ref corresp="B">Mskr.</ref>: «das die Ordnungen und Gewohnheiten des bisherigen
-            Menschheitslebens jetzt …»</note> gezeitigt haben, ihre Zuversicht auf ihn<note place="footnote" n="dk" type="textcritical" xml:id="ndk"><ref corresp="B">Mskr.</ref>: «Gott».</note> setzen und von ihm, und das heißt von der Beugung unter seinen heiligen
+          Menschenwelt<note place="footnote" n="dj" type="textcritical" xml:id="ndj">
+                            <ref corresp="B">Mskr.</ref>: «das die Ordnungen und Gewohnheiten des bisherigen
+            Menschheitslebens jetzt …»</note> gezeitigt haben, ihre Zuversicht auf ihn<note place="footnote" n="dk" type="textcritical" xml:id="ndk">
+                            <ref corresp="B">Mskr.</ref>: «Gott».</note> setzen und von ihm, und das heißt von der Beugung unter seinen heiligen
      Willen, der uns in Christus offenbar ist, etwas Anderes, Besseres erwarten. Was für eine
-     wundervolle große Zeit, <pb ed="A" n="96"/>wo Gott solche Menschen fordern — und schaffen will!<note place="footnote" n="dl" type="textcritical" xml:id="ndl"><ref corresp="B">Mskr.</ref>: «Menschen fordert!»</note> Wo Christus wieder nach Freiwilligen ruft wie
+     wundervolle große Zeit, <pb ed="A" n="96"/>wo Gott solche Menschen fordern — und schaffen will!<note place="footnote" n="dl" type="textcritical" xml:id="ndl">
+                            <ref corresp="B">Mskr.</ref>: «Menschen fordert!»</note> Wo Christus wieder nach Freiwilligen ruft wie
      in den alten Heldenzeiten des Glaubens! Wo das Himmelreich wieder gestürmt werden kann [vgl.
-      <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11, 12</ref>] durch ernste, freudige
-          Entscheidungen in der Tiefe der Seele, Entscheidungen<note place="footnote" n="dm" type="textcritical" xml:id="ndm"><ref corresp="B">Mskr.</ref>: «durch eine
+      <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11,12</ref>] durch ernste, freudige
+          Entscheidungen in der Tiefe der Seele, Entscheidungen<note place="footnote" n="dm" type="textcritical" xml:id="ndm">
+                            <ref corresp="B">Mskr.</ref>: «durch eine
       freudige, ernste Entscheidung in der Tiefe unserer Seele, eine Entscheidung …»</note> für den
      lebendigen Gott, gegen die toten Götzen der Menschenwelt. Und wenn nun Gott wieder Propheten,
      Apostel und Märtyrer brauchen und ihnen rufen sollte? Wenn wir nur wahrheitsmutige,
@@ -500,18 +590,22 @@
       seht, es könnte doch sein, daß die Zeit nicht so ferne ist, wo auch wieder Propheten und
       Apostel und Märtyrer nötig würden, und wenn nicht das, so doch jedenfalls wahrheitsmutige,
       unerschrockene Zeugen für das Bessere, Höhere, das jetzt überall mit Füßen getreten
-      wird.»</note> Es wird ⌜auch so⌝ nicht leicht sein, wirklich als Vorposten<note place="footnote" n="do" type="textcritical" xml:id="ndo"><ref corresp="B">Mskr.</ref>: «als ein Vorposten».</note> Gottes in die nächste Zeit hinein zu gehen. Da wird Alles
+      wird.»</note> Es wird ⌜auch so⌝ nicht leicht sein, wirklich als Vorposten<note place="footnote" n="do" type="textcritical" xml:id="ndo">
+                            <ref corresp="B">Mskr.</ref>: «als ein Vorposten».</note> Gottes in die nächste Zeit hinein zu gehen. Da wird Alles
           wieder kommen wie ehemals. ⌜Es wird an Sünden, Verkehrtheiten und Kleinlichkeiten derer nicht
      fehlen, die jetzt Gottes Ruf vernehmen und weitergeben möchten, und darum dann auch nicht an
      Kritik und weisen
           <pb xml:id="p066" ed="pga"/>Sprüchen von allen Seiten.⌝ Verachtung, Ausgelachtwerden, Mißerfolg über Mißerfolg, das muß ja
-          alles so sein.<note place="footnote" n="dp" type="textcritical" xml:id="ndp"><ref corresp="B">Mskr.</ref>: «wie ehemals: Verachtung, Ausgelachtwerden, Mißerfolge
-            und vielleicht auch Bedrohung und Verfolgung».</note> Die Mächte<note place="footnote" n="dq" type="textcritical" xml:id="ndq"><ref corresp="B">Mskr.</ref>:
+          alles so sein.<note place="footnote" n="dp" type="textcritical" xml:id="ndp">
+                            <ref corresp="B">Mskr.</ref>: «wie ehemals: Verachtung, Ausgelachtwerden, Mißerfolge
+            und vielleicht auch Bedrohung und Verfolgung».</note> Die Mächte<note place="footnote" n="dq" type="textcritical" xml:id="ndq">
+                            <ref corresp="B">Mskr.</ref>:
       «Denn die Mächte».</note> dieser Welt werden jetzt so wenig wie damals freiwillig das Feld
-          räumen und werden<note place="footnote" n="dr" type="textcritical" xml:id="ndr"><ref corresp="B">Mskr.</ref>: «und sie werden».</note> den nicht ungestraft
+          räumen und werden<note place="footnote" n="dr" type="textcritical" xml:id="ndr">
+                            <ref corresp="B">Mskr.</ref>: «und sie werden».</note> den nicht ungestraft
      lassen, der ihnen die Freiheit und die Hoffnung entgegenstellt. Darüber soll sich niemand
      täuschen<note place="footnote" n="ds" type="textcritical" xml:id="nds">Anstelle dieses Sätzchens ist im <ref corresp="B">Mskr.</ref> zu lesen: «Die alte
-      christusfeindliche Losung: wir wollen nicht, daß dieser über uns herrsche! [<ref type="can" subtype="bible" target="Lk.19.14">Lk. 19, 14</ref>] wird deutlicher und mächtiger als je
+      christusfeindliche Losung: wir wollen nicht, daß dieser über uns herrsche! [<ref type="can" subtype="bible" target="Lk.19.14">Lk. 19,14</ref>] wird deutlicher und mächtiger als je
       ertönen, wenn die Menschenwelt merkt, daß es sich jetzt nicht mehr um theologische Dogmen
       handelt, sondern um das Leben selbst, das unter die Herrschaft Gottes kommen soll.»</note>
      Aber bei dem allem werden diese Vorposten Gottes dann auch wieder erfahren, wie ihnen des
@@ -522,34 +616,45 @@
       der Verheißung erfahren: Es ist meines Vaters Wille, euch das Reich zu geben. Sie werden in
       unnennbarer Freude und Seligkeit dem Berufe ihres Glaubens folgen. Sie werden etwas erleben
       von dem stolzen Bekenntnis des <persName ref="kbga-actors-313">Paulus</persName>: Ich vermag Alles durch den, der mich stark macht,
-      Christus! [<ref type="can" subtype="bible" target="Phil.4.13">Phil. 4, 13</ref>]. Und es
+      Christus! [<ref type="can" subtype="bible" target="Phil.4.13">Phil. 4,13</ref>]. Und es
       werden kräftige Wirkungen von ihnen ausgehen, erneuernd, reinigend, heiligend, verwandelnd,
       Wirkungen, die doch nicht ihre Tat und ihr Verdienst sind, sondern die des Geistes Gottes, der
       in ihnen wirkt und schafft.»</note>
             </p>
         <p>Wie wird’s nun sein, meine Freunde? Wird Gott solche Freiwillige und Vorposten
      finden in unserer Zeit? Wird die «kleine Herde» da sein nach dem Völkerkrieg als sein
-     göttlicher Ertrag und als göttliches Werkzeug für die Zukunft?<note place="footnote" n="du" type="textcritical" xml:id="ndu"><ref corresp="B">Mskr.</ref>: «Wird
+     göttlicher Ertrag und als göttliches Werkzeug für die Zukunft?<note place="footnote" n="du" type="textcritical" xml:id="ndu">
+                            <ref corresp="B">Mskr.</ref>: «Wird
       er sich nun auch wieder seine ‹kleine Herde› sammeln als Ertrag des Völkerkriegs und als
-      Werkzeug für seine Zukunft?»</note> Und wer wird dann zur<note place="footnote" n="dv" type="textcritical" xml:id="ndv"><ref corresp="B">Mskr.</ref>: «zu
-        dieser».</note> kleinen Herde gehören, wer zur<note place="footnote" n="dw" type="textcritical" xml:id="ndw"><ref corresp="B">Mskr.</ref>: «zu der».</note>
+      Werkzeug für seine Zukunft?»</note> Und wer wird dann zur<note place="footnote" n="dv" type="textcritical" xml:id="ndv">
+                            <ref corresp="B">Mskr.</ref>: «zu
+        dieser».</note> kleinen Herde gehören, wer zur<note place="footnote" n="dw" type="textcritical" xml:id="ndw">
+                            <ref corresp="B">Mskr.</ref>: «zu der».</note>
      großen Masse, die nichts merkt und weiterschläft? Seht, noch handelt es sich heute nicht darum,
-     etwas zu <hi rend="i">tun</hi>. Noch ist alles viel zu sehr in Verwirrung und im Unklaren<note place="footnote" n="dx" type="textcritical" xml:id="ndx"><ref corresp="B">Mskr.</ref>: «im Werden».</note>, als daß jetzt schon
-          <pb xml:id="p067" ed="pga"/>gesagt werden könnte, was denn geschehen muß als erste<note place="footnote" n="dy" type="textcritical" xml:id="ndy"><ref corresp="B">Mskr.</ref>:
+     etwas zu <hi rend="i">tun</hi>. Noch ist alles viel zu sehr in Verwirrung und im Unklaren<note place="footnote" n="dx" type="textcritical" xml:id="ndx">
+                            <ref corresp="B">Mskr.</ref>: «im Werden».</note>, als daß jetzt schon
+          <pb xml:id="p067" ed="pga"/>gesagt werden könnte, was denn geschehen muß als erste<note place="footnote" n="dy" type="textcritical" xml:id="ndy">
+                            <ref corresp="B">Mskr.</ref>:
        «nächste».</note> Tat des Gehorsams gegen das nahe gekommene Gottesreich. ⌜Tröste dich damit,
           wenn es dir ein Trost ist!⌝ Noch verlangt Gott keine besonderen Entschlüsse und Taten von dir,
-          noch keine Opfer<note place="footnote" n="dz" type="textcritical" xml:id="ndz"><ref corresp="B">Mskr.</ref>: «geschweige denn besondere äußere Opfer».</note> für
-            sein Reich. Du brauchst in keine Gemeinschaft oder Partei einzutreten.<note place="footnote" n="ea" type="textcritical" xml:id="nea"><ref corresp="B">Mskr.</ref>:
+          noch keine Opfer<note place="footnote" n="dz" type="textcritical" xml:id="ndz">
+                            <ref corresp="B">Mskr.</ref>: «geschweige denn besondere äußere Opfer».</note> für
+            sein Reich. Du brauchst in keine Gemeinschaft oder Partei einzutreten.<note place="footnote" n="ea" type="textcritical" xml:id="nea">
+                            <ref corresp="B">Mskr.</ref>:
       «und in keine Partei einzutreten.»<note xml:id="n13">Am 1. Februar, vor zwei Wochen, war Barth
        in die Sozialdemokratische Partei eingetreten.</note>
                </note>. Du brauchst kein Geld
-            wegzugeben. Du brauchst weder dein Geschäft<note place="footnote" n="eb" type="textcritical" xml:id="neb"><ref corresp="B">Mskr.</ref>: «Vermögen».</note>, noch
+            wegzugeben. Du brauchst weder dein Geschäft<note place="footnote" n="eb" type="textcritical" xml:id="neb">
+                            <ref corresp="B">Mskr.</ref>: «Vermögen».</note>, noch
      deine Familie, noch dein Leben in Gefahr zu bringen. Du brauchst kein Prophet noch
-     Märtyrer<note place="footnote" n="ec" type="textcritical" xml:id="nec"><ref corresp="B">Mskr.</ref>: «noch kein Prophet und Märtyrer».</note> zu werden. <hi rend="i">Warte</hi> auf Gott, wenn du verstehst, daß auf <hi rend="i">Gott</hi> warten
+     Märtyrer<note place="footnote" n="ec" type="textcritical" xml:id="nec">
+                            <ref corresp="B">Mskr.</ref>: «noch kein Prophet und Märtyrer».</note> zu werden. <hi rend="i">Warte</hi> auf Gott, wenn du verstehst, daß auf <hi rend="i">Gott</hi> warten
             wichtiger ist als das größte Tun!<note place="footnote" n="ed" type="textcritical" xml:id="ned">Anstelle dieses Satzes heißt es im <ref corresp="B">Mskr.</ref>:
-              «Alles derartige Handeln wird dann auch kommen, wenn es an der Zeit ist.»</note> Noch<note place="footnote" n="ee" type="textcritical" xml:id="nee"><ref corresp="B">Mskr.</ref>: «Für jetzt».</note> handelt es sich «nur» darum, für welchen <hi rend="i">Glauben</hi> du dich entscheiden willst: für den Glauben der kleinen Herde der Einsamen, der
+              «Alles derartige Handeln wird dann auch kommen, wenn es an der Zeit ist.»</note> Noch<note place="footnote" n="ee" type="textcritical" xml:id="nee">
+                            <ref corresp="B">Mskr.</ref>: «Für jetzt».</note> handelt es sich «nur» darum, für welchen <hi rend="i">Glauben</hi> du dich entscheiden willst: für den Glauben der kleinen Herde der Einsamen, der
      Stillen, der Träumer und Törichten oder für den Glauben des großen Heeres der Klugen,
-     Nüchternen und Praktischen?<note place="footnote" n="ef" type="textcritical" xml:id="nef"><ref corresp="B">Mskr.</ref>: «… für <hi rend="i">den</hi> Glauben, der
+     Nüchternen und Praktischen?<note place="footnote" n="ef" type="textcritical" xml:id="nef">
+                            <ref corresp="B">Mskr.</ref>: «… für <hi rend="i">den</hi> Glauben, der
       wahrscheinlich auch jetzt wieder der Glaube der kleinen Herde sein wird, der Einsamen,
       Zerstreuten, Stillen im Land, die Augen und Ohren haben, um zu hören und zu sehen, was Gott
       jetzt tut — oder für <hi rend="i">den</hi> Glauben, der wahrscheinlich auch jetzt wieder der
@@ -574,16 +679,24 @@
       Aber nun sagt Jesus von der anderen Seite: fürchte dich nicht, du kleine Herde! Und das ist
       auch wahr.»</note> ⌜Vielleicht, daß wir dann doch mit jenem Sänger des inneren Lebens aus
           vergangenen Tagen den Mut fassen, zu beten:⌝ 
-          <q rend="poem"><lg>
+          <q rend="poem">
+                            <lg>
             <l>O Jesu, verborgenes Leben der Seelen,</l>
             <l>Du heimliche Zierde der inneren Welt,</l>
             <l>Gib, daß wir die heimlichen Ziele erwählen,</l>
             <l>Wenngleich uns die Schmach deines Kreuzes entstellt.</l>
             <l>Hier übel genennet</l>
-            <l>Und wenig gekennet<note place="footnote" n="eh" type="textcritical" xml:id="neh"><ref corresp="B">Mskr.</ref>: «erkennet». So heißt es in neueren Gesangbüchern. Im Druck ist Barth zum ursprünglichen Text: «gekennet» zurückgekehrt.</note>,</l></lg></q>
-          <q rend="block"><lg>  
+            <l>Und wenig gekennet<note place="footnote" n="eh" type="textcritical" xml:id="neh">
+                                        <ref corresp="B">Mskr.</ref>: «erkennet». So heißt es in neueren Gesangbüchern. Im Druck ist Barth zum ursprünglichen Text: «gekennet» zurückgekehrt.</note>,</l>
+                            </lg>
+                        </q>
+          <q rend="block">
+                            <lg>  
           <l>Hier heimlich mit Christo im Vater gelebet,</l>
-            <l>Dort öffentlich mit ihm im Himmel geschwebet.<note xml:id="n14">Strophe 7 aus dem oben <ref type="pub" target="#fn_n05">Anm. 5</ref> angeführten <bibl corresp="kbga-songs-69">Lied von <author ref="kbga-actors-2243">Chr. Fr. Richter</author></bibl>.</note></l></lg></q>
+            <l>Dort öffentlich mit ihm im Himmel geschwebet.<note xml:id="n14">Strophe 7 aus dem oben <ref type="pub" target="#fn_n05">Anm. 5</ref> angeführten <bibl corresp="kbga-songs-69">Lied von <author ref="kbga-actors-2243">Chr. Fr. Richter</author></bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
             </p>
         <p>Wenn wir einmal aufrichtig und ernstlich so beten werden, dann ist’s schon erhört,
      dann sind wir bei denen von der Vorhut Gottes.</p>

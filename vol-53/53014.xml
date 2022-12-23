@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53014">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 12</title>
+        <title type="content">Predigt: Lukas 2,15 (Weihnachten)</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Lukas 2,15 (Weihnachten), 25. Dezember 1908</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53014 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53014</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">14</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Lk 2,15 (Weihnacht), 15. Dezember 1908. <ref target="https://kba.karl-barth.ch/objects/1455">KBA 990</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1908-12-25">25. Dezember 1908</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p097" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                    <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>12</idno>
+                </head>
+                
+                    <dateline> Erster <term type="Sachen" key="Weihnachten">Weihnachtsfeiertag</term>, <date when="1908-12-25">Freitag,
+                            25. Dezember 1908</date><note xml:id="n01">Barth gehörte nach
+                                seiner Rückkehr nach <placeName ref="kbga-places-41">Marburg</placeName> einem Kreis von Examenskandidaten und frisch
+                                examinierten Theologen an, der sich bereit erklärt hatte,
+                                Predigtaushilfen im Umland zu übernehmen. Er war zur
+                                Unterstützung des erkrankten Pfarrers <persName ref="kbga-actors-4632">Friedrich Cornelius</persName>
+                                (1862–1927; 1902–1921 Pfarrer in Niedergrenzebach,
+                                Kreis Ziegenhain) in das Dorf Niedergrenzebach (heute ein Teil
+                                von <placeName ref="kbga-places-1118">Schwalmstadt</placeName> im Schwalm-Eder-Kreis / Nordhessen)
+                                geschickt worden, um dort am 25. Dezember im Gottesdienst um
+                                10.30 Uhr die Weihnachtspredigt zu halten. Er blieb vom 24. bis
+                                zum 27. Dezember und hielt dieselbe Predigt auch in den
+                                Filialkirchen der Gemeinde, in <placeName ref="kbga-places-1119">Leimsfeld</placeName> (25. Dezember, 7.30 Uhr)
+                                und in <placeName ref="kbga-places-1120">Rörshain</placeName>
+                                (27. Dezember). Vgl. zum Ganzen Barths Brief an seine Eltern und
+                                Geschwister vom 28.12.1908 (<idno type="kba-objects-identifier">KBA 9208.74</idno>), in dem der Aufenthalt
+                                in <placeName ref="kbga-places-1066">Niedergrenzebach</placeName> und das etwas schwierige Verhältnis
+                                zu Pfarrer Cornelius ausführlich geschildert sind. Vgl. <bibl corresp="kbga-bibls-1706">
+                                <author ref="kbga-actors-8878">P. Zocher</author>,
+                                    <hi rend="i">Karl Barth und Niedergrenzebach. Eine Predigtaushilfe
+                                    im Winter 1908/09</hi> (Jahresgabe der Karl
+                                Barth-Gesellschaft e. V. 2017), Hannover
+                            2018</bibl>.</note>
+                        <placeName ref="kbga-places-1066" rend="right">Niedergrenzebach in Hessen</placeName>
+                    </dateline>
+                    <epigraph>
+                      <cit>
+                            <ref type="can" subtype="bible" target="Lk.2.15">Lukas 2,15</ref>
+                            <quote>
+                                <hi rend="italic" resp="kb">Lasst uns nun hingehen gen
+                                        <placeName ref="kbga-places-385">Bethlehem</placeName> und die Geschichte sehen, die da
+                                    geschehen ist, die uns der Herr kundgetan hat.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+                
+                <salute>Meine lieben Freunde!</salute>
+                </div>
+                <div type="main">
+                <p>«O du fröhliche, o du selige, gnadenbringende Weihnachtszeit!»<note xml:id="n02">Lied von <bibl type="song" corresp="kbga-songs-235">
+                                <author ref="kbga-actors-2645">J. D. Falk</author> (RG 409; EG 44)</bibl>.</note>
+                    Nicht wahr, wir Alle haben heute, jeder an seinem Teil, etwas hiehergebracht
+                    von dem innerlichen herzlichen Glanze, wie ihn nur diese <term type="Sachen" key="Weihnachtszeit">Weihnachtszeit</term> unter den Menschen
+                    verbreitet. Wir Alle, wenn auch jeder auf seine <anchor type="note" xml:id="fn-a"/>eigene
+                        Art<note type="textcritical" n="a" xml:id="na" target="fn-a"> Im Mskr. mit Bleistift verbessert aus: «besondere Weise».</note>. Dem Einen sieht man’s schon von weitem an, dass heute kein
+                    Tag ist wie andre – da sind vor allem die Kinder, deren Festtag die
+                    Weihnacht mit Tannenbaum und Lichterglanz und kleinen und großen Geschenken
+                    ja in besonderer Weise<note type="textcritical" n="b" xml:id="nb"> Im Mskr. mit Bleistift verbessert aus: «Art».</note>
+                     ist – aber zum Glück auch Viele <pb ed="-A" n="2"/>
+                    von den Erwachsenen, die es nicht verlernt haben, an diesem Tage jung zu
+                    werden in der Erinnerung an ihre <pb xml:id="p098" ed="pga"/> eigene Jugend. Andere
+                    machen vielleicht ein Gesicht wie alle Tage, und auch ihre Gespräche
+                    scheinen recht alltäglich und unweihnachtlich. Aber wer weiß, ob es in ihrem
+                    tiefsten Inwendigen auch so aussieht? Ich glaube, es ist gar Keiner unter
+                    uns, der heute nicht wenigstens mit einem freundlicheren Herzen hieher
+                    gekommen ist, mag er sonst noch so traurig oder griesgrämig sein.</p>
+                <p>Also von der <term type="Sachen" key="Weihnachtsfreude">
+                            <hi rend="i">Weihnachtsfreude</hi></term>&gt;, die wir Alle heute irgendwie
+                    in uns tragen, wollen wir reden. Aber wenn wir nachdenkliche Leute sind,
+                    dann lassen wir’s doch nicht bei solchen allgemeinen schönen
+                    Stimmungen bewenden. Wir wollen vor Allem das Eine festhalten: Wenn wir
+                    heute fröhlich sind, so muss unsre Freude <hi rend="i">wirkliche <term type="Sachen" key="Weihnachtsfreude, wirkliche Freude">Freude</term></hi> sein, wir Alle wollen etwas von dieser Freude
+                    selber empfinden, denn damit, dass wir den Tannenbaum schmücken, weil heute
+                    der 25. Dezember ist, ist noch lange nicht gesagt, dass wir uns auch
+                    wirklich über <term type="Sachen" key="Weihnachten">Weihnachten</term>
+                    freuen. Unsre Freude darf nicht auf der Oberfläche bleiben, sie muss unser
+                        <pb ed="-A" n="3"/> tiefstes innerstes Wesen erfassen. Und dann:
+                    eine rechte Freude darf nicht ausgelöscht sein, wenn der Tag der Freude
+                    vorüber ist im Kalender. Die rechte Freude ist immer <hi rend="i">dauernde <term type="Sachen" key="Weihnachtsfreude, dauernde Freude">Freude</term></hi>.</p>
+                <p>Nun seht, dazu sind wir heute zusammengekommen, um die Weihnachtsfreude, die
+                    wir Alle in stärkerem oder schwächerem Maß in unsern Herzen mitgebracht,
+                    durch die gemeinsame Betrachtung dessen, was uns an Weihnachten geschenkt
+                    ist, zu vertiefen und zu einer Freude zu gestalten, die wirklich ist und die
+                    bleibt, auch wenn Weihnachten längst vorüber ist.</p>
+                <div>
+                    <head type="4">I</head>
+                    <p rend="noindent">
+                            <hi rend="i">Lasst uns nun hingehen nach</hi> <placeName ref="kbga-places-385">
+                                <hi rend="i">Bethlehem</hi></placeName>
+                            <hi rend="i">!</hi> Das war
+                        der erste Gedanke, der den Hirten auf dem Felde, von denen uns das <term type="Sachen" key="Weihnachtsevangelium">Weihnachtsevangelium</term>
+                        erzählt, durch den Kopf ging, nachdem sie die Botschaft des Engels und
+                        den Lobpreis der himmlischen Heerscharen vernommen. Eine große Freude
+                        war ihnen verheißen: Der <term type="Sachen" key="Jesus Christus, Heiland">Heiland</term> ist geboren, der
+                        sehnlichst erwartete Helfer und Herr. Lasst uns hingehen gen Bethlehem!
+                        Die Hirten taten wohl daran, es war nicht Neugier, die sie trieb,
+                        sondern das Verlangen, das Große, das ihnen gesagt war, in Wirklichkeit,
+                        mit ihren Augen zu sehen. Denn nicht <pb ed="-A" n="4"/> wahr,
+                        es geht uns auch so: Etwas Großes und Schönes, von dem man uns erzählt,
+                        kön<pb xml:id="p099" ed="pga"/>nen wir erst dann auch groß und schön finden,
+                        wenn wir es selbst gesehen haben. In dem <placeName ref="kbga-places-58">Lande</placeName>, in dem ich zu Hause bin, gibt es <term type="Sachen" key="Berge / Bergwelt">Berge</term>, die so hoch sind,
+                        dass der Schnee darauf auch im höchsten Sommer nie schmilzt. Ihr Anblick
+                        ist etwas vom Schönsten, was es gibt, und alle Jahre kommen unzählige
+                        Menschen von fern und nah dahin, nur um diese Berge zu sehen. Warum
+                        bleiben sie denn nicht zu Hause und lassen sich davon erzählen oder
+                        sehen Bilder davon an? Weil Erzählungen und Bilder davon ihnen nie den
+                        Anblick der Berge selber ersetzen könnten. Es gibt größere und
+                        wichtigere Dinge als solche <term type="Sachen" key="Berge / Bergwelt">Schneeberge</term>, aber das bleibt sich doch gleich, wenn uns
+                        etwas groß und wichtig sein soll, muss es vor uns selber in Wirklichkeit
+                        dastehen. Die Erzählung davon kann uns nur ein Ansporn sein, es
+                        aufzusuchen. So empfanden es die Hirten auf dem Feld, als sie sich mit
+                        der Botschaft nicht begnügten, sondern selber sehen wollten, was ihnen
+                        verheißen war.</p>
+                    <p>Liebe Freunde! Wir Alle haben heute diese Botschaft wieder gehört: Siehe,
+                        ich verkündige euch große Freude! Euch ist heute <pb ed="-A" n="5"/> der <term type="Sachen" key="Jesus Christus, Heiland">Heiland</term> geboren, welcher ist Christus der Herr! [<ref type="can" subtype="bible" target="Lk.2.10 Lk.2.11">Lk. 2,10f.</ref>] Wir kennen die
+                        Worte alle von Kindesbeinen an, und sie klingen uns freundlich und
+                        vertraut in den Ohren. Für viele Leute ist es der Höhepunkt ihrer <term type="Sachen" key="Weihnachtsfeier">Weihnachtsfeier</term>, dies
+                        alte <term type="Sachen" key="Weihnachtsevangelium">Evangelium</term> zu
+                        lesen oder sich vorlesen zu lassen und darüber zu sinnen. Wir Alle
+                        freuen uns doch über die Botschaft, die wir an <term type="Sachen" key="Weihnachten">Weihnachten</term> vernehmen, der mehr, der
+                        weniger. Aber haben wir denn schon getan, was die Hirten dort taten?
+                        Lasset uns hingehen gen Bethlehem? Wenn wir’s nicht getan haben,
+                        dann fehlt unsrer Weihnachtsfeier doch die Hauptsache. Was hilft uns die
+                        Engelbotschaft, wenn wir uns nicht selber aufmachen, zu sehen, was diese
+                        Botschaft verkündigt? Ist uns der Weg zu schwer, oder haben wir am Ende
+                        die Botschaft gar nicht verstanden?! Sieh, vielleicht denkst du jetzt:
+                        jene Hirten hatten es wohl einfach, hinzugehen und selber zu sehen.
+                        Würde mir verkündigt, in <placeName ref="kbga-places-1121">Ziegenhain</placeName> oder in <placeName ref="kbga-places-942">Treysa</placeName><note xml:id="n03">
+                                <placeName ref="kbga-places-942">Treysa</placeName> und die damalige Kreisstadt
+                                <placeName ref="kbga-places-1121">Ziegenhain</placeName>
+                            waren <placeName ref="kbga-places-1066">Niedergrenzebach</placeName> benachbart; heute sind auch sie
+                            Stadtteile von <placeName ref="kbga-places-1118">Schwalmstadt</placeName>.</note> ist der <term type="Sachen" key="Jesus Christus, Heiland">Heiland</term> geboren, ich wollte
+                        auch gehen, ihn zu schauen. Aber was soll mir Bethlehem? Seit Christi
+                        Geburt ist es lange her, und das heilige <term type="Sachen" key="Heiliges Land">Land</term> ist so weit weg. Wenn du so redest,
+                        dann hast <pb xml:id="p100" ed="pga"/> du die <pb ed="-A" n="6"/>
+                        Botschaft des Weihnachtstages noch nicht verstanden. Nicht in längst
+                        vergangenen Zeiten und nicht in fernen Ländern müssen wir unser
+                        Bethlehem suchen, auf das uns jene Botschaft hinweist. In unserm eigenen
+                        Leben müssen wir es entdecken. <hi rend="i">Das Vergangene muss uns gegenwärtig
+                            werden</hi>, wenn unsre <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> in die Tiefe gehen soll.</p>
+                    <p>Aber bevor wir uns auf den Weg nach Bethlehem machen, müssen wir wie die
+                        Hirten davon überzeugt sein, dass wir das Große und Schöne, das uns die
+                        Botschaft verheißt, auch <hi rend="i">nötig</hi> haben. Die Hirten sehnten
+                        sich mit dem ganzen Volke <term type="Sachen" key="Israel (Volk)">Israel</term> nach dem <term type="Sachen" key="Messias">Gesalbten</term> des Herrn, der sein Volk aus der <term type="Sachen" key="Israel (Volk), Not">Not</term> befreien sollte.
+                        Die <hi rend="i">Not</hi>, das ist es! Solange wir glauben, unsre eigenen
+                        Wünsche und Gedanken könnten uns glücklich machen, solange können wir
+                        gar nicht verstehen, warum wir uns auf den Weg nach <placeName ref="kbga-places-385">Bethlehem</placeName> machen sollten. Unsre
+                        eigenen Wünsche und Gedanken! Sollen wir denn keine solchen haben? So
+                        ist’s nicht gemeint! Jeder von uns hat in seinem täglichen <term type="Sachen" key="Leben, alltägliches">Leben</term> von Gott ganz
+                        bestimmte Aufgaben und Ziele erhalten, und er soll an ihnen arbeiten aus
+                        aller Kraft. Für die Meisten unter uns besteht diese Aufgabe darin, Haus
+                        und Hof als rechtschaffene Haushalter zu verwalten und so den <pb ed="-A" n="7"/> Ihrigen Brot und Leben zu schaffen. Das ist
+                        eine große und schöne Aufgabe, aber wie schwer ist sie, wenn man sie
+                        ernst nimmt! Das Schöne und das Schwere dieses <term type="Sachen" key="Bauernstand">Standes</term> besteht doch darin, dass die Arbeit
+                        der Menschen dabei eine Gemeinschaft und Gemeinsamkeit Aller erfordert,
+                        wie sonst in keinem andren Stand. Vater und <term type="Sachen" key="Familie">Mutter,</term> Söhne und Töchter, Knechte und Mägde,
+                        alle sind gleichsam nur Glieder <hi rend="i">eines</hi> Leibes [vgl. 
+                            <ref type="can" subtype="bible" target="1.Kor.12.12">1.Kor. 12,12</ref>], die nur
+                        in verschiedener Weise rastlos dasselbe Ziel zu fördern haben. Aber wie
+                        schwer ist diese Gemeinschaft zu halten und immer zu erneuern, wenn man
+                        sie ernst nimmt. Denn wer diese Gemeinschaft des Denkens und Arbeitens,
+                        wie sie dieser <term type="Sachen" key="Bauernstand">Stand</term> schon
+                        äußerlich mit sich bringt, ernst nimmt, der wird auch einsehen, dass es
+                        dabei mit einer äußerlichen Eintracht nicht getan ist, wenn sie nicht
+                        getragen ist von einer inwendigen <term type="Sachen" key="Gerechtigkeit, innere">Gerechtigkeit</term> und <term type="Sachen" key="Liebe, innere">Liebe</term>; und wenn er tiefer
+                        eindringt, wird er erkennen, dass diese Gerechtigkeit und Liebe wie das
+                        einzig unfehlbare Mittel so das einzige wahre Ziel seiner <term type="Sachen" key="Arbeit, Ziel">Arbeit</term> sein müsste. Aber
+                        wieviel steht dem entgegen! <term type="Sachen" key="Selbstsucht">Selbstsucht</term>, <term type="Sachen" key="Lieblosigkeit">Lieblosigkeit</term>, <term type="Sachen" key="Stumpfsinn">Stumpfsinn</term> bei den Andern und vor Allem bei uns selbst, dazu
+                        viel<pb xml:id="p101" ed="pga"/>leicht äußeres Missgeschick scheinen sich
+                        dem ernsten Menschen wie unüberwindliche Hindernisse aufzutürmen. Was
+                        dann tun? Die Aufgabe im Stich lassen? Nein, solche Hindernisse auf
+                        unserm Weg zu dem, was wir für gut erkannt, weisen uns vielmehr darauf
+                        hin, dass wir die Aufgabe vielleicht noch gar nicht in ihrer Tiefe
+                        erfasst haben. <pb ed="-A" n="8"/> Je gründlicher wir es mit uns
+                        nehmen, desto mehr entdecken wir, wie sehr der Fehler vielfach an uns
+                        lag, wie sehr wir uns selber innerlich anders zur Sache stellen sollten.
+                        Aber wie können wir das tun? Können wir aus unsrer eigenen Haut
+                        schlüpfen? Seht, es sind gerade die ernsten Leute, die über ihrem
+                        eigenen Unvermögen, zu tun, was sie für gut und recht halten, unmutig
+                        und verzagt werden. Wie oft sind so Menschen, die mit dem besten Willen
+                        an ihre Aufgabe gegangen waren, zum Rande der Verzweiflung gelangt, wie
+                        Vielen auf der weiten Erde geht es vielleicht gerade in diesen Tagen so,
+                        und die <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> der Andern scheint ihnen dann wie grausamer
+                        Hohn – denn was soll dem die <term type="Sachen" key="Weihnachten">Weihnacht</term>, der innerlich den Mut und die
+                        Freudigkeit zum Leben verlernt hat? Meine Freunde! Es braucht nicht
+                        gerade so weit mit uns gekommen zu sein, aber etwas von dieser
+                        Niedergeschlagenheit hat doch wohl Jeder erlebt, der in seinem Innern
+                        sich höhere <term type="Sachen" key="Mensch, höhere Aufgabe">Aufgaben</term> stellt als die Füllung seines Geldsacks.</p>
+                    <p>Wer es gelernt hat, mit sich selbst unzufrieden zu sein, der wird aus dem
+                            <term type="Sachen" key="Weihnachtsevangelium">Weihnachtsevangelium</term> heraus eine <term type="Sachen" key="Verheißung">Verheißung</term> hören, die ihn angeht, weil er
+                        sie <hi rend="i">nötig</hi> hat. Ich verkündige euch große Freude! [<ref type="can" subtype="bible" target="Lk.2.10">Lk. 2,10</ref>] Friede auf Erden!
+                        [<ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>] <term type="Sachen" key="Friede">Friede</term>, <pb ed="-A" n="9"/>
+                        <term type="Sachen" key="Freude">Freude</term>, <term type="Sachen" key="Gerechtigkeit">Gerechtigkeit</term>, das war es ja, was er für
+                        sein eigenes Leben suchte und nicht fand. Für sein eigenes Leben! Nun
+                        verstehen wir auch, warum wir das <placeName ref="kbga-places-385">Bethlehem</placeName>, auf das uns die Botschaft hinwies,
+                        in unserm gegenwärtigen Leben suchen müssen und nicht in fernen Zeiten
+                        und Ländern. Nicht eine schöne Stimmung oder Erinnerung für den Sonntag
+                        oder für die Weihnachtsfeier suchten wir ja, sondern <hi rend="i">Kraft</hi>
+                        für das <hi rend="i">ganze</hi> gegenwärtige Leben.</p>
+                    <p>Wie, wenn wir sie hier fänden?</p>
+                    <p>Siehe, euch ist <hi rend="i">heute<note type="textcritical" n="c" xml:id="nc"> Im Mskr. doppelt unterstrichen.</note></hi> der <term type="Sachen" key="Jesus Christus, Heiland">Heiland</term> geboren. [<ref type="can" subtype="bible" target="Lk.2.11">Lk. 2,11</ref>]</p>
+                </div>
+                <div>
+                    <pb xml:id="p102" ed="pga"/>
+                    <head type="4">
+                            <pb ed="-A" n="10" rend="noPipe"/> II</head>
+                    <p rend="noindent">Lasst uns nun hingehen gen Bethlehem <hi rend="i">und die
+                            Geschichte sehen, die da geschehen ist</hi>. Eine einfache
+                        Geschichte ist da geschehen, etwas Alltägliches: ein Mensch ist zur Welt
+                        geboren. Und doch hat diese Geschichte die Hirten so ergriffen, dass sie
+                        es allen Leuten erzählen mussten. «Und Alle, vor die es kam, wunderten
+                        sich der Rede» [<ref type="can" subtype="bible" target="Lk.2.18">Lk. 2,18</ref>]. Warum? Weil sie in diesem Kind den erwarteten, der, von
+                        Gott gesandt, <term type="Sachen" key="Israel (Volk)">Israel</term>
+                        befreien sollte, und das war ihre größte Hoffnung.</p>
+                    <p>Die Erfüllung ist aber herrlicher gewesen als die Hoffnung. Schon 50
+                        Jahre nach diesem Ereignis haben Unzählige, nicht nur aus dem Volke
+                        Israel, sondern aus allen Ländern und Völkern geglaubt und bekannt, dass
+                        ihnen mit diesem Kindlein ein neues Leben geschenkt worden sei. Die
+                        Botschaft von diesem neuen <term type="Sachen" key="Leben, neues">Leben</term> ist nicht erloschen, sie ist weitergetragen worden
+                        durch die Zeiten, sie ist zu unsern Vätern gekommen und dann zu uns, die
+                        wir heute wieder Weihnacht feiern.</p>
+                 
+                        <q rend="block">
+                            <lg>
+                                <l>
+                                    <hi rend="i">Gott ward <term type="Sachen" key="Gott, wurde Mensch">Mensch</term></hi>.<note xml:id="n04">Aus der <bibl type="song" corresp="kbga-songs-7">zweiten Strophe des Liedes «Fröhlich soll mein
+                                        Herze springen» von <author ref="kbga-actors-131">P. Gerhardt</author> (RG 400; EG 36
+                                        [dort jeweils: «Gott wird Mensch»]</bibl>).</note>
+                                </l>
+                            </lg>
+                        </q>
+                 
+                    <p rend="noindent">Das ist die Geschichte, die in Bethlehem geschehen
+                        ist.</p>
+                    <p>Aber das ist ein großes Wort, und wir dürfen uns nicht vornehmen, das nun
+                        so glauben zu <pb ed="-A" n="11"/> wollen, weil heute einmal
+                            <term type="Sachen" key="Weihnachten">Weihnacht</term> ist. Wir
+                        haben gesagt, dass nur der den Weg nach <placeName ref="kbga-places-385">Bethlehem</placeName> findet, der so oder so auf seinem
+                        eigenen Weg den Frieden gesucht, aber nicht entdeckt hat, nur der, der
+                        erkannt hat, dass ihm <term type="Sachen" key="Kraft / Lebenskraft">
+                                <hi rend="i">Kraft</hi></term>&gt; nottut, um den Weg zu gehen, den Gott
+                        ihn auf Erden gehen geheißen. Einem solchen wirklich innerlich
+                        Bedürftigen wird es aber eher [als] etwas dunkel Geheimnisvolles
+                        erscheinen, dass Gott Mensch geworden sein soll. Wie soll er das
+                        verstehen, wenn ihm ja gerade Gott verloren gegangen ist auf seinem
+                        Wege? Darum soll er nicht zuerst glauben, sondern er soll lernen zu
+                            <hi rend="i">sehen</hi>. Das kann er, denn Gott thront nicht über den
+                        Wolken, sondern er ist ein Gott des <term type="Sachen" key="Gott, des Lebens">Lebens</term>, unsres Lebens, den wir in
+                        diesem Leben nur zu entdecken brauchen.</p>
+                    <p>Also die Augen aufgetan und Umschau gehalten nach etwas, das unsrer
+                        Notdurft Trost und Hilfe sein kann. Ein Mensch, der <term type="Sachen" key="Trost">Trost</term> bedarf, wendet sich aber vor Allem an die
+                            <hi rend="i">andern Menschen</hi>. Wer <pb xml:id="p103" ed="pga"/> selber mit
+                        seinem Leben nicht fertig werden kann, der wird sich umsehen müssen, ob
+                        die andern es können und wie sie das tun, er wird aufmerksam zusehen, ob
+                        ihr Leben viel<pb ed="-A" n="12"/>leicht die Kraft enthält,
+                        die ihm fehlt, und er wird forschen, woher sie solche <term type="Sachen" key="Kraft / Lebenskraft">Kraft</term> und Ruhe
+                        gewonnen haben. Du wirst viel Enttäuschung erleben bei dieser Umschau,
+                        denn vielleicht wirst du lange nichts Anderes entdecken als dieselbe
+                        Unruhe und Haltlosigkeit, denselben innern Unfrieden, den du aus dir
+                        selber so gut kennst. Aber dann stoßest du vielleicht plötzlich auf
+                        einen Menschen, bei dem das ganz anders ist, der dir etwas zu sagen hat
+                        – vielleicht ohne Worte! –, was dir ganz neu ist. Er hat
+                        die Unzufriedenheit mit sich selbst, unter der du leidest, auch
+                        durchgemacht, er ist vielleicht tiefer in der innern und äußern <term type="Sachen" key="Not">Not</term> gesteckt als du selbst. Aber nun
+                        ist es anders. Du spürst es seinem Reden und Schweigen, seinem Tun und
+                        Lassen an, dass er unsichtbar getragen ist von einer Macht, die ihn über
+                        sich selbst hinaushebt, und je länger du mit ihm umgehst, desto mehr
+                        geht etwas von seiner inwendigen Kraft und Ruhe auch auf dich über. Die
+                        stille, gute Macht, die jenen inmitten des Kampfes des <term type="Sachen" key="Lebenskampf">Lebens</term> erfüllt, berührt immer
+                        deutlicher auch dein Wesen, du <hi rend="i">erlebst</hi> es, dass du unter
+                        dem unwiderstehlichen Einfluss dieser Macht die Aufgaben deines <term type="Sachen" key="Mensch, Aufgabe">Lebens</term> und dich <pb ed="-A" n="13"/> selbst mit ganz andern Augen ansehen
+                        lernst. Sieh, wenn du so glücklich gewesen bist, einen Menschen zu
+                        finden, in dessen Umgang du <hi rend="i">das</hi> erlebt hast, dann ist
+                            <hi rend="i">Gott</hi> auf deinen Lebensweg getreten. Und wenn du noch
+                        keinen solchen Menschen gefunden, wenn du vielleicht noch gar nicht
+                        danach gesucht, dann sieh mal um dich, ob er nicht vielleicht neben dir
+                        geht oder steht, ob nicht dein Vater oder deine <term type="Sachen" key="Familie">Mutter,</term> dein Mann oder deine Frau, dein Freund
+                        oder deine Schwester oder eine alte Magd der Mensch ist, der dich zu den
+                        Quellen eines Lebens der <term type="Sachen" key="Kraft / Lebenskraft, Quelle">Kraft</term> führen könnte! Aber
+                        mit einem feinen und willigen Sinn musst du anklopfen, um bei einem
+                        Andern nach diesen Quellen zu fragen.</p>
+                    <p>Ihr fragt mich: aber wozu bedarf es dann der Weihnachtsbotschaft, dass
+                        Gott Mensch geworden ist, wenn ich das Leben der <term type="Sachen" key="Kraft / Lebenskraft">Kraft</term> und des <term type="Sachen" key="Friede">Friedens</term>, das sie uns verheißt, gerade so gut
+                        bei einem Mitmenschen, mit dem ich täglich umgehe, finden kann? Nun
+                        seht, dass wir das können, das verdanken wir ja eben der Tatsache der
+                            <term type="Sachen" key="Weihnachtsevangelium">Weihnachtsbotschaft</term>. Woher stammt denn jenes innere Leben
+                        der Andern, dem wir Alle irgendwie das unsrige verdanken? Stammt es
+                        nicht wieder <pb ed="-A" n="14"/> um aus <pb xml:id="p104" ed="pga"/>
+                        der Berührung mit noch Andern, die auch etwas von dieser stillen Glut in
+                        sich trugen? Und wenn wir diese feinen Linien weiter verfolgen, dann
+                        entdecken wir, dass sie zuletzt alle zusammenlaufen in einem Punkt. In
+                        dem Menschen <hi rend="i">Jesus</hi> hat der gütige <term type="Sachen" key="Gott, Güte">Gott</term> zuerst die <term type="Sachen" key="Jesus Christus, Kraft / Lebenskraft">Kraft</term> und den <term type="Sachen" key="Jesus Christus, Friede">Frieden</term> in
+                        unversiegbarer Fülle auf die <term type="Sachen" key="Erde (Planet)">Erde</term> gesandt. Und die, welche die Augen weit auftaten, die
+                        haben gespürt, dass ihnen geholfen sei, wenn sein <term type="Sachen" key="Jesus Christus, inneres Leben">Leben</term> das ihrige würde.
+                        Und was ihnen von ihm geschenkt war, das mussten sie weitergeben, und
+                        seitdem gibt es, durch die Zeiten und Länder zerstreut, einen stillen
+                        Kreis von Menschen, denen sein Leben zu ihrem eigenen geworden ist und
+                        die dieses Leben als ihren höchsten Besitz schätzen. Es bleibt ihnen
+                        aber nicht etwas Inwendiges, sondern sie nehmen es mit hinein in die
+                            <term type="Sachen" key="Arbeit">Arbeit</term> des Tages, in den
+                        Verkehr mit den Menschen. Wie sie es von andern Menschen empfangen, so
+                        geben sie das innere Licht weiter an andre. Am <term type="Sachen" key="Weihnachten">Weihnachtstag</term> aber freuen sie sich der
+                        Tatsache, dass Gott <term type="Sachen" key="Gott, wurde Mensch">Mensch</term> geworden ist in Jesus Christus. Denn das neue <term type="Sachen" key="Leben, neues">Leben</term>, das durch die
+                        Fortwirkungen des Lebens Jesu in ihnen erwacht <pb ed="-A" n="15"/> ist, ist doch nichts Anderes als Gott selber, der von ihrem
+                        Herzen Besitz ergriffen hat. –</p>
+                    <p> Nun seht, darum habe ich gesagt, dass das <placeName ref="kbga-places-385">Bethlehem</placeName>, zu dem uns die <term type="Sachen" key="Weihnachtsevangelium">Weihnachtsbotschaft</term> hinweist,
+                        etwas <hi rend="i">Wirkliches</hi> und <hi rend="i">Gegenwärtiges</hi> ist, das
+                        wir <hi rend="i">selber</hi> mit der größten <term type="Sachen" key="Gewissheit">
+                                <hi rend="i">Gewissheit</hi></term>&gt; schauen und umfassen
+                        können.</p>
+                    <p>Wenn wir zu den Menschen gehören, die schon etwas erfahren haben von dem
+                        neuen Leben, das durch die Berührung mit dem <term type="Sachen" key="Jesus Christus, Heiland">Heiland</term> in unser altes Leben
+                        hineingepflanzt wird, dann wissen wir auch, was <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> ist, wir wissen es
+                        von Jahr zu Jahr besser. Nicht nur bei der Weihnachtsfeier, nicht nur am
+                        Tisch des <term type="Sachen" key="Abendmahl">Herrn</term>, zu dem wir
+                        nachher in gemeinsamer dankbarer Freude treten wollen, sondern auf
+                        unsern alltäglichen Wegen, bei der <term type="Sachen" key="Arbeit">Arbeit</term> und in der Ruhe, auf dem Feld und in der <term type="Sachen" key="Familie">Familie</term> erleben wir etwas von
+                        dem, was das alte Weihnachtslied singt:</p>
+                
+                        <q rend="block">
+                            <lg>
+                                <l>Das ew’ge Licht geht da herein,</l>
+                                <l>Gibt der Welt einen neuen Schein;</l>
+                                <l>Es leuchtet wohl mitten in der Nacht</l>
+                                <l>Und uns des Lichtes Kinder macht.<note type="textcritical" n="d" xml:id="nd">Im Mskr. sind die voranstehenden Verse, die auf
+                                            einem ausgeschnittenen Zettel gedruckt sind,
+                                            aufgeklebt.</note><note xml:id="n05">
+                                        <bibl type="song" corresp="kbga-songs-5">Strophe 4 des Liedes
+                                        «Gelobet seist du, Jesu Christ» von <author ref="kbga-actors-261">M. Luther</author>
+                                        (RG 392; EG 23 [jeweils mit leichten
+                                        Textabweichungen])</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+              
+                    <p> <pb rend="noPipe" xml:id="p105" ed="pga"/> Aber vielleicht geht es uns doch auch so, dass wir uns
+                        sagen müssen: ja es wäre schön, ein solches Leben der <term type="Sachen" key="Kraft / Lebenskraft">Kraft</term> und des <term type="Sachen" key="Friede">Friedens</term> und der <term type="Sachen" key="Wahrheit">Wahrheit</term>, <pb ed="-A" n="16"/> aber wie kann ich es festhalten? Ich ahne und fühle, dass
+                        Gott mir nahe ist, oft glaubte [ich], ihn schon ergriffen zu haben, aber
+                        da sind immer wieder diese und jene Hindernisse in mir selbst, meine
+                            <term type="Sachen" key="Selbstsucht">Selbstsucht</term>, mein
+                        Kurzsinn, meine schlechten Neigungen, die mich von ihm trennen, die mir
+                        den Frieden und die Kraft immer wieder nehmen. Ich denke, auch die
+                        Fortgeschrittensten unter uns kennen diesen schwersten aller Zweifel.
+                        Seht, dann wollen wir uns heute zurufen: Lasst uns hingehen gen
+                        Bethlehem und die Geschichte sehen, die da geschehen ist!</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Die ihr arm seid und elende,</l>
+                                <l>Kommt herbei,</l>
+                                <l>Füllet frei</l>
+                                <l>Eures Glaubens Hände!</l>
+                                <l>– – – –</l>
+                                <l>Lasset fahren, liebe Brüder,</l>
+                                <l>Was euch quält,</l>
+                                <l>Was euch fehlt,</l>
+                                <l>Ich bring Alles wieder!<note xml:id="n06">
+                                        <bibl type="song" corresp="kbga-songs-7">Zwei
+                                        Halbstrophen des Liedes «Fröhlich soll mein Herze
+                                        springen» von <author ref="kbga-actors-131">P. Gerhardt</author> (RG 400,9a.5b;
+                                        EG 36,9a.5b [jeweils mit
+                                    Textmodernisierungen]</bibl>).</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Und zum Schluss die große Hauptsache, die uns Allen gilt:
+                        nicht von unserm Wollen und Laufen hängt es ab, ob wir in unserm Leben
+                        das Bethlehem der <term type="Sachen" key="Kraft / Lebenskraft">Kraft</term> und des <term type="Sachen" key="Friede">Friedens</term> finden. Wir wollen ja eine Geschichte sehen,
+                            <hi rend="i">die uns der Herr kundgetan hat</hi>.</p>
+                    <p> <pb rend="noPipe" ed="-A" n="17"/> Wenn aber die <term type="Sachen" key="Weihnachtsevangelium">Botschaft</term>, die heute wieder an uns
+                        Alle ergeht, vom Herrn kommt, dann liegt es auch in seiner Hand, wie er
+                        sie im Einzelnen verwirklichen will [in] unserm Leben. Wenn er sie schon
+                        verwirklicht hat an uns, dann wird unsre <term type="Sachen" key="Weihnachtsfreude, Dank">Weihnachtsfreude</term>
+                        <hi rend="i">Dank</hi> sein für seine unverdiente <term type="Sachen" key="Gott, Güte">Güte</term>, ein Dank, der nicht in Worten besteht,
+                        sondern in dem ernsten Willen, das Weihnachtslicht heller leuchten zu
+                        lassen in uns und außer uns. – |</p>
+                  
+                    <p> <pb rend="noPipe" xml:id="p106" ed="pga"/> Wenn es uns aber scheint, als ob unser Weg immer wieder ins Dunkel und
+                        Dickicht führe, dann dürfen wir heute den <term type="Sachen" key="Mut">
+                                <hi rend="i">Mut</hi></term>&gt; fassen, hinwegzusehen über die Nebel zu
+                        den Bergen, von denen auch uns Hilfe kommen wird [vgl. <ref type="can" subtype="bible" target="Ps.121.1">Ps. 121,1</ref>].</p>
+                    <p>Meine lieben Freunde! Das soll unsre <term type="Sachen" key="Weihnachtsfreude">
+                                <hi rend="i">Weihnachtsfreude</hi></term>&gt; sein,
+                        dass <term type="Sachen" key="Gotteskraft">Gotteskraft</term> in unser
+                        Menschenleben gekommen ist.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Welt ging verloren,</l>
+                                <l>Christ ward geboren.</l>
+                                <l>Freue, freue dich, oh Christenheit!<note xml:id="n07">Aus <bibl type="song" corresp="kbga-songs-235">Strophe 1 des Liedes «O du fröhliche»</bibl>
+                                        (s. Anm. 2).</note>
+                                </l>
+                            </lg>
+                        </q>
+                    </div>  
+                    <div type="closer">
+                            <salute>Amen.</salute>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

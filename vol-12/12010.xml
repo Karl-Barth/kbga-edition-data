@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Predigt: Epheser 2,5: "Durch Gnade seid ihr gerettet"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Epheser 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12010 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12010 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 32–39.</title>
       </titleStmt>
       <editionStmt>
@@ -52,10 +52,10 @@
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Durch Gnade seid ihr gerettet, 1959, in: Den Gefangenen Befreiung. Predigten aus den Jahren 1954-59, 28-37; Ba.Pr. Jg. 19 Nr. 6, Oktober 1955. Seitenumbrüche im Text entstammen dieser Edition</bibl>
         <bibl xml:id="B" type="source">B (Weitere Vorlage der Edition): Barth, Karl, Durch Gnade seid ihr gerettet, 1955, in: Ba.Pr.; D.G.B. S. 28-37. </bibl>
-        <bibl xml:id="C" corresp="KBA 1635.3" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <idno ref="https://kba.karl-barth.ch/objects/2190">KBA 1635.3</idno>. </bibl>
-        <bibl xml:id="D" corresp="KBA 686.2" type="source">D (Weitere Vorlage): Barth, Karl, Durch Gnade seid ihr gerettet. Predigt über Eph. 2, 5, 14. August 1955. <idno ref="https://kba.karl-barth.ch/objects/6381">KBA 686.2</idno>. </bibl>
-        <bibl xml:id="E" corresp="KBA 1635.2" type="source">E (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <idno ref="https://kba.karl-barth.ch/objects/2189">KBA 1635.2</idno>. </bibl>
-        <bibl xml:id="F" corresp="KBA 1635.1" type="source">F (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <idno ref="https://kba.karl-barth.ch/objects/2084">KBA 1635.1</idno>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <ref target="https://kba.karl-barth.ch/objects/2190">KBA 1635.3</ref>. </bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): Barth, Karl, Durch Gnade seid ihr gerettet. Predigt über Eph. 2, 5, 14. August 1955. <ref target="https://kba.karl-barth.ch/objects/6381">KBA 686.2</ref>. </bibl>
+        <bibl xml:id="E" type="source">E (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <ref target="https://kba.karl-barth.ch/objects/2189">KBA 1635.2</ref>. </bibl>
+        <bibl xml:id="F" type="source">F (Weitere Vorlage): Barth, Karl, Predigt: Eph 2,5: "Durch Gnade seid ihr gerettet", 14. August 1955. <ref target="https://kba.karl-barth.ch/objects/2084">KBA 1635.1</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -72,48 +72,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,18 +83,22 @@
         <div type="opener">
       <head type="header">DURCH GNADE SEID IHR GERETTET</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="Eph.2.5">Epheser 2,5</ref>
+        <cit>
+                            <ref type="can" subtype="bible" target="Eph.2.5">Epheser 2,5</ref>
         </cit>
       </epigraph>
-      <dateline><date when="1955-08-14">14. August 1955</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName></dateline>
+      <dateline>
+                        <date when="1955-08-14">14. August 1955</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName>
+                    </dateline>
         <div type="prayer">
           <p>Herr unser Gott! Du hast uns in deinem Sohn, unserem Herrn Jesus Christus, zu deinen Kindern gemacht. Und nun haben wir deinen Ruf gehört und sind hier zusammengekommen, um dich gemeinsam zu loben, dein Wort zu hören, dich anzurufen und, was uns bedrückt und was wir bedürfen, in deine Hände zu legen. Sei du selbst jetzt mitten unter uns und unterweise uns — damit Alles, was ängstlich und verzagt, auch Alles, was eitel und trotzig ist, auch unser ganzer Unglaube und Aberglaube klein werde, damit du uns zeigen kannst, wie groß und gut du bist, damit unsere Herzen auch zueinander aufgehen hin und her, so daß wir einander verstehen und uns dann auch ein wenig helfen können, damit dies eine Stunde des Lichtes werde, in welchem wir den Himmel offen sehen und dann auch ein wenig Helligkeit auf dieser dunklen Erde.</p>
           <p>Das Alte ist ja vergangen und Alles ist ja neu geworden. Das ist <pb xml:id="p033" ed="pga"/> wahr und auch für uns wahr: so gewiß du in Jesus Christus auch unser aller Heiland bist. Aber das kannst nur du selbst uns recht sagen und zeigen. So sage und zeige es uns denn — uns und Allen, die an diesem Sonntagmorgen mit uns beten. Sie beten auch für uns. Und so tun wir es auch für sie. Erhöre sie und uns!</p>
           <div type="closer">
-            <salute>Amen. <pb ed="A" n="29"/></salute>
+            <salute>Amen. 
+                            </salute>
           </div>
         </div>
-          <salute>Meine lieben Brüder und Schwestern!</salute>
+          <salute><pb ed="A" n="29"/> Meine lieben Brüder und Schwestern!</salute>
       </div>
       <div type="main">
         <p>Ich lese jetzt ein Wort aus dem Brief des Apostels <persName ref="kbga-actors-313">Paulus</persName> an die Epheser (<ref type="can" subtype="bible" target="Eph.4.11">Kap. 2,5</ref>): <hi rend="i">Durch Gnade seid ihr gerettet</hi>. Ich denke, es ist kurz genug, daß ihr alle es behalten und euch einprägen und, so Gott will, auch verstehen könnt.</p>
@@ -143,12 +107,15 @@
         <p>Hören wir jetzt, was in der Bibel steht und was wir als Christen miteinander vernehmen dürfen: «Durch Gnade seid ihr gerettet.» Seht, das kann man sich nicht selber sagen. Das kann auch kein Mensch dem anderen sagen. Das kann uns allen nur von Gott gesagt werden. Jesus Christus ist nötig dazu, daß das wahr ist, und Propheten und Apostel sind nötig, um dar weiterzugeben. Und damit wir es uns nun untereinander mitteilen können, dazu bedarf es dessen, daß wir hier als Christen zusammenkommen. Dafür ist das nun etwas wirklich Neues, und zwar etwas immer wieder ganz Neues und Besonderes: das Interessanteste, was es gibt, das Hilfreichste nicht nur, sondern das Einzige, das dem Menschen überhaupt helfen kann.</p>
         <p>«Durch Gnade seid ihr gerettet.» Wie merkwürdig, daß das zu uns gesagt sein soll, daß wir das hören dürfen! Wer sind denn schon «wir»? Laßt es mich einmal offen aussprechen: große Sünder sind wir alle miteinander. Versteht mich recht: ich sage das genau so von mir wie von euch. Ich will mich gerne als den größten Sünder unter euch allen bekennen, aber ihr dürft euch wirklich auch nicht ausschließen! Sünder: das sind Menschen, welche nach dem Urteil Gottes und vielleicht auch ihres eigenen Gewissens ihren Weg gründlich verfehlt und verloren haben, die nicht nur ein bißchen, sondern ganz und gar schuldig, über und über verschuldet und verloren sind — nicht nur in der Zeit, sondern endgültig, ewig verloren. <pb ed="A" n="31"/> Solche Sünder sind wir. Und Gefangene sind wir. Glaubt es nur: es gibt eine Gefangenschaft, die schlimmer ist als die in diesem Hause, Mauern, die viel dicker, und Türen, die viel fester sind als die, hinter denen ihr hier verschlossen seid. Wir alle — die draußen und ihr hier — sind Gefangene unseres eigenen Trotzes, unserer verschiedenen Begierden, unserer mannigfachen Angst, unseres Mißtrauens und in tiefstem Grunde: Gefangene unseres Unglaubens. Und Leidende sind wir Menschen auch alle. Und am meisten leiden wir alle an uns selber, an unserem Leben, das ein Jeder für sich und dann auch für die Anderen zu einem schweren Leben macht. Wir leiden an seiner Sinnlosigkeit. Wir leiden im Schatten des Todes und des ewigen Gerichtes, dem wir entgegengehen. Und es ist eine ganze Welt von Sünde und Gefangenschaft und Leiden, in deren Mitte wir unser Leben zubringen.</p>
 
-        <p><pb xml:id="p035" ed="pga"/> Und nun hört: Mitten in das alles hinein kommt wie von oben das Wort: «Durch Gnade seid ihr gerettet.» Gerettet, das heißt nicht nur: so ein bißchen ermutigt, getröstet und erleichtert, sondern heißt: herausgerissen wie ein Stück Holz aus einem brennenden Feuer [vgl. <ref type="can" subtype="bible" target="Am.4.11">Am. 4,11</ref>]. Ihr seid gerettet! Es heißt also nicht nur: ihr werdet vielleicht einmal, wenigstens teilweise, gerettet werden, nein, ihr <hi rend="i">seid</hi> gerettet, ganz und gar und endgültig. Ihr? Ja, wir! Nicht nur irgendwelche anderen Menschen, frömmere und bessere als wir, nein, wir, Jeder, Jede von uns.</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p035" ed="pga"/> Und nun hört: Mitten in das alles hinein kommt wie von oben das Wort: «Durch Gnade seid ihr gerettet.» Gerettet, das heißt nicht nur: so ein bißchen ermutigt, getröstet und erleichtert, sondern heißt: herausgerissen wie ein Stück Holz aus einem brennenden Feuer [vgl. <ref type="can" subtype="bible" target="Am.4.11">Am. 4,11</ref>]. Ihr seid gerettet! Es heißt also nicht nur: ihr werdet vielleicht einmal, wenigstens teilweise, gerettet werden, nein, ihr <hi rend="i">seid</hi> gerettet, ganz und gar und endgültig. Ihr? Ja, wir! Nicht nur irgendwelche anderen Menschen, frömmere und bessere als wir, nein, wir, Jeder, Jede von uns.</p>
         <p>Das ist so, weil Jesus Christus unser Bruder und weil er durch sein Leben und Sterben unser Retter geworden ist, unsere Errettung vollzogen hat. Er ist das Wort Gottes an uns. Und dieses Wort lautet: «Durch <hi rend="i">Gnade</hi> seid ihr gerettet.»</p>
-        <p>Ihr kennt wohl alle die Geschichte von dem Reiter, der bei Nacht und Nebel, ohne es zu wissen, über den gefrorenen <placeName ref="kbga-places-850">Bodensee</placeName> geritten ist und am anderen Ufer, als er hörte, woher er kam, vor Schrecken zusammenbrach.<note xml:id="n01">Vgl. die Ballade <bibl corresp="kbga-bibls-1588"><title level="m">Der Reiter und der Bodensee</title> (<date when="1826">1826</date>) von <author ref="kbga-actors-2501">G. Schwab</author>.</bibl>
+        <p>Ihr kennt wohl alle die Geschichte von dem Reiter, der bei Nacht und Nebel, ohne es zu wissen, über den gefrorenen <placeName ref="kbga-places-850">Bodensee</placeName> geritten ist und am anderen Ufer, als er hörte, woher er kam, vor Schrecken zusammenbrach.<note xml:id="n01">Vgl. die Ballade <bibl corresp="kbga-bibls-1588">
+                                <title level="m">Der Reiter und der Bodensee</title> (<date when="1826">1826</date>) von <author ref="kbga-actors-2501">G. Schwab</author>.</bibl>
         </note> Seht, das ist des Men<pb ed="A" n="32" break="no"/>schen Situation, wenn der Himmel aufgeht und die Erde hell wird, wenn wir es hören dürfen: «Durch Gnade seid ihr gerettet.» Wir gleichen dann wahrhaftig jenem tief erschrockenen Reiter. Denn, nicht wahr, wenn man das hört, dann blickt man unwillkürlich zurück und fragt sich: Wo war ich eigentlich? Über einem Abgrund, in größter Todesgefahr! Was habe ich getan? Das Unsinnigste, was ich tun konnte! Wie war ich dran? Ja, wie Einer, mit dem es aus ist und der nun eben nur gerettet, unbegreiflich entronnen ist. Ihr fragt: Steht es wirklich so gefährlich mit uns? Ja, genau so: wirklich lebensgefährlich. Wir sind gerettet. Aber nun schaut unseren Retter an und unsere Rettung und also Jesus Christus am Kreuz, an unserer Stelle angeklagt, verurteilt und bestraft. Wißt ihr, um wessen willen er da hängt? Um unseretwillen: wegen unserer Sünde, in unserer Gefangenschaft, beladen mit unserem Leid. So stand es mit uns, wie es da mit ihm steht. So konnte und mußte Gott mit uns umgehen. Aus dieser Finsternis hat er uns gerettet. Wer hier nicht nachträglich zu Tode erschrecken würde, der würde das Wort Gottes: «Durch Gnade seid ihr gerettet» wohl noch nicht gehört haben.</p>
 
-        <p rend="margin-top"><pb xml:id="p036" ed="pga"/> Aber nun ist ja das Andere noch viel wichtiger und ist erst das Eigentliche, was wir jetzt hören dürfen: «Durch Gnade seid ihr <hi rend="i">gerettet</hi>.» Also: wir sind am Ufer, der <placeName ref="kbga-places-850">Bodensee</placeName> liegt hinter uns, wir dürfen aufatmen, obwohl und indem uns der Schrecken noch in allen Gliedern liegen mag und auch soll. Er kann aber doch nur noch ein nachträglicher Schrecken sein. In der Kraft der guten Botschaft geht wirklich der <hi rend="i">Himmel</hi> auf, wird es wirklich <hi rend="i">hell</hi> auf der dunklen Erde. Wie herrlich, dürfen wir uns sagen lassen: dort, in jener Finsternis, über jenem Abgrund, in jener Todesgefahr <hi rend="i">war</hi> ich, und eben dort bin ich jetzt <hi rend="i">nicht</hi> mehr. Jenes Schreckliche <hi rend="i">tat</hi> ich, aber eben das kann und will und werde ich <hi rend="i">nicht</hi> mehr, nie mehr tun. So <hi rend="i">war</hi> ich dran, aber so muß<pb ed="A" n="33"/> und werde ich <hi rend="i">nie</hi>, nie mehr dran sein. Meine Sünde, meine Gefangenschaft und mein ganzes Leid war gestern, nicht heute, war meine Vergangenheit, ist nicht meine Gegenwart und nicht meine Zukunft. Ich bin gerettet! Ist es wirklich so, ist das wahr? Schau jetzt noch einmal Jesus Christus an in seinem Tod am Kreuz! Und sieh und versteh, was er da getan und gelitten hat, das hat er für dich, für mich, für uns alle getan. Er hat unsere Sünde, unsere Gefangenschaft und unser Leid getragen und nicht umsonst getragen. Er hat das alles von uns hinweggetragen. Er hat dort gehandelt wie unser aller Hauptmann, ist durch die Reihen der Feinde hindurchgestoßen, hat den Sieg, unseren Sieg, schon gewonnen. Wir brauchen ihm bloß nachzugehen, um mit ihm Sieger zu sein. Durch ihn, in ihm sind wir gerettet, so daß uns unsere Sünde nichts mehr anhaben kann, so daß unser Gefängnis offen ist, so daß unsere Leiden vorbei sind. Ja, das ist ein großes Wort. Das Wort Gottes ist eben ein großes Wort! Und man müßte ihn, man müßte den Herrn Jesus Christus leugnen, wenn man das leugnen wollte: Er macht uns frei, und wenn er, der Sohn Gottes, uns frei macht, dann sind wir <hi rend="i">recht</hi> frei [vgl. <ref type="can" subtype="bible" target="Joh.8.36">Joh. 8,36</ref>].</p>
+        <p rend="margin-top">
+                        <pb rend="noPipe" xml:id="p036" ed="pga"/> Aber nun ist ja das Andere noch viel wichtiger und ist erst das Eigentliche, was wir jetzt hören dürfen: «Durch Gnade seid ihr <hi rend="i">gerettet</hi>.» Also: wir sind am Ufer, der <placeName ref="kbga-places-850">Bodensee</placeName> liegt hinter uns, wir dürfen aufatmen, obwohl und indem uns der Schrecken noch in allen Gliedern liegen mag und auch soll. Er kann aber doch nur noch ein nachträglicher Schrecken sein. In der Kraft der guten Botschaft geht wirklich der <hi rend="i">Himmel</hi> auf, wird es wirklich <hi rend="i">hell</hi> auf der dunklen Erde. Wie herrlich, dürfen wir uns sagen lassen: dort, in jener Finsternis, über jenem Abgrund, in jener Todesgefahr <hi rend="i">war</hi> ich, und eben dort bin ich jetzt <hi rend="i">nicht</hi> mehr. Jenes Schreckliche <hi rend="i">tat</hi> ich, aber eben das kann und will und werde ich <hi rend="i">nicht</hi> mehr, nie mehr tun. So <hi rend="i">war</hi> ich dran, aber so muß <pb ed="A" n="33"/> und werde ich <hi rend="i">nie</hi>, nie mehr dran sein. Meine Sünde, meine Gefangenschaft und mein ganzes Leid war gestern, nicht heute, war meine Vergangenheit, ist nicht meine Gegenwart und nicht meine Zukunft. Ich bin gerettet! Ist es wirklich so, ist das wahr? Schau jetzt noch einmal Jesus Christus an in seinem Tod am Kreuz! Und sieh und versteh, was er da getan und gelitten hat, das hat er für dich, für mich, für uns alle getan. Er hat unsere Sünde, unsere Gefangenschaft und unser Leid getragen und nicht umsonst getragen. Er hat das alles von uns hinweggetragen. Er hat dort gehandelt wie unser aller Hauptmann, ist durch die Reihen der Feinde hindurchgestoßen, hat den Sieg, unseren Sieg, schon gewonnen. Wir brauchen ihm bloß nachzugehen, um mit ihm Sieger zu sein. Durch ihn, in ihm sind wir gerettet, so daß uns unsere Sünde nichts mehr anhaben kann, so daß unser Gefängnis offen ist, so daß unsere Leiden vorbei sind. Ja, das ist ein großes Wort. Das Wort Gottes ist eben ein großes Wort! Und man müßte ihn, man müßte den Herrn Jesus Christus leugnen, wenn man das leugnen wollte: Er macht uns frei, und wenn er, der Sohn Gottes, uns frei macht, dann sind wir <hi rend="i">recht</hi> frei [vgl. <ref type="can" subtype="bible" target="Joh.8.36">Joh. 8,36</ref>].</p>
         <p>Aber eben weil wir in Jesus Christus und nicht anders gerettet sind, darum <hi rend="i">durch Gnade</hi>. Das bedeutet: Wir haben es nicht verdient, gerettet zu sein; was wir verdient hätten, wäre etwas ganz Anderes. Wir können uns das auch nicht verschaffen. Man las in diesen Tagen in der Zeitung, daß man sich nächstens sogar einen künstlichen Mond verschaffen werde. Aber daß wir gerettet sind, das können wir uns nicht verschaffen. Und darauf, daß er gerettet ist, kann Keiner von uns stolz sein, sondern da kann Jeder nur in großer Demut die Hände falten und dankbar sein wie ein Kind. Und es wird auch nie eine Sache sein, die wir ha<pb xml:id="p037" break="no" ed="pga"/>ben, daß wir gerettet sind, sondern eine, die wir immer wieder zu empfangen, nach der wir immer wieder <pb ed="A" n="34"/> leere Hände auszustrecken haben werden. «Durch Gnade seid ihr gerettet», das heißt: da gilt es immer wieder von uns selber wegzuschauen dorthin, wo das wahr ist: auf Gott und auf den Mann am Kreuz. Das will immer wieder geglaubt und im Glauben ergriffen sein. Glauben aber bedeutet das: auf Gott und auf Jesus Christus schauen und uns darauf verlassen, daß da, da, die Wahrheit ist für uns, für unser Leben, für das Leben aller Menschen.</p>
         <p>Ist es nicht schade, daß wir gerade dagegen in unserem Herzen irgendeine tiefe Auflehnung haben? Ja, wir haben das nicht gerne, daß es heißt: durch Gnade, ganz allein durch Gnade gerettet sein. Wir haben es nicht gerne, daß der liebe Gott uns wirklich gar nichts schuldig ist, daß wir ganz und gar nur von seiner Güte leben können, daß für uns nur die große Demut übrig bleibt, nur die Dankbarkeit eines beschenkten Kindes. Wir schauen eben nicht gern von uns selber weg, möchten uns viel lieber (wie die Schnecke in ihr eigenes Haus) zurückziehen und bei uns selbst sein. Mit einem Wort: wir glauben eben nicht gerne. Wo doch gerade durch Gnade und also mit dem Glauben, wie ich ihn jetzt kurz beschrieben habe, das Leben, das wirkliche Leben anfangen würde: die Freiheit, die Sorglosigkeit des Herzens, die Freude tief innen, auch die Liebe zu Gott und zum Nächsten und eine große gewisse Hoffnung! Wo doch gerade durch Gnade, gerade mit dem Glauben Alles in unserem Leben so ganz einfach werden dürfte!</p>
         <p rend="margin-top">Liebe Brüder und Schwestern, wie sind wir jetzt dran? Daran ist nichts zu ändern: der helle Tag <hi rend="i">ist</hi> angebrochen. Die Sonne Gottes <hi rend="i">scheint</hi> hinein in unser aller dunkles Leben, auch wenn wir uns die Augen zuhalten. Seine Stimme vom Himmel <hi rend="i">ertönt</hi>, auch wenn wir uns die Ohren verstopfen. Das Brot des Lebens [vgl. <ref type="can" subtype="bible" target="Joh.6.35">Joh. 6,35</ref>] <hi rend="i">ist da</hi>, auch wenn wir immer wieder die Hand zur Faust ballen, <pb ed="A" n="35"/> statt sie zu öffnen, das Brot zu nehmen und zu essen. Die Türe unseres Gefängnisses ist <hi rend="i">offen</hi>, auch wenn wir sonderbarerweise nicht hinausgehen. Von Gottes Seite ist Alles <hi rend="i">in Ordnung</hi>, auch wenn von unserer Seite immer wieder Unordnung entsteht. «Durch Gnade seid ihr gerettet», das ist wahr, auch wenn wir es nicht glauben, es für uns nicht wahr sein lassen wollen und dann leider nichts davon haben. Aber warum sollen wir nichts davon haben? Warum glauben wir nicht? Warum gehen wir nicht hinaus <pb xml:id="p038" ed="pga"/> durch die geöffnete Türe? Warum tun wir die geballten Fäuste nicht auf? Warum verstopfen wir uns die Ohren? Warum halten wir uns die Augen zu? Warum eigentlich?</p>
@@ -165,9 +132,12 @@
         <div type="songs">
           <head>Lieder:</head>
         <listBibl type="song" rend="simple">
-          <bibl corresp="kbga-songs-13" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>6</idno></bibl>: «<title level="a">Ich erhebe mein Gemüte</title>» (nach <ref type="can" subtype="bible" target="Ps.25">Ps. 25</ref>), <biblScope>Strophen 1–4</biblScope></bibl>
-          <bibl corresp="kbga-songs-14" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>363</idno></bibl>: «<title level="a">Licht, das in die Welt gekommen</title>» von <author ref="kbga-actors-3934">R. Stier</author>, <biblScope>Strophen 1–4</biblScope></bibl>
-          <bibl corresp="kbga-songs-4" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>44</idno></bibl>: «<title level="a">Nun danket alle Gott</title>» von <author ref="kbga-actors-1393">M. Rinckart</author>, <biblScope>Strophe 3</biblScope></bibl>
+          <bibl corresp="kbga-songs-13" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>6</idno></bibl>: «<title level="a">Ich erhebe mein Gemüte</title>» (nach <ref type="can" subtype="bible" target="Ps.25">Ps. 25</ref>), <biblScope>Strophen 1–4</biblScope></bibl>
+          <bibl corresp="kbga-songs-14" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>363</idno></bibl>: «<title level="a">Licht, das in die Welt gekommen</title>» von <author ref="kbga-actors-3934">R. Stier</author>, <biblScope>Strophen 1–4</biblScope></bibl>
+          <bibl corresp="kbga-songs-4" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>44</idno></bibl>: «<title level="a">Nun danket alle Gott</title>» von <author ref="kbga-actors-1393">M. Rinckart</author>, <biblScope>Strophe 3</biblScope></bibl>
           <!--<item><ref type="pub" subtype="bib1-gesd" target="b0006">Nr. 6</ref>: «Ich erhebe mein Gemüte» (nach <ref type="can" subtype="bible" target="Ps.25">Ps. 25</ref>), Strophen 1-4</item>
           <item><ref type="pub" subtype="bib1-ein1937" target="b0363">Nr. 363</ref>: «Licht, das in die Welt gekommen» von <persName ref="kbga-actors-3934">R. Stier</persName>, Strophen 1-4</item>
           <item><ref type="pub" subtype="bib1-ein1909" target="b0044">Nr. 44</ref>: «Nun danket alle Gott» von <persName ref="kbga-actors-1393">M. Rinckart</persName>, Strophe 3</item>-->

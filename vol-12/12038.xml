@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Wo der Geist des Herrn ist, da ist Freiheit</title>
         <title type="citation_line_1">Barth, Karl: Wo der Geist des Herrn ist, da ist Freiheit, 8. Juni 1957</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12038 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12038 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 263–267.</title>
       </titleStmt>
       <editionStmt>
@@ -51,8 +51,8 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957, in: L.Gl., S. 4f; St.G. Jg.9 (1957), Sp. 321-324. </bibl>
-        <bibl xml:id="B" corresp="KBA 739" type="source">B (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957. <idno ref="https://kba.karl-barth.ch/objects/6058">KBA 739</idno>. </bibl>
-        <bibl xml:id="C" corresp="KBA 740" type="source">C (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 8. Juni 1957. <idno ref="https://kba.karl-barth.ch/objects/6059">KBA 740</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 1957. <ref target="https://kba.karl-barth.ch/objects/6058">KBA 739</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Wo der Geist des Herrn ist, da ist Freiheit, 8. Juni 1957. <ref target="https://kba.karl-barth.ch/objects/6059">KBA 740</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -69,48 +69,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -124,7 +84,8 @@
         <p>Kühn, luftig, locker und offen, höchst bestimmt und doch so gar nicht naturhaft oder mechanisch, so richtig geistlich und frei wird das in diesem Wort aus dem 2. Korintherbrief (<ref type="can" subtype="bible" target="2.Kor.3.17">3,17</ref>) schlicht nebeneinander gestellt: Wo dieser ist, der Geist des Herrn, da ist auch dies, Freiheit. Selbstverständlich, unfehlbar ist es so, daß diese beiden immer und überall beieinander sind. Was gäbe es da abzuleiten, zu erklären, zu verrechnen? Sind Gott und der Mensch beieinander — und davon ist da die Rede —, dann ist es eben so, dann ist das aber eine höchst wunderbare Sache, weil Gott es den Menschen nicht schuldig ist, bei ihm zu sein, und weil der Mensch das nicht schaffen und nicht einmal erwarten kann, bei Gott zu sein. Zu verrechnen gibt es da also gar nichts. Es passiert dann nur eben: Wo der Geist des Herrn ist, da ist Freiheit. So passierte es am Pfingsttag. So entstand damals aus 12, aus 120, aus 3000 und später noch mehr Leuten die christliche Gemeinde. So mag, kann, darf sie auch heute und morgen aufs neue entstehen. So kommt es dazu, daß es in der Welt als Kinder Gottes und als Gottes Briefträger an die Welt auch Christen gibt.</p>
         <p>Wo der Geist des Herrn ist, da ist <hi rend="i">Freiheit</hi>. Freiheit ist in der Sprache der Bibel eine Macht, ein Vermögen, ein Können, insofern eine «Kunst». Nicht irgend eine Macht und Kunst — am allerwenigsten die, ins Blaue hinein nach Zufall oder Belieben dies oder das zu wählen, nicht die Freiheit der Freiheitsstatue im Hafen von <placeName ref="kbga-places-47">New York</placeName>, nicht die Freiheit des Herkules am Scheidewege. Nein, die Freiheit, Macht und Kunst, zu erkennen, zu beherzigen, ins Werk zu setzen, daß Gott die Welt und in der Welt einen jeden Menschen geliebt hat, liebt und lieben wird 
           [vgl. <ref type="can" subtype="bible" target="Joh.3.16">Joh. 3,16</ref>]. Christen sind Menschen, die diese Freiheit haben. Die christliche Gemeinde lebt, indem sie diese Freiheit betätigt. Wo der Geist des Herrn ist, da ist dafür gesorgt, daß es Christen, daß es christliche Gemeinde gibt: in dieser Freiheit, in ihrer Betätigung.</p>
-        <p>Christen sind Menschen, die ihren Herrn gefunden haben: daraufhin, daß er sie gefunden hat. Nach anderen Herren, Autoritäten, Heilanden und Schutzgeistern brauchen sie kein Bedürfnis zu haben. Das heißt nicht, daß sie respektlose, meisterlose Leute wären. Das heißt aber, daß sie aus aller Knechtschaft, Magie und Diktatur fröhlich und definitiv <pb xml:id="p264" ed="pga"/> entlassen sind: aus der ihrer Zeitung, aus der des Urteils der Leute, aus der der gerade herrschenden Stimmung und öffentlichen Meinung, aus der bestimmter starker Persönlichkeiten, Ideologien, Prinzipien, Systeme — nicht zuletzt aus der der Vorstellung einer absolut maßgebenden Bedeutung ihrer eigenen Überzeugung, Stellungnahme und Rechthaberei. Sie haben in aller Ohnmacht die Macht, Gott über alle Dinge zu fürchten und zu lieben.<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1595"><author ref="kbga-actors-261">M. Luther</author>, <title level="m">Kleiner Katechismus</title> (<date from="1528" to="1529">1528/29</date>)</bibl>, Erklärung des Ersten Gebots: «Wir sollen Gott über alle Dinge fürchten, lieben und vertrauen.»</note> Das ist ihre Freiheit.</p>
+        <p>Christen sind Menschen, die ihren Herrn gefunden haben: daraufhin, daß er sie gefunden hat. Nach anderen Herren, Autoritäten, Heilanden und Schutzgeistern brauchen sie kein Bedürfnis zu haben. Das heißt nicht, daß sie respektlose, meisterlose Leute wären. Das heißt aber, daß sie aus aller Knechtschaft, Magie und Diktatur fröhlich und definitiv <pb xml:id="p264" ed="pga"/> entlassen sind: aus der ihrer Zeitung, aus der des Urteils der Leute, aus der der gerade herrschenden Stimmung und öffentlichen Meinung, aus der bestimmter starker Persönlichkeiten, Ideologien, Prinzipien, Systeme — nicht zuletzt aus der der Vorstellung einer absolut maßgebenden Bedeutung ihrer eigenen Überzeugung, Stellungnahme und Rechthaberei. Sie haben in aller Ohnmacht die Macht, Gott über alle Dinge zu fürchten und zu lieben.<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1595">
+                            <author ref="kbga-actors-261">M. Luther</author>, <title level="m">Kleiner Katechismus</title> (<date from="1528" to="1529">1528/29</date>)</bibl>, Erklärung des Ersten Gebots: «Wir sollen Gott über alle Dinge fürchten, lieben und vertrauen.»</note> Das ist ihre Freiheit.</p>
         <p>Sie sind darum Menschen, die gerade nur eine Sorge haben: die nämlich, sie könnten von Gott, seiner Güte und seinem Vermögen zu gering denken, zu wenig erwarten, im Blick auf ihn und auf sein Geheiß in Gedanken, Worten und Taten zu schüchtern sein, zu wenig wagen. Im übrigen brauchen sie keine Angst zu haben: vor der Zukunft ihrer Lebensgeschichte nicht und auch nicht vor der der Welt- und Kirchengeschichte, nicht vor der übermächtigen Unvernunft und Bosheit irgendwelcher Anderer und nicht vor ihrer eigenen, vor dem Altwerden nicht, vor dem Einsamwerden auch nicht und auch nicht vor dem Sterben, vor keinem Schicksal und vor keinem Teufel. Sie versäumen es gewiß jeden Tag ein paarmal, von dieser ihrer Macht Gebrauch zu machen. Die Angst will gewiß auch sie beständig übermannen und tut es oft genug. Sie haben aber die Macht über sie, und sie können sie betätigen. Das ist ihre Freiheit.</p>
         <p>Sie müssen aber als solche Menschen nicht für sich — sie dürfen gerade in ihrer Freiheit für die Anderen, für die Welt da sein. Für das Volk Israel, für alle Völker, ihnen zum Zeugnis und zum Licht ist ja damals am Pfingsttag die freie Gemeinde der freien Christen geboren und eingesetzt worden. Die Christen haben die Macht, die Liebe Gottes in dem kleinen oder großen Kreis ihres Daseins denen sichtbar zu machen, die sie noch nicht oder noch nicht recht kennen: in aller Bescheidenheit, aber auch in aller Heiterkeit und vor allem: in aller Bestimmtheit. Dazu sind sie aus aller Knechtschaft und von aller Angst freigemacht. Sie dürfen dienen. Gott kann sie brauchen. Sehr seltsam, daß er sie brauchen kann. Aber er braucht sie tatsächlich und macht es eben damit unmöglich, daß ihnen ihr Leben je langweilig, überflüssig, sinnlos werden und erscheinen könnte. Gerade ihr Auftrag wird sie immer wieder tragen: auf Adlersflügeln sogar [
           vgl. <ref type="can" subtype="bible" target="Ex.19.4">Ex. 19,4</ref>]. Zusammenbrechen müßten und <pb xml:id="p265" ed="pga"/> würden sie nur, wenn sie — ein schreckliches Wort! — «dienstfrei» sein müßten. Das ist aber gerade ihre Freiheit, daß für sie von Dienstfreiheit nie die Rede wird sein können. Gerade das wird ihnen zum Heil, daß sie schlicht zur Ehre Gottes da sein dürfen. Das ist ihre Freiheit, und man wird das wohl die Krone ihrer Freiheit nennen dürfen.</p>

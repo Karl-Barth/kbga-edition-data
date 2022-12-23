@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 15</title>
+        <title type="content">Predigt: Apokalypse 3,11</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Apokalypse 3,11, 21. Februar 1909</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53017 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53017</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">17</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Offb 3,11, 21. Februar 1909. <ref target="https://kba.karl-barth.ch/objects/1458">KBA 993</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1909-02-21">21. Februar 1909</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p128" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                    <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>15</idno>
+                </head>
+               
+                    <dateline>
+                        <placeName ref="kbga-places-1066">
+                            <hi rend="i">Niedergrenzebach</hi></placeName>
+                            <anchor type="note" xml:id="fn-a"/>(Filiale <placeName ref="kbga-places-1119">Leimsfeld</placeName>)<note type="textcritical" n="a" xml:id="na" target="fn-a"> Im Mskr. mit Bleistift hinzugefügt.</note><note xml:id="n01">Es handelt sich um die letzte
+                                der drei Predigten, die Barth dort hielt (vgl. oben,
+                                    <ref type="pub" target="../volume/53/p097#fn_n01">S. 97, Anm. 1</ref>, <ref type="pub" target="../volume/53/p118#fn_01">S. 118, Anm. 1</ref>). An seinen
+                                Vater <persName ref="kbga-actors-21">Fritz Barth</persName> schrieb er über die fehlende Betreuung und das
+                                mangelnde professionelle Echo auf seine Predigten wenige Tage
+                                später (Brief vom 25.2.1909 [<idno type="kba-objects-identifier">KBA 9209.11</idno>]): «Am Sonntag war ich
+                                also wieder in der <placeName ref="kbga-places-1122">Schwalm</placeName>, werde aber ohne Not nicht gleich wieder
+                                hingehen, da das Niveau des Pfarrers <persName ref="kbga-actors-4632">Cornelius</persName> doch zu honorig
+                                ist. Der Mann ist noch nicht 50 und schon faul wie ein Nilpferd.
+                                Ich habe ihn noch nie bei einer nennenswerten Tätigkeit gesehen,
+                                außer beim Sprüchemachen, und das war schrecklich. Wir haben ihm
+                                unsre Predigten vorgelesen, aber dogmatisch merkte er nichts und
+                                homiletisch wusste er nichts außer 1–2 Gemeinplätzen. Der
+                                Lehrer in <placeName ref="kbga-places-1119">Leimsfeld</placeName> hat mir das Rätselwort mitgegeben:
+                                    <hi rend="i">Ja, Herr Pfarrer, Sie haben viele Worte
+                                geredet</hi>. Wie soll ich dieses Echo deuten?!»</note>
+                        <date when="1909-02-21" rend="right">Sonntag, den 21. Februar 1909</date>
+                        <date rend="right"> (Estomihi)</date>
+                    </dateline>
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="Apk.3.11">Apokalypse 3,11</ref>
+                      
+                            <quote>
+                                <hi rend="italic" resp="kb">Halte, was du hast, dass Niemand
+                                    deine Krone nehme.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+               
+                <salute>Liebe Freunde!</salute>
+                </div>
+                <div type="main">
+                    <div>
+                    <p>Als ich das letzte Mal hieher kam, haben wir es versucht, uns klar zu machen,
+                    was die <term type="Sachen" key="Bibel / Heilige Schrift, Bedeutung für unser Leben">Bedeutung</term> der heiligen <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term> für unser Leben sei.<note xml:id="n02">Vgl. oben, <ref type="pub" target="../volume/53/p118#p118">S. 118-127</ref>.</note> Wir haben gefunden, dass sie ein Zeugnis
+                    des Glaubens der biblischen <term type="Sachen" key="Bibel / Heilige Schrift, Glaubenszeugnis">Schriftsteller</term> ist<note type="textcritical" n="b" xml:id="nb"> Im Mskr. ursprünglich hinter «Zeugnis des Glaubens» positioniert;
+                            mit Bleistift korrigiert.</note>, des Glaubens an Jesum Christum und durch ihn an Gott, der ihr Leben
+                    frei und froh gemacht. Und wir haben weiter gefunden, dass das, was uns die
+                    heilige Schrift schenken will, nichts Anderes ist als ein ebensolcher
+                    starker und tapferer Gottesglaube wie der der Männer, die wir da reden
+                    hören. Dieser <pb ed="-A" n="2"/>
+                    <term type="Sachen" key="Glaube, der biblischen Schriftsteller">Glaube</term> ist die Unterweisung zur <term type="Sachen" key="Glaube, Unterweisung zur Seligkeit">Seligkeit</term>, sahen wir zum
+                    Schluss. – |</p>
+                    <p>Vielleicht hat sich unterdessen der eine oder andre von euch die Frage
+                    gestellt: Ist das Alles denn auch wahr? Hat mir das <term type="Sachen" key="Bibellese">Lesen</term> in der Bibel, die Erinnerung an die
+                    Gedanken der <term type="Sachen" key="Bibellese, Freude zum Leben">Bibel</term> Freude gemacht zum <pb xml:id="p129" ed="pga"/> Leben, den alten
+                    Geist der <term type="Sachen" key="Gleichgültigkeit">Gleichgiltigkeit</term>
+                    und Traurigkeit ausgefegt und etwas Neues in mir geschaffen? Oder sind das
+                    Alles schöne Dinge, die der Pfarrer wohl so sagen muss, weil er der Pfarrer
+                    ist, und die sich in der Kirche auch ganz gut anhören, die aber Luft und
+                    Wind sind, sobald das letzte Amen und der letzte Orgelton verklungen sind?
+                    Ich würde gerne von euch selber hören, ob ihr euch diese Fragen gestellt und
+                    was ihr euch selber darauf geantwortet habt! Einige, vielleicht Viele,
+                    würden mir wohl sagen: «Die Bibel und der Glaube an Gott und die
+                    Unterweisung zur Seligkeit, das Alles sind gute <term type="Sachen" key="Sonntag">Sonntagswerke</term>, an den übrigen sechs Tagen der <pb ed="-A" n="3"/> Woche gilt etwas Anderes: meine eigenen Gedanken
+                    und Wünsche und Absichten. Ich habe immer nach dieser Ordnung gelebt und war
+                    froh und zufrieden dabei. Ich brauche nichts Neues für mein <term type="Sachen" key="Alltag">Alltagsleben</term>.» Andere würden mir
+                    vielleicht antworten: «Du hast selbst gesagt, dass es für Manche nicht
+                    leicht ist, die Bibel recht zu lesen. So <anchor type="note" xml:id="fn-c"/>steht’s
+                        bei<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. nachträglich korrigiert aus: «geht es».</note>
+                     mir. Ich kann die Brücke nicht finden vom Glauben der Bibel zu meinem
+                    Denken und Empfinden.» Einige aber wären wohl auch da, die würden sagen:
+                    «Ja, gerade so ist’s mir gegangen, gerade so geht’s mir immer
+                    noch. Wenn ich in den Evangelien oder in den Briefen des <persName ref="kbga-actors-313">Paulus</persName> lese, dann höre ich da Töne,
+                    die weiterklingen in mir, ich finde Gedanken, bei denen ich sagen muss: so
+                    geht’s mir auch, oder wünschen muss: Könnte ich doch das auch von mir
+                    sagen. Ich spüre dann, dass die Leute, die das geschrieben haben, es ehrlich
+                    gemeint haben mit der Liebe zum Herrn Jesus, und wenn ich mir das so
+                    deutlich vor Augen stelle, dann macht es mich kräftig und ruhig, wie <pb ed="-A" n="4"/> wenn ich einem treuen Freund ins Auge gesehen
+                    und die Hand gedrückt hätte. Ich weiß auch, was die <hi rend="i">Krone</hi> ist,
+                    von der das heutige Textwort redet. Meine Krone ist mein Glaube an den
+                    großen Gott, der mich inwendig stark und frei gemacht hat, weil dieser
+                    Glaube das Beste in meinem Leben ist.» So würden mir Einige sagen. Und die
+                    Andern? Das Wort von der Krone geht sie auch, geht Alle an! Du meinst: wie
+                    kann ich eine Krone halten, die ich nicht habe, und ich verstehe ja nicht
+                    oder nur undeutlich, was ihr vom <term type="Sachen" key="Glaube">Glauben</term> redet. Ist’s wirklich so? Heißt’s
+                    vielleicht nicht vielmehr wie im Liede:</p>
+               
+                    <q rend="block">
+                        <lg>
+                            <l> <pb rend="noPipe" xml:id="p130" ed="pga"/> Es liegt eine Krone im tiefen Rhein</l>
+                            <l>Sie funkelt<note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich korrigiert aus:
+                                        «glänzet».</note>
+                                 von Gold und Edelstein.<note xml:id="n03">Auch
+                                    bekannter, aber seltenerer Beginn des Liedes <bibl corresp="kbga-bibls-2522">«Das Herz am
+                                    Rhein» von <author ref="kbga-actors-9160">H. Dippel</author> (<hi rend="i">Schauenburgs Allgemeines Deutsches
+                                        Kommersbuch</hi>, hrsg. von Fr. Silcher / Fr. Erk,
+                                    Lahr o. J., 55–58. Auflage, Lied Nr. 362 [S. 327])</bibl>:
+                                        <q rend="block">
+                                            <lg>
+                                              <l>Es liegt eine Krone im grünen Rhein, </l>
+                                              <l>Gezaubert von Gold und von Edelstein.</l>
+                                            </lg>
+                                        </q>
+                                    </note>
+                                </l>
+                        </lg>
+                    </q>
+                    <p rend="noindent">Im tiefen Rhein! Sie war einmal da, die Krone, du hast auch
+                    einmal etwas gespürt von Gottes Nähe, aber dann kam der Strom der Ereignisse
+                    deines Lebens. Die Krone ist versunken, Sand und Geröll gehen drüber.
+                    Besinne dich, die Krone ist noch da, noch ist’s Zeit, sie zu erheben.
+                    Halte, was du hast, auch <pb ed="-A" n="5"/> wenn es dir recht wenig
+                    scheint. Und die, die etwas erfahren haben von der Freude lebendigen
+                    Glaubens, geht es an, weil man sich den Glauben nicht erwerben kann, wie man
+                    eine Wiese erwirbt, heimgeht und sich aufs Ohr legt. Der Glaube will immer
+                    neu <term type="Sachen" key="Glaube, will immer neu gesucht sein">gesucht</term> sein, der Glaube kennt keinen Stillstand.
+                    <q rend="center">
+                                <hi rend="i">Glauben heißt <term type="Sachen" key="Glaube, heißt Kämpfen">Kämpfen.</term></hi>
+                            </q>
+                    Das wollen wir uns heute vergegenwärtigen, indem wir
+                        <hi rend="i">1</hi>. vom <hi rend="i">Haben</hi>, <hi rend="i">2</hi>. vom
+                        <hi rend="i">Verlieren</hi> und <hi rend="i">3</hi>. vom <hi rend="i">Halten</hi> des
+                    Glaubens reden.</p>
+                    </div>
+                    <div>
+                    <head type="4">I</head>
+                    <p rend="noindent">Erstens: Vom <hi rend="i">Haben</hi> des <term type="Sachen" key="Glaube, Haben des Glaubens">Glaubens</term>. Halte, was du
+                            <hi rend="i">hast!</hi> Der Glaube ist also ein <term type="Sachen" key="Glaube, Besitz">Besitz</term>, und wir wollen uns ehrlich
+                        danach fragen, wie wenig oder wieviel wir unser eigen nennen. Ein <persName ref="kbga-actors-313">Paulus</persName> konnte von seinem Glauben
+                        sagen: Ist jemand in Christo, so ist er eine neue Kreatur [<ref type="can" subtype="bible" target="2.Kor.5.17">2.Kor. 5,17</ref>]. Ich <pb ed="-A" n="6"/> vermag Alles durch Christum, der mich stark
+                        macht [<ref type="can" subtype="bible" target="Phil.4.13">Phil. 4,13</ref>].
+                        Wir wissen, dass denen, die Gott lieben, alle Dinge zum Besten dienen
+                        [<ref type="can" subtype="bible" target="Röm.8.28">Röm. 8,28</ref>]. Ich würde
+                        mich noch<note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         nicht getrauen, so Großes von meinem Glauben auszusagen, und
+                        viele von euch vielleicht auch nicht, wenn ihr aufrichtig seid. Wir
+                        wollen uns hüten, diese großen <term type="Sachen" key="Bekenntnis">Bekenntnisse</term> in den Mund zu nehmen, solange sie nicht
+                        Bekenntnisse unsrer tiefsten Erfahrung sind. Denn nicht die Bekenntnisse
+                        machen den Glauben, sondern der Glaube und nur er darf Be<pb xml:id="p131" ed="pga"/>kenntnisse tun. Ein armer Schlucker gibt nicht
+                        20-Markstücke aus, sondern Nickel und wenn’s hoch kommt
+                            Silber.<note xml:id="n04">1908 waren die verausgabten 20-
+                            und 10-Markstücke des Deutschen <term type="Sachen" key="Deutsches Reich, Münzgeld">Kaiserreichs</term> aus Gold;
+                            aus Silber waren die 50-Pfennig- und 1-Markstücke, Kleinmünzen waren
+                            aus Nickel oder Kupfer-Nickel.</note>
+                        </p>
+                    <p>Also, was <hi rend="i">hast</hi> du an deinem <term type="Sachen" key="Glaube">Glauben?</term>
+                        </p>
+                    <p>Darauf würde ich jetzt wieder am liebsten eure eigenen Antworten hören,
+                        nicht in einem auswendig gelernten Bibelspruch, sondern mit euren
+                        eigenen Worten ausgedrückt. Was gilt’s? Einige, die ganz offen
+                        wären, würden sagen: Ha, Glaube ist, <hi rend="i">wenn man am Sonntag in die
+                                <term type="Sachen" key="Kirchgang">Kirche</term></hi>
+                        <hi rend="i">geht</hi> und an den Festtagen zum <term type="Sachen" key="Abendmahl">Abendmahl</term>, <pb ed="-A" n="7"/> wenn
+                        man im Übrigen <anchor type="note" xml:id="fn-f"/>brav ist,<note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         kein Pferd stiehlt, niemanden totschlägt. Gar nichts Anderes?
+                        Nicht wahr, das wäre zuviel gesagt. Es zwingt dich ja niemand, zur
+                        Kirche zu kommen, offenbar willst du’s also selber, weil du
+                        irgendetwas damit bezweckst. Du hast das stille Gefühl, dass das so sein
+                        müsse, dass die Woche nicht gut wäre, wenn sie nicht mit Gott wenigstens
+                        angefangen würde. <term type="Sachen" key="Religion">Religion</term> muss sein!», sagen viele Leute und empfinden
+                        dabei etwas <anchor type="note" xml:id="fn-g"/>ganz Richtiges<note type="textcritical" n="g" xml:id="ng" target="fn-g"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>, das sie freilich nicht ganz klar ausdrücken können. Sie fühlen
+                        dunkel, dass irgend ein Zusammenhang besteht zwischen dem, was da in der
+                        Kirche gesagt und getan wird, und dem, was sie in ihrem Denken und
+                        Handeln für recht und ehrbar halten. <term type="Sachen" key="Christen, Kirchenchristen">
+                                <hi rend="i">Kirchenchristen</hi></term>&gt;
+                        wollen wir die nennen, die beim Wort «Glauben» hauptsächlich an ihren
+                        gewohnten Platz in der Kirche, an ihr Gesangbuch, an die Orgel und an
+                        ein im Allgemeinen braves Leben denken. Bist du ein Kirchenchrist? Dann
+                        musst du dir auch sagen, dass du an deinem Glauben wirklich etwas <term type="Sachen" key="Glaube, Haben des Glaubens">
+                                <hi rend="i">hast</hi></term>&gt;, denn ohne Zweifel hat das dunkle Gefühl,
+                        dass <pb ed="-A" n="8"/> Religion sein müsse, schon Menschen zu
+                            <term type="Sachen" key="Gutes / das Gute">Gutem</term> angeleitet
+                        und vor <term type="Sachen" key="Böses / das Böse">Bösem</term>
+                        bewahrt.</p>
+                    <p>Andere würden sagen: Glauben ist, <hi rend="i">wenn man an die Bibel <term type="Sachen" key="Glaube, an die Bibel">glaubt</term></hi>
+                        und ihren <term type="Sachen" key="Gebote, biblische">Geboten</term>
+                        gehorcht. Sie haben nicht nur ein dunkles Gefühl, sondern die recht
+                        klare Erkenntnis, dass sie Gott nötig haben, vielleicht nur zum äußern
+                        Wohlergehen, vielleicht aber auch deshalb, weil sie einsehen, dass der
+                        Mensch nichts ist ohne ein starkes und gewisses inneres <term type="Sachen" key="Leben, inneres">Leben</term>, ohne eine <term type="Sachen" key="Seele">Seele</term>, und dass das innere Leben,
+                        die Seele <pb xml:id="p132" ed="pga"/> sich auf nichts Anderes gründen <term type="Sachen" key="Seele, gründet sich auf Gott">kann</term> als auf
+                        Gott, der selbst das <term type="Sachen" key="Gott, ist das Leben">Leben</term> ist. Und darum glauben Christen<note type="textcritical" n="h1" xml:id="nh1"> Im Mskr. ursprünglich: «diese Christen»; mit Bleistift
+                                korrigiert.</note>
+                         an die Bibel, d. h. sie nehmen hin, was die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> über Gott sagt, ohne
+                        daran zu zweifeln, und sie bemühen sich zu tun, was die Bibel sie tun
+                        heißt. Gehörst du zu den <term type="Sachen" key="Christen, Bibelchristen">
+                                <hi rend="i">Bibelchristen</hi></term>&gt;
+                            <hi rend="i">?</hi> Dann
+                            <hi rend="i">hast</hi> du einen großen Besitz an deinem <term type="Sachen" key="Glaube, Haben des Glaubens">Glauben</term>, denn
+                        weil du an die Bibel glaubst, <hi rend="i">weißt</hi> du von dem lebendigen
+                            <term type="Sachen" key="Gott, lebendiger">Gott</term>, der die
+                        Zuflucht der Psalmensänger und die Kraft der Propheten gewesen ist, der
+                        das Recht <term type="Sachen" key="Gott, liebt das Recht">liebt</term>
+                        und das Unrecht <term type="Sachen" key="Gott, hasst das Unrecht">hasst</term>, du <pb ed="-A" n="9"/>
+                        <hi rend="i">weißt</hi> auch, dass er seinen Sohn auf die Erde geschickt hat,
+                        die Sünder selig zu machen [vgl. <ref type="can" subtype="bible" target="1.Tim.1.15">1.Tim. 1,15</ref>]. Und dieses Wissen um Gottes <term type="Sachen" key="Verheißung">Verheißungen</term> und <term type="Sachen" key="Gebote, göttliche">Gebote</term> kann dir
+                        plötzlich einen Trost und Halt geben, wie ihn die Andern nicht
+                        kennen.</p>
+                    <p>Und dann sind da noch Einige, die würden mir vielleicht leise sagen:
+                        Glauben ist, <hi rend="i">wenn man zu Gott gehören <term type="Sachen" key="Glaube, zu Gott gehören möchten">möchte</term></hi>. Sie
+                        glauben an ihn, nicht nur weil sie ihn nötig haben und weil die Bibel es
+                        so verlangt, sondern weil er <hi rend="i">da ist</hi>, weil sie sich
+                        erinnern, seine Stimme in ihrem eigenen <term type="Sachen" key="Gott, Stimme im eigenen Leben">Leben</term> schon gehört zu
+                        haben. Vielleicht ist ihnen ein Mensch begegnet, dessen Gesinnung und
+                        dessen Taten sie erst nachdenklich gemacht und dann überzeugt haben,
+                        dass Gott nicht nur im heiligen Buch steht, sondern lebt. Vielleicht ist
+                        im Verkehr mit den Männern der Schrift diese Überzeugung über sie
+                        gekommen, aber jedenfalls ist ihnen diese Überzeugung etwas so Gewisses,
+                        dass sie nicht mehr um der andern Menschen und um der <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term> willen
+                        glauben, sondern weil sie nicht <pb ed="-A" n="10"/> anders
+                        können. Sie haben Gott selber gesehen, und sie sind auf dem Wege, ihm
+                        immer näher zu kommen. Gehörst du zu den <term type="Sachen" key="Christen, Herzenschristen">
+                                <hi rend="i">Herzenschristen</hi></term>&gt;
+                            <hi rend="i">?</hi> Dann
+                            <hi rend="i">freue</hi> dich deines <term type="Sachen" key="Glaube, Besitz">Besitzes</term>. Von ihnen gilt: «Selig sind,
+                        die da Heimweh haben, denn sie werden nach Hause kommen!»<note xml:id="n05">Erster Satz des ersten Buches von: 
+                                <bibl corresp="kbga-bibls-2459">
+                                    <author ref="kbga-actors-2212">J. H. Jung-Stilling</author>, <hi rend="i">Das Heimweh und der Schlüssel zu
+                                demselben</hi>, Bd. 1 [1793] (ders., Sämmtliche
+                            Schriften, Bd. IV, Stuttgart 1836 [Nachdruck 1979]), S. 9</bibl>:
+                                «<hi rend="i">Selig sind, die das Heimweh haben, denn sie sollen nach
+                                Haus kommen</hi>».</note>
+                        </p>
+                    <p> Zu welchen gehörst du? Frage dich selber! Aber den <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchristen</term> und den <term type="Sachen" key="Christen, Bibelchristen">Bibelchristen</term> und
+                        den <term type="Sachen" key="Christen, Herzenschristen">Herzenschristen</term> gilt das Wort: <hi rend="i">Halte</hi>, was du
+                        hast, denn der Glaube ist wohl ein <term type="Sachen" key="Glaube, Besitz">Besitz</term>, aber Glauben heißt <term type="Sachen" key="Glaube, heißt Kämpfen">Kämpfen</term>. Das sehen
+                        wir, wenn wir</p>
+                    </div>
+                    <div>
+                    <pb xml:id="p133" ed="pga"/>
+                    <head type="4">II</head>
+                    <p rend="noindent">Zweitens: Vom <hi rend="i">Verlieren</hi> des <term type="Sachen" key="Glaube, Verlieren des Gl.">Glaubens</term> reden.
+                        Halte, was du hast, den kleinen oder großen Besitz deines Glaubens, auf
+                        dass dir Niemand deine Krone nehme. Wer sind die, die dir <hi rend="i">die
+                            Krone nehmen</hi> möchten? Der erste bist <hi rend="i">du selber</hi>,
+                        lieber Freund, denn, wie klein oder groß dein Glaube <pb ed="-A" n="11"/> immer sei, du weißt recht gut, dass neben der Stimme des
+                        Glaubens noch eine andre Stimme in dir redet. Das ist die Stimme der
+                            <term type="Sachen" key="Selbstsucht">
+                                <hi rend="i">Selbstsucht</hi></term>&gt;, der <term type="Sachen" key="Habgier">Habgier</term>, der <term type="Sachen" key="Sinnlichkeit">Sinnlichkeit</term>. Wir kennen sie alle. Zu
+                        Zeiten scheint es, als sei sie eingeschlafen, begraben auf immer. Der
+                            <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchrist</term> freut sich seines Glaubens, wenn er im dunklen
+                        Gefühl, so sei es recht, in der Kirche sitzt oder etwas Schlimmes, das
+                        er tun möchte, nicht tut. Der <term type="Sachen" key="Christen, Bibelchristen">Bibelchrist</term> freut sich seines
+                        Glaubens, wenn ihn wieder einmal ein Wort der Bibel getröstet, ein
+                        anderes zu guter Tat angespornt hat. Und der <term type="Sachen" key="Christen, Herzenschristen">Herzenschrist</term> freut sich
+                        seines Glaubens, wenn er durch irgend ein Ereignis seines Lebens Gott
+                        wieder einen Schritt näher gekommen ist. Aber in allen dreien lebt auch
+                        die andre Stimme, die nein sagt, wo der Glaube ja, ja, wo der Glaube
+                        nein sagt. Sie schläft manchmal, diese Stimme, aber sie kann alle Tage
+                        aufwachen und über uns kommen wie ein brüllender Löwe [vgl. 
+                            <ref type="can" subtype="bible" target="1.Petr.5.8">1.Petr. 5,8</ref>]. Da bietet
+                        sich vielleicht in <term type="Sachen" key="Handel / Geschäftsleben">Handel</term> und Wandel eine so günstige Gelegenheit, meinen
+                        Vorteil wahr<pb ed="-A" n="12"/>zunehmen, vielleicht zum
+                        Nachteil des Andern, aber es merkt’s ja niemand und die Polizei
+                        am wenigsten. Da ist eine Gelegenheit, etwas zu tun, von dem du ganz
+                        genau weißt, dass es nicht recht und nicht rein ist, aber die
+                        Gelegenheit ist so lockend. Sollte Gott gesagt haben…? 
+                        [<ref type="can" subtype="bible" target="Gen.3.1">Gen. 3,1</ref>] Wir Alle haben
+                        schon so gefragt. |</p>
+                    <p>Wird da<note type="textcritical" n="h2" xml:id="nh2"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         der Gedanke an den Platz in der Kirche dem <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchristen</term> helfen? Wird
+                        der Gedanke an das Wort der <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term> den <term type="Sachen" key="Christen, Bibelchristen">Bibelchristen</term> vor der
+                        Versuchung bewahren? Wird die Erinnerung an Gott selber den <term type="Sachen" key="Christen, Herzenschristen">Herzenschristen</term>
+                        retten? Nicht wahr, das sind bange Fragen. Gleichviel, zu welchen wir
+                        gehören, wir wissen, wie oft wir gefallen sind durch eigene <term type="Sachen" key="Schuld">Schuld</term>. Und mit dem Fall
+                        verschwindet unser großer oder kleiner Glaube auf immer im dichten
+                        Nebel, wenn wir nicht rechtsum kehrtmachen. Die Kirche und das Bravsein,
+                        die <pb xml:id="p134" ed="pga"/> Bibel und Gott selbst, sie werden uns zu
+                        leeren, unverständlichen, fremden Dingen und Gedanken, wenn die <term type="Sachen" key="Selbstsucht">Selbstsucht</term> in uns siegt.</p>
+                    <p>Vielleicht kommt nun die Macht, die dir deine <pb ed="-A" n="13"/> Krone nehmen will, ursprünglich nicht aus dir selbst, sondern von den
+                            <term type="Sachen" key="Mensch, Mitmensch">
+                                <hi rend="i">Mitmenschen</hi></term>&gt;. Denn wie <hi rend="i">Gott</hi><note type="textcritical" n="i" xml:id="ni"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                             bei dir einziehen kann durch die Worte und Taten
+                        anderer Menschen, so kann es auch der <hi rend="i">Teufel</hi><note type="textcritical" n="j" xml:id="nj"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                            <term type="Sachen" key="Teufel"/>. Durch
+                            <hi rend="i">Worte</hi>, denn die Zunge ist ein kleines Glied und richtet
+                        große Dinge an [<ref type="can" subtype="bible" target="Jak.3.5">Jak. 3,5</ref>], sie hat schon manchen Glauben nicht nur erschüttert,
+                        sondern umgeworfen. Wenn du ein <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchrist</term> bist, was wirst
+                        du tun, wenn dich dein Nachbar ganz trocken fragt, wozu das <term type="Sachen" key="Kirchgang">Kirchengehen</term> und Bravsein
+                        eigentlich nützlich sei? Wie wird es dem <term type="Sachen" key="Christen, Bibelchristen">Bibelchristen</term> ergehen, wenn ein
+                        törichter Witzbold es versucht, vor ihm die oder jene Geschichte oder
+                        Stelle der Bibel lächerlich zu machen? Aber auch der <term type="Sachen" key="Christen, Herzenschristen">Herzenschrist</term>, was wird er
+                        dazu sagen, wenn eines Tages ein Anderer ihm klipp und klar beweisen
+                        will, einen Gott gebe es nicht und könne es nicht geben?<note type="textcritical" n="k" xml:id="nk"> Im Mskr. folgt der Satz: «Mit solchen Worten, die uns die
+                                Krone nehmen wollen, haben wir heutzutage wohl auch auf dem
+                                Dorfe zu rechnen.» Barth hat diesen Satz nachträglich mit
+                                Bleistift in eckige Klammern gesetzt und am Rand mit dem Hinweis
+                                «Reflexion» versehen.</note>
+                         Und noch wirksamer sind die <hi rend="i">Taten</hi>, denn was ein Wort
+                        vielleicht nicht vermag, das vermag oft<note type="textcritical" n="l" xml:id="nl"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         das Beispiel eines Lebens ohne <term type="Sachen" key="Leben, ohne Gott">Gott</term>, das ein Mensch den <pb ed="-A" n="14"/> andern geben kann. Zu welchen Christen wir
+                        immer gehören, wir wollen uns fragen, ob das, was unser Glaube ist,
+                        standhält beim Anhören feindseliger Worte oder beim Anblick gottloser
+                        Taten Anderer.</p>
+                    <p>Und endlich können es <hi rend="i">Ereignisse</hi> sein, die uns die Krone
+                        nehmen, Ereignisse, die doch<note type="textcritical" n="m" xml:id="nm"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         nach der Meinung der Christen nicht von ungefähr, sondern von
+                        Gott kommen. Als im Jahre 1755 die Stadt <placeName ref="kbga-places-1123">Lissabon</placeName> in Portugal durch ein gewaltiges
+                            <term type="Sachen" key="Erdbeben (Lissabon 1755)">Erdbeben</term>
+                        zerstört wurde, da war das für Unzählige ein Anlass, dem <term type="Sachen" key="Glaube">Gottesglauben</term> den Abschied zu
+                            geben,<note xml:id="n06">Am 1. November 1755 wurde
+                                <placeName ref="kbga-places-1123">Lissabon</placeName> durch
+                            ein Erdbeben, bei dem über 30 000 Menschen ums Leben kamen,
+                            weitgehend zerstört. Zu den in vielfacher Hinsicht gravierenden
+                            mentalitäts- und geistesgeschichtlichen Auswirkungen dieses
+                            Ereignisses vgl. <bibl corresp="kbga-bibls-2523">
+                                    <hi rend="i">Die Erschütterung der vollkommenen Welt. Die
+                                Wirkung des Erdbebens von Lissabon im Spiegel europäischer
+                                Zeitgenossen</hi>, hrsg. von W. Breidert, Darmstadt
+                            1994</bibl>.</note> und auch bei dem großen Unglück, das vor 7 Wochen
+                            <anchor type="note" xml:id="fn-n"/>in <placeName ref="kbga-places-35">Italien</placeName>
+                        <pb xml:id="p135" ed="pga"/> geschehen ist<note type="textcritical" n="n" xml:id="nn" target="fn-o"> Im Mskr. nachträglich eingefügt anstelle der ursprünglich
+                                genaueren Aussage: «<placeName ref="kbga-places-1124">Calabrien</placeName> und <placeName ref="kbga-places-1028">Sizilien</placeName> betroffen hat».</note>,<note xml:id="n07">Am 28. Dezember 1908 zerstörte ein
+                            Erdbeben weite Teile von <placeName ref="kbga-places-1059">Messina</placeName> und anderen Städten; dem Beben und dem darauf
+                            folgenden Tsunami fielen nach Schätzungen zwischen 70 000 und 100 000 Menschen zum Opfer.</note> haben die Stimmen nicht gefehlt, die
+                        fragten: Kann es einen <term type="Sachen" key="Theodizeefrage">Gott</term> geben, der Solches zulässt? Was sagen wir als Christen
+                        dazu? Wollen wir auch weggehen? [vgl. <ref type="can" subtype="bible" target="Joh.6.67">Joh. 6,67</ref>] Und wie steht’s mit uns, wenn
+                        ein solches Ereignis in unser eigenes, persönliches Leben hineintritt?,
+                        ein Todesfall, eine Missernte, ein Brandunglück, ein Geldverlust? Halten
+                        da Kirche und Bibel und Gott in unserm Innern <pb ed="-A" n="15"/> stand, oder versinkt die Krone im tiefen Rhein, als wäre sie nie
+                        dagewesen?</p>
+                    <p> Liebe Freunde! Alle diese Gefahren für unsern <term type="Sachen" key="Glaube, Gefahren">Glauben</term> können von heute auf morgen
+                        jeden von uns treffen. Jeder von uns kennt in sich selber die andre
+                        Stimme, die dem Glauben entgegentritt; Menschen, die dieser Stimme
+                        helfen, gibt es auch genug – wirst du siegen oder unterliegen,
+                        wenn Gott selber durch eine plötzliche Fügung in deinem Leben deinen
+                        Glauben auf die Probe stellt? Nicht wahr, nun will es dir auch fast
+                        scheinen, als ob der Glaube wohl ein <term type="Sachen" key="Glaube, Besitz">Besitz</term> sei, aber ein Besitz, um den
+                            <hi rend="i">gekämpft</hi> werden <term type="Sachen" key="Glaube, heißt Kämpfen">muss</term>, und der Kampf ist nicht
+                        leicht.</p>
+                    </div>
+                    <div>
+                    <head type="4">III</head>
+                    <p rend="noindent">Wir reden also drittens vom <hi rend="i">Halten</hi> des <term type="Sachen" key="Glaube, Halten des Gl.">Glaubens</term>.
+                            <hi rend="i">Halte</hi>, was du hast! Was heißt halten? Wir dürfen das
+                        Wort ja nicht etwa so <hi rend="i">missverstehen</hi>, als sei uns gesagt:
+                        Bleibe ruhig<note type="textcritical" n="o" xml:id="no"> Im Mskr. nachträglich hinzugefügt.</note>
+                         bei dem, was du bist, suche beileibe nicht etwa nach einem höhern
+                            <pb ed="-A" n="16"/>
+                        <term type="Sachen" key="Glaube, höherer">Glauben</term>, als der ist,
+                        den du gerade hast.<note type="textcritical" n="p" xml:id="np"> Im Mskr. folgt der von Barth eckig eingeklammerte Satz:
+                                «Bleibe also z. B. ruhig ein Kirchenchrist, wenn’s dir
+                                gefällt.»</note>
+                        
+                        <pb xml:id="p136" ed="pga"/> Das wäre das direkte Gegenteil von dem, was unser Text<note type="textcritical" n="q" xml:id="nq"> Im Mskr. mit Bleistift eingefügt anstelle von: «Wort».</note>
+                         verlangt. In der griechischen Bibel bedeutet das Wort, das im
+                        Deutschen mit<note type="textcritical" n="r" xml:id="nr"> Im Mskr. nachträglich hinzugefügt.</note>
+                         «<hi rend="i">halte</hi>, was du hast», übersetzt ist, ungefähr so
+                        viel wie «<hi rend="i">ergreife</hi>, was du hast!». Ich weiß nicht, ob die
+                        Kinder und jungen Burschen hierzulande auch das Spiel des Seilziehens
+                        kennen: Zwei Parteien spannen sich an die zwei Enden eines Seils, wer
+                        stärker zieht, hat gewonnen. Dabei <hi rend="i">hält</hi> man das Seil zwar,
+                        aber man sucht vor Allem, <hi rend="i">immer mehr davon zu ergreifen</hi> und
+                        so den Gegner den Kürzeren ziehen zu lassen. Das ist genau das Halten,
+                        das hier gemeint ist.</p>
+                    <p> Das Halten des <term type="Sachen" key="Glaube, Halten des Gl.">Glaubens</term> ist also kein Stillstand, sondern ein fortwährendes
+                            <hi rend="i">Wachsen</hi> im <term type="Sachen" key="Glaube, Wachsen im Gl.">Glauben</term>. Wie denn? Du sagst:
+                        eben haben wir von den Mächten geredet, die uns die Krone nehmen wollen.
+                        Können wir nicht zufrieden sein, wenn wir behalten, was wir haben, ist
+                        es nicht vermessen, bei solcher Gefahr noch vom Wachsen zu reden? Nein,
+                        lieber Freund, <pb ed="-A" n="17"/> gerade <hi rend="i">wachsen</hi>
+                        müssen wir, wenn wir nicht verlieren wollen. Sieh, die Sache ist ganz
+                        einfach. Wir haben bisher die drei Arten von Christen: <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchristen</term>, <term type="Sachen" key="Christen, Bibelchristen">Bibelchristen</term>, <term type="Sachen" key="Christen, Herzenschristen">Herzenschristen</term>, nebeneinander gestellt, als ob der Glaube aller
+                        dreier gleich gut sei. Das scheint auch auf den ersten Blick so, denn
+                        wer könnte z. B. in dieser Gemeinde die drei Arten auseinanderlesen: Du
+                        gehörst hierher und du dahin? Wenn aber jene Gefahren kommen, die uns
+                        die Krone nehmen wollen, dann zeigt es sich, wenn auch in vielen Fällen
+                        nur vor dem Auge Gottes, wohin ein Mensch gehört. Und<note type="textcritical" n="s" xml:id="ns"> Im Mskr. nachträglich eingefügt anstelle von: «Denn».</note>
+                         nicht Alle bestehen das Examen, das diese Gefahren für uns
+                        bilden.</p>
+                    <p>Glaubt ihr ernstlich, dass der <term type="Sachen" key="Christen, Kirchenchristen">
+                                <hi rend="i">Kirchenchrist</hi></term>&gt;,
+                        dessen Glaube in dem dunklen Gefühl besteht, dass man zur Kirche gehen
+                        und brav sein müsse, glaubt ihr, dass er einer wirklich großen <term type="Sachen" key="Versuchung">Versuchung</term> widerstehen wird?
+                        Wird nicht die Stimme der <term type="Sachen" key="Selbstsucht">Selbstsucht</term> stärker sein als die Stimme der Kirchenorgel, an
+                        die er denkt, wenn man von Glauben redet? Ich glaube es doch<note type="textcritical" n="t" xml:id="nt"> Im Mskr. nachträglich mit Bleistift eingefügt anstelle von:
+                                «nicht».</note>, – entweder er unterliegt und verliert damit das, was er
+                        hat, oder aber er besinnt sich auf etwas, was über <pb ed="-A" n="18"/> seinen alten Glauben<note type="textcritical" n="u" xml:id="nu"> Im Mskr. folgt der von Barth eckig eingeklammerte Nebensatz:
+                                «[…], der auf das Kirchensitzen gegründet war,
+                                […]».</note>
+                         hinausgeht, er besinnt sich auf die Worte <anchor type="note" xml:id="fn-v"/>der
+                            Schrift<note type="textcritical" n="v" xml:id="nv" target="fn-v"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                            <term type="Sachen" key="Bibel / Heilige Schrift"/>, <pb xml:id="p137" ed="pga"/> die er da so oft<note type="textcritical" n="w" xml:id="nw"> Im Mskr. nachträglich hinzugefügt.</note>
+                         gehört, ohne zu hören – <term type="Sachen" key="Sünde">Sünde</term> – <term type="Sachen" key="Gericht, Jüngstes">Gericht</term> – Gott tönt es in seinen Ohren. Er überlegt
+                        die Sache noch einmal und widersteht der <term type="Sachen" key="Versuchung">Versuchung</term> – er ist durch die Gefahr
+                        aus einem <term type="Sachen" key="Christen, Kirchenchristen">Kirchenchristen</term> ein Bibelchrist geworden.</p>
+                    <p>Aber auch der Glaube des <term type="Sachen" key="Christen, Bibelchristen">
+                                <hi rend="i">Bibelchristen</hi></term>&gt; wird
+                        auf die Probe gestellt. Wie, wenn einem solchen in der Nacht Haus und
+                        Hof verbrennt, und am andern Morgen vernimmt er zufällig, dass sein
+                        Nachbar, ein schlechter Mann, im <term type="Sachen" key="Handel / Geschäftsleben">Handel</term> einen großen Erfolg
+                        gehabt hat? <hi rend="i">Er</hi> hat zeitlebens schlecht und recht an den
+                        Gott der Bibel geglaubt, <hi rend="i">jener</hi> hat vielleicht darüber
+                        gespottet. Wo bleibt da Gottes <term type="Sachen" key="Gott, Gerechtigkeit">Gerechtigkeit</term>? Was wird er tun? Nun
+                        muss es sich zeigen, welcher Art sein Glaube gewesen ist. Wird er dem
+                        lieben Gott aufkündigen, wie man einem schlechten Handelsfreund kündigt,
+                        oder wird er sagen können:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>«Was Gott tut, das ist wohlgetan,</l>
+                                <l>Es <hi rend="i">bleibt</hi> gerecht sein Wille.<note xml:id="n08">Beginn eines Liedes von <bibl type="song" corresp="kbga-songs-162">S.
+                                        Rodigast (GERS 270; RG 684; EG 372)</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p> <pb rend="noPipe" ed="-A" n="19"/> – ich weiß nicht, warum Gott das an
+                        mir tut. Aber ich weiß, dass er es gut meint mit mir.» Wenn er das
+                        Letztere sagen kann, dann ist in aller Stille aus dem <term type="Sachen" key="Christen, Bibelchristen">Bibelchristen</term> ein
+                        Herzenschrist geworden, der weiß, an wen er glaubt, weil er selber Gott
+                        gesehen hat – und das kommt an den Tag in der Stunde, da ihm
+                        jenes Ereignis die Krone nehmen wollte.</p>
+                    <p>Und der <term type="Sachen" key="Christen, Herzenschristen">
+                                <hi rend="i">Herzenschrist</hi></term>&gt;
+                            <hi rend="i">?</hi> Gibt es für ihn
+                        keine Gefahren mehr? Ich meine, gerade wer Gottes <term type="Sachen" key="Gott, Ernst">Ernst</term> und Gottes <term type="Sachen" key="Gott, Güte">Güte</term> in seinem eigenen Leben erfahren hat,
+                        der weiß davon zu sagen, dass ihm immer neue Aufgaben entstehen, weil er
+                        wohl Gott immer näher kommt, der Weg aber immer noch unermesslich
+                        bleibt. Ein solcher Christ ist dann<note type="textcritical" n="x" xml:id="nx"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
+                         wie ein Bergsteiger, der freilich<note type="textcritical" n="y" xml:id="ny"> Im Mskr. nachträglich mit Bleistift eingefügt anstelle von:
+                                «wohl».</note>
+                         noch stundenweit vom Gipfel entfernt ist, aber er sieht ihn
+                        bereits, er kann den Weg nicht mehr verfehlen und schreitet darum tapfer
+                        aus.</p>
+                    <p>Seht, das ist das innere <term type="Sachen" key="Glaube, Wachsen im Gl.">
+                                <hi rend="i">Wachsen</hi></term>&gt;, das von uns gefordert ist, wenn es
+                        heißt, dass wir <hi rend="i">halten</hi> sollen, was wir haben. Wir sollen
+                        das kleine oder große Pfund des Glaubens, <pb ed="-A" n="20"/>
+                        das wir haben, nicht im Schweißtuch verscharren, sondern damit wuchern
+                        [vgl. <ref type="can" subtype="bible" target="Lk.19.20">Lk. 19,20</ref>], das
+                        Leben unsres <pb xml:id="p138" ed="pga"/> Glaubens soll sich nach aufwärts
+                        bewegen auch in ruhigen Zeiten, damit, wenn die Stunde der Gefahr kommt,
+                        wir nicht nur nicht fallen, sondern die Gefahr als eine Sprosse in der
+                        Leiter <anchor type="note" xml:id="fn-z"/>benützen, um einen sichtbaren Schritt
+                            aufwärts<note type="textcritical" n="z" xml:id="naa" target="fn-z"> Im Mskr. ursprünglich: «nach oben benützen, um einen
+                                sichtbaren Schritt nach oben»; mit Bleistift korrigiert.</note>
+                         zu tun.</p>
+                    <p> Wollen wir diesen <term type="Sachen" key="Glaube, heißt Kämpfen">Kampf</term> aufnehmen, liebe Mitchristen? Nicht nur mit
+                        Lufthieben, sondern ernsthaft? [vgl. <ref type="can" subtype="bible" target="1.Kor.9.26">1.Kor. 9,26</ref>] Seht, es bleibt dabei, dass niemand
+                        gekrönt wird, er kämpfe denn recht [<ref type="can" subtype="bible" target="2.Tim.2.5">2.Tim. 2,5</ref>].</p>
+                    <p> Wollen wir getreue Knechte sein? [vgl. 
+                        <ref type="can" subtype="bible" target="Mt.25.21 Mt.25.23">Mt. 25,21.23</ref>] Dann wollen wir es uns gesagt sein
+                        lassen: Sei getreu bis in den Tod, so will ich dir die Krone des Lebens
+                        geben [<ref type="can" subtype="bible" target="Apk.2.10">Apk. 2,10</ref>].</p>
+                    <p>Und getreu sein heißt kämpfen.</p>
+                    </div>
+                </div>  
+                <div type="closer">
+                        <salute>Amen.</salute>                    
+                </div>
+                <div type="songs">
+                       <head>Lied:</head>
+                        <listBibl type="songs" rend="simple">
+                           <bibl type="song" corresp="kbga-songs-46">Nr. 254<note xml:id="n09">Die hier von Barth
+                                    angegebene Liednummer bezieht sich auf: <bibl corresp="kbga-bibls-2502">
+                                    <hi rend="i">Evangelisches
+                                        Kirchengesangbuch für den Konsistorialbezirk
+                                        Cassel</hi>, Cassel 1889; 1907<hi rend="sup">3</hi>.</bibl>
+                            </note>: «Mache dich, mein Geist, bereit» von <author ref="kbga-actors-2396">J. B.
+                                Freystein</author> (GERS 298; EG 387).</bibl>
+                        </listBibl>
+                </div>
+                <div>  
+                    
+                        <head>Lesungstext:</head>
+                        <list type="simple">
+                            <item> <ref type="can" subtype="bible" target="Mt.25.14 Mt.25.30">Mt. 25,14–30</ref>
+                        </item>
+                        </list>   
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

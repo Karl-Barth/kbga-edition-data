@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Predigt: 2 Korinther 5,11: "Vor dem Richterstuhl Christi"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 2 Korinther 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12034 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12034 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 226–233.</title>
       </titleStmt>
       <editionStmt>
@@ -51,10 +51,10 @@
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
         <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Vor dem Richterstuhl Christi, 1965, in: Rufe mich an! Neue Predigten aus der Strafanstalt Basel, 88-96. </bibl>
-        <bibl xml:id="B" corresp="KBA 1659.2" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <idno ref="https://kba.karl-barth.ch/objects/2108">KBA 1659.2</idno>. </bibl>
-        <bibl xml:id="C" corresp="KBA 1659.1" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <idno ref="https://kba.karl-barth.ch/objects/2205">KBA 1659.1</idno>. </bibl>
-        <bibl xml:id="D" corresp="KBA 909" type="source">D (Weitere Vorlage): Barth, Karl, Vor dem Richterstuhl Christi: Predigt über 2. Kor. 5,11, 24. Februar 1963. <idno ref="https://kba.karl-barth.ch/objects/6238">KBA 909</idno>. </bibl>
-        <bibl xml:id="E" corresp="KBA 1659.3" type="source">E (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <idno ref="https://kba.karl-barth.ch/objects/2206">KBA 1659.3</idno>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <ref target="https://kba.karl-barth.ch/objects/2108">KBA 1659.2</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <ref target="https://kba.karl-barth.ch/objects/2205">KBA 1659.1</ref>. </bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): Barth, Karl, Vor dem Richterstuhl Christi: Predigt über 2. Kor. 5,11, 24. Februar 1963. <ref target="https://kba.karl-barth.ch/objects/6238">KBA 909</ref>. </bibl>
+        <bibl xml:id="E" type="source">E (Weitere Vorlage): Barth, Karl, Predigt: 2 Kor 5,11: "Vor dem Richterstuhl Christi", 24. Februar 1963. <ref target="https://kba.karl-barth.ch/objects/2206">KBA 1659.3</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -71,48 +71,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -122,10 +82,14 @@
       <div type="opener">
       <head type="header">VOR DEM RICHTERSTUHL CHRISTI</head>
       <epigraph>
-        <cit><ref type="can" subtype="bible" target="2.Kor.5.10">2.Korinther 5,10</ref>
-          <quote>Wir müssen alle offenbar werden vor dem Richterstuhl Christi.</quote></cit>
+        <cit>
+                            <ref type="can" subtype="bible" target="2.Kor.5.10">2.Korinther 5,10</ref>
+          <quote>Wir müssen alle offenbar werden vor dem Richterstuhl Christi.</quote>
+                        </cit>
       </epigraph>
-        <dateline><date when="1963-02-24">24. Februar 1963</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName></dateline>
+        <dateline>
+                        <date when="1963-02-24">24. Februar 1963</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName>
+                    </dateline>
         <div type="prayer">
           <p>Herr unser Gott! Hier kommen wir. Hier sind wir. Vielleicht nur darum, weil wir für eine Stunde nicht mit unseren Gedanken allein sein möchten. Vielleicht nur darum, weil wir gerne einmal etwas Anderes hören möchten als das, was wir uns untereinander zu erzählen haben oder was wir in Büchern und Zeitungen lesen können. Vielleicht nur darum, weil wir uns vorstellen, daß zu einem rechten Alltag auch ein rechter Sonntag gehören möchte. Aber in dem allem könnten wir ja schon deine Stimme, deinen Ruf vernommen haben und also ganz recht haben. Sind wir bei dir, dann sind wir gewiß nicht mehr allein. Hören wir dein Wort, dann hören wir auf alle Fälle etwas ganz Anderes und Neues. Dürfen wir diesen Sonntag mit dir <pb xml:id="p227" ed="pga"/> feiern, dann wird er in aller Dunkelheit ein Sonnentag auch für unseren Alltag sein.</p>
           <p>Du kennst uns besser, als wir uns selbst kennen. Mit unserem bißchen Glauben ist es nicht weit her. Laß unseren gemeinsamen Anruf dennoch gelten und erhöre ihn, wie wenn er das Bekenntnis eines reichen, starken Glaubens wäre! Tritt in unsere Mitte und rede du selbst zu uns! Öffne du selbst unsere Ohren und Herzen, damit wir frei werden, dich zu hören! Laß du selbst das Reden, Beten und Singen, mit dem wir dir zu <pb ed="A" n="89"/> antworten versuchen, wenigstens von ferne übereinstimmen mit dem besseren Lob deiner heiligen Engel! Und dasselbe laß überall geschehen, wo deine Gemeinde auf Erden sich an diesem Tage versammelt, um die großen Taten deiner Barmherzigkeit zu bezeugen!</p>
@@ -134,7 +98,9 @@
           <salute>Meine lieben Brüder!</salute>
       </div>
       <div type="main">
-        <p>Wir wissen alle, was das heißt: <hi rend="i">vor Gericht</hi> kommen. Ich kann mich selbst da ohne weiteres einschließen. Denn vor nun bald dreißig Jahren, in der Hitlerzeit also, in <placeName ref="kbga-places-94">Köln</placeName> am Rhein, bin ich auch einmal vor Gericht gekommen. Angeklagt war ich und vorgehalten wurde mir da von einem bösen Staatsanwalt: daß ich getan habe, was man im damaligen <orgName ref="kbga-actors-8359">Deutschland</orgName> nicht tun durfte, und nicht getan habe, was man im damaligen Deutschland tun sollte. Drei Richter saßen mir gegenüber und schauten mich mit ernsten, mißtrauischen Gesichtern an. Und ein tüchtiger junger Anwalt saß neben mir und gab sich große Mühe, zu beweisen, daß Alles nicht so schlimm sei. Es kam aber doch Alles, wie es kommen mußte. Ich wurde für schuldig befunden und verurteilt: zur Absetzung nämlich als ein unzuverlässiger Staatsbeamter und als ein unguter Lehrer der deutschen Jugend.<note xml:id="n01">Der Prozeß fand am <date when="1934-12-20">20.12.1934</date> statt. Vgl. <bibl corresp="kbga-bibls-134"><author ref="kbga-actors-1513">E. Busch</author>, <title level="m">Karl <persName ref="kbga-actors-2151">Barths</persName> Lebenslauf. Nach seinen Briefen und autobiographischen Texten</title>, <pubPlace>München</pubPlace><date when="1975">1975</date>. <date when="1978">1978</date><edition><hi rend="sup">3</hi></edition>, S. 269ff.</bibl>
+        <p>Wir wissen alle, was das heißt: <hi rend="i">vor Gericht</hi> kommen. Ich kann mich selbst da ohne weiteres einschließen. Denn vor nun bald dreißig Jahren, in der Hitlerzeit also, in <placeName ref="kbga-places-94">Köln</placeName> am Rhein, bin ich auch einmal vor Gericht gekommen. Angeklagt war ich und vorgehalten wurde mir da von einem bösen Staatsanwalt: daß ich getan habe, was man im damaligen <orgName ref="kbga-actors-8359">Deutschland</orgName> nicht tun durfte, und nicht getan habe, was man im damaligen Deutschland tun sollte. Drei Richter saßen mir gegenüber und schauten mich mit ernsten, mißtrauischen Gesichtern an. Und ein tüchtiger junger Anwalt saß neben mir und gab sich große Mühe, zu beweisen, daß Alles nicht so schlimm sei. Es kam aber doch Alles, wie es kommen mußte. Ich wurde für schuldig befunden und verurteilt: zur Absetzung nämlich als ein unzuverlässiger Staatsbeamter und als ein unguter Lehrer der deutschen Jugend.<note xml:id="n01">Der Prozeß fand am <date when="1934-12-20">20.12.1934</date> statt. Vgl. <bibl corresp="kbga-bibls-134">
+                                <author ref="kbga-actors-1513">E. Busch</author>, <title level="m">Karl <persName ref="kbga-actors-2151">Barths</persName> Lebenslauf. Nach seinen Briefen und autobiographischen Texten</title>, <pubPlace>München</pubPlace>
+                                <date when="1975">1975</date>. <date when="1978">1978</date><edition rend="sup">3</edition>, S. 269ff.</bibl>
                </note> Nun, das ist lange her, und ich habe es, wie ihr seht, soweit gut überstanden.</p>
         <p>Ich erzähle es denn auch nur, um euch an das zu erinnern, was ihr ja <pb xml:id="p228" ed="pga"/> selbst besser als ich kennt: wie das ist und zugeht, wenn man vor ein <hi rend="i">menschliches</hi> Gericht kommt. Inmitten vieler Menschen sitzt da — und Aller Augen sind auf ihn gerichtet — der Angeklagte, um von anderen Menschen wegen dessen, was er <pb ed="A" n="90"/> getan, zur Rechenschaft gezogen zu werden. Festgestellt wird nun, was nach menschlicher Einsicht in seiner Sache offenbar ist. Und erkannt wird nun, was ihm deshalb nach menschlichem Urteil zukommen soll. Womit er sich dann wohl oder übel abzufinden hat! Vielleicht, daß er appellieren kann und will, was aber doch nur bedeuten wird, daß er noch einmal vor ein anderes menschliches Gericht kommt. Und dann geht das Leben weiter: für alle beteiligten Personen und so auch für ihn, den Angeklagten und nun Verurteilten. Andere Ereignisse folgen, und wer weiß, ob er nicht später statt einer Strafe gelegentlich — wohlverstanden: wieder nach menschlichem Ermessen — einen Preis bekommen wird?<note xml:id="n02">Am <date when="1963-02-16">16.2.1963</date> hatte der Rektor der Universität <placeName ref="kbga-places-112">Kopenhagen</placeName> <persName ref="kbga-actors-2151">Barth</persName> mitgeteilt, daß ihm der Sonning-Preis für Europäische Kultur verliehen werden solle. Am <date when="1963-04-19">19.4.1963</date> nahm <persName ref="kbga-actors-2151">Barth</persName> den Preis in Kopenhagen entgegen.</note>
             </p>
@@ -153,19 +119,28 @@
         <p>Ich bin am Schluß. <hi rend="i">Angst</hi> vor jenem Licht und Gericht? Ihr habt wohl bemerkt, daß wir sehr ernste Gründe haben könnten, hier Angst zu haben. Aber wenn wir den großen, starken Trost ergreifen und als unseren einzigen Trost im Leben und im Sterben<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-440">Heidelberger Katechismus (<date when="1563">1563</date>)</bibl>, Frage 1: «Was ist dein einiger Trost im Leben und im Sterben? — Daß ich mit Leib und Seele, beides, im Leben und im Sterben, nicht mein, sondern meines getreuen Heilandes Jesu Christi eigen bin …»</note> gelten lassen, dann fällt der Grund zur Angst, so ernst er sein mag, dahin. Wir haben dann Grund zur <hi rend="i">Freude</hi> — nicht zur Freude an uns selbst, wohl aber zur Freude an ihm, Jesus Christus, der gestern war, heute ist und in Ewigkeit sein wird
           [vgl. <ref type="can" subtype="bible" target="Hebr.13.8">Hebr. 13,8</ref>] — Grund zur Freude daran, daß wir alle <hi rend="i">vor seinem Richterstuhl</hi> offenbar werden müssen. Müssen? Nein: dürfen!</p>
         </div>
-        <div type="closer"><salute>Amen.</salute></div>
+        <div type="closer">
+                    <salute>Amen.</salute>
+                </div>
           <div type="prayer">
           <p>Herr, unser Gott und Vater! Wir danken dir, daß das Wort, das du in deinem Sohn Jesus Christus zu uns gesprochen hast, so streng, aber auch so freundlich, so demütigend, aber auch so erhebend ist. Wir danken dir dafür, daß du uns nichts übrig  <pb ed="A" n="96"/>  lässest, als uns vor <pb xml:id="p233" ed="pga"/> dir zu beugen, und uns gerade damit frei und freudig machst, uns aufzurichten und der Offenbarung deines Reiches gern und zuversichtlich entgegenzusehen. Bewege uns durch deinen Heiligen Geist, dir in Beidem, immer neu gehorsam zu werden!</p>
           <p>Und nun denken wir an die großen und kleinen Nöte dieser unserer gegenwärtigen Zeit und Welt: an die vielen Millionen von Hungernden, verglichen mit denen es uns so gut geht — an die finstere Bedrohung unserer schönen Erde durch die Atombombe — an die Hilflosigkeit, in der die großen Staatsmänner der Aufgabe gegenüberstehen, ein vernünftiges Wort miteinander zu reden — an die Schmerzen der Kranken und an die Verwirrungen der Geisteskranken — an das viele Versagen unserer öffentlichen Ordnungen und an die Torheit der meisten unserer Sitten und Gewohnheiten — an so viel Eitelkeit und Leerlauf auch in unserem geistigen und kulturellen Leben — an die Unsicherheit und Schwäche auch unseres kirchlichen Wesens — an so viel Kummer und Verwicklungen in unseren Familien und schließlich auch an all das Besondere, was jeden Einzelnen unter uns heute betrüben und belasten mag.</p>
-          <p>Nun bitten wir dich: Herr, laß es Tag werden! Herr, zermalme, brich, zerstöre alle Macht der Finsternis!<note xml:id="n06">Anfang der <bibl corresp="kbga-songs-60" type="song"><biblScope>4. Strophe</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>306</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>262</idno>, <biblScope>Str. 6</biblScope></bibl>) «<title level="a">O Durchbrecher aller Bande</title>» (<date when="1698">1698</date>) von <author ref="kbga-actors-1342">G. Arnold</author> (<date from="1666" to="1714">1666–1714</date>)</bibl>.</note> Heile du uns, Herr, so werden wir heil! — wenn es im Ganzen noch nicht sein kann, dann doch im Kleinen und Vorläufigen: als Zeichen, daß du lebst und daß wir trotz allem dein Volk sind, das du durch Alles hindurch deiner Herrlichkeit entgegenführst. Du allein bist gut. Dir allein gebührt die Ehre. Du allein kannst und wirst helfen. Wir müssen es wohl erst ganz neu lernen, von Herzensgrund zu rufen: Du allein!</p>
-          <div type="closer"><salute>Amen.</salute></div>
+          <p>Nun bitten wir dich: Herr, laß es Tag werden! Herr, zermalme, brich, zerstöre alle Macht der Finsternis!<note xml:id="n06">Anfang der <bibl corresp="kbga-songs-60" type="song">
+                                <biblScope>4. Strophe</biblScope> des <bibl corresp="kbga-bibls-1087">Liedes <idno>306</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>262</idno>, <biblScope>Str. 6</biblScope></bibl>) «<title level="a">O Durchbrecher aller Bande</title>» (<date when="1698">1698</date>) von <author ref="kbga-actors-1342">G. Arnold</author> (<date from="1666" to="1714">1666–1714</date>)</bibl>.</note> Heile du uns, Herr, so werden wir heil! — wenn es im Ganzen noch nicht sein kann, dann doch im Kleinen und Vorläufigen: als Zeichen, daß du lebst und daß wir trotz allem dein Volk sind, das du durch Alles hindurch deiner Herrlichkeit entgegenführst. Du allein bist gut. Dir allein gebührt die Ehre. Du allein kannst und wirst helfen. Wir müssen es wohl erst ganz neu lernen, von Herzensgrund zu rufen: Du allein!</p>
+          <div type="closer">
+                        <salute>Amen.</salute>
+                    </div>
           </div>
         <div type="songs">
           <head>Lieder:</head>
           <listBibl type="songs">
-            <bibl corresp="kbga-songs-57" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>80</idno></bibl>: «<title level="a">Morgenglanz der Ewigkeit</title>» von <author ref="kbga-actors-2060">Chr. A. Ph. Knorr von Rosenroth</author>, <biblScope>Strophen 1–4</biblScope></bibl>
-            <bibl corresp="kbga-songs-61" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>50</idno></bibl>: «<title level="a">Gelobet sei der Herr</title>» von <author ref="kbga-actors-5745">J. Olearius</author>, <biblScope>Strophen 1–3</biblScope></bibl>
-            <bibl><bibl corresp="kbga-bibls-1087">Nr. <idno>50</idno></bibl>, <biblScope>Strophe 4</biblScope></bibl>
+            <bibl corresp="kbga-songs-57" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>80</idno></bibl>: «<title level="a">Morgenglanz der Ewigkeit</title>» von <author ref="kbga-actors-2060">Chr. A. Ph. Knorr von Rosenroth</author>, <biblScope>Strophen 1–4</biblScope></bibl>
+            <bibl corresp="kbga-songs-61" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>50</idno></bibl>: «<title level="a">Gelobet sei der Herr</title>» von <author ref="kbga-actors-5745">J. Olearius</author>, <biblScope>Strophen 1–3</biblScope></bibl>
+            <bibl>
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>50</idno></bibl>, <biblScope>Strophe 4</biblScope></bibl>
           </listBibl>
           <!--<item><ref type="pub" subtype="bib1-ein1914" target="b0080">Nr. 80</ref>: «Morgenglanz der Ewigkeit» von <persName ref="kbga-actors-2060">Chr. A. Ph. Knorr von Rosenroth</persName>,
 Strophen 1-4</item>

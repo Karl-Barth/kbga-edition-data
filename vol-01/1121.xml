@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 11</title>
         <title type="content">Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung</title>
         <title type="citation_line_1">Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung, 28. November 1929</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1121 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1121 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 232–236.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 9229.252" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung, 28. November 1929. <idno ref="https://kba.karl-barth.ch/objects/17113">KBA 9229.252</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung, 28. November 1929. <ref target="https://kba.karl-barth.ch/objects/17113">KBA 9229.252</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -74,7 +74,7 @@
         </correspAction>
         <correspAction type="received">
           <orgName ref="kbga-actors-8245">Preußisches Ministerium für Wissenschaft, Kunst und Volksbildung</orgName>
-          <placeName key="kbga-places-8">Berlin</placeName>
+          <placeName ref="kbga-places-8">Berlin</placeName>
         </correspAction>
         <correspContext>
           <ref type="previous" target="kbga-texts-1065"/>
@@ -83,48 +83,8 @@
         </correspContext>
       </correspDesc>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:00+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:00+02:00</change>
+      <change when="2022-12-23T11:07:34+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:34+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -136,7 +96,8 @@
         <div type="abstract">
           <p>
             [Separatvotum
-            <hi rend="text-recte"><persName ref="kbga-actors-2151">K. Barths</persName></hi>
+            <hi rend="text-recte">
+                            <persName ref="kbga-actors-2151">K. Barths</persName></hi>
             für die Wiederbesetzung des Lehrstuhls für <orgName ref="kbga-actors-5258">Systematische Theologie in Münster</orgName> an den
             <hi rend="text-recte">Minister <orgName ref="kbga-actors-8245">für Wissenschaft, Kunst und Volksbildung</orgName>,</hi>
             <placeName ref="kbga-places-8">Berlin</placeName>: undatierter Entwurf vom <date when="1929-11">November
@@ -148,27 +109,32 @@
           <p>Da ich nicht in der Lage bin, mich dem Votum der <orgName ref="kbga-actors-5258">Fakultät</orgName> in Sachen der bevorstehenden
             Neubesetzung des planmäßigen Ordinariats für systematische Theologie anzuschließen,
             gestatte ich mir, als<lb/>
-            <q rend="center"><hi rend="i">Separatvotum</hi></q>
+            <q rend="center">
+                            <hi rend="i">Separatvotum</hi>
+                        </q>
           </p>
           <p>Folgendes vorzutragen:</p>
           <p>I. Als ich mich entschloß, dem an mich ergangenen Ruf nach <placeName ref="kbga-places-10">Bonn</placeName> Folge zu leisten, war es mir vom ersten
             Augenblick an klar, daß ich mir einen anderen Nachfolger in meiner hiesigen Stellung
-            nicht wünschen dürfe und könne als <hi rend="i">Pfarrer D. <persName ref="kbga-actors-137">Friedrich Gogarten</persName>
-            </hi> in <placeName ref="kbga-places-73">Dorndorf</placeName>, zur Zeit Privatdozent an
+            nicht wünschen dürfe und könne als <hi rend="i">Pfarrer D. <persName ref="kbga-actors-137">Friedrich Gogarten</persName></hi> in <placeName ref="kbga-places-73">Dorndorf</placeName>, zur Zeit Privatdozent an
             der <orgName ref="kbga-actors-8292">Universität Jena</orgName>. Ich hätte mich an
             anderen Nennungen gemeinsam mit der <orgName ref="kbga-actors-5258">Fakultät</orgName> nur beteiligen können unter der
             Voraussetzung, daß dieser Name an die Spitze aller übrigen gesetzt worden wäre. Nun die
             <orgName ref="kbga-actors-5258">Fakultät</orgName> sich vielmehr dahin entschlossen hat, diesen Namen überhaupt nicht zu nennen,
             glaube ich die meiner Ansicht und meinem Wunsch in dieser Sache ohnehin besser
             entsprechende Möglichkeit zu haben, eben diesen Namen allein zu nennen.</p>
-          <p><persName ref="kbga-actors-137">Gogarten</persName> ist nicht mein persönlicher Freund.
+          <p>
+                        <persName ref="kbga-actors-137">Gogarten</persName> ist nicht mein persönlicher Freund.
             Auch sein wissenschaftlicher Weg ist weithin ein ganz anderer als der meinige. Wenn sein
             und mein Name häufig in einem Atemzug genannt werden und wenn wir gemeinsam
             Hauptmitarbeiter der theologischen Zeitschrift «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>» sind, so beruht das
             auf einer letzten sachlichen Übereinstimmung, die ernsthafte Differenzen in sich
             schließt. Was die Vorbehalte betrifft, mit denen <persName ref="kbga-actors-137">Gogarten</persName> mir gegenübersteht, so verweise ich auf seine Recension meiner
-            Dogmatik in Heft I der «<orgName ref="kbga-actors-7470">Theologischen Rundschau</orgName>» dieses Jahres.<note xml:id="n01"><bibl corresp="kbga-bibls-1083"><author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="a">Karl Barths
-                    Dogmatik</title>, in: <title level="j"><abbr ref="kbga-abbreviations-276">ThR</abbr> NF</title>, <biblScope unit="issue">Jg. 1 (<date when="1929">1929</date>)</biblScope>. <biblScope>60–80.</biblScope></bibl></note> Ich meinerseits halte den Rahmen der Inter<pb xml:id="p233" ed="pga" break="no"/>essen, innerhalb deren <persName ref="kbga-actors-137">Gogarten</persName> arbeitet,
+            Dogmatik in Heft I der «<orgName ref="kbga-actors-7470">Theologischen Rundschau</orgName>» dieses Jahres.<note xml:id="n01">
+                            <bibl corresp="kbga-bibls-1083">
+                                <author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="a">Karl Barths
+                    Dogmatik</title>, in: <title><abbr ref="kbga-abbreviations-276">ThR</abbr> NF</title>, <biblScope unit="issue">Jg. 1 (<date when="1929">1929</date>)</biblScope>. <biblScope>60–80.</biblScope></bibl>
+                        </note> Ich meinerseits halte den Rahmen der Inter<pb xml:id="p233" ed="pga" break="no"/>essen, innerhalb deren <persName ref="kbga-actors-137">Gogarten</persName> arbeitet,
             für zu eng. Ich kann mich, anders als <persName ref="kbga-actors-512">Bultmann</persName>, der Nähe zu der phänomenologischen Philosophie, in der <persName ref="kbga-actors-137">Gogarten</persName> arbeitet, nur wenig freuen. Ich stehe auch
             dem akzentuierten Luthertum, das er vertritt,
             nicht ohne Bedenken gegenüber. Es fällt mir also durchaus nicht etwa leicht, gerade ihn
@@ -191,9 +157,17 @@
             persönlich sind bes. seine Nachweisungen über die Zusammenhänge zwischen Geschichte und
             Ethik neu gewesen und wichtig geworden) mit einem Nachdruck ausgesprochen, wie es in der
             neueren Zeit vor ihm und nach ihm kein Anderer getan hat. Die drei Bände gesammelter
-              Vorträge<note xml:id="n02"><bibl corresp="kbga-bibls-1411"><author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Die religiöse Entscheidung</title>, <pubPlace>Jena</pubPlace> <date when="1921">1921</date></bibl>; ders., <bibl corresp="kbga-bibls-1412"><title level="m">Von Glauben und Offenbarung. Vier Vorträge</title>, <pubPlace>Jena</pubPlace> <date when="1923">1923</date></bibl>; ders., <bibl corresp="kbga-bibls-1413"><title level="m">Illusionen. Eine Auseinandersetzung mit dem
-                    Kulturidealismus</title>, <pubPlace>Jena</pubPlace>  <date when="1926">1926</date>.</bibl></note> und das größere Buch «Ich glaube an den dreieinigen Gott»<note xml:id="n03"><bibl corresp="kbga-bibls-1091"><author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Ich glaube an den dreieinigen Gott. Eine Untersuchung über Glauben und Geschichte</title>,
-                    <pubPlace>Jena</pubPlace> <date when="1926">1926</date>.</bibl></note>, die er bei <orgName ref="kbga-actors-93">E. Diederichs</orgName> in
+              Vorträge<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-1411">
+                                <author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Die religiöse Entscheidung</title>, <pubPlace>Jena</pubPlace> <date when="1921">1921</date></bibl>; ders., <bibl corresp="kbga-bibls-1412">
+                                <title level="m">Von Glauben und Offenbarung. Vier Vorträge</title>, <pubPlace>Jena</pubPlace> <date when="1923">1923</date></bibl>; ders., <bibl corresp="kbga-bibls-1413">
+                                <title level="m">Illusionen. Eine Auseinandersetzung mit dem
+                    Kulturidealismus</title>, <pubPlace>Jena</pubPlace>  <date when="1926">1926</date>.</bibl>
+                        </note> und das größere Buch «Ich glaube an den dreieinigen Gott»<note xml:id="n03">
+                            <bibl corresp="kbga-bibls-1091">
+                                <author ref="kbga-actors-137">Fr. Gogarten</author>, <title level="m">Ich glaube an den dreieinigen Gott. Eine Untersuchung über Glauben und Geschichte</title>,
+                    <pubPlace>Jena</pubPlace> <date when="1926">1926</date>.</bibl>
+                        </note>, die er bei <orgName ref="kbga-actors-93">E. Diederichs</orgName> in
               <placeName ref="kbga-places-36">Jena</placeName> hat erscheinen lassen, sind, wie man
             sich auch zu ihrem Inhalt stellen möge, nicht nur merkwürdige Zeugnisse eines
             unmittelbaren Wissens um die Dinge, von denen er spricht, sondern auch Zeugnisse eines
@@ -242,8 +216,11 @@
             was die westfälische evangelische Kirche
             betrifft, so hat mich Herr Generalsuperintendent D. <persName ref="kbga-actors-442">Zoellner</persName> ausdrücklich ermächtigt, von seiner Erklärung Gebrauch zu machen,
             daß er sich ausgesprochen für die Möglichkeit einer Berufung des ihm von der <orgName ref="kbga-actors-8265">Lausanner Kirchenkonferenz 1927</orgName> her genau bekannten
-              <persName ref="kbga-actors-137">Gogarten</persName> aufs wärmste interessiere.<note xml:id="n06"><ref type="kba-objects-id" target="16980">Ein im Karl Barth-Archiv erhaltener Briefwechsel zwischen Barth und  <persName ref="kbga-actors-442">Zoellner</persName> (B. an Z.:
-                <date when="1929-10-20">20.10.1929</date></ref>; <ref type="kba-objects-id" target="17005">Z. an B.: <date when="1929-10-27">27.10.1929</date></ref>) dokumentiert, daß beide
+              <persName ref="kbga-actors-137">Gogarten</persName> aufs wärmste interessiere.<note xml:id="n06">
+                            <ref type="kba-objects-id" target="16980">Ein im Karl Barth-Archiv erhaltener Briefwechsel zwischen Barth und  <persName ref="kbga-actors-442">Zoellner</persName> (B. an Z.:
+                <date when="1929-10-20">20.10.1929</date>
+                            </ref>; <ref type="kba-objects-id" target="17005">Z. an B.: <date when="1929-10-27">27.10.1929</date>
+                            </ref>) dokumentiert, daß beide
               anläßlich eines westfälischen Examens
               über <persName ref="kbga-actors-137">Gogarten</persName> als ihnen erwünschten
               Nachfolger <persName ref="kbga-actors-2151">Barths</persName> gesprochen und daß <persName ref="kbga-actors-442">Zoellner</persName> nachher mit einigen Mitgliedern der <orgName ref="kbga-actors-5258">Münsteraner Fakultät</orgName>
@@ -256,7 +233,8 @@
             wollen. Daß man sie an innerem Gewicht und bezüglich des Ansehens der <orgName ref="kbga-actors-5258">Fakultät</orgName> <persName ref="kbga-actors-137">Gogarten</persName> an die Seite zu stellen wagt, ist mir ein
             Gegenstand tiefer Verwunderung.</p>
           
-          <p><pb xml:id="p236" ed="pga"/> II. Was die im Schreiben der <orgName ref="kbga-actors-5258">Fakultät</orgName> ebenfalls berührte Frage bezüglich der künftigen
+          <p>
+                        <pb rend="noPipe" xml:id="p236" ed="pga"/> II. Was die im Schreiben der <orgName ref="kbga-actors-5258">Fakultät</orgName> ebenfalls berührte Frage bezüglich der künftigen
             Stellung und Einkünfte des bisherigen Inhabers des planmäßigen Extra-Ordinariats
             Professor <persName ref="kbga-actors-364">D. Fr. W. Schmidt</persName> betrifft, so
             halte auch ich in Anbetracht der von ihm geleisteten Arbeit und in Anbetracht seiner

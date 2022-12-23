@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53021">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 19</title>
+        <title type="content">Predigt: 1.Korinther 2,12 (Reformationsfest)</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: 1.Korinther 2,12 (Reformationsfest), 7. November 1909</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53021 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53021</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">21</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: 1 Kor 2,12 (Reformation), 7. November 1909. <ref target="https://kba.karl-barth.ch/objects/1462">KBA 997</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1909-11-07">7. November 1909</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p172" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                        <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>19</idno>
+                </head>
+                
+                    <dateline>
+                        <placeName ref="kbga-places-67">
+                            <hi rend="i">Genf</hi></placeName>, <date when="1909-11-07">Sonntag, den
+                            7. November 1909</date>
+                    </dateline>
+                        <head type="event">
+                        <term type="Sachen" key="Reformationstag">Reformationsfest</term>
+                    </head>
+                    
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="1.Kor.2.12">1.Korinther 2,12</ref>
+                      
+                            <quote>
+                                <hi rend="italic" resp="kb">Wir haben nicht den Geist der Welt
+                                    empfangen, sondern den Geist aus Gott, um zu schauen, was
+                                    uns von Gott zu lieb getan ist.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+               
+                <salute>Liebe Gemeinde!</salute>
+                </div>
+                <div type="main">
+                <p> Zum Gedächtnis der <term type="Sachen" key="Reformation">Reformation</term>
+                    sind wir heute versammelt. Was die <term type="Sachen" key="Reformation, Genfer">Genfer</term> Reformation des 16. Jahrhunderts
+                    war und was sie dem heutigen Geschlecht zu sagen hat, das ist den <term type="Sachen" key="Protestanten / Protestantismus">Protestanten</term>
+                    des ganzen Erdkreises und besonders denen der <placeName ref="kbga-places-67">Stadt</placeName>
+                    <persName ref="kbga-actors-77">Calvins</persName> dies Jahr in
+                    eindrücklicher Weise in Erinnerung gerufen worden.<note xml:id="n01">Gemeint sind die Feiern zu Ehren des 400. Geburtstags Johannes
+                        Calvins. Zu den vom 2. bis 7. Juli 1909 in Genf stattgefundenen
+                        Feierlichkeiten vgl. <bibl corresp="kbga-bibls-2545">
+                                <bibl corresp="kbga-bibls-2544">
+                                    <hi rend="i">Les Jubilés de Genève en 1909</hi>, fasc.
+                        1–3, Genf 1909</bibl>; <author ref="kbga-actors-9179">M. Sallmann</author>, <hi rend="i">Reformatoren und Heilige als Brennpunkte
+                            konfessioneller Gedächtniskulturen: Martin Luther, Karl Borromäus
+                            und Johannes Calvin im Vergleich</hi>, in: Schweizerische
+                        Zeitschrift für Religions- und Kulturgeschichte, Jg. 103 (2009),
+                        S. 99–116, dort S. 111–114</bibl>.</note> Möchten
+                    die Töne, die da angeschlagen worden sind, weiterklingen in der
+                    evangelischen <term type="Sachen" key="Kirche, evangelische">Kirche</term>,
+                    möchte der Same, der in jenen festlichen Tagen ausgestreut worden ist,
+                    Wurzel gefasst haben und Wurzel fassen und Frucht bringen. Dann ist das
+                    Calvin <pb ed="-A" n="2"/>
+                    <term type="Sachen" key="Calvin-Feiern 1909">fest</term> etwas Anderes und
+                    Besseres gewesen als die unzähligen Jubiläen und Erinnerungsfeiern, mit
+                    denen unsre Zeit gesegnet ist.</p>
+                <p>Am heutigen Tag stellen wir uns auf eine höhere Warte. Calvins <term type="Sachen" key="Reformation, Calvins">Reformation</term> war nur der
+                    eine Arm des Stromes, der im 16. Jahrhundert hervorgebrochen ist, wir freuen
+                    uns des Besondern, das sie uns gebracht hat, und wir werden uns hüten, dies
+                    Besondere preiszugeben. Aber heute dürfen und wollen wir uns auf die
+                    Reformation besinnen, die für alle evangelischen <term type="Sachen" key="Christen, evangelische">Christen</term> dieselbe ist. Im Sinn und
+                    Geist Calvins wenden wir jetzt unsern Blick auf die Quelle jenes Stroms, <pb xml:id="p173" ed="pga"/> nach <placeName ref="kbga-places-65">Wittenberg</placeName>, nach der Wartburg im waldgrünen <placeName ref="kbga-places-337">Thüringland</placeName>, nach dem Kaisersaal zu
+                        <placeName ref="kbga-places-676">Worms</placeName>.</p>
+          
+                    <q rend="block">
+                        <lg>
+                            <l>Da hab ich eines Führers Ruf gehört:</l>
+                            <l>Der Kerker, schrie er, Geister, ist zerstört!</l>
+                            <l>Das Tor gebrochen, offen ist die Bahn.</l>
+                            <l>Befreit die Brüder! Auf! Empor! Hinan!<note xml:id="n02">
+                                    <bibl corresp="kbga-bibls-2546">
+                                        <author ref="kbga-actors-1383">C. F. Meyer</author>,
+                                        <hi rend="i">Huttens letzte Tage</hi>, LX: <hi rend="i">Die
+                                        Menschheit</hi>, V. 17–20 (ders., Sämtliche
+                                    Werke in zwei Bänden, München 1968, Bd. 2,
+                                S. 445)</bibl>.</note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Der Führer ist <hi rend="i">
+                            <persName ref="kbga-actors-261">Martin Luther</persName></hi>. Nicht nur, weil er der
+                    Zeit nach der erste war, der mit Bewusstsein die alten Altäre verließ, die
+                    neue Fahne hochhob. Was <term type="Sachen" key="Reformation">Reformation</term> war und ist in ihrem innersten Wesen, sehen wir in
+                        <anchor type="note" xml:id="fn-a"/>keinem so wie in ihm<note type="textcritical" n="a" xml:id="na" target="fn-a"> Im Mskr. mit Bleistift korrigiert aus: «Luther».</note>
+                    . An theologischem und politischem Scharfsinn haben ihn <pb ed="-A" n="3"/> unsre schweizerischen <term type="Sachen" key="Reformatoren, schweizerische">Reformatoren</term>
+                    <persName ref="kbga-actors-443">Zwingli</persName> und <persName ref="kbga-actors-77">Calvin</persName> überragt, aber den
+                    warmen Herzschlag des Neuen, der auch in ihnen war, sehen wir bei Luther
+                    deutlicher, unmittelbarer, originaler. Was jenen bereits selbstverständlich
+                    war, musste Luther erst erkämpfen. Jene sahen weiter als er, weil sie auf
+                    seinen Schultern standen.</p>
+                    <q rend="block">
+                        <lg>
+                            <l>In seiner Seele kämpft, was <hi rend="i">wird</hi> und
+                                    <hi rend="i">war</hi>,</l>
+                            <l>Ein keuchend hart verschlungen Ringerpaar.</l>
+                            <l>Sein Geist ist zweier Zeiten Schlachtgebiet –</l>
+                            <l>Mich wundert's nicht, dass er Dämonen sieht!<note xml:id="n03">
+                                    <bibl corresp="kbga-bibls-2547">
+                                        <author ref="kbga-actors-1383">C. F. Meyer</author>,
+                                        <hi rend="i">Huttens letzte Tage</hi>, XXXII:
+                                        <hi rend="i">Luther</hi>, V. 11–14 (a.a.O.,
+                                    S. 408)</bibl>.</note>
+                            </l>
+                        </lg>
+                    </q>
+                <p rend="noindent">Nein, je näher der Quelle, desto jäher und zerrissener die
+                    felsigen Ufer, das darf uns in der Tat nicht wundern, es muss so sein.</p>
+                <p> So können wir in <persName ref="kbga-actors-261">Luthers</persName>
+                    Art und Wesen erkennen, was die Reformation einst gewesen ist. Und wenn wir
+                    erkennen, was gewesen ist, so erkennen und verstehen wir, was evangelisches
+                        <term type="Sachen" key="Christentum, evangelisches">Christentum</term>
+                    ist und sein soll. Sein soll! sage ich, und es weist uns die <term type="Sachen" key="Reformationstag">Reformationsfeier</term> von der
+                        <term type="Sachen" key="Vergangenheit">Vergangenheit</term> in die
+                        <term type="Sachen" key="Gegenwart">Gegenwart</term> und <term type="Sachen" key="Zukunft">Zukunft</term>, vom Erkennen zum Wollen, vom
+                    Verstehen zum Glauben und Handeln.</p>
+                <p> Zwei Linien meine ich in Luthers reformatorischem <term type="Sachen" key="Reformation, Luthers reformatorischer Charakter">Charakter</term>
+                    zu sehen. Beide berühren sich, beide sind aber so einfach wie folgenschwer.
+                    Die eine besteht in der radikalen Abstoßung des Menschen<pb xml:id="p174" ed="pga"/>geistes <anchor type="note" xml:id="fn-b"/>aus dem<note type="textcritical" n="b" xml:id="nb" target="fn-b">Im Mskr. mit Bleistift korrigiert aus: «im».</note>
+                     Leben <pb ed="-A" n="4"/> der <term type="Sachen" key="Reformation, Abstoßung des Menschengeistes aus der Religion">Religion</term>, die andre in einer ebenso radikalen Unterwerfung und
+                    Hingabe an <term type="Sachen" key="Reformation, Unterwerfung und Hingabe an Gott">Gott</term> selbst.
+                    Beides zusammen macht den Kern und Stern der Reformation aus. Was Beides
+                    gewesen ist und was Beides uns zu sagen hat, wollen wir zu sehen
+                    versuchen.</p>
+                <div>
+                    <head type="4">I</head>
+                    <p rend="noindent">
+                            <hi rend="i">Wir haben nicht den Geist der Welt
+                        empfangen</hi>, das war der erste Satz, den die <term type="Sachen" key="Reformation">Reformation</term> der Religion der römischen
+                            <term type="Sachen" key="Religion, römisch-katholische">Kirche</term> entgegenstellte. Und deshalb war der eine Grundzug
+                        der Reformation <term type="Sachen" key="Reformation, Verneinung">Verneinung</term>, <term type="Sachen" key="Reformation, Abstoßung">Abstoßung</term>, <term type="Sachen" key="Reformation, Zerstörung">Zerstörung</term>. Die Verneinung des Vorhandenen war es, was der
+                        Trompete den deutlichen Ton gab, als <persName ref="kbga-actors-261">Luther</persName> am 31. Oktober 1517 seine 95
+                        Thesen gegen den Ablass an die Türe der Schlosskirche zu <placeName ref="kbga-places-65">Wittenberg</placeName> anschlug. Die
+                        Verneinung hat damals <placeName ref="kbga-places-151">Deutschland</placeName> geweckt, wegbereitend für die neue Bejahung.
+                        Wenn ein unterirdisches Wasser ausbrechen will, kündigt es sich an durch
+                        weggetriebenes Gestein und Geschiebe, dann erst wird der volle Strom
+                        sichtbar, und immer noch hat er zu kämpfen mit den Widerständen, zu
+                        beseitigen, aufzuräumen. So haben alle religiösen Vorwärtsbewegungen
+                        begonnen als Revolutionen neuer <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> gegen altgewordene. So ist Reformation in erster
+                        Linie <term type="Sachen" key="Reformation, Gegensatz">Gegensatz</term>.
+                            <pb ed="-A" n="5"/> Gegensatz zu was? Zum Mittelalter, zu
+                        Rom, zum Aberglauben, zur Verdummung, zur Scheinheiligkeit, zur
+                        Irrlehre, zum Papst, so hört man wohl auf diese Frage antworten. Mir
+                        sind alle diese Antworten, soviel Richtiges sie enthalten, zu unfein, zu
+                        pfaffenfresserisch polternd. Das Poltern gegen den <term type="Sachen" key="Katholizismus">Katholizismus</term> macht noch lange keinen
+                            <term type="Sachen" key="Protestanten / Protestantismus">Protestanten</term>. Und sie scheinen mir zu unwesentlich, zu
+                        oberflächlich, sie berühren zu wenig den Kern der Sache, die <term type="Sachen" key="Religion">Religion</term> selbst, um die es sich
+                        doch dabei handelt.</p>
+                    <p>Wir haben nicht den Geist der Welt empfangen. Der Geist der Welt ist
+                        nichts Anderes als der Geist des Menschen. Die Reformation, Luther an
+                        der Spitze, hat proklamiert, dass Religion, <term type="Sachen" key="Glaube">Glaube</term>, <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> etwas ganz Anderes sei als das Denken und Wollen
+                        des <term type="Sachen" key="Mensch, Denken und Wollen">Menschengeistes</term>. Das war ihr Gegensatz und das ist er, denn
+                        er ist noch lange nicht durchgekämpft.</p>
+                    
+                    <p> <pb rend="noPipe" xml:id="p175" ed="pga"/> Den Katholizismus vergleiche ich mit einem seiner gewaltigen Dome. Tief
+                        in der Erde ruhen die breiten Fundamente, mächtig und massig gewinnen
+                        die Mauern und Pfeiler die Höhe, ein riesiger Block auf dem andern, wie
+                        von Zyklopenhänden geschichtet, leicht und gefällig vereinen sich die
+                        Massen zur gotischen Form, schmächtiger und durchsichtiger wird das
+                        Ganze, je mehr es emporwächst, luftig scheinbar und fein krönt das Werk
+                        der schwindelnd hohe Helm mit der Kreuzblume, und doch ist Alles harter,
+                            <pb ed="-A" n="6"/> solider Stein bis zuletzt. So stand ich
+                        einmal in der Dämmerung eines Wintermorgens im <term type="Sachen" key="Kölner Dom">Dom</term> zu <placeName ref="kbga-places-94">Köln</placeName>.<note xml:id="n04">Am 28.12.1908 berichtete
+                            Barth noch von <placeName ref="kbga-places-41">Marburg</placeName>
+                            aus in einem Brief an seine Eltern von einer vorweihnachtlichen
+                            Reise nach <placeName ref="kbga-places-94">Köln</placeName> und bemerkte
+                            unter anderem: «Aber mit den Spitzbögen des Doms habe ich neue
+                            Freundschaft geschlossen» (<idno type="kba-objects-identifier">KBA 9208.74</idno>).</note> War es die
+                        Dämmerung, waren es die leichten Weihrauchwolken einer frühen Messe,
+                        genug, dem hohen Gewölbe schien die Decke zu fehlen, es war, als türmten
+                        sich die Quadern der Säulen fort ins Unendliche, erdentsprossen,
+                        himmelragend. Das ist Katholizismus. So türmt nach seiner Anschauung die
+                        gotterleuchtete <term type="Sachen" key="Vernunft, gotterleuchtete">Vernunft</term> Satz auf Satz und endet mit der vernünftigen
+                        Erkenntnis <term type="Sachen" key="Vernunft, und Erkenntnis Gottes">Gottes</term> wie der Turm mit der Kreuzblume. So türmt der freie
+                            <term type="Sachen" key="Wille, freier">Wille</term> Leistung auf
+                        Leistung, Anstrengung auf Anstrengung und endigt mit der im Geheimnis
+                        sich verlierenden Vereinigung mit Gott, wie der Schlussstein des
+                        Gewölbes sich in der Dämmerung verliert. Das Natürliche erhebt sich zum
+                        Übernatürlichen, der Mensch steigt auf zu Gott, je reiner sein Denken,
+                        je vollkommener sein Wille wird. Und die gesetzmäßigen Formen, in denen
+                        das Denken und Wollen vor sich geht, bilden die Kirche, die große, für
+                        alle Menschen zum Heil notwendige <term type="Sachen" key="Kirche, Heilsanstalt">Anstalt</term>, die ihnen sagt, wie sie
+                        zu denken und wie sie zu handeln haben, um Gottes teilhaftig zu werden.
+                        Die Kirche verwaltet die geheimnisvolle <term type="Sachen" key="Kirche, Verwalterin der Gotteskraft">Gotteskraft</term>, durch
+                        die die Anstrengungen des Menschengeistes in gottwohlgefällige Opfer
+                        verwandelt werden. Die Kirche, die den Sätzen der menschlichen <term type="Sachen" key="Vernunft">Vernunft</term> göttliche Autorität
+                        gibt, die Kirche, die den Leistungen des menschlichen Willens <pb ed="-A" n="7"/> göttlichen Wert verleiht, das ist <term type="Sachen" key="Katholizismus">Katholizismus</term>. So steht
+                        nach seiner Anschauung <hi rend="i">der</hi> Mensch Gott am nächsten, der
+                        durch besondere Anstrengung seines Willens seinen natürlichen Menschen
+                        am meisten gesteigert hat, und das ist der <term type="Sachen" key="Priester, katholisch">Priester</term>, der <term type="Sachen" key="Mönch / Mönchtum">Mönch</term>; so findet die <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> in dem Augen<pb xml:id="p176" ed="pga"/>blick ihren Höhepunkt, da durch die Vollmacht
+                        eines solchen vollkommenen Menschen Brot und Wein in den Leib und das
+                        Blut des Herrn sich <term type="Sachen" key="Katholizismus, Altarsakrament">wandelt</term>, da die <term type="Sachen" key="Natur">Natur</term> sichtbar Gott wird.</p>
+                    <p> Durch diese ganze Rechnung hat die <term type="Sachen" key="Reformation">Reformation</term>, <persName ref="kbga-actors-261">Luther</persName> zuerst, einen dicken Strich gezogen. Nicht ohne
+                        Vorgänger. Ein <persName ref="kbga-actors-555">Franz von Assisi</persName> hatte bereits
+                        zurückgerufen von der Menschenlehre und vom Menschengesetz zum
+                        Evangelium Christi, das unmittelbares Leben, unmittelbarer Gehorsam
+                            sei.<note xml:id="n05">
+                                <persName ref="kbga-actors-555">Franziskus von Assisi</persName> (um
+                            1181–1226), Gründer des Franziskanerordens, dessen Angehörige
+                            sich nach den verschiedenen, von Franziskus verfassten Ordensregeln
+                            um ein evangeliumsgemäßes Leben in der Nachfolge Jesu bemühen und
+                            dabei asketische Armut mit Demut und unbedingtem Gehorsam verbinden
+                            sollten.</note> Und aus seinem <term type="Sachen" key="Franziskaner">Orden</term> sind Männer hervorgegangen, die den
+                        Mut und die Wahrhaftigkeit hatten, inmitten der theologischen <term type="Sachen" key="Theologie, Schulen">Schulen</term> die Behauptung
+                        zu vertreten, die natürliche Vernunft werde nie zu Gott führen, <term type="Sachen" key="Glaube, und Erkenntnis">Glaube</term> sei etwas
+                        total Anderes als die Sätze der Erkenntnis.<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-2548">
+                                    <author ref="kbga-actors-9180">A. A. van Ruler</author>, Art. «Glaube IV. Dogmengeschichtlich», in: RGG<hi rend="sup">3</hi> II, Sp. 1597–1601, dort Sp. 1599f.</bibl>:
+                            «Bei [den Franziskanern] Duns Scotus und Ockham ändert sich
+                            [gegenüber Thomas] die Lage aufs neue. Man spricht der natürlichen,
+                            philosophischen Erkenntnis göttlicher Dinge alle Gewißheit ab.
+                            […] Man betont jetzt das Gewißheitsgefühl, das den Menschen
+                            erfüllt. Mit den kirchlichen Ordnungen sind auch die kirchlichen
+                            Lehren von Gott gesetzt; sie ermöglichen dem Menschen die
+                            Realisierung seiner Bestimmung […].»</note> Endlich jene
+                        tiefen deutschen Denker, die in mancherlei Form immer wieder
+                        behaupteten, «dass alle unsre Vollkommenheit und alle unsre Seligkeit
+                        liegt daran, dass der Mensch durchgehe und überwinde alle Geschaffenheit
+                        und alle Zeitlichkeit und alles Wesen und gehe in den Grund, der
+                        grundlos ist.»<note xml:id="n07">Es handelt sich um einen
+                            <persName ref="kbga-actors-534">Meister Eckhart</persName> (um 1260–1328) zugeschriebenen Spruch;
+                            vgl. <bibl corresp="kbga-bibls-2549">
+                                    <author ref="kbga-actors-9181">A. Lasson</author>,
+                                <hi rend="i">Meister Eckhart, der Mystiker. Zur Geschichte der
+                                religiösen Speculation in Deutschland</hi>, Berlin 1868,
+                            S. 192; Fr. Pfeiffer (Hrsg.)</bibl>, <bibl corresp="kbga-bibls-2550">
+                                    <hi rend="i">Meister Eckhart</hi> (Deutsche
+                            Mystiker des 14. Jahrhunderts, Bd. 2), Leipzig 1857,
+                            S. 619,24–28</bibl>.</note> Das alles war die Morgenröte eines
+                        bessern Tages. Der Tag selbst brach an mit Luther.</p>
+                    <p> <pb rend="noPipe" ed="-A" n="8"/> Nicht Menschengedanken, nicht Menschenwerk
+                        führt zu Gott.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Bei dir gilt nichts denn Gnad und Gunst,</l>
+                                <l>Die Sünde zu vergeben;</l>                
+                                <l> <pb rend="noPipe" xml:id="p177" ed="pga"/> Es ist doch unser Tun umsonst</l>
+                                <l>Auch in dem besten Leben.</l>
+                                <l>Vor dir niemand sich rühmen kann;</l>
+                                <l>Des muss sich fürchten jedermann</l>
+                                <l>Und deiner Gnade leben.<note xml:id="n08">
+                                        <bibl type="song" corresp="kbga-songs-51">Strophe
+                                        2 des Liedes «Aus tiefer Not schrei ich zu dir» von 
+                                            <author ref="kbga-actors-261">M. Luther</author> (RG 83; EG 299)</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">«So ist es offenbar, dass kein äußerliches Ding den
+                        Menschen frei noch fromm machen kann», sagt <persName ref="kbga-actors-261">Luther</persName> ein andermal;<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-1302">
+                                    <author ref="kbga-actors-261">M. Luther</author>, <hi rend="i">Von der Freiheit eines
+                                Christenmenschen</hi> (1520): «So ists offenbar, das keyn
+                            eußerlich ding mag yhn frey, noch frum machen» (WA 7,
+                            21,20f.)</bibl>.</note> das war die große Verneinung, die er dem stolzen
+                        Bau der katholischen <term type="Sachen" key="Religion, katholische">Religion</term> entgegenstellte und durch die er die tiefe
+                        Erkenntnis des <persName ref="kbga-actors-313">Paulus</persName> wieder
+                        zum Leben erweckte, dass wir nicht den Geist der Welt empfangen
+                        haben.</p>
+                    <p> Und nun ist es das Merkwürdige, dass die <term type="Sachen" key="Reformation">Reformation</term> eben durch diese radikale
+                        Verneinung des Menschengeistes, die uns zunächst so fremd und finster
+                        berühren möchte, dem Denken und Wollen des <term type="Sachen" key="Mensch, Denken und Wollen">Menschengeistes</term> seine
+                        Freiheit und <term type="Sachen" key="Reformation, Freiheit und Würde des Menschen">Würde</term>
+                        zurückgegeben hat, die in dem Steingebäude des <term type="Sachen" key="Katholizismus">Katholizismus</term> zu ersticken drohte. Luther
+                        ist es aufgegangen, dass das <term type="Sachen" key="Gesetz">
+                                <hi rend="i">Gesetz</hi></term>&gt;, von dem die katholische <term type="Sachen" key="Kirche, katholische">Kirche</term> so viel
+                        redete, etwas ganz Andres sei als eine Lehre, was für <term type="Sachen" key="Werke">Werke</term> zu tun oder zu lassen seien
+                        aus Furcht der Strafe oder Liebe des Lohnes. Er hat erkannt, dass das
+                        Gesetz unsres Herzens Grund, uns <pb ed="-A" n="9"/> selbst
+                        fordert, dass diesem Fordern nie genug getan sein kann durch Anstrengung
+                        und Leistung, dass es kein Ende, keine abschließende Kreuzblume kennt,
+                        sondern streng und erhaben auch dem Vollkommensten immer höhere Ziele
+                        setzt. Und Luther hat bestimmt und scharf den Anspruch der Schulweisheit
+                        zurückgewiesen, als ob sie im Stande sei, eine menschliche Erkenntnis
+                            <term type="Sachen" key="Vernunft, und Erkenntnis Gottes">Gottes</term> zu erweisen. |</p>
+                    <p>Eben damit ist dem menschlichen <term type="Sachen" key="Reformation, Würde des menschlichen Denkens">
+                                <hi rend="i">Denken</hi></term>&gt; seine Würde zurückgegeben, es ist
+                        von da an freies Denken, nicht mehr eine Magd der Kirche und ihrer
+                        Satzungen. Dank dieser Befreiungstat sind die folgenden Jahrhunderte
+                        Jahrhunderte einer <term type="Sachen" key="Reformation, und Wissenschaft">Wissenschaft</term> geworden,
+                        wie sie keine frühere Zeit gekannt hat, weil es eine Wissenschaft war,
+                        die ihre eigenen Wege ging, nicht mehr eine kraftlose und überflüssige
+                        Stütze <pb xml:id="p178" ed="pga"/> der Religion sein wollte. Und es führt
+                        eine gerade <term type="Sachen" key="Reformation, Linie von Luther zu Kant">Linie</term> durch die
+                        Jahrhunderte von <persName ref="kbga-actors-261">Martin Luther</persName> zu <persName ref="kbga-actors-216">Immanuel Kant</persName>, dem Begründer der <term type="Sachen" key="Weltanschauung, sittliche">sittlichen</term> und
+                        wissenschaftlichen <term type="Sachen" key="Weltanschauung, wissenschaftliche">Weltanschauung</term> der
+                            <term type="Sachen" key="Neuzeit">Neuzeit</term>. Es ist kein
+                        Zufall, dass gerade diese beiden Männer am heftigsten bekämpft werden in
+                        den Schriften der katholischen Gelehrten. Was jener ehrte und andeutete,
+                        hat dieser erkannt und <term type="Sachen" key="Reformation, Linie von Luther zu Kant">ausgesprochen</term>:
+                        den <hi rend="i">reinen</hi> Willen und das <hi rend="i">reine</hi> Denken.<note xml:id="n10">Ein halbes Jahrhundert später resümierte
+                            Barth seine frühe Hochschätzung <persName ref="kbga-actors-216">Kants</persName> in einem Gespräch in
+                                <placeName ref="kbga-places-1127">Bièvres</placeName>: «Zum
+                            Beispiel habe ich lange Zeit geglaubt, sogar, als ich schon Pfarrer
+                            war, dass Gott jene transzendentale Idee sei, die ich bei meiner
+                            ununterbrochenen, sehr tiefgehenden, sehr strengen Lektüre von
+                            Immanuel Kants ‚Kritik der reinen Vernunft‘ kennengelernt hatte.
+                            Immanuel Kant war der Lehrer meiner theologischen Jugend. [Von ihm
+                            lernte ich:] Gott… man muss ihn immer neu suchen. Er ist
+                            nicht ein Objekt. Er ist nur eine Grenze… Und ich habe
+                            versucht, nach dieser Idee zu arbeiten und sogar zu predigen, zu
+                            unterrichten […]. Ich gestehe Ihnen, würde ich wieder
+                            Philosoph – denn ich war damals im Grund Philosoph –,
+                            so würde ich vielleicht zu Immanuel Kant zurückkehren. Ich liebe ihn
+                            noch heute» (<bibl corresp="kbga-bibls-2494">Gespräche 1963, S. 209f.</bibl>).<lb/>Zu Barths frühen und
+                            intensiven Kant-Studien und seiner Hochschätzung Kants bis in die
+                            1920er Jahre hinein vgl. <bibl corresp="kbga-bibls-2551">
+                                    <author ref="kbga-actors-9182">J. Fr. Lohmann</author>, Art.
+                            «Voraussetzungen. 7. Kant, Kierkegaard und der Neukantianismus», in:
+                                <hi rend="i">Barth Handbuch</hi>, hrsg. von M. Beintker, Tübingen
+                            2016, S. 42–48, dort S. 42f</bibl>.</note>
+                        </p>
+                    <p>Und nun, wie stehen <hi rend="i">wir</hi> zu diesem Erbe der <term type="Sachen" key="Reformation">Reformation</term>? Wir wollen uns
+                        keine Illusionen machen, <pb ed="-A" n="10"/> meine Freunde, an
+                        diesem festlichen <term type="Sachen" key="Reformationstag">Gedächtnistage</term> weniger als je. Es ist noch viel katholische
+                            <term type="Sachen" key="Frömmigkeit, katholische">Dombau-Frömmigkeit</term> in unsrer Mitte, in jedem von uns, wenn
+                        wir’s ernst mit uns nehmen. Solange wir noch die Edelsten und
+                        Besten unter uns wie den verstorbenen Professor <persName ref="kbga-actors-9178">Karl Hilty</persName> in <placeName ref="kbga-places-9">Bern</placeName> am Werk sehen, dem Wollen, dem
+                        sittlichen Streben der Menschen nachzuhelfen durch allerlei schöne
+                        Gedanken über das <term type="Sachen" key="Glück">Glück</term>, das ihm
+                        daraus entsprießen werde,<note xml:id="n11">
+                                <persName ref="kbga-actors-9178">Carl Hilty</persName>
+                            (1833–1909) war knapp vier Wochen zuvor, am 12. Oktober 1909,
+                            verstorben. Der Berner Staatsrechtler war in den letzten Jahren
+                            seines Lebens durch philosophisch-ethische Schriften einem größeren
+                            Publikum bekannt geworden. Besonders die ab 1891 zum Thema «Glück»
+                            erschienenen, in drei Bänden gesammelten Schriften und Traktate
+                            (Neudruck: Zürich 1987) entwickelten sich zu einem Bestseller: Die
+                            1905 bzw. 1907 gedruckten Auflagen umfassten bereits das 30., 45.
+                            bzw. 55. Tausend.</note> solange sind wir noch am Dombauen. Und
+                        solange Hunderttausende Beifall jauchzen, weil ein Mann wie <persName ref="kbga-actors-150">Ernst Häckel</persName> es <pb xml:id="p179" ed="pga"/> unternimmt, in naiver Zuversicht eine vernünftige <term type="Sachen" key="Religion, vernünftige">Religion</term> zu
+                            machen,<note xml:id="n12">
+                                <persName ref="kbga-actors-150">Ernst Haeckel</persName> (1834–1919), Zoologe,
+                            Philosoph und Freidenker, beeinflusste durch seine auf den Ideen
+                                <persName ref="kbga-actors-2013">Darwins</persName>
+                            beruhende Abstammungslehre die sozialethische Diskussion um 1900 in
+                            starkem Maße. Unter Haeckels bestimmendem Einfluss war 1906 der
+                            Deutsche Monistenbund gegründet worden, der bald über 6000
+                            Mitglieder zählte und dessen Ziel «die Verbreitung einer
+                            einheitlichen, auf Naturerkenntnis begründeten Weltanschauung und
+                            einer monistischen Religion, die das Gemüt durch Kunst und
+                            Wissenschaft erhebt», war (<bibl corresp="kbga-bibls-2552">
+                                    <author ref="kbga-actors-9183">R. Lorenz</author>, Art. «Monistenbund», in:
+                                RGG<hi rend="sup">3</hi> IV, Sp. 1102</bibl>).</note> solange sind wir
+                        noch am Dombauen. Wieviel Selbstgerechtigkeit, wieviel Gesetzesgehorsam,
+                        wieviel Furcht vor Strafe und Hoffnung auf Lohn, wieviel Angst vor der
+                        Wissenschaft, wieviel falsche Kompromisse mit ihr sind doch noch in
+                        unsrem <term type="Sachen" key="Christentum, katholische Relikte im Protestantismus">Christentum</term>, gleichgiltig ob das äußere Mäntelchen nun <term type="Sachen" key="Protestanten / Protestantismus, liberal">liberal</term> oder <term type="Sachen" key="Protestanten / Protestantismus, orthodox">orthodox</term>
+                        heiße. Wir Alle haben es nötig, meine Freunde, uns von der <term type="Sachen" key="Reformation">Reformation</term>, von <persName ref="kbga-actors-261">Luther</persName> zurufen zu
+                        lassen, dass wir nicht den Geist der Welt empfangen haben. Freuen wir
+                        uns dieser Erkenntnis und setzen wir sie endlich ins Leben um, <anchor type="note" xml:id="fn-c"/>indem wir uns von <persName ref="kbga-actors-764">Friedrich Schiller</persName>, dessen 150. Geburtstag
+                        wir am 10. November feiern, sagen lassen<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. korrigiert aus einem ursprünglich eigenen Satz: «Wir
+                                fassen sie zusammen in dem Wort Friedrich Schillers, dessen 150.
+                                Geburtstag wir am 10. November feiern.»</note>:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Was Hände bauten, können Hände stürzen.</l>
+                                <l>Das Haus der Freiheit hat uns <hi rend="i">Gott</hi>
+                                        gegründet.<note xml:id="n13">
+                                        <bibl corresp="kbga-bibls-846">
+                                            <author ref="kbga-actors-764">Fr. Schiller</author>, <hi rend="i">Wilhelm Teil</hi>, erster
+                                        Aufzug, dritte Szene</bibl> (im Orig. keine
+                                        Hervorhebung).</note>
+                                </l>
+                            </lg>
+                        </q>
+                </div>
+                <div>
+                    <head type="4">
+                            <pb ed="-A" n="11" rend="noPipe"/> II</head>
+                    <p rend="noindent">Und das führt uns nun weiter, höher, vom Nein der <term type="Sachen" key="Reformation">Reformation</term> zu ihrem großen
+                            <hi rend="i">Ja</hi>. Wir haben nicht den Geist der Welt empfangen,
+                            <hi rend="i">sondern den Geist aus Gott, um zu schauen, was uns von Gott zu
+                            lieb getan ist</hi>. <term type="Sachen" key="Religion">Religion</term>, <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> ist nach der Meinung der <term type="Sachen" key="Reformatoren">Reformatoren</term> nicht etwas, was wir Menschen
+                        mit unserm kurzen Denken und <term type="Sachen" key="Mensch, Denken und Wollen">Wollen</term> zustande bringen
+                        sollen und können, sondern Gottes wunderbares Geschenk. Er hat uns etwas
+                        zu lieb getan; wenn wir’s schauen, so haben wir’s. Der
+                            <term type="Sachen" key="Reformation, Glaube als Geschenk Gottes">Glaube</term> ist das uns von Gott geschenkte <pb xml:id="p180" ed="pga"/> Schauen Gottes, nichts Anderes. Da stehen wir im Herzpunkt der
+                        Persönlichkeit <term type="Sachen" key="Luther, Persönlichkeit">Luthers</term>, im Herzpunkt der Reformation. Ich möchte hier <persName ref="kbga-actors-261">Luther</persName> selbst reden
+                        lassen, wie er in der kurzen, lapidaren Vorrede zum Römerbrief von
+                            1522<note xml:id="n14">
+                                <bibl corresp="kbga-bibls-2553">
+                                    <author ref="kbga-actors-261">M. Luther</author>, <hi rend="i">Vorrede auff die
+                                Epistel S. Pauli an die Römer</hi> (1522), WA.DB 7,
+                            3–27</bibl>.</note> den <term type="Sachen" key="Glaube, Definition Luthers">Glauben</term> schildert; Luther
+                        sagt:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>«Glaube ist nicht der menschliche Wahn und Traum, den etliche
+                                    für Glauben halten. Und wenn sie sehen, dass keine Besserung
+                                    des Lebens noch gute Werke folgen und doch vom Glauben viel
+                                    reden und hören können, fallen sie in den Irrtum und
+                                    sprechen: der Glaube sei nicht genug, man müsse Werke tun,
+                                    soll man fromm und selig werden. Das macht, wenn sie das
+                                    Evangelium hören, so fallen sie daher und machen sich aus
+                                    eigenen Kräften einen Gedanken im Herzen, der spricht: Ich
+                                    glaube. Das halten sie dann für einen rechten Glauben. Aber
+                                    wie es ein menschli<pb ed="-A" n="12"/>ches
+                                    Gedicht und Gedanken ist, den des Herzens Grund nimmer
+                                    erfährt, also tut er auch nichts und folgt keine Besserung
+                                    hernach.</l>
+                                <l>Aber Glaube ist ein <hi rend="i">göttliches</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift
+                                              unterstrichen.</note>
+                                         Werk in uns, das uns <hi rend="i">wandelt</hi><note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift
+                                              unterstrichen.</note>
+                                         und neu gebiert aus <hi rend="i">Gott</hi><note type="textcritical" n="f" xml:id="nf"> Im Mskr. nachträglich mit Bleistift
+                                              unterstrichen.</note>
+                                         und tötet den alten Adam, macht aus uns
+                                    ganz andere Menschen von Herzen, Mut, Sinn und allen Kräften
+                                    und bringt den heiligen Geist mit sich. O, es ist ein
+                                    lebendig, geschäftig, tätig, mächtiges Ding um den Glauben,
+                                    dass unmöglich ist, dass er nicht ohne Unterlass sollte
+                                    Gutes wirken. Er fragt auch nicht, ob gute Werke zu tun
+                                    sind, sondern ehe man fragt, hat er sie getan und ist immer
+                                    im Tun. Wer aber nicht solche Werke tut, der ist ein
+                                    glaubloser Mensch, tappt und sieht um sich nach dem Glauben
+                                    und guten Werken und weiß weder, was Glaube oder gute Werke
+                                    sind, wäscht und schwatzt doch viele Worte vom Glauben und
+                                    guten Werken.</l>
+                                <l>Glaube ist eine lebendige, verwegene<note type="textcritical" n="g" xml:id="ng"> Die Ergänzung des bei <persName ref="kbga-actors-261">Luther</persName> stehenden
+                                            «erwegene» wurde von Barth im Mskr. dadurch
+                                            kenntlich gemacht, dass er das «v» zwischen
+                                            senkrechte Striche setzte.</note>
+                                     Zuversicht auf Gottes Gnade, so gewiss, dass, der
+                                    glaubt, tausendmal darüber stürbe. Und <pb xml:id="p181" ed="pga"/> solche Zuversicht und Erkenntnis göttlicher Gnade macht
+                                    fröhlich, trotzig und lustig gegen Gott und alle Kreaturen:
+                                    welches der heilige Geist tut im Glauben. Daher der Mensch
+                                    ohne Zwang willig und lustig wird, jedermann Gutes zu tun,
+                                    jeder<pb ed="-A" n="13"/>mann zu dienen, allerlei
+                                    zu leiden, Gott zu Liebe und zu Lob, der ihm solche Gnade
+                                    erzeigt hat, also dass unmöglich ist, Werk vom Glauben zu
+                                    scheiden, ja so unmöglich, als Brennen und Leuchten vom
+                                    Feuer mag geschieden werden. Darum siehe dich vor vor deinem
+                                    eigenen falschen Gedanken und unnützen Schwätzern, die vom
+                                    Glauben und guten Werken klug sein wollen zu urteilen und
+                                    sind die größten Narren. Bitte Gott, dass <hi rend="i">er</hi>
+                                    den Glauben in dir wirke, sonst bleibst du wohl ewiglich
+                                    ohne Glauben, du dichtest und tust, was <hi rend="i">du</hi>
+                                    willst oder <term type="Sachen" key="Glaube, Definition Luthers">kannst</term>.»<note xml:id="n15">
+                                        <bibl corresp="kbga-bibls-2553">A.a.O., 9.11.</bibl> – Dieses
+                                        und die folgenden Zitate bieten den Luther-Text in einer
+                                        gegenüber der WA modernisierten Fassung.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Meine Freunde, das ist <persName ref="kbga-actors-261">Luther</persName>. Das ist die <term type="Sachen" key="Reformation">Reformation</term>. Und ich meine, ich könnte
+                        diese gewaltigen Worte nur abschwächen, wenn ich etwas hinzufügen
+                        wollte. Einfacher und tiefer zugleich ist nie vom <term type="Sachen" key="Glaube">Glauben</term> geredet worden.</p>
+                    <p> Aber nun ist dieser von Gott geschenkte <term type="Sachen" key="Glaube, von Gott geschenkt">Glaube</term> ein Schauen dessen,
+                            <hi rend="i">was Gott uns zulieb getan hat</hi>. Christlicher Glaube ist
+                        Glaube an das <term type="Sachen" key="Evangelium">Evangelium</term>,
+                        Glaube an Jesus <term type="Sachen" key="Glaube, christlicher ist Gl. an Jesus Christus">Christus</term>. Nicht an ein <term type="Sachen" key="Dogmen">Dogma</term> und nicht an eine <term type="Sachen" key="Weltanschauung">Weltanschauung</term>, sondern an ihn selbst.
+                        Was heißt das? Wir wollen noch einmal <persName ref="kbga-actors-261">Luther</persName> hören. In der kleinen Schrift
+                        «Von der Freiheit eines Christenmenschen» von 1520 – die übrigens
+                        jeder evangelische Christ einmal gelesen haben sollte – sagt
+                            <term type="Sachen" key="Glaube, Definition Luthers">er:</term>
+                        </p>
+                        <q rend="block">
+                            <lg>
+                                <l> <pb rend="noPipe" ed="-A" n="14"/> «Dass es nicht genug sei
+                                    gepredigt, wenn man Christi Leben und Werk obenhin und nur
+                                    als eine Historie und Chronikengeschichte predigt,
+                                    geschweige denn, so man seiner gar schweigt und das
+                                    geistliche Recht oder andrer Menschen Gesetze und Lehre
+                                    predigt. Ihrer sind auch viele, die Christum also predigen
+                                    und lehren, dass sie ein Mitleid über ihn haben, mit den
+                                    Juden zürnen oder sonst mehr kindische Weise darinnen üben.
+                                    Aber er soll und muss <hi rend="i">also</hi> gepredigt sein, dass
+                                    mir und dir der <hi rend="i">Glaube</hi> daraus
+                                        <hi rend="i">erwachse</hi> und <hi rend="i">erhalten</hi> werde.
+                                    Welcher Glaube <hi rend="i">daraus</hi> erwächst und erhalten
+                                    wird, wenn mir <hi rend="i">gesagt</hi> wird, <hi rend="i">warum</hi>
+                                    Christus gekommen sei, <hi rend="i">wie</hi> man seiner <pb xml:id="p182" ed="pga"/> gebrauchen und genießen soll,
+                                        <hi rend="i">was</hi> er mir gebracht und gegeben hat. Das
+                                    geschieht, wo man <hi rend="i">recht</hi> auslegt die christliche
+                                        <hi rend="i">Freiheit</hi>, die wir von ihm haben, und wie
+                                    wir <hi rend="i">Könige</hi> und <hi rend="i">Priester</hi> seien,
+                                    aller Dinge <hi rend="i">mächtig</hi> und dass
+                                    <hi rend="i">alles</hi>, was wir tun, vor Gottes Augen angenehm
+                                        <anchor type="note" xml:id="fn-h"/>und erhört<note type="textcritical" n="h" xml:id="nh" target="fn-h"> Im Mskr. nachträglich eingefügt.</note>
+                                     sei…</l>
+                                <l> Denn wo ein Herz <hi rend="i">also</hi> Christum hört, das
+                                    muss <hi rend="i">fröhlich</hi> werden von ganzem Grunde, Trost
+                                    empfangen und süß werden gegen Christum, ihn wiederum lieb
+                                    zu haben. Dahin kann es <hi rend="i">nimmer</hi>mehr mit Gesetzen
+                                    oder Werken kommen. Denn <hi rend="i">wer</hi> will einem
+                                        <hi rend="i">solchen</hi> Herzen Schaden tun oder es
+                                    erschrecken? Fällt die <pb ed="-A" n="15"/> Sünde
+                                    oder der Tod daher, so glaubt es, Christi
+                                        <hi rend="i">Frömmigkeit</hi> sei <hi rend="i">sein</hi> und <hi rend="i">seine</hi><note type="textcritical" n="i" xml:id="ni"> Im Mskr. nachträglich mit Bleistift
+                                              unterstrichen.</note>
+                                        
+                                    <hi rend="i">Sünden</hi> seien nimmer <hi rend="i">sein</hi><note type="textcritical" n="j" xml:id="nj"> Im Mskr. nachträglich mit Bleistift
+                                              unterstrichen.</note>, sondern <hi rend="i">Christi</hi>; so muss die
+                                    Sünde verschwinden vor Christi Frömmigkeit in dem <term type="Sachen" key="Glaube, Definition Luthers">Glauben</term>… und es lernt mit dem Apostel dem
+                                    Tod und der Sünde Trotz bieten und sagen: ‚Wo ist nun, du
+                                    Tod, dein Sieg? wo ist nun, du Tod, dein Spieß? Dein Spieß
+                                    ist die Sünde. Aber Gott sei Lob und Dank, der uns den Sieg
+                                    gegeben hat durch Jesum Christum, unsern Herrn.‘»<note xml:id="n16">
+                                        <bibl corresp="kbga-bibls-1302">
+                                            <author ref="kbga-actors-261">Luther</author>, <hi rend="i">Freiheit</hi> (Anm. 9),
+                                        21,7–30</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Der <term type="Sachen" key="Glaube">Glaube</term> und
+                        das <term type="Sachen" key="Evangelium">Evangelium</term>,
+                            <hi rend="i">dieser</hi> Glaube und <hi rend="i">dieses</hi> Evangelium waren
+                        das große Ja der <term type="Sachen" key="Reformatoren, Ja zu Glaube und Evangelium">Reformatoren</term>.
+                        Und sie sind die andre Seite des Erbes der <term type="Sachen" key="Reformation, Ja zu Glaube und Evangelium">Reformation</term>,
+                        das auf uns gekommen ist. Wollen wir in oberflächlichem sogenanntem
+                        Freisinn uns von <persName ref="kbga-actors-261">Luther</persName> abwenden, etwa weil er in späteren Jahren selber dem
+                        kühnen Geist seiner ersten Zeit, aus der diese Worte stammen, untreu
+                        geworden ist, weil er unserm <persName ref="kbga-actors-443">Zwingli</persName> die Bruderhand verweigerte, als dieser anders dachte
+                        als er über die Gegenwart <term type="Sachen" key="Abendmahl, Gegenwart Christi">Christi</term> im Abendmahl,<note xml:id="n17">Diese Differenz war der Grund für das
+                            Scheitern des Marburger <term type="Sachen" key="Marburger Religionsgespräch">Religionsgespräches</term> von
+                            1529 (s. dazu oben, <ref type="pub" target="../volume/53/p061#fn_n06">S. 61, Anm. 6</ref>).</note> weil seine <term type="Sachen" key="Lutheraner / ^@+ Luthertum, neue Gesetzlichkeit">Nachfolger</term> nur zu bald den Glauben zu einem neuen Werk, das
+                        Evangelium zu einem neuen Gesetz für die Gewissen<note type="textcritical" n="k" xml:id="nk"> Im Mskr. nachträglich mit Bleistift korrigiert aus:
+                                «Christen».</note>
+                         machten? Wir denken daran, dass sein <term type="Sachen" key="Luther, sein Geist war Schlachtgebiet">Geist</term>
+                        <anchor type="note" xml:id="fn-l"/>und der Geist jener Epoche<note type="textcritical" n="l" xml:id="nl" target="fn-l"> Im Mskr. nachträglich mit Bleistift ergänzt.</note>
+                         zweier Zeiten <pb xml:id="p183" ed="pga"/> Schlachtgebiet war,<note xml:id="n18">Siehe oben, <ref type="pub" target="#fn_n03">Anm. 3</ref>.</note> und wir bleiben
+                        ihm dankbar. Aber etwas Anderes wollen wir tun: Uns selbst, unser
+                        eigenes Christentum, unsern Glauben, unser Evangelium messen am Glauben
+                        und am Evangelium des <pb ed="-A" n="16"/>
+                        <term type="Sachen" key="Luther, Messlatte für unseren Glauben">Reformators</term>, wie er beides in seiner Heldenzeit verkündigte.
+                        Dann haben wir wieder allen Anlass, bescheiden zu werden. Ist’s
+                        nicht noch heut in weitesten Kreisen gang und gäbe, dass der Glaube ein
+                        mehr oder weniger ödes Nachsagen von frommen Gedanken anderer sei, das
+                        man dem lieben Gott zu lieb tun müsse, statt dass wir im Glauben
+                        zunächst überhaupt nichts sagen, sondern in lebendiger, verwegener
+                        Zuversicht auf das schauen, was Gott <hi rend="i">uns</hi> zuliebe getan hat?
+                        Und wenn man vom Evangelium redet, so denken die einen an die Lehre vom
+                        Sohn <term type="Sachen" key="Jesus Christus, Sohn Gottes">Gottes</term>
+                        und die andern an die Lehre vom weisen Rabbi von <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Nazareth</term>, aber warum
+                        der Mensch Jesus uns eigentlich eine frohe Botschaft, <term type="Sachen" key="Jesus Christus, Evangelium">Evangelium</term>
+                        ist, darüber sind die einen so unklar wie die andern. Möchte die <term type="Sachen" key="Reformationstag">Reformationsfeier</term> wieder
+                        einmal all den katholischen <term type="Sachen" key="Protestanten, katholische">Protestanten</term> zur Linken und
+                        zur Rechten zurufen:</p>
+                        <q rend="block">
+                            <lg>
+                                <l>O lerne fühlen, welchen Stamms du bist!<note xml:id="n19">
+                                        <bibl corresp="kbga-bibls-846">
+                                            <author ref="kbga-actors-764">Fr. Schiller</author>,
+                                            <hi rend="i">Wilhelm Tell</hi>, zweiter Aufzug, erste
+                                        Szene (Attinghausen); dort: «welches Stamms»</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Wir sind als evangelische <term type="Sachen" key="Christen, evangelische">Christen</term> edlen Stammes, meine
+                        Freunde, freie Königskinder, wie <persName ref="kbga-actors-261">Luther</persName> es einmal nennt.<note xml:id="n20">Vgl. <bibl corresp="kbga-bibls-1302">
+                                    <author ref="kbga-actors-261">Luther</author>, <hi rend="i">Freiheit</hi>
+                            (Anm. 9), 36,25f.</bibl>: «Das ist ein feyn exempell zu dißer lere, da
+                            Christus sich und die seynen freye künigs kinder nennett
+                            […].»</note> Lasst uns dessen bewusst sein. So besteht denn
+                        in der Freiheit, zu der uns Christus befreit hat, und lasset euch nicht
+                        wieder unter das Joch der Knechtschaft fangen [<ref type="can" subtype="bible" target="Gal.5.1">Gal. 5,1</ref>]. Wir haben nicht den
+                        Geist der Welt empfangen, sondern den Geist aus Gott, um zu schauen, was
+                        uns von Gott zu lieb getan ist. Es ist uns aber von Gott zu lieb getan,
+                        dass wir mit Luther frei singen und sagen dürfen: Das <term type="Sachen" key="Reich Gottes">Reich</term> muss uns doch
+                            bleiben.<note xml:id="n21">
+                                <bibl type="song" corresp="kbga-songs-59">Aus Strophe 4 des Liedes «Ein
+                            feste Burg ist unser Gott» von <author ref="kbga-actors-261">M. Luther</author> (RG 32; EG 362)</bibl>.</note>
+                        </p>
+                        </div>  
+                        <div type="closer">
+                                <salute>Amen.</salute>
+                   
+                </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>

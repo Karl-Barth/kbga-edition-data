@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 99</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 14. März 1937</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1101 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1101 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 164–165.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 9237.42" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Rudolf Bultmann, 14. März 1937. <idno ref="https://kba.karl-barth.ch/objects/30057">KBA 9237.42</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Rudolf Bultmann, 14. März 1937. <ref target="https://kba.karl-barth.ch/objects/30057">KBA 9237.42</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -75,7 +75,7 @@
         </correspAction>
         <correspAction type="received">
           <persName ref="kbga-actors-512">Bultmann, Rudolf</persName>
-          <placeName key="kbga-places-41">Marburg</placeName>
+          <placeName ref="kbga-places-41">Marburg</placeName>
         </correspAction>
         <correspContext>
           <ref type="previous" target="kbga-texts-1100"/>
@@ -85,48 +85,8 @@
         </correspContext>
       </correspDesc>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:00+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:00+02:00</change>
+      <change when="2022-12-23T11:07:33+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:33+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -136,18 +96,28 @@
         <head>99</head>
         <opener>
           Barth
-          <dateline><placeName ref="kbga-places-322">St. Andrews</placeName>, <date when="1937-03-14">14.III.1937</date></dateline>
+          <dateline>
+                        <placeName ref="kbga-places-322">St. Andrews</placeName>, <date when="1937-03-14">14.III.1937</date>
+                    </dateline>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
         <p>Indem ich hier (zwischen meinen <persName ref="kbga-actors-8596">Gifford</persName>-Lectures in <placeName ref="kbga-places-810">Aberdeen</placeName><note xml:id="n01">Vgl.
-                     <bibl corresp="kbga-bibls-387"><author ref="kbga-actors-2151">K. Barth</author>, <title level="m" xml:lang="eng">Syllabus of Gifford Lectures 1937</title>. <biblScope unit="volume">Part I</biblScope>, <pubPlace>Aberdeen</pubPlace> <date when="1937">1937</date>; ders., <title level="a" xml:lang="eng">The Knowledge of God and the Service of God,
-                           according to the teaching of the Reformation</title></bibl>; deutsch: <bibl corresp="kbga-bibls-303"><title level="m">Gotteserkenntnis und Gottesdienst nach reformatorischer
+                     <bibl corresp="kbga-bibls-387">
+                            <author ref="kbga-actors-2151">K. Barth</author>, <title level="m" xml:lang="eng">Syllabus of Gifford Lectures 1937</title>. <biblScope unit="volume">Part I</biblScope>, <pubPlace>Aberdeen</pubPlace> <date when="1937">1937</date>; ders., <title level="a" xml:lang="eng">The Knowledge of God and the Service of God,
+                           according to the teaching of the Reformation</title></bibl>; deutsch: <bibl corresp="kbga-bibls-303">
+                            <title level="m">Gotteserkenntnis und Gottesdienst nach reformatorischer
                            Lehre. 20 Vorlesungen (Gifford-Lectures) über das Schottische Bekenntnis
                            von 1560, gehalten an der Universität Aberdeen im Frühjahr 1937 und
-                           1938</title>, <pubPlace>Zollikon</pubPlace> <date when="1938">1938</date>.</bibl></note>) errötendst in Ihren Spuren wandle<note xml:id="n02"><p><persName ref="kbga-actors-512">Bultmann</persName> war am <date when="1935-06-28">28.6.1935</date> zum Empfang des theologischen
-                     Ehrendoktors in <placeName ref="kbga-places-322">St. Andrews</placeName>; s. <ref type="pub" target="1097.xml">Nr. 95.</ref>
-               </p><p>Vgl. <bibl corresp="kbga-bibls-1267"><author ref="kbga-actors-764">Fr. von Schiller</author>, «<title level="m">Das Lied von der Glocke</title>», <biblScope>V. 70</biblScope></bibl>: <q rend="block">Errötend folgt er ihren Spuren …</q>
-                  </p></note>, kann ich nicht umhin, Ihrer zu gedenken. Wirklich <hi rend="i">errötendst</hi> — denn Sie haben hier eine furchtbare Wirtschaft hinterlassen
+                           1938</title>, <pubPlace>Zollikon</pubPlace> <date when="1938">1938</date>.</bibl>
+                    </note>) errötendst in Ihren Spuren wandle<note xml:id="n02">
+                        <p>
+                            <persName ref="kbga-actors-512">Bultmann</persName> war am <date when="1935-06-28">28.6.1935</date> zum Empfang des theologischen
+                     Ehrendoktors in <placeName ref="kbga-places-322">St. Andrews</placeName>; s. <ref type="pub" target="1097">Nr. 95.</ref>
+               </p>
+                        <p>Vgl. <bibl corresp="kbga-bibls-1267">
+                                <author ref="kbga-actors-764">Fr. von Schiller</author>, «<title level="m">Das Lied von der Glocke</title>», <biblScope>V. 70</biblScope></bibl>: <q rend="block">Errötend folgt er ihren Spuren …</q>
+                  </p>
+                    </note>, kann ich nicht umhin, Ihrer zu gedenken. Wirklich <hi rend="i">errötendst</hi> — denn Sie haben hier eine furchtbare Wirtschaft hinterlassen
                durch Ihre Lehre, daß <hi rend="i">X</hi><note xml:id="n03">Christus.</note> eventuell auch nicht gelebt haben könnte. Ganz
           <placeName ref="kbga-places-322">St. Andrews</placeName> spricht noch heute davon, und ich habe die größte Mühe, in deutscher und
                englischer Sprache zu erklären, was Kritisches Sie damit gemeint haben könnten. Aber
@@ -157,12 +127,15 @@
         <closer>
           <salute>Mit sehr herzlichem Gruß</salute>
           <salute>Ihr</salute>
-          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+          <signed>
+                        <persName ref="kbga-actors-2151">Karl Barth</persName>
+                    </signed>
         </closer>
       </div>
       
       <div type="letter">
-        <metamark><pb xml:id="p165" ed="pga"/> [darunter:]</metamark>
+        <metamark>
+                    <pb rend="noPipe" xml:id="p165" ed="pga"/> [darunter:]</metamark>
         <opener>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>.</salute>
         </opener>
@@ -171,8 +144,11 @@
         <closer>
           <salute>Ihr</salute>
           <signed>
-            <persName ref="kbga-actors-15">D. M. Baillie</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-15">Donald Macpherson Baillie</persName> (<date from="1887-11-05" to="1954-10-31">5.11.1887–31.10.1954</date>),
-                     seit <date when="1935">1935</date> Professor für Systematische Theologie in <placeName ref="kbga-places-322">St.Andrews</placeName>.</seg></note>
+            <persName ref="kbga-actors-15">D. M. Baillie</persName><note xml:id="n05">
+                            <seg type="bio">
+                                <persName ref="kbga-actors-15">Donald Macpherson Baillie</persName> (<date from="1887-11-05" to="1954-10-31">5.11.1887–31.10.1954</date>),
+                     seit <date when="1935">1935</date> Professor für Systematische Theologie in <placeName ref="kbga-places-322">St.Andrews</placeName>.</seg>
+                        </note>
           </signed>
         </closer>
       </div>

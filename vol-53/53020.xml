@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53020">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 18</title>
+        <title type="content">Predigt: Markus 1,21-22</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Markus 1,21-22, 31. Oktober 1909</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53020 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53020</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">20</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mk 1,21-22, 31. Oktober 1909. <ref target="https://kba.karl-barth.ch/objects/1461">KBA 996</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1909-10-31">31. Oktober 1909</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p160" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                        <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>18</idno>
+                    </head>
+                
+                    <dateline>
+                        <date when="1909-10-31">Sonntag, den 31. Oktober 1909,
+                                    <placeName ref="kbga-places-67">Genf</placeName>
+                        </date> <date rend="right">(21. nach Trinitatis)</date>
+                    </dateline>
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="Mk.1.21 Mk.1.22">Markus 1,21–22</ref>
+                        
+                            <quote>
+                                <hi rend="italic" resp="kb">Und sie gingen nach <placeName ref="kbga-places-862">Kapernaum</placeName> hinein. Und
+                                    alsbald am Sabbat lehrte Jesus in der Synagoge. Und sie
+                                    erstaunten über seine Lehre. Denn er lehrte sie wie einer,
+                                    der Vollmacht hat, und nicht wie die
+                                    Schriftgelehrten.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+                
+                <salute>Meine lieben Zuhörer!</salute>
+                </div>
+                <div type="main">
+                <p> In den Worten des Evangelisten <persName ref="kbga-actors-9167">Markus</persName>, die wir eben gehört haben,
+                    zittert etwas nach von der innern Bewegung eines Augenzeugen. Nach der
+                    Meinung mancher Gelehrter wäre<note xml:id="n01">Beginnend mit
+                        diesem Wort sind in dieser Predigt alle Worte nachträglich mit Bleistift
+                        unterstrichen, in denen beim Vortrag «Ä»-Laut zu hören ist. Diese
+                        Unterstreichungen werden mit der Bitte eines Mitglieds des
+                        Gemeindekirchenrats zusammenhängen, von der Barth seinem Vater
+                        berichtete: «Ein wackerer Kirchenrat bat mich sehr angelegentlich, ob
+                        ich nicht beim Predigen das ä wie e aussprechen wolle, das ä sei ihm so
+                        étrange (Genfer Deutsch)» (Brief an Fr. Barth vom 26.10.1909 [<idno type="kba-objects-identifier">KBA
+                        9209.79</idno>]).</note> es der Jünger und Apostel <persName ref="kbga-actors-1814">Petrus</persName> gewesen, der später dem Markus als
+                    Gewährsmann gedient hätte, als dieser seinen Bericht über das Leben Jesu,
+                    unser heutiges Markusevangelium, verfasste. Wie dem auch sei, die gelesene
+                    Stelle ist eine von denen, bei denen wir dem Häuflein der ersten <term type="Sachen" key="Christen, frühe">Christen</term> etwa 30 Jahre nach
+                    Jesu Tod <pb ed="-A" n="2"/> gleichsam ins Herz schauen. Wir
+                    versetzen uns zurück in die Gesindestuben, in die Sklavenräume der vornehmen
+                    Häuser in <placeName ref="kbga-places-1081">Korinth</placeName>, in die
+                    Katakomben in <placeName ref="kbga-places-53">Rom</placeName>, wo die
+                    Glaubensgenossen zur Andacht zusammenkamen. Vielleicht ist der eine oder
+                    andre unter ihnen, der, aus <placeName ref="kbga-places-871">Palästina</placeName> herübergekommen, <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">
+                            <hi rend="i">ihn</hi></term>&gt; noch
+                    gesehen hat, wenn auch nur von weitem, als er noch auf Erden wandelte. Mit
+                    Bewunderung, fast mit Neid sehen die Andern zu ihm auf. Und nun werden die
+                    Rollen herbeigebracht, die die kleine Gemeinde neulich erhalten, nun
+                    wird’s ganz still, und einer beginnt daraus vorzulesen, griechisch,
+                    wie es damals überall verstanden und geredet wurde, etwa wie heute das
+                        Französische:<note xml:id="n02">Schon vor seiner weiteren
+                        Verbreitung im Zusammenhang mit der Kolonialisierungspolitik Frankreichs
+                        insbesondere in Afrika hatte das Französische über den engeren
+                        muttersprachlichen Raum hinaus als Sprache der Diplomatie und der
+                        Führungs- und höheren Bildungsschichten in vielen Ländern Europas und
+                        der Welt den Charakter einer Weltsprache angenommen. – Im
+                        Vergleich mit dem Englischen war das Französische zu dieser Zeit, was
+                        seinen weltweiten Einfluss anbelangt, jedoch bereits ins Hintertreffen
+                        geraten. Vgl. <bibl corresp="kbga-bibls-2532">
+                                <author ref="kbga-actors-9168">J. Osterhammel</author>, <hi rend="i">Die Verwandlung der Welt. Eine
+                            Geschichte des 19. Jahrhunderts</hi>, München 2009,
+                        S. 1110–1112</bibl>.</note> «Da <persName ref="kbga-actors-2206">Johannes</persName> überantwor<pb xml:id="p161" ed="pga"/>tet war, kam Jesus nach <placeName ref="kbga-places-780">Galiläa</placeName> und predigte das <term type="Sachen" key="Evangelium">Evangelium</term> vom Reich Gottes und sprach: Die Zeit
+                    ist erfüllet, und das Reich <term type="Sachen" key="Reich Gottes">Gottes</term> ist herbeigekommen…», und dann weiter die
+                    Geschichte von der Berufung der ersten <term type="Sachen" key="Jünger">Jünger</term>, mit der wir uns vor drei Wochen beschäftigt haben,<note xml:id="n03">Vgl. oben, <ref type="pub" target="../volume/53/p150#p150">S. 150-159</ref>.</note> und dann unsre Stelle: «Er ging in die
+                    Synagoge und lehrte, und sie erstaunten – sie entsetzten sich
+                    – über seine Lehre, denn er lehrte wie einer, der Vollmacht hatte,
+                    – er lehrte gewaltig – und nicht wie die Schriftgelehrten.»
+                    Eine stille Bewegung geht durch die Versammlung: Ja, <hi rend="i">so</hi> war <pb ed="-A" n="3"/> er, nein, so <hi rend="i">ist</hi> er: <term type="Sachen" key="Jesus Christus, Vollmacht">
+                            <hi rend="i">Vollmacht</hi></term>&gt;, das ist sein innerstes Wesen. Seine
+                    Vollmacht hat ja weiter gewirkt im Munde seiner Boten, des <persName ref="kbga-actors-313">Paulus</persName> vor Allem, und hat sie Alle
+                    ergriffen, herausgerissen aus der Dunkelheit und dem Schlamm ihres
+                    bisherigen Lebens, hat sie in ein <term type="Sachen" key="Leben, des Lichts">Leben</term> des Lichts und der <term type="Sachen" key="Leben, der Freiheit">Freiheit</term> versetzt. Er
+                    lehrte gewaltig, und er lehrt gewaltig. Und dann beugen sich die Knie in
+                    Anbetung des gnädigen Wunders, das Gott an den Menschen getan hat. Und jeder
+                    kehrt getröstet und gekräftigt zurück an seine Arbeit, weil er einen
+                    unsichtbar neben sich weiß, der <term type="Sachen" key="Jesus Christus, Vollmacht">Vollmacht</term> hat und anders ist als
+                    die andern Menschen.</p>
+                <p>Aber verlassen wir jenes Bild aus alter Zeit. Unser Christentum soll ja nicht
+                    fromme Anempfindung sein an die innern Lebenskräfte vergangener Zeiten,
+                    sondern eigenes <term type="Sachen" key="Christentum, soll eigenes Leben sein">Leben</term>, eigene Kraft.
+                    Und so drängt uns unser Text, uns selbst zu fragen: Wer war Jesus? Wer ist
+                    Jesus? Was haben wir mit ihm zu schaffen? Warum nennen wir uns nach Christus
+                    Christen? Warum stellen wir nicht <persName ref="kbga-actors-136">Goethe</persName> oder <persName ref="kbga-actors-216">Kant</persName> in den Mittelpunkt
+                    unsrer religiösen und sittlichen Gedanken? Ich erweitere alle diese Fragen
+                    und fasse sie zusammen in der einen: <hi rend="i">Was ist die Großmacht in
+                        deinem</hi>
+                    <pb ed="-A" n="4"/>
+                    <hi rend="i">und meinem innern <term type="Sachen" key="Leben, inneres">Leben</term></hi>
+                        <hi rend="i">?</hi>
+                    </p>
+                <div>
+                    <pb xml:id="p162" ed="pga"/>
+                    <head type="4">I</head>
+                    <p rend="noindent">Vom <term type="Sachen" key="Erstaunen">
+                                <hi rend="i">Erstaunen</hi></term>&gt; redet unser Textwort. Wer in
+                        seinem Leben nie erstaunt ist, der ist ein armer Mensch. Ich rede hier
+                        nicht von jenem Erstaunen, das viel eher Neugier heißen <term type="Sachen" key="Erstaunen, neugieriges">könnte</term>, das die
+                        Hände über dem Kopf zusammenschlägt über das, was es nicht versteht, um
+                        dann gelassen weiterzugehen, rasch getröstet über sein Nichtverstehen.
+                        Solches Erstaunen ist eine gleichgiltige Welle im Alltagsgeplätscher der
+                        großen <term type="Sachen" key="Gleichgültigkeit">Gleichgiltigkeit</term>. Es gibt aber ein Erstaunen, das den
+                        Menschen nicht loslässt, das einen Abschnitt macht in seinem Leben. Es
+                        ist das <term type="Sachen" key="Erstaunen, über das Leben selbst">Erstaunen</term> über die Entdeckung des Lebens selbst, über die
+                        Entdeckung der verborgenen Gewalt, die das Schattenspiel des äußern
+                        Lebens lenkt und die dies äußere Leben plötzlich erscheinen lässt als
+                        das, was es ist, als ein Schattenspiel.<note xml:id="n04">Zu
+                            dieser Anspielung auf das «<bibl corresp="kbga-bibls-2529">Höhlengleichnis</bibl>» <persName ref="kbga-actors-322">Platons</persName> s. oben, <ref type="pub" target="../volume/53/p155#fn_n05">S. 155, Anm. 5</ref>.</note> Wer von solchem
+                        Erstaunen nie etwas verspürt hat, von dem sage ich, dass er ein armer
+                        Mensch ist. Es sind freilich noch keine 20–30 Jahre her, dass es
+                        in weiten Kreisen für unfein und ungebildet galt, in dieser Weise zu
+                        erstaunen. Und was damals Meinung der Gebildeten war, ist heute <pb ed="-A" n="5"/> auf weite Strecken der
+                        Durchschnittsstandpunkt des einfachen Mannes, der Arbeitermassen
+                        geworden. Das Leben besteht in dem, was man hört und sieht und greift
+                        und schmeckt, zu erstaunen gibt’s dabei nichts:<note xml:id="n05">Vgl. die Ausführungen zur im Verlauf des 19.
+                            Jahrhunderts zunehmenden Dominanz
+                            naturwissenschaftlich-naturalistischer Deutungsmuster bei <bibl corresp="kbga-bibls-2533">
+                                    <author ref="kbga-actors-9148">Th. Nipperdey</author>,
+                                <hi rend="i">Deutsche Geschichte 1866–1918</hi>, Bd. I:
+                                <hi rend="i">Arbeitswelt und Bürgergeist</hi>, München 1990,
+                            S. 623–629</bibl>: «Modelle und Abstraktionen spielen eine
+                            zunehmende Rolle. Das ‚Wesen‘ der Natur ist nicht verstehbar
+                            – und in der Wissenschaft, zumal in der Physik, nimmt die
+                            Tendenz zu, auf ‚Wesenserkenntnis‘ zu verzichten; die
+                            neopositivistische These, es komme allein auf die mathematische
+                            Beschreibung der experimentellen Tatsachen an, gewinnt in der Praxis
+                            an Anhang.» (S. 623) «Naturwissenschaft brauchte man nicht zu
+                            begründen, sie war anerkannt, sie war Teil der Kultur. […]
+                            Die Lösung der Welträtsel und der Fortschritt seien auf
+                            Naturwissenschaft gegründet […], die ­Kulturwissenschaften
+                            sollten die naturwissenschaftlichen Methoden übernehmen». (S. 624)
+                            – «Gegnerschaft oder Vorbehalte gegen die Naturwissenschaften
+                            gab es […] öffentlich lange Zeit kaum. Nach der
+                            Jahrhundertwende gibt es kulturkritische Einwände», doch waren bis
+                            dahin die «Erkenntnisse der Naturwissenschaften über den Aufbau der
+                            Welt, die Natur des Menschen und seine Stellung in der Welt
+                            […] teils schneller, teils langsamer ins allgemeine
+                            Bewußtsein eingegangen» (S. 625). Vgl. zum Ganzen und über
+                            Mitteleuropa und die allein christliche Perspektive hinausgehend
+                            auch <bibl corresp="kbga-bibls-2532">
+                                    <author ref="kbga-actors-9168">Osterhammel</author> (Anm. 2), S. 1272–1276</bibl>.</note>
+                        </p>
+                    <q rend="block">
+                        <lg>
+                            <l> <pb rend="noPipe" xml:id="p163" ed="pga"/> … nach drüben ist die Aussicht uns verrannt,</l>
+                    <l>Tor, wer dorthin die Augen blinzelnd richtet.<note xml:id="n06">
+                                        <bibl corresp="kbga-bibls-1624">
+                                            <author ref="kbga-actors-136">J. W. von Goethe</author>, <hi rend="i">Faust.
+                                Der Tragödie zweiter Teil</hi>, V. 11442f. (Fünfter Akt,
+                            Mitternacht)</bibl>.</note>
+                        </l>
+                    </lg>
+                </q>
+                    <p rend="noindent">Aber die Tage dieser Lebensweisheit neigen sich ihrem
+                        Ende zu. Ja, ich behaupte, es hat nie einen einzigen Menschen gegeben,
+                        der in jedem Moment seines Lebens zu dieser Lebensweisheit gestanden
+                        wäre. Ein Mensch wäre nicht lebendig, wenn er nie wirklich gestaunt
+                            <term type="Sachen" key="Mensch, Fähigkeit zum Staunen">hätte</term>, eben weil er Mensch und nicht ein Tier oder eine Pflanze
+                        ist, denen freilich solche Fähigkeit abgeht. Ich denke daran, wie die
+                        großen Führer der <term type="Sachen" key="Sozialdemokratie">Sozialdemokratie</term> es verstanden haben und verstehen,
+                        Tausenden und Abertausenden eine Überzeugung, einen Idealismus
+                        einzuflößen für die Ziele ihrer <term type="Sachen" key="Sozialdekokratische Partei">Partei</term>.<note xml:id="n07">Zur Gründung und Programmatik der sozialdemokratischen
+                            Parteien in der Schweiz und in Deutschland, die in beiden Ländern zu
+                            Beginn des 20. Jahrhunderts zur mitglieder- und auch wählerstärksten
+                            Partei angewachsen waren, vgl. oben, <ref type="pub" target="../volume/53/p004#fn_n04">S. 4, Anm. 3</ref>.</note> Ja, was ist denn ein
+                        solches Überzeugtwerden, ein solches restloses Sich-Hingeben an das als
+                        richtig Erkannte anders als das große Staunen, das über diese Menschen
+                        kommt, wenn ihnen gezeigt wird, dass sie in der Partei etwas finden, was
+                        ihrem kleinen Leben Inhalt gibt? Ich denke an den Überzeugungsmut und
+                        die Zähigkeit, mit der manche sogenannte <term type="Sachen" key="Freidenker">Freidenker</term> für ihre Sache Propaganda machen.<note xml:id="n08">Nachdem es seit 1870 in der
+                            Schweiz zu verschiedenen Gründungen von Freidenkervereinigungen
+                            gekommen war, konstituierte sich 1908 mit dem «Deutschschweizer
+                            Freidenkerbund» erstmals ein landesweiter Zusammenschluss; Ziele
+                            waren schon damals die Förderung einer an der Wissenschaft
+                            orientierten Weltanschauung und Ethik, Hilfe beim Kirchenaustritt,
+                            Trennung von Religion und Schule sowie überhaupt von Staat und
+                            Kirche (vgl. <bibl corresp="kbga-bibls-2534">
+                                    <author ref="kbga-actors-6889">R. Dellsperger</author>, Art. «Freidenker», in: HLS 4, S. 761f.</bibl>).
+                            – Der den gleichen Zielen verpflichtete «Deutsche
+                            Freidenkerbund» war bereits 1881 unter anderem von dem Arzt 
+                                <persName ref="kbga-actors-9169">Ludwig Büchner</persName>
+                            (1824–1899) und dem Politiker und Mitbegründer der
+                            Sozialdemokratischen Partei <persName ref="kbga-actors-4825">Wilhelm Liebknecht</persName> (1826–1900)
+                            gegründet worden (vgl. <bibl corresp="kbga-bibls-2535">
+                                    <author ref="kbga-actors-9170">J.-Chr. Kaiser</author>, Art. «Freidenker»,
+                            in: RGG<hi rend="sup">4</hi> III, Sp. 296–299</bibl>); im Januar
+                            1906 war es in Deutschland zudem zur Gründung des ebenfalls
+                            freidenkerisch orientierten «Deutschen Monistenbundes» gekommen, dem
+                            schon bald mehr als 6000 Mitglieder angehörten (vgl. <bibl corresp="kbga-bibls-2536">
+                                    <author ref="kbga-actors-9171">J. Mehlhausen</author> /
+                                 <author ref="kbga-actors-9172">D. Dunkel</author>, Art.
+                            «Monismus / Monistenbund», in: TRE 23, S. 212–219, dort
+                            S. 216</bibl>).</note> Diese Überzeugung ist offenbar etwas Anderes als <pb xml:id="p164" ed="pga"/> das, was man <pb ed="-A" n="6"/> sieht und
+                        hört und schmeckt und greift, mögen sie selbst noch so laut alles andre
+                        als Träumerei und Pfaffentrug verlachen. Unsichtbar, wunderbar, ist das
+                        große Staunen über sie gekommen über das, was ihnen letzte <term type="Sachen" key="Wahrheit">Wahrheit</term> zu sein scheint. Je
+                        lauter und aufgeregter ein solcher Mensch versichert, Alles in der Welt
+                        sei natürlich und selbstverständlich, desto mehr beweist er, dass es
+                        nicht so ist, dass er selber unter der Gewalt einer Macht steht, vor der
+                        er staunt, die er andern auch zeigen möchte, um sie auch zum Staunen zu
+                        bringen. Ich denke an die vielen großen und kleinen Menschen, denen es
+                        gegangen ist, wie <persName ref="kbga-actors-301">Friedrich Nietzsche</persName> es in einem merkwürdigen
+                        Gedicht schildert:</p>
+                
+                        <q rend="block">
+                            <lg>
+                                <l>Ich schlief, ich schlief –,</l>
+                                <l>Aus tiefem Schlaf bin ich erwacht;</l>
+                                <l>Die Welt ist tief,</l>
+                                <l>Und tiefer als der Tag gedacht.<note xml:id="n09">
+                                        <bibl corresp="kbga-bibls-2537">Zeile 3–6 des Gedichts «Oh Mensch! Gieb Acht!»
+                                        von <author ref="kbga-actors-301">Friedrich Nietzsche</author>
+                                        (1844–1900), das auch unter den Namen
+                                        «Mitternachtslied» oder «Das trunkene Lied» bekannt ist.
+                                        Gedruckt findet es sich in Fr. Nietzsche, <hi rend="i">Also
+                                            sprach Zarathustra. Ein Buch für Alle und
+                                            Keinen</hi>, Sämtliche Werke. Kritische
+                                        Studienausgabe in 15 Bänden, hrsg. von G. Colli / M.
+                                        Montinari, Bd. 4, München / Berlin 1999, S. 285f. und
+                                        S. 404.</bibl> – Nach Nietzsches Tod ließ seine
+                                        Schwester, <persName ref="kbga-actors-9173">Elisabeth Förster-Nietzsche</persName> (1846–1935), dieses
+                                        Gedicht auf der Halbinsel Chasté im <placeName ref="kbga-places-1126">Silsersee</placeName> (Kanton
+                                        Graubünden), einem der bevorzugten Aufenthaltsorte
+                                        Nietzsches, in den Fels meißeln; vgl. <bibl corresp="kbga-bibls-2538">
+                                            <persName key="Stegmaier, Werner">W. Stegmaier</persName>, <hi rend="i">Oh Mensch! Gieb Acht!
+                                            Kontextuelle Interpretation des Mitternachtslieds
+                                            aus Also sprach Zarathustra</hi>, in:
+                                        Nietzsche-Studien 42 (2013), S. 85–115, dort
+                                        S. 86</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Sie sind aus dem tiefen Schlaf des <term type="Sachen" key="Leben, Allerweltsleben">Allerweltslebens</term> erwacht, weil
+                        irgend eine starke, große Idee und Überzeugung, heiße sie nun <term type="Sachen" key="Sozialismus">Sozialismus</term>, <term type="Sachen" key="Atheismus">Atheismus</term>, <term type="Sachen" key="Abstinenz-Bewegung">Abstinenz</term>, <term type="Sachen" key="Vegetarianismus">Vegetarianismus</term> oder wie sonst über sie
+                        gekommen ist wie ein starker Mann. Und wenn eine solche Idee und
+                        Überzeugung die ihrige wurde, wenn sie sie ergriffen mit allen Fibern
+                        ihrer Seele, mit ihrem ganzen Willen und ganzen Herzen, dann ist ihnen
+                            <pb ed="-A" n="7"/> die Welt tief geworden, tiefer als der
+                        Tag, als die Oberflächlichkeit gedacht, sie haben das große Staunen
+                        gelernt vor unsichtbaren und doch ganz sicheren Tatsachen, denen sie nun
+                        ihr Leben hingeben wollen.</p>
+                    
+                     <p>  <pb rend="noPipe" xml:id="p165" ed="pga"/> Aber wir müssen gleich tiefer graben: Was ist denn das, was die Menschen
+                        staunen macht in jenen Augenblicken, wo eine Überzeugung sie mächtig
+                        ergreift und mit fortreißt? Die <term type="Sachen" key="Wahrheit">Wahrheit</term> oder das, was sie für Wahrheit, letzte Wahrheit
+                        halten. Aber die Wahrheit ist eben nie ein abstraktes, allgemeines <term type="Sachen" key="Wahrheit, nicht abstrakt">Gedankending</term>
+                        gewesen. Überzeugung ist kein mechanischer Vorgang, der sich
+                        selbstverständlich und notwendig herbeiführen lässt. Überzeugung,
+                        Wahrheitsüberzeugung ist etwas höchst Lebendiges, das nur in einem
+                        lebendigen Menschen möglich ist und nur von lebendigen Menschen
+                        verursacht werden kann. Die größte <term type="Sachen" key="Wahrheit, überzeugt nur durch Menschen">Wahrheit</term> berührt
+                        und packt uns nicht, wenn nicht ein lebendiger Mensch dahinter steht,
+                        der sie als seine Überzeugung vertritt. Wenn wir einen Roman, einen
+                        Zeitungsartikel, eine Broschüre, ein wissenschaftliches Buch lesen,
+                        nicht wahr, da spüren wir es gleich, ob Überzeugung drin steckt, warm
+                        pulsierendes Leben, oder ob’s bloße Nichtwirklichkeit,
+                        Scheinleben ist. Oder wenn wir eine Rede, einen Vortrag, eine Predigt
+                        hören, da hat jeder ein feines Gefühl dafür, ob der Redner mit der
+                        ganzen Kraft seiner <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term> in der Rede steckt, oder ob die Mühle leer
+                            <pb ed="-A" n="8"/> klappert am rauschenden Bach<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-2539">die erste Zeile des Gedichts und
+                            deutschen Volkslieds «Die Mühle» von <author ref="kbga-actors-9175">E. Anschütz</author> (<hi rend="i">Musikalischer
+                                Hausschatz der Deutschen. Eine Sammlung von 1000 Liedern und
+                                Gesängen mit Singweisen und Klavierbegleitung</hi>, gesammelt
+                            und hrsg. von G. W. Fink, Leipzig 1843, S. 178)</bibl>: 
+                            <q rend="block">
+                                    <lg>
+                                <l>Es klappert die Mühle am rauschenden Bach, klipp, klapp!</l>
+                                    </lg>
+                                </q>
+                            </note> des Lebens. Ja,
+                        wir können ruhig sagen: das, was uns packt und überzeugt in einem Buch
+                        oder in einer Rede, <anchor type="note" xml:id="fn-a"/>an einer «Wahrheit»,<note type="textcritical" n="a" xml:id="na" target="fn-a"> Im Mskr. nachträglich mit Bleistift eingefügt.</note>
+                         das ist im Grunde immer das <term type="Sachen" key="Wahrheit, Unmittelbarkeit">Unmittelbare</term>, das
+                        Persönliche, das zwischen den Zeilen und Worten steht, das ist der
+                        Mensch selbst, der zu andern Menschen redet. Und so können wir weiter
+                        sagen: das Staunen, die Entdeckung, dass die Welt tiefer ist als der Tag
+                        gedacht, kommt über uns, wenn wir einen Blick, einen noch so kleinen
+                        Blick in das Geheimnis <term type="Sachen" key="Leben, Geheimnis «Menschenleben»">«Menschenleben»</term>
+                        getan haben.</p>
+                </div>
+                <div>
+                    <head type="4">II</head>
+                    <p rend="noindent">Aber nun ist’s eine bekannte Tatsache, dass lange
+                        nicht alle, vielleicht nur wenige Menschen im Stand sind, uns den Blick
+                        für dies Geheimnis <pb xml:id="p166" ed="pga"/> zu öffnen. Das Leben und Reden
+                        der meisten Menschen erstaunt uns nicht im geringsten. Auch unser
+                        Textwort redet von solchen Menschen, indem es hervorhebt, dass Jesus
+                        anders, gewaltiger gepredigt und geredet habe, als seine galiläischen
+                        Zuhörer es bis dahin gewohnt waren: <hi rend="i">nicht wie die <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term></hi>. Die Schriftgelehrten waren die
+                            <term type="Sachen" key="Theologen">Theologen</term>, die Gebildeten
+                        unter dem jüdischen <term type="Sachen" key="Juden / Judentum">Volk</term>, die Kenner und Ausleger des <term type="Sachen" key="Gesetz, mosaisches">Gesetzes</term> und der <term type="Sachen" key="Propheten">Propheten</term>. Wir wollen diese Leute nicht
+                        schwarz malen, wie es oft geschieht. In ihrer Arbeit, in ihrer Lehre <pb ed="-A" n="9"/> war viel Aufrichtigkeit und viel guter
+                        Wille. Aber nachdenklich machen muss uns die Tatsache, dass es gerade
+                        die Gebildeten, die, welche mit Gottes Wort und Willen in besonders
+                        enger Berührung zu sein glaubten, waren, von denen da angedeutet wird,
+                        dass sie die Menschen kalt ließen, dass sie es nicht verstanden, Staunen
+                        zu erwecken. Ja, Staunen über sich selbst, über ihre Gelehrsamkeit und
+                        ihren Scharfsinn mögen sie erweckt haben, aber das war wieder das <term type="Sachen" key="Erstaunen, neugieriges">Staunen</term> der
+                        Neugier, nicht das <term type="Sachen" key="Erstaunen, über das Geheimnis des Lebens">Staunen</term> über
+                        das entdeckte Geheimnis des Lebens. Das große Staunen weckten sie nicht,
+                        es war trotz ihrer religiösen Bildung eine Schranke in ihrem Wesen und
+                        Wirken, die das hinderte. Wir sahen es ja eben: die Wahrheit der
+                        Gedanken genügt nicht, um uns zu packen, was uns ergreift und
+                        überwältigt, ist immer das Persönliche, das durch Gedanken und Worte
+                        durchschimmert, so wie ein geschickter Geigenspieler durch einen
+                        bestimmten Griff neben dem eigentlichen Ton einen Unterton zum Mittönen
+                        bringen kann.</p>
+                    <p> Dem Reden der <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term> fehlte der Unterton, dem Reden so vieler
+                        Menschen fehlt der Unterton, und darum ist ihr Leben und ihr Reden auch
+                        nicht geeignet, das Staunen in uns zu erwecken. Und nun weiter: wie oft,
+                        wie oft wird unser <term type="Sachen" key="Erstaunen, getäuschtes">Staunen</term>
+                        <hi rend="i">getäuscht!</hi>
+                        <pb ed="-A" n="10"/> Wir waren ergriffen, gepackt von den Worten
+                        eines Menschen, von seinen Ideen, von seiner Persönlichkeit. Wir
+                        glaubten das Geheimnis des Lebens, das Ziel und den Zweck unsres
+                        Daseins, den Inhalt und Wert unsrer Arbeit entdeckt zu haben. Wir
+                        staunten vor der Wahrheit, die sich uns in jenem Menschen enthüllt zu
+                        haben schien. Aber dann kam auf das große Staunen die große
+                        Ernüchterung. Das kann auf mancherlei Weise kommen. Immer ist’s
+                        im Grunde dieselbe Erscheinung: Der Zauber, in dem wir standen, wird
+                        unkräftig, die Tiefe der Welt, die sich uns aufgetan zu haben schien,
+                        füllt sich wieder mit Nebeln, so wie auf einem Berggipfel oft in fünf
+                        Minuten die prachtvollste Aussicht im <pb xml:id="p167" ed="pga"/> Nebel
+                        versinkt, unser Leben droht wieder untief zu werden, und wir können uns
+                        nicht dagegen wehren. Nicht wahr, so etwas haben wir alle schon
+                        durchgemacht? Wie manchem eifrigen Anhänger und Verfechter irgend einer
+                        neuen Idee ist es schon so gegangen, aber auch wie manchem Frommen, wie
+                        manchen Konfirmanden zum Beispiel! Auch unter den Schriftgelehrten
+                        Israels gab es große und edle Männer, die sicher in manchem ihrer
+                        Zuhörer auch das große, wirkliche Staunen geweckt haben, aber das Haus,
+                        das sie bauten, war auf Sand gebaut [vgl. <ref type="can" subtype="bible" target="Mt.5.26">Mt. 5,26</ref>], das Staunen, die Begeisterung ist
+                        gerade im religiösen Leben <pb ed="-A" n="11"/> der <term type="Sachen" key="Juden / Judentum, Begeisterung und Ernüchterung">Juden</term> jener Zeit nur zu oft der Ernüchterung, der
+                        Enttäuschung gewichen. Und wie zahlreich, meine Freunde, sind erst die,
+                        die solche Ernüchterung und <term type="Sachen" key="Erstaunen, getäuschtes">Enttäuschung</term> durchgemacht haben,
+                        die mitten drin stecken, ohne dass es nach außen sichtbar wird. Sie
+                        suchen es vor sich selbst und den andern zu <hi rend="i">verstecken</hi>,
+                        dass sie eigentlich das Staunen, die große innere Überzeugtheit verloren
+                        haben. Die Mauern des Hauses stehen noch, wie man im letzten Winter
+                        solche Mauern im Trümmerfeld von <placeName ref="kbga-places-1059">Messina</placeName><note xml:id="n11">Der größte Teil von
+                            Messina war am 28. Dezember 1908 durch ein Erdbeben zerstört worden;
+                            vgl. oben, <ref type="pub" target="../volume/53/p135#fn_n07">S. 135, Anm. 7</ref>.</note> gefunden hat, aber wenn man näher
+                        hinzutritt, so sieht man, dass das ganze Innere zusammengebrochen,
+                        ausgebrannt ist. Wie viele solche innerlich ausgebrannten Häuser mag es
+                        geben unter den eifrigsten <term type="Sachen" key="Sozialisten">Sozialisten</term>, unter den eifrigsten <term type="Sachen" key="Freidenker">Freidenkern</term>, aber auch unter den eifrigsten
+                            <term type="Sachen" key="Kirchgänger">Kirchgängern</term>!</p>
+                    <p>Woher mag das kommen, dass so viele Menschen kein Staunen, keine
+                        Überzeugung zu wecken vermögen und dass bei so vielen andern das <term type="Sachen" key="Erstaunen">Staunen</term>, das sie weckten,
+                        merklich oder unmerklich sich wieder in <term type="Sachen" key="Gleichgültigkeit">Gleichgiltigkeit</term> verkehrt, früher oder
+                        später? Wir haben gesehen: wenn der Mensch zum Menschen redet, wenn
+                        persönliches <term type="Sachen" key="Leben, persönliches">Leben</term>
+                        hindurchleuchtet, mitklingt in den Gedanken und Worten, dann erwachen
+                        wir zum Staunen, zur Überzeugung, zu einem eigenen persönlichen Leben.
+                        Wo kein persönliches Leben ist, da wirken die schönsten Gedanken nicht,
+                        da ent<pb ed="-A" n="12"/>steht auch nichts Neues bei den
+                        Andern. Ein Toter kann keine andern Toten lebendig machen. Und wenn der
+                        Mensch selbst kraftlos wird, dann helfen alle Wahrheiten in seinem Munde
+                        wenig, er wird dem Andern nur Scheinkraft geben können, Häuser, die er
+                        baut, werden bald ausgebrannte Häuser sein. <pb xml:id="p168" ed="pga"/> Wenn
+                        der Arzt selbst krank wird, kann er den andern Kranken nicht mehr
+                        helfen. Und seht, meine Freunde, hier stehen wir vor der großen
+                            <hi rend="i">Schranke</hi> unsres menschlichen <term type="Sachen" key="Mensch, Schranke seines Wesens">Wesens</term>, das auch die
+                        Schranke war bei den Schriftgelehrten der Zeit Jesu. Man redet heute so
+                        viel von <term type="Sachen" key="Persönlichkeit">«<hi rend="i">Persönlichkeit</hi>»</term>,<note xml:id="n12">Vgl. schon <bibl corresp="kbga-bibls-2540">die erste Strophe des Gedichts «Suleika» von
+                            <author ref="kbga-actors-136">J. W. von Goethe</author> (ders., We<hi rend="i">st-östlicher Diwan</hi>,
+                                <hi rend="i">Buch Suleika</hi>, Berliner Ausgabe, Bd. 3, S. 95)</bibl>: 
+                                <q rend="block">
+                                    <lg>
+                                        <l>Volk und Knecht und Überwinder, </l>
+                                        <l>Sie gestehn, zu jeder Zeit: </l>
+                                        <l>Höchstes Glück der Erdenkinder </l>
+                                        <l>Sei nur die Persönlichkeit. </l>
+                                    </lg>
+                                </q>
+                          Zur großen Bedeutung des Persönlichkeitsbegriffs in der
+                            Philosophie und Theologie des 18. und insbesondere des 19. und
+                            frühen 20. Jahrhunderts vgl. <bibl corresp="kbga-bibls-2541">
+                                    <author ref="kbga-actors-9176">U. Dierse</author> / <author ref="kbga-actors-9177">R. Lassahn</author>, Art. «Persönlichkeit»,
+                            in: HWP 7, Sp. 345–352</bibl>. – Im Abschnitt <bibl corresp="kbga-bibls-2">«Phänomene des
+                            Menschlichen» in KD III/2, S. 82–157</bibl> stellt Barth als
+                            Repräsentanten des Operierens mit dem Begriff Person bzw.
+                            Persönlichkeit <bibl corresp="kbga-bibls-51">
+                                    <author ref="kbga-actors-311">R. Otto</author>, <hi rend="i">Naturalistische und religiöse
+                                Weltansicht</hi>, Tübingen 1909<hi rend="sup">2</hi>,</bibl> vor
+                            (vgl. <bibl corresp="kbga-bibls-2">KD III/2, S. 96.99.109f.</bibl>).</note> und es ist gut und recht so,
+                        aber ich meine, wir wollen nur davon reden als von etwas, das wir
+                            <hi rend="i">werden</hi> sollen und wollen. Denn wenn wir’s ernst
+                        nehmen damit, muss es uns doch bald einleuchten, dass wir Alles andre
+                        sind, nur nicht Persönlichkeiten. Denn eine Persönlichkeit ist nur, wer
+                        ein festes, gewisses <term type="Sachen" key="Persönlichkeit, besitzt gewisses Innenleben">Innenleben</term>
+                        hat. Ein solches Innenleben aber hat wieder nur der, der sich selbst und
+                        seine Natur <term type="Sachen" key="Persönlichkeit, hat sich selbst überwunden">
+                                <hi rend="i">überwunden</hi></term>&gt; hat.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Ein Held ist, wer den Feind bezwinget,</l>
+                                <l>Ein größ’rer, wer sich selbst bezwingt.<note xml:id="n13">
+                                        <bibl corresp="kbga-bibls-2542">Aus der letzten Strophe des
+                                        Gedichts «Die Versöhnung oder Ulrich zur Kinden von
+                                        Zürich und Arnold Winkelried von Unterwalden. Ao. 1499»
+                                        von <author ref="kbga-actors-4505">J. M. Usteri</author>
+                                            (<hi rend="i">Dichtungen in Versen und Prosa von Johann
+                                            Martin Usteri</hi>, nebst einer Lebensbeschreibung
+                                        des Verfassers hrsg. von D. Heß, Bd. 1, Berlin 1831,
+                                        S. 172–175, dort S. 175)</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Wer kann, wer darf das von sich sagen? Wir sind doch
+                        keine Persönlichkeiten, im besten Fall Anfänge, Ansätze <term type="Sachen" key="Mensch, Persönlichkeit nur in Ansätzen">dazu</term>, auch die Größten und Besten unter uns. Und nun wissen
+                        wir auch, warum es so vielen so geht wie den <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term>, warum so viele trotz
+                        der guten und <pb ed="-A" n="13"/> schönen Gedanken und
+                        Meinungen, die sie vertreten, nie andre zum Staunen gebracht haben über
+                        das Geheimnis <term type="Sachen" key="Leben, Geheimnis «Menschenleben»">«Menschenleben»</term>, warum bei so vielen andern dem Staunen
+                        die müde Resignation gefolgt ist. Ihre Gedanken mögen so groß und gut
+                        sein, als sie wollen, die <pb xml:id="p169" ed="pga"/> Andern spürten ihnen
+                        an, dass sie keine Helden sind, oder doch nur halbe oder viertels
+                        Helden. Sie leben von den Gedanken anderer, von den Früchten des
+                        Heldentums, des innern Lebens anderer, wie die <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term> vom <term type="Sachen" key="Gesetz, mosaisches">Gesetz</term> und den <term type="Sachen" key="Propheten">Propheten</term> lebten, man merkt es
+                        ihnen an, dass sie etwas weitergeben, was ihnen eigentlich gar nicht
+                        gehört. Denn nur das kann man weitergeben, nur das kann bei andern das
+                        große <term type="Sachen" key="Erstaunen, erkämpft im Kampf mit uns selbst">Staunen</term>
+                        wecken, was wir selbst erkämpft im Kampf mit uns selbst.</p>
+                        <q rend="block">
+                            <lg>
+                                <l>Und solang du das nicht hast,</l>
+                                <l>Dieses: Stirb und werde!</l>
+                                <l>Bist du nur ein trüber Gast</l>
+                                <l>Auf der dunklen Erde.<note xml:id="n14">
+                                        <bibl corresp="kbga-bibls-2404">Strophe 5
+                                        des Gedichts «Selige Sehnsucht» von <author ref="kbga-actors-136">J. W. von Goethe</author> (ders., <hi rend="i">West-östlicher Diwan,
+                                            Buch des Sängers</hi>, Berliner Ausgabe, Bd. 3,
+                                        S. 22)</bibl>.</note>
+                                </l>
+                            </lg>
+                        </q>
+                    <p rend="noindent">Und so drohen wir daran zu scheitern, dass unser Herz
+                        nach des Propheten Wort ein trotzig und verzagt Ding ist [<ref type="can" subtype="bible" target="Jer.17.9">Jer. 17,9</ref>], dass hinter unsern
+                        Gedanken und Worten und Überzeugungen keine Helden stehen oder keine
+                        rechten Helden. Das Staunen vor dem entdeckten Geheimnis scheint uns
+                        dann doch wieder eine schöne Illusion, wir selber trübe Gäste auf einer
+                        dunklen Erde.</p>
+                </div>
+                <div>
+                    <head type="4">
+                            <pb ed="-A" n="14" rend="noPipe"/> III</head>
+                    <p rend="noindent">Jesus war anders als die andern, und darum konnte er den
+                        andern das sein, was er Unzähligen geworden ist. Sie erstaunten über
+                        seine Lehre, <hi rend="i">denn er lehrte wie einer, der <term type="Sachen" key="Jesus Christus, Vollmacht">Vollmacht</term></hi>
+                        <hi rend="i">hat</hi>. Über was haben die Menschen dort gestaunt? Über seine
+                        Lehre, über die Worte und Gedanken? Sicher, denn wir wissen aus den
+                        Sammlungen seiner Sprüche, die uns die Evangelien bieten, dass er Worte
+                        getan hat, wie sie an gedanklichem Tiefsinn und Schärfe des Ausdrucks
+                        keiner vor ihm und nach ihm erreicht hat. Aber was die Menschen dort
+                        erstaunte, was später und bis auf diesen Tag so vielen der Sieg wurde,
+                        in dem sie die Welt überwanden [vgl. <ref type="can" subtype="bible" target="1.Joh.5.4">1.Joh. 5,4</ref>] und in dem sie frei und selig wurden,
+                        das war nicht die Lehre Jesu, sondern gerade nach der Aussage der alten
+                        Nachricht, die wir zum Text genommen, das, was hinter der Lehre stand,
+                            <hi rend="i">er selbst</hi>, der Mensch <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Jesus</term>, die
+                        Persönlichkeit <term type="Sachen" key="Jesus Christus, Persönlichkeit">Jesu</term>, denn <hi rend="i">er war</hi>
+                        <pb xml:id="p170" ed="pga"/> eine Persönlichkeit. Er lehrte sie wie einer, der
+                        Vollmacht hat, und nicht wie die Schriftgelehrten. Die Schriftgelehrten
+                        erweckten kein Erstaunen, weil hinter den Wahrheiten, die sie lehrten,
+                        halbe oder viertels oder gar keine Helden standen. Ihr Feuer war
+                        gemaltes Feuer, das niemandem warm gibt. Anders Jesus: seine Worte
+                        hatten Kraft und Macht über die Menschen, weil er selbst Kraft und Macht
+                        war. Er hatte die Welt überwunden – ihr kennt die
+                        Versuchungsgeschichten [vgl. <ref type="can" subtype="bible" target="Mt.4.1 Mt.4.11">Mt. 4,1–11</ref> par.] – und er
+                            <pb ed="-A" n="15"/> überwand sich selbst, sein Leben war
+                        nichts als Liebe und Aufopferung für die <term type="Sachen" key="Jesus Christus, Liebe und Aufopferung für andere">andern</term>. Er hat dies Leben beendigt durch einen martervollen
+                            <term type="Sachen" key="Kreuz / Kreuzestod">Tod</term>. Und weil
+                        sein Leben Überwindung, Sieg war bis zuletzt, war es Vollmacht, und
+                        diese Vollmacht haben die Menschen gespürt, und das war es, was sie
+                        staunen machte. Die Vollmacht <term type="Sachen" key="Jesus Christus, Vollmacht">Jesu</term> war aber Vollmacht von
+                            <hi rend="i">Gott</hi>; er wollte in Jesus den Menschen zeigen, wie groß
+                        sein <term type="Sachen" key="Gott, Ernst">Ernst</term> und wie groß
+                        seine <term type="Sachen" key="Gott, Liebe">Liebe</term> sei, er wollte
+                        ihrem Leben einen Inhalt geben, den es vorher nicht hatte. Gott hat in
+                        manchen Menschen zu den andern geredet, in <persName ref="kbga-actors-2228">Moses</persName>, in den <term type="Sachen" key="Propheten">Propheten</term>, in den Philosophen <term type="Sachen" key="Philosophie, griechische">Griechenlands</term>, in den <term type="Sachen" key="Reformatoren">Reformatoren</term>, in <persName ref="kbga-actors-136">Goethe</persName>, in
+                            <persName ref="kbga-actors-216">Kant</persName>, ja er will
+                        durch jeden von uns zu den andern reden. Er redet in mancherlei Zungen
+                        und durch mancherlei Mächte. Aber sein innerstes Herz sehen wir aufgetan
+                        in Einem, und der Eine ist <term type="Sachen" key="Gott, Herz aufgetan in Jesus Christus">Jesus</term>. Wenn wir
+                        da seine Stimme gehört haben, dann erst vernehmen wir all die andern
+                        Stimmen. Wenn wir ihn, der die Vollmacht hatte, sehen gelernt haben,
+                        dann bekommen wir Augen für die andern, die Teilmächte hatten und haben.
+                        Die Frage: «was ist uns Jesus?» fällt zusammen mit der andren: «was ist
+                        uns Gott?» Gott antwortet uns in<note type="textcritical" n="b" xml:id="nb"> Mskr.: «ihn»; von den Hrsg. korrigiert.</note>
+                         ihm: ich will dein Leben sein, ich will dich zum Menschen machen,
+                        du darfst staunen über das <term type="Sachen" key="Erstaunen, über das Geheimnis des Lebens">Geheimnis</term>,
+                        über das entdeckte Geheimnis und du <pb ed="-A" n="16"/> wirst
+                        nicht mehr enttäuscht werden. Von den ausgetrockneten und von den
+                        löchrigen und von den abgeleiteten Brunnen [vgl. <ref type="can" subtype="bible" target="Jer.2.13">Jer. 2,13</ref>] ruft uns die
+                        Gestalt Jesu immer wieder zurück zur Quelle selbst.</p>
+                    <p>Er, der Held, will auch uns zu Helden machen, zu Menschen, die Vollmacht
+                        haben in ihrem Handeln und Reden, weil die Liebe Christi sie also
+                        dringet [vgl. <ref type="can" subtype="bible" target="2.Kor.5.14">2.Kor. 5,14</ref>].</p>
+                    
+                    <p> <pb rend="noPipe" xml:id="p171" ed="pga"/> <persName ref="kbga-actors-2206">Johannes der Täufer</persName> hat Jesus einst fragen lassen: Bist du, der da kommen
+                        soll, oder sollen wir eines andern warten? [<ref type="can" subtype="bible" target="Mt.11.3">Mt. 11,3</ref> par.] Ich möchte,
+                        dass wir heute Alle mit der stillen Frage nach Hause gingen, ob wir
+                        antworten dürfen wie einst Simon <persName ref="kbga-actors-1814">Petrus</persName>: Herr, wohin sollen wir gehen, du hast Worte des
+                        ewigen Lebens [<ref type="can" subtype="bible" target="Joh.6.68">Joh. 6,68</ref>].</p>
+                    <p>Gott schenke uns auf solche Frage solche Antwort.</p>
+                </div>  
+                <div type="closer">
+                        <salute>Amen.</salute>
+                 
+                </div>
+                <div type="songs">
+                    <head>Lieder:</head>
+                        <listBibl type="songs" rend="simple">
+                            <bibl type="song" corresp="kbga-songs-66">Nr. 33: «Sieh, hier bin ich, Ehrenkönig» von <author ref="kbga-actors-2670">J. Neander</author>,
+                                Strophen 1–3.</bibl>
+                            <bibl type="song" corresp="kbga-songs-113">Nr. 235: «Ich weiß, woran ich glaube» von <author ref="kbga-actors-871">E. M. Arndt</author>,
+                                Strophen 1–3 und 4–6 (RG 278; EG 357 [Strophe 3
+                                fehlt]).</bibl>
+                        </listBibl>
+                    </div>
+                </div>
+
+            </div>
+        </body>
+    </text>
+</TEI>

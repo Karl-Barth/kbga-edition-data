@@ -6,7 +6,7 @@
         <title type="volume" n="vol-12">Predigten 1954–1967</title>
         <title type="content">Predigt: 1 Johannes 4,18: "Bekehrung oder Furcht ist nicht in der Liebe"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 1 Johannes 4,18: "Bekehrung oder Furcht ist nicht in der Liebe", 6. August 1961</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12030 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/12030 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1954–1967, Zürich 2003, S. 193–201.</title>
       </titleStmt>
       <editionStmt>
@@ -50,12 +50,12 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1655.1" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: 1 Joh 4,18: "Bekehrung oder Furcht ist nicht in der Liebe", 6. August 1961. <idno ref="https://kba.karl-barth.ch/objects/2104">KBA 1655.1</idno>. </bibl>
-        <bibl xml:id="B" corresp="KBA 1655.2" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 1 Joh 4,18: "Bekehrung oder Furcht ist nicht in der Liebe [Gebet vor der Predigt]", 6. August 1961. <idno ref="https://kba.karl-barth.ch/objects/2201">KBA 1655.2</idno>. </bibl>
-        <bibl xml:id="C" corresp="KBA 864" type="source">C (Weitere Vorlage): Barth, Karl, Furcht ist nicht in der Liebe. Predigt über 1. Joh. 4,18, 6. August 1961. <idno ref="https://kba.karl-barth.ch/objects/6190">KBA 864</idno>. </bibl>
-        <bibl xml:id="D" corresp="KBA 865" type="source">D (Weitere Vorlage): Barth, Karl, Bekehrung. Predigt über 1. Joh. 4,18, 6. August 1961. <idno ref="https://kba.karl-barth.ch/objects/6191">KBA 865</idno>. </bibl>
-        <bibl xml:id="E" corresp="KBA 9132" type="source">E (Weitere Vorlage): Barth, Karl, Tonband mit 2 Inhalten: Abschiedsvorlesung "die Liebe" sowie "Gottesdienst in der Strafanstalt", von Karl Barth, 6. August 1961 – 18. Januar 1962. <idno ref="https://kba.karl-barth.ch/objects/6716">KBA 9132</idno>. </bibl>
-        <bibl xml:id="F" corresp="KBA 9132.2" type="source">F (Weitere Vorlage): Barth, Karl, Gottesdienst in der Strafanstalt "Furcht ist nicht in der Liebe", 6. August 1961. <idno ref="https://kba.karl-barth.ch/objects/89991">KBA 9132.2</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: 1 Joh 4,18: "Bekehrung oder Furcht ist nicht in der Liebe", 6. August 1961. <ref target="https://kba.karl-barth.ch/objects/2104">KBA 1655.1</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: 1 Joh 4,18: "Bekehrung oder Furcht ist nicht in der Liebe [Gebet vor der Predigt]", 6. August 1961. <ref target="https://kba.karl-barth.ch/objects/2201">KBA 1655.2</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Furcht ist nicht in der Liebe. Predigt über 1. Joh. 4,18, 6. August 1961. <ref target="https://kba.karl-barth.ch/objects/6190">KBA 864</ref>. </bibl>
+        <bibl xml:id="D" type="source">D (Weitere Vorlage): Barth, Karl, Bekehrung. Predigt über 1. Joh. 4,18, 6. August 1961. <ref target="https://kba.karl-barth.ch/objects/6191">KBA 865</ref>. </bibl>
+        <bibl xml:id="E" type="source">E (Weitere Vorlage): Barth, Karl, Tonband mit 2 Inhalten: Abschiedsvorlesung "die Liebe" sowie "Gottesdienst in der Strafanstalt", von Karl Barth, 6. August 1961 – 18. Januar 1962. <ref target="https://kba.karl-barth.ch/objects/6716">KBA 9132</ref>. </bibl>
+        <bibl xml:id="F" type="source">F (Weitere Vorlage): Barth, Karl, Gottesdienst in der Strafanstalt "Furcht ist nicht in der Liebe", 6. August 1961. <ref target="https://kba.karl-barth.ch/objects/89991">KBA 9132.2</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -73,48 +73,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:01+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:01+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,28 +83,36 @@
     <pb xml:id="p193" ed="pga"/>
     <div type="opener">
       <head type="header">BEKEHRUNG</head>
-      <epigraph><cit>
+      <epigraph>
+                        <cit>
         <ref type="can" subtype="bible" target="1.Joh.4.18">1.Johannes 4,18</ref>
         <quote>Furcht ist nicht in der Liebe, sondern die vollkommene Liebe treibt die Furcht aus.</quote>
       </cit>
       </epigraph>
-        <dateline><date when="1961-08-06">6. August 1961</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName><note xml:id="n01">Der Gottesdienst, in dem diese Predigt gehalten wurde, ist auf einer Schallplatte
+        <dateline>
+                        <date when="1961-08-06">6. August 1961</date>, <placeName ref="kbga-places-989">Strafanstalt Basel</placeName><note xml:id="n01">Der Gottesdienst, in dem diese Predigt gehalten wurde, ist auf einer Schallplatte
 festgehalten: <title level="a">Gottesdienst in der Strafanstalt</title>, EVZ Zürich <date when="1961">1961</date>. Der gesprochene
-Wortlaut der Predigt ist abgedruckt im Anhang dieses Bandes, unten <ref type="pub" target="./p289#p289">S. 289ff</ref>. Text hier nach der Vervielfältigung.</note></dateline>
+Wortlaut der Predigt ist abgedruckt im Anhang dieses Bandes, unten <ref type="pub" target="../volume/12/p289#p289">S. 289ff</ref>. Text hier nach der Vervielfältigung.</note>
+                    </dateline>
         <div type="prayer">
           <p>Herr, du großer, heiliger und barmherziger Gott! Du hast die ganze Welt geschaffen. Dir gehört sie. Deinem guten Willen ist sie unterworfen. Und so sind alle Menschen, so sind auch wir dein Eigentum, von dir dazu erwählt, dir Ehre zu machen, unsere Zeit und unsere <pb xml:id="p194" ed="pga"/> Kräfte sinnvoll zu gebrauchen und als deine Kinder einträchtig beieinander zu sein. Um dessen zu gedenken, sind wir an diesem Sonntagmorgen hier zusammengekommen.</p>
           <p>Wir wissen und bekennen: in uns allen ist viel Widerspruch und Widerstand, viel Stumpfheit, Meisterlosigkeit und Besserwisserei. Vergib uns! Laß es uns nicht entgelten, wie wir es wohl verdienen würden! Brich du selbst hindurch durch alle die Mauern, die uns von dir und voneinander trennen!</p>
           <p>Tu das auch in dieser Stunde! Gib, daß jetzt nichts Falsches gesagt und nichts falsch verstanden werde! Nimm auch unser armes Beten und Singen geduldig an! Wir machen gewiß schlecht genug, was deine Engel recht machen. Sei uns dennoch gegenwärtig und gnädig! Und tu das auch an allen anderen Orten, wo dein Volk sich an diesem Sonntag versammelt!</p>
           <p>Darum bitten wir dich, indem wir dich im Namen unseres Herrn Jesus, deines lieben Sohnes, und mit seinen Worten anrufen: Unser Vater …!</p>
-          <div type="closer"><salute>Amen.</salute></div>
+          <div type="closer">
+                            <salute>Amen.</salute>
+                        </div>
         </div>
 
           <salute>Meine Brüder und Schwestern!</salute>
       </div>
       <div type="main">
-        <p>Ihr alle habt gewiß schon das Wort «<hi rend="i">Bekehrung</hi>» gehört. «Bekehrung» heißt: Umkehr, Neuanfang, Antritt eines anderen, besseren Weges im Leben eines Menschen. Über dieses Wort und das, was es bedeutet, ist unter den Christenmenschen aller Zeiten viel nachgedacht und geredet worden. Und so könnte es wohl sein, daß auch dem Einen oder Anderen von euch einmal von irgend Jemandem gesagt worden ist: Was du eigentlich nötig hättest, das wäre, daß du dich ernstlich bekehren würdest! Wohl wahr! Das ist es, was wir tatsächlich alle nötig haben: nötiger als alles Andere: daß wir uns bekehren — nicht nur einmal, sondern alle Morgen, alle Tage aufs neue. So hat es der Reformator <persName ref="kbga-actors-261">Martin Luther</persName> gesagt: Gott wolle, daß das Leben eines Christenmenschen eine tägliche Buße sei.<note xml:id="n02"><bibl corresp="kbga-bibls-1321"><author ref="kbga-actors-261">M. Luther</author>, <title level="a">Disputatio pro declaratione virtutis indulgentiarum</title> (<date when="1517">1517</date>), <title level="m">WA</title> 1, 233</bibl>: «<foreign xml:lang="lat">Dominus et magister nostcr Iesus Christus dicendo ‹Penitentiam agite etc.› omnem vitam fidelium penitentiam esse voluit</foreign>» (die erste der 95 Thesen).
+        <p>Ihr alle habt gewiß schon das Wort «<hi rend="i">Bekehrung</hi>» gehört. «Bekehrung» heißt: Umkehr, Neuanfang, Antritt eines anderen, besseren Weges im Leben eines Menschen. Über dieses Wort und das, was es bedeutet, ist unter den Christenmenschen aller Zeiten viel nachgedacht und geredet worden. Und so könnte es wohl sein, daß auch dem Einen oder Anderen von euch einmal von irgend Jemandem gesagt worden ist: Was du eigentlich nötig hättest, das wäre, daß du dich ernstlich bekehren würdest! Wohl wahr! Das ist es, was wir tatsächlich alle nötig haben: nötiger als alles Andere: daß wir uns bekehren — nicht nur einmal, sondern alle Morgen, alle Tage aufs neue. So hat es der Reformator <persName ref="kbga-actors-261">Martin Luther</persName> gesagt: Gott wolle, daß das Leben eines Christenmenschen eine tägliche Buße sei.<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-1321">
+                                <author ref="kbga-actors-261">M. Luther</author>, <title level="a">Disputatio pro declaratione virtutis indulgentiarum</title> (<date when="1517">1517</date>), <title level="m">WA</title> 1, 233</bibl>: «<foreign xml:lang="lat">Dominus et magister nostcr Iesus Christus dicendo ‹Penitentiam agite etc.› omnem vitam fidelium penitentiam esse voluit</foreign>» (die erste der 95 Thesen).
                </note> Und Buße heißt eben: Umkehr, Bekehrung.</p>
-        <p><pb xml:id="p195" ed="pga"/> Recht verstanden ist auch in dem Wort, das wir vorhin gehört haben, von dieser Sache die Rede, läuft Alles, was da von der Liebe und von der Furcht zu lesen ist, darauf hinaus, daß wir uns bekehren dürfen und dann auch sollen und müssen. Aber das steht doch nur verborgen da, sozusagen zwischen den Zeilen, und darum möchte ich erst zum Schluß wieder darauf zurückkommen. Halten wir uns zunächst an das, was offen dasteht!</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p195" ed="pga"/> Recht verstanden ist auch in dem Wort, das wir vorhin gehört haben, von dieser Sache die Rede, läuft Alles, was da von der Liebe und von der Furcht zu lesen ist, darauf hinaus, daß wir uns bekehren dürfen und dann auch sollen und müssen. Aber das steht doch nur verborgen da, sozusagen zwischen den Zeilen, und darum möchte ich erst zum Schluß wieder darauf zurückkommen. Halten wir uns zunächst an das, was offen dasteht!</p>
         <p>«Furcht ist nicht in der Liebe!» <hi rend="i">In der Liebe!</hi> Ist das nicht merkwürdig? Wie wenn das ein Ort, ein Raum, ein Haus wäre, in dem man sein, wohnen, sitzen, stehen und gehen kann! Die Bibel redet auch sonst gerne so. Daß dies und das im Glauben, im Geist, im Herrn, in Christus geschehe oder geschehen müsse, kann man ja da nicht selten lesen. Und mit anderen Worten wird damit wohl jedesmal derselbe Raum, dasselbe Haus beschrieben wie hier, wo es heißt: «in der Liebe».</p>
         <p>Und nun hat dieses Haus offenbar auch eine Hausordnung — ihr wißt ja, was das ist! —, und in ihr steht als erster Satz, als § 1: «Furcht ist nicht in der Liebe.» Mit anderen Worten: Furcht hat in diesem Hause nichts zu suchen. Furcht kommt hier nicht vor, ist hier ausgeschlossen. Man möchte fast an das Plakat im Tram denken: «Rauchen verboten!» oder an das auf manchen Bauplätzen: «Für Unbefugte kein Zutritt!» Aber hier wird ja nicht nur ein Verbot ausgesprochen. Hier heißt es einfach: Furcht <hi rend="i">ist nicht</hi> in der Liebe. Die Liebe — die vollkommene Liebe! <hi rend="i">treibt</hi> die Furcht <hi rend="i">aus</hi>. Etwa so, wie schlechte Luft in einem Zimmer ausgetrieben wird, wenn man Türen und Fenster öffnet und einen tüchtigen Durchzug macht! Oder, um eine schöneres Bild zu gebrauchen: so wie im Theater das Geschwätz der Leute aufhört, wenn der Vorhang aufgeht, oder im Konzert, wenn die Musik einsetzt. «Furcht ist nicht in der Liebe.» Ein guter Satz, nicht wahr, ein guter § 1 in einer guten Hausordnung eines guten Hauses!</p>
         <p>Aber wenn wir ihn jetzt verstehen wollen, müssen wir einen Augenblick innehalten: Was meinen wir eigentlich, wenn wir von «<hi rend="i">Liebe</hi>» reden — von dem nämlich, was wir als Liebe kennen, als menschliche Liebe? Ja, dazu wäre viel, sehr viel zu sagen. Ich will jetzt nur das anzudeuten versuchen, was mit der uns doch wohl irgendwie bekannten menschlichen Liebe im <hi rend="i">besten</hi> Falle gemeint sein könnte. Sie könnte <pb xml:id="p196" ed="pga"/> doch wohl eine schöne, enge Beziehung zwischen Menschen sein: vielleicht auch innerhalb einer ganzen Gruppe von Menschen. Und es möchte sein, daß die Menschen sich in dieser Beziehung zueinander nicht mehr fern noch fremd und gleichgültig oder gar unangenehm wären. Sie haben sich vielleicht kennen, vielleicht sogar verstehen gelernt. Und so haben sie sich gern bekommen: so gern, daß sie nicht mehr ohne einander sein möchten. So suchen sie sich. So begehren sie nach einander. So fehlt ihnen etwas, wenn sie getrennt sind. So möchten sie mit einander, ja für einander da sein. Sie wollen sich nicht für sich behalten. Sie wollen sich Einer dem Anderen anbieten. — Das mag, in ein paar Sätzen beschrieben, im besten Fall die uns bekannte, menschliche Liebe sein.</p>
@@ -163,20 +131,30 @@ Wortlaut der Predigt ist abgedruckt im Anhang dieses Bandes, unten <ref type="pu
         <p>Das geschieht, wenn der Heilige Geist in das Herz eines Menschen hineinredet: solche Entdeckung, solche neue Geburt, solche Bekehrung und damit solches Ende aller Furcht. Denn das sagt der Heilige Geist in unser Herz hinein: «Wache auf, der du schläfst, und stehe auf von den Toten, so wird Christus dir leuchten!» [<ref type="can" subtype="bible" target="Eph.5.14">Eph. 5,14</ref>]. Und weiter: «Fürchte dich nicht, ich erlöse dich, ich rufe dich bei deinem Namen, du bist mein!» [<ref type="can" subtype="bible" target="Jes.43.1">Jes. 43,1</ref>]. Meine Brüder und Schwestern, das schenke uns Gott, daß uns das geschehe! Er schenke es dir und mir, uns allen, heute schon und morgen wieder!</p>
 
 </div>
-<div type="closer"><salute>Amen.</salute></div>
+<div type="closer">
+                    <salute>Amen.</salute>
+                </div>
 <div type="prayer">
-        <p><pb xml:id="p201" ed="pga"/> Lieber Vater im Himmel! Wir danken dir für das ewige, lebendige, rettende Wort, das du in Jesus zu uns Menschen gesagt hast und noch sagst. Erlaube es uns doch nicht, es flüchtig zu hören, und verwehre uns alle Faulheit, ihm zu gehorchen! Laß uns nicht fallen, sondern bleibe mit deinem Trost bei einem Jeden von uns und mit deinem Frieden zwischen einem Jeden von uns und seinen Mitmenschen!</p>
+        <p>
+                        <pb rend="noPipe" xml:id="p201" ed="pga"/> Lieber Vater im Himmel! Wir danken dir für das ewige, lebendige, rettende Wort, das du in Jesus zu uns Menschen gesagt hast und noch sagst. Erlaube es uns doch nicht, es flüchtig zu hören, und verwehre uns alle Faulheit, ihm zu gehorchen! Laß uns nicht fallen, sondern bleibe mit deinem Trost bei einem Jeden von uns und mit deinem Frieden zwischen einem Jeden von uns und seinen Mitmenschen!</p>
         <p>Laß es doch immer wieder ein wenig hell werden in unseren Herzen, in dieser Anstalt und daheim bei den Unsrigen, in dieser Stadt, in unserem Land, auf der ganzen Erde! Du kennst die Irrtümer und Bosheiten, die die heutige Lage wieder einmal von allen Seiten so dunkel und gefährlich machen. Laß doch einen frischen Wind hineinfahren, der wenigstens die dicksten Nebel in den Köpfen derer, die die Welt regieren, aber auch der Völker, die sich von ihnen regieren lassen, und vor allem in den Köpfen der Leute, die die öffentliche Meinung machen, zu zerstreuen vermöchte! Und erbarme dich aller am Leib und in der Seele Kranken, der Vielen, die am Leben leiden, die durch fremde und eigene Schuld verirrt und verwirrt sind — und derer besonders, die dabei keine menschlichen Freunde und Helfer haben! Zeige auch unserer Jugend, was echte Freiheit und rechte Freude ist! Und laß die Alten, die Sterbenden nicht ohne die Hoffnung der Auferstehung und des ewigen Lebens!</p>
         <p>Aber du bist ja der Erste, dem alle unsere Nöte am Herzen liegen, und bist der Einzige, der sie wenden kann. So können und wollen wir unsere Augen nur eben zu dir erheben. Unsere Hilfe kommt von dir, der Himmel und Erde geschaffen hat.</p>
-        <div type="closer"><salute>Amen.</salute></div>
+        <div type="closer">
+                        <salute>Amen.</salute>
+                    </div>
         </div>
 
         <div type="songs">
           <head>Lieder:</head>
           <listBibl type="songs">
-            <bibl corresp="kbga-songs-53" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>76</idno></bibl>: «<title level="a">Gott des Himmels und der Erden</title>» von <author ref="kbga-actors-8754">H. Albert</author>, <biblScope>Strophen 1, 2, 3, 5, 6</biblScope></bibl>
-            <bibl corresp="kbga-songs-104" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>259</idno></bibl>: «<title level="a">Ist Gott für mich, so trete gleich alles wider mich</title>» von <author ref="kbga-actors-131">P. Gerhardt</author>, <biblScope>Strophen 1, 3, 8, 9</biblScope> (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>250</idno>, <biblScope>Str. 1, 3, 11, 12</biblScope></bibl>)</bibl>
-            <bibl corresp="kbga-songs-55" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>346</idno></bibl>: «<title level="a">Lob Gott getrost mit Singen</title>» von <author ref="kbga-actors-8755">M. Weiße</author>, <biblScope>Strophe 2</biblScope> (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>205</idno>, <biblScope>Str. 3</biblScope></bibl>)</bibl>
+            <bibl corresp="kbga-songs-53" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>76</idno></bibl>: «<title level="a">Gott des Himmels und der Erden</title>» von <author ref="kbga-actors-8754">H. Albert</author>, <biblScope>Strophen 1, 2, 3, 5, 6</biblScope></bibl>
+            <bibl corresp="kbga-songs-104" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>259</idno></bibl>: «<title level="a">Ist Gott für mich, so trete gleich alles wider mich</title>» von <author ref="kbga-actors-131">P. Gerhardt</author>, <biblScope>Strophen 1, 3, 8, 9</biblScope> (= <bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>250</idno>, <biblScope>Str. 1, 3, 11, 12</biblScope></bibl>)</bibl>
+            <bibl corresp="kbga-songs-55" type="song">
+                            <bibl corresp="kbga-bibls-1087">Nr. <idno>346</idno></bibl>: «<title level="a">Lob Gott getrost mit Singen</title>» von <author ref="kbga-actors-8755">M. Weiße</author>, <biblScope>Strophe 2</biblScope> (= <bibl corresp="kbga-bibls-1086">
+                                <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>205</idno>, <biblScope>Str. 3</biblScope></bibl>)</bibl>
           </listBibl>
           <!--<item><ref type="pub" subtype="bib1-ein1913" target="b0076">Nr. 76</ref>: «Gott des Himmels und der Erden» von <persName ref="kbga-actors-8754">H. Albert</persName>, Strophen 1, 2, 3, 5, 6</item>
           <item><ref type="pub" subtype="bib1-ein1933" target="b0259">Nr. 259</ref>: «Ist Gott für mich, so trete gleich alles wider mich» von <persName ref="kbga-actors-131">P. Gerhardt</persName>, Strophen 1, 3, 8, 9 (= <bibl><title level="m">EKG</title> 250, Str. 1, 3, 11, 12</bibl>)</item>

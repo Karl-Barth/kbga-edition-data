@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 103</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 11. November 1952 – 15. November 1951</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1105 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1105 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 167–191.</title>
       </titleStmt>
       <editionStmt>
@@ -51,7 +51,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 9125.285" type="source">A (Vorlage der Edition): Bultmann, Rudolf, Rudolf Bultmann an Karl Barth, 11. November 1952 – 15. November 1951. <idno ref="https://kba.karl-barth.ch/objects/80296">KBA 9125.285</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Bultmann, Rudolf, Rudolf Bultmann an Karl Barth, 11. November 1952 – 15. November 1951. <ref target="https://kba.karl-barth.ch/objects/80296">KBA 9125.285</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -72,7 +72,7 @@
       <correspDesc>
         <correspAction type="sent">
           <persName ref="kbga-actors-512">Bultmann, Rudolf</persName>
-          <placeName key="kbga-places-41">Marburg</placeName>
+          <placeName ref="kbga-places-41">Marburg</placeName>
           <date period="1952-11-11/1951-11-15">11. November 1952 – 15. November 1951</date>
         </correspAction>
         <correspAction type="received">
@@ -86,48 +86,8 @@
         </correspContext>
       </correspDesc>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:00+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:00+02:00</change>
+      <change when="2022-12-23T11:07:34+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:34+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -137,38 +97,56 @@
         <head>103</head>
         <opener>
           Bultmann
-          <dateline><placeName ref="kbga-places-41">Marburg</placeName>, <date when-custom="1952-11-11/1952-11-15">11.-15.XI.1952</date></dateline>
+          <dateline>
+                        <placeName ref="kbga-places-41">Marburg</placeName>, <date when-custom="1952-11-11/1952-11-15">11.-15.XI.1952</date>
+                    </dateline>
           <salute>Lieber Herr <persName ref="kbga-actors-2151">Barth</persName>!</salute>
         </opener>
-        <p>Zuerst war ich in Versuchung, Ihr <bibl corresp="kbga-bibls-2083">Figaro-Zitat</bibl><note xml:id="n01"><p>«O Engel, verzeih’ mir…! (Figaros Hochzeit, 2. Finale) Vom Verf.»;
-                            handschriftliche Widmung <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-512">Bultmann</persName> in seiner Schrift: <bibl corresp="kbga-bibls-1273"><title level="a">Rudolf Bultmann. Ein Versuch, ihn zu verstehen</title> (<title level="m"><abbr ref="kbga-abbreviations-396">ThSt</abbr></title> <biblScope unit="volume">34</biblScope>), <pubPlace>Zollikon-Zürich</pubPlace>
+        <p>Zuerst war ich in Versuchung, Ihr <bibl corresp="kbga-bibls-2083">Figaro-Zitat</bibl><note xml:id="n01">
+                        <p>«O Engel, verzeih’ mir…! (Figaros Hochzeit, 2. Finale) Vom Verf.»;
+                            handschriftliche Widmung <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-512">Bultmann</persName> in seiner Schrift: <bibl corresp="kbga-bibls-1273">
+                                <title level="a">Rudolf Bultmann. Ein Versuch, ihn zu verstehen</title> (<title><abbr ref="kbga-abbreviations-396">ThSt</abbr></title> <biblScope unit="volume">34</biblScope>), <pubPlace>Zollikon-Zürich</pubPlace>
                                 <date when="1952">1952</date>.</bibl> Das Heft wurde in 3. Aufl. zusammen mit
-                            der 2. Aufl. von <bibl corresp="kbga-bibls-1274"><author ref="kbga-actors-2151">Barths</author> Schrift <title level="a">Christus und Adam nach Röm. 5. Ein Beitrag zur Frage
-                            nach dem Menschen und der Menschheit</title> (<title level="m"><abbr ref="kbga-abbreviations-396">ThSt</abbr></title> <biblScope unit="volume">35</biblScope>), <pubPlace>Zürich</pubPlace> <date when="1964">1964</date></bibl>, nachgedruckt. Die Seitenverweise in <persName ref="kbga-actors-512">Bultmanns</persName> Brief beziehen sich auf
+                            der 2. Aufl. von <bibl corresp="kbga-bibls-1274">
+                                <author ref="kbga-actors-2151">Barths</author> Schrift <title level="a">Christus und Adam nach Röm. 5. Ein Beitrag zur Frage
+                            nach dem Menschen und der Menschheit</title> (<title><abbr ref="kbga-abbreviations-396">ThSt</abbr></title> <biblScope unit="volume">35</biblScope>), <pubPlace>Zürich</pubPlace> <date when="1964">1964</date></bibl>, nachgedruckt. Die Seitenverweise in <persName ref="kbga-actors-512">Bultmanns</persName> Brief beziehen sich auf
                             die 1. Aufl. von <date when="1952">1952</date>; in eckigen Klammern sind die
                             entsprechenden Seiten der 3. Aufl. von <date when="1964">1964</date> genannt. Im
                             Zusammenhang mit <persName ref="kbga-actors-2151">Barths</persName> Versuch, Bultmann zu verstehen, s. auch <persName ref="kbga-actors-2151">Barths</persName>
-                            Brief vom <date when="1947-05-29">29.5.1947</date> an Landesbischof <persName ref="kbga-actors-434">Wurm</persName>, <placeName ref="kbga-places-60">Stuttgart</placeName>: <ref type="pub" target="1140.xml">Anh. 28</ref>. Vgl. auch <ref type="pub" target="1137.xml">Anh. 25</ref>–<ref type="pub" target="1139.xml">27</ref> und <ref type="pub" target="1141.xml">29</ref>
-                            sowie das Vorwort zu <bibl corresp="kbga-bibls-2"><abbr ref="kbga-abbreviations-141">KD</abbr>   <biblScope unit="volume">IV/</biblScope>1.</bibl>
-                        </p><p>In diesem Brief <persName ref="kbga-actors-512">Bultmanns</persName> sind
+                            Brief vom <date when="1947-05-29">29.5.1947</date> an Landesbischof <persName ref="kbga-actors-434">Wurm</persName>, <placeName ref="kbga-places-60">Stuttgart</placeName>: <ref type="pub" target="1140">Anh. 28</ref>. Vgl. auch <ref type="pub" target="1137">Anh. 25</ref>–<ref type="pub" target="1139">27</ref> und <ref type="pub" target="1141">29</ref>
+                            sowie das Vorwort zu <bibl corresp="kbga-bibls-2">
+                                <abbr ref="kbga-abbreviations-141">KD</abbr>   <biblScope unit="volume">IV/</biblScope>1.</bibl>
+                        </p>
+                        <p>In diesem Brief <persName ref="kbga-actors-512">Bultmanns</persName> sind
                             viele Sätze bzw. Absätze von <persName ref="kbga-actors-2151">Barths</persName> (oder eines Mitlesers?) Hand mit
                             Unterstreichungen bzw. Randanstreichungen markiert. Auf entsprechende
                             Hinweise in den Anmerkungen wird hier — im Unterschied zur 1. Auflage
-                            dieses Bandes — verzichtet.</p></note> mit einem solchen aus dem Schluß des <rs type="person" ref="kbga-actors-281">Don Giovanni</rs> zu erwidern: Komthur (<persName ref="kbga-actors-2151">K.B.</persName>): «<foreign xml:lang="ita">Pentiti!</foreign>» Don Giovanni (<persName ref="kbga-actors-512">R.B.</persName>): «<foreign xml:lang="ita">No!</foreign>» Aber ich widerstand, um Sie <pb xml:id="p168" ed="pga"/> nicht in Versuchung zu führen, mir als Komthur zu antworten: «<foreign xml:lang="ita">Ah, tempo più
+                            dieses Bandes — verzichtet.</p>
+                    </note> mit einem solchen aus dem Schluß des <rs type="person" ref="kbga-actors-281">Don Giovanni</rs> zu erwidern: Komthur (<persName ref="kbga-actors-2151">K.B.</persName>): «<foreign xml:lang="ita">Pentiti!</foreign>» Don Giovanni (<persName ref="kbga-actors-512">R.B.</persName>): «<foreign xml:lang="ita">No!</foreign>» Aber ich widerstand, um Sie <pb xml:id="p168" ed="pga"/> nicht in Versuchung zu führen, mir als Komthur zu antworten: «<foreign xml:lang="ita">Ah, tempo più
                     non v’è!</foreign>» So entschloß ich mich denn, Ihnen ausführlich zu antworten, wenngleich
                     im Gefühl des Zweifels, ob es mir jetzt gelingen möge, mich Ihnen verständlich
                     zu machen, da ich doch der Meinung bin, daß die Antworten auf Ihre Fragen im
-                    Grunde schon in meinem Beitrag zu <bibl corresp="kbga-bibls-1271">Ker. u. Myth. II</bibl><note xml:id="n02"><bibl corresp="kbga-bibls-1265"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 179–208</biblScope>.</bibl></note> gegeben sind.</p>
+                    Grunde schon in meinem Beitrag zu <bibl corresp="kbga-bibls-1271">Ker. u. Myth. II</bibl><note xml:id="n02">
+                        <bibl corresp="kbga-bibls-1265">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 179–208</biblScope>.</bibl>
+                    </note> gegeben sind.</p>
         <p>Ihrer Feststellung (oder Beschwerde) gegenüber, daß es so schwer sei, mich zu
-                        verstehen<note xml:id="n03"><bibl corresp="kbga-bibls-1273"><author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. Anm. 1),<biblScope> S. 3f.</biblScope> (<edition rend="normal">3. Aufl.</edition>, <biblScope>S. 9f.</biblScope>).</bibl></note>, könnte ich zunächst fragen. «Verstehe ich mich denn selbst?» Denn
+                        verstehen<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-1273">
+                            <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. Anm. 1),<biblScope> S. 3f.</biblScope> (<edition rend="normal">3. Aufl.</edition>, <biblScope>S. 9f.</biblScope>).</bibl>
+                    </note>, könnte ich zunächst fragen. «Verstehe ich mich denn selbst?» Denn
                     jedenfalls wußte ich, als ich mich auf den Weg der Entmythologisierung
                         machte<note xml:id="n04">Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> programmatischen Vortrag von <date when="1941">1941</date>:
-                            <bibl corresp="kbga-bibls-1275"><title level="a">Neues Testament und Mythologie. Das Problem der
+                            <bibl corresp="kbga-bibls-1275">
+                            <title level="a">Neues Testament und Mythologie. Das Problem der
                                     Entmythologisierung der neutestamentlichen Verkündigung</title>,
-                                in: <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Offenbarung und Heilsgeschehen</title> (<title level="m"><abbr ref="kbga-abbreviations-23">BEvTh</abbr></title> <biblScope unit="volume">7</biblScope>), <pubPlace>München</pubPlace>
-                                <date when="1941">1941</date>, <biblScope>S. 27–69</biblScope></bibl>; Nachdruck ( = 2. Aufl. der <date when="1941">1941</date> erschienenen Fassung
-                        hrsg. von <bibl corresp="kbga-bibls-1276"><persName ref="kbga-actors-627">E. Jüngel</persName> (<title level="m"><abbr ref="kbga-abbreviations-23">BEvTh</abbr></title> <biblScope unit="volume">96</biblScope>), <pubPlace>München</pubPlace>
-                            <date when="1985">1985</date> (<date when="1988">1988</date><edition>3</edition>)</bibl>, mit Korrekturen der Druckfehler der Textfassung in: <bibl corresp="kbga-bibls-1272"><abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 15–53</biblScope></bibl> bzw. <bibl corresp="kbga-bibls-1272"><abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition>2</edition>, <date when="1967">1967</date><edition>5</edition>), <biblScope>S. 15–48</biblScope>.</bibl> Die Literatur über die
+                                in: <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Offenbarung und Heilsgeschehen</title> (<title><abbr ref="kbga-abbreviations-23">BEvTh</abbr></title> <biblScope unit="volume">7</biblScope>), <pubPlace>München</pubPlace>
+                                <date when="1941">1941</date>, <biblScope>S. 27–69</biblScope></bibl>; Nachdruck (= 2. Aufl. der <date when="1941">1941</date> erschienenen Fassung
+                        hrsg. von <bibl corresp="kbga-bibls-1276">
+                            <persName ref="kbga-actors-627">E. Jüngel</persName> (<title><abbr ref="kbga-abbreviations-23">BEvTh</abbr></title> <biblScope unit="volume">96</biblScope>), <pubPlace>München</pubPlace>
+                            <date when="1985">1985</date> (<date when="1988">1988</date><edition rend="sup">3</edition>)</bibl>, mit Korrekturen der Druckfehler der Textfassung in: <bibl corresp="kbga-bibls-1272">
+                            <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 15–53</biblScope></bibl> bzw. <bibl corresp="kbga-bibls-1272">
+                            <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition rend="sup">2</edition>, <date when="1967">1967</date><edition rend="sup">5</edition>), <biblScope>S. 15–48</biblScope>.</bibl> Die Literatur über die
                         Entmythologisierungsdiskussion ist inzwischen unübersehbar geworden und
                         erscheint in mehreren Sprachen.</note>, noch nicht, wohin der Weg mich
                     führen würde, wenngleich ich seiner Richtung gewiß zu sein glaubte.</p>
@@ -179,8 +157,14 @@
                     Wirklichkeit, Sein und Geschehen denken und reden, sondern auch wir Theologen in
                     unserm alltäglichen Leben. Auf eine ontologische Besinnung kommt es also an, und
                     ich meine, daß das etwa in dem Aufsatz über das christologische Bekenntnis des
-                    ökumenischen Rates<note xml:id="n05"><bibl corresp="kbga-bibls-1277"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das christologische Bekenntnis des Ökumenischen Rates</title>,
-                                in: <title level="j">Schweizerische Theologische Umschau</title>, <biblScope unit="issue">Jg. 21 (<date when="1951">1951</date>)</biblScope>, <biblScope>S. 25–36</biblScope></bibl>; zugleich in: <bibl corresp="kbga-bibls-1278"><title level="j"><abbr ref="kbga-abbreviations-98">EvTh</abbr></title>, <biblScope unit="issue">Jg. 11 (<date from="1951" to="1952">1951/52</date>)</biblScope>, <biblScope>S. 1–13</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV II</abbr>, <biblScope>S. 246–261</biblScope></bibl>).</note> und der sog. «Abschließenden Stellungnahme»<note xml:id="n06">«Abschließende Stellungnahme <persName ref="kbga-actors-512">Bultmanns</persName>», Kapitelüberschrift S. 176 vor: <bibl corresp="kbga-bibls-1265"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, in: <abbr ref="kbga-abbreviations-157">KuM II</abbr> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 179–208</biblScope>.</bibl></note> (die Überschrift stammt nicht von mir!) zum Vorschein kommt.</p>
+                    ökumenischen Rates<note xml:id="n05">
+                        <bibl corresp="kbga-bibls-1277">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das christologische Bekenntnis des Ökumenischen Rates</title>,
+                                in: <title level="j">Schweizerische Theologische Umschau</title>, <biblScope unit="issue">Jg. 21 (<date when="1951">1951</date>)</biblScope>, <biblScope>S. 25–36</biblScope></bibl>; zugleich in: <bibl corresp="kbga-bibls-1278">
+                            <title><abbr ref="kbga-abbreviations-98">EvTh</abbr></title>, <biblScope unit="issue">Jg. 11 (<date from="1951" to="1952">1951/52</date>)</biblScope>, <biblScope>S. 1–13</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                            <abbr ref="kbga-abbreviations-117">GuV II</abbr>, <biblScope>S. 246–261</biblScope></bibl>).</note> und der sog. «Abschließenden Stellungnahme»<note xml:id="n06">«Abschließende Stellungnahme <persName ref="kbga-actors-512">Bultmanns</persName>», Kapitelüberschrift S. 176 vor: <bibl corresp="kbga-bibls-1265">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zum Problem der Entmythologisierung</title>, in: <abbr ref="kbga-abbreviations-157">KuM II</abbr> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 179–208</biblScope>.</bibl>
+                    </note> (die Überschrift stammt nicht von mir!) zum Vorschein kommt.</p>
         <p>Gehört solche ontologische Besinnung wirklich zum Geschäft der <pb xml:id="p169" ed="pga"/> Theologie — und daß es so sei, haben Ihre Fragen mir nicht
                     zweifelhaft gemacht, sondern nur bestätigt —, so folgt daraus auch, daß sich die
                     Theologie mit der Philosophie befasse, und zwar heute mit eben der Philosophie,
@@ -201,7 +185,9 @@
                     Ich bin der Überzeugung, daß das nur möglich ist, wenn die Bindung der
                     Verkündigung (in der Bibel wie in der traditionellen kirchlichen Predigt) an ein
                     vergangenes Weltbild radikal gelöst wird. Letztlich von der Bindung an ein
-                    Weltbild des objektivierenden Denkens überhaupt (vgl. <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">K. u. M.</abbr><hi rend="i">II</hi>, S. 187f., 207</bibl>); aber zunächst kommt es auf das erste an, auf die Befreiung vom
+                    Weltbild des objektivierenden Denkens überhaupt (vgl. <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">K. u. M.</abbr>
+                        <hi rend="i">II</hi>, S. 187f., 207</bibl>); aber zunächst kommt es auf das erste an, auf die Befreiung vom
                     mythologischen Weltbild der Bibel, weil dieses für den Menschen von heute ein
                     völlig fremdes geworden ist und weil die Bindung an dieses ihm einen Anstoß —
                     und zwar einen falschen — bereitet und ihm das Verständnis verschließt. Die
@@ -239,8 +225,13 @@
                     nicht wissen, wie stark man das <hi rend="i">noch</hi> nicht betonen muß. Aber
                     ich meine zu sehen, daß auch in ihr der Existentialismus an Bedeutung gewinnt,
                     was gewiß — wenigstens zu einem Teile — dem Einfluß emigrierter deutscher Philosophen zu danken ist. Es
-                    ist übrigens doch interessant, daß <bibl corresp="kbga-bibls-1279"><author ref="kbga-actors-122">Erich
-                        Franks</author> «<title level="a" xml:lang="eng">Philosophical understanding and religious truth</title>»</bibl><note xml:id="n07"><bibl corresp="kbga-bibls-1279"><pubPlace ref="kbga-places-40">London</pubPlace> <date when="1945">1945</date> u. ö. (deutsch: zuerst <date when="1949">1949</date>).</bibl></note> im Union Theological Seminary<note xml:id="n08"><placeName ref="kbga-places-47">New York</placeName>.</note> zu den Büchern
+                    ist übrigens doch interessant, daß <bibl corresp="kbga-bibls-1279">
+                        <author ref="kbga-actors-122">Erich
+                        Franks</author> «<title level="a" xml:lang="eng">Philosophical understanding and religious truth</title>»</bibl><note xml:id="n07">
+                        <bibl corresp="kbga-bibls-1279">
+                            <pubPlace ref="kbga-places-40">London</pubPlace> <date when="1945">1945</date> u. ö. (deutsch: zuerst <date when="1949">1949</date>).</bibl>
+                    </note> im Union Theological Seminary<note xml:id="n08">
+                        <placeName ref="kbga-places-47">New York</placeName>.</note> zu den Büchern
                     gehört, deren Lektüre für bestimmte Semester der theologischen Studenten
                     vorgeschrieben ist. Im Union wirken <persName ref="kbga-actors-297">Reinh.
                         Niebuhr</persName> und <persName ref="kbga-actors-406">Tillich</persName>
@@ -252,22 +243,28 @@
                     theologischen Schulen, in denen ich 1951 zu Gaste war<note xml:id="n09">Zu
                             <persName ref="kbga-actors-512">Bultmanns</persName>
                         <placeName ref="kbga-places-62">USA</placeName>-Reise,
-                            <date from="1951-10-02" to="1951-12-20">2.10.-20.12.1951</date>, s. <ref type="pub" target="1142.xml">Anh. 30</ref>, <ref type="pub" target="1143.xml">31</ref> und <ref type="pub" target="1145.xml">33</ref>.</note>, wollten über das Thema der
+                            <date from="1951-10-02" to="1951-12-20">2.10.-20.12.1951</date>, s. <ref type="pub" target="1142">Anh. 30</ref>, <ref type="pub" target="1143">31</ref> und <ref type="pub" target="1145">33</ref>.</note>, wollten über das Thema der
                     Entmythologisierung hören, und vielleicht ist es ein Symptom für das amerikanische Interesse an diesem Thema, daß
                     mich drei Verleger angingen, ihnen meine Vorlesungen zum Druck zu
-                        überlassen.<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-1280"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="m" xml:lang="eng">Jesus Christ and Mythology</title>, <pubPlace>New York</pubPlace> <date when="1958">1958</date></bibl>; deutsche Übersetzung:
-                            <bibl corresp="kbga-bibls-1281"><title level="m">Jesus Christus und die Mythologie. Das Neue
+                        überlassen.<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-1280">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="m" xml:lang="eng">Jesus Christ and Mythology</title>, <pubPlace>New York</pubPlace> <date when="1958">1958</date></bibl>; deutsche Übersetzung:
+                            <bibl corresp="kbga-bibls-1281">
+                            <title level="m">Jesus Christus und die Mythologie. Das Neue
                                     Testament im Licht der Bibelkritik</title> (<title level="s">Stundenbuch 47</title>),
                                     <pubPlace>Hamburg</pubPlace>
-                                <date when="1964">1964</date> u. ö.</bibl></note> Für mich freilich war es bedeutsamer, die Aufgeschlossenheit der
+                                <date when="1964">1964</date> u. ö.</bibl>
+                    </note> Für mich freilich war es bedeutsamer, die Aufgeschlossenheit der
                     Studenten, ihre Bewegtheit durch die Existenzfrage, zu sehen.</p>
         <p>Nun, zu diesem Exkurs haben Sie durch Ihre Bemerkungen S. 38f. [45f.] Anlaß
                     gegeben. Es soll ja im Grunde nichts weiter gesagt werden, als daß die Situation
                     des Menschen von heute nach einer existentialen Interpretation der Verkündigung
                     verlangt. Eben dieses Problem scheinen Sie nicht so zu sehen wie ich, und
                     deshalb werde ich Ihnen offenbar unverständlich. Ganz zu schweigen von <persName ref="kbga-actors-408">H. Traub</persName>, der das Problem überhaupt nicht
-                    sieht! Von seiner Schrift<note xml:id="n11"><bibl corresp="kbga-bibls-1282"><author ref="kbga-actors-408">H. Traub</author>, <title level="m">Anmerkungen und Fragen zur neutestamentlichen Hermeneutik und
-                                    zum Problem der Entmythologisierung</title>, <pubPlace>Neukirchen</pubPlace> <date when="1952">1952</date>.</bibl></note> bin ich geradezu entsetzt. In welcher Welt oder besser: in welcher
+                    sieht! Von seiner Schrift<note xml:id="n11">
+                        <bibl corresp="kbga-bibls-1282">
+                            <author ref="kbga-actors-408">H. Traub</author>, <title level="m">Anmerkungen und Fragen zur neutestamentlichen Hermeneutik und
+                                    zum Problem der Entmythologisierung</title>, <pubPlace>Neukirchen</pubPlace> <date when="1952">1952</date>.</bibl>
+                    </note> bin ich geradezu entsetzt. In welcher Welt oder besser: in welcher
                     Weltenferne lebt dieser Mensch eigentlich?</p>
         <p>Nun aber muß ich auf einzelne Ihrer Fragen eingehen, und da es mir nicht möglich
                     ist, eine systematische Abhandlung zu schreiben, bitte ich um die Erlaubnis,
@@ -291,7 +288,8 @@
                     deutlich zu machen, und so wird meine Auslegung (falls sie einigermaßen gelingt)
                         <hi rend="i">indirekt</hi> Predigt sein.</p>
         <p>Ihr Einwand (S. 6) [12] dagegen, daß ein Verstehen des NT ein Sichselbst-verstehen sei, beruht doch offenbar auf einem
-                    Mißverständnis des Begriffes «Selbstverständnis» (vgl. <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 201f</biblScope>.</bibl>). Ist dieser Begriff richtig verstanden, so dürfte klar sein,
+                    Mißverständnis des Begriffes «Selbstverständnis» (vgl. <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 201f</biblScope>.</bibl>). Ist dieser Begriff richtig verstanden, so dürfte klar sein,
                     daß «sich selbst unbegreiflich werden» gerade ein Modus existentiellen
                     Selbstverständnisses ist. Zu diesem gehört es freilich durchaus nicht, daß man
                     von sich selbst etwas zu «berichten» weiß. «Berichten» kann man von ihm
@@ -306,7 +304,10 @@
                     historischen Gestalt wirklich <hi rend="i">geschichtliche</hi> Erkenntnis ist,
                     so vollzieht sich schon <hi rend="i">in ihr</hi> die «Übersetzung» in die
                     Sprache und Begrifflichkeit des Auslegers. Das meinte ich in «Zum Problem der
-                        Hermeneutik»<note xml:id="n12"><bibl corresp="kbga-bibls-1268"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das Problem der Hermeneutik</title>, in: <title level="j"><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 47 (1950)</biblScope>, <biblScope>S. 47–69</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV II</abbr>, S. 211–235</bibl>), bes. S. 65ff. (= S. 231ff.).</note> gezeigt zu haben. Das «Wirklich
+                        Hermeneutik»<note xml:id="n12">
+                        <bibl corresp="kbga-bibls-1268">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das Problem der Hermeneutik</title>, in: <title><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 47 (1950)</biblScope>, <biblScope>S. 47–69</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                            <abbr ref="kbga-abbreviations-117">GuV II</abbr>, S. 211–235</bibl>), bes. S. 65ff. (= S. 231ff.).</note> gezeigt zu haben. Das «Wirklich
                     zuerst … oder nicht doch zuerst…» (S. 7 unten) [14] ist daher für mich eine
                     unmögliche Antithese. Und daher lehne ich auch das «zuerst» und «dann» (S. 8) [14] ab; es sei denn, daß <pb xml:id="p173" ed="pga"/> die «Übersetzungsarbeit»
                     als praktische Applikatio verstanden wäre, während sie, so wie ich sie verstehe,
@@ -316,9 +317,11 @@
                     höre ich selbst?» Als ein mir <hi rend="i">begegnendes</hi> Wort kann ich das
                         NT doch nur verstehen, wenn ich es als in meine
                     Existenz gesprochenes verstehe, und indem ich verstehe, übersetze ich schon. So
-                    kann ich zu Ihrem Protest (S. 8) [15] gegen die Identität von Verstehen ( =
+                    kann ich zu Ihrem Protest (S. 8) [15] gegen die Identität von Verstehen (=
                     Begegnenlassen) und Übersetzen entweder nur sagen: «<foreign xml:lang="lat">oleum et operam
-                        perdidi</foreign>»<note xml:id="n13"><bibl corresp="kbga-bibls-1283"><author ref="kbga-actors-323">Plautus</author>, <title level="m">Poenulus</title> <biblScope unit="volume">I 2</biblScope>, <biblScope>119</biblScope></bibl>; Sprichwort für vergebliche Mühe.</note>, oder ihn so interpretieren,
+                        perdidi</foreign>»<note xml:id="n13">
+                        <bibl corresp="kbga-bibls-1283">
+                            <author ref="kbga-actors-323">Plautus</author>, <title level="m">Poenulus</title> <biblScope unit="volume">I 2</biblScope>, <biblScope>119</biblScope></bibl>; Sprichwort für vergebliche Mühe.</note>, oder ihn so interpretieren,
                     daß allerdings <hi rend="i">glaubendes</hi> Verstehen und Übersetzen nicht
                     identisch sind. Denn wohl sind identisch das Verstehen der im Text an mich
                     gerichteten Entscheidungsfrage und das Übersetzen. Das glaubende Ja jedoch ist,
@@ -327,20 +330,31 @@
         <p>Zu S. 10 [15]: Aus der formgeschichtlichen Arbeit ist die Frage der Übersetzung
                     deshalb erwachsen, weil aus ihr unvermeidlich die Verlegenheit erwächst zu
                     sagen, welches denn eigentlich das Kerygma sei. Es liegt ja nicht eindeutig in
-                    bestimmten Sätzen vor. (Dafür darf ich an meinen Beitrag zur <persName ref="kbga-actors-138">Goguel</persName>-Festschrift<note xml:id="n14"><bibl corresp="kbga-bibls-1285"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das Problem des Verhältnisses von Theologie und Verkündigung im Neuen Testament</title>, in: <title level="m">Aux Sources de la Tradition Chrétienne</title> (Festschrift für <persName ref="kbga-actors-138">M. Goguel</persName>), <pubPlace>Neuchâtel</pubPlace>-<pubPlace>Paris</pubPlace>
-                                <date when="1950">1950</date>, <biblScope>S. 32–42</biblScope>.</bibl></note> erinnern).</p>
+                    bestimmten Sätzen vor. (Dafür darf ich an meinen Beitrag zur <persName ref="kbga-actors-138">Goguel</persName>-Festschrift<note xml:id="n14">
+                        <bibl corresp="kbga-bibls-1285">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Das Problem des Verhältnisses von Theologie und Verkündigung im Neuen Testament</title>, in: <title level="m">Aux Sources de la Tradition Chrétienne</title> (Festschrift für <persName ref="kbga-actors-138">M. Goguel</persName>), <pubPlace>Neuchâtel</pubPlace>-<pubPlace>Paris</pubPlace>
+                                <date when="1950">1950</date>, <biblScope>S. 32–42</biblScope>.</bibl>
+                    </note> erinnern).</p>
         <p>Zu S. 11 [17f.]: Kann das große und eigene Thema der Theologie, die Botschaft der
                     Bibel, je anders dargestellt werden (und kommt die Botschaft im NT selbst anders zur Darstellung) als in <hi rend="i">Auseinandersetzung</hi>, als in einer bestimmten Antithese? Sie haben selbst einmal gesagt, das
-                    (definitiv formulierte) Dogma sei eine eschatologische Größe.<note xml:id="n15">Vgl. <bibl corresp="kbga-bibls-1050"><author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Die christliche Dogmatik im Entwurf</title> (s. <ref type="pub" target="1045.xml#fn_n04">Nr. 43, Anm. 4</ref>),
+                    (definitiv formulierte) Dogma sei eine eschatologische Größe.<note xml:id="n15">Vgl. <bibl corresp="kbga-bibls-1050">
+                            <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Die christliche Dogmatik im Entwurf</title> (s. <ref type="pub" target="1045#fn_n04">Nr. 43, Anm. 4</ref>),
                                     <pubPlace>München</pubPlace>
                                 <date when="1927">1927</date>, <biblScope>S. 112</biblScope></bibl> = Neuausgabe
-                                    (<bibl corresp="kbga-bibls-1051"><title level="s">Gesamtausgabe, Abt. II</title>), <pubPlace>Zürich</pubPlace>
-                                <date when="1982">1982</date>, <biblScope><ref type="pub-" target="../vol-14/p150#p150">S. 150</ref></biblScope></bibl> (Anfang des Leitsatzes zu § 8): «Dogmatik ist die methodische
+                                    (<bibl corresp="kbga-bibls-1051">
+                            <title level="s">Gesamtausgabe, Abt. II</title>), <pubPlace>Zürich</pubPlace>
+                                <date when="1982">1982</date>, <biblScope>
+                                <ref type="pub-" target="../volume/14/p150#p150">S. 150</ref></biblScope></bibl> (Anfang des Leitsatzes zu § 8): «Dogmatik ist die methodische
                         Besinnung vom Menschenwort der Predigt auf das in ihr verkündete Wort
                         Gottes. Diese Besinnung geschieht durch kritische Erläuterung der Beziehung
                         des Predigtwortes zu der in der Schrift bezeugten Offenbarung. Der Begriff
                         des Dogmas bezeichnet die endgültig erkannte Wahrheit dieser Beziehung: er
-                        ist ein eschatologischer Begriff.» Vgl. <bibl corresp="kbga-bibls-1050"><title>a. a. O.</title>, <biblScope>S. 123</biblScope></bibl> = Neuausgabe, <bibl corresp="kbga-bibls-1051"><biblScope><ref type="pub-" target="../vol-14/p162#p162">S. 162</ref></biblScope></bibl>; <bibl corresp="kbga-bibls-2"><abbr ref="kbga-abbreviations-141">KD</abbr> <biblScope unit="volume">I/1</biblScope>, <biblScope>S. 284</biblScope>.</bibl></note> Das <pb xml:id="p174" ed="pga"/> heißt doch: es gibt immer nur
+                        ist ein eschatologischer Begriff.» Vgl. <bibl corresp="kbga-bibls-1050">
+                            <title>a. a. O.</title>, <biblScope>S. 123</biblScope></bibl> = Neuausgabe, <bibl corresp="kbga-bibls-1051">
+                            <biblScope>
+                                <ref type="pub-" target="../volume/14/p162#p162">S. 162</ref></biblScope></bibl>; <bibl corresp="kbga-bibls-2">
+                            <abbr ref="kbga-abbreviations-141">KD</abbr> <biblScope unit="volume">I/1</biblScope>, <biblScope>S. 284</biblScope>.</bibl>
+                    </note> Das <pb xml:id="p174" ed="pga"/> heißt doch: es gibt immer nur
                     jeweilige, vorläufige Formulierungen. Daß die Botschaft jeweils dem
                     Seinsverständnis entsprechend neu formuliert<note xml:id="n16">Mskr.:
                         «formuliert werden.»</note> («übersetzt») werden muß und daß sie jeweils nur
@@ -356,7 +370,8 @@
                     sein, daß sie das Thema falsch verstand, daß sie sich nämlich nicht mit dem <hi rend="i">Selbstverständnis</hi> des modernen Menschen auseinandersetzte, sondern mit seinen <hi rend="i">wissenschaftlichen Objektivationen</hi>, — weswegen sie denn auch das NT nicht auf das Selbstverständnis hin befragte.</p>
         <p>Ad III.</p>
         <p>(S. 13, Z. 8 v. o. [19, Z. 14 v. o.]: Druckfehler? Muß es statt «Ergeben» nicht
-                    «Erheben» heißen?)<note xml:id="n17"><persName ref="kbga-actors-2151">Barth</persName> am Rande: «nein».</note>
+                    «Erheben» heißen?)<note xml:id="n17">
+                        <persName ref="kbga-actors-2151">Barth</persName> am Rande: «nein».</note>
                 </p>
         <p>Zu S. 13 [19]: Gewiß fängt die Botschaft des NT nicht
                     mit einer Explikation des als Hörer der Botschaft sich selbst erfahrenden
@@ -435,11 +450,13 @@
                     und als solcher begegnet er nur im Kerygma. Wenn er nicht im Geschehen (des
                     Kerygmas und des Glaubens) präsent wäre, so wäre er eine mythische Gestalt. Und
                     eben deshalb will ich Christologie und Soteriologie als Einheit verstehen. Wohl
-                    geht Christus als Gottes Tat meinem Glauben voraus. Das Kerygma ist ja <hi rend="i">Anrede</hi> (<foreign xml:lang="lat">verbum externum</foreign>, vgl. <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 204</biblScope></bibl>). Aber
+                    geht Christus als Gottes Tat meinem Glauben voraus. Das Kerygma ist ja <hi rend="i">Anrede</hi> (<foreign xml:lang="lat">verbum externum</foreign>, vgl. <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 204</biblScope></bibl>). Aber
                     daraus folgt doch nicht, daß in der theologischen Explikation die Christologie
                     der Soteriologie vorausgehen müßte.</p>
        
-        <p><pb xml:id="p177" ed="pga"/> Natürlich ist es leicht, von Aussagen des NT aus gegen
+        <p>
+                    <pb rend="noPipe" xml:id="p177" ed="pga"/> Natürlich ist es leicht, von Aussagen des NT aus gegen
                     mich zu argumentieren, aber doch nur deshalb, weil die christologischen Aussagen
                     des NT in die Sprache der Mythologie gefaßt sind, die
                     ich gerade abstreifen will. Also trifft mich solche Argumentation gar nicht im
@@ -470,7 +487,8 @@
                     eschatologische Existenz <hi rend="i">schon</hi> vollbracht, das diesen Prozeß
                     also nicht nur inauguriert, sondern abgeschlossen hat» scheinen mir, wenn sie
                     überhaupt verstanden werden sollen, der Interpretation zu bedürfen. Ich habe
-                    versucht, in <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 204ff</biblScope></bibl>. meine Interpretation zu geben<note xml:id="n20">Mskr.: «gegeben zu haben».</note> in dem über das <foreign xml:lang="grc" rend="Ell">ἅπαξ</foreign> und das <foreign xml:lang="lat">verbum externum</foreign> Gesagte. In
+                    versucht, in <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 204ff</biblScope></bibl>. meine Interpretation zu geben<note xml:id="n20">Mskr.: «gegeben zu haben».</note> in dem über das <foreign xml:lang="grc" rend="Ell">ἅπαξ</foreign> und das <foreign xml:lang="lat">verbum externum</foreign> Gesagte. In
                     Ihrer Formulierung scheint mir die Interpretation des Christusgeschehens als des
                         <pb xml:id="p178" ed="pga"/>
                     <hi rend="i">eschatologischen</hi> Geschehens zwar intendiert, aber nicht klar
@@ -490,7 +508,9 @@
                     Geschehen darstellt, obwohl es der Zeit ein Ende setzt. Darf man vielleicht
                     sagen: die Paradoxie ist die, daß sich Gottes «Zeit» in unsere (Welt-)Zeit
                     begibt?</p>
-        <p>Mein «berühmt-berüchtigter» Satz (S. 21 unten) [28]<note xml:id="n22"><bibl corresp="kbga-bibls-1272"><abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 50</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition>2</edition>, <date when="1967">1967</date><edition>5</edition>), <biblScope>S. 46</biblScope></bibl> = <bibl corresp="kbga-bibls-1530">Nachdruck <editor>Jüngel</editor>
+        <p>Mein «berühmt-berüchtigter» Satz (S. 21 unten) [28]<note xml:id="n22">
+                        <bibl corresp="kbga-bibls-1272">
+                            <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 50</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition rend="sup">2</edition>, <date when="1967">1967</date><edition rend="sup">5</edition>), <biblScope>S. 46</biblScope></bibl> = <bibl corresp="kbga-bibls-1530">Nachdruck <editor>Jüngel</editor>
                         <date when="1988">1988</date><edition rend="sup">3</edition>, <biblScope>S. 61</biblScope></bibl>: «Nicht weil es das Kreuz Christi ist, ist es
                         das Heilsereignis, sondern weil es das Heilsereignis ist, ist es das Kreuz
                         Christi.»</note> meint doch einfach, daß es nicht möglich ist, <hi rend="i">zuerst</hi> festzustellen, daß das Kreuz Christi das Heilsereignis ist, und
@@ -581,7 +601,8 @@
         <p>Zu S. 31f. [38f.]: Ich bedaure, daß Sie mich noch zwingen, auf den Begriff Mythos
                     einzugehen, als ob ich den von allen beliebigen Produktionen abnehmen müßte, die
                     sich — wie es heute sehr beliebt ist — als Mythos bezeichnen. Der «Mythos des
-                    20. Jahrhunderts»<note xml:id="n25">Vgl. <bibl corresp="kbga-bibls-182"><author ref="kbga-actors-345">A. Rosenberg</author>, <title level="m">Der Mythus des 20. Jahrhunderts</title>, <pubPlace>München</pubPlace> <date when="1930">1930</date> (<date when="1924">1934</date><edition rend="sup">24</edition>).</bibl> — <persName ref="kbga-actors-2151">Barth</persName> führt in diesem Zusammenhang noch auf: «marxistischer Mythus, Mythus vom
+                    20. Jahrhunderts»<note xml:id="n25">Vgl. <bibl corresp="kbga-bibls-182">
+                            <author ref="kbga-actors-345">A. Rosenberg</author>, <title level="m">Der Mythus des 20. Jahrhunderts</title>, <pubPlace>München</pubPlace> <date when="1930">1930</date> (<date when="1924">1934</date><edition rend="sup">24</edition>).</bibl> — <persName ref="kbga-actors-2151">Barth</persName> führt in diesem Zusammenhang noch auf: «marxistischer Mythus, Mythus vom
                         christlichen Abendland usf.», S. 31 [38].</note> ist ein pervertierter
                     Mythos. Denn wenn der echte Mythos die Verdiesseitigung des Jenseitigen ist, so
                     ist der des 20. Jahrhunderts die Verjenseitigung (Verabsolutierung) des
@@ -611,7 +632,8 @@
                     Sinne, deutlich machen möchte. Gerade dem dient ja auch mein «Kanon», nämlich
                     der Existenz-Begriff.</p>
         <p>Zu S. 32f. [39f.]: Auf die Frage, ob das entmythologisierte Kerygma noch davon
-                    reden könne, daß der jenseitige Gott diesseitig geworden ist, meine ich in <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 196</biblScope></bibl> schon geantwortet zu haben; dadurch nämlich, daß ich
+                    reden könne, daß der jenseitige Gott diesseitig geworden ist, meine ich in <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. Myth. II</abbr>, <biblScope>S. 196</biblScope></bibl> schon geantwortet zu haben; dadurch nämlich, daß ich
                     deutlich zu machen versuchte, in welchem Sinne unmythologisch vom Handeln Gottes
                     geredet werden kann. Mich dünkt, daß Ihre zweifelnden Fragen darin begründet
                     sind, daß Sie den Sinn der Geschichtlichkeit der Existenz verkennen.</p>
@@ -635,12 +657,16 @@
                     des NT geht es ihrer Intention nach natürlich darum:
                     «aufzuzeigen, daß wir gerade in dieser unserer menschlichen … Existenz nicht
                     allein … sind, sondern …». Aber ich meine, daß man das auch an<pb xml:id="p183" ed="pga" break="no"/>ders sagen kann als in der von mir mythologisch
-                    genannten Sprache; vgl. <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 185ff.</biblScope>; <biblScope>204ff</biblScope>.</bibl> Duftet, was ich dort
+                    genannten Sprache; vgl. <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 185ff.</biblScope>; <biblScope>204ff</biblScope>.</bibl> Duftet, was ich dort
                     gesagt habe, nach Doketismus?</p>
         <p>Zu S. 34 [41]: Ist es wahr, daß ich mit dem AT so
                     «kummervoll wenig» anzufangen weiß? Ich möchte immerhin auf meinen Aufsatz
-                    «Weissagung und Erfüllung»<note xml:id="n26">In: <bibl corresp="kbga-bibls-1286"><title level="j">Studia Theologica</title>, <biblScope unit="issue">Jg. 2
-                                (<date when="1949">1949</date>)</biblScope>, <biblScope>S. 21 -44</biblScope></bibl>; Nachdruck in: <bibl corresp="kbga-bibls-1287"><title level="j"><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 47 (<date when="1950">1950</date>)</biblScope>, <biblScope>S. 360–383</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV II</abbr>, <biblScope>S. 162–186</biblScope></bibl> ).</note> hinweisen.
+                    «Weissagung und Erfüllung»<note xml:id="n26">In: <bibl corresp="kbga-bibls-1286">
+                            <title level="j">Studia Theologica</title>, <biblScope unit="issue">Jg. 2
+                                (<date when="1949">1949</date>)</biblScope>, <biblScope>S. 21 -44</biblScope></bibl>; Nachdruck in: <bibl corresp="kbga-bibls-1287">
+                            <title><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 47 (<date when="1950">1950</date>)</biblScope>, <biblScope>S. 360–383</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                            <abbr ref="kbga-abbreviations-117">GuV II</abbr>, <biblScope>S. 162–186</biblScope></bibl> ).</note> hinweisen.
                     Aber ich kann auch die Gegenfrage nicht unterdrücken: was fangen denn eigentlich
                     Sie (und Ihre Schüler) mit dem AT an? und zwar mit dem
                     «so unübersehbar irdischgeschichtlichen» AT? Nun, mir
@@ -651,9 +677,11 @@
                     Instrument benutzen.</p>
         <p>Dagegen haben Sie recht damit, daß ich die Bedeutung des historischen Jesus für
                     das Kerygma bisher nicht explizit erörtert habe.<note xml:id="n28">Vgl. später
-                            <bibl corresp="kbga-bibls-1288"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="m">Das Verhältnis der urchristlichen Christusbotschaft zum historischen Jesus</title> (Sitzungsber. d. Heidelberger Akad. d. Wiss.,
+                            <bibl corresp="kbga-bibls-1288">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="m">Das Verhältnis der urchristlichen Christusbotschaft zum historischen Jesus</title> (Sitzungsber. d. Heidelberger Akad. d. Wiss.,
                                 <title level="m">Philos.-hist. Kl.</title>, <biblScope unit="issue">Jg. <date when="1960">1960</date>, 3. Abh</biblScope>.), <pubPlace>Heidelberg</pubPlace>
-                                <date when="1960">1960</date> (<date when="1962">1962</date><edition>3</edition>), <biblScope>S. 5–27</biblScope></bibl> ( = <bibl corresp="kbga-bibls-958"><abbr ref="kbga-abbreviations-99">Exegetica</abbr>, <biblScope>S. 445–469</biblScope></bibl>).</note> Ich sehe nun freilich nicht, daß ich die Verkündigung Jesu
+                                <date when="1960">1960</date> (<date when="1962">1962</date><edition rend="sup">3</edition>), <biblScope>S. 5–27</biblScope></bibl> (= <bibl corresp="kbga-bibls-958">
+                            <abbr ref="kbga-abbreviations-99">Exegetica</abbr>, <biblScope>S. 445–469</biblScope></bibl>).</note> Ich sehe nun freilich nicht, daß ich die Verkündigung Jesu
                     anders denn als die Verkündigung des Gesetzes verstehen könnte, wie auch
                         <persName ref="kbga-actors-261">Luther</persName> es getan hat; — in einer
                     Radikalität freilich, daß sie den Hörer zum Ruf nach der Gnade Gottes treibt und
@@ -676,7 +704,8 @@
                     für seine Existenz abnehmen, indem sie meinen, ihm ein existentielles
                     Selbstverständnis vermitteln zu können? In diesem Falle befände sich die
                     Existenz-Philosophie, wenn sie mir den Sinn meiner Existenz als je meiner
-                    erschließen würde. Das Gegenteil aber ist der Fall, wofür ich wieder auf <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u.
+                    erschließen würde. Das Gegenteil aber ist der Fall, wofür ich wieder auf <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u.
                     M. II</abbr>, S. 191ff., 202f.</bibl> verweisen darf. Wenn die Theologie von der
                     Existenz-Philosophie lernt, wie Existenz begrifflich zu explizieren ist, so sehe
                     ich nicht, wie diese Abhängigkeit die Theologie vergewaltigen sollte. Umgekehrt
@@ -688,7 +717,8 @@
                     der Exegese ausgetragen werden müßte (und da das zugleich mit der Diskussion der
                     hermeneutischen Grundsätze erfolgen müßte, so glaube ich nicht, daß sich bei
                         <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> «die Schlange in den Schwanz
-                        beißt»).<note xml:id="n30"><bibl corresp="kbga-bibls-1273">Vgl. <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. Anm. 1), S. 54 (3. Aufl., S. 62)</bibl>. — Zu <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> s. <ref type="pub" target="#fn_n43">Anm. 43</ref>.</note>
+                        beißt»).<note xml:id="n30">
+                        <bibl corresp="kbga-bibls-1273">Vgl. <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. Anm. 1), S. 54 (3. Aufl., S. 62)</bibl>. — Zu <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> s. <ref type="pub" target="#fn_n43">Anm. 43</ref>.</note>
                 </p>
         <p>Zum Begriff des «Vorverständnisses»: Das Vorverständnis ist doch nicht eine <hi rend="i">Erfindung</hi>
                     <persName ref="kbga-actors-168">Heideggers</persName>, sondern ein von ihm
@@ -705,10 +735,12 @@
                         <hi rend="i">zugleich</hi> das Verstehen von (Gott und) Welt ist. Wie können
                     Sie demnach die existentiale Interpretation des menschlichen Seins immer wieder
                     als «Anthropologie» diskriminieren? (<persName ref="kbga-actors-168">Heidegger</persName> hat übrigens ausdrücklich gesagt, daß seine Analyse
-                    des menschlichen Seins keine Anthropologie sei.<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-1009"><author ref="kbga-actors-168">M. Heidegger</author>, <title level="m">Sein und Zeit</title>, <pubPlace>Halle a.d. Saale</pubPlace> <date when="1927">1927</date>, S. 45–50</bibl>: «§ 10 Die Abgrenzung der Daseinsanalytik gegen Anthropologie,
+                    des menschlichen Seins keine Anthropologie sei.<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-1009">
+                            <author ref="kbga-actors-168">M. Heidegger</author>, <title level="m">Sein und Zeit</title>, <pubPlace>Halle a.d. Saale</pubPlace> <date when="1927">1927</date>, S. 45–50</bibl>: «§ 10 Die Abgrenzung der Daseinsanalytik gegen Anthropologie,
                         Psychologie und Biologie».</note>)</p>
         <p>Zu S. 40 [47]: Was das Christus-Geschehen als <hi rend="i">Christus</hi>-Geschehen bedeutet, habe ich wenigstens versucht zu zeigen in
-                    <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 204ff</biblScope></bibl>. Daß man es besser machen kann, leugne ich nicht. Daß
+                    <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 204ff</biblScope></bibl>. Daß man es besser machen kann, leugne ich nicht. Daß
                     ich aber «aus dem existentialistischen Schema ausgebrochen sei», kann doch nur
                     der sagen, der nicht gesehen hat, daß die existentiale Analyse für die konkreten
                     Begegnungen (und also auch für die des Wortes Gottes) [die Bahn] frei gibt und
@@ -716,7 +748,8 @@
                     einem Existenz-Ideal führt, so müßte man ihr eine andere (bessere) Analyse
                     entgegenstellen.</p>
         <p>Ad VII.</p>
-        <p>Zu S. 42 [49]: Habe ich nicht in <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 207</biblScope></bibl>, meine Überzeugung von der
+        <p>Zu S. 42 [49]: Habe ich nicht in <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">Ker. u. M. II</abbr>, <biblScope>S. 207</biblScope></bibl>, meine Überzeugung von der
                     Relativität des modernen Weltbildes zum Ausdruck gebracht?</p>
         <p>Zu S. 43 [50f.]: Schon recht, daß ich das NT als
                     Historiker exegesiere. Aber die Trennung des historischen Motivs (Nr. 3, S. 43f.) [50ff.] und des philosophischen (Nr. 4, S. 44f.) [52f.] scheint mir nicht mehr gültig zu
@@ -728,8 +761,12 @@
                     Existenz-Verständnis befragt (was selbstverständlich weder explizit zu sein
                     braucht, noch in allen historischen Einzeluntersuchungen der Fall ist).</p>
         
-        <p><pb xml:id="p186" ed="pga"/> Zu S. 45 [53]: Daß in der Suppe aller Theologen auch «philosophische Brocken»
-                        schwimmen<note xml:id="n32"><bibl corresp="kbga-bibls-1273"><author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), <biblScope>S. 45</biblScope> (<edition rend="normal">3. Aufl.</edition> <biblScope>S. 53</biblScope>)</bibl>, schreibt unter Anspielung auf <bibl corresp="kbga-bibls-1054"><author ref="kbga-actors-221">S. Kierkegaards</author> gleichnamige Schrift von <date when="1844">1844</date>:
+        <p>
+                    <pb rend="noPipe" xml:id="p186" ed="pga"/> Zu S. 45 [53]: Daß in der Suppe aller Theologen auch «philosophische Brocken»
+                        schwimmen<note xml:id="n32">
+                        <bibl corresp="kbga-bibls-1273">
+                            <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Rudolf Bultmann</title> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), <biblScope>S. 45</biblScope> (<edition rend="normal">3. Aufl.</edition> <biblScope>S. 53</biblScope>)</bibl>, schreibt unter Anspielung auf <bibl corresp="kbga-bibls-1054">
+                            <author ref="kbga-actors-221">S. Kierkegaards</author> gleichnamige Schrift von <date when="1844">1844</date>:
                         «‹<title level="m">Philosophische Brocken</title>›</bibl> schwimmen in der theologischen Sprache von uns
                         allen.»</note>, — das ist es ja, was mich zwingt, der philosophischen Arbeit
                     für die Theologie grundsätzliche Bedeutung zuzuschreiben. Denn ich halte es für
@@ -747,7 +784,10 @@
                     ich für <persName ref="kbga-actors-168">Heidegger</persName> vorbereitet. Dieser
                     hat übrigens auch von <persName ref="kbga-actors-181">Herrmann</persName>
                     gelernt und schätzte ihn hoch (besonders z. B. seinen Aufsatz über die Buße des
-                    evangelischen Christen<note xml:id="n33"><bibl corresp="kbga-bibls-1289"><author ref="kbga-actors-181">W. Herrmann</author>, <title level="a">Die Buße des evangelischen Christen</title>, in: <title level="j"><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 1 (<date when="1891">1891</date>)</biblScope>, <biblScope>S. 28–81</biblScope></bibl> ( = <bibl corresp="kbga-bibls-1290"><author ref="kbga-actors-181">W. Herrmann</author>, <title level="m">Gesammelte Aufsätze</title>, hrsg. von <editor>Fr. W.
+                    evangelischen Christen<note xml:id="n33">
+                        <bibl corresp="kbga-bibls-1289">
+                            <author ref="kbga-actors-181">W. Herrmann</author>, <title level="a">Die Buße des evangelischen Christen</title>, in: <title><abbr ref="kbga-abbreviations-318">ZThK</abbr></title>, <biblScope unit="issue">Jg. 1 (<date when="1891">1891</date>)</biblScope>, <biblScope>S. 28–81</biblScope></bibl> (= <bibl corresp="kbga-bibls-1290">
+                            <author ref="kbga-actors-181">W. Herrmann</author>, <title level="m">Gesammelte Aufsätze</title>, hrsg. von <editor>Fr. W.
                                     Schmidt</editor>, <pubPlace>Tübingen</pubPlace> <date when="1913">1913</date>, <biblScope>S. 33–85</biblScope></bibl>).</note>).</p>
         <p>Ad VIII.</p>
         <p>Zu S. 48 [55f.]: Es führt irre, wenn in der Diskussion des methodologischen
@@ -810,41 +850,68 @@
                     nicht, daß es mir gerade darum geht zu zeigen, wie der Text als anredendes Wort
                     zur Geltung kommen muß? was echtes Hören bedeutet? Entscheidender Anstoß für
                     mich ist das gewesen, was Sie im Vorwort zur 2. Auflage Ihres «Römerbriefs»
-                    einst (1921) geschrieben haben<note xml:id="n36"><bibl corresp="kbga-bibls-48"><author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Der Römerbrief</title>, Neubearbeitung <pubPlace>München</pubPlace>  <date when="1922">1922</date>, darin S. VI XVIII</bibl>: Vorwort zur zweiten Auflage (<placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1921-09">September 1921</date>). Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> Besprechung der 2. Auflage
-                        in: <bibl corresp="kbga-bibls-913"><title level="j"><abbr ref="kbga-abbreviations-69">CW</abbr></title>, <biblScope unit="issue">Jg. 36 (<date when="1922">1922</date>)</biblScope>, <biblScope>Sp. 320–323.330–334.
-                                358–361.369–373</biblScope></bibl> ( = <bibl corresp="kbga-bibls-914"><abbr ref="kbga-abbreviations-12">Anfänge I</abbr>, <biblScope>S. 119–142</biblScope></bibl>) und dazu <persName ref="kbga-actors-2151">Barths</persName> Antwort im <bibl corresp="kbga-bibls-48"><title level="a">Vorwort</title> zur <edition rend="normal">3. Aufl.</edition> seines Buches
-                            (<date when="1922-07">Juli 1922</date>), abgedruckt <title>a. a. O.</title>, <biblScope>S. XIXff</biblScope></bibl></note>; dem habe ich weiter nachgedacht, und dabei hat mir die
+                    einst (1921) geschrieben haben<note xml:id="n36">
+                        <bibl corresp="kbga-bibls-48">
+                            <author ref="kbga-actors-2151">K. Barth</author>, <title level="m">Der Römerbrief</title>, Neubearbeitung <pubPlace>München</pubPlace>  <date when="1922">1922</date>, darin S. VI XVIII</bibl>: Vorwort zur zweiten Auflage (<placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1921-09">September 1921</date>). Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> Besprechung der 2. Auflage
+                        in: <bibl corresp="kbga-bibls-913">
+                            <title><abbr ref="kbga-abbreviations-69">CW</abbr></title>, <biblScope unit="issue">Jg. 36 (<date when="1922">1922</date>)</biblScope>, <biblScope>Sp. 320–323.330–334.
+                                358–361.369–373</biblScope></bibl> (= <bibl corresp="kbga-bibls-914">
+                            <abbr ref="kbga-abbreviations-12">Anfänge I</abbr>, <biblScope>S. 119–142</biblScope></bibl>) und dazu <persName ref="kbga-actors-2151">Barths</persName> Antwort im <bibl corresp="kbga-bibls-48">
+                            <title level="a">Vorwort</title> zur <edition rend="normal">3. Aufl.</edition> seines Buches
+                            (<date when="1922-07">Juli 1922</date>), abgedruckt <title>a. a. O.</title>, <biblScope>S. XIXff</biblScope></bibl>
+                    </note>; dem habe ich weiter nachgedacht, und dabei hat mir die
                     Existenz-Philosophie zur Klärung verholfen. Ich meine jene von Ihnen «vor
                         rund<note xml:id="n37">Bei <persName ref="kbga-actors-2151">Barth</persName>: «…vor nun…»</note> 30 Jahren» vollzogene
                     «Umkehrung» nicht rückgängig zu machen, sondern den neuen Weg methodisch zu
                     sichern. (Vgl. übrigens, was ich 1929 in «Kirche und Lehre im NT»; dann in «Glauben und Verstehen», S. 154–162, geschrieben
-                        habe).<note xml:id="n38"><bibl corresp="kbga-bibls-1291"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Kirche und Lehre im Neuen Testament</title>, in: <title level="j"><abbr ref="kbga-abbreviations-313">ZdZ</abbr></title>, <biblScope unit="issue">Jg. 7 (<date when="1929">1929</date>)</biblScope>, <biblScope>S. 9–43</biblScope></bibl> (= <bibl corresp="kbga-bibls-985"><abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 153–187</biblScope></bibl> ).</note>
+                        habe).<note xml:id="n38">
+                        <bibl corresp="kbga-bibls-1291">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Kirche und Lehre im Neuen Testament</title>, in: <title><abbr ref="kbga-abbreviations-313">ZdZ</abbr></title>, <biblScope unit="issue">Jg. 7 (<date when="1929">1929</date>)</biblScope>, <biblScope>S. 9–43</biblScope></bibl> (= <bibl corresp="kbga-bibls-985">
+                            <abbr ref="kbga-abbreviations-117">GuV I</abbr>, <biblScope>S. 153–187</biblScope></bibl> ).</note>
                 </p>
         
-        <p><pb xml:id="p189" ed="pga"/> Nun kann ich für heute schließen, — freilich mit jenem zu Anfang schon
+        <p>
+                    <pb rend="noPipe" xml:id="p189" ed="pga"/> Nun kann ich für heute schließen, — freilich mit jenem zu Anfang schon
                     ausgesprochenen Gefühl des Zweifels. Ich kann es aber doch nicht tun, ohne zu
-                    sagen, daß ich Ihr «Nachwort»<note xml:id="n39"><bibl corresp="kbga-bibls-1273"><biblScope>S. 54–56</biblScope>; <edition rend="normal">3. Aufl.</edition> <biblScope>S. 62–65</biblScope></bibl>.</note> schmerzlich empfinde, weil es sichtlich in Verärgerung
+                    sagen, daß ich Ihr «Nachwort»<note xml:id="n39">
+                        <bibl corresp="kbga-bibls-1273">
+                            <biblScope>S. 54–56</biblScope>; <edition rend="normal">3. Aufl.</edition> <biblScope>S. 62–65</biblScope></bibl>.</note> schmerzlich empfinde, weil es sichtlich in Verärgerung
                     geschrieben ist.</p>
         <p>Zur Aufklärung muß ich wenigstens sagen, daß ich die vom Herausgeber über meinen
                     Beitrag gesetzte Überschrift «Abschließende Stellungnahme» mißbillige.<note xml:id="n40">Siehe <ref type="pub" target="#fn_n06">Anm. 6</ref>.</note> Es lag mir gänzlich fern, etwas
                     «Abschließendes» sagen zu wollen. Auch «Stellungnahme» ist falsch, weil der
                     Eindruck erweckt wird, als habe ich zu allen vorausgehenden Beiträgen Stellung
                     nehmen wollen. Das ist schon deshalb nicht der Fall, weil ich vor dem Erscheinen
-                    von <bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">K. u. M. <hi rend="i">II</hi></abbr></bibl> die Aufsätze von <persName ref="kbga-actors-325">Prenter</persName> und
+                    von <bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">K. u. M. <hi rend="i">II</hi>
+                        </abbr></bibl> die Aufsätze von <persName ref="kbga-actors-325">Prenter</persName> und
                         <persName ref="kbga-actors-305">Oepke</persName> überhaupt nicht kannte und
                     den von <persName ref="kbga-actors-76">Buri</persName> im Manuskript zugeschickt
-                    bekam, als mein Beitrag schon druckfertig war.<note xml:id="n41"><bibl corresp="kbga-bibls-1271"><author ref="kbga-actors-325">R. Prenter</author>, <title level="a">Mythos und Evangelium</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1951">1951</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 69–84</biblScope> (vorher in: <title level="a">Rev. de Théol. et de Phil.</title>, a. 35
-                                    [<date when="1947">1947</date>], <biblScope>S. 49ff</biblScope>.)</bibl>; <bibl corresp="kbga-bibls-1292"><author ref="kbga-actors-305">A. Oepke</author>, <title level="a">Entmythologisierung des Christentums</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 170–175</biblScope></bibl> (vorher in: <bibl corresp="kbga-bibls-1293"><title level="m">Geschichtliche und übergeschichtliche
-                                    Schriftauslegung</title>, <pubPlace>Gütersloh</pubPlace> <date when="1947">1947</date><edition>2</edition>, <biblScope>S. 56ff</biblScope>.</bibl>); <bibl corresp="kbga-bibls-1294"><author ref="kbga-actors-76">Fr. Buri</author>, <title level="a">Entmythologisierung oder Entkerygmatisierung der
-                                    Theologie</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 85–101</biblScope>.</bibl></note> Diesen daraufhin noch zu erweitern oder ein Nachwort hinzuzufügen,
+                    bekam, als mein Beitrag schon druckfertig war.<note xml:id="n41">
+                        <bibl corresp="kbga-bibls-1271">
+                            <author ref="kbga-actors-325">R. Prenter</author>, <title level="a">Mythos und Evangelium</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1951">1951</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 69–84</biblScope> (vorher in: <title level="a">Rev. de Théol. et de Phil.</title>, a. 35
+                                    [<date when="1947">1947</date>], <biblScope>S. 49ff</biblScope>.)</bibl>; <bibl corresp="kbga-bibls-1292">
+                            <author ref="kbga-actors-305">A. Oepke</author>, <title level="a">Entmythologisierung des Christentums</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 170–175</biblScope></bibl> (vorher in: <bibl corresp="kbga-bibls-1293">
+                            <title level="m">Geschichtliche und übergeschichtliche
+                                    Schriftauslegung</title>, <pubPlace>Gütersloh</pubPlace> <date when="1947">1947</date><edition rend="sup">2</edition>, <biblScope>S. 56ff</biblScope>.</bibl>); <bibl corresp="kbga-bibls-1294">
+                            <author ref="kbga-actors-76">Fr. Buri</author>, <title level="a">Entmythologisierung oder Entkerygmatisierung der
+                                    Theologie</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 85–101</biblScope>.</bibl>
+                    </note> Diesen daraufhin noch zu erweitern oder ein Nachwort hinzuzufügen,
                     verspürte ich keine Lust, weil ich meinte, mein Beitrag enthalte indirekt schon
                     meine an <persName ref="kbga-actors-76">Buri</persName> zu gebende Antwort, —
-                    was freilich, wie ich jetzt sehe, zu leichtfertig war. Daß ich <persName ref="kbga-actors-236">Kümmels</persName> Versuch<note xml:id="n42"><bibl corresp="kbga-bibls-1295"><author ref="kbga-actors-236">W. G. Kümmel</author>, <title level="a">Mythische Rede und Heilsgeschehen im Neuen
-                                    Testament</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 153–169</biblScope></bibl> (vorher in: <bibl corresp="kbga-bibls-1329"><title level="j">Coniecta Neotestamentica</title>, <biblScope unit="issue">Jg. 11 [<date when="1947">1947</date>]</biblScope>, <biblScope>S. 109–131</biblScope></bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1330"><author ref="kbga-actors-236">W. G. Kümmel</author>, <title level="a">Heilsgeschehen und Geschichte</title>, <biblScope unit="volume">Bd. I</biblScope>. <title level="m">Gesammelte Aufsätze
+                    was freilich, wie ich jetzt sehe, zu leichtfertig war. Daß ich <persName ref="kbga-actors-236">Kümmels</persName> Versuch<note xml:id="n42">
+                        <bibl corresp="kbga-bibls-1295">
+                            <author ref="kbga-actors-236">W. G. Kümmel</author>, <title level="a">Mythische Rede und Heilsgeschehen im Neuen
+                                    Testament</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 153–169</biblScope></bibl> (vorher in: <bibl corresp="kbga-bibls-1329">
+                            <title level="j">Coniecta Neotestamentica</title>, <biblScope unit="issue">Jg. 11 [<date when="1947">1947</date>]</biblScope>, <biblScope>S. 109–131</biblScope></bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1330">
+                            <author ref="kbga-actors-236">W. G. Kümmel</author>, <title level="a">Heilsgeschehen und Geschichte</title>, <biblScope unit="volume">Bd. I</biblScope>. <title level="m">Gesammelte Aufsätze
                                 1933–1964</title>, hrsg. von <editor>E. Gräßer</editor>, <editor>O. Merk</editor>, <editor>A.
                             Fritz</editor> (<abbr ref="kbga-abbreviations-177">MThSt</abbr> <biblScope unit="volume">3</biblScope>), <pubPlace>Marburg</pubPlace>
-                            <date when="1965">1965</date>, <biblScope>S. 153–168</biblScope></bibl> ); ders., <bibl corresp="kbga-bibls-1331"><title level="a">Mythos im Neuen Testament</title>, in: <title level="j"><abbr ref="kbga-abbreviations-282">ThZ</abbr></title>, <biblScope unit="issue">Jg. 6 (<date when="1950">1950</date>)</biblScope>, <biblScope>S. 321–337</biblScope></bibl> (= <bibl corresp="kbga-bibls-1332"><title level="a">Heilsgeschehen und Geschichte</title>, <biblScope unit="volume">Bd. I</biblScope>,
-                                    <title>a. a. O.</title>, <biblScope>S. 218–229</biblScope>).</bibl></note> als absurd ablehnen mußte, würde doch — so meinte ich — jeder verstehen,
+                            <date when="1965">1965</date>, <biblScope>S. 153–168</biblScope></bibl> ); ders., <bibl corresp="kbga-bibls-1331">
+                            <title level="a">Mythos im Neuen Testament</title>, in: <title><abbr ref="kbga-abbreviations-282">ThZ</abbr></title>, <biblScope unit="issue">Jg. 6 (<date when="1950">1950</date>)</biblScope>, <biblScope>S. 321–337</biblScope></bibl> (= <bibl corresp="kbga-bibls-1332">
+                            <title level="a">Heilsgeschehen und Geschichte</title>, <biblScope unit="volume">Bd. I</biblScope>,
+                                    <title>a. a. O.</title>, <biblScope>S. 218–229</biblScope>).</bibl>
+                    </note> als absurd ablehnen mußte, würde doch — so meinte ich — jeder verstehen,
                     der den Sinn der «Entmythologisierung» als einer hermeneutischen Methode erfaßt
                     hat.</p>
         <p>Womit ich Ihre S. 56 [64f.] gegen mich gerichteten Vorwürfe verdient habe, weiß
@@ -853,11 +920,21 @@
                     nicht gesehen, daß Sie z. B. auf die in «Zum Problem der Hermeneutik», S. 68f.,
                     gestellten Fragen geantwor<pb xml:id="p190" ed="pga" break="no"/>tet hätten.
                     (Ich bin gespannt, ob Sie auf die konkrete Kritik von <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> ebenso konkret antworten
-                        werden.)<note xml:id="n43"><bibl corresp="kbga-bibls-1271"> Auf <author ref="kbga-actors-158">Chr. Hartlich</author> /
-                                    <author ref="kbga-actors-348">W. Sachs</author>, <title level="a">Kritische Prüfung der Haupteinwände Barths gegen Bultmann</title>, in: <title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 113–125</biblScope></bibl> (= Auszug aus: <bibl corresp="kbga-bibls-1333"><title level="m">Einführung in das Problem der
-                                        Entmythologisierung</title>, in: <title level="s">Für Arbeit und Besinnung</title>, <biblScope unit="issue">Jg. 4–6 [<date from="1950" to="1952">1950–1952</date>]</biblScope>)</bibl>, ging <persName ref="kbga-actors-2151">Barth</persName> über das in seinem «Nachwort» zu <bibl corresp="kbga-bibls-1273"><title level="m">Rudolf Bultmann</title> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), <biblScope>S. 54</biblScope> (<edition rend="normal">3. Aufl.</edition>, <biblScope>S. 62</biblScope>)</bibl>, Gesagte hinaus nicht mehr ein. <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> kritisierten <persName ref="kbga-actors-2151">Barths</persName> Auseinandersetzung mit <persName ref="kbga-actors-512">Bultmann</persName> in <bibl corresp="kbga-bibls-2"><title level="m"><abbr ref="kbga-abbreviations-141">KD</abbr></title> <biblScope unit="volume">III/2</biblScope>, <biblScope>S. 531–537</biblScope></bibl> ( = <bibl corresp="kbga-bibls-1271"><title level="m"><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> [<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>], <biblScope>S. 102–109</biblScope>).</bibl> <persName ref="kbga-actors-2151">Barth</persName> setzte sich dann weiterhin in <bibl corresp="kbga-bibls-2"><title level="m"><abbr ref="kbga-abbreviations-141">KD</abbr></title> <biblScope unit="volume"><hi rend="i">III/3</hi></biblScope>; <biblScope unit="volume"><hi rend="i">IV/1</hi></biblScope></bibl>, passim, mit <persName ref="kbga-actors-512">Bultmanns</persName>
-                        Anliegen auseinander. Im <date when="1953-06">Juni 1953</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> im <bibl corresp="kbga-bibls-2"><title level="a">Vorwort</title> zur
-                            <abbr ref="kbga-abbreviations-141">KD</abbr>  <biblScope unit="volume"><hi rend="i">IV/1</hi></biblScope></bibl>: «Die theologische Lage des Augenblicks, aber auch die besonderen
+                        werden.)<note xml:id="n43">
+                        <bibl corresp="kbga-bibls-1271"> Auf <author ref="kbga-actors-158">Chr. Hartlich</author> /
+                                    <author ref="kbga-actors-348">W. Sachs</author>, <title level="a">Kritische Prüfung der Haupteinwände Barths gegen Bultmann</title>, in: <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 113–125</biblScope></bibl> (= Auszug aus: <bibl corresp="kbga-bibls-1333">
+                            <title level="m">Einführung in das Problem der
+                                        Entmythologisierung</title>, in: <title level="s">Für Arbeit und Besinnung</title>, <biblScope unit="issue">Jg. 4–6 [<date from="1950" to="1952">1950–1952</date>]</biblScope>)</bibl>, ging <persName ref="kbga-actors-2151">Barth</persName> über das in seinem «Nachwort» zu <bibl corresp="kbga-bibls-1273">
+                            <title level="m">Rudolf Bultmann</title> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), <biblScope>S. 54</biblScope> (<edition rend="normal">3. Aufl.</edition>, <biblScope>S. 62</biblScope>)</bibl>, Gesagte hinaus nicht mehr ein. <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> kritisierten <persName ref="kbga-actors-2151">Barths</persName> Auseinandersetzung mit <persName ref="kbga-actors-512">Bultmann</persName> in <bibl corresp="kbga-bibls-2">
+                            <title><abbr ref="kbga-abbreviations-141">KD</abbr></title> <biblScope unit="volume">III/2</biblScope>, <biblScope>S. 531–537</biblScope></bibl> (= <bibl corresp="kbga-bibls-1271">
+                            <title><abbr ref="kbga-abbreviations-157">KuM II</abbr></title> [<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>], <biblScope>S. 102–109</biblScope>).</bibl> <persName ref="kbga-actors-2151">Barth</persName> setzte sich dann weiterhin in <bibl corresp="kbga-bibls-2">
+                            <title><abbr ref="kbga-abbreviations-141">KD</abbr></title> <biblScope unit="volume">
+                                <hi rend="i">III/3</hi></biblScope>; <biblScope unit="volume">
+                                <hi rend="i">IV/1</hi></biblScope></bibl>, passim, mit <persName ref="kbga-actors-512">Bultmanns</persName>
+                        Anliegen auseinander. Im <date when="1953-06">Juni 1953</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> im <bibl corresp="kbga-bibls-2">
+                            <title level="a">Vorwort</title> zur
+                            <abbr ref="kbga-abbreviations-141">KD</abbr>  <biblScope unit="volume">
+                                <hi rend="i">IV/1</hi></biblScope></bibl>: «Die theologische Lage des Augenblicks, aber auch die besonderen
                         Themata dieses Buches haben es nötig gemacht, daß ich mich weithin in
                         intensivem, in der Hauptsache stillem, Gespräch mit <persName ref="kbga-actors-512">Rudolf Bultmann</persName> befunden habe. Sein
                         Name taucht nicht eben oft auf. Seine Sache war mir immer gegenwärtig: auch
@@ -873,18 +950,36 @@
                         seine Vorschläge zur Hermeneutik erst werden, wenn ich überzeugt würde, daß
                         ich bei ihrer Befolgung dasselbe noch freier und wirklich besser sagen
                         könnte. Vorläufig bin ich eben davon nicht überzeugt worden.»</note> Ich
-                    wüßte auch nicht, daß man meine Auseinandersetzung mit <persName ref="kbga-actors-372">Schniewind</persName> (<bibl corresp="kbga-bibls-1272"><abbr ref="kbga-abbreviations-156">K. u. M. <hi rend="i">I</hi></abbr>, <biblScope>[S.] 122–138</biblScope></bibl>) oder mit <persName ref="kbga-actors-378">Schumann</persName> (<bibl corresp="kbga-bibls-1271"><abbr ref="kbga-abbreviations-157">K. u. M. <hi rend="i">II</hi></abbr>, <biblScope>[S.] 193f.</biblScope></bibl>) als «Abfertigung» bezeichnen müßte.<note xml:id="n44"><bibl corresp="kbga-bibls-1334"><author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zu J. Schniewinds
+                    wüßte auch nicht, daß man meine Auseinandersetzung mit <persName ref="kbga-actors-372">Schniewind</persName> (<bibl corresp="kbga-bibls-1272">
+                        <abbr ref="kbga-abbreviations-156">K. u. M. <hi rend="i">I</hi>
+                        </abbr>, <biblScope>[S.] 122–138</biblScope></bibl>) oder mit <persName ref="kbga-actors-378">Schumann</persName> (<bibl corresp="kbga-bibls-1271">
+                        <abbr ref="kbga-abbreviations-157">K. u. M. <hi rend="i">II</hi>
+                        </abbr>, <biblScope>[S.] 193f.</biblScope></bibl>) als «Abfertigung» bezeichnen müßte.<note xml:id="n44">
+                        <bibl corresp="kbga-bibls-1334">
+                            <author ref="kbga-actors-512">R. Bultmann</author>, <title level="a">Zu J. Schniewinds
                                     Thesen, das Problem der Entmythologisierung betreffend</title>,
-                                in: <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 135–153</biblScope></bibl> = <bibl corresp="kbga-bibls-1272"><abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition>2</edition>, <date when="1967">1967</date><edition>5</edition>), <biblScope>S. 122–138</biblScope></bibl>; ders., <bibl corresp="kbga-bibls-1265"><title level="a">Zum Problem der Entmythologisierung</title>, in:
-                                    <abbr ref="kbga-abbreviations-157">KuM II</abbr> (<date when="1952">1952</date>, <date when="1965">1965</date><edition>2</edition>), <biblScope>S. 179–208</biblScope></bibl>; vgl.<bibl corresp="kbga-bibls-1335"> <author ref="kbga-actors-372">J. Schniewind</author>, <title level="a">Antwort an Rudolf Bultmann. Thesen zum Problem der
-                                    Entmythologisierung</title>, in: <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 85–134</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition>2</edition>, <date when="1967">1967</date><edition>5</edition>), <biblScope>S. 77–121</biblScope></bibl>; <bibl corresp="kbga-bibls-1336"><author ref="kbga-actors-378">Fr. K. Schumann</author>, <title level="a">Die Entmythologisierbarkeit des Christusgeschehens</title>, <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 211–224</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition>2</edition>, <date when="1967">1967</date><edition>5</edition>), <biblScope>S. 190–202</biblScope></bibl>.</note>
+                                in: <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 135–153</biblScope></bibl> = <bibl corresp="kbga-bibls-1272">
+                            <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition rend="sup">2</edition>, <date when="1967">1967</date><edition rend="sup">5</edition>), <biblScope>S. 122–138</biblScope></bibl>; ders., <bibl corresp="kbga-bibls-1265">
+                            <title level="a">Zum Problem der Entmythologisierung</title>, in:
+                                    <abbr ref="kbga-abbreviations-157">KuM II</abbr> (<date when="1952">1952</date>, <date when="1965">1965</date><edition rend="sup">2</edition>), <biblScope>S. 179–208</biblScope></bibl>; vgl.<bibl corresp="kbga-bibls-1335"> <author ref="kbga-actors-372">J. Schniewind</author>, <title level="a">Antwort an Rudolf Bultmann. Thesen zum Problem der
+                                    Entmythologisierung</title>, in: <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 85–134</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition rend="sup">2</edition>, <date when="1967">1967</date><edition rend="sup">5</edition>), <biblScope>S. 77–121</biblScope></bibl>; <bibl corresp="kbga-bibls-1336">
+                            <author ref="kbga-actors-378">Fr. K. Schumann</author>, <title level="a">Die Entmythologisierbarkeit des Christusgeschehens</title>, <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1948">1948</date>), <biblScope>S. 211–224</biblScope> = <abbr ref="kbga-abbreviations-156">KuM I</abbr> (<date when="1951">1951</date><edition rend="sup">2</edition>, <date when="1967">1967</date><edition rend="sup">5</edition>), <biblScope>S. 190–202</biblScope></bibl>.</note>
                 </p>
         <p>Auf die Frage: «Was ist endlich und zuletzt das Thema dieser Debatte?« kann ich
                     nur antworten: das Thema ist die Frage nach der hermeneutischen Methode im
                     Dienst der Erklärung des NT.</p>
-        <p>Und nun lassen Sie mich schließen, indem ich doch Ihr <rs type="person" ref="kbga-actors-281">Figaro-Zitat</rs> fortsetze: <q rend="block"><lg><l xml:space="preserve">«Wie könnt’ ich denn zürnen?</l><l xml:space="preserve">Mein Herz spricht für dich!» —</l></lg></q>
-                    <pb xml:id="p191" ed="pga"/> und indem ich die letzte Zeile des Figaro
-                    hinzufüge: <q rend="block"><lg><l xml:space="preserve">«Ewig sei der Gram verbannt!»</l></lg></q>
+        <p>Und nun lassen Sie mich schließen, indem ich doch Ihr <rs type="person" ref="kbga-actors-281">Figaro-Zitat</rs> fortsetze: <q rend="block">
+                        <lg>
+                            <l xml:space="preserve">«Wie könnt’ ich denn zürnen?</l>
+                            <l xml:space="preserve">Mein Herz spricht für dich!» —</l>
+                        </lg>
+                    </q>
+                    <pb rend="noPipe" xml:id="p191" ed="pga"/> und indem ich die letzte Zeile des Figaro
+                    hinzufüge: <q rend="block">
+                        <lg>
+                            <l xml:space="preserve">«Ewig sei der Gram verbannt!»</l>
+                        </lg>
+                    </q>
                 </p>
         <closer>
           <salute>Mit herzlichen Grüßen</salute>

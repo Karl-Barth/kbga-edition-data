@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 31,15-16 (Neujahr)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 31,15-16 (Neujahr), 1. Januar 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5004 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5004 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 3–11.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1178" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 31,15-16 (Neujahr), 1. Januar 1914. <idno ref="https://kba.karl-barth.ch/objects/1642">KBA 1178</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 31,15-16 (Neujahr), 1. Januar 1914. <ref target="https://kba.karl-barth.ch/objects/1642">KBA 1178</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:35+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,9 +76,13 @@
       <div type="sermon">
         <pb xml:id="p003" ed="pga"/>
         <div type="opener">
-          <head><idno>200</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, den <date>1</date>., und <placeName ref="kbga-places-248">Laupen</placeName><note xml:id="n01">In <placeName ref="kbga-places-248">Laupen</placeName>, etwa 15 km westlich von <placeName ref="kbga-places-9">Bern</placeName>, war Barths Bruder
-                     <persName ref="kbga-actors-27">Peter</persName> (<date from="1888" to="1941">1888–1941</date>) Pfarrer.</note>, den <date when="1914-01-04">4. Januar 1914</date></dateline>
+          <head>
+                        <idno>200</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, den <date>1</date>., und <placeName ref="kbga-places-248">Laupen</placeName><note xml:id="n01">In <placeName ref="kbga-places-248">Laupen</placeName>, etwa 15 km westlich von <placeName ref="kbga-places-9">Bern</placeName>, war Barths Bruder
+                     <persName ref="kbga-actors-27">Peter</persName> (<date from="1888" to="1941">1888–1941</date>) Pfarrer.</note>, den <date when="1914-01-04">4. Januar 1914</date>
+                    </dateline>
           <head type="event">Neujahr</head>
           <epigraph>
             <cit>
@@ -355,12 +319,15 @@
         <p>Gegensatz: Menschenweisheit — über Schwierigkeiten hinweg — einfachstes und bestes
                Mittel — daran sich halten, statt Menschenräten folgen — nicht nur geleitet werden —
                wollen, was Gott will.</p>
-        <p><hi rend="i">Zeit in Gottes Händen:</hi> Seine Herrlichkeit muß größer werden: Kraft
+        <p>
+                        <hi rend="i">Zeit in Gottes Händen:</hi> Seine Herrlichkeit muß größer werden: Kraft
                — Liebe — Weisheit — Was ist unser Leben? — ein Dienst dazu — Alles kann helfen —
                auch Leiden — jeder seinen Beitrag — das deine Aufgabe und Gabe!</p>
-        <p><hi rend="i">Ich hoffe auf dich</hi> — Gott ist in Allem — nichts Widriges — bereit
+        <p>
+                        <hi rend="i">Ich hoffe auf dich</hi> — Gott ist in Allem — nichts Widriges — bereit
                sein — auf das Licht warten — Trost — Kraft.</p>
-        <p><hi rend="i">Du bist mein Gott</hi> — Was wir tun sollen? — ihm angehören und dienen
+        <p>
+                        <hi rend="i">Du bist mein Gott</hi> — Was wir tun sollen? — ihm angehören und dienen
                — Christus unser Meister — Folge der Hoffnung — Gehorsam, Vertrauen — <placeName ref="kbga-places-54">Safenwil</placeName> —
                Kirchenpflege — Alte. Mit dem Herrn …</p>
         </div>

@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Matthäus 23,8</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 23,8, 8. November 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5050 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5050 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 553–564.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1223" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 23,8, 8. November 1914. <idno ref="https://kba.karl-barth.ch/objects/1685">KBA 1223</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 23,8, 8. November 1914. <ref target="https://kba.karl-barth.ch/objects/1685">KBA 1223</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,12 +76,20 @@
       <div type="sermon">
         <pb xml:id="p553" ed="pga"/>
         <div type="opener">
-        <head><idno>245</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-11-08">8. November 1914</date><note xml:id="n01">Als Lieder, die in dem Gottesdienst gesungen wurden, sind auf
-                     dem Mskr. notiert: <bibl corresp="kbga-songs-202" type="song"><bibl corresp="kbga-bibls-1087">Nr. <idno>19</idno></bibl>: «<title level="a">Die Gottesseraphim erheben ihre Stimm’</title>» von <author ref="kbga-actors-579">Chr. Gregor</author>
+        <head>
+                        <idno>245</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-11-08">8. November 1914</date><note xml:id="n01">Als Lieder, die in dem Gottesdienst gesungen wurden, sind auf
+                     dem Mskr. notiert: <bibl corresp="kbga-songs-202" type="song">
+                                <bibl corresp="kbga-bibls-1087">Nr. <idno>19</idno></bibl>: «<title level="a">Die Gottesseraphim erheben ihre Stimm’</title>» von <author ref="kbga-actors-579">Chr. Gregor</author>
                         (<date from="1723" to="1801">1723–1801</date>) (V. 1) und <author ref="kbga-actors-1414">H. Weber</author> (<date from="1821" to="1900">1821–1900</date>) (V.
-                     2/3), <biblScope>Strophen 1–3</biblScope></bibl>; <bibl type="song" corresp="kbga-songs-115"><bibl corresp="kbga-bibls-1087">Nr. <idno>168</idno></bibl> (<bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>219</idno></bibl>): «<title level="a">O daß doch bald dein Feuer brennte</title>» von <author ref="kbga-actors-1353">G. F. Fickert</author>
-                     (<date from="1758" to="1815">1758–1815</date>), <biblScope>Strophen 1, 6, 7, 8</biblScope>.</bibl></note></dateline>
+                     2/3), <biblScope>Strophen 1–3</biblScope></bibl>; <bibl type="song" corresp="kbga-songs-115">
+                                <bibl corresp="kbga-bibls-1087">Nr. <idno>168</idno></bibl> (<bibl corresp="kbga-bibls-1086">
+                                    <title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>219</idno></bibl>): «<title level="a">O daß doch bald dein Feuer brennte</title>» von <author ref="kbga-actors-1353">G. F. Fickert</author>
+                     (<date from="1758" to="1815">1758–1815</date>), <biblScope>Strophen 1, 6, 7, 8</biblScope>.</bibl>
+                        </note>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Mt.23.8">Matthäus 23,8</ref>
@@ -221,7 +189,8 @@
                ja nur, was längst in uns ist, er entdeckt, was wir durch unsere Torheit und Bosheit
                in uns verschüttet haben. Er sagt uns, daß wir Gottes sind. Das ist seine
                Meisterschaft über uns.</p>
-        <p><hi rend="i">Ihr aber seid alle Brüder!</hi> Das ist der Wille Gottes, den Jesus uns
+        <p>
+                        <hi rend="i">Ihr aber seid alle Brüder!</hi> Das ist der Wille Gottes, den Jesus uns
                nahelegt. Es ist völlig unmöglich, ihm anders zu gehorchen als dadurch, daß wir
                untereinander Brüder sind. Alles das, was Gott ist, die Liebe, die Wahrheit und der
                Friede, das wird greifbar lebendig in der Gemeinschaft der Menschen untereinander, in
@@ -248,7 +217,8 @@
                Gemeinschaft der Menschen untereinander ist. Ihr seid alle Brüder! Das ist das
                Geheimnis des Lebens, das er uns eröffnet. Das ist die Antwort auf die tiefe Frage,
                die in uns allen schlummert und die er uns auflöst.</p>
-        <p><hi rend="i">Ihr seid alle Brüder!</hi> Was heißt das? Wir denken bei dem Wort
+        <p>
+                        <hi rend="i">Ihr seid alle Brüder!</hi> Was heißt das? Wir denken bei dem Wort
                «Brüder» wohl unwillkürlich zuerst an Menschen, die einander helfen. Und damit haben
                wir wohl recht. Das Helfen gehört auch zur Bruderliebe. Aber wir müssen tiefer gehen.
                Wenn z. B. die Glieder einer Familie einander beistehen, wenn gute Freunde sich
@@ -290,7 +260,8 @@
                wie bei den Freundschaften der Kinder. Nicht wahr, so haben wir alle auch schon
                einander geholfen und haben dann die Erfahrung gemacht, daß nichts Gutes daraus
                entstanden ist.</p>
-        <p><hi rend="i">Ihr seid alle Brüder!</hi> Das ist etwas Anderes. Warum sind wir Brüder?
+        <p>
+                        <hi rend="i">Ihr seid alle Brüder!</hi> Das ist etwas Anderes. Warum sind wir Brüder?
                Weil wir alle den einen Meister haben. Weil in unser aller Seelen gemeinsam die
                Bestimmung wohnt, Gott anzugehören und
                <pb xml:id="p559" ed="pga"/>
@@ -322,7 +293,8 @@
                greifen, wenn ein Streit ausgefochten wird, um einander recht zu geben, wenn zwei
                etwas gegeneinander haben!</p>
        
-        <p><pb xml:id="p560" ed="pga"/> Es wird ja auch manchmal sein müssen, es muß z. B. gegenwärtig sein, wo die Völker
+        <p>
+              <pb rend="noPipe" xml:id="p560" ed="pga"/> Es wird ja auch manchmal sein müssen, es muß z. B. gegenwärtig sein, wo die Völker
                den Krieg führen. Aber ist dann da eigentlich etwas Schönes dabei? Müßten wir nicht
                gerade dabei Sehnsucht bekommen nach einer höheren, wahren Gemeinschaft und
                Bruderschaft? Da wollen wir uns doch freuen darüber, wir Schweizer, daß wir jetzt
@@ -370,7 +342,8 @@
                vornherein verloren. Dagegen ist <hi rend="i">die</hi> Freundschaft, <hi rend="i">der</hi> Verein, <hi rend="i">der</hi> Kreis von Menschen etwas wert vor Gottes
                Augen, der sich nur zusammentut, um die Gemeinschaft mit Allen zu pflegen, um das zu
                suchen, was uns alle miteinander verbindet.</p>
-        <p><hi rend="i">Ihr seid alle Brüder!</hi> Es ist Gottes Wille, daß wir als Wesen, die
+        <p>
+                        <hi rend="i">Ihr seid alle Brüder!</hi> Es ist Gottes Wille, daß wir als Wesen, die
                alle <hi rend="i">ein</hi> Bedürfnis und <hi rend="i">eine</hi> Erlösung haben, eins
                seien miteinander, statt daß wir unserem eigenen Willen gehorchend
                auseinanderstreben. Darum ist Christus unser Meister, weil er diesen Gotteswillen in

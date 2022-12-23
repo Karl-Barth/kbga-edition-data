@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53031">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-53">Predigten 1907–1910</title>
+        <title type="formal">Predigt Nr. 29</title>
+        <title type="content">Predigt: Jakobus 1,2-4</title>
+        <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,2-4, 16. Januar 1910</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53031 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1907–1910, Zürich 2018, S..</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/53031</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1907–1910</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2018</date>
+          <!--position within a volume-->
+          <biblScope unit="part">31</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Jak 1,2-4, 16. Januar 1910. <ref target="https://kba.karl-barth.ch/objects/1472">KBA 1007</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1910-01-16">16. Januar 1910</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2022-12-23T11:07:38+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+        <body>
+            <div type="sermon"> 
+                <pb xml:id="p294" ed="pga"/>
+                <div type="opener">
+                <head type="0">
+                    <pb ed="-A" n="1" rend="noPipe"/>
+                    <idno>29</idno>
+                </head>
+                
+                    <dateline>
+                        <placeName ref="kbga-places-67">
+                            <hi rend="i">Genf</hi></placeName>, <date when="1910-01-16">Sonntag, den
+                            16. Januar 1910</date> <date rend="right">(2. nach Epiphanias)</date>
+                    </dateline>
+                    <epigraph>
+                        <cit>
+                            <ref type="can" subtype="bible" target="Jak.1.2 Jak.1.4">Jakobus 1,2–4</ref>
+                            <quote>
+                                <hi rend="italic" resp="kb">Seht es für lauter Freude an,
+                                    meine Brüder, wenn ihr in allerlei Versuchungen geratet; ihr
+                                    wisst ja, dass die Bewährung eures Glaubens Standhaftigkeit
+                                    bewirkt. Die Standhaftigkeit aber soll es zur Vollkommenheit
+                                    bringen, damit ihr vollkommen werdet und ganz, in keiner
+                                    Beziehung rückständig.</hi>
+                            </quote>
+                        </cit>
+                    </epigraph>
+                
+                <salute>Meine lieben Freunde!</salute>
+                </div>
+                <div type="main">
+                <p> In der Stadt <placeName ref="kbga-places-244">Königsberg</placeName> in Preußen
+                    steht ein Grabstein mit der rätselhaften kurzen Inschrift: «Der bestirnte
+                    Himmel über mir und das moralische Gesetz in mir.»<note xml:id="n01">Es handelte sich nicht um einen Grabstein, sondern um eine zum
+                        100. Todestag <persName ref="kbga-actors-216">Kants</persName> am
+                        12. Februar 1904 am <placeName ref="kbga-places-244">Königsberger</placeName> Schloss angebrachte Gedenktafel, auf
+                        der nicht nur dieser Satz, sondern das im Text folgende Zitat komplett
+                        wiedergegeben war. Das Original ist seit 1945 verschollen, eine Replik
+                        befindet sich seit 1955 im Brunnenhof des <placeName ref="kbga-places-193">Duisburger</placeName> Rathauses.</note> Das Grab ist das
+                    des Philosophen <persName ref="kbga-actors-216">Immanuel Kant</persName>, und die Inschrift stammt aus dem Schlusswort einer seiner
+                    gewaltigsten Schriften, einer der gewaltigsten, die überhaupt geschrieben
+                    sind; «Zwei Dinge», sagt er dort, «erfüllen das Gemüt mit immer neuer und
+                    zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das
+                    Nachdenken damit beschäftigt: der bestirnte Himmel über mir und das
+                    moralische Gesetz in mir.»<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-645">
+                                <author ref="kbga-actors-216">I. Kant</author>, <hi rend="i">Kritik der
+                            praktischen Vernunft</hi> (1788), Akademie-Ausgabe, Bd. 5, Berlin
+                        1908/13, S. 1–164, dort S. 162.</bibl>
+                        </note> Denn, meint er, wie der
+                    Anblick der grenzenlosen Sternenwelt den Menschen daran erinnere, dass <pb ed="-A" n="2"/> er selbst ein kleines, kleinstes Glied ist der
+                    grenzenlosen <term type="Sachen" key="Natur">Naturwelt</term>, so erinnere
+                    ihn die Besinnung auf das moralische <term type="Sachen" key="Gesetz, moralisches">Gesetz</term> seines Innern daran, dass er zur
+                    selben Zeit der unsichtbaren Welt des persönlichen <term type="Sachen" key="Leben, persönliches">Lebens</term> angehöre oder angehören sollte.
+                    Und wie der Anblick das <term type="Sachen" key="Himmel">Nachthimmels</term>
+                    und der unendlich fernen Gestirnswelten, die seit tausend, tausend Jahren
+                    nach ewigen, ehernen großen Gesetzen<note xml:id="n03">Vgl.
+                        <bibl corresp="kbga-bibls-117">Strophe 6 des Gedichts «Das Göttliche» von <author ref="kbga-actors-136">J. W. von Goethe</author>
+                        (Erstdruck: 1785; Berliner Ausgabe. Poetische Werke, Bd. 1, Berlin 1965,
+                        S. 331–33, dort S. 332</bibl>; s. oben S. 272, bei Anm. 4.</note>
+                    ihre Bahn durchlaufen, wie dieser Anblick ihm ein erschüttern <pb xml:id="p295" ed="pga"/> des Symbol sei für die Begrenztheit seines Daseins, wie er
+                    ihn hinunterdrücke auf die Stufe des tierischen <term type="Sachen" key="Geschöpfe">Geschöpfs</term>, das eine kurze Weile da ist und dann
+                    hinweg geht, wer weiß wohin?, so offenbare ihm das moralische Gesetz seines
+                        <term type="Sachen" key="Gesetz, moralisches">Innern</term> den Eingang
+                    zu <hi rend="i">der</hi> Welt, die erst wirklich ewig und unendlich sei, zu der
+                    Welt der <term type="Sachen" key="Freiheit">Freiheit</term> und der
+                    Unabhängigkeit, zu der Welt der <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term>. – |</p>
+                <p> Das hohe Lied des sittlichen <term type="Sachen" key="Sittlichkeit">Ernstes</term>, der den Menschen erst zum Menschen macht, der ihn die
+                        <term type="Sachen" key="Ewigkeit">Ewigkeit</term> erleben lässt mitten
+                    in der <term type="Sachen" key="Zeitlichkeit">Zeitlichkeit</term>! Wir haben
+                    auch am letzten Sonntag Töne aus diesem Lied vernommen, und wer würde nicht
+                    gerne in die brausende Siegeshymne einstimmen, trotzbietend dem müde
+                    machenden Druck der Welt und ihrer Versuchungen, in die Siegeshymne des
+                    triumphierenden Lebens, wie <persName ref="kbga-actors-216">Kants</persName> größter Schüler, <persName ref="kbga-actors-764">Friedrich Schiller</persName>,<note xml:id="n04">Vorwiegend auf dem Gebiet der Ästhetik und Literaturtheorie, aber auch
+                        darüber hinaus wird Friedrich Schiller in der Forschung damals wie heute
+                        als Schüler Kants bezeichnet, der seine Einsichten allerdings nicht
+                        allein Kant verdankte; vgl. etwa <bibl corresp="kbga-bibls-2621">
+                                <author ref="kbga-actors-9230">R. Wellek</author>, <hi rend="i">Geschichte der
+                            Literaturkritik 1750–1950</hi>, Bd. 1: <hi rend="i">Das späte 18.
+                            Jahrhundert. Das Zeitalter der Romantik</hi>, Berlin / New York
+                        1978, S. 231–257, dort bes. S. 236</bibl>. – Zur zeitgenössischen
+                        Betrachtung vgl. <bibl corresp="kbga-bibls-2622">
+                                <author ref="kbga-actors-9231">M. Brasch</author>, <hi rend="i">Lehrbuch der Geschichte der Philosophie,
+                            zugleich als Repetitorium für Studirende, Candidaten und
+                            Doctoranden, sowie zum Selbstunterricht</hi>, Rossberg 1893,
+                        S. 344</bibl>, der Schiller als einen der «frühesten» jener «Anhänger» Kants
+                        bezeichnet, «welche die Principien und Ideen des Kriticismus in Schrift
+                        und Wort zu verbreiten bemüht» waren.</note> sie angestimmt hat:</p>
+                    <q rend="block">
+                        <lg>
+                            <l>Es ist kein leerer, schmeichelnder Wahn,</l>
+                            <l>Erzeugt im Gehirne des Toren;</l>
+                            <l>Im Herzen kündet es laut sich an:</l>
+                            <l>Zu was Besserm sind wir geboren.</l>
+                            <l>Und was die innere Stimme spricht,</l>
+                            <l>Das täuscht die hoffende Seele nicht.<note xml:id="n05">
+                                    <bibl corresp="kbga-bibls-2623">Dritte Strophe des Gedichts «Hoffnung» von 
+                                        <author ref="kbga-actors-764">Fr. Schiller</author> (Erstdruck 1798; Sämtliche Werke,
+                                    Bd. 1, München 1962<hi rend="sup">3</hi>, S. 216f., dort
+                                    S. 217).</bibl>
+                                </note>
+                            </l>
+                        </lg>
+                    </q>
+                <p> <pb rend="noPipe" ed="-A" n="3"/> Aber nun lasst mich euch zurückführen durch eine
+                    lange Reihe von Jahrhunderten zu einem andern Mann, der hat auch zu sagen
+                    gewusst von der Majestät und Herrlichkeit des sittlichen <term type="Sachen" key="Gesetz, sittliches">Gesetzes</term> im Men<pb xml:id="p296" ed="pga"/>schen, wie <persName ref="kbga-actors-216">Kant</persName> und <persName ref="kbga-actors-764">Schiller</persName> sie unserm
+                    Geschlecht gepredigt haben. Aber er hat keine Siegeshymne angestimmt. «Das
+                    Gesetz ist heilig», sagt er, «und das Gebot ist heilig, gerecht und
+                    gut… Ich aber bin fleischlich», fährt er fort, «unter die Sünde
+                    verkauft… Denn das <term type="Sachen" key="Gutes / das Gute">Gute</term>, das ich will, das tue ich nicht, sondern das <term type="Sachen" key="Böses / das Böse">Böse</term>, das ich nicht will,
+                    das tue ich… Ich habe Lust an Gottes <term type="Sachen" key="Gesetz, göttliches">Gesetz</term> nach dem inwendigen Menschen, ich
+                    sehe aber ein ander Gesetz in meinen Gliedern, das kämpft gegen das Gesetz
+                    meines Denkens und nimmt mich gefangen in das Gesetz der <term type="Sachen" key="Sünde">Sünde</term>, das in meinen Gliedern ist. Ich unglücklicher
+                    Mensch, wer wird mich erlösen von diesem Leibe des Todes?» Ihr wisst, dass
+                    es der Apostel <persName ref="kbga-actors-313">Paulus</persName> war, der so
+                    geredet hat im siebten Kapitel seines Briefs an die Römer 
+                    [<ref type="can" subtype="bible" target="Röm.7.12 Röm.7.24">Röm. 7,12–24</ref>].
+                    Und ihr wisst, wie etwas von der herben Wahrheit, die er damit aussprach,
+                    auch unser aller Erfahrung ist, wie auch wir etwas davon erlebt haben und
+                    erleben, wie unglücklich uns das macht, wenn der Geist willig, aber das
+                    Fleisch schwach ist [vgl. <ref type="can" subtype="bible" target="Mk.14.38">Mk. 14,38</ref> par.].</p>
+                <p>Etwas davon, sage ich. Denn wir wollen keine Phrasen machen, wir wollen uns
+                    nicht einbilden, dass uns Allen ohne Weiteres die Herrlichkeit des
+                    sittlichen <term type="Sachen" key="Gesetz, sittliches">Gesetzes</term> so
+                    deutlich sei, wie sie einem <persName ref="kbga-actors-216">Kant</persName> gewesen ist, noch die tiefe innere <term type="Sachen" key="Not">Not</term>, in die es uns versetzt, so lebendig, wie sie es
+                    einem <persName ref="kbga-actors-313">Paulus</persName> war. Das sind die
+                    großen Führer der Menschheit, vor deren innerm Auge die Dinge in ihrer
+                    Mannigfaltigkeit dastehen, wie sie sind und wie sie sein sollten. Wir <pb ed="-A" n="4"/> Andern wollen uns freuen, dass wir uns an den
+                    scharfen, klaren Bildern, wie diese Führer sie gesehen, orientieren können
+                    über unsern eigenen Weg. Der Gehorsam gegen das moralische <term type="Sachen" key="Gesetz, moralisches">Gesetz</term> führt dich in
+                    einen Kampf mit dir selbst, der dich tief unglücklich macht, sagt mir Paulus
+                    von Tarsus, und ich spüre wohl, dass er recht hat. Und: der Gehorsam gegen
+                    das moralische Gesetz macht dich zur freien, lebendigen <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term>, sagt mir Immanuel Kant,<note xml:id="n06">Vgl. etwa <bibl corresp="kbga-bibls-1509">
+                                <author ref="kbga-actors-216">I. Kant</author>, <hi rend="i">Die Religion innerhalb der
+                            Grenzen der bloßen Vernunft</hi> (1793), Akademie-Ausgabe,
+                        Bd. 6, Berlin 1914, S. 1–202, dort S. 27f.</bibl>: «Die Idee des
+                        moralischen Gesetzes allein mit der davon unzertrennlichen Achtung kann
+                        man nicht füglich eine <hi rend="i">Anlage</hi> für die
+                            <hi rend="i">Persönlichkeit</hi> nennen; sie ist die Persönlichkeit
+                        selbst (die Idee der Menschheit ganz intellectuell betrachtet).»</note>
+                    und ich spüre ebensowohl, dass auch er recht hat. Wenn wir auch mehr spüren
+                    als verstehen, was die Großen in ihrer schein<pb xml:id="p297" ed="pga"/>baren
+                    Einseitigkeit geschaut und gewollt, dann ist unser Weg abgesteckt, wie wir
+                    den Lauf einer verschneiten Bergstraße an den Abweissteinen<note xml:id="n07">Auch: Prellstein. – «[…] im
+                        Straßenbau ein unbearbeiteter oder zugerichteter Stein, der alle
+                        2–5 m wenig innerhalb des Straßenrandes, ohne Verbindung mit
+                        seinen Nachbarn, eingegraben wird, so daß er 0,4–1 m über die
+                        Straßenoberfläche hervorragt, dient zum Schutze der Menschen, Tiere und
+                        Fahrzeuge gegen Absturz von Dämmen und Anschnitten» (<bibl corresp="kbga-bibls-2624">Art. «Prellstein»,
+                        in; Meyers Großes Konversations-Lexikon, 6. Aufl., Bd. 16,
+                        Leipzig / Wien 1908, S. 277</bibl>).</note> am Rande deutlich verfolgen können.
+                    Es handelt sich nur noch darum, den Weg auch zu gehen.</p>
+                <p>
+                    <persName ref="kbga-actors-8959">Jakobus</persName>, mit dem wir uns heute
+                    wieder beschäftigen wollen, ist keiner von den scharfen, klaren Führern
+                    gewesen. Man kann nicht sagen, dass seine Gedanken Wegmarken geworden seien
+                    für das geistige <term type="Sachen" key="Leben, geistiges">Leben</term> der
+                    Menschen. Dafür beschreibt er ganz einfach und schlicht, wie man von einer
+                    Wegmarke zur andern komme, von der <term type="Sachen" key="Not">Not</term>
+                    des Kampfes zur <term type="Sachen" key="Freude">Freude</term> des Sieges.
+                    Und das ist wahrlich auch des Dankes wert.</p>
+                
+                <p rend="margin-top">
+                        <hi rend="i">Seht es für lauter Freude an, wenn ihr in allerlei
+                        Versuchungen geratet. Ihr wisst ja, dass die Bewährung eures Glaubens
+                        Standhaftigkeit bewirkt</hi>. Der Weg über die Versuchungen weg ist
+                    der Weg zu <term type="Sachen" key="Versuchung, Weg zu Gott">Gott</term>, so
+                    sahen wir’s das letzte Mal, weil jede Versuchung ein Anlass ist, eine
+                    Gelegenheit, zu kämpfen, den Willen <term type="Sachen" key="Wille Gottes">Gottes</term> fester ins Auge zu fassen und so Gott selbst näher zu
+                    kommen. Das Leben des <pb ed="-A" n="5"/> lebendigen <term type="Sachen" key="Christen, lebendige">Christen</term> wird zu einem
+                    fortgesetzten Kampf gegen die Trägheit, die Sinnlosigkeit, die <term type="Sachen" key="Gleichgültigkeit">Gleichgiltigkeit</term>, und dieser
+                    Kampf ist wieder nichts Anderes als der Kampf um einen Lebensinhalt, der
+                    Kampf um Gott. Und von da aus wurde es uns wohl verständlich, wie Jakobus
+                    dazu kommt, zu sagen, die Versuchungen bedeuteten für den Christen
+                    schließlich lauter <term type="Sachen" key="Versuchung, Freude">Freude</term>. Einen Blick in die Freude des persönlichen Lebens, die
+                    allein den Namen Freude verdient, haben wir da getan. Und das ungeschriebene
+                    sittliche <term type="Sachen" key="Gesetz, sittliches">Gesetz</term> des
+                    inwendigen Menschen ist vor uns aufgeleuchtet wie ein Kriegspanier, das zur
+                    Nachfolge auffordert. Aber – aber – mussten wir dabei im
+                    Stillen doch denken: Wie steht’s denn, wenn wir die Gelegenheit zum
+                    Kämpfen vergessen, wenn uns die <term type="Sachen" key="Nachfolge">Nachfolge</term> zu sauer wird? Dann verkehrt sich offenbar <pb xml:id="p298" ed="pga"/> die <term type="Sachen" key="Freude">Freude</term> in ihr
+                    Gegenteil, und die Versuchungen bleiben doch, was sie waren, sie machen uns
+                    traurig und unglücklich. Und wenn wir’s überschlagen, wie
+                    wir’s bis jetzt gehalten haben und halten bei den Gelegenheiten, dem
+                        <term type="Sachen" key="Gesetz, göttliches">Gottesgesetz</term> Treue
+                    zu beweisen, dann kommen uns wohl die rechtschaffen gekämpften Kämpfe vor
+                    wie hilflose vereinzelte Schwimmer aus einem Schiffbruch im gurgelnden
+                    Meeresstrudel der verpassten Gelegenheiten. Und dann bekommen wir wohl auch
+                    Lust, mit <persName ref="kbga-actors-313">Paulus</persName> zu seufzen: Das
+                        <term type="Sachen" key="Gebote">Gebot</term> ist heilig, gerecht und
+                    gut, aber das <term type="Sachen" key="Gutes / das Gute">Gute</term>, das
+                    ich will, das tue ich nicht.</p>
+                <p> Mit der Behauptung, dass es lauter Freude sei, in allerlei <term type="Sachen" key="Versuchung, Freude">Versuchungen</term> zu geraten,
+                    hat uns <persName ref="kbga-actors-8959">Jakobus</persName> offenbar die
+                    Richtung angegeben, in der wir zu wandern haben. Er wollte seinen Lesern und
+                    uns sagen: ihr lieben Mitchristen, sucht die Art, euren <term type="Sachen" key="Glaube">Glauben</term> zu betätigen, nur nicht zu weit. Nicht in
+                    theologischen Spekulationen und nicht in besondern frommen <term type="Sachen" key="Werke, fromme">Werken</term>, sondern schlecht und
+                    recht in eurem Leben in der Welt, wie sie nun einmal ist, in eurem <term type="Sachen" key="Beruf">Berufsleben</term> und in eurem tagtäglichen
+                    Verkehr mit den Menschen. Da sind die <term type="Sachen" key="Versuchung, Weg zu Gott">Versuchungen</term>, und da ist der Weg
+                        <pb ed="-A" n="6"/> zu Gott, den ihr gehen sollt. Aber er hat
+                    recht gut gewusst, wie schwer es ist, diesen Weg zu gehen. Und darum sagt er
+                    uns im nächsten Wort sehr schlicht, wie der erste Schritt auf diesem Weg
+                    aussieht: <hi rend="i">Ihr wisst, dass die Bewährung eures Glaubens Standhaftigkeit
+                        bewirkt</hi>. Er wollte damit offenbar sagen, jede Behauptung und
+                    Durchsetzung des innern Lebens, des <term type="Sachen" key="Gehorsam">Gehorsams</term> gegen das <term type="Sachen" key="Gesetz, göttliches">Gottesgesetz</term> erzeuge eine gewisse Beharrlichkeit dieses innern
+                    Gehorsams, sie lasse den Menschen reifer und reicher den weitern
+                    Versuchungen der stumpfen <term type="Sachen" key="Welt, stumpfe">Welt</term><note xml:id="n08">Anspielung auf die <bibl corresp="kbga-bibls-1871">siebte
+                        Strophe des Gedichts «Epilog zu Schillers ­Glocke» von <author ref="kbga-actors-136">J. W. von Goethe</author></bibl>
+                        (s. oben, <ref type="pub" target="../volume/53/p293#fn_n15">S. 293, Anm. 15</ref>).</note> entgegengehen, die ja nach dem siegreich
+                    gekämpften Kampf immer wieder folgen müssen.</p>
+                <p>Wenn wir das verstehen wollen, müssen wir uns aber vor Allem klar sein,
+                        <hi rend="i">was</hi> denn das ist, das da bewährt, behauptet, durchgesetzt
+                    werden soll gegenüber den <term type="Sachen" key="Versuchung">Versuchungen</term> der Welt. Es wird im Leben der Menschen viel
+                    behauptet und durchgesetzt, und was dann herauskommt, sieht der
+                    Standhaftigkeit, von der Jakobus redet, zum Verwechseln ähnlich und ist doch
+                    etwas ganz Anderes. Es würde besser <term type="Sachen" key="Eigensinn">Eigensinn</term> heißen, und ob wir dabei an den gewöhnlichen
+                    weltlichen <pb xml:id="p299" ed="pga"/> Eigensinn denken oder an den frommen
+                    Eigensinn, wie er bei Heiden und Christen gleich üppig gedeiht, es kommt
+                    aufs Selbe heraus, jedenfalls ist er nicht die Standhaftigkeit, von der
+                    Jakobus nachher meint, dass sie zur Vollkommenheit führe. Jakobus hat also
+                    nicht an die Bewährung unsrer kleinen Gedanken und Wünsche gedacht über das,
+                    was wir für gut und nützlich halten, auch dann nicht, wenn wir diese
+                    Gedanken und Wünsche ins Mäntelchen der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> hüllen, denn solche Bewährung wäre
+                    nichts Besonderes als eben weltlicher oder frommer <term type="Sachen" key="Eigensinn, frommer">Eigensinn</term>. Von der Bewährung des <term type="Sachen" key="Glaube, Bewährung">
+                            <hi rend="i">Glaubens</hi></term>&gt; hat
+                    er geredet. Aber nun braucht man auch nur das Wort <term type="Sachen" key="Glaube">«Glauben»</term> auszusprechen, um für viele Menschen
+                    eine neue ägyptische Sphinx<note xml:id="n09">Anspielung auf die
+                        Doppeldeutigkeit der Rätsel stellenden mythologischen Mischwesen, die
+                        besonders vor ägyptischen Tempeln platziert waren. Vgl. <bibl corresp="kbga-bibls-2625">
+                                <author ref="kbga-actors-9232">C. Meier-Seethaler</author>, <hi rend="i">Drei unsterbliche Monster: Drache, Sphinx
+                            und Greif</hi>, in: <hi rend="i">Spinnenfuß und Krötenbauch. Genese und
+                            Symbolik von Kompositwesen</hi>, hrsg. von P. Michel (Schriften
+                        zur Symbolforschung, Bd. 16), Zürich 2013, S. 99–106, dort
+                        S. 102f</bibl>. Zu Barths gelegentlicher Verwendung des Vergleiches von
+                        Theologie / Religion mit Sphingen vgl. <bibl corresp="kbga-bibls-26">V.u.kl.A. 1930–1933,
+                        <ref type="pub-" target="../volume/49/p015#fn_n28">S. 15, Anm. 28</ref></bibl>.</note> in den <pb ed="-A" n="7"/> Horizont ihres
+                    Lebens hineinzustellen. Es gibt kaum ein gröber gemissbrauchtes Wort als das
+                    Wort «glauben», und eben der Missbrauch des Wortes hat die Sache für Viele
+                    zum Rätselding gemacht. Der gebräuchlichste Missbrauch besteht darin, dass
+                    man sagt, Glaube sei die Zustimmung zu allerlei Behauptungen, von denen man
+                    nicht ganz sicher sei, ob sie auch wahr <term type="Sachen" key="Glaube, und Wissen">seien</term>, z. B. zu der Behauptung, dass ein
+                    Gott da sei, dass der Mensch nach dem Tode fortlebe und dergleichen. Die
+                    Bewährung eines derartigen Glaubens pflegt dann darin zu bestehen, dass man
+                    nachliest oder sich von andern erzählen lässt, was <persName ref="kbga-actors-136">Goethe</persName> und <persName ref="kbga-actors-301">Nietzsche</persName> und <persName ref="kbga-actors-150">Häckel</persName> und <persName ref="kbga-actors-4364">Forel</persName><note xml:id="n10">Wie Ernst <persName ref="kbga-actors-150">Haeckel</persName> war auch der Schweizer
+                        Psychiater, Hirnforscher und Entomologe <persName ref="kbga-actors-4364">August-Henri Forel</persName>
+                        (1848–1931) ein führender Vertreter des <term type="Sachen" key="Monismus">Monismus</term> und Mitunterzeichner des
+                        Gründungsaufrufs für den Deutschen Monistenbund (s. oben, <ref type="pub" target="../volume/53/p179#fn_n12">S. 179,
+                        Anm. 12</ref>). 1898 zog Forel sich von seinen ­beruflichen Verpflichtungen
+                        zurück und lebte seit 1902 in <placeName ref="kbga-places-1131">Yvorne bei Aigle VD</placeName>. Von dort aus
+                        entfaltete er ein großes Engagement in philosophischen,
+                        sozialreformerischen und medizinisch-ethischen Fragen, das besonders
+                        auch im nahen Genf seine Wirkung nicht verfehlte. «Der Monismus, den
+                        Forel unermüdlich vertrat, hatte bei ihm stark ersatzreligiöse Züge» (
+                            <bibl corresp="kbga-bibls-2626">
+                                <author ref="kbga-actors-9233">R. Barth</author>,
+                            <hi rend="i">Freidenker – Monisten – Gottlose. Ein Beitrag
+                            zur Geschichte atheistischer Bewegungen in der deutschen Schweiz
+                            1900–1940</hi>, in: ThZ 41 [1985], S. 412–433, dort
+                        S. 423</bibl>).</note> für oder gegen diese
+                        <pb xml:id="p300" ed="pga"/> merkwürdigen Behauptungen zu sagen haben. Und
+                    wenn wirklich trotz Allem eine Bewährung dieses sogenannten Glaubens dabei
+                    heraussieht, so ist’s die, dass man befriedigt konstatiert, dass doch
+                    eine ganze Anzahl bedeutender Leute mit diesen Behauptungen einverstanden
+                    waren und dass man’s folglich als gebildeter Mensch vorderhand auch
+                    noch sein dürfe. Was haltet ihr von solchem Glauben und von solcher
+                    Bewährung des Glaubens? Es wird gerade heutzutage von sogenannten <term type="Sachen" key="Atheisten">Atheisten</term> und <term type="Sachen" key="Christen">Christen</term> so unendlich viel Pulver verschossen über
+                    die Frage, wie es mit diesen Behauptungen stehe; das Gezänk von beiden
+                    Seiten ist so heftig und aufdringlich, dass ein einfacher Christ wohl auf
+                    den Gedanken kommen muss, da sei bereits der Engel <persName ref="kbga-actors-9228">Michael</persName> im Kampfe mit dem Drachen der
+                    Endzeit [vgl. <ref type="can" subtype="bible" target="Apk.12.7">Apk. 12,7</ref>],
+                    und die Bewährung des Glaubens, von der <persName ref="kbga-actors-8959">Jakobus</persName> redet, bestehe in der Tat in der Entscheidung der Frage,
+                    ob <persName ref="kbga-actors-150">Häckel</persName> und seine
+                    lärmenden Genossen recht haben oder der sogenannte <term type="Sachen" key="Keplerbund">Keplerbund</term>,<note xml:id="n11">Der
+                            <term type="Sachen" key="Keplerbund">Keplerbund</term> war 1907 in
+                        Frankfurt/Main von <persName ref="kbga-actors-9234">Eberhard Dennert</persName> (1861–1942) gegründet
+                        worden. Ziel war es, in bewusstem Widerspruch gegen den wesentlich von
+                            <persName ref="kbga-actors-150">Haeckel</persName>
+                        inspirierten Monistenbund die Vereinbarkeit von christlichem Glauben und
+                        Naturwissenschaft aufzuzeigen. Vgl. <bibl corresp="kbga-bibls-2627">
+                                <author ref="kbga-actors-9235">P. Ziche</author>, <hi rend="i">Wissenschaftliche
+                            Weltanschauung. Gemeinsamkeiten und Differenzen monistischer und
+                            anti-monistischer Bewegungen</hi>, in: <hi rend="i">Angst vor der
+                            Moderne. Philosophische Antworten auf Krisenerfahrungen. Der
+                            Mikrokosmos Jena 1900–1940</hi>, hrsg. von Kl.-M. Kodalle
+                        (Kritisches Jahrbuch der Philosophie, Bd. 5), Würzburg 2000,
+                        S. 63–88, dort bes. S. 70–75</bibl>.</note> von dem ihr letztes
+                    Jahr auch im Gemeindeblatt gehört habt.<note xml:id="n12">Gemeinde-Blatt für die Deutsche reformierte Genf, Jg. 5 (1909). Die
+                        Hefte 3 und 4 dieses Jahrgangs liegen weder im KBA noch in der
+                        Universitätsbibliothek Genf noch in der heutigen Deutschschweizer
+                        Reformierten Kirchgemeinde Genf vor. In den einsehbaren Heften 1, 2, 5
+                        und 6 fand sich kein entsprechender Artikel.</note> Aber mir
+                    will’s eben dunkel erscheinen, gerade angesichts unsres Textwortes,
+                    was ein solcher Glaube und eine solche Bewährung des <term type="Sachen" key="Glaube, Bewährung">Glaubens</term> mit den <term type="Sachen" key="Versuchung">Versuchungen</term> zu tun habe, von denen Jakobus
+                    redet. Denn das ist uns doch das letzte Mal deutlich geworden, dass es sich
+                    bei diesen Versuchungen <pb ed="-A" n="8"/> keineswegs um
+                    Behauptungen und Theorien handle, sondern um die sehr einfache praktische
+                    Frage, ob das Marktgetümmel der Sinnlosigkeit über uns und in uns herrschen
+                    solle oder <pb xml:id="p301" ed="pga"/> der gute und reine <term type="Sachen" key="Wille Gottes">Gotteswille</term>, der uns zu lebendigen Menschen
+                    machen will. Und wenn diese Frage sich daran entscheidet, ob unser Glaube
+                    sich bewährt oder nicht, so muss dieser Glaube offenbar etwas Anderes sein
+                    als eine fromme <term type="Sachen" key="Glaube, keine fromme Behauptung">Behauptung</term> und seine Bewährung etwas Anderes als der Streit mit
+                    den sogenannten <term type="Sachen" key="Atheisten">Atheisten</term> um die
+                    Frage: wer hat recht, ihr oder wir?</p>
+                <p> Wenn <persName ref="kbga-actors-8959">Jakobus</persName> vom Glauben redet,
+                    so verstand er eben auch etwas Einfaches und Praktisches darunter. Er und
+                    die ersten <term type="Sachen" key="Christen, erste">Christen</term>
+                    überhaupt. Ihr Glaube bestand darin, dass sie den Herrn Jesum nicht
+                    vergessen konnten, dessen Leben für sie zweierlei bedeutete: so
+                        <hi rend="i">sollt</hi> ihr auch sein, und so <hi rend="i">könnt</hi> ihr auch
+                    sein. Wenn sie sich daran erinnerten, an das, was er getan und gesprochen,
+                    an das, was er gewesen war, dann war’s ihnen klar: Da hat Gott <term type="Sachen" key="Jesus Christus, Gott hat geredet und redet zu uns">geredet</term>, und da redet er noch immer zu jedem von uns. So sollt
+                    ihr auch sein, so sollt ihr auch selbstlos werden, dienen, euch aufopfern,
+                    und so könnt ihr auch sein, so frei, so lebendig, so stark, so wie die
+                    Kinder und doch unendlich reif und reich durch’s Leben gehend. Wenn
+                    ein Mensch in der Erinnerung an Jesus so etwas erlebte und wenn er anfing,
+                    so mit Jesus zu leben, im ernsten <term type="Sachen" key="Gehorsam">Gehorsam</term> gegen das große Sollen und in dankbarer Empfänglichkeit
+                    für das große Können, der gehörte zu der verborgenen, zerstreuten
+                    Gottesgemeinde, die sich Christen nannte, und diese einfache innere
+                    Stellung, das war sein Glaube.</p>
+                <p>
+                        <hi rend="i">War!</hi> Nein, <term type="Sachen" key="Glaube">Glaube</term> ist
+                    auch heute nichts Anderes als diese einfache innere Stellung eines <term type="Sachen" key="Glaube, inneres Leben">Menschen</term>, der begonnen
+                    hat, nicht mehr sich selbst der Nächste zu sein, seine Augen und seinen
+                    Willen zu konzentrieren auf die Frage: wie und wo kann ich helfen und
+                    dienen, und der eben in diesem Beginnen gemerkt hat, wie das der einzige Weg
+                    ist, auf dem die Herrlichkeit des <pb ed="-A" n="9"/> verborgenen
+                        <term type="Sachen" key="Leben, Herrlichkeit des verborgenen L.">Lebens</term> ihn ergreift und mit fortträgt.</p>
+                <p>Wo solches inneres Leben entsteht, da entsteht es immer im Zusammenhang mit
+                    Jesus, auch da, wo dieser Zusammenhang für unsre Augen wenig deutlich sein
+                    mag. Und der Inhalt dieses innern Lebens ist, wenn es echt ist, immer nichts
+                    Anderes als das Leben Jesu, das uns Ziele zeigt und Ziele erreichen lässt.
+                    Und dies innere Leben heiße uns christlicher <term type="Sachen" key="Glaube, christlicher">Glaube</term>, nichts Anderes. Du fragst
+                    mich: und der Glaube an Gott, warum ist denn davon gar nicht die Rede? Sieh,
+                    lieber Freund, der Reformator <persName ref="kbga-actors-443">Zwingli</persName> hat einmal gesagt: Den <term type="Sachen" key="Glaube, Gott haben">Glauben</term> haben, heißt <pb xml:id="p302" ed="pga"/> Gott haben.<note xml:id="n13">Wohl eine
+                        zuspitzende Verkürzung der Position Zwinglis, wie sie etwa in dessen
+                        Schrift <bibl corresp="kbga-bibls-2439">
+                                <hi rend="i">Sermonis de providentia dei anamnema</hi> ausgeführt ist
+                            (<hi rend="i">Huldreich Zwinglis Sämtliche Werke</hi>, Bd. VI/3 [CR
+                        93/3], Zürich 1983, S. 1–230, dort bes. S. 169–192)</bibl>, wo es
+                        u. a. heißt: «Aus alledem lernt man das folgende: daß denen, die erwählt
+                        sind, der Glaube gegeben wird; und daß diejenigen, die den Glauben
+                        haben, gerechtgesprochen sind, das heißt: sie sind erlöst, so daß sie
+                        keine Verdammung erwartet. Nicht so, als ob der Glaube wie ein Werk ist,
+                        […], sondern daß diejenigen, die den Glauben an Gott haben, ohne
+                        jeglichen Zweifel wissen, daß Gott mit ihnen durch seinen Sohn versöhnt
+                        ist» (Übersetzung nach: <bibl corresp="kbga-bibls-735">
+                                <author ref="kbga-actors-443">H. Zwingli</author>, <hi rend="i">Schriften</hi>, im Auftrag des
+                        Zwinglivereins hrsg. von Th. Brunnschweiler / S. Lutz, Bd. 4, Zürich
+                        1995, S. 230f.</bibl>).</note> Kürzer und besser kann ich’s nicht
+                    ausdrücken. Wir wollen uns das abgewöhnen, so zu tun, als ob der liebe Gott
+                    etwas wäre, was zum rechten Glauben, zum rechten innern Leben, wie Jesus es
+                    gelebt hat, erst noch hinzukommen müsste. Nein, <hi rend="i">wenn</hi> du diesen
+                    Glauben hast, <hi rend="i">wenn</hi> diese einfache innere Stellung die deinige
+                    ist, mag’s auch noch recht ungeschickt und hilflos sein, dann hast du
+                    Gott, verlass dich drauf, nicht den Gott der oberflächlichen Menschen, der
+                    ein hoher Name ist, sondern den lebendigen <term type="Sachen" key="Gott, lebendiger">Gott</term>, den Jesus Christus seinen <term type="Sachen" key="Gott, Vater">Vater</term> genannt hat, den Gott, der
+                    wirkt und der Wunder tut.</p>
+                <p> Und dieses innere Leben, dieser <term type="Sachen" key="Glaube, inneres Leben">Glaube</term>, der christliche <term type="Sachen" key="Glaube, christlicher">Glaube</term> ist’s, der
+                    sich zu bewähren hat in den <term type="Sachen" key="Versuchung">Versuchungen</term>. Das Hin- und Herreden der christlichen und
+                    unchristlichen Professoren verhält sich zu dem Ernst dieser Aufgabe wie das
+                    harmlose Wellengeplätscher der Meeresoberfläche an einem Sommertag zu der
+                    abgründigen Tiefe des Ozeans.</p>
+                <p>
+                        <hi rend="i">Bewährung</hi> des <term type="Sachen" key="Glaube, Bewährung">Glaubens</term>! Die besteht für einen Christen darin, dass im ganz
+                    bestimmten Fall sein innerster Mensch vor die Frage gestellt ist: Sag
+                    einmal, soll’s eigentlich ernst sein? Ist das wirklich dein innerster
+                    Wille, zu helfen, zu dienen, dich hinzugeben? Und ist das wirklich dein
+                    innerster Gedanke, dich auf <pb ed="-A" n="10"/> diesem Weg von Gott
+                    zur freien, sittlichen <term type="Sachen" key="Persönlichkeit, freie und sittliche">Persönlichkeit</term> machen
+                    zu lassen? Ist das so oder nicht? Glaubst du oder nicht? Beides, jene
+                    Aufforderung und diese <term type="Sachen" key="Verheißung">Verheißung</term> sind uns vielleicht längst bekannte Dinge, wir meinen
+                    auch gar nicht, zu denen zu gehören, an deren Ohren sie bekannt, altbekannt
+                    alle Sonntage vorüberrauschen als schöne Sonntagsmusik. Wir freuen uns
+                    darüber, wir haben schon viel darüber nachgedacht, und wir glauben bestimmt,
+                    den Glauben zu haben. Aber nun kommt <pb xml:id="p303" ed="pga"/> irgend ein
+                    Umstand in unsern Weg, nicht am <term type="Sachen" key="Sonntag">Sonntag</term>, sondern am Mittwoch oder <term type="Sachen" key="Werktag">Donnerstag</term>, da käm’s nun einmal so recht
+                    drauf an, zu helfen, zu dienen, ohne dass wir selbst das Geringste davon
+                    haben, im Gegenteil, es kommt uns sauer genug an, es durchkreuzt uns so
+                    recht einen Lieblingswunsch. Wir merken’s wohl, und nun käm’s
+                    drauf an, nun müsste gerade das geschehen. Aber eins ist uns dunkel, wieso
+                    gerade das uns dem Ziele, freie Persönlichkeiten zu werden, das wir ja auch
+                    bewundern, näher führen sollte? Wieso gerade das? Jetzt müssten wir’s
+                    tun. Aber wieso gerade das? Ihr kennt das Alle, wie wir dann wohl so Momente
+                    lang bewusst oder unbewusst balancieren auf der schmalen Grenze, wo’s
+                    von der einen Seite heißt: nimm’s ernst! und von der andern:
+                    nimm’s bequem! Die Arten, wie solche <term type="Sachen" key="Glaube, Bewährung">Bewährung</term> über uns kommt, sind unendlich
+                    verschieden: einmal handelt es sich darum, etwas zu tun, das andre Mal,
+                    etwas nicht zu tun, etwas zu denken oder nicht zu denken, etwas zu leiden
+                    oder sich gegen etwas zu wehren, weich zu sein oder hart, geduldig oder
+                    rücksichtslos. Was es auch sei, die schmale Grenze ist immer dieselbe, wenn
+                    auch nur jeder <hi rend="i">selbst die</hi> Strecke dauernd übersehen kann, die
+                    durch sein Leben läuft. Für oder gegen Gott, das ist die Frage, <term type="Sachen" key="Glaube">Glaube</term> oder <term type="Sachen" key="Unglaube">Unglaube</term>, aber diesmal im tiefsten, letzten
+                    Sinn.</p>
+                <p> Ist’s dir nicht auch schon so ergangen, dass solche <term type="Sachen" key="Entscheidung">Entscheidungen</term> an dich <pb ed="-A" n="11"/> herantraten, Entscheidungen in scheinbar
+                    gleichgiltigen Angelegenheiten des Alltagslebens, aber es war die
+                    Entscheidung für oder gegen <term type="Sachen" key="Entscheidung, für oder gegen Gott">Gott</term>, die Entscheidung
+                    zwischen Glaube und Unglaube darin verborgen, und das merktest du recht gut,
+                    aber du wolltest doch lieber nicht daran denken, weil es viel bequemer war,
+                    die Sache als eine gleichgiltige Angelegenheit zu behandeln, die den lieben
+                    Gott nichts angehe. Und dann hast du dich demgemäß entschieden, und im
+                    Augenblick schien auch Alles ganz einfach und in der Ordnung. Aber dann kam
+                    der folgende Tag, der uns gewöhnlich eine nüchternere Beleuchtung der Dinge
+                    zu bringen pflegt als die folgenschweren Augenblicke, in denen wir denkend
+                    oder handelnd, redend oder schreibend die scheinbar gleichgiltigen
+                    Entscheidungen vollziehen, und in der Beleuchtung des folgenden Tags sind
+                    dir dann diese gleichgiltigen Entscheidungen vorgekommen, wie dem Landmann
+                    ein am Horizont sich verziehendes Hagelwetter vorkommen mag, das soeben über
+                    seine Felder niedergegangen ist. Aus und fertig schien’s mit der Herr<pb xml:id="p304" ed="pga"/>lichkeit deines Christenglaubens, deines innern
+                    Lebens, über die du dir so oft schöne und gute Gedanken gemacht.
+                    Katastrophe, Débacle, vollendete Sinnlosigkeit war die gleichgiltige <term type="Sachen" key="Entscheidung">Entscheidung</term> von gestern, und
+                    die einzige klare Erkenntnis, die daraus folgte, war die, dass es nun
+                    geraten sei, ganz von vorn anzufangen ohne die schönen Gedanken, sondern in
+                    einfacher Selbsterziehung und in einfachem Sich-Erziehen-Lassen von
+                    Gott.</p>
+                <p>So sieht’s aus, wenn der Glaube sich <hi rend="i">nicht</hi> bewährt, und
+                    das müssen wir uns klar machen, um zu verstehen, wie das aussieht, wenn er
+                    sich bewährt. Wenn du der Einsicht nicht ausweichst, wenn du sie klar ins
+                    Auge fassest, dass in der gleichgiltigen Entscheidung die Entscheidung für
+                    oder gegen <term type="Sachen" key="Entscheidung, für oder gegen Gott">Gott</term> verborgen sei, wenn dann dein Denken und Handeln und Fühlen
+                    der deutlichen Stimme Gottes folgt, wenn das innere Leben sich behauptet
+                    gegen die <term type="Sachen" key="Versuchung">Versuchung</term>, innerer
+                    Tod zu werden, das ist <pb ed="-A" n="12"/> des Glaubens <term type="Sachen" key="Glaube, Bewährung">Bewährung</term>. Und von ihr
+                    meint <persName ref="kbga-actors-8959">Jakobus</persName>, dass sie <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term>,
+                    Beharrlichkeit, Festigkeit bewirke, wie sie ein Glaube, der dergleichen
+                    nicht durchgemacht hat, nicht kennt. Wie der menschliche Körper am besten
+                    geschützt ist gegen die üblen Folgen von Kälte und Feuchtigkeit, wenn er
+                    abgehärtet ist durch viel freie Luft und viel Wasser, so wird das innere
+                        <term type="Sachen" key="Leben, inneres">Leben</term> stark dadurch,
+                    dass es im Kampf gegen die Versuchungen gestanden ist. Wenn sich der Glaube
+                    irgendwo bewährt hat, wenn der Mensch Ja oder Nein gesagt hat am rechten
+                    Ort, so ist das nicht Spreu, die im Wind verweht [vgl. <ref type="can" subtype="bible" target="Ps.1.4">Ps. 1,4</ref>], und der Mensch ist
+                    nachher nicht mehr einfach derselbe, so wenig der andre, dessen Glaube sich
+                    nicht bewährt hat, nachher derselbe ist. Wenn Gott in einem Menschen gesiegt
+                    hat, und wäre die Sache auch noch so geringfügig, das hinterlässt eine sehr
+                    deutliche Spur. Das bereichert und verstärkt die Anfänge der <term type="Sachen" key="Gotteskraft">Gotteskräfte</term> in ihm, das lässt
+                    ihn einen Blick tun in das Land der <term type="Sachen" key="Freiheit">Freiheit</term>, in das die Gotteskraft ihn führen möchte, und die
+                    Erinnerung daran wird der wertvollste Bundesgenosse für den nächsten Kampf,
+                    der nicht lange wird auf sich warten lassen.</p>
+                <p> Die Bewährung des <term type="Sachen" key="Glaube, Bewährung">Glaubens</term> bewirkt Standhaftigkeit. Nicht wahr, ihr kennt das
+                    auch, das gehobene, sieghafte Wesen, das uns erfüllt, der freiere Atem, den
+                    wir haben, wenn wir einmal so in aller Verborgenheit unsern Glauben bewährt
+                    haben. Wir merken dann, es ist ein Schritt getan, und das macht uns lebendig
+                    und fröhlich und mutig für <pb xml:id="p305" ed="pga"/>
+                    <anchor type="note" xml:id="fn-a"/>den nächsten<note type="textcritical" n="a" xml:id="na" target="fn-a"> Im Mskr. mit Bleistift eingefügt anstelle von: «die
+                            Zukunft».</note>. Und doch rede ich lieber kein Wort weiter über die Herrlichkeit
+                    dieser <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term>.
+                    Jakobus hält sich auch nicht dabei auf, sondern fährt gleich weiter:
+                        <hi rend="i">Die Standhaftigkeit aber soll es zur Vollkommenheit bringen, damit
+                        ihr</hi> (selbst) <hi rend="i">vollkommen werdet und ganz, in keiner
+                        Beziehung rückständig.</hi> Er meint also, nach getanem Schritt, nach
+                    geschehener Bewährung müsse der Blick sich gleich auf neue Ziele wenden,
+                    denn die <pb ed="-A" n="13"/> Hauptsache liege immer noch vor uns.
+                    Wie gefällt euch das? Nicht wahr, wenn einer etwas Schönes und Gutes
+                    erreicht hat mit kräftiger Anstrengung, dann kann ihm eigentlich nichts
+                    Langweiligeres und Lästigeres passieren, als wenn nun einer dazukommt und
+                    ihm sagt: ja, aber es ist noch lange nicht Alles erreicht! Vorwärts! Weiter!
+                    Sich seiner Lorbeeren zu freuen, das wäre ihm <anchor type="note" xml:id="fn-b"/>die viel<note type="textcritical" n="b" xml:id="nb" target="fn-b"> Mskr.: «viel die»; von den Hrsg. umgestellt.</note>
+                     willkommenere Mahnung. Diese Empfindung mag auf allen möglichen
+                    Gebieten berechtigt und harmlos sein, auf dem geheimnisvollen Gebiet des
+                    innern <term type="Sachen" key="Leben, inneres">Lebens</term>, wo wir aus
+                    essenden und trinkenden und schlafenden Naturwesen zu wirklichen <term type="Sachen" key="Mensch, wirklicher">Menschen</term> erzogen werden,
+                    hier ist das anders. Auf <anchor type="note" xml:id="fn-c"/>
+                        <hi rend="i">dem</hi> Weg, den wir <hi rend="i">da</hi><note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. jeweils nachträglich mit Bleistift
+                                unterstrichen.</note>
+                         zu gehen haben, tut sich an einer Stelle der
+                    allergefährlichste Abgrund auf, und das ist die Stelle, wo die
+                    Siegeslorbeeren wachsen, gerade die Stelle, die uns die allererfreulichste
+                    dünkt. Auf diesen Abgrund will uns <persName ref="kbga-actors-8959">Jakobus</persName> hinweisen, wenn er so eilfertig fortfährt, die
+                    Standhaftigkeit müsse es zur <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term> bringen. Es steht nämlich so mit diesem Abgrund:
+                    wer davor stillsteht, um auch nur auf einen Augenblick nach dem
+                    Taschenspiegel zu langen, um sich selbst im Schatten der Lorbeeren zu
+                    beschauen, der fällt hinein, ganz sicher. Stillstehen im Bewusstsein der
+                    eben erworbenen <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term> gilt nicht. Vor dem Abgrund hilft nur eins:
+                    vorwärts! hinüber, weiter! Und zwar mit Anlauf, lieber Freund!</p>
+                <p>Warum weiter? Warum nicht haltmachen und ruhen? Jakobus gibt eine treffliche
+                    Antwort: weil es sich darum handelt, dass <hi rend="i">ihr selbst vollkommen werdet
+                        und ganz</hi>. Der Entschluss, der Gedanke, die Tat, in denen du
+                    deinen Glauben bewährt hast, sie mögen schön und gut <pb xml:id="p306" ed="pga"/>
+                    gewesen sein, vielleicht sogar vollkommen und ganz, besser gar nicht zu
+                    denken, aber wenn sich’s um den <term type="Sachen" key="Glaube">Glauben</term>, um das innere Leben handelt, ist die Frage eben die,
+                    dass du selbst, lieber Freund, vollkommen und <pb ed="-A" n="14"/>
+                    ganz werdest und in keiner Beziehung rückständig. Was du in der Bewährung
+                    deines <term type="Sachen" key="Glaube, Bewährung">Glaubens</term> getan und
+                    gedacht und erkämpft hast, das gibt dir jene <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term> mit auf den Weg, aber nur
+                    auf den Fall, dass du diesen Weg fortsetzest. Unsre guten Taten und Gedanken
+                    selbst sind vergangen, vorüber, sie gehören zu den gleichgiltigen Dingen,
+                    die hinter uns liegen. Aufspeichern kann man sie nicht. Die katholische
+                        <term type="Sachen" key="Kirche, römisch-katholische">Kirche</term>
+                    freilich meint, sie könne das, und redet von guten <term type="Sachen" key="Gute Werke">Werken</term>, die der Mensch mitnehme als Gepäck auf
+                    die große Reise in die Ewigkeit, um sie dort dem lieben Gott zu
+                    präsentieren, wie man wohl einem Schuldner seine Rechnung präsentiert.<note xml:id="n14">Die einschlägigen Aussagen finden sich in den
+                        Kanones über die Rechtfertigung des Konzils von <term type="Sachen" key="Konzil von Trient">Trient</term> (<bibl corresp="kbga-bibls-25">DH 1551–1583</bibl>); vgl.
+                        bes. Kan. 32 (DH 1582): «Wer sagt, der Gerechtfertigte erlange mit den
+                        guten Werken, die von ihm durch Gottes Gnade und das Verdienst Jesu
+                        Christi (dessen lebendiges Glied er ist) getan werden, in Wahrheit nicht
+                        die Vermehrung der Gnade, das ewige Leben und (sofern er nur in der
+                        Gnade gestorben ist) den Eintritt in dieses ewige Leben, wie auch die
+                        Vermehrung der Herrlichkeit: der sei mit dem Anathema belegt.»</note>
+                    Und viele liebe protestantische <term type="Sachen" key="Christen, protestantische">Mitchristen</term> sind in diesem Stück
+                    wie in noch manchem andrem die reinen Katholiken, hausieren mit ihren guten
+                    Werken oder dem, was sie dafür halten, und sind jeden Augenblick bereit,
+                    ihren Mitmenschen und dem lieben Gott eine umständliche Rechnung darüber
+                    vorzulegen. Aber die Täuschung, die darin steckt, ist beträchtlich.</p>
+                <p> Denn für Gott kommt es – nicht nur in deiner <term type="Sachen" key="Tod">Todesstunde</term>, sondern in jedem Augenblick – nicht
+                    darauf an, was du getan hast und was du tust, sondern darauf, was du <hi rend="i">bist</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. doppelt unterstrichen.</note>
+                        . Auf den <term type="Sachen" key="Glaube">Glauben</term>
+                    kommt es ihm an, auf dein inneres <term type="Sachen" key="Leben, inneres">Leben</term>. Das muss sich freilich bewähren in deinen Gedanken,
+                    Worten und Taten, aber nur wenn und weil das innere Leben, der Glaube sich
+                    darin bewährt, hat Gott Freude daran. Im Übrigen sind sie gleichgiltig; denn
+                    es gibt vor Gottes Auge nur gute Menschen, keine guten Werke. Wenn das
+                    Vollkommenheit wäre, dass <pb xml:id="p307" ed="pga"/> wir zwei bis drei oder zehn
+                    oder zwanzig gute <term type="Sachen" key="Gute Werke">Werke</term> tun,
+                    fromme Gedanken haben, rechtschaffene Taten tun entweder von jeher oder erst
+                    auf dem Sterbebette wie König <persName ref="kbga-actors-3886">Leopold von Belgien</persName>,<note xml:id="n15">
+                            <persName ref="kbga-actors-3886">Leopold II. von Belgien</persName> 
+                        (1835–1909), seit 1865 König der Belgier, forcierte bald nach
+                        seinem Amtsantritt die Kolonialisierung des <placeName ref="kbga-places-997">Kongo</placeName>. 1885 ließ er sich vom belgischen Parlament
+                        zum souveränen König des inzwischen geschaffenen formal unabhängigen
+                        Kongo-Freistaats bestimmen, der ihm somit persönlich gehörte. Die immer
+                        stärker zunehmende europaweite Kritik an seiner extrem brutalen und
+                        blutigen Herrschaft, die Millionen Tote und Verstümmelte hinterließ,
+                        führte 1908 dazu, dass das belgische Parlament die Hoheit über den Kongo
+                        dem belgischen Staat übertrug. Vgl. <bibl corresp="kbga-bibls-2628">
+                                <author ref="kbga-actors-9236">A. Hochschild</author>, <hi rend="i">Schatten über dem
+                            Kongo. Die Geschichte eines der großen, fast vergessenen
+                            Menschheitsverbrechen</hi></bibl>, Stuttgart 2000.<lb/>Der Grund der
+                        Unbeliebtheit Leopolds II. selbst im eigenen Land rührte auch daher,
+                        dass er 1900, schon vor dem Tod seiner Ehefrau <persName ref="kbga-actors-9237">Marie-Henriette von Österreich</persName> (1836–1902), eine Liebesbeziehung mit
+                        <persName ref="kbga-actors-9238">Blanche (Caroline) Delacroix</persName> (1883–1948) einging, die er öffentlich
+                        lebte und aus der zwei Söhne hervorgingen. Fünf Tage vor seinem Tod
+                        heiratete <persName ref="kbga-actors-3886">Leopold II.</persName> seine Geliebte, um diese Beziehung noch zu legalisieren.
+                        Vgl.<bibl corresp="kbga-bibls-2628"> a.a.O., S. 314ff.</bibl>; <bibl corresp="kbga-bibls-2629">
+                                <author ref="kbga-actors-9239">J. des Cars</author>, <hi rend="i">Blanche Delacroix</hi>,
+                        Paris 2013</bibl>.</note> dann wär’s etwas mit dem Ausruhen und mit den
+                    Lorbeeren, dann hätte <persName ref="kbga-actors-8959">Jakobus</persName> die
+                    Feder absetzen können, nachdem er uns versichert, die Bewährung des <term type="Sachen" key="Glaube, Bewährung">Glaubens</term>
+                    <pb ed="-A" n="15"/> bewirke <term type="Sachen" key="Standhaftigkeit">Standhaftigkeit</term>. Aber wenn es sich darum
+                    handelt, dass der Mensch, nicht der Mensch im Allgemeinen, sondern du und
+                    ich, vollkommen und ganz werden solle, dann stehen die Dinge anders. Denn
+                    wir brauchen uns die Frage nur aufrichtig zu stellen: bin ich gut?, um zu
+                    merken, dass es <hi rend="i">nicht</hi><note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                         wahr ist, wir mögen Gutes getan haben, soviel wir wollen.
+                    Vielmehr liegt dann das Ziel, gute Menschen zu werden, unendlich weit
+                        <hi rend="i">vor</hi> uns, und wir haben keine Minute zu verlieren, um uns
+                    danach auf den Weg zu machen. Denn jede Minute, die wir mit
+                    Selbstbetrachtungen verlieren angesichts der erfreulichen Bewährung unsres
+                    Glaubens, würde uns rückständig machen auf dem Weg, den es zu gehen ankommt.
+                    Das <term type="Sachen" key="Gutes / das Gute">Gute</term>, das wir getan
+                    haben, würde dann der Feind des Bessern, das wir werden sollen.</p>
+                <p>
+                    <term type="Sachen" key="Vollkommenheit, Sein wie Jesus Christus">Vollkommen</term> und ganz sein heißt aber für den Christen: sein, wie
+                    Jesus war. Denn das war einer, der nicht nur gute Gedanken gehabt <pb xml:id="p308" ed="pga"/> und gute Taten getan hat, sondern der ein guter
+                    Mensch war, ein vollkommener und ganzer Mensch, dessen inneres <term type="Sachen" key="Leben, inneres">Leben</term> nichts war als <term type="Sachen" key="Gehorsam">Gehorsam</term> und <term type="Sachen" key="Vertrauen">Vertrauen</term>. Wenn wir auch etwas sagen dürfen von
+                    innerem Leben, von Glauben, von Gott, dann verdanken wir’s ihm, und
+                    ihm verdanken wir’s, wenn der kleine Anfang in uns lebt und wächst.
+                    Denn wie Gott in ihm solches Leben unter die Menschen gepflanzt hat, so ist
+                    er immer wieder unser Ziel und unser Führer in einem Mal.</p>
+                <p>Lieber Freund! Wenn du seufzest zwischen den zwei Marksteinen, von denen wir
+                    am Anfang geredet haben, zwischen dem, was du bist, und dem, was du sein
+                    sollst, wenn du kämpfst um die Bewährung deines innern Lebens und durch die
+                    Bewährung um die Vollkommenheit <term type="Sachen" key="Jesus Christus, Vollkommenheit">Christi</term>, dann erlebst
+                    du’s, dass Gott dir sagt, dass er dich je und je geliebt hat und dass
+                    er dich zu sich zieht aus lauter <term type="Sachen" key="Gott, Güte">Güte</term> [<ref type="can" subtype="bible" target="Jer.31.3">Jer. 31,3</ref>]. Und <hi rend="i">so</hi> wanderst du von einer Wegmarke zur
+                    andern.</p>
+                </div>  
+                <div type="closer">
+                        <salute>Amen.</salute>
+                </div>
+                <div type="songs">
+                    <head>Lieder:</head>
+                        <listBibl type="songs" rend="simple">
+                       <bibl type="song" corresp="kbga-songs-27">Nr. 12: «Womit soll ich dich wohl loben» von <author ref="kbga-actors-1363">L. A. Gotter</author>,
+                            Strophen 1–2 (RG 727,1–2).</bibl>
+                        <bibl type="song" corresp="kbga-songs-265">Nr. 301: «Seele, was ermüd’st du dich» von <author ref="kbga-actors-9229">J. G. Wolf</author>,
+                            Strophen 1.2.5.</bibl>
+                        <bibl type="song" corresp="kbga-songs-266">Nr. 300: «Schafft mit Ernst, ihr Menschenkinder» von L. A. Gotter,
+                            ­Strophen 1.2.6.</bibl>
+                    </listBibl>
+                </div>
+
+            </div>
+        </body>
+    </text>
+</TEI>

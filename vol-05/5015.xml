@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Matthäus 27,27-44</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 27,27-44, 29. März 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5015 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5015 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 138–150.</title>
       </titleStmt>
       <editionStmt>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" corresp="KBA 1189" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 27,27-44, 29. März 1914. <idno ref="https://kba.karl-barth.ch/objects/1653">KBA 1189</idno>. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 27,27-44, 29. März 1914. <ref target="https://kba.karl-barth.ch/objects/1653">KBA 1189</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
     </fileDesc>
@@ -67,48 +67,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -116,8 +76,12 @@
       <div type="sermon">
         <pb xml:id="p138" ed="pga"/>
         <div type="opener">
-        <head><idno>211</idno></head>
-          <dateline><placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-03-29">29. März 1914</date></dateline>
+        <head>
+                        <idno>211</idno>
+                    </head>
+          <dateline>
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-03-29">29. März 1914</date>
+                    </dateline>
           <epigraph>
             <cit>
               <ref type="can" subtype="bible" target="Mt.27.27 Mt.27.44">Matthäus 27,27–44</ref>
@@ -141,9 +105,18 @@
                Hinweis auf die Größe der menschlichen Sünde, die sich am Karfreitag offenbarte, auf
                die Sünde jener Menschen, die doch zugleich die unsrige ist, daß das nicht genügt
                gegenüber dem Karfreitagsgeheimnis. Es ist zwar ganz sicher ein wahrer und überaus
-               wichtiger Gedanke: <q rend="block"><lg><l xml:space="preserve">Ich, ich und meine Sünden,</l><l xml:space="preserve">die sich wie Körnlein finden</l><l xml:space="preserve">des Sandes an dem Meer,</l><l xml:space="preserve">die haben dir erreget,</l><l xml:space="preserve">das Elend, das dich schläget,</l><l xml:space="preserve">und deiner Martern ganzes Heer.<note xml:id="n01"><bibl corresp="kbga-songs-25" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>113</idno></bibl>: «<title level="a">O Welt, sieh hier dein Leben…</title>», von <author ref="kbga-actors-131">P. Gerhardt</author> (<date from="1607" to="1676">1607 bis 1676</date>), <biblScope>Strophe 3</biblScope> (= <bibl corresp="kbga-bibls-1086"><title level="m"><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>64</idno>, <biblScope>Strophe 4</biblScope></bibl>)</bibl>. Die von <persName ref="kbga-actors-2151">Barth</persName> zitierte Fassung des Schweizer Gesangbuchs weicht in der letzten Zeile ab vom Original: «… und das betrübte Marterheer».</note> <pb xml:id="p139" ed="pga"/></l></lg></q> </p>
+               wichtiger Gedanke: <q rend="block">
+                            <lg>
+                                <l xml:space="preserve">Ich, ich und meine Sünden,</l>
+                                <l xml:space="preserve">die sich wie Körnlein finden</l>
+                                <l xml:space="preserve">des Sandes an dem Meer,</l>
+                                <l xml:space="preserve">die haben dir erreget,</l>
+                                <l xml:space="preserve">das Elend, das dich schläget,</l>
+                                <l xml:space="preserve">und deiner Martern ganzes Heer.<note xml:id="n01"><bibl corresp="kbga-songs-25" type="song"><bibl corresp="kbga-bibls-1087">Lied <idno>113</idno></bibl>: «<title level="a">O Welt, sieh hier dein Leben…</title>», von <author ref="kbga-actors-131">P. Gerhardt</author> (<date from="1607" to="1676">1607 bis 1676</date>), <biblScope>Strophe 3</biblScope> (= <bibl corresp="kbga-bibls-1086"><title><abbr ref="kbga-abbreviations-90">EKG</abbr></title> <idno>64</idno>, <biblScope>Strophe 4</biblScope></bibl>)</bibl>. Die von <persName ref="kbga-actors-2151">Barth</persName> zitierte Fassung des Schweizer Gesangbuchs weicht in der letzten Zeile ab vom Original: «… und das betrübte Marterheer».</note></l>
+                            </lg>
+                        </q> </p>
                
-              <p>Aber das ist lange, lange nicht Alles, das ist nur eine Nebensache an der großen
+              <p><pb rend="noPipe" xml:id="p139" ed="pga"/>Aber das ist lange, lange nicht Alles, das ist nur eine Nebensache an der großen
                Botschaft vom Leiden unseres Heilands. Wir reden ja das ganze Jahr über wahrhaftig
                genug von uns und unseren Sünden. Vielleicht reden wir zu viel davon. Wir sollten
                mehr von der Größe Gottes reden. Jedenfalls aber muß uns in der Passionszeit die
@@ -221,7 +194,8 @@
                erweisen, sind ein grausames Spiel, die Krone ist eine Dornenkrone, sie schlagen ihn,
                sie speien ihm ins Gesicht. Warum, warum kann und darf so etwas Widerwärtiges,
                Unnatürliches geschehen?</p>
-        <p>Und nun gehts hinaus nach <hi rend="i"><placeName ref="kbga-places-405">Golgatha</placeName></hi>, und aus dem Spiel wird blutiger
+        <p>Und nun gehts hinaus nach <hi rend="i">
+                            <placeName ref="kbga-places-405">Golgatha</placeName></hi>, und aus dem Spiel wird blutiger
                Ernst: Jesus wird ans Kreuz geschlagen, das Kreuz aufgerichtet. Wir wollen die
                Einzelheiten dieser furchtbaren Art von Todesstrafe nicht schildern, sie waren zu
                entsetzlich, als daß wir dabei verweilen dürften. Nur eins müssen wir sagen: der Mann
@@ -343,7 +317,8 @@
                solches durchmachen mußte?</p>
         <milestone xml:id="m10" unit="page"/>
         
-        <p><pb xml:id="p146" ed="pga"/> Wir dürfen nun nicht etwa meinen, wir könnten auf alle diese <hi rend="i">Warum?</hi>, die die Leidensgeschichte Jesu uns auf die Lippen legt, <hi rend="i">Antwort</hi> bekommen. Das Große, Göttliche an dem Bilde, das da vor unseren
+        <p>
+                        <pb rend="noPipe" xml:id="p146" ed="pga"/> Wir dürfen nun nicht etwa meinen, wir könnten auf alle diese <hi rend="i">Warum?</hi>, die die Leidensgeschichte Jesu uns auf die Lippen legt, <hi rend="i">Antwort</hi> bekommen. Das Große, Göttliche an dem Bilde, das da vor unseren
                Augen steht, besteht gerade darin, daß der Gegensatz unversöhnlich, die Frage, die
                uns gestellt wird, unauflöslich ist. Es gibt keine bequeme Brücke, mittelst derer wir
                diesen Abgrund überschreiten könnten. Wir sollen auch gar nicht. Wir sollen uns immer

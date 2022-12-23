@@ -6,7 +6,7 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Grabrede</title>
         <title type="citation_line_1">Barth, Karl: Grabrede, 14. Januar 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5059 (Stand: 16. Juni 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5059 (Stand: 23. Dezember 2022)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Predigten 1914, Zürich 1999, S. 651–653.</title>
       </titleStmt>
       <editionStmt>
@@ -66,48 +66,8 @@
         </keywords>
       </textClass>
     </profileDesc>
-    <encodingDesc>
-      <listPrefixDef>
-        <prefixDef ident="kbga-actors-id" matchPattern="kbga-actors-(\d+)" replacementPattern="https://karl-barth.ch/actors/$1">
-          <p>kbga-actors-id verweist auf einen actor (Person, Organisation) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-places-id" matchPattern="kbga-places-(\d+)" replacementPattern="https://karl-barth.ch/places/$1">
-          <p>kbga-places-id verweist auf einen place (Ort, Stadt, Land) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-sources-id" matchPattern="kbga-sources-(\d+)" replacementPattern="https://karl-barth.ch/sources/$1">
-          <p>kbga-sources-id verweist auf eine source (Vorlage/Quelle) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-terms-id" matchPattern="kbga-terms-(\d+)" replacementPattern="https://karl-barth.ch/terms/$1">
-          <p>kbga-terms-id verweist auf einen term (Begriff) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-songs-id" matchPattern="kbga-songs-(\d+)" replacementPattern="https://karl-barth.ch/songs/$1">
-          <p>kbga-songs-id verweist auf einen song (Lied) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-bibls-id" matchPattern="kbga-bibls-(\d+)" replacementPattern="https://karl-barth.ch/bibls/$1">
-          <p>kbga-bibls-id verweist auf einen bibl (Literatureintrag) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kbga-texts-id" matchPattern="kbga-texts-(\d+)" replacementPattern="https://karl-barth.ch/texts/$1">
-          <p>kbga-texts-id verweist auf einen text (Text) in der Karl Barth-Gesamtausgabe</p>
-        </prefixDef>
-        <prefixDef ident="kba-actors-id" matchPattern="kba-actors-(\d+)" replacementPattern="https://kba.karl-barth.ch/actors/$1">
-          <p>kba-actors-id verweist auf einen actor (Person, Organisation o.ä.) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-places-id" matchPattern="kba-places-(\d+)" replacementPattern="https://kba.karl-barth.ch/places/$1">
-          <p>kba-places-id verweist auf einen place (Ort, Stadt, Land) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-keywords-id" matchPattern="kba-keywords-(\d+)" replacementPattern="https://kba.karl-barth.ch/keywords/$1">
-          <p>kba-keywords-id verweist auf ein keyword (Schlagwort) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-id" matchPattern="kba-objects-(\d+)" replacementPattern="https://kba.karl-barth.ch/objects/$1">
-          <p>kba-objects-id verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-        <prefixDef ident="kba-objects-identifier" matchPattern="kba-objects-([a-zA-Z0-9./]+)" replacementPattern="https://kba.karl-barth.ch/objects/identifier/$1">
-          <p>kba-objects-identifier verweist auf ein object (Verzeichnungseinheit) im Karl Barth-Archiv</p>
-        </prefixDef>
-      </listPrefixDef>
-    </encodingDesc>
     <revisionDesc>
-      <change when="2022-06-16T12:41:02+02:00">teiHeader was automatically produced from the database 2022-06-16T12:41:02+02:00</change>
+      <change when="2022-12-23T11:07:36+01:00">teiHeader was automatically produced from the database 2022-12-23T11:07:36+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -115,9 +75,14 @@
       <div type="sermon">
       <pb xml:id="p651" ed="pga"/>
         <div type="opener">
-          <head><idno/></head>
-          <dateline rend="right"><placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1914-01-14">14. Januar 1914</date></dateline>
-            <head type="header">Grabrede<note xml:id="n01">Vgl. dazu die Osterpredigt, 215, vom <date when="1914-04-12">12. April 1914</date>, <ref target="./p192#p192" type="pub">S. 192</ref>. Die Namen wurden abgekürzt.</note></head>
+          <head>
+                        <idno/>
+                    </head>
+          <dateline rend="right">
+                        <placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1914-01-14">14. Januar 1914</date>
+                    </dateline>
+            <head type="header">Grabrede<note xml:id="n01">Vgl. dazu die Osterpredigt, 215, vom <date when="1914-04-12">12. April 1914</date>, <ref target="../volume/05/p192#p192" type="pub">S. 192</ref>. Die Namen wurden abgekürzt.</note>
+                    </head>
           
         </div>
         <div type="main">
@@ -129,7 +94,8 @@
         <p>Gottes Gnade leuchtet aber auch dem toten Bruder, von dem wir heute Abschied nehmen. Gottes Gnade macht vor dem Grab nicht Halt, auch nicht vor einem solchen Grab. In seiner Hand steht jetzt auch der Mann, der von uns gegangen ist. Er kennt ihn, wie wir ihn nicht kannten. Er hat Mittel und Wege auch für ihn, auch jetzt noch, die für uns Geheimnis sind. Wir können nur das wissen, daß er auch über ihn gesprochen hat: ich habe dich je und je geliebet [<ref type="can" subtype="bible" target="Jer.31.3">Jer. 31,3</ref>]. Mit diesen Gedanken laßt uns von ihm Abschied nehmen: Gott mit ihm!, wie wir hoffen, daß er mit uns sein möge, jetzt und in Ewigkeit.</p>
         </div>
         <div type="closer">
-          <salute><milestone xml:id="m042" unit="page"/>Amen.</salute>
+          <salute>
+                        <milestone xml:id="m042" unit="page"/>Amen.</salute>
         </div>
       </div>
     </body>
