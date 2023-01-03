@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 19</title>
         <title type="content">Evangelisch-theologische Fakultät Bonn an die Theologische Fakultät Marburg (endgültige Fassung)</title>
         <title type="citation_line_1">Evangelisch-theologische Fakultät Bonn an die Theologische Fakultät Marburg (endgültige Fassung), 28. Januar 1931</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1131 (Stand: 23. Dezember 2022)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1131 (Stand: 3. Januar 2023)</title>
         <title type="citation_line_3">Druck: Karl Barth-Gesamtausgabe. Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, Zürich 1994, S. 257–258.</title>
       </titleStmt>
       <editionStmt>
@@ -19,7 +19,7 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2022">2022</date>
+        <date when="2023">2023</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
         </availability>
@@ -81,7 +81,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2022-12-23T18:06:47+01:00">teiHeader was automatically produced from the database 2022-12-23T18:06:47+01:00</change>
+      <change when="2023-01-03T15:48:11+01:00">teiHeader was automatically produced from the database 2023-01-03T15:48:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -92,10 +92,10 @@
         <div type="abstract">
           <head>II</head>
           <p>[Brief der
-            <hi rend="text-recte">
+            <hi rend="sc">
                             <orgName ref="kbga-actors-8207">Evangelisch-Theologischen Fakultät Bonn</orgName></hi>
             an die
-            <hi rend="text-recte">
+            <hi rend="sc">
                             <orgName ref="kbga-actors-8110">Theologische Fakultät Marburg</orgName></hi>: endgültige Fassung (Orig. im <bibl type="archival">StA Marburg A 3a/307a. acc. 1962/12, Nr. 20</bibl>):]<note xml:id="n01">Diese endgültige Textfassung stimmt nahezu
               wörtlich überein mit der Überarbeitung (= Kürzung) des Entwurfs von <persName ref="kbga-actors-367">K. L. Schmidt</persName> (<ref type="pub" target="1130">Anh. 19/1</ref>) durch <persName ref="kbga-actors-2151">Barth</persName>. Von dieser ist im <ref type="kba-objects-id" target="19070">Karl
               Barth-Archiv ein Durchschlag</ref> erhalten. Er ist überschrieben: «<hi rend="i">Entwurf</hi> vorgelegt von D. <persName ref="kbga-actors-2151">Karl
@@ -109,7 +109,7 @@
             <salute>
                             <orgName ref="kbga-actors-8207">Evangel. theol. Facultät</orgName>
                         </salute>
-            <dateline>
+            <dateline rendition="right">
                             <placeName ref="kbga-places-10">Bonn</placeName>, den <date when="1931-01-28">28.1.1931</date>
                         </dateline>
             <address rendition="left">
@@ -119,7 +119,7 @@
               <addrLine>An die <orgName ref="kbga-actors-8110">Theologische Fakultät</orgName>
                             </addrLine>
               <addrLine>
-                <placeName ref="kbga-places-41">Marburg/Lahn</placeName>
+                <hi rend="i"><placeName ref="kbga-places-41">Marburg/Lahn</placeName></hi>
               </addrLine>
             </address>
           </opener>

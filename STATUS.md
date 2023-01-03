@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2022-12-23
+2023-01-03
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
