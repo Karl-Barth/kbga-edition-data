@@ -26,11 +26,9 @@ declare function idx:get-language($root as element()) {
 declare function idx:get-date($root as element()) {
     let $d := (
         $root//tei:profileDesc/tei:creation/tei:date
-    )[1]
+    )
     return
-        if (empty($d)) then
-            "1000-01-01"
-        else if ($d/@period) then
+        if ($d/@period) then
             idx:normalize-date(substring-before($d/@period, "/"))
         else if ($d/@when) then
             idx:normalize-date($d/@when)
@@ -46,7 +44,7 @@ declare function idx:normalize-date($date as xs:string) {
     else if (matches($date, "^\d{4}-\d{2}")) then
         $date || "-01"
     else if (matches($date, "^\d{4}")) then
-        $date || "01-01"
+        $date || "-01-01"
     else
         "1000-01-01"
 };
