@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-01-16 15:09:12</p>
+        <p>Datenbankexport vom 2023-03-16 14:54:50</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-01-16T15:09:12+01:00">teiHeader was automatically produced from the database 2023-01-16T15:09:12+01:00</change>
+      <change when="2023-03-16T14:54:50+01:00">teiHeader was automatically produced from the database 2023-03-16T14:54:50+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -209,6 +209,7 @@
         <bibl type="song" xml:id="kbga-songs-108">
           <title>Brich herein, süßer Schein</title>
           <author ref="kbga-actors-102">Schmalenbach, Marie</author>
+          <biblScope type="songbook">REICHSLIEDER, Nr. 556</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-232">
           <title>Bundeslied</title>
@@ -543,6 +544,12 @@ von</author>
           <biblScope type="songbook">GERS, Nr. 278</biblScope>
           <biblScope type="songbook">RKG, Nr. 287</biblScope>
           <biblScope type="songbook">RG, Nr. 689</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-288">
+          <title>Gott ist’s, der regiert</title>
+          <author ref="kbga-actors-285">Wolf, Salomon</author>
+          <biblScope type="songbook">RKG, Nr. 24</biblScope>
+          <biblScope type="songbook">GERS, Nr. 22</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-223">
           <title>Gott Lob! Nun ist erschollen das edle Fried- und Freudenwort</title>
@@ -1314,10 +1321,10 @@ von</author>
           <author ref="kbga-actors-121">Bahnmaier, Jonathan Friedrich</author>
           <author ref="kbga-actors-122">Nicolai, Philipp</author>
           <biblScope type="songbook">GERS, Nr. 190</biblScope>
-          <biblScope type="songbook">RKG, Nr. 359</biblScope>
           <biblScope type="songbook">GERS, Nr. 237</biblScope>
-          <biblScope type="songbook">RKG, Nr. 255</biblScope>
+          <biblScope type="songbook">EKG, Nr. 255</biblScope>
           <biblScope type="songbook">EG, Nr. 70</biblScope>
+          <biblScope type="songbook">RKG, Nr. 359</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-124">
           <title>Warum sollt ich mich denn grämen</title>
@@ -1384,7 +1391,7 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-105">
           <title>Wer weiß, wie nahe mir mein Ende</title>
-          <author ref="kbga-actors-99">Schwarzburg-Rudolfstadt, ÄmilieJuliane</author>
+          <author ref="kbga-actors-284">Schwarzburg-Rudolfstadt, Ämilie Juliane</author>
           <biblScope type="songbook">GERS, Nr. 324</biblScope>
           <biblScope type="songbook">RKG, Nr. 379</biblScope>
           <biblScope type="songbook">EG, Nr. 530</biblScope>

@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-01-16 15:09:08</p>
+        <p>Datenbankexport vom 2023-03-16 14:54:46</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-01-16T15:09:08+01:00">teiHeader was automatically produced from the database 2023-01-16T15:09:08+01:00</change>
+      <change when="2023-03-16T14:54:46+01:00">teiHeader was automatically produced from the database 2023-03-16T14:54:46+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -992,6 +992,7 @@
           <ref target="https://www.worldcat.org/identities/lccn-n85176161/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/n85176161">lcnaf</ref>
           <ref target="https://api.metagrid.ch/concordance/gFv6GnYBBhcBnYQeQLIc.json">metagrid</ref>
+          <note type="bio">Schottischer presbyterianischer Theologe; seit 1934 Professor für Theologie in Edinburgh, 1954-1961 einer der Präsidenten des Ökumenischen Rates der Kirchen.</note>
         </person>
         <person xml:id="kbga-actors-8721">
           <persName>Balak</persName>
@@ -1172,13 +1173,16 @@
         </person>
         <person xml:id="kbga-actors-5803">
           <persName>Barth, Helene</persName>
-          <persName type="full">Barth, Helene</persName>
+          <persName type="full">Barth, Helene (1895-1985)</persName>
           <persName type="variant">Barth, geb. Rade</persName>
           <persName type="variant">Barth, Lenchen</persName>
           <persName type="variant">Barth, Lenchen geb. Rade</persName>
           <persName type="variant">Barth-Rade, Marie Helene
 (Frau von Peter B.)</persName>
           <persName type="variant">Rade, Helene</persName>
+          <birth when="1895"/>
+          <death when="1985"/>
+          <note type="bio">Tochter Martin Rades, seit 1915 mit Peter Barth verheiratet, Karl Barths Bruder.</note>
         </person>
         <person xml:id="kbga-actors-2151">
           <persName>Barth, Karl</persName>
@@ -1846,6 +1850,20 @@
           <ref target="https://www.bsg.nb.admin.ch/discovery/search?query=lds50,contains,118838822&amp;vid=41SNL_54_INST:bsg">bsg</ref>
           <ref target="https://dodis.ch/P3820">dodis</ref>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
+        </person>
+        <person xml:id="kbga-actors-9190">
+          <persName>Birken, Siegmund von</persName>
+          <persName type="full">Birken, Siegmund von (1626-1681)</persName>
+          <persName type="variant">Birken, Sigmund von; Birken, Sigismund von</persName>
+          <birth when="1626-04-25"/>
+          <death when="1681-06-12"/>
+          <ref target="https://d-nb.info/gnd/118511270">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q65501">wikidata</ref>
+          <ref target="https://viaf.org/viaf/14807781/">viaf</ref>
+          <ref target="https://id.loc.gov/authorities/n88271727">lcnaf</ref>
+          <ref target="https://worldcat.org/identities/lccn-n88271727/">worldcat</ref>
+          <ref target="https://www.deutsche-biographie.de/pnd118511270.html">deutsch-biographie</ref>
+          <ref target="https://de.wikipedia.org/wiki/Sigmund_von_Birken">wikipedia</ref>
         </person>
         <person xml:id="kbga-actors-500">
           <persName>Bismarck, Otto von</persName>
@@ -3063,7 +3081,10 @@
         </person>
         <person xml:id="kbga-actors-5904">
           <persName>Busch-Blum, Beate</persName>
-          <persName type="full">Busch-Blum, Beate</persName>
+          <persName type="full">Busch-Blum, Beate (1941-)</persName>
+          <persName type="alternative">Busch, Beate</persName>
+          <birth when="1941"/>
+          <note type="bio">Schweizerische Theologin, Pfarrerin; Ehefrau von Eberhard Busch.</note>
         </person>
         <person xml:id="kbga-actors-1513">
           <persName>Busch, Eberhard</persName>
@@ -4311,6 +4332,7 @@
           <ref target="https://www.worldcat.org/identities/lccn-n86055623/">worldcat</ref>
           <ref target="https://www.munzinger.de/search/go/document.jsp?id=00000001195">munzinger-person</ref>
           <ref target="https://www.deutsche-biographie.de/pnd116319437.html">deutsch-biographie</ref>
+          <note type="bio">Deutscher Philosoph; seit 1940 o. Prof. für Philosophie in Marburg, 1945 erster Rektor der wieder eröffneten Universität. Ebbinghaus war mit Bultmann befreundet und schätzte Barths theologische Arbeit.</note>
         </person>
         <person xml:id="kbga-actors-103">
           <persName>Ebeling, Gerhard</persName>
@@ -5708,6 +5730,7 @@
           <ref target="http://id.loc.gov/authorities/names/n93097347">loc</ref>
           <ref target="http://www.idref.fr/113155700/id">sudoc</ref>
           <ref target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118536575&amp;vid=41SNL_51_INST:helveticat">helveticat</ref>
+          <note type="bio">Deutscher evangelischer Theologe; 1929 Promotion bei Rudolf Bultmann; 1932 PD in Berlin, 1933 Entzug der Venia legendi; 1934 Pfarrer in Winzerhausen bei Großbottwar, 1938 in Oberaspach, 1955 Prof. für Neues Testament an der Kirchlichen Hochschule Berlin, 1961 in Marburg. Schüler und Freund Rudolf Bultmanns.</note>
         </person>
         <person xml:id="kbga-actors-561">
           <persName>Fueter, Karl</persName>
@@ -6289,6 +6312,7 @@
           <birth when="1905"/>
           <death when="1982"/>
           <ref target="https://kba.karl-barth.ch/actors/3593">kba</ref>
+          <note type="bio">Schweizer Journalist; für verschiedene Zeitungen tätig, seit Sommer 1935 Redakteur von „Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft“.</note>
         </person>
         <person xml:id="kbga-actors-8197">
           <persName>Graf, Rüdiger</persName>
@@ -8675,6 +8699,7 @@ Wilhelm</persName>
           <ref target="https://viaf.org/viaf/39824207/">viaf</ref>
           <ref target="https://www.worldcat.org/identities/viaf-39824207/">worldcat</ref>
           <ref target="https://api.metagrid.ch/concordance/VH8TG3YBBhcBnYQeq9oB.json">metagrid</ref>
+          <note type="bio">Deutscher evangelischer Theologe; 1932 Pfarrer in Noßdorf bei Forst (Lausitz), Mitglied des Pfarrernotbundes und des Provinzialbruderrates Berlin-Brandenburg, 1946 Generalsuperintendent in Lübben, 1949 in Cottbus, 1963 Verwalter des Bischofsamtes der Ev. Kirche Berlin-Brandenburg. Regionalsynode Ost.</note>
         </person>
         <person xml:id="kbga-actors-202">
           <persName>Jacobi, Gerhard</persName>
@@ -8690,6 +8715,7 @@ Wilhelm</persName>
           <ref target="https://www.worldcat.org/identities/viaf-45097013">worldcat</ref>
           <ref target="https://www.deutsche-biographie.de/pnd118711121.html">deutsch-biographie</ref>
           <ref target="https://api.metagrid.ch/concordance/W975GnYBUPOEfqBYgWEz.json">metagrid</ref>
+          <note type="bio">Deutscher evangelischer Theologe; 1923 Pfarrer in Halle, 1927 in Magdeburg, seit 1930 an der Kaiser-Wilhelm-Gedächtniskirche in Berlin-Charlottenburg; ab 1933/34 führendes Mitglied im Pfarrernotbund und im Reichsbruderrat, 1933-1939 Präses der Bekennenden Kirche Berlin, 1945 Generalsuperintendent in Berlin, 1954 Bischof in Oldenburg.</note>
         </person>
         <person xml:id="kbga-actors-6439">
           <persName>Jäger, August</persName>
@@ -8702,6 +8728,7 @@ Wilhelm</persName>
           <ref target="https://www.deutsche-biographie.de/pnd124074669.html">deutsch-biographie</ref>
           <ref target="https://viaf.org/viaf/163807530/">viaf</ref>
           <ref target="https://www.worldcat.org/identities/viaf-163807530/">worldcat</ref>
+          <note type="bio">Deutscher Jurist und Politiker. Landgerichtsrat, 1933 kurzzeitig Staatskommissar für die evangelischen Landeskirchen in Preußen, vom 12.4.–26.10.1934 als Rechtswalter in das Geistliche Ministerium berufen, um „in Fortführung des Verfassungswerkes des Jahres 1933 die organisatorischen Fragen der Kirche der Lösung zuzuführen“.</note>
         </person>
         <person xml:id="kbga-actors-6198">
           <persName>Jahn, Friedrich Ludwig</persName>
@@ -9411,14 +9438,15 @@ Johannes XXIII.</persName>
         <person xml:id="kbga-actors-1082">
           <persName>Karwehl, Richard</persName>
           <persName type="full">Karwehl, Richard (1885-1979)</persName>
-          <birth when="1885"/>
-          <death when="1979"/>
+          <birth when="1885-05-02"/>
+          <death when="1979-08-02"/>
           <ref target="https://kba.karl-barth.ch/actors/846">kba</ref>
           <ref target="http://d-nb.info/gnd/133753964">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q94938173">wikidata</ref>
           <ref target="https://viaf.org/viaf/11044709/">viaf</ref>
           <ref target="https://www.deutsche-biographie.de/pnd133753964.html">deutsch-biographie</ref>
           <ref target="https://api.metagrid.ch/concordance/5yQIG3YBlFrJZhV3hdV0.json">metagrid</ref>
+          <note type="bio">Deutscher evangelischer Theologe; 1914 Militärpfarrer, 1918-1956 Pfarrer in Osnabrück-Schinkel. Karwehl besuchte in Münster Veranstaltungen Barths und blieb ihm zeitlebens freundschaftlich verbunden.</note>
         </person>
         <person xml:id="kbga-actors-217">
           <persName>Käsemann, Ernst</persName>
@@ -9909,6 +9937,7 @@ Anton Philipp</persName>
           <ref target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118724150&amp;vid=41SNL_51_INST:helveticat">helveticat</ref>
           <ref target="https://dodis.ch/P12040">dodis</ref>
           <ref target="https://data.histhub.ch/person/11410298">histhub</ref>
+          <note type="bio">Schweizer reformierter Theologe; 1910 Pfarrer in Stein am Rhein, 1921 in Basel, 1933-1954 Kirchenratspräsident von Basel-Stadt, 1935 zugleich Vorstandsmitglied des Schweizerischen Evangelischen Kirchenbundes, 1941-1954 dessen Präsident, nach 1945 beteiligt am Aufbau des Ökumenischen Rates der Kirchen, 1948-1954 Mitlgied in dessen Zentral- und Exekutivausschuss.</note>
         </person>
         <person xml:id="kbga-actors-229">
           <persName>Koepp, Wilhelm</persName>
@@ -10596,13 +10625,14 @@ Anton Philipp</persName>
         <person xml:id="kbga-actors-662">
           <persName>Lempp, Albert</persName>
           <persName type="full">Lempp, Albert (1884-1943)</persName>
+          <persName type="variant">Lempp, Albert Hermann</persName>
           <birth when="1884-02-13"/>
           <death when="1943-06-09"/>
           <ref target="https://de.wikipedia.org/wiki/Albert_Lempp">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/691">kba</ref>
           <ref target="https://api.metagrid.ch/concordance/d2SdI3YBlFrJZhV3Lk1i.json">metagrid</ref>
           <ref target="https://archives-quickaccess.ch/bbb/person/289570">burgerbibliothek</ref>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher evangelischer Buchhändler und Verleger, Inhaber des Christian Kaiser-Verlags und der Buchhandlung Kaiser in München; Lempp war mit Karl Barth, dessen Bücher er bis zum de facto Verbot im Jahre 1937 verlegte, freundschaftlich verbunden, unterstützte die Bekennende Kirche und war Mittelpunkt des später so genannten „Lemppschen Kreises“, der sich zu einem Hilfsnetz für rassisch verfolgte Christen und Juden entwickelte.</note>
         </person>
         <person xml:id="kbga-actors-243">
           <persName>Lenin, Wladimir Iljitsch</persName>
@@ -11086,9 +11116,11 @@ Anton Philipp</persName>
         </person>
         <person xml:id="kbga-actors-8595">
           <persName>Loosli, Max</persName>
-          <persName type="full">Loosli, Max (1904-)</persName>
+          <persName type="full">Loosli, Max (1904- )</persName>
           <birth when="1904"/>
+          <death when="0000"/>
           <ref target="https://kba.karl-barth.ch/actors/4892">kba</ref>
+          <note type="bio">Dr. phil., seit 1932 Lehrer an der Sekundarschule in Schwarzenburg bei Bern</note>
         </person>
         <person xml:id="kbga-actors-9183">
           <persName>Lorenz, Richard</persName>
@@ -11272,6 +11304,7 @@ Anton Philipp</persName>
           <death when="1970"/>
           <ref target="https://kba.karl-barth.ch/actors/431">kba</ref>
           <ref target="https://d-nb.info/gnd/125919409">gnd</ref>
+          <note type="bio">Schweizer reformierter Theologe; 1914 Pfarrer in Diessbach, 1929 in Biel. Mit Barth seit gemeinsamen Studienzeiten freundschaftlich verbunden.</note>
         </person>
         <person xml:id="kbga-actors-1745">
           <persName>Lukas</persName>
@@ -11748,8 +11781,8 @@ VIIf.</persName>
           <persName>Maury, Pierre</persName>
           <persName type="full">Maury, Pierre (1890-1956)</persName>
           <persName type="variant">Maury, Pierre</persName>
-          <birth when="1890"/>
-          <death when="1956"/>
+          <birth when="1890-11-27"/>
+          <death when="1956-01-13"/>
           <ref target="https://kba.karl-barth.ch/actors/1677">kba</ref>
           <ref target="http://d-nb.info/gnd/132241382">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q26238451">wikidata</ref>
@@ -11761,6 +11794,7 @@ VIIf.</persName>
           <ref target="http://www.idref.fr/032146817/id">sudoc</ref>
           <ref target="https://www.helveticat.ch/discovery/search?query=lds50,contains,132241382&amp;vid=41SNL_51_INST:helveticat">helveticat</ref>
           <ref target="http://id.loc.gov/authorities/names/nno2002044445">loc</ref>
+          <note type="bio">Französischer evangelisch-reformierter Theologe; 1943-50 Prof. für Dogmatik an der Faculté libre de Théologie Protestante in Paris; 1950-53 Präsident der Reformierten Kirche in Frankreich. Mit Barth, für dessen Theologie er in Frankreich ein wichtiger Wegbereiter war, eng verbunden</note>
         </person>
         <person xml:id="kbga-actors-683">
           <persName>Max, Prinz von Baden</persName>
@@ -12702,6 +12736,7 @@ VIIf.</persName>
           <ref target="https://www.deutsche-biographie.de/pnd118586548.html">deutsch-biographie</ref>
           <ref target="https://api.metagrid.ch/concordance/dQD5GnYBlFrJZhV3c34e.json">metagrid</ref>
           <ref target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118586548&amp;vid=41SNL_51_INST:helveticat">helveticat</ref>
+          <note type="bio">Deutscher Philosoph und Pädagoge; 1885 ao., 1893 o. Prof. für Philosophie und Pädagogik in Marburg, Mitbegründer der Marburger Schule des Neukantianismus.</note>
         </person>
         <person xml:id="kbga-actors-706">
           <persName>Naumann, Friedrich</persName>
@@ -12717,6 +12752,7 @@ VIIf.</persName>
           <ref target="https://www.britannica.com/biography/Friedrich-Naumann">encyclopaedia-britannica-online</ref>
           <ref target="https://www.deutsche-biographie.de/pnd118738178.html">deutsch-biographie</ref>
           <ref target="https://api.metagrid.ch/concordance/Kt75GnYBUPOEfqBYgWQz.json">metagrid</ref>
+          <note type="bio">Deutscher evangelischer Theologe und liberaler Politiker zur Zeit des Deutschen Kaiserreichs; 1881 Mitbegründer des Verbands der Vereine Deutscher Studenten, seit 1886 Pfarrer, seit 1907 Reichstagsabgeordneter, 1918 Mitbegründer der Deutschen Demokratischen Partei (DDP).</note>
         </person>
         <person xml:id="kbga-actors-2670">
           <persName>Neander, Joachim</persName>
@@ -12934,6 +12970,7 @@ VIIf.</persName>
           <death when="1988-03-13"/>
           <ref target="https://de.wikipedia.org/wiki/Wilhelm_Niesel">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/115">kba</ref>
+          <note type="bio">Deutscher reformierter Theologe; 1930 Pfarrer in Wuppertal-Elberfeld und Studieninspektor des dortigen Predigerseminars, 1935 Dozent an der Kirchlichen Hochschule Berlin, seit 1946 an der Kirchlichen Hochschule Wuppertal, 1946-1973 zugleich Moderator des Reformierten Bundes.</note>
         </person>
         <person xml:id="kbga-actors-301">
           <persName>Nietzsche, Friedrich</persName>
@@ -13160,9 +13197,10 @@ VIIf.</persName>
           <persName>Oldham, Joseph Houldsworth</persName>
           <persName type="full">Oldham, Joseph Houldsworth (1874-1969)</persName>
           <persName type="alternative">Oldham, John H.</persName>
-          <birth when="1874"/>
-          <death when="1969"/>
+          <birth when="1874-10-10"/>
+          <death when="1969-05-16"/>
           <ref target="https://kba.karl-barth.ch/actors/17953">kba</ref>
+          <note type="bio">Schottischer Missionar und Ökumeniker. 1897-1901 Missionar in Indien, nach einer Typhus-Erkrankung Rückkehr nach Schottland, Tätigkeit in diversen ökumenischen Gremien, seit 1921 Sekretär des International Missionary Council, seit 1934 verantwortlich für die Vorbereitung und das Konzept der zweiten Weltkonferenz für Praktisches Christentum in Oxford (1937).</note>
         </person>
         <person xml:id="kbga-actors-5745">
           <persName>Olearius, Johann</persName>
@@ -13251,6 +13289,7 @@ VIIf.</persName>
           <ref target="https://hls-dhs-dss.ch/de/articles/011267/2010-12-07/">hls-dhs-dss</ref>
           <ref target="https://www.bsg.nb.admin.ch/discovery/search?query=lds50,contains,12364433X&amp;vid=41SNL_54_INST:bsg">bsg</ref>
           <ref target="https://hallernet.org/data/person/08370">hallernet</ref>
+          <note type="bio">Schweizer reformierter Theologe; 1683 Pfarrer in Neuenburg, bedeutender Prediger und Autor, Mitglied des sogenannten «theologischen Triumvirats der Schweiz». der .</note>
         </person>
         <person xml:id="kbga-actors-2673">
           <persName>Oswald, Lee Harvey</persName>
@@ -14152,7 +14191,7 @@ VIIf.</persName>
         <person xml:id="kbga-actors-737">
           <persName>Quervain, Alfred de</persName>
           <persName type="full">Quervain, Alfred de (1896-1968)</persName>
-          <persName type="variant">Quervain, Alfred de («Querbein»</persName>
+          <persName type="variant">«Querbein»</persName>
           <birth when="1896-09-28"/>
           <death when="1968-10-30"/>
           <ref target="https://de.wikipedia.org/wiki/Alfred_de_Quervain_(Theologe)">wikipedia</ref>
@@ -14171,7 +14210,7 @@ VIIf.</persName>
           <ref target="http://www.hfls.ch/humo-gen/family/humo_/F49767/I152023">hfls</ref>
           <ref target="https://www2.unil.ch/elitessuisses/index.php?page=detailPerso&amp;idIdentite=77285">elites-suisses-au-xxe-siecle</ref>
           <ref target="https://hls-dhs-dss.ch/de/articles/010791/2009-05-26/">hls-dhs-dss</ref>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Schweizer reformierter Theologe; 1923 Pfarrer in Frankfurt/Main, 1926 Stuttgart, 1928 La Neuveville BE, 1931 Wuppertal-Elberfeld, 1938 Laufen BL, 1944 ao., 1948 o. Prof. für Ethik in Bern. - Barth übernachtete bei Aufenthalten in Wuppertal mehrfach im Hause de Quervain.</note>
         </person>
         <person xml:id="kbga-actors-8843">
           <persName>R. Gebhard</persName>
@@ -14797,11 +14836,12 @@ VIIf.</persName>
         <person xml:id="kbga-actors-3487">
           <persName>Rosenboom, Anton</persName>
           <persName type="full">Rosenboom, Anton (1899-1964)</persName>
-          <birth when="1899"/>
-          <death when="1964"/>
+          <birth when="1899-09-04"/>
+          <death when="1964-04-06"/>
           <ref target="https://kba.karl-barth.ch/actors/974">kba</ref>
           <ref target="http://d-nb.info/gnd/1130819604">gnd</ref>
           <ref target="https://api.metagrid.ch/concordance/-GsuG3YBUPOEfqBYeisU.json">metagrid</ref>
+          <note type="bio">Deutscher reformierter Theologe; 1928-1955 Pfarrer in Neuenhaus (Grafschaft Bentheim)</note>
         </person>
         <person xml:id="kbga-actors-3920">
           <persName>Rosenfeld, Hellmut</persName>
@@ -14857,10 +14897,11 @@ VIIf.</persName>
         <person xml:id="kbga-actors-8310">
           <persName>Rothenberger, Albert</persName>
           <persName type="full">Rothenberger, Albert (1867-1950)</persName>
-          <birth when="1867"/>
-          <death when="1950"/>
+          <birth when="1867-11-08"/>
+          <death when="1950-05-01"/>
           <ref target="http://d-nb.info/gnd/1089784848">gnd</ref>
           <ref target="https://api.metagrid.ch/concordance/pWEqG3YBUPOEfqBYx5Vv.json">metagrid</ref>
+          <note type="bio">Schweizer reformierter Theologe; 1901-1935 Pfarrer in St. Gallen, 1912-1935 Dekan des Kirchenkapitels St.Gallen, Mitglied im Vorstand des schweizerischen evangelischen Kirchenbunds.</note>
         </person>
         <person xml:id="kbga-actors-8305">
           <persName>Rott, Wilhelm</persName>
@@ -15327,8 +15368,8 @@ VIIf.</persName>
         <person xml:id="kbga-actors-757">
           <persName>Schädelin, Albert</persName>
           <persName type="full">Schädelin, Albert (1879-1961)</persName>
-          <birth when="1879"/>
-          <death when="1961"/>
+          <birth when="1879-12-06"/>
+          <death when="1961-12-18"/>
           <ref target="https://kba.karl-barth.ch/actors/251">kba</ref>
           <ref target="https://d-nb.info/gnd/1061160580">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q94908596">wikidata</ref>
@@ -15341,7 +15382,7 @@ VIIf.</persName>
           <ref target="https://data.histhub.ch/person/11416697">histhub</ref>
           <ref target="https://hls-dhs-dss.ch/de/articles/010818/2011-12-14/">hls-dhs-dss</ref>
           <ref target="https://de.wikipedia.org/wiki/Albert_Schädelin">wikipedia</ref>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Schweizer reformierter Theologe; 1906 Pfarrer in Rohrbach, 1911 am Berner Münster. Weggefährte Barths und führender Vertreter der dialektischen Theologie in Bern.</note>
         </person>
         <person xml:id="kbga-actors-353">
           <persName>Schaeder, Erich</persName>
@@ -15487,6 +15528,7 @@ von</persName>
           <ref target="https://hls-dhs-dss.ch/de/articles/048385/2012-11-14/">hls-dhs-dss</ref>
           <ref target="http://www.briefedition.alfred-escher.ch/kontexte/personen/korrespondenten-und-erwahnte-personen/S/Schelling%20Friedrich%20Wilhelm%20Joseph%20von/">alfred-escher</ref>
           <ref target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118607057&amp;vid=41SNL_51_INST:helveticat">helveticat</ref>
+          <note type="bio">Deutscher Philosoph, Vertreter des Deutschen Idealismus und Begründer der spekulativen Naturphilosophie.</note>
         </person>
         <person xml:id="kbga-actors-2107">
           <persName>Schenkendorf, Max von</persName>
@@ -15593,6 +15635,7 @@ von</persName>
           <ref target="https://data.histhub.ch/person/11413934">histhub</ref>
           <ref target="https://archives-quickaccess.ch/bbb/person/222935">burgerbibliothek</ref>
           <ref target="https://hls-dhs-dss.ch/de/articles/010487/2011-08-09/">hls-dhs-dss</ref>
+          <note type="bio">Schweizer evangelischer Theologe; 1888 Prof. für Neues Testament in Greifswald, 1893 in Berlin, 1898 in Tübingen, betrieb er eine nicht nur historisch-kritische, sondern auch theologische Auslegung des Neuen Testaments.</note>
         </person>
         <person xml:id="kbga-actors-8443">
           <persName>Schleicher, Elisabeth von</persName>
@@ -16250,6 +16293,7 @@ von</persName>
           <ref target="https://www.worldcat.org/identities/lccn-n87815316/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/n87815316">lcnaf</ref>
           <ref target="https://api.metagrid.ch/concordance/7Fr5GnYBBhcBnYQepeJT.json">metagrid</ref>
+          <note type="bio">Deutscher evangelischer Theologe und Hochschullehrer. Seit 1889 Prof. für Neues Testament und Kirchengeschichte in Erlangen, seit 1894 für Systematische Theologie; 1898-1927 in Berlin. Doktorvater Dietrich Bonhoeffers.</note>
         </person>
         <person xml:id="kbga-actors-8807">
           <persName>Seeger, Ernst</persName>
@@ -16484,6 +16528,7 @@ von</persName>
           <ref target="https://kba.karl-barth.ch/actors/2186">kba</ref>
           <ref target="http://d-nb.info/gnd/127421491">gnd</ref>
           <ref target="https://api.metagrid.ch/concordance/QGYCG3YBBhcBnYQeUdwW.json">metagrid</ref>
+          <note type="bio">Schottischer Theologe; Pfarrer der schottischen Mission in Tiberias / Palästina, seit 1931 Sekretär des Christlichen Rates im Nahen Osten. Sloan war  1930/31 "post graduate"-Student in Bonn gewesen und danach mit Barth in Kontakt geblieben.</note>
         </person>
         <person xml:id="kbga-actors-386">
           <persName>Smend, Julius</persName>
@@ -16605,8 +16650,8 @@ von</persName>
           <ref target="https://id.loc.gov/authorities/n83215177">lcnaf</ref>
         </person>
         <person xml:id="kbga-actors-9241">
-          <persName>Speer, Andrea</persName>
-          <persName type="full">Speer, Andrea</persName>
+          <persName>Speer, Andreas</persName>
+          <persName type="full">Speer, Andreas</persName>
         </person>
         <person xml:id="kbga-actors-779">
           <persName>Spener, Philipp Jakob</persName>
@@ -16863,6 +16908,7 @@ von</persName>
           <ref target="https://id.loc.gov/authorities/n89643905">lcnaf</ref>
           <ref target="https://www.worldcat.org/identities/lccn-n89643905">worldcat</ref>
           <ref target="https://www.deutsche-biographie.de/pnd119148471.html">deutsch-biographie</ref>
+          <note type="bio">Deutscher lutherischer Theologe; 1903 ao. Prof. für Systematische Theologie in Königsberg, o. Prof. in Greifswald, Leiter des 1909 gegründeten Apologetischen Seminars in Wernigerode.</note>
         </person>
         <person xml:id="kbga-actors-5356">
           <persName>Stapel, Wilhelm</persName>
@@ -17266,6 +17312,15 @@ von</persName>
           <persName>T. Halbeisen</persName>
           <persName type="full">T. Halbeisen</persName>
         </person>
+        <person xml:id="kbga-actors-4496">
+          <persName>Tacitus, Cornelius</persName>
+          <persName type="full">Tacitus, Cornelius</persName>
+          <persName type="variant">Tacitus, Publius Cornelius</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+          <ref target="https://de.wikipedia.org/wiki/Tacitus">wikipedia</ref>
+          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+        </person>
         <person xml:id="kbga-actors-400">
           <persName>Taeger, Fritz</persName>
           <persName type="full">Taeger, Fritz (1894-1960)</persName>
@@ -17564,7 +17619,7 @@ Florens</persName>
           <ref target="https://kba.karl-barth.ch/actors/161">kba</ref>
           <ref target="https://api.metagrid.ch/concordance/CGEqG3YBUPOEfqBYx51v.json">metagrid</ref>
           <ref target="https://d-nb.info/gnd/1089907052">gnd</ref>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Ehefrau von Eduard Thurneysen</note>
         </person>
         <person xml:id="kbga-actors-4291">
           <persName>Til, Salomon van</persName>
@@ -18056,7 +18111,7 @@ Florens</persName>
         <person xml:id="kbga-actors-823">
           <persName>Vischer, Wilhelm</persName>
           <persName type="full">Vischer, Wilhelm (1895-1988)</persName>
-          <persName type="variant">Vischer, Wilhelm («Helmi»)</persName>
+          <persName type="variant">Vischer, Helmi</persName>
           <birth when="1895-04-30"/>
           <death when="1988-11-27"/>
           <ref target="https://de.wikipedia.org/wiki/Wilhelm_Vischer_(Theologe)">wikipedia</ref>
@@ -18073,6 +18128,7 @@ Florens</persName>
           <ref target="http://www.hfls.ch/humo-gen/family/humo_/F80857/I239476/">hfls</ref>
           <ref target="https://hls-dhs-dss.ch/de/articles/010896/">hls-dhs-dss</ref>
           <ref target="https://www.bsg.nb.admin.ch/discovery/search?query=lds50,contains,119197146&amp;vid=41SNL_54_INST:bsg">bsg</ref>
+          <note type="bio">Schweizer reformierter Theologe; 1928 Dozent an der Theologischen Schule Bethel, 1934 Pfarrer in Lugano, 1936 in Basel, 1947 Prof. für Altes Testament in Montpellier.</note>
         </person>
         <person xml:id="kbga-actors-1941">
           <persName>Visser ’t Hooft, Willem Adolf</persName>
@@ -19239,12 +19295,11 @@ Florens</persName>
         <person xml:id="kbga-actors-438">
           <persName>Zellweger, Max</persName>
           <persName type="full">Zellweger, Max (1903-2003)</persName>
-          <persName type="variant">Zellweger, Max (Schwiegersohn von
-K. B.)</persName>
           <persName type="variant">Zellweger-Barth, Max</persName>
           <birth when="1903-07-06"/>
           <death when="2003-02-10"/>
           <ref target="https://kba.karl-barth.ch/actors/3964">kba</ref>
+          <note type="bio">Kaufmann, Prokurist, später Direktor der J. R. Geigy AG, Basel; Schwiegersohn Karl Barths (verheiratet mit Franziska Barth).</note>
         </person>
         <person xml:id="kbga-actors-9154">
           <persName>Zeppelin, Ferdinand Graf von</persName>

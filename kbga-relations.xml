@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-01-16 15:09:12</p>
+        <p>Datenbankexport vom 2023-03-16 14:54:50</p>
         <p>Es wurden die Datensätze aus der Tabelle relations exportiert.</p>
         <p>Beziehungen zwischen Begriffen werden innehalb der terms ausgedrückt.</p>
       </sourceDesc>
@@ -197,12 +197,18 @@
             <relation name="AE" xml:id="kbga-relations-238" mutual="kbga-bibls-2933 kbga-bibls-2987"/>
             <relation name="AE" xml:id="kbga-relations-239" mutual="kbga-bibls-48 kbga-bibls-96"/>
             <relation name="AE" xml:id="kbga-relations-240" mutual="kbga-bibls-96 kbga-bibls-48"/>
+            <relation name="RT" xml:id="kbga-relations-241" mutual="kbga-actors-6953 kbga-actors-8244"/>
+            <relation name="RT" xml:id="kbga-relations-242" mutual="kbga-actors-8244 kbga-actors-6953"/>
+            <relation name="RT" xml:id="kbga-relations-243" mutual="kbga-actors-8244 kbga-actors-354"/>
+            <relation name="RT" xml:id="kbga-relations-244" mutual="kbga-actors-354 kbga-actors-8244"/>
+            <relation name="RT" xml:id="kbga-relations-245" mutual="kbga-actors-8244 kbga-actors-1306"/>
+            <relation name="RT" xml:id="kbga-relations-246" mutual="kbga-actors-1306 kbga-actors-8244"/>
           </listRelation>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-01-16T15:09:12+01:00">teiHeader was automatically produced from the database 2023-01-16T15:09:12+01:00</change>
+      <change when="2023-03-16T14:54:50+01:00">teiHeader was automatically produced from the database 2023-03-16T14:54:50+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

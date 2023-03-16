@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-01-16 15:09:07</p>
+        <p>Datenbankexport vom 2023-03-16 14:54:45</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-01-16T15:09:07+01:00">teiHeader was automatically produced from the database 2023-01-16T15:09:07+01:00</change>
+      <change when="2023-03-16T14:54:45+01:00">teiHeader was automatically produced from the database 2023-03-16T14:54:45+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -210,22 +210,6 @@
           <ref target="https://kba.karl-barth.ch/actors/3063">kba</ref>
           <desc>Schweizerische regionale Tageszeitung der Stadt-Basel. Nach einer Fusion mit der National-Zeitung 1977 aufgegangen in der „Basler Zeitung“ (BaZ).</desc>
         </org>
-        <org xml:id="kbga-actors-5398">
-          <orgName>Basler Universität</orgName>
-          <orgName type="full">Basler Universität (1460-)</orgName>
-          <persName type="alternative">Universität Basel</persName>
-          <persName type="variant">Basler Universität</persName>
-          <birth when="1460-04-04"/>
-          <ref target="https://kba.karl-barth.ch/actors/15074">kba</ref>
-          <ref target="https://de.wikipedia.org/wiki/Universität_Basel">wikipedia</ref>
-          <ref target="https://d-nb.info/gnd/36146-X">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q372608">wikidata</ref>
-          <ref target="https://viaf.org/viaf/155492003/">viaf</ref>
-          <ref target="https://id.loc.gov/authorities/n50079502">lcnaf</ref>
-          <ref target="https://www.worldcat.org/identities/lccn-n50079502/">worldcat</ref>
-          <ref target="https://www.britannica.com/place/University-of-Basel">encyclopaedia-britannica-online</ref>
-          <ref target="https://hls-dhs-dss.ch/de/articles/010971">hls</ref>
-        </org>
         <org xml:id="kbga-actors-8618">
           <orgName>Basler Volksblatt</orgName>
           <orgName type="full">Basler Volksblatt (1873-1982)</orgName>
@@ -286,14 +270,13 @@
           <orgName>Bekenntnissynode Barmen 1934 (Deutsche Evangelische Kirche)</orgName>
           <orgName type="full">Bekenntnissynode Barmen 1934 (Deutsche Evangelische Kirche) (1934-1934)</orgName>
           <persName type="variant">Reichsbekenntnissynode Barmen 1934</persName>
-          <persName type="variant">Freie reformiere Synode</persName>
-          <persName type="variant">Bekenntnissynode Barmen 1934 (Freie reformierte)</persName>
           <persName type="variant">Barmer Bekenntnissynode von 1934</persName>
           <birth when="1934-05-29"/>
           <death when="1934-05-31"/>
           <ref target="https://de.wikipedia.org/wiki/Barmer_Bekenntnissynode">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/5049052-7">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q808359">wikidata</ref>
+          <desc>Die erste Bekenntnissynode der „Deutschen Evangelischen Kirche“ fand in der Gemarker Kirche Wuppertal-Barmen statt und war als konstituierende Synode der Bekennenden Kirche die erste von vier Reichsbekenntnissynoden der Bekennenden Kirche zur Zeit des Nationalsozialismus. Sie gilt als eines der wichtigsten Ereignisse der neueren Kirchengeschichte. Auf ihr wurde die Barmer Theologische Erklärung verabschiedet.</desc>
         </org>
         <org xml:id="kbga-actors-5873">
           <orgName>Bekenntnissynode Barmen 1934 (Freie reformierte)</orgName>
@@ -304,6 +287,7 @@
           <ref target="https://de.wikipedia.org/wiki/Bekenntnissynode">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q815016">wikidata</ref>
           <ref target="https://d-nb.info/gnd/5049052-7">gnd</ref>
+          <desc>Die erste Bekenntnissynode mit 167 Vertretern reformierter Gemeinden aus ganz Deutschland tagte in Wuppertal-Barmen und erhob die Forderung nach einer allein von Bibel und Bekenntnis her bestimmten (Neu-) Ordnung der Kirche; sie wandte sich damit gegen die Gleichschaltung der Kirchen durch die – der NS-Ideologie hörigen – „Deutschen Christen“.</desc>
         </org>
         <org xml:id="kbga-actors-8571">
           <orgName>Bekenntnissynode Breslau 1936 (Evangelische Kirche der altpreußischen Union)</orgName>
@@ -320,6 +304,7 @@
           <orgName>Bekenntnissynode Dahlem 1934 (Deutsche Evangelische Kirche)</orgName>
           <orgName type="full">Bekenntnissynode Dahlem 1934 (Deutsche Evangelische Kirche)</orgName>
           <ref target="https://d-nb.info/gnd/3018484-8">gnd</ref>
+          <desc>Zweite Reichsbekenntnissynode der Bekennenden Kirche am 19. und 20. Oktober 1934 in Berlin-Dahlem, auf der „kirchliche Notrecht" verabschiedet wurde und Karl Barth (für nur wenige Wochen) in das Leitungsorgan der Bekennenden Kirche berufen wurde.</desc>
         </org>
         <org xml:id="kbga-actors-8440">
           <orgName>Bekenntnissynode Dahlem 1935 (Evangelische Kirche der altpreußischen Union)</orgName>
@@ -628,6 +613,10 @@
           <orgName>Der Blitz. Kampfblatt für deutschen Glauben und deutsche Art</orgName>
           <orgName type="full">Der Blitz. Kampfblatt für deutschen Glauben und deutsche Art</orgName>
         </org>
+        <org xml:id="kbga-actors-9606">
+          <orgName>Der Christian Science Herold</orgName>
+          <orgName type="full">Der Christian Science Herold</orgName>
+        </org>
         <org xml:id="kbga-actors-7603">
           <orgName>Der Deutsche in Polen</orgName>
           <orgName type="full">Der Deutsche in Polen (1934-1939)</orgName>
@@ -855,14 +844,16 @@
         </org>
         <org xml:id="kbga-actors-8323">
           <orgName>Drittes Reich</orgName>
-          <orgName type="full">Drittes Reich (1934-1945)</orgName>
-          <birth when="1934"/>
+          <orgName type="full">Drittes Reich (1933-1945)</orgName>
+          <persName type="alternative">Deutsches Reich (1933-1945)</persName>
+          <birth when="1933"/>
           <death when="1945"/>
           <note type="date_comment">Regierungszeit Adolf Hitlers</note>
           <ref target="https://de.wikipedia.org/wiki/Drittes_Reich">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/4013021-6">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q518617">wikidata</ref>
           <ref target="https://id.loc.gov/authorities/sh85054594">lcnaf</ref>
+          <desc>Das Deutsche Reich in den Jahren der nationalsozialistischen Herrschaft. Der Begriff "Drittes Reich" wurde zunächst von den Nationalsozialisten selbst benutz, um eine Kontinuität vom Heiligen Römischen Reich deutscher Nation über das Kaiserreich zum eigenen Regime zu konstruieren; ab etwa 1939 wurde der Terminus aufgrund seiner auch christlichen Implikationen offiziell nicht mehr verwendet.</desc>
         </org>
         <org xml:id="kbga-actors-8570">
           <orgName>Durchbruch - Kampfblatt für deutschen Glauben, Rasse und Volkstum</orgName>
@@ -1024,12 +1015,15 @@
           <ref target="https://de.wikipedia.org/wiki/Église_Évangélique_Réformée_du_canton_de_Vaud">wikipedia</ref>
         </org>
         <org xml:id="kbga-actors-5257">
-          <orgName>Evangelisch-reformierte Landeskirche der Provinz Hannover</orgName>
-          <orgName type="full">Evangelisch-reformierte Landeskirche der Provinz Hannover (1949-)</orgName>
-          <persName type="alternative">Evangelisch-reformierte Kirche in Nordwestdeutschland</persName>
-          <birth when="1949"/>
+          <orgName>Evangelisch-reformierte Kirche in Nordwestdeutschland</orgName>
+          <orgName type="full">Evangelisch-reformierte Kirche in Nordwestdeutschland (1882-1989)</orgName>
+          <persName type="alternative">Evangelisch-reformirte Kirche der Provinz Hannover</persName>
+          <persName type="alternative">Evangelisch-reformierte Landeskirche der Provinz Hannover</persName>
+          <birth when="1882"/>
+          <death when="1989"/>
           <ref target="https://de.wikipedia.org/wiki/Evangelisch-reformierte_Kirche_in_Nordwestdeutschland">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/124085-7">gnd</ref>
+          <desc>Reformierte Landeskirche mit Sitz in Aurich; gegründet 1882 als "Evangelisch-reformirte Kirche der Provinz Hannover", 1922 umbenannt in "Evangelisch-reformierte Landeskirche der Provinz Hannover", 1949 in "Evangelisch-reformierte Kirche in Nordwestdeutschland"; 1989 mit der "Evangelisch-reformierten Kirche in Bayern" zur "Evangelisch-reformierten Kirche" fusioniert.</desc>
         </org>
         <org xml:id="kbga-actors-8331">
           <orgName>Evangelisch-reformierte Landeskirche des Kantons Aargau</orgName>
@@ -1189,19 +1183,6 @@
           <ref target="https://de.wikipedia.org/wiki/Evangelische_Gemeinschaft_(Methodismus)">wikipedia</ref>
           <desc>Dem Methodismus ähnliche, von Jakob Albrecht unter deutschen Auswanderern in Nordamerika gegründete religiöse Sondergemeinschaft; 1968 mit der Methodistenkirche zur Evangelisch-methodistischen Kirche vereinigt.</desc>
         </org>
-        <org xml:id="kbga-actors-5254">
-          <orgName>Evangelische Kirche der altpreußischen Union</orgName>
-          <orgName type="full">Evangelische Kirche der altpreußischen Union (1922-1953)</orgName>
-          <birth when="1922"/>
-          <death when="1953"/>
-          <ref target="https://de.wikipedia.org/wiki/Evangelische_Kirche_der_altpreußischen_Union">wikipedia</ref>
-          <ref target="https://d-nb.info/gnd/26146-4">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q163202">wikidata</ref>
-          <ref target="https://viaf.org/viaf/135457733/">viaf</ref>
-          <ref target="https://id.loc.gov/authorities/n80004103">lcnaf</ref>
-          <ref target="https://www.worldcat.org/identities/lccn-n80004103/">worldcat</ref>
-          <ref target="https://www.britannica.com/topic/Prussian-Union-German-religious-history-1817">encyclopaedia-britannica-online</ref>
-        </org>
         <org xml:id="kbga-actors-8306">
           <orgName>Evangelische Kirche der Böhmischen Brüder</orgName>
           <orgName type="full">Evangelische Kirche der Böhmischen Brüder (1918-)</orgName>
@@ -1216,6 +1197,22 @@
         <org xml:id="kbga-actors-8590">
           <orgName>Evangelische Kirche der Rheinprovinz</orgName>
           <orgName type="full">Evangelische Kirche der Rheinprovinz</orgName>
+        </org>
+        <org xml:id="kbga-actors-5254">
+          <orgName>Evangelische Kirche der Union</orgName>
+          <orgName type="full">Evangelische Kirche der Union (1817-2003)</orgName>
+          <persName type="alternative">Evangelische Kirche der altpreußischen Union</persName>
+          <persName type="alternative">Evangelische Landeskirche der älteren Provinzen Preußens</persName>
+          <birth when="1817"/>
+          <death when="2003"/>
+          <ref target="https://de.wikipedia.org/wiki/Evangelische_Kirche_der_altpreußischen_Union">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/26146-4">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q163202">wikidata</ref>
+          <ref target="https://viaf.org/viaf/135457733/">viaf</ref>
+          <ref target="https://id.loc.gov/authorities/n80004103">lcnaf</ref>
+          <ref target="https://www.worldcat.org/identities/lccn-n80004103/">worldcat</ref>
+          <ref target="https://www.britannica.com/topic/Prussian-Union-German-religious-history-1817">encyclopaedia-britannica-online</ref>
+          <desc>Evangelische Landeskirche in Preußen bzw. seinen Nachfolgestaaten; die Kirche existierte unter noch weiteren verschiedenen Namen, seit 1875 als "Evangelische Landeskirche der älteren Provinzen Preußens", seit 1922 als "Evangelische Kirche der altpreußischen Union", seit 1953 "Evangelische Kirche der Union", 2003 ist sie in der neugegründeten "Union Evangelischer Kirchen" (UEK) aufgegangen.</desc>
         </org>
         <org xml:id="kbga-actors-8354">
           <orgName>Evangelische Kirche von Kurhessen-Waldeck</orgName>
@@ -1399,6 +1396,7 @@
           <birth when="1933"/>
           <death when="1945"/>
           <ref target="https://de.wikipedia.org/wiki/Geheime_Staatspolizei">wikipedia</ref>
+          <desc>Politische Polizei des NS-Regimes, die weitreichende Befugnisse besaß, politische Gegner und Kritiker zu bekämpfen. In den Nürnberger Prozessen als verbrecherische Organisation verurteilt.</desc>
         </org>
         <org xml:id="kbga-actors-8420">
           <orgName>Geistliches Ministerium</orgName>
@@ -1679,20 +1677,20 @@
         </org>
         <org xml:id="kbga-actors-631">
           <orgName>Kaiser, Christian (Verlag)</orgName>
-          <orgName type="full">Kaiser, Christian (Verlag)</orgName>
-          <persName type="variant">Kaiser, Christian(Verlag)</persName>
+          <orgName type="full">Kaiser, Christian (Verlag) (1845-1993)</orgName>
           <persName type="variant">Kaiser, Chr. Verlag</persName>
           <persName type="variant">Kaiser, Chr.</persName>
           <persName type="variant">Christian Kaiser Verlag</persName>
           <persName type="variant">Chr. Kaiser-Verlag</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
+          <birth when="1845"/>
+          <death when="1993"/>
           <ref target="https://de.wikipedia.org/wiki/Christian_Kaiser_Verlag">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/2006926-1">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q1080544">wikidata</ref>
           <ref target="https://viaf.org/viaf/146641685/">viaf</ref>
           <ref target="https://id.loc.gov/authorities/n85065156">lcnaf</ref>
           <ref target="https://www.worldcat.org/identities/lccn-n85065156/">worldcat</ref>
+          <desc>1845 in München gegründet, seit der Übernahme der ersten Auflage des "Römerbriefs" wichtigster deutscher Verlag Karl Barths; 1937 indirekt ausgesprochenes Verbot, weitere Schriften Barths zu veröffentlichen, 1943 aufgrund seines Engagements für Verfasser aus der Bekennenden Kirche geschlossen, 1946 wieder gegründet, 1993 vom Gütersloher Verlagshaus übernommen.</desc>
         </org>
         <org xml:id="kbga-actors-9087">
           <orgName>Kamaldulenserorden</orgName>
@@ -2099,8 +2097,8 @@
           <ref target="https://kba.karl-barth.ch/actors/7067">kba</ref>
         </org>
         <org xml:id="kbga-actors-4867">
-          <orgName>Neue Wege. Blätter für religiöseArbeit</orgName>
-          <orgName type="full">Neue Wege. Blätter für religiöseArbeit (1906-)</orgName>
+          <orgName>Neue Wege. Blätter für religiöse Arbeit</orgName>
+          <orgName type="full">Neue Wege. Blätter für religiöse Arbeit (1906-)</orgName>
           <birth when="1906"/>
           <ref target="https://d-nb.info/gnd/7675436-4">gnd</ref>
           <ref target="https://de.wikipedia.org/wiki/Neue_Wege">wikipedia</ref>
@@ -2140,8 +2138,16 @@
           <desc>Sozialdemokratische Tageszeitung im Kanton Aargau; von 1912-1932: "Neuer Freier Aargauer", davor und danach: "Freier Aargauer".</desc>
         </org>
         <org xml:id="kbga-actors-8244">
-          <orgName>Neuwerk</orgName>
-          <orgName type="full">Neuwerk</orgName>
+          <orgName>Neuwerk – ein Dienst am Werdenden</orgName>
+          <orgName type="full">Neuwerk – ein Dienst am Werdenden (1919-1935)</orgName>
+          <persName type="alternative">Das Neue Werk</persName>
+          <persName type="alternative">Der christliche Demokrat, Das Neue Werk – ein Dienst am Werdenden</persName>
+          <birth when="1919"/>
+          <death when="1935"/>
+          <ref target="https://d-nb.info/gnd/1123289301">gnd</ref>
+          <ref target="https://kba.karl-barth.ch/actors/757">kba</ref>
+          <ref target="https://de.wikipedia.org/wiki/Neuwerk-Bewegung">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1982022">wikidata</ref>
         </org>
         <org xml:id="kbga-actors-8386">
           <orgName>New School for Social Resaerch, New York City</orgName>
@@ -2263,16 +2269,6 @@
         <org xml:id="kbga-actors-8658">
           <orgName>Pfarrerschaft Hessen</orgName>
           <orgName type="full">Pfarrerschaft Hessen</orgName>
-        </org>
-        <org xml:id="kbga-actors-8805">
-          <orgName>Pharisäer</orgName>
-          <orgName type="full">Pharisäer</orgName>
-          <ref target="https://d-nb.info/gnd/4174130-4">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q26403">wikidata</ref>
-          <ref target="https://www.britannica.com/topic/Pharisee">encyclopaedia-britannica-online</ref>
-          <ref target="https://www.newadvent.org/cathen/11789b.htm">catholic-encyclopedia</ref>
-          <ref target="https://id.loc.gov/authorities/sh85100582">lcnaf</ref>
-          <ref target="https://de.wikipedia.org/wiki/Pharisäer">wikipedia</ref>
         </org>
         <org xml:id="kbga-actors-8224">
           <orgName>Philipps-Universität Marburg</orgName>
@@ -2422,10 +2418,11 @@
         <org xml:id="kbga-actors-4134">
           <orgName>Reformierter Bund</orgName>
           <orgName type="full">Reformierter Bund (1884-)</orgName>
-          <persName type="alternative">Reformierte Bund in Deutschland e. V.</persName>
+          <persName type="variant">Reformierter Bund in Deutschland e. V.</persName>
           <birth when="1884"/>
           <ref target="https://de.wikipedia.org/wiki/Reformierter_Bund">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/2018938-2">gnd</ref>
+          <desc>Deutsche reformierte vereinsrechtliche Föderation in Deutschland. Dachverband der ca. zwei Millionen Reformierten (Stand 2021), dem sowohl Kirchen, als auch Gemeinden und Einzelmitglieder angehören. Seit 2005 Sitz in Hannover.</desc>
         </org>
         <org xml:id="kbga-actors-8669">
           <orgName>Reformierter Bund für Deutschland</orgName>
@@ -2903,11 +2900,12 @@
         </org>
         <org xml:id="kbga-actors-7468">
           <orgName>Theologische Blätter</orgName>
-          <orgName type="full">Theologische Blätter</orgName>
+          <orgName type="full">Theologische Blätter (1891-1942)</orgName>
           <persName type="variant">Theologischen Blättern</persName>
           <persName type="variant">Theol. Blätter</persName>
-          <persName type="variant">ThBl</persName>
-          <persName type="variant">Theol. Bl.</persName>
+          <birth when="1891"/>
+          <death when="1942"/>
+          <desc>Theologische Zeitschrift, deren Schriftleiter und Herausgeber von 1922 bis 1937 Karl Ludwig Schmidt war.</desc>
         </org>
         <org xml:id="kbga-actors-7469">
           <orgName>Theologische Existenz heute</orgName>
@@ -3117,6 +3115,22 @@
         <org xml:id="kbga-actors-8597">
           <orgName>Universität Aberdeen</orgName>
           <orgName type="full">Universität Aberdeen</orgName>
+        </org>
+        <org xml:id="kbga-actors-5398">
+          <orgName>Universität Basel</orgName>
+          <orgName type="full">Universität Basel (1460-)</orgName>
+          <persName type="variant">Basler Universität</persName>
+          <birth when="1460-04-04"/>
+          <ref target="https://kba.karl-barth.ch/actors/15074">kba</ref>
+          <ref target="https://de.wikipedia.org/wiki/Universität_Basel">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/36146-X">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q372608">wikidata</ref>
+          <ref target="https://viaf.org/viaf/155492003/">viaf</ref>
+          <ref target="https://id.loc.gov/authorities/n50079502">lcnaf</ref>
+          <ref target="https://www.worldcat.org/identities/lccn-n50079502/">worldcat</ref>
+          <ref target="https://www.britannica.com/place/University-of-Basel">encyclopaedia-britannica-online</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/010971">hls</ref>
+          <desc>Älteste Universität der Schweiz.</desc>
         </org>
         <org xml:id="kbga-actors-8233">
           <orgName>Universität Berlin</orgName>
@@ -3367,6 +3381,7 @@
           <ref target="https://viaf.org/viaf/245646536/">viaf</ref>
           <ref target="https://www.worldcat.org/identities/lccn-n79110921/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/n79110921">lcnaf</ref>
+          <desc>Internationale Organisation, nach dem Ersten Weltkrieg gegründet (1920-1946), um als überstaatliche Schiedsinstanz an der Herstellung und Bewahrung weltweiten Friedens zu arbeiten. Nach dem Zweiten Weltkrieg wurde der Völkerbund aufgelöst; als Nachfolgeorganisation wurde die UNO gegründet.</desc>
         </org>
         <org xml:id="kbga-actors-8087">
           <orgName>Völkischer Beobachter</orgName>
@@ -3387,10 +3402,13 @@
         </org>
         <org xml:id="kbga-actors-8433">
           <orgName>Vorläufige Kirchenleitung II der Deutschen Evangelischen Kirche</orgName>
-          <orgName type="full">Vorläufige Kirchenleitung II der Deutschen Evangelischen Kirche</orgName>
+          <orgName type="full">Vorläufige Kirchenleitung II der Deutschen Evangelischen Kirche (1936-1945)</orgName>
           <persName type="alternative">VKL II</persName>
+          <birth when="1936"/>
+          <death when="1945"/>
           <ref target="https://de.wikipedia.org/wiki/Kirchliches_Notrecht_von_Dahlem">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q1743344">wikidata</ref>
+          <desc>Im Februar 1936 als Nachfolgeinstitution der VKL I installiertes kirchenleitendes Gremium der Bekennenden Kirche. Die VKL II war stark bruderrätlich-dahlemitisch orientiert und wurde von größeren Teilen der Bekennenden Kirche, die sich dann dem Lutherrat unterstellten, nicht anerkannt.</desc>
         </org>
         <org xml:id="kbga-actors-8747">
           <orgName>Weimarer Republik</orgName>
