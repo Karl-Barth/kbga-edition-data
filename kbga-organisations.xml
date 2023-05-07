@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-03-16 14:54:45</p>
+        <p>Datenbankexport vom 2023-05-07 17:32:45</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-03-16T14:54:45+01:00">teiHeader was automatically produced from the database 2023-03-16T14:54:45+01:00</change>
+      <change when="2023-05-07T17:32:45+02:00">teiHeader was automatically produced from the database 2023-05-07T17:32:45+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -663,8 +663,9 @@
           <orgName>Deutsche Demokratische Republik</orgName>
           <orgName type="full">Deutsche Demokratische Republik (1949-1990)</orgName>
           <persName type="alternative">Ostdeutschland</persName>
-          <birth when="1949"/>
-          <death when="1990"/>
+          <persName type="alternative">Ostzone</persName>
+          <birth when="1949-10-07"/>
+          <death when="1990-10-02"/>
           <ref target="https://de.wikipedia.org/wiki/Deutsche_Demokratische_Republik">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q16957">wikidata</ref>
           <ref target="https://d-nb.info/gnd/4011890-3">gnd</ref>
@@ -673,6 +674,7 @@
           <ref target="https://viaf.org/viaf/125035363/">viaf</ref>
           <ref target="https://www.worldcat.org/identities/lccn-n80125938/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/n80125938">lcnaf</ref>
+          <desc>Ostdeutscher Teilstaat; 1949 in Abgrenzung zur westorientierten Bundesrepublik Deutschland als eigener Staat im sowjetischen Einflussbereich gegründet, despektierlich im Westen lange auch als "Ostzone" bezeichnet, 1990 durch Beitritt zur Bundesrepublik aufgelöst.</desc>
         </org>
         <org xml:id="kbga-actors-8262">
           <orgName>Deutsche Evangelische Kirche</orgName>
@@ -793,8 +795,11 @@
         </org>
         <org xml:id="kbga-actors-8414">
           <orgName>Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft</orgName>
-          <orgName type="full">Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft</orgName>
+          <orgName type="full">Die Nation. Unabhängige Zeitung für Demokratie und Volksgemeinschaft (1933-1952)</orgName>
+          <birth when="1933"/>
+          <death when="1952"/>
           <ref target="https://de.wikipedia.org/wiki/Die_Nation_(Schweiz)">wikipedia</ref>
+          <desc>Schweizer Zeitung, die von einem Kreis betont antifaschistischer Persönlichkeiten gegründet wurde und sich für die schweizerische Unabhängigkeit, für Demokratie und Rechtsstaatlichkeit einsetzte.</desc>
         </org>
         <org xml:id="kbga-actors-8678">
           <orgName>Die Zeit</orgName>
@@ -858,17 +863,6 @@
         <org xml:id="kbga-actors-8570">
           <orgName>Durchbruch - Kampfblatt für deutschen Glauben, Rasse und Volkstum</orgName>
           <orgName type="full">Durchbruch - Kampfblatt für deutschen Glauben, Rasse und Volkstum</orgName>
-        </org>
-        <org xml:id="kbga-actors-8882">
-          <orgName>Elamiter</orgName>
-          <orgName type="full">Elamiter</orgName>
-          <ref target="https://d-nb.info/gnd/4092465-8">gnd</ref>
-          <ref target="https://de.wikipedia.org/wiki/Elam_(Altertum)">wikipedia</ref>
-          <ref target="https://www.wikidata.org/wiki/Q128904">wikidata</ref>
-          <ref target="https://viaf.org/viaf/243355130/">viaf</ref>
-          <ref target="https://id.loc.gov/authorities/n83181686">lcnaf</ref>
-          <ref target="https://www.worldcat.org/identities/lccn-n83181686/">worldcat</ref>
-          <ref target="https://www.britannica.com/place/Elam">encyclopaedia-britannica-online</ref>
         </org>
         <org xml:id="kbga-actors-8225">
           <orgName>Emory University</orgName>
@@ -1214,6 +1208,20 @@
           <ref target="https://www.britannica.com/topic/Prussian-Union-German-religious-history-1817">encyclopaedia-britannica-online</ref>
           <desc>Evangelische Landeskirche in Preußen bzw. seinen Nachfolgestaaten; die Kirche existierte unter noch weiteren verschiedenen Namen, seit 1875 als "Evangelische Landeskirche der älteren Provinzen Preußens", seit 1922 als "Evangelische Kirche der altpreußischen Union", seit 1953 "Evangelische Kirche der Union", 2003 ist sie in der neugegründeten "Union Evangelischer Kirchen" (UEK) aufgegangen.</desc>
         </org>
+        <org xml:id="kbga-actors-9623">
+          <orgName>Evangelische Kirche in Deutschland</orgName>
+          <orgName type="full">Evangelische Kirche in Deutschland (1948-)</orgName>
+          <birth when="1948-07-13"/>
+          <note type="date_comment">Verabschiedung der Grundordnung; 1945 in Treysa bereits ein Rat der EKD gegründet</note>
+          <ref target="https://d-nb.info/gnd/2009798-0">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q170111">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/The-Evangelical-Church-in-Germany">encyclopaedia-britannica-online</ref>
+          <ref target="https://worldcat.org/identities/lccn-n83195626/">worldcat</ref>
+          <ref target="https://id.loc.gov/authorities/n83195626">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/158021972/">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Evangelische_Kirche_in_Deutschland">wikipedia</ref>
+          <desc>Zusammenschluss der evangelischen Landeskirchen in Deutschland, gegründet als "Bund eigenständiger und konfessionsverschiedener Kirchen"; bis 1969 und seit 1990/91 gesamtdeutsch organisiert, dazwischen nur im Bereich der Bundesrepublik.</desc>
+        </org>
         <org xml:id="kbga-actors-8354">
           <orgName>Evangelische Kirche von Kurhessen-Waldeck</orgName>
           <orgName type="full">Evangelische Kirche von Kurhessen-Waldeck</orgName>
@@ -1346,12 +1354,6 @@
         <org xml:id="kbga-actors-8242">
           <orgName>Freie Universität Berlin</orgName>
           <orgName type="full">Freie Universität Berlin</orgName>
-        </org>
-        <org xml:id="kbga-actors-9032">
-          <orgName>Freies Gymnasium Bern</orgName>
-          <orgName type="full">Freies Gymnasium Bern (1892-)</orgName>
-          <birth when="1892"/>
-          <desc>Von Karl Barth besuchtes, aus der Lerberschule (1859-1892) hervorgegangenes Gymnasium in Bern.</desc>
         </org>
         <org xml:id="kbga-actors-8619">
           <orgName>Freiheit. Schweizerische Volkszeitung</orgName>
@@ -1711,8 +1713,10 @@
         </org>
         <org xml:id="kbga-actors-8253">
           <orgName>Karl Barth-Archiv</orgName>
-          <orgName type="full">Karl Barth-Archiv</orgName>
+          <orgName type="full">Karl Barth-Archiv (1971-)</orgName>
+          <birth when="1971"/>
           <ref target="https://d-nb.info/gnd/10364680-2">gnd</ref>
+          <desc>Letztes Wohnhaus Karl Barths in Basel, in dem sein Nachlass (Bibliothek, Dokumente, Arbeitszimmer, einige weitere Stücke aus seinem Besitz) gesammelt ist. - Homepage: https://karlbarth.unibas.ch/de/</desc>
         </org>
         <org xml:id="kbga-actors-9114">
           <orgName>Katholisch-Apostolische Gemeinde</orgName>
@@ -1949,13 +1953,6 @@
           <orgName>Mc. Cormick Theol. Seminary</orgName>
           <orgName type="full">Mc. Cormick Theol. Seminary</orgName>
           <ref target="https://kba.karl-barth.ch/actors/20595">kba</ref>
-        </org>
-        <org xml:id="kbga-actors-8881">
-          <orgName>Meder</orgName>
-          <orgName type="full">Meder</orgName>
-          <ref target="https://d-nb.info/gnd/4115062-4">gnd</ref>
-          <ref target="https://de.wikipedia.org/wiki/Meder">wikipedia</ref>
-          <ref target="https://www.wikidata.org/wiki/Q1298821">wikidata</ref>
         </org>
         <org xml:id="kbga-actors-9066">
           <orgName>Methodist New Connexion</orgName>
@@ -2246,13 +2243,6 @@
           <ref target="https://www.britannica.com/place/Austria-Hungary">encyclopaedia-britannica-online</ref>
           <desc>Historischer Staat in Mittel- und Südosteuropa, Doppelmonarchie in der letzten Phase des Habsburgerreiches, bestehend aus den „im Reichsrat vertretenen Königreichen und Ländern“ (Österreich) und den „Ländern der Heiligen Ungarischen Krone“.</desc>
         </org>
-        <org xml:id="kbga-actors-8880">
-          <orgName>Parther</orgName>
-          <orgName type="full">Parther</orgName>
-          <ref target="https://d-nb.info/gnd/4044770-4">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q28045596">wikidata</ref>
-          <ref target="https://de.wikipedia.org/wiki/Parther">wikipedia</ref>
-        </org>
         <org xml:id="kbga-actors-8692">
           <orgName>Peter Hanstein GmbH</orgName>
           <orgName type="full">Peter Hanstein GmbH</orgName>
@@ -2283,14 +2273,6 @@
           <ref target="https://www.worldcat.org/identities/lccn-n79100352/">worldcat</ref>
           <ref target="https://d-nb.info/gnd/2001630-X">gnd</ref>
           <ref target="https://www.britannica.com/topic/Philipps-University-of-Marburg">encyclopaedia-britannica-online</ref>
-        </org>
-        <org xml:id="kbga-actors-8879">
-          <orgName>Philister</orgName>
-          <orgName type="full">Philister</orgName>
-          <ref target="https://d-nb.info/gnd/4045777-1">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q193776">wikidata</ref>
-          <ref target="https://www.newadvent.org/cathen/12021c.htm">catholic-encyclopedia</ref>
-          <ref target="https://de.wikipedia.org/wiki/Philister">wikipedia</ref>
         </org>
         <org xml:id="kbga-actors-8280">
           <orgName>Philosophische Fakultät der Universität Greifswald</orgName>
@@ -2507,10 +2489,6 @@
           <ref target="https://www.wikidata.org/wiki/Q6130728">wikidata</ref>
           <ref target="https://d-nb.info/gnd/4177726-8">gnd</ref>
         </org>
-        <org xml:id="kbga-actors-8720">
-          <orgName>Römisch-katholische Kirche</orgName>
-          <orgName type="full">Römisch-katholische Kirche</orgName>
-        </org>
         <org xml:id="kbga-actors-9031">
           <orgName>Römische Kurie</orgName>
           <orgName type="full">Römische Kurie</orgName>
@@ -2550,15 +2528,6 @@
           <ref target="https://www.worldcat.org/identities/lccn-n92056007/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/n92056007">lcnaf</ref>
           <desc>Kurzname für die verschieden konstituierten russischen Staaten: Zarentum Russland (1547-1721) Russisches Kaiserreich (1721-1917); Russische Republik (1917); Russische Sozialistische Föderative Sowjetrepublik (1917-1921); Russische Föderation (seit 1990). - Verkürzend auch für die Sowjetunion verwendet.</desc>
-        </org>
-        <org xml:id="kbga-actors-8961">
-          <orgName>Sadduzäer</orgName>
-          <orgName type="full">Sadduzäer</orgName>
-          <ref target="https://d-nb.info/gnd/4178868-0">gnd</ref>
-          <ref target="https://de.wikipedia.org/wiki/Sadduzäer">wikipedia</ref>
-          <ref target="https://www.wikidata.org/wiki/Q182682">wikidata</ref>
-          <ref target="https://www.britannica.com/topic/Sadducee">encyclopaedia-britannica-online</ref>
-          <ref target="https://www.newadvent.org/cathen/13323a.htm">catholic-encyclopedia</ref>
         </org>
         <org xml:id="kbga-actors-9034">
           <orgName>Sanhedrin</orgName>
@@ -2799,14 +2768,15 @@
           <desc>Vom Schweizerischen Arbeitertag als Interessenvertretung der Arbeiter gegründete Partei mit sozialdemokratischer, zeitweise sozialistischer Ausrichtung. - Barth gehörte der SP von 1915 bis zu seinem Weggang nach Deutschland 1921 an.</desc>
         </org>
         <org xml:id="kbga-actors-6133">
-          <orgName>Sozialdemokratische Partei Deutschlands (SPD)</orgName>
-          <orgName type="full">Sozialdemokratische Partei Deutschlands (SPD) (1823- )</orgName>
+          <orgName>Sozialdemokratische Partei Deutschlands</orgName>
+          <orgName type="full">Sozialdemokratische Partei Deutschlands (1863- )</orgName>
           <persName type="variant">SPD</persName>
-          <birth when="1823-05-23"/>
+          <birth when="1863-05-23"/>
           <death when="0000"/>
           <ref target="https://de.wikipedia.org/wiki/Sozialdemokratische_Partei_Deutschlands">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/16611">kba</ref>
           <ref target="https://d-nb.info/gnd/1228301417">gnd</ref>
+          <desc>Kürzel: SPD, älteste noch bestehende deutsche politische Partei; entstanden aus der 1875 vollzogenen Fusion des 1863 gegründeten Allgemeinen Deutschen Arbeitervereins und der 1869 gegründeten Sozialdemokratischen Arbeiterpartei zur Sozialistischen Arbeiterpartei Deutschlands (seit 1890 SPD).</desc>
         </org>
         <org xml:id="kbga-actors-8210">
           <orgName>Soziale Arbeitsgemeinschaft Berlin-0st</orgName>
@@ -2879,7 +2849,10 @@
         </org>
         <org xml:id="kbga-actors-8552">
           <orgName>The British Weekly. A journal of social and christian progress</orgName>
-          <orgName type="full">The British Weekly. A journal of social and christian progress</orgName>
+          <orgName type="full">The British Weekly. A journal of social and christian progress (1886-1961)</orgName>
+          <birth when="1886"/>
+          <death when="1961"/>
+          <desc>In London erscheinende Wochenzeitung, lt. Encyclopedia Britannica 1911 "a Nonconformist organ which obtained great influence over opinion in the free churches".</desc>
         </org>
         <org xml:id="kbga-actors-8655">
           <orgName>Theologenschaft Göttingen</orgName>
@@ -2906,17 +2879,6 @@
           <birth when="1891"/>
           <death when="1942"/>
           <desc>Theologische Zeitschrift, deren Schriftleiter und Herausgeber von 1922 bis 1937 Karl Ludwig Schmidt war.</desc>
-        </org>
-        <org xml:id="kbga-actors-7469">
-          <orgName>Theologische Existenz heute</orgName>
-          <orgName type="full">Theologische Existenz heute (1933-1941)</orgName>
-          <persName type="variant">Theol. Ex.</persName>
-          <persName type="variant">Th. Ex.</persName>
-          <birth when="1933"/>
-          <death when="1941"/>
-          <ref target="https://de.wikipedia.org/wiki/Theologische_Existenz_heute">wikipedia</ref>
-          <ref target="https://d-nb.info/gnd/4352482-5">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q31839319">wikidata</ref>
         </org>
         <org xml:id="kbga-actors-5365">
           <orgName>Theologische Fachschaft in Marburg</orgName>
@@ -3352,10 +3314,13 @@
         </org>
         <org xml:id="kbga-actors-4183">
           <orgName>Vereinigung der Freunde der Christlichen Welt</orgName>
-          <orgName type="full">Vereinigung der Freunde der Christlichen Welt</orgName>
+          <orgName type="full">Vereinigung der Freunde der Christlichen Welt (1904-1934)</orgName>
           <persName type="variant">Freunde der Christlichen Welt</persName>
+          <birth when="1904-09-28"/>
+          <death when="1934"/>
           <ref target="https://kba.karl-barth.ch/actors/1021">kba</ref>
           <ref target="https://d-nb.info/gnd/122685-X">gnd</ref>
+          <desc>Kreis theologisch im Sinne der Zeitschrift "Christliche Welt" Engagierter; nach ersten jährlichen informellen Zusammenkünften seit 1892 fasste man am 30.9.1903 den Beschluss zur Gründung, die 1904 in Eisenach vollzigen wurde.</desc>
         </org>
         <org xml:id="kbga-actors-5649">
           <orgName>Vereinte Nationen</orgName>

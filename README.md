@@ -139,6 +139,8 @@ Für die Kirchenlieder wurde ebenfalls eine einfache Datenbank eingerichtet, die
 ####  3.3.6. <a name='Bibelstellen'></a>Bibelstellen
 Um die zitierten Bibelstellen einblenden zu können, wurde die Bibel in der Übersetzung Martin Luthers (revidierte Ausgabe 1912) verwendet. Dafür wurde der Text von [https://www.sermon-online.de](https://www.sermon-online.de) übernommen. Dies scheint zurzeit (2020) der beste digital verfügbare Text zu sein (vgl. die entsprechende [Diskussion auf Wikipedia](http://www.freie-bibel.de/official/bibel/luther/luther_1912/information/archivierte_diskussion_luther_1912.html)). Die Daten wurden für die Verwendung in der Edition als TEI abgespeichert. Sie stehen auch über eine API zur Verfügung: [https://luther.k-r.ch/](https://luther.k-r.ch/) und [https://luther.k-r.ch/example](https://luther.k-r.ch/example). Der Quellcode der API ist auf [gitlab](https://gitlab.com/andreas_kraenzle/luther) verfügbar.
 
+Für Bücher, die zwar in der Lutherbibel von 1912 enthalten sind, aber nicht in diesem Datenset enthalten waren, wie z.B. Tobias, ergänzen wir die TEI-Datei mit einzelnen Versen unter Verwendung des Textes auf [https:///www.die-bibel-de](https://www.die-bibel.de/bibeln/online-bibeln/bibliothek/LU12).
+
 ###  3.4. <a name='Textpublikation'></a>Textpublikation
 Die Quelle aller Pubikationen sind die TEI Text- und die dazugehörigen Registerdateien.
 
