@@ -1,12 +1,17 @@
 ## Aktuell
 
-### 23. Dezember 2022 (Version: beta)
+### 8.Mai 2023 (Version: gamma)
 
-Ein weiterer Band ist online verfügbar: 53 «Predigten 1907–1910». 
+Ein weiterer Band ist online: 40 «Die Theologie Zwinglis
+Vorlesung Göttingen 1922/23».
 
 Für Vorschlage und Korrekturen sind wir dankbar.
 
 info@karl-barth.ch
+
+### 23. Dezember 2022 (Version: beta)
+
+Ein weiterer Band ist online verfügbar: 53 «Predigten 1907–1910». 
 
 ### 16. Juni 2022 (Version: alpha)
 

@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2023-05-07
+2023-05-08
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -12,6 +12,7 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 | Predigten 1954–1967 (Abt. I Predigten), Zürich 2003 | [[Band 12](https://kbga.karl-barth.ch/volume/12)] |
 | Predigten 1915 (Abt. I Predigten), Zürich 1996 | [[Band 27](https://kbga.karl-barth.ch/volume/27)] |
 | Predigten 1916 (Abt. I Predigten), Zürich 1998 | [[Band 29](https://kbga.karl-barth.ch/volume/29)] |
+| Die Theologie Zwinglis 1922/1923 (Abt. II Akademische Werke), Zürich 2004 | [[Band 40](https://kbga.karl-barth.ch/volume/40)] |
 | Predigten 1907–1910 (Abt. I Predigten), Zürich 2018 | [[Band 53](https://kbga.karl-barth.ch/volume/53)] |
 | Vorträge und kleinere Arbeiten 1935–1937 (Abt. III Vorträge und kleinere Arbeiten), Zürich 2020 | [[Band 55](https://kbga.karl-barth.ch/volume/55)] |
 | Predigten 1912 (Abt. I Predigten), Zürich 2022 | [[Band 56](https://kbga.karl-barth.ch/volume/56)] |
@@ -19,7 +20,7 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 ### Statistik
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
-|Bände | 8 |8 |
+|Bände | 9 |9 |
 |Personen | 0 |0 |
 |Organisationen | 0 |0 |
 |Orte | 0 |0 |

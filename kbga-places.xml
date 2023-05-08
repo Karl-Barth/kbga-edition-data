@@ -20,8 +20,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-05-07 17:32:49</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,55,53,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2023-05-08 07:57:18</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -59,13 +59,32 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-05-07T17:32:49+02:00">teiHeader was automatically produced from the database 2023-05-07T17:32:49+02:00</change>
+      <change when="2023-05-08T07:57:18+02:00">teiHeader was automatically produced from the database 2023-05-08T07:57:18+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <listPlace type="places" xml:id="kbga-places">
         <head>Liste der Orte</head>
+        <place type="P" xml:id="kbga-places-1156">
+          <placeName>Aachen</placeName>
+          <placeName type="full">Aachen (NW)</placeName>
+          <location>
+            <geo>50.77664 6.08342</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/3247449">https://www.geonames.org/3247449</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/700">https://kba.karl-barth.ch/places/700</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1017">https://www.wikidata.org/wiki/Q1017</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/124330404/">https://viaf.org/viaf/124330404/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80046295">https://id.loc.gov/authorities/n80046295</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n80046295/">https://www.worldcat.org/identities/lccn-n80046295/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4000003-5">https://d-nb.info/gnd/4000003-5</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Aachen">https://www.britannica.com/place/Aachen</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01001a.htm">https://www.newadvent.org/cathen/01001a.htm</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Aachen">https://de.wikipedia.org/wiki/Aachen</idno>
+          <note type="description">Stadt im Westen Nordrhein-Westfalens, westlichste deutsche Großstadt, nahe der Grenze zu den Niederlanden und zu Belgien; an der Wende vom 8. zum 9. Jahrhundert Hauptresidenz Karls des Großen, vom frühen Mittelalter bis zur Reformation Krönungsort zahlreicher römisch-deutscher Könige und Kaiser.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1">
           <placeName>Aarau</placeName>
           <placeName type="full">Aarau (AG)</placeName>
@@ -193,6 +212,10 @@
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n80061791">https://id.loc.gov/authorities/n80061791</idno>
           <note type="description">Gebiet im nordöstlichen Afrika, das dem Territorium des gleichnamigen Staates, im biblischen Kontext dem des damaligen Pharaonenreiches entspricht.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1230">
+          <placeName>Aigle</placeName>
+          <placeName type="full">Aigle</placeName>
+        </place>
         <place type="A" xml:id="kbga-places-1099">
           <placeName>Albanien</placeName>
           <placeName type="full">Albanien</placeName>
@@ -210,6 +233,15 @@
           <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01253b.htm">https://www.newadvent.org/cathen/01253b.htm</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/003348">https://hls-dhs-dss.ch/de/articles/003348</idno>
           <note type="description">Gebiet in Südosteuropa an der östlichen Adria, das dem Territorium des gleichnamigen Staates entspricht.</note>
+        </place>
+        <place type="T" xml:id="kbga-places-1190">
+          <placeName>Albis</placeName>
+          <placeName type="full">Albis (ZH)</placeName>
+          <location>
+            <geo>47.26825 8.52651</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/2661826">https://www.geonames.org/2661826</idno>
+          <note type="description">Bergkette südlich von Zürich, erstreckt sich ca. 22 km parallel zum Zürcher See; höchste Erhebung: 914 m. ü. M.</note>
         </place>
         <place type="P" xml:id="kbga-places-1134">
           <placeName>Alexandria</placeName>
@@ -233,6 +265,10 @@
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/003434">https://hls-dhs-dss.ch/de/articles/003434</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/5247">https://kba.karl-barth.ch/places/5247</idno>
           <note type="description">Territorium des gleichnamigen heutigen Staates in Nordafrika; bis 1962 französische Kolonie (seit 1881 als Teil des französischen Mutterlandes betrachtet).</note>
+        </place>
+        <place xml:id="kbga-places-638">
+          <placeName>Allstedt bei Sangerhausen</placeName>
+          <placeName type="full">Allstedt bei Sangerhausen</placeName>
         </place>
         <place type="T" xml:id="kbga-places-153">
           <placeName>Alpen</placeName>
@@ -264,6 +300,11 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n81053320/">https://www.worldcat.org/identities/lccn-n81053320/</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4001350-9">https://d-nb.info/gnd/4001350-9</idno>
           <idno type="geonames" target="https://www.geonames.org/2958173">https://www.geonames.org/2958173</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-1234">
+          <placeName>Altdorf</placeName>
+          <placeName type="full">Altdorf</placeName>
+          <country>Schweiz</country>
         </place>
         <place type="S" xml:id="kbga-places-465">
           <placeName>Altenklingen</placeName>
@@ -328,6 +369,23 @@
         <place type="P" xml:id="kbga-places-1135">
           <placeName>Antiochia</placeName>
           <placeName type="full">Antiochia</placeName>
+        </place>
+        <place type="P" xml:id="kbga-places-156">
+          <placeName>Appenzell</placeName>
+          <placeName type="full">Appenzell (AI)</placeName>
+          <location>
+            <geo>47.33103 9.40996</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Appenzell_(Ort)">https://de.wikipedia.org/wiki/Appenzell_(Ort)</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/3690">https://kba.karl-barth.ch/places/3690</idno>
+          <idno type="geonames" target="https://www.geonames.org/2661740">https://www.geonames.org/2661740</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q209270">https://www.wikidata.org/wiki/Q209270</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/no2009059430">https://id.loc.gov/authorities/no2009059430</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4002485-4">https://d-nb.info/gnd/4002485-4</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/148933771/">https://viaf.org/viaf/148933771/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n82039929/">https://www.worldcat.org/identities/lccn-n82039929/</idno>
+          <note type="description">Hauptort des Schweizer Kantons Appenzell Innerrhoden.</note>
         </place>
         <place type="A" xml:id="kbga-places-384">
           <placeName>Appenzell (Kanton)</placeName>
@@ -468,6 +526,16 @@
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/006581">https://hls-dhs-dss.ch/de/articles/006581</idno>
           <idno type="geonames" target="https://www.geonames.org/2954172">https://www.geonames.org/2954172</idno>
           <note type="description">Universitätsstadt im Südwesten Bayerns und eine der ältesten Städte Deutschlands. Seit 1316 Reichsstadt, Ort mehrerer Reichstage, 1555 wurde hier der Augsburger Religionsfrieden ausgehandelt, 1935 Ort der Dritten Reichsbekenntnissynode.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1210">
+          <placeName>Augustinerkirche</placeName>
+          <placeName type="full">Augustinerkirche / Zürich (ZH)</placeName>
+          <placeName type="alternative">Augustinerkloster</placeName>
+          <settlement>Zürich</settlement>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Augustinerkirche_(Zürich)">https://de.wikipedia.org/wiki/Augustinerkirche_(Zürich)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q768482">https://www.wikidata.org/wiki/Q768482</idno>
+          <note type="description">Christkatholische Kirche in Zürich, erbaut um 1270 als Klosterkirche.</note>
         </place>
         <place type="P" xml:id="kbga-places-653">
           <placeName>Aurich</placeName>
@@ -656,6 +724,12 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Banat">https://www.britannica.com/place/Banat</idno>
           <idno type="geonames" target="https://www.geonames.org/685492">https://www.geonames.org/685492</idno>
         </place>
+        <place type="S" xml:id="kbga-places-1217">
+          <placeName>Barfüßerkloster</placeName>
+          <placeName type="full">Barfüßerkloster / Zürich</placeName>
+          <placeName type="alternative">Barfüßerkirche</placeName>
+          <settlement>Zürich</settlement>
+        </place>
         <place type="P" xml:id="kbga-places-162">
           <placeName>Barmen</placeName>
           <placeName type="full">Barmen / Wuppertal (NW)</placeName>
@@ -764,6 +838,11 @@
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n81018373">https://id.loc.gov/authorities/n81018373</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bayern">https://de.wikipedia.org/wiki/Bayern</idno>
           <note type="description">Territorium des früheren Königreichs und heutigen deutschen Freistaats / Bundeslandes.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1220">
+          <placeName>Beckenried</placeName>
+          <placeName type="full">Beckenried (Nidwalden)</placeName>
+          <country>Schweiz</country>
         </place>
         <place type="A" xml:id="kbga-places-167">
           <placeName>Belgien</placeName>
@@ -1263,6 +1342,10 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Bourges">https://www.britannica.com/place/Bourges</idno>
           <note type="description">Stadt und Bischofssitz in der Region Centre-Val de Loire in Frankreich.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1261">
+          <placeName>Brabant</placeName>
+          <placeName type="full">Brabant</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-177">
           <placeName>Bremen</placeName>
           <placeName type="full">Bremen (HB)</placeName>
@@ -1280,6 +1363,12 @@
           <idno type="kba" target="https://kba.karl-barth.ch/places/140">https://kba.karl-barth.ch/places/140</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bremen">https://de.wikipedia.org/wiki/Bremen</idno>
           <note type="description">An der Weser gelegene norddeutsche Hafen- und Hansestadt, heute Hauptstadt des Landes Bremen. Wohnsitz des mit der Familie Barth eng befreundeten Ehepaares Karl und Dorothee Stoevesandt.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-487">
+          <placeName>Bremgarten</placeName>
+          <placeName type="full">Bremgarten (AG)</placeName>
+          <country>Schweiz</country>
+          <note type="description">Kleinstadt und Einwohnergemeinde im unteren Reusstal, im Südosten des Kantons Aargau, ca. 15 km westlich von Zürich. Geburtsort Heinrich Bullingers.</note>
         </place>
         <place type="P" xml:id="kbga-places-179">
           <placeName>Breslau</placeName>
@@ -1552,6 +1641,10 @@
           <idno type="viaf" target="https://viaf.org/viaf/152492285/">https://viaf.org/viaf/152492285/</idno>
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n84064716">https://id.loc.gov/authorities/n84064716</idno>
         </place>
+        <place type="P" xml:id="kbga-places-1259">
+          <placeName>Celle</placeName>
+          <placeName type="full">Celle</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-833">
           <placeName>České Budĕjovice</placeName>
           <placeName type="full">České Budĕjovice / Budweis</placeName>
@@ -1566,6 +1659,24 @@
           <idno type="viaf" target="https://viaf.org/viaf/153562408/">https://viaf.org/viaf/153562408/</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4008698-7">https://d-nb.info/gnd/4008698-7</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Ceske-Budejovice">https://www.britannica.com/place/Ceske-Budejovice</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-1004">
+          <placeName>Chalcedon</placeName>
+          <placeName type="full">Chalcedon / Istanbul</placeName>
+          <placeName type="alternative">Chalkedon</placeName>
+          <location>
+            <geo>40.97882 29.08268</geo>
+          </location>
+          <settlement>Istanbul</settlement>
+          <country>Türkei</country>
+          <idno type="geonames" target="https://www.geonames.org/744906">https://www.geonames.org/744906</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Chalkedon">https://de.wikipedia.org/wiki/Chalkedon</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q337381">https://www.wikidata.org/wiki/Q337381</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/315533490/">https://viaf.org/viaf/315533490/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n91101062">https://id.loc.gov/authorities/n91101062</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-133831168/">https://www.worldcat.org/identities/viaf-133831168/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4029286-1">https://d-nb.info/gnd/4029286-1</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Chalcedon">https://www.britannica.com/place/Chalcedon</idno>
         </place>
         <place type="P" xml:id="kbga-places-183">
           <placeName>Charlottenburg</placeName>
@@ -2100,6 +2211,10 @@
           <idno type="geonames" target="https://www.geonames.org/2635594">https://www.geonames.org/2635594</idno>
           <note type="description">Bezirke östlich des alten Stadtkerns von London und nördlich der Themse; Arbeiterquartiere.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1255">
+          <placeName>Ebernburg</placeName>
+          <placeName type="full">Ebernburg</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-71">
           <placeName>Edinburgh</placeName>
           <placeName type="full">Edinburgh</placeName>
@@ -2333,6 +2448,10 @@
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Erfurt">https://de.wikipedia.org/wiki/Erfurt</idno>
           <note type="description">Universitätsstadt und Landeshauptstadt des Freistaates Thüringen.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1228">
+          <placeName>Erlach</placeName>
+          <placeName type="full">Erlach</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-19">
           <placeName>Erlangen</placeName>
           <placeName type="full">Erlangen (BY)</placeName>
@@ -2376,6 +2495,11 @@
           <idno type="viaf" target="https://viaf.org/viaf/133306953/">https://viaf.org/viaf/133306953/</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-133306953/">https://www.worldcat.org/identities/viaf-133306953/</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/10290268-9">https://d-nb.info/gnd/10290268-9</idno>
+        </place>
+        <place type="A" xml:id="kbga-places-1226">
+          <placeName>Etschland</placeName>
+          <placeName type="full">Etschland</placeName>
+          <country>Österreich</country>
         </place>
         <place type="H" xml:id="kbga-places-945">
           <placeName>Euphrat</placeName>
@@ -2526,6 +2650,25 @@
           <idno type="gnd" target="https://d-nb.info/gnd/4135037-6">https://d-nb.info/gnd/4135037-6</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/011612">https://hls-dhs-dss.ch/de/articles/011612</idno>
           <note type="description">Eine der vier reformierten Zürcher Altstadtkirchen, in der u. a. Emil Brunner mehrfach predigte.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-22">
+          <placeName>Freiburg i. Ü.</placeName>
+          <placeName type="full">Freiburg i. Ü. (FR)</placeName>
+          <location>
+            <geo>46.80237 7.15128</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Freiburg_im_Üechtland">https://de.wikipedia.org/wiki/Freiburg_im_Üechtland</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/2475">https://kba.karl-barth.ch/places/2475</idno>
+          <idno type="geonames" target="https://www.geonames.org/2660718">https://www.geonames.org/2660718</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q36378">https://www.wikidata.org/wiki/Q36378</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/000953">https://hls-dhs-dss.ch/de/articles/000953</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/129718695">https://viaf.org/viaf/129718695</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79084879">https://id.loc.gov/authorities/n79084879</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4071444-5">https://d-nb.info/gnd/4071444-5</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79084879">https://www.worldcat.org/identities/lccn-n79084879</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Fribourg-Switzerland">https://www.britannica.com/place/Fribourg-Switzerland</idno>
+          <note type="description">Stadt in der West-Schweiz; Hauptort des gleichnamigen bilingualen Kantons.</note>
         </place>
         <place type="P" xml:id="kbga-places-96">
           <placeName>Freiburg im Breisgau</placeName>
@@ -2691,6 +2834,10 @@
           <idno type="gnd" target="https://d-nb.info/gnd/4019325-1">https://d-nb.info/gnd/4019325-1</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Gaza-Strip">https://www.britannica.com/place/Gaza-Strip</idno>
         </place>
+        <place type="P" xml:id="kbga-places-1262">
+          <placeName>Geldern</placeName>
+          <placeName type="full">Geldern</placeName>
+        </place>
         <place type="S" xml:id="kbga-places-861">
           <placeName>Gemarker Kirche</placeName>
           <placeName type="full">Gemarker Kirche / Wuppertal-Barmen (NW)</placeName>
@@ -2809,6 +2956,12 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n80083437">https://www.worldcat.org/identities/lccn-n80083437</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Giessen-Germany">https://www.britannica.com/place/Giessen-Germany</idno>
           <note type="description">Universitätsstadt in Mittelhessen.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1323">
+          <placeName>Glarus</placeName>
+          <placeName type="full">Glarus (GL)</placeName>
+          <country>Schweiz</country>
+          <note type="description">Politische Gemeinde in der Schweiz, Hauptort des gleichnamigen Kantons. 1506-1516 wirkte Zwingli als Prediger in Glarus.</note>
         </place>
         <place type="A" xml:id="kbga-places-401">
           <placeName>Glarus (Kanton)</placeName>
@@ -3127,6 +3280,10 @@
           <idno type="geonames" target="https://www.geonames.org/671768">https://www.geonames.org/671768</idno>
           <note type="description">Stadt im nordwestlichen Rumänien nahe der ungarischen Grenze; bis 1920 zu Ungarn gehörig.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1236">
+          <placeName>Grüningen</placeName>
+          <placeName type="full">Grüningen</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-900">
           <placeName>Győr</placeName>
           <placeName type="full">Győr</placeName>
@@ -3241,6 +3398,15 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79093323">https://www.worldcat.org/identities/lccn-n79093323</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hannover-Germany">https://www.britannica.com/place/Hannover-Germany</idno>
           <note type="description">Hauptstadt des Landes Niedersachsen; bis 1945 Haupt- und Residenzstadt des Königreichs / der Provinz Hannover.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1232">
+          <placeName>Haslital</placeName>
+          <placeName type="full">Haslital</placeName>
+          <country>Schweiz</country>
+        </place>
+        <place type="A" xml:id="kbga-places-1185">
+          <placeName>Hegau</placeName>
+          <placeName type="full">Hegau</placeName>
         </place>
         <place type="P" xml:id="kbga-places-31">
           <placeName>Heidelberg</placeName>
@@ -3410,6 +3576,28 @@
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Indonesien">https://de.wikipedia.org/wiki/Indonesien</idno>
           <note type="description">Territorium / Inseln des gleichnamigen Staates in Südostasien.</note>
         </place>
+        <place type="P" xml:id="kbga-places-928">
+          <placeName>Innsbruck</placeName>
+          <placeName type="full">Innsbruck (Tirol)</placeName>
+          <location>
+            <geo>47.26266 11.39454</geo>
+          </location>
+          <country>Österreich</country>
+          <idno type="geonames" target="https://www.geonames.org/2775220">https://www.geonames.org/2775220</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1735">https://www.wikidata.org/wiki/Q1735</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/131336603/">https://viaf.org/viaf/131336603/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79072777">https://id.loc.gov/authorities/n79072777</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4027096-8">https://d-nb.info/gnd/4027096-8</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79072777/">https://worldcat.org/identities/lccn-n79072777/</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Innsbruck">https://www.britannica.com/place/Innsbruck</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/006592">https://hls-dhs-dss.ch/de/articles/006592</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Innsbruck">https://de.wikipedia.org/wiki/Innsbruck</idno>
+        </place>
+        <place type="A" xml:id="kbga-places-1225">
+          <placeName>Inntal</placeName>
+          <placeName type="full">Inntal</placeName>
+          <country>Österreich</country>
+        </place>
         <place type="P" xml:id="kbga-places-389">
           <placeName>Interlaken</placeName>
           <placeName type="full">Interlaken (BE)</placeName>
@@ -3446,6 +3634,22 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79063445">https://www.worldcat.org/identities/lccn-n79063445</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Ireland">https://www.britannica.com/place/Ireland</idno>
           <note type="description">Insel im Atlantik westlich von England; Territorium des gleichnamigen Staates und des zu Großbritannien gehörigen Nordirland.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1215">
+          <placeName>Isenheim</placeName>
+          <placeName type="full">Isenheim</placeName>
+          <placeName type="alternative">Issenheim</placeName>
+          <location>
+            <geo>47.90357 7.25235</geo>
+          </location>
+          <country>Frankreich</country>
+          <idno type="geonames" target="https://www.geonames.org/3012671">https://www.geonames.org/3012671</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Issenheim">https://de.wikipedia.org/wiki/Issenheim</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q83251">https://www.wikidata.org/wiki/Q83251</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/no97069840">https://id.loc.gov/authorities/no97069840</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/162782976/">https://viaf.org/viaf/162782976/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4442934-4">https://d-nb.info/gnd/4442934-4</idno>
+          <note type="description">Französische Gemeinde im Elsass, 20 km nördlich von Mulhouse / Mülhausen; Anfang des 16. Jahrhunderts schuf Matthias Grünewald für das dortige Antoniterkloster den Isenheimer Altar (heute im Museum Unterlinden, Colmar).</note>
         </place>
         <place type="A" xml:id="kbga-places-34">
           <placeName>Israel</placeName>
@@ -3797,6 +4001,10 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79013825">https://www.worldcat.org/identities/lccn-n79013825</idno>
           <note type="description">Universitätsstadt, ehemalige badische Residenz- und heute die zweitgrößte Stadt des Landes Baden-Württemberg.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1252">
+          <placeName>Karlstadt</placeName>
+          <placeName type="full">Karlstadt</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-238">
           <placeName>Kassel</placeName>
           <placeName type="full">Kassel (HE)</placeName>
@@ -3961,6 +4169,10 @@
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Cluj-Napoca">https://de.wikipedia.org/wiki/Cluj-Napoca</idno>
           <note type="description">Zweitgrößte Stadt des heutigen Rumänien, historische Hauptstadt des Großfürstentums Siebenbürgen; bis in die 1970er Jahre mit mehrheitlich ungarischer Bevölkerung und bis heute kulturelles Zentrum der ungarischen Minderheit in Rumänien.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1254">
+          <placeName>Kloster Altenmünster</placeName>
+          <placeName type="full">Kloster Altenmünster</placeName>
+        </place>
         <place type="S" xml:id="kbga-places-818">
           <placeName>Kloster Einsiedeln</placeName>
           <placeName type="full">Kloster Einsiedeln (SZ)</placeName>
@@ -3978,6 +4190,78 @@
           <idno type="gnd" target="https://d-nb.info/gnd/2089329-2">https://d-nb.info/gnd/2089329-2</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/011491">https://hls-dhs-dss.ch/de/articles/011491</idno>
           <note type="description">Benediktinerabtei bei Einsiedeln im Kanton Schwyz. Das Kloster mit seiner Kathedralkirche Maria Himmelfahrt und dem Gnadenbild der Schwarzen Madonna von Einsiedeln zieht als Wallfahrtsort jährlich zahlreiche Pilger an.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1223">
+          <placeName>Kloster Ittingen</placeName>
+          <placeName type="full">Kloster Ittingen / Warth (Thurgau)</placeName>
+          <placeName type="alternative">Kartause Ittingen</placeName>
+          <settlement>Warth</settlement>
+        </place>
+        <place type="S" xml:id="kbga-places-1193">
+          <placeName>Kloster Marienthron</placeName>
+          <placeName type="full">Kloster Marienthron / Nimbschen</placeName>
+          <placeName type="alternative">Kloster Nimbschen</placeName>
+          <location>
+            <geo>51.21492 12.7423</geo>
+          </location>
+          <settlement>Nimbschen</settlement>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kloster_Nimbschen">https://de.wikipedia.org/wiki/Kloster_Nimbschen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q895724">https://www.wikidata.org/wiki/Q895724</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/viaf-239621716/">https://worldcat.org/identities/viaf-239621716/</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/239621716/">https://viaf.org/viaf/239621716/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4353171-4">https://d-nb.info/gnd/4353171-4</idno>
+          <idno type="geonames" target="https://www.geonames.org/8629340">https://www.geonames.org/8629340</idno>
+          <note type="description">Zisterzienserinnenkloster bei Grimma / Leipzig, in dem Katharina von Bora 1515 ihr Gelübde als Nonne ablegte und bis 1523 lebte; 1536 aufgelöst, heute als Ruine erhalten.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1208">
+          <placeName>Kloster Oetenbach</placeName>
+          <placeName type="full">Kloster Oetenbach</placeName>
+          <location>
+            <geo>47.37188 8.54036</geo>
+          </location>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kloster_Oetenbach">https://de.wikipedia.org/wiki/Kloster_Oetenbach</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1775758">https://www.wikidata.org/wiki/Q1775758</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/012993">https://hls-dhs-dss.ch/de/articles/012993</idno>
+          <idno type="geonames" target="https://www.geonames.org/6295493">https://www.geonames.org/6295493</idno>
+          <note type="description">Ehemaliges Dominikanerinnenkloster in Zürich, seit 1285 in der Stadtmitte gelegen (zwischen heutiger Uraniastrasse und Parkhaus Urania), 1525 aufgehoben, 1902/03 erfolgte der Abriss der letzten erhaltenen Gebäude.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1207">
+          <placeName>Kloster Pfäfers</placeName>
+          <placeName type="full">Kloster Pfäfers / Pfäfers (SG)</placeName>
+          <location>
+            <geo>46.99019 9.50201</geo>
+          </location>
+          <settlement>Pfäfers</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/11550525">https://www.geonames.org/11550525</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kloster_Pfäfers">https://de.wikipedia.org/wiki/Kloster_Pfäfers</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q323780">https://www.wikidata.org/wiki/Q323780</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/147403598/">https://viaf.org/viaf/147403598/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4219487-8">https://d-nb.info/gnd/4219487-8</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/viaf-147403598/">https://worldcat.org/identities/viaf-147403598/</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/011595">https://hls-dhs-dss.ch/de/articles/011595</idno>
+          <note type="description">Ehemalige Benediktinerabtei auf dem Gebiet der Gemeinde Pfäfers im Sarganserland (Kanton St. Gallen). Seit dem späten Mittelalter auch als Badeort bekannt (Heilquelle in der Taminaschlucht).</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1191">
+          <placeName>Kloster St. Gallen</placeName>
+          <placeName type="full">Kloster St. Gallen</placeName>
+        </place>
+        <place type="S" xml:id="kbga-places-1001">
+          <placeName>Kloster Wittenberg</placeName>
+          <placeName type="full">Kloster Wittenberg / Wittenberg (ST)</placeName>
+          <placeName type="alternative">Augustinerkloster Wittenberg</placeName>
+          <location>
+            <geo>51.8647 12.6524</geo>
+          </location>
+          <settlement>Wittenberg</settlement>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/6507590">https://www.geonames.org/6507590</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Augusteum_und_Lutherhaus_Wittenberg">https://de.wikipedia.org/wiki/Augusteum_und_Lutherhaus_Wittenberg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q459493">https://www.wikidata.org/wiki/Q459493</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/153389662/">https://viaf.org/viaf/153389662/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/nr2004012241">https://id.loc.gov/authorities/nr2004012241</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-nr2004012241/">https://www.worldcat.org/identities/lccn-nr2004012241/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4732680-3">https://d-nb.info/gnd/4732680-3</idno>
         </place>
         <place type="P" xml:id="kbga-places-242">
           <placeName>Klosters-Platz</placeName>
@@ -4123,6 +4407,24 @@
           <idno type="kba" target="https://kba.karl-barth.ch/places/2302">https://kba.karl-barth.ch/places/2302</idno>
           <note type="description">Nach dem römischen Kaiser Konstantin benannte Stadt am Bosporus; bis 1453 Hauptstadt des Oströmischen / Byzantinischen Reiches, 1453–1923 Hauptstadt des Osmanischen Reiches. Heutiger Name: Istanbul.</note>
         </place>
+        <place type="P" xml:id="kbga-places-556">
+          <placeName>Konstanz</placeName>
+          <placeName type="full">Konstanz (BW)</placeName>
+          <location>
+            <geo>47.66033 9.17582</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/6559164">https://www.geonames.org/6559164</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Konstanz">https://de.wikipedia.org/wiki/Konstanz</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q3834">https://www.wikidata.org/wiki/Q3834</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/152432358/">https://viaf.org/viaf/152432358/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79090081">https://id.loc.gov/authorities/n79090081</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4032215-4">https://d-nb.info/gnd/4032215-4</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79090081/">https://worldcat.org/identities/lccn-n79090081/</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Konstanz">https://www.britannica.com/place/Konstanz</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007046">https://hls-dhs-dss.ch/de/articles/007046</idno>
+          <note type="description">Größte Stadt am Bodensee, Grenzstadt zwischen Deutschland und der Schweiz mit rechts- und linksrheinischen Stadtteilen; 1414/18 Ort des Konzils, auf dem Jan Hus verurteilt und hingerichtet wurde.</note>
+        </place>
         <place type="P" xml:id="kbga-places-112">
           <placeName>Kopenhagen</placeName>
           <placeName type="full">Kopenhagen</placeName>
@@ -4204,6 +4506,28 @@
           <idno type="viaf" target="https://viaf.org/viaf/162884679/">https://viaf.org/viaf/162884679/</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-162884679/">https://www.worldcat.org/identities/viaf-162884679/</idno>
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n79079435">https://id.loc.gov/authorities/n79079435</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-471">
+          <placeName>Küsnacht</placeName>
+          <placeName type="full">Küsnacht (ZH)</placeName>
+          <location>
+            <geo>47.31805 8.58401</geo>
+          </location>
+          <settlement>Küsnacht</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2660089">https://www.geonames.org/2660089</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69216">https://www.wikidata.org/wiki/Q69216</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/243487335/">https://viaf.org/viaf/243487335/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-243487335/">https://www.worldcat.org/identities/viaf-243487335/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4137928-7">https://d-nb.info/gnd/4137928-7</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/000109">https://hls-dhs-dss.ch/de/articles/000109</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/324">https://kba.karl-barth.ch/places/324</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Küsnacht">https://de.wikipedia.org/wiki/Küsnacht</idno>
+          <note type="description">Politische Gemeinde im Kanton Zürich, am rechten Zürichseeufer gelegen.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1239">
+          <placeName>Kyburg</placeName>
+          <placeName type="full">Kyburg (Zürich)</placeName>
         </place>
         <place type="P" xml:id="kbga-places-912">
           <placeName>Kyoto</placeName>
@@ -4442,6 +4766,24 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Limmat-River">https://www.britannica.com/place/Limmat-River</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/008761">https://hls-dhs-dss.ch/de/articles/008761</idno>
           <note type="description">Schweizer Fluss, der als Abfluss aus dem Zürchersee entspringt und in die Aare mündet.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1163">
+          <placeName>Lindau</placeName>
+          <placeName type="full">Lindau (BY)</placeName>
+          <location>
+            <geo>47.54612 9.68431</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2877550">https://www.geonames.org/2877550</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/439">https://kba.karl-barth.ch/places/439</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q153969">https://www.wikidata.org/wiki/Q153969</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/141898718/">https://viaf.org/viaf/141898718/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81009583">https://id.loc.gov/authorities/n81009583</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4074242-8">https://d-nb.info/gnd/4074242-8</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n81009583/">https://worldcat.org/identities/lccn-n81009583/</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007076">https://hls-dhs-dss.ch/de/articles/007076</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Lindau_(Bodensee)">https://de.wikipedia.org/wiki/Lindau_(Bodensee)</idno>
+          <note type="description">Hafenstadt am Bodensee; frühere Reichsstadt.</note>
         </place>
         <place type="P" xml:id="kbga-places-1123">
           <placeName>Lissabon</placeName>
@@ -4813,6 +5155,17 @@
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Malbork">https://de.wikipedia.org/wiki/Malbork</idno>
           <note type="description">Stadt im heutigen Polen, benannt nach der gleichnamigen Burganlage, die im 14. und 15. Jahrhundert Sitz der Hochmeister des Deutschordens war.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1198">
+          <placeName>Marignano</placeName>
+          <placeName type="full">Marignano</placeName>
+          <placeName type="alternative">Melegnano</placeName>
+          <country>Italien</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Melegnano">https://de.wikipedia.org/wiki/Melegnano</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q42932">https://www.wikidata.org/wiki/Q42932</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4115321-2">https://d-nb.info/gnd/4115321-2</idno>
+          <idno type="geonames" target="https://www.geonames.org/6540587">https://www.geonames.org/6540587</idno>
+          <note type="description">Stadt in der Lombardei nahe Mailand; nördlich des Ortes fand 1515 die Schlacht bei Marignano statt; heutiger Name: Melagnano.</note>
+        </place>
         <place type="H" xml:id="kbga-places-597">
           <placeName>Marne</placeName>
           <placeName type="full">Marne</placeName>
@@ -4947,6 +5300,16 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n85081770">https://www.worldcat.org/identities/lccn-n85081770</idno>
           <note type="description">Luftkurort im nordhessischen Schwalm-Eder-Kreis.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1277">
+          <placeName>Memmingen</placeName>
+          <placeName type="full">Memmingen (BY)</placeName>
+          <location>
+            <geo>47.98372 10.18527</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2871992">https://www.geonames.org/2871992</idno>
+          <note type="description">Kreisfreie Stadt in Bayrisch-Schwaben; frühere Reichsstadt, 1525 wurden hier die "Zwölf Artikel" mit den Forderungen der Bauern im beginnenden Bauernkrieg verfasst.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1048">
           <placeName>Meros</placeName>
           <placeName type="full">Meros</placeName>
@@ -5034,6 +5397,27 @@
           <idno type="gnd" target="https://d-nb.info/gnd/4074895-9">https://d-nb.info/gnd/4074895-9</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Mediterranean-Sea">https://www.britannica.com/place/Mediterranean-Sea</idno>
           <note type="description">Zwischen Europa und Afrika gelegenes Meer.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1260">
+          <placeName>Mollis</placeName>
+          <placeName type="full">Mollis</placeName>
+        </place>
+        <place type="P" xml:id="kbga-places-1199">
+          <placeName>Monza</placeName>
+          <placeName type="full">Monza (Lombardei)</placeName>
+          <location>
+            <geo>45.58005 9.27246</geo>
+          </location>
+          <country>Italien</country>
+          <idno type="geonames" target="https://www.geonames.org/6537122">https://www.geonames.org/6537122</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Monza">https://de.wikipedia.org/wiki/Monza</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q6252">https://www.wikidata.org/wiki/Q6252</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Monza">https://www.britannica.com/place/Monza</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79039693/">https://worldcat.org/identities/lccn-n79039693/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79039693">https://id.loc.gov/authorities/n79039693</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/139540695/">https://viaf.org/viaf/139540695/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4115225-6">https://d-nb.info/gnd/4115225-6</idno>
+          <note type="description">Stadt in der Lombardei im nordwestlichen Italien, Hauptort der Provinz Monza und Brianza.</note>
         </place>
         <place type="P" xml:id="kbga-places-42">
           <placeName>Moskau</placeName>
@@ -5215,6 +5599,12 @@
           <idno type="geonames" target="https://www.geonames.org/294098">https://www.geonames.org/294098</idno>
           <note type="description">Stadt im nördlichen Israel; nach neutestamentlicher Überlieferung Vater- und Heimatstadt Jesu Christi.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1263">
+          <placeName>Neapel</placeName>
+          <placeName type="full">Neapel</placeName>
+          <placeName type="alternative">Neapolis</placeName>
+          <country>Italien</country>
+        </place>
         <place type="T" xml:id="kbga-places-1105">
           <placeName>Nebo</placeName>
           <placeName type="full">Nebo</placeName>
@@ -5373,6 +5763,10 @@
           <placeName>Nil</placeName>
           <placeName type="full">Nil</placeName>
         </place>
+        <place type="P" xml:id="kbga-places-1235">
+          <placeName>Ninive</placeName>
+          <placeName type="full">Ninive</placeName>
+        </place>
         <place type="A" xml:id="kbga-places-1101">
           <placeName>Nord-Mazedonien</placeName>
           <placeName type="full">Nord-Mazedonien</placeName>
@@ -5405,6 +5799,39 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-315124797/">https://www.worldcat.org/identities/viaf-315124797/</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4042482-0">https://d-nb.info/gnd/4042482-0</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/North-Africa">https://www.britannica.com/place/North-Africa</idno>
+        </place>
+        <place type="A" xml:id="kbga-places-277">
+          <placeName>Norddeutschland</placeName>
+          <placeName type="full">Norddeutschland</placeName>
+          <location>
+            <geo>53.69965 10.77256</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Norddeutschland">https://de.wikipedia.org/wiki/Norddeutschland</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q46613">https://www.wikidata.org/wiki/Q46613</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/248978203/">https://viaf.org/viaf/248978203/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-248978203/">https://www.worldcat.org/identities/viaf-248978203/</idno>
+          <idno type="geonames" target="https://www.geonames.org/2850132">https://www.geonames.org/2850132</idno>
+          <note type="description">Im engeren Sinn die nördlichen, küstennahen Gebiete Deutschlands. Zum von 1867 bis 1871 existierenden Norddeutschen Bund gehörten alle deutschen Gebiete nördlich der Mainlinie.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-49">
+          <placeName>Nördlingen</placeName>
+          <placeName type="full">Nördlingen (BY)</placeName>
+          <location>
+            <geo>48.85122 10.48868</geo>
+          </location>
+          <settlement>Nördlingen</settlement>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Nördlingen">https://de.wikipedia.org/wiki/Nördlingen</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/986">https://kba.karl-barth.ch/places/986</idno>
+          <idno type="geonames" target="https://www.geonames.org/2861914">https://www.geonames.org/2861914</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q489902">https://www.wikidata.org/wiki/Q489902</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/144236308">https://viaf.org/viaf/144236308</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79106740">https://id.loc.gov/authorities/n79106740</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4042434-0">https://d-nb.info/gnd/4042434-0</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79106740">https://www.worldcat.org/identities/lccn-n79106740</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Nordlingen">https://www.britannica.com/place/Nordlingen</idno>
+          <note type="description">Kreisstadt in Bayrisch-Schwaben im Westen des Freistaates Bayern.</note>
         </place>
         <place type="H" xml:id="kbga-places-984">
           <placeName>Nordsee</placeName>
@@ -5470,6 +5897,24 @@
           <idno type="gnd" target="https://d-nb.info/gnd/4075869-2">https://d-nb.info/gnd/4075869-2</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Notre-Dame-de-Paris">https://www.britannica.com/topic/Notre-Dame-de-Paris</idno>
         </place>
+        <place type="P" xml:id="kbga-places-1206">
+          <placeName>Novara</placeName>
+          <placeName type="full">Novara</placeName>
+          <location>
+            <geo>45.44694 8.62118</geo>
+          </location>
+          <country>Italien</country>
+          <idno type="geonames" target="https://www.geonames.org/6542119">https://www.geonames.org/6542119</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Novara">https://de.wikipedia.org/wiki/Novara</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q6046">https://www.wikidata.org/wiki/Q6046</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Novara-Italy">https://www.britannica.com/place/Novara-Italy</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79021854/">https://worldcat.org/identities/lccn-n79021854/</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/11134b.htm">https://www.newadvent.org/cathen/11134b.htm</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79021854">https://id.loc.gov/authorities/n79021854</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/150083614/">https://viaf.org/viaf/150083614/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4117934-1">https://d-nb.info/gnd/4117934-1</idno>
+          <note type="description">Stadt in der Region Piemont im nordwestlichen Italien, Hauptort der gleichnamigen Provinz; 1513 Schauplatz einer Schlacht zwischen Schweizer Söldnern und Franzosen, die mit einer französischen Niederlage endete und an der Ulrich Zwingli als Feldprediger teilnahm.</note>
+        </place>
         <place type="P" xml:id="kbga-places-145">
           <placeName>Noyon</placeName>
           <placeName type="full">Noyon</placeName>
@@ -5485,6 +5930,26 @@
           <idno type="gnd" target="https://d-nb.info/gnd/4042721-3">https://d-nb.info/gnd/4042721-3</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n84222896">https://www.worldcat.org/identities/lccn-n84222896</idno>
           <note type="description">Hauptort der Region Hauts-de-France, etwa 100 Kilometer nördlich von Paris gelegen. Geburtsort Johannes Calvins.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-48">
+          <placeName>Nürnberg</placeName>
+          <placeName type="full">Nürnberg (BY)</placeName>
+          <location>
+            <geo>49.45421 11.07752</geo>
+          </location>
+          <settlement>Nürnberg</settlement>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Nürnberg">https://de.wikipedia.org/wiki/Nürnberg</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/135">https://kba.karl-barth.ch/places/135</idno>
+          <idno type="geonames" target="https://www.geonames.org/2861650">https://www.geonames.org/2861650</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2090">https://www.wikidata.org/wiki/Q2090</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/006601">https://hls-dhs-dss.ch/de/articles/006601</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/140653532">https://viaf.org/viaf/140653532</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80017681">https://id.loc.gov/authorities/n80017681</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4042742-0">https://d-nb.info/gnd/4042742-0</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n85117388">https://www.worldcat.org/identities/lccn-n85117388</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Nurnberg">https://www.britannica.com/place/Nurnberg</idno>
+          <note type="description">Großstadt in Franken im Norden des Freistaates Bayern.</note>
         </place>
         <place type="S" xml:id="kbga-places-279">
           <placeName>Nydeggkirche</placeName>
@@ -5620,6 +6085,11 @@
           <idno type="geonames" target="https://www.geonames.org/12470336">https://www.geonames.org/12470336</idno>
           <note type="description">Konzentrationslager der SA, das von März 1933 bis Juli 1934 bestand, bevor es infolge der Entmachtung der SA nach dem sog. 'Röhmputsch' aufgelöst wurde.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1251">
+          <placeName>Orlamünde</placeName>
+          <placeName type="full">Orlamünde (Thüringen)</placeName>
+          <country>Deutschland</country>
+        </place>
         <place type="P" xml:id="kbga-places-147">
           <placeName>Orléans</placeName>
           <placeName type="full">Orléans (CVL)</placeName>
@@ -5725,6 +6195,19 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/East-Prussia">https://www.britannica.com/place/East-Prussia</idno>
           <idno type="geonames" target="https://www.geonames.org/554234">https://www.geonames.org/554234</idno>
           <note type="description">Historische Landschaft an der Ostsee, zwischen Weichseldelta und Memel gelegen, umfasst Teile des heutigen Polens, Litauens sowie die Oblast Kaliningrad; Stammland des späteren Königreichs Preußen, von 1871 bis 1945 östlichste Provinz des Deutschen Reiches.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-922">
+          <placeName>Ostschweiz</placeName>
+          <placeName type="full">Ostschweiz</placeName>
+          <location>
+            <geo>47.41322 9.03625</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6692542">https://www.geonames.org/6692542</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Ostschweiz">https://de.wikipedia.org/wiki/Ostschweiz</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q31003">https://www.wikidata.org/wiki/Q31003</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4044106-4">https://d-nb.info/gnd/4044106-4</idno>
+          <note type="description">Großregion der Schweiz, zu der Kantone Glarus, Schaffhausen, beide Appenzell, St. Gallen, Graubünden und Thurgau gezählt werden.</note>
         </place>
         <place type="H" xml:id="kbga-places-986">
           <placeName>Ostsee</placeName>
@@ -5872,6 +6355,10 @@
           <country>Schweiz</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Pauluskirche_(Bern)">https://de.wikipedia.org/wiki/Pauluskirche_(Bern)</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2064298">https://www.wikidata.org/wiki/Q2064298</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-1233">
+          <placeName>Pavia</placeName>
+          <placeName type="full">Pavia</placeName>
         </place>
         <place type="P" xml:id="kbga-places-285">
           <placeName>Peking</placeName>
@@ -6187,6 +6674,11 @@
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Pratteln">https://de.wikipedia.org/wiki/Pratteln</idno>
           <note type="description">Einwohnergemeinde im Kanton Basel-Landschaft, nahe an Basel-Stadt gelegen. Karl Sartorius, ein Onkel und Pate Karl Barths, war Pfarrer in Pratteln.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1218">
+          <placeName>Predigerkloster</placeName>
+          <placeName type="full">Predigerkloster / Zürich</placeName>
+          <settlement>Zürich</settlement>
+        </place>
         <place type="A" xml:id="kbga-places-289">
           <placeName>Preußen</placeName>
           <placeName type="full">Preußen</placeName>
@@ -6241,6 +6733,10 @@
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n80162917/">https://www.worldcat.org/identities/lccn-n80162917/</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Pruntrut">https://de.wikipedia.org/wiki/Pruntrut</idno>
           <note type="description">Politische Gemeinde im Kanton Jura.</note>
+        </place>
+        <place type="T" xml:id="kbga-places-1241">
+          <placeName>Randen</placeName>
+          <placeName type="full">Randen (Schaffhausen)</placeName>
         </place>
         <place type="P" xml:id="kbga-places-601">
           <placeName>Rastede</placeName>
@@ -6301,6 +6797,23 @@
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2137024">https://www.wikidata.org/wiki/Q2137024</idno>
           <idno type="geonames" target="https://www.geonames.org/12489830">https://www.geonames.org/12489830</idno>
           <note type="description">Reformierte Kirche der Gemeinde Safenwil (AG), in der Karl Barth von 1911 bis 1921 Pfarrer war und regelmäßig predigte.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-624">
+          <placeName>Regensburg</placeName>
+          <placeName type="full">Regensburg (BY)</placeName>
+          <location>
+            <geo>49.01513 12.10161</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Regensburg">https://de.wikipedia.org/wiki/Regensburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2978">https://www.wikidata.org/wiki/Q2978</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/233767411/">https://viaf.org/viaf/233767411/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79129587">https://id.loc.gov/authorities/n79129587</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n79129587/">https://www.worldcat.org/identities/lccn-n79129587/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4048989-9">https://d-nb.info/gnd/4048989-9</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Regensburg">https://www.britannica.com/place/Regensburg</idno>
+          <idno type="geonames" target="https://www.geonames.org/2849483">https://www.geonames.org/2849483</idno>
+          <note type="description">Universitätsstadt und Regierungssitz des Bezirks Oberpfalz in Ostbayern, ehemalige Freie und Reichsstadt.</note>
         </place>
         <place type="P" xml:id="kbga-places-1071">
           <placeName>Reichenau</placeName>
@@ -6369,6 +6882,24 @@
           <idno type="geonames" target="https://www.geonames.org/2848273">https://www.geonames.org/2848273</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/440">https://kba.karl-barth.ch/places/440</idno>
           <note type="description">Stadt im Bergischen Land in Nordrhein-Westfalen.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-391">
+          <placeName>Reutlingen</placeName>
+          <placeName type="full">Reutlingen (BW)</placeName>
+          <location>
+            <geo>48.49144 9.20427</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Reutlingen">https://de.wikipedia.org/wiki/Reutlingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q3085">https://www.wikidata.org/wiki/Q3085</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4049657-0">https://d-nb.info/gnd/4049657-0</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Reutlingen">https://www.britannica.com/place/Reutlingen</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/238954664/">https://viaf.org/viaf/238954664/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n81003066/">https://www.worldcat.org/identities/lccn-n81003066/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81003066">https://id.loc.gov/authorities/n81003066</idno>
+          <idno type="geonames" target="https://www.geonames.org/2847736">https://www.geonames.org/2847736</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/4078">https://kba.karl-barth.ch/places/4078</idno>
+          <note type="description">Stadt in Baden-Württemberg; im 16. Jahrhundert eine der Hochburgen der Reformation im südwestdeutschen Raum.</note>
         </place>
         <place type="H" xml:id="kbga-places-295">
           <placeName>Rhein</placeName>
@@ -6758,6 +7289,16 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n79063254">https://id.loc.gov/authorities/n79063254</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Shanghai">https://de.wikipedia.org/wiki/Shanghai</idno>
         </place>
+        <place type="P" xml:id="kbga-places-1231">
+          <placeName>Schenkenberg</placeName>
+          <placeName type="full">Schenkenberg</placeName>
+          <country>Schweiz</country>
+        </place>
+        <place type="P" xml:id="kbga-places-1240">
+          <placeName>Schleitheim</placeName>
+          <placeName type="full">Schleitheim</placeName>
+          <country>Schweiz</country>
+        </place>
         <place type="S" xml:id="kbga-places-743">
           <placeName>Schloss Altenklingen</placeName>
           <placeName type="full">Schloss Altenklingen / Wigoltingen (TG)</placeName>
@@ -6920,6 +7461,10 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-306377107/">https://www.worldcat.org/identities/viaf-306377107/</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schulpforte">https://de.wikipedia.org/wiki/Schulpforte</idno>
           <note type="description">Ortsteil des Naumburger Stadtteils Bad Kösen; seit dem 12. Jh. Sitz eines Zisterzienserklosters, aus dem nach der Säkularisation im 16. Jh. eine der drei sächsischen Fürstenschulen entstand.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1237">
+          <placeName>Schwaben</placeName>
+          <placeName type="full">Schwaben</placeName>
         </place>
         <place type="P" xml:id="kbga-places-315">
           <placeName>Schwäbisch Gmünd</placeName>
@@ -7260,6 +7805,24 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="gnd" target="https://d-nb.info/gnd/4285759-4">https://d-nb.info/gnd/4285759-4</idno>
           <note type="description">Stadtteil von München; hier lebten die Eltern von Hellmut Traub (Gottfried und ElmaTraub).</note>
         </place>
+        <place type="P" xml:id="kbga-places-491">
+          <placeName>Solothurn</placeName>
+          <placeName type="full">Solothurn (SO)</placeName>
+          <location>
+            <geo>47.20791 7.53714</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2658564">https://www.geonames.org/2658564</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q68965">https://www.wikidata.org/wiki/Q68965</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/145418991/">https://viaf.org/viaf/145418991/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80145218">https://id.loc.gov/authorities/n80145218</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n80162570/">https://www.worldcat.org/identities/lccn-n80162570/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4055458-2">https://d-nb.info/gnd/4055458-2</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Solothurn-Switzerland">https://www.britannica.com/place/Solothurn-Switzerland</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/001174">https://hls-dhs-dss.ch/de/articles/001174</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Solothurn">https://de.wikipedia.org/wiki/Solothurn</idno>
+          <note type="description">Hauptort des gleichnamigen Kantons im Nordwesten der Schweiz.</note>
+        </place>
         <place type="S" xml:id="kbga-places-944">
           <placeName>Sophienkirche</placeName>
           <placeName type="full">Sophienkirche / Konstantinopel</placeName>
@@ -7465,6 +8028,23 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1421539">https://www.wikidata.org/wiki/Q1421539</idno>
           <note type="description">Grösste reformierte Kirche im Kanton Graubünden, erbaut im spätgotischen Stil.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1209">
+          <placeName>St. Peterskirche</placeName>
+          <placeName type="full">St. Peterskirche / Zürich</placeName>
+          <location>
+            <geo>47.3711 8.54083</geo>
+          </location>
+          <settlement>Zürich</settlement>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/St._Peter_(Zürich)">https://de.wikipedia.org/wiki/St._Peter_(Zürich)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q690687">https://www.wikidata.org/wiki/Q690687</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n78047061/">https://worldcat.org/identities/lccn-n78047061/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n78047061">https://id.loc.gov/authorities/n78047061</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/155870481/">https://viaf.org/viaf/155870481/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/1051600723">https://d-nb.info/gnd/1051600723</idno>
+          <idno type="geonames" target="https://www.geonames.org/6946281">https://www.geonames.org/6946281</idno>
+          <note type="description">Die älteste und lange Zeit einzige Stadtkirche von Zürich, eine der drei Altstadtkirchen, die heute die Silhouette von Zürich prägen; 1522 wurde Leo Jud hier Pfarrer.</note>
+        </place>
         <place type="S" xml:id="kbga-places-326">
           <placeName>St. Salvatorkirche</placeName>
           <placeName type="full">St. Salvatorkirche / Breslau</placeName>
@@ -7473,6 +8053,17 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Salvatorkirche_(Breslau)">https://de.wikipedia.org/wiki/Salvatorkirche_(Breslau)</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q11745972">https://www.wikidata.org/wiki/Q11745972</idno>
           <idno type="viaf" target="https://viaf.org/viaf/1490149235086176690002/">https://viaf.org/viaf/1490149235086176690002/</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-1212">
+          <placeName>Stadelhofen</placeName>
+          <placeName type="full">Stadelhofen / Zürich (ZH)</placeName>
+          <location>
+            <geo>47.3666 8.54846</geo>
+          </location>
+          <settlement>Zürich</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6947456">https://www.geonames.org/6947456</idno>
+          <note type="description">Ortsteil von Zürich, zentral in der Stadt gelegen.</note>
         </place>
         <place type="S" xml:id="kbga-places-893">
           <placeName>Stadtkirche</placeName>
@@ -7503,6 +8094,19 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="gnd" target="https://d-nb.info/gnd/4118778-7">https://d-nb.info/gnd/4118778-7</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n82029591">https://www.worldcat.org/identities/lccn-n82029591</idno>
           <note type="description">Politische Gemeinde am oberen rechten Zürichseeufer im Bezirk Meilen im Kanton Zürich.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1216">
+          <placeName>Stammheim</placeName>
+          <placeName type="full">Stammheim (ZH)</placeName>
+          <location>
+            <geo>47.64002 8.77932</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/12021849">https://www.geonames.org/12021849</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Stammheim_ZH">https://de.wikipedia.org/wiki/Stammheim_ZH</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q60322693">https://www.wikidata.org/wiki/Q60322693</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/058270">https://hls-dhs-dss.ch/de/articles/058270</idno>
+          <note type="description">Politische Gemeinde im Kanton Zürich, nahe der Kantonsgrenze zum Thurgau; gebildet 2019 aus den vormals selbständigen Gemeinden Ober- und Unterstammheim, auf dem Gebiet der ehemaligen Obervogtei Stammheim-Steinegg.</note>
         </place>
         <place type="S" xml:id="kbga-places-1032">
           <placeName>Staudamm von Vaiant</placeName>
@@ -7630,6 +8234,20 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/South-America">https://www.britannica.com/place/South-America</idno>
           <note type="description">Südlicher Teil des amerikanischen Doppelkontinents.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1242">
+          <placeName>Süddeutschland</placeName>
+          <placeName type="full">Süddeutschland</placeName>
+          <location>
+            <geo>48.83777 10.0933</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2959927">https://www.geonames.org/2959927</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Süddeutschland">https://de.wikipedia.org/wiki/Süddeutschland</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q46519">https://www.wikidata.org/wiki/Q46519</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/235489154/">https://viaf.org/viaf/235489154/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4078022-3">https://d-nb.info/gnd/4078022-3</idno>
+          <note type="description">Südlicher Teil des deutschen Staatsgebiets; in der Regel sind damit die Territorien von Baden-Württemberg und Bayern sowie die südlichen Teile von Hessen und Rheinland-Pfalz gemeint.</note>
+        </place>
         <place type="A" xml:id="kbga-places-1005">
           <placeName>Süditalien</placeName>
           <placeName type="full">Süditalien</placeName>
@@ -7676,6 +8294,10 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/001631">https://hls-dhs-dss.ch/de/articles/001631</idno>
           <idno type="viaf" target="https://viaf.org/viaf/167406301/">https://viaf.org/viaf/167406301/</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-167406301/">https://www.worldcat.org/identities/viaf-167406301/</idno>
+        </place>
+        <place type="A" xml:id="kbga-places-1186">
+          <placeName>Sundgau</placeName>
+          <placeName type="full">Sundgau</placeName>
         </place>
         <place type="R" xml:id="kbga-places-434">
           <placeName>Susten</placeName>
@@ -7898,6 +8520,10 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="geonames" target="https://www.geonames.org/7285001">https://www.geonames.org/7285001</idno>
           <note type="description">Politische Gemeinde und Region im Kanton St. Gallen.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1238">
+          <placeName>Tösstal</placeName>
+          <placeName type="full">Tösstal (Zürich)</placeName>
+        </place>
         <place type="H" xml:id="kbga-places-1068">
           <placeName>Totes Meer</placeName>
           <placeName type="full">Totes Meer</placeName>
@@ -8018,6 +8644,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Tower-of-Babel">https://www.britannica.com/topic/Tower-of-Babel</idno>
           <idno type="geonames" target="https://www.geonames.org/6818245">https://www.geonames.org/6818245</idno>
         </place>
+        <place type="A" xml:id="kbga-places-1224">
+          <placeName>Tyrol</placeName>
+          <placeName type="full">Tyrol</placeName>
+          <country>Österreich</country>
+        </place>
         <place type="P" xml:id="kbga-places-688">
           <placeName>Uelsen</placeName>
           <placeName type="full">Uelsen (NI)</placeName>
@@ -8050,6 +8681,21 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-237463032/">https://www.worldcat.org/identities/viaf-237463032/</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/25">https://kba.karl-barth.ch/places/25</idno>
           <note type="description">Dorf im Kanton Aargau, nahe Safenwil. Mehrfacher Predigtort Barths, er und der dortige Pfarrer Paul Schild vertraten sich gelegentlich bei Predigten.</note>
+        </place>
+        <place type="T" xml:id="kbga-places-1211">
+          <placeName>Ufenau</placeName>
+          <placeName type="full">Ufenau (SZ)</placeName>
+          <location>
+            <geo>47.21693 8.77839</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2658274">https://www.geonames.org/2658274</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Ufenau">https://de.wikipedia.org/wiki/Ufenau</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q303431">https://www.wikidata.org/wiki/Q303431</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007423">https://hls-dhs-dss.ch/de/articles/007423</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/248579860/">https://viaf.org/viaf/248579860/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4120080-9">https://d-nb.info/gnd/4120080-9</idno>
+          <note type="description">Insel im Zürichsee; 1523 fand der bereits todkranke Ulrich von Hutten hier Zuflucht.</note>
         </place>
         <place type="A" xml:id="kbga-places-980">
           <placeName>Ulster</placeName>
@@ -8145,6 +8791,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Uri">https://www.britannica.com/place/Uri</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007384">https://hls-dhs-dss.ch/de/articles/007384</idno>
           <note type="description">Gebiet des gleichnamigen Kantons in der Zentralschweiz.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1187">
+          <placeName>Uri</placeName>
+          <placeName type="full">Uri (Kanton)</placeName>
+          <country>Schweiz</country>
         </place>
         <place type="P" xml:id="kbga-places-610">
           <placeName>Varel</placeName>
@@ -8312,6 +8963,10 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Vlotho">https://de.wikipedia.org/wiki/Vlotho</idno>
           <note type="description">Stadt an der Weser, im Nordosten Nordrhein-Westfalens.</note>
         </place>
+        <place xml:id="kbga-places-722">
+          <placeName>Waadtland</placeName>
+          <placeName type="full">Waadtland</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-603">
           <placeName>Wabern</placeName>
           <placeName type="full">Wabern (BE)</placeName>
@@ -8325,6 +8980,23 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/008372">https://hls-dhs-dss.ch/de/articles/008372</idno>
           <idno type="geonames" target="https://www.geonames.org/2658084">https://www.geonames.org/2658084</idno>
           <note type="description">Ortsteil der Gemeinde Köniz, unmittelbar an die Stadt Bern angrenzend. Von 1929 bis zu ihrem Tod 1938 wohnte hier Barths Mutter, Anna Barth-Sartorius.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1214">
+          <placeName>Wädenswil</placeName>
+          <placeName type="full">Wädenswil (ZH)</placeName>
+          <location>
+            <geo>47.22683 8.6687</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7287513">https://www.geonames.org/7287513</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wädenswil">https://de.wikipedia.org/wiki/Wädenswil</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69718">https://www.wikidata.org/wiki/Q69718</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n82263562/">https://worldcat.org/identities/lccn-n82263562/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n82263562">https://id.loc.gov/authorities/n82263562</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/000105">https://hls-dhs-dss.ch/de/articles/000105</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/133724088/">https://viaf.org/viaf/133724088/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4064143-0">https://d-nb.info/gnd/4064143-0</idno>
+          <note type="description">Politische Gemeinde am Westufer des Zürichsees.</note>
         </place>
         <place type="P" xml:id="kbga-places-828">
           <placeName>Walchensee</placeName>
@@ -8352,6 +9024,23 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="viaf" target="https://viaf.org/viaf/145591563/">https://viaf.org/viaf/145591563/</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-241437273/">https://www.worldcat.org/identities/viaf-241437273/</idno>
           <idno type="geonames" target="https://www.geonames.org/2814956">https://www.geonames.org/2814956</idno>
+        </place>
+        <place type="P" xml:id="kbga-places-81">
+          <placeName>Waldshut</placeName>
+          <placeName type="full">Waldshut / Waldshut-Tiengen (BW)</placeName>
+          <location>
+            <geo>47.62323 8.21717</geo>
+          </location>
+          <settlement>Waldshut-Tiengen</settlement>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Waldshut-Tiengen">https://de.wikipedia.org/wiki/Waldshut-Tiengen</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/6079">https://kba.karl-barth.ch/places/6079</idno>
+          <idno type="geonames" target="https://www.geonames.org/2814791">https://www.geonames.org/2814791</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q47501200">https://www.wikidata.org/wiki/Q47501200</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007337">https://hls-dhs-dss.ch/de/articles/007337</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/245647082">https://viaf.org/viaf/245647082</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4064419-4">https://d-nb.info/gnd/4064419-4</idno>
+          <note type="description">Doppelstadt im Südwesten Baden-Württembergs unmittelbar an der Schweizer Grenze.</note>
         </place>
         <place type="P" xml:id="kbga-places-1073">
           <placeName>Walterswil-Rothacker</placeName>
@@ -8432,6 +9121,22 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Washington-DC">https://www.britannica.com/place/Washington-DC</idno>
           <note type="description">Regierungssitz und seit 1800 Hauptstadt der Vereinigten Staaten.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1219">
+          <placeName>Wasserkirche</placeName>
+          <placeName type="full">Wasserkirche / Zürich (ZH)</placeName>
+          <location>
+            <geo>47.3691 8.5436</geo>
+          </location>
+          <settlement>Zürich</settlement>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wasserkirche">https://de.wikipedia.org/wiki/Wasserkirche</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q477189">https://www.wikidata.org/wiki/Q477189</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/155216601/">https://viaf.org/viaf/155216601/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/nr93035168">https://id.loc.gov/authorities/nr93035168</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4263709-0">https://d-nb.info/gnd/4263709-0</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-nr93035168/">https://worldcat.org/identities/lccn-nr93035168/</idno>
+          <idno type="geonames" target="https://www.geonames.org/6529078">https://www.geonames.org/6529078</idno>
+          <note type="description">Evangelisch-reformierte Kirche am rechten Ufer der Limmat in der Altstadt von Zürich.</note>
+        </place>
         <place type="P" xml:id="kbga-places-136">
           <placeName>Wattwil</placeName>
           <placeName type="full">Wattwil (SG)</placeName>
@@ -8449,6 +9154,22 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="gnd" target="https://d-nb.info/gnd/4128525-6">https://d-nb.info/gnd/4128525-6</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n85322796">https://www.worldcat.org/identities/lccn-n85322796</idno>
           <note type="description">Politische Gemeinde im Kanton St. Gallen.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-503">
+          <placeName>Weesen</placeName>
+          <placeName type="full">Weesen (SG)</placeName>
+          <location>
+            <geo>47.13447 9.09644</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Weesen">https://de.wikipedia.org/wiki/Weesen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69644">https://www.wikidata.org/wiki/Q69644</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-no2002011338/">https://worldcat.org/identities/lccn-no2002011338/</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/001365">https://hls-dhs-dss.ch/de/articles/001365</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/131684539/">https://viaf.org/viaf/131684539/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4259339-6">https://d-nb.info/gnd/4259339-6</idno>
+          <idno type="geonames" target="https://www.geonames.org/2658040">https://www.geonames.org/2658040</idno>
+          <note type="description">Politische Gemeinde im Kanton St. Gallen am westlichen Ufer des Walensees; 1489-1494 lebte Ulrich Zwingli hier bei seinem Onkel Bartholomäus Zwingli.</note>
         </place>
         <place type="P" xml:id="kbga-places-353">
           <placeName>Weimar</placeName>
@@ -8502,6 +9223,10 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/001073">https://hls-dhs-dss.ch/de/articles/001073</idno>
           <note type="description">Ortschaft im Bezirk Thal des Kantons Solothurn.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1229">
+          <placeName>Welschland</placeName>
+          <placeName type="full">Welschland</placeName>
+        </place>
         <place type="P" xml:id="kbga-places-354">
           <placeName>Wernigerode</placeName>
           <placeName type="full">Wernigerode (ST)</placeName>
@@ -8519,6 +9244,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n83030320">https://id.loc.gov/authorities/n83030320</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wernigerode">https://de.wikipedia.org/wiki/Wernigerode</idno>
           <note type="description">Stadt und heutiger Erholungsort am Nordrand des Harzes.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1244">
+          <placeName>Wertheim</placeName>
+          <placeName type="full">Wertheim (Bayern)</placeName>
+          <country>Deutschland</country>
         </place>
         <place type="P" xml:id="kbga-places-815">
           <placeName>West Hartford</placeName>
@@ -8634,6 +9364,23 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Wiesbaden">https://www.britannica.com/place/Wiesbaden</idno>
           <note type="description">Bis 1867 Residenzstadt (Land Nassau), später als Kurbad bekannte Stadt am Rhein; seit 1945/46 Hauptstadt des Landes Hessen.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1196">
+          <placeName>Wildhaus</placeName>
+          <placeName type="full">Wildhaus (SG)</placeName>
+          <location>
+            <geo>47.20583 9.35402</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2657988">https://www.geonames.org/2657988</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wildhaus_SG">https://de.wikipedia.org/wiki/Wildhaus_SG</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q597413">https://www.wikidata.org/wiki/Q597413</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n77007157/">https://worldcat.org/identities/lccn-n77007157/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n77007157">https://id.loc.gov/authorities/n77007157</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/001380">https://hls-dhs-dss.ch/de/articles/001380</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/146082604/">https://viaf.org/viaf/146082604/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4119117-1">https://d-nb.info/gnd/4119117-1</idno>
+          <note type="description">Politische Gemeinde im Obertoggenburg im Kanton St. Gallen; Geburtsort Ulrich Zwinglis.</note>
+        </place>
         <place type="P" xml:id="kbga-places-355">
           <placeName>Wilhelmshaven</placeName>
           <placeName type="full">Wilhelmshaven (NI)</placeName>
@@ -8669,6 +9416,21 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="gnd" target="https://d-nb.info/gnd/4066337-1">https://d-nb.info/gnd/4066337-1</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n50013808">https://www.worldcat.org/identities/lccn-n50013808</idno>
           <note type="description">Zweitgrößte Stadt des Kantons Zürich.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1213">
+          <placeName>Wipkingen</placeName>
+          <placeName type="full">Wipkingen / Zürich (ZH)</placeName>
+          <location>
+            <geo>47.39503 8.52529</geo>
+          </location>
+          <settlement>Zürich</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6295475">https://www.geonames.org/6295475</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wipkingen">https://de.wikipedia.org/wiki/Wipkingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q678030">https://www.wikidata.org/wiki/Q678030</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/003134">https://hls-dhs-dss.ch/de/articles/003134</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4109078-0">https://d-nb.info/gnd/4109078-0</idno>
+          <note type="description">Ehemalige politische Gemeinde im Kanton Zürich, 1893 in die Stadt Zürich eingemeindet, 1938-1942 Ort der vom "Schweizerischen Evangelischen Hilfswerk für die Bekennende Kirche in Deutschland" veranstalteten Tagungen für Theologen und Laien.</note>
         </place>
         <place type="P" xml:id="kbga-places-65">
           <placeName>Wittenberg</placeName>
@@ -8835,6 +9597,23 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Zofingen">https://de.wikipedia.org/wiki/Zofingen</idno>
           <note type="description">Einwohnergemeinde und Kleinstadt im Kanton Aargau; Hauptort des gleichnamigen Bezirks, zu dem auch Safenwil gehört.</note>
         </place>
+        <place type="P" xml:id="kbga-places-390">
+          <placeName>Zollikon</placeName>
+          <placeName type="full">Zollikon (ZH)</placeName>
+          <location>
+            <geo>47.34019 8.57407</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2657912">https://www.geonames.org/2657912</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/141">https://kba.karl-barth.ch/places/141</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q218691">https://www.wikidata.org/wiki/Q218691</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4067943-3">https://d-nb.info/gnd/4067943-3</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/000170">https://hls-dhs-dss.ch/de/articles/000170</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/167657824/">https://viaf.org/viaf/167657824/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n82233181/">https://www.worldcat.org/identities/lccn-n82233181/</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Zollikon">https://de.wikipedia.org/wiki/Zollikon</idno>
+          <note type="description">Politische Gemeinde im Kanton Zürich, Vorort der Stadt Zürich.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1084">
           <placeName>Zug</placeName>
           <placeName type="full">Zug (ZG)</placeName>
@@ -8853,6 +9632,20 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Zug-Switzerland">https://www.britannica.com/place/Zug-Switzerland</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/000797">https://hls-dhs-dss.ch/de/articles/000797</idno>
           <note type="description">Hauptort des gleichnamigen Kantons, gelegen am Nordufer des Zugersees in der Zentralschweiz.</note>
+        </place>
+        <place type="H" xml:id="kbga-places-464">
+          <placeName>Zugersee</placeName>
+          <placeName type="full">Zugersee</placeName>
+          <location>
+            <geo>47.1313 8.48335</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2657883">https://www.geonames.org/2657883</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Zugersee">https://de.wikipedia.org/wiki/Zugersee</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q14436">https://www.wikidata.org/wiki/Q14436</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/248535407/">https://viaf.org/viaf/248535407/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4068076-9">https://d-nb.info/gnd/4068076-9</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/008653">https://hls-dhs-dss.ch/de/articles/008653</idno>
         </place>
         <place type="A" xml:id="kbga-places-235">
           <placeName>Zürich (Kanton)</placeName>
