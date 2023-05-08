@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-05-08 08:34:02</p>
+        <p>Datenbankexport vom 2023-05-08 17:10:16</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-05-08T08:34:02+02:00">teiHeader was automatically produced from the database 2023-05-08T08:34:02+02:00</change>
+      <change when="2023-05-08T17:10:16+02:00">teiHeader was automatically produced from the database 2023-05-08T17:10:16+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2583,6 +2583,13 @@
           <placeName>Finsteraarhorn</placeName>
           <placeName type="full">Finsteraarhorn</placeName>
         </place>
+        <place type="P" xml:id="kbga-places-1325">
+          <placeName>Fislisbach</placeName>
+          <placeName type="full">Fislisbach / Baden (AG)</placeName>
+          <settlement>Baden</settlement>
+          <country>Schweiz</country>
+          <note type="description">Einwohnergemeinde im Kanton Aargau, Bezirk Baden, am Rande des Reusstals.</note>
+        </place>
         <place type="A" xml:id="kbga-places-1060">
           <placeName>Flandern</placeName>
           <placeName type="full">Flandern</placeName>
@@ -4424,6 +4431,20 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Konstanz">https://www.britannica.com/place/Konstanz</idno>
           <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007046">https://hls-dhs-dss.ch/de/articles/007046</idno>
           <note type="description">Größte Stadt am Bodensee, Grenzstadt zwischen Deutschland und der Schweiz mit rechts- und linksrheinischen Stadtteilen; 1414/18 Ort des Konzils, auf dem Jan Hus verurteilt und hingerichtet wurde.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1324">
+          <placeName>Konstanz (Bistum)</placeName>
+          <placeName type="full">Konstanz (Bistum)</placeName>
+          <location>
+            <geo>47.66033 9.17582</geo>
+          </location>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bistum_Konstanz">https://de.wikipedia.org/wiki/Bistum_Konstanz</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q566315">https://www.wikidata.org/wiki/Q566315</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/007016">https://hls-dhs-dss.ch/de/articles/007016</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/136818577/">https://viaf.org/viaf/136818577/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/1121237428">https://d-nb.info/gnd/1121237428</idno>
+          <idno type="geonames" target="https://www.geonames.org/2885679">https://www.geonames.org/2885679</idno>
+          <note type="description">Gebiet des ehemaligen Bistums Konstanz (ca. 585-1821); das Territorium umfasst südliche Teile von Württemberg, Baden und Bayern sowie das Gebiet der östlich der Aare gelegenen Nord-, Zentral- und Ostschweiz.</note>
         </place>
         <place type="P" xml:id="kbga-places-112">
           <placeName>Kopenhagen</placeName>
