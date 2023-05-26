@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-05-09 15:09:23</p>
+        <p>Datenbankexport vom 2023-05-26 15:09:55</p>
         <p>Es wurden die Datensätze aus der Tabelle relations exportiert.</p>
         <p>Beziehungen zwischen Begriffen werden innehalb der terms ausgedrückt.</p>
       </sourceDesc>
@@ -209,12 +209,14 @@
             <relation name="RT" xml:id="kbga-relations-250" mutual="kbga-places-60 kbga-places-332"/>
             <relation name="RT" xml:id="kbga-relations-251" mutual="kbga-places-332 kbga-places-60"/>
             <relation name="RT" xml:id="kbga-relations-252" mutual="kbga-places-60 kbga-places-332"/>
+            <relation name="RT" xml:id="kbga-relations-253" mutual="kbga-actors-9715 kbga-actors-9716"/>
+            <relation name="RT" xml:id="kbga-relations-254" mutual="kbga-actors-9716 kbga-actors-9715"/>
           </listRelation>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-05-09T15:09:23+02:00">teiHeader was automatically produced from the database 2023-05-09T15:09:23+02:00</change>
+      <change when="2023-05-26T15:09:55+02:00">teiHeader was automatically produced from the database 2023-05-26T15:09:55+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
