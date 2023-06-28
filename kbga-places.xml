@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-05-26 15:09:54</p>
+        <p>Datenbankexport vom 2023-06-28 16:35:38</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-05-26T15:09:54+02:00">teiHeader was automatically produced from the database 2023-05-26T15:09:54+02:00</change>
+      <change when="2023-06-28T16:35:38+02:00">teiHeader was automatically produced from the database 2023-06-28T16:35:38+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -5792,6 +5792,7 @@
         <place type="P" xml:id="kbga-places-139">
           <placeName>Neuchâtel</placeName>
           <placeName type="full">Neuchâtel (NE)</placeName>
+          <placeName type="alternative">Neuenburg</placeName>
           <location>
             <geo>46.99179 6.931</geo>
           </location>
@@ -9036,6 +9037,25 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <placeName type="full">Uri (Kanton)</placeName>
           <country>Schweiz</country>
         </place>
+        <place type="P" xml:id="kbga-places-1192">
+          <placeName>Utrecht</placeName>
+          <placeName type="full">Utrecht (Utrecht)</placeName>
+          <location>
+            <geo>52.09083 5.12222</geo>
+          </location>
+          <settlement>Utrecht</settlement>
+          <country>Niederlande</country>
+          <idno type="geonames" target="https://www.geonames.org/2745912">https://www.geonames.org/2745912</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/623">https://kba.karl-barth.ch/places/623</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Utrecht">https://de.wikipedia.org/wiki/Utrecht</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q803">https://www.wikidata.org/wiki/Q803</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/126660442/">https://viaf.org/viaf/126660442/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79022996">https://id.loc.gov/authorities/n79022996</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4062222-8">https://d-nb.info/gnd/4062222-8</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/viaf-217562154/">https://worldcat.org/identities/viaf-217562154/</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Utrecht-Netherlands">https://www.britannica.com/place/Utrecht-Netherlands</idno>
+          <note type="description">Hauptstadt der gleichnamigen niederländischen Provinz und viertgrösste Stadt der Niederlande. Im Februar und März 1935 hielt Barth an der dortigen Universität eine Vorlesung über das Credo.</note>
+        </place>
         <place type="P" xml:id="kbga-places-610">
           <placeName>Varel</placeName>
           <placeName type="full">Varel (NI)</placeName>
@@ -9505,8 +9525,19 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1244">
           <placeName>Wertheim</placeName>
-          <placeName type="full">Wertheim (Bayern)</placeName>
+          <placeName type="full">Wertheim (BW)</placeName>
+          <location>
+            <geo>49.759 9.50852</geo>
+          </location>
           <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/6558018">https://www.geonames.org/6558018</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Wertheim">https://de.wikipedia.org/wiki/Wertheim</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q61912">https://www.wikidata.org/wiki/Q61912</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/viaf-249014578/">https://worldcat.org/identities/viaf-249014578/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81003053">https://id.loc.gov/authorities/n81003053</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/136046547/">https://viaf.org/viaf/136046547/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4065663-9">https://d-nb.info/gnd/4065663-9</idno>
+          <note type="description">Stadt im nordöstlichen Baden-Württemberg, nahe der bayrischen Grenze, ca. 30 km westlich von Würzburg; Zentrum der vom 12. Jahrhundert bis 1806 existierenden Grafschaft Wertheim.</note>
         </place>
         <place type="P" xml:id="kbga-places-815">
           <placeName>West Hartford</placeName>

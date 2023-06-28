@@ -21,6 +21,7 @@
                 <field name="file" expression="util:document-name(.)"/>
                 
                 <!-- Zusätzliche Felder für Portal -->
+		<facet dimension="author" expression="ancestor::tei:TEI//tei:persName/@ref/string()"/>
                 <field name="year" expression="nav:get-date(ancestor::tei:TEI)[1]"/>
                 <field name="author" expression="(ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='sent']/tei:persName, 'Karl Barth')[1]"/>
                 <field name="receiver" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='received']/tei:persName"/>
