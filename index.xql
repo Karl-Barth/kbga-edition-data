@@ -5,7 +5,7 @@ module namespace idx="http://teipublisher.com/index";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 declare function idx:get-volume($root as element()) {
-    let $title := $root//tei:fileDesc/tei:titleStmt/tei:title[@type='volume'] return ('Band ' || substring($title/@n, 5) || ': ' || $title/text())
+    let $title := $root//tei:fileDesc/tei:titleStmt/tei:title[@type='volume'] return substring($title/@n, 5)
 };
 
 declare function idx:get-language($root as element()) {

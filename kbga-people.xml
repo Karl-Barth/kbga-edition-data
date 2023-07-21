@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-06-28 16:35:35</p>
+        <p>Datenbankexport vom 2023-07-21 10:51:20</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-06-28T16:35:35+02:00">teiHeader was automatically produced from the database 2023-06-28T16:35:35+02:00</change>
+      <change when="2023-07-21T10:51:20+02:00">teiHeader was automatically produced from the database 2023-07-21T10:51:20+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -4633,8 +4633,11 @@
         </person>
         <person xml:id="kbga-actors-529">
           <persName>Dietschi, Max</persName>
-          <persName type="full">Dietschi, Max</persName>
+          <persName type="full">Dietschi, Max (1873-1951)</persName>
+          <birth when="1873"/>
+          <death when="1951"/>
           <ref target="https://kba.karl-barth.ch/actors/448">kba</ref>
+          <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-95">
           <persName>Dijk, Marinus Pieter van</persName>
@@ -12589,6 +12592,7 @@ Anton Philipp</persName>
         <person xml:id="kbga-actors-252">
           <persName>Loew, Liese</persName>
           <persName type="full">Loew, Liese</persName>
+          <persName type="alternative">Naumann, Liese</persName>
           <persName type="variant">Loew, Elisabeth</persName>
           <ref target="https://kba.karl-barth.ch/actors/497">kba</ref>
         </person>
