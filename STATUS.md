@@ -1,13 +1,13 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2023-08-01
+2024-01-10
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
 
 |Titel |Link |
 |:-----|:----|
-| Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966 (Abt. V Briefe), Zürich 1994 | [[Band 1](https://kbga.karl-barth.ch/volume/1)] |
+| Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966 (Abt. V Briefe), Zürich 1994 (2. Auflage. Aufl.) | [[Band 1](https://kbga.karl-barth.ch/volume/1)] |
 | Predigten 1914 (Abt. I Predigten), Zürich 1999 | [[Band 5](https://kbga.karl-barth.ch/volume/5)] |
 | Predigten 1954–1967 (Abt. I Predigten), Zürich 2003 | [[Band 12](https://kbga.karl-barth.ch/volume/12)] |
 | Predigten 1915 (Abt. I Predigten), Zürich 1996 | [[Band 27](https://kbga.karl-barth.ch/volume/27)] |
@@ -21,11 +21,11 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
 |Bände | 9 |9 |
-|Personen | 689 |1975 |
-|Organisationen | 120 |451 |
-|Orte | 446 |652 |
-|Literaturangaben | 1260 |2182 |
-|Lieder | 219 |219 |
+|Personen | 891 |1977 |
+|Organisationen | 144 |459 |
+|Orte | 485 |653 |
+|Literaturangaben | 1338 |2178 |
+|Lieder | 225 |225 |
 |Begriffe | 1955 |1955 |
 
 Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.

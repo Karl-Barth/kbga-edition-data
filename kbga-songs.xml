@@ -14,13 +14,13 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2023">2023</date>
+        <date when="2024">2024</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">Creative Commons BY-SA</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2023-08-01 17:33:34</p>
+        <p>Datenbankexport vom 2024-01-10 15:15:04</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2023-08-01T17:33:34+02:00">teiHeader was automatically produced from the database 2023-08-01T17:33:34+02:00</change>
+      <change when="2024-01-10T15:15:04+01:00">teiHeader was automatically produced from the database 2024-01-10T15:15:04+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -220,6 +220,12 @@
           <author ref="kbga-actors-102">Schmalenbach, Marie</author>
           <biblScope type="songbook">REICHSLIEDER, Nr. 556</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-297">
+          <title>Brüder, noch gilt es, zu retten!</title>
+          <author ref="kbga-actors-295">Hoyle, W.</author>
+          <author ref="kbga-actors-296">Meyer, Johanna</author>
+          <biblScope type="songbook">REICHSLIEDER, Nr. 525</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-232">
           <title>Bundeslied</title>
           <author ref="kbga-actors-228">Goethe, Johann Wolfgang von</author>
@@ -259,6 +265,13 @@ von</author>
           <author ref="kbga-actors-232">Gregor, Christian</author>
           <biblScope type="songbook">RKG, Nr. 265</biblScope>
           <biblScope type="songbook">EKG, Nr. 273</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-303">
+          <title>Christus, der ist mein Leben</title>
+          <author ref="kbga-actors-302">Vulpius, Melchior</author>
+          <biblScope type="songbook">GERS, Nr. 320</biblScope>
+          <biblScope type="songbook">EG, Nr. 516</biblScope>
+          <biblScope type="songbook">RG, Nr. 774</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-149">
           <title>Das Grütli</title>
@@ -380,6 +393,11 @@ von</author>
           <author ref="kbga-actors-242">Strauß, V. Fr.</author>
           <biblScope type="songbook">RKG, Nr. 29</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-296">
+          <title>Du bist’s allein, Macht und Gewalt sind dein!</title>
+          <author ref="kbga-actors-294">Strauß und Torney, Viktor von</author>
+          <biblScope type="songbook">GERS, Nr. 29</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-270">
           <title>Du klagst und fühlest die Beschwerden</title>
           <biblScope type="songbook">GERS, Nr. 305</biblScope>
@@ -416,6 +434,7 @@ von</author>
           <author ref="kbga-actors-2">Luther, Martin</author>
           <biblScope type="songbook">RKG, Nr. 343</biblScope>
           <biblScope type="songbook">EG, Nr. 193</biblScope>
+          <biblScope type="songbook">RG, Nr. 255</biblScope>
           <ref target="https://de.wikipedia.org/wiki/Erhalt_uns,_Herr,_bei_deinem_Wort">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q1314698">wikidata</ref>
           <ref target="https://d-nb.info/gnd/1196309906">gnd</ref>
@@ -679,6 +698,12 @@ von</author>
           <author ref="kbga-actors-255">Tersteegen, Gerhard</author>
           <biblScope type="songbook">RG, Nr. 662</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-300">
+          <title>Ich bin ein Gast auf Erden</title>
+          <biblScope type="songbook">GERS, Nr. 321</biblScope>
+          <biblScope type="songbook">EG, Nr. 529</biblScope>
+          <biblScope type="songbook">RG, Nr. 753</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-189">
           <title>Ich bleib’ bei dir!</title>
           <author ref="kbga-actors-186">Moraht, Adolf</author>
@@ -687,12 +712,6 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-13">
           <title>Ich erhebe mein Gemüte</title>
           <biblScope type="songbook">RKG, Nr. 6</biblScope>
-        </bibl>
-        <bibl type="song" xml:id="kbga-songs-103">
-          <title>Ich hab von ferne, Herr, deinen Thron erblickt</title>
-          <author ref="kbga-actors-97">Hermes, Johann Timotheus</author>
-          <biblScope type="songbook">GERS, Nr. 352</biblScope>
-          <biblScope type="songbook">REICHSLIEDER, Nr. 565</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-80">
           <title>Ich habe nun den Grund gefunden</title>
@@ -859,6 +878,7 @@ von</author>
           <biblScope type="songbook">RKG, Nr. 325</biblScope>
           <biblScope type="songbook">EG, Nr. 393</biblScope>
           <biblScope type="songbook">EKG, Nr. 272</biblScope>
+          <ref target="https://d-nb.info/gnd/115998266X">gnd</ref>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-132">
           <title>Kommt, Kinder, laßt uns gehen</title>
@@ -1161,6 +1181,11 @@ von</author>
           <biblScope type="songbook">GERS, Nr. 23</biblScope>
           <biblScope type="songbook">RKG, Nr. 10</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-299">
+          <title>O Jesu Christ, mein Leben</title>
+          <author ref="kbga-actors-298">Heußer, Meta</author>
+          <biblScope type="songbook">GERS, Nr. 256</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-75">
           <title>O Lamm Gottes, unschuldig</title>
           <author ref="kbga-actors-68">Decius, Nikolaus</author>
@@ -1182,6 +1207,11 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-195">
           <title>Rufst du, mein Vaterland</title>
           <author ref="kbga-actors-191">Wyss, Johann Rudolf</author>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-298">
+          <title>Ruft getrost, ihr Wächterstimmen, ruft getrost und schonet nicht</title>
+          <author ref="kbga-actors-297">anonym</author>
+          <biblScope type="songbook">KNAPP, Nr. 806</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-266">
           <title>Schafft mit Ernst, ihr Menschenkinder</title>
@@ -1411,6 +1441,11 @@ von</author>
           <title>Wenn dir dein Zion Palmen streut</title>
           <author ref="kbga-actors-75">Menzel, Konrad</author>
           <biblScope type="songbook">GERS, Nr. 107</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-301">
+          <title>Wenn Friede mit Gott meine Seele durchdringt</title>
+          <author ref="kbga-actors-299">Th. Kübler</author>
+          <biblScope type="songbook">REICHSLIEDER, Nr. 242</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-71">
           <title>Wenn ich ihn nur habe</title>

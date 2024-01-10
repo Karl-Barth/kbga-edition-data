@@ -6,7 +6,7 @@
         <title type="volume" n="vol-29">Predigten 1916</title>
         <title type="content">Predigt: Lukas 18,1-8: "Er kann auch anders"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Lukas 18,1-8: "Er kann auch anders", 22. Oktober 1916</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/29045 (Stand: 1. August 2023)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/29045 (Stand: 10. Januar 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1916, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 1998, S.  344–356.</title>
       </titleStmt>
       <editionStmt>
@@ -18,7 +18,7 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2023">2023</date>
+        <date when="2024">2024</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons BY-NC-ND</licence>
         </availability>
@@ -50,7 +50,7 @@
           <date type="publication">2001</date>
         </bibl>
         <!-- Data from KBA (https://kba.karl-barth.ch) -->
-        <bibl xml:id="A" type="source">A (Vorlage der Edition): , Karl Barth / Eduard Thurneysen: Er kann auch anders! [Predigt über Luk. 18,1–8], in: ders., Suchet Gott, so werdet ihr leben!, Bern 1917 (2. Auflage München 1928), S. 16-29, 1917. </bibl>
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth / Eduard Thurneysen: Er kann auch anders! [Predigt über Luk. 18,1–8], in: ders., Suchet Gott, so werdet ihr leben!, Bern 1917 (2. Auflage München 1928), S. 16-29 </bibl>
         <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Predigt: Lk 18,1-8: "Er kann auch anders", 22. Oktober 1916. <ref target="https://kba.karl-barth.ch/objects/1787">KBA 1325</ref>. </bibl>
         <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
       </sourceDesc>
@@ -69,7 +69,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2023-08-01T17:33:54+02:00">teiHeader was automatically produced from the database 2023-08-01T17:33:54+02:00</change>
+      <change when="2024-01-10T15:15:21+01:00">teiHeader was automatically produced from the database 2024-01-10T15:15:21+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,7 +123,7 @@ den Druck bearbeiteten Fassung festhält, siehe das Vorwort, oben <ref type="pub
             <persName ref="kbga-actors-764">Fr. von Schiller</persName>,
             <title level="a">«Der Ring des Polykrates</title>
                                 <choice>
-                                    <sic ed="pga"/>
+                                    <sic/>
                                     <corr type="misprint">»</corr>
                                 </choice>,
             Ende von Strophe 9</bibl>:<q rend="block">
@@ -249,10 +249,16 @@ den Druck bearbeiteten Fassung festhält, siehe das Vorwort, oben <ref type="pub
                             <ref corresp="B">Mskr.</ref>: «geb’s».</note>, daß wir bald einmal aufwachen aus allen unseren Träumen und Phantasien und merken, daß der Tag angebrochen ist.</p>
         </div>
         <div type="closer">
-          <salute>[Amen.]</salute><note xml:id="n19">
-                Lieder:
+          <salute>[Amen.]<note xml:id="n19"> <persName ref="kbga-actors-240">H. Kutter</persName> war am <date when="1916-10-22">22. Oktober</date> zu Besuch in <placeName ref="kbga-places-54">Safenwil</placeName>. Er äußerte sich zustimmend zu <persName ref="kbga-actors-2151">Barths</persName> Predigt (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p159#p159">S. 159</ref>)</bibl>.
+          </note></salute>
+        </div>
+
+        <div type="songs">
+          <head>Lieder:</head>
+          <listBibl type="songs">
                 <bibl corresp="kbga-songs-162" type="song"> Nr. 270 «Was Gott tut, das ist wohlgetan» von <persName ref="kbga-actors-1840">S. Rodigast</persName>, Strophen 1-3 (GERS [1952] 282,1-3; EG 372,1-3);</bibl>
                 <bibl corresp="kbga-songs-89" type="song"> Nr. 344 «Jesus, meine Zuversicht» von <persName ref="kbga-actors-8792">O. von Schwerin</persName>, Strophen 1-3 (GERS [1952] 165,1-3; EG 256,1-3).</bibl>
+          </listBibl>
 
                 <!-- alt
                 <p>Lieder:
@@ -260,11 +266,8 @@ den Druck bearbeiteten Fassung festhält, siehe das Vorwort, oben <ref type="pub
                 <ref type="pub" subtype="bib1-ein1936" target="b0344">Nr. 344</ref> «Jesus, meine Zuversicht» von O. von Schwerin, Strophen 1-3 (<ref type="pub" subtype="ges29-abk"><bibl><title level="m">GERS</title> [<date when="1952">1952</date>] 165, 1-3</bibl></ref>; <ref type="pub"><bibl><title level="m">EG</title> 256, 1-3</bibl></ref>). —</p>
                 -->
 
-            <p>
-                            <persName ref="kbga-actors-240">H. Kutter</persName> war am <date when="1916-10-22">22. Oktober</date> zu Besuch in <placeName ref="kbga-places-54">Safenwil</placeName>. Er äußerte sich zustimmend zu <persName ref="kbga-actors-2151">Barths</persName> Predigt (<bibl corresp="kbga-bibls-931">
-                                <title>Bw. Th. I</title>, 
-                                    <ref type="pub-" target="../volume/03/p159#p159">S. 159</ref>)</bibl>.</p>
-            </note>
+            
+                           
         </div>
       </div>
     </body>
