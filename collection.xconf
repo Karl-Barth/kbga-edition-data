@@ -40,7 +40,20 @@
             </text>
             <text qname="tei:place" index="no">
                 <field name="name" expression="tei:placeName[not(@type)]"/>
-                <field name="lname" expression="tei:placeName[not(@type)] => lower-case()"/>
+                <field name="lname" expression="tei:placeName[not(@type)] =&gt; lower-case()"/>
+            </text>
+            <text qname="tei:bibl" index="no">
+                <field name="name" expression="tei:title"/>
+                <field name="lname" expression="tei:title =&gt; lower-case()"/>
+                <field name="citation" expression="nav:get-citation(.)"/>
+                <field name="author" expression="nav:get-author(.)"/>
+                <field name="firstAuthor" expression="nav:get-first-author(.)  =&gt; lower-case()"/>
+            </text>
+            <text qname="tei:ref" index="no">
+                <field if="@subtype eq 'bible'" name="book" expression="nav:get-book(@target)"/>
+                <field if="@subtype eq 'bible'" name="chapter" expression="nav:get-chapter(@target)"/>
+                <field if="@subtype eq 'bible'" name="verse" expression="nav:get-verse(@target)"/>
+                <field if="@subtype eq 'bible'" name="locus" expression="nav:get-locus(@target)"/>
             </text>
         </lucene>
         <range>

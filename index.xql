@@ -57,3 +57,55 @@ declare function idx:get-type($root as element()) {
         else
             "other"
 };
+
+declare function idx:get-citation($node as element()) {
+    let $author:= if ($node/tei:author) then string-join($node/tei:author, ' ') else string-join($node/tei:editor, ' ')
+    let $title := $node/tei:title[1]
+    let $date := if ($node/tei:date) then $node/tei:date[1] else $node/tei:edition[1]
+    return 
+        string-join(($author, $title, $date), ' ')
+};
+    
+declare function idx:get-author($node as element()) {
+    let $actorsRegister := doc('/db/apps/kb-latest-version/kbga-people.xml')
+    let $authors:= if ($node/tei:author) then $node/tei:author else $node/tei:editor
+    let $names := for $author in $authors return if ($author/@ref) then $actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else replace($author, '[-\[]', '')
+    return
+        string-join($names, ' ')
+};
+
+declare function idx:get-first-author($node as element()) {
+    let $actorsRegister := doc('/db/apps/kb-latest-version/kbga-people.xml')
+    let $author:= if ($node/tei:author) then $node/tei:author[1] else if ($node/tei:editor) then $node/tei:editor[1] else '~'
+    return if ($author/@ref) then $actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else replace($author, '[-\[]', '')
+};
+
+declare function idx:get-book($target as xs:string) {
+    if (matches($target, '^[0-3]\.')) then substring-before($target, '.') || '.' || substring-before(substring-after($target, '.'), '.') else substring-before($target, '.')
+};
+
+declare function idx:get-chapter($target as xs:string) {
+    for $ref in tokenize($target, '\s+') 
+    return 
+     if (matches($ref, '^[1-3]\.')) then replace($ref, '^[1-3]\.[A-Za-zö]+\.([0-9]+)\.?\d*$', '$1') else replace($ref, '^[A-Za-zö]+\.([0-9]+)\.?[0-9]*$', '$1')
+};
+
+declare function idx:get-verse($target as xs:string) {
+    for $ref in tokenize($target, '\s+') 
+    return 
+        if (matches($ref, '^[1-3]\.')) then replace($ref, '^[1-3]\.[A-Za-zö]+\.[0-9]+\.([0-9]+)$', '$1') else replace($ref, '^[A-Za-zö]+\.[0-9]+\.?([0-9]*)$', '$1')
+
+};
+
+declare function idx:get-locus($target as xs:string) {
+    let $chapters := distinct-values(idx:get-chapter($target))
+    let $verses := idx:get-verse($target)
+    return
+        if ((count($chapters) gt 1) and (string-length($verses[1]) gt 0)) then
+            $chapters[1] || ',' || $verses[1] || '–' || $chapters[2] || ',' || $verses[2] 
+        else 
+            if (count($chapters) gt 1) then string-join($chapters, '–')
+            else 
+                if (string-length($verses[1]) gt 0) then $chapters[1] || ',' || string-join($verses, '–') 
+                else string-join($chapters)
+   };
