@@ -48,8 +48,9 @@
                 <field name="citation" expression="nav:get-citation(.)"/>
                 <field name="author" expression="nav:get-author(.)"/>
                 <field name="firstAuthor" expression="nav:get-first-author(.)  =&gt; lower-case()"/>
+                <field name="status" expression="@status"/>
             </text>
-            <text qname="tei:ref" index="no">
+            <text qname="tei:ref">
                 <field if="@subtype eq 'bible'" name="book" expression="nav:get-book(@target)"/>
                 <field if="@subtype eq 'bible'" name="chapter" expression="nav:get-chapter(@target)"/>
                 <field if="@subtype eq 'bible'" name="verse" expression="nav:get-verse(@target)"/>

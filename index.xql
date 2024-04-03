@@ -4,6 +4,21 @@ module namespace idx="http://teipublisher.com/index";
 
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
+declare variable $idx:app-root :=
+    let $rawPath := system:get-module-load-path()
+    return
+        (: strip the xmldb: part :)
+        if (starts-with($rawPath, "xmldb:exist://")) then
+            if (starts-with($rawPath, "xmldb:exist://embedded-eXist-server")) then
+                substring($rawPath, 36)
+            else
+                substring($rawPath, 15)
+        else
+            $rawPath
+    ;
+    
+declare variable $idx:actorsRegister := doc($idx:app-root || '/kbga-people.xml');
+
 declare function idx:get-volume($root as element()) {
     let $title := $root//tei:fileDesc/tei:titleStmt/tei:title[@type='volume'] return substring($title/@n, 5)
 };
@@ -67,17 +82,15 @@ declare function idx:get-citation($node as element()) {
 };
     
 declare function idx:get-author($node as element()) {
-    let $actorsRegister := doc('/db/apps/kb-latest-version/kbga-people.xml')
     let $authors:= if ($node/tei:author) then $node/tei:author else $node/tei:editor
-    let $names := for $author in $authors return if ($author/@ref) then $actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else replace($author, '[-\[]', '')
+    let $names := for $author in $authors return if ($author/@ref) then $idx:actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else tokenize(replace($author, '[-\[]', ''), '\s+')[last()]
     return
         string-join($names, ' ')
 };
 
 declare function idx:get-first-author($node as element()) {
-    let $actorsRegister := doc('/db/apps/kb-latest-version/kbga-people.xml')
-    let $author:= if ($node/tei:author) then $node/tei:author[1] else if ($node/tei:editor) then $node/tei:editor[1] else '~'
-    return if ($author/@ref) then $actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else replace($author, '[-\[]', '')
+    let $author:= if ($node/tei:author) then $node/tei:author[1] else $node/tei:editor[1]
+    return if ($author/@ref) then $idx:actorsRegister/id($author/@ref)/tei:persName[not(@type)]/string() else tokenize(replace($author, '[-\[]', ''), '\s+')[last()]
 };
 
 declare function idx:get-book($target as xs:string) {

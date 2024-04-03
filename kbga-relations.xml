@@ -16,11 +16,11 @@
         <pubPlace>Basel</pubPlace>
         <date when="2024">2024</date>
         <availability>
-          <licence target="https://creativecommons.org/licenses/by-sa/4.0/deed.de">Creative Commons BY-SA</licence>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-01-10 15:15:04</p>
+        <p>Datenbankexport vom 2024-04-03 10:50:29</p>
         <p>Es wurden die Datensätze aus der Tabelle relations exportiert.</p>
         <p>Beziehungen zwischen Begriffen werden innehalb der terms ausgedrückt.</p>
       </sourceDesc>
@@ -247,12 +247,24 @@
             <relation name="RT" xml:id="kbga-relations-290" mutual="kbga-actors-2930 kbga-actors-6202"/>
             <relation name="RT" xml:id="kbga-relations-291" mutual="kbga-actors-10115 kbga-actors-8244"/>
             <relation name="RT" xml:id="kbga-relations-292" mutual="kbga-actors-8244 kbga-actors-10115"/>
+            <relation name="AE" xml:id="kbga-relations-293" mutual="kbga-bibls-3133 kbga-bibls-1615"/>
+            <relation name="AE" xml:id="kbga-relations-294" mutual="kbga-bibls-1615 kbga-bibls-3133"/>
+            <relation name="AE" xml:id="kbga-relations-295" mutual="kbga-bibls-3133 kbga-bibls-2684"/>
+            <relation name="AE" xml:id="kbga-relations-296" mutual="kbga-bibls-2684 kbga-bibls-3133"/>
+            <relation name="AE" xml:id="kbga-relations-299" mutual="kbga-bibls-1615 kbga-bibls-2684"/>
+            <relation name="AE" xml:id="kbga-relations-300" mutual="kbga-bibls-2684 kbga-bibls-1615"/>
+            <relation name="AE" xml:id="kbga-relations-301" mutual="kbga-bibls-4963 kbga-bibls-48"/>
+            <relation name="AE" xml:id="kbga-relations-302" mutual="kbga-bibls-48 kbga-bibls-4963"/>
+            <relation name="AE" xml:id="kbga-relations-303" mutual="kbga-bibls-4963 kbga-bibls-96"/>
+            <relation name="AE" xml:id="kbga-relations-304" mutual="kbga-bibls-96 kbga-bibls-4963"/>
+            <relation name="AE" xml:id="kbga-relations-305" mutual="kbga-bibls-4962 kbga-bibls-4963"/>
+            <relation name="AE" xml:id="kbga-relations-306" mutual="kbga-bibls-4963 kbga-bibls-4962"/>
           </listRelation>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-01-10T15:15:04+01:00">teiHeader was automatically produced from the database 2024-01-10T15:15:04+01:00</change>
+      <change when="2024-04-03T10:50:29+02:00">teiHeader was automatically produced from the database 2024-04-03T10:50:29+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
