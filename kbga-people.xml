@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-03 10:50:16</p>
+        <p>Datenbankexport vom 2024-04-03 12:08:21</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-04-03T10:50:16+02:00">teiHeader was automatically produced from the database 2024-04-03T10:50:16+02:00</change>
+      <change when="2024-04-03T12:08:21+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:21+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -9770,14 +9770,6 @@ Adolf</persName>
           <birth when="0000"/>
           <death when="0000"/>
         </person>
-        <person xml:id="kbga-actors-8703">
-          <persName>Bultmann, Helene</persName>
-          <persName type="full">Bultmann, Helene</persName>
-          <persName type="alternative">Bultmann, Helene</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <ref target="https://d-nb.info/gnd/1053624875">gnd</ref>
-        </person>
         <person xml:id="kbga-actors-74">
           <persName>Bultmann, Helene</persName>
           <persName type="full">Bultmann, Helene (1892-1973)</persName>
@@ -9787,6 +9779,14 @@ Adolf</persName>
           <ref target="http://d-nb.info/gnd/1053624875">gnd</ref>
           <ref target="https://api.metagrid.ch/concordance/NEUgG3YBUPOEfqBYe29s.json">metagrid</ref>
           <note type="bio">Ehefrau von Rudolf Bultmann.</note>
+        </person>
+        <person xml:id="kbga-actors-8703">
+          <persName>Bultmann, Helene</persName>
+          <persName type="full">Bultmann, Helene</persName>
+          <persName type="alternative">Bultmann, Helene</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+          <ref target="https://d-nb.info/gnd/1053624875">gnd</ref>
         </person>
         <person xml:id="kbga-actors-75">
           <persName>Bultmann, Peter</persName>
@@ -25790,19 +25790,19 @@ XXXIV</persName>
           <ref target="https://hls-dhs-dss.ch/de/articles/010658/2007-11-27/">hls-dhs-dss</ref>
           <ref target="https://de.wikipedia.org/wiki/Max_Haller">wikipedia</ref>
         </person>
-        <person xml:id="kbga-actors-3254">
-          <persName>Haller, Richard</persName>
-          <persName type="full">Haller, Richard</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <ref target="https://kba.karl-barth.ch/actors/7162">kba</ref>
-        </person>
         <person xml:id="kbga-actors-8176">
           <persName>Haller, Richard</persName>
           <persName type="full">Haller, Richard (1921-2019)</persName>
           <birth when="1921-10-10"/>
           <death when="2019-01-09"/>
           <note type="bio">Schweizer reformierter Pfarrer; 1947 als Missionar der Basler Mission Ghana, 1959 Missionssekretär, 1961 Pfarrer in Grindelwald, 1967 Beauftragter für ökumenische-missionarische Aufgaben in Bern, 1977 Pfarrer in Lauterbrunnen-Wengen.</note>
+        </person>
+        <person xml:id="kbga-actors-3254">
+          <persName>Haller, Richard</persName>
+          <persName type="full">Haller, Richard</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+          <ref target="https://kba.karl-barth.ch/actors/7162">kba</ref>
         </person>
         <person xml:id="kbga-actors-595">
           <persName>Haller, Traugott</persName>
@@ -27436,18 +27436,21 @@ XXXIV</persName>
           <birth when="0000"/>
           <death when="0000"/>
         </person>
-        <person xml:id="kbga-actors-8651">
+        <person xml:id="kbga-actors-1368">
           <persName>Held, Heinrich</persName>
-          <persName type="full">Held, Heinrich (1620-1659)</persName>
-          <birth when="1620-07-21"/>
-          <death when="1659-08-16"/>
-          <ref target="https://de.wikipedia.org/wiki/Heinrich_Held_(Kirchenlieddichter)">wikipedia</ref>
-          <ref target="https://www.wikidata.org/wiki/Q1597567">wikidata</ref>
-          <ref target="https://worldcat.org/identities/viaf-57666156/">worldcat</ref>
-          <ref target="https://www.deutsche-biographie.de/128486740.html">deutsch-biographie</ref>
-          <ref target="https://viaf.org/viaf/57666156/">viaf</ref>
-          <ref target="https://d-nb.info/gnd/128486740">gnd</ref>
-          <note type="bio">Deutscher Jurist und Kirchenlieddichter; nach seinen juristischen Studien Hauslehrer, 1651 Rechtsanwalt in Fraustadt (Schlesien), 1657 Stadtsekretär in Altdamm (Stettin), 1658 Kämmerer und Ratsherr in Stettin.</note>
+          <persName type="full">Held, Heinrich (1897-1957)</persName>
+          <birth when="1897-09-25"/>
+          <death when="1957-09-19"/>
+          <ref target="https://de.wikipedia.org/wiki/Heinrich_Held_(Theologe)">wikipedia</ref>
+          <ref target="https://kba.karl-barth.ch/actors/10711">kba</ref>
+          <ref target="https://d-nb.info/gnd/118710079">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1597568">wikidata</ref>
+          <ref target="https://worldcat.org/identities/lccn-n99027568/">worldcat</ref>
+          <ref target="https://www.munzinger.de/search/go/document.jsp?id=00000005374">munzinger-person</ref>
+          <ref target="https://www.deutsche-biographie.de/118710079.html">deutsch-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n99027568">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/76627882/">viaf</ref>
+          <note type="bio">Deutscher evangelischer Theologe; 1924 Hilfspfarrer in Wesseling, 1930 Pfarrer in Essen, führendes Mitglied der rheinischen Bekennenden Kirche, 1945 Superintendent in Essen, 1949 Präses der Evangelischen Kirche im Rheinland, zugleich Mitglied des Rates der EKD.</note>
         </person>
         <person xml:id="kbga-actors-1368">
           <persName>Held, Heinrich</persName>
@@ -33119,6 +33122,12 @@ Johannes XXIII.</persName>
           <ref target="https://de.wikipedia.org/wiki/Julian_(Kaiser)">wikipedia</ref>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
+        <person xml:id="kbga-actors-4772">
+          <persName>Juliana</persName>
+          <persName type="full">Juliana</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+        </person>
         <person xml:id="kbga-actors-6003">
           <persName>Juliana</persName>
           <persName type="full">Juliana (1909-2004)</persName>
@@ -33127,12 +33136,6 @@ Johannes XXIII.</persName>
           <death when="2004-03-20"/>
           <ref target="https://de.wikipedia.org/wiki/Juliana_(Niederlande)">wikipedia</ref>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
-        </person>
-        <person xml:id="kbga-actors-4772">
-          <persName>Juliana</persName>
-          <persName type="full">Juliana</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
         </person>
         <person xml:id="kbga-actors-210">
           <persName>Jülicher, Adolf</persName>
@@ -68504,6 +68507,12 @@ Jacoba</persName>
         <person xml:id="kbga-actors-9220">
           <persName>Waldhard, Fritz</persName>
           <persName type="full">Waldhard, Fritz</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+        </person>
+        <person xml:id="kbga-actors-10210">
+          <persName>Waldhecker, Werner</persName>
+          <persName type="full">Waldhecker, Werner</persName>
           <birth when="0000"/>
           <death when="0000"/>
         </person>

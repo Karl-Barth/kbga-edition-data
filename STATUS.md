@@ -21,7 +21,7 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
 |Bände | 9 |9 |
-|Personen | 7740 |8047 |
+|Personen | 7741 |8048 |
 |Organisationen | 1765 |2750 |
 |Orte | 492 |650 |
 |Literaturangaben | 1347 |2179 |
@@ -33,4 +33,4 @@ Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschre
 ### Karl Barth-Archiv
 Über 90000 Verzeichnungseinheiten, knapp 20000 Akteure (Dubletten und Überschneidungen), über 5000 Orte und über 88000 Medien (der grösste Teil davon sind PDFs, die s/w-Fotografien der Dokumente enthalten)
 
-<small>generated 2024-04-03 08:50:59</small>
+<small>generated 2024-04-03 10:09:02</small>
