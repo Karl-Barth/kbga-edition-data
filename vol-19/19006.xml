@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19006">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">Grundfragen der Christlichen Sozialethik. Auseinandersetzung mit Paul Althaus</title>
+        <title type="citation_line_1">Barth, Karl: Grundfragen der Christlichen Sozialethik. Auseinandersetzung mit Paul Althaus, 1. Januar 1922 – 31. Dezember 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19006 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 39–57.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19006</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Grundfragen der Christlichen Sozialethik. Auseinandersetzung mit Paul Althaus</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 39-57</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">6</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 4</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Grundfragen der christlichen Sozialethik. Auseinandersetzung mit Paul Althaus, in: Das neue Werk. Ein Dienst am Werdenden 3 (1922), S. 461–472 </bibl>
+        <bibl xml:id="A1" type="source">A1 (Exemplar von A): Barth, Karl, Grundfragen der christlichen Sozialethik. Auseinandersetzungen mit Paul Althaus, 1922. <ref target="https://kba.karl-barth.ch/objects/5442">KBA 92.2</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" from="1922-01-01" to="1922-12-31">1. Januar 1922 – 31. Dezember 1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p039" ed="pga"/>
+        <head>GRUNDFRAGEN DER CHRISTLICHEN SOZIALETHIK</head>
+        <head>Auseinandersetzung mit Paul Althaus</head>
+        <head type="sub">1922</head>
+
+        <div type="abstract">
+          <p>Von <persName ref="kbga-actors-4">Paul Althaus</persName><note xml:id="n01">
+                            
+                                <persName ref="kbga-actors-4">Paul Althaus</persName> (1886–1966), Professor für
+              Systematische und Neutestamentliche Theologie ab 1914 in
+                Göttingen, 1920 in
+                Rostock, 1925 in
+              Erlangen.</note> war in <placeName ref="kbga-places-28">Gütersloh</placeName>
+            <date when="1921">1921</date> das Heft <bibl corresp="kbga-bibls-1662">
+                            <hi rend="italic">«Religiöser Sozialismus. Grundfragen der christlichen
+              Sozialethik»</hi></bibl><note xml:id="n02">
+                            <bibl corresp="kbga-bibls-1662">Studien des apologetischen Seminars in
+                Wernigerode, hrsg. im Auftrage des Vorstandes von <persName ref="kbga-actors-393">C. Stange</persName>, 5. Heft.</bibl></note> erschienen. Auf diese
+            Publikation war <persName ref="kbga-actors-2151">Barth</persName> vielleicht erstmals aufmerksam gemacht worden durch einen Brief
+            von <persName ref="kbga-actors-275">Georg Merz</persName><note xml:id="n03">
+                            <persName ref="kbga-actors-275">Georg Merz</persName> (1892–1959),
+                1918 Pfarrer in München, dort 1926
+              auch Studentenpfarrer, 1930 Dozent in Bethel, 1939 Dekan in Schweinfurt, 1947
+              Rektor der Augustana-Hochschule in Neuendettelsau.
+              Schriftleiter der von ihm in Verbindung mit <persName ref="kbga-actors-2151">Karl Barth</persName>, <persName ref="kbga-actors-137">Friedrich Gogarten</persName> und <persName ref="kbga-actors-403">Eduard Thurneysen</persName> herausgegebenen Zeitschrift
+              «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>» (1923–1933). <persName ref="kbga-actors-2151">Barth</persName> hatte ihn im <date when="1920-02">Februar
+                1920</date> in <placeName ref="kbga-places-43">München</placeName> kennengelernt; vgl. <bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="3313#p367">S. 367</ref>
+                    (19.2.1920).</bibl> – Vgl. <bibl corresp="kbga-bibls-1663"><persName ref="kbga-actors-275">G. Merz</persName>, <hi rend="italic">Wege und Wandlungen.
+                    Erinnerungen aus der Zeit von 1892–1922</hi>, nach seinem Tode bearbeitet von
+                    J. Merz, München 1961, bes. S. 238ff.</bibl></note> vom <date when="1921-10-21">21.10.1921</date>: «Der junge <persName ref="kbga-actors-4"><hi rend="text-recte">Althaus</hi></persName> z. B., in dem ja viele den Führer der kommenden lutherischen Generation sehen, schreibt von deinem
+            ‹bedeutenden› und ‹tiefen› Tambacher Vortrag<note xml:id="n04">
+                            <bibl corresp="kbga-bibls-1462">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <ref type="pub" target="48061"><hi rend="italic">Der Christ in der Gesellschaft. Eine Tambacher Rede</hi></ref>. Mit einem Geleitwort von <persName ref="kbga-actors-537">H.
+                    Ehrenberg</persName> (Der Bücher vom Kreuzweg 1. Folge),
+                    Würzburg
+                  1920</bibl> (wieder abgedruckt in: <bibl corresp="kbga-bibls-929">
+                                W. G. Th., S. 33–69</bibl>; <bibl corresp="kbga-bibls-914">
+                                Anfänge I, S. 3–37</bibl>).</note>, diesem ‹eigenartigen Büchlein› (<bibl corresp="kbga-bibls-1662"><hi rend="italic">Religiöser Sozialismus</hi>
+            S. 12</bibl>) so, daß man merkt, er hat etwas von der Krisis gemerkt, die sich gerade da
+            ankündigt…».<note xml:id="n05">
+                            <ref type="kba-objects-id" target="11368">Original im Karl Barth-Archiv</ref>, Basel.</note> Die
+            unmittelbare Veranlassung <persName ref="kbga-actors-2151">Barths</persName>, diese Schrift zu besprechen, ist nicht bekannt. Jedoch
+            teilte er in einem Brief vom <date when="1922-04-19">19.4.1922</date> an <persName ref="kbga-actors-4">Althaus</persName> mit: «Eben habe ich dem <orgName ref="kbga-actors-8244">Neuwerkverlag</orgName> <placeName ref="kbga-places-654">Schlüchtern</placeName> Auftrag gegeben,
+            Ihnen die neuste Nr. des ‹<orgName ref="kbga-actors-8244">Neuen Werkes</orgName>› zuzusenden, in der Sie eine Besprechung Ihres
+            Buches über den <bibl corresp="kbga-bibls-1662">
+                            <hi rend="italic">Relig. Sozialismus</hi></bibl> von mir finden werden… Wie ich dazu kam, zu Ihrem
+            Buch das Wort zu ergreifen, habe ich in der Besprechung selbst gesagt: es alarmiert
+            mich, daß ich von Ihnen im Gegensatz zu den übrigen Religiös-Sozialen so freundlich
+            behandelt worden war[,] und da ich gleichzeitig in der neuen Auflage des
+              Römerbriefes<note xml:id="n06">
+                            <bibl corresp="kbga-bibls-48">= Römerbrief 2.</bibl></note> noch schärfer als früher
+            gegen <pb xml:id="p040" ed="pga"/> meine religiös-sozialen Freunde Front gemacht hatte,
+            empfand ich das Bedürfnis, die Sache ins Gleichgewicht zu bringen und zu sagen, was mich
+            von Ihnen und dem Luthertum überhaupt trennt
+            und mit den Fanatici verbindet. Aber ich hoffe, daß Sie trotzdem merken, daß die
+            Besprechung auch Ihnen gegenüber mit dem Wunsch nach Verständigung und Gemeinschaft
+            geschrieben ist.»<note xml:id="n07">
+                            <ref type="kba-objects-id" target="11636">Kopie im Karl Barth-Archiv</ref>, Basel.</note>
+            <persName ref="kbga-actors-4">Althaus</persName> seinerseits antwortete <persName ref="kbga-actors-2151">Barth</persName> in einem
+            Brief vom <date when="1922-05-07">7.5.1922</date>: «Daß im ‹<orgName ref="kbga-actors-8244">N. Werk</orgName>› mein Heft eine Besprechung fand und daß gerade Sie
+            sie gaben, hat mich gefreut… Was nun Ihre Behandlung meiner Schrift angeht, so habe ich
+            Ihren Willen zu einer fruchtbaren Aussprache überall durchgespürt. Was mich stört, sind
+            weniger die Mißverständnisse einzelner Stellen, als die Sätze, in denen Sie mich dem
+            schon schmelzenden Eise vergleichen und meine künftige Entwicklung voraussagen. Ich
+            fürchte, da irren Sie. Am wichtigsten war mir, was Sie auf S. 466 sagen. In der Tat: <hi rend="text-recte">Ihr</hi>
+            eigentlicher Streitpunkt mit mir hat mit der relig. -sozialen Frage garnichts zu tun…
+            Zwischen Ihnen und mir geht es um Gott und Welt, [‹]Gemeinde›, ‹Geist› u.s.w. Also geht
+            es um Ihre Paulusdeutung. Und hier sehe ich bisher nur einen weiten Abstand zwischen
+              uns.»<note xml:id="n08">
+                            <ref type="kba-objects-id" target="11656">Original im Karl Barth-Archiv</ref>, Basel.</note> Auf diesen
+            Briefwechsel hin schrieb <persName ref="kbga-actors-2151">Barth</persName> in die <placeName ref="kbga-places-58">Schweiz</placeName>: «<persName ref="kbga-actors-4"><hi rend="text-recte">Althaus</hi></persName> soll über meinen Angriff erst tüchtig böse
+            gewesen sein. Ich schrieb ihm dann einen begütigenden Brief, und <persName ref="kbga-actors-184">Hirsch</persName> scheint ihm über meine Eigenarten ebenfalls
+            beruhigende Aufklärungen gegeben zu haben. Nun schreibt er mir seinerseits mild, etwas
+            pastoral. Es hätte sonst leicht eine größere Schlägerei absetzen können.»<note xml:id="n09">
+                            <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p074#p074">S. 74</ref> (9.5.1922).</bibl></note>
+          </p>
+          <p>
+                        <persName ref="kbga-actors-4">Althaus</persName> hatte in seinem Brief angekündigt, die
+            Auseinandersetzung in einer Rezension über die zweite Bearbeitung von <persName ref="kbga-actors-2151">Barths</persName> Römerbrief
+              fortzuführen<note xml:id="n10">Vgl.<bibl corresp="kbga-bibls-932"> ebd</bibl>.</note>; dazu kam es jedoch nicht. Stattdessen
+            erschien <date when="1923">1923</date> sein Aufsatz <bibl corresp="kbga-bibls-1448">
+                            <title level="a">«Theologie und Geschichte. Zur Auseinandersetzung mit der
+            dialektischen Theologie»</title></bibl><note xml:id="n11">In: <bibl corresp="kbga-bibls-1448">
+                                ZSTh, Jg. 1 (1923), S. 741–786.</bibl> Er erklärt eingangs, daß seinen Ausführungen «hauptsächlich
+                
+                                <persName ref="kbga-actors-2151">K. Barths</persName> ‹<bibl corresp="kbga-bibls-119">Römerbrief</bibl>›» (S. 741) zu Grunde liegt. In einer Fußnote
+              (S. 742) vermerkt <persName ref="kbga-actors-4">Althaus</persName>: «Der folgende
+              Aufsatz ist zugleich als Teilantwort auf <persName ref="kbga-actors-2151">Barths</persName> Besprechung meines Heftes <bibl corresp="kbga-bibls-1664">
+                                ‹Religiöser
+              Sozialismus› (Gütersloh 1921) in der Zeitschrift ‹das neue Werk› 3.
+              Jahrg. 1922 S. 461ff.</bibl> gemeint.»</note>.</p>
+        </div>
+        <div>
+          <pb xml:id="p041" ed="pga"/>
+        <head>Grundfragen der christlichen Sozialethik</head>
+         <p rend="center">Auseinandersetzung mit Paul Althaus</p>
+          <p>  Mit <persName ref="kbga-actors-4">Paul Althaus</persName> uns zu beschäftigen, lohnt
+            sich für uns, die mit dem Namen «Religiös-Soziale» Gestraften, darum, weil er, mehr als
+            er Wort haben will, mit uns ein Suchender, ein Mann der Grundfragen und nicht gewisser
+            Grundantworten ist. Keine Erledigung der uns beschäftigenden Probleme, sondern einen
+            Beitrag zu ihrer grundsätzlichen Verschärfung bietet er uns in seinem Buch, teilweise im
+            Gegensatz zu unseren Gedanken, teilweise auch bloß in Unterstreichung von Einsichten,
+            die, wie er wohl weiß (<bibl corresp="kbga-bibls-1662">S. 12, 32, 59</bibl>)<note xml:id="n12"><bibl corresp="kbga-bibls-1662">S. 12</bibl>: «Andere wie <persName ref="kbga-actors-2151">K. Barth</persName> und
+              die jüngeren Schweizer, ferner <persName ref="kbga-actors-686">Mennicke</persName>,
+                <persName ref="kbga-actors-406">Tillich</persName>, auch manche Stimmen im ‹<orgName ref="kbga-actors-8244">Neuen
+              Werk</orgName>› haben viel tiefer in die schwere Problematik des religiös-sozialen Gedankens
+              hineingeschaut und einerseits die Überweltlichkeit des Christentums als Religion,
+              andererseits die weitgehende Eigengesetzlichkeit des wirtschaftlichen und politischen
+              Lebens begriffen. Sie reden viel spannungsreicher und widerspruchsvoller (so <bibl corresp="kbga-bibls-1462"><persName ref="kbga-actors-2151">Karl
+              Barths</persName> bedeutender und tiefer Tambacher Vortrag <title>‹<ref type="pub" target="48061">Der Christ in
+              der Gesellschaft</ref>›</title>, Würzburg, Patmos-Verlag</bibl>) oder vorsichtiger von der Möglichkeit, die
+              Welt durch die Liebe zu gestalten.» – <bibl corresp="kbga-bibls-1662">S. 32</bibl>: «Die Selbständigkeit und Überweltlichkeit
+              des ‹Heiligen› müssen wir gegenüber aller Auflösung in wirtschaftlich-politische
+              Heils- und Erlösungsgeschichte streng behaupten.» In einer Fußnote dazu heißt es:
+              «Selbstverständlich gilt diese Formel nicht für alle Religiös-Sozialen. <persName ref="kbga-actors-406">Tillich</persName> und <persName ref="kbga-actors-4191">Wegener</persName> betonen den ‹prinzipiell überkulturellen Charakter› des
+              Christentums. Ebenso weiß <persName ref="kbga-actors-2151">Karl Barth</persName>, daß das Göttliche ‹etwas Ganzes, in sich
+              Geschlossenes, etwas der Art nach Neues, Verschiedenes gegenüber der Welt› ist und
+              warnt vor den schnellen Bindestrichen ‹christlich-sozial›, ‹evangelisch-sozial›,
+              ‹religiös-sozial›.» – S. 59 wird «nach einem feinen Worte <persName ref="kbga-actors-2151">Karl Barths</persName>» aus dem
+              Tambacher Vortrag davor gewarnt, «Christus aufs neue [zu] säkularisieren».</note>,
+            auch in unserem eigenen Kreis längst erwogen worden sind. Wir haben wirklich keinen
+            Anlaß, uns dagegen zu verwahren, «daß man uns mit nüchternen Einwänden ins Wort <pb n="462" ed="kbga-sources-2329"/> falle» (<bibl corresp="kbga-bibls-1662">S. 31</bibl>)<note xml:id="n13">
+                            <bibl corresp="kbga-bibls-1662">
+                                A. a. O.</bibl>: «Nicht gern treten wir in eine
+              theologische Kritik der Religiös-Sozialen ein… Endlich wieder Gestalten von
+              prophetischer Wucht wie <persName ref="kbga-actors-240">Hermann Kutter</persName> und
+              <persName ref="kbga-actors-2151">Karl Barth</persName> – und wir fallen ihnen mit nüchternen Einwänden ins Wort!»</note>, wir sind
+            vielmehr dankbar dafür, sofern dies aus der ganzen Not der Sache heraus und nicht vom
+            sichern Port<note xml:id="n14">Vgl. <bibl corresp="kbga-bibls-846">
+                                <persName ref="kbga-actors-764">Fr. von Schiller</persName>, <hi rend="italic">Wilhelm Tell</hi>, V. 141 (1.
+                  Aufzug, 1. Szene)</bibl>: <q rend="block">Vom sichern Port läßt sich’s
+                gemächlich raten.</q></note> des schon Wissenden, Abgeklärten, aus irgendeiner Spezialquelle nur noch
+            Orakelspendenden geschieht. <persName ref="kbga-actors-4">Althaus</persName> ist kein
+            solcher Schonwisser. Er kennt auch seinen <persName ref="kbga-actors-261">Luther</persName> gut genug, um ihn nicht dazu zu verwenden, uns totzuschlagen,
+            sondern um uns an das Lebendige zu erinnern, um das es in der heutigen Krisis geht. Ich
+            vermute, daß er uns zwar eigent<pb xml:id="p042" ed="pga" break="no"/>lich gern
+            gründlicher erledigt hätte, als es ihm gelungen ist. Aber er ist einsichtig und
+            aufrichtig genug, um sich ganz unter den Zwang des Problems zu stellen, und darum bringt
+            auch er es nicht weiter als dazu, das Problem wirklich aufzurollen. «Man darf es nicht
+            einfach geschehen lassen, daß der neue christliche Radikalismus im Namen Jesu und der
+            Bergpredigt die Gewissen gegenüber Recht, Vaterland, Staat, Kriegsdienst verwirrt», sagt
+            er <bibl corresp="kbga-bibls-1662">S. 32</bibl> und nennt damit offenbar das Motiv, das ihn wie schon so manchen zum Schreiben
+            gegen uns veranlaßt hat. Aber auch er hat ja wenige Seiten vorher gesagt: «Mit dem
+            Liebesgebot führt Jesus die Seinen in die große Not und Frage… Er spricht nicht gegen
+            Recht, Staat, Militär, soziale Schichtung, aber auch nicht dafür… Jesus stellt uns vor
+            die schwere Frage. Die Antwort können wir bei ihm nicht ablesen» (<bibl corresp="kbga-bibls-1662">S. 28f.</bibl>). <persName ref="kbga-actors-4">Althaus</persName> sieht doch hoffentlich, <hi rend="italic">wer</hi>
+            hier die Gewissen «verwirrt», wenn man das so nennen will! Auch er endigt übrigens an
+            entscheidender Stelle mit dem Satz, daß wir «nicht ohne Not des Gewissens durch das
+            alles hindurch» gehen können, und sagt sogar ausdrücklich: «Die innere Not ist ein
+            Beweis für den tiefsten Gehorsam gegen Jesus» (<bibl corresp="kbga-bibls-1662">S. 89f.</bibl>). Auch er wird sich darum sicher
+            keiner Täuschung darüber hingeben, daß die «Lösung» <persName ref="kbga-actors-261">Luthers</persName>, mit deren Darstellung das Buch schließt<note xml:id="n15">
+                            <bibl corresp="kbga-bibls-1662">Das 5.
+              (letzte) Kapitel (S. 74–99) ist überschrieben: «Der Gehorsam gegen Jesus und das Leben
+              in der Welt (im Anschluß an Luther
+              dargestellt)», darin der erste Abschnitt (S. 74–88)</bibl>: «<persName ref="kbga-actors-261">Luthers</persName> Lösung der Frage».</note>, gerade insofern gut und christlich
+            ist, als sie – keine Lösung bietet, daß, wo immer sie als Lösung verstanden worden ist,
+            der grobe Unfug die unmittelbare Folge war. Mag <persName ref="kbga-actors-4">Althaus</persName> sich mit den ihm von Haus aus Näherstehenden, etwa mit <persName ref="kbga-actors-184">E. Hirsch</persName> (<bibl corresp="kbga-bibls-1662">S. 90</bibl>)<note xml:id="n16">
+                            <persName ref="kbga-actors-4">Althaus</persName> erwähnt dort die «wertvollen, aus <persName ref="kbga-actors-261">Luthers</persName> Gedanken geschöpften Äußerungen [<persName ref="kbga-actors-184">Hirschs</persName>] zur Sache, denen ich viel verdanke (s.
+              zuletzt in <bibl corresp="kbga-bibls-168">
+                                ‹Deutschlands Schicksal [. Staat, Volk und Menschheit im Lichte einer
+              ethischen Geschichtsansicht]› [, Göttingen] 1920, bes. S. 76ff.</bibl>».</note>,
+            auseinandersetzen über die Frage, warum sein Buch nicht eindeutiger, nicht vernichtender
+            ausgefallen ist. Wir können uns nur freuen über die Tatsache, daß er sich auf einen
+            Boden gestellt hat, auf dem wir mit ihm verhandeln können und wollen.</p>
+          <p>
+                        <persName ref="kbga-actors-4">Althaus</persName> ist erstens mit uns einig in dem
+            allgemeinen Gedanken, daß es einen Willen Gottes nicht nur über die Haltung der Seelen,
+            sondern auch über die Zustände gibt und ihm gegenüber keine «Eigengesetzlich<pb xml:id="p043" ed="pga" break="no"/>keit» der Zustände in einem letzten metaphysischen
+            Sinne. Er weiß, daß die Verwirklichung dieses objektiven Willens Gottes die in sich
+            ruhende, nicht etwa bloß seelsorgerlich zu motivierende Verpflichtung und Aufgabe der
+            christlichen Gemeinde ist (<bibl corresp="kbga-bibls-1662">S. 43–46</bibl>). Er unternimmt es sogar (<bibl corresp="kbga-bibls-1662">S. 78f.</bibl>), diesen Gedanken
+            aus <persName ref="kbga-actors-261">Luther</persName> zu begründen, und bedauert das
+            Schweigen des Luthertums zu der Entwicklung des wirtschaftlichen und sozialen Lebens. Er
+            klagt die Kirche an, <pb n="463" ed="kbga-sources-2329"/> daß sie <persName ref="kbga-actors-396">Stöcker</persName> allein gelassen und damit wieder einmal eine
+            Schicksalsstunde verpaßt (<bibl corresp="kbga-bibls-1662">S. 52</bibl>), daß sie «seit langem die kritische Kraft der
+            Grundgedanken des Evangeliums gegenüber dem Wirtschaftsleben verkannt, verschwiegen,
+            erstickt» habe (<bibl corresp="kbga-bibls-1662">S. 50; vgl. S. 59f.</bibl>). Wenn wir hier etwas vermissen, so ist es eine
+            deutliche und kräftige Darlegung, inwiefern das Evangelium diese gesellschaftskritische
+            Kraft besitzt. Aus den Kapiteln über Jesus und <persName ref="kbga-actors-313">Paulus</persName><note xml:id="n17">
+                            <bibl corresp="kbga-bibls-1662">2. Kapitel «Paulus und Jesus» (S. 19–30).</bibl></note> geht das jedenfalls nicht hervor.
+              <persName ref="kbga-actors-4">Althaus</persName> meint doch nicht etwa das bißchen
+            humanitäre Liebeslehre, das man bei genügender Farbenblindheit den Synoptikern etwa
+            entnehmen kann? Aber wie kommt es wohl, daß er mit der <hi rend="italic">Eschatologie</hi>
+            des Neuen Testamentes gerade in diesem Zusammenhang so gar nichts anzufangen weiß<note xml:id="n18">
+            <bibl corresp="kbga-bibls-1662">
+                                Zur Eschatologie vgl. z. B. S. 20.24f.29f.</bibl></note> und daß es ihm
+            andrerseits gar keinen Eindruck gemacht zu haben scheint, daß die Sozialdemokratie der
+            «Gemeinde» heute so gründlich zuvorgekommen ist (längst bevor es einen <persName ref="kbga-actors-396">Stöcker</persName> gab!), daß für die letztere kaum mehr viel
+            übrig bleibt, als sich für diesmal zu – schämen? Aber es genügt uns zu sehen, daß
+              <persName ref="kbga-actors-4">Althaus</persName> von jener «kritischen Kraft» weiß,
+            sie jedenfalls nicht in Abrede stellt und vielleicht sogar auch <hi rend="italic">davon</hi>
+            etwas merkt, daß die Kirche sie heute vor allem auf sich selbst beziehen sollte.</p>
+          <p>
+                        <persName ref="kbga-actors-4">Althaus</persName> ist zweitens – innerhalb jener
+            allgemeinen Gedanken – mit uns einig in der Erkenntnis des relativen Rechtes einer,
+            sagen wir es vorsichtig, mehr in der Richtung des Sozialismus orientierten Lebensordnung
+            (<bibl corresp="kbga-bibls-1662">S. 50–52</bibl>). Er zitiert beifällig den Satz <persName ref="kbga-actors-406">Tillichs</persName>, daß das Christentum für gewisse (gemeint ist für die
+            sozialisierenden) Formen der Gesellschaftsordnung eine größere Affinität habe als für
+            andere (<bibl corresp="kbga-bibls-1662">S. 50</bibl>).<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-1662">
+                                <persName ref="kbga-actors-4">Althaus</persName> zitiert a. a. O.</bibl> aus <bibl corresp="kbga-bibls-1665">
+                                <persName ref="kbga-actors-406">P. Tillich</persName> / <persName ref="kbga-actors-4191">C. R. Wegener</persName>, <hi rend="italic">Der Sozialismus
+                    als Kirchenfrage. Leitsätze</hi>,
+                    Berlin 1919, S. 5</bibl>: «Zu allen
+              Zeiten und in all seinen Ausprägungen hat das Christentum in der <hi rend="italic">Liebesethik Jesu</hi> die grundlegende
+              Norm für das Gemeinschaftsleben gesehen; an ihr gemessen, hat das Christentum für
+              gewisse Formen der Gesellschaftsordnung eine größere <hi rend="italic">Affinität</hi> als
+              für andere.»</note>
+            <pb xml:id="p044" ed="pga"/> Er ruft uns Religiös-Sozialen zwar mit Recht in Erinnerung,
+            daß das naturrechtlich-calvinisch-westliche
+            Ideal der Demokratie und des Sozialismus nur ein Ideal neben andern sei (<bibl corresp="kbga-bibls-1662">S. 47–50</bibl>), daß
+            die Christenheit ihre Kritik ebenso gegen den ungebundenen Privatkapitalismus wie gegen
+            den starren Sozialismus kehre, daß es also «keine Formel für die rechte Wirtschaft» gebe
+            (<bibl corresp="kbga-bibls-1662">S. 54f.</bibl>), daß im Kampf der beiden heute sich gegenüberstehenden Ideale nur Sachkunde
+            und ein lebendiges Gewissen von Fall zu Fall entscheiden könnten (<bibl corresp="kbga-bibls-1662">S. 55–58</bibl>). Er moniert
+            hier unseren Dilettantismus, Absolutismus und Nomismus (<bibl corresp="kbga-bibls-1662">S. 58f.</bibl>). Aber er verschont uns
+            doch, und das sei ihm als Lutheraner hoch
+            angerechnet, wenigstens in diesem Zusammenhang mit dem übelsten aller Theologumene, der
+            Lehre von den Schöpfungsordnungen<note xml:id="n20">Zu «Schöpfungsordnungen» hatte
+                <persName ref="kbga-actors-4">Althaus</persName> sich bis <date when="1922">1922</date> nicht
+              geäußert; vgl. jedoch später etwa in <bibl corresp="kbga-bibls-1678">
+                                <hi rend="italic">Grundriß
+                    der Ethik</hi>, Erlangen 1931</bibl>
+              (= <bibl corresp="kbga-bibls-1679">Neuauflage von <hi rend="italic">Leitsätze zur Ethik</hi>,
+                    Erlangen
+                  1929</bibl>); <bibl corresp="kbga-bibls-1680">
+                                <hi rend="italic">Die Krisis der Ethik und das
+                    Evangelium</hi>, Berlin 1926.</bibl> –
+              Im zeitgenössischen Luthertum vgl. z. B.
+                <bibl corresp="kbga-bibls-1681">
+                                <persName ref="kbga-actors-65">Fr. Brunstäd</persName>, <hi rend="italic">Die Idee der Religion</hi>,
+                    Halle 1922, bes. S. 203f.248</bibl>; <bibl corresp="kbga-bibls-72">
+                                <persName ref="kbga-actors-184">E. Hirsch</persName>, <hi rend="italic">Deutschlands Schicksal</hi>, a. a. O.
+                    (Göttingen 1922<edition rend="sup">2</edition>), z. B. S. 76.</bibl> Zu <persName ref="kbga-actors-137">Fr. Gogarten</persName> vgl. unten <ref type="pub" target="../volume/19/p133#fn_n79">S. 133, Anm. 79.</ref></note>
+            oder gottgewollten Abhängigkeiten. Seine Sympathie gehört ja offensichtlich dem
+            «organisch-aristokratischen» Staatsideal, er sagt aber doch von ihm (leider in
+            Übereinstimmung mit der bekannten Anklage der Entente-Ideologen<note xml:id="n21">Der
+              auf den <rs type="term">Versailler Friedenskonferenzen</rs> ins
+              Leben gerufene Völkerbund verstand sich als Bund von Staaten, die innenpolitisch für
+              die Demokratie einstanden. <placeName ref="kbga-places-151">Deutschland</placeName> und <placeName ref="kbga-places-297">Rußland</placeName> wurde der Eintritt in den
+              Völkerbund verwehrt, weil sie keine Gewähr für demokratische Entwicklung in ihrem Land
+              boten. Im Blick auf die für <date when="1922">1922</date> in <placeName ref="kbga-places-23">Genua</placeName> geplante
+              allgemeine Wirtschaftskonferenz (zu der erstmals auch
+                <placeName ref="kbga-places-151">Deutschland</placeName> und <placeName ref="kbga-places-297">Rußland</placeName> eingeladen
+              werden sollten) verlangte etwa der französische
+              Ministerpräsident <persName ref="kbga-actors-1177">Poincaré</persName> in einer Note
+              vom <date when="1922-02-10">10.2.1922</date> von <placeName ref="kbga-places-151">Deutschland</placeName> die Garantie, daß es zu keiner
+              monarchistischen Restauration komme. Der Entwicklung der Demokratie in <placeName ref="kbga-places-151">Deutschland</placeName>
+              wurde von Seiten der Entente großes Mißtrauen entgegengebracht.</note>) nicht mehr,
+            als daß es «tief in der deutschen Geschichte und dem deutschen
+            ständischen Denken begründet» sei (<bibl corresp="kbga-bibls-1662">S. 49</bibl>), verzichtet aber darauf, und darauf kommt es
+            an, es etwa religiös zu begründen. Er ist vielmehr sichtlich geneigt zuzugeben, daß alle
+            Politik im besten Falle in dem auf Gegenseitig<pb n="464" ed="kbga-sources-2329"/>keit
+            beruhenden Dienst am Ganzen besteht und nicht christliche Liebe ist (<bibl corresp="kbga-bibls-1662">S. 40</bibl>), obwohl
+            diese Einsicht (<bibl corresp="kbga-bibls-1662">S. 65</bibl>) plötzlich wieder verdunkelt scheint und obwohl die
+            Religiös-Sozialen kurz vor Torschluß noch einmal rauh angefahren werden, weil sie nicht
+              <pb xml:id="p045" ed="pga"/> einsehen wollen, daß «nationale Politik» noch etwas
+            Anderes sein könnte als «nackter Egoismus» (<bibl corresp="kbga-bibls-1662">S. 93</bibl>). Das sind Inkonzinnitäten, über die der
+            Verfasser mit sich selbst ins Reine kommen muß und bei denen ich ihn nicht behaften
+            möchte. Zeigt er doch an anderer Stelle sogar dafür Verständnis, daß es sich in dem
+            bewußten Gegensatz der beiden «Ideale» doch streng genommen nicht nur um den Kampf des
+            einen Ideals gegen das andere, sondern um den Kampf der Ideale überhaupt gegen die
+            harten Notwendigkeiten des Daseins (<bibl corresp="kbga-bibls-1662">S. 55</bibl>), um das Ringen von Geist und Stoff, Leben und
+            Arbeit (<bibl corresp="kbga-bibls-1662">S. 59</bibl>) handelt. Er sieht sicher ein, daß er damit den relativen Vorsprung des
+              «calvinischen» Ideals zugegeben und daß er
+            sich den Tillichschen Satz von der «größeren
+            Affinität» mit Recht zu eigen gemacht hat. Er fordert darum, daß die «Christenheit»
+            diesen Kampf nicht mehr zur Ruhe kommen lassen dürfe (<bibl corresp="kbga-bibls-1662">S. 59</bibl>). Ja, er geht so weit, bei
+            der Besprechung des Lutherschen
+            Obrigkeitsbegriffes diesen dahin zu erweitern, daß auch die wirtschaftlich-politische
+            Befreiung eines gedrückten Standes, also das Tun eines Arbeiterführers, zu einem
+            «obrigkeitlichen» Amte wird, das an der christlichen Aufgabe Anteil haben kann (<bibl corresp="kbga-bibls-1662">S. 91f.</bibl>). <persName ref="kbga-actors-4">Althaus</persName> brauchte bloß denselben Gedanken
+            auch auf den Pazifismus (<bibl corresp="kbga-bibls-1662">S. 61–71</bibl>) anzuwenden, um uns noch näher zu kommen. Daß er auch
+            hier die relative Möglichkeit der Auflehnung gegen die bestehende Ordnung ebenso
+            deutlich einsieht wie die ihrer Anerkennung, daß er auch hier sogar aufmerksam wird auf
+            das relativ größere Recht der Auflehnung, daß er auch hier auf die üble romantische
+            Rechtfertigung des Gegebenen verzichtet, ist sicher für ihn nur eine Frage der Zeit und
+            der weiteren Überlegung.</p>
+          <p>
+                        <persName ref="kbga-actors-4">Althaus</persName> ist drittens mit uns einig in der
+            Auffassung, daß die Stellung des Christen in der Gesellschaft grundsätzlich nur eine
+            gebrochene sein kann. Was ihn an uns ärgert, das ist die primitive und naive Art, in der
+            wir gelegentlich bei Beantwortung der schweren Frage nach der praktischen Anwendung des
+            Christentums einfach, direkt und ungebrochen auf Demokratie, Sozialismus, Kommunismus,
+            Anarchismus hingewiesen haben oder noch hinweisen (<bibl corresp="kbga-bibls-1662">S. 47</bibl>). Er wird mir, wenn ich ihm
+            konzediere, daß das natürlich so nicht geht, vielleicht seinerseits konzedieren, daß man
+            gebrochener-, indirekterweise, zu Belehrungszwecken ebensowohl einmal ein paar Jahre
+            lang auf diese Möglichkeiten hinweisen kann, wie die modernen Lutheraner nun seit mehr als einem Menschenalter zum
+            Beispiel auf den alten preußischen Staat hingewiesen ha<pb xml:id="p046" ed="pga" break="no"/>ben.<note xml:id="n22">Vgl. <bibl corresp="kbga-bibls-11">
+                                <persName ref="kbga-actors-410">E. Troeltsch</persName>, <title level="a">Die Soziallehren
+                    der christlichen Kirchen und Gruppen</title> (<hi rend="italic">Gesammelte
+                    Schriften</hi>, Bd. I), Tübingen
+                  1912, S. 602–605.</bibl></note> Er sieht ja gewiß nicht nur den Splitter in seines Bruders Auge [vgl. <ref type="can" subtype="bible" target="Mt.7.3">Mt. 7,3</ref>]! Nein, er weiß ja, daß auch
+            seine eigene, das heißt die Luthersche
+            Lösung, die paradoxe Lehre von den zwei Reichen, mindestens den Verdacht auf sich hat,
+            «ein Kompromiß, eine Erleichterung der Unbedingtheit Jesu oder gar eine sophistische
+            Lösung» <pb n="465" ed="kbga-sources-2329"/> zu sein (<bibl corresp="kbga-bibls-1662">S. 88</bibl>). Zwischen der Skylla und
+            Charybdis, zwischen der alten und neuen Säkularisierung des Christentums sucht er
+            offenbar seinen Weg mitten hindurch zu gehen. Wir freuen uns darüber, daß er die
+            Unmöglichkeit beider einsieht und daß er doch die Illusion einer allfälligen dritten
+            Möglichkeit nicht aufrecht zu erhalten vermag. Wir freuen uns, daß besonders das
+              Luther-Kapitel<note xml:id="n23">Siehe <ref type="pub" target="#fn_n15">Anm. 15</ref>.</note>, mit dem er der durch uns angestifteten «Verwirrung der Geister» offenbar
+            in außerordentlicher Weise zu steuern gedachte (<bibl corresp="kbga-bibls-1662">S. 74</bibl>), nichts, aber auch gar nichts
+            Anderes leistet als das Eine, klar zu machen, daß die Verwirklichung des Willens Gottes
+            in der Welt auf der ganzen Linie (auch die «Herzen», auch die «Gewissen»<note xml:id="n24">Vgl. etwa<bibl corresp="kbga-bibls-1662"> S. 38</bibl>: «Das Reich Gottes ist die Herrschaft des Evangeliums in
+              den Herzen.» – S. 43: «Wir haben erkannt, daß die geschichtliche Lebensordnung der
+              Menschheit etwas anderes ist als Gottes Reich, d. h. seine Herrschaft in freier
+              Hingabe und Gemeinschaft des Gewissens.» Ferner: S. 55f.59.66.70. u.ö.</note> der
+            Christen sind in der Welt!) Aufgabe und Hoffnung, aber auch Frage und Verlegenheit des
+            Christen ist, daß es hier keinen Weg gibt, sondern nur Schritte, kein Vollbringen,
+            sondern nur ein Wollen [vgl. <ref type="can" subtype="bible" target="Röm.7.18">Röm. 7,18</ref>], keine in irgendeinem Sinn triumphierende «Christenheit», sondern – hier
+            möchte <hi rend="italic">ich</hi> dem Propheten mit einem «nüchternen Einwand»<note xml:id="n25">Vgl. <ref type="pub" target="#fn_n13">Anm. 13</ref>.</note> ins Wort fallen – im besten Falle eine tastende,
+            ringende, glaubende Heidenschaft in der ganzen Bedrängnis und unter der ganzen
+            Verheißung, die von Gott in Christus über sie gekommen ist. Das sind meine
+            Formulierungen, die <persName ref="kbga-actors-4">Althaus</persName> vermutlich ablehnen
+            wird; ich sage ihm damit vielleicht umso deutlicher, was das Fazit ist, das ich aus
+            seinen Darlegungen ziehe. Hinter der Lutherschen Lehre von den zwei Reichen steht doch beherrschend die Lehre
+            von der Rechtfertigung allein durch den Glauben: Das moralisch-religiös Rechthaberische
+            war es, was <persName ref="kbga-actors-261">Luther</persName> an den Täufern usf. gehaßt
+            und bekämpft hat. Sie eignet sich daher zu allerletzt zur Aufrichtung einer neuen
+            «christlichen» Rechthaberei <pb xml:id="p047" ed="pga"/> konservativer Prägung. Der
+            Mensch ist im Unrecht – über diese Feststellung der «Dogmatik» darf uns keine
+            Aufstellung der «Ethik» hinwegtäuschen wollen. Ich übersehe nun nicht, daß <persName ref="kbga-actors-4">Althaus</persName> mit starken Worten behauptet, <persName ref="kbga-actors-261">Luthers</persName> «Lösung» bedeute die praktische Überwindung
+            des Dualismus von Welt und Reich Gottes (<bibl corresp="kbga-bibls-1662">S. 77–87</bibl>) und es gäbe eine einheitliche
+            sittliche (also doch wohl in sich selbst gerechtfertigte) Haltung des Christen. Aber das
+            wird faktisch wie von uns allen und wie von <persName ref="kbga-actors-261">Luther</persName> selbst, so auch von <persName ref="kbga-actors-4">Althaus</persName> nur behauptet, nicht gezeigt, geschweige denn eine Methode, wie
+            man zu diesem Rechthaben etwa gelangen könnte. «Diese Einheit ist doch nur so wirklich,
+            daß sie die starke Spannung zwischen Gesinnung und Werk einschließt» (<bibl corresp="kbga-bibls-1662">S. 84</bibl><note xml:id="n26">Im Erstdruck irrtümlich: S. 87; Korrektur vom Hrsg.</note>), das heißt
+            aber, sie ist, gerade sofern sie wirklich ist, keine Einheit; sie ist nicht gegeben in
+            irgendeiner «Haltung», auch nicht des sogenannten «Christen»; sie beruht in Christus, in
+            der Vergebung der Sünden, sie ist die Einheit des neuen Menschen. Wäre unser
+            «Berufshandeln» als solches einfach «Liebeshandeln», wäre es keine «gefährliche und
+            versuchliche Sache», bedeutete es nicht mehr die «mächtige Spannung», die unserem
+            Gewissen Not bereitet (<bibl corresp="kbga-bibls-1662">S. 89f.</bibl>), dann wären wir Gott los, die Bedrängnis sowohl wie die
+            Verheißung, die von ihm kommt. Daß unser Amt, unser Berufshandeln Dienst, <pb n="466" ed="kbga-sources-2329"/> Liebeswerk ist (<bibl corresp="kbga-bibls-1662">S. 85</bibl>), das ist (ob es nun Kriegsamt oder
+            Pfarramt heiße!) nie direkt, nie anders wahr als auf dem Umweg über ein Trotzdem! von
+            unerhörter Paradoxie – das werden wir nie anders als mit grimmigem Humor zu behaupten
+            wagen, wobei es uns wenig tröstet, daß diese Paradoxie auch dem Handeln Gottes selber
+            eigen ist, der brennend vor Liebe Gewalt übt (<bibl corresp="kbga-bibls-1662">S. 85</bibl>). Sofern <persName ref="kbga-actors-4">Althaus</persName> uns aus dieser Paradoxie tatsächlich nicht
+            herausgeführt hat, keinen Schritt rückwärts zu den Fleischtöpfen des Landes
+              <placeName ref="kbga-places-379">Ägypten</placeName> [vgl. <ref type="can" subtype="bible" target="Ex.16.3">Ex. 16,3</ref>], und keinen vorwärts zu jenem in sich sicheren und gerechtfertigten
+            Handeln des Christen in der Gesellschaft, von dem das religiöse Publikum zur Rechten und
+            zur Linken zu hören begehrt, sind jedenfalls <hi rend="italic">wir</hi> mit <hi rend="italic">ihm</hi> einig. Er ist wirklich nicht der Mann (denn er weiß wirklich selber schon zu
+            viel), um, mit <persName ref="kbga-actors-261">Luther</persName> bewaffnet,
+            seelsorgerlich zwischen uns und die verwirrten Geister zu treten. Wenn er das zugibt,
+            wird er sicher bald auch noch von der letzten Kanzeltreppenstufe, von der aus er uns
+            jetzt noch zuredet, heruntersteigen und sich in «getroster <pb xml:id="p048" ed="pga"/>
+              Verzweiflung»<note xml:id="n27">Vgl. <bibl corresp="kbga-bibls-19">
+              <persName ref="kbga-actors-261">M. Luther</persName>, WA. B 1,35,33ff.</bibl>; <bibl corresp="kbga-bibls-1975">
+                                WA 39/I,430,7ff.</bibl></note> neben uns auf das Bänklein der armen Sünder setzen, wo zwischen der Lutherschen und religiös-sozialen Auffassung von
+            «Weltgestaltung» und «Weltenthaltung»<note xml:id="n28">
+                            <persName ref="kbga-actors-4">Althaus</persName> leitet sein Schlußkapitel ein mit der Frage nach dem Verhältnis
+              von «Weltgestaltung» und «Weltenthaltung», dem «Grundproblem der Christenheit von
+              Anfang an» (<bibl corresp="kbga-bibls-1662">S. 74</bibl>).</note> kein erheblicher Unterschied mehr besteht.</p>
+          <p>Was <persName ref="kbga-actors-4">Althaus</persName> eigentlich von uns trennt, was ihn
+            vermutlich hindert, die hier gegebene Deutung seiner Darlegungen als legitim zu
+            anerkennen, die Kanzeltreppe zu verlassen und sich zu uns zu stellen, sind nicht die
+            spezifisch «religiös-sozialen» Probleme. Ich vermute, daß ich mich darüber, Elastizität
+            auf seiner Seite vorausgesetzt, rasch mit ihm verständigen würde. Wir sind aber nicht
+            unzweideutig einig in dem, was wir «Gott» heißen. Darum verteilen wir bei gleicher
+            Einsicht in die gleichen Materialien die Akzente so verschieden. Darum lesen wir
+              <persName ref="kbga-actors-261">Luther</persName> und auch wohl die Bibel mit so ganz
+            anderen Augen. Darum nehmen wir vermutlich auch praktisch so ganz anders Stellung zu den
+            Fragen der Gegenwart. Relativ und darum hoffnungsvoll ist selbstverständlich auch dieser
+            Gegensatz. Absolut ist ja die Kluft, die uns Menschen von Gott, relativ sind die Klüfte,
+            die uns Menschen von einander trennen, auch wenn es um Gottes willen so sein muß.
+            Immerhin, es gibt da große, grundlegende, schwer zu behebende Gegensätze, und sie müssen
+            offen ausgesprochen sein. Was meint eigentlich <persName ref="kbga-actors-4">Althaus</persName>, wenn er von Gott und seinem Willen redet? Ich tue ihm wohl nicht
+            Unrecht, wenn ich mir zur Beantwortung dieser Frage den Weg bahne durch die andere
+            Frage: Bei welchen Anlässen wird er interessiert, eifrig, beredt, so daß der Leser
+            merken muß: Das, das ist’s, was der Mann uns eigentlich sagen will? Ich finde im
+            vorliegenden Buch zwei solche Anlässe des Eifers: Erstens da, wo der Verfasser auf die
+            elementaren Bedingtheiten unsres Lebens, zweitens da, wo er auf das, was er «Haltung und
+            Verbundenheit der Herzen» (S. 76), «Gemeinde» oder «Christenheit» nennt, zu reden kommt.
+            An diesen beiden Punkten sieht er sich offenbar irgendwie letzten Wirklichkeiten
+            gegenüber in dem Sinn, daß die <pb n="467" ed="kbga-sources-2329"/> Möglichkeiten und
+            Notwendigkeiten, die ihm an diesen beiden Punkten begegnen, für ihn irgendwie direkt und
+            unmittelbar zusammenfallen mit der Möglichkeit und Notwendigkeit des Willens Gottes
+            selbst. Weil er an diesen bei<pb xml:id="p049" ed="pga" break="no"/>den Punkten nun doch
+            (wenn auch unter leisen Zweifeln!) zu wissen meint (was er so wenig wissen kann wie
+            wir!), darum hat er sein Buch gegen uns geschrieben: Was könnte er gegen uns haben, wenn
+            er nicht dieses Wissen von Gott zu haben meinte? Und weil er an diesen Punkten nun doch
+            menschliche Antworten aufrichtet (statt sich daran begnügen zu lassen, daß hier die
+            menschliche Frage nach Gott unvermeidlich wird!), darum ist sein Buch so unausgeglichen
+            und widerspruchsvoll ausgefallen; denn die Quelle aller Willkürlichkeiten und
+            Widersprüche des Denkens sind die Punkte, wo man es nicht mehr wagt, weiter zu fragen.
+              <persName ref="kbga-actors-4">Althaus</persName> sieht sehr viel mehr von der
+            Dialektik, die sich gerade an jenen zwei Punkten erhebt, als mancher Andre; schade, daß
+            er nicht gleich noch ein wenig mehr davon gesehen hat!</p>
+          <p>Wir beginnen mit dem ersten. <persName ref="kbga-actors-4">Althaus</persName> stellt
+            sich S. 34 die ernste Frage, ob die Liebe als einzige Weltverfassung denkbar sei. Ja,
+            würde ich auf diese Frage antworten: die in der Bergpredigt «gedachte»<note xml:id="n29">Die «‹gedachte› Liebe Gottes» ist vielleicht eine Anspielung auf die «doppelte
+              Möglichkeit», die <persName ref="kbga-actors-4">Althaus</persName> (<bibl corresp="kbga-bibls-1662">S. 33</bibl>) bei der
+              «Gestaltung der Welt zum Reiche Gottes» im Sinne des radikalen Flügels der
+              Religiös-Sozialen sieht: «Entweder man denkt ganz durch, was im Sinne Jesu Reich
+              Gottes und Liebe heißt; dann bringt man es aber nicht zu einer Weltordnung. Oder man
+              erwartet eine neue Organisation der Welt; dann ist aber vom Reiche Gottes in Jesu
+              Sinne keine Rede mehr.»</note> Liebe Gottes ist entweder eine Illusion oder aber die
+            einzige «Weltverfassung». Die Liebe Gottes ist freilich die Krisis alles dessen, was wir
+            Liebe zu Gott und den Menschen nennen; Teilnehmen an dieser Liebe ist der Weg vom Leben
+            durch den <hi rend="italic">Tod</hi> zum Leben. Des zur Erinnerung stehen wir unter dem
+            harten, aber bedeutungsvollen Gesetz eines Weltzustandes, der ganz und gar und auf der
+            ganzen Linie nicht Liebe ist. Glauben aber heißt, die Liebe Gottes als die einzig
+            denkbare Weltverfassung bejahen, trotzdem der uns allein bekannte Weltzustand uns in
+            ausgesprochenster Weise als Nicht-Liebe gegenübersteht. Anders <persName ref="kbga-actors-4">Althaus</persName>. Er scheint es gar nicht zu merken, daß es sich
+            bei jenen durch die Bergpredigt gestellten Fragen um Gott und um das Entweder-Oder des
+            Glaubens handelt und daß schon der gute Geschmack (um von Mehrerem nicht zu reden) ihn
+            daran hindern müßte, hier mit einem Sowohl-Als auch! zu antworten. Er sagt vielmehr ganz
+            getrost: «Die Antwort kann nur eine verneinende sein», also: Es ist nicht denkbar, daß
+            die Liebe die <pb xml:id="p050" ed="pga"/> einzige Weltverfassung ist, es gibt auch noch
+            eine andere. Er redet, wo er gegenüber dem religiös-sozialen Optimismus bei einigem
+            Sensorium für das Entscheidende von der Rätselhaftigkeit des uns bekannten
+            Weltzustandes, von der Verborgenheit der Schöpfung Gottes, von der Finsternis, in die
+            sich der Glaube an die Liebe Gottes begeben muß, hätte reden müssen, von – nun eben von
+            der «ganz elementaren Notwendigkeit des Rechtes und Staates». Er erinnert sich zwar, daß
+              <persName ref="kbga-actors-261">Luther</persName> hier von der Herrschaft der <hi rend="italic">Sünde</hi>, also von der <hi rend="italic">Problematik</hi> dieses Elementaren vor
+            allem zu reden pflegte. Aber er eilt rasch daran vorbei. Er weiß besseren Rat:
+            «Jedermann weiß…» – ja eben jedermann!, schon daraus folgt zwingend, daß hier nicht von
+            Gott die Rede sein wird – also jedermann weiß, daß… «die Naturgesetzlich<pb n="468" ed="kbga-sources-2329"/>keit und die Gesetzlichkeit der Beziehungen unter den
+            Menschen die beiden Grundvoraussetzungen alles persönlichen ebenso wie alles
+            gemeinschaftlichen Lebens» sind (<bibl corresp="kbga-bibls-1662">S. 35</bibl>).<note xml:id="n30">Mit «‹Jedermann weiß…›, daß… ‹die Naturgesetzlichkeit…›» verbindet <persName ref="kbga-actors-2151">Barth</persName> zwei bei <persName ref="kbga-actors-4">Althaus</persName> voneinander unabhängige Sätze: «Jedermann weiß, daß die
+              Berechenbarkeit der Naturordnung eine Bedingung unseres Lebens ist… Nicht minder ist
+              höheres Leben in der menschlichen Gesellschaft an eine zweite Bedingung gebunden: an
+              die Regelung der menschlichen Beziehungen durch feste, verbindliche Ordnungen… So sind
+              die Naturgesetzlichkeit und die ‹Gesetzlichkeit› der Beziehungen…».</note> Welches
+            Lebens?, fragen wir neugierig. Des «höheren», «geschichtlichen», «sittlichen» Lebens,
+            werden wir beiläufig und etwas unsicher belehrt (<bibl corresp="kbga-bibls-1662">S. 35, 37</bibl>). Aber wenn es sich nun in
+            der Liebesbotschaft der Bergpredigt etwa um das <hi rend="italic">ewige</hi> Leben handelte,
+            was doch auch wohl <persName ref="kbga-actors-261">Luthers</persName> Meinung war? Was
+            soll dann der «nüchterne»<note xml:id="n31">
+                            <persName ref="kbga-actors-4">Althaus</persName> (<bibl corresp="kbga-bibls-1662">S. 37</bibl>) resümiert den betreffenden Abschnitt: «Das sind sehr
+              nüchterne, aber unwiderlegliche Gedanken.»</note>, aber wirklich allzu leichte Beweis
+            (S. 35f.), daß es mit Kommunismus und Anarchismus praktisch nicht geht, daß ein bißchen
+            Ordnung hienieden ratsamer ist als das freie Walten der Liebe? Was der allzu
+            einleuchtende Hinweis auf den Wert von Macht und Staat «für die Entfaltung persönlicher
+            Sittlichkeit, für alles erzieherische Wirken im Reiche Gottes» (<bibl corresp="kbga-bibls-1662">S. 37</bibl>)? Was die allzu
+            kompromittierende Erinnerung an das – Kirchenrecht (<bibl corresp="kbga-bibls-1662">S. 38</bibl><note xml:id="n32">Im Erstdruck
+              irrtümlich: S. 39; Korrektur vom Hrsg.</note>)? Woher weiß denn <persName ref="kbga-actors-4">Althaus</persName>, daß es «im Reiche Gottes» eine Erziehung gibt?
+            Wo steht denn geschrieben, daß die Liebe, von der in der Bergpredigt die Rede ist, eines
+            Bodens bedarf, der erst durch das Recht <pb xml:id="p051" ed="pga"/> gesichert,
+            geregelt, ja geschaffen werden muß (<bibl corresp="kbga-bibls-1662">S. 37</bibl>)? Durch diesen Appell, den Appell an die
+            ewigen ehernen Weltnotwendigkeiten und ihre Heilsbedeutung hat sich noch nie auch nur
+            ein einziger echter Schwärmer<note xml:id="n33">
+                            <persName ref="kbga-actors-2151">Barth</persName> nimmt hier wohl Bezug auf <bibl corresp="kbga-bibls-1662">S. 38</bibl>:
+              «Darin bestand die Paradoxie und Unwahrheit bei den weltflüchtigen Sekten der
+              Kirchengeschichte: sie verneinten Rechtsordnung und Staat – und lebten doch davon, daß
+              es Recht und Staat gab.»</note> belehren lassen, und zwar darum nicht, weil er, wenn
+            man ihm <hi rend="italic">damit</hi> kommt, das Evangelium gegen seinen lutherischen Belehrer auf seiner Seite hat, das
+            Evangelium, das von Gott und vom Glauben redet, und nicht von dem, was «jedermann weiß»,
+            von letzten und nicht von vorletzten Dingen. Ohne das von <persName ref="kbga-actors-4">Althaus</persName> so streng gerügte «Verkennen der menschlichen Natur und der
+            einfachsten Notwendigkeiten des geschichtlichen Lebens» (<bibl corresp="kbga-bibls-1662">S. 37</bibl>) geht es nun einmal, wo
+            es zu einem Hören der Botschaft von Christus kommt, <hi rend="italic">nicht</hi> ab. Sofern
+            wir die hören, hören wir notorisch einiges Andre nicht, und sofern wir immer noch
+            einiges Andre hören, hören wir das Evangelium nicht.</p>
+          <p>Ein zweites Mal und ausführlicher begegnet uns derselbe Gedankengang <bibl corresp="kbga-bibls-1662">S. 62–73</bibl>, – für
+            mich die <hi rend="italic">ganz schlimme</hi> Partie des Buches. Es handelt sich um den
+            Pazifismus. Welches ist der konkrete Inhalt für die Normen der weltpolitischen
+            Gerechtigkeit?, fragt <persName ref="kbga-actors-4">Althaus</persName>. Ich würde wieder
+            antworten: Ihr höchst konkreter Inhalt ist die Gerechtigkeit Gottes, so konkret, daß
+            keine von allen politischen Gerechtigkeiten auch nur im Geringsten mit ihr identisch
+            sein könnte. Sie ist die Waage, auf der die Völker gewogen sind in ihren gewissenhaften
+            wie in ihren gewissenlosen Entscheidungen, in ihren friedlichen wie in ihren
+            kriegerischen Schicksalen, die drängende, lastende, höchst beunruhigende, höchst
+            aktuelle Frage in aller Politik, das tödliche Gift für alle, die pazifistischen sowohl
+            wie für die nationalistischen Ideologien, mit denen der Mensch sich der Wahrheit
+            entziehen will. Anders <persName ref="kbga-actors-4">Althaus</persName>. Ihm scheint
+            tatsächlich die «lebendige Bewegung» der Geschichte, die wir kennen, zusammenzufallen
+            mit dem Sich-Ereignen des Willens Gottes und darum das Sich-Hineindenken in die <pb n="469" ed="kbga-sources-2329"/> «organischen Gesetze» der Geschichte (daß ihn der
+            Naturalismus dieser Formeln nicht selbst stutzig macht??) als gleichbedeutend mit einer
+            wenigstens stückweisen Erkenntnis des Willens Gottes (<bibl corresp="kbga-bibls-1662">S. 62</bibl>). Wenn im Völkerleben die
+            Macht emporsteigt (zum Beispiel England?!) «als die Tüchtigkeit
+            zu geschichtlichem Leben und geschichtlicher Herrschaft» (<bibl corresp="kbga-bibls-1662">S. 63</bibl>), dann sieht er da <pb xml:id="p052" ed="pga"/> im Ernste Recht sich erheben. Nun wird der «ernstlich
+            geprüfte geschichtliche Beruf eines Volkes» (<bibl corresp="kbga-bibls-1662">S. 66</bibl>) auf einmal zu einer wahrhaft
+            mystischen Größe, irgendwie himmelhoch erhaben über die profanen Möglichkeiten, die da
+            heißen «zufällige Parlamentsmehrheit» oder «internationaler Gerichtshof». Eine «Frage
+            von transzendenter Tiefe» (<bibl corresp="kbga-bibls-1662">S. 65</bibl>) soll der Beruf eines Volkes sein, weil hier das
+            «Irrationale», die «schöpferische Tat» zu Hause sind (<bibl corresp="kbga-bibls-1662">S. 66</bibl>), und Politik nun auf einmal
+            doch «in der Tiefe eine religiöse Sache» (<bibl corresp="kbga-bibls-1662">S. 65</bibl>; als es S. 40 galt, die
+            Religiös-Sozialen zu widerlegen, las man’s anders<note xml:id="n34">«Die Liebe dient
+              frei und umsonst. Selbst pazifistische Politik und der Völkerbund bestehen in einem
+              rechtlichen Ausgleich der Interessen. Darum ist Politik nicht christliche Liebe und
+              das pazifistische Weltfriedensreich nicht das Reich Gottes» (S. 40). – Zum Ausdruck
+              vgl. <bibl corresp="kbga-bibls-2780">
+                                <persName ref="kbga-actors-764">Fr. von Schiller</persName>,
+                    <hi rend="italic">Wallenstein. Die Piccolomini</hi>, V. 2245 (<edition rend="normal">4.
+                    Auflage</edition>, 7. Auftritt)</bibl>: «… vor Tische las man’s
+              anders.»</note>). Nun wird Alles möglich. Nun soll Krieg durchaus nicht mehr Mord
+            heißen, sondern ein «mächtiges Sichmessen der Völker um die Führerschaft und Zukunft»
+            (<bibl corresp="kbga-bibls-1662">S. 67</bibl>). Nun sollen wir unbesehen «die Konkurrenzverhältnisse durchleben und den Tod
+            sterben», den Krieg als Schicksal kein ethisches Problem mehr nennen, sondern seine
+            Aufhebung der «Eschatologie des Glaubens» überlassen (<bibl corresp="kbga-bibls-1662">S. 69</bibl>). Nun wird dem christlichen
+            Gewissen nur das Zweifache zugestanden: Die Entscheidung über nötige und unnötige Kriege
+            und die Vermeidung des persönlichen Hasses im Kriege (S. 94–96) – als ob dieses
+            unsäglich Dürftige und Fragwürdige dem Niveau der Bergpredigt nun etwa besser entspräche
+            als die Velleitäten der Pazifisten! Woher nimmt denn <persName ref="kbga-actors-4">Althaus</persName> das Recht, uns das Irrationale als geweihtes Heiligtum
+            anzupreisen? Woher weiß er denn das von der «transzendenten Tiefe»? Wieso soll denn der
+            Begriff «Preußen» oder «Bayern»<note xml:id="n35">
+                            Preußen und Bayern sind von
+              <persName ref="kbga-actors-2151">Barth</persName> gewählte Konkretisierungen für den von <persName ref="kbga-actors-4">Althaus</persName> postulierten «geschichtlichen Beruf eines Volkes» (<bibl corresp="kbga-bibls-1662">S. 60</bibl>).</note> höhere Dignität besitzen als der Begriff «Völkerbund»? Mit welchem Fug und
+            Grund wagt er es eigentlich, die Lehre <persName ref="kbga-actors-261">Luthers</persName> von der sündigen Bedingtheit gerade der elementaren Grundlagen der
+            Gesellschaft ohne den leisesten Versuch einer Widerlegung abzulehnen (<bibl corresp="kbga-bibls-1662">S. 71</bibl>)? Wie kommt
+            es, daß er in seiner Begeisterung für Volk, Staat, Krieg usf. ganz vergißt, den Gedanken
+            der <hi rend="italic">Erbsünde</hi> zu denken und das Problem der Ethik von da aus
+            aufzurollen? Aber halt! «Eine tiefe Ahnung sagt uns, daß diese Verfassung der Geschichte
+            im Zusammenhang <pb xml:id="p053" ed="pga"/> steht mit der Lösung der Menschheit von
+            Gott durch die Sünde, ebenso wie der leibliche Tod» (<bibl corresp="kbga-bibls-1662">S. 69, [vgl.] S. 95</bibl>). Gewiß, eine
+            sehr tiefe Ahnung! Aber warum bloß eine Ahnung? Warum wird mit ihr nicht Ernst gemacht?
+            Wie kommt <persName ref="kbga-actors-4">Althaus</persName> dazu, ihren Inhalt zu
+            identifizieren mit «dem Irrationalen des Lebens selber», mit «schicksalhafter Setzung
+            oder (!) Prädestination» (<bibl corresp="kbga-bibls-1662">S. 71</bibl>), als Gegebenheit zu behandeln, was doch nicht mehr und
+            nicht weniger als ein Problem, im Neuen Testament aber merkwürdigerweise das
+            grundsätzlich überwundene Problem ist? Wieso soll es dem Glauben an Gott und den
+            lebendigen Christus nicht wesentlich sein, die unaufheb<pb n="470" ed="kbga-sources-2329"/>liche Schranke aller sittlichen Weltgestaltung: das Leben als
+            Natur, Schicksal und Kampf zu vergessen, – jawohl, gerade als solche unaufhebbare
+            Schranke zu vergessen, das heißt, es als das Vergängliche dem Unvergänglichen
+            gegenüberzustellen, ganz und gar ungleichartig jenem, unverhältnismäßig geringer als
+            jenes an Bedeutung und Würde? Wieso denn soll es frommer sein, «uns vor dem Gott zu
+            beugen, der uns in diese Welt und unter solche Lebensgesetze gestellt hat» (<bibl corresp="kbga-bibls-1662">S. 72</bibl>)? Wer
+            ist denn dieser Gott? Ist er denn Gott? Er ist «das Leben selbst» (<bibl corresp="kbga-bibls-1662">S. 71</bibl>) – das Leben,
+            das selber noch unter dem Gesetz des Todes steht. Wenn der Glaube an Gott und Christus
+            Auferstehungsglaube ist, so dächte ich, es sei ihm wesentlich, gegenüber <hi rend="italic">diesem</hi> Gott resoluter, unromantischer, respektloser Unglaube zu sein. Und
+            wiederum: der dürftigste aufklärerische Pazifist hat mit seinem Protest gegen den Krieg
+            als die Manifestation des schlechthin Nicht-Sein-Sollenden das Neue Testament auf seiner
+            Seite.</p>
+          <p>Der zweite Punkt, an dem <persName ref="kbga-actors-4">Althaus</persName> lebhaft wird,
+            ist die «Christenheit», die «Gemeinde», das Reich Gottes als «Herrschaft des Evangeliums
+            in den Herzen» (<bibl corresp="kbga-bibls-1662">S. 38</bibl>). Mit Recht stellt er die «Christenheit» allen Reichen und
+            Organisationen als etwas spezifisch Andres gegenüber. Mit Recht erwartet er Großes von
+            ihr, mutet er ihr Erhebliches zu in Bezug auf Sozialpolitik, etwas weniger offenbar in
+            Bezug auf Weltpolitik. Aber eben: Großes, Erhebliches – – die gewisse Vorsicht, das bloße
+            Sowohl-Als auch! macht uns auch hier wieder stutzig! Steht es denn wirklich so, «daß der
+            Christ wohl allezeit im Reiche Gottes lebt und handelt, aber nicht sein gesamtes Handeln
+            als ein solches am Reiche Gottes verstehen kann» (<bibl corresp="kbga-bibls-1662">S. 90</bibl>)? «Nicht sein gesamtes»? Also
+            doch einen Teil davon?, möchte ich, indem ich mich nun gegen <persName ref="kbga-actors-4">Althaus</persName>’ <hi rend="italic">Position</hi> wende, fragen. Wer
+            lehrt uns denn auch nur einen Teil unseres Handelns als <pb xml:id="p054" ed="pga"/>
+            Handeln am Reiche Gottes verstehen? Gibt es denn etwa eine «Christenheit»? Meint
+              <persName ref="kbga-actors-4">Althaus</persName> diese Größe etwa zu kennen? «Auch ein
+            Weltfriedensreich bleibt Welt», sagt er einmal gegen die Pazifisten (<bibl corresp="kbga-bibls-1662">S. 39</bibl>). Ja, aber
+            nicht wahr, auch ein etwa durch Mission oder Evangelisation zu errichtendes
+            Weltfriedensreich der Herzen? Oder sollte die Skepsis, die er einem politischen
+            Weltfriedensreich entgegenbringt, sich in Gläubigkeit verwandeln, wenn es sich um – die
+            Kirche handelt? Auch von diesem Reich und seiner Aufrichtung (also von der Mission zum
+            Beispiel) wäre doch zu sagen, was gegen <persName ref="kbga-actors-553">Friedrich
+              Wilhelm Foerster</persName> eingewendet wird: «Wie kann man derartiges nur mit Jesu
+            Wort von der Lebenshingabe in einem Atem nennen!» (<bibl corresp="kbga-bibls-1662">S. 41</bibl>)?<note xml:id="n36">
+                            <persName ref="kbga-actors-4">Althaus</persName> hatte sich gegen <bibl corresp="kbga-bibls-1682">
+                                <persName ref="kbga-actors-553">Fr. W. Foerster</persName>, <hi rend="italic">Weltpolitik und Weltgewissen</hi>,
+                    München 1919</bibl> gewandt, der «eine
+              ‹christliche Politik› im Sinne des Wortes ‹Wer sein Leben verliert, der wird es
+              finden›, eine Politik der Verständigung und des Opfers empfohlen» hatte (<bibl corresp="kbga-bibls-1662">S. 40</bibl>).</note> Das «ganz persönliche Etwas»<note xml:id="n37">Bei <persName ref="kbga-actors-4">Althaus</persName> (<bibl corresp="kbga-bibls-1662">S. 28</bibl>) heißt es allerdings: «Der
+              ‹Sozialismus Jesu› besteht also nicht in der Empfehlung irgendeiner Ordnung oder
+              Verfassung, sondern in etwas ganz Persönlichem.» Für die sinnentstellende Umordnung
+              der letzten drei Worte entschuldigte <persName ref="kbga-actors-2151">Barth</persName> sich in seinem <ref type="kba-objects-id" target="11636">Brief vom
+                <date when="1922-04-19">19.4.1922</date></ref> bei <persName ref="kbga-actors-4">Althaus</persName> und
+              erklärte, «daß ich dabei nicht… eine boshafte Absicht hatte, sondern ohne zu merken,
+              was ich tat, Ihre Worte so umstellte, daß sie in meinen <hi rend="italic">Satz</hi>
+              paßten.»</note> (<bibl corresp="kbga-bibls-1662">S. 28</bibl>), in dem nach <persName ref="kbga-actors-4">Althaus</persName>
+            der Sozialismus Jesu bestehen soll, ist doch nicht etwa identisch mit irgendeiner
+            bestimmten, in diesen und jenen Personen realisierten Christlichkeit? Oder doch? Ich
+            lese bei <persName ref="kbga-actors-4">Althaus</persName> Sätze wie die folgenden: «Der
+            Christ erfüllt mitten in seinen pflichtmäßigen Betätigungen<note xml:id="n38">Bei
+                <persName ref="kbga-actors-4">Althaus</persName>: «in seiner pflichtmäßigen
+              Beteiligung».</note> an den Weltordnungen, ja gerade durch sie, Jesu Liebesgebot» (<bibl corresp="kbga-bibls-1662">S. 76</bibl>). «Der <pb n="471" ed="kbga-sources-2329"/> Christ kann, auch bei der Vornahme
+            rauher, harter Werke des Rechts-, Staats- und Kriegslebens<note xml:id="n39">Bei
+                <persName ref="kbga-actors-4">Althaus</persName>: «… Werke, im Rechts-, Staats- und
+              Kriegsleben».</note>, völlig aus dem Geiste der Bergpredigt heraus leben» (<bibl corresp="kbga-bibls-1662">S. 77</bibl>).
+            «Jeder Richter und Beamte und Staatsmann, der zugleich sittliche Persönlichkeit oder
+            Christ ist, lebt vom Recht dieser Gedanken <persName ref="kbga-actors-261">Luthers</persName> innerlich» (<bibl corresp="kbga-bibls-1662">S. 88</bibl>). Der Christ erfüllt, der Christ kann völlig,
+            der Christ lebt – ja woher nimmt dann <persName ref="kbga-actors-4">Althaus</persName>,
+            der in Bezug auf die <hi rend="italic">politische</hi> Verwirklichung des Willens Gottes so
+              «Nüchterne»<note xml:id="n40">Vgl. <ref type="pub" target="#fn_n13">Anm. 13</ref> und <ref type="pub" target="#fn_n31">31</ref>.</note>, die Sicherheit, seine <hi rend="italic">psychologische</hi> Verwirklichung zu behaupten? Es steht doch nicht so, daß
+            der Geist der Bergpredigt und Jesu Liebesgebot, wenn auch nicht politisch-sozial, so <pb xml:id="p055" ed="pga"/> doch seelisch mögliche, erreichbare und durchführbare Dinge
+            wären? Es ist doch nicht anders: unter demselben Gericht, unter dem <persName ref="kbga-actors-4">Althaus</persName> (und wir geben ihm recht) das äußere Leben
+            sieht, steht auch das innere, auch das religiöse, auch das christlich religiöse Leben.
+            Würde <persName ref="kbga-actors-4">Althaus</persName> das bestreiten, so würde ich ihm
+            sagen, daß er auch das Gericht, unter dem das äußere Leben steht, noch nicht gesehen
+            hat, ja daß er ihm durch den mit Hilfe <persName ref="kbga-actors-261">Luthers</persName> vollzogenen Rückzug auf die Innerlichkeit tatsächlich zu entgehen
+            sucht, daß seine Wendung von der äußeren zur inneren Politik den Sinn hat, dem Menschen
+            zunächst religiös eine feste Burg zu schaffen, wo er sich vor Gott gerechtfertigt –
+            geschützt weiß, um damit auch sein übriges weltliches Tun zu bestätigen, mit einem
+            leisen verklärenden Schimmer von Gottgewolltheit zu umgeben, daß der Entfernung der
+            Eschatologie von der Ethik die Absicht zu Grunde liegt, die erstere zu verharmlosen und
+            die letztere aus dem drohenden Schatten der ersteren <foreign xml:lang="lat">ad majorem gloriam hominis</foreign>
+            hinauszurücken. Das alles will nun <persName ref="kbga-actors-4">Althaus</persName> so
+            wenig wie ich, aber ich gestehe, daß mich sein Buch in meinem tiefen Mißtrauen gegen den
+            dunklen Zusammenhang zwischen lutherischer Innerlichkeit und lutherischer Weltlichkeit
+            fürs Erste bestärkt hat. Wer den Willen Gottes in so gefährliche Nähe des bißchen
+            Herzens- und Gewissenserlebnisses der sogenannten Christen, des bißchen «Gesamtleben der
+              Gemeinde»<note xml:id="n41">Vgl. unten bei <ref type="pub" target="#fn_n44">Anm. 44</ref>.</note> rücken kann, dem rückt er
+            notwendig auch in die geradezu fatale Nähe von Geschichte, Natur und Schicksal: die
+            psychologische Immanenz Gottes zieht die kosmische mit Notwendigkeit nach sich. Oder tue
+            ich <persName ref="kbga-actors-4">Althaus</persName> Unrecht, wenn ich vermute, daß er
+            der «Gemeinde» nur darum nicht ebenso wie dem Nationalstaat «transzendente Tiefe»<note xml:id="n42"><bibl corresp="kbga-bibls-1662">S. 65</bibl>.</note> zuspricht, weil das für ihn selbstverständlich ist? Sieht
+            er nicht wirklich in dem Komplex Herz-Gewissen-Christentum-Kirche eine Art letzter
+            Wirklichkeit, aus der er den letzten Willen Gottes meint ablesen, in der er ein
+            Geschehen des Willens Gottes meint feststellen zu können? Wenn ja, so würde ich den
+            darin sich offenbarenden Mangel an Distanzgefühl, die Verdunkelung des <hi rend="italic">kritischen</hi> Charakters der Begriffe «Gemeinde» und «Schöpfung» den mir
+            bedenklichsten Punkt seines Buches nennen. Daß <persName ref="kbga-actors-4">Althaus</persName> das wirklich tut, geht aber unzweideutig hervor aus dem auf <pb n="472" ed="kbga-sources-2329"/> den letzen Seiten gemachten <pb xml:id="p056" ed="pga"/> verzweifelten Versuch, an die als «innere Weltenthaltung» beschriebene
+            «Verfassung der Seele» eine «äußere Entsagung» als Funktion innerhalb der Gemeinde
+            postulatweise anzugliedern<note xml:id="n43">«<persName ref="kbga-actors-261">Luther</persName> setzte also an die Stelle der radikalen Weltenthaltung die <hi rend="italic">innere Enthaltung</hi> als Verfassung der Seele… Es muß wohl immer irgendwo
+              in der Gemeinde vollständige äußere Enthaltung geben, damit die anderen die innere
+              Freiheit wirklich haben und sich nicht einen bequemen Schein vortäuschen» (<bibl corresp="kbga-bibls-1662">S. 97</bibl>).</note>, freiwillige Armut, Ehelosigkeit und politisches Desinteressement (auch
+            Militärdienstverweigerung?!) um des «organisch-biologischen» Gesamtlebens der Gemeinde
+            willen in das Programm der christlichen Ethik aufzunehmen<note xml:id="n44">«Der tiefe
+              Unterschied von der katholischen Würdigung der Askese besteht darin, daß die äußere
+              Enthaltung nicht an sich, als außerordentliche sittliche Tat, sondern in ihrer
+              Bedeutung für das Gesamtleben der Gemeinde in der Welt gewertet wird. Die Christenheit
+              bedarf stets solcher Glieder, die in der urchristlichen Gleichgültigkeit gegen Recht
+              und Besitz, Staat und Politik stehen, die Familie und Heimat verlassen um Jesu willen,
+              – nicht damit alle ihnen folgen, sondern damit alle anderen mit innerer Freiheit in
+              der Welt leben… Wir dürfen die Fülle individueller Formen und innerhalb ihrer das
+              Nebeneinander großer polarer Typen nicht nur anerkennen, sondern wir müssen sie
+              würdigen: nicht ästhetisch allein, wie <persName ref="kbga-actors-360">Schleiermacher</persName>, sondern organisch-biologisch…» (<bibl corresp="kbga-bibls-1662">S. 98f.</bibl>).</note> und
+            also das Individuelle aus der Grenze zum Gegenstand der Ethik zu machen. Warum nur
+              <persName ref="kbga-actors-261">Luther</persName> selbst auf diesen Gedanken nicht
+            gekommen ist? Darum nicht, weil für ihn «Gemeinde» und «Schöpfung» die Distanz
+            ebensowohl wie die Gemeinschaft zwischen Gott und der Welt bezeichneten, eine Dialektik,
+            die von <persName ref="kbga-actors-4">Althaus</persName> nicht durchschaut ist.
+            Vergeblich wehrt er sich darum gegen den Verdacht, seine Vervollständigung des
+            Gemeindebegriffes sei eine Erneuerung der doppelten Sittlichkeit des Katholizismus. Das
+            Motiv, das ihn dazu bewegt, ist wirklich kein neues, denn um das «Gesamtleben der
+            Gemeinde», um das schlechte Gewissen eines bloß innerlichen Christentums, das nach einem
+            Komplement verlangt, handelt es sich auch im Katholizismus. Und was sich in <persName ref="kbga-actors-4">Althaus’</persName> neuem Versuch mit dieser alten Möglichkeit
+            verrät, ist nur die tiefe Unsicherheit des ganzen religiös-sozialen und
+            nicht-religiös-sozialen Protestantismus gegenüber den Gedanken der Rechtfertigung und
+            Sündenvergebung, die, in ihrer kritischen Kraft erkannt, sowohl den Schlupfwinkel eines
+            bloßen Herzens- oder Gewissenschristentums wie das <rs type="term">potemkinsche
+              Dorf</rs> eines «organisch-biologischen» Gemeindeganzen ausräuchern, den Menschen auf
+            der ganzen Linie als den nie und nimmer zu Rechtfertigenden, auf Gottes Barmherzigkeit
+            ganz und gar und für <pb xml:id="p057" ed="pga"/> alle Zeit Angewiesenen herausstellen
+            würden. Gerade in diesen Gedanken liegt das tiefe Recht des Luthertums gegenüber dem
+            religiösen Sozialismus. Es weiß oder es meint doch zu wissen, was wir gelegentlich
+            vergessen haben, daß all unser Tun umsonst ist auch in dem besten Leben<note xml:id="n45">Vgl. 
+                                <bibl type="song" corresp="kbga-songs-51">
+                                <persName ref="kbga-actors-261">M. Luthers</persName> Lied «Aus
+              tiefer Not schrei ich zu dir» (1524), 2. Strophe (EKG 195; KGB 37)</bibl>:
+                <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">… es ist doch unser Tun umsonst</l>
+                                    <l xml:space="preserve">auch in dem besten Leben.</l></lg></q></note>. Umso bedauerlicher, wenn sein Vertreter in unserm Buch gerade in dieser
+            Hinsicht mit einer milden<note xml:id="n46">Im Erstdruck irrtümlich: «wilden»; Korrektur
+              vom Hrsg.</note> Zweideutigkeit endigt. Er wird, auch mit diesem
+            pietistisch-kirchlichen Gedankengang, schwerlich einen von uns belehren, weil er zu sehr
+            zeigt, daß er mit uns im selben Spital krank ist. Die «Lösung» durch die «direkte
+            Aktion» Einzelner hat ihre Rolle wirklich in unserer Bewegung gespielt, und zwar zu
+            ihrem Verhängnis. Das eben brauchte uns <persName ref="kbga-actors-4">Althaus</persName>
+            nicht zu sagen.</p>
+          <p>Wenn ich scharf geredet habe, so habe ich es nur getan, um deutlich zu sein. Das Buch
+            bleibt eine sympathische Erscheinung, weil es gerade in seiner gewissen inneren
+            Brüchigkeit ein Beweis ist, daß das Eis am Schmelzen ist. Den Anlaß, mich dazu zu
+            äußern, bot mir die Tatsache, daß <persName ref="kbga-actors-4">Althaus</persName> mir –
+            ich weiß nicht, soll ich sagen, die Ehre oder die Schmach antut, mich zu den
+            «gemäßigten» Religiös-Sozialen zu rechnen.<note xml:id="n47">«Bei der Auseinandersetzung
+              unterscheiden wir die beiden Richtungen…, die radikale und die gemäßigte» (<bibl corresp="kbga-bibls-1662">S. 33</bibl>).
+              <persName ref="kbga-actors-2151">Barth</persName> war vorher (S. 12) der letzteren zugeordnet worden.</note> Was es mit der
+            «Mäßigung» auf sich hat, ist ihm hoffentlich nebenbei klar geworden.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

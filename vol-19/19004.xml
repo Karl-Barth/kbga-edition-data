@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">«Feuerbach»</title>
+        <title type="citation_line_1">Barth, Karl: «Feuerbach», 5. Februar 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19004 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 6–13.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19004</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">«Feuerbach»</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 6-13</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">4</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 2</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Feuerbach [Vortrag], 5. Februar 1922. <ref target="https://kba.karl-barth.ch/objects/459">KBA 11005</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Feuerbach [Vortrag], 5. Februar 1922. <ref target="https://kba.karl-barth.ch/objects/460">KBA 11006</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1922-02-05">5. Februar 1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:49+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:49+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p006" ed="pga"/>
+        <head>«<persName ref="kbga-actors-550">FEUERBACH</persName>»</head>
+        <head type="sub">1922</head>
+
+        <div type="abstract">
+          <p>Im «<orgName ref="kbga-actors-8723">Stange-Kränzchen</orgName>»<note xml:id="n01">Vgl.
+              die Einleitung zu «Über Kirche», oben
+                  <ref type="pub" target="../volume/19/p001#p001">S. 1f.</ref></note> hatte man am <date when="1922-01-22">22. Januar 1922</date> für die nächste
+            Zusammenkunft vom <date when="1922-02-05">5. Februar</date> vereinbart, daß <persName ref="kbga-actors-393">Carl Stange</persName>, <persName ref="kbga-actors-184">Emanuel
+              Hirsch</persName> und <persName ref="kbga-actors-2151">Karl Barth</persName> «(je <hi rend="top">1</hi>/<hi rend="buttom">2</hi> Stunde!) über unser Verhältnis zu <persName ref="kbga-actors-550">Feuerbach</persName> referieren» sollten: «ein nicht übler
+            Einfall <persName ref="kbga-actors-393">Stanges</persName>»<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p031#p031">S. 31</ref> (23.1.1922).</bibl></note>. Als Teilnehmer für diesen Abend wurden
+            zunächst «nur noch wir drei mit den Frauen» erwartet, «während die Lizentiaten <persName ref="kbga-actors-317">Peterson</persName><note xml:id="n03">
+                            
+                                <persName ref="kbga-actors-317">Erik Peterson</persName> (1890–1960), 1920 Privatdozent in
+                Göttingen, ab 1924 Professor für
+              Neues Testament und Kirchengeschichte in Bonn; 1930 Konversion zum Katholizismus, ab 1934 Professor für altchristliche Literatur und allgemeine
+              Religionsgeschichte in Rom.</note>, <persName ref="kbga-actors-321">Piper</persName> und <persName ref="kbga-actors-1273">Strasser</persName> sich successive gedrückt haben»<note xml:id="n04">
+                            <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p031#p031">S. 31</ref>.</bibl></note>. Es waren dann allerdings doch noch <persName ref="kbga-actors-1273">Ernst Strasser</persName> und Frau und der bei <persName ref="kbga-actors-2151">Barth</persName> zu Besuch
+            weilende <persName ref="kbga-actors-246">Fritz Lieb</persName><note xml:id="n05">
+                            
+                                <persName ref="kbga-actors-246">Fritz Lieb</persName> (1892–1970), nach Ordination fünfwöchiges Gemeindevikariat bei <persName ref="kbga-actors-2151">Barth</persName> in
+                <placeName ref="kbga-places-54">Safenwil</placeName>, danach Arbeit an der Promotion zum Lic. theol.
+                (1924) in Basel; seit 1930 a.o. Professor für Östliches Christentum in
+                Bonn, ging nach seiner Entlassung 1933 ins Pariser Exil; 1934
+              a.o. Professor in Basel, 1946/47 o. Gastprofessor
+              in Berlin, 1958 o. Professor in
+                Basel. – Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p036#p036">S. 36</ref>
+                (11.2.1922)</bibl>.</note> als Gäste zugegen. <persName ref="kbga-actors-2151">Barth</persName> berichtete brieflich: «Es
+            wurde gelost, und es ergab sich, daß ich das letzte Wort sprechen konnte, wenigstens in
+            der Reihenfolge.»<note xml:id="n06">
+                            <bibl corresp="kbga-bibls-932">Ebd</bibl>.</note> Sein Referat blieb unveröffentlicht.</p>
+        </div>
+        <div>
+          <head>«Feuerbach»</head>
+          <p>Der Inhalt von <persName ref="kbga-actors-550">F.’s</persName> «Wesen d. Chrts.»<note xml:id="n07"><persName ref="kbga-actors-2151">Barth</persName> zitiert nach der Ausgabe <bibl corresp="kbga-bibls-37">
+                                <persName ref="kbga-actors-550">L. Feuerbach</persName>, <hi rend="italic">Das Wesen des
+                    Christentums</hi>, Kritische Ausgabe, hrsg. von K. Quenzel
+                  (Reclams Universalbibliothek Bd. 4571–4575), Leipzig o. J.
+                    [1904]</bibl> (im folgenden: 
+                  W. d. C.) (auch in: ders., <bibl corresp="kbga-bibls-1617">
+                                <hi rend="italic">Sämtliche Werke</hi>, Bd. 7,
+                    Leipzig 1849<hi rend="sup">3</hi></bibl>; im folgenden abgekürzt 
+                                SW 7). Sein Exemplar trägt den
+              Anschaffungsvermerk «<placeName ref="kbga-places-27">Göttingen</placeName>
+              <date when="1922">1922</date>».</note> (1841) und soweit ich sehe auch seines «Wesens
+            d. Rel.»<note xml:id="n08">
+            <persName ref="kbga-actors-2151">Barth</persName> zitiert nach <bibl corresp="kbga-bibls-1618">
+            <persName ref="kbga-actors-550">L. Feuerbach</persName>, <hi rend="italic">Das Wesen der
+                    Religion. Dreißig Vorlesungen</hi> (Volksausgabe), hrsg. von H.
+                    Schmidt, Leipzig o. J.
+                [1908]</bibl> (im folgenden W. d. R.) (unter dem Titel: <bibl corresp="kbga-bibls-1619">
+                                <title level="a">Vorlesungen über das Wesen der Religion. Nebst
+                    Zusätzen und Anmerkungen</title>, in: ders., <hi rend="italic">Sämtliche
+                    Werke</hi>, Bd. 8,
+              Leipzig 1851</bibl>; im folgenden abgekürzt
+                SW 8). Sein Exemplar
+              trägt den Anschaffungsvermerk «<placeName ref="kbga-places-67">Genf</placeName>
+              <date when="1910">1910</date>».</note> (1851) besteht in einer mit sympathischer <pb xml:id="p007" ed="pga"/> Beharrlichkeit durchgeführten Reihe von Variationen über das
+            eine Thema<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-1618"> W. d. R., S. 3</bibl> (<bibl corresp="kbga-bibls-1619">SW 8, S. 6</bibl>): «Trotz dieses Unterschieds meiner Schriften
+              haben aber alle streng genommen nur einen Zweck, einen Willen und Gedanken, ein Thema.
+              Dieses Thema ist eben die Religion und Theologie und was damit zusammenhängt.»</note>:
+            Gott ist das objektivierte menschliche Subjekt, Religion ist der Akt der
+            Verabsolutierung des menschlichen Wesens<note xml:id="n10">Vgl. z. B. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 80</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 51</bibl>): «… im Wesen und
+              Bewußtsein der Religion ist nichts anderes, als was überhaupt im Wesen und Bewußtsein
+              des Menschen von sich und von der Welt liegt.“ S. 69f. (<bibl corresp="kbga-bibls-1617">SW 7, S. 40f.</bibl>): «Die Religion, wenigstens die
+              christliche, ist das Verhalten des Menschen zu sich selbst, oder richtiger: zu seinem
+              Wesen, aber das Verhalten zu seinem Wesen als zu einem <hi rend="italic">anderen</hi>
+              Wesen. Das göttliche Wesen ist nichts anderes als das menschliche Wesen… – alle
+              Bestimmungen des <hi rend="italic">göttlichen</hi> Wesens sind darum Bestimmungen des <hi rend="italic">menschlichen</hi> Wesens.»</note>, seiner Anlagen, Nöte, Wünsche und
+            Hoffnungen, Theologie also Anthropologie<note xml:id="n11">
+                            <bibl corresp="kbga-bibls-1618">
+                                W. d. R., S. 10</bibl> (<bibl corresp="kbga-bibls-1619">SW 8, S. 21</bibl>): «<title level="a">Die Theologie ist Anthropologie</title>, d. h. in dem Gegenstande der Religion, den wir
+              griechisch Theos, deutsch Gott nennen, spricht sich nichts anderes aus als das Wesen
+              des Menschen …».</note>, psychische Pathologie<note xml:id="n12">
+                            <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 26</bibl>
+              (Vorwort zur i. Auflage, in <bibl corresp="kbga-bibls-1617">
+                                SW
+                7</bibl> nicht abgedruckt; vgl. Originalausgabe Leipzig
+              1841, S. VI): «Hier in dieser Schrift nun werden die Bilder
+              der Religion … als <hi rend="italic">Bilder</hi> betrachtet, d. h. die Theologie wird weder
+              als eine mystische Pragmatologie, wie von der christlichen Mythologie, noch als
+              Ontologie, wie von der spekulativen Religionsphilosophie, sondern als psychische
+              Pathologie behandelt.»</note>. Um diesen Sachverhalt aufzudecken – denn um einen
+            empirisch festzustellenden Sachverhalt handelt es sich dabei für <persName ref="kbga-actors-550">F.</persName>–[,] um der Theologie, der Religionsphilosophie,
+            der modernen, der protestantischen insbesondere, die nicht weiß, nicht wissen will, was
+            sie tut, die Maske vom Gesicht zu reißen, die Nichtigkeit des Transzendenzanspruchs, den
+            sie im Namen ihres Gegenstandes erhebt, aufzuweisen und andrerseits zu zeigen, daß
+            dieser ihr Gegenstand, das Bewußtsein Gottes im Menschen nämlich, nichts Anderes ist,
+            als das Bewußtsein der menschlichen Gattung<note xml:id="n13">Vgl. z. B. <bibl corresp="kbga-bibls-1618">
+                                W. d. R., S. 11</bibl>
+                (<bibl corresp="kbga-bibls-1619">SW 8, S. 23</bibl>): Gott «ist
+              vielmehr nur der vergegenständlichte und personifizierte Gattungsbegriff der
+              Menschheit».</note>, um laut aufzurufen zur Befreiung von jahrtausendealten
+            wohlgemeinten und einst ehrwürdigen, in ihrem Wesen aber, was nur das moderne Halbchrt.
+            nicht zugeben will, le<pb xml:id="p008" ed="pga" break="no"/>bensfeindlichen
+              Illusionen<note xml:id="n14">Vgl. etwa <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 319</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 290</bibl>): «Ein besonders charakteristischer
+              Kunstgriff und Vorteil der christlichen Sophistik ist die Unerforschlichkeit, die
+              Unbegreiflichkeit des göttlichen Wesens. Das Geheimnis dieser Unbegreiflichkeit ist
+              nun aber … nichts weiter, als daß eine bekannte Eigenschaft zu einer unbekannten, eine
+              natürliche Qualität zu einer über-, d. h. unnatürlichen Qualität gemacht und eben
+              dadurch der Schein, die Illusion erzeugt wird, daß das göttliche Wesen ein anderes als
+              das menschliche und eben deswegen ein unbegreifliches sei.»</note>, zur resoluten
+            Umkehr von der Lüge zur Wahrheit d. h. aber von den religiösen Subjekten zu den
+            religiösen Prädikaten<note xml:id="n15">Z. B. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 80</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 51</bibl>): «Wenn aber Gott als
+              Subjekt das Bestimmte, die Qualität, das Prädikat aber das Bestimmende ist, so gebührt
+              ja in Wahrheit dem Prädikat, nicht dem Subjekt der Rang des <hi rend="italic">ersten</hi> Wesens, der Rang
+              der Gottheit.»</note>, von Gott zur Welt u. zum Menschen, vom Glauben zur Liebe<note xml:id="n16">Vgl. bes. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 360–388</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 331–360</bibl>).</note>, vom Himmel zur Erde, von
+            Christus zu uns selbst<note xml:id="n17">Vgl. bes. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 226–238</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 197–209</bibl>).</note>, von all
+            den wesenlosen Gespenstern des Supranaturalismus zum wirklichen Leben – «Heilig sei uns
+            darum das Brot, heilig der Wein, aber auch heilig das Wasser. Amen» (W. Chrt. 399)<note xml:id="n18">
+                            <bibl corresp="kbga-bibls-1617">
+                                SW 7, S. 371.</bibl></note>, um seine Leser «aus Gottesfreunden zu Menschenfreunden, aus
+            Gläubigen zu Denkern, aus Betern zu Arbeitern, aus Kandidaten d. Jenseits zu Studenten
+            des Diesseits, aus Christen … zu Menschen, zu <hi rend="italic">ganzen</hi> Menschen zu
+            machen» (W. Rel. 170)<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-1619">
+                                SW 8, S. 370.</bibl></note>, dazu schreibt <persName ref="kbga-actors-550">F.</persName> seine Bücher. F.’s theol. oder antitheol.
+            Schriftstellerei hat eine Reihe von Merkmalen, an denen man sich bei einem Autor, der
+            sich unterwindet[,] von den letzten Dingen unsres Daseins zu handeln, nur freuen kann: 1.
+            Er hat nicht Vieles zu sagen, aber er hat <hi rend="italic">Etwas</hi> zu sagen[,] und das
+            beweist er damit, daß er Atem genug hat, es in tausend Wiederholungen immer wieder und
+            doch eigentlich ohne den Leser zu ermüden[,] und daneben dann wirklich nichts Anderes zu
+            sagen, dies Eine aber so, daß man hören und verstehen <hi rend="italic">muß</hi>[,] was er
+            meint. 2. Er schreibt nicht, weil er irgend etwas <hi rend="italic">schreiben</hi> will,
+            sondern weil etwas u. zw. gerade das geschrieben werden <hi rend="italic">muß;</hi> es ist
+            nicht Literatur, sondern es ist eine Verkündigung, die er s[einen] Lesern anbietet. «Ich
+            kann eigentlich nur reden u. schreiben, wenn der Gegenstand mich in Affekt u.
+            Begeisterung versetzt» (W. Rel. 1)<note xml:id="n20">
+                            <bibl corresp="kbga-bibls-1619">
+                                SW 8, S. 5.</bibl></note>. 3. Er erweckt weder <pb xml:id="p009" ed="pga"/> durch systematische noch durch historische Aufbauten u.
+            Entwicklungen den Anschein, als ob der Kern seiner Mitteilungen etwas Anderes wäre als
+            ganz ehrlich eine Schau u. eine These, die sich in ihrer Entfaltung bewähren oder nicht
+            bewähren muß, die aber in keiner Weise einer vorausgehenden Begründung bedarf. Darum
+            gibt ihm s. Philosophie im Wesentlichen nur das dialektische Handwerkszeug u. s. histor.
+            Wissen im Wesentlichen nur Beispiele an die Hand. Darum sagt er ungefähr auf jeder Seite
+            das Gleiche, das Wesentliche, das Ganze, was er zu sagen hat. 4. Er ist ein ehrlicher
+            Mann, der keinen Zweck zu kennen scheint als den, die Dinge beim Namen zu nennen, wie er
+            sie sieht, auf die Gefahr hin, es dadurch «mit Gott u. der Welt zu verderben» (W. Chr.
+              30)<note xml:id="n21">«Ich habe es durch diese Schrift mit Gott und Welt verdorben»
+                (<bibl corresp="kbga-bibls-1617">SW 7, S. 5</bibl>).</note>.
+            Schon aus diesen <hi rend="italic">formalen</hi> Gründen ist <persName ref="kbga-actors-550">F.</persName> eine für die Theologie, die an solchen Profilen nicht eben reich ist,
+            beachtenswerte Erscheinung. Er ist es aber noch mehr auf Grund des <hi rend="italic">Inhalts</hi> seiner Aussage.</p>
+          <p>
+            <persName ref="kbga-actors-550">F.</persName> hat etwas entscheidend Richtiges gesehen:
+            Was wir Rel., auch was wir Chrt. heißen, ist in der ganzen Breite seiner
+            psychisch-historischen Erscheinung ein relatives, ein diesseitiges Phänomen. Keine von
+            den Empfindungen, Handlungen u. Ideen[,] aus denen sich dieses Phänomen zusammensetzt,
+            die nicht Zeugnis davon gäbe, daß es des Menschen Herz, Wille u. Verstand ist, der hier
+            am Werke ist, daß es sich hier um eine menschliche Funktion handelt. Menschlich und
+            darum natürlich, irdisch, erklärbar aus dem Zusammenhang der übrigen menschlichen
+            Funktionen u. zw. so, daß eine eigentümlich religiöse Funktion bei genauer Analyse gar
+            nicht übrig bleibt <hi rend="italic">neben</hi> jenen, sondern überall durch die dünne Decke
+            des vermeintlich Heiligen das Eigentliche, das Profane ganz deutlich durchschimmert,
+            überall jenes, d. Heilige, als ein mehr oder weniger geschickter, nach <persName ref="kbga-actors-550">F.</persName> s Meinung jedenfalls überflüssiger, ja
+            gefährlicher Versuch sich darstellt, diesem, dem Profanen, durch Hypostasierung eine <hi rend="italic">besondere</hi> Weihe zu verleihen. Man kann verschiedener Meinung sein
+            darüber, wieweit es <persName ref="kbga-actors-550">F.</persName> gelungen ist[,] diese
+            Deutung des relig. Phänomens im Einzelnen zu erwahren. Nachzuweisen, wie grob er hier u.
+            wie künstlich er dort vorgegangen ist, wäre eine leichte[,] aber auch uninteressante
+            Aufgabe. Wichtig scheint mir allein die Frage, ob wir[,] bei allem Vorbehalt im
+            Einzelnen, an seiner grundsätzlichen Einsicht vorbeikommen oder nicht. Und da ist meine
+            Meinung die, daß <pb xml:id="p010" ed="pga"/> wir <hi rend="italic">nicht</hi> daran
+            vorbeikommen. Auch in der Religion, auch in der höchsten Religion, dreht sich der Mensch
+            um sich selber[,] wie <persName ref="kbga-actors-550">F.</persName> einmal sagt.<note xml:id="n22">Vgl. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 280</bibl> (<bibl corresp="kbga-bibls-1617">SW
+                  7, S. 251</bibl>): «Wie der Mensch in der Entfernung von sich, in Gott immer
+              wieder nur auf sich selbst zurückkommt, immer nur sich um sich selbst dreht, so kommt
+              der Mensch auch in der Entfernung vom Diesseits immer wieder zuletzt auf dasselbe
+              zurück.»</note> Auch Frömmigkeit, auch die reinste Frömmigkeit ist ein menschliches
+            Tun, und ihre Gedanken, auch ihre höchsten Gedanken, sind menschliche Gedanken. Kein
+            Punkt innerhalb der ganzen wirklichen u. denkbaren menschlichen Empfindungs- u.
+            Vorstellungswelt, der uns etwa als göttliche, als ewige Wahrheit und Realität direkt
+            gegeben wäre. Gegeben ist er uns vielmehr als menschliche, als zeitliche Wahrheit u.
+            Realität und nur als das. <hi rend="italic">Gegeben</hi> aber bedeutet <hi rend="italic">bedingt</hi> u. zw. (im weitesten Sinn gefaßt) <hi rend="italic">natur</hi>bedingt; denn
+            was nicht naturbedingt ist, das kann uns auch nicht gegeben sein. Keine religiöse
+            Möglichkeit also, auch keine christliche Möglichkeit, die sich nicht als <hi rend="italic">menschliche</hi> Möglichkeit d. h. in ihrer gänzlichen Verflochtenheit mit der Natur
+            u. dem Wesen des Menschen, als eine von den bekannten Komponenten der Humanität erklären
+            ließe. Keine Religion, auch keine christliche Religion <hi rend="italic">außerhalb</hi> der
+            Grenzen der Humanität<note xml:id="n23">Anspielung auf <bibl corresp="kbga-bibls-1157">
+                                <persName ref="kbga-actors-293">P. Natorp</persName>, <hi rend="italic">Religion innerhalb der Grenzen der Humanität. Ein Kapitel zur Grundlegung der Sozialpädagogik</hi>, Freiburg i.Br./Leipzig
+                  1894</bibl>; daran anknüpfend <bibl corresp="kbga-bibls-1620">
+                                <persName ref="kbga-actors-63">E. Brunner</persName>, <title level="a">Die
+                    Grenzen der Humanität. Habilitationsvorlesung an der Universität
+                      Zürich</title> (SgV 102),
+                    Tübingen
+                  1922</bibl> (wieder abgedruckt in: <bibl corresp="kbga-bibls-914">
+                                Anfänge I, S. 259–279</bibl>).</note>. Kein in der Gegebenheit der Religion begründeter
+            Realitäts- u. Transzendenzanspruch. Diese Feststellungen sind verhängnisvoll für eine
+            Christlichkeit und Theologie, die nun etwa gerade an der Gegebenheit der Religion
+            orientiert sein, die gerade darin ihre Wahrheit suchen sollte, daß sie eine
+            Angelegenheit des menschlichen Geistes, ein menschliches Bedürfnis u. eine menschliche
+            Bewußtheit sei. Gerade als solche, gerade als menschlicher Erfahrungsinhalt, hat sie
+            auch nur menschliche, nur diesseitige, nur natürliche Wahrheit. Das ists, was bei
+              <persName ref="kbga-actors-550">F.</persName> zu hören ist. Wer von <persName ref="kbga-actors-360">Schleiermacher</persName> herkommt, wer die Frömmigkeit, das
+            Chrt. als solches, als psych. hist. Phänomen nicht nur zum Anlaß, sondern zum Gegenstand
+            s[einer] Theologie macht, der läuft der These <persName ref="kbga-actors-550">F.</persName>’s unvermeidlich in die Arme, der sehe zu, was er antworte, wenn er hier
+            beim Wort genommen und wenn nun das Kind, die Religion als menschliche Mög<pb xml:id="p011" ed="pga" break="no"/>lichkeit[,] beim richtigen Namen genannt wird. Ich
+            sehe also den Wert der These <persName ref="kbga-actors-550">F.</persName>’s vor Allem
+            darin, daß hier eine Sicherung eingeschaltet wird gegen die romantische Unbesonnenheit,
+            die das, was von Haus aus diesseitig ist u. nur diesseitig sein kann, mit einem Schein
+            von Jenseitigkeit umgibt und gerade dadurch faktisch auf das Jenseits verzichtet, gegen
+            den Übermut der Religion, die sich selbst mit ihrem Gegenstand verwechselt. Als Antwort
+            auf <persName ref="kbga-actors-360">Schleiermacher</persName> mußte <persName ref="kbga-actors-550">F</persName>.’s These kommen und als Antwort auf <persName ref="kbga-actors-339">Ritschl</persName>[,] der den Fehler Schl.’s noch ins Groteske
+            gesteigert hat, muß sie immer wieder kommen. Das Kind der Welt ist hier wie schon so oft
+            klüger gewesen als die Kinder des Lichts [vgl. <ref type="can" subtype="bible" target="Lk.16.8">Lk. 16,8</ref>].</p>
+          <p>Meine Kritik an <persName ref="kbga-actors-550">F.</persName> würde ich darin
+            zusammenfassen, daß auch er nicht gewußt hat, was er tat. Er hat trotz der prophetischen
+            Erbitterung[,] mit der er s. These unter die Pharisäer u. Schriftgelehrten warf, nicht
+            gesehen, aus welcher Quelle sie eigentlich stammte. Er hat nicht gesehen, daß wir nur
+            von einem höchst wahren, höchst realen Jenseits aus in der Lage sind, die Diesseitigkeit
+            alles Menschlichen, auch der Religion, auch des Christlich-Religiösen so radikal
+            einzusehen, wie er es tatsächlich getan hat. Sein wirklicher Standort war vielmehr ein
+            recht platter, recht bürgerlicher, recht liberaler Glaube an den Menschen und seine
+            Welt. Wenn <persName ref="kbga-actors-550">F.</persName> seine <hi rend="italic">Position</hi> aufdeckt, z. B. wenn er von der Liebe redet<note xml:id="n24">Vgl. bes.
+              <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 360–388</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 331–360</bibl>).</note>, dann wird er sentimental, dann zeigen sich seine
+            eigenen Illusionen, die 48er Illusionen<note xml:id="n25">Die Vorlesungen über «Das
+              Wesen der Religion» hielt <persName ref="kbga-actors-550">Feuerbach</persName> im
+              Revolutionsjahr <date when="1848">1848</date> in <placeName ref="kbga-places-31">Heidelberg</placeName>.</note>[,]
+            könnte man sagen. <persName ref="kbga-actors-550">F.</persName> sieht nicht die
+            ungeheuren Voraussetzungen, die all dem[,] was er als menschl. Gegebenheit, als menschl.
+            Akt beschreibt, <hi rend="italic">nicht</hi>-gegeben, in echter Transzendenz gegenüberstehen.
+            Er ist Optimist genug, um die Wahrheit, die Realität nun seinerseits in der des falschen
+            Transzendenzanspruchs entkleideten immanenten Wirklichkeit zu suchen, in Brot, Wein u.
+            Wasser[,] wie sie sind.<note xml:id="n26">Vgl. bes. <bibl corresp="kbga-bibls-37">
+            W. d. C., S. 346–359.395–399</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 317–331.367–371</bibl>).
+              «Das Fest der Wassertaufe flößt uns Dankbarkeit gegen die Natur ein, das Fest des
+              Brotes und Weines Dankbarkeit gegen den Menschen. Wein und Brot gehören zu den
+              ältesten Erfindungen. Wein und Brot vergegenwärtigen, versinnlichen uns die Wahrheit,
+              daß der Mensch des Menschen Gott und Heiland ist» (S. 398 bzw. 369).</note> Er glaubt
+            unkritisch an die sog. Sinnlichkeit als an <pb xml:id="p012" ed="pga"/> ein vermeintlich
+              Letztes.<note xml:id="n27">Vgl. etwa <bibl corresp="kbga-bibls-37">
+              W. d. C., S. 114.302f.</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 85.273f.</bibl>).</note> Ihm ist
+            Gott einfach darum unsympathisch, weil er in ihm ganz mit Recht den großen Störefried
+            des gemütlichen Festes wittert, das wir hienieden begehen. Darum gilt das Wort vom
+            Balken im Auge [<ref type="can" subtype="bible" target="Mt.7.3">Mt. 7,3</ref>], das er
+            so gerne angewandt hat<note xml:id="n28">Dieses Wort konnte bei <persName ref="kbga-actors-550">Feuerbach</persName> nicht nachgewiesen werden.</note>, auch
+            von ihm selber: er hat seine theologischen u. philosoph. Gegner letzten Grundes doch mit
+            Unrecht getadelt, insofern als auch er, wenn auch ehrlicher als sie, das eigentliche
+            Problem der Jenseitigkeit im Chrt nicht gesehen hat. Am Auffallendsten zeigt sich das[,]
+            wo er vom Tode des Menschen und vom Kreuz Christi redet.<note xml:id="n29">Vgl. bes. <bibl corresp="kbga-bibls-37">
+                                W. d. C., S. 126–134.263–282</bibl> (<bibl corresp="kbga-bibls-1617">SW 7, S. 97–105.235–253</bibl>).</note> Den Hinweis auf <hi rend="italic">den</hi> Gott,
+            der jenseits dessen steht, was er als Jenseits mit Recht bestritt, den er in diesen
+            beiden Punkten der menschl. Wirklichkeit hätte finden können u. müssen, hat er
+            übersehen[,] und darum hat er schließlich das ganze christliche Dogma bei allem Ernst
+            seines Nachdenkens u. bei allen Versuchen[,] sich hineinzufühlen, doch mißverstanden. Er
+            hat menschliches Wünschen, Sehnen u. Meinen auch dort als das Letzte gesehen, wo sein
+            tatsächliches Ende sichtbar wird und jenseits des Endes das Neue, das Andere, das nicht
+            von dieser Welt ist. Er hat nicht gesehen, daß die Linien des anschaulichen
+            Menschentums, die er oft so ergreifend zu schildern wußte, zusammenlaufen an dem
+            unanschaulichen Ort jenseits aller Gräber, wo der neue Mensch steht. Er hat in seiner
+            Polemik gezeigt, daß er an Gott glaubte, stärker als <persName ref="kbga-actors-360">Schleiermacher</persName>, und in seinem Mangel an Radikalismus, daß er auch nicht an
+            Gott glaubte. Er war eine fragwürdige[,] zweideutige Erscheinung wie wir Alle.</p>
+          <p>Die Überwindung u. Fruchtbarmachung der F.’schen Position würde ich also nicht etwa auf dem Weg des Versuchs einer
+            direkten Widerlegung seiner These suchen. Sie dürfte an keinem Punkt direkt zu
+            widerlegen sein. Sie ist nur zu widerlegen durch ihre Bejahung u. Verschärfung. Die
+            Erscheinungswelt der Religion<note xml:id="n30">Vgl. den Titel des Artikels von <bibl corresp="kbga-bibls-1621">
+                                <persName ref="kbga-actors-4094">E. Lehmann</persName>: «Erscheinungswelt der Religion (Phänomenologie der Religion)», in: RGG<hi rend="sup">1</hi>, Bd. II, Sp. 497–577</bibl>.</note> von ihren höchsten bis zu ihren tiefsten Punkten muß in ihrer menschlichen
+            Bedingtheit erkannt werden. Ohne diesen Rückzug, ohne dieses Opfer ist der Ausblick auf
+            die Realität des R[eiches] Gottes nicht zu gewinnen. Ohne durchgehende Relativierung des
+            Menschen u. s[einer] Möglichkeiten keine Au<pb xml:id="p013" ed="pga" break="no"/>gen u.
+            Ohren für die Wirklichkeit Gottes. Ohne den ganzen Ernst des Todesgedankens kein Sinn
+            für die Auferstehung. Aber eben der Todesgedanke muß die Norm der kritischen Negation
+            sein, die gegenüber der Welt u. ihrer höchsten Blüte, der Religion, zur Anwendung
+            gebracht wird. Der naive Humanitarismus <persName ref="kbga-actors-550">F.</persName>’s
+            ist nicht der Hebel[,] mit dem die Last, die hier zu bewegen ist, gehoben werden kann.
+            Darum konnte F. keinen tieferen Eindruck hinterlassen, darum konnten die<note xml:id="n31"><ref corresp="A">Mskr</ref>.: «… konnten sich die …»; Streichung vom Hrsg.</note> Theologen, die
+            sein Votum so dringend notwendig hätten hören sollen, so leichten Kaufs an ihm
+            vorbeikommen, darum ragt unter s. Schülern nur Einer wirklich hervor, <persName ref="kbga-actors-637">Gottfried Keller</persName>, der die ganze Sentimentalität des
+            19. J[ahr]h[un]d[ert]s auf ihren wirklich klassischen Ausdruck gebracht hat.<note xml:id="n32">
+            <persName ref="kbga-actors-637">G. Keller</persName> studierte 1848–1850 in Heidelberg, vor
+              allem bei <persName ref="kbga-actors-550">Feuerbach</persName>. Einige auf <persName ref="kbga-actors-550">Feuerbach</persName> hindeutende Spuren im Werk <persName ref="kbga-actors-637">Kellers</persName> erwähnt <persName ref="kbga-actors-2151">Barth</persName> in: <bibl corresp="kbga-bibls-1622">
+                                <title level="a">Ludwig Feuerbach. Fragment aus der im Sommer
+             1926 zu Münster gehaltenen Vorlesung über die Geschichte der neueren Theologie</title>, Th. u. K., S. 213–215.219.229</bibl> (zuerst in: <bibl corresp="kbga-bibls-1623">
+                                ZZ, Jg. 5, 1927, S. 12f.16.25</bibl>)</note>
+          </p>
+          <p>Im Lichte des Todesgedankens, den <persName ref="kbga-actors-550">F.</persName> nie
+            gedacht hat<note xml:id="n33">
+                            <persName ref="kbga-actors-2151">Barth</persName> macht sich wohl schon hier – wie es dann in <bibl corresp="kbga-bibls-954">
+                                Th. u. K., S. 237</bibl> (<bibl corresp="kbga-bibls-1623">ZZ, Jg. 5, S. 31</bibl>; vgl.
+              oben<ref type="pub" target="#fn_n32"> Anm. 32</ref>) ausdrücklich geschieht  -  die Kritik <persName ref="kbga-actors-537">H. Ehrenbergs</persName> zu eigen, der (<bibl corresp="kbga-bibls-1631"><persName ref="kbga-actors-550">L. Feuerbach</persName>, <hi rend="italic">Philosophie der
+             Zukunft</hi>, hrsg. und erläutert von H. Ehrenberg, Stuttgart
+                  1922, S. 94</bibl>) <persName ref="kbga-actors-550">Feuerbach</persName> als «getreues Kind seines Jahrhunderts» einen «Nichtkenner des
+              Todes» und «Verkenner des Bösen» nennt.</note>, ist es nicht unmöglich, den Gedanken
+            der Ewigkeit zu denken und darum Fragen nach Gott dort zu sehen, wo er nur menschliche
+            Antworten gesehen hat. Die Aufgabe, die ich durch <persName ref="kbga-actors-550">F.</persName> der Theol. gestellt sehe, ist eine Dogmatik u. Ethik, die es wagt, nach
+            dem Vorbild der späten Scholastik die historischen Gegebenheiten des Chrts. zum Anlaß zu
+            nehmen, die Frage nach Gott aufzuwerfen an den Grenzen der Humanität bewußt der
+            Diesseitigkeit <hi rend="italic">aller</hi> ihrer Setzungen[,] aber auch bewußt der
+            Jenseitigkeit dessen[,] was sie bedeuten, eine D. u. Eth. also, [die es wagt,] wieder
+            einfach u. ehrlich <hi rend="italic">Problematik</hi> zu sein.<note xml:id="n34">Unten auf
+              der letzten Seite des <ref corresp="A">Mskr</ref>. sind die Geburtsjahre von 27 Theologen des 19.
+              Jahrhunderts notiert.</note>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

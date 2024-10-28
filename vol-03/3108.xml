@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3108">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 16. Mai 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3108 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 135–136.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3108</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 135-136</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">108</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 105</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 16. Mai 1916. <ref target="https://kba.karl-barth.ch/objects/9140">KBA 9270.81</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-05-16">16. Mai 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-05-16">16. Mai 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3107"/>
+          <ref type="next" target="kbga-texts-3109"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3107"/>
+          <ref type="next-in-corresp" target="kbga-texts-3109"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p135" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-05-16">16. Mai 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Auch wir sind längst wieder ins Leben eingemündet und freuen uns der Erinnerung. Es muß noch mehr werden aus unserm <orgName ref="kbga-actors-8246">Kränzlein</orgName>, wenns etwas sein soll. Vorläufig sind noch einige Dämonen im Weg, die gebannt sein wollen, damit es ebenso oder ähnlich erfreulich werde wie unsere freien Zusammenkünfte vor ein und zwei Jahren. Aber mit Vertrauen und Freudigkeit wird <pb xml:id="p136" ed="pga"/> das schon zu erreichen sein. […] Ich mußte nach unserm letzten Gespräch [über deine Predigt] auf dem Heimweg an die Tagebücher meines <persName ref="kbga-actors-883">Großvaters</persName> aus den 40er Jahren denken, die ich jüngst zu sehen bekam, in denen sich edle Jünglinge gegenseitig betrachten und abwägen und gutheißen. Das haben wir nun zwar noch nicht getan, aber vielleicht waren wir nicht allzuweit davon. Mein <persName ref="kbga-actors-883">Großvater</persName> führte den Namen «Dolcino»! Auch das wäre ja möglich auf dem Weg zum «Käppli» [= Ruhestand], aber vielleicht nicht gerade unsre Absicht.</p>
+        <p>Unterdessen habe ich am Mittwoch mein 30. Lebensjahr vollendet, von <persName ref="kbga-actors-5802">Fränzeli</persName> mit Blümlein, von <persName ref="kbga-actors-26">Nelly</persName> mit einem neuen Hut!! und einem <persName ref="kbga-actors-1412">Tolstoj</persName> begrüßt. Gleichzeitig ging die Unterweisung wieder an, mit viel guten Vorsätzen meinerseits und unter Assistenz von <persName ref="kbga-actors-26">Nelly</persName>. Am Abend hatte ich eine diesmal befriedigend besuchte Besprechung mit den Eltern der neuen Konfirmanden über das Paradox dieses Unterrichts und ihre Mitwirkung bei einem Lösungsversuch. Der Kirchenpflegspräsident unterstrich das Moralische breit und gesund, wie es seine Art ist. Einige Frauen aber wären sich fast in die Haare geraten wegen der Arbeitsverhältnisse (<orgName ref="kbga-actors-4746">Hochuli</orgName>!). Doch wars eine nützliche Zusammenkunft. Im <orgName ref="kbga-actors-8613">Blaukreuz</orgName> gebe ich nun doch auf Mitte Juli meine Demission. Es ist für eine Zeitlang entschieden genug für mich auf diese Weise, und der Verein kann auf keine andere Weise mehr zum Arbeiten veranlaßt werden, als daß ich die andern Mitglieder zum Hervortreten und sich Mühe geben zwinge. Die Stimmung in der Generalversammlung gestern Abend war erstaunlich leichtfertig. […]</p>
+        <p>Der <ref type="pub" target="48034">Vortrag</ref> in den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>»<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-2385"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a"><ref type="pub" target="48034">Die Gerechtigkeit Gottes</ref></title>, in: Neue Wege, Jg. 10 (1916), S. 143–154</bibl>; wiederabgedruckt in: <bibl corresp="kbga-bibls-929"><title level="m">Das Wort Gottes und die Theologie</title>, 1924, S. 5ff.</bibl>
+                    </note> ist fast völlig ohne ein Echo geblieben (wenigstens für mich), sodaß ich nicht einmal ahne, ob man in der «Welt» vorwiegend darüber lacht oder schilt oder etwas damit machen kann. Etwas von der Schreibfreudigkeit der 40er Jahre täte unsrer Zeit doch gut. Wir halten alle Monologe und sind erstaunlich einsam dabei. Gehts dir nicht auch so?</p>
+        <closer>
+          <salute><persName ref="kbga-actors-5802">Fränzeli</persName> und <persName ref="kbga-actors-24">Markus</persName> grüßen auch und wachsen.</salute> 
+          <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-26">Nelly</persName> und <persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

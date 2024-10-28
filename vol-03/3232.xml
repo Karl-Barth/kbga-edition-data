@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3232">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 18. Mai 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3232 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 278.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3232</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 278-278</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">232</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 24</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 18. Mai 1918. <ref target="https://kba.karl-barth.ch/objects/9769">KBA 9270.172</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-05-18">18. Mai 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-05-18">18. Mai 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3231"/>
+          <ref type="next" target="kbga-texts-3233"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3231"/>
+          <ref type="next-in-corresp" target="kbga-texts-3233"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:33+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:33+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p278" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1918-05-18">18. Mai 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>! Liebe <persName ref="kbga-actors-1285">Marguerite</persName>!</salute>
+        </opener>
+        <p>Vor allem unsre frohen Grüße zur Absage nach <placeName ref="kbga-places-437">Frauenfeld</placeName>. Wir können euch nicht sagen, wie vergnügt wir sind, daß es diesmal wieder so vorbeigegangen ist, umsomehr als wir mit euch in der Sache einig sind, warum es nicht sein mußte.</p>
+        <p>Den Baslern habe ich bereits abgeschrieben. Es war mir gleich klar, daß das nichts sei; auf meinem Exemplar [des Zirkulars] figuriert wie du siehst statt Deiner — <persName ref="kbga-actors-9839">Böhringer</persName>.<note xml:id="n01"><persName ref="kbga-actors-9839">Hans Böhringer</persName> (1883–1958), Pfarrer in St. Gallen.</note> Das zeigt, wie konfus das Unternehmen ist. Wer über den Bankerott des Christentums am 16. <persName ref="kbga-actors-9839">Böhringer</persName> und am 17. dich<note xml:id="n02">Wohl Verschreibung für «mich».</note> hören will, der verdient vorläufig nur Absagen. Ich habe ihnen aber einen längern Brief über Sachlichkeit geschrieben und mich bereit erklärt, in geschlossenem Kreis einmal zu reden. Tu du vielleicht auch einen kleinen Ruf in das Gedröhne hinein, in bekannter Lindigkeit.</p>
+        <p>Ich saß heute den ganzen Tag buchstäblich unter einem Ginsterstrauch und schrieb an einer <ref type="pub-" target="../volume/37/p154#p154">Pfingstpredigt</ref>, wobei ich sehr von der deinigen im Buche<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-1461"><title level="a">Der heilige Geist</title>, in: <title level="m">Suchet Gott …!</title>, S. 81ff. (2. Aufl. S. 83ff.).</bibl>
+                    </note> lebte, der ich überhaupt die Palme zuerkennen würde, von der D. <persName ref="kbga-actors-590">Hadorn</persName><note xml:id="n04">Rezension über<bibl corresp="kbga-bibls-4111"> «<title level="m">Suchet Gott …!</title>» im «Kirchenfreund»</bibl> (vgl. <ref type="pub" target="3214#fn_n01">Anm. 1 zum Brief vom 23.1.1918</ref>): «Die Palme gehört unstreitig dem letzten Beitrag, dem Bibelvortrag.»</note> redete. Hier wieder eine von den schönen Rezensionen, mit denen uns die Kirche nun gemächlich verdaut, wie so viel Anderes. Bitte zurück.</p>
+        <p>Komm doch bald wieder herüber mit gutem Zuspruch. Ich lebe kärglich aus der Hand in den Mund, und niemand ruft hier Amen!</p>
+        <closer>
+          <salute rendition="left">Mit herzlichem Gruß</salute>
+          <signed rendition="right"><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+     
+      <postscript>
+        <p>Eben hörte ich dich am Telephon. Entschuldige das rasche Abbrechen. Aber die Taxe drohte auf das Dreifache zu steigen!! Bei näherer Überlegung komme ich zum Resultat, daß ich besser <hi rend="italic">nicht</hi> komme.<note xml:id="n05"><persName ref="kbga-actors-403">Thurneysen</persName> hatte <persName ref="kbga-actors-2151">Barth</persName> kurzfristig gebeten, ihn am Pfingstsonntag (<date>19. Mai</date>) nachmittags mit der Predigt in <placeName ref="kbga-places-76">Leutwil</placeName> zu vertreten, damit er sich seinerseits für eine weitere Besprechung mit der Gemeinde <placeName ref="kbga-places-437">Frauenfeld</placeName> vorbereiten könne.</note> Meine Predigt echot zu deutlich die deinige vom Buch, und die äußeren Hindernisse sind einfach vorhanden. Schreib mir doch bald, was die Frauenfelder wollen und was du beschließest. Möchte, o möchte es doch dabei bleiben!<note xml:id="n06">d. h. bei der Absage.</note> Sobald ich kann, komme ich zu Fuß oder zu Rad herüber, um alles zu vernehmen.</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

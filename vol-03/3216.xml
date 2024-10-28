@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3216">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. Januar 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3216 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 260–261.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3216</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 260-261</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">216</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 209</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 25. Januar 1918. <ref target="https://kba.karl-barth.ch/objects/9714">KBA 9270.165</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-01-25">25. Januar 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-01-25">25. Januar 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3215"/>
+          <ref type="next" target="kbga-texts-3217"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3215"/>
+          <ref type="next-in-corresp" target="kbga-texts-3217"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p260" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1918-01-25">25. Januar 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich mache folgenden klugen und weisen Vorschlag: ich treffe morgen Samstag gegen Abend bei euch ein. Du verreisest am <pb xml:id="p261" ed="pga"/> Sonntag in der Frühe hieher. Ich komme am Sonntag am frühen Nachmittag wieder in <placeName ref="kbga-places-54">Safenwil</placeName> an. Vorteile: Samstag Abend mit <persName ref="kbga-actors-1285">Marguerite</persName> in <placeName ref="kbga-places-76">Leutwil</placeName>: <bibl corresp="kbga-bibls-1497">Römerbrief</bibl>! Sonntag Nachmittag und Abend mit <persName ref="kbga-actors-26">Nelly</persName> hier: Predigten und Unterweisungen von dir, von denen ich längst nichts mehr weiß. […]</p>
+        <p>Denk, das <orgName ref="kbga-actors-5240">Aarauer Komitee</orgName><note xml:id="n01">Vgl. <ref type="pub" target="3206#fn_n02">Anm. 2 zum Brief vom <date when="1917-12-17">17.12.1917</date></ref>.</note> ist <hi rend="italic">noch</hi> einmal an mich gekommen, und ich habe ein <hi rend="italic">zweites</hi> Mal abgesagt, Alles unter seltsamen Umständen, über die ich dir morgen erzähle. Ich mußte einen ganzen Vormittag mit Briefeschreiben verdubeln<note xml:id="n02">= vertrödeln.</note> deswegen.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute> 
+          <salute>dein, euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

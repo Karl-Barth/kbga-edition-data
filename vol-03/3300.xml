@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3300">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. November 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3300 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 353a–354.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3300</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 353a-354</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">300</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 291</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 25. November 1919. <ref target="https://kba.karl-barth.ch/objects/10316">KBA 9270.220</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-11-25">25. November 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-11-25">25. November 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3299"/>
+          <ref type="next" target="kbga-texts-3301"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3299"/>
+          <ref type="next-in-corresp" target="kbga-texts-3301"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:38+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p353" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1919-11-25">25. November 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ja, ja <hi rend="italic">Eigenschaften!</hi> Auch <persName ref="kbga-actors-330">Ragaz</persName> sagts. «Ach was hat mein Tier getan!» würde <persName ref="kbga-actors-306">Oetinger</persName> ausrufen, und <persName ref="kbga-actors-562">H. Gelzer</persName> würde sich zerknirscht auf den Mund schlagen. Also die Sünde wider den Hl. Geist, die wenigstens vorläufig und wenigstens von <persName ref="kbga-actors-330">Ragaz</persName> nicht vergeben werden kann. Ich bin ratlos und betroffen angesichts dieses katastrophalen Einschlags meines Steilfeuers. […] Ja, sei so gut und suche einmal das Nähere zu erkunden, unter Preisgabe meines Tiers (ich weiß … allerdings … in der Tat … auch ich oft den Eindruck …) die <hi rend="italic">sachliche</hi> Beziehung aufzudecken, die doch irgendwie neben dem Persönlichen zwischen dem <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> und der «neuen tiefen Verstimmung» bei <persName ref="kbga-actors-330">Ragaz</persName> bestehen muß. Lege ihm doch nahe, sich direkt gegen mich auszusprechen, statt mir nun schon zum zweiten Mal indirekt seine moralischen Seufzer mitteilen zu lassen.</p>
+        <p>Ich habe z.Z. sehr zu schaffen. Nicht am Hebräerbrief. Sondern mit Briefen von und nach <placeName ref="kbga-places-151">Deutschland</placeName>, noch mehr aber einfach mit dem Laufenden: gestern Abend hat das Diktat einer <milestone xml:id="m23" unit="page"/> 
+               <pb xml:id="p354" ed="pga"/> Übersetzung und kurzen Erklärung des Epheserbriefs begonnen, die Apostelgeschichte läuft auch weiter, ferner nun wieder alle Dienstage sozialistischer Diskussionsabend, […] am Samstag die <ref type="pub" target="48062">Volksrede</ref> in <placeName ref="kbga-places-425">Suhr</placeName>, vor der mir eigentlich graut und vor deren Besuch ich dich nur warnen kann. Es wird ein kurzes Gestammel werden, wobei der Wagen nach der einen oder nach der andern Seite sicher umleert. Hätte ich doch <persName ref="kbga-actors-457">Baders</persName> Naivität!! Ich werde den Kragen nachher nicht ausziehen [wie er in <placeName ref="kbga-places-334">Tambach</placeName>], aber noch ganz anders der Getüpfte<note xml:id="n01">= Blamierte.</note> sein!</p>
+        <p>Es müssen bei dir […] noch ältere Predigten über Matthäus-Texte sein, sende sie mir zurück, wenn du sie nicht mehr brauchst.</p>
+        <closer>
+          <salute rendition="left">Mit herzlichem Gruß!</salute>
+          <signed rendition="right"><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Auch in Predigt und Unterricht lebe ich aus der Hand in den Mund wie noch selten.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

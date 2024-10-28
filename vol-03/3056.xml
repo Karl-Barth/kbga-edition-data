@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3056">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 18. August 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3056 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 71–72.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3056</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 71-72</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">56</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 54</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 18. August 1915. <ref target="https://kba.karl-barth.ch/objects/8891">KBA 9270.42</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-08-18">18. August 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-08-18">18. August 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3055"/>
+          <ref type="next" target="kbga-texts-3057"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3055"/>
+          <ref type="next-in-corresp" target="kbga-texts-3057"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:21+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:21+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p071" ed="pga"/>
+      <div>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1915-08-18">18. August 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <div>
+        <p>[…] Letzten Sonntag predigte ich über <ref type="pub" target="27034">Sorgen oder Nicht-Sorgen</ref> <ref type="can" subtype="bible" target="Mt.6.25 Mt.6.26">Matth. 6,25–26</ref>, nächsten Sonntag im Anschluß daran über die <ref type="pub" target="27035">Gütergemeinschaft</ref> nach <ref type="can" subtype="bible" target="Act.4">Act. 4</ref>. Am Montag hielt ich im <orgName ref="kbga-actors-9909">Arbeiterverein</orgName> eine Rede über: «Wer ist ein Sozialist?» (Antwort: wer es im Herzen ist) unter Seitenblicken auf den Krieg. […] Ich fand ganz geduldige freundliche Zuhörer. Sie wollen dich diesen Winter oder Herbst auch einmal kommen lassen und werden wohl bald schreiben. Vielleicht redest du auch lieber so in einer Mitgliederversammlung? Ich finde wir können unsere Sache dabei besser sagen als bei den großen Betrieben<note xml:id="n01">= Veranstaltungen.</note> mit Männerchor, öffentlichen Inseraten etc. Jedenfalls solltest du diesmal kommen und irgend einen Schlag führen oder Schuß tun etwa wie den da [folgt Zeitungsausschnitt]:</p>
+      </div>
+      <div type="excursus">
+        <p rend="margin-top">Der gute Zieler</p>
+        <p>«<orgName ref="kbga-actors-9910">La Guerre Mondiale</orgName>» berichtet folgende kleine Geschichte, die sich französische in Urlaub fahrende Offiziere auf der Reise erzählten: Der Glockenturm des Dorfes D. störte einen Teil der Front außerordentlich. Auf diesem Glockenturm stand alles, was hinaufgehört: Maschinengewehre, Signalapparate usw. Man beschließt, damit ein Ende zu machen, und wählt einen guten Zieler. Der geht ans Werk, und nachdem er sein Geschütz gerichtet <pb xml:id="p072" ed="pga"/> hat, gelingt es ihm, mit einem entscheidenden Schuß den störenden Kirchturm zusammenzuschießen. Wie zu erwarten: Glückwünsche. Der gute Artillerist sagt lächelnd auf die Wünsche seiner Vorgesetzten: «Sie würden mich vielleicht nicht mehr beglückwünschen, weil ich es kaum verdiene …» — «Wie? aber Sie verdienen es vollständig!» — «Wenn Sie wüßten, was ich im Zivilleben bin …» — «Was sind Sie denn?» — «Pfarrer!»</p>
+      </div>
+      <div>
+        <p rend="margin-top">Ich habe mit Entsetzen das Tagebuch des Marinepfarrers von der «Gneisenau» gelesen. Es ist ein neuer Beweis, wie wenig Belang eigentlich das äußere Kriegs«erlebnis» für die <hi rend="italic">Sache</hi> hat. Gestern las ich den ganzen Tag <bibl corresp="kbga-bibls-3538"><persName ref="kbga-actors-530">Dostojewski</persName> «Schuld und Sühne»</bibl>; ich wollte ich würde <hi rend="italic">ganz</hi> klug aus diesen Russen. […] Ich hatte heut einen <ref type="kba-objects-id" target="8886">Brief</ref> von meinem alten Freund <persName ref="kbga-actors-515">Karl Buxtorf</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-515">Karl Buxtorf</persName> (1882–1953), Pfarrer in Neßlau, Küsnacht (Zürich) und Basel.</seg></note> mit dem bezeichnenden Motto <ref type="can" subtype="bible" target="Gen.33.14">Gen. 33,14</ref>. So meinen sie uns entrinnen zu können. […] — Letzten Donnerstag hatte ich eine ganz interessante Aussprache mit den Suhrer Sozialdemokraten, man kam wenigstens schon an den Punkt, wo es sich entscheidet, ob man «am Ersten trachten» will … [<ref type="can" subtype="bible" target="Mt.6.33">Matth. 6,33</ref>].</p>
+        <closer>
+          <salute>Herzlichen Gruß von</salute>
+          <salute>deinem getreuen</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName> samt <persName ref="kbga-actors-26">Nelly</persName> und <persName ref="kbga-actors-5802">Fränzeli</persName>!</signed>
+        </closer>
+      </div>
+    </div>
+    </div>
+    </body>
+  </text>
+</TEI>

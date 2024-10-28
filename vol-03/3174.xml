@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3174">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. Juli 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3174 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 215–216.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3174</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 215-216</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">174</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 169</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. Juli 1917. <ref target="https://kba.karl-barth.ch/objects/9481">KBA 9270.127</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-07-17">17. Juli 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-07-17">17. Juli 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3173"/>
+          <ref type="next" target="kbga-texts-3175"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3173"/>
+          <ref type="next-in-corresp" target="kbga-texts-3175"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p215" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+              <date when="1917-07-17">17. Juli 1917</date>
+                    </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Was macht ihr? Wie gehts? […] Ich habe unterdessen den <persName ref="kbga-actors-800">Tholuck</persName><note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4063"><persName ref="kbga-actors-843">L. Witte</persName>, <title level="m">Das Leben D. Friedrich August Gotttreu Tholuck’s,</title> 2 Bände, Bielefeld/Leipzig 
+                        1884/86.</bibl>
+                    </note> ganz gelesen und allerlei Merkwürdiges entdeckt, aber mehr Merkwürdiges als Erfreuliches. Das Bild vom Pietismus, das man sich macht, rundet sich nach und nach ab, und man wird nun wirklich bald auch wieder etwas anderes lesen können. Doch bin ich jetzt am <persName ref="kbga-actors-685">Menken</persName>,<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4064"><persName ref="kbga-actors-5263">C. H. Gildemeister</persName>, <title level="m">Leben und Wirken des Dr. Gottfried Menken, weiland Pastor Primarius zu St. Martini in Bremen</title>, 2 Teile in einem Band, Bremen 1861.</bibl>
+                    </note> und da ist der positive Ertrag in der Tat besser. Hast du den ausführlichen Traum von <persName ref="kbga-actors-800">Tholuck</persName><note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4063"><persName ref="kbga-actors-843">Witte</persName>, <title>a.a.O.</title> I, S. 453ff.</bibl>
+                    </note> gesehen im Anhang, über die Wiederkunft Christi, die er quasi verglunggt?<note xml:id="n04">= verpaßt.</note> Da wirds ziemlich deutlich, was sie im Grunde selber von sich denken mußten! Gestern und heute habe ich nun meinen <ref type="pub" target="48047">Vortrag</ref> für die Basler Knaben<note xml:id="n05">Vgl. <ref type="pub" target="3162#fn_n01">Anm. 1 zum Brief vom <date when="1917-05-16">16.5.1917</date></ref>.</note> gemacht, das Meiste in großer Morgenfrühe. Es ist ein ziemlich großes Werk mit mehreren auf- und niederklappenden Scharnieren, wie du sie nicht so liebst. […] Es wäre diesmal wirklich gut, wenn du auch kämest, schon um mir in der Diskussion beizustehen, wo ich allein unter Geisteskämpfern wie <persName ref="kbga-actors-6732">Wirz</persName><note xml:id="n06"><seg type="bio">Pfr. <persName ref="kbga-actors-6732">D. Jakob Wirz</persName> (1870–1944), Leiter des Studentenheims Alumneum in Basel.</seg></note> und <persName ref="kbga-actors-453">Arnold</persName><note xml:id="n07"><seg type="bio"><persName ref="kbga-actors-453">Wilhelm Arnold</persName> (1873–1938), Pfarrer in Basel.</seg></note> vielleicht bedroht wäre. Wie wäre es, wenn du am Sonntag 29. hierher kämest und dann am Montag früh mit mir nach <placeName ref="kbga-places-779">Buus</placeName>? Ich habe ihnen versprechen müssen, ein paar Tage zu bleiben, und würde es etwa bis Donnerstag tun, je nachdem es dort ist. Ich komme am Dienstag dran. Von dir [als] «Jugendpfarrer» könnte ich bei dem Anlaß lernen, wie <pb xml:id="p216" ed="pga"/> man mit solchen Jünglingen väterlich und doch fest verkehrt. — Mit [den Predigten über] <persName ref="kbga-actors-208">Jeremia</persName> ists unter dem Segen der Boller «Briefblätter» von 1887<note xml:id="n08">
+                        <bibl corresp="kbga-bibls-4065"><persName ref="kbga-actors-47">C. Blumhardt</persName>, <title level="m">Jahrgang 1887 der Briefblätter aus Bad Boll</title>, Stuttgart o.J. Dort S. 71ff.</bibl> Betrachtungen über Jeremia-Texte.</note> weitergegangen, nächsten Sonntag die «<ref type="pub-" target="32029">eherne Mauer</ref>» [<ref type="can" subtype="bible" target="Jer.1">Jer 1</ref>] <ref type="can" subtype="bible" target="Jer.1.18">v. 18</ref>. Ich habe jüngst <persName ref="kbga-actors-26">Nelly</persName> die gewaltige <persName ref="kbga-actors-612">Hofacker</persName>-Predigt XLIV «wider das Hinken auf beiden Seiten»<note xml:id="n09">
+                        <bibl corresp="kbga-bibls-4057"><persName ref="kbga-actors-612">L. Hofacker</persName>, <title>a.a.O.</title> S. 476ff.</bibl>
+                    </note> vorgelesen. Sie machte uns starken Eindruck. Abends nahmen wir dann als Gegenstück die Blumhardt’sche von der «Magerkeit der Kirche»<note xml:id="n10">
+                        <bibl corresp="kbga-bibls-4066"><persName ref="kbga-actors-48">J. C. Blumhardt</persName>, <title level="m">Über die Magerkeit der Kirche</title> (Predigt über <ref type="can" subtype="bible" target="Jes.24.16">Jes 24,16</ref> von 1846), Predigt-Blätter aus Bad Boll, Jg. 1881, Nr. 92, S. 269–290;</bibl> wieder abgedruckt in: <bibl corresp="kbga-bibls-4067">J. C. Blumhardt, <title level="m">Ausgewählte Schriften in 3 Bänden</title>, Bd. 2: Die Verkündigung, Zürich 
+                        1948, S. 105ff.</bibl>
+               </note> entgegen. […] Wir lesen auch «Prometheus» von <persName ref="kbga-actors-781">Spitteler</persName><note xml:id="n11">
+                        <bibl corresp="kbga-bibls-4068"><persName ref="kbga-actors-781">Carl Spitteler</persName>, <title level="m">Prometheus und Epimetheus. Ein Gleichnis</title>, Jena
+                            1911<edition rend="sup">3</edition>.</bibl>
+                    </note> zusammen.</p>
+        <closer>
+          <salute>Herzliche Grüße von Groß und Klein!</salute>
+          <salute>Euer</salute>
+          <signed>Karl</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3124">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 20. September 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3124 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 153–155.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3124</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 153-155</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">124</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 121</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 20. September 1916. <ref target="https://kba.karl-barth.ch/objects/9228">KBA 9270.91</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-09-20">20. September 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-09-20">20. September 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3123"/>
+          <ref type="next" target="kbga-texts-3125"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3123"/>
+          <ref type="next-in-corresp" target="kbga-texts-3125"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:26+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:26+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p153" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+                        <placeName ref="kbga-places-66">Zürich</placeName>, <date when="1916-09-20">20. September 1916</date>
+                    </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>So sind wir denn nun alle in unserm <foreign xml:lang="lat">Otium cum dignitat</foreign>e angelangt und freuen uns gelassen am Ablauf der Zeit, an der Natur, an den Menschen und an unsern eigenen pendelnden Gedänklein, <pb xml:id="p154" ed="pga"/> ohne allen Zwang, kleine und große Sprüche über den lieben Gott tun zu müssen. Es ist ein rechtes Fest, und wir hoffen herzlich, ihr könnt es so freudig genießen wie wir. Für uns wars hohe Zeit, daß die Ferien kamen, speziell für mich diesmal; ich wäre 8 Tage vor Bettag beinahe noch zusammengeklappt, aber nur beinahe, es blieb bei einer Fiebernacht, nach der ich aber doch wieder predigen konnte, weil es eben sein mußte. […] Dann kam der Bettag, auf den ich mich als solchen in den zwei Predigten<note resp="sm" type="digital" xml:id="n1a" n="1a"><ref type="pub" target="29042">Bettag I</ref>: Jesaja 6,1-8  vom 17. September 1916; <ref type="pub" target="29043">Bettag II</ref>: 1.Samuel 3,1-10 vom 17. September 1916</note>, die ich zu halten hatte, sozusagen gar nicht einließ; sondern ich variierte im Anschluß an <ref type="can" subtype="bible" target="Jes.6.1 Jes.6.13">Jes. 6,1ff.</ref> und <ref type="can" subtype="bible" target="1.Sam.3.1 1.Sam.3.21">1.Sam. 3,1ff.</ref> das Thema vom «rechten Wort», das jetzt <hi rend="italic">nicht</hi> zu haben ist für die großen Fragen, die uns bewegen. <persName ref="kbga-actors-26">Nelly</persName> war diesmal erfreut und fand die Predigten «beflügelt», aber was alle die Bettagschristen gedacht haben mögen, ist eine andere Frage. Und dann stiegen wir alle ins Züglein […] und kamen zuletzt in einem Automobil durch «Babel» rasend, glücklich hier oben an, wo nun ein beschauliches «Warten» im schönsten Sinn, für mich z. B. bei den dicken Cigarren meines Schwagers, angefangen hat. Vorgestern und gestern war ich mit <persName ref="kbga-actors-26">Nelly</persName> auf dem stolzen <placeName ref="kbga-places-743">Ritterschloß Altenklingen</placeName> im <placeName ref="kbga-places-336">Thurgau</placeName> zur Hochzeit Karls des Kühnen [Dr. <persName ref="kbga-actors-586">Karl Guggenheim</persName>]. Schlaf in einer mittelalterlichen Kemenate, Gespräche unter Helmen und Hellebarden, Trauung in einer Schloßkapelle mit Ahnengrüften, große Mahlzeit […] in einer Art Krönungssaal mit unheimlichen Bildern von Vorfahren und ebenso unheimlichen vaterländischen Emblemen, <persName ref="kbga-actors-586">Guggenheim</persName> und seine <persName ref="kbga-actors-587">Frau</persName> unter einem Triumphbogen, wir zwei als Ehrenpersonen ihnen gegenüber in hohen Stühlen — ja, was noch alles und mitten drin dann, in einem bunten Kreis von bessern St. Galler Herren, Zofingern<note xml:id="n01">Altmitglieder der Studentenverbindung <orgName ref="kbga-actors-2687">Zofingia</orgName>.</note> und Offizieren ich mit meinem Spruch vom Schatz im Acker [<ref type="can" subtype="bible" target="Mt.13.44">Mt 13,44</ref>], […] den ich doch ganz gern und freudig tat. So sind wir nun um eine merkwürdige festliche Erinnerung reicher geworden. Doch wird es nun vorläufig mit solchen Juristen-Trauungen genug sein. […]</p>
+        <p><persName ref="kbga-actors-763">Schild</persName> hat mir einige Détails von deinem Kampf mit dem Drachen [Pastoralkonferenz] in <placeName ref="kbga-places-783">Kulm</placeName> beschrieben, und ich hatte den Eindruck, du habest doch keineswegs vergebens deine Sache <pb xml:id="p155" ed="pga"/> gesagt. Daß die «elende Pfaffenwirtschaft» zunächst immer mit blöden Repliken reagieren muß, ist ja eine bekannte Sache, läßt aber noch keinen Schluß zu über den tatsächlichen Erfolg oder Mißerfolg. Und besonders erfreulich war doch offenbar die Attacke <persName ref="kbga-actors-541">Epprechts</persName>. <hi rend="italic">Diese</hi> Treibmine haben wir nicht umsonst geladen und aufgesetzt.</p>
+        <p>Ich bekam für die erste Hälfte des <ref type="pub" target="48039"><persName ref="kbga-actors-47">Blumhardt</persName>-Artikels</ref> bereits huldvolle Schreiben von <persName ref="kbga-actors-735">Richard Preiswerk</persName> […] und von dem aufgeregten Sozialdemokraten <persName ref="kbga-actors-681">Mattmüller</persName> in <placeName ref="kbga-places-447">Buchs</placeName>. Heute gehen wir nun zu <persName ref="kbga-actors-330">Ragaz</persName> und werden uns verantworten müssen wegen dieser Publikation.</p>
+        <p>[…]</p>
+        <p>Meldet euch bei Zeiten wegen eurem Hieherkommen, wir haben allerlei vor. Tagsüber lege ich ruhig die Schrift aus, Abends aber leben wir in Saus und Braus, gestern Abend z. B. in der «<bibl corresp="kbga-bibls-4455">Entführung aus dem Serail</bibl>»! […]</p>
+        <closer>
+          <salute>Und nun empfangt tausend herzliche Grüße von</salute> 
+          <salute>euren getrosten und getreuen</salute>
+          <signed><persName ref="kbga-actors-26">N.</persName> und <persName ref="kbga-actors-2151">K.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

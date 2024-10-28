@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3020">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 20. Januar 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3020 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 24–27.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3020</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 24-27</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">20</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 18</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 20. Januar 1915. <ref target="https://kba.karl-barth.ch/objects/8708">KBA 9270.15</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-01-20">20. Januar 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-01-20">20. Januar 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3019"/>
+          <ref type="next" target="kbga-texts-3021"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3019"/>
+          <ref type="next-in-corresp" target="kbga-texts-3021"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+   
+    <body>
+      <div type="letter">
+       <pb xml:id="p024" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-01-20">20. Januar 1915</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Thurneysen</persName>!</salute>
+        </opener>
+        <p>Statt am Sonntag über das Stürmen des Himmelreiches predigen zu können, wurde ich am Samstag auf einmal in die Stille geführt durch eine plötzlich hervorbrechende Influenza, an der ich bis jetzt leide. Da lag ich nun, und an meiner Stelle predigte der Helfer über die Weisen aus dem Morgenlande!! und aus dem <pb xml:id="p025" ed="pga"/> Brittnauer Vortrag, den ich schon neu ausgearbeitet [habe], wurde auch nichts, und meine Frau mußte heute aus <placeName ref="kbga-places-9">Bern</placeName> zurückkommen, und noch ist mir für einige Tage der Mund verschlossen, wie es scheint. Doch hat das auch seine Vorteile. Ich habe im Bett <bibl corresp="kbga-bibls-3813"><persName ref="kbga-actors-813">Turgenjew</persName> «Väter und Söhne»</bibl> gelesen (das Lesen der Russen scheint unter den Religiössozialen epidemisch zu werden; ich höre von allen Ecken von solcher Lektüre; das ist sicher nicht ohne «symptomatische Bedeutung»!). […] Nun bin ich an <bibl corresp="kbga-bibls-3814"><persName ref="kbga-actors-458">Bächtolds</persName> «Gottfried Keller»</bibl>.<note xml:id="n01"><bibl corresp="kbga-bibls-3814"><persName ref="kbga-actors-458">J. Bächtold</persName>, <title level="m">Gottfried Kellers Leben. Seine Briefe und Tagebücher</title>, Berlin 1894-1897.</bibl></note> So hat das Marodesein auch sein Gutes, und ich werde es ohne Gram und Reue noch etwas fortsetzen, wenn es sein muß. […] <persName ref="kbga-actors-580">Greyerz</persName> teilte mir am Tag nach dem <persName ref="kbga-actors-329">Rade</persName>-Fest<note xml:id="n02">Prof. <persName ref="kbga-actors-329">Martin Rade</persName> war zu Aussprachen in der Schweiz.</note> mit, er habe im Sinn, so etwas für die ganze <placeName ref="kbga-places-58">Schweiz</placeName> zu organisieren: die Religiössozialen sollten sich 2 und 2 (wie die Jünger) über alle größeren Ortschaften ergießen und in Kirchen, Schulen oder Bierlokalen über Krieg und Frieden reden — nach vorausgegangener Instruierung durch <persName ref="kbga-actors-330">Ragaz</persName>. Du weißt ja, wie <persName ref="kbga-actors-580">Greyerz</persName> einen für solche Sachen einseifen kann. Zum Glück besteht diese Sache erst in seinem Geist. Immerhin wurde er fast böse, als ich ihm von unserer Unternehmung<note xml:id="n03">Evangelisationswoche in <placeName ref="kbga-places-426">Seon</placeName> Mitte <date when="1915-02">Februar 1915</date>, an der u.a. <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-403">Thurneysen</persName> und als Initiator der Ortspfarrer <persName ref="kbga-actors-529">M. Dietschi</persName> beteiligt waren.</note> erzählte: man sollte jetzt die Kräfte nicht zersplittern.</p>
+        <p>Wie hast du den Eindruck des <persName ref="kbga-actors-329">Rade</persName>-Festes verarbeitet? Ich habe darauf eine <ref type="pub" target="27004">Predigt</ref> gehalten, in der das prophetische Wort nach dem Gefühl meiner Frau überwucherte. Natürlich!! <persName ref="kbga-actors-329">Rade</persName> sagte mir an jenem Abend bei uns Zuhause noch, wir könnten mit unserm Glauben doch nie Erfolg haben in der Welt, und am folgenden Tag: «Ihr steht ja längst alle abgemalt im <persName ref="kbga-actors-410">Troeltschl</persName>» Und im Tram wurde er noch einmal sehr böse wegen des deutschen Militarismus, der gar nicht so schlimm sei, und überhaupt sei der französische noch ärger! Auf das Alles und auf das, was er am Abend sagte, kann man doch eigentlich nur mit Sprüchen, Gleichnissen und sinnbildlichen Handlungen à la <persName ref="kbga-actors-208">Jeremia</persName> antworten, und das hat eben meine nächste Predigt büßen müssen. Doch halte ich es mit <persName ref="kbga-actors-853">Zulauf</persName>, der mir auf meine sanften Bedenken gegen seine Novellistik antwortete, jetzt müsse ein jeder tun, was er nicht lassen kann, […] nur «das vornehme Weiterwursteln <pb xml:id="p026" ed="pga"/> und noch vornehmere Schweigen der Weisen» sei vom Übel. Daran mußte ich denken, als ich jüngst in Sachen einer Lesemappe einen Nachmittag mit <persName ref="kbga-actors-735">Preiswerk</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-735">Richard Preiswerk</persName> (1855–1934), Pfarrer in Umiken bei Brugg, nah verbunden mit <persName ref="kbga-actors-47">Christoph Blumhardt</persName> in <placeName ref="kbga-places-158">Bad Boll</placeName></seg>.</note> und <persName ref="kbga-actors-847">Zickendraht</persName><note xml:id="n05"><seg type="bio">Lic. <persName ref="kbga-actors-847">Karl Zickendraht</persName> (1883–1948), Schüler <persName ref="kbga-actors-420">Wernles</persName>, Privatdozent in Basel.</seg></note> in <placeName ref="kbga-places-429">Wildegg</placeName> zubrachte und wieder einmal milde Mahnungen wegen des ewigen <persName ref="kbga-actors-329">Rade</persName>briefes zu hören bekam. «Nur jetzt schwiiige, schwiige!» Ja, ja, ja doch Herr Pfarrer aus <placeName ref="kbga-places-158">Boll</placeName>, aber! Mit <persName ref="kbga-actors-847">Zickendraht</persName> hatte ich nachher noch ein zäh-klebriges Gespräch über <persName ref="kbga-actors-261">Luther</persName>, bei dem ich zuletzt fast unter einen Zug kam auf dem Bahnhof. Pfr. <persName ref="kbga-actors-772">Schwarz</persName> in <placeName ref="kbga-places-430">Basadingen</placeName> […] kam folgenden Tags flugs wieder zu <persName ref="kbga-actors-329">Rade</persName> (in <placeName ref="kbga-places-5">Basel</placeName>), um in ziemlich ungefreuter Weise zu schnüffeln, was in <placeName ref="kbga-places-9">Bern</placeName> gegangen sei. Zu wessen Handen ist ja klar [<persName ref="kbga-actors-420">Wernle</persName>!]. Es ist ganz recht, wenn er die «<orgName ref="kbga-actors-4867">Neuen Wege</orgName>» nicht mehr liest, und auch recht, wenn er keine solch schwachen Angriffe mehr dagegen machen will. Doch wollen wir erst abwarten, wie er das durchführt. Ich abonniere das «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>» auch nicht trotz verlockender Probenummern. […] Mein Maiteli hat sie in einem unbewachten Moment in der Eisenbahn voll Entrüstung zerfetzt. «Solcher ist das Himmelreich!» [<ref type="can" subtype="bible" target="Mt.19.14">Mt 19,14</ref>] — Hier schicke ich dir alles wieder. Im «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>» habe ich — auch in einem unbewachten Moment! — Invektiven an den Rand geschrieben, die jetzt wieder ausradiert sind mit Ausnahme des Schlußresultates. Das ist für mich nun eigentlich ein Stück «sittlicher Aufgabe» für die nächste Zeit, mich durch das Gerede und Getue und Geschwätz dieser Leute nicht mehr stören, irremachen und ärgern zu lassen.</p>
+        <p>Vor vierzehn Tagen hatte ich eine merkwürdige Hochzeitsansprache zu halten in <placeName ref="kbga-places-66">Zürich</placeName>: meine älteste Schwägerin hat einen portugiesischen Dr. iur., […] geheiratet. Szene: die Gemäldegalerie meines Schwagers <persName ref="kbga-actors-640">Kisling</persName>. Ich stand zwischen Bäumen unter einem gewaltigen bluttriefenden Teilstück von <persName ref="kbga-actors-610">Hodlers</persName> Marignanobild, ein Schweizer holte mit seiner Waffe nach meinem Kopf aus die ganze Zeit!! — In <placeName ref="kbga-places-9">Bern</placeName> habe ich einen Dr. <persName ref="kbga-actors-629">Jung</persName> kennengelernt, Vetter des berühmten, der sein Leben auch mit Psychoanalyse ausfüllt. Ich wurde dann eines Abends kunstgerecht ausgenommen und ein prächtiger Vaterkomplex zutage gefördert. <pb xml:id="p027" ed="pga"/> Du hast sicher auch einen und solltest nicht versäumen, dir ihn einmal aufweisen zu lassen.</p>
+        <p>Aus der hiesigen Schulpflege bin ich auf Neujahr ausgetreten. Der Bezirksschulrat wählte an meiner Stelle den Fabrikanten <persName ref="kbga-actors-5822">Hochuli</persName>, der dann schleunigst die Behörde zu einem kleinen Suff in seine Villa einlud. So ists recht! […]</p>
+        <p>Vale! Wann sehen wir uns wieder? Ich werde dir gern wieder einmal zuhören. Aber über <persName ref="kbga-actors-330">Ragaz</persName> solltest du weniger schimpfen trotz seiner sichtlichen Mängel. Er ist doch einer von denen, die jetzt am meisten zu sagen haben.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß auch von meiner Frau</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+    
+      <postscript>
+        <p>[Als Anhang:]</p>
+        <p rend="center"><hi rend="italic">Die Religiös-Sozialen</hi></p>
+        
+        <p>Friedlich rauchet der Stümpen. Gleich ruft der Kuckuck halb elf Uhr. Still! der Herr Pfarrer studiert: morgen ist Weltgericht.</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

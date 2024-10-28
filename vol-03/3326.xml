@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3326">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 20. April 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3326 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 381–383.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3326</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 381-383</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">326</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 317</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 20. April 1920. <ref target="https://kba.karl-barth.ch/objects/10540">KBA 9370.340</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 20. April 1920. <ref target="https://kba.karl-barth.ch/objects/10541">KBA 9370.341</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-04-20">20. April 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1920-04-20">20. April 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3325"/>
+          <ref type="next" target="kbga-texts-3327"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3325"/>
+          <ref type="next-in-corresp" target="kbga-texts-3327"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:39+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:39+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p381" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+      <placeName ref="kbga-places-77">St. Gallen-Bruggen</placeName>, <date when="1920-04-20">20.April 1920</date>
+                    </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Du wirst wie ich bewegt und nachdenklich von allem Erlebten heimgekehrt sein und hinter Pfeife und Pult hervor auf das <ref type="pub" target="48064">Aarauer Experiment</ref> zurückblicken. Was war das für eine notvolle Situation! Trotzdem es eigentlich vorauszusehen war, wie es kam, war man doch immerhin betroffen und überrascht genug, als es kam. Es war so gar nichts von wirklicher Bewegtheit und innerer Erschütterung bei den Studenten zu entdecken. Es war natürlich ein Experiment, auf den in seiner Art geglückten und vollendeten <persName ref="kbga-actors-155">Harnack’schen</persName> Vorstoß hin nachzustoßen. Nun, unsere Knochen sind noch alle beieinander trotz <persName ref="kbga-actors-155">Harnack</persName>-<persName ref="kbga-actors-821">Vischer</persName>. Es ist dir wirklich keine, aber auch gar keine beachtliche Einrede begegnet. Offenbar hat <persName ref="kbga-actors-155">Harnack</persName> so gewirkt, daß sich alle in ihrem sozusagen «Besten» bestärkt und bestätigt fühlten und höchstens aufs neue nur dazu gewillt und befähigt waren, am Endpunkt aller ihrer guten Meinungen «das Unerforschliche ruhig zu verehren».<note xml:id="n01">«Das schönste Glück des denkenden Menschen ist, das Erforschliche erforscht zu haben und das Unerforschliche ruhig zu verehren.» <bibl corresp="kbga-bibls-2795">Goethe, <title level="m">Maximen und Reflexionen, aus dem Nachlaß; Über Natur und Naturwissenschaft</title>.</bibl></note> Nun trat aber unter deinen Händen das «Unerforschliche» an Propheten und Aposteln, auf <placeName ref="kbga-places-405">Golgatha</placeName> und am leeren Grab mit unerhörter Vehemenz als das Erste und das Letzte, als die Grundlagen des Lebens bewegende und neuschaffende Dynamis in Erscheinung. Was Wunder, daß sich alle zu ihren altgewohnten Altären flüchteten und dich als den der Tempelschändung Angeklagten oder gar nur als unwissenschaftlichen Prediger vom <pb xml:id="p382" ed="pga"/> Lande verdächtigten und die unheimliche Gewalt der von dir enthüllten biblischen Gesichte abschüttelten und als Spuk erklärten. Es wird jetzt erst recht gut sein, wenn die <bibl corresp="kbga-bibls-1686"><ref type="pub" target="48063">Overbeckschrift</ref></bibl> erscheint. Das Gefecht schreitet weiter. Übrigens ist keine Rede davon, daß du nur eine negative Reaktion erzeugt hättest. Lies beiliegenden Brief unsrer Basler Freundin <persName ref="kbga-actors-676">Martha Lüssy</persName>, die dich, obwohl sie keine intellektuelle Natur ist, ganz gut und tief verstanden hat. Es sind noch viele, vor allem unter den Laien, die <persName ref="kbga-actors-155">Harnack</persName> nicht erlagen. Mir persönlich ist deine Auseinandersetzung mit der Religionsgeschichte besonders wichtig geworden. Ich habe die deinem Vortrag zu Grunde liegende Osterpredigt, deine Angst, etwas zu verschütten oder zu verraten, deutlich mitgespürt und das Bewußtsein der Incongruenz des Gesagten zum Gemeinten mitempfunden und habe in diesem Bewußtsein und in dieser Angst den eigentlichen Zeugnischarakter deines Redens gefunden. Du selber stehst unnahbar und darum unantastbar da, ein «jaschar», wie <persName ref="kbga-actors-38">Bengels</persName> Leibwort aus den Psalmen («schlicht, gerade, recht») es meint. Ich bin mit einigen Zürchern heimgereist und habe mich ziemlich unerfreulich mit ihnen unterhalten. Einer redete mit Respekt von der immerhin großen Lebensarbeit <persName ref="kbga-actors-155">Harnacks</persName>, die gewiß niemand bestreiten wird, aber ich dachte an <persName ref="kbga-actors-312">Overbeck</persName>, und alle fielen über mich her, als ich <persName ref="kbga-actors-155">Harnacks</persName> Rede etwas fraglich fand. Und nun bin ich froh über unsere Freiheit, wenn auch aufs Neue gewahr unserer Isoliertheit endlich in meiner Studierstube und hinter meiner Predigt gelandet. Ich mußte ihr freilich bis in die Nacht hinein Änderungen und neue Wendungen angedeihen lassen; es war nicht anders möglich nach den Eindrücken von deinem Vortrag her.</p>
+        <p>Neues geschieht hier nicht. Die Fremdheit, die uns hier umgibt, hält mich wie gefangen, und ich empfinde die Predigt als das einzige Loch, um herauszuschlüpfen. Mein Kirchenpflegspräsident, <persName ref="kbga-actors-796">Robert Sturzenegger</persName>,<note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-796">Rob. Sturzenegger</persName> (1883–1961), kirchlich sehr interessierter Kaufmann, Mitglied der Leitung des <orgName ref="kbga-actors-8035">Schweiz. Kirchenbundes</orgName>, Freund <persName ref="kbga-actors-403">Thurneysens</persName>.</seg></note> ein Kaufmann, steht mir wacker zur Seite. Pfarrer <persName ref="kbga-actors-514">Hans Burri</persName> besuchte mich gestern Abend. Wir lasen zusammen <bibl corresp="kbga-bibls-4190"><persName ref="kbga-actors-322">Platos</persName> Eutyphron</bibl>, den, wie <persName ref="kbga-actors-514">Burri</persName> sagt, einzigen Dialog, in welchem <persName ref="kbga-actors-777">Sokrates</persName> mit einem «Pfarrer» redet.</p>
+        <pb xml:id="p383" ed="pga"/>
+        <p>Wir müssen uns bald einmal sehen. Wie bist du heimgekommen? Ich konnte noch ein wenig mit deinem Bruder <persName ref="kbga-actors-23">Heinrich</persName> reden, was mich sehr freute.</p>
+        <closer>
+          <salute rendition="left">Herzliche Grüße von uns beiden!</salute>
+          <signed rendition="right"><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Eben kam dein Brief. Herzlichsten Dank! Was für gute reiche Nachrichten! Du konntest nichts besseres tun, als diesen Rösselsprung <persName ref="kbga-actors-155">Harnack</persName>-<persName ref="kbga-actors-821">Vischer</persName> — <persName ref="kbga-actors-494">Carl Albrecht Bernoulli</persName> — Frau <persName ref="kbga-actors-719">Overbeck</persName> — auszuführen. Ich habe schmunzelnd Kenntnis davon genommen. Der Brief der unbekannten Aarauerin über deinen <ref type="pub" target="48064">Aarauer Vortrag</ref> ist ungewöhnlich gut. Was willst du mehr! Die Stellungen unsrer Gegner sind wirklich sturmreif. Wenn die Auseinandersetzung nur nicht zu schnell kommt!</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

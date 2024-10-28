@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3030">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 5. Mai 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3030 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 39–41.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3030</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 39-41</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">30</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 28</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 5. Mai 1915. <ref target="https://kba.karl-barth.ch/objects/8794">KBA 9270.23</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-05-05">5. Mai 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-05-05">5. Mai 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3029"/>
+          <ref type="next" target="kbga-texts-3031"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3029"/>
+          <ref type="next-in-corresp" target="kbga-texts-3031"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:19+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:19+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p039" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+
+            <date when="1915-05-05">5. Mai 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ich habe gestern <persName ref="kbga-actors-763">Schild</persName> besucht und verstand mich diesmal besser mit ihm. Er erzählte mir, er sei für den Vortrag im Pastoralverein gepreßt worden und könne nicht gut anders — das gab ich ihm zwar nicht zu —, hingegen sei er längst entschlossen, damit zum letzten Mal an den Pastoralverein zu gehen, er habe jetzt <pb xml:id="p040" ed="pga"/> übergenug etc. Ich sagte ihm dann, daß wir nicht kommen würden diesmal, daß wir uns aber später von Fall zu Fall neu entschließen wollten, ich für meine Person habe aber auch nicht im Sinn, so bald wieder hinzugehen. So ist die Lage für einmal klar. […]</p>
+        <p>Nun wegen der <placeName ref="kbga-places-1341">Sääli</placeName>-Konferenz.<note xml:id="n01">Auf dem <placeName ref="kbga-places-1341">Säälischlößli</placeName> bei <placeName ref="kbga-places-50">Olten</placeName> fand eine Kleine Konferenz statt mit einem theologischen Thema.</note> Lieber, du sollst doch das Referätli übernehmen: 1. weil du die vielen Broschüren besitzest, 2. weil du mehr historischen Blick hast als ich, 3. weil es dir besonders durch dein Verhältnis zu <persName ref="kbga-actors-410">Troeltsch</persName> besser gelingen wird, die positiven Vorzeichen etc. herauszuarbeiten. Ich würde wirklich lieber dir zuhören als meinen eigenen Sprüchen, und für die andern und für die Sache ist es auch ersprießlicher. — Nach <placeName ref="kbga-places-426">Seon</placeName> kann ich nicht kommen am Montag, ich gehe nämlich nach <placeName ref="kbga-places-9">Bern</placeName> an die <orgName ref="kbga-actors-9902">religiössoziale Vereinigung</orgName>. <persName ref="kbga-actors-580">Greyerz</persName> redet über «Die Frage nach Gott». Kommst du vielleicht auch und übernachtest bei uns am Claraweg? Das Ehepaar aus <placeName ref="kbga-places-248">Laupen</placeName><note xml:id="n02"><persName ref="kbga-actors-27">Peter Barth</persName> und seine Frau <persName ref="kbga-actors-5803">Lenchen</persName>, geb. <persName ref="kbga-actors-329">Rade</persName>.</note> wird wohl auch da sein, und es könnte ein nettes «Festlein» geben.</p>
+        <p>Unser Verhältnis zu den «Andern» ist mir auch ein schweres Problem. […] Irre ich mich, wenn es mir vorkommt, daß unsere quasi Absonderung eigentlich bis jetzt gerade auf <persName ref="kbga-actors-636">Keller</persName>, <persName ref="kbga-actors-423">Wieser</persName>, <persName ref="kbga-actors-763">Schild</persName> z. B. eher erfreuliche Wirkungen ausübt? Die Leute schimpfen über unsere «Lieblosigkeit» und werden doch gerade durch sie auf die Probleme hingestoßen, auf die es uns ja ankommt. Während das ewige «Eingehen» auf ihre Art eigentlich alles beim Alten läßt. Über die «Taktik» ist wohl prinzipiell nicht viel auszumachen. Taktik ist eben Taktik und nicht Prinzip und wird immer oszillieren zwischen Zurückhaltung und Mitmachen, offener Kritik und schweigendem Gewährenlassen, persönlicher Sonderstellung und harmlosem «brüderlichem» Umgang mit den Kollegen. Warum nicht je nachdem Beides, je nachdem als es eben darauf ankommt, sich «von der Welt unbefleckt zu erhalten» [<ref type="can" subtype="bible" target="Jak.1.27">Jak 1,27</ref>] oder «des Andern Last zu tragen» [<ref type="can" subtype="bible" target="Gal.6.2">Gal 6,2</ref>] oder «das Licht leuchten zu lassen» [<ref type="can" subtype="bible" target="Mt.5.16">Mt 5,16</ref>]. Ich meine, wenn wir das «Licht» erst recht klar hätten für uns selbst, dann wäre die Taktik von Fall zu Fall ohne Weiteres da.</p>
+        <pb xml:id="p041" ed="pga"/>
+        <p>Auf Montag hatte ich zur Eröffnung des Konfirmandenunterrichts zu einem Elternabend eingeladen. Es kamen aber nur etwa ein Dutzend und die halbe Kirchenpflege. Bäh! <persName ref="kbga-actors-26">Nelly</persName> arbeitet gewaltig in Haus und Garten, ich darf gelegentlich zur Ergänzung des innern Tuns auch etwas hacken. […] Ich lese eben <bibl corresp="kbga-bibls-3513"><persName ref="kbga-actors-240">Kutter</persName> «Die Welt des Vaters»</bibl>.<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-3513"><persName ref="kbga-actors-240">H. Kutter</persName>, <title level="m">Die Welt des Vaters. Predigten über Lukastexte</title>, Zürich
+                            1901.</bibl>
+                    </note> Und dazu als Gegenstück <bibl corresp="kbga-bibls-4435"><persName ref="kbga-actors-500">Bismarcks</persName> Reden</bibl>. Hier die <ref type="pub" target="27019">Predigt</ref>; am nächsten Sonntag will ich vom «<ref type="pub" target="27020">Warten</ref>» reden (<ref type="can" subtype="bible" target="Röm.8.24 Röm.8.38">Röm. 8,24ff.</ref>).</p>
+        <closer>
+          <salute>Herzlichen Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

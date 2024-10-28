@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3241">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 11. Juli 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3241 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 284–286.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3241</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 284-286</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">241</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 233</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 11. Juli 1918. <ref target="https://kba.karl-barth.ch/objects/9808">KBA 9270.177</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-07-11">11. Juli 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-07-11">11. Juli 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3240"/>
+          <ref type="next" target="kbga-texts-3242"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3240"/>
+          <ref type="next-in-corresp" target="kbga-texts-3242"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:33+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:33+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p284" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1918-07-11">11. Juli 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Nimm vor allem unsern nachträglichen herzlichen Zuruf entgegen zu deinem Geburtstag. […] 30 Jahre sind eine schöne, runde, auch biblisch wichtige Zahl, uns aber wird es wohl wie <persName ref="kbga-actors-2228">Mose</persName> ziemen, bis zum 40. zu warten, ehe wir losbrechen, und vielleicht werden uns <hi rend="italic">dann</hi> noch weitere 40 Wüstenjahre diktiert. So wirst du wohl nicht lange betrachtend bei den 30 verweilen, sondern mit steter Wendung gen Jerusalem<note xml:id="n01">Vgl. <bibl type="song" corresp="kbga-songs-132"><persName ref="kbga-actors-797">G. Tersteegen</persName>, «<title level="m">Kommt, Kinder, laßt uns gehen</title>», Strophe 2 in der Textfassung des Gesangbuchs für die ev.-ref. Kirche der deutschen Schweiz von 1891, Nr. 327</bibl>: «… Ein jeder sein Gesichte mit steter Wendung richte hin nach Jerusalem.»</note> schon wieder unterwegs sein und wir andern in getreulichem Gedenken mit dir.</p>
+        <p>Der <orgName ref="kbga-actors-5240">Aarauer Konferenzbericht</orgName><note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4121"><title level="m"><bibl corresp="kbga-bibls-4121">Die XXII. Christliche Studenten-Konferenz. Aarau 1918. Den 11. bis 13. März</bibl></title>, Bern
+                            1918</bibl>. <bibl corresp="kbga-bibls-4123">Darin: <persName ref="kbga-actors-580">K. v. Greyerz</persName>, <title level="m">Moses, Elias, Jesus</title> (Predigt über <ref type="can" subtype="bible" target="Mk.9.2 Mk.9.9">Mk 9,2–9</ref>), S. 5–20</bibl>; <bibl corresp="kbga-bibls-4124"><persName ref="kbga-actors-457">H. Bader</persName>, <title level="m">Erlösung</title>, S. 21–38</bibl>; <bibl corresp="kbga-bibls-4125"><persName ref="kbga-actors-794">K. Straub</persName>, <title level="m">Die religiöen Grundlagen des Sozialismus</title>, S. 39–66</bibl>; <bibl corresp="kbga-bibls-4126"><persName ref="kbga-actors-661">R. Lejeune</persName>, <title level="m">Das Schöpferische in der Geschichte</title>, S. 85–131.</bibl>
+                    </note> gibt mir sehr zu denken. Was für eine Wolke von Zeugen, die offenbar alle die gleiche Melodie singen wollen, aber im Effekt ists doch ein großes Durcheinanderrufen. Oder sollte das schon die Harmonie Jerusalems sein, in der dann tatsächlich jedes Stimmlein <hi rend="italic">seine</hi> Melodie singen <hi rend="italic">darf</hi>:: <pb xml:id="p285" ed="pga"/> <persName ref="kbga-actors-580">Greyerz</persName> sein Banal-Horn-Motiv, <persName ref="kbga-actors-457">Bader</persName> seine usw. In meinen Ohren überwiegt leider immer noch der chaotische Eindruck. Gehts dir besser? Fällt es dir nicht auf, wie <hi rend="italic">spurlos</hi> unser beider Aarauer Predigten von 1916 und 1917<note resp="sm" type="digital" xml:id="n2a" n="2a"><persName ref="kbga-actors-2151">Karl Barth</persName> <ref type="pub" target="48034"><hi rend="italic">Die Gerechtigkeit Gottes</hi> (1916)</ref>; <persName ref="kbga-actors-457">Eduard Thurneysen</persName> <bibl corresp="kbga-bibls-4044"><hi rend="italic">Gotteshilfe</hi> 1917</bibl></note> an dieser ganzen Schar vorübergegangen zu sein scheinen? Von unserm <bibl corresp="kbga-bibls-1461">Buch</bibl> nicht zu reden. Und das sind nun «unsere Freunde»! Sind wir eigentlich auch nur so ein Grüpplein unter diesen vielen vor sich hin lärmenden Grüpplein, und gäbe mans nicht besser auf, irgend etwas in diesen Knäuel ferner hineinrufen zu wollen, bis sie von selber schweigen auf ihrem «sogenannten Berg der Verklärung» (<persName ref="kbga-actors-580">Greyerz</persName>)<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4123"><title>A.a.O.</title> S. 6</bibl>: «Eben darum laßt uns in dieser Stunde miteinander den Berg der sogenannten Verklärung betreten.»</note> mit ihrer «alten Bibel» (<persName ref="kbga-actors-794">Straub</persName>)<note xml:id="n04"><bibl corresp="kbga-bibls-4125">A.a.O. S. 65</bibl>: «Lassen Sie mich am Schluß aus unserer alten Bibel zwei Stellen vorlesen.»</note> und mit ihrem <persName ref="kbga-actors-492">Bergson</persName>, der die Schöpfung noch viel tiefer verstanden [habe] als <persName ref="kbga-actors-2228">Mose</persName>.<note xml:id="n05">
+                        <bibl corresp="kbga-bibls-4126"><title>A.a.O.</title> S. 125f.</bibl>; vgl. <bibl corresp="kbga-bibls-4121">S. 59, 115</bibl>.
+                    </note> <persName ref="kbga-actors-661">Lejeune</persName> beschäftigt mich am meisten: er sagt ja Alles auch, und noch viel schöner und gescheiter, als wir es sagen können, und bringt es doch fertig, in Adorantenstellung das Unservater korrigierend,<note xml:id="n06">
+                        <bibl corresp="kbga-bibls-4126"><title>A.a.O.</title> S. 131.</bibl>
+                    </note> dort aufzuhören, wo wir zögernd anfangen. Oder wie ists eigentlich? Fehlts nur <hi rend="italic">mir</hi> an der wahren Boller Gnade, das Alles nun verstehend unter den Mantel zu nehmen und mich der hoffnungsvollen Keimlein zu freuen? Vorderhand lege ich das dicke Heft für 3 Fr. ermattet aus der Hand.</p>
+        <p>Die Emendierung meines <bibl corresp="kbga-bibls-1497">Römerbriefmanuscripts</bibl> ist als «sittliche Arbeit» mit bestimmtem quanti- und qualitativem Ziel ganz schön, ich schreibe von früh bis spät drauflos; aber sehr förderlich für die eigene Fortbewegung ist das nun gerade nicht. Ich bin nun am Ende der 6. Woche in dieser Art und habe das Gefühl einer leisen Versimpelung. Wenn ich einmal fertig bin, werde ich geistig aussehen wie eine vernichtete Division, die aus der Front zurückgenommen wird. Jetzt wäre der Moment, nach <placeName ref="kbga-places-158">Boll</placeName> zu gehen, gründlich Frühjahrsputzete<note xml:id="n07">= Hausputz.</note> zu halten. Jedenfalls muß dann wieder einmal eine große Wendung stattfinden. Denn es ist, wie du sagst, dieses ganze Geschreibe hat nur einen höchst vorläufigen Sinn.</p>
+        <p>Ja, die Idealisten. Das ist mir auch klar, <hi rend="italic">lieber</hi> das als das dumpfe intuitive Treiben etwa <persName ref="kbga-actors-661">Lejeunes</persName>. Aber mit dem N. T. konfrontiert eben doch um keinen Schritt weiter als die Nomos <pb xml:id="p286" ed="pga"/> Leute, mit denen <persName ref="kbga-actors-313">Paulus</persName> offenbar zu tun hatte. Die Schlußbemerkungen <persName ref="kbga-actors-669">Lindts</persName> sind äußerste Möglichkeiten — für uns gerade der Ausgangspunkt. So sehe ich «uns» doch auch nach dieser Seite fatal isoliert, solange wir nicht die Kraft haben zu <hi rend="italic">beweisen</hi>, ihnen allen ihren Glauben zur Gerechtigkeit zu erklären, <foreign xml:lang="grc" rend="Ell">λογίξεσθαι</foreign>. Aber das ist eben ein schöpferisches Tun, das in der Bibel eigentlich nirgends den Menschen zugeschrieben wird. Ich fühle mich durch die ganze Lage sehr beklemmt und beschämt. […] Wahrlich, ich setzte mich lieber zuhinterst in unsere von <persName ref="kbga-actors-661">Lejeune</persName> neuerdings geschmähte Warte-Höhle, als nun meinerseits mit einem Buch hervorzulärmen, das im allgemeinen Trommelfeuer doch untergehen muß.</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen an dich und <persName ref="kbga-actors-1285">Marguerite</persName> auch von <persName ref="kbga-actors-26">Nelly</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

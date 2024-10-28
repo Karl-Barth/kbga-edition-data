@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3413">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 13. Mai 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3413 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 485–486.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3413</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 485-486</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">413</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 402</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 13. Mai 1921. <ref target="https://kba.karl-barth.ch/objects/11118">KBA 9270.303</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-05-13">13. Mai 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-05-13">13. Mai 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3412"/>
+          <ref type="next" target="kbga-texts-3414"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3412"/>
+          <ref type="next-in-corresp" target="kbga-texts-3414"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:45+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:45+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p485" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1921-05-13">13. Mai 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Hier allerlei zurück und Hierseitiges zur Einsicht: 1. ein weiteres <bibl corresp="kbga-bibls-48">Stück <ref type="pub" target="47015">Röm. 7</ref></bibl>, teilweise etwas scharfer Tabak. Das Füllhorn dieser Dialektik will sich nimmer erschöpfen und leeren. Es wird ein unerträgliches Buch geben und mich dauern schon jetzt die Leser, die allen diesen Mäanderwindungen folgen müssen. Sieh gut nach, ob alles ungefähr stimmt und ob irgendwo noch ein Gelenk mehr wünschenswert wäre. Ich fürchte, was nächste Woche drankommt, wird noch schlimmer. Die Mitteilungen der <bibl corresp="kbga-bibls-1497">1. Auflage</bibl> sind gerade in dieser Gegend recht dürftig, soviel ich mir damals darauf einbildete und so gut sie dem Publikum gefielen. 2. Mein Kirchenbericht,<note xml:id="n01">Bericht über die Lage der Gemeinde, den jeder aargauische Pfarrer alle zehn Jahre anhand eines vorgegebenen Fragenkatalogs an den kantonalen Kirchenrat zu erstatten hat. <persName ref="kbga-actors-2151">Barths</persName> Kirchenbericht ist auszugsweise zitiert bei <bibl corresp="kbga-bibls-4245">J. Fangmeier, <title level="m">Erziehung in Zeugenschaft. Karl Barth und die Pädagogik</title>, Zürich 1964, S. 39ff.</bibl> — Die Berichte der Pfarrer wurden zusammengefaßt in dem 1921 erschienenen <bibl corresp="kbga-bibls-4246"><title level="m">Generalbericht über die Verhältnisse und Zustände der evangelischreformierten Kirche des Kantons Aargau in den Jahren 1913 bis 1921. Erstattet vom Kirchenrat an die reformierte Synode</title>, 63 S.</bibl> Darin ist der Bericht Barths mehrfach — ohne Verfasserangabe — zitiert.</note> von unserer getreuen Coiffeuse sauber abgeschrieben, beim schwarzen Kaffee zur Erholung zu durchgehen, wahrscheinlich also mein Abschiedswort an die aargauische Kirche. Ich schrieb es in ziemlichem Grimm, wie in alten Zeiten. Was aber erwartet mich in der reformierten Kirche von <placeName ref="kbga-places-30">Hannover</placeName>?! Wahrscheinlich werde ich dort zunächst in einer ganz andern Maske auftreten müssen. 3. Allerhand Kurier, z.T. mit wunderlichen Dingen. […]</p>
+        <p>Am Dienstag feierte ich nachdenklich und mit einem geschwollenen Backen meinen 35. Geburtstag. Ich hätte eigentlich <persName ref="kbga-actors-155">Harnack</persName> zu seinem 70. begrüßen sollen! Aber das Hosianna, das ihm in der «<orgName ref="kbga-actors-5420">Christl. Welt</orgName>» dargebracht wurde,<note xml:id="n02"><bibl corresp="kbga-bibls-4270">Die Nr. 18 der CW Jg. 35 (5.5.1921) erschien als Festnummer zu <persName ref="kbga-actors-155">A. von Harnacks</persName> 70. Geburtstag mit Beiträgen von <persName ref="kbga-actors-210">A. Jülicher</persName>, <persName ref="kbga-actors-329">M. Rade</persName>, <persName ref="kbga-actors-4589">W. Bornemann</persName>, <persName ref="kbga-actors-120">E. Foerster</persName> und <persName ref="kbga-actors-485">O. Baumgarten</persName></bibl>.</note> nahm mir den Atem. Mein Geburtstagstisch war wieder fast wie letztes Jahr: ganze Türme von Chokolade, Kaffee, Tabak, Stümpen, Kuchen und eine Wurst. So feiern mich die, die mich aus der Nähe kennen!</p>
+        <p>Denk ich habe nun für fünf Sonntage — <persName ref="kbga-actors-246">Fritz Lieb</persName> engagiert! Er kommt nächste Woche hieher und wird am Sonntag nach <pb xml:id="p486" ed="pga"/> Pfingsten anfangen, nachdem er vor 8 Tagen, wo wir übrigens unsern Jüngsten tauften, einen Probevortrag absolviert, der hoffnungsvoll gewesen sein soll. Ich konnte ihn nicht selbst hören, da ich für den erkrankten <persName ref="kbga-actors-763">Schild</persName> [in <placeName ref="kbga-places-382">Uerkheim</placeName>] einspringen mußte. Hoffentlich bereitet mir <persName ref="kbga-actors-246">Fritz</persName> keine kommunistischen Überraschungen. Er scheint aber wirklich ein guter Kerl zu sein, und ich werde ihm fünf Wochen lang fleißig zusprechen, wenns nötig sein sollte.</p>
+        <p>Gestern Abend fiel in <placeName ref="kbga-places-27">Göttingen</placeName> die Entscheidung; doch bin ich noch ohne Nachricht. Ich grüble an — Überschriften für zu haltende Vorlesungen, die ich wohl alsbald werde eingeben müssen, und denke an «Die Hauptbegriffe der paulinischen Theologie» 2-3-stündig und «Übungen über <persName ref="kbga-actors-360">Schleiermachers</persName> Darstellung des theologischen Studiums», um auch den <hi rend="italic">Angriff</hi> gleich zu eröffnen. Wie sieht er dich an?</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

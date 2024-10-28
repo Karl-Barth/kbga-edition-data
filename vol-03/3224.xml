@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3224">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 5. März 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3224 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 267–269.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3224</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 267-269</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">224</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 217</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 5. März 1918. <ref target="https://kba.karl-barth.ch/objects/9738">KBA 9270.168</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-03-05">5. März 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-03-05">5. März 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3223"/>
+          <ref type="next" target="kbga-texts-3225"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3223"/>
+          <ref type="next-in-corresp" target="kbga-texts-3225"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p267" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1918-03-05">5. März 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Wir haben lange nichts mehr gehört von euch und freuen uns doch zu denken, wie auch dort [bei euch] das allseitige Wachstum seinen stillen schönen Verlauf nimmt. Von was soll ich unsrerseits erzählen? Es waren sehr schlichte Wochen, in denen die verschiedenen Parallelen alle etwas vorrückten, langsamer oder schneller. Die Stimmen aller drei Kinder werden immer kräftiger, ihre Arten und Unarten immer prononcierter, die Aufmerksamkeit, die sie zu Tages- und Nachtzeit erfordern, immer größer. Ihr tut ja nun auch die ersten Schritte in dieses Labyrinth von Entdeckungen und Aufgaben und mögt aus den Anfängen ermessen, wie es bei uns etwa zugeht. <persName ref="kbga-actors-26">Nelly</persName> […] ist wieder sehr beweglich geworden zu Besuchen bei Gesunden und Kranken und für ihren politischen Frauenabend, wo Schweizergeschichte, Bun<pb xml:id="p268" ed="pga" break="no"/>desverfassung und allerhand Soziales mit tiefem Ernst behandelt wird. Im <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> stehe ich nun schon tief in der Erforschung von 12-16 (ich möchte dann die Ausarbeitung von <ref type="pub-" target="../volume/16/p356#p356">9–16</ref> in einem Zug machen können) und freue mich sehr an der knorrigen apostolischen Lebensweisheit, die mir allerdings allerlei zu schlucken geben wird. Wenn wir das einmal könnten: so recht geradlinig, ohne Nebenerwägungen und systematische Zwänge nehmen und auslegen was dasteht! Ich habs gewagt, mit den Konfirmanden den ganzen Epheserbrief kursorisch zu lesen, und brachte es doch nicht weiter als bis zu allerlei sehr aphoristischen Erklärungen, die dem Ganzen von ferne nicht gerecht wurden. Die um <persName ref="kbga-actors-420">Wernle</persName> könnten sich jetzt auch sehr mit Recht bekreuzigen vor solchen Versuchen. In der Predigt habe ich eben eine kleine Serie (3) über <ref type="can" subtype="bible" target="Röm.12.1 Röm.12.2">Römer 12,1–2</ref> eröffnet<note resp="sm" type="digital" xml:id="n1a" n="1a">Predigt vom 3. März 1918 zu <ref type="pub-" target="../volume/37/p058#p058">Röm. 12,1-2 I</ref>, Predigt vom 10. März 1918 zu <ref type="pub-" target="../volume/37/p067#p067">Röm. 12.1–2 II</ref>, Predigt vom 17. März 1918 zu <ref type="pub-" target="../volume/37/p076#p076">Röm. 12,1-2 III</ref></note>, letzten Sonntag über die <foreign xml:lang="grc" rend="Ell">λογικὴ λοτρεία</foreign> etc. <ref type="can" subtype="bible" target="Röm.12.1">v. 1</ref> […]. Nächstes Mal dann das <foreign xml:lang="grc" rend="Ell">μεταμορφοῦσθε</foreign> [<ref type="can" subtype="bible" target="Röm.12.2">v. 2a</ref>] und was dazu gehört, zuletzt als Ziel das <foreign xml:lang="grc" rend="Ell">δοκιμάξειν τὸ θέλημα…</foreign> [<ref type="can" subtype="bible" target="Röm.12.2">v. 2b</ref>]. Alles sehr einfache Worterklärungen, die Passion dies Jahr nur als beständige Perspektive. Im Konfirmandenunterricht beginne ich mich auch nach einem passenden Abschluß umzusehen. Die praktischen moralischen Fragen habe ich diesmal aus dem Unterricht verbannt und lasse Buben und Mädchen abwechselnd an den Sonntagnachmittagen in mein Studierzimmer kommen zu den entsprechenden Belehrungen. Nach <placeName ref="kbga-places-1">Aarau</placeName> mag ich nicht gehen. Ich habe jene ganze Konferenzluft vorderhand satt. Komm du dann, bevor du heim gehst, zu mir, ich lese unterdessen Kommentare. Nichtwahr, du kommst? […] Der russische Friede<note xml:id="n01">Unterzeichnung des Friedens von <placeName ref="kbga-places-1358">Brest-Litowsk</placeName> am <date when="1918-03-02">2. März 1918</date> durch <persName ref="kbga-actors-812">Trotzki</persName>.</note> ist nicht gut. Materiell wird <persName ref="kbga-actors-330">Ragaz</persName> mit seiner Warnung an <persName ref="kbga-actors-9833">Trotzky</persName><note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-1658"><persName ref="kbga-actors-330">L. Ragaz</persName>, <title level="m">Mein Weg</title>, Bd. II, Zürich
+                            1952, S. 80f.</bibl>: «Kurz vor und während den Verhandlungen von <placeName ref="kbga-places-1358">Brest-Litowsk</placeName>, die infolge der russischen militärischen Niederlagen eingeleitet wurden, habe ich mich in zwei Sendschreiben an <persName ref="kbga-actors-812">Trotzki</persName> gewendet, in denen ich versuchte, ihn von einer Loslösung aus dem Kampfe gegen Deutschland abzubringen, und ihn vor einem Separatfrieden warnte.»</note> doch recht gehabt haben. Es ist eine grauenvolle Hybris in den Paragraphen dieses Vertrags. Bekommst du <persName ref="kbga-actors-88">Deißmanns</persName> «<orgName ref="kbga-actors-9834">Evangelische Wochenbriefe</orgName>»<note xml:id="n03"><persName ref="kbga-actors-88">Adolf Deißmann</persName> (1866–1937), Prof. für N. T. in Marburg, Heidelberg, Berlin, gab von 1914 bis 1921 den «<orgName ref="kbga-actors-9834">Evangelischen Wochenbrief</orgName>» heraus, seit <date when="1917">1917</date> in «neuer Folge».</note> auch, und was hältst du davon? Denk, <persName ref="kbga-actors-27">Peters</persName> Wiederwahl in <placeName ref="kbga-places-248">Laupen</placeName> ist ernstlich gefährdet. In unsrer Papeterie sah ich <bibl corresp="kbga-bibls-1849"><persName ref="kbga-actors-240">Kutters</persName> «Bilderbuch»</bibl> und unsre <bibl corresp="kbga-bibls-1461">Predigten</bibl> friedlich neben greulichen Postkarten und dergl. zum Verkauf; es wird scheints beides verlangt, was mich eigentlich wundert. Meine Mitarbeit in der Schule wird auch ein merkwür<pb xml:id="p269" ed="pga" break="no"/>diger Versuch, der mit vielen Gesprächen mit Lehrern etc. eingeleitet wird. Meine Konfirmanden sind noch durchaus weltlich-ungebärdig trotz Epheserbrief und Moral!</p>
+        <closer>
+          <salute>Herzliche Grüße an euch Beide</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3390">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 6. Januar 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3390 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 458–460.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3390</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 458-460</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">390</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 380</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 6. Januar 1921. <ref target="https://kba.karl-barth.ch/objects/10938">KBA 9270.287</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-01-06">6. Januar 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-01-06">6. Januar 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3389"/>
+          <ref type="next" target="kbga-texts-3391"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3389"/>
+          <ref type="next-in-corresp" target="kbga-texts-3391"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:44+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:44+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p458" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1921-01-06">6. Januar 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Du lässest diesmal lange nichts von dir hören. Bist du krank? […] Wir waren unterdessen die ganze Familie in <placeName ref="kbga-places-418">Madiswil</placeName>, wo auch <persName ref="kbga-actors-23">Heiner</persName> zu sehen war. Die Väter und Onkeln sprachen sich aus, die sechs Kindlein (+ unser Wiener Kind)<note xml:id="n01">Aus einet kinderreichen Familie in <placeName ref="kbga-places-64">Wien</placeName>, zur Erholung in der Schweiz.</note> beschnüffelten sich mit einigem Mißtrauen, die Mütter trösteten sich, und ich <pb xml:id="p459" ed="pga"/> hielt am 2. die <ref type="pub-" target="../volume/44/p003#p003">Predigt</ref> vor ziemlich gefüllter Kirche. Ein guter Familientag und nicht ohne fahl-gelblich-gerichtliches Oberlicht.</p>
+        <p>Hier endlich wieder eine Partie <bibl corresp="kbga-bibls-48">Römerbrief</bibl> zur Durchsicht. Das <ref type="pub" target="47012">Kapitel</ref> [<ref type="can" subtype="bible" target="Röm.4">Röm 4</ref>] ist einer vor dem Einsteigen in die vergletscherten Couloirs zu traversierenden Hochebene im Gebirge zu vergleichen. Es passiert nichts Entscheidendes, aber man bekommt Muße, sich umzusehen, wo man eigentlich hingekommen ist, und kommt in gemächlichem Trapp-Trapp am Seil dem Punkt, wo es losgeht, immer näher. Eine Seltsamkeit dieses 4. Kapitels ist die, daß es selbst schon ein Kommentar ist und <ref type="can" subtype="bible" target="Röm.4.7 Röm.4.8">V. 7–8</ref> sogar einen Kommentar benützt. Das gibt der Darstellung notwendig etwas Indirektes, Gebrochenes: ich meine, <persName ref="kbga-actors-313">Paulus</persName> meine, daß die Genesis meine …, müßte man fortwährend ergänzen. Sag mirs ja, wenn dieses Netz etwa trotz aller Bemühungen, die Maschen auseinanderzuhalten, sich irgendwo verwirrt hat.</p>
+        <p>Und nun wieder die Deutschen mit ihren Pfingstwochen.<note xml:id="n02"><persName ref="kbga-actors-607">Herpel</persName> und <persName ref="kbga-actors-771">Schultheis</persName> planten einen Ferienkurs mit zwölf hessischen Pfarrern, bei dem <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName> dozieren sollten. <persName ref="kbga-actors-275">Merz</persName> und <persName ref="kbga-actors-691">W. Meyer</persName> arbeiteten an einem ähnlichen Plan für <placeName ref="kbga-places-166">Bayern</placeName>. Da die Veranstaltungen im Herbst bzw. Sommer <date when="1921">1921</date> stattfinden sollten, ist der Ausdruck «Pfingstwochen» nicht als Terminangabe gemeint.</note> Mir leuchtet das alles so gar nicht ein. Sie sind unverbesserliche Pläneschmiede, <persName ref="kbga-actors-607">Herpel</persName>, der schon wieder ganz ins Rollen gekommen zu sein scheint, besonders, und können mir den Buckel hinaufsteigen. Wenn der <bibl corresp="kbga-bibls-48">Römerbrief</bibl> einmal fertig ist, so gehe ich in die Wüste und sicher nicht als «Dozierender» in einen solchen Zwölfjüngerkreis. Ich habe zunächst <persName ref="kbga-actors-275">Merz</persName> gründlich darüber geschrieben, sie sollten jetzt endlich einmal nüchtern werden und von allen nicht zwingend motivierten Unternehmungen absehen. Wenn Gefahr an Mann komme, seien wir natürlich in ein paar Sprüngen an ihrer Seite; wir liebten aber das Improvisierte und könnten uns durchaus nicht engagieren lassen. Ein Vortrag vor einem weiter offenen Kreis hätte eventuell einen Sinn und ebenso ein ganz gelegentliches Zusammenkommen, aber um Gotteswillen keine solchen Zirkel voll Anspruch und Absicht. Das könnte ein fürchterliches Gericht werden für uns und sie, <hi rend="italic">schlimmer</hi> als <placeName ref="kbga-places-41">Marburg</placeName>. Willst du es übernehmen, diesmal dem <persName ref="kbga-actors-607">Herpel</persName> zu schreiben? Ich bin ja nahezu sicher, daß es dir auch graut vor dem «Aspekt», den dieser Prospekt eröffnet. Man sollte ihnen sagen, was etwa in einer aufgeregten Versammlung zu sagen ist, <pb xml:id="p460" ed="pga"/> daß jetzt vor allem einmal alle absitzen, die Schuhe ruhig halten und schweigen sollten, damit man sein eigenes Wort verstehe. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß in Eile</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p><persName ref="kbga-actors-23">Heiner</persName> hat meine <persName ref="kbga-actors-18">Mama</persName> über mich getröstet mit einem Verslein, das anfängt mit den Worten: <q rend="block">
+                        <lg>
+                            <l xml:space="preserve">Lueg Müetterli, was isch im <hi rend="italic">Nai?</hi></l>
+                            <l xml:space="preserve">He gsesch denn nit: e <hi rend="italic">jo!</hi><note xml:id="n03">Schau, Mütterchen, was ist im «Nein»? Siehst du’s denn nicht: ein «Ja»! Anspielung auf das Gedicht <bibl corresp="kbga-bibls-4238"><persName ref="kbga-actors-601">Joh. Peter Hebels</persName>: «Der Mann im Mond.»</bibl></note></l>
+                        </lg>
+                    </q> Sein Platobuch<note xml:id="n04">
+                        <bibl corresp="kbga-bibls-1775"><persName ref="kbga-actors-23">H. Barth</persName>, <title level="m">Die Seele in der Philosophie Platons</title>, Tübingen
+                            1921.</bibl></note> ist erschienen.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

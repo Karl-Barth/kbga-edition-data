@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3424">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 4. Juli 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3424 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 499a–501.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3424</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 499a-501</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">424</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 413</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 4. Juli 1921. <ref target="https://kba.karl-barth.ch/objects/11200">KBA 9270.311</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-07-04">4. Juli 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-07-04">4. Juli 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3423"/>
+          <ref type="next" target="kbga-texts-3425"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3423"/>
+          <ref type="next-in-corresp" target="kbga-texts-3425"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:46+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:46+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p499" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-07-04">4. Juli 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich sende dir hier nebst dem Anfang von <bibl corresp="kbga-bibls-48"><ref type="pub" target="47017">Röm. 9</ref></bibl> […] einen reichen Kurier. <placeName ref="kbga-places-27">Göttingen</placeName> ist nun also entschieden. Ich habe <pb xml:id="p500" ed="pga"/> zwar, meiner definitiven Zusage vorgängig, noch einige Fragen an den «Vortragenden Rat» gerichtet, z. B. wer mir die Umzugskosten zu zahlen gedenke und dgl., nehme aber nun endgültig an, daß ich in den Apfel beißen muß. […] Sag nur nichts: ich habe im Voraus schon genug Heimweh und gehe nun sicher in eine Periode greulichster Einsamkeit und Ratlosigkeit hinein. Kaufe du dir nun sofort einen tüchtigen Posten deutsche Valuta, damit du vom Frühjahr an alle Vierteljahre mindestens einmal mich besuchen kannst. Das ist das Nötigste, was zur Hebung meines Zustandes wird geschehen müssen, bis […] auch deine Übersiedlung in den großen Kanton gelungen ist.</p>
+        <p>[…] Beachte die kräftigen Worte des Lic. <persName ref="kbga-actors-317">Peterson</persName>,<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-317">Erik Peterson</persName> (1890–1960), damals Privatdozent für N. T. und Kirchengeschichte in Göttingen, dann Prof. in Bonn, später nach seinem Übertritt zum Katholizismus in Rom.</seg></note> eines Kollegen, auf den ich mich freuen kann, während <persName ref="kbga-actors-184">Hirsch</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-184">Emanuel Hirsch</persName> (1888–1972), seit 1921 Prof. für Kirchengeschichte, später für systematische Theologie in Göttingen.</seg></note> nach <ref type="kba-objects-id" target="11187">Brief</ref> und Broschüre<note xml:id="n03"><bibl corresp="kbga-bibls-4250"><persName ref="kbga-actors-184">E. Hirsch</persName>, <title level="m">Die Reich-Gottes-Begriffe des neueren europäischen Denkens. Ein Versuch zur Geschichte der Staats- und Gesellschaftsphilosophie</title>, Göttingen 1921.</bibl>
+        </note> noch etwas fragwürdig erscheint; wahrscheinlich steckt irgendetwas Deutschtümliches hinter diesem gelehrten und auf Kollegialität so bedachten Herrn. Ich habe versucht, ihm klar zu machen, daß er uns wirklich falsch verstehe, wenn er uns im Anhang der «französischen» Lösung aufmarschieren lasse, daß ich aber im übrigen für Polemik sehr empfänglich sei, ihn meinerseits ehrerbietig begrüße usf. In was für ein seltsames Spiel komme ich da hinein! Beachte <persName ref="kbga-actors-526">Dempsey</persName> — <persName ref="kbga-actors-517">Carpentier</persName> [Boxkämpfer], ein Ereignis, das wir unserer Aufmerksamkeit kaum dürfen entgehen lassen. […]</p>
+        <p>Doch zur Sache. Vielen Dank für deine Bemerkungen zu <bibl corresp="kbga-bibls-48"><ref type="pub" target="47016">Röm. 8</ref></bibl>. Ich habe den langen Einschub, schwach verkürzt, doch aufgenommen mit nochmaligem Verweis auf <persName ref="kbga-actors-9675">Iwan Karamasoff</persName>. Er ist keineswegs überflüssig und störend. Der Einstieg in <ref type="pub" target="47017">Röm. 9–11</ref> macht mir einige Mühe. Hier der Anfang. Ists oder kommts wohl recht so? Ich hoffe, hier nun energisch <hi rend="italic">kürzen</hi> zu können. <ref type="can" subtype="bible" target="Röm.9.6 Röm.9.29">9,6–29</ref> und <ref type="can" subtype="bible" target="Röm.9.30 Röm.10.4">9,30-10,4</ref> geben statt vier nur zwei Abschnitte, vielleicht läßt sich auch <ref type="can" subtype="bible" target="Röm.10.5 Röm.10.21">10,5–21</ref> zusammennehmen. Die <bibl corresp="kbga-bibls-1497"><ref type="pub-" target="16013">1. Auflage</ref></bibl> ist hier entschieden zu breit.</p>
+        <p>Letzte Woche war ich zwei Tage bei <persName ref="kbga-actors-521">Lukas Christs</persName> in <placeName ref="kbga-places-504">Weggis</placeName>, freute mich an ihrem gesunden Wesen und Familienleben, setzte ihn sehr in Erstaunen durch die Mitteilung, «man» müsse sich <pb xml:id="p501" ed="pga"/> jetzt allmählich für die Mitwirkung bei der Kirchenleitung innerlich rüsten, sah <persName ref="kbga-actors-9898">Steiger</persName> — <placeName ref="kbga-places-505">Oltingen</placeName>,<note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-9898">Walter Steiger</persName> (1890–1967), Pfarrer in Oltingen (Baselland), befreundet mit <persName ref="kbga-actors-521">L. Christ</persName>, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName>.</seg></note> der mir gut gefiel, und half im Übrigen fleißig rudern und baden. Ich würde auch dich gerne wieder einmal gehörig spritzen! […]</p>
+        <closer>
+          <salute>1000 herzliche Grüße sendet</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>
+                    <hi rend="italic">Ja komm bald!!</hi> (vielleicht <hi rend="italic">sofort!?</hi>)</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

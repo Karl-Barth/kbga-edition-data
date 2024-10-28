@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3113">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 10. Juni 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3113 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 141–142.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3113</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 141-142</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">113</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 110</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 10. Juni 1916. <ref target="https://kba.karl-barth.ch/objects/9156">KBA 9270.83</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-06-10">10. Juni 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-06-10">10. Juni 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3112"/>
+          <ref type="next" target="kbga-texts-3114"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3112"/>
+          <ref type="next-in-corresp" target="kbga-texts-3114"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p141" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1916-06-10">10. Juni 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Getragen von eurer Geisteswelle, konnte ich meinen Pfingstspruch schon gestern Nachmittag fertig aussinnen, und nun möchte ich euch sagen, wie innig ich euch danke, daß ich so bei euch sein durfte, und wie wohl es mir bei euch war. Ich habe diese Tage wie <hi rend="italic">eine</hi> große Freude und Erquickung in Erinnerung und bin mit fast geheiltem Zahn und neuem Mut und heilsamen Vorsätzen zu Weib und Kind und Safenwilern zurückgekehrt. Es war einfach lieb von euch, daß ihr mich so gepflegt und genährt (Äpfelküchlein) habt. Der Zweck hätte nicht besser erreicht werden können. Dir, <persName ref="kbga-actors-403">Eduard</persName>, habe ich noch besonders zu danken für die verschiedenen «amtlichen» Sprüche, denen ich als Zuhörer assistierte und die mir viel geboten haben; ich stellte mich gerne unters «Wort» und würde dir als Laie jedenfalls fleißigst in die Kirche kommen. Gefehlt hat eigentlich nur eins, nämlich daß es zu keinem Kontakt mit <persName ref="kbga-actors-1285">Marguerites</persName> Musik kam. Warum nicht? Haben wir zu ununterbrochen geredet und damit die guten Geister des Schönen verscheucht? Oder hat meinerseits <persName ref="kbga-actors-26">Nelly</persName> gefehlt, um mir die rechte Willigkeit auch zu diesem Hören zu suggerieren? Kurz, das muß ein andermal anders werden.</p>
+        <p>Ich bin ausgezeichnet heimgekommen trotz eines kleinen Irrgangs zwischen <placeName ref="kbga-places-76">Leutwil</placeName> und <placeName ref="kbga-places-783">Kulm</placeName>. Bereits um 9 Uhr konnte ich meine Familie in die Arme schließen! Ich habe noch allerlei vom alten <persName ref="kbga-actors-48">Blumhardt</persName> über den hl. Geist gelesen in deinem Buch und mich dann stracks an die Predigt gemacht: «<ref type="pub" target="29028">Nehmet hin …</ref>» (<ref type="can" subtype="bible" target="Joh.20.22">Joh. 20,22</ref>). Die Jünger Jesu, die hinnahmen und in eine neue Natur versetzt wurden — wir, die wir uns mit bloßem Christentum begnügen und doch nach der neuen Natur Sehnsucht haben, — Jesus, der mit seiner Gabe vor uns wie vor jenen steht, — wenn alle diese Kontraste verschwinden, kommt das neue (fortgesetzte) Pfingsten. So etwa. Die artilleristische Charakteristik meiner Methode dürfte in Stärke und besonders in Schwachheit wieder sehr zutreffen. Die unheimlichen 30,5 und 42 cm Geschütze, mit denen <pb xml:id="p142" ed="pga"/> du arbeitest, stehen mir wirklich nicht zu Gebote, das kam mir auch gestern in der Unterweisung beim Vergleich deutlich vor Augen. Es wird auch bei der <orgName ref="kbga-actors-9899">Konferenz</orgName> so sein: die eigentlich unheimlich tiefen und entscheidenden Wahrheiten mußt du dann aussprechen.</p>
+        <p>Die Andachten<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4016"><persName ref="kbga-actors-47">Chr. Blumhardt</persName>, <title level="m">Haus-Andachten nach Losungen und Lehrtexten der Brüdergemeine</title>, Stuttgart/Basel o. J. (1916)</bibl>. Darüber <bibl corresp="kbga-bibls-4017"><persName ref="kbga-actors-2151">K. Barths</persName> Rezension: <title level="a"><ref type="pub" target="48039">Auf das Reich Gottes warten</ref></title>, zuerst in: Der freie Schweizer Arbeiter, 15. und 22.9. 1916</bibl>, wieder abgedruckt in der 2. Aufl. von <bibl corresp="kbga-bibls-1461">Barth/Thurneysen, <title level="m">Suchet Gott, so werdet ihr leben</title>, München
+                            1928, S. 175–191.</bibl>
+               </note> des «jungen» <persName ref="kbga-actors-47">Blumhardt</persName> sind doch ein schönes und wichtiges Buch. Er wird mir sehr lebendig und ich lese mit sich mehrender Aufmerksamkeit darin herum. Und nun steht noch <persName ref="kbga-actors-240">Kutters</persName> Keulenschlag<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-3613"><hi rend="italic">Reden an die deutsche Nation</hi></bibl>.</note> bevor!! Es ist mir, ich höre schon die Scheiben klirren und die Ziegel von den Dächern fallen und die Kamine umstürzen.</p>
+        <p>[…] Gestern Abend hatten wir Kirchenpflegssitzung. Sie brachte mir ein ganzes Bouquet von wichtigen und unwichtigen Wünschen: ich solle mehr Hausbesuche machen, die Konfirmanden sollten zum Predigtbesuch angehalten werden, die Frau Pfarrer solle doch den Pfarrstuhl in der Kirche wieder benützen!! Ich meinerseits konnte es erreichen, daß ich nun endlich vom Oktober an drei Stunden Unterweisung statt zwei geben kann. </p>
+        <closer>
+        <salute>Lebt wohl und seid herzlichst begrüßt und bedankt von</salute>
+          <salute>eurem</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3439">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 24. August 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3439 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 515.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3439</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 515-515</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">439</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 428</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 24. August 1921. <ref target="https://kba.karl-barth.ch/objects/11280">KBA 9370.431</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-08-24">24. August 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1921-08-24">24. August 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3438"/>
+          <ref type="next" target="kbga-texts-3440"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3438"/>
+          <ref type="next-in-corresp" target="kbga-texts-3440"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:47+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:47+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p515" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            <date when="1921-08-24">24. August 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Der Schluß von <bibl corresp="kbga-bibls-48"><ref type="pub" target="../volume/47/p555#p555">Röm. 11</ref></bibl> ist glänzend geraten und nicht minder erstaunlich und einleuchtend die mit höchster Umsicht gegebene Begründung der Ethik auf Grund von <ref type="can" subtype="bible" target="Röm.12.1 Röm.12.2">12,1–2</ref>. Im ersten Augenblick schwindelte mir vor der merkwürdigen dialektischen Ecke, um welche es da geht. Aber dieser Schwindel ist längst gewichen. Ich bin recht eigentlich erlöst, weil ich nun das Problem der Ethik verstehen kann. Wie ein letzter rätselhafter Felsklotz hat es gerade an dieser Stelle auf uns gewartet, um die Zahl der merkwürdigen Zeichen vollzumachen, an denen dein Weg durch das merkwürdige Land des Römerbriefes in diesen letzten Monaten vorbeigeführt hat. Deine Disposition des Schlußteiles habe ich mir überlegt und bin überzeugt, daß es so gehen wird. […]</p>
+        <closer>
+          <salute>Viele treue Grüße</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p><persName ref="kbga-actors-137">Gogartens</persName> Freund <persName ref="kbga-actors-142">Grisebach</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-142">Eberhard Grisebach</persName> (1880–1945), Prof. für Philosophie in Jena und Zürich.</seg> — <bibl corresp="kbga-bibls-4251"><title level="m">Die Schule des Geistes</title>, Halle 1921</bibl>.</note> hat sich angemeldet. Sein Buch über «Die Schule des Geistes» habe ich erst durchblättert, aber es gelüstet mich wenig es zu lesen. Ich will sehen, was sich im Gespräch ergibt.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

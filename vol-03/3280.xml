@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3280">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 10. Juni 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3280 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 333–334.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3280</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 333-334</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">280</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 272</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 10. Juni 1919. <ref target="https://kba.karl-barth.ch/objects/10094">KBA 9270.204</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-06-10">10. Juni 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-06-10">10. Juni 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3279"/>
+          <ref type="next" target="kbga-texts-3281"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3279"/>
+          <ref type="next-in-corresp" target="kbga-texts-3281"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:36+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:36+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p333" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1919-06-10">10. Juni 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Am Montag Morgen fuhren wir […] velociter nach <placeName ref="kbga-places-776">Aarburg</placeName> an die <orgName ref="kbga-actors-9871">CSV</orgName>-Versammlung, wo ich — am Freitag Abend telegraphisch aufgeboten! — für <persName ref="kbga-actors-553">Foerster</persName> in die Lücke treten mußte. Vielleicht kommst du aus Beiliegendem einigermaßen draus, was ich ihnen mitgeteilt habe.<note xml:id="n01">Vortrag über «<ref type="pub" target="48057">Christliches Leben</ref>» am <date when="1919-06-09">9.6.1919</date>; unveröffentlicht.</note> Die Hauptsache waren einige Vorlesungen aus dem Prediger, aus <ref type="can" subtype="bible" target="1.Kor.15">1.Kor. 15</ref>, <ref type="can" subtype="bible" target="Kol.1">Kol. 1</ref> und Offenbarung (bedenke, daß ich nur die Nacht zwischen Sonntag und Montag zur Verfügung hatte!). Doch kamen beim Vortrag die drei <foreign xml:lang="lat">regna: naturae, gratiae</foreign> und <foreign xml:lang="lat">gloriae</foreign> wenigstens soweit deutlich hervor, um das gebührende Befremden zu erregen, das sich alsbald in einer sehr lebhaften und im ganzen guten Diskussion entlud, in der ich mit Fragen und kleinen Protesten nur so überschüttet wurde und immer wieder reden mußte. Der Pietismus offenbarte sich in seiner Stärke und in seiner Schwäche. Betreffend die Eröffnungen über das Reich der Herrlichkeit wurde mir das Anti-<persName ref="kbga-actors-330">Ragazische</persName> zu rasch abgenommen, während man gleichzeitig befürchtete, der Verweis auf die Ewigkeit müsse den Ernst gegenüber der Sünde abschwächen! Doch behielt ich bis zuletzt im Ganzen guten Kontakt mit den Diskutanten, und vielleicht ist trotz der anfänglich spürbaren Entrüstung etwas hängen geblieben. Das Beste brachte ein Württemberger Dr. Seh., Interniertenpfarrer in <placeName ref="kbga-places-435">Luzern</placeName>, der von einem uns sehr nahen Boden aus redete, mich völlig unterstützte und sagte, das sei das Wort, das durchaus auch die Lage in <placeName ref="kbga-places-151">Deutschland</placeName> umfasse. […] Schade daß du nicht dawarst, um den Regenbogen sichtbar auszuspannen. Wir rollten dann ziemlich befriedigt heim. […]</p>
+        <p>Wie wird das fein, wenn wir im Juli ins <placeName ref="kbga-places-1351">Wallis</placeName> ziehen miteinander.<note xml:id="n02">Gemeinsame Ferien von <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-403">Thurneysen</persName> und <persName ref="kbga-actors-316">R. Pestalozzi</persName> auf dessen Einladung, <date to="1919-07-31" from="1919-07-20">20.-31. Juli 1919</date>.</note> Ich freue mich wie auf ein Fest. Vorher sollte noch Einiges erforscht werden. Der Epheserbrief beschäftigt mich lebhaft und gibt [Predigt-] Stoff für den ganzen Sommer. <persName ref="kbga-actors-213">Kaftans</persName> «Philosophie des Protestantismus»<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4154"><persName ref="kbga-actors-213">J. Kaftan</persName>, <title level="m">Philosophie des Protestantismus. Eine Apologetik des evangelischen Glaubens</title>, Tübingen
+                            1917.</bibl>
+                    </note> ist eingetroffen. Die Einleitung machte mir <pb xml:id="p334" ed="pga"/> den geradezu ekelhaften Eindruck eines unbekehrten theologischen Greises; doch will ich noch weiterlesen.</p>
+        <closer>
+          <salute>Grüße <persName ref="kbga-actors-1285">Marguerite</persName> von uns beiden. […] Herzlichst</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

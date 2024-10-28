@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3407">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 18. März 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3407 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 477–478.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3407</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 477-478</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">407</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 396</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 18. März 1921. <ref target="https://kba.karl-barth.ch/objects/11047">KBA 9270.299</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-03-18">18. März 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-03-18">18. März 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3406"/>
+          <ref type="next" target="kbga-texts-3408"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3406"/>
+          <ref type="next-in-corresp" target="kbga-texts-3408"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:45+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:45+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p477" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-03-18">18. März 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Leider, leider noch immer kein <bibl corresp="kbga-bibls-48">Manuskript</bibl>. Die <ref type="pub-" target="47014">erste Hälfte</ref> von <ref type="can" subtype="bible" target="Röm.6">Röm. 6</ref> ist unerhört schwierig. Ich komme fast nicht vorwärts in diesem Couloir, mußte, schon bei <ref type="can" subtype="bible" target="Röm.6.8">Vers 8</ref> angelangt, gestern Alles wieder umwerfen und von vorne anfangen. Daß <persName ref="kbga-actors-313">Paulus</persName> den <hi rend="italic">fliegenden</hi> Vogel<note xml:id="n01">Anspielung auf einen berühmt gewordenen Satz aus <bibl corresp="kbga-bibls-1462"><persName ref="kbga-actors-2151">Barths</persName> Tambacher Vortrag (<ref type="pub" target="48061">Der Christ in der Gesellschaft</ref>, S. 15</bibl>): «Denn unsere Stellung zur Lage ist tatsächlich ein Moment einer <hi rend="italic">Bewegung</hi>, dem Augenblicksbild eines Vogels im Fluge vergleichbar, außer dem Zusammenhang der Bewegung ganz und gar sinnlos, unverständlich und unmöglich.»</note> meint, ist gerade hier mit Händen zu greifen, umso schlimmer für mich. Die <bibl corresp="kbga-bibls-1497">1. Auflage</bibl> ist hier ungewöhnlich unbrauchbar, ich sehe mich genötigt, sogar eine neue <hi rend="italic">grammatische</hi> Kategorie aufzustellen, das unzeitliche «<foreign xml:lang="lat">Futurum resurrectionis</foreign>». Aber ob da irgend etwas Deutliches herauskommt? Und es wäre doch gerade hier so wichtig, denn die Stelle ist irgendwie die Achse, um die sich der ganze Brief dreht. Wahrscheinlich wird dem Leser daselbst nur ein Loch sichtbar werden. Vor Ostern bringe ichs nun sicher nicht mehr fertig. Nachher will ich dann einen erneuten Anlauf nehmen. Böse Zeiten.</p>
+        <p>Die Befürchtung, die ich dir in <placeName ref="kbga-places-43">München</placeName> äußerte, wir könnten die Ovationen, die man uns als «religiösen Persönlichkeiten» in <placeName ref="kbga-places-151">Deutschland</placeName> so freigebig spendet, büßen müssen, erfüllt sich wenigstens an mir in peinlichem Grade. Ich kam mir schon lange nicht mehr so klein und häßlich vor wie in diesen Wochen. In <placeName ref="kbga-places-54">Safenwil</placeName> war ich doch in diesen 10 Jahren ein bedenklich unnützer Knecht, und was für neue Hohlräume werden erst in <placeName ref="kbga-places-27">Göttingen</placeName> sichtbar werden, wenns überhaupt dazu kommt, was ich <pb xml:id="p478" ed="pga"/> oft lieber <hi rend="italic">nicht</hi> wünschte, wenn ich nicht sähe, daß es hier eigentlich nicht mehr geht. Ich stehe bald buchstäblich in der Luft.</p>
+        <p>Heute sammelte ich die üblichen Schlußaufsätze meiner Konfirmanden ein, und es war eine bedenkliche Mißernte. Das Beste ist noch, daß sie fast unisono mitteilen, das Christentum sei etwas überaus Schwieriges, und man sollte 20 Jahre alt sein, um es besser zu verstehen. Die Guten, wenn sie wüßten! Daneben breite Schichten von aargauischem Moralin, die von der Säure, mit der ich sie bearbeitet zu haben meinte, ganz unversehrt sind. Überdies ist die intelligenteste meiner Konfirmandinnen letzten Sonntag aus Überdruß an häuslichen Verhältnissen nach <placeName ref="kbga-places-66">Zürich</placeName> durchgebrannt und gestern von einem Detektiv wieder eingebracht worden, wobei sich ergab, daß sie schon vor zwei Monaten einen kleinen Selbstmordversuch mit Lysol unternommen. Knüppeldicker Pharisäismus der andern natürlich, mit denen sie ohnehin im Krach lebte. «Das sind jetzt die Früchte seiner religiössozialen Tätigkeit», würde der Vater von <persName ref="kbga-actors-674">Gottfried Ludwig</persName> lachen, und ich weiß wirklich noch nicht, wo ich den Atem hernehmen soll, um auch <hi rend="italic">dazu</hi> das Allerletzte zu bemerken am Karfreitag.</p>
+        <p>Hier mit dem deinigen einigen hierseitigen Kurier. <persName ref="kbga-actors-8648">Joh. Müller</persName> nötigt mich mit Teufels Gwalt ihm zu antworten; ich werde mich nach Ostern an die unangenehme Aufgabe machen müssen. […] Am Sonntag <ref type="pub-" target="../volume/44/p073#p073">Predigt</ref> über <ref type="can" subtype="bible" target="Mt.24.29 Mt.24.31">Matth. 24,29–31</ref>!</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen dir und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Ich unterrichte zwei <hi rend="italic">ganz</hi> schwache Knaben privatim und komme über die <hi rend="italic">Sach</hi>erklärung des <bibl corresp="kbga-bibls-1849">biblischen Bilderbuchs</bibl> tatsächlich fast nicht hinaus. Vier Mädchen (von im Ganzen 20 Kindern) sind fast ebenso schwach. Und die «Starken» sind wie oben gesagt entweder unverbesserliche Moralisten, oder sie entweichen nach <placeName ref="kbga-places-66">Zürich</placeName>! Ich habe nun im Sinn, sie samt und sonders noch persönlich vorzunehmen. Am Mittwoch und Donnerstag haben wir zum Überfluß meiner Bedrängnis noch Schulexamen.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

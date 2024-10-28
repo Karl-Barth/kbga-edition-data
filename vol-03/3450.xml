@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3450">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 9. Oktober 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3450 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 525–526.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3450</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 525-526</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">450</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 439</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 9. Oktober 1921. <ref target="https://kba.karl-barth.ch/objects/11357">KBA 9270.332</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-10-09">9. Oktober 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-10-09">9. Oktober 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3449"/>
+          <ref type="next" target="kbga-texts-1004"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3449"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:48+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:48+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p525" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-10-09">9. Oktober 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Wir haben deinen vermutlich letzten Brief nach <placeName ref="kbga-places-54">Safenwil</placeName> mit Bewegung gelesen und erwidern eure Grüße mit vielem Dank für all das treue Gedenken, Trösten, Mittragen, Wegeweisen, das du in all diesen Aargauerjahren an uns geübt hast. Es wird wohl so sein, daß wir auf all das Geknorz, Geseufz und Geschimpf, auf all das mühselige Bohren dieser Zeit bald zurückblicken werden, wie man eben auf eine selige — Jugendzeit zurückblickt. Denn was nun kommt, dürfte die Hitze des Sommers sein, in der es sich an noch viel realerer <foreign xml:lang="grc" rend="Ell">θλῖψις</foreign> zeigen muß, was das war, was wir da gepflanzt haben. Ich muß nun hingehen und mich in einer mir ganz unmöglich vorkommenden Weise exponieren, und du mußt, was ebenso unmöglich ist, zunächst «an Ort» weitertrippeln, bis du, was sicher geschehen wird, ebenfalls irgendwie an den mit unschön langen Schritten ausgreifenden Flügel hinausberufen <pb xml:id="p526" ed="pga"/> wirst. Auf keinen Fall werde ich es unterlassen, immer wieder Richtung rechts zu nehmen und genau aufzupassen, was du treibst und sagst. Denn wenn von den menschlichen Dingen dieser zehn Jahre etwas feststeht, so ist es das, daß sich dies für mich überaus lohnt. Vorläufig senden wir euch nun unsre treuesten Grüße und Wünsche zum Tauffest des kleinen <persName ref="kbga-actors-802">Kätterli</persName> und freuen uns aufs Wiedersehen im <placeName ref="kbga-places-100">Bergli</placeName>, und, wie es scheint, in den Bergen. Denn <persName ref="kbga-actors-316">Rudi</persName> hat mich geheißen, die Bergschuhe mitbringen, und ich habe ihm darauf den Vorschlag gemacht, eine Wanderung über den <placeName ref="kbga-places-1373">Susten</placeName> nach <placeName ref="kbga-places-433">Gadmen</placeName> selbdritt zu unternehmen. <persName ref="kbga-actors-26">Nelly</persName> wird von Freitag früh bis Sonntag auf dem <placeName ref="kbga-places-100">Bergli</placeName> sein; ich komme vielleicht schon am Donnerstag Abend. Am <date when="1921-10-19">19.</date> (Mittwoch) müssen wir von <placeName ref="kbga-places-5">Basel</placeName> abfahren, um unsre Möbelfuhr rechtzeitig einzuholen. Etwa am Dienstag morgen muß also auch ich nach <placeName ref="kbga-places-5">Basel</placeName>, um dort noch Abschied zu nehmen. Wir werden mithin volle vier Tage zusammen haben und wollen sie in Berg und Tal gut ausnützen.</p>
+        <p>Hier ein Ausschnitt aus dem Lokalanzeiger, der dir anschaulich zeigt, wie die Dinge hier stehen. Von einem ergreifenden Abschied wird keine Rede sein, die Safenwiler zeigen mit verschwindenden Ausnahmen nur das <hi rend="italic">eine</hi> Begehren, nun bald ihre Ruhe wieder zu bekommen. Die Erinnerung an <ref type="can" subtype="bible" target="Mt.10.14">Matth. 10,14</ref> liegt auch ohne religiösen Übermut nicht <hi rend="italic">ganz</hi> ferne, und es ist nicht ausgeschlossen, daß ich das am Sonntag ausdrücklich sage, während im Hintergrund der «Sau-Schießet»<note xml:id="n01">Ein Volksfest.</note> fröhlich seinen Fortgang nimmt. Der freie Schießverein, der sich das leistet, rekrutiert sich N.B. nicht etwa aus den Herren, sondern aus den Arbeitern. […]</p>
+        <p>Ich mache in Eile viele Besuche im Dorf, fürchte aber, daß ich nicht mehr rundum komme.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

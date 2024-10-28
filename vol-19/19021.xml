@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19021">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="formal">Schleiermachers «Weihnachtsfeier»</title>
+        <title type="content">Schleiermachers «Weihnachtsfeier»</title>
+        <title type="citation_line_1">Schleiermachers «Weihnachtsfeier», kein Datum</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19021 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 458–489.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19021</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Schleiermachers «Weihnachtsfeier»: Schleiermachers «Weihnachtsfeier»</title>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 458-489</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">21</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, schleiermachers ‹weihnachtsfeier› 1924</title>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Schleiermachers «Weihnachtsfeier», in: Zwischen den Zeiten Jg. 3 (1925), S. 38–61 </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation">kein Datum</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p458" ed="pga"/>
+        <head>SCHLEIERMACHERS «WEIHNACHTSFEIER»</head>
+        <head type="sub">1924</head>
+        <div type="abstract">
+          <p>Aus seiner dreistündigen Vorlesung vom Wintersemester <date from="1923" to="1924">1923/24</date> über «Die Theologie <persName ref="kbga-actors-360">Schleiermachers</persName>»<note xml:id="n01">Es handelt
+              sich um die Überarbeitung des dortigen Referates über <persName ref="kbga-actors-360">Schleiermachers</persName> Weihnachtspredigten von <date from="1790" to="1802">1790–1802</date> und
+                <date when="1810">1810</date> (<bibl corresp="kbga-bibls-974">Th. Schl., <ref type="pub-" target="../volume/11/p098#p098">S. 98–108</ref></bibl>) und über die <bibl corresp="kbga-bibls-974">«Weihnachtsfeier» (<ref type="pub-" target="../volume/11/p108#p108">S. 108–134</ref>)</bibl>, im Kolleg vorgetragen am <date from="1926-11-20" to="1926-11-26">20./21./26.11.1926</date>. Bei der
+              Bearbeitung hat <persName ref="kbga-actors-2151">Barth</persName> den Text aus der Vorlesung etwas gestrafft und vor allem den
+              Passus über die Weihnachtspredigten erheblich gekürzt. Einige Beobachtungen zum
+              Vergleich beider Fassungen finden sich bei <bibl corresp="kbga-bibls-2215"><persName ref="kbga-actors-4100">D. Lütz</persName>, <hi rend="italic">Homo Viator. Karl Barths Ringen mit Schleiermacher</hi>,
+                  Zürich 1988, S. 170f.</bibl></note> hat <persName ref="kbga-actors-2151">Barth</persName> im <date when="1924-09">September 1924</date> eine Passage für <bibl corresp="kbga-bibls-2213">Heft IX von «Zwischen den Zeiten»</bibl>
+              überarbeitet<note xml:id="n02">Vgl. <persName ref="kbga-actors-2151">Barths</persName> Brief an <persName ref="kbga-actors-403">Thurneysen</persName> vom <date when="1924-09-22">22.9.1924</date> nach einem längeren
+              Schweizaufenthalt (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4104">S. 274</ref></bibl>): «Seit bald 8 Tagen bin ich nun wieder an
+              meinem Ort, habe die Predigt für Heft 9 zurechtgemacht und bin an <persName ref="kbga-actors-360">Schleiermacher</persName>.»</note> und das Manuskript –
+            zusammen mit einer ebenfalls für dieses Heft vorgesehenen Adventspredigt<note xml:id="n03"><bibl corresp="kbga-bibls-2216"><title level="a"><ref type="pub-" target="31011">Barmherzigkeit. Eine Adventspredigt</ref></title> [über <ref type="can" subtype="bible" target="Lk.1.78 Lk.1.79">Lk. 1,78f.</ref>], in: ZZ, Jg. 3 (1925), Heft 1 [= Heft IX der ganzen
+                  Zeitschrift], S. 3–12</bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-2217">
+                                <persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-403">E. Thurneysen</persName>, <hi rend="italic">Die große
+                    Barmherzigkeit. Predigten</hi>,
+                  München 1935, S. 116–125.</bibl></note> –
+            unter dem Titel «<persName ref="kbga-actors-360">Schleiermachers</persName>
+            Weihnachtsfeier» an <persName ref="kbga-actors-275">Georg Merz</persName>, den
+            Schriftleiter der Zeitschrift, gesandt.<note xml:id="n04">Vgl. den Brief von <persName ref="kbga-actors-275">G. Merz</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom <date when="1924-10-02">2.10.1924</date>: «Habe
+              recht herzlichen Dank für die wirklich musterhafte Pünktlichkeit, mit der Du mir Deine
+              Manuskripte gesandt hast.» (<ref type="kba-objects-id" target="12836">Original im Karl Barth-Archiv</ref>, Basel)</note> Beide
+            Beiträge waren «auf den Stand des Kirchenjahres eingestellt»<note xml:id="n05">
+                            <persName ref="kbga-actors-2151">Barth</persName> an
+                <persName ref="kbga-actors-403">Thurneysen</persName>
+              <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4110">S. 282</ref> (14.11.1924).</bibl></note>. Nachdem noch im <date when="1924-11">November 1924</date> zweifelhaft gewesen war, ob das betreffende Heft
+            (als erstes des Jahrgangs 1925) bis Weihnachten fertiggestellt sein würde<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-932"><ref type="pub-" target="4110">ebd.</ref></bibl></note>, konnte es dann doch noch im <date when="1924-12">Dezember</date> erscheinen.</p>
+          <p>Die zwischen senkrechten Strichen in den Text eingefügte Originalpaginierung ist die
+            des Wiederabdrucks in <bibl corresp="kbga-bibls-954">
+                            <title>Th. u.
+                  K.</title></bibl>
+          </p>
+        </div>
+        <div> 
+          <head>Schleiermachers «Weihnachtsfeier»</head>
+          <p>Übersieht man die wenigen erhaltenen Weihnachtspredigten und -predigtentwürfe <persName ref="kbga-actors-360">Schleiermachers</persName> zwischen <date from="1790" to="1810">1790 und 1810</date>, so fällt
+            äußerlich in die Augen, daß er in dieser Zeit unsres Wissens dreimal über <pb xml:id="p459" ed="pga"/> den Text 
+            <ref type="can" subtype="bible" target="Gal.4.4">Gal. 4,4</ref> gepredigt hat.<note xml:id="na" type="original"> <bibl corresp="kbga-bibls-2218">1790 zu Schlobitten
+              (Pred. VII 55ff.)</bibl><note xml:id="n07">
+                                <bibl corresp="kbga-bibls-2218">
+                                    <persName ref="kbga-actors-360">Fr. Schleiermacher</persName>, <title level="a">Welches
+                      Interesse alle Umstände der Geburt Jesu für uns haben</title>, in: ders.,
+                      <hi rend="italic">Sämmtliche Werke</hi> (im folgenden: SW), 2. Abth., Bd. 7, Berlin
+                    1836, S. 55–64.</bibl></note>, <date when="1795-12-26">2. Feiertag 1795</date>
+              zu Landsberg a. d. W.<note xml:id="n08">In <bibl corresp="kbga-bibls-2219">
+                                    ZZ, Jg. 3 (1925), Heft 2 (= Heft
+                    X der ganzen Zeitschrift), S. 212</bibl> veröffentlichte <persName ref="kbga-actors-2151">Barth</persName> folgende
+                  <hi rend="italic">Berichtigung</hi>: «In meinem Aufsatz über <persName ref="kbga-actors-360">Schleiermachers</persName> ‹Weihnachtsfeier› im letzten Heft
+                ist mir törichterweise zweimal (S. 38 Anm. 1, S. 40 Anm. 3 [hier: Anm. a und c])
+                statt <placeName ref="kbga-places-593">Lands<hi rend="italic">berg</hi> (a. d. Warthe)</placeName> Lands<hi rend="italic">hut</hi> in die
+                Feder gekommen. Ich danke dem aufmerksamen Leser in <placeName ref="kbga-places-545">Schlesien</placeName>, der mich auf den
+                Irrtum hingewiesen hat.» Im Wiederabdruck <bibl corresp="kbga-bibls-954">
+                                    Th. u. K.</bibl> wurde diese Korrektur
+                berücksichtigt.</note> (<bibl corresp="kbga-bibls-2220"><persName ref="kbga-actors-2536">J. Bauer</persName>,
+              <title>Ungedruckte Predigten Schl.’s</title>, Leipzig 1909, S. 85</bibl>)<note xml:id="n09">
+                                <bibl corresp="kbga-bibls-2220">
+                                    <hi rend="italic">Ungedruckte Predigten Schleiermachers aus
+              den Jahren 1820–1828. Mit Einleitungen und mit einem Anhang ungedruckter
+              Briefe von Schleiermacher und Henriette Herz</hi>, hrsg. von J.
+              Bauer, Leipzig 1909, S. 85.</bibl></note>, <date when="1802-12-26">2. Feiertag 1802</date> zu Stolp (ebendas., S. 87).</note> Der Inhalt dieser drei Predigten zeigt unzweideutig, was ihn an diesem
+            Text interessiert hat: es war das <foreign xml:lang="grc" rend="Ell">ὅτε δὲ ἦλθεν τὸ
+              πλήρωμα του χρόνου</foreign>, in dem er den Gedanken ausgesprochen zu sehen meinte,
+            daß die Erscheinung Christi ein Ergebnis des Waltens der <hi rend="italic">göttlichen
+              Vorsehung</hi> bzw. eine <hi rend="italic">geschichtliche Notwendigkeit</hi> war. Die
+            «großen und kleinen Umstände der Geburt Jesu», das Land, das Volk, die Zeit, die Lage
+            seiner Eltern, die Hirten, Simeon, Herodes, «alles […] wird uns wichtig, weil es
+            mittelbar oder unmittelbar auf Jesum und seinen Charakter wirkt, weil alles
+            zusammenkommen mußte, um ihn zu dem zu machen, was er werden sollte. In meiner Seele […]
+            entsteht daraus ein großer Zuwachs meiner Liebe zu Jesu … Je mehr außerordentliche
+            Leitung der Vorsehung von seinem ersten Augenblicke an nötig war, desto teurer wird er
+            uns, … desto voller und inniger freuen wir uns, daß er ist und daß er gerade so da ist»,
+            hören wir <date when="1790">1790</date>.<note xml:id="n10">
+                            <bibl corresp="kbga-bibls-2218">
+                                SW, 2.
+                  Abth., Bd. 7, S. 63.</bibl></note> Warum? Weil es immer so ist, weil wir in
+            der Weihnachtsbotschaft unter diesem Gesichtspunkt die Regel vor uns haben, unter der
+            unser aller Leben steht. <date when="1795">1795</date> disponiert <persName ref="kbga-actors-360">Schleiermacher</persName> folgendermaßen: Damit uns etwas
+            Gutes widerfahre, muß die Zeit erfüllt sein; es geht alles auf dem Wege der Natur; alles
+            bleibt dem Gesetze untenan. Und <date when="1802">1802</date> mit nur <pb n="107" ed="kbga-sources-2319"/>
+            leichter Verschiebung: Die Wohltaten Gottes stellen sich ein, wenn die Zeit erfüllt ist,
+            als vorübergehende Begebenheiten (an Stelle der Natürlichkeit wird jetzt die
+            geschichtliche Relativität betont) nach der Re<pb xml:id="p460" ed="pga" break="no"/>gel
+            der Gerechtigkeit und Ordnung. Die Frage erhebt sich: wie verhält sich zu dieser diese
+            Predigten beherrschenden <hi rend="italic">allgemeinen</hi> Wahrheit das spezielle Festthema
+            der <hi rend="italic">Weihnacht?</hi> <date when="1795">1795</date> wird darauf geantwortet: «Die Übereinstimmung
+            dieses <hi rend="italic">Beispiels</hi> (d. h. der Weihnachtsgeschichte) mit der Erfahrung
+            (d. h. mit jener allgemeinen Wahrheit) ist ein neuer Beweis, daß die Sendung Christi ein
+            Werk Gottes gewesen».<note xml:id="n11">Hervorhebung und Textergänzung in Klammern von
+              <persName ref="kbga-actors-2151">Barth</persName>.</note> Also: am Allgemeinen bewährt sich das Besondere. In umgekehrter
+            logischer Folge <date when="1802">1802</date>: «Die Geburt Christi ist <hi rend="italic">Symbol</hi> für alle
+            göttlichen Wohltaten und Fügungen. Die Ordnung, die hier (d. h. in der
+            Weihnachtsgeschichte) beobachtet worden, ist überall dieselbe».<note xml:id="n12">Hervorhebung und Textergänzung in Klammern von <persName ref="kbga-actors-2151">Barth</persName>.</note> Also: am Besonderen
+            bewährt sich das Allgemeine. So oder so ist nicht zu verkennen, daß das eigentliche
+            Festthema durch jenes den Prediger bewegende Interesse fast völlig in den Schatten der
+            allgemeinen Wahrheit gerückt wird, durch die es illustriert werden oder die es selber
+            illustrieren soll. Am Schluß der Predigt von <date when="1790">1790</date> scheint dies von <persName ref="kbga-actors-360">Schleiermacher</persName> selbst empfunden worden zu sein. Etwas
+            eilig und aus dem Rahmen der Predigt herausfallend sagt er hier, nach dieser Betrachtung
+            (d. h. nach dem Begreifen der Geburt Jesu als eines Werkes der Vorsehung) freue es uns
+            doppelt, alle unsern Bedürfnissen entsprechenden Wünsche in ihm so reichlich befriedigt
+            zu sehen. Der Mensch sehne sich nämlich nach einem aus seiner eigenen Gattung, an dem er
+            deutlich gewahr werden könne, wie weit er mit dem Beistand Gottes auf dem Wege der
+            Vollkommenheit kommen könne. Und nun stelle uns Christi Beispiel «<hi rend="italic">den
+              höchsten Triumph der menschlichen Natur dar</hi>» und gebe uns einen neuen glänzenden
+            Beweis für die uns entschwundene Liebe und Güte Gottes.<note xml:id="n13">
+                            <bibl corresp="kbga-bibls-2218">A. a. O., S. 63f.</bibl>: «Wir fühlen die
+              Bedürfnisse, die wir und unser ganzes Geschlecht hatten, und <hi rend="italic">freun
+                uns</hi> nach dieser Betrachtung doppelt, <hi rend="italic">alle unsre Wünsche in ihm so
+                reichlich befriedigt zu sehn</hi>. Und was für Wünsche! Der gefallene Mensch hat
+              auch den <hi rend="italic">Maßstab der Kräfte</hi> verloren, welche er nicht mehr
+              gebrauchte …: da sehnt er sich nach einem aus seiner eigenen Gattung, an dem er
+              deutlich gewahr werden könne, wie weit der Mensch mit dem Beistand Gottes auf dem Wege
+              der Vollkommenheit kommen könne; hier ist uns Christus geboren, … er durchläuft die
+              Bahn eines jeden Menschen in Entwikkelung und Wachsthum der Kräfte und stellt uns sein
+              Beispiel als den höchsten Triumph der menschlichen Natur dar. Der unglükkliche Mensch
+              hatte auch <hi rend="italic">seinen Zusammenhang mit Gott</hi> verloren; seine Liebe und
+              Güte war ihm verschwunden, und er bedurfte eines neuen glänzenden Beweises desselben
+              …»</note> Daß hier der Ge<pb xml:id="p461" ed="pga" break="no"/>danke erreicht ist, in
+            dem wir zunächst <persName ref="kbga-actors-360">Schleiermachers</persName> Auffassung
+            des eigentlichen <hi rend="italic">Weihnachts</hi>themas zu erkennen haben, ergibt sich bei
+            einem Blick auf das, was er 20 Jahre <pb n="108" ed="kbga-sources-2319"/> später
+            gepredigt hat<note xml:id="nb" type="original"> <bibl corresp="kbga-bibls-2222">1810 zu Dreifaltigkeit, Pred. VII
+                566ff.</bibl><note xml:id="n14">
+                                <bibl corresp="kbga-bibls-2222">
+                                    <persName ref="kbga-actors-360">Fr.
+                      Schleiermacher</persName>, <title level="a">Ueber die Vereinigung des
+                      menschlichen und göttlichen in dem Erlöser, wie sie uns seine erste Ankunft
+                      auf der Erde zur deutlichsten Anschauung bringt. Ueber <ref type="can" subtype="bible" target="Phil.2.6 Phil.2.7">Phil. 2,6.7</ref></title>, SW, 2. Abth., Bd. 7, S. 566–574.</bibl></note></note>: Wir fühlen uns zum Kind in der Krippe hingezogen in einer eigentümlichen
+            Andacht, der keine äußere Darstellung genügt. Immer finden wir noch etwas Tieferes in
+            unsern Herzen, was wir aussprechen möchten. Etwas Unbegriffenes und Unbegreifliches
+            liege in diesem Anblick. Was? Die in Christus vereinigte göttliche Gestalt und
+            menschliche Gebärde (<ref type="can" subtype="bible" target="Phil.2.6 Phil.2.7">Phil. 2,6f.</ref>): Menschlichkeit in voller Bedürftigkeit einerseits, andrerseits ein unter
+            dem Gesetz der Zeit stehendes, sich nur allmählich und in bestimmten Graden
+            entwickelndes Göttliches, das dann geschildert wird als die «andächtige auf das Höhere
+            gerichtete Liebe» der Maria<note xml:id="n15">
+                            <bibl corresp="kbga-bibls-2222">
+                                a. a. O., S. 572</bibl>: «So erschien er den seinigen
+              von Anfang als der gesalbte, als der göttliche Diener und Gesandte des Herrn, und nur
+              eine solche andächtige auf das höhere gerichtete Liebe war es, die ihn
+              auferzog.»</note>, die ihn anders, reiner, richtiger erzogen habe, als wir erzogen
+            werden, ferner als die bei ihm festzustellende Ungetrübtheit des ursprünglichen, in dem
+            innern Grund der menschlichen Persönlichkeit liegenden Verhältnisses zwischen Geistigem
+            und Sinnlichem, endlich als das Fehlen alles Gegensatzes und Kampfes in seinem Herzen.
+            Das offenbar ist der «vollkommene» Mensch, dessen Bild <persName ref="kbga-actors-360">Schleiermacher</persName> schon <date when="1790">1790</date> am
+            Rande seiner damaligen Betrachtung als der eigentliche Festgegenstand vorgeschwebt
+              hatte.<note xml:id="n16">
+                            <bibl corresp="kbga-bibls-2218">
+                                <persName ref="kbga-actors-360">Fr.
+                    Schleiermacher</persName>, <hi rend="italic">Welches Interesse alle Umstände der
+                    Gehurt Jesu für uns haben</hi>, a. a. O., S. 61</bibl>: «Nirgends konnten
+              die trefflichen Anlagen seines Geistes, der die höchsten Stufen der Vollkommenheit nur
+              durch Anhänglichkeit und Liebe zur Gottheit und ihren Geboten ersteigen sollte, besser
+              und glänzender ausgebildet werden als hier unter einem Volke, wo troz seiner
+              Verdorbenheit doch alle Einrichtungen darauf abzielten der Religion Eingang in ein
+              junges Herz zu verschaffen …»</note>
+          </p>
+          <p>In derselben Zeitspanne hat <persName ref="kbga-actors-360">Schleiermacher</persName> zweimal<note xml:id="nc" type="original"> 2. Feiertag
+                1794 zu Landsberg (<bibl corresp="kbga-bibls-2173">Bauer, a. a. O., S. 83ff.</bibl>) und <bibl corresp="kbga-bibls-2173">1. Feiertag 1802 zu Stolp (ebends., S. 86f.)</bibl>.</note> gepredigt über die Stelle
+              <ref type="can" subtype="bible" target="Lk.2.15 Lk.2.52">Lk. 2,15ff.</ref> «Betrachtungen <hi rend="italic">über die verschiedene Aufnahme</hi>, die die Nachricht von dem Dasein eines
+            Erlösers gefunden hat», heißt das Thema <date when="1794">1794</date>, <date when="1802">1802</date> dann, etwas präziser verratend,
+            worauf er hinaus <pb xml:id="p462" ed="pga"/> will: «<hi rend="italic">Die Gesinnung
+              derer</hi>, welche die erste Nachricht von der Geburt Jesu empfingen, <hi rend="italic">angewendet auf die unsrigen</hi>».<note xml:id="n17">Hervorhebung in beiden Themen
+              von <persName ref="kbga-actors-2151">Barth</persName>; bei <persName ref="kbga-actors-360">Schleiermacher</persName>: «Die
+              Gesinnungen …»</note> Der Gang der Belehrung stimmt wiederum nicht nur in der
+            allgemeinen Einteilung, sondern bis in viele Einzelheiten genau überein. Die Hirten auf
+            dem Feld sind der Typus eines «theoretischen Glaubens»<note xml:id="n18">Überschrift des
+              ersten Abschnittes der Predigt von <date when="1794">1794</date> (<bibl corresp="kbga-bibls-2173"><persName ref="kbga-actors-2536">J. Bauer</persName>, a. a. O., S. 83</bibl>): «Der theoretische Glaube».</note>. Sie haben ein Interesse an der
+            Offenbarung, sie untersuchen das Wunder, sie eifern für die Ausbreitung des Glaubens,
+            sie haben fromme Empfindungen. «Aber man hört <pb n="109" ed="kbga-sources-2319"/>
+            nicht, daß sie Christen geworden.»<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-2173">
+                                a. a. O., S. 86.</bibl></note> Dieser Glaube macht uns
+            nicht zu wahren Schülern Jesu, er bringt uns nicht die wahren Früchte der Religion, man
+            wird durch ihn wohl zum nützlichen, aber nicht zum tätigen Mitglied des Reiches Gottes.
+            Die sich «der Rede verwunderten» [<ref type="can" subtype="bible" target="Lk.2.18">Lk. 2,18</ref>], sind die Leugner, Zweifler oder doch Gleichgültigen. Wir notieren die
+            für die Genesis von <persName ref="kbga-actors-360">Schleiermacherc</persName> «Reden»<note xml:id="n20">
+                            
+                                <bibl corresp="kbga-bibls-1729"><persName ref="kbga-actors-360">Fr. Schleiermacher</persName>,
+                    <hi rend="italic">Über die Religion. Reden an die Gebildeten unter ihren
+                    Verächtern</hi> (1799), hrsg. von H.-J. Rothert
+                    (PhB 255), Hamburg
+                  1958. Vgl. dort bes. S. 65f.</bibl> (Originalausgabe S. 116–118).</note> nicht unwichtige Stelle über die «Zweifler»: sie sind es darum, «weil
+            man ihnen das Wunderbare aufdrängt und die moralische Freiheit in der Religion
+            zurücksetzt». «Sie werden der Religion günstiger, wenn sie sie besser kennen lernen und
+            zugleich mit der Natur der menschlichen Seele und der Beschaffenheit des menschlichen
+            Wesens auf Erden bekannter werden.» Daß <persName ref="kbga-actors-2224">Maria</persName> alle diese Worte behielt und in ihrem
+            Herzen bewegte [<ref type="can" subtype="bible" target="Lk.2.19">Lk. 2,19</ref>], das
+            ist endlich der Idealfall: «Das Wunderbare veranlaßt die Untersuchung. Das Moralische
+            zieht den Beifall nach sich», und «diese Klasse ist die geringste, aber beste, zu der
+            wir uns auch bekennen müssen; wir sind auch wie <persName ref="kbga-actors-2224">Maria</persName> mit Christo verwandt», heißt es
+              <date when="1794">1794</date><note xml:id="n21">Alle Zitate bei <bibl corresp="kbga-bibls-2173">
+                                <persName ref="kbga-actors-2536">J. Bauer</persName>, a. a. O., S. 84f.</bibl> Dort: «Freiheit der Religion».</note>, <date when="1802">1802</date> dahin präzisiert, wir
+            müßten dankbar sein für unsre durch die Verpflanzung des Christentums in unser Vaterland
+            und durch unsre zeitige Aufnahme in dasselbe vollzogene Auserwählung, wir müßten
+            aufmerksam der weitern Entwicklung des Reiches Christi folgen und uns entschließen, mit
+            verdoppelter Treue unsre Pflicht zu seiner Fortbildung <pb xml:id="p463" ed="pga"/> zu
+            erfüllen. <persName ref="kbga-actors-360">Schleiermacher</persName> hat<note xml:id="nd" type="original"> <date when="1794-12-25">1. Feiertag 1794</date> (<bibl corresp="kbga-bibls-2173"><persName ref="kbga-actors-2536">Bauer</persName>, a. a. O., S. 82f.</bibl>)</note> auch den
+            Lobgesang der Engel <ref type="can" subtype="bible" target="Lk.2.14">Lk. 2,14</ref>
+            unter diesen Gesichtspunkt gestellt. Thema: «<hi rend="italic">Die Empfindungen des
+              Christen</hi> beim Nachdenken über die Geburt Christi»<note xml:id="n22">Hervorhebung
+              von <persName ref="kbga-actors-2151">Barth</persName>.</note>: erstens Empfindungen gegen Gott angesichts der Allgemeinheit und
+            Weisheit der in Christus erschienenen Erlösung, zweitens «regulative» Empfindungen:
+            Frieden mit dem Himmel, unter den Christen als solchen und als Erdenbürger und
+            Wohlgefallen an der in der Erscheinung Christi liegenden Weisheit, an seiner Lehre, an
+            seinem «Urbild», und zwar durch das Bestreben, ihm nachzuahmen. Wir sehen: was den
+            Prediger beschäftigt, ist die Mannigfaltigkeit menschlicher <hi rend="italic">Hal</hi>
+                        <pb n="110" ed="kbga-sources-2319"/>
+                        <hi rend="italic">tungen</hi>, aus deren Dialektik sich eine, die mariaähnliche, als die
+            normale und gewünschte herausstellt, während der <hi rend="italic">Gegenstand</hi>, auf den
+            sich diese Haltungen beziehen, die Weihnachtsbotschaft selbst, als x in der Rechnung
+            vorausgesetzt, wiederum nur am Rande der Betrachtung als «Offenbarung» oder «Erlösung»
+            bezeichnet, sichtbar wird. Es ist <persName ref="kbga-actors-360">Schleiermacher</persName>, auch als er <date when="1831">1831</date><note xml:id="ne" type="original"><bibl corresp="kbga-bibls-2223">Pred. II 329ff.</bibl><note xml:id="n23">
+                                <bibl corresp="kbga-bibls-2223">
+                                    <persName ref="kbga-actors-360">Fr. Schleiermacher</persName>, <title level="a">Die verschiedene Art wie die
+                      Kunde von dem Erlöser aufgenommen wird</title> (über <ref type="can" subtype="bible" target="Lk.2.15 Lk.2.20">Lk. 2,15–20</ref>), <hi rend="italic">SW</hi>, 2. Abth., Bd. 2, Berlin
+                    1834, S. 329–342.</bibl></note></note> noch einmal im selben Dreitakt über <ref type="can" subtype="bible" target="Lk.2.15 Lk.2.52">Lk. 2,15ff.</ref> predigte, nicht gelungen, der Weihnachtsbotschaft
+            in <hi rend="italic">diesem</hi> Zusammenhang eine selbständige Bedeutung zu geben.</p>
+          <p>In der ersten Predigt von <date when="1794">1794</date> begegnete uns soeben der für <persName ref="kbga-actors-360">Schleiermachers</persName> Theologie
+            so bedeutsame Terminus «Urbild»<note xml:id="n24">Zu dem für die Christologie
+              <persName ref="kbga-actors-360">Schleiermachers</persName> charakteristischen Begriff des «Urbildes» vgl. z. B. 
+                                <bibl corresp="kbga-bibls-448"><title level="a">Der christliche Glaube nach den Grundsäzen der
+                    evangelischen Kirche im Zusammenhange dargestellt</title>, Bd. 2 (= <hi rend="italic">SW</hi>, 1. Abth., Bd. 4), Berlin 1836<edition rend="sup">3</edition>, S. 29 (§ 93, Leitsatz)</bibl>.</note>. Dem
+            «Urbild», Christus, stehen die Christen gegenüber. Aber zwischen ihnen und ihm besteht,
+            wie wir hörten, «Verwandtschaft», Annäherungsmöglichkeit. Wir berühren hier bereits den
+            Nerv der Schleiermacherschen Theologie: um die Realisierung dieser <hi rend="italic">Annäherung</hi> geht es nach ihm im Christentum. Diese systematische Beziehung lag
+            von Anfang an in seinen Intentionen: Wir stehen unter demselben Gesetz wie Christus, wir
+              <pb xml:id="p464" ed="pga"/> haben «ihm nachzuahmen». In der zweiten Predigt von <date when="1795">1795</date>
+            heißt es: «Gott kann <hi rend="italic">uns</hi> also den Genuß seiner Wohltaten <hi rend="italic">auch</hi> auf keinem andern Wege sichern»<note xml:id="n25">
+                            <bibl corresp="kbga-bibls-2173">
+                                <persName ref="kbga-actors-2536">J. Bauer</persName>, a. a. O., S. 85</bibl>. Hervorhebungen von <persName ref="kbga-actors-2151">Barth</persName>.</note> (als nach den allgemeinen Regeln
+            seiner Vorsehung). Und in der zweiten Predigt von <date when="1802">1802</date>: «So können <hi rend="italic">auch
+              wir</hi> … So geht es mit <hi rend="italic">allen</hi> Zuständen … <hi rend="italic">Alles</hi>,
+            wodurch menschliches Wohl wirklich befördert wird, muß unter denselben Bedingungen
+              stehen.»<note xml:id="n26">
+                            <bibl corresp="kbga-bibls-2173">
+                                a. a. O., S. 87</bibl>: «So auch können wir sicher sein, das auch uns alles geschehen ist.
+              … So geht es mit allen Zuständen, in welche Gott uns setzt und welche überflüssig
+              geworden, wenn ihr Endziel erreicht … Alles, wodurch …»</note> Die zweite Predigt von
+            <date when="1794">1794</date> (über die Hirten usw.) verläuft von Anfang bis zu Ende unter dem Schema: im Bilde –
+            im Gegenbilde. Schon der (unvollständig erhaltene) Schluß der Predigt von <date when="1790">1790</date> lautet:
+            «Aber laßt uns auch diese schöne Empfindung der Freude, welche der auszeichnende
+            Charakter dieses Festes ist, nicht umsonst verhauchen. Wenn wir etwas Gutes in uns und
+            für uns gewahr werden, d. h. wenn wir uns freuen, so sind wir immer am geneigtesten,
+            etwas beizutragen, um dieses Gute uns noch mehr zu eigen zu machen und zu benutzen.
+            Christus ist da <pb n="111" ed="kbga-sources-2319"/> und freuen wir uns dessen, aber
+            laßt uns auch sorgen, daß er soviel als möglich für uns da sei.»<note xml:id="n27">
+                            <bibl corresp="kbga-bibls-2218">
+                                <hi rend="italic">Welches Interesse alle Umstände der Geburt Jesu
+                    für uns haben</hi>, a. a. O. (Anm. 7), S. 64.</bibl> Dort: «… und wir
+              freun uns dessen …»</note> Wir besitzen eine Weihnachtspredigt des jungen <persName ref="kbga-actors-360">Schleiermacher</persName>, in der er unter diesem Gesichtspunkt
+            geradezu das Thema gewonnen hat<note xml:id="nf" type="original"> <bibl corresp="kbga-bibls-2226">1792 zu Schlobitten (Pred.
+              VII 117ff.).</bibl><note xml:id="n28">
+                                <bibl corresp="kbga-bibls-2226">
+                                    <persName ref="kbga-actors-360">Fr.
+                      Schleiermacher</persName>, <title level="a">Von der Theilnahme des guten
+                    Menschen an dem wahren Wohl der Menschheit.</title> Ueber Luk. 2,25–32, SW, 2. Abth., Bd. 7, S. 117–134.</bibl></note></note>: Wir wenden das Fest von Christi Geburt dann nützlich an, wenn wir uns zu der
+            Gesinnung ermuntern, die beständig in ihm herrschte und durch die er uns Alles geworden
+            ist: das «erhabene Gefühl der wärmsten allgemeinsten Menschenliebe, des ausgebreitetsten
+              Wohlwollens»<note xml:id="n29">
+                            <bibl corresp="kbga-bibls-2226">
+                                a. a. O., S. 118f.</bibl></note>. «Unsre Seele hebt sich, den Fußstapfen dessen zu
+            folgen, der die Menschen so hoch geliebt hat. Am Tage seiner Geburt laßt es uns geloben,
+            wenigstens in unserm Kreise immer mit seiner würdigen Gesinnungen zu handeln.»<note xml:id="n30">
+                            <bibl corresp="kbga-bibls-2226">
+                                a. a. O., S. 134.</bibl></note>
+            In dieser Linie biegt, wie wir sahen, auch die erste Predigt von <date when="1794">1794</date> ein mit dem, was
+            dort über «regulative» Empfindungen gesagt ist, und mit ihrem Schluß: «Das Bestreben <pb xml:id="p465" ed="pga"/> der Nachahmung muß immer der Schlußstein aller christlichen
+            Empfindungen sein»<note xml:id="n31">
+                            <bibl corresp="kbga-bibls-2173">
+                                <persName ref="kbga-actors-2536">J. Bauer</persName>, a. a. O., S. 83.</bibl></note>, und ebenso und in derselben Kurve die Predigt von <date when="1810">1810</date>, wo
+            es ja nach der traditionellen Auffassung der berühmten Philipperbriefstelle [<ref type="can" subtype="bible" target="Phil.2.5">2,5</ref>]<note xml:id="n32">Vgl. dazu
+                <bibl corresp="kbga-bibls-2227">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Erklärung des Philipperbriefes</hi>,
+                    München 1928, S. 53f.
+                    (Zollikon 1947<edition rend="sup">6</edition>, S. 57f.)</bibl>.</note> nahe genug lag, die je dreifach
+            gegliederte Darstellung der menschlichen Unvollkommenheit und der Vollkommenheit Christi
+            zum Schluß zu überwölben durch die dreifache Paränese: Das göttliche Bild Christi soll
+            unsre Erziehungsarbeit an dem künftigen Geschlecht reinigen und durchdringen; es schwebe
+            uns überall vor, wo wir auf uns selbst zu wirken haben; es treibe uns an, alle uns
+            anklebende Sünde abzutun, daß wir das Göttliche rein erhalten in uns, sein heiliges Bild
+            festzuhalten, daß es in uns wachse und zunehme.<note xml:id="n33">Vgl. <bibl corresp="kbga-bibls-2222">
+                                <persName ref="kbga-actors-360">Fr. Schleiermacher</persName>, <hi rend="italic">Ueber die Vereinigung des menschlichen und göttlichen in dem Erlöser
+                    …</hi>, a. a. O. (Anm. 14), S. 573f.</bibl></note> Die Beziehung auch dieses dritten den Prediger beschäftigenden Gedankens zur <hi rend="italic">Weihnacht</hi> ist offenbar wiederum unbestimmt, zufällig, nachträglich.</p>
+          <p>Das Problem der ältern Schleiermacherschen
+            Weihnachtspredigt dürfte durch diese Analyse aufgezeigt sein. Was den Prediger <hi rend="italic">aus Anlaß</hi> der Weihnacht interessiert, ist der Gedanke an die in der
+            Geschichte und im Leben waltende Notwendigkeit, die Erwägung der besten Möglichkeit, das
+            von Gott <pb n="112" ed="kbga-sources-2319"/> Kommende aufzunehmen, die Einschärfung des
+            Gesetzes und Imperativs der Aneignung und Nachbildung. All diesem Sekundären gegenüber
+            steht das Primäre, die Weihnacht selbst, die Erscheinung Christi, zunächst im
+            Hintergrund. In welcher Richtung <persName ref="kbga-actors-360">Schleiermacher</persName> in dieser Beziehung suchte, zeigt die
+            schon <date when="1790">1790</date> auftauchende Wendung vom «höchsten Triumph der menschlichen Natur». Diesen
+            Gedanken vom Rande in die Mitte gerückt, ahnen wir <date when="1810">1810</date> deutlicher, was etwa damit
+            gemeint sein mochte.</p>
+          <p rend="margin-top">Die nächste maßgebende Quelle zur Beantwortung unsrer Frage ist die <date when="1806">1806</date>
+            in erster, <date when="1826">1826</date> in zweiter, überarbeiteter Auflage erschienene Schrift «<title level="m"><bibl corresp="kbga-bibls-2166">Die Weihnachtsfeier</bibl></title>». <persName ref="kbga-actors-360">Schleiermacher</persName>
+            ist inzwischen Hallenser Professor geworden.<note xml:id="n34">Im <date when="1804-10">Oktober
+                1804</date> hatte <persName ref="kbga-actors-360">Schleiermacher</persName> die Berufung zum a.o. Professor der Theologie und
+              Universitätsprediger in <placeName ref="kbga-places-29">Halle/Saale</placeName> angenommen, wo er bis <date when="1807">1807</date>
+              blieb.</note> Seine Vorlesungen über Dogmatik und Paulus <pb xml:id="p466" ed="pga"/>
+              <foreign xml:lang="lat">exegese</foreign><note xml:id="n35">Randnotiz in <persName ref="kbga-actors-2151">Barths</persName> Handexemplar: «+ philosophische Ethik +
+              Enzyklopädie».</note>, der Plan einer <persName ref="kbga-actors-322">Plato</persName>-Übersetzung, im Persönlichen der eben unter Schmerzen überwundene
+            Verzicht auf <persName ref="kbga-actors-2566">Eleonore Grunow</persName><note xml:id="n36">
+                            
+                                <persName ref="kbga-actors-2566">Eleonore Grunow</persName>, Frau eines
+              Berliner Predigers, erwog zeitweise die Scheidung von ihrem Ehemann und eine
+              Vermählung mit <persName ref="kbga-actors-360">Schleiermacher</persName>, der ihr seit
+              längerer Zeit zugetan war. Nach jahrelangem Schwanken entschloß sich <persName ref="kbga-actors-2566">Eleonore Grunow</persName> – kurz vor der beabsichtigten
+              Scheidung – Anfang <date when="1805-10">Oktober
+                    1805</date>, zu ihrem Ehemann zurückzukehren.</note> sind die
+            Angelegenheiten, die ihn ums Ende des Jahres <date when="1805">1805</date> besonders bewegt haben. Die direkte
+            Vorgeschichte der Schrift ist kurz: «Ganz wunderbar kam mir der Gedanke plötzlich des
+            Abends am Ofen, da wir eben aus <persName ref="kbga-actors-4013">Dülons</persName>
+            Flötenkonzert kamen, und nicht drei Wochen nach dieser ersten Empfängnis, von der ich
+            doch erst nach einigen Tagen wußte, daß es wirklich eine wäre, war es auch fertig»<note xml:id="ng" type="original">
+                            <bibl corresp="kbga-bibls-2228">Briefe IV 122, vgl. II 49, 60</bibl><note xml:id="n37">Die hier und im folgenden
+                von <persName ref="kbga-actors-2151">Barth</persName> angeführten Belegstellen der «Briefe» beziehen sich auf die Ausgabe: <bibl corresp="kbga-bibls-2228">
+                                    <hi rend="italic">Aus Schleiermacher’s Leben. In Briefen</hi>,
+                    4 Bde., Berlin 1858–1863.</bibl> –
+                  
+                                    <persName ref="kbga-actors-4013">Friedrich Ludwig Dülon</persName> bzw. <persName ref="kbga-actors-4013">Dulon</persName> (1769–1826) war ein bekannter
+                Flötenspieler, der mehrmals auch in Halle gastierte. Das von <persName ref="kbga-actors-360">Schleiermacher</persName> erwähnte
+                Flötenkonzert fand am <date when="1805-12-02">2.12.1805</date> im Ratskellersaal <placeName ref="kbga-places-29">Halle</placeName> statt; vgl.
+                  <bibl corresp="kbga-bibls-2229">
+                                    <persName ref="kbga-actors-2541">E.
+                      Börsch</persName>, <title level="a">Zur Entstehung der «Weihnachtsfeier» von
+                        Friedrich Schleiermacher</title>,
+                    in: ThZ, Jg. 13 (1957), S. 354–356.</bibl></note>; <bibl corresp="kbga-bibls-2230">Briefwechsel mit Gaß S. 42</bibl>.<note xml:id="n38">
+                                <bibl corresp="kbga-bibls-2230">
+                                    <hi rend="italic">Fr. Schleiermacher’s Briefwechsel mit J. Chr. Gaß</hi>, hrsg. von
+                      W. Gaß, Berlin 1852, S. 42.</bibl></note></note> Bemerkenswert ist der Umstand, daß <persName ref="kbga-actors-360">Schleiermacher</persName> dabei den Gedanken an «eine Kollektion über alle Feste und
+            über die Sakramente» oder doch über «die beiden andern großen Feste» erwogen hat. Aber
+            «die Idee lachte mich sehr an, es noch vor dem Feste fertig zu machen»<note xml:id="nh" type="original">
+                            <bibl corresp="kbga-bibls-2230">Br. m. Gaß S. 42</bibl>; [vgl.] <bibl corresp="kbga-bibls-3507">Briefe II 60.</bibl></note>, als Überraschung für seine Freunde, um
+            derentwillen er den Verleger <orgName ref="kbga-actors-4154">Schimmelpfennig</orgName> in <placeName ref="kbga-places-29">Halle</placeName> daselbst und in <placeName ref="kbga-places-8">Berlin</placeName> anfangs nur
+            Exemplare ohne Verfassernamen ausgeben ließ.<note xml:id="ni" type="original">
+                            <bibl corresp="kbga-bibls-2230">Br. m. Gaß S. 42</bibl>; <bibl corresp="kbga-bibls-2228">Briefe
+              II 63f.</bibl></note> So kam es, daß es bei dem Ver<pb n="113" ed="kbga-sources-2319"/>such, sich und andern über den Sinn der <hi rend="italic">Weihnacht</hi> in dieser Weise
+            Rechenschaft zu geben, sein Bewenden gehabt hat.<note xml:id="nj" type="original">Ich zitiere die
+              «Weihnachtsfeier» im folgenden nach der kritischen Ausgabe von <bibl corresp="kbga-bibls-2166">
+                                <persName ref="kbga-actors-290"><hi rend="italic">Hermann Mulert</hi></persName>, Philos. Bibliothek Bd. 117, Leipzig
+                  1908</bibl>.<note xml:id="n39">
+                                <bibl corresp="kbga-bibls-2166">
+                                    <title level="a">Fr. Schleiermachers Weihnachtsfeier. Kritische Ausgabe</title>,
+                    hrsg. von 
+                                        <persName ref="kbga-actors-290">H. Mulert</persName>
+                                    
+                      (PhB 117), Leipzig
+                    1908.</bibl> – Belegstellen für Zitate und Paraphrasen werden
+                im folgenden nach dieser Ausgabe im Text in runden Klammern von <persName ref="kbga-actors-2151">Barth</persName> selbst, in
+                eckigen Klammern vom Hrsg. angegeben.</note></note>
+          </p>
+          
+          <p>
+                        <pb rend="noPipe" xml:id="p467" ed="pga"/> Um das Ergebnis dieses Versuches zu verstehen, darf man sich nicht einseitig und nicht
+            zuerst an die theologischen Reden des dritten Teils halten.<note xml:id="nk" type="original">Wie dies
+              noch in der Einleitung der <bibl corresp="kbga-bibls-2166"><hi rend="italic">
+                                <persName ref="kbga-actors-290">Mulertschen</persName></hi> Ausgabe</bibl> geschieht.<note xml:id="n40">Vgl. 
+                                    <bibl corresp="kbga-bibls-2166"><persName ref="kbga-actors-290">H. Mulert</persName>,
+                      a. a. O. in der Einleitung, S. XIV-XXX; S. XIV</bibl>:
+                «Aber die beiden ersten Teile der Schrift geben überhaupt wenig Anlaß, nach der
+                religiösen Stellung des Verfassers zu fragen. … Tatsächlich enthalten die Reden des
+                dritten Teils viel religiöse, theologische Reflexion.»</note> Es ist, soweit ich
+              sehe, das Verdienst <hi rend="italic">
+                                <persName ref="kbga-actors-96">Diltheys</persName></hi> (in dem in der 2. Auflage seines Schleiermacherbuches von
+                
+                                <persName ref="kbga-actors-290">Mulert</persName> S. 765ff. abgedruckten Aufsatz
+              über die «Weihnachtsfeier»), als Erster ausdrücklich darauf hingewiesen zu haben, daß
+              man die Schrift als Ganzes würdigen muß, um ihren Sinn zu erkennen.<note xml:id="n41">
+                                
+                                    <bibl corresp="kbga-bibls-2172">
+                                    <persName ref="kbga-actors-96">W. Dilthey</persName>, <hi rend="italic">Leben Schleiermachers</hi>, Bd. I
+                      (Berlin 1870), hrsg. von H. Mulert,
+                      Berlin/Leipzig 1922<edition rend="sup">2</edition>, S. 765–798</bibl> (<bibl corresp="kbga-bibls-2478">Neuausgabe hrsg. von M.
+                      Redeker, <edition rend="normal">3. Aufl.</edition> auf Grund des Textes der
+                      1. Aufl. von 1870</bibl>. – In den
+                früheren Abdrucken irrtümlich «S. 761f.»; Korrektur vom Hrsg.</note></note> Das wäre eine Überschätzung der Reflexion, mit der man sich den Absichten des
+            Verfassers sofort entziehen würde. Er wußte, was er wollte, wenn er die Form des
+              platonischen Dialogs, in die er seine
+            Antwort auf die Weihnachtsfrage kleidete, erweiterte in der Richtung der lehrhaften
+            Novelle. Man muß die am heiligen Abend mit ihren Freunden versammelte <hi rend="italic">gebildete deutsche Familie</hi><note xml:id="nl" type="original">
+                            <bibl corresp="kbga-bibls-2231">
+                                <persName ref="kbga-actors-4147">
+                                    <hi rend="italic">Walther
+                  Sattler</hi></persName> redet in seiner Ausgabe der W.F. (Leipzig, C.F. Amelang
+                1923, S. 75 und 82)</bibl> von einem <hi rend="italic">Pfarr</hi>haus. Die Stelle
+                <bibl corresp="kbga-bibls-2166">
+                                <persName ref="kbga-actors-290">Mulert</persName> S. 17, Z. 11ff.</bibl>, auf die er sich
+              stützt, scheint mir doch eine zu dünne Grundlage für diese Auffassung.<note xml:id="n42">Diese Anm. wurde von <persName ref="kbga-actors-2151">Barth</persName> dem Wiederabdruck in <bibl corresp="kbga-bibls-954">
+                                    Th. u. K.</bibl> neu
+                beigefügt. – <bibl corresp="kbga-bibls-2166">
+                                    a. a. O., S. 17</bibl>:
+                «Besinne dich Eduard, daß wir noch neulich davon [scil. vom geistlichen Stolz]
+                redeten, und daß du unter dem ganzen sogenannten geistlichen Stande, den du ja weit
+                und breit kennst von Amts wegen, mit Mühe ein Paar Beispiele auftreiben konntest von
+                solchen, die nicht dadurch waren verderbt worden.»</note></note>, die er zum Träger dieser Antwort gemacht hat, trotz der nicht unanfechtbaren
+            Kunst der Darstellung zu sehen und zu hören versuchen. Ihr Zusammensein, das Spiel ihrer
+            Unterhaltung, ihr eigenartiges «Erleben» des Weihnachtsabends, die «Stimmung», mit der
+              <persName ref="kbga-actors-360">Schleiermacher</persName> die beiden jenen Lehrreden
+            vorangehenden Teile des «Gesprächs» mit liebevoller Kleinmalerei erfüllt hat, das alles
+            ist nicht bloß Aufmachung oder Vorbereitung, sondern in seiner Weise mindestens
+            ebensosehr wie die Lehrreden – die <pb xml:id="p468" ed="pga"/> Antwort selber: «Die
+            festliche Freude dieser christlichen Geselligkeit bildet […] nicht nur, wie es scheinen
+            könnte, den Ausgangspunkt des Werkes, sondern in sie kehrt es zurück und ist in gewissem
+            Sinn nichts als eine Darstellung derselben».<note xml:id="nm" type="original">
+                            <bibl corresp="kbga-bibls-2172">
+                                <persName ref="kbga-actors-96">Dilthey</persName>, S. 781</bibl>.<note xml:id="n43">
+                                <bibl corresp="kbga-bibls-2478">Neuausgabe S. 159.</bibl></note></note> Wir lernen in <pb n="114" ed="kbga-sources-2319"/>
+            <hi rend="italic">Eduard</hi> und <hi rend="italic">Ernestine</hi> die Hauseltern kennen, unter
+            ihren Kindern vor allem das schon den Zeitgenossen erstaunliche artige, kluge,
+            musikalische und erst noch fromme Töchterchen <hi rend="italic">Sofie</hi>, neben ihnen «an
+            der Pforte der Lebenshöhe» (<persName ref="kbga-actors-96">Dilthey</persName>)<note xml:id="n44">
+                            
+                                <bibl corresp="kbga-bibls-2172"><persName ref="kbga-actors-96">W. Dilthey</persName>,
+                    a. a. O., S. 779</bibl> (<bibl corresp="kbga-bibls-2478">Neuausgabe S. 158</bibl>).</note> die
+            Verlobten <hi rend="italic">Ernst</hi> und <hi rend="italic">Friederike</hi>, ferner eine junge
+            Frau namens <hi rend="italic">Agnes</hi>, ein erwachsenes Mädchen <hi rend="italic">Karoline</hi>
+            und den Juristen <hi rend="italic">Leonhardt</hi>, der sich so sehr als <foreign xml:lang="lat">advocatus diaboli</foreign>
+            aufspielt, daß er beinahe und doch nicht ganz aus dem Rahmen herausfällt. Auf den zwei
+            letzten Seiten erscheint dann noch, äußerlich nicht näher charakterisiert, <hi rend="italic">Josef</hi>, der nicht nur die abschließenden und zusammenfassenden<note xml:id="n45">Im Abdruck <bibl corresp="kbga-bibls-954">
+                                Th.u.K.</bibl> irrtümlich: «zusammenfallenden»; Korrektur nach dem
+              Erstdruck in <bibl corresp="kbga-bibls-2213">
+                                ZZ</bibl> und der Berichtigung <persName ref="kbga-actors-2151">Barths</persName> in seinem Handexemplar von
+                <bibl corresp="kbga-bibls-954">
+                                Th.u.K.</bibl></note> Sätze des Ganzen, sondern auch Dinge ausspricht, die sich allzu deutlich auf
+              <persName ref="kbga-actors-360">Schleiermachers</persName> eigene damalige Lage
+              beziehen<note xml:id="nn" type="original">» … so ist mir heute der lange tiefe unvergängliche Schmerz
+              besänftiget, wie noch nie. Ich fühle mich einheimisch und wie neugeboren in der
+              bessern Welt, in der Schmerz und Klage keinen Sinn hat und keinen Raum. Mit frohem
+              Auge schaue ich auf alles, auch auf das tiefverwundende. Wie Christus keine Braut
+              hatte als die Kirche, keine Kinder als seine Freunde, kein Haus als den Tempel und die
+              Welt und doch das Herz voll himmlischer Liebe und Freude, so scheine ich mir geboren,
+              auch danach zu trachten» (S. 56).</note>, als daß man nicht wie in gewissen
+            Eckgestalten mittelalterlicher Bilder den Maler, so in dieser Figur den Autor im
+            Selbstporträt wiedererkennen müßte. Aber die Worte Josephs ziehen doch nur das
+            dialektische Fazit. Man darf, das ist die zweite Regel zum Verständnis, auch von den
+            Lippen der übrigen Personen nichts Un-Schleiermacherisches zu hören erwarten, auch nicht
+            von Leonhardt. Man kann an dem Verhältnis dieser Figuren zueinander studieren, was
+            <persName ref="kbga-actors-360">Schleiermacher</persName> unter «<hi rend="italic">Gemeinde</hi>» (als deren «Keimzelle» er ja oft genug
+            die <hi rend="italic">Familie</hi> gepriesen)<note xml:id="n46">Vgl. etwa aus <persName ref="kbga-actors-360">Schleiermachers</persName>
+              «Hausstandspredigten» (<date when="1818">1818</date>): <bibl corresp="kbga-bibls-2164">
+                                <title level="a">Ueber das christliche Hausgesinde. Erste Predigt</title> (über <ref type="can" subtype="bible" target="1.Kor.7.20 1.Kor.7.23">1.Kor. 7,20–23</ref>), SW, 2. Abth., Bd. 1, S. 640ff., bes. S. 648</bibl>, wo
+              er «jedes Hauswesen eine Pflanzstätte … für die Kirche» nennt. Zum Zusammenhang von
+              Familie und Gemeinde bei <persName ref="kbga-actors-360">Schleiermacher</persName> vgl. <persName ref="kbga-actors-2151">Barths</persName> Ausführungen in <bibl corresp="kbga-bibls-974">
+                                Th. Schl., <ref type="pub-" target="../volume/11/p198#p198">S. 198f</ref>.<ref type="pub-" target="../volume/11/p237#p237">237</ref>.<ref type="pub-" target="../volume/11/p305#p305">305</ref>.<ref type="pub-" target="../volume/11/p398#p398">398f</ref>.<ref type="pub-" target="../volume/11/p404#p404">404</ref>.<ref type="pub-" target="../volume/11/p443#p443">443</ref>.</bibl></note> verstanden hat: <pb xml:id="p469" ed="pga"/> Männer und Frauen, Erwachsene und
+            Kinder, nüchterne und poetische Gemüter, jedes mit seinem Eigenrecht, sich selbst zu
+            sein, aber gerade darum und darin denselben Nenner tragend, ja unsichtbar zu einer
+            Gesamtsumme vereinigt, als <hi rend="italic">eine</hi> Zahl, über demselben Generalnenner
+            stehend. Mögen sie sich im Einzelnen, in ihren Charakteren, Erfahrungen, Ideen
+            unterscheiden und sogar <pb n="115" ed="kbga-sources-2319"/> widersprechen, in der
+            christlichen Festfreude (mag sie bei jedem ihren besondern Ton haben) harmonieren sie
+            nur um so tiefer und inniger, so daß jedes Einzelne schließlich als solches nur dazu
+            erscheint, um durch den Beitrag seiner Einzelnheit das gemeinsame Eine zu bereichern, zu
+            verstärken, noch deutlicher als das Eine Notwendige [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>] erscheinen zu lassen.<note xml:id="no" type="original">
+                            <hi rend="italic">Herrnhutische</hi> Erinnerungen haben bei dieser Konzeption
+              des Familienbildes sicher stärker auf <persName ref="kbga-actors-360">Schleiermacher</persName> gewirkt als die direkten Eindrücke von glücklicher
+              Häuslichkeit, die ihn damals von verschiedenen Seiten umgaben. In der Vorrede von
+                <date when="1826">1826</date> bezeichnet er es als die Absicht der Schrift, angesichts der
+              vielen Trennungen und Gegensätze zu zeigen, «wie die verschiedensten Auffassungsweisen
+              des Christentums hier in einem mäßigen Zimmer nicht etwa nur friedlich nebeneinander
+              sind, weil sie sich gegenseitig ignorieren, sondern wie sie sich einander freundlich
+              stellen zu vergleichender Betrachtung» [S. 57f.]. Das ist eine Abwandlung des <hi rend="italic">
+                                <persName ref="kbga-actors-441">Zinzendorfschen</persName></hi>
+              Programmes.</note> Man muß aber, auch das gehört zur <hi rend="italic">Sache</hi>, auch für
+            das Kunstwerk des <hi rend="italic">Aufbaus</hi> oder vielmehr <hi rend="italic">Kreislaufs</hi>
+            des «Gesprächs» ein Auge haben: zuerst die anschaulichen familiären Festvorgänge: Einzug
+            in den geschmückten Raum, Bescherung, Gesang, eine kleine illuminierte Darstellung der
+            Weihnachtsgeschichte nebst den Hauptdaten der Kirchengeschichte(!) [<bibl corresp="kbga-bibls-2166">S. 3–10</bibl>]. Im
+            Mittelpunkt, wie es sich gehört, die Figur des Wunderkindes <hi rend="italic">Sophie</hi> mit
+            ihren sinnigen Sprüchen, ihrer Freude an den Geschenken, ihrem Klavierspiel und Gesang,
+            ihren mystischen Anwandlungen [<bibl corresp="kbga-bibls-2166">S. 6–10.13–17.25f.</bibl>]. Sie ist es denn auch, die den
+            immer sich erneuernden Anlaß bietet zu der ersten zwanglos hin und her laufenden Serie
+            von Unterredungen der Erwachsenen, z. B. über Kindererziehung [<bibl corresp="kbga-bibls-2166">S. 11–13</bibl>], religiöse
+            Schwärmerei [<bibl corresp="kbga-bibls-2166">S. 13–17</bibl>], Kirche und Kunst [<bibl corresp="kbga-bibls-2166">S. 19f.</bibl>], das Verhältnis der beiden
+            Geschlechter zur Religion [<bibl corresp="kbga-bibls-2166">S. 26–30</bibl>], die siegreiche Mitte über Freude und Schmerz [<bibl corresp="kbga-bibls-2166">S. 23–26</bibl>] u. dgl. Dann – hier beginnt sichtlich ein zweiter Teil – setzen <hi rend="italic">Ernestine</hi> [<bibl corresp="kbga-bibls-2166">S. 30–33</bibl>], <hi rend="italic">Agnes</hi> [<bibl corresp="kbga-bibls-2166">S. 33–37</bibl>] und <hi rend="italic">Karoline</hi> [<bibl corresp="kbga-bibls-2166">S. 37–41</bibl>] auf Aufforderung der Männer an zu <pb xml:id="p470" ed="pga"/> Erzählungen über Erlebnisse früherer Weihnachtsabende, alle mit dem Thema: Mutter und
+            Kind, wobei <hi rend="italic">Friederike</hi> durch gleichzeitiges oder anschließendes
+            Pianospiel der Sache den Charakter eines Melodramas gibt. Dritter Teil: die Män<pb n="116" ed="kbga-sources-2319"/>ner, <hi rend="italic">Leonhardt</hi> [<bibl corresp="kbga-bibls-2166">S. 42–46</bibl>], der
+            kritische Rationalist, <hi rend="italic">Ernst</hi> [<bibl corresp="kbga-bibls-2166">S. 47–51</bibl>], der Mann der ruhigen innern
+            Erfahrung, und <hi rend="italic">Eduard</hi> [<bibl corresp="kbga-bibls-2166">S. 52–55</bibl>], der spekulative Mystiker,
+            revanchieren sich, indem sie in längeren Darlegungen ihre Ansicht von der Bedeutung der
+            Weihnacht bzw. des Weihnachtsfestes zum besten geben. Welcher von den dreien hat und
+            behält recht? Die Frage bleibt offen; denn während noch der Letzte redet, tritt <hi rend="italic">Josef</hi> [<bibl corresp="kbga-bibls-2166">S. 55f.</bibl>] auf den Plan, wohlverstanden: mit mildem <hi rend="italic">Tadel</hi> über solches Diskutieren überhaupt und mit der Aufforderung zu
+            «sprachloser Freude» an dem «sprachlosen Gegenstand». «Kommt denn, und das Kind vor
+            allen Dingen mit, wenn es noch nicht schläft, und laßt mich eure Herrlichkeiten sehen,
+            und laßt uns heiter sein und etwas Frommes und Fröhliches singen» (<bibl corresp="kbga-bibls-2166">S. 56</bibl>). Man wird
+            sagen dürfen, daß auch dieser Weg zu diesem Ziel für sich selber redet. Das kleine Werk
+            beginnt «mit dem ruhig-tiefen Ausdruck christlichen Lebens als erhöhten und wahren
+            Menschenlebens in der Darstellung der Geselligkeit edler Menschen; die Reflexion erhebt
+            sich und steigert sich bis zu bewußter Erforschung […] dieses höhern Lebens der
+            Menschheit in Christus, um dann wieder zu verlöschen, unterzugehen in dem […] Gefühl
+            dieses erhöhten christlichen Lebens … in dem Zustandsbilde der durch das Christentum
+            vollendeten menschlichen Existenz», mit dem die Szene anhob.<note xml:id="np" type="original">
+                            <bibl corresp="kbga-bibls-2172">
+                                <persName ref="kbga-actors-96">Dilthey</persName>, S. 774</bibl>.<note xml:id="n47">
+                                <bibl corresp="kbga-bibls-2478">Neuausgabe S. 153.</bibl></note></note>
+          </p>
+          <p>Aber treten wir näher. Sollte der eben zitierte gewiß kongeniale Schleiermacherforscher
+            recht haben, wenn er die «religiöse Gemütsbewegung» als «das erhöhte, befreite
+            menschliche Gefühls- und Gesinnungsleben überhaupt», die «erhöhte Menschlichkeit,
+            vollendet geheiligte Menschlichkeit» den Kern der hier angestellten Betrachtung nennt –
+            «das Lebensgefühl … in seiner letzten Vertiefung und Erweiterung, in welchen es sich mit
+            allem eins und in einem Unbedingten gegründet weiß», dem gegenüber alle Begriffe nur ein
+            «Rückstand» oder ein «Spiel» wären?<note xml:id="nq" type="original">
+                            <bibl corresp="kbga-bibls-2172">
+                                <persName ref="kbga-actors-96">Dilthey</persName>, S. 777, 779</bibl>.<note xml:id="n48">
+                                <bibl corresp="kbga-bibls-2172">
+                                    a. a. O., S. 777</bibl> (<bibl corresp="kbga-bibls-2478">Neuausgabe S. 156</bibl>): «… in
+                ihm [<persName ref="kbga-actors-360">Schleiermacher</persName>] war der Grundgedanke
+                seiner Auffassung der Religion Wahrheit, daß alle Begriffe nur der Rückstand
+                wirklicher religiöser Gemütsbewegung in ihm seien; diese Gemütsbewegung selber aber
+                erscheint nur als das erhöhte befreite menschliche Gefühls- und Gesinnungsleben
+                überhaupt. … Erhöhte Menschlichkeit, vollendet geheiligte Menschlichkeit: hier liegt
+                der Kern der Betrachtung, welches jedes Verhältnis sozusagen auf seine Idee in Gott
+                zurückführt.» – S. 779 (<bibl corresp="kbga-bibls-2478">Neuausgabe S. 157)</bibl>: «Hier gibt es nun seiner
+                Betrachtungsweise ihren Charakter, daß er das seelische Leben nicht aus einem Spiel
+                der Vorstellungen ableitet …»</note></note>
+          </p>
+          
+          <p>
+                        <pb rend="noPipe" xml:id="p471" ed="pga"/> Man versäume also ja nicht, auch die beiden ersten Teile des <pb n="117" ed="kbga-sources-2319"/> «Gesprächs» voll auf sich wirken zu lassen. – Wir sehen, wenn
+            der Vorhang sich hebt, «die heitere und verständige <hi rend="italic">Ernestine</hi>» [<bibl corresp="kbga-bibls-2166">S. 3</bibl>],
+            weiblich liebevoll und aufmerksam beschäftigt mit dem Zurüsten des Bescherungstisches.
+            Und wie dann die Gesellschaft hereinströmt, da «wendeten sich in der Mitte des Saales,
+            wo man das Ganze überschauen konnte, alle Blicke auf sie. So schön war die Anordnung und
+            ein so vollkommener Ausdruck ihres Sinnes, daß unbewußt und notwendig Gefühl und Auge zu
+            ihr hingezogen wurden … Sie war es, an der sich alles zuerst ergötzte. Als hätte man das
+            übrige schon genossen und als wäre sie die Geberin von allem, so sammelte man sich um
+            sie her. Das Kind umfaßte ihre Knie und schaute sie mit den großen Augen an, ohne
+            Lächeln, aber unendlich lieblich; die Freundinnen umarmten sie; Eduard küßte ihr schönes
+            heruntergeschlagenes Auge, und wie es jedem geziemte, wurde ihr von allen die
+            herzlichste Liebe und Andacht bezeugt» (<bibl corresp="kbga-bibls-2166">S. 4f.</bibl>). – Und wie sich dann nach der ersten
+            Besichtigung der Geschenke alles um jene figürliche Darstellung der Weihnachtsgeschichte
+            versammelte, da heißt es von der kleinen <hi rend="italic">Sofie</hi>: «Plötzlich ward sie
+            gewahr, daß die Mutter grade hinter ihr stehe; sie wendete sich zu ihr, ohne ihre
+            Stellung zu ändern, und sagte innig bewegt: o Mutter! Du könntest ebensogut die
+            glückliche Mutter des göttlichen Kindleins sein, und tut es dir denn nicht weh, daß du
+            es nicht bist? Und ist es nicht deshalb, daß die Mütter die Knaben lieber haben? Aber
+            denke nur an die heiligen Frauen, welche Jesum begleiteten, und an alles, was du mir von
+            ihnen erzählt. Gewiß, ich will auch eine solche werden, wie du eine bist. Die gerührte
+            Mutter hob sie auf und küßte sie» (<bibl corresp="kbga-bibls-2166">S. 9f.</bibl>). «Die Mutterliebe ist das Ewige in uns, der
+            Grundakkord unsres Wesens», so formuliert später im Namen der Frauen selbst die sinnige
+              <hi rend="italic">Agnes</hi> die hier deutlich in die Mitte rückende Anschauung und
+            präzisiert sie: «Glaubst du denn, die Liebe geht auf <pb xml:id="p472" ed="pga"/> das,
+            wozu wir<note xml:id="n49">In den früheren Drucken irrtümlich: «sie»; Korrektur vom
+              Hrsg.</note> die Kinder bilden können? Was können wir bilden? Nein, sie geht auf das
+            Schöne und Göttliche, was wir in ihnen schon glauben, was jede Mutter aufsucht in jeder
+            Bewegung, sobald sich nur die Seele <pb n="118" ed="kbga-sources-2319"/> des Kindes
+            äußert.» Und <hi rend="italic">Ernestine</hi> sekundiert ihr: «Mit diesem Sinn ist wieder
+            jede Mutter eine <persName ref="kbga-actors-2224">Maria</persName>. Jede hat ein ewiges göttliches Kind und sucht andächtig darin
+            die Bewegungen des höhern Geistes» (S. 23f.). Zur vollen Entfaltung kommt diese
+            Anschauung in den <hi rend="italic">Erzählungen der drei Frauen:</hi> Der entscheidende
+            Augenblick der <hi rend="italic">ersten</hi> ist die Begegnung, die die Erzählerin in einer
+            Kirche mit einer Unbekannten mit einem kleinen Kind auf dem Schoß hat. «Ihre Miene
+            schien mir bald lächelnd, bald schwermütig, ihr Atem bald freudig zitternd, bald frohe
+            Seufzer schwer unterdrückend, aber das Bleibende von dem allen war freundliche Ruhe,
+            liebende Andacht, und herrlich strahlte diese aus dem großen schwarzen niedergesenkten
+            Auge … Es schien mir auch das Kind ungemein lieblich und regte<note xml:id="n50">Bei
+                <persName ref="kbga-actors-360">Schleiermacher</persName>: «So erschien mir auch …,
+              es regte».</note> sich lebendig, aber still, und schien mir in einem halb unbewußten
+            Gespräch von Liebe und Sehnsucht mit der Mutter begriffen. Nun hatte ich lebendige
+            Gestalten zu den schönen Bildern von <persName ref="kbga-actors-2224">Maria</persName> und dem Kinde …» Friederike hat diesen
+            Bericht auf dem Klavier leise begleitet. «Als Ernestine geendet, bog sie nach einigen
+            fantastischen Gängen in eine schöne Kirchenmelodie ein. Sophie, die sie erriet, lief
+            hin, um ihre Stimme hinzuzufügen, und sie sangen zusammen die schönen Verse von <persName ref="kbga-actors-1161">Novalis</persName>:
+            Ich sehe dich in tausend Bildern, <persName ref="kbga-actors-2224">Maria</persName>, lieblich ausgedrückt; doch keins von allen kann
+            dich schildern, wie meine Seele dich erblickt …» (S. 30ff. [<bibl corresp="kbga-bibls-2166">Zitate: S. 31f.</bibl>]). Der
+            Höhepunkt der <hi rend="italic">zweiten</hi> Erzählung ist der Augenblick, in dem ein
+            Kindlein von seinem Vater, einem Pfarrer, am Weihnachtsabend inmitten der gerührten
+            Gäste getauft wird. «Als wir nun alle dem Kinde die Hände auflegten nach der dortigen
+            guten alten Sitte, so war es, als ob die Strahlen der himmlischen Liebe und Lust sich
+            auf dem Haupt und Herzen des Kindes als einem neuen Brennpunkt vereinigten, und es war
+            gewiß das gemeinschaftliche Gefühl, daß sie dort ein neues Leben entzünden und so
+            wiederum nach allen Seiten ausstrahlen würden. – Also wieder das vorige, unterbrach
+            Leonhardt, nur gleichsam ein umgekehrtes negatives Christkindlein, in welches der
+            Heiligenschein <pb xml:id="p473" ed="pga"/> einströmt, nicht ausströmt. <pb n="119" ed="kbga-sources-2319"/> Herrlich<note xml:id="n51">Bei <persName ref="kbga-actors-360">Schleiermacher</persName>: «… einströmt, nicht aus. Ganz
+              herrlich».</note> hast du das getroffen, lieber Leonhardt, antwortete Agnes, ich
+            konnte es so schön nicht sagen. Nur die Mutter, deren Liebe den ganzen Menschen im Kinde
+            sieht, und diese Liebe ist es eben, die ihr den englischen Gruß zuruft, sieht auch den
+            himmlischen Glanz schon ausströmen aus ihm» (<bibl corresp="kbga-bibls-2166">S. 33ff. [Zitat: S. 36</bibl>]). Die <hi rend="italic">dritte</hi> Erzählung aber handelt von einer Mutter, die ihr todkrankes Kind eben am
+            Weihnachtsabend unter Schmerzen innerlich aufgegeben und sich in den Verzicht gefunden
+            hatte. Da ereignet sich in ihrer Abwesenheit die heilsame Krisis, sie kehrt zurück und
+            findet das Kind auf dem Wege der Genesung. «Es rührte mich wehmütig und versüßend», sagt
+            sie, «einen Engel zum Himmel zu senden zu der Zeit, wo wir die Sendung des größten auf
+            die Erde feiern. Nun kommen mir beide zugleich unmittelbar von Gott geschenkt. Am Feste
+            der Wiedergeburt der Welt wird mir der Liebling meines Herzens zu einem neuen Leben
+            geboren» – «gleichsam eine umgekehrte <persName ref="kbga-actors-2224">Maria</persName>, die mit dem tiefsten Mutterleiden, mit dem
+            Stabat mater anfängt und mit der Freude an dem göttlichen Kinde endigt», wird nachher
+            hinzugefügt, und von andrer Seite, diese Dialektik noch überbietend: «Oder auch nicht
+            umgekehrt. Denn <persName ref="kbga-actors-2224">Marias</persName> Schmerz mußte doch verschwinden in dem Gefühl der göttlichen
+            Größe und Herrlichkeit ihres Sohnes» (S. 37ff. [<bibl corresp="kbga-bibls-2166">Zitate: S. 40f.</bibl>]).</p>
+          <p>Kein Zweifel, daß wir zunächst ganz einfach in dieser <hi rend="italic">Anschauung</hi> die
+            eingangs in den frühern Predigten vermißte festliche Mitte der <persName ref="kbga-actors-360">Schleiermacherschen</persName>
+            Weihnachtsgedanken zu erkennen haben. Der «höchste Triumph der menschlichen Natur», den
+            wir an Weihnacht feiern, wäre hier das Innerste der <hi rend="italic">Familie</hi>, das <hi rend="italic">Verhältnis Mutter und Kind</hi> in
+            seinen verschiedenen Abwandlungen: zuerst die gütige Mutter für sich und allein,
+            gleichsam von außen gesehen, dann das Kind, das in der Mutter sein Ideal und seine
+            eigene Zukunft erkennt, dann die Liebe zum Kinde als das Innere und Ewige der Mutter,
+            dann Mutter und Kind zusammen als Gruppe gesehen, dann das Kind für sich mit seinem
+            negativen und positiven «Heiligenschein», d. h. mit dem, was es von der Gemeinschaft
+            empfängt und ihr wieder gibt, das <pb n="120" ed="kbga-sources-2319"/> letztere
+            prophetisch nur von der Mutter erkannt. Endlich die <foreign xml:lang="ita">Mater dolorosa</foreign>, deren Schmerz doch
+            durch das todüberwindende Leben ihres Kindes getröstet wird, ja schon getröstet <hi rend="italic">ist:</hi> immer <persName ref="kbga-actors-2224">Maria</persName>, immer Christus, und als <persName ref="kbga-actors-2224">Maria</persName> oder Christus im<pb xml:id="p474" ed="pga" break="no"/>mer wir selbst, die Frau im Manne das göttliche
+            Kind, der Mann in der Frau die reine Mutter verehrend, beide vereint sich selber
+            Anschauung edelster, erhöhtester Menschlichkeit. «Darum», sagt der dritte und letzte der
+            theologischen Redner am Schluß seiner Darbietung: «darum sieht jede Mutter, die es fühlt
+            … und die es weiß …, auch Christum in ihrem Kinde, und eben dies ist jenes
+            unaussprechliche, alles lohnende Muttergefühl. Und ebenso jeder von uns schaut in der
+            Geburt Christi seine eigene höhere Geburt an, durch die nun auch nichts anderes in ihm
+            lebt als Andacht und Liebe, und auch in ihm der ewige Sohn Gottes erscheint. … Und eben
+            dies ist die Herrlichkeit des Festes, die ihr auch von mir wolltet preisen hören» (<bibl corresp="kbga-bibls-2166">S. 55</bibl>). Aber sollte nun, wenn <hi rend="italic">das</hi> die <hi rend="italic">
+                            <persName ref="kbga-actors-360">Schleiermachersche</persName> Mitte</hi> ist, Weihnacht als
+            das Fest der Geburt <hi rend="italic">Christi</hi> nicht doch wieder (neben den
+            geschichtsphilosophischen, psychologischen, ethischen Erwägungen der Jugendpredigten)
+            durch einen <hi rend="italic">weitern</hi> heterogenen Gesichtspunkt an die Peripherie der
+            Betrachtung gedrängt sein? Müssen es denn gerade <persName ref="kbga-actors-2224">Maria</persName> und Christus sein, die wir
+            feiern, wenn es sich darum handelt, <hi rend="italic">das</hi> zu feiern? Könnte nicht etwa
+            eine andere Göttermutter und ein anderer Göttersohn ihre Stelle einnehmen? Sind <persName ref="kbga-actors-2224">Maria</persName>
+            und Christus nur Paradigma und Symbol für das MutterKind-Verhältnis – oder in welchem
+            Sinn sind sie mehr als das?</p>
+          <p>Mit dieser Frage wenden wir uns zu dem theologischen Männergespräch, das den berühmten
+            dritten Teil des Büchleins bildet. Die Auffassung hat sich heute mit Recht durchgesetzt,
+            wonach nicht der eine oder der andre, sondern in bestimmtem Sinn jeder der drei Redner
+            «die wahre Meinung» <persName ref="kbga-actors-360">Schleiermachers</persName> vertritt, mit Einschluß natürlich des vierten,
+            Josef, der zuletzt wie Elihu im [<ref subtype="bible" type="can" target="Hiob.32 Hiob.37">Hiob 32–37</ref>] auf den Plan tritt und sie alle «aufhebt»,
+            d. h. auf die bessere, die reflexionslos erlebende Weihnachtsfeier <pb n="121" ed="kbga-sources-2319"/> der Frauen zurückverweist. Die musikalische Friederike ist
+            es, die, da der Abend und die Erwartung des erhofften letzten Gastes sich in die Länge
+            zieht, den Vorschlag macht, das Fest selbst zum Gegenstand einer Aussprache unter den
+            Männern zu machen. «Hat es doch so viele Seiten, daß jeder es verherrlichen kann, wie er
+            am liebsten will» (<bibl corresp="kbga-bibls-2166">S. 42</bibl>).</p>
+          <p>Der erste Redner <hi rend="italic">Leonhardt</hi> (<bibl corresp="kbga-bibls-2166">S. 42ff.</bibl>) ist ein ziemlich raffiniertes
+            Geschöpf weniger der novellistischen als der theologischen Phantasie des Autors. Er
+            kündigt im voraus an, daß er erstens «jenen Männern», d. h. den Pfarrern, die am
+            folgenden Morgen predigen sollen, nicht vor<pb xml:id="p475" ed="pga" break="no"/>greifen wolle und sich also so weit als möglich von «dieser Bahn» entfernen werde, und
+            daß er zweitens das Fest zwar nicht zu «loben», wohl aber nach seiner Trefflichkeit und
+            Vollkommenheit «in seiner Art» («phänomenologisch» würde man vielleicht heute sagen) zu
+            «rühmen» gedenke [<bibl corresp="kbga-bibls-2166">S. 42</bibl>]. Weihnacht ist der Inbegriff des «Festes». Vorausgesetzt, der
+            Ursprung des Christentums sei für etwas Großes und Wichtiges zu halten, ist das «Fest»
+            gewiß das geeignetere Mittel, ihn im Gedächtnis des Menschen lebendig zu halten, als
+            etwa die Bibel oder der Unterricht. Beweis: die katholischen Heiligenfeste, die der
+            Legende viel mehr überredende Kraft geben, als dies die bloße schriftliche oder
+            mündliche Erzählung vermöchte. Wurde doch das «Fest» nicht selten Anlaß, die
+            entsprechende Geschichte zu – erdichten: So meint Leonhardt, «auch […] das Andenken an
+            Christum werde in größerem Umfang durch das Fest erhalten als durch die Schrift»<note xml:id="nr" type="original">Dieser Satz wird in der Ausgabe von 1826
+              <hi rend="italic">gestrichen</hi> [vgl. S. 67].<note xml:id="n52">
+                                <bibl corresp="kbga-bibls-2172">Der <persName ref="kbga-actors-290">Mulertschen</persName> Ausgabe
+                sind im Anhang (S. 57–72) «Änderungen und Zusätze der zweiten Ausgabe»
+                  (1826) beigefügt</bibl>.</note></note> [<bibl corresp="kbga-bibls-2166">S. 43</bibl>]. Das Christentum sei zwar gelten zu lassen als starke und kräftige
+            Gegenwart, aber das hänge mit der wirklichen Person Christi wenig zusammen<note xml:id="ns" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: «die irdische persönliche Tätigkeit Christi scheint mir
+              weit weniger damit zusammenzuhängen, als … gewöhnlich angenommen […] wird» [S. 68].<note xml:id="n53">Bei <persName ref="kbga-actors-360">Schleiermacher</persName>: «… als von den meisten mehr angenommen als geglaubt
+                wird».</note></note> [<bibl corresp="kbga-bibls-2166">S. 44</bibl>]. Ausgenommen davon sei die Lehre von der Versöhnung, die, ihrer Natur
+            nach überzeitlich, denn auch «mehr … mythisch<note xml:id="nt" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>:
+              «symbolisch» [S. 68].</note> gehalten werden sollte» [ebd.]. Christus als historischer
+            Stifter des <pb n="122" ed="kbga-sources-2319"/> Christentums dagegen habe nur eine
+            dürftige Bedeutung<note xml:id="nu" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: ihm sei nur ein kleiner Anteil
+              zuzuschreiben an der gegenwärtigen Gestalt des Christentums [vgl. S. 68].</note>, er
+            stehe näher bei <persName ref="kbga-actors-2206">Johannes dem Täufer</persName> als bei
+              <persName ref="kbga-actors-313">Paulus</persName>, es bleibe zweideutig, ob überhaupt
+            nach seinem Willen eine abgesonderte Kirche sich bilden sollte [ebd.]. Auch das Bemühen
+            der älteren evangelischen Berichte, Jesus mit dem Davidshaus in Verbindung zu bringen,
+            passe schlecht zum Stifter einer Weltreligion<note xml:id="nv" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl> wird
+              hinzugefügt: die übernatürliche Geburt Jesu sei anfangs, obwohl in der ältesten
+              Überlieferung bezeugt, vielen eine unbekannte Tatsache gewesen [vgl. S. 68f.].</note>
+            [<bibl corresp="kbga-bibls-2166">S. 44f.</bibl>]. Umgekehrt mache die für die Gründung der Kirche bezeich<pb xml:id="p476" ed="pga" break="no"/>nende Botschaft von der Auferstehung und Himmelfahrt das
+            historische Leben und Sterben<note xml:id="nw" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl> + «gewissermaßen» [S. 69].</note> verdächtig [<bibl corresp="kbga-bibls-2166">S. 45</bibl>]. Der Streit der alten Doketisten und Ebioniten (die
+            Christus entweder die wahre Menschheit oder die wahre Gottheit abstritten) und ebenso
+            der der Lutheraner und Reformierten über die bloß geistliche oder auch leibliche
+            Gegenwart Christi auf Erden weise über sich selbst hinaus darauf hin, «daß Christus
+            ehedem nicht auf eine andere und eigentlichere Art zugegen gewesen sei und gelebt habe
+            auf Erden und unter den Seinigen als auch jetzt noch. Kurz, der erfahrungsmäßige
+            geschichtliche Grund der Sache ist so schwach, daß unser Fest dadurch um so mehr
+            verherrlicht wird und seine Kraft nahe an das oben Erwähnte grenzt, daß nämlich durch
+            solche Gebräuche bisweilen die Geschichte selbst erst gemacht worden» <bibl corresp="kbga-bibls-2166">S. 45</bibl>). Diese
+            wunderbare (jedenfalls geschichtserhaltende, wenn nicht gar geschichtsschöpferische)
+            Kraft verdanke die Weihnacht ihrer Einführung in die Häuser und besonders in die
+            Kinderwelt. Darum dürfe an der überlieferten Form des Festes nur ja nichts geändert
+            werden. Wie ein Kind sein Hauptgegenstand sei, so seien es auch vor allem die Kinder,
+            die das Fest und durch das Fest wiederum das Christentum selbst heben und tragen. In der
+            Nacht werde es begangen, weil die Nacht die historische Wiege des Christentums sei,
+            Kerzen werden in ihr <pb n="123" ed="kbga-sources-2319"/> angezündet als Gleichnis des
+            Sterns, ohne den der Stall und im dunklen Stall das Kind nicht zu finden wären «in der
+            sonst unbestirnten Nacht der Geschichte» [<bibl corresp="kbga-bibls-2166">S. 46</bibl>]. Daher ihn, Leonhardt, unter den
+            Erzählungen der Frauen die von dem negativen Christkindlein mit dem nicht <hi rend="italic">aus</hi>-, sondern (aus seiner christlichen Umgebung) <hi rend="italic">ein</hi>strömenden
+            Heiligenschein am besten gefallen habe.<note xml:id="n54">Dieser Satz und der Beginn des
+              folgenden ist in <persName ref="kbga-actors-2151">Barths</persName> Handexemplar von <bibl corresp="kbga-bibls-954">
+                                Th. u. K.</bibl> am Rand mit einer
+              Schlangenlinie angestrichen und mit der Notiz versehen: «falsche Interpretation von S. 46, 23f.» (scil. <bibl corresp="kbga-bibls-2172">S. 46, Z. 23ff. der <persName ref="kbga-actors-290">Mulertschen</persName> Ausgabe</bibl>).</note> Auf diese Meinung<note xml:id="nx" type="original"> <date when="1826">1826</date> + «und auf ein ewiges Fortbestehen unsres Festes» [S. 69].</note>
+            fordert der Redner zuletzt die Anwesenden auf, die Gläser ertönen zu lassen und zu
+            leeren [ebd.]. – Also: Christus ist nicht der <hi rend="italic">notwendige</hi> Anlaß unsres
+            Festes, aber unser Fest selbst ist so schön, so «kräftig», daß man es allenfalls auch
+            als «Anlaß» Christi feiern <hi rend="italic">könnte</hi>. Die reine Menschlichkeit und ihre
+            feiernde Erhöhung, die wir vorhin in die Mitte der Weihnachtsbot<pb xml:id="p477" ed="pga" break="no"/>schaft treten sahen, <hi rend="italic">könnte</hi> gegenüber dem
+            Historischen der Weihnacht das Primäre sein. Das «Fest» selbst hat so oder so ewige
+            Berechtigung und Bedeutung. Man darf nur die Reserve nicht übersehen, mit der Leonhardt
+            seine historische Skepsis oder vielmehr seinen Gegenwartsenthusiasmus vorbringt, um auch
+            hier, natürlich von der äußersten dialektischen Möglichkeit her, <persName ref="kbga-actors-360">Schleiermacher</persName> selber reden zu hören. Daß er die
+            Leonhardtrede «ihrer Natur nach eigentlich frivol» genannt hat<note xml:id="ny" type="original">
+                            <bibl corresp="kbga-bibls-2230">Briefe
+              II 49</bibl>.<note xml:id="n55">
+                                <bibl corresp="kbga-bibls-2230">
+                                    a. a. O.</bibl>:
+                  «<persName ref="kbga-actors-322">Platonischen</persName> Geist kann ich der ersten
+                Rede gar nicht zugestehen, da sie ja ihrer Natur nach eigentlich frivol ist
+                …»</note></note>, spricht nicht entscheidend dagegen. Die Art, wie er <date when="1826">1826</date> diese Rede
+            verdeutlicht, gemildert, seinem behutsamer gewordenen historischen Empfinden angepaßt
+              hat<note xml:id="nz" type="original">
+                            <bibl corresp="kbga-bibls-2172">
+                                <persName ref="kbga-actors-290">Mulertsche</persName> Ausgabe S. 67ff.</bibl><note xml:id="n56">
+                                <bibl corresp="kbga-bibls-2172">
+                                    a. a. O., S. 67–69</bibl> finden sich die Leonhardt-Rede betreffende Abweichungen der 2.
+                von der 1. Auflage.</note></note>, zeigt zu deutlich, daß dieser Leonhardt nicht dazu das Wort erhält, um
+            widerlegt zu werden. Der folgende Redner widerlegt ihn denn auch nicht und <hi rend="italic">will</hi> ihn nicht widerlegen. «Der ungläubige Schalk» (<bibl corresp="kbga-bibls-2166">S. 46</bibl>) muß er sich zwar von
+            der Damenseite schelten lassen und noch zuletzt von dem milden, harmonischen Josef:
+            «euer schlechtes Prinzip», «dieser Leonhardt, der denkende, reflektierende,
+            dialektische, überverständige Mensch» (<bibl corresp="kbga-bibls-2166">S. 55</bibl>). Sofern das bös gemeint ist, richtet es
+            sich (man beachte, daß es Josef mit seinem alles niederwalzenden Lob der Frauen und der
+            Frau Musica ist, der diesen Tadel ausspricht) gegen die in Leon<pb n="124" ed="kbga-sources-2319"/>hardt verkörperte und einseitig sich aussprechende «<hi rend="italic">Reflexion</hi>» <hi rend="italic">als solche</hi>. «Frivol» ist die
+            Leonhardt-Rede, weil sie die <foreign xml:lang="lat">via regia</foreign>, die über die «Reflexion» hinausführt,
+            vernachlässigt. Eben darum ist eine Widerlegung seiner Auffassung auf dem Boden der
+            Reflexion nicht möglich, zugleich aber, da er ja das Eine Notwendige [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], das «Fest» selbst
+            bejaht hat, auch nicht notwendig. Auch der <foreign xml:lang="lat">advocatus diaboli</foreign> mit seiner <persName ref="kbga-actors-550">Feuerbachischen</persName> Umkehrung <hi rend="italic">bleibt</hi> in
+            der Gemeinde der Frommen.</p>
+          <p>Die zweite theologische Männerrede hält <hi rend="italic">Ernst</hi>, der glückliche
+            Bräutigam (<bibl corresp="kbga-bibls-2166">S. 47ff.</bibl>). In ihm um seines Namens willen den besonderen Vertreter der wahren
+            Meinung <persName ref="kbga-actors-360">Schleiermachers</persName> sehen zu wollen<note xml:id="n57">Über diese von <bibl corresp="kbga-bibls-1390">
+                                <persName ref="kbga-actors-2602">D. Schenkel</persName> (<hi rend="italic">Friedrich Schleiermacher. Ein Charakterbild</hi>,
+                  1869</bibl>) vertretene Ansicht berichtet <bibl corresp="kbga-bibls-2172">
+                                <persName ref="kbga-actors-290">H. Mulert</persName>, a. a. O.,
+                  S. XV</bibl>.</note>, ist schon <pb xml:id="p478" ed="pga"/> darum
+            unangebracht, weil <persName ref="kbga-actors-360">Schleiermacher</persName> damals
+            sicher weniger als je Geschmack daran gefunden hätte, sich unter der Maske gerade eines
+            Verlobten vorzustellen. Aber das ist richtig, daß auch Ernst <persName ref="kbga-actors-360">Schleiermacher</persName> ist, und
+            zwar der Vertreter der nach außen auffallendsten und am leichtesten verständlichen Form
+            seiner Christologie. – Die Rede Leonhardts hat die Frauen doch etwas unruhig gemacht,
+            und Ernst wird aufgefordert, ihn zu widerlegen, eine Aufgabe, der er sich aber
+            ausdrücklich entzieht. Immerhin: er will sich mit dem «Rühmen» dieses Festes, wie
+            Leonhardt es geübt, nicht zufrieden geben. Er will inhaltlicher reden als dieser: «Du
+            nämlich sahest nur darauf, daß jedes Fest ein Gedächtnis ist von irgend etwas, mir aber
+            liegt daran: von was?» Und dieses Was? bestimmt er nun als ein Etwas, «durch dessen
+            Vorstellung eine gewisse Gemütsstimmung und Gesinnung in den Menschen kann aufgeregt
+            werden». Die Weihnachtsstimmung nun sei die der Freude. Ob wohl «das Eigentliche und
+            Wesentliche» des Festes es ist, was diese Wirkung hat?, wirft er sich selbst ein. Oder
+            ob man sich im Grunde an den gegenseitigen Geschenken freut? Aber nein: Weihnachtsfreude
+            ist doch schon für die Kinder etwas ganz anderes als etwa Geburtstagsfreude, wo doch
+            auch die Geschenke in Frage kommen. Ist diese «ganz die Innigkeit, die das
+            Beschlossensein in einem bestimmten Verhältnis erzeugt», so ist die Weihnachtsfreude
+            «ganz das Feuer, die rasche Beweglichkeit <pb n="125" ed="kbga-sources-2319"/> eines
+            weitverbreiteten allgemeinen Gefühls» [<bibl corresp="kbga-bibls-2166">S. 48</bibl>], Durch einen großen Teil der Christenheit
+            wenigstens ist in dieser Zeit «<hi rend="italic">Jeder</hi><note xml:id="n58">Hervorhebung von <persName ref="kbga-actors-2151">Barth</persName>.</note> mit dem Zubereiten eines Geschenkes
+            beschäftigt, dieses Bewußtsein ist eben der Zauber, welcher sich aller bemächtigt»<note xml:id="naa" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl> ist dieses Bewußtsein nur noch «ein großer Teil» des
+              Zaubers, welcher … [S. 70].</note> [<bibl corresp="kbga-bibls-2166">S. 49</bibl>]. (Es wird an freundliche Konkretheiten
+            erinnert: «das Arbeiten um die Wette auf die bestimmte festliche Stunde», der
+            Christmarkt usf.) Was folgt daraus? «Was so allgemein ist, kann niemals willkürlich
+            ersonnen werden. Etwas Innerliches muß dabei zugrunde liegen.» «Dieses Innere aber kann
+            nichts anderes sein als eben der Grund aller Freude, die sich unter diesen Menschen hin-
+            und herbewegt.»<note xml:id="nab" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl> geht Ernst gleich mit diesem Satz
+              auf sein Ziel los. Er lautet jetzt so: «Dieser innere Grund kann aber kein anderer
+              sein, als daß die Erscheinung des Erlösers die Quelle aller andern Freude in der
+              christlichen Welt ist, weshalb nichts anderes verdienen kann, eben so gefeiert zu
+              werden» [S. 70].</note> Die Verlegung des Festes auf das <pb xml:id="p479" ed="pga"/>
+            Neujahr ist darum eine beklagenswerte Sitte, weil ja das Neujahr nur den Wechsel und
+            Gegensatz in der Zeit bezeichnen kann. Für alle aber, welche nicht nur im Wechsel der
+            Zeit leben, nicht nur in der Erneuerung des Vergänglichen sich freuen, kann es kein
+            anderes Prinzip der Freude geben als die Erlösung, «und von dieser wiederum muß für uns
+            der erste Punkt sein die Geburt eines göttlichen Kindes»<note xml:id="nac" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: «… in der Entwicklung von dieser wiederum die Geburt des
+              göttlichen Kindes der erste helle Punkt ist, nach welchem wir keines andern warten und
+              unsre Freude noch länger verschieben können» [S. 70].</note> [<bibl corresp="kbga-bibls-2166">ebd.</bibl>]. Was heißt
+            «Erlösung»? Die Aufhebung der Gegensätze zwischen der Erscheinung und dem Wesen, der
+            Zeit und der Ewigkeit, wie sie das Leben und die Freude der ursprünglichen Natur, aber
+            zunächst nicht die unsrige ist. Ausgehen kann sie nur von Einem, der ihrer selbst nicht
+            bedürftig ist. In dem «göttlichen Kinde» nun, d. h. in dem «ersten Keim» des «neuen
+            ungetrübten» Lebens schauen wir zugleich seine schönste Blüte, seine höchste Vollendung
+            an. Das weihnachtliche Gefühl, wie unbewußt es auch in vielen sei, läßt sich in nichts
+            anderes auflösen als «in diese zusammengedrängte <pb n="126" ed="kbga-sources-2319"/>
+            Anschauung einer neuen Welt», die sich in tausend Bildern darstellen läßt: als die
+            aufgehende und wiederkehrende Sonne, als der Frühling des Geistes, als der König eines
+            bessern Reiches, als der treueste Götterbote, als der lieblichste Friedensfürst. Das
+            Fest hängt also – «und so komme ich doch dazu, Leonhardt, dich zu widerlegen, […] indem
+            ich dir beistimme» – nicht an den, in einem niedrigen Sinn kritisch angesehen: schwachen
+            historischen Spuren, sondern an der notwendigen <hi rend="italic">Idee</hi> eines
+              Erlösers<note xml:id="nad" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: «wie an der Notwendigkeit eines
+              Erlösers, so an der <hi rend="italic">Erfahrung</hi><note xml:id="n59">Hervorhebung von <persName ref="kbga-actors-2151">Barth</persName>.</note> eines gesteigerten Daseins, welches
+              auf keinen andern Anfang als diesen zurückzuführen ist» [S. 71].</note> [<bibl corresp="kbga-bibls-2166">S. 50</bibl>]. Wer,
+            wie Leonhardt doch auch will, dem Christentum eine kräftige Gegenwart zubilligt, der muß
+            doch auch den «Faden»<note xml:id="nae" type="original">So <bibl corresp="kbga-bibls-2172">1826</bibl> [S. 71].</note>, und wäre
+            er noch so klein, an den sich dieses Gegenwärtige kristallisationsartig anhängt,
+            anerkennen. «Mit dieser kleinen Verbesserung», mit der er auch Leonhardts Beifall zu
+            finden hofft, schließt Ernst sich seiner Aufforderung an und wünscht, nein weissagt dem
+            «schönen Feste» auf ewig, was nach ihm sein Wesen ist: «die rechte <pb xml:id="p480" ed="pga"/> Freude an dem wiedergefundenen höhern Leben» [<bibl corresp="kbga-bibls-2166">S. 51</bibl>]. – Die «kleine
+            Verbesserung» im Stand der Debatte, die nun eingetreten ist, bewegt sich offenbar in
+            derselben Richtung wie die der ältern Weihnachtspredigten. Die Leonhardt-Rede hat das
+            Problem der weihnachtlichen Mitte gestellt. Eine gewisse «Stimmung» oder «Gesinnung»
+            möchte Ernst in diese Mitte setzen. Er betont ihre «Allgemeinheit», er zeigt, daß sie
+            sich eben als allgemeine auf die «Erlösung» beziehen muß, er verweist auf die
+            Bedingtheit der Erlösung durch ein göttliches (<date when="1826">1826</date>: <hi rend="italic">das</hi> göttliche [<bibl corresp="kbga-bibls-2166">S. 70</bibl>]) Kind [S. 50], in dem der Zwiespalt überwunden ist. Hätten wir nur die erste
+            Auflage, so müßte man annehmen, daß Ernst darunter doch nur die «notwendige <hi rend="italic">Idee</hi> eines Erlösers» versteht und unter seiner «Geburt» das unscheinbar
+            keimartige und doch die Vollendung schon in sich tragende Vorhandensein der mit dieser
+            Idee gesetzten Wahrheit der Erlösung, d. h. der Kontrastüberwindung auch in uns. Aber
+            nun <pb n="127" ed="kbga-sources-2319"/> stellen die Korrekturen, die <date when="1826">1826</date> auch der
+            Ernst-Rede widerfahren sind<note xml:id="naf" type="original">Nicht ohne Anknüpfung an gewisse Wendungen
+              der 1. Auflage übrigens! Der <date when="1805">1805</date> (<bibl corresp="kbga-bibls-2230">Briefe II 49</bibl>) von <persName ref="kbga-actors-360">Schleiermacher</persName> selbst festgestellte Fehler, daß die
+              zweite Rede «nicht eigentümlich genug heraustrete, sondern sich zu sehr in die dritte
+              hinein verlöre», soll wohl damit behoben werden.<note xml:id="n60">
+                                <bibl corresp="kbga-bibls-2230">
+                                    a. a. O. (Brief vom 17.1.1806)</bibl>:
+                «Bei einer flüchtigen Wiederlesung ist mir vorgekommen, als ob die zweite nicht
+                eigenthümlich genug heraustrete, sondern sich zu sehr in die dritte hinein verlöre,
+                was meine Absicht gar nicht war.» – Sollte nicht ein Schreib- oder Satzfehler in der
+                Jahreszahl (<date when="1805">1805</date> statt <date when="1806">1806</date>) vorliegen, so nimmt <persName ref="kbga-actors-2151">Barth</persName>
+                offenbar an, daß die «Wiederlesung» noch vor oder kurz nach der Drucklegung Ende
+                Dezember <date when="1805">1805</date> geschehen war.</note></note>, neben die «Idee» die «<hi rend="italic">Erfahrung</hi>» eines gesteigerten Daseins,
+            welche irgendwie auf einen geschichtlichen Anfang, auf die «Erscheinung» des Erlösers in
+            der Welt zurückweise, auf den ersten hellen Punkt, nach welchem wir keines andern warten
+            [vgl. <ref type="can" subtype="bible" target="Mt.11.3">Mt. 11,3</ref>]. Also der
+            «Keim», der Anfang, das Kristallisationszentrum ist nun zweifellos der historische
+            Jesus, und im Verlauf eines wirklichen historischen Prozesses geschieht es, daß sich die
+            Gegenwart als letzter, äußerster Ring um diese Keimzelle schließt. Ist es <date when="1806">1806</date> noch
+            nicht ganz klar, inwiefern nun die Anschauung Leonhardts, wonach das Historische im
+            Christentum prinzipiell auch das Sekundäre sein könnte, überwunden, inwiefern nun die
+            Frage beantwortet ist, die sich uns aus der «Christologie» der Frauengespräche ergab: ob
+            Christus mehr sei als ein Paradigma unsrer eigenen «erhöhten Menschlichkeit», so rückt
+            <date when="1826">1826</date> das Historische zweifel<pb xml:id="p481" ed="pga" break="no"/>los an die <hi rend="italic">Spitze</hi> der Reihe, allerdings auch, wenn auch als Spitze: <hi rend="italic">in</hi> die Reihe, so daß alles Spätere kontinuierlich <hi rend="italic">daneben</hi>
+            tritt, das «göttliche Kind» also nichts ist und hat, was wir nicht grundsätzlich mit
+            unsrer Existenz auch schon hätten. Christus ist die Idee oder also<note xml:id="nag" type="original">Einen Autor, der mit einem Federstrich <hi rend="italic">diese</hi> Korrektur zu
+              vollziehen vermochte, hätte man mit <hi rend="italic">
+                                <persName ref="kbga-actors-216">Kant</persName></hi> nie in einem Atem nennen sollen.<note xml:id="n61">Im
+                Erstdruck 
+                                    ZZ lautete diese Anm.: «Wie kann man einen Autor als den
+                theologischen <hi rend="italic">
+                                    <persName ref="kbga-actors-216">Kant</persName></hi>
+                ansprechen, der mit einem Federstrich <hi rend="italic">diese</hi> Korrektur zu
+                vollziehen vermochte?» – Vgl. etwa <bibl corresp="kbga-bibls-2195">
+                                    <persName ref="kbga-actors-808">A. Titius</persName>, <title level="a">Schleiermacher und Kant</title>, in: <hi rend="italic">Schleiermacher der Philosoph des Glaubens. Sechs Aufsätze</hi>,
+                      Berlin-Schöneberg 1910, S. 36–56</bibl>; <bibl corresp="kbga-bibls-1895">
+                                    <persName ref="kbga-actors-429">G.
+                      Wobbermin</persName>, <title level="a">Systematische Theologie nach
+                      religionspsychologischer Methode</title>, Bd. 2: <hi rend="italic">Das Wesen
+                      der Religion</hi>, Leipzig 1921, S. 4f.</bibl></note></note> der geschichtliche Anfang unsres eigenen gesteigerten Daseins, unsres erhöhten
+            Lebens. Einwandfrei ist damit die Frage nach dem <hi rend="italic">mehr</hi> als
+            paradigmatischen Charakter des Kindes von <placeName ref="kbga-places-385">Bethlehem</placeName> offenbar noch nicht beantwortet.</p>
+          <p>Hören wir nun noch die dritte Rede (<bibl corresp="kbga-bibls-2166">S. 52ff.</bibl>), <hi rend="italic">Eduards</hi>, des
+            Hausvaters und Gastgebers. Daß hier wiederum (und sogar auf der wenigstens <hi rend="italic">vor</hi>letzten dialektischen Stufe) <persName ref="kbga-actors-360">Schleiermacher</persName> selbst redet und nicht etwa <persName ref="kbga-actors-356">Schelling</persName><note xml:id="nah" type="original">Gewiß der mit <persName ref="kbga-actors-356">Schelling</persName> sich auseinandersetzende <persName ref="kbga-actors-360">Schleiermacher</persName><note xml:id="n62">Vgl.
+                  <persName ref="kbga-actors-290">H. Mulert</persName>, der in seiner Einleitung (<bibl corresp="kbga-bibls-2172">S. XXV</bibl>) zur Gestalt Eduards bemerkt: «Der Philosoph, der ihn [scil. <persName ref="kbga-actors-360">Schleiermacher</persName>] in
+                der Zeit seines engsten Verkehrs mit den Romantikern und noch in den nächsten Jahren
+                besonders beeinflußt hat, wird <persName ref="kbga-actors-356">Schelling</persName>
+                gewesen sein.»</note>, aber <persName ref="kbga-actors-360">Schleiermacher</persName>!</note>, das dürfte schon <pb n="128" ed="kbga-sources-2319"/> durch die äußerlich dominierende Stellung dieses Redners
+            beglaubigt sein. Er fängt an mit der Mitteilung, daß er sich weniger an die
+              «mythischen<note xml:id="nai" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: «die mehr äußerlichen» [S. 71].</note> Lebensbeschreiber Christi», d. h. an die Synoptiker halten wolle als an
+            «den mystischen», «bei dem fast nichts Geschichtliches vorkommt<note xml:id="naj" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl>: «bei dem gar wenig von äußerlichen Begebenheiten vorkommt» [S. 71].</note>, auch kein Weihnachten äußerlich, in dessen Gemüt aber eine ewige
+            kindliche Weihnachtsfreude herrscht. Dieser gibt uns die geistige und höhere Ansicht
+            unsres Festes» [<bibl corresp="kbga-bibls-2166">S. 52</bibl>]. Und nun gibt der Prolog des Johannesevangeliums [<ref type="can" subtype="bible" target="Joh.1.1 Joh.1.18">Joh. 1,1–18</ref>] Anlaß zu folgendem
+            spekulativem Steilflug [<bibl corresp="kbga-bibls-2166">S. 52–54</bibl>]: Das «Fleisch» ist die unendliche<note xml:id="n63">In
+              <persName ref="kbga-actors-2151">Barths</persName> Handexemplar von <bibl corresp="kbga-bibls-954">
+                                Th.
+                    u. K.</bibl> ist das Wort «unendliche» mit Schlangenlinie
+              unterstrichen und die Silbe «un» in eckige Klammern gesetzt. Am Rand ist notiert:
+              «falsch: 52, 39». – Vgl. in der <bibl corresp="kbga-bibls-2166"><persName ref="kbga-actors-290">Mulertschen</persName>
+              Ausgabe S. 52, Z. 39–41</bibl>: «Das Fleisch aber ist, wie wir wissen, nichts anders, als die
+              endliche beschränkte sinnliche Natur …»</note> Natur. Das «Wort» ist der Gedanke, <pb xml:id="p482" ed="pga"/> das Erkennen. Was wir sonach als «Fleischwerdung des Wortes»
+            feiern, ist nichts anderes als wir selbst, wie wir insgesamt sind, oder die menschliche
+            Natur oder wie ihr es sonst nennen wollt, angesehen und erkannt aus dem göttlichen
+            «Prinzip». Warum müssen wir aber einen «aufstellen», warum gerade <hi rend="italic">diesen</hi> Einen und in seine Geburt die Einerleiheit des Göttlichen und Seelischen
+            «setzen»? Antwort: Der Mensch <hi rend="italic">an sich</hi> ist der Erdgeist, d. h. das
+            Erkennen in seinem ewigen Sein <hi rend="italic">und</hi> in seinem immer wechselnden Werden.
+            Der einzelne Mensch aber ist das Werden <hi rend="italic">allein</hi>, d. h. aber: er ist im
+            Abfall und Verderben. Er muß seine Erlösung finden im Menschen an sich. Die Identität
+            von Sein und Werden, wie sie der Erdgeist besitzt, muß in ihm selbst (dem einzelnen
+            Menschen) aufgehen, d. h. zustandekommen, wachsen; er<note xml:id="n64">In den
+              bisherigen Drucken: «es»; Korrektur nach <bibl corresp="kbga-bibls-974">
+                                Th. Schl., <ref type="pub-" target="../volume/11/p126#p126">S. 126</ref></bibl>.</note> muß dazu
+            kommen, alles Werden und auch sich selbst nur in dem ewigen Sein zu betrachten und zu
+            lieben, er darf nichts anderes sein wollen als ein Gedanke <hi rend="italic">des</hi> ewigen
+            Seins, das mit dem Werden identisch ist. In der Mensch<hi rend="italic">heit</hi>
+            <hi rend="italic">ist</hi> jene Identität ewig, im einzelnen muß sie es <hi rend="italic">werden</hi> als der Gedanke eines gemeinschaftlichen Tuns und Lebens. Der einzelne
+            muß die Menschheit als eine lebendige Gemeinschaft anschauen und erbauen, in ihr sein
+            abgesondertes Dasein verlieren und wiederfinden. Nur dann hat er das höhere Leben und
+            den Frieden Gottes in sich. Diese Gemeinschaft nun ist die Kirche. <pb n="129" ed="kbga-sources-2319"/> Sie verhält sich zum übrigen Menschlichen wie das
+            Selbstbewußtsein der Menschheit im einzelnen zur «Bewußtlosigkeit». In wem dieses
+            Selbstbewußtsein «aufgeht», wer wahrhaft und lebendig «Wissenschaft» in sich hat, der
+            kommt eben damit zur Kirche und kann das höchstens äußerlich verleugnen. Die Frauen
+            aber, die die «Wissenschaft» nicht in sich haben, besitzen jenes höhere Selbstbewußtsein
+            in der «Empfindung» und sind eben darum der Kirche nur um so anhänglicher. Nun ist aber
+            diese Gemeinschaft wie ein Werdendes, so auch ein <hi rend="italic">Gewordenes</hi>, und zwar
+            als Gemeinschaft der einzelnen ein durch <hi rend="italic">Mitteilung</hi> der Gemeinschaft
+            Gewordenes, «und <hi rend="italic">wir suchen</hi> also auch einen Punkt, von dem diese
+            Mitteilung <hi rend="italic">ausgegangen</hi> wäre, wiewohl wir wissen, daß sie von einem
+            jeden wieder selbsttätig ausgehen muß und der <pb xml:id="p483" ed="pga"/> Mensch <hi rend="italic">an sich</hi> sich in jedem einzelnen gebären und gestalten» [<bibl corresp="kbga-bibls-2166">S. 54</bibl>].<note xml:id="n65">Hervorhebungen von <persName ref="kbga-actors-2151">Barth</persName>.</note> Der nun, «der als der Anfangspunkt der
+            Kirche angesehen wird, … muß als der Mensch an sich (= «Erdgeist»), als der Gottmensch
+            schon geboren sein», ursprünglich von Gott geboren, keiner Wiedergeburt bedürftig,
+            während wir durch den Geist der Kirche, der von ihm, dem «Menschensohn schlechthin»,
+            ausgeht, wiedergeboren werden müssen. «In Christo sehen wir also den Erdgeist zum
+            Selbstbewußtsein in dem einzelnen sich ursprünglich gestalten» [ebd.]. In ihm feiern wir
+            nicht nur uns, sondern alle, die da kommen werden. «Darum sieht jede Mutter, … die es
+            weiß durch eine himmlische Botschaft, daß der Geist der Kirche, der Heilige Geist, in
+            ihr wohnt …, Christum in ihrem Kinde […] und […] jeder von uns […] in der Geburt Christi
+            seine eigene höhere Geburt» [<bibl corresp="kbga-bibls-2166">S. 55</bibl>]. «Darum bricht das Fest hervor wie ein himmlisches
+            Licht aus der Nacht. Darum ist es ein allgemeines Pulsieren der Freude in der ganzen
+            wiedergeborenen Welt, das nur die für eine Zeitlang kranken oder gelähmten Glieder nicht
+            fühlen» [ebd.]. – Wo stehen wir nun? Offenbar ist hier die vermittelnde Stellung Ernsts
+            im Sturmschritt überflügelt, gegenüber der Leonhardts aber die schroffe Antithese
+            gewonnen. Ist sie unversöhnlich schroff? Oder befinden wir uns doch nur am andern
+            Brennpunkt einer <hi rend="italic">Ellipse?</hi> Ge<pb n="130" ed="kbga-sources-2319"/>wiß, nun scheint die weihnachtliche Mitte endgültig gewonnen und behauptet zu sein:
+            Christus der Eine, gerade <hi rend="italic">dieser</hi> Eine, mit scharfem Rand sich abhebend
+            von uns andern, wir der Wiedergeburt bedürftig, er der Gottmensch ursprünglich aus Gott
+            geboren. Und auch die Rangordnung scheint nun endgültig gesichert: der Primat dessen,
+            was in ihm war, vor dem, was in uns ist. <persName ref="kbga-actors-360">Schleiermacher</persName> hat <date>1826</date>, wie wir sahen, an der Leonhardt- und an der
+            Ernst-Rede Vieles und Belangreiches, an der Eduard-Rede kaum etwas Umfangreicheres und
+            Einschneidendes zu korrigieren gehabt. Das dürfte ein Hinweis sein darauf, daß wir es
+            hier, nicht der spekulativen Form, aber der Positivität des Inhalts nach, mit der Vorhut
+            seiner Gedanken zu tun haben, mit <hi rend="italic">den</hi> Gedanken seiner mittleren Zeit,
+            die er sich auch auf der Höhe seiner Reife am uneingeschränktesten aufs neue zu eigen
+            machen konnte. Sollten die Fragen, mit denen wir den bisherigen Verlauf des Gespräches
+            verfolgt haben, hier vielleicht ihre endgültige Erledigung finden? Sehen wir genau zu:
+            Gewiß, weit dahinten liegt hier jener For<pb xml:id="p484" ed="pga" break="no"/>malismus
+            Leonhardts mit seinem «Fest», das gar keinen Inhalt zu haben scheint, dahinten auch die
+            noch etwas unbestimmte «Idee des Erlösers» bei Ernst oder die entsprechende «Erfahrung».
+            In saftiger Fülle steht nun an ihrem Platz der «Mensch an sich», der «Erdgeist», der
+            «Menschensohn schlechthin», das «fleischgewordene Wort». Ist das nicht zentral, primär,
+            inhaltlich genug? Gewiß, werden wir antworten müssen, so scheint es. Wir werden auch
+            nicht blind sein dürfen für die ansehnliche Bereicherung, die die ganze Gedankenwelt
+            durch das Aufrollen des Problems des <hi rend="italic">Einzelnen</hi> und der <hi rend="italic">Kirche</hi> gewonnen hat. Welche Möglichkeiten scheinen sich hier zu eröffnen! Aber
+            gerade hier stocken wir. Wie kommt Eduard von seiner Kirche aus zu seinem Christus? Wir
+              <hi rend="italic">suchen</hi> einen Punkt, von dem die Mitteilung ausgegangen oder, wie wir
+            noch deutlicher am Anfang gehört haben: Wir müssen Einen <hi rend="italic">aufstellen</hi>,
+            in dessen Geburt wir die Identität von Göttlichem und Irdischem <hi rend="italic">setzen</hi>. Wie unterscheidet sich dieser von der Kirche gesuchte, aufgestellte,
+            gesetzte Christus prinzipiell von <pb n="131" ed="kbga-sources-2319"/> Ernsts «Idee
+            eines Erlösers» <hi rend="italic">und</hi> von jenem geschichtlichen Keim oder Anfang, auf
+            den unser erhöhtes Dasein zurückweist? Ist der Primat des Eduardschen Christus <hi rend="italic">echt</hi>, wie kann dann von Suchen, Setzen u. dgl. überhaupt die Rede sein?
+            Und die Leonhardtsche Theorie, wonach unter Umständen das «Fest» – er könnte gewiß auch
+            mit Eduard sagen: die Kirche – den Christus erzeugt haben könnte, steht ja unwiderlegt
+            und unwidersprochen auch neben <hi rend="italic">Eduards</hi> Lehre: kann man sich das
+            Suchen, Setzen usf. etwa auch <hi rend="italic">so</hi> denken? Ferner: Wie kommt es, daß
+            sich das Verhältnis zwischen dem einzelnen Christus und dem einzelnen Christen nach
+            Eduards Lehre offenbar auch umkehren läßt, daß die die Kirche begründende Mitteilung von
+            einem jeden wieder selbständig ausgehen muß und der Mensch an sich sich in jedem
+            einzelnen gebären und gestalten? Wie kommt jede Mutter dazu, Christum in ihrem Kinde zu
+            sehen, und jeder von uns dazu, daß «auch in ihm der ewige Sohn Gottes erscheint» [<bibl corresp="kbga-bibls-2166">S. 55</bibl>]? Wo bleibt der «Mensch an sich» usf. als <hi rend="italic">Einer</hi>, als <hi rend="italic">dieser</hi> Eine, wie es doch anfangs hieß, wenn nun offenbar dasselbe auch <hi rend="italic">wir alle</hi> sein können und schon sind? Kann, ja muß dann die der
+            Offenbarung scheinbar gesicherte einzigartige Dignität nicht jeden Augenblick umschlagen
+            in ihr gerades Gegenteil, nämlich in die allgemeine religiöse Dignität des Menschen
+            überhaupt in seiner mit seinem Werden gesetzten Teilnahme am Sein? Begründet die
+            «Wissenschaft» (das Zum-Menschheitsbewußtsein-Erwa<pb xml:id="p485" ed="pga" break="no"/>chen des einzelnen) für die Männer und für die etwas törichteren Frauen wenigstens die
+            «Empfindung» die Teilnahme an der Kirche, wo bleibt dann die zentrale Stellung des
+            Christus, die bei der Aufrichtung dieses Kirchenbegriffs einen Augenblick vorausgesetzt
+            zu sein schien? Endlich: der <hi rend="italic">Inhalt</hi> dieses Christus? Lassen wir die
+            Bezeichnung Christi als des «Erdgeistes» als romantische Originalität unbeanstandet. An
+            absoluten Prädikaten dieser Größe hat es Eduard ja nicht fehlen lassen. Aber was ist von
+            dieser Absolutheit zu halten, wenn es heißen kann: «Was wir […] feiern, ist nichts
+            anderes als <hi rend="italic">wir selbst, wie wir insgesamt sind</hi> oder <hi rend="italic">die
+              menschliche Natur</hi>», auch <pb n="132" ed="kbga-sources-2319"/> wenn man in
+            Betracht zieht, daß es weiter heißt: «<hi rend="italic">angesehen und erkannt aus dem
+              göttlichen Prinzip</hi>» [<bibl corresp="kbga-bibls-2166">S. 53</bibl>]?<note xml:id="n66">Hervorhebung von <persName ref="kbga-actors-2151">Barth</persName>.</note>
+            Gibt es an uns selbst und an der menschlichen Natur etwas zu «feiern», wenn wir sie
+            ansehen und erkennen aus dem göttlichen Prinzip? Oder was bedeutet das letztere, wenn
+            das erstere möglich ist? Ist die «Fleischwerdung des Wortes» wirklich etwas anderes als
+            eben wiederum jene Erhöhung der Menschlichkeit, die uns in den Frauengesprächen, auf die
+            Eduard ja ausdrücklich zurückweist, so anschaulich im Mutter-und-Kind-Verhältnis als das
+            spezifisch Weihnachtliche geschildert wurde? Und wenn es auch nach Eduard so steht, was
+            bleibt uns dann übrig, als auch in seinem Sinn bei einem Symbolchristus stehen zu
+            bleiben, wobei dann in der Tat der Feuerbachianismus Leonhardts unwiderlegt und das Schwanken Ernsts zwischen
+            Idee und Erfahrung unausgeglichen bleiben mag, kommt doch letztlich darauf soviel nicht
+            an, ob man es so oder so sagt.</p>
+          <p>Und nun kann <hi rend="italic">Josef</hi><note xml:id="nak" type="original">Es wäre lehrreich für <persName ref="kbga-actors-360">Schleiermachers</persName> Verständnis der Brüdergemeinde, wenn in dem Namen dieser
+              entscheidenden Figur mit <hi rend="italic">
+                                <persName ref="kbga-actors-4147">Sattler</persName></hi> (<bibl corresp="kbga-bibls-2231">a. a. O., S. 77f.</bibl>) eine Anspielung auf «Bruder Joseph», den Brüderbischof
+                <persName ref="kbga-actors-2114">August Gottlieb Spangenberg</persName>, zu finden
+                wäre.<note xml:id="n67">Diese Anm. wurde von <persName ref="kbga-actors-2151">Barth</persName> dem Wiederabdruck in <bibl corresp="kbga-bibls-954">
+                                    Th. u.
+                  K.</bibl> neu beigefügt. – <persName ref="kbga-actors-4147">W.
+                  Sattler</persName> bemerkt in einem Anhang zur «Weihnachtsfeier» («<persName ref="kbga-actors-136">Goethe</persName> als Interpret der ‹Weihnachtsfeier›») <bibl corresp="kbga-bibls-2231">
+                                    a. a. O., S. 77</bibl>, daß <persName ref="kbga-actors-2114">Spangenberg</persName> «in Urkunden jener Zeit vertraulich
+                als ‹Bruder Joseph› bezeichnet» werde. «Die Lösung der in seinem Weihnachtsgespräch
+                zutage getretenen theologischen Schwierigkeiten» zeige <persName ref="kbga-actors-360">Schleiermacher</persName> durch Joseph, «d. h. durch die
+                Idealgestalt <persName ref="kbga-actors-2114">Spangenbergs</persName>» (S. 78). –
+                  <seg type="bio">
+                                    <persName ref="kbga-actors-2114">August Gottlieb Spangenberg</persName>
+                  (1704–1792), Begründer des nordamerikanischen Zweiges («Moravians»)
+                und späterer Bischof der Brüdergemeine, führte nach dem Tode <persName ref="kbga-actors-441">Zinzendorfs</persName> (1760) dessen Werk in
+                <placeName ref="kbga-places-204">Europa</placeName> weiter.</seg></note></note> auf den Plan treten (<bibl corresp="kbga-bibls-2166">S. 55f.</bibl>) und jenes lösende <pb xml:id="p486" ed="pga"/>
+            Wort von der sprachlosen Freude an dem sprachlosen Gegenstand sprechen und dazu das
+            Positive: «Die armen Frauen haben sich das so müssen gefallen lassen (nämlich die
+            theologische Diskussion). Bedenkt nur, welche schönen Töne sie euch würden gesungen
+            haben, in denen alle Frömmigkeit eurer Reden weit inniger gewohnt hätte, oder wie
+            anmutig aus dem Herzen voll Liebe und Freude sie mit euch geplaudert hätten, was euch
+            anders würde behagt und erquickt haben als diese feierlichen Reden. … Laßt uns heiter
+            sein und etwas Frommes und Fröhliches singen.» Man darf die keineswegs bloß
+            literarische, sondern hochtheologische Bedeutung auch dieser letzten Seite mit ihrem
+            milden Triumph über alle Erdenschwere ja nicht übersehen. Etwas scharf zugespitzt würde
+            ich den Satz wagen: die <hi rend="italic">Musik</hi> und das <hi rend="italic">Ewig</hi>-<hi rend="italic">Weibliche</hi><note xml:id="n68">Vgl. <bibl corresp="kbga-bibls-1624">
+                                <persName ref="kbga-actors-136">J. W. von
+                    Goethe</persName>, <hi rend="italic">Faust II</hi>, V. 121 10f. (5.
+                Akt)</bibl>, Schlußverse: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Das Ewig-Weibliche</l>
+                                    <l xml:space="preserve">Zieht uns hinan.</l></lg></q></note>, die hier noch einmal <pb n="133" ed="kbga-sources-2319"/> «gelobt» und
+            «gerühmt» werden, sie sind als <foreign xml:lang="lat">via regia</foreign> zu dem Unaussprechlichen die eigentliche
+            theologische Substanz des kleinen Meisterwerkes.</p>
+          <p>1. Die <hi rend="italic">Musik</hi>. Nicht umsonst war es ja, wie wir hörten, «<persName ref="kbga-actors-4013">Dülons</persName> Flötenkonzert», das <persName ref="kbga-actors-360">Schleiermacher</persName> <date when="1805">1805</date> zu seiner Abfassung begeisterte.
+            Wenn <hi rend="italic">gesungen</hi> wird in diesem «Gespräch», dann gibt es schon zu Beginn
+            «einige stumme Augenblicke, in denen aber jeder wußte, daß eines jeden Gemüt liebend auf
+            die übrigen und auf etwas noch Höheres gerichtet war» (<bibl corresp="kbga-bibls-2166">S. 10</bibl>). Darum ist auch die kleine
+            Sophie mit ihrem bedeutungsschweren Namen weiblichen Arbeiten zwar abgeneigt, zeigt aber
+            ein entschiedenes Talent für Musik, besonders für das, was «im großen Kirchenstil»
+            gesetzt ist (<bibl corresp="kbga-bibls-2166">S. 7</bibl>). «Jedes schöne Gefühl», sagt Eduard (<bibl corresp="kbga-bibls-2166">S. 21f.</bibl>), «tritt nur dann recht
+            vollständig hervor, wenn wir <hi rend="italic">den Ton</hi> dafür gefunden haben; <hi rend="italic">nicht das Wort</hi>, dies kann immer nur ein mittelbarer Ausdruck sein, … <hi rend="italic">sondern den Ton</hi> im eigentlichen Sinne.»<note xml:id="n69">Hervorhebungen
+              hier und im folgenden von <persName ref="kbga-actors-2151">Barth</persName>.</note> Um dem gemeinsamen Ausdruck des religiösen
+            Gefühls wieder «aufzuhelfen», müßte man den Gesang wieder in ein richtigeres Verhältnis
+            setzen zum Wort. «Was das Wort <hi rend="italic">klar</hi> gemacht […], muß der Ton <hi rend="italic">lebendig</hi> machen, unmittelbar in das ganze innere Wesen als Harmonie
+            übertragen und festhalten.» Und weiter: «Das Christentum ist ein einziges Thema in
+            unendlichen Variationen dargestellt … Es ist auch gewiß wahr …, daß die <pb xml:id="p487" ed="pga"/> Kirchenmusik nicht des Gesanges, wohl aber der bestimmten
+            Worte entbehren könnte. Ein Miserere, ein Gloria, ein Requiem, wozu sollen ihm die
+            einzelnen Worte? Es ist verständlich genug durch seinen Charakter; und niemand wird
+            sagen, es sei ihm etwas entgangen, wenn er die untergelegten Worte nicht vernommen hat.
+            Darum müssen heute<note xml:id="n70">«heute» von <persName ref="kbga-actors-2151">Barth</persName> (versehentlich?) in den Text
+              eingefügt.</note> beide fest aneinanderhalten, Christentum und Musik, weil beide
+            einander verklären und erheben.»<note xml:id="nal" type="original"> <bibl corresp="kbga-bibls-2172">1826</bibl> + «und eine Musik
+              wie <persName ref="kbga-actors-592">Händels</persName> Messias ist mir gleichsam eine
+              kompendiöse Verkündigung des gesamten Christentums» [S. 63]. <persName ref="kbga-actors-360">Schleiermacher</persName> war «bis in das Alter mitausübendes
+              Glied der Berliner Singakademie» (<persName ref="kbga-actors-218">Kattenbusch</persName>, <bibl corresp="kbga-bibls-2233">
+                                Die deutsche evang. 
+                                Theol. seit Schl.,
+                    Gießen 1924, S. 24</bibl>).<note xml:id="n71">
+                                <bibl corresp="kbga-bibls-2233">
+                                    <persName ref="kbga-actors-218">F.
+                      Kattenbusch</persName>, <hi rend="italic">Die deutsche evangelische Theologie
+                      seit Schleiermacher. Ihre Leistungen und ihre Schäden</hi>,
+                      Gießen 1924<edition rend="sup">4</edition>, S. 24.</bibl> – Text der Anm. al nach dem Erstdruck
+                in 
+                                    <ref corresp="A">ZZ (S. 59</ref>). Beim Wiederabdruck in <bibl corresp="kbga-bibls-954">
+                                    Th. u. K.</bibl> erfolgte die
+                Quellenangabe nach der damals neuesten Auflage von <persName ref="kbga-actors-218">Kattenbuschs</persName> Buch: «… seit Schl. 5. Aufl., S. 26». In dieser Auflage
+                  (1926) heißt es jedoch: «… ausübendes Mitglied …»</note></note> «Ja, gewiß», <pb n="134" ed="kbga-sources-2319"/> sagte Friederike, «der <hi rend="italic">frömmste</hi> Ton ist es, der am sichersten ins Herz dringt. – Und die <hi rend="italic">singende</hi> Frömmigkeit, fügte Karoline hinzu, ist es, die am herrlichsten
+            und geradesten zum Himmel aufsteigt» [<bibl corresp="kbga-bibls-2166">S. 23</bibl>].<note xml:id="n72">Hervorhebungen von
+              <persName ref="kbga-actors-2151">Barth</persName>.</note> Warum gerade die Musik?, könnte man fragen. Darum, weil das <hi rend="italic">Wort</hi> nach allem Angeführten dem eigentlichen <persName ref="kbga-actors-360">Schleiermacherschen</persName>
+            Weihnachtswunder feindselig, schädigend, jedenfalls unvermögend, ihm gerecht zu werden,
+            gegenübersteht, weil der Mensch, der seine «erhöhte Menschlichkeit» in <hi rend="italic">Worten</hi> zu feiern unternimmt, sich selber dabei<note xml:id="n73">In den früheren
+              Drucken: «daher»; Korrektur von <persName ref="kbga-actors-2151">Barth</persName> in seinem Handexemplar.</note> allzu leicht
+            rätselhaft und unglaubwürdig wird. «Alle Formen sind mir zu steif und alles Reden zu
+            langweilig und kalt» [<bibl corresp="kbga-bibls-2166">S. 56</bibl>]. Welch ein Glück, daß wir, vom Problem des Wortes
+            beunruhigt und bedroht, in das Reich der <hi rend="italic">Töne</hi>, in die christliche
+            Musik und in ein musikalisches Christentum uns flüchten können! Gerade in seiner
+            begrifflichen Qualitätslosigkeit ist der Ton der wahre und legitime Träger der
+            Weihnachtsbotschaft, der adäquate Ausdruck für die nicht redend, aber singend, flötend,
+            klavierspielend <hi rend="italic">erreichbare höchste</hi> und <hi rend="italic">letzte</hi>
+            dialektische Stufe.</p>
+          <p>2. Die <hi rend="italic">Frau</hi>. Es ist wirklich mehr als eine galante Huldigung, wenn
+              Jo<pb xml:id="p488" ed="pga" break="no"/>seph zum Schluß meint, die Frauen hätten es
+            besser gemacht als «diese feierlichen Reden» der Männer. Die Frauen bis auf die kleine
+            Sophie herunter sind es, die mit ihrer mannigfaltigen Variation des
+            Mutter-und-Kind-Verhältnisses das in <persName ref="kbga-actors-360">Schleiermachers</persName> Sinn eigentlich Zutreffende über die Weihnacht sagen, die
+            männlichen Christologen nur, sofern sie mit ihrer ganzen Dialektik widerwillig darauf
+            zurückweisen. Denn (<bibl corresp="kbga-bibls-2166">S. 28f.</bibl>) wenn das Christentum redet von einem <hi rend="italic">Umkehren</hi>, von einer Veränderung des Sinnes, von einem Neuen, wodurch das Alte
+            soll ausgetrieben werden, so einigen sich die Gesprächsteilnehmer darüber, daß diese
+            Forderung dem unruhigen, streberischen, kämpfenden Wesen der Männer gegenüber zwar nötig
+            und berechtigt, aber der ruhigen und anmutigen Art der Frau gegenüber, wo heiliger Ernst
+            und liebliches Spiel überall eins seien, eigentlich schon überholt sei. «Christus
+            selbst, erwiderte Karoline, hat sich doch <hi rend="italic">nicht</hi> bekehrt. Eben deshalb
+              <pb n="135" ed="kbga-sources-2319"/> ist er auch immer der Schutzherr der Frauen
+            gewesen, und während ihr euch nur über ihn gestritten habt, haben wir ihn geliebt und
+            verehrt. … Wir bleiben immer Kinder, dagegen ihr erst umkehren müßt, um es wieder zu
+              werden.»<note xml:id="nam" type="original">Wozu zu vergleichen wäre Briefe I 417: «Mir geht es […]
+              überall so, wohin ich sehe, daß mir die Natur der Frauen edler erscheint und ihr Leben
+              glücklicher, und wenn ich je mit einem unmöglichen Wunsche spiele, so ist es mit dem,
+              eine Frau zu sein.»</note>/<note xml:id="n74">Bei <persName ref="kbga-actors-360">Schleiermacher</persName>: «… und verehrt. Oder was könntest du dagegen einwenden,
+              wenn wir nun erst den rechten Sinn hineinlegten in das abgebrauchte Sprichwort, daß
+              wir immer Kinder bleiben, dagegen …» Hervorhebung von <persName ref="kbga-actors-2151">Barth</persName>.</note> Also die Frau <hi rend="italic">ist</hi> schon und <hi rend="italic">hat</hi> schon das, was wir an Weihnacht
+            feiern, sofern dies ja eben ist die «unmittelbare Vereinigung des Göttlichen mit dem
+            Kindlichen, bei welcher es also keines Umkehrens weiter bedarf» [<bibl corresp="kbga-bibls-2166">S. 29</bibl>]. Wie der <hi rend="italic">Ton</hi> jenseits der logischen, so ist die <hi rend="italic">Frau</hi> jenseits
+            der ethischen Dialektik. Eben gerade das: ihre Unbekehrtheit, Unbekehrbarkeit und
+            Nichtbekehrungsbedürftigkeit macht<note xml:id="nan" type="original">Weil «der Buchstabe tötet und nur
+              der Geist lebendig macht» [vgl. <ref type="can" subtype="bible" target="2.Kor.3.6">2.Kor. 3,6</ref>], wie es am Schluß der Vorrede zur zweiten Auflage heißt <ref corresp="A">[S. 58]</ref>.<note xml:id="n75">S. 58: «Und so mag das Büchlein noch einmal versuchen, eine
+                günstige Aufnahme und eine das Gute fördernde Wirksamkeit zu finden, indem es auf
+                seine Weise daran erinnert, daß der Buchstabe …»</note></note> neben der Musik auch die Frau mit ihrem «Herzen voll Liebe und Freude» <pb xml:id="p489" ed="pga"/> zu einem der Sache, diesem Inhalt gerecht werdenden, seiner
+            würdigen Gefäß der Weihnachtsbotschaft, zu einem Organ <hi rend="italic">direkter
+              Mitteilung</hi><note xml:id="n76">Zu dieser Anspielung auf <persName ref="kbga-actors-221">S. Kierkegaard</persName> vgl. oben <ref type="pub" target="../volume/19/p167#fn_n58">S. 167, Anm. 58</ref>.</note>.</p>
+          <p>Denn darauf, auf die Möglichkeit, nein Wirklichkeit der <hi rend="italic">direkten
+              Mitteilung</hi> ist es bei dem eindringlichen Hinweis auf die Musik und auf die Frau
+            natürlich abgesehen. Und insofern ist er charakteristisch für <hi rend="italic">das, was</hi>
+            hier mitgeteilt wird, für die Substanz der Schleiermacherschen Weihnachtsverkündigung, für jenen «höchsten Triumph
+            der menschlichen Natur». <persName ref="kbga-actors-96">Dilthey</persName> hat recht:
+            das letzte Wort für dieses Letzte, was <persName ref="kbga-actors-360">Schleiermacher</persName> über die Weihnacht zu sagen hat, ist das Wort <hi rend="italic">Lebensgefühl</hi>.<note xml:id="n77">Vgl. oben bei <ref type="pub" target="#fn_nq">Anm. q</ref>.</note>
+          </p>
+          <p rend="margin-top">Es wäre eine weitere und größere Aufgabe, mit unsrer Frage an die
+            späteren Predigten <persName ref="kbga-actors-360">Schleiermachers</persName> und vor
+            allem an seine Glaubenslehre heranzutreten. Eine prinzipiell andere Antwort habe ich
+            auch dort nicht wahrzunehmen vermocht.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

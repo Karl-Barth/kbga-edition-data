@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3254">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 14. November 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3254 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 301–302.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3254</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 301-302</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">254</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 246</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 14. November 1918. <ref target="https://kba.karl-barth.ch/objects/9893">KBA 9370.260</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-11-14">14. November 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1918-11-14">14. November 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3253"/>
+          <ref type="next" target="kbga-texts-3255"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3253"/>
+          <ref type="next-in-corresp" target="kbga-texts-3255"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:34+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:34+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p301" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            
+            <date when="1918-11-14">14. November 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Dein Brief war mir viel wert, weil er aussprach, was auch meine tägliche Verlegenheit ist. Alles rächt sich jetzt, was wir und die vor uns <hi rend="italic">nicht</hi> getan haben. Was sollen wir denken? Was haben wir zu sagen? Wo ist der schmale Weg, der durch die ganze Verwirrung hindurchführt? Wer kann ihn zeigen und wer geht ihn? Und wenn ihn niemand zeigen und gehen kann, ereignet sich dann nicht alles umsonst, was ringsum geschieht? Und wäre es nicht das Traurigste, wenn all dieses Stürzen und Brechen und Sich Erheben, auf <pb xml:id="p302" ed="pga"/> das wir doch alle gewartet haben, ohne «Frucht der Gerechtigkeit» [<ref type="can" subtype="bible" target="Hebr.12.11">Hebr. 12,11</ref>] bliebe?</p>
+        <p>Du warst in <placeName ref="kbga-places-66">Zürich</placeName> — bist du wirklich hingelangt? Was hat sich dir da gezeigt und erschlossen? Ich denke mir, daß <persName ref="kbga-actors-240">Kutter</persName> einiges Entscheidende zu sagen hat. Auch wir sind vollständig ohne Zeitung seit gestern. Vielleicht ist in <placeName ref="kbga-places-66">Zürich</placeName> und <placeName ref="kbga-places-9">Bern</placeName> bereits ein Sowjet eingesetzt, während wir hier das ancien régime noch unversehrt haben. Wollen wir uns nicht gegebenenfalls an die Mächtigen in <placeName ref="kbga-places-50">Olten</placeName><note xml:id="n01">In <placeName ref="kbga-places-50">Olten</placeName> trat das Generalstreikkomitee zusammen.</note> wenden?! Ich lese viel in <persName ref="kbga-actors-516">Carlyle’s</persName> «Französische Revolution».<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4131"><persName ref="kbga-actors-516">Th. Carlyle</persName>, <title level="m">Die französische Revolution</title>. Aus dem Engl. von P. Feddersen, umgearbeitet von E. Erman, Leipzig
+                            1907<hi rend="sup">5</hi> (und andere deutsche Ausgaben).</bibl>
+                    </note> Daneben bis vorgestern die Zeitung — und also auch das N. T. wie du und mit gleichen Empfindungen. Ich nehme an, der Landesstreik werde zwar nicht mit Einsetzung von Sowjets, aber doch mit starken Resultaten und mit entscheidender Erschütterung der herrschenden Gewalten enden. […]</p>
+        <closer>
+          <salute rendition="left">Wir grüßen euch herzlich!</salute>
+          <signed rendition="right"><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

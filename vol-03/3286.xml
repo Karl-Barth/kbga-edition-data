@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3286">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 16. Juli 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3286 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 340–341.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3286</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 340-341</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">286</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 77</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 16. Juli 1919. <ref target="https://kba.karl-barth.ch/objects/10132">KBA 9270.209</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-07-16">16. Juli 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-07-16">16. Juli 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3285"/>
+          <ref type="next" target="kbga-texts-3287"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3285"/>
+          <ref type="next-in-corresp" target="kbga-texts-3287"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:37+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:37+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p340" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1919-07-16">16. Juli 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Hier endlich die Sendung von <persName ref="kbga-actors-316">Rudi [Pestalozzi]</persName>, […] die dich über die neue Modifikation des Reiseplans unterrichten wird.</p>
+        <p>Wie hats wohl mit <persName ref="kbga-actors-240">Kutter</persName> noch geendigt?<note xml:id="n01"><persName ref="kbga-actors-403">Thurneysen</persName> war in <placeName ref="kbga-places-66">Zürich</placeName> gewesen.</note> Fällt es dir nicht auch auf, daß wir ihm alsgemach aus der Schule wachsen, wenn man so sagen darf? Eine tiefere Bedeutung hat das ja nicht, und daß im einzelnen immer etwas bei ihm zu hören ist, ist auch keine Frage. Aber die Beobachtung, daß seine Belehrungen immer mehr auf Wiederholungen und Umschreibungen von schon Gehörtem hinauslaufen, während er andrerseits für <hi rend="italic">unsre</hi> Nöte und Fragen offenbar nicht mehr recht Verständnis hat, ist mir ein Ansporn mehr zum selbständigen Weitermachen. Zur Dankbarkeit ist ja noch immer Anlaß genug, aber die Maria-Stellung, in der er einen immer gerne sähe, <hi rend="italic">ists</hi> nicht mehr. Oder übersehe ich da etwas Entscheidendes? […]</p>
+        <p>Heute waren <persName ref="kbga-actors-27">Peter</persName> und <persName ref="kbga-actors-757">Schädelin</persName> da, um mir Bergkleidung, Sturmhaube und Eispickel zu bringen!! Welches Entsetzen unsere Pläne in alpinen Kreisen auslösen, magst du aus <persName ref="kbga-actors-27">Peters</persName> vorausgesandter Karte ersehen. <persName ref="kbga-actors-757">Schädelin</persName> redete gewaltig auf mich ein, ich solle mich an eine der vakanten Stellen an der <placeName ref="kbga-places-1368">Heiliggeistkirche in Bern</placeName> melden. Das sieht mich nun sehr neu und fremdartig an. Was soll ich dort? Aber man könnte ja auch fragen, was ich hier noch soll? <placeName ref="kbga-places-9">Bern</placeName> hätte den großen Vorteil, daß es nicht <placeName ref="kbga-places-66">Zürich</placeName> und nicht <placeName ref="kbga-places-5">Basel</placeName> ist, was eine Summe von schönen Freiheiten und Möglichkeiten bedeutet. Die Wahl müßte durch sozialdemokratische Sturmtruppen durchgesetzt werden. Zwei alte Kollegen (ein Reformer, ein Positiver), Kirche neben dem Bahnhof mit beständiger Tramglockenstörung, Bundeshaus und Universität im Gemeinderayon! Aber auch Schieber-Hotels, Warenhäuser, unzählige Pinten. Kirchlich bis dahin Null Null. Eben darum unerhörte Möglichkeiten, meint <persName ref="kbga-actors-757">Schädelin</persName>. Was ist davon zu halten? Wir wollen auf der Durchreise die Stätte von allen Seiten besichtigen und das Weitere überlegen. Es wird näm<pb xml:id="p341" ed="pga" break="no"/>lich gleichzeitig eine vierte neue Stelle kreiert. Da könntest du vielleicht gleich auch noch Unterkunft finden!</p>
+        <p>Heute las ich <persName ref="kbga-actors-360">Schleiermachers</persName> Schrift über die Universitäten,<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4167"><persName ref="kbga-actors-360">F. Schleiermacher</persName>, <title level="m">Gelegentliche Gedanken über Universitäten im deutschen Sinn</title> (1808), in: 
+                            E. Spranger (Hrsg.), <title level="m">Über das Wesen der Universität. Drei Aufsätze von J. G. Fichte, F. Schleiermacher, H. Steffens</title> (= Philos. Bibliothek Bd. 120), Leipzig 
+                        1919.</bibl>
+                    </note> was mich neuerdings zum Sinnen über unsre Stellung zur Theologie veranlaßt. Hat unsre Sache Platz auf der Universität (ich meine «theoretisch»!!!), wenn ja, welchen? wenn nein, wie rechtfertigen wir den maßlosen Anspruch, der darin liegt? <persName ref="kbga-actors-240">Kutter</persName> scheint auch kein deutliches Bild davon zu haben. Mir kam gestern die Frage wieder in die Quere durch den Brief von <persName ref="kbga-actors-521">Lukas Christ</persName>. Mit welchem Recht verdränge ich nach Christs Wunsch den Herrn <persName ref="kbga-actors-598">Hausheer</persName> bei den Studenten?<note xml:id="n03"><persName ref="kbga-actors-598">Jakob Hausheer</persName> (1865–1936), Prof. für A. T. in Zürich. <persName ref="kbga-actors-521">L. Christ</persName> hatte <persName ref="kbga-actors-2151">Barth</persName> mitgeteilt, daß er demnächst um einen Vortrag auf der <orgName ref="kbga-actors-5240">Aarauer Studentenkonferenz 1920</orgName> werde gebeten werden, und ihn zu einer Zusage aufgefordert, da sonst <persName ref="kbga-actors-598">Hausheer</persName> den Vortrag halten werde.</note> Und wenn ichs tue, was ist dann zu ihnen zu sagen über «unsere» Methode, in der Bibel zu lesen? Wir sollten es doch offenbar fertig bringen, zu den Wissenschaftlern wissenschaftlich zu <hi rend="italic">reden</hi> wie zu den Politikern politisch, ohne darum Wissenschaftler oder Politiker zu <hi rend="italic">werden</hi>. Es ist wieder das Problem jenes Kreuzungspunktes der göttlichen und menschlichen Wege und Gedanken, der offenbar mindestens <hi rend="italic">gesucht</hi> sein will.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß und Dank für eure Gastfreundschaft […]</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3266">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 28. Januar 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3266 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 311–313.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3266</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 311-313</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">266</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 258</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 28. Januar 1919. <ref target="https://kba.karl-barth.ch/objects/9994">KBA 9270.195</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-01-28">28. Januar 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-01-28">28. Januar 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3265"/>
+          <ref type="next" target="kbga-texts-3267"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3265"/>
+          <ref type="next-in-corresp" target="kbga-texts-3267"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:35+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:35+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p311" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1919-01-28">28. Januar 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Ad <orgName ref="kbga-actors-9850">Monatsblatt</orgName>:<note xml:id="n01"><persName ref="kbga-actors-403">Thurneysen</persName> war die Redaktion des «<orgName ref="kbga-actors-9850">Kirchlichen Monatsblattes für den Aargau</orgName>» angeboten worden.</note> ja die Sache sieht aus wie ein Waffenstillstandsangebot. […] Was wollen sie? Dich sagen lassen, was <hi rend="italic">du</hi> zu sagen hast, um es zu hören? Oder eben doch wieder nur das kirchliche Gleichgewicht, das durch uns beide gestört ist […]? I. Für eine Mitarbeit unter Kompromissen scheint mir nun einfach 1. die von uns <foreign xml:lang="lat">tant bien que</foreign> mal vertretene Sache zu fein. Ich denke schon an den alten <persName ref="kbga-actors-48">Blumhardt</persName> und an <persName ref="kbga-actors-733">Adolf Preiswerk</persName> und ihre Mitarbeit an allerlei Sonderbarem. Aber können <hi rend="italic">wir</hi> ihnen das heute noch nachtun, vom Gesichtspunkt des <foreign xml:lang="grc" rend="Ell">καιρῷ δουλεύειν</foreign> [<ref type="can" subtype="bible" target="Röm.12.11">Rm 12,11</ref>, <foreign xml:lang="lat">varia lectio</foreign>]? Sind wir <hi rend="italic">noch</hi> oder <hi rend="italic">wieder</hi> in der Lage, mit allerlei Volksfreunden zu volksfreundeln? Geht dabei nicht notwendig etwas unters Eis, das wir jetzt mit Reserviertheit hüten müssen? 2. denke ich, daß deine Zeit und deine Kraft für eine <hi rend="italic">teilweise</hi> Leitung des Blättchens zu kostbar ist. 3. wollte ich jedenfalls nicht in dem Ding sein ohne volle Ellenbogenfreiheit […]. II. Doch man könnte ja in der Tat auch hier an eine offene Türe glauben, […] wobei nur zu erinnern ist, daß <hi rend="italic">diese</hi> Türen noch nie die <hi rend="italic">ersten</hi> gewesen sind, die aufgingen. <foreign xml:lang="grc" rend="Ell">τίς ἡ πρόσλημψις εἰ μὴ ξωὴ ἐκ νεκρῶν;</foreign> (<ref type="can" subtype="bible" target="Röm.11.15">Röm. 11,15</ref>). Obs ernst gemeint ist, das wird sofort zu erfahren sein durch kräftige Bedingungen: 5000 Lokomotiven, 200 Dampfpflüge, 150 Unterseeboote, Rückzug über den <placeName ref="kbga-places-295">Rhein</placeName> und Brückenköpfe mit 10 km Radius. Also: Suspendierung des Einspracherechtes der famosen [Redaktions-] Kommission, volle Freiheit aufzunehmen und abzulehnen […] Summa: alleinige Verantwortlichkeit von dir. Unter diesen Voraussetzungen ließe es sich denken, daß der Sache gedient werden kann, daß du dich mit vollem Ernst der Aufgabe zuwendest, dieses Blättlein gut zu machen, und daß auch ich dabei wäre. III. Die letzte Frage ist natürlich die, ob du das Unternehmen, nicht nur den Leutwilern, sondern dem reformierten Volk des <placeName ref="kbga-places-152">Aargau</placeName> zu predigen, wagen willst. Je größer die Unverantwortlichkeit gegenüber den Pfarrern, die du dir verschaffen müßtest, umso größer natürlich <pb xml:id="p312" ed="pga"/> die Verantwortlichkeit gegenüber der Sache und den Menschen. <orgName ref="kbga-actors-9960">Zwinglikalender</orgName>! Damit, daß wir den Herrn Jesus mit der Spritzkanne<note xml:id="n02">Titelbild des «<orgName ref="kbga-actors-9850">Monatsblattes</orgName>».</note> abschaffen würden, wäre noch nicht gesagt, daß sich der wirkliche Christus zu unserm Blättlein bekennen würde. Das wissen wir nachgerade aus unsern Gemeinden. Ich für mich würde mir wahrscheinlich gerade diese letzte Frage zum Grund werden lassen, abzulehnen. Der Kampf um das Wort wird mir in <placeName ref="kbga-places-54">Safenwil</placeName> so schwer, ich leide bei jeder Predigt so unter dem Bewußtsein der Differenz von Verheißung und Erfüllung, daß ich mich oft eher zurücksehne nach den Fleischtöpfen Ägyptens, wo man den Leuten doch «etwas» zu bieten hat, als daß ich Verlangen trüge, den gleichen Kampf auf breiterer Front und unter noch viel schwereren Bedingungen aufzunehmen. Wenn <hi rend="italic">du</hi> dich berufen fühlst und mich dann wieder zur Mitarbeit rufst, so will ich es meinerseits als Berufung annehmen und mitmachen. Von mir aus würde ich dieses Roß nicht besteigen.</p>
+        <p>[…] Heute bekam ich 450.– Fr. Kinderzulage. Denk vielleicht schaffe ich mir daraus den <persName ref="kbga-actors-248">Lietzmann</persName>-Kommentar<note xml:id="n03">Von dem von <persName ref="kbga-actors-248">Hans Lietzmann</persName> seit 1906 in Einzel-, seit 1911 in Sammelbänden in Tübingen herausgegebenen Handbuch zum Neuen Testament schaffte sich <persName ref="kbga-actors-2151">Barth</persName> die <bibl corresp="kbga-bibls-4809">Bände I (1912)</bibl>, <bibl corresp="kbga-bibls-4810">II (1919)</bibl> und <bibl corresp="kbga-bibls-3581">III (1913)</bibl> an.</note> an, der mir doch fehlt. <persName ref="kbga-actors-359">Schlatter</persName> kann ich wohl eher noch eine Weile entbehren. Oder was meinst du? Ich sollte doch für meine Exegesen das letzte Wort der Wissenschaft wenigstens auch zur Hand haben.</p>
+        <p><persName ref="kbga-actors-420">Wernle</persName>: der beiliegende <ref type="kba-objects-id" target="11854">Brief</ref> von <persName ref="kbga-actors-6732">Wirz</persName><note xml:id="n04"><persName ref="kbga-actors-6732">J. Wirz</persName> war Redaktor des «<orgName ref="kbga-actors-4787">Kirchenblattes für die reformierte Schweiz</orgName>».</note> macht doch nicht den Eindruck, als habe die Sache so verheerend gewirkt. Wenn das <bibl corresp="kbga-bibls-1497">Buch</bibl> nur ausspricht, was der Redaktor des <orgName ref="kbga-actors-4787">Kirchenblatts</orgName> «im tiefsten immer meinte», dann ist das eine überraschende Erfüllung von <ref type="can" subtype="bible" target="Röm.15.14 Röm.15.15">Röm. 15,14–15</ref> und eine rechte Beschämung für meine ungläubige «Voraussicht». Und wie hat nun <persName ref="kbga-actors-420">Wernle</persName>, der mich eines Seminars gewürdigt,<note xml:id="n05">Laut Mitteilung in dem erwähnten Brief von <persName ref="kbga-actors-9992">Wirz</persName> (<ref type="kba-objects-id" target="9992">im Karl Barth-Archiv</ref>, Basel) hatte <persName ref="kbga-actors-420">Wernle</persName> ein Exemplar von <bibl corresp="kbga-bibls-1497"><persName ref="kbga-actors-2151">Barths</persName> «<title level="m">Römerbrief</title>»</bibl> «für sein Seminar ’Neutestamentliche Übungen (Paulus)’» angeschafft.</note> im Voraus glühende Kohlen auf mein Haupt gehäuft! Möchte ich doch ein anderes Mal nichts solches mehr schreiben, damit die <hi rend="top">1</hi>/<hi rend="buttom">4</hi> offenen Türen nicht alle wieder zuklepfen. Es war der Anblick von Wernles Verstocktheit, den ich von <placeName ref="kbga-places-5">Basel</placeName> mitnahm, der mich diesen Rückfall erleben ließ, wo ich doch in Zukunft nur noch milde («wehmütig», wie du in <placeName ref="kbga-places-1">Aarau</placeName> sagtest) reden wollte.</p>
+        
+        <p><pb xml:id="p313" ed="pga" rend="noPipe"/>Neueres zum <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> liegt nicht vor als die Mitteilung von <persName ref="kbga-actors-6579">Bäschlin</persName>, daß er in seinem Laden alle Tage 1-2 Exemplare verkaufe und daß die Bestellungen auch von auswärts tüchtig eingingen.</p>
+        <p>Heute Abend erwarten wir Dr. <rs type="person" ref="kbga-actors-661 kbga-actors-660">Lejeunes</rs>. Wo bleiben deine Predigten? Willst du mir dann gleich etwa 6 Ex. schicken für hiesige Liebhaber christlicher Wahrheit und Gottseligkeit? […] Die Apostelgeschichte bewährt sich als ein vortreffliches Buch voll Eigenart und Universalismus. Ich bin jetzt am <bibl corresp="kbga-bibls-68">4. Kapitel</bibl>. <persName ref="kbga-actors-851">Zündel</persName> leistet wieder unschätzbare Dienste. Sollte man nicht einmal eine Neuausgabe der Zündel-Bücher veranstalten, unter Beifügung von Stellenregistern, die man jetzt schwer vermißt? Das wäre nützlicher als den <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> ins Englische zu übersetzen und würde sicher gekauft und gelesen.</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen von Haus zu Haus</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

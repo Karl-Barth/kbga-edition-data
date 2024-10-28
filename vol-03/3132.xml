@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3132">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 20. November 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3132 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 163–165.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3132</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 163-165</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">132</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 129</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 20. November 1916. <ref target="https://kba.karl-barth.ch/objects/9277">KBA 9270.97</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-11-20">20. November 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-11-20">20. November 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3131"/>
+          <ref type="next" target="kbga-texts-3133"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3131"/>
+          <ref type="next-in-corresp" target="kbga-texts-3133"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:26+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:26+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p163" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-11-20">20. November 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Nun setzt das Trommelfeuer, unter dem wir eine Woche lang standen, aus, und wir kriechen aus unsern Unterständen und Stollen hervor, um den Schaden zu besichtigen, denn statt daß nun etwa die Schwarzen angreifen, wie es neulich in den «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>» bedenklich beschrieben war, ist Herr <persName ref="kbga-actors-3943">Vetter</persName> heute Morgen nach einer Stadt an der russischen Grenze verreist, und wir konnten in aller Ruhe die Arche sich senken und schließlich setzen lassen, nachdem der Boden dieser Sintflut längst sichtbar geworden ist. Ich war einer der fleißigsten Zuhörer Herrn <persName ref="kbga-actors-3943">Vetters</persName>, alle Abende sah man mich «laufen» (wie sie hier sagen für frommes Pilgern), und nun glaube ich diese Art ein wenig zu kennen. Wo soll ich anfangen zu schildern? Vor Allem ist zu sagen, daß er <hi rend="italic">persönlich</hi> sicher ein lieber frommer Mensch ist; er hat im Privatgespräch etwas Freundliches und besonders ein gewisses gutmü<pb xml:id="p164" ed="pga" break="no"/>tiges Lachen, das mich für ihn gewonnen hat. Er hat sich auch zu mir so nett, als es ihm wohl möglich war, gestellt, hat mir ein (arges!) Buch von ihm dediziert «mit innigem Dankesgruß von Ihrem <hi rend="italic">geringen Mitknecht</hi> …», hat es nicht verschmäht, meine <ref type="pub" target="29049">Predigt</ref> anzuhören, und hat mir zum Schluß vor der ganzen Kirche namentlich gedankt für «alle Liebe», die doch nur darin bestand, daß wir ihn zweimal zum Nachtessen einluden. — Aber die Sache, die Sache, die er da oben nun acht Tage lang ausgerufen hat, ist wirklich nicht das Evangelium, sondern eine ganz üble Religionsmechanik. Wenn <hi rend="italic">das</hi> Pietismus ist, so wollen wir doch ja nie mehr auch nur an die geringsten Berührungspunkte zwischen uns und den Pietisten glauben, die meinen wirklich etwas <hi rend="italic">total</hi> Anderes als wir. Das ist Psychologismus in der schlimmsten Form, eitel Beschreibung von christlichen Seelenvorgängen: da gibts eine Erweckung, eine Bekehrung, eine «Versiegelung», da gibts fünf verschiedene Stufen des Widerstandes gegen den hl. Geist, da gibts Kindlein, Jünglinge und Väter in Christo, da fließt das Blut Christi als Seelenarznei, da gipfelt schließlich alles in der Aufforderung an die «Erweckten», a) eine Nachversammlung in der Kapelle zu besuchen, b) künftig auf den Knien zu beten, c) täglich 15 Minuten in der Bibel zu lesen, d) ein Büchlein: «<hi rend="italic">Hinter</hi> der engen Pforte» (!) zu kaufen, e) den «<orgName ref="kbga-actors-9783">Zeltgruß</orgName>» zu abonnieren. Und dann doch beständig der offene Höllenrachen, in den man trotz all dieser Herrlichkeiten noch verschwinden könnte. Und über allem eine bange Schiffsuntergangsstimmung, wo für die Meisten sowieso keine Rettungsschifflein zu haben sind, obwohl die Musik aus Leibeskräften «<bibl type="song" corresp="kbga-songs-302">Näher mein Gott [zu dir]</bibl>» spielt. Nein, das ists wirklich nicht. Gestern Morgen erwachte ich nach <persName ref="kbga-actors-26">Nellys</persName> Zeugnis mit dem schlaftrunkenen Freudenwort: «Hit darf <hi rend="italic">ich</hi> predige!» Doch tat ich in Würdigung der Sachlage (daß nämlich in der Gemeinde <hi rend="italic">keine</hi> Bewegung, sondern nur eine gewisse Verblüffung entstanden ist) keinen scharfen Schuß, sondern redete freundlich mit Jerusalem [vgl. <ref type="can" subtype="bible" target="Jes.40.2">Jes 40,2</ref>], gegenüber all den Bewußtseinsvorgängen und dem grausigen Sündengedonner ruhig feststellend […], daß bei Gott Freude sei (z. B. Enge<pb xml:id="p165" ed="pga" break="no"/>lein mit Harfen und Notenblättern), und daß das Reich Gottes auch auf der Erde mit Freude anfange. Am Abend stellte mich dann der Mann Gottes richtig, indem er die Bedingungen beschrieb, die solcher Freude in der Seele vorausgehen müssen. Aber er war doch etwas fassungslos mit seinen Himmelsleitern und konnte seine Bedenken nicht mächtig vorbringen. Es war mehr so ein Gemunkel, das die Leute wohl gar nicht recht verstanden haben. — Es wird sich ja nun zeigen, ob irgend etwas Reales hinterbleibt. Der Besuch war gut, aber gerade die Safenwiler blieben ziemlich lau, und ich hatte eigentlich auch von auswärts größeren Zuzug erwartet. Die Sprüche aus dem Volk, die ich bis jetzt gehört, waren mehr bezeichnend für sein dickes Fell als für sein erschüttertes Herz. Das Resultat wird wahrscheinlich das sein, daß eine Anzahl Männer von jetzt an <hi rend="italic">noch</hi> unzugänglicher sind und daß ich in der nächsten Zeit auch mit den andern allerlei Erklärungen und Umwege machen muß, die ich lieber vermieden hätte. […]</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen von Groß und Klein</salute>
+           <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

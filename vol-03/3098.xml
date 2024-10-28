@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3098">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 6. März 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3098 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 125–126.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3098</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 125-126</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">98</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 95</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 6. März 1916. <ref target="https://kba.karl-barth.ch/objects/9097">KBA 9270.76</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-03-06">6. März 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-03-06">6. März 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3097"/>
+          <ref type="next" target="kbga-texts-3099"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3097"/>
+          <ref type="next-in-corresp" target="kbga-texts-3099"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:24+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:24+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p125" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-03-06">6. März 1916</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ich habe leider nur noch ein paar Exemplare dieses christlichen Traktätleins,<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-2431"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="m"><ref type="pub" target="29008">Der Pfarrer, der es den Leuten recht macht</ref></title>. Eine Predigt [über <ref type="can" subtype="bible" target="Hes.13.1 Hes.13.16">Ez 13,1–16</ref>] gehalten in der Kirche zu Safenwil</bibl>, als Manuskript gedruckt 1916; wieder abgedruckt in: <bibl corresp="kbga-bibls-3994">CW, Jg. 30 (1916), Sp. 262–267</bibl>; ferner in: <bibl corresp="kbga-bibls-3995">Christentum und Wirklichkeit, Jg. 10 (1932), S. 86–97</bibl>, mit Nachwort des Vf.; und in: <bibl corresp="kbga-bibls-2361"><hi rend="italic">Predigt im Gespräch</hi>, Nr. 3, Neukirchen 1967</bibl>.</note> will dir aber gerne die Hälfte überlassen zu gut scheinender Verwendung. <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs> habe ich selber eins geschickt. <persName ref="kbga-actors-420">Wernle</persName>? <persName ref="kbga-actors-491">Benz</persName>? Was solls? Erwartest du, daß <hi rend="italic">sie</hi> sich durch ein solches Trompetenstößlein, das ja ohne Kenntnis der nähern Umstände hier fast unverständlich ist, belehren oder er<pb xml:id="p126" ed="pga" break="no"/>freuen lassen werden? Oder erwartest du, daß sie <hi rend="italic">uns</hi> viel Belehrendes und Erfreuliches darauf zu sagen haben werden? […] Da bringt mir die Post soeben den <ref type="kba-objects-id" target="9096">Brief</ref> von <persName ref="kbga-actors-466">Albert Barth</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-466">Albert Barth</persName> (1874–1927), Vetter <persName ref="kbga-actors-2151">Karl Barths</persName>, bekannter Schulmann, zuerst in Schaffhausen, später Rektor des Mädchengymnasiums in Basel, Freund <persName ref="kbga-actors-420">Wernles</persName></seg>.</note> und setzt mich vielleicht ins Unrecht mit dem, was ich diesen Moment über die Dispositionen dieser Gruppe empfand. […]</p>
+        <p>Ich hatte gestern Nachmittag in <placeName ref="kbga-places-473">Rohr bei Aarau</placeName> einen Vortrag über «<ref type="pub" target="48037">Der Wille Gottes und der Krieg</ref>».<note xml:id="n03"><bibl corresp="kbga-bibls-215">Der Vortrag über «<ref type="pub" target="48037">Der Wille Gottes und der Krieg</ref>» wird in Reihe III dieser Ausgabe erstmals veröffentlicht werden.</bibl> Barth hielt ihn in einem sozialistischen Arbeiterkreis.</note> Ich geriet nachher unter ein Trüpplein von der «<orgName ref="kbga-actors-9787">Freien Jugend</orgName>» aus <placeName ref="kbga-places-1">Aarau</placeName>, das meinen Vortrag im <date when="1916-01">Januar</date> gehört hatte und nun herbeigezogen war. Eine Familie, die offenbar Hauptstütze der Sache ist, lud mich auf dem Heimweg in ihr Haus ein und nahm mich in ganz rührender Weise auf. Ich sah da in eine mir ganz neue Welt hinein, allerlei Chaotisches, aber viel unmittelbares Leben und Kraft und vor allem ein erstaunliches Begreifen- und Ergreifenwollen der neuen <hi rend="italic">innern</hi> Voraussetzungen im Gegensatz zur offiziellen Partei-Art. Die Mädchen erzählten mir auch allerlei aus ihrer Unterweisung; das eine ist noch mitten drin, aber tatsächlich der ganzen Kirchlichkeit dieser Art längst entronnen, obwohl sie doch Alle ganz kindlich immer noch etwas erwarten von den Pfarrern. Was ist da alles verglunggt,<note xml:id="n04">= fahrlässig versäumt.</note> innerlich verglunggt worden von der Kirche! […]</p>
+        <p>Das Echo auf die Predigt aus der Gemeinde ist noch nicht stark; ich höre nur da und dort: man müsse das ein paarmal lesen. Ich erwarte eigentlich auch keine besondern Reaktionen. Unsre Kirchenpfleger machen mir fortgesetzt Freude; ich kann an allerlei Kleinigkeiten feststellen, wie sie sich Mühe geben. <persName ref="kbga-actors-1285">Marguerite</persName> soll sich ja nicht vorstellen, als ob hier Pfingsten sei.</p>
+        <closer>
+          <salute>Herzlichste Grüße ihr und dir auch von <persName ref="kbga-actors-26">Nelly</persName></salute> 
+          <salute>dein getreuer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

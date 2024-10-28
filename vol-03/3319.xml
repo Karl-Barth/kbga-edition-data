@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3319">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. März 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3319 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 374a–375.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3319</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 374a-375</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">319</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 310</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. März 1920. <ref target="https://kba.karl-barth.ch/objects/10485">KBA 9270.234</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-03-17">17. März 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-03-17">17. März 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3318"/>
+          <ref type="next" target="kbga-texts-3320"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3318"/>
+          <ref type="next-in-corresp" target="kbga-texts-3320"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:39+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:39+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p374" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-03-17">17. März 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Die Bohrmaschine für den <ref type="pub" target="48064">Vortrag</ref> ist in gewaltiger Tätigkeit, und eine ununterbrochene Rauchsäule steigt aus der Pfeife nach der Decke wie in den besten Zeiten meines Lebens. Bis jetzt ist der Fortschritt «vor Ort» aber noch nicht groß, und ob der Stollen seine Richtung nicht verfehlt, muß sich erst zeigen. Am Anfang soll von der Prädestination die Rede sein, nachher von der geistlichen (beweglichen) Sprache der Bibel, nachher von Christus als dem kritischen Mittelpunkt, nachher von der Schöpfung, nachher von der Erlösung, nachher vom geschichtlichen Charakter der Bibel, endlich von der Seele. So ungefähr.</p>
+        <p>Hier interessante «<ref type="kba-objects-id" target="10480">Rosenstockiana</ref>». Ich habe ihm sofort geantwortet, du kannst dir denken, daß ich mich durch sein Trompetenblasen nach der <hi rend="italic">andern</hi> Seite nicht habe täuschen lassen, so merkwürdig die conformitates sind, bis auf die Terminologie.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      
+      <postscript>
+        <p><pb xml:id="p375" ed="pga" rend="noPipe"/>[…] Glückauf zum nächsten Sonntag! [Pfarreinsatz in <placeName ref="kbga-places-77">St. Gallen-Bruggen</placeName>]. Solltest du dir nicht noch eine Hornbrille anschaffen in <placeName ref="kbga-places-66">Zürich</placeName> auf der Durchreise?</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

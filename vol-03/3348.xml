@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3348">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 13. Juli 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3348 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 405a–409.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3348</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 405a-409</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">348</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 338</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 13. Juli 1920. <ref target="https://kba.karl-barth.ch/objects/10675">KBA 9270.254</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-07-13">13. Juli 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-07-13">13. Juli 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3347"/>
+          <ref type="next" target="kbga-texts-3349"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3347"/>
+          <ref type="next-in-corresp" target="kbga-texts-3349"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p405" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-07-13">13. Juli 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Gestern wurde der Ausflug unserer Oberschule ausgeführt. Ich sah zuerst vom <placeName ref="kbga-places-482">Eichberg</placeName> aus mißbilligend und wehmütig nach <pb xml:id="p406" ed="pga"/> <placeName ref="kbga-places-76">Leutwil</placeName> hinüber. […] Und dann entschloß ich mich plötzlich, doch einmal nachzusehen, was dein Nachfolger für einer sei, ließ die Schule zur Linken den <placeName ref="kbga-places-458">Homberg</placeName> ersteigen und wandte mich auf das Sträßlein zur Rechten, berührte gedankenvoll die Stätte, wo wir einst im Frühjahr <date when="1916">1916</date> den Beschluß zum Angriff auf die zeitgenössische Theologie gefaßt, der uns seither in den Besitz wenigstens einiger Grabensysteme gebracht hat, und betrat dann den Bau «der Freunde von <placeName ref="kbga-places-76">Leutwil</placeName>», wo es in jeder Beziehung […] noch völlig leer ist: in deinem Studierzimmer ein paar bekannte Möbel, an den Wänden seltsame militärische und studentische Trophäen und verschiedene Gerätschaften zum — Rauchen, in Wandkästen drei Reihen funkelnagelneuer Bücher, die im Ganzen eher auf positive Theologie hinweisen, zwischen dem allem der neue Pfarrer, munter eben vom Kirschbaum herabgestiegen, das einzige lebende Wesen im Haus, ißt und schläft noch auswärts, da er keine Haushälterin findet, offen und zugänglich (wahrscheinlich ziemlich nach <hi rend="italic">allen</hi> Seiten zugleich), […] mir gegenüber ahnungslos-zutraulich, sichtlich voll guten Willens für alles und Jedes. Er will demnächst zu mir kommen, um meinen «Rat» einzuholen. Über was weiß ich noch nicht recht. Die Situation ist etwas mephistophelisch. Obs wohlgetan ist, diesen Jüngling direkt an den Rand der Wüste zu führen, oder ob ich nicht lieber zunächst etwas alttestamentlich mit ihm rede (im Sinn des Briefes deines <persName ref="kbga-actors-1284">Vaters</persName>)? Das völlig Unbeschriebene, Ehrliche an ihm ist jedenfalls gut. Ich hieß ihn zunächst möglichst ausgiebig in diesem Staunen zu verharren und sich von niemand und nichts in die Tasche stecken [zu] lassen, weil heute alle Taschen löcherig und unwirtlich seien, und die Kirche gerade da, wo man am besten wisse, wie mans macht, voll Lug und Trug. Nachher stieg ich über die Felsen nach <placeName ref="kbga-places-783">Kulm</placeName> hinunter, um dort die Schule wieder einzuholen. Vorher war ich eine halbe Stunde bei E. [dem neuen Pfarrer in <placeName ref="kbga-places-783">Kulm</placeName>], der mir viel weniger erfreulich vorkam: erstaunlich fertig und sicher […], ein eifriger kleiner Ostschweizer, der zur Verbesserung der Welt vorläufig mit dem volltönenden christlichen Bekennen aus der Tiefe seiner <pb xml:id="p407" ed="pga"/> Überzeugung (die das Heiligste sei, was der Mensch habe) den Anfang machen will. […] Sind das nun eigentlich die Pfarrer, die während des Krieges studiert haben? So schnell schon wieder in den bekannten <hi rend="italic">Vor</hi>kriegshäfen? Wenn wirs auf eine «Bewegung» abgesehen hätten und nicht auf die Niederlegung einiger steinerner Tafeln [vgl. <ref type="can" subtype="bible" target="Jes.30.8">Jes 30,8</ref>], die Zeit haben, auf ihre Leser zu warten,<note xml:id="n01"><persName ref="kbga-actors-2151">Barth</persName> spielt hier an auf den Schlußsatz des Vorworts zur 1. Auflage seines <bibl corresp="kbga-bibls-1497">«<title level="m"><ref type="pub-" target="16003#p004">Römerbriefs</ref></title>»</bibl>: «Sollte ich mich aber täuschen in der freudigen Hoffnung auf ein gemeinsames neues Fragen und Forschen nach der biblischen Botschaft, dann hat dieses Buch Zeit, zu — warten. Der Römerbrief selbst wartet ja auch.»</note> wie bedenklich müßte uns der gewisse infantile Zug, den alle diese jungen Mitkämpfer zu unserem Erstaunen zur Schau tragen, stimmen! So stimmt er uns nur zur Beharrlichkeit und freundlichem Gewährenlassen.</p>
+        <p>[…] Unter deiner Sendung habe ich besonders den Brief deines <persName ref="kbga-actors-1284">Vaters</persName> mit Respekt und Belehrung gelesen. Sein Hauptgedanke, die Trennung des Pfarramts in eine alt- und neutestamentliche Sphäre ist eine Möglichkeit, die mich angesichts der krassen Belastung und Beraubung, die meine Lehre für das Gros meiner armen Gemeinde bildet, gerade in letzter Zeit stark beschäftigt hat. <hi rend="italic">Sind</hi> wir <hi rend="italic">weise</hi>, indem wir das «Volk» so mit dem Geheimnis des Evangeliums bedrängen? Sollten wir das nicht in der Tat für Bibelstunden und ein paar wenige seelsorgerliche Gespräche aufbewahren, für Predigt, Kinderlehre, Unterweisung, Beerdigungen und Hochzeiten dagegen uns ein handfestes gesetzlichchristliches Systemlein zurechtzimmern, das dann, mit überlegenem, gütigem, wissendem Humor gehandhabt, den Bedürfnissen des Augenblicks Genüge leisten würde, wobei wir uns bewußt und demütig in die Reihe der Pfarrer zu stellen hätten, die <hi rend="italic">überhaupt</hi> nichts wissen und haben als dieses Systemlein? <persName ref="kbga-actors-306">Oetinger</persName> (und die Schwaben überhaupt!) sind jedenfalls diesen Weg gegangen, und wenigstens seine Möglichkeit ist sicher ernstlicher zu überlegen, als wir es bis jetzt getan haben. Ich möchte aber deinen <persName ref="kbga-actors-1284">Vater</persName> fragen können (vielleicht tust <hi rend="italic">du</hi> es): ob er wohl sieht, wie nahe sich dieser sein (resp. <persName ref="kbga-actors-35">[Joh. Tob.] Becks</persName>) Vorschlag mit dem <persName ref="kbga-actors-312">Overbecks</persName> im letzten Teil seiner «Christlichkeit»<note xml:id="n02"><bibl corresp="kbga-bibls-4207"><persName ref="kbga-actors-312">F. Overbeck</persName>, <title level="m">Über die Christlichkeit unserer heutigen Theologe</title>, zweite, um eine Einleitung und ein Nachwort vermehrte Auflage, Leipzig 1903; Neudruck Darmstadt 1963</bibl>. Overbecks Vorschlag ging auf «die Anerkennung eines persönlichen esoterischen Standpunkts des wissenschaftlich gebildeten Geistlichen neben dem von ihm der Gemeinde gegenüber einzunehmenden exoterischen» (S. 136).</note> berührt? ob er einen grundsätzlichen Unterschied sieht zwischen der gnostischen Lehre von Eso- und Exoterikern und <hi rend="italic">dieser</hi> Lehre? Ob nicht gerade diese Beckisch-Overbeckisch-gnostische <pb xml:id="p408" ed="pga"/> Unterscheidungslehre den schlimmeren, den eigentlich schlimmen Aristokratismus des Geistes enthält, den sie vermeiden möchte? Ob mit dieser Unterscheidung, die im N. T. soviel ich sehe, <hi rend="italic">nicht</hi> vorgesehen ist, nicht etwas verraten wird, was, wenn man es einmal gemerkt, auch aus Liebe zum Volk, nein, gerade um der Liebe zum Volk willen, nicht mehr preisgegeben werden darf: Die <hi rend="italic">Einheit</hi> von Schöpfer und Erlöser, die Erlösung der Schöpfung in Christus (der Römerbrief, der «Eingang in das Alte Testament» — nicht umgekehrt!! — wie <persName ref="kbga-actors-261">Luther</persName> in seiner Vorrede sagt)? Ob diese Unterscheidung nicht die Wiederaufrichtung der im Galaterbrief niedergelegten Position der Judenchristen wäre? Ob wir das wirklich wollen? Und wenn wirs schon wollten, ob wirs können? «Wer von dem Honigseime der Ewigkeit geschmeckt …»<note xml:id="n03">Anfang der 3. Strophe aus dem Liede <bibl corresp="kbga-bibls-4208">«Der Pilger aus der Ferne» von <persName ref="kbga-actors-469">Chr. H. Barth</persName>, in: A. Lindner, <title level="m">Deutsche Weisen. Die beliebtesten Volks- und geistlichen Lieder</title>, Stuttgart o.J., S. 233.</bibl></note> Müssen wir nicht <hi rend="italic">(heute) hindurch</hi> mitsamt unsern Gemeinden? Ich kann lange alttestamentlich mit der «Furcht Gottes» anfangen, nachdem ich einmal weiß, daß es sich schon im A. T. um Christus handelt, fällt das Gesetz schon im A. T. um, und den augenblicklichen Bedürfnissen des Volkes ist — wenigstens scheinbar — wieder nicht gedient. «Wir wissen schon zuviel», wie <persName ref="kbga-actors-312">Overbeck</persName> selbst gesagt, darum finden wir die Harmlosigkeit nicht wieder, die zur Ausführung des <persName ref="kbga-actors-35">Beckischen</persName> (und Overbeckischen!) Vorschlages gehören würde. Aber zur Beunruhigung müssen wir ihn uns jedenfalls dienen lassen. Die von deinem <persName ref="kbga-actors-1284">Vater</persName> erwähnte <bibl corresp="kbga-bibls-4206">Schrift von <persName ref="kbga-actors-650">Kübel</persName></bibl> wird auch in der 2. Auflage von <bibl corresp="kbga-bibls-4207"><persName ref="kbga-actors-312">Overbecks</persName> «Christlichkeit» (S. 174)</bibl> lobend genannt. Wir sollten sie einmal einsehen können. Sie heißt <bibl corresp="kbga-bibls-4206">«Christliches Bedenken über modernes christliches Wesen». Von einem Sorgenvollen (anonym!) 3. Auflage, Gütersloh 1889</bibl>. R. Kübel ist 1894 gestorben.</p>
+        <p>Der Einwand von <hi rend="italic"><persName ref="kbga-actors-597">Hartmann</persName></hi> [in seinem Brief] steht zu dem deines <persName ref="kbga-actors-1284">Vaters</persName> in einem eigentümlichen Verhältnis. Während dein Vater das Unpopuläre unserer «Lehre» mißbilligt, fürchtet Hartmann (der <orgName ref="kbga-actors-9877">U.S.P.</orgName>-Mann<note xml:id="n04">U.S.P. = <orgName ref="kbga-actors-9877">Unabhängige Sozialdemokratische Partei</orgName>, die 1917 durch Abspaltung des linken Flügels der <orgName ref="kbga-actors-6133">SPD</orgName> entstanden war.</note>) bereits, wir könnten auf der obern Stufe der <persName ref="kbga-actors-35">Beckischen</persName> Scheidung <hi rend="italic">wieder</hi> populär, verständlichallzuverständlich werden. Gut, das läßt sich hören. Ich habe <pb xml:id="p409" ed="pga"/> zwar <hi rend="italic">davor keine</hi> Angst. Wir haben wenigstens bis jetzt noch immer wieder alsbald niedergerissen, was wir zu bauen geschienen hatten. Daß er seinen Widerspruch (wie <persName ref="kbga-actors-23">Heiner</persName>) bei <hi rend="italic">dir</hi> einhakt, ist insofern verständlich, als du — im Gegensatz zu meinem schrecklichen Vormichhin-Reden — tatsächlich zu den Menschen redest, ihnen etwas gibst und bietest. Den <persName ref="kbga-actors-597">Hartmannschen</persName> Verdacht (mehr ist es ja nicht und <hi rend="italic">wie</hi> intellektuell gefaßt und vorgebracht!!) mußt du als Fatalität deiner Fähigkeit zum Auf- und Abbauen, an die ich gestern, über die gesegneten Fluren <placeName ref="kbga-places-76">Leutwils</placeName> wandelnd, denken mußte, in Kauf nehmen und dir keine Skrupeln deswegen machen. Daß man diesen Verdacht gegen mich, dessen Fußspuren <hi rend="italic">nicht</hi> «von Fett triefen» [vgl. <ref type="can" subtype="bible" target="Ps.65.12">Ps 65,12</ref>], nicht so haben kann, ist kein Lob für mich. Wollte doch mein Nein endlich auch in Form eines «Weges» den Leuten zum Bewußtsein kommen können! Also laß Hartmann reden, verweise ihn auf die leeren Bänke meiner Kirche und sage ihm, von «Heilsordnung» sei keine Rede. […]</p>
+        <closer>
+          <salute>Mit herzlichsten Grüßen</salute>
+           <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Deinen Geburstag habe ich wieder einmal nicht bemerkt. Vielleicht werden wir später auch wieder aufmerksamer auf das Biographische.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3043">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. Juni 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3043 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 54a–57.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3043</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 54a-57</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">43</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 41</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. Juni 1915. <ref target="https://kba.karl-barth.ch/objects/8844">KBA 9270.32</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-06-17">17. Juni 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-06-17">17. Juni 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3042"/>
+          <ref type="next" target="kbga-texts-3044"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3042"/>
+          <ref type="next-in-corresp" target="kbga-texts-3044"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:20+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:20+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p054" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-06-17">17. Juni 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Hier eine Gegengabe. Deinen Brief an <persName ref="kbga-actors-253">Loew</persName> fand ich gut und sende ihn ab. Gleichzeitig mit deiner Sendung kam beiliegender <ref type="kba-objects-id" target="8838">Brief</ref> von <persName ref="kbga-actors-175">Heitmüller</persName>,<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-175">Wilhelm Heitmüller</persName> (1869–1926), Prof. für N. T. in Marburg, später in Bonn und Tübingen.</seg></note> auf den ich eben antwortete. Schreib doch auch noch ein paar Worte dazu. Wahrscheinlich bin ich immer noch zu gerecht und scheinwerferhaft, und du kannst das andre so gut sagen auf deine Weise, daß es schade wäre, wenn du es <persName ref="kbga-actors-175">Heitmüller</persName> nicht auch noch selbst sagen würdest. Dein Brief an <persName ref="kbga-actors-253">Loew</persName> ergänzt den meinigen sehr schön; ich schrieb schon vor acht Tagen. Es wäre ja etwas wert, wenn wir langsam wieder <pb xml:id="p055" ed="pga"/> Fühlung bekommen könnten mit den Deutschen. Aber schwer ists! <hi rend="italic">Wie</hi> groß muß die Nervosität sein, daß <persName ref="kbga-actors-175">Heitmüller</persName> wegen des doch wirklich im Zusammenhang harmlosen Sätzleins wegen «<placeName ref="kbga-places-167">Belgien</placeName>, Lusitania …»<note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-3819"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a"><ref type="pub" target="48027">Friede</ref></title>, a.a.O. S. 55</bibl>: «… Friede? Wir können die militärische und politische Seite der Frage ganz beiseite lassen: auch die innere Annäherung und Verständigung zwischen den Völkern scheint ferner als je. Das einzige Wort ’Lusitania’ bedeutet eine Unzahl von endgültig zerrissenen Fäden von Vertrauen, Achtung und Sympathie … Auf dem Boden des Unfriedens gibt es keinen Frieden. Auf diesem Boden ist Eigenwille und Gegensatz, Protest und Diskussion und verlegenes Schweigen, Kopfschütteln und Auseinandergehen, Krieg und Kriegsgeschrei, <placeName ref="kbga-places-167">Belgien</placeName> und Lusitania und die Politik der Italiener — höhere Notwendigkeit und alle Predig Politik der Italiener — höhere Notwendigkeit und alle Predigten, Überzeugungsausbrüche und fromme Wünsche werden daran nichts ändern.»</note> so in die Sätze kommen<note xml:id="n03">= in Rage kommen.</note> konnte. Es bestärkt mich doch alles in der Überzeugung, daß wir uns um keinen Preis aufs Händeln und Rechthabenwollen einlassen dürfen. Sonst ist man sofort verloren in dem allgemeinen Zank. Vide die abscheulichen Vorgänge in den «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>» gestern!! Ich empfinde in diesem Falle ganz mit dem Bundesrat, unsere Welschen sind einfach kopflos geworden vor Sicherheit und Doktrinarismus. Es scheint bald leichter, sich mit den Deutschen zu verständigen als mit ihnen, wenigstens mit Deutschen wie <persName ref="kbga-actors-253">Loew</persName> und <persName ref="kbga-actors-175">Heitmüller</persName>.</p>
+        <p><rs type="person" ref="kbga-actors-27 kbga-actors-5803">Peters</rs> kommen am nächsten Montag-Dienstag, möchten dich auch sehen, wollen aber nicht bis zu dir reisen. Da mußt du ihnen wohl entgegenkommen bis unter den Äpfelbaum. Willst du am <hi rend="italic">Dienstag</hi> kommen? Ich sollte den <persName ref="kbga-actors-27">Peter</persName> schon lange einmal allein in die Klauen bekommen, so als älterer Bruder, weißt du — und dann trittst du auf und krönst und vollendest das Werk. Es wäre doch <hi rend="italic">sehr</hi> wünschenswert, daß du kämest, du kannst Vieles so viel erfreulicher sagen (siehe oben!) als ich, was er hören sollte.</p>
+        <p>Das <persName ref="kbga-actors-758">Schäfer’</persName>sche<note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-758">Albert Schäfer</persName> (1878–1934), Pfarrer in Schinznach (Aargau), Freund <persName ref="kbga-actors-420">Wernles</persName></seg>.</note> Billet ist sehr bezeichnend. Jaja, das nach Gottes Willen so vielgestaltige Leben und dementsprechend der Mikrokosmos des <orgName ref="kbga-actors-9850">aargauischen Monatsblattes</orgName>, vielgestaltig von <persName ref="kbga-actors-552">Gustav Fischer</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-552">Gustav Adolf Fischer</persName> (1868–1939), Pfarrer in Reitnau.</seg></note> bis zu <persName ref="kbga-actors-403">Ed. Thurneysen</persName>! Hui! <persName ref="kbga-actors-313">Paulus</persName> hätte das von den verschiedenen Gaben [vgl. <ref type="can" subtype="bible" target="1.Kor.12.4 1.Kor.12.11">1.Kor 12,4ff.</ref>] kaum geschrieben, wenn er diesen Unfug geahnt hätte, der durch die Kirchengeschichte hin damit getrieben wird. Die Beschreibung des <orgName ref="kbga-actors-8246">Kränzlis</orgName> hat uns sehr erfreut. Mit <persName ref="kbga-actors-847">Zickendraht</persName> wirst du schwerlich zu einem Ende kommen. Er ergeht sich in lauter seltsamunwahrscheinlichen Exegesen, bei denen nichts herauskommt als ein großes Erstaunen allerseits. Aber es wird wohl noch mehr hinter ihm sein und vielleicht entdeckst dus zum allgemeinen Besten. Wegen Ernst- und Unsinnmachen bin ich nicht ganz einverstanden. Wir wollen uns gar nicht so viel darüber besinnen, was <pb xml:id="p056" ed="pga"/> wir für einen Eindruck machen, dann kommts am besten. Es ist sicher ganz gut, wenn dem falschen Ernst der Pfärrer dann und wann einfach ein fröhliches Gelächter entgegengestellt wird (das klingt jetzt wieder brutal, aber du weißt ja, wie ichs meine), statt daß wir auf ihren Tonfall eingehen. Gerade <hi rend="italic">wenn</hi> man auf den Pfarrer-Ernst eingeht, wird man von der Zunft nicht mehr ernst genommen. Im Übrigen kann man sich ja gelegentlich etwas mehr zusammennehmen ohne Schaden; ich will schon auch helfen, brav zu sein, nur nicht zu sehr.</p>
+        <p>Gestern war der Feldprediger da zum Mittagessen und schwarzen Kaffee. <persName ref="kbga-actors-26">Nelly</persName> stellte mir nachher das Zeugnis aus, ich hätte eine ganz rührende Menschenliebe an den Tag gelegt. Das Gleiche kann ich leider von <persName ref="kbga-actors-26">Nelly</persName> nicht sagen. Er setzte sich nämlich hin und fing wirklich arg an zu blagieren<note xml:id="n06">= renommieren.</note> von seiner geistlichen Tätigkeit in W. und im Militär. Als man auf «die Sache» kam, redete er hoch herab von seiner Jugendzeit, wo er gerade so gewesen [sei] wie ich, von den ersten <orgName ref="kbga-actors-9899">religiössozialen Konferenzen</orgName>, wo er auch mitgemacht habe, von seinen praktischen Erfahrungen und Erfolgen!!!, von den Brücken, die man den Leuten bauen müsse, von Schwärmerei («damit würde <hi rend="italic">ich</hi> nichts erreichen»), von der für alle Pfarrer vorbildlichen Taktik des Majors des Bataillons 84 usf. Ich ertrug das Alles und forderte ihn nur gelegentlich durch kleine Sprüchlein zu weiteren Vorträgen heraus. Es wehte milde Kirchenluft (er ist auch noch Mitglied der <orgName ref="kbga-actors-6200">schweiz. Kirchenkonferenz</orgName>!!!) und ich suchte vergeblich nach Atem. Da löste <persName ref="kbga-actors-26">Nelly</persName> die Spannung mit dem unvermittelten unbestechlichen Worte: «Ich weiß gar nicht, woher Sie eigentlich diese Sicherheit nehmen?» Das einem solchen Kirchenfürsten! Er war denn auch von da an ein wenig paff und mußte sich immer wieder mit diesem Vorwurf auseinandersetzen. Schließlich erklärte er uns noch im Hausgang, er habe eben seine Überzeugung und sein gutes Gewissen und darum sei er so sicher, übrigens sei er auch «manchmal» zerknirscht! Mit dieser eigenartigen Erkenntnis nahm er Abschied und wird uns wohl in seltsamer Erinnerung behalten.</p>
+        <pb xml:id="p057" ed="pga"/>
+        <p>Die Predigt von <persName ref="kbga-actors-491">Benz</persName> ist wichtig. Meine <persName ref="kbga-actors-18">Mama</persName> hat sie gehört, kam aber mit dem Eindruck heim, das sei keine Lösung. Schade, daß er sich nicht mit seiner frühern These: «Jetzt hat Gott das Wort!» auseinandersetzt. Dann hätte es sich zeigen müssen, daß es mit dieser Orientierung am Einzelnen nicht geht. <persName ref="kbga-actors-26">Nelly</persName> läßt dich herzlichst grüßen, <persName ref="kbga-actors-5802">Fränzeli</persName> auch; es ist gestern auf seinen Wanderungen einer großen Schnecke begegnet und schüttelte sich vor Grausen über dieses Tierlein, das doch auch der liebe Gott in seiner Schöpferfreude geschaffen hat samt seinem Schleim. Da stimmt etwas nicht, bei Fränzeli oder bei der Schnecke. Also auf Wiedersehen nächste Woche.</p>
+        <closer>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

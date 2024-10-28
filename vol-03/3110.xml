@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3110">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 30. Mai 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3110 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 138–139.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3110</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 138-139</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">110</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 107</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 30. Mai 1916. <ref target="https://kba.karl-barth.ch/objects/9150">KBA 9270.82</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-05-30">30. Mai 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-05-30">30. Mai 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3109"/>
+          <ref type="next" target="kbga-texts-3111"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3109"/>
+          <ref type="next-in-corresp" target="kbga-texts-3111"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p138" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-05-30">30. Mai 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Während ihr […] die c-moll Messe in <placeName ref="kbga-places-5">Basel</placeName> gehört habt, hatten wir eher eine düstere Woche. Sie stand ganz im Zeichen meiner Zahnlücke, die sich durch Fieber, Kopfweh und schlaflose Nächte übel bemerkbar machte bis heute und noch immer nicht ganz Ruhe hält. Ich habe am Sonntag zähneklappernd und schweißgebadet nach ein paar Notizlein dürftig gepredigt — und dabei geschah es noch, daß <persName ref="kbga-actors-5802">Fränzeli</persName> seiner Hüterin entrann und mitten in meinem Sermon durch die vordere Türe in der erstaunten Versammlung erschien, um «Papa zu holen», es wurde dann von einem ordligen Kirchenpfleger durch die ganze Kirche seiner glücklichen Mutter zugeführt, die mit ihm davoneilte. Das war auch ein Schlag und eine Tat und ein Durchbruch! Um meine <ref type="pub" target="29025">Predigt</ref> war es nicht schade. Die meiste Zeit war ich nun immer im Bett, machte Umschläge, schluckte Tropfen und Pillen und las dazwischen das Leben von <persName ref="kbga-actors-35">J. T. Beck</persName><note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4008"><persName ref="kbga-actors-747">B. Riggenbach</persName>, <title level="m">Johann Tobias Beck. Ein Schriftgelehrter zum Himmelreich gelehrt. Lebensbild</title>, Basel
+                            1888.</bibl>
+                    </note> (auf den <persName ref="kbga-actors-757">Schädelin</persName> auch schon hinzudeuten beginnt!). Es war eine Zeit geringer Dinge. Wie ganz anders enthusiasmiert werdet ihr nun sein! Gebt uns schleunigst viel von eurem Reichtum ab!</p>
+        <p>Am Sonntag Abend hatte ich einen seltsamen Halbwachtraum: <persName ref="kbga-actors-330">Ragaz</persName> mit den Seinigen war ins Haus eingedrungen und machte sich in allen Zimmern mit Rüben, Herdöpfeln<note xml:id="n02">= Kartoffeln.</note> und Holzscheitern etwas zu schaffen. Plötzlich drang <persName ref="kbga-actors-457">Bader</persName> mit seinen Anhängern auch herein, sie schrien laut und siegreich: Jetzt haben wir sie, die Diebe, die Schelme!! und <persName ref="kbga-actors-330">Ragaz</persName> wurde von ihnen in einen Kleiderschrank gesperrt. Ich lag machtlos im Bett und beschwor vergeblich die Parteien, Ruhe zu halten, wobei mir der Gedanke, wie schwer solches Los für Ragazen sei, besonders viel zu schaffen gab. <persName ref="kbga-actors-26">Nelly</persName>, die zum Glück in diesem Augenblick hereintrat, hatte alle Mühe, mich zu versichern, daß das Haus <hi rend="italic">nicht</hi> voll streitender Religiössozialer sei.</p>
+        <p>Du kannst aus diesem Träumlein sehen, wie ernst ich unsre neuen Pflichten offenbar bereits nehme. Ich hatte nämlich am <pb xml:id="p139" ed="pga"/> Sonntag Nachmittag einen langen Brief an <persName ref="kbga-actors-316">Pestalozzi</persName> geschrieben über die in den Zahnwehpausen in mir keimenden Ideen für «<hi rend="italic">unsre</hi>» <orgName ref="kbga-actors-9899">Konferenz</orgName>.<note xml:id="n03">Auf der Tagung der schweizerischen <orgName ref="kbga-actors-9899">religiössozialen Konferenz</orgName> in <placeName ref="kbga-places-428">Brugg</placeName> am <date when="1916-05-23">23. Mai 1916</date> waren <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-403">Thurneysen</persName>, <persName ref="kbga-actors-316">R. Pestalozzi</persName> und <persName ref="kbga-actors-755">Karl Sandreuter</persName>, Pfarrer in Frenkendorf (Baselland) zum neuen Vorstand der Konferenz gewählt und damit für die Durchführung weiterer Tagungen verantwortlich gemacht worden. Wegen interner Spannungen in der Konferenz kam es jedoch nicht zu einer Tagung unter ihrer Leitung. Im <date when="1917-12"><choice><sic>Oktober</sic><corr type="misprint" resp="sm">Dezember</corr></choice> 1917</date> legten alle vier ihre Ämter nieder.</note> Nun werden <hi rend="italic">wir</hi> ans Kochen gehen, wa?! Ich würde dich schlecht kennen, wenn du nicht auch schon allerlei ausgesonnen hättest unterdessen; jedenfalls erwarte ich von dir demnächst irgend einen außerordentlichen Aufschluß über die neue Lage im Himmelreich. […]</p>
+        <p><persName ref="kbga-actors-26">Nelly</persName> war gestern bei der Gründungssitzung der «<orgName ref="kbga-actors-9787">Freien Jugend</orgName>».<note xml:id="n04">Sozialdemokratische Jugendorganisation.</note> Genosse <persName ref="kbga-actors-703">Münzenberg</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-703">Willi Münzenberg</persName> (1889–1940), deutscher sozialistischer Politiker und Publizist, lebte 1910-1918 in Zürich</seg>.</note> sollte die Weiherede halten, traf aber nicht ein. Dafür ergriff dann der «Geischt» einige Hiesige, aber in harmlosester Weise, und dazu wurde gesungen: «Wir sind die jungen Adler des Pro - le - ta - ri - ats!»</p>
+        <p>Und nun kommt mit der gewissen Hartnäckigkeit, die dem Kirchenjahr eigen ist, wieder Himmelfahrt und Pfingsten herbei, und wir müssen <hi rend="italic">es</hi> wieder einmal sagen. Ob wir nicht doch noch einmal in irgend eine Wüste entrinnen? Vorläufig also noch nicht!</p>
+        <closer>
+          <salute>Herzlichen Gruß über Berg und Tal</salute>
+          <salute>Eure</salute>
+          <signed>Safenwiler</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3225">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. März 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3225 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 269–272.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3225</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 269-272</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">225</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 218</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth an Eduard Thurneysen, 25. März 1918. <ref target="https://kba.karl-barth.ch/objects/9744">KBA 9270.169</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-03-25">25. März 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-03-25">25. März 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3224"/>
+          <ref type="next" target="kbga-texts-3226"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3224"/>
+          <ref type="next-in-corresp" target="kbga-texts-3226"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p269" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1918-03-25">25. März 1918</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Bevor ihr und wir in das große Getümmel der Feiertage gestürzt werden, soll es doch noch zu einer raschen Begrüßung kommen. <persName ref="kbga-actors-26">Nelly</persName> kam so sehr erfreut und gehoben von «<placeName ref="kbga-places-158">Boll</placeName>-<placeName ref="kbga-places-76">Leutwil</placeName>» zurück und hatte mir so viel zu erzählen, auch zur Erleuchtung und Mahnung vorzuhalten von der dortigen Gnade, daß ich auch ganz lebhaft in eure Gemeinschaft versetzt wurde und mich aufs Neue unsrer freien Verbundenheit freute. Wer weiß, wer weiß — wenn ich mit all den Predigten wieder so rechtzeitig ins Reine komme wie letztes Jahr, so komme ich am Samstag wieder rasch auf ein — zwei Stündlein herüber gewandert. […] Es ist nur, weil ich das geistliche Gedränge nicht liebe und das Verluften zwischenhinein bei euch von damals in so guter Erinnerung habe, daß ich jetzt den Wunsch wieder spüre darnach. […] Wie traurig macht es mich oft, daß gerade das, was du so fein kannst, das Eingehen auf die Leute, das Alle ganz Ernstnehmen und mit ihnen Tragen, bei mir so ausgeschlossen scheint: ich und die Safenwiler betrachten uns immer nur wie durch Glas<pb xml:id="p270" ed="pga" break="no"/>scheiben, das <hi rend="italic">ists</hi> auf keinen Fall — aber ich studiere bis jetzt vergeblich, wie ich auch ein wenig <persName ref="kbga-actors-3681">Hosea</persName> werden könnte, was ich viel lieber wäre, als als <persName ref="kbga-actors-2147">Amos</persName> mit Geschrei das Herbstfest zu stören, worauf es offenbar hinausläuft bei mir. Es geht hier alles, was überhaupt geht, unglaublich intellektuell zu. Wir hatten z. B. wieder eine Kirchenpflegssitzung mit einem Referat über <persName ref="kbga-actors-443">Zwingli</persName>, von dem unser Präsident mit offenkundiger Abneigung Abstand nahm, wobei es mir klar wurde, daß mir dieser Prototyp des Reformpfarrers [= liberalen Pfarrers] eigentlich auch sehr fern ist. Ich würde gern einmal von dir hören, was du in deiner Kinderlehrserie eigentlich bei ihm gefunden hast. Seine Glossen zum Römerbrief gehören jedenfalls auch zum Schwächeren, was darüber geschrieben worden ist: der hl. Geist ist für ihn z. B. ganz offenkundig = Frömmigkeit, ganz wie bei <persName ref="kbga-actors-420">Wernle</persName> und Genossen. Und daß sich <persName ref="kbga-actors-330">Ragaz</persName> so eifrig auf ihn berufen kann, beleuchtet ihn doch auch seltsam; es eröffnen sich da unheimliche Parallelen. Unser Referent hielt sich mit laienhafter Unbestechlichkeit an <persName ref="kbga-actors-443">Zwinglis</persName> <hi rend="italic">Leben</hi> und Taten, und ich wußte nicht genug von den Hintergründen, um das gespenstische Bild, das da entstand, etwas erfreulicher zu beleuchten. Vielleicht berufen wir dich einmal zu einer Sitzung, um das zu leisten, was ich da nicht recht fertigbringe. Das nächste Mal wird dann <persName ref="kbga-actors-77">Calvin</persName> auftauchen, wo die Dinge ja allerdings anders stehen. Aber um so einen Mann zu «rechtfertigen», bin ich eben nicht der Geschickte. O Blödigkeit!</p>
+        <p>Konfirmandenunterricht — er eilt unter allerlei letzten Erwägungen dem Ende entgegen. Letzte Woche schrieb ich die Scheine: <persName ref="kbga-actors-1189">Rembrandts</persName> Himmelfahrt mit lauter «großen Sprüchen» aus Ephes. 1-3, immer drei Kinder zusammen den gleichen, um das individuelle Beziehen, das hier Jahr für Jahr nur verwüstend gewirkt hat, einmal zu ertöten. Wahrscheinlich lauert auch da ein Irrtum. Ich verwünsche heimlich die ganze Konfirmation, diese typische Ausgeburt des Pietismus. Ja, ja der Einzug in <placeName ref="kbga-places-37">Jerusalem</placeName>, ich denke schon daran, aber eben — es wäre eigentlich an der Taufe und am Abendmahl genug «Einzug», und die Kirche hat doch etwas Bedenkliches getan, als sie die Sakramente da noch <pb xml:id="p271" ed="pga"/> überbieten wollte, denn darauf läufts doch hinaus. Ein Knabe ließ mich gestern durch seinen Vater fragen, ob er nicht die letzten 3 Stunden fehlen dürfe — wegen eines Obstbaumkurses in <placeName ref="kbga-places-226">Herzogenbuchsee</placeName>!! So sehen meine Epheser aus! Ich ließ ihn freundlich wieder fragen, ob er nicht auch den Karfreitag<note xml:id="n01">Am Karfreitag fand die Konfirmation statt.</note> bei den Obstbäumen zubringen wolle?</p>
+        <p>Der <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> konnte letzte Woche noch bis <ref type="can" subtype="bible" target="Röm.9.13">9,13</ref> gefördert werden. Da kommen erstaunliche Dinge an den Tag, und ich bewundere die Zähigkeit, mit der <persName ref="kbga-actors-77">Calvin</persName> seinen Standpunkt festhielt, die doch ganz berechtigt gewesen wäre, wenn nicht die fatale persönliche Heilsfrage, um die es <hi rend="italic">ihm</hi>, aber nicht <persName ref="kbga-actors-313">Paulus</persName> zu tun war, die Sache ganz schief beleuchtet hätte. Ich freue mich wie ein Kind auf die vier Wochen <placeName ref="kbga-places-1285">Zürichberg</placeName>, in denen ich nachher dem allem nachgehen kann. Ich setze nämlich drei Sonntage aus! Am <date when="1918-04-07">7. [April]</date> predige ich aber noch, wir haben Examen nach Ostern. Hat dir <persName ref="kbga-actors-26">Nelly</persName> erzählt, wie ich vor 8 Tagen mit Erfolg für Lehrerbesoldungen und mit Mißerfolg gegen ein Schützenhaus eine Schlacht geliefert? Am Freitag mußte ich einen ganzen Nachmittag bei — einer Turnprüfung dabeistehen!! […]</p>
+        <p>Besuch von T. P. […] Ich empfand das Gute an unsrer «Aargauergnade» […], daß wir etwas mehr Sinn für das Transzendentale und etwas weniger Geschmack an Erlebnissen und persönlichen Abgrundsgeistestiefen haben. Das ist doch deutlich die Sphäre des Baums der Erkenntnis, von dem besser nicht genascht würde. […]</p>
+        <p><persName ref="kbga-actors-330">Ragazens</persName> Buch<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-1768"><persName ref="kbga-actors-330">L. Ragaz</persName>, <title level="m">Die neue Schweiz. Ein Programm für Schweizer und solche, die es werden wollen</title>, Olten
+                            1917.</bibl>
+                    </note> habe ich gekauft, gelesen und entsetzlich langweilig gefunden. Wie konnte er nur! Wie ich vernehme, ist er übrigens jetzt auch Mitglied der <orgName ref="kbga-actors-6206">Helvetischen [Gesellschaft]</orgName>! Da sind wir! —</p>
+        <p>Ja die deutsche Offensive!<note xml:id="n03"><persName ref="kbga-actors-673">Ludendorffs</persName> Offensive begann am <date when="1918-03-21">21. März 1918</date> und brach im Juli/August zusammen; das Ziel, vom jahrelang andauernden Stellungskrieg im Westen zum Bewegungskrieg überzugehen, wurde nicht erreicht.</note> Wenn das nun gelingt, kanns gut werden. Wir werden dann etwas erleben mit der Pickelhaube. Jedenfalls ist dann für spätere Fortsetzungen des Kriegs gesorgt. <hi rend="italic">Obs</hi> gelingt?</p>
+        <p>Schluß für heute. Ich wollte gestern in Predigt, Kinderlehre und <orgName ref="kbga-actors-8613">Blaukreuz</orgName> beharrlich vom Einzug in <placeName ref="kbga-places-37">Jerusalem</placeName> reden und <pb xml:id="p272" ed="pga"/> vom Abendmahl, es kam aber nicht, sondern blieb bei einem Deuten und Winken. Hast du in der englischen Kriegszeitung, die du wohl auch bekommst, die Bilder und Artikel über <placeName ref="kbga-places-37">Jerusalem</placeName>, <placeName ref="kbga-places-950">Ölberg</placeName> und <placeName ref="kbga-places-864">Gethsemane</placeName> betrachtet? Es war mir alles neu. Dort wird übrigens der Herr Jesus in gewaltiger direkter Apostrophe angerufen für die Entente. Die Verlegenheit im Himmel muß doch groß sein.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

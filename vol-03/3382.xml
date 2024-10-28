@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3382">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 28. November 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3382 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 447.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3382</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 447-447</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">382</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 372</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 28. November 1920. <ref target="https://kba.karl-barth.ch/objects/10871">KBA 9370.383</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-11-28">28. November 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1920-11-28">28. November 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3381"/>
+          <ref type="next" target="kbga-texts-3383"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3381"/>
+          <ref type="next-in-corresp" target="kbga-texts-3383"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:43+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:43+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p447" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            
+            <date when="1920-11-28">28. November 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Ich schreibe heute Abend nur noch kurz und express, um die Papiere noch zu guter Zeit in deine Hände kommen zu lassen. Der ganze <bibl corresp="kbga-bibls-48"><ref type="pub" target="../volume/47/p129#p129">Abschnitt</ref></bibl> <ref type="can" subtype="bible" target="Röm.3.21 Röm.3.31">3,21ff.</ref> bedeutet einen ganz wesentlichen Schritt vorwärts im Vergleich zur <bibl corresp="kbga-bibls-1497"><ref type="pub-" target="../volume/16/p087#p087">ersten Fassung</ref></bibl>. Ich habe ihn mit großer Freude gelesen, Anmerkungen beiliegend.</p>
+        <p><persName ref="kbga-actors-275">Georg Merzens</persName> <ref type="kba-objects-id" target="10869">Bericht</ref> über <persName ref="kbga-actors-645">Ludwig Köhlers</persName> Auftreten in <placeName ref="kbga-places-43">München</placeName> ist gut!! Ich lege einen Frontbericht von <persName ref="kbga-actors-691">Wolf Meyer</persName> bei. Wie zu erwarten war, geht er mit Wucht Zum Angriff vor. Weiter drei Nummern der <orgName ref="kbga-actors-7627">Frankfurter Zeitung</orgName> mit einer bedeutsamen Schilderung der <orgName ref="kbga-actors-9892">Wartburgtagung</orgName><note xml:id="n01">Gemeinsame Tagung der <orgName ref="kbga-actors-4183">Freunde der Christlichen Welt</orgName>, der <orgName ref="kbga-actors-8748">Freunde der freien Volkskirche</orgName> und des <orgName ref="kbga-actors-9891">Bundes für das Gegenwartschristentum</orgName> <date>29.9.-1.10.1920</date> in <placeName ref="kbga-places-195">Eisenach</placeName>. An den drei Abenden fanden öffentliche Vorträge auf der <placeName ref="kbga-places-352">Wartburg</placeName> statt. Auf der Tagung kam es zum Zusammenschluß der veranstaltenden Gruppen zum «<orgName ref="kbga-actors-9891">Bund für Gegenwartschristentum</orgName>». Das Tagungsprogramm ist veröffentlicht in: <bibl corresp="kbga-bibls-4225">CW Jg. 34 (1920), <choice><sic>S. 623</sic><corr type="misprint" resp="sm">Sp. 623</corr></choice></bibl>, Tagungsberichte ebd. Sp. 670f. (<persName ref="kbga-actors-4131">G. Rade</persName>) und 673ff. (<persName ref="kbga-actors-329">M. Rade</persName>). In CW 34 erschienen auch die drei Hauptvorträge von der Wartburg: <bibl corresp="kbga-bibls-4227"><persName ref="kbga-actors-687">C. Mensing</persName>, <title level="m">Frömmigkeit als Heiligung der Gefühle</title>, Sp. 705ff.</bibl>; <bibl corresp="kbga-bibls-917"><persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="m">Ethische und mystische Religion im Urchristentum</title>, Sp. 725ff. 738ff.</bibl>; <bibl corresp="kbga-bibls-1472">F. Gogarten, <title level="m">Die Krisis unserer Kultur</title>, Sp. 770ff. 786ff.</bibl></note> [Vortrag von <persName ref="kbga-actors-137">Gogarten</persName>] durch den Dichter <persName ref="kbga-actors-759">Wilhelm Schäfer</persName><note xml:id="n02"><persName ref="kbga-actors-759">Wilhelm Schäfer</persName>, 1868-1952, Schriftsteller. Auf seinen <bibl corresp="kbga-bibls-4228">kritischen Tagungsbericht in Nr. 786 der Frankfurter Zeitung</bibl> reagierte <bibl corresp="kbga-bibls-4229"><persName ref="kbga-actors-329">M. Rade</persName> in CW 34, Sp. 719</bibl>.</note> und einer heillosen Blamage der «<orgName ref="kbga-actors-4183">Freunde der Christlichen Welt</orgName>», vertreten vor allem durch den unglücklichen <persName ref="kbga-actors-559">Emil Fuchs</persName>.<note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-559">Emil Fuchs</persName> (1874–1971), Pfarrer und Sozialist, später Prof. für systematische Theologie in Leipzig.</seg></note> <persName ref="kbga-actors-607">Herpel</persName>: ich stimme deinem Urteil ganz zu. Er ist ein lieber Kerl. Es kam zu guten offenen Aussprachen. Ich veranlaßte ihn zu einem öffentlichen Auftreten: er hat in 1<hi rend="top">1</hi>/<hi rend="buttom">2</hi> stündigen sehr gescheiten Darlegungen über die Lage in <placeName ref="kbga-places-151">Deutschland</placeName> geredet. Das ganze Bild, das er entwarf, war wie eine große Frage an unser Volk hier, die sicher ihre beunruhigende Wirkung tun wird. — Ich schicke dir dieser Tage meinen Aufsatz über «<bibl corresp="kbga-bibls-4220">die Aufgabe der Predigt</bibl>».</p>
+        <closer>
+          <salute>Herzliche Grüße von uns Beiden</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

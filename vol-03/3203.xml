@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3203">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. Dezember 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3203 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 246–247.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3203</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 246-247</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">203</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 196</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. Dezember 1917. <ref target="https://kba.karl-barth.ch/objects/9657">KBA 9270.156</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-12-07">7. Dezember 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-12-07">7. Dezember 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3202"/>
+          <ref type="next" target="kbga-texts-3204"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3202"/>
+          <ref type="next-in-corresp" target="kbga-texts-3204"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:31+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p246" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-12-07">7. Dezember 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Da kommen wieder Predigten, von denen ich besonders für die über den Samariter<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4330">(<persName ref="kbga-actors-403">E. Thurneysen</persName>) <title level="a">Wo Liebe ist, da ist Gott</title>, in: <title level="m">Suchet Gott …!</title>, S. 105ff. (= 2. Aufl. S. 109ff.).</bibl></note> dankbar bin, die dir prächtig geraten ist. […]</p>
+        <p>Hier geschehen seltsame Dinge. Unser Kirchenpflegspräsident hat dem Fabrikanten wegen des Konfirmandenunterrichts einen langen energischen Brief unter Berufung auf die Kirchenordnung und —— auf den Herrn Jesus («… ein Höherer vor 2000 Jahren») geschrieben, ferner einen Zeitungsartikel in verschiedenen Blättern über die politische Neutralität der Kirchenpflegen, und beabsichtigt endlich eine gründliche Reform der Tätigkeit der hiesigen Kirchenpflege in dem Sinn, daß in jeder Sitzung von einem Mitglied ein Vortrag über ein «religiös-kirchliches» Thema gehalten werde, Zeitschriften abonniert und Bücher und Broschüren von allen gelesen und dann besprochen werden müssen!! Siehst du, so gehen nun meine Saaten auf, und ich stehe daneben und weiß nicht, ob ich lachen oder weinen soll. Ich sollte nun am besten verschwinden […] können. Ich machte gestern einen <pb xml:id="p247" ed="pga"/> langen Besuch bei einer kranken und sehr frommen Frau, die immer zu mir in die Kirche etc. kam und bei der ich mich aufs Neue überzeugte, daß ich auch [an] den scheinbar offensten Ohren in der <hi rend="italic">Hauptsache</hi> gänzlich vorbeirede. Sie nimmt mir ab, was in der <placeName ref="kbga-places-778">Rämismühle</placeName><note xml:id="n02">pietistische Versammlungsstätte.</note> als «Gottes Wort» auch gesagt wird, und legt das übrige mild verzeihend meiner Jugend zur Last, sofern sie es überhaupt merkt. <foreign xml:lang="lat">Mutatis mutandis</foreign> überall die gleiche Situation wie bei <persName ref="kbga-actors-836">Fritz Wieser</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-836">Fritz Wieser</persName> (<date from="1890" to="1952">1890–1952</date>), Bruder von Gottlob Wieser, Redaktor des «Vorwärts», einer linkssozialistischen Zeitung in Basel.</seg></note> oder meinem Bruder <persName ref="kbga-actors-23">Heiner</persName>. Unsere Art, Pfarrer sein zu wollen, ist wohl in sich unmöglich, und wenn nicht irgend eine himmlische Bestätigung unsrer Wege sich ereignen will, so täten wir besser, uns auch einmal auf irgend ein pietistisches oder idealistisches «Gottes Wort» zu verlegen, an dem dann [die fromme] Frau Wilhelm und <persName ref="kbga-actors-836">Fritz Wieser</persName> Freude haben können.</p>
+        <p>Schöner <ref type="pub-" target="32047">Text für nächsten Sonntag</ref>: <ref type="can" subtype="bible" target="Jes.62.6 Jes.62.7">Jes. 62,6–7</ref>, aber wie wird die Predigt werden in dieser zunehmenden Erkenntnis der apriorischen Unmöglichkeit unseres Predigens!? Soviel für heute in Eile.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an <persName ref="kbga-actors-1285">Marguerite</persName> und <persName ref="kbga-actors-518">Dorotheeli</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

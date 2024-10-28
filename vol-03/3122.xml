@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3122">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 1. September 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3122 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 151–152.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3122</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 151-152</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">122</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 119</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 1. September 1916. <ref target="https://kba.karl-barth.ch/objects/9213">KBA 9270.89</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-09-01">1. September 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-09-01">1. September 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3121"/>
+          <ref type="next" target="kbga-texts-3123"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3121"/>
+          <ref type="next-in-corresp" target="kbga-texts-3123"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:26+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:26+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p151" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-09-01">1. September 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>[…] Zunächst eine praktische Mitteilung, die euch hoffentlich nicht zu arg erschreckt; im Notfall werdet ihr sie einfach ignorieren. Am kommenden Montag ziehen wir nämlich <foreign xml:lang="lat">Deo bene volente</foreign> mit unsern Konfirmanden (<persName ref="kbga-actors-26">Nelly</persName> als Leiterin der Meitli) morgens 5 Uhr zu einer großen Pilgerfahrt aus. (<persName ref="kbga-actors-5822">Hochuli</persName><anchor n="1" xml:id="n1511a"/> hat wunderbarerweise nichts dagegen, doch scheinen für einige Bally<note n="1" xml:id="n1511b">Fabriken, in denen Safenwiler Konfirmanden arbeiteten.</note> Buben noch Hindernisse zu bestehen.) <placeName ref="kbga-places-316">Schöftland</placeName> — <placeName ref="kbga-places-456">Ruedertal</placeName> — <placeName ref="kbga-places-457">Zezwil</placeName> — <placeName ref="kbga-places-458">Homberg</placeName> — <placeName ref="kbga-places-76">Leutwil</placeName> — <placeName ref="kbga-places-783">Kulm</placeName> — <placeName ref="kbga-places-316">Schöftland</placeName> — <placeName ref="kbga-places-54">Safenwil</placeName>. Das Materiellste zuerst: würdest du so freundlich sein und in einer Beiz<anchor n="2" xml:id="n1512a"/> in <placeName ref="kbga-places-76">Leutwil</placeName> den «Zobig»<note n="2" xml:id="n1512b">Beiz = Gastwirtschaft; «Zobig» = «zu Abend»: Abendessen.</note> bestellen für 30-40 Mäuler, es darf etwa 70-80 Rappen kosten pro Person: Kaffee und etwas Nahrhaftes dazu, für nachmittags 3 Uhr, damit wir um 4 Uhr heimkönnen. Dazu solltest du ihnen dann als Vertreter aller guten Geister des Seetals eine schöne Geschichte erzählen […], damit sie einmal etwas Rechtes hören. […] Alles natürlich nur bei schönem Wetter. — Und wenn du mit deinen Konfirmanden und dem bewußten Seil auch auf den <placeName ref="kbga-places-458">Homberg</placeName> kämest?</p>
+        <pb xml:id="p152" ed="pga"/>
+        <p><persName ref="kbga-actors-655">Lauterburg</persName> habe ich nun freundlich abgeschrieben. Mein <persName ref="kbga-actors-47">Blumhardt</persName>-Manuscript ist nun auch an ihn ab, was für ein Hin und Her es vorher noch damit gegeben, magst du dem beiliegenden <ref type="kba-objects-id" target="9212">Brief</ref> <persName ref="kbga-actors-330">Ragazens</persName> entnehmen. […] — Ich las übrigens eben einen ausgezeichneten Aufsatz eines Jesuiten <persName ref="kbga-actors-670">P. Lippert</persName> in den «<orgName ref="kbga-actors-9914">Stimmen der Zeit</orgName>» über die Auferstehung der Toten,<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4033"><persName ref="kbga-actors-670">P. Lippert S. J.</persName>, «<title level="a">Wenn unsere Toten auferstehen</title>», in: Stimmen der Zeit, Bd. 91 (= Jg. 46, 1. Hälfte), 1916, S. 101ff.</bibl>
+                    </note> der fast von <persName ref="kbga-actors-240">Kutter</persName> sein könnte. Im <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> knorze ich nun eben an den Felsklötzen <ref type="can" subtype="bible" target="Röm.3.20 Röm.3.31">3,20ff.</ref> Was steckt da alles dahinter; ich werde es kaum in diesem ersten Anlauf alles entdecken und erheben. Es sind ja ganz die gleichen Dinge, die uns im <ref type="can" subtype="bible" target="1.Joh.">1. Johannesbrief</ref> begegnen, nur viel geschliffener und gefährlicher, wenn man will.</p>
+        <closer>
+          <salute>Eiliger Schluß. […] Freudigst und herzlichst</salute>
+          <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-2151">K.</persName> u. <persName ref="kbga-actors-26">N.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

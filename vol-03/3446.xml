@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3446">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. September 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3446 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 520–522.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3446</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 520-522</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">446</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 435</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. September 1921. <ref target="https://kba.karl-barth.ch/objects/11330">KBA 9270.330</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-09-27">27. September 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-09-27">27. September 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3445"/>
+          <ref type="next" target="kbga-texts-3447"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3445"/>
+          <ref type="next-in-corresp" target="kbga-texts-3447"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:48+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:48+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p520" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1921-09-27">27. September 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich bin noch daran, das Schlachtfeld aufzuräumen, da und dort ein vergessenes Komma nachzutragen, habe die 200 Seiten Korrekturen gelesen und bin somit auf dem Punkt, wo es laut S. 245 gilt, «wehmütig aber bestimmt Abschied zu nehmen» von dem vollbrachten <bibl corresp="kbga-bibls-48">Werk</bibl>. Immerhin möchte ich dir noch vorher <hi rend="italic">ganz</hi> herzlich danken für die viele Mühe und Zeit, die du jetzt und während elf Monaten daran gewendet, das Ding zu strählen, ganz abgesehen davon, daß ich ohne dich wahrscheinlich heute noch mißmutig bei <persName ref="kbga-actors-360">Schleiermacher</persName> oder auch im Sozialismus drin steckte und weder den <bibl corresp="kbga-bibls-1497">1.</bibl> noch den <bibl corresp="kbga-bibls-48">2. Römerbrief</bibl> geschrieben hätte und sicher nicht in die seltsame Lage gekommen wäre, nun auch noch den Professor zu machen. Eigentlich ist die Situation gar nicht gut, denn du siehst nach wie vor irgendwie weiter als ich, bist irgendwie der «Andere» in mir, dem «Nächsten», auf den es eigentlich ankommt, und ich fürchte allen Ernstes, daß ich in <placeName ref="kbga-places-27">Göttingen</placeName> sein werde wie eine vertrocknete Zitrone, wenn wir uns im Jahr nur noch ein- oder zweimal sehen […]</p>
+        <p>Der <ref type="kba-objects-id" target="11321">Brief</ref> von <persName ref="kbga-actors-275">Merz</persName> zeigt ja aufs Neue, welche Dimensionen das «Sedan der modernen Theologie» bereits angenommen hat. Was hältst du von der Sache mit der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>»?<note xml:id="n01"><persName ref="kbga-actors-329">M. Rade</persName> erwog den Plan, die bisher im (Eigen-)Verlag der <orgName ref="kbga-actors-5420">Christlichen Welt</orgName> in <placeName ref="kbga-places-41">Marburg</placeName> erschienene «Christliche Welt» an den Verlag<orgName ref="kbga-actors-487"> C. H. Beck</orgName> in <placeName ref="kbga-places-43">München</placeName> übergehen zu lassen und, unter Beibehaltung seiner Herausgeberschaft, einen Schriftleiter für das Blatt zu gewinnen. Die Absicht, <persName ref="kbga-actors-2151">K. Barth</persName> die Schriftleitung zu übertragen, gab er mit Rücksicht auf dessen zeitliche Belastung durch die Göttinger Professur auf. Er bot dann die Aufgabe <persName ref="kbga-actors-275">G. Merz</persName> an, der seinerseits <persName ref="kbga-actors-607">O. Herpel</persName> empfahl. — Der ganze Plan kam in dieser Gestalt nicht zur Ausführung. Die «<orgName ref="kbga-actors-5420">Christliche Welt</orgName>» wurde zum <date when="1922-07-01">1.7.1922</date> von dem Verlag <orgName ref="kbga-actors-722">Friedrich Andreas Perthes</orgName> in <placeName ref="kbga-places-60">Stuttgart</placeName>/<placeName ref="kbga-places-25">Gotha</placeName> übernommen. Schriftleiter wurde <persName ref="kbga-actors-644">H. Knittermeyer</persName>.</note> Mir ists, <persName ref="kbga-actors-275">Merz</persName> sollte nicht ablehnen und die Sache nicht <persName ref="kbga-actors-607">Herpel</persName> überlassen. Solls denn überhaupt sein, daß «wir» irgendwie in den Kommandoturm dieser allerdings etwas havarierten Fregatte eindringen, dann müßte das gut gemacht werden. Daß <persName ref="kbga-actors-329">Rade</persName> eigentlich mich wollte, hörte ich früher schon einmal raunen, nahm es aber nicht ernst. Nun bin ich heilfroh, zu entkommen. Aber <pb xml:id="p521" ed="pga"/> wenn nun einmal einer von «uns» das machen sollte, dann doch sicher <persName ref="kbga-actors-275">Merz</persName>, nicht? Dies zur eventuellen Abstimmung. Die Hauptfrage ist natürlich die, ob wir überhaupt gut tun, uns da auf etwas einzulassen. Nach dem Stand der neuen Forschung über unser Verhältnis zur Kirche und zu den «Schwachen» im allgemeinen können wir es jedenfalls nicht ganz von der Hand weisen, es uns zu überlegen. Ist das nun der Beginn der von mir längst vorgesehenen Periode, wo wir anfangen, uns mit dem Kirchenregiment zu befassen? Oder ist das die dritte Versuchung [vgl. <ref type="can" subtype="bible" target="Mt.4.8 Mt.4.11">Mt 4,8f.</ref>] in einer neuen Form? Oder beides? Wollen wir sagen: es sei nun an dem heillosen Risiko meines akademischen Versuchs gerade genug? Oder wollen wir sagen: eben gerade jetzt immer feste drauf, wir sind jetzt in der Mitte der dreißiger Jahre, haben nur einmal zu leben und müssens irgendwie riskieren? Wollen wir mit bösen entschlossenen Gesichtern einen langen zäh und vorsichtig zu kämpfenden Kampf aufnehmen oder auch, mehr desperadomäßig, nun etwa einen Jahrgang mit unerhörten Angriffen gegen jedermann füllen und dann das Schiff irgendwo auf den Sand laufen lassen? Das alles sind Möglichkeiten. Wärs nicht an sich ausgezeichnet, das Gesicht der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>» auf einmal «steif nach Jerusalem»<note xml:id="n02">Aus dem Lied <bibl type="song" corresp="kbga-songs-132">«Kommt, Kinder, laßt uns geben» von G. Tersteegen</bibl>: «Ein jeder sein Gesichte mit ganzer Wendung richte steif nach Jerusalem» (Originalfassung, s. <bibl corresp="kbga-bibls-3702"><title level="m">Gerbard Tersteegen’s geistliches Blumengärtlein inniger Seelen, nebst der Frommen Lotterie …</title>, Stuttgart o.J., S. 328).</bibl></note> zu kehren, von der «Christlichen Welt» aus […] alle die «<orgName ref="kbga-actors-4787">Kirchenblättler</orgName>» anzugreifen, in der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>» jene Rundschauen, Bücherecken, Miszellen etc. vom Stapel zu lassen, auf die wir uns schon seit sechs Jahren gelegentlich freuten? Aber vielleicht wäre das alles <hi rend="italic">zu</hi> gut, um <hi rend="italic">ganz</hi> gut zu sein. Jedenfalls ist die Sache Zeugnis von den eschatologischen Möglichkeiten, mit denen heute zu rechnen ist und unter denen sicher auch deine (gewiß nicht umsonst bereits geträumte!) Berufung auf einen deutschen Lehrstuhl figuriert.</p>
+        <p>Hier steht alles im Zeichen der Pfarrwahl. Eben komme ich aus der entscheidenden Versammlung, in der als Einigungskandidat <persName ref="kbga-actors-510">Hans Brändli</persName>, früher Pfarrer in <placeName ref="kbga-places-432">Pitasch</placeName>, jetzt in <placeName ref="kbga-places-66">Zürich</placeName>, aufgestellt wurde. […] Die Versammlung, aus der ich eben komme, war nicht gut. Es wurde armsdick über den «Frieden in der Gemeinde» geredet, der nun wieder hergestellt werden müsse. […] <pb xml:id="p522" ed="pga"/> Und die ganze Sache verlief in einer unheimlichen Einmütigkeit, über die ich mich nicht freuen kann, weil auf keiner Seite irgendein Elan dabei ist. Über mich wurde schonungsvoll kein Wort gesagt, nur sehr viele Worte über den lieben Frieden. Nun, <foreign xml:lang="lat">habeant sibi!</foreign> […] Die Wahl ist am <date when="1921-10-09">9. Oktober</date>, am gleichen Tag halte ich meine <ref type="pub-" target="../volume/44/p190#p190">Abschiedspredigt</ref>. Am <date when="1921-10-13">13.</date> ist der Aufbruch.</p>
+        <p>Letzten Donnerstag war ich in <placeName ref="kbga-places-1">Aarau</placeName> an der <orgName ref="kbga-actors-9779">Synode</orgName>. […] Alle waren sehr freundlich. […] Nun ist auch diese Episode und der Großratssaal<note xml:id="n03">Regelmäßiger Versammlungsort der <orgName ref="kbga-actors-9779">aargauischen Synode</orgName>.</note> hinter mir. — Am Sonntag waren Dr. <persName ref="kbga-actors-783">Spoendlins</persName>, Dr. <persName ref="kbga-actors-567">Geyer</persName>-Nürnberg, <persName ref="kbga-actors-23">Heiner</persName>, <persName ref="kbga-actors-246">Fritz Lieb</persName> und seine Schwester hier, ein Massenaufmarsch! Mit Geyer gabs ein gutes Klingenkreuzen, und wir schieden nicht ohne Hochachtung. Er ist ein seltsames Gefüge von verschiedenen geologischen Schichten und weilt nun für 14 [Tage] im Tempel zu <placeName ref="kbga-places-15">Dornach</placeName>.<note xml:id="n04">Das <placeName ref="kbga-places-1383">Goetheanum</placeName>, Zentrum der Anthroposophen in <placeName ref="kbga-places-15">Dornach</placeName> bei Basel.</note> Kommst du nicht noch einmal <choice><sic>hieher</sic><corr type="misprint" resp="sm">hierher</corr></choice>? Oder sehen wir uns erst auf dem <placeName ref="kbga-places-100">Bergli</placeName> wieder? Ich werde vom 1<date when="1921-10-13">3.</date> ab dort sein.</p>
+        <closer>
+          <salute>Herzlichen Gruß!</salute>
+           <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p><persName ref="kbga-actors-835">M. Werner</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-835">Martin Werner</persName> (1887–1964), Pfarrer in Krauchthal (Kanton Bern), seit 1928 Prof. für systematische Theologie in Bern, Anhänger <persName ref="kbga-actors-1243">Albert Schweitzers</persName>, wurde zum entschiedenen Gegner von <persName ref="kbga-actors-2151">Barths</persName> Theologie.</seg></note> ist einer der Beachtlichsten unter denen, die uns «nichts abkaufen». Du mußt ihn im Auge behalten, eventuell gelegentlich gegen ihn vorgehen, wenn er sich zu weit vorwagen sollte!</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

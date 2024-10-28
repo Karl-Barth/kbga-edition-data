@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3284">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 8. Juli 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3284 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 336–338.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3284</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 336-338</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">284</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 276</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 8. Juli 1919. <ref target="https://kba.karl-barth.ch/objects/10122">KBA 9270.208</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-07-08">8. Juli 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-07-08">8. Juli 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3283"/>
+          <ref type="next" target="kbga-texts-3285"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3283"/>
+          <ref type="next-in-corresp" target="kbga-texts-3285"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:36+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:36+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p336" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1919-07-08">8. Juli 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Könnten wir uns nicht noch einmal sehen vor der Alpenreise? Wenns nicht sein kann, so besprechen wir das Nötige hinter der <placeName ref="kbga-places-1407">Jungfrau</placeName>, aber ich hätte jetzt schon das Bedürfnis. Es ist überall soviel Fragliches und Ungeklärtes, daneben die paar verheißungsvollen «vorlaufenden Strahlen» — was für eine Zeit! Hier kommt ein neuer <ref type="kba-objects-id" target="10110">Brief</ref> von Herrn <persName ref="kbga-actors-607">Herpel</persName>. Wirds dir nicht auch etwas bänglich, wenn du das liesest? Die guten Leute! Und wir, wie werden wir es anstellen, ihnen vor allem zu sagen, daß das mit der Widerlegung von <persName ref="kbga-actors-706">Naumann</persName> und Konsorten nicht so rasch geht, daß man ein «Gotteswerk» nicht mit einem «<orgName ref="kbga-actors-8244">Wochenblatt für das evangelische Haus</orgName>»<note xml:id="n01"><persName ref="kbga-actors-607">Herpel</persName> hatte <persName ref="kbga-actors-2151">Barth</persName> um Mitarbeit an der von ihm herausgegebenen Zeitschrift «Der Christliche Demokrat» mit dem Untertitel «Wochenblatt für das evangelische Haus» gebeten. Die Zeitschrift wurde noch während ihres ersten Jahrgangs umbenannt in: «<orgName ref="kbga-actors-8244">Das neue Werk. Der Christ im Volksstaat</orgName>».</note> («Nachbarin, euer Fläschchen!»)<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-647">Goethe, <title level="m">Faust</title> I, 3834.</bibl>
+                    </note> anfängt und daß das mit der «<hi rend="italic">inseitigen</hi> Zukunft» gerade der <foreign xml:lang="grc" rend="Ell">παλαιὸς</foreign> ist, der abgelegt werden muß [vgl. <ref type="can" subtype="bible" target="Eph.4.22">Eph 4,22</ref>]? Was tun, um sich [in] dieser religiös-sozialen Hurrastimmung, in der das «Mit Gott für Kaiser und Vaterland!» doch immer noch etwas <pb xml:id="p337" ed="pga"/> nachklingt, überhaupt Gehör zu verschaffen für den Hinweis auf das <foreign xml:lang="lat">totaliter aliter</foreign> des Himmelreichs? Wir werden bedächtigst an diese Sache herangehen müssen. Hast du schon Gedanken darüber, wie? Aus dem Artikelschreiben gibts natürlich vorläufig nichts und wahrscheinlich nie etwas. Da könnten wir auch ins «<orgName ref="kbga-actors-9850">Monatsblatt</orgName>» schreiben! Könntest du ihm nicht gleich in deiner Antwort auf seine Anfrage ein paar Lichter aufzustecken versuchen? […] Wollte der Mann jetzt doch vor allem von unsern Büchern Notiz nehmen, damit die Unterhaltung etwas substantieller wird! […]</p>
+        <p>Denk, gestern hat mich ein Geist (hoffentlich kein ganz schlechter oder schwacher) getrieben «<ref type="pub" target="48058">Ein Wort an das aargauische Bürgertum</ref>» in den «<orgName ref="kbga-actors-6494">Freien Aargauer</orgName>» zu schreiben über die am Sonntag verpaßte Gelegenheit, etwas gegen den <orgName ref="kbga-actors-8745">Bolschewismus</orgName> zu tun.<note xml:id="n03">Ein Bürgerlicher hatte gegen einen gemäßigten <orgName ref="kbga-actors-6132">Sozialdemokraten</orgName> die Wahl in die kantonale Regierung gewonnen. <persName ref="kbga-actors-2151">Barth</persName> bezeichnet das in dem Artikel (<bibl corresp="kbga-bibls-4157">Neuer Freier Aargauer, Jg. 14, Nr. 157, vom <date when="1919-07-10">10.7.1919</date></bibl>) als verpaßte Gelegenheit, den auf Umsturz drängenden radikalen Sozialisten «den Wind aus den Segeln zu nehmen».</note> […] Die «Sache» kommt darin allerdings nur in einer gewissen Gebrochenheit oder Gehemmtheit der Sprache zum Ausdruck. […] Es tönte ursprünglich Alles viel kräftiger, direkter, mit vielen «ihr» und «euch», die nun verschwunden sind. Sag mir dann, ob du das kleine Unternehmen «im untern Stockwerk» für nützlich hältst. […] Ich hatte gestern […] einen Pfarrer L. aus […] (<placeName ref="kbga-places-105">St. Gallen</placeName>) [zu Besuch], der hier eine Schwester hat und mich mit kopfschüttelnder Ver-/Be- wunderung predigen hörte, um mir dann auseinanderzusetzen, ihm sei eben das Wichtigste in der Welt: er selbst, hier aber fühle er sich — im Gegensatz zu mir und im Einklang mit <persName ref="kbga-actors-313">Paulus</persName> <ref type="can" subtype="bible" target="Röm.8">Römer 8</ref> — seines Heiles gewiß, Bücher lese er keine, er habe das nie gekonnt, wohl aber habe er schwere Erfahrungen hinter sich, seine Gemeinde sei fast in corpore eine Schmugglergesellschaft, aber daran sei <hi rend="italic">er</hi> doch wirklich nicht mitschuldig (dies unter Gelächter), meine Auffassung vom Leben sei naturhaft, seine aber auf die Gnade gestellt, ich nehme die Sache viel zu schwer («Sie sind ja ganz bleich!»), er aber sei ein einfacher Mensch usw. — alles in höchster Gesprächigkeit und Sicherheit. Es ist doch einfach <hi rend="italic">alles</hi> möglich hinieden!</p>
+        <p>An <placeName ref="kbga-places-66">Zürich</placeName> denke ich auch mit wachsendem Befremden. Die Art, wie in den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>» der unglückliche <persName ref="kbga-actors-1461">Bauhofer</persName> zuerst <milestone xml:id="m22" unit="page"/> 
+               <pb xml:id="p338" ed="pga"/> zur Mitarbeit eingeladen S. 247! und dann von zwei bewährten Kämpen abgemurkst wird,<note xml:id="n04">
+                        <bibl corresp="kbga-bibls-4158"><persName ref="kbga-actors-1461">O. Bauhofer</persName>, <title level="a">Christentum, Kultur, Staat. Ein Beitrag zur Diskussion über das Militärproblem</title>, in: Neue Wege, Jg. 13 (1919), S. 247–254.</bibl> Dazu im folgenden Heft (<date when="1919-06">Juni 1919</date>): <bibl corresp="kbga-bibls-4159"><persName ref="kbga-actors-661">R. Lejeune</persName>, <title level="m">Christentum, Kultur, Staat. Eine Entgegnung</title>, ebd. S. 281–293</bibl>; <bibl corresp="kbga-bibls-4160"><persName ref="kbga-actors-502">E. Blum</persName>, <title level="m">Christentum, Kultur, Staat. Eine Erwiderung</title>, ebd. S. 294–299.</bibl>
+               </note> finde ich gänzlich unnobel und widerchristlich. <persName ref="kbga-actors-457">Bader</persName> kündigte mir bereits eine Konferenz der zukünftigen Deutschland-Apostel<note xml:id="n05">Die schweizerischen religiös-sozialen Teilnehmer an der <orgName ref="kbga-actors-9864">Konferenz</orgName> in <placeName ref="kbga-places-334">Tambach</placeName>. Ursprünglich wollten sie in noch größerer Anzahl teilnehmen, als es dann geschah.</note> an. Das fehlt nun gerade noch, daß wir zuerst <persName ref="kbga-actors-330">Ragaz</persName> ins Gilet heulen müssen! Was wird da in den Hundstagen noch alles ausgebrütet werden? Ist <persName ref="kbga-actors-240">Kutter</persName> auch von der Partie? Wie wärs, wenn man einen Extrazug rüstete mit Schlafwagen und Druckerei-Einrichtung nach berühmten Vorbildern? […] Welche Perspektiven! «Ich kann mir nicht helfen …», es droht da allerlei.</p>
+        <p>Ich las diese Woche <persName ref="kbga-actors-833">Wendlands</persName> Buch über die hellenistische Kultur<note xml:id="n06">
+                        <bibl corresp="kbga-bibls-4161"><persName ref="kbga-actors-833">P. Wendland</persName>, <title level="m">Die hellenistisch-römische Kultur in ihren Beziehungen zu Judentum und Christentum</title>, in: 
+                            H. Lietzmann (Hrsg.), <title level="m">Handbuch zum Neuen Testament</title>, Bd. 1, Teil 2, Tübingen 
+                        1912<edition rend="sup">
+                                2.3
+                            </edition>.</bibl>
+                    </note> und erstaunte über die Vollständigkeit, in der die christliche <hi rend="italic">Kirche</hi> bis und mit <persName ref="kbga-actors-330">Ragaz</persName> (um nicht zu sagen bis und mit <hi rend="italic">uns</hi>) schon <hi rend="italic">vor</hi> und <hi rend="italic">ohne</hi> Christus vorhanden und in Betrieb war. Es fehlt von allen Nuancen und Möglichkeiten kaum eine, und man kann sich mit <persName ref="kbga-actors-833">Wendland</persName> nicht genug wundern, daß dann auf einmal auf eine Zeit lang unter 1000 Parallelen diese eine war, die bei aller Parallelität <hi rend="italic">keine</hi> Parallele war. <persName ref="kbga-actors-833">Wendland</persName> hütet sich freilich wohl, auf diese konstatierte Tatsache näher einzutreten; es hätte einen zu wüsten Strich durch sein schönes buntes Bild gegeben. Ich bin nun an seiner Darstellung der neutestamentlichen Literaturformen,<note xml:id="n07">Ders., <bibl corresp="kbga-bibls-4162"><title level="m">Die urchristlichen Literaturformen</title>, a. W. Bd. 1, Teil 3, Tübingen
+                            1912<edition rend="sup">
+                                2.3
+                            </edition>.</bibl>
+               </note> wo er langweilig wird. Man kann nur von Zeit zu Zeit ein Warum? an den Rand setzen, wenn er dem Feuer wieder zu nahe kommt und kopfschüttelnd etwas feststellen muß von Auferstehungsglaube und dgl., ohne zu merken, was eigentlich los ist. […]</p>
+        <closer>
+          <salute>Ich freue mich auch schelmisch auf die Reise. […] Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

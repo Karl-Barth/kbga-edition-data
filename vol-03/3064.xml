@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3064">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 15. September 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3064 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 81–82.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3064</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 81-82</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">64</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 61</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 15. September 1915. <ref target="https://kba.karl-barth.ch/objects/8918">KBA 9370.109</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-09-15">15. September 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1915-09-15">15. September 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3063"/>
+          <ref type="next" target="kbga-texts-3065"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3063"/>
+          <ref type="next-in-corresp" target="kbga-texts-3065"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:22+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:22+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p081" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            <date when="1915-09-15">15. September 1915</date>
+          </dateline>
+          <salute>Lieber Freund,</salute>
+        </opener>
+        <p>[…] Was du von <placeName ref="kbga-places-412">Pratteln</placeName> schreibst, hat mich sehr interessiert. Mir macht jede Nummer der «<orgName ref="kbga-actors-4867">Neuen Wege</orgName>» mehr Mühe. Dieses Ausspielen des lieben Gottes gegen die andern und das Drängen auf Einzeldurchbrüche, wo doch alles viel radikaler erfaßt werden sollte, wird mir immer fremder. Es ist eine Gefühlsdiktatur, die der Mann in <placeName ref="kbga-places-66">Zürich</placeName> [<persName ref="kbga-actors-330">Ragaz</persName>] ausüben möchte, die uns in immer neue Erregungen, Begeisterungen, Tiefen und Nöte und Erhebungen hineinreißen möchte, aber ohne jede weiterschauende Orientierung. Ich habe das wieder bei dem ernsten Fall des Waadtländerlehrers <persName ref="kbga-actors-482">Baudraz</persName><note xml:id="n01">Fall <persName ref="kbga-actors-482">Baudraz</persName>: ein Waadtländer Lehrer, der Dienstverweigerer wurde. Dazu: <bibl corresp="kbga-bibls-3949">«Neue Wege» 1915, S. 422–427.</bibl>
+               </note> denken müssen: ich bewundere die Haltung seines Gewissens, aber ich könnte die Verantwortung nicht übernehmen, durch mein Wort auch nur einen Einzigen in solche Entscheidungen hineingetrieben zu haben. Es sei denn, daß ich sie selber klar und nicht nur gefühlsmäßig aus Abscheu vor dem Krieg heraus, sondern aus der Tiefe und Kraft meines Gewissens als <hi rend="italic">meinen</hi> Weg erkannt hätte. Das kann ich für mich nicht sagen, es hieße ein Gesetz machen aus dem Evangelium und den Leuten Lasten auflegen, die über alle Kraft gehen, wenn man so in dieser Richtung drängt, wie <persName ref="kbga-actors-330">Ragaz</persName> es tut. Dagegen wäre die Lektüre des Galaterbriefes sehr zu empfehlen. Ich habe am Sonntag sehr ausführlich über den Dienstverweigerer im <placeName ref="kbga-places-348">Waadtland</placeName> <milestone xml:id="m6" unit="page"/> 
+               <pb xml:id="p082" ed="pga"/> gepredigt. Mir scheint, wie ich den Fall ansehe, die Frage der Ethik, um die es hier geht, liege so, daß man die Vorläufigkeit aller Dinge erkennt und das Absolute aus den Gegenwartsentscheiden zurückverlegt in die Innerlichkeit des Hoffens und Trachtens nach Gott, und daß man nur das zum Gewissen reden läßt, was nach reifer Überlegung als das im Augenblick Notwendige und Gebotene erscheint. Ich erkenne die ganze Gefährlichkeit dieser Stellungnahme und höre auch die Einwände, daß die Verteidigung des kleinen Friedensgebietes zwischen <placeName ref="kbga-places-295">Rhein</placeName> und <placeName ref="kbga-places-1040">Rhone</placeName> als sittliche Pflicht zu verkünden sei. Ich komme ja faktisch auch nicht weiter, wenn ich alles ehrlich zu Ende denke, nur bringe ich es allerdings nicht fertig, diese meine Haltung mit der Bergpredigt in Beziehung zu setzen. Und da fängt dann meine eigene Not an. «Gebet dem Kaiser, was des Kaisers ist …! und Gott was Gottes ist …!» [<ref type="can" subtype="bible" target="Mt.22.21">Mt 22,21</ref>]. Aber was heißt das dann! — Der Vorschlag der Bibellektüre ist vorzüglich. Ich bin sehr dafür zu haben. Wollen wir zwei nicht allein einmal etwas versuchen? Am Ende mit unsern Frauen als Laien? — […] Ich war über Sonntag in <placeName ref="kbga-places-5">Basel</placeName>. Dort ist man nahe am Krieg. Ich sah eine Fliegerbeschießung aus aller Nähe über dem <placeName ref="kbga-places-295">Rhein</placeName>. <persName ref="kbga-actors-420">Wernle</persName> erzählte allerlei interessante Dinge von einem Besuch von <persName ref="kbga-actors-329">Rade</persName>. Die Empfindlichkeiten Rades, von denen du erzählst, sind in der Tat seltsam. […]</p>
+        <closer>
+          <salute><persName ref="kbga-actors-26">Nelly</persName> wünsche ich alles Gute und grüße euch drei herzlich.</salute>
+<salute>Dein getreuer</salute>
+          <signed><persName ref="kbga-actors-403">Ed. Th.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

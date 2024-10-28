@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3069">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 8. Oktober 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3069 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 90–91.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3069</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 90-91</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">69</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 66</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 8. Oktober 1915. <ref target="https://kba.karl-barth.ch/objects/8950">KBA 9370.114</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-10-08">8. Oktober 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1915-10-08">8. Oktober 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3068"/>
+          <ref type="next" target="kbga-texts-3070"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3068"/>
+          <ref type="next-in-corresp" target="kbga-texts-3070"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:22+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:22+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p090" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1915-10-08">8. Oktober 1915</date>
+          </dateline>
+          <salute>Liebe <persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName>,</salute>
+        </opener>
+        <p>Wie freue ich mich über die große Freude, die euch widerfahren ist! Ich freue mich insbesondere, daß es ein Büblein<note xml:id="n01">Das Büblein ist der spätere Theologe <persName ref="kbga-actors-24">Markus Barth</persName> (geb. 6.10.1915), heute Prof. für NT in Basel.</note> ist, das nun in euerm Hause seinen Lebensweg beginnen und nach und nach seine ganze ihm vorgeschriebene Lebensbahn durchlaufen wird. Und nun soll ich also würdig sein, als Pate am vielversprechenden Lebensweg eures Sohnes zu stehen und ihm vielleicht hie und da eine Freude zu machen oder auch einen Dienst oder eine Hilfe erweisen zu können! Ich danke euch herzlich für dieses Zeichen eurer Freundschaft und eures Vertrauens und nehme es mit aller Freude an.</p>
+        <p>[…] Über das was du, <persName ref="kbga-actors-2151">Karl</persName>, mir zu meinem Artikel in der «<orgName ref="kbga-actors-4700">Glocke</orgName>» schreibst, sollten wir mündlich einmal reden. Es ist mir sehr erhellend gewesen. Neuerdings habe ich innerlich wieder sehr zu tun mit dem Problem des Pfarrerberufs. Ich komme immer mehr zur Erkenntnis, daß es eigentlich ein grundsätzlich verfehlter Beruf sei. Nun ist das ja freilich keine Entdeckung, aber mir ist es von allen Seiten mit aller Eindringlichkeit klar geworden. Man wäre wahrhaftig oft genug auch hier an dem Punkte, den Dienst zu verweigern und in die Freiheit eines entlasteten Gewissens durchzustoßen, statt den ganzen «Zauber» des Pfarrerberufes auf sich zu nehmen, den Gott und Menschen nicht ernst nehmen <pb xml:id="p091" ed="pga"/> können. Ein solcher Teildurchbruch wäre auch dein Antrag an die <orgName ref="kbga-actors-9779">Synode</orgName>. Ich bin grundsätzlich absolut einverstanden damit. Was mich aber immer noch hindert, ganz mitzutun, das ist die Scheu, vor all den Pfarrern und Laien nun einmal so stark und grundsätzlich reden zu müssen, wie das deine Motion erfordert. Werden wir dazu imstande sein? Ist es schon Zeit hiezu? Ich jedenfalls habe mich sehr zu überwinden, wenn ich so alles hergeben und herausstellen muß. Meinst du, es komme dann zu etwas? Verstehe mich recht, ich meine nicht zu einer Zustimmung der Synode, aber wenigstens zu einer Erschütterung der Gemüter und Gewissen? Es wird ein sehr starker Schlag werden müssen, geführt aus gesammelter Kraft, sonst würden wir besser noch weiter schweigen. Bitte, schreib mir noch darüber. Denkst du nicht, bevor wir Aktionen von solcher Tragweite unternehmen, wäre es gut, sich noch kurz zu besprechen und zu verständigen, denn die «Sache» gehört ja ein wenig uns allen. Ich sage das natürlich nicht als Vorwurf, geschieht dein Schritt, so werde ich auch dabei sein und helfen, so gut ich kann.</p>
+        <p>Ich schließe mit herzlichen Wünschen für Mutter und Kind und allem Dank für euer Freundschaftszeichen als euer</p>
+        <closer>
+          <signed><persName ref="kbga-actors-403">Eduard Th.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

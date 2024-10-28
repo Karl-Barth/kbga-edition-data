@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3226">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 1. April 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3226 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 272–274.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3226</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 272-274</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">226</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 219</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 1. April 1918. <ref target="https://kba.karl-barth.ch/objects/9746">KBA 9270.170</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-04-01">1. April 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-04-01">1. April 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3225"/>
+          <ref type="next" target="kbga-texts-3227"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3225"/>
+          <ref type="next-in-corresp" target="kbga-texts-3227"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p272" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1918-04-01">1. April 1918</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Ihr werdet gewiß den Ostermontag nach Abschluß all der Offensivstöße auch recht genießen und zu allerhand Retablierungsarbeiten verwenden, wozu auch Briefe gehören. Gern und freudig mache ich mit euch den Anfang. Es waren so schöne Stunden am Samstag bei euch drüben, und ich kam vom gehabten Austausch und der freien Bewegung freudig gehoben wieder zurück. Habt vielen Dank; wenns irgend sein kann, verschaffe ich mir solchen Ausbruch nächstes Jahr wieder, hoffentlich sind wir dann noch alle an Ort und Stelle, ihr nicht etwa in dem langweiligen <placeName ref="kbga-places-437">Frauenfeld</placeName> (schon beim Namen muß man ja gähnen!). Den Heimweg über den <placeName ref="kbga-places-1345">Böhler</placeName> konnte ich trotz Wind und Regenguß in der respektablen Frist von 2 St. 40 Min. zurücklegen, ohne übernormale Erschöpfung und wurde […] liebreich empfangen. Die <ref type="pub-" target="../volume/37/p113#p113">Osterpredigt</ref> gestern Morgen kam dann aus der schönen Ruhe heraus mit einiger «Parrhesie», wie die Pietisten sagten, daher; […] aber wir sind also gewitzigt, daß <hi rend="italic">das</hi> «es» nicht ist, und [wir] <pb xml:id="p273" ed="pga"/> uns keinen «Kaiserschlacht»-Stimmungen hingeben, da ist der Teufel dahinter. Beim <ref type="pub-" target="../volume/37/p123#p123">Abendmahl</ref> verbreitete das Gedicht von <persName ref="kbga-actors-47">Blumhardt</persName> aus den «Gedanken»<note xml:id="n01">Das neun Strophen zu je acht Zeilen umfassende Gedicht beginnt mit den Worten: «Auf! du Volk des Herrn!» <bibl corresp="kbga-bibls-4119">C. Blumhardt, <title level="m">Gedanken aus dem Reiche Gottes …</title>, 1895, S. 156–158.</bibl> <persName ref="kbga-actors-47">Blumhardt</persName> führt es (a.a.O. S. 156) folgendermaßen ein: «Wir haben uns die Hand zum Bunde gereicht, nicht mehr in erster Linie für uns und für die christliche Liebe einzutreten, sondern für die Liebe zu Gott, für die Agape, in welcher zuerst bedacht werden soll, was die Rechte und Wahrheiten Gottes sind, ehe an eigene Wünsche gedacht werden kann. Diesem Bunde gelten die folgenden Verse, die unserer Sehnsucht nach einer neuen Gestaltung der Dinge fürs Reich Gottes in der Agape entsprungen sind.»</note> Klarheit und Freudigkeit. Hätten wir nur mehr solches darzubieten, im Ganzen sind doch eben die Schätze der Kirche nicht gerade reich, und alle an sich sehr begrüßenswerten liturgischen Reformen werden daran scheitern, daß wir dafür so wenig nicht bloß stimmungsvoll sein wollendes sondern intelligentes Material besitzen. Der Ausflug nach <placeName ref="kbga-places-438">St. Urban</placeName> mußte wegen des Wetters unterbleiben. […] Ich habe immer die Halluzination, wir sollten einmal unsre Kinder und vielleicht auch Kirchenpfleger irgendwo auf einem hohen Berg zusammenführen, um ihnen einen Ausblick auf die wirkliche <foreign xml:lang="lat">una sancta catholica</foreign> zu gewähren, nach dem man jetzt mit Bezirkstagen etc. vergeblich hascht. […]</p>
+        <p>Diese Woche erwartet mich allerlei: morgen Vormittag eine «große» Hochzeit einer frühern Konfirmandin, die nun unsere Nachbarin wird, nachmittags wieder so eine seltsame Beerdigungsszene auf dem Friedhof vor der katholischen <placeName ref="kbga-places-1073">Rothacker</placeName>kirche mit lauter katholischen Zuhörern, zu Ehren eines protestantischen Wirtes, der nie in die Kirche kam und überhaupt nicht viel wollte als Geld verdienen, die Situation wird wieder ganz missionsmäßig sein und insofern eigentlich verheißungsvoll — wenn nur der kirchliche Druck nicht dabei wäre und dafür mehr innerer Druck, um an all den Fesseln ein wenig zu rütteln. Am Mittwoch und Donnerstag muß ich dann als Präsident von Schulzimmer zu Schulzimmer wandeln, Händedrücke mit Bezirksschulrat H., Inspektor S. und andern Lehr- und Amtspersonen austauschen, zuletzt einem Examenessen mit heitern Worten vorstehen. O Humor! […]</p>
+        <p><persName ref="kbga-actors-26">Nelly</persName> schlägt <persName ref="kbga-actors-1285">Marguerite</persName> vor, an <persName ref="kbga-actors-7299">Vrenelis</persName> Hochzeit<note xml:id="n02">Hochzeit der Tochter <persName ref="kbga-actors-240">H. Kutters</persName> mit <persName ref="kbga-actors-725">Theo Pestalozzi</persName>. Die Hochzeit fand dann erst im Herbst statt. <rs type="person" ref="kbga-actors-26 kbga-actors-2151">Barths</rs> konnten wegen Grippe nicht teilnehmen.</note> das Gdur-Violinkonzert von <persName ref="kbga-actors-281">Mozart</persName> gemeinsam vorzutragen. Ich möchte lebhaft unterstützen. Es ist etwas vom Festlichsten, was ich kenne; ich durfte gestern ein paar Akkorde mitklimpern. Heute wandere ich mit <persName ref="kbga-actors-5802">Fränzeli</persName> nach <placeName ref="kbga-places-360">Zofingen</placeName>, meine Mähne soll gestutzt werden, und ich brauche neue Hefte für den <bibl corresp="kbga-bibls-1497">Römer<milestone xml:id="m18" unit="page"/><pb xml:id="p274" ed="pga" break="no"/>brief</bibl>!! Im Alkoholfreien werden wir eine feierliche Chocolade trinken.</p>
+        <closer>
+          <salute>Herzlichen Gruß</salute>
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

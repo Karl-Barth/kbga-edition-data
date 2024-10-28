@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3242">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 23. Juli 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3242 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 286–288.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3242</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 286-288</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">242</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 234</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 23. Juli 1918. <ref target="https://kba.karl-barth.ch/objects/9798">KBA 9270.178</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-07-23">23. Juli 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-07-23">23. Juli 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3241"/>
+          <ref type="next" target="kbga-texts-3243"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3241"/>
+          <ref type="next-in-corresp" target="kbga-texts-3243"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:33+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:33+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+        <pb xml:id="p286" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1918-07-23">23. Juli 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich bin wieder gesund, noch nicht völlig, aber fast, jedenfalls wieder emsig an <bibl corresp="kbga-bibls-1497"><ref type="pub-" target="16012">Römer 8</ref></bibl>. […] <persName ref="kbga-actors-23">Heiner</persName> ist da und lag ebenfalls darnieder. […] Am Sonntag war nun einmal einfach keine Pre<pb xml:id="p287" ed="pga" break="no"/>digt [wegen der Grippeepidemie]. Das Läuten wurde scheints sehr vermißt. Die Angst der Safenwiler, besonders der besseren, vor der Seuche ist groß. Sie haben eiligst die Schule geschlossen, und auch die Unterweisung muß ich nun zutun, was mir zwar augenblicklich ganz recht ist. In den Fabriken wird gegurgelt, was das Zeug hält. Niemand will sterben.</p>
+        <p>Mit <persName ref="kbga-actors-23">Heiner</persName> ists diesmal sehr erfreulich. Wir begrüßen uns täglich in längern Gesprächen von Bergen zu Bergen hinüber, wundern uns über einander und lassen uns doch wieder gelten, er mich als «Orphiker», wie es solche zu <persName ref="kbga-actors-322">Platos</persName> Zeiten gegeben habe, die dem Philosophen durch unentwegte metaphysische Behauptungen den Rohstoff zu seinen feinen Turmbauten liefern mußten. Dem <persName ref="kbga-actors-313">Paulus</persName> traut er nicht recht, das sei so einer aus <placeName ref="kbga-places-1363">Kleinasien</placeName>, aus der gleichen Gegend, wo auch die <persName ref="kbga-actors-9657">Magna Mater</persName> und der «Gott mit der Mauerkrone» verehrt wurde. Oft scheint aber der ganze Gegensatz auf den zwischen unserer beweglichen bildhaften Ausdrucksweise und seiner korrekten, auf ein <hi rend="italic">System</hi> der Erkenntnis hinzielenden [Ausdrucksweise] hinauszulaufen. In den Ergebnissen sind überraschend viele Parallelen. Sogar eine unsichtbare Körperwelt kommt bei ihm jetzt vor. Und daß wir gegenüber <persName ref="kbga-actors-492">Bergson</persName> und Genossen mit den Idealisten zusammengehören, das ist uns auch deutlich geworden. Wo steckt eigentlich der Gegensatz? Ich höre nur immer die Einladung zur richtigen Begriffsbildung, und das ist nun allerdings bisher unsre «Arbeit» nicht gewesen. Müßte sie es werden? Und wenn nicht, an was «arbeiten» wir eigentlich?</p>
+        <p>Morgen treffen auch noch <persName ref="kbga-actors-669">Karl Lindt</persName> und <persName ref="kbga-actors-668">Trudi</persName> hier ein, ein sehr gewichtig tätiges Brautpaar nach allem, was man hört. Hätte ich nur meine Abschreiberei schon hinter mir! Gerade weil es kein Systembau ist, sondern alles im Fließen, ist das Wiederkäuen eine wenig förderliche Arbeit, bei der ich oft im Zweifel bin, ob der liebe Gott das nun wirklich wolle oder ob das Ganze nicht besser als gelungene Schreibeübung in einer Schublade verschwunden wäre. Ich jedenfalls bin fertig mit dem <bibl corresp="kbga-bibls-1497">Buch</bibl>, sowie es fertig ist. Wie freue ich mich jetzt schon auf all das Mensch<pb xml:id="p288" ed="pga" break="no"/>liche und Wissenschaftliche, das ich für nachher vorhabe! Schreibe mir doch noch wegen des <ref type="pub-" target="../volume/16/p003#p003">Vorworts</ref> etwas Wegweisendes. Ich habe zu wenig Überblick. […]</p>
+        <p>Am Montag vor 8 Tagen waren wir in <placeName ref="kbga-places-418">Madiswil</placeName>,<note xml:id="n01">In <placeName ref="kbga-places-418">Madiswil</placeName> (Kanton Bern) war <persName ref="kbga-actors-27">Peter Barth</persName> seit 1918 Pfarrer.</note> hatten Gespräche mit Mutter <persName ref="kbga-actors-329">Rade</persName> und vernahmen, daß die deutschen Theologen noch immer grundsätzlich an nichts seien außer an allerhand Fakultätsgeschichten. <persName ref="kbga-actors-311">Otto</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-311">Rudolf Otto</persName> (1869–1937), Prof. für systematische Theologie in Breslau, Göttingen und Marburg.</seg></note> ist Nachfolger <persName ref="kbga-actors-181">Herrmanns</persName>, <persName ref="kbga-actors-792">Stephan</persName> <hi rend="italic">nicht</hi> Nachfolger Ottos geworden, <persName ref="kbga-actors-253">Loew</persName> wird Privatdozent in <placeName ref="kbga-places-8">Berlin</placeName><note xml:id="n03">Diese Absicht wurde nicht verwirklicht.</note> und <persName ref="kbga-actors-52">Bornhausen</persName> sieht Allem mißtrauisch und feindselig zu. Über die Systeme aller dieser Systematiker war nichts zu erfahren. Der «religiöse Besitz» sei ihnen allen gottlob unzweifelhaft. «Das hätte gerade noch gefehlt, daß wir auch noch religiös unsicher geworden wären.»</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

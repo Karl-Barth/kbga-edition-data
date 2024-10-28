@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3212">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 18. Januar 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3212 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 256a–257.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3212</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 256a-257</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">212</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 205</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 18. Januar 1918. <ref target="https://kba.karl-barth.ch/objects/9702">KBA 9370.229</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-01-18">18. Januar 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1918-01-18">18. Januar 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3211"/>
+          <ref type="next" target="kbga-texts-3213"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3211"/>
+          <ref type="next-in-corresp" target="kbga-texts-3213"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p256" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1918-01-18">18. Januar 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Also in acht Tagen wollen wir die Kanzel tauschen. Ich freue mich auf den <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> und überhaupt aufs Wiedersehen.</p>
+        <p>Hier folgen zwei Stimmen, die heute ankamen,<note xml:id="n01">Briefliche Reaktionen auf <bibl corresp="kbga-bibls-1461">«<title level="m">Suchet Gott …!</title>».</bibl>
+               </note> gefreutere als <persName ref="kbga-actors-420">Wernles</persName> Zwischenruf, über den wir uns natürlich nicht aufregen wollen.</p>
+        <p>Ich war in <placeName ref="kbga-places-66">Zürich</placeName> und habe eher furchtbare Eindrücke vom Kriegsgeschäftsbetrieb. Ich saß eine Viertelstunde im Bureau eines Geschäftsmannes (nicht <persName ref="kbga-actors-316">Rud. Pestalozzi</persName>!) und hörte alle Telephongespräche und sah die ganze entsetzliche Hast der Schreibmaschinenfräulein, das Gehen und Kommen, oben und unten. <pb xml:id="p257" ed="pga"/> Die Welt dreht sich einstweilen noch fest um ihre eigene Achse. Aber verdient wird dabei!</p>
+        <p>Mein <persName ref="kbga-actors-805">Bruder</persName>,<note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-805">Peter Thurneysen</persName> (1891–1964), Pfarrer in Safien (Graubünden), Davos und Obfelden (Zürich).</seg></note> der Pädagoge, hat uns besucht und sich in respektvoller Beobachtung unsres Redens und Tuns gehalten. Ich habe ihm meine Rede an die Lehrerinnen vorgelesen und hätte gern sein Einverständnis dazu gehabt, daß, wenn man sich schon einmal auf die Bibel einlasse, es in unsrer Weise geschehen müsse. Aber ich glaube, er konnte das nicht recht zugeben.</p>
+        <p>Der junge <persName ref="kbga-actors-653">Hermann Kutter</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-653">Hermann Kutter</persName> (geb. 1893), der Sohn, Pfarrer, zuletzt in Basel, Biograph seines Vaters.</seg></note> hat bei uns übernachtet. Ich habe mich gut mit ihm verstanden. Er ist Pfarrverweser in <placeName ref="kbga-places-1339">Außersihl</placeName>, besucht Kranke, traut und beerdigt, aber wenn mans so macht wie er, aus seinem feinen, geduldigen, ernsten und stets wahrhaftigen Geiste heraus, dann gehen auch solche Amtsgeschäfte nicht ins Leere.</p>
+        <p>Von mir selber ist nicht viel zu melden. Der Predigtbesuch läßt zu wünschen übrig, die Unterrichtskinder sind seltsam unerweckt. Merkwürdigerweise wollen mich gewisse Gruppen von Arbeitern und Bauern in die Steuerkommission der Gemeinde wählen. Sie versprechen sich davon gerechtere Taxationen! Ich hoffe aber, es werde nichts daraus, denn was soll ich «Richter oder Erbschichter» [<ref type="can" subtype="bible" target="Lk.12.14">Luk 12,14</ref>] sein in dieser trüben Sache?</p>
+        <p>[…] Ich muß an meine Predigtarbeit denken: <ref type="can" subtype="bible" target="Ps.127.1 Ps.127.2">Ps. 127,1–2</ref>.</p>
+        <closer>
+          <salute rendition="left">Wir grüßen herzlich!</salute>
+          <signed rendition="right"><persName ref="kbga-actors-403">Eduard</persName> und <persName ref="kbga-actors-1285">Marguerite</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

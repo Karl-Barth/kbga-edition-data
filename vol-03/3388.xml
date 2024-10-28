@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3388">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. Dezember 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3388 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 454a–455.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3388</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 454a-455</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">388</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 378</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. Dezember 1920. <ref target="https://kba.karl-barth.ch/objects/10906">KBA 9270.285</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-12-17">17. Dezember 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-12-17">17. Dezember 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3387"/>
+          <ref type="next" target="kbga-texts-3389"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3387"/>
+          <ref type="next-in-corresp" target="kbga-texts-3389"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:44+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:44+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p454" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-12-17">17. Dezember 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Es langt nicht zu einem Brief, nachdem ich an <persName ref="kbga-actors-607">Herpel</persName> und <persName ref="kbga-actors-464">Bansa</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-464">Otto Bansa</persName>, Pfarrer im Westerwald, Freund <persName ref="kbga-actors-607">Herpels</persName>.</seg></note> eingehende <foreign xml:lang="fre">Communiqués</foreign> gerichtet. Dazu ist der «Führer in den Wirren religiösen Suchens» am ganzen Körper vom Katarrh heimgesucht, der auf das Bett als die beste Stelle in der Welt hinweist. Nur zuerst den Ruf: Komm doch ja am Sonntag! […] Es geziemt sich, daß die oberste Heeresleitung wieder einmal zusammentrete, um Rückblick und Ausblick zu halten. Ich will dir dann von <placeName ref="kbga-places-9">Bern</placeName> erzählen, wo ich gegen <placeName ref="kbga-places-42">Moskau</placeName> gestimmt, ferner dir allerlei Bayrisches vorweisen, wo <persName ref="kbga-actors-585">Grützmacher</persName> in <placeName ref="kbga-places-19">Erlangen</placeName> mit seinen Studenten über dem Römerbrief auseinander <pb xml:id="p455" ed="pga"/> geraten ist, und wo in Erlangen von Prof. <persName ref="kbga-actors-283">Müller</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-283">Ernst Friedrich Karl Müller</persName> (1863–1935), Prof. für reformierte Theologie in Erlangen.</seg></note> (<persName ref="kbga-actors-77">Calvin</persName><note xml:id="n03"><persName ref="kbga-actors-283">Müller</persName> gab seit 1901 in Neukirchen <bibl corresp="kbga-bibls-4234">«<title level="m">Johannes Calvins Auslegung der Heiligen Schrift in deutscher Übersetzung</title>»</bibl> heraus.</note>) und in <placeName ref="kbga-places-1379">München-Pasing</placeName> von Albers<note xml:id="n04">Hermann Albers, München, Freund von <persName ref="kbga-actors-275">G. Merz</persName>, oder <persName ref="kbga-actors-6561">A. Albers</persName>, Verleger, ebenfalls München.</note> Vorträge über uns gehalten werden sollen!! und wo ferner ein Unbeteiligter in den «<orgName ref="kbga-actors-7253">Münchner Neuesten Nachrichten</orgName>» [7.12.1920], von <persName ref="kbga-actors-301">Nietzsche</persName> kommend, das <bibl corresp="kbga-bibls-1686"><ref type="pub" target="48063"><persName ref="kbga-actors-312">Overbeck</persName>-Büchlein</ref></bibl> anerkennend anzeigt und mich (neue Variante!) als den «eigenartigen Führer einer neureligiösen Bewegung» beschimpft. Ferner vernimmt man, daß <persName ref="kbga-actors-155">Harnack</persName> neuerdings über uns schelte, <persName ref="kbga-actors-171">Heim</persName> aber uns etwas vorsichtig belobige, und daß <persName ref="kbga-actors-567">Geyer</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-567">Christian Geyer</persName> (1862–1929), Pfarrer in Nürnberg, neigte unter dem Einfluß <persName ref="kbga-actors-748">F. Rittelmeyers</persName> vorübergehend zur Anthroposophie.</seg></note> mich für die Theosophie in Anspruch nimmt. Also ein wahres Kreuzfeuer. Wie stehst du zu <orgName ref="kbga-actors-9995">Patmos</orgName>? Hier ist ein weiterer Brief von <persName ref="kbga-actors-751">Rosenstock</persName> und ein Doppelbrief von <persName ref="kbga-actors-537">Ehrenberg</persName> eingegangen, beide unter tragischen Gesten von mir Abschied nehmend. Den Brief an <persName ref="kbga-actors-607">Herpel</persName> habe ich tröstlich aber kräftig abgefaßt und seiner Frau empfohlen, ihm bis mindestens zum Frühling das Tintenfaß zu verstecken. Auch <persName ref="kbga-actors-691">Wolf Meyer</persName> <ref type="kba-objects-id" target="10903">schreibt</ref>, teilweise zwar vom Teufel redend, aber das Beste versprechend.</p>
+        <closer>
+          <salute>Herzlich</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

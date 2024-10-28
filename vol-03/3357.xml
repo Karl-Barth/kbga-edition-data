@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3357">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. August 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3357 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 418–419.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3357</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 418-419</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">357</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 347</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. August 1920. <ref target="https://kba.karl-barth.ch/objects/10728">KBA 9270.262</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-08-07">7. August 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-08-07">7. August 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3356"/>
+          <ref type="next" target="kbga-texts-3358"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3356"/>
+          <ref type="next-in-corresp" target="kbga-texts-3358"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:42+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:42+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p418" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1920-08-07">7. August 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>An meinem Pult sitzt <persName ref="kbga-actors-275">Georg Merz</persName> und studiert an der Predigt, die er morgen in der Safenwiler Kathedrale halten wird. So habe ich einen angenehmen Samstag. Wir waren von Montag bis Donnerstag zusammen in <placeName ref="kbga-places-433">Gadmen</placeName><note xml:id="n01">In <placeName ref="kbga-places-433">Gadmen</placeName> (Kanton Bern) war Barths Schwager <persName ref="kbga-actors-669">K. Lindt</persName> Pfarrer.</note> und haben am Donnerstag den <placeName ref="kbga-places-1373">Susten</placeName> überstiegen. Noch liegt er uns in allen Knochen. Das Zusammensein mit <persName ref="kbga-actors-275">Merz</persName> ist gut; in einigen Jahren, wenn er noch etwas weniger Adept sein wird, wird es <hi rend="italic">noch</hi> besser sein. In <placeName ref="kbga-places-433">Gadmen</placeName> waren auch <persName ref="kbga-actors-27">Peter</persName> und <persName ref="kbga-actors-23">Heiner</persName>, ferner der junge <persName ref="kbga-actors-699">Gustav Müller</persName>, des bekannten Sozialisten steiler, unheimlich gescheiter, philosophiebeflissener Sohn.<note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-698">Gustav Müller d. Ä.</persName> (1860–1924), führender sozialdemokratischer Politiker, Parlamentarier, 1895-1920 Finanzdirektor des Kantons Bern, 1918-1920 Stadtpräsident von Bern.</seg> — <seg type="bio"><persName ref="kbga-actors-699">Gustav E. Müller d.J.</persName> (geb. 1898), Philosoph und Dichter, Hegel-Forscher, Professor an verschiedenen amerikanischen Universitäten, seit seiner Emeritierung (1968) in Bern.</seg></note> <persName ref="kbga-actors-275">Merz</persName> führte gewöhnlich das Gefecht und erwies sich als gründlicher Kenner unserer Lehre; nur selten mußte «der Meister», wie <persName ref="kbga-actors-23">Heiner</persName> höhnte, korrigierend eingreifen. Eine etwas fragwürdige Situation. Vom <placeName ref="kbga-places-1373">Susten</placeName> herabgestiegen, fand ich den zweiten Teil von <persName ref="kbga-actors-821">Eberhard Vischer</persName>[s <persName ref="kbga-actors-312">Overbeck</persName>besprechung]<note xml:id="n03"><bibl corresp="kbga-bibls-1687"><persName ref="kbga-actors-821">E. Vischer</persName>, <title level="a">Overbeck und die Theologen</title>, in: Kirchenblatt für die reformierte Schweiz, Jg. 35 (1920), S. 122–124 und 125-127.</bibl> Der Artikel ist eine Besprechung von <persName ref="kbga-actors-312">Overbecks</persName> <bibl corresp="kbga-bibls-1340">«<title level="m">Christentum und Kultur</title>»</bibl> und ein kritisches Referat über andere Besprechungen des Buches. Am Schluß (S. 126f.) setzt sich <persName ref="kbga-actors-821">Vischer</persName> mit <persName ref="kbga-actors-2151">Barths</persName> <ref type="pub" target="48063">Overbeck-Aufsatz</ref> (in <bibl corresp="kbga-bibls-3519">«<title level="m">Zur inneren Lage des Christentums</title>»</bibl>) auseinander.</note> vor. […] Ich fürchte, nun wird <persName ref="kbga-actors-494">Bernoulli</persName> mit irgend einer ungeschickten Gegenrede lospoltern. Wir unsererseits wollen das Pulver trocken halten und abwarten. […]</p>
+        <p><persName ref="kbga-actors-8648">Johannes Müller</persName> druckt [aus meinem <bibl corresp="kbga-bibls-2381"><ref type="pub" target="48064">Aarauer Vortrag</ref></bibl>] nun nur S. 9–19 ab;<note xml:id="n04">Vgl. <ref type="pub" target="3340#fn_n02">Anm. 2 zum Brief vom <date when="1920-06-14">14.6.1920</date></ref>.</note> das ist offenbar die Rosine aus dem Kuchen, die er für seine Leser für zuträglich hält. Dem Mann aus <placeName ref="kbga-places-8">Berlin</placeName><note xml:id="n05">Bezieht sich wohl auf eine Briefbeilage, die nicht mehr nachweisbar ist.</note> habe ich dilatorisch geantwortet; immerhin ists ein merkwürdiges Schauspiel, daß der <bibl corresp="kbga-bibls-119">Römerbrief</bibl> nun auch schon einem leibhaftigen Generalsuperintendenten vor die Nase gehalten wird. […] Was mag <persName ref="kbga-actors-137">Gogarten</persName> anrichten in seiner Antwort an <persName ref="kbga-actors-210">Jülicher</persName>?<note xml:id="n06">Vgl. <ref type="pub" target="3350#fn_n01">Anm. 1 zum Brief vom <date when="1920-07-16">16.7.1920</date></ref>.</note> Was sagst du zu der Art, wie mich <persName ref="kbga-actors-570">O. Gilg</persName> vor seinen altkatholischen Wagen spannt?<note xml:id="n07"><bibl corresp="kbga-bibls-4215"><persName ref="kbga-actors-570">O. Gilg</persName>, «<title level="a">Der neue Katholizismus</title>», in: Neue Wege, Jg. 14 (1920), S. 294–309.</bibl> Dort S. 300 Anm. 1 Bezugnahme auf <ref type="pub" target="48061">Barths Tambacher Vortrag</ref>. — Der Verfasser, <seg type="bio">Otto Gilg (geb. 1891), ist ein Bruder von Prof. <persName ref="kbga-actors-569">Arnold Gilg</persName>, Pfarrer der christkatholischen Gemeinde in Luzern von 1916 bis 1961</seg>.</note> Dieses Benütztwerden für Zwecke anderer ist ein <pb xml:id="p419" ed="pga"/> scheinbar unvermeidliches Schicksal. <hi rend="italic">Kann</hi> man sich dagegen wehren und <hi rend="italic">wie?</hi> Wahrscheinlich nur durch beharrliches Hornbrillen-Tragen und öfteres Schweigen und Verschwinden. Heute Nachmittag habe ich die Beerdigung einer Selbstmörderin. Sie kam eine Zeitlang alle Sonntage in die Kirche. Es ist innerhalb eines halben Jahres der zweite Fall. Ein Honoratior habe mit Faustschlag auf den Tisch bekundet: daran sei allein der Pfarrer schuld, der die Leute verrückt mache. Für deine Meldungen über <persName ref="kbga-actors-537">Ehrenberg</persName> sind wir dir dankbar. Ich werde nun in aller Eile das «<bibl corresp="kbga-bibls-4198">Ketzerbuch</bibl>» studieren und aus «<bibl corresp="kbga-bibls-4199">Kreuz und Tragödie</bibl>» einige Prisen nehmen. Das <persName ref="kbga-actors-301">Nietzsche</persName>-Buch<note xml:id="n08"><bibl corresp="kbga-bibls-4216"><persName ref="kbga-actors-496">E. Bertram</persName>, <title level="m">Nietzsche. Versuch einer Mythologie</title>, Berlin 1920.</bibl></note> ist ein Valuta-Ankauf, um den ich ihn gebeten hatte. Vale! Wir freuen uns auf <placeName ref="kbga-places-99">Oberrieden</placeName>.<note xml:id="n09">Gemeinsame Ferien mit <persName ref="kbga-actors-403">Thurneysen</persName> vom <date to="1920-09-07" from="1920-08-23">23.8. bis 7.9.1920</date> auf dem «<placeName ref="kbga-places-100">Bergli</placeName>», Oberrieden bei Zürich, dem Landhaus von <persName ref="kbga-actors-316">R. Pestalozzi</persName>.</note>
+            </p>
+        <closer>
+          <salute>[…]</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

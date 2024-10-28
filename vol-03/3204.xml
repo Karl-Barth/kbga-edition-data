@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3204">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. Dezember 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3204 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 247–248.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3204</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 247-248</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">204</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 197</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. Dezember 1917. <ref target="https://kba.karl-barth.ch/objects/9658">KBA 9270.157</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-12-07">7. Dezember 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-12-07">7. Dezember 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3203"/>
+          <ref type="next" target="kbga-texts-3205"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3203"/>
+          <ref type="next-in-corresp" target="kbga-texts-3205"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:31+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p247" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-12-07">7. Dezember 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Hier dein letzter Schlag.<note xml:id="n01">Korrekturabzug einer Predigt für <bibl corresp="kbga-bibls-1461">«<title level="m">Suchet Gott …!</title>».</bibl>
+               </note> Was wird nun das <bibl corresp="kbga-bibls-1461">Buch</bibl> als Ganzes für ein Gesicht machen? Das wird uns selbst eine Neuigkeit sein. Unsere Sprüche haben wohl alle die Eigenschaft, im Anlauf gewaltiger zu sein als im Ertrag. Sie mahnen mich alle an Brücken, die vorläufig erst halb gebaut, verheißungsvoll, traurig, drohend <pb xml:id="p248" ed="pga"/> oder wie man will in die Luft hinausstarren. Darin wird sich unsere Gabe für den Weihnachtstisch des christlichen Hauses von der wohlgerundeten Leistung <bibl corresp="kbga-bibls-1849"><persName ref="kbga-actors-240">Kutters</persName></bibl> bedenklich abheben.</p>
+        <p>In einem meiner letzten Sprüche kommt das Zitat vor: «Mit der Freude zieht der Schmerz traulich durch die Zeiten.»<note xml:id="n02"><bibl corresp="kbga-bibls-1461">Ebd. S. 148 (bzw. 153<hi rend="sup">2</hi>)</bibl>.</note> Weißt du oder <persName ref="kbga-actors-1285">Marguerite</persName> etwas darüber? Von <hi rend="italic">wem?</hi> Ob es nicht <hi rend="italic">treulich</hi> statt traulich heißt?<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4107"><persName ref="kbga-actors-601">J. P. Hebel</persName>, <title level="m">Neujahrslied</title>.</bibl> Das Gedicht beginnt mit den Zeilen: «Mit der Freude zieht der Schmerz traulich durch die Zeiten.»</note> Wie es weiter geht? Ich nenne die Zeile nämlich einen «gottesfremden Unsinn», da sollte sie doch genau dastehen.</p>
+        <p>In <placeName ref="kbga-places-54">Safenwil</placeName> treiben die Dämonen ihr Wesen in Gestalt von fürchterlichen Lügen, die umhergehen, leider besonders über mich, immer noch wegen der dummen Gemeinderatswahl, die noch aktuell ist, weil es um zwei Sitze nächsten Samstag noch einmal losgeht. Was Leidenschaft und Phantasie da leisten an freier Erfindung, ist ganz großartig. Und nun wird scheints von einer Ecke aus ernsthaft für eine —— Kirchenaustrittsbewegung agitiert, andere sammeln scheints Unterschriften gegen mich. Ich mußte wieder zwei schöne Abende im Gespräch mit dem Kirchenpflegspräsidenten zubringen statt mit <ref type="can" subtype="bible" target="Röm.7">Römer 7</ref>! Der Mann schwankt beunruhigend zwischen seinen Tempelbauplänen und einer großen Hasenangst vor den freisinnigen Bonzen. Kurzum sei du froh, daß du in <placeName ref="kbga-places-76">Leutwil</placeName> bist, und sprich mir wieder einmal kräftig zu.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß!</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Die Kirchenpflege will mich nächsten Donnerstag verpflichten: aus der <orgName ref="kbga-actors-6132">Partei</orgName> auszutreten! keine Vorträge mehr im <orgName ref="kbga-actors-9909">Arbeiterverein</orgName> zu halten! auf ewig die Finger von der Gemeindepolitik zu lassen!</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

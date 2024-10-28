@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3205">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 12. Dezember 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3205 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 249–250.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3205</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 249-250</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">205</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 198</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 12. Dezember 1917. <ref target="https://kba.karl-barth.ch/objects/9662">KBA 9370.226</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-12-12">12. Dezember 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1917-12-12">12. Dezember 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3204"/>
+          <ref type="next" target="kbga-texts-3206"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3204"/>
+          <ref type="next-in-corresp" target="kbga-texts-3206"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:31+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p249" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1917-12-12">12. Dezember 1917</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Was waren das doch für seltsame schwankende Gestalten am Montag!<note xml:id="n01">Teilversammlung der <orgName ref="kbga-actors-9899">religiös-sozialen Konferenz</orgName> in <placeName ref="kbga-places-50">Olten</placeName>, bei der <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-403">Thurneysen</persName> ihre Ämter im Vorstand der Konferenz niederlegten.</note> Noch schwebt es mir vor Augen, dieses kleine Nebenlokal, Tische in Hufeisenform, 2 x 12 Apostel mit teilweise etwas unsichern, aber gespannten Gesichtern, in den Lüften gewaltige Parolen wie Neubau der Welt, Volksbewegung! Banner entfalten! Gemeinschaft! Taten! An der Wand ein Wildheuer, der zu lachen scheint, es aber nicht kann, weil er nur gemalt ist. Schon etwas gefährlicher dürften die Neuen Testamente sein, die in den geistlichen Röcken verborgen sind, aber auch sie werden nicht zu Worte kommen. Und das Ganze: die konstituierende Sitzung einer neuen religiös-sozialen Geistes- und Kraftbewegung mit dem immerhin beträchtlichen Resultat von drei Komités und einem Vorort.<note xml:id="n02">= Leitungsgremium.</note> Aber ich will nicht spotten. Wir sind ja alle irgendwie an solchen Wähnen beteiligt. Mir ist noch niemals so taghell deutlich geworden, an was für einer Krankheit zum Tode unsere religiössoziale Sache leidet. Wir standen tief im Schatten der pietistischen Lebensversuche. Ich höre St. immer noch mit leiser Rührung in der Stimme nach Gemeinschaft rufen, und was waren alle die Pläne und Projekte, die entworfen wurden, anderes als «Liebeswerke» in neuer Gestalt? Und wie können anderswo so unglückliche Fragen gestellt werden wie die nach dem Verhalten bei Straßenkämpfen als da, wo man längst gewohnt ist, alles nur taktisch und strategisch zu behandeln? Und wo fängt man an, das Opfer um des Opfers willen zu verherrlichen und nach Heiligenscheinen zu greifen, als da, wo man sich selber und nur sich selber sieht und alles Gefühl für Sachlichkeit und echtes Zeugnis verloren hat? Und was ist das alles anderes als eine Abart von Kirchentum und Pietismus?</p>
+        <p>Wie bist du heimgekommen? Habe ich irgendein entscheidendes Schlußwort verpaßt? Hast du noch etwas Starkes gerufen? Hat <persName ref="kbga-actors-423">G. Wieser</persName> noch einen Vorstoß gemacht? Oder blieb es beim stummen Lachen des Wildheuers von der Wand herab?</p>
+        <pb xml:id="p250" ed="pga"/>
+        <p>Da folgt noch ein Brief von <persName ref="kbga-actors-457">Bader</persName> mit seltsamen Eröffnungen über das Reich Gottes, mit allerlei Zusprüchen und Vorschlägen. Hat er nicht recht mit seinen einfachen Entscheidungen über das, was uns trenne von den Religiössozialen? Aber auch er endet irgendwie im Schatten eines Kirchentums. Ich bin darum gespannt auf das, was <persName ref="kbga-actors-313">Paulus</persName> nach deinen Einsichten in Röm. 9-11 zur Sache zu sagen hat. Jedenfalls wird dein <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> guttun, er wird die Luft reinigen. Wenn nur diese Kirchenmänner überhaupt noch darauf hören wollen und können!</p>
+        <p>Was machen die Safenwiler? Wir denken viel an euch und eure Lage. Es geht auch da in den Gesprächen mit der Kirchenpflege um ein Seilziehen in der Kirchenfrage. Was aber draußen im Dorfe sich regt, ist wohl schon der Widerspruch gegen deine Botschaft, der aber bereits seine innere Schwäche erkennen läßt.</p>
+        <closer>
+          <salute>Von Herzen</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

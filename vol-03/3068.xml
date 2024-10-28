@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3068">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 5. Oktober 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3068 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 86–89.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3068</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 86-89</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">68</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 65</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 5. Oktober 1915. <ref target="https://kba.karl-barth.ch/objects/8931">KBA 9270.50</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-10-05">5. Oktober 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-10-05">5. Oktober 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3067"/>
+          <ref type="next" target="kbga-texts-3069"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3067"/>
+          <ref type="next-in-corresp" target="kbga-texts-3069"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:22+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:22+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p086" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1915-10-05">5. Oktober 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Der <persName ref="kbga-actors-420">Wernle</persName>-Brief war mir auch eine rechte Erfrischung. Gott erhalte ihm sein Temperament! muß ich immer zuerst denken, wenn ich wieder so etwas von ihm lese. Sachlich ists ja sehr bedauerlich, daß ein so gescheiter Mann so völlig an dem, woraufs ankommt, vorbeischießen kann. Er ist doch ein rechtes Hindernis mit seiner Art; ich meine mehr negativ: wieviel könnten gerade wir von ihm haben, wenn er einfach ein wenig verständiger sein wollte. Es kommt mir oft vor: wenn er nur eine Viertelstunde ruhig zuhören könnte, wie es gemeint ist, so müßte er das Gemeinsame, das uns mit ihm verbindet, so stark empfinden, daß diese Lärmmacherei aufhören würde. Es ist nur eine dünne Wand zwischen ihm und uns, ich höre ihn deutlich klopfen auf der andern Seite, aber ich glaube nicht mehr, daß die Aussicht noch frei wird. Natürlich werde ich ganz freundlich reden in <placeName ref="kbga-places-5">Basel</placeName>. Ich habe mir bis jetzt hauptsächlich über die <hi rend="italic">Art</hi>, die Sache zu bringen, die gleichen Gedanken gemacht wie du: <hi rend="italic">alle</hi> religiösen Kriegsauffassungen positiv nehmen, aber bei keiner stehen bleiben, sondern in immer engern Kreisen das Entscheidende <hi rend="italic">in</hi> (nicht neben oder gegen) den deutschen, wernleschen etc. Gedankengängen herauszuarbeiten suchen. Obs mir gelingt? […]</p>
+        <pb xml:id="p087" ed="pga"/>
+        <p>Ich las heute die sehr wichtige neue «<orgName ref="kbga-actors-4700">Glocke</orgName>»<note xml:id="n01">Die Oktober-Nummer <date when="1915">1915</date> der «Glocke» enthält außer dem in <ref type="pub" target="3066#fn_n02">Anm. 2 zum Brief vom <date when="1915-09-21">21.9.1915</date></ref> genannten <bibl corresp="kbga-bibls-3950">Artikel Thurneysens zur Frage der Dienstverweigerung</bibl> <bibl corresp="kbga-bibls-3951">(«Fall Baudraz») auf S. 3–7</bibl> eine Diskussion über Feldprediger, an der neben anderen Votanten nochmals (S. 7) <persName ref="kbga-actors-403">Thurneysen</persName> teilnimmt.</note>. Das habt ihr gut gemacht und das wird sicher Vielen zu denken geben. Ob die Feldprediger nicht insgesamt wie eine Mauer aufstehen werden zu irgendeiner Unternehmung? Für sie ist das Resultat vernichtend. Mit deinem <persName ref="kbga-actors-482">Baudraz</persName>-Artikel gehe ich ganz einig. Am wenigsten mit dem vorletzten Absatz vom Sonderauftrag der Gottesmänner. Ich verstehe schon, aber ich kann mich dabei nicht beruhigen. Gibt es nicht auch «Durchbrüche» auf breiter Front, unter Umständen von der Masse getragen? Denk an die Abstinenz z. B.! Ich meine: wir können nur immer wieder und immer deutlicher sagen, was du auch und sehr gut sagst: Gottes Willen gehorchen heißt positive Stellung nehmen zu einem neuen Ganzen göttlicher Lebensordnungen und -kräfte. Wir können und dürfen aber nicht wehren und dämpfende Vorschriften machen, wenn der neue Geist stammelnd und stolpernd und gebrochen irgendwo an einem Einzelpunkt durchschlagen will. Wir werden solche Durchschläge so relativ einschätzen, wie sie es an sich verdienen, wir werden sie beileibe nicht züchten wollen, aber wenn sie ohne uns kommen, so werden wir <hi rend="italic">prinzipiell</hi> nichts gegen sie sagen, sondern uns ihrer als <hi rend="italic">kleiner</hi> Realisierungen des Gottesreiches nur freuen können. Hätte das, was ich da etwas plump «Freude» nenne, nicht etwas stärker gesagt werden können, unbeschadet des Einschränkenden, das natürlich gesagt werden mußte? Ich denke eben daran, daß wir den «andern» […] immer noch zu stark den (falschen!) Eindruck einer bloß negativen Orientiertheit machen. Woran liegt das? Du konntest dich im Innersten freuen an den Feldpredigten eines <persName ref="kbga-actors-491">Benz</persName>. Gut, aber warum nicht im gleichen Sinne an der «Predigt», die uns ein <persName ref="kbga-actors-482">Baudraz</persName> hält?</p>
+        <p>Nun muß ich dir erzählen, daß ich unterdessen auch eine Art Durchbruchshandlung eingeleitet habe, ganz von mir aus, und ich weiß nicht, was du dazu sagst. Ich hatte am [Pfarr]-Kapitel (das du unentschuldigt geschwänzt hast!), bei dem es also auch eine kleine <persName ref="kbga-actors-482">Baudraz</persName>-Debatte gegeben hat mit Spruch von <persName ref="kbga-actors-728">Pfisterer</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-728">Karl Pfisterer</persName> (1878–1948), Pfarrer in Windisch.</seg></note> und Gegenspruch von <persName ref="kbga-actors-794">Straub</persName>,<note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-794">Karl Straub</persName> (1890–1962), Pfarrer in Bremgarten.</seg></note> während ich nur etwas vor mich hinbrummte, wieder einen starken Eindruck von unsrer Kirchen<pb xml:id="p088" ed="pga" break="no"/>misere. <persName ref="kbga-actors-734">Preiswerk</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-734">Emanuel Preiswerk</persName> (1868–1945), Pfarrer in Staufberg.</seg></note> schlug mich in den Ausschuß vor, ich wollte aber nicht. […] Umso mehr möchte ich nun einmal in <placeName ref="kbga-places-1">Aarau</placeName> prinzipiell sagen, was ich jetzt zu sagen habe, — damit es einmal gesagt ist und ich mit ruhigem Gewissen zu Gemeinde, Freundschaft, Weib und Kind zurückkehren kann. Ich habe mir lange überlegt wie? schließlich habe ich nun <persName ref="kbga-actors-705">Müri</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-705">Walter Müri</persName>, Pfarrer in Oberentfelden, Präsident der aargauischen <orgName ref="kbga-actors-9779">Synode</orgName>.</seg></note> folgenden Antrag für die nächste <orgName ref="kbga-actors-9779">Synodesitzung</orgName> eingereicht: <q rend="block">
+                        <p>«Die <orgName ref="kbga-actors-9779">Synode</orgName> beschließt:</p>
+                        <p>Der übliche Synodalgottesdienst ist eine mit dem Geist der <orgName ref="kbga-actors-9779">Synode</orgName> als einer bloßen staatskirchlichen Verwaltungsbehörde innerlich unverträgliche christliche Kundgebung. Er wird für die Zukunft fallen gelassen.»</p>
+                    </q> Ich würde zur Begründung etwa sagen, daß die <orgName ref="kbga-actors-9779">Synode</orgName> mit diesem jährlichen Gottesdienst einen Zusammenhang manifestiere mit dem Evangelium Jesu. Warum sollte sie das nicht tun? Aber diese Kundgebung setzte voraus im Minimum die Sehnsuaht und den ernsten Willen, <foreign xml:lang="lat">sici</foreign> an den Normen der Welt dieses Evangeliums zu orientieren, die Sehnsucht wenigstens, eine Gemeinschaft des Glaubens und der Hoffnung zu sein und Staatskirchenbehörde, als wäre mans nicht. Dann zeigen an ein paar Beispielen, wie man daran gar nicht denkt, wie auch die Ernsthaftesten von der <orgName ref="kbga-actors-9779">Synode</orgName> «als Synode», vom Kapitel «als Kapitel» (so hieß es in der <persName ref="kbga-actors-482">Baudraz</persName>angelegenheit) nichts erwarten. Anklagen können nicht erhoben werden, aber konstatiert muß es einmal sein, daß alles, vor allem alles Staatliche, hier hundertmal wichtiger genommen wird als Gott. Die <orgName ref="kbga-actors-9779">Synode</orgName> soll sich darüber klar werden und die Folgerung ziehen. Sie braucht einen «Gottesdienst» so wenig als der Große Rat,<note xml:id="n06">Großer Rat = Kantonsparlament.</note> sie verschleiert sich damit nur den Tatbestand. Wenn wir keine echten Propheten sein können, wollen wir doch auch keine falschen sein wie die <ref type="can" subtype="bible" target="Hes.13">Hes. 13</ref> beschriebenen. In der Entscheidung über Beibehaltung oder Nichtbeibehaltung ihrer christlichen Zeremonie soll die <orgName ref="kbga-actors-9779">Synode</orgName> ein deutliches Ja oder Nein aussprechen über ihr Verhältnis zu den Voraussetzungen einer christlichen Kirche. — So etwa nebst allerlei Schönem und Deutlichem, das ich mir im Einzelnen noch aus<pb xml:id="p089" ed="pga" break="no"/>denken muß. Der Abschaffungsantrag ist also nur der Haken, um die Motivierung dran aufzuhängen und zugleich, um die Frage scharf und praktisch zu stellen. Ich fand keinen bessern. Gerade bei dem Vorstoß, den <persName ref="kbga-actors-529">Dietschi</persName> im Kapitel machte wegen der zu erneuernden Kirchenverfassung und nachher <persName ref="kbga-actors-541">Epprecht</persName> wegen der <persName ref="kbga-actors-482">Baudraz</persName>-Erklärung, empfand ich das Mißliche solcher Einzelangriffe, die die Majorität immer mit Leichtigkeit zurückweisen kann. Ich glaube, wenn ichs nicht ganz dumm anstelle, müßten sie hier einmal Rede stehen, und es könnte unsererseits einmal ein sachlicher Ton angeschlagen werden: wenn wir sie eben zwingen, auf das ganz sachliche Gebiet zu kommen. Die Frage: was nützts? darf man natürlich nicht stellen, und <persName ref="kbga-actors-734">Preiswerk</persName> wird wieder unzufrieden sein und andre Kirchenpolitiker mit ihm, aber <hi rend="italic">den</hi> Erfolg verspreche ich mir doch davon, daß die Frage, auf die es ankommt, in diesem Kreis überhaupt einmal gestellt wird. Nachher können wir dann das Feld wieder lange den andern überlassen. — Was meinst du nun dazu? Wenn du einverstanden bist und mittun willst, so sei so gut und schreibs gleich an <persName ref="kbga-actors-705">Müri</persName>, daß du auch unterschreiben willst. Ich habe im gleichen Sinn an <persName ref="kbga-actors-763">Schild</persName>, <persName ref="kbga-actors-541">Epprecht</persName>, <persName ref="kbga-actors-448">Ammann</persName><note xml:id="n07"><seg type="bio"><persName ref="kbga-actors-448">Guido Ammann</persName> (1884–1966), Pfarrer in Mönthal.</seg></note> und <persName ref="kbga-actors-794">Straub</persName> geschrieben. Ihr sollt euch aber, auch <hi rend="italic">du</hi> nicht, ja nicht aus Solidarität gedrängt fühlen, mir zu helfen. Du besonders nicht, da ich mir denken könnte, daß dir die Sache nicht ganz liegt, so wie ich sie nun angepackt habe. […] Also nichtwahr, du stellst dich mit der gleichen Freiheit zu der Geschichte, mit der ich sie nun von mir aus angezeddelt habe! Wie froh ich wäre, wenn du dabei wärest, weißt du. […]</p>
+        <p>Nun soll ich in <placeName ref="kbga-places-9">Bern</placeName> vor der «<orgName ref="kbga-actors-9911">Symphonischen Gesellschaft</orgName>» (Frauenbestrebungen, Frl. <persName ref="kbga-actors-697">v. Mülinen</persName> etc.) einen Vortrag halten über «<ref type="pub" target="48038">Arbeiterverbände</ref> von gestern und heute». Die 30 Fr. Honorar locken mich stark, meine alten Hefte hervorzunehmen und froh loszulegen. Aber was soll das? Was ist mir Hekuba?<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-1541"><persName ref="kbga-actors-382">Shakespeare</persName>, <title level="m">Hamlet</title> II, 2</bibl>: «Was ist ihm Hekuba?»
+               </note>
+            </p>
+        <closer>
+          <salute>Herzlichen Gruß von allen dreien</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

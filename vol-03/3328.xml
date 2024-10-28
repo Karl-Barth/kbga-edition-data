@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3328">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. April 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3328 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 384–386.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3328</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 384-386</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">328</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 319</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. April 1920. <ref target="https://kba.karl-barth.ch/objects/10553">KBA 9270.239</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-04-27">27. April 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-04-27">27. April 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3327"/>
+          <ref type="next" target="kbga-texts-3329"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3327"/>
+          <ref type="next-in-corresp" target="kbga-texts-3329"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:40+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:40+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p384" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-04-27">27. April 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Die Verlassenheit, in der ich nun im <placeName ref="kbga-places-152">Aargau</placeName> sitze, kommt mir erst nach und nach zum Bewußtsein. Der Sprung zu dir oder umgekehrt wird eben doch jedesmal eine beträchtliche, wohlzuüberlegende Sache sein, und ich werde den schönen Zeiten, wo ein Sprung aufs Velo Alles gut machen konnte, nun immer heftiger nachtrauern. Ich glaube, ich schließe mich im Ernst den «Wiederkunftsgläubigen» in <placeName ref="kbga-places-76">Leutwil</placeName>, von denen mir auch Frl. <persName ref="kbga-actors-484">Baumann</persName><note xml:id="n01">Eine mit <persName ref="kbga-actors-403">Thurneysen</persName> bekannte Lehrerin in einem Nachbarort von <placeName ref="kbga-places-76">Leutwil</placeName>.</note> erzählte, an und hoffe, du machest dich in <placeName ref="kbga-places-105">St. Gallen</placeName> bald unmöglich. Vorläufig hat es freilich nicht den Anschein als ob, denn der Schall deiner dortigen Worte ist durch eine hiesige Familie schon jetzt bis zu uns gedrungen und wirft einen milden Abglanz auch auf mich.</p>
+        <p>[…] Gut, daß du den ersten Ansturm des Freundes [<persName ref="kbga-actors-537">Hans Ehrenberg</persName>] übernehmen und aushalten willst. Bei <persName ref="kbga-actors-240">Kutter</persName> sehe ich ihn nicht recht, und was zwischen ihm und uns noch werden soll, das ist mir erst recht dunkel. Ich las gestern <bibl corresp="kbga-bibls-4191"><persName ref="kbga-actors-828">Weismantel</persName><note xml:id="n02"><persName ref="kbga-actors-828">Leo Weismantel</persName> (1888–1964), Schriftsteller, Leiter des <orgName ref="kbga-actors-9862">Patmos-Verlages</orgName> in Würzburg, wo auch die genannte Schrift Weismantels erschienen ist.</note> «Der Wächter unter dem Galgen»</bibl> und verstehe tatsächlich kein Wort von dieser Allegorie, aber auch kein Wort!! Es könnte gerade so gut chinesisch sein für mich. Und dabei Dedikationsexemplar, das ich verdanken muß! Ich lege das Ding bei, hilf mir in dieser Not. <pb xml:id="p385" ed="pga"/> Gestern verbrachte ich […] einen ganzen Abend über der Analyse von <persName ref="kbga-actors-538">Rudolf Ehrenbergs</persName> Osterpredigt und wurde ebenfalls nicht klug. Überhaupt <ref type="can" subtype="bible" target="Hebr.10.25">Hebr. 10,25</ref><note xml:id="n03"><bibl corresp="kbga-bibls-4192"><persName ref="kbga-actors-538">R. Ehrenberg</persName>, <title level="m">Ebr. 10,25. Ein Schicksal in Predigten</title>, Würzburg 1920.</bibl></note>. Ich suche nun endlich mich durchzuschlagen; aber was das eigentlich soll, das wird mir, trotz einzelner schöner und guter Stellen, nicht klar. Und dabei riskiert man, von <persName ref="kbga-actors-751">Rosenstock</persName> so angefaucht zu werden, wie es in dem beiliegenden kleinen <ref type="kba-objects-id" target="10524">Brief</ref> geschieht, der die Antwort ist auf ein, wie ich meinte, behutsames Schreiben an <persName ref="kbga-actors-538">Rudolf Ehrenberg</persName>, auf das mir dieser immerhin human erwidert hatte. Ich glaube, ich weise sie nächstens samt und sonders an dich als meine offenere Hälfte. […]</p>
+        <p>[…]</p>
+        <p>Wir waren Sonntag-Montag in <placeName ref="kbga-places-418">Madiswil</placeName> zur Taufe des kleinen <persName ref="kbga-actors-478">Peter-Andreas</persName>. […] Morgen fängt meine neue Unterweisung an; ich mache mich heute an die Aufstellung des neuen [Unterrichts-] Heftes. Den <orgName ref="kbga-actors-9871">C.S.V.</orgName>ern habe ich in einem eindringlichen Schreiben vorgehalten, ob sie nach der <orgName ref="kbga-actors-5240">Aarauer Erfahrung</orgName> nicht heimlich lieber von meiner Berufung an ihr Ferienlager Abstand nehmen wollten. Sie sollten sich noch einmal überlegen, was sie täten. Ich würde zu gerne jetzt eine Weile gänzlich verstummen. <placeName ref="kbga-places-1">Aarau</placeName> war ja wirklich ein Mißerfolg. Die Sprüche der Zürcher, von denen du schreibst, zeigen erschütternd, daß ungefähr niemand Lust hat, mitzukommen. <persName ref="kbga-actors-27">Peter</persName> röhrte auch allerlei von «Kontinuität» zu Wissenschaft, Kultur etc., die gefehlt habe. Nur <persName ref="kbga-actors-23">Heiner</persName> scheint mir entschieden die Stange zu halten. […] Die Wüstenzone um mich herum hat sich ersichtlich verbreitert. Und dabei beruft sich in der Tat alles auf die verwünschten «Ergötzlichkeiten», die meine Mitteilungen nun einmal zu begleiten pflegen und die doch eigentlich so harmlos sind, von mir aus jedenfalls alles andere als Unterbrechungen der Linie selbst. Woher nehmen eigentlich gewisse Freunde das Recht, immer wieder dieses Invektivische an mir in einer gewissen milden Boller Stimmung zu beseufzen? «Im Interesse der Sache» — als ob im «Interesse der Sache» überall da, wo die Zuhörer merken, daß von ihnen die Rede ist, die Spitze abgebrochen werden dürfte. Wenn <milestone xml:id="m25" unit="page"/> <pb xml:id="p386" ed="pga"/> ich diese Gerechten nur einmal hineinblicken lassen könnte in die mühsame Mechanik einer solchen Darlegung, daß sie sähen, wie wenig «geistreich» es da zugeht. Nun, für eine geraume Weile wird nun dafür gesorgt sein, daß man mich bei solchen Anlässen und überhaupt in meiner Höhle läßt. Hast du den Bericht in der <orgName ref="kbga-actors-4868">Neuen Zürcher Zeitung</orgName> gelesen? Er war so hahnebüchen verkehrt, daß ich ein «Zur Aufklärung» einsandte, weiß aber nicht ob es gedruckt worden ist. — <persName ref="kbga-actors-169">Heiler</persName> werde ich mir ehestens auch vornehmen. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

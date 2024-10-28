@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3402">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 22. Februar 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3402 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 471–472.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3402</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 471-472</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">402</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 391</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 22. Februar 1921. <ref target="https://kba.karl-barth.ch/objects/11005">KBA 9270.296</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-02-22">22. Februar 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-02-22">22. Februar 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3401"/>
+          <ref type="next" target="kbga-texts-3403"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3401"/>
+          <ref type="next-in-corresp" target="kbga-texts-3403"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:45+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:45+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p471" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-02-22">22. Februar 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Der Expreßbrief [aus <placeName ref="kbga-places-43">München</placeName>] ist heute unter Jubel von Groß und Klein ins Haus gebracht worden. Ich bin aber bald erschrocken, als ich öffnete und sah, wie nahe mir die Drucker auf den Fersen sind. Ich werde nun übermorgen korrigierend durch das <placeName ref="kbga-places-879">Großherzogtum Baden</placeName> fahren und dann von <placeName ref="kbga-places-41">Marburg</placeName> aus die Bögen samt dem <bibl corresp="kbga-bibls-48"><ref type="pub" target="47013">5. Kapitel</ref></bibl> gen München schicken.</p>
+        <p>Vielen Dank für deine Hinweise zu <ref type="can" subtype="bible" target="Röm.5.12 Röm.5.21">5,12f.</ref> […] Das <foreign xml:lang="grc" rend="Ell">ἵνα</foreign> <hi rend="italic">damit</hi> <ref type="can" subtype="bible" target="Röm.5.20">V. 20</ref> ist natürlich betont, darf aber nicht <hi rend="italic">gepreßt</hi> werden (ich bin schon fast bis zum Äußersten gegangen!), sonst könnte man bei Kap. 6 und 7 auf einmal in der Patsche sitzen und zuviel gesagt haben. Wir gehen haarscharf an verschiedenen <hi rend="italic">alten Ketzereien</hi> vorbei, nicht nur in diesem Punkt, und müssen Achtung geben, daß wir nicht mit irgend einer gar zu schneidigen Formulierung hängen bleiben. Das Geschrei über Gnostizismus wird ja sehr wahrscheinlich bei dieser neuen Auflage lauter als je anheben. Es ist wirklich eine Kanufahrt auf dem <placeName ref="kbga-places-1002">Niagara</placeName>.</p>
+        
+        <p><pb xml:id="p472" ed="pga" rend="noPipe"/>Nochmals innigen Dank für deine Handreichung. Ich sinne schon jetzt an einem schönen Satz, in welchem deiner höchst handgreiflichen Mitwirkung im <bibl corresp="kbga-bibls-48"><ref type="pub" target="47004">Vorwort</ref></bibl> ein Denkmal gesetzt werden soll. Du hast ja auch aus den neuen Druckbogen gesehen, daß ich deine Sätze meistens einfach wörtlich abschreibe. Für künftige Lizentiaten eine dankbare Fundgrube! Und nun bin ich schon an den letzten Zurüstungen zur Reise. Morgen Mittwoch bin ich in <placeName ref="kbga-places-5">Basel</placeName>. Auf Donnerstag Abend habe ich mich in <placeName ref="kbga-places-41">Marburg</placeName> angekündigt. Am Freitag gehts vielleicht mit Halt bei Pfarrer <persName ref="kbga-actors-363">Schlunck</persName> in <placeName ref="kbga-places-72">Melsungen</placeName> (dem Renitenzmann!) nach <placeName ref="kbga-places-27">Göttingen</placeName>. Dort predige ich, «mit Freuden» willkommen geheißen, am <date when="1921-02-27">27.</date> über — «der Herr wäget die Geister»<note xml:id="n01">Veröffentlicht unter dem Titel <bibl corresp="kbga-bibls-935"><title level="a">«Das große»</title>; in: <persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-403">E. Thurneysen</persName>, <title level="m">Komm Schöpfer Geist!</title>, München 1924, S. 14–23</bibl>. </note> [<ref type="can" subtype="bible" target="Spr.16.2">Spr 16,2</ref>]. (Ich bin schließlich auf diese <ref type="pub-" target="../volume/42/p349#p349">Predigt</ref><note xml:id="n02">Zuerst gehalten in <placeName ref="kbga-places-54">Safenwil</placeName> am <date when="1920-10-17">17.10.1920</date>.</note> gestoßen als auf die zugleich neutralste und sachlichste und bin eben daran, sie noch mit einigen Vorsichtsmaßregeln und Palisaden gegen <persName ref="kbga-actors-393">Stange</persName> und <persName ref="kbga-actors-808">Titius</persName> zu versehen! Im Ganzen ist nicht viel zu ändern.) Dienstliche Mitteilungen würden mich dort erreichen von Freitag bis Montag bei Pfarrer <persName ref="kbga-actors-170">Heilmann</persName>. Am Montag Abend habe ich mich bei Freund <persName ref="kbga-actors-607">Herpel</persName> angezeigt. Am Dienstag würde ich wenn nötig nach <placeName ref="kbga-places-19">Erlangen</placeName> fahren zu Prof. <persName ref="kbga-actors-283">Müller</persName> und käme Dienstag Abend oder Mittwoch nach <placeName ref="kbga-places-43">München</placeName>. Mach doch ja, daß ich dich dort vorfinde, gelt? […] Unbedingt mußt du hinkommen, <persName ref="kbga-actors-530">Dostojewski</persName> hin und her. Ich nehme die <bibl corresp="kbga-bibls-2099">Karamasoff</bibl> mit auf die Reise und lasse mir dann gerne von dir Aufklärungen geben. […]</p>
+        <p>Die Göttinger Sache kommt mir oft gänzlich unmöglich vor. […] Und nun naht schon die Stunde, da ich mich in den Expreß werfe, seltsam fragwürdige Situation! Deine Teilnahme und Freundschaft ist mir in diesen trüben Stunden ein großer Trost. Und wie werde ich erst in Zukunft deines Zuspruchs bedürfen; auf irgend einer Klippe werde ich ja sicher endigen.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Dank für deine Predigt. Sie ist <hi rend="italic">gut</hi>. Und <hi rend="italic">so</hi> lasse ich mir ein Gemeindeblatt gefallen!!</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

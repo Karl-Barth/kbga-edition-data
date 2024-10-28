@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3021">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 22. Januar 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3021 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 27–29.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3021</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 27-29</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">21</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 19</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 22. Januar 1915. <ref target="https://kba.karl-barth.ch/objects/8712">KBA 9370.66</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-01-22">22. Januar 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1915-01-22">22. Januar 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3020"/>
+          <ref type="next" target="kbga-texts-3022"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3020"/>
+          <ref type="next-in-corresp" target="kbga-texts-3022"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p027" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            <date when="1915-01-22">22. Januar 1915</date>
+          </dateline>
+          <salute>Mein Lieber,</salute>
+        </opener>
+        <p>Vielen Dank für deinen ausführlichen Brief. Ich habe ihn fast ganz lesen können! Wir haben dich sehr vermißt im <orgName ref="kbga-actors-8246">Kränzli</orgName>. Viel verfehlt hast du allerdings nicht. Ich bin mit <persName ref="kbga-actors-529">Dietschi</persName> hin und her zu Fuß gegangen. Was aber dazwischenlag, war eine altmodische Kaffeevisite. Es wurde eine Kriegsnovelle gelesen. Thema: Ein <pb xml:id="p028" ed="pga"/> Offizier zieht mit einem Faust im Sack in den Krieg und kommt als Verwundeter mit einem N. T. zurück. Sinnig und erbaulich! Vielleicht hätte ein <persName ref="kbga-actors-1412">Tolstoj</persName> etwas daraus machen können. Hier aber geschah nichts derartiges. Ich versuchte zu erklären, inwiefern mir die Hauptsache gefehlt habe, Kopfschütteln von Kollege L. mit der Bemerkung, es sei billig von uns Neutralen, das Kriegserleben der Deutschen zu kritisieren. <persName ref="kbga-actors-700">Müller</persName> — <placeName ref="kbga-places-777">Birrwil</placeName>, der meinen Hinweis auf die Ethik der Bergpredigt mit dem Wort zurückschlug: «Richtet nicht!» [<ref type="can" subtype="bible" target="Mt.7.1">Mt 7,1</ref>] stehe ebenfalls dort. Bumps! Weitere Versuche, mich zu erklären, stellte ich ein. Darauf Kaffee und Choralgesang. Das nächste Mal soll ich die Gesellschaft amüsieren.</p>
+        <p>Ich habe das «Erlebnis <persName ref="kbga-actors-329">Rade</persName>» auch in einer Predigt verarbeitet. Ich nahm einen Missionstext aus der Apg. und suchte zu zeigen, wie die Lage des Evangeliums inmitten der Welt der Götzen, Mammon, Bacchus, Vaterländer heute ähnlich sei wie in der Zeit der Anfänge, sagte dann aber, es sei gut, daß die Fronten sich deutlich abzeichnen. Der Staat von heute stehe dem Evangelium auch wieder wie ein Götze gegenüber. Und doch breche die Botschaft Jesu vom Himmelreich aufs Neue sich Bahn und dringe gleich dem Sauerteig in die Welt ein und mache die Götzen zum Spott. Schon heute leben wir Menschen mitten unter den Mächten und Gewalten von den Kräften des kommenden Reichs. […] Was du mir wegen <persName ref="kbga-actors-330">Ragaz</persName> rätst, will ich beherzigen, «geschimpft» habe ich zwar nie über ihn, möchte dir aber den Gegenrat geben, die <persName ref="kbga-actors-240">Kutter</persName>’sche Orientierung stärker aufzunehmen. Sie ruft zunächst zum Abwarten, ist aber im Grunde radikaler und zugleich aufbauender als die von <persName ref="kbga-actors-330">Ragaz</persName>. Doch sei dem wie ihm wolle, jedenfalls ist die Freundschaft und Aussprache mit dir viel wert, und wir wollen sie auch im neuen Jahr fortsetzen. […] Was du von <persName ref="kbga-actors-580">Greyerz</persName> erzählst, klingt beinahe apokalyptisch. Soll dann auf die von ihm empfohlene Predigt der religiössozialen Sendboten das Gottesreich anbrechen? Kriege und Erdbeben haben wir schon, nun müßten nur noch die 144000 religiössozialen Versiegelten [vgl. <ref type="can" subtype="bible" target="Apk.7.4">Apk 7,4</ref>] in weißen Hemden sich in Zürich-Jerusalem besammeln, und dann käme das Ende!</p>
+        
+        <p><pb xml:id="p029" ed="pga" rend="noPipe"/>Ich wünsche dir gute Besserung, auf daß du deinen Mund bald wieder auftun kannst.</p>
+        <closer>
+          <salute>Viele Grüße an dich und deine Frau</salute>
+           <salute>dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+          
+        </closer>
+        <postscript> 
+          <p>[…]</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

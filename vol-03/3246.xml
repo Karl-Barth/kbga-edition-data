@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3246">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 31. August 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3246 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 291.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3246</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 291-291</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">246</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 238</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 31. August 1918. <ref target="https://kba.karl-barth.ch/objects/9846">KBA 9370.255</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-08-31">31. August 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1918-08-31">31. August 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3245"/>
+          <ref type="next" target="kbga-texts-3247"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3245"/>
+          <ref type="next-in-corresp" target="kbga-texts-3247"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:34+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:34+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p291" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            
+            <date when="1918-08-31">31. August 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Ja, die Pfärrer und wir — auch mir ist <placeName ref="kbga-places-116">Lenzburg</placeName> wie ein dumpfer Traum. Es ist einfach etwas pöbelhaft-ungehöriges in diesen Zusammenkünften — der <hi rend="italic">Sache</hi> gegenüber, um die es ginge. […] Wir und unsre Gemeinden — ein weiteres fragwürdiges Blatt, und doch lieber allerlei offene Wurstigkeit und Lähmung und sogar unverschämtes Zeug als — kirchliche Bezirkstage! Der kirchliche Eifer, in den deine immerhin teilweise aufrichtigen Episkopen den neuen Ton verwandeln, und der sich sogar gröblich gegen dich selber kehren kann, hat ja etwas Tragisches, aber schließlich stehen wir doch über diesen Mißdeutungen.</p>
+        <p>Denk, ich habe die Predigt am Jugendtag in <placeName ref="kbga-places-474">Regensberg</placeName> übernommen unter der Bedingung, daß ich erstens eine volle Stunde für den Gottesdienst bekomme, damit er werden kann, was er soll, eine Sammlung auf die Hauptsache. Zweitens, daß ich nicht predigen muß über das ausgegebene Thema: «Jesus Christus unser Held und Führer!» sondern zum Thema: «Herr, ich bin zu jung!»<note xml:id="n01"><persName ref="kbga-actors-403">Thurneysen</persName> predigte dann (am 22. <date when="1918-09">September 1918</date>) unter dem Thema <bibl corresp="kbga-bibls-4127">«<title level="m">Was sagt Gott zu uns?</title>» über <ref type="can" subtype="bible" target="Ri.7.1 Ri.7.7">Ri 7,1-7.</ref> Die Predigt ist abgedruckt in: Die Glocke, Jg. 27, Nr. 1, Okt. 1918.</bibl>
+               </note> Ich habe den <orgName ref="kbga-actors-5239">CVJM</orgName>-Leuten eingehend die geistige Stelle beschrieben, an der ich zu finden sei, wo es nicht heiße: wir <hi rend="italic">haben</hi> Jesus, <hi rend="italic">haben</hi> unsere Reformatoren, sondern: <hi rend="italic">Haben wir wirklich Jesus? haben</hi> wir die Reformation? Vielleicht wollen sie nun nachträglich doch lieber einen andern als mich.</p>
+        <p>Ich predige morgen über den Segen Gottes (<ref type="can" subtype="bible" target="Ps.127">Ps. 127</ref>), ob ichs wirklich herausbringe?</p>
+        <closer>
+          <salute rendition="left">Herzlich dein</salute>
+          <signed rendition="right"><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3156">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 1. Mai 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3156 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 194–196.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3156</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 194-196</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">156</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 153</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 1. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9414">KBA 9270.115</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-05-01">1. Mai 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-05-01">1. Mai 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3155"/>
+          <ref type="next" target="kbga-texts-3157"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3155"/>
+          <ref type="next-in-corresp" target="kbga-texts-3157"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:28+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:28+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p194" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-05-01">1. Mai 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Da kommt allerhand Unterhaltendes und Belehrendes aus Welt und Gottesreich, von dem ihr auch Einsicht nehmen sollt. Habt ihr auch so Freude an der Sonne und am Frühling wie wir? Hier ist augenblicklich <hi rend="italic">ein</hi> großes festliches Treiben, besonders dank den Kinderlein, die mit ihrem Lust- und Wehegeschrei mit den Vögeln wetteifern. Heute ist ja sozialistischer Weltfeiertag und wenn hier ein Umzug stattfände, so würde ich willig mitdemonstrieren gegen den Teufel; wir sollten uns wirklich auch manchmal auf diese Weise Luft machen wie <persName ref="kbga-actors-47">Blumhardt</persName>, als er in <placeName ref="kbga-places-240">Kiel</placeName> ins Meer sprang. Vorderhand sind wir noch Pfärrer, und Herr <persName ref="kbga-actors-5868">Züricher</persName> hats uns ja in den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>» wieder einmal gesagt, was das Schreckliches ist.<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4049"><persName ref="kbga-actors-5868">U. W. Züricher</persName>, <title level="a">Das Pfarramt in der religiösen Krisis der Gegenwart</title>, in: Neue Wege, Jg. 11 (1917), S. 180–188.</bibl>
+                    </note> Dieser «abgründige Kulturmensch» <persName ref="kbga-actors-5868">Züricher</persName>!! Und dieser <persName ref="kbga-actors-330">Ragaz</persName> mit seinen immer neuen Meuten von <pb xml:id="p195" ed="pga"/> fatalen Schriftstellern und Dichtern!<note xml:id="n02">In den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>» wurden regelmäßig auch Gedichte veröffentlicht, darunter öfters solche von <persName ref="kbga-actors-5868">U. W. Züricher</persName>.</note> Es ist nachgerade zum Erbrechen! […] Wir stehen hier ganz im Zeichen der Landwirtschaft. Gestern den ganzen Nachmittag umgegraben und gegüllt!<note xml:id="n03">Güllen = Jauche gießen.</note> Heute wieder von morgens 5 Uhr an, <persName ref="kbga-actors-403">Eduard</persName>! So ein angenehmes Rasten des Geistes, der noch unterbewußt weiterglimmt, hoffentlich auf das nächste Predigtlein hin. Das letzte war ein etwas seltsam mysteriöses Winken und Fahnenschwenken über Warten und Eilen oder vielmehr über Gottes Geduld und Eifer. Da ist denn doch Herr Pfarrer F. ein anderer Mann.<note xml:id="n04">Die Sätze beziehen sich auf einen beigelegten Brief.</note> Wie hat er uns so ganz durchschaut in unserer Blöße, und wie freundlich begrüßt er nun den heimkehrenden verlorenen Sohn! Was soll ich ihm antworten? «Gott erhalte Ihnen Ihre Unverfrorenheit!» oder so etwas, oder gar nichts, oder ein Wort aus der «Lindigkeit» heraus, in deren Kundgebung ich so berühmt bin? […] Was soll ich sagen, wenn <persName ref="kbga-actors-5803">Lenchen</persName> von mir eine Approbierung ihrer Gesinnungstüchtigkeit fordert? Es ist jedes Wort so mißlich, wenn das Thema im Grunde das Persönliche ist, dieses verruchte Persönliche, das wir alle nicht los werden. Der Teufel soll sie holen, die Persönlichkeitenpflege nämlich, die Seelenrücksichten und Gesinnungsuntersuchungen, an diesem Knebel könnten wir noch einmal den Hals brechen, wenn wir ihn nicht los werden. Damit komme ich zu <persName ref="kbga-actors-457">Bader</persName>. Zu der neuen Auflage seines Katechismus<note xml:id="n05">
+                        <bibl corresp="kbga-bibls-1643"><title level="m">Gottesreich. Ein Unterweisungsbüchlein</title>. Herausgegeben unter Mithilfe einiger Freunde von Hans Bader, Pfarrer in Zürich, Bern
+                            1916; 2., stark veränderte Aufl. 1917.</bibl>
+                    </note> nämlich, die ich, eben auch mit meiner morgen zu eröffnenden Unterweisung beschäftigt, genauer besichtigt habe und verschlimmbessert finde, besonders im 1. Teil, der ganz krankhaft pietistisch geworden ist. Lies als Probe nur Abschnitt 11-15, was für haltlose Dinge! In der Einleitung hat sich die von dir s. Z. gerügte Orientierung am Menschen und darum das vom Nein aus reden noch akzentuiert, im Ganzen ist die Schrebergarten-Stimmung noch stärker geworden und die Annäherung an die Kirche noch unverkennbarer. Kurzum, das geht also nicht. Was aus meinem Unterweisen noch werden soll, das ist freilich ebenso unabsehbar. Wie beneide ich dich um […] klassische Einfälle, die mir einfach nicht kommen. — Was für ein Lichtblick: dieser [Wahl-] Sieg der Basler Sozialdemokraten über den Freisinn und die <orgName ref="kbga-actors-5804">Basler Nachrichten</orgName> [konservative Zei<pb xml:id="p196" ed="pga" break="no"/>tung]! Ihr heutiger Wahlartikel mit seinen betrübten Munkeleien war mir ein wahres Fest zu lesen. — […]</p>
+        <closer>
+          <salute>Mit den herzlichsten Grüßen jubeln euch zu</salute>
+           <salute>eure</salute>
+          <signed>Safenwiler</signed>
+        </closer>
+     
+      <postscript>
+        <p>Heute ist es erst 10 Jahre, daß ich Präses der <orgName ref="kbga-actors-9812">Berner Zofingia</orgName> wurde!</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

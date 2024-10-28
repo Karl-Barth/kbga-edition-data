@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3303">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 3. Dezember 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3303 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 356–357.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3303</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 356-357</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">303</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 294</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 3. Dezember 1919. <ref target="https://kba.karl-barth.ch/objects/10329">KBA 9270.221</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-12-03">3. Dezember 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-12-03">3. Dezember 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3302"/>
+          <ref type="next" target="kbga-texts-3304"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3302"/>
+          <ref type="next-in-corresp" target="kbga-texts-3304"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:38+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:38+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p356" ed="pga"/>
+        
+        <opener>
+          Barth
+          <dateline>
+            <date when="1919-12-03">3. Dezember 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Gut gespeist? Ja durchaus: Im Waggon-Restaurant <placeName ref="kbga-places-1">Aarau</placeName>-<placeName ref="kbga-places-9">Bern</placeName>, lässig ans Fenster gelehnt, unter Offizieren und Agrariern und Nationalräten. Bildhauer <persName ref="kbga-actors-618">Hubacher</persName> war auch dabei. Wenn mich nur niemand gesehen hat! In <placeName ref="kbga-places-9">Bern</placeName> besuchten wir den Herrn <persName ref="kbga-actors-6579">Bäschlin</persName>, dem man nun 500 Exemplare [<bibl corresp="kbga-bibls-1497">Römerbrief</bibl>] wegnehmen und von <placeName ref="kbga-places-43">München</placeName> aus vertreiben wird. Ich war bei Prof. <persName ref="kbga-actors-613">Hoffmann</persName>, der im Studierzimmer meines <persName ref="kbga-actors-21">Vaters</persName> ein durchaus ephemeres […] Dasein führt, und schrieb ihm so lange auf den Kragen, bis alle seine Geschützlein zum Schweigen gebracht waren. Dann versicherte ich ihm in kühner Wendung in blinder Befolgung deines Johanneischen Vorbilds, daß wir im Grunde durchaus das gleiche meinten und uns sehr nahe stünden, worüber er noch einmal paff war.</p>
+        <p>Hier allerlei zur Dialektik des Reiches Gottes. <persName ref="kbga-actors-459">Gertrud Bäumer</persName><note xml:id="n01"><persName ref="kbga-actors-459">Gertrud Bäumer</persName> (1873–1954), Schriftstellerin, erstes weibliches Mitglied des Reichstags. Sie gehört zum Kreis <persName ref="kbga-actors-706">Friedr. Naumanns</persName>.</note> und <persName ref="kbga-actors-580">Greyerz</persName> sägen mich glatt ab!<note xml:id="n02">Die Artikel von <persName ref="kbga-actors-459">G. Bäumer</persName> und <persName ref="kbga-actors-580">K. v. Greyerz</persName>, von denen <persName ref="kbga-actors-2151">Barth</persName> spricht, konnten nicht nachgewiesen werden.</note> Unser steiler Freund <persName ref="kbga-actors-751">Rosenstock</persName> traut mir auch nicht so vorbehaltlos wie <persName ref="kbga-actors-537">Ehrenberg</persName>. Und was soll man von <persName ref="kbga-actors-771">Schultheis</persName><note xml:id="n03"><persName ref="kbga-actors-771">Heinrich Schultheis</persName> (1886–1951), Pfarrer in Gelnhaar (Oberhessen), Freund <persName ref="kbga-actors-607">Herpels</persName>, Teilnehmer der <orgName ref="kbga-actors-9864">Tambacher Konferenz</orgName>.</note> denken, der mir bedeutet, daß ich noch nie zwischen Gott und Revolver gewählt habe, aber er! <persName ref="kbga-actors-751">Rosenstock</persName> und <persName ref="kbga-actors-771">Schultheis</persName> sollte ich nun umsichtigst antworten — wie? darüber möchte ich dann am Sonntag oder Montag deinen klugen Rat hören.</p>
+        <p>Ja ich komme also, am Sonntag in der Morgenfrühe, wahrscheinlich mit einigen Safenwilern. Die Predigt beginnt um <hi rend="top">1</hi>/<hi rend="buttom">2</hi>10 Uhr, nichtwahr? Auch aus der Kinderlehre darfst du uns dann nicht ausschließen. Am Nachmittag begleite ich dann meine Leute nach da oder dorthin und […] kehre auf den Abend zurück. […]</p>
+        <p>Den «<orgName ref="kbga-actors-8244">Neuwerk</orgName>»-Leuten gegenüber möchte ich doch die Flinte nicht so rasch ins Korn werfen. […] Die Verwirrung ist allerdings groß, aber nicht hoffnungslos. Es kann uns ja bei unsrer Klarheit über das Problematische, Zweideutige unseres Redens nicht wundern, wenn sie uns zunächst in der Tat trotz allem Hören immer <pb xml:id="p357" ed="pga"/> noch überhören. Sie «fortkutschieren» zu lassen, wirds immer noch Zeit sein, wenns sein muß. Ob ich ihnen mein <ref type="pub" target="48062">Suhrer Redlein</ref> für das «<orgName ref="kbga-actors-8244">Neue Werk</orgName>» schicken soll?</p>
+        <p>Letzten Sonntag passierte das Fatale, daß ich zwei Buben, die sich während meiner Bemühungen um die Athalja-Geschichte [Kinderlehre über <ref type="can" subtype="bible" target="2.Kön.11">2.Kö 11</ref>] prügelten, mit je einer kräftigen Watsche aus der Kirche entfernte. Es mußte scheinbar sein, aber es reut mich; es war eine bedenkliche Schwäche, die mich aus dieser Tat nachher ansah.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Ich habe den ganzen <persName ref="kbga-actors-4077">Kampschulte</persName><note xml:id="n04">
+                        <bibl corresp="kbga-bibls-1900"><persName ref="kbga-actors-4077">F. W. Kampschulte</persName>, <title level="m">Johann Calvin. Seine Kirche und sein Staat in Genf</title>, 2 Bände, Leipzig 
+                        1869/1899.</bibl>
+                    </note> gelesen und bin jetzt an <bibl corresp="kbga-bibls-4183"><persName ref="kbga-actors-77">Calvins</persName> Briefen</bibl>.</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

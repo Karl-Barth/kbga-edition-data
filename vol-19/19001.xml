@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19001">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="formal">Vorwort</title>
+        <title type="content">Vorwort</title>
+        <title type="citation_line_1">Finze, Holger: Vorträge und kleinere Arbeiten 1922–1925: Vorwort, 26. Oktober 1989</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19001 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. vii–xii.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19001</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Vorwort: Vorwort</title>
+          <author ref="kba-actors-3669">Finze, Holger</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. vii-xii</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">1</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, Vorwort</title>
+          <author ref="kba-actors-3669">Finze, Holger</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1989-10-26">26. Oktober 1989</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>preface</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:49+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:49+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="pr007" ed="pga"/>
+        <head>VORWORT</head>
+        <div>
+        <div>
+        <p>Während seiner Tätigkeit als Honorarprofessor für Reformierte Theologie an der
+          <orgName ref="kbga-actors-8702">Universität Göttingen</orgName> (<date from="1921-10" to="1925-10">Oktober 1921 bis Oktober 1925</date>) wurde <persName ref="kbga-actors-2151">Karl Barth</persName> von verschiedenen Seiten immer wieder zu Vorträgen eingeladen. Die Neubearbeitung
+          von «<hi rend="italic">Der Römerbrief</hi>»<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-48">München <choice><sic>1921</sic><corr type="misprint" resp="pz">1922</corr></choice><hi rend="sup">2</hi> (= 1. Abdruck der Neubearbeitung)</bibl>.</note> hatte in kurzer Zeit
+          einen großen Leserkreis im gesamten deutschsprachigen Raum gefunden; so regte sich an
+          verschiedenen Orten bald der Wunsch, den Autor dieses aufsehenerregenden Buches in persona
+          kennenzulernen und zu hören. Umgekehrt ergab sich auf diese Weise für <persName ref="kbga-actors-2151">Barth</persName> die
+          Gelegenheit, in die unterschiedlichsten (insbesondere deutschen) kirchlichen Verhältnisse
+          Einblick zu gewinnen: vom Ruhrgebiet bis Ostfriesland, von Bremen bis Königsberg, von
+          Lüneburg bis Thüringen. Manche lebenslangen Bekanntschaften oder sogar Freundschaften
+          haben auf diesen Vortragsreisen ihren ersten Anstoß erfahren.</p>
+        <p>Schon das Jahr <date>1922</date> wurde so «ein Schauplatz beträchtlicher Schlachten»<note xml:id="n02">Rundbrief <persName ref="kbga-actors-2151">Barths</persName> an Schweizer Freunde vom <date from="1922-01-22" to="1922-01-23">22./23.1.1922</date>, in: <bibl corresp="kbga-bibls-932">
+                            <persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-403">E. Thurneysen</persName>, <hi rend="italic">Briefwechsel</hi>, Bd. II: <hi rend="italic">1921–1930</hi>, hrsg. von <persName ref="kbga-actors-403">E. Thurneysen</persName>,
+                  Zürich 1974, <ref type="pub-" target="4012#p032">S. 32</ref>.</bibl></note>. Am <date when="1922-07-22">7. Juli</date> seufzte <persName ref="kbga-actors-2151">Barth</persName> in einem Rundbrief an Freunde in der <placeName ref="kbga-places-58">Schweiz</placeName>: «Was
+          sollte ich nicht alles, wozu ich einfach nicht komme! Ich könnte jetzt an jedem Finger
+          einen Vortrag haben, irgendwo in diesen unendlichen Ebenen, wo ich, wie mir heute wieder
+          einer schreibt, ‹manchen Freund habe, der gerne bei dieser Gelegenheit zu Ihren Füßen
+          sitzen würde› …»<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-932">
+                            A. a. O., <ref type="pub-" target="../volume/04/p092#p092">S. 92</ref></bibl>; <persName ref="kbga-actors-2151">Barth</persName> zitiert aus einem Brief vom <date when="1922-07-06">6.7.1922</date> von
+              <persName ref="kbga-actors-286">Johannes Müller</persName> (-Schwefe), vgl. in diesem
+            Band <ref type="pub" target="../volume/19/p102#p102">S. 102</ref>.</note> Einem großen Teil der Anfragenden mußte <persName ref="kbga-actors-2151">Barth</persName> im Blick auf den
+          ohnehin starken Druck der akademischen Lehrverpflichtungen Absagen erteilen: «mein Buckel
+          ist ohnehin beladen, mein Haupt sorgenschwer»<note xml:id="n04">Rundbrief <persName ref="kbga-actors-2151">Barths</persName> vom
+              <date when="1922-05-09">9.5.1922</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="../volume/04/p074#p074">S. 74</ref>.</bibl></note>. Vortragseinladungen, die <persName ref="kbga-actors-2151">Barth</persName> ablehnte, waren etwa ergangen von Otto Herpel, «am Schlüchterner Pfingsttreffen über
+          ‹Christentum und Schwärmertum› zu reden»<note xml:id="n05">
+                        <bibl corresp="kbga-bibls-932">
+                            A. a. O.</bibl></note>; vom Wissenschaftlichen
+          Predigerverein der Provinz Hannover, wo <persName ref="kbga-actors-2151">Barth</persName> zunächst noch erwogen hatte, «etwas über die
+          calvinische Abendmahlslehre»<note xml:id="n06">Rundbrief vom <date when="1923-02-28">28.2.1923</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="../volume/04/p154#p154">S. 154</ref>.</bibl></note> vorzu<pb xml:id="pr008" ed="pga" break="no"/>tragen; vom Göttinger Pfarrer
+            <persName ref="kbga-actors-1330">Wörpel</persName>, «einmal den hiesigen
+          Sozialdemokraten das Christentum zu erklären»<note xml:id="n07">Rundbrief vom
+              <date when="1923-05-18">18.5.1923</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="../volume/04/p169#p169">S. 169</ref>.</bibl></note>. Aus <placeName ref="kbga-places-514">Holland</placeName> kam <persName ref="kbga-actors-2151">Barth</persName> gar zu Ohren, daß er «mit einem Referat über Religion und
+          Ethik auf einer schon gedruckten Versammlungsanzeige stehe, ohne bisher selbst begrüßt
+          worden zu sein!»<note xml:id="n08">Brief <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-403">E.
+              Thurneysen</persName> vom <date when="1923-06-18">18.6.1923</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="../volume/04/p176#p176">S. 176</ref>.</bibl></note>
+        </p>
+        <p>Die <hi rend="italic">Vorträge</hi> aus den Jahren 1922–1925, die hier nun erstmals zu einem
+          Band vereinigt sind, entstanden meist in größtem zeitlichem Gedränge; so mancher wurde
+          noch während der Fahrt im D-Zug einer kritischen Revision unterzogen oder dort sogar erst
+          «mit dem Mut der Verzweiflung»<note xml:id="n09">Rundbrief <persName ref="kbga-actors-2151">Barths</persName> vom
+              <date when="1922-10-07">7.10.1922</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="4033#p106">S. 107</ref></bibl>; vgl. auch in diesem Band <ref type="pub" target="../volume/19/p146#p146">S. 146</ref>.</note> in letzter Minute
+          fertiggestellt. Sie sind nach deren mündlicher Abhaltung (bis auf zwei kleine
+            Referate<note xml:id="n10">
+                        «<title level="a">Über
+                  Kirche</title>», in diesem Band <ref type="pub" target="../volume/19/p001#p001">S. 1ff.</ref>; «<title level="a">Feuerbach</title>», in diesem Band <ref target="../volume/19/p006#p006"><choice><sic>S. 7ff.</sic><corr type="misprint" resp="pz">S. 6ff.</corr></choice></ref></note>, ein Thesenblatt<note xml:id="n11">
+                        
+                            <title level="a">«Diskussionsthesen» für einen Vortrag in Bremen</title>, in diesem Band
+                <ref type="pub" target="../volume/19/p176#p176">S. 176ff.</ref></note> und zwei längere Vorträge<note xml:id="n12">
+                        
+                            <title level="a">Die kirchlichen Zustände in der Schweiz</title>, in
+                diesem Band <ref type="pub" target="../volume/19/p014#p014">S. 14ff.</ref>;
+                            <title level="a">Die Kirche
+                  und die Offenbarung</title>, in diesem Band S. <ref type="pub" target="../volume/19/p307#p307">307ff.</ref></note>) alle
+          von <persName ref="kbga-actors-2151">Barth</persName> überarbeitet und dann publiziert worden, ab <date>1923</date> vor allem in der neugegründeten
+          Zeitschrift «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>».</p>
+        <p>Darüber hinaus finden sich in diesem Band «<hi rend="italic">kleinere Arbeiten</hi>» aus der
+          theologischen Diskussion, die alle in Zeitschriften veröffentlicht wurden. Diese variieren
+          im Umfang von einer kurzen «Mitteilung»<note xml:id="n13">
+                        
+                            <title level="m">Sunt certi denique fines. Eine Mitteilung</title>, in diesem Band <ref type="pub" target="../volume/19/p490#p490">S. 490ff.</ref></note> bis hin zu einem ausführlichen dogmengeschichtlichen
+            Aufsatz<note xml:id="n14">
+                        
+                            <title level="a">Ansatz und Absicht in
+                  Luthers Abendmahlslehre</title>, in diesem Band <ref type="pub" target="../volume/19/p248#p248">S. 248ff.</ref></note>.
+          Ihre Charakterisierung als «<hi rend="italic">kleinere</hi> Arbeiten» ergibt sich aus der
+          Relation zu den Bänden in der Abteilung «Akademische Werke» der Gesamtausgabe, wo die
+          größeren und selbständigen Bestandteile des <foreign xml:lang="fre">Œuvres</foreign> ihren Platz haben.</p>
+       </div>
+       <div>
+        <head type="sub">
+          <hi rend="italic">a) Zur Wiedergabe des Textes in dieser Edition</hi></head>
+
+        <p>Die meisten der hier vereinten Vorträge sind zuerst in «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>» erschienen
+          und fanden später Aufnahme in den beiden Bänden «Gesammelte Vorträge» <persName ref="kbga-actors-2151">Barths</persName><note xml:id="n15">
+                        <bibl corresp="kbga-bibls-929">
+                            <title level="a">Das Wort Gottes und die
+                  Theologie</title> (<hi rend="italic">Gesammelte Vorträge</hi> [I]),
+                  München
+                1924 u. ö.</bibl>; <bibl corresp="kbga-bibls-954">
+                            <title level="a">Die
+                  Theologie und die Kirche</title> (<hi rend="italic">Gesammelte Vorträge
+                II</hi>), München
+                1928 u. ö.</bibl></note>. In diesem Falle folgt die hier
+            vorlie<pb xml:id="pr009" ed="pga" break="no"/>gende Wiedergabe des Textes der
+          Publikation in dem betreffenden Sammelband. Ein Vergleich der verschiedenen Druckfassungen
+          ergab hier und da Abweichungen größerer oder kleinerer Art, die auf spätere Eingriffe
+          <persName ref="kbga-actors-2151">Barths</persName> in den Text zurückgehen (z. B. Korrektur von im Erstabdruck unentdeckt gebliebenen
+          Satzfehlern; Ergänzung von Interpunktionen; Umstellung einzelner Worte; Glättungen des
+          Stils bzw. des Ausdrucks; Einschübe bzw. Streichungen im Text und in den Anmerkungen).
+          Diese sind, soweit sie gravierend erschienen, in den Anmerkungen des Herausgebers
+          dokumentiert.</p>
+        <p>Die zwei kurzen Referate, das Thesenpapier und die zwei Vorträge, die oben erwähnt
+            wurden<note xml:id="n16">Vgl. bei <ref type="pub" target="#fn_n10">Anm. 10</ref>–<ref type="pub" target="#fn_n12">12</ref>.</note>, werden hier erstmals im Druck
+          veröffentlicht. Mit Recht stellt sich die grundsätzliche Frage der «editorischen Ethik»:
+          darf ein Text, den sein Autor selbst nicht über den eng gesteckten Bereich des
+          persönlichen mündlichen Vertrags hinausgehen lassen wollte, postum gleich behandelt (und
+          damit publiziert) werden wie ein Text, der nach dem Willen des Verfassers bereits einmal
+          gedruckt vorlag? Im Falle von «Die Kirche und die Offenbarung» hatte <persName ref="kbga-actors-2151">Barth</persName> sogar eine
+          Überarbeitung für den Druck begonnen, aber dann abgebrochen mit der Begründung; «der
+          Vortrag gefällt mir gar nicht»<note xml:id="n17">
+                        <bibl corresp="kbga-bibls-932">Brief <persName ref="kbga-actors-2151">Barths</persName> an
+                  <persName ref="kbga-actors-403">E. Thurneysen</persName> vom 20.4.1924,
+                in: <hi rend="italic">Briefwechsel</hi>, a. a. O., <ref type="pub-" target="../volume/04/p244#p244">s. 244</ref>.</bibl></note>, ja
+          er sei ihm «so widrig»<note xml:id="n18">Rundbrief <persName ref="kbga-actors-2151">Barths</persName> vom <date when="1924-05-18">18.5.1924</date>, <bibl corresp="kbga-bibls-932">
+                            a. a. O., <ref type="pub-" target="../volume/04/p254#p254">S. 254</ref>.</bibl></note> geworden. Daß diese fünf Stücke dennoch in diesen Band aufgenommen werden,
+          entspricht der Anlage der Gesamtausgabe, die grundsätzlich auch von <persName ref="kbga-actors-2151">Barth</persName> nicht zur
+          Publikation bestimmte Texte berücksichtigt, um seinen theologischen Entwicklungs- und
+          Erkenntnisgang so lückenlos wie möglich zu dokumentieren. Der besondere
+          Manuskript-Charakter (Abkürzungen, Stichworte u.a.) wurde in diesen Fällen bewußt nur dann
+          editorisch berührt, wenn es unbedingt nötig erschien.</p>
+        <p>Orthographische und stilistische Eigenheiten <persName ref="kbga-actors-2151">Barths</persName> (z. B. «besondre», «Störefried»)
+          wurden – auch in ihrer Uneinheitlichkeit (die vermutlich auf den jeweiligen Setzer
+          zurückgeht) – belassen. Zusätze des Herausgebers im Text (Bibelstellen; Seitenzahlen;
+          vereinzelte Wort<pb xml:id="pr010" ed="pga" break="no"/>ergänzungen, die der besseren
+          Verständlichkeit eines Satzes dienen), sind mit eckigen Klammern [ ] markiert.
+          Interpunktionen wurden, den heutigen Regeln entsprechend, stillschweigend ergänzt bzw.
+          korrigiert. Fremdsprachliche Zitate, die sich in den Erstdrucken durch Antiqua-Satz von
+          dem Fraktur-Satz des fortlaufenden Textes abhoben, sind vom Herausgeber in
+          Anführungszeichen gesetzt; Sperrsatz der Erstdrucke bzw. Unterstreichungen in den
+          Manuskripten werden durch Kursivsatz wiedergegeben. In die vorliegende Orthographie und
+          Interpunktion von Briefen Dritter, die in den Anmerkungen des Herausgebers zitiert werden,
+          wurde nicht eingegriffen.</p>
+        <p>Wo im Erstdruck eine neue Seite beginnt, ist die originale Seitenzahl in senkrechten
+          Strichen in den Text eingefügt; wo mehrere Abdrucke vorhanden sind, wird am Ende der
+          betreffenden Einleitung erklärt, auf welchen von diesen sich die Seitenangaben beziehen.
+          Eine bibliographische Aufstellung der deutschsprachigen Abdrucke findet der Leser am Ende
+          des Bandes.</p>
+        <p>Die arabisch bezifferten Anmerkungen Barths wurden in alphabetische transponiert, um sie
+          vom Anmerkungsapparat des Herausgebers abzuheben.</p>
+       </div>
+       <div>
+        <head type="sub"><hi rend="italic">b) Einleitungen</hi></head>
+
+        <p>Jedem einzelnen Stück ist (in Kursivsatz) eine Einleitung vorangestellt, die über
+          Vorgeschichte, Anlaß, Umstände usw. der Entstehung des betreffenden Textes orientiert und
+          damit auch zur Erhellung mancher Anspielungen im Text beiträgt. Wurde ein Vortrag mehrmals
+          gehalten, so ist die Einleitung nach den Orten und Daten der Veranstaltungen
+          gegliedert.</p>
+        <p>Bei der Zusammenstellung des Materials war ich auf die Mithilfe verschiedener kirchlicher
+          Archive, Institute und Behörden, von theologischen Fakultäten, Pfarrämtern und
+          Einzelpersonen in der Bundesrepublik, der DDR, der Schweiz,
+          Schottland und Kanada angewiesen. Ich spreche ihnen allen hiermit meinen Dank aus für die
+          zahlreichen Mitteilungen.</p>
+       </div>
+       <div>
+        <head type="sub"><hi rend="italic">c) Anmerkungen des Herausgebers</hi></head>
+
+        <p>Mit gewisser Selbstironie konnte <persName ref="kbga-actors-2151">Barth</persName> 1923 in Hinblick auf seinen Aufsatz «Ansatz und
+          Absicht in Luthers Abendmahlslehre»<note xml:id="n19">Vgl. <ref type="pub" target="#fn_n14">Anm. 14</ref>.</note> an <pb xml:id="pr011" ed="pga"/>
+          <persName ref="kbga-actors-512">R. Bultmann</persName> schreiben: «Sie werden auch Einer
+          von denen gewesen sein, die gelacht haben, als Sie in Nr. 4 unserer Zeitschrift [= <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>] sahen, daß ich
+          nun auf einmal auch mit Anmerkungen zu Felde ziehe.»<note xml:id="n20">Brief <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-512">R.
+            Bultmann</persName> vom <ref type="pub" target="../volume/01/p021">
+                            <date when="1923-10-09">9.10.1923</date></ref>, in: <bibl corresp="kbga-bibls-1921">
+                            <persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-512">R.
+                  Bultmann</persName>, <hi rend="italic">Briefwechsel 1922–1966</hi>, hrsg. von B.
+                Jaspert, Zürich 1971, S. 17.</bibl></note> In der Tat war <persName ref="kbga-actors-2151">Barth</persName> (da seine Vorträge immer weniger reine Redemanuskripte waren,
+          sondern anschließend zu Zeitschriftenbeiträgen überarbeitet wurden) darum bemüht, Fundorte
+          für Zitate oder auch kleinere Nebenbemerkungen vermehrt in Form von Fußnoten anzubringen.
+          Die heutige editorische Arbeit ist dadurch zwar oft wesentlich erleichtert, jedoch
+          keinesfalls gänzlich unnötig geworden. Zahlreiche – mehr oder minder verschleierte –
+          Anspielungen im Text, dogmengeschichtlich markante Begriffe, Bildungszitate, Schlagworte
+          aus der damaligen theologischen Diskussion waren dem heutigen Leser zu erklären bzw. mit
+          Verweisen auf Publikationen und typischen Zitaten zu belegen.</p>
+        <p>Hier habe ich besonders Herrn Pfarrer Dr. Hinrich
+            Stoevesandt, Leiter des Karl Barth-Archivs in Basel, zu danken, der mir immer
+          wieder mit Hinweisen und Entdeckungen hilfreich zur Seite stand. Herr Vikar Dr. Ulrich Winkler, Assistent im Karl Barth-Archiv vom
+          Herbst 1986 bis zum Frühjahr 1988, hat sich um die Verifizierung zahlreicher Zitate
+          verdient gemacht.</p>
+       </div>
+       <div>
+        <head type="sub"><hi rend="italic">d) Register</hi></head>
+
+        <p>Am Ende dieses Bandes befinden sich Bibelstellen-, Namen-, Orts-, deutsches und
+          lateinisches Begriffsregister. Herr Pfarrer i. R. Hermann
+            Schmidt, Oldenburg, hat sich der großen Mühe unterzogen, sie alle zu
+          erstellen, und damit dem Leser, der ein spezielles Interesse verfolgt, die Auffindung
+          erleichtert. Ich bin ihm für seine freundliche Unterstützung sehr dankbar.</p>
+        <p>Weiterhin habe ich zu danken der Kantonsbibliothek Graubünden, Chur, für die Beschaffung
+          von zahllosen Büchern und Zeitschriften und Frau Rosemarie Manser-Menzel, Eich, für die Mithilfe beim Korrekturlesen. Meine
+          Ehefrau, Wilma Finze-Michaelsen, hat nicht nur
+          beim Vergleich der verschiedenen Druckfassungen mitgewirkt, sondern mir <pb xml:id="pr012" ed="pga"/> während der vier Jahre Arbeit an der Edition dieses Bandes auf direkte und
+          indirekte Weise mannigfache Unterstützung und Entlastung gewährt.</p>
+        <p>Auf die freundliche und anregende Zusammenarbeit mit Herrn Dr. Stoevesandt blicke ich in guter Erinnerung zurück. In
+          zahllosen Telephonaten, Briefen und Zusammenkünften mit ihm wurden die Mosaiksteine (und
+          oft genug nur -Splitter!) für die Herausgabe dieses Bandes zusammengetragen.</p>
+        <closer>
+          <dateline rend="left">Schiers (Graubünden), am 26. Oktober 1989</dateline>
+          <signed rend="right"><persName ref="kbga-actors-3669">Holger Finze</persName></signed>
+        </closer>
+      </div>
+       </div>
+      </div>
+    </body>
+  </text>
+</TEI>

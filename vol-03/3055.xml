@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3055">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 6. August 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3055 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 69–71.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3055</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 69-71</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">55</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 53</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 6. August 1915. <ref target="https://kba.karl-barth.ch/objects/8878">KBA 9270.41</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-08-06">6. August 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-08-06">6. August 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3054"/>
+          <ref type="next" target="kbga-texts-3056"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3054"/>
+          <ref type="next-in-corresp" target="kbga-texts-3056"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:21+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:21+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p069" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1915-08-06">6. August 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Habe besten Dank für deinen Brief. Wir freuen uns auch sehr auf euren Besuch hier. […]</p>
+        <p><persName ref="kbga-actors-330">Ragaz</persName>: Ich habe seinen Artikel<note xml:id="n01">Vgl. Brief vom <ref type="pub" target="3054#fn_n04"><date when="1915-08-04">4.8.1915</date>, Anm. 4</ref>.</note> erst gestern Abend gründlich gelesen und finde ihn sehr instruktiv. In dem Sinn, daß er sehr deutlich macht, was ihm gegenüber <persName ref="kbga-actors-48">Blumhardt</persName> und <persName ref="kbga-actors-240">Kutter</persName> […] fehlt. […] Mir kommt die ganze Kasuistik sehr unklar vor, das schwimmt doch alles ineinander. […] Ich werde nicht klug daraus, aber das ist schließlich nebensächlich. Ich könnte <hi rend="italic">auch</hi> nur so stammeln, wenn ich ein derartiges ethisches Programm aufstellen wollte. Entscheidend ist mir das Andre, der Ansatz. Warum sich gleich in die Ethik stürzen («was sollen wir tun?», die alte Frage, die der <hi rend="italic">Sache</hi> eigentlich ausweicht!), als ob es nichts Dringenderes gäbe! Versteht es sich denn von selbst, daß «<hi rend="italic">wir</hi>» das Gottesreich «<hi rend="italic">vertreten</hi>» (ein ganz toller Ausdruck! <bibl corresp="kbga-bibls-3927">S. 276</bibl>)? Beachte auch das getroste «<hi rend="italic">nun</hi>»! Haben wir denn das Gottesreich in seinem radikalen Ernst überhaupt erfaßt, erlebt? Ist der <hi rend="italic">Glaube</hi> 
+               <pb xml:id="p070" ed="pga"/> nur auch für <persName ref="kbga-actors-330">Ragaz</persName> persönlich, geschweige denn für die übrige Menschheit eine selbstverständliche Voraussetzung, über die man einfach hinweghüpft, um nun das Gottesreich eins<note xml:id="n02">«Eins»: eine Verstärkung des «nun», etwa in der Richtung: «jetzt wollen wir mal …»</note> zu vertreten? Kein Wort von der «Erkenntnis Gottes», von der «Umkehr», dem «Warten» auf das Gottesreich, […] das doch das Apriori alles «Vertretens» ist! — Kurz, ich bin gerade wenn ich diesen Kathedralentscheid <persName ref="kbga-actors-330">Ragazens</persName> lese, sehr froh, <persName ref="kbga-actors-240">Kutter</persName> zu kennen. Du hast mir ihn eigentlich zugänglich gemacht; das war eine Tat! Die Sackgasse, in die die «<orgName ref="kbga-actors-4867">Neuen Wege</orgName>» zur Zeit hineinlaufen, […] ist mir jetzt als solche sehr klar, und es wird gelten, da gegenüber <persName ref="kbga-actors-330">Ragaz</persName> sehr fest zu bleiben <hi rend="italic">sachlich</hi>. Daß mans <hi rend="italic">persönlich</hi> nicht so machen sollte wie <persName ref="kbga-actors-457">Bader</persName> und Konsorten (und auch <persName ref="kbga-actors-240">Kutter</persName> ein wenig!), dabei bleibe ich freilich. Es kann auch wieder anders kommen in den <orgName ref="kbga-actors-4867">N.W.</orgName>, und man sollte sie und <persName ref="kbga-actors-330">Ragaz</persName> gerade jetzt nicht im Stich lassen.</p>
+        <p>Ich war am Mittwoch bei <persName ref="kbga-actors-541">Epprecht</persName>, hörte seine 1. August<note xml:id="n03">1. August: schweizerischer Nationalfeiertag.</note>-Predigt und besprach mich mit ihm über Gott und Ethik! Er ist doch recht zugänglich und sollte «gepflegt» werden. Mit <persName ref="kbga-actors-763">Schild</persName> ist glaub auch etwas zu haben, wenn man ihm näher tritt. Ich habe das Gefühl, wir müssen uns Mühe geben, Fühlung zu gewinnen, wo wir nur können, unter den Pfärrern. Nachdem wir der offiziellen Kollegialität abgesagt, können wir es umso <hi rend="italic">freier</hi> tun und haben sicher auch die <hi rend="italic">Pflicht</hi> dazu. Ich für mich habe dann noch meine Sonder«pflichten» dieser Art gegenüber den «Genossen». Am nächsten Donnerstag sollen wieder vier aus <placeName ref="kbga-places-447">Buchs</placeName> und <placeName ref="kbga-places-425">Suhr</placeName> zu mir kommen zu einem Gespräch unter dem Apfelbaum über die innerliche Zukunft der <orgName ref="kbga-actors-6132">Sozialdemokratie</orgName>. Am Freitag drauf ein Referätlein im hiesigen <orgName ref="kbga-actors-9909">Arbeiterverein</orgName>, ich weiß noch nicht worüber,<note xml:id="n04">Barth referierte im <orgName ref="kbga-actors-9909">Safenwiler Arbeiterverein</orgName> am <date when="1915-08-16">16.8.1915</date> (Montag, nicht Freitag) über «<ref type="pub" target="48029">Was heißt: Sozialist sein?</ref>».</note> schlag mir etwas Gutes vor! Beiliegend der Brief eines Idealisten aus <placeName ref="kbga-places-94">Köln</placeName>, es ist aber ein Schweizer. Mit der <persName ref="kbga-actors-330">Ragaz</persName>ischen Orientierung wäre jetzt viel zu «machen», auch unter den Bürgerlichen. Ich empfinde sie oft förmlich als Versuchung. Aber es geht nicht so.</p>
+        <p>[…] Höre: daß ich lieb und verständnisvoll auf andere Menschen eingehen könne — das hast <hi rend="italic">du</hi> zum 1. Mal in der Welt ge<pb xml:id="p071" ed="pga" break="no"/>sagt. Es hieß sonst gerade das Gegenteil. Und bei deinem Lob mußte ich leider an <ref type="can" subtype="bible" target="Mt.5.46 Mt.5.47">Matth. 5,46–47</ref> denken.</p>
+        <closer>
+          <salute>Herzlichen Gruß auch von <persName ref="kbga-actors-26">Nelly</persName> und <persName ref="kbga-actors-5802">Fränzeli</persName> an dich und
+deine <persName ref="kbga-actors-1285">Braut</persName></salute>
+<salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

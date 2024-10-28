@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19007">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">Immer noch unerledigte Anfragen</title>
+        <title type="citation_line_1">Barth, Karl: Immer noch unerledigte Anfragen, 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19007 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 58–64.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19007</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Immer noch unerledigte Anfragen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 58-64</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">7</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 5</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Immer noch unerledigte Anfragen, in: Die Christliche Welt 36, Nr. 14 (1922), Sp. 249 </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1922">1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p058" ed="pga"/>
+        <head>IMMER NOCH UNERLEDIGTE ANFRAGEN</head>
+        <head type="sub">1922</head>
+        <div type="abstract">
+          <div>
+          <p>Die postume Herausgabe von Aufzeichnungen <persName ref="kbga-actors-312">Franz
+              Overbecks</persName><note xml:id="n01">
+                            
+                                <persName ref="kbga-actors-312">Franz Camille
+                Overbeck</persName> (1837–1905 ), 1864 Privatdozent in
+                Jena, 1870–1897 Prof. für Neues Testament und
+              ältere Kirchengeschichte in Basel.
+                        </note> durch <persName ref="kbga-actors-494">Carl Albrecht Bernoulli</persName><note xml:id="n02">
+                            
+                                <persName ref="kbga-actors-494">Carl Albrecht Bernoulli</persName> (1868–1937),
+                1895–1897 Privatdozent für Kirchengeschichte in
+                Basel, nach 25 Jahren freier schriftstellerischer Tätigkeit
+                1922 a. o. Professor für kritische und historische Theologie
+              ebd.
+                        </note> im Jahre <date when="1919">1919</date><note xml:id="n03">
+                            <bibl corresp="kbga-bibls-1340">
+                                <persName ref="kbga-actors-312">Fr. Overbeck</persName>, <hi rend="italic">Christentum und
+                    Kultur. Gedanken und Anmerkungen zur modernen Theologie</hi>, aus dem Nachlaß
+                  hrsg. von C. A. Bernoulli, Basel
+                  1919 (Neuausgabe Darmstadt
+                  1963).</bibl>
+                        </note> war für <persName ref="kbga-actors-2151">Barth</persName> bald Anlaß zur
+            «Auseinandersetzung mit diesem überaus merkwürdigen und selten frommen Mann»<note xml:id="n04">
+                            <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2, <ref type="pub" target="../volume/47/p006#p006">S. VII</ref> (Vorwort).</bibl>
+                        </note>. Sie fand ihren ersten
+            Niederschlag <date when="1920">1920</date> in dem Aufsatz «Unerledigte Anfragen an die heutige
+              Theologie»<note xml:id="n05">In: <bibl corresp="kbga-bibls-1686">
+                                <persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-403">E. Thurneysen</persName>,
+                    <hi rend="italic">Zur inneren Lage des Christentums. Eine Buchanzeige und eine
+                    Predigt</hi>, München 1920, S. 3–24</bibl> (wieder abgedruckt in: <bibl corresp="kbga-bibls-954">
+                                Th. u. K., S. 1–25</bibl>).</note>. Kurz
+            vor dessen Veröffentlichung hatte <persName ref="kbga-actors-2151">Barth</persName> am <date when="1920-04-19">19. April 1920</date>
+            <persName ref="kbga-actors-494">Bernoulli</persName> und die Witwe <persName ref="kbga-actors-312">Overbecks</persName>, <persName ref="kbga-actors-719">Ida
+              Overbeck</persName><note xml:id="n06">
+                            
+                                <persName ref="kbga-actors-719">Ida
+                Overbeck</persName>, geb. Rothpletz (1848–1933).
+                        </note>, in
+              <placeName ref="kbga-places-5">Basel</placeName> aufgesucht<note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-931">Bw. Th. I, <ref target="../volume/03/p379#p379" type="pub">S. 379f.</ref>
+                    (20.4.1920).</bibl></note>. Vor allem die Begegnung mit der Letzteren hatte ihn in seiner Deutung des
+            umstrittenen <persName ref="kbga-actors-312">Overbeck</persName> bestärkt: sie «entwarf
+            mir ein Bild von ihrem Mann, das nun einfach haarscharf stimmt zu unserer Auffassung.
+            Die Broschüre kann ruhigst erscheinen, es ist Alles in Ordnung…».<note xml:id="n08"><bibl corresp="kbga-bibls-931">A. a. O., <ref target="../volume/03/p380#p380" type="pub">S. 380</ref>.</bibl> Offenbar hatte <persName ref="kbga-actors-2151">Barth</persName>
+              das Manuskript seines Aufsatzes <persName ref="kbga-actors-494">Bernoulli</persName>
+              zur prüfenden Einsicht und Weitergabe an <persName ref="kbga-actors-719">Ida
+                Overbeck</persName> übersandt. Dieser schrieb in einem Brief vom
+                <date when="1920-04-22">22.4.1920</date> [<ref type="kba-objects-id" target="10544">Original im Karl Barth-Archiv</ref>, Basel] an <persName ref="kbga-actors-2151">Barth</persName>: «… ich habe
+              Frau <persName ref="kbga-actors-719">Ov.</persName> Ihre frdl. Sendung zugesandt und
+              Genehmigung der Zitatenfolge empfohlen… Wenn Frau Prof. Ov. die Erlaubnis zum Abdruck
+              der Zitate direkt erteilt, so brauchen Sie die Zustimmung des Verlages Schwabe [dort
+              war <bibl corresp="kbga-bibls-1340">
+                                <hi rend="italic">Christentum und Kultur</hi></bibl>
+              erschienen] weiter nicht mehr einzuholen.» In einem Brief vom <date when="1920-04-23">23.4.1920</date>
+              (<ref type="kba-objects-id" target="10546">Original im Karl Barth-Archiv</ref>, Basel) wandte sich dann <persName ref="kbga-actors-719">Ida Overbeck</persName> selbst an <persName ref="kbga-actors-2151">Barth</persName>: «Sehr geehrter Herr
+              Pfarrer, Ich erhielt gestern[,] ehe ich in einen Vortrag ging[,] die Anfrage durch
+              Herrn <persName ref="kbga-actors-494">Bernoulli</persName>[,] wie ich mich dazu
+              stelle, daß Sie meinen Mann häufig in Ihrer Besprechung citiren. Ich erschrack [sic]
+              natürlich ein wenig u. fühlte so etwas auf dem Magen wie ‹allzuviel ist ungesund›.
+              Daran ist ja nun zunächst der beiligende Münchner Brief schuld,
+              den ich Ihnen zurücksende.» (In diesem «Münchner Brief», den <persName ref="kbga-actors-2151">Barth</persName> ihr über <persName ref="kbga-actors-494">Bernoulli</persName> hatte zukommen lassen, möchte man am
+              ehesten eine Anfrage des <orgName ref="kbga-actors-631">Chr. Kaiser Verlages</orgName> vermuten, ob den reichlichen <persName ref="kbga-actors-312">Overbeck</persName>-Zitationen bei <persName ref="kbga-actors-2151">Barth</persName> keine
+              urheberrechtlichen Hindernisse entgegenstünden. Ein solcher Brief ist jedoch nicht
+              erhalten. Allenfalls könnte es sich auch um einen Brief von <persName ref="kbga-actors-275">Georg Merz</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom <date when="1920-02-22">22.2.1920</date>
+              (<ref type="kba-objects-id" target="10445">Original im Karl Barth-Archiv</ref>, Basel) handeln, der kritisch zu <persName ref="kbga-actors-2151">Barths</persName> – wohl mündlich
+              geäußerter – <persName ref="kbga-actors-312">Overbeck</persName>-Interpretation
+              Stellung nimmt.) «Ich lege jedenfalls kein Veto ein, das unter Umständen nicht wenig
+              verkehrt sein könnte. Ich möchte wahrlich den Eindruck[,] den seine Worte machen, die
+              Art wie er auf Andere wirkt nicht gängeln noch beschneiden, lieber hoffen[,] daß in
+              diesem Falle Gutes für ihn u. Andere herauskomme. Gespannt bin ich nun allerdings
+              sehr.»</note>
+          </p>
+          
+          <p>
+                        <pb rend="noPipe" xml:id="p059" ed="pga"/>
+                        <persName ref="kbga-actors-821">Eberhard Vischer</persName><note xml:id="n09">
+                            
+                                <persName ref="kbga-actors-821">Eberhard Vischer</persName> (1865–1946),
+                1898 in Basel Privatdozent für
+              Kirchengeschichte, 1902 dort a.o., ab 1907 o. Professor (auf
+                <persName ref="kbga-actors-312">F. Overbecks</persName> Lehrstuhl),
+                1938 emeritiert. Über <persName ref="kbga-actors-2151">Barths</persName> Beziehungen zu <persName ref="kbga-actors-821">Vischer</persName> vgl. 
+                <bibl corresp="kbga-bibls-931">Bw. Th. I, <ref target="../volume/03/p379#p379" type="pub">S. 379</ref>.<ref target="../volume/03/p418#p418" type="pub">418</ref></bibl>.</note> kritisierte noch im gleichen Jahre in einem Artikel<note xml:id="n10">
+                            <bibl corresp="kbga-bibls-1687">
+                                <title level="a">Overbeck und die Theologen</title>, in:
+                    KBRS, Jg. 35 (1920), S. 122–124.125–127.</bibl>
+                        </note> einerseits das editorische Verfahren <persName ref="kbga-actors-494">Bernoullis</persName>, andererseits die «Bewunderer <persName ref="kbga-actors-312">Overbecks</persName> unter den Theologen»<note xml:id="n11">
+                            <bibl corresp="kbga-bibls-1687">
+                                A. a. O., S. 127.</bibl>
+                        </note>, unter denen er
+            sich auch mit <persName ref="kbga-actors-2151">Barth</persName> auseinandersetzte<note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-1687">
+                                a. a. O., S. 126f.</bibl>
+            </note>. Knapp zwei Jahre später, im <date>Februar/März 1922</date>, wiederholte und
+            verschärfte <persName ref="kbga-actors-821">Vischer</persName> seine Vorwürfe in der
+            «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>»<note xml:id="n13">
+                            <bibl corresp="kbga-bibls-1688">
+                                <title level="a">Overbeck redivivus</title>,
+                  in: CW, Jg. 36 (1922), Sp. 109–112 (Nr. 7 vom 16.2.)</bibl>; 
+                                <bibl corresp="kbga-bibls-1689"><hi rend="italic">Der neuentdeckte Overbeck</hi>, a. a. O., Sp. 125–130 (Nr. 8 vom 28.
+                2.); Sp. 142–148 (Nr. 9 vom 2.3.)</bibl>.</note>, u. a. wiederum gegen <persName ref="kbga-actors-2151">Barth</persName>, der in 
+                            Römerbrief 2 mehrfach
+            auf <persName ref="kbga-actors-312">Overbeck</persName> Bezug genommen<note xml:id="n14">
+                            <bibl corresp="kbga-bibls-48">Vgl. Römerbrief 2,
+                  z. B. S. 7f.115.186.236.253.434</bibl> (= <bibl corresp="kbga-bibls-96">in späteren Auflagen <ref type="pub" target="../volume/47/p049#p049">S. 5f</ref>.<ref type="pub" target="../volume/47/p188#p188">113</ref>.<ref type="pub" target="../volume/47/p281#p281">184</ref>.<ref type="pub" target="../volume/47/p345#p345">234</ref>.<ref type="pub" target="../volume/47/p368#p368">251</ref>.<ref type="pub" target="../volume/47/p601#p601">432</ref></bibl>).</note> und im Vorwort erklärt hatte, er wolle Urteile über
+            seine <persName ref="kbga-actors-312">Overbeck</persName>-Deutung «nur von solchen
+            entgegen nehmen, die sich darüber ausgewiesen haben, daß sie das sachliche (und
+            wahrhaftig nicht nur biographisch-psychologische!) Rätsel, das durch Overbeck ein für
+            allemal gestellt ist, gesehen und sich um seine Lösung wenigstens bemüht haben, also
+            z. B. nicht von <persName ref="kbga-actors-821">Eberhard Vischer</persName>!»<note xml:id="n15">
+                            <bibl corresp="kbga-bibls-48">
+                                a. a. O., S. VII.</bibl>
+                        </note>
+          </p>
+          <p>Die <persName ref="kbga-actors-2151">Barth</persName> betreffende Passage im Aufsatz <persName ref="kbga-actors-821">Vischers</persName> von <date when="1922">1922</date> lautet<note xml:id="n16">
+                            <bibl corresp="kbga-bibls-1689">
+                                <hi rend="italic">Der neuentdeckte Overbeck</hi>, Sp. 145.</bibl>
+                        </note>:</p>
+        </div>
+        <div type="excursus">
+          <p rend="text-recte">«Auch in unserer an Überraschungen reichen Zeit mußte es nach dem, was bisher dargelegt
+            worden ist, den, der sich schon früher mit <persName ref="kbga-actors-312">Overbeck</persName> beschäftigt <pb xml:id="p060" ed="pga"/> und auseinander zu
+            setzen versucht hatte, nicht wenig überraschen, daß er uns nun mit einem Male auf Grund
+            des neuesten aus dem Nachlasse herausgegebenen Buches bald mit einigen Kautelen, bald
+            aber auch ohne solche, nicht bloß als der <persName ref="kbga-actors-8738">Siegfried</persName>, der den Lindwurm der modernen
+            Theologie erschlagen hat, sondern als Geburtshelfer und Anfänger der neuen, wahren
+            Theologie, ja als Reformator des Christentums gepriesen wird und zwar von – Theologen.
+            Nicht als ob nicht auch diese letzte Sammlung von Overbeckworten genug enthielte, was die ernsteste Beachtung nicht bloß der
+            Fachgenossen verdiente. Auch ist es schon längst ein bekannter Zug im Bilde der von
+              <persName ref="kbga-actors-312">Overbeck</persName> so unerbittlich kritisierten
+            Theologen, daß sie kaum Einem so gerne und so geduldig zuhören wie dem, der ihnen vom
+            Ende der Kirche und des Christentums erzählt. Selten aber hat Jemand so scharfsichtig
+            nach ihren Schwächen gesucht und seinen Befund so offen dargelegt wie der in diesen
+            Aufzeichnungen Sprechende. Bedenken wir, wie schwer es ist, sich im Lärme der Gegenwart
+            ohne reichlichen Gebrauch von Superlativen und Paradoxien Gehör zu verschaffen, so ist
+            es zur Not auch noch zu verstehen, wenn <hi rend="italic">
+                            <persName ref="kbga-actors-2151">Karl Barth</persName></hi> ihn vor allem um
+            des Nachdrucks willen, mit dem er die Kluft zwischen dem in der Erwartung des Weltendes
+            lebenden Urchristentum und dem spätern Christentume betont, den rückwärts schauenden
+            kritischen <persName ref="kbga-actors-48">Blumhardt</persName> nennt und <persName ref="kbga-actors-48">Blumhardt</persName> den vorwärts schauenden, hoffenden <persName ref="kbga-actors-312">Overbeck</persName><note xml:id="n17">
+                            <bibl corresp="kbga-bibls-1686">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Unerledigte Anfragen an die heutige Theologie</hi>, a. a. O., S. 4</bibl> (<bibl corresp="kbga-bibls-954">Th. u.
+                    K., S. 2</bibl>).</note>. Wenn aber derselbe ihn neben dem
+              <persName ref="kbga-actors-777">Sokrates</persName> des Phädon zu denjenigen
+            heidnischen Verkündigern der Auferstehung rechnet, von denen es heiße: Solchen Glauben
+            habe ich in <placeName ref="kbga-places-34">Israel</placeName> nicht gefunden<note xml:id="n18">
+                            
+                                <bibl corresp="kbga-bibls-1686">a. a. O., S. 9</bibl> (<bibl corresp="kbga-bibls-954">Th. u. K., S. 8</bibl>).</note>, wenn er meint, der Mann, der vom Tode so tiefsinnig geredet
+            habe, müsse auch mit dem <foreign xml:lang="lat">finis christianismi</foreign> irgendwie einen
+            fruchtbaren, lebendigen, ursprünglichen Begriff verbunden haben, jenseits der
+            schlechthinigen Frage (?) müsse eine Antwort, jenseits der Nichtigkeit ein neuer Anfang,
+            jenseits der Wüste, in die wir gewiesen würden, ein gelobtes Land sein, dafür spreche
+            schon die Tatsache, daß <persName ref="kbga-actors-312">Overbeck</persName> selber nie
+            etwas Anderes gewesen sei als eben Theologe<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-1686">
+                                a. a. O., S. 22</bibl> (<bibl corresp="kbga-bibls-954">Th. u. K., S. 22f.</bibl>).</note>, ja wenn selbst in <persName ref="kbga-actors-312">Overbecks</persName> spöttischer Bemerkung, <persName ref="kbga-actors-339">Ritschl</persName> hätte darüber nachdenken sollen, ob nicht die Theologen mit ihrer
+            Dummheit ein notwendiger und als notwendig geschätzter Ballast in der menschlichen
+            Gesellschaft seien, eine Anerkennung ihrer Bedeutung gefunden wird<note xml:id="n20">
+                            <bibl corresp="kbga-bibls-1686">
+                                a. a. O., S. 23</bibl> (<bibl corresp="kbga-bibls-954">Th. u. K., S. 24</bibl>).</note>: so ist das ein Musterbeispiel der von <persName ref="kbga-actors-312">Overbeck</persName> so oft verspotteten und leidenschaftlich
+            bekämpften Parasitenkunst, alles für die eigenen Zwecke umzudeuten, oder, wie wir wohl
+            richtiger sagen, des Zwanges, dem besonders wir Theologen so oft unterliegen, die
+            Erkenntnis dessen, was uns das Wertvolle ist, auch bei dem Andern vorauszusetzen.»</p>
+        </div>
+        <div type="abstract">
+          <p>Bereits am <date when="1922-03-08">8.3.1922</date> – also unmittelbar nach Erscheinen des letzten Teiles
+            von <persName ref="kbga-actors-821">Vischers</persName> Aufsatz (2.3.), in dem er
+            angesprochen worden war – sandte <persName ref="kbga-actors-2151">Barth</persName> an den Herausgeber der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>»,
+              <persName ref="kbga-actors-329">Martin <pb xml:id="p061" ed="pga"/> Rade</persName>,
+            «eine kleine Replik von mir gegen <persName ref="kbga-actors-821">Vischer</persName>,
+            Ausführlicheres habe ich nicht darüber zu sagen.»<note xml:id="n21"><bibl corresp="kbga-bibls-966">Bw. R., S. 174.</bibl></note> Sie erschien in der Ausgabe vom <date when="1922-04-06">6.4.1922</date>.<note xml:id="n22">In: <bibl corresp="kbga-bibls-1690">CW, Jg. 36 (1922), Sp. 249 (Nr. 14).</bibl></note>
+          </p>
+        </div>
+      </div>
+        <div>
+          <head>Immer noch unerledigte Anfragen</head>
+          <p>Wer wollte <hi rend="italic"><persName ref="kbga-actors-821">Eberhard Vischer</persName></hi> nicht dankbar sein für die große und erfolgreiche Mühe, die er
+            neuerdings an die biographisch-psychologische Beleuchtung des Problems <hi rend="italic"><persName ref="kbga-actors-312">Overbeck</persName></hi> gewendet hat? Als Einer
+            von denen, die ihm den Anlaß dazu gegeben haben, bezeuge ich es gerne, wie sehr wir uns
+            darüber freuen, daß auch er offenbar nicht will, daß der Name <persName ref="kbga-actors-312">Overbeck</persName> der Vergessenheit verfalle, und wie sehr uns
+            das alles interessiert hat, was er aus der reichen Fülle seiner Kenntnisse über den
+            außergewöhnlichen Mann und zur Illustration dessen, was ihn bewegte, beigebracht hat.
+            Wenn ich mir erlaube, ganz kurz zu <persName ref="kbga-actors-821">Vischers</persName>
+            Darlegungen das Wort zu ergreifen, so geschieht es nicht, um das von ihm gezeichnete
+            Bild zu ergänzen oder zu korrigieren. Nicht als ob ich es für vollständig und
+            wohlgetroffen hielte; es bietet, gut dokumentiert, wie es bei solchen historischen
+            Bildern der Fall zu sein pflegt, das, was nun eben <hi rend="italic">
+                            <persName ref="kbga-actors-821">Vischer</persName></hi> am historischen <persName ref="kbga-actors-312">Overbeck</persName> sehen kann, und ich behaupte durchaus, daß
+            hier auch in biographisch-psychologischer Hinsicht <hi rend="italic">mehr</hi> zu sehen ist,
+            als <persName ref="kbga-actors-821">Vischer</persName> sehen kann. Ich habe für <hi rend="italic">meine</hi> Auffassung des historischen <persName ref="kbga-actors-312">Overbeck</persName> Jemanden zum Zeugen, der ihn wirklich <hi rend="italic">noch</hi>
+            etwas genauer gekannt haben muß als <persName ref="kbga-actors-821">Eberhard
+              Vischer</persName>. Aber ich insistiere nicht, da ich das betreffende Dokument<note xml:id="n23">
+                            <p>Das Dokument ist ein Brief, den <persName ref="kbga-actors-719">Ida
+                  Overbeck</persName> nach Erscheinen des Heftes <bibl corresp="kbga-bibls-1686">«Zur inneren Lage des Christentums»</bibl>
+                am <date when="1920-06-27">27.6.1920</date> an <persName ref="kbga-actors-2151">Barth</persName> schrieb (<ref type="kba-objects-id" target="10641">Original im Karl Barth-Archiv</ref>,
+                Basel):<lb/></p>
+                <p>
+                «Sehr geehrter Herr Pfarrer,<lb/>
+                
+                Ich sage Ihnen u. Ihrem
+                Geistesgenossen den herzlichsten Dank für die Übersendung Ihres Büchelchens, das ich
+                am Vorabend der 15. Wiederkehr des Todestages meines lieben Mannes empfing, ein mir
+                unendlich schönes Zusammentreffen[,] das mir Wunsch, Worte meines lieben Mannes aus
+                seiner lezten Zeit nahe brachte, die Erfüllung gefunden, freilich auch den eignen[,]
+                irgendwie zu ihm eilen zu können, um ihm frohe Botschaft zu bringen. Er war bei
+                schon sehr geschwächtem Körper stark genug gewesen[,] darauf zu hoffen[,] daß er
+                doch einmal später gehört u. verstanden werde; erschütternd war es[,] wie dieser
+                Hoffnung sich doch ein Zweifel beimischen mußte, ein Schicksal im deutlichen
+                Bewußtsein des Todes.<lb/></p>
+                            <p>Ich hatte, nachdem ich Sie bei mir gesehen, öfter daran
+                gedacht, daß nun vielleicht Ihre Schrift ausgegangen sei. Daß ich nicht bälder von
+                der Thatsache hörte[,] beunruhigte mich nicht, auch nicht die Besorgnis[,] es könne
+                aus meines Mannes Worten eine mir ganz fremde Gestalt entgegentreten, die seinem
+                umfassenden Ernst, der Tiefe seiner Betrachtungsweise in’s Gesicht schlüge, nur
+                gerade dadurch, daß sie eine Art Gewand meines Mannes trüge, noch besonders
+                widerwärtig sein könne. Wie sehr, sehr Recht hatten Sie[,] ihn selbst sprechen zu
+                lassen. Gewiß ist nie ein Buch tiefsinniger gelesen worden[,] u. das bedeutet
+                verdoppelten Werth. Ich werde öfter wiederlesen. Worin sollte ich Sie desavouiren
+                wollen oder können? Sie selbst haben allem Rechnung getragen, nichts überhört oder
+                geringer geschätzt. Der allein, der das kann, steht diesem Buche aufrecht gegenüber,
+                ist es werth[,] an diesem Buche zu wachsen, bekundet die ächte Freiheit, der der
+                Mensch oder Christenmensch nicht entrathen sollte u. mit der die Redebegabten Seelen
+                aufrichten u. wohl thun können.<lb/></p>
+                            <p>Meine besten Wünsche, sehr geehrter Herr
+                Pfarrer, begleiten Sie u. Ihren Freund, Herrn Pfarrer <persName ref="kbga-actors-403">Eduard Thurneysen</persName>[,] auf Ihrem weiteren Wege. Ein
+                leichter Weg wäre kaum werth[,] gelebt zu werden, wenn es auch sicherlich Menschen
+                gibt, die einen Weg leicht und mit Anmuth wandeln. Jedem das Seine.<lb/></p>
+                          <p rend="right">Mit
+                hochachtungsvollen Grüßen<lb/> bin ich Ihre ergebene<lb/> <persName ref="kbga-actors-719">I.
+                  Overbeck</persName>».</p></note> nicht vorlegen kann und da <hi rend="italic">mein</hi>
+            Interesse an <persName ref="kbga-actors-312">Overbeck</persName> ja wirklich ganz
+            dasselbe wäre, <pb xml:id="p062" ed="pga"/> auch wenn <persName ref="kbga-actors-821">Vischer</persName> auf der ganzen Linie recht hätte. Wer das von <persName ref="kbga-actors-403">Thurneysen</persName> und mir herausgegebene Heft <bibl corresp="kbga-bibls-1686">«Zur inneren
+            Lage des Christentums»</bibl> kennt, gegen das sich <persName ref="kbga-actors-821">Vischers</persName> Artikel ja eigentlich richtet, der weiß, daß die beiden Kreise
+            von <persName ref="kbga-actors-821">Vischers</persName> und unsern Aufstellungen sich kaum berühren, geschweige denn schneiden,
+            sondern auf ganz verschiedenen Ebenen liegen, m. a. W. daß <persName ref="kbga-actors-821">Vischer</persName> über dem Reichtum an
+            historischen Beweisen und Mitteilungen, den er vor uns ausbreitet, ganz vergißt, daß
+            <persName ref="kbga-actors-312">Overbecks</persName> Anfragen an die heutige Theologie, auf die hinzuweisen der einzige Sinn
+            unseres Schriftchens war, <hi rend="italic">noch immer unerledigt</hi> sind. Das ist’s, was
+            ich, nachdem wir nun <persName ref="kbga-actors-821">Vischer</persName> ausführlich vernommen haben, feststellen möchte. Uns
+            interessiert das Historische an <persName ref="kbga-actors-312">Overbeck</persName> so viel und so wenig wie alles Historische; es
+            interessiert uns nicht <hi rend="italic">an sich</hi>, sondern in seiner <hi rend="italic">Bedeutsamkeit</hi>. Daß es zu solchem <hi rend="italic">sachlichen</hi> Interesse <hi rend="italic">Anlaß</hi> gibt, das ist für uns durch Alles, was <persName ref="kbga-actors-821">Vischer</persName> beibringt, nur unterstrichen worden. Er ist
+            der Träger einer ganz bestimmten, nämlich der eschatologischen Auffassung des
+            Christentums. Er hat diese, jedenfalls in ihrer negativen Tragweite – aber was heißt
+            hier «positiv» und «negativ»? – so scharf durchgeführt, wie sie uns sonst nirgends, <pb xml:id="p063" ed="pga"/> außer (mit etwas andern Akzenten) bei <persName ref="kbga-actors-48">Blumhardt</persName> begegnet ist. Er ist als Träger dieses
+            lastvollen Wissens von seinen Fachgenossen, den historischen Theologen, allein, ganz
+            allein gelassen worden. Er hat ihnen als Wissender Fragen gestellt, auf die sie nie
+            geantwortet haben: die Frage, ob das Christentum als geschichtliche Größe möglich ist,
+            und ob es eine solche überhaupt sein will, die Frage, was aus ihm geworden ist und immer
+            wieder werden muß, wo es diese seine eigene grundsätzliche Problematik etwa vergessen
+            hat, die Frage, ob eine Theologie, die sich zur Unterhändlerin zwischen Christentum und
+            Geschichte hergibt, nicht für beide Beteiligte ein Schädling sei. Ob die Wurzel dieser
+            Fragen im psychologischen Subjekt <persName ref="kbga-actors-312">Overbeck</persName>
+            als Enthusiasmus oder als Skeptizismus richtig bezeichnet ist?<note xml:id="n24">Vgl.
+                <bibl corresp="kbga-bibls-1686">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic"><ref type="pub" target="48063">Unerledigte Anfragen an die heutige Theologie</ref></hi>, S. 6</bibl> (<bibl corresp="kbga-bibls-954">Th. u.
+                    K., S. 4f.</bibl>): «Der Herausgeber überläßt es dem Leser, ob er
+                <persName ref="kbga-actors-312">Overbeck</persName> nach dem vorliegenden Material
+              vorwiegend als Skeptiker oder als Enthusiasten auffassen will. Er steht in der Tat
+              hart auf der Grenze zwischen beiden, und die eine Seite seines Wesens, wenn man da
+              überhaupt von zwei Seiten reden mag, wird immer nur durch die andre verständlich
+              sein.» – Vgl. auch <bibl corresp="kbga-bibls-1687">
+                                <persName ref="kbga-actors-821">E.
+                    Vischer</persName>, <hi rend="italic">Overbeck und die Theologen</hi>, S. 123.125.</bibl></note> Ob <persName ref="kbga-actors-312">Overbeck</persName> eine «positive
+              Stellung»<note xml:id="n25">Vgl. <bibl corresp="kbga-bibls-1688">
+                                <persName ref="kbga-actors-821">E. Vischer</persName>, <hi rend="italic">Overbeck redivivus</hi>, Sp. 112</bibl>; <bibl corresp="kbga-bibls-1689">
+                                <hi rend="italic">Der neuentdeckte Overbeck</hi>, Sp. 127.144.147.</bibl></note> zum Christentum eingenommen hat oder ob er ein «Atheist»<note xml:id="n26">Vgl.
+                <bibl corresp="kbga-bibls-1689">
+                                <hi rend="italic">Der neuentdeckte Overbeck</hi>, Sp. 142–144.</bibl></note> gewesen ist? Wer von der Erörterung <hi rend="italic">dieses</hi> Problems
+            Entscheidungen erwartet, der hat nicht gehört, wonach gefragt ist. Wer darf, wer kann,
+            wer mag denn hierbei verweilen? Ich empfinde das Gewichtlegen darauf als einen Versuch,
+            dem Ernst der Sache <hi rend="italic">auszuweichen</hi>. Denn was ändert alles Material, das
+            hier von der einen oder andern Seite beigebracht werden kann, an der ergangenen
+            Herausforderung? Wäre sie etwa weniger gewichtig, wenn <persName ref="kbga-actors-312">Overbeck</persName> nun als vollendeter Skeptiker gestorben wäre? Wäre sie nicht
+            gerade dann erst recht <hi rend="italic">ganz</hi> ernst zu nehmen? <persName ref="kbga-actors-821">Vischer</persName> behauptet, sich mit <persName ref="kbga-actors-312">Overbeck</persName> auseinander gesetzt zu haben. Aber auf das
+              <hi rend="italic">Thema</hi>
+            <persName ref="kbga-actors-312">Overbecks</persName> hat er sich in seiner Schutzschrift
+            mit keinem Wort eingelassen. Von diesem <hi rend="italic">Thema</hi> hätte er handeln müssen,
+            wenn er uns antworten und vom «neuentdeckten <persName ref="kbga-actors-312">Overbeck</persName>» reden wollte. An einem Streit über den <hi rend="italic">historischen</hi>
+            <persName ref="kbga-actors-312">Overbeck</persName> gedenke ich mich nicht zu
+            beteiligen. Wer Ohren hat, zu hören, der <hi rend="italic">hat</hi> gehört.</p>
+        </div>
+      </div>
+        
+        <div>
+          <div>
+            <div>
+        
+          
+          <p>
+                        <pb rend="noPipe" xml:id="p064" ed="pga"/><hi rend="italic"> Unter «Verschiedenes» erschien dann in der Ausgabe vom <date when="1922-04-20">20.4.1922</date> folgende
+            abschließende Duplik <persName ref="kbga-actors-821">Vischers</persName></hi><note xml:id="n27">In: <bibl corresp="kbga-bibls-1691">
+                                CW, Jg. 36 (1922), Sp. 286f. (Nr. 16)</bibl>.</note><hi rend="italic">:</hi></p>
+            </div>
+      
+        <div type="excursus">
+          <head>«‹Immer noch unerledigte Anfragen›</head>
+          <p>Auf die Kritik, die <hi rend="italic"> <persName ref="kbga-actors-2151">Karl Barth</persName></hi> an meinen Ausführungen über <hi rend="italic"> <persName ref="kbga-actors-312">Overbeck</persName></hi> übt, erlaube ich
+            mir, in aller Kürze Folgendes zu erwidern:</p>
+          <p>Mit vollem Bewußtsein habe ich mich darauf beschränkt, <persName ref="kbga-actors-312">Overbecks</persName> Stellung zu der Religion, dem Christentum und der Theologie so
+            objektiv als möglich zu schildern, und mich mit den Folgerungen, die Andere daraus
+            gezogen haben, nur insoweit beschäftigt, als es mir zur Abwehr von Mißverständnissen
+            nötig erschienen ist. Vor allem hat mir gänzlich ferne gelegen, mich mit <persName ref="kbga-actors-2151">Karl Barths</persName>
+            Auffassung des Christentums auseinanderzusetzen. Daß auch das eine lohnende Aufgabe
+            wäre, und daß <persName ref="kbga-actors-312">Overbeck</persName> auch so, wie ich ihn
+            an Hand seiner Äußerungen gezeichnet habe, uns vor wichtige Fragen stellt, wer wollte
+            das verkennen? Ich jedenfalls nicht. Wenn irgend wer, so scheint mir aber gerade
+              <persName ref="kbga-actors-312">Overbeck</persName>, der so leidenschaftlich eine
+            ‹rein historische› Betrachtung der Geschichte an Stelle der theologischen gefordert
+              hat<note xml:id="n28">Vgl. <bibl corresp="kbga-bibls-1340">
+                                <persName ref="kbga-actors-312">Fr. Overbeck</persName>, <hi rend="italic">Christentum und Kultur</hi>, S. 9</bibl>: «In diesem Sinn kündigt der Gedanke, das Christentum <hi rend="italic">rein</hi> auf Historie zu stellen, nur den Anbruch des Zeitalters an, wo das
+              Christentum zu seinem Ende kommt und davon Abschied zu nehmen ist… Daß es historisch
+              anders gegangen ist und man erst heute darüber streitet, was für ein Christentum dabei
+              herauskommt, wenn man es historisch behandelt, kann den Einfall, daß das Christentum
+              sich <hi rend="italic">rein historisch</hi> halten läßt, nicht solider machen.»</note>, von
+            uns verlangen zu dürfen, daß wir uns zuerst einmal bemühen, ihn zu erkennen und
+            darzustellen, wie er gewesen ist, bevor wir versuchen, ihn in unsere Systeme von Fragen
+            und Antworten einzuordnen.»</p>
+        </div>
+     
+      </div>
+      </div>
+    </body>
+  </text>
+</TEI>

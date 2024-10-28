@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3135">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 6. Januar 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3135 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 166a–168.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3135</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 166a-168</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">135</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 132</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 6. Januar 1917. <ref target="https://kba.karl-barth.ch/objects/9302">KBA 9270.100</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-01-06">6. Januar 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-01-06">6. Januar 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3134"/>
+          <ref type="next" target="kbga-texts-3136"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3134"/>
+          <ref type="next-in-corresp" target="kbga-texts-3136"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:26+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:26+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p166" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-01-06">6. Januar 1917</date> aus <placeName ref="kbga-places-9">Bern</placeName>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Es ist doch höchste Zeit, daß ich euch aus meinen schönen Ferien einen Gruß schicke. Mit Freude vernehme ich, daß <persName ref="kbga-actors-1285">Mar<pb xml:id="p167" ed="pga" break="no"/>guerite</persName> am Montag nach <placeName ref="kbga-places-54">Safenwil</placeName> geht, wo jetzt <persName ref="kbga-actors-26">Nelly</persName> einsam die Bemalung eines Teiles unseres Hauses überwacht, während ich es hier gut habe und mich innerlich für den Feldzug des neuen Jahres rüste. […] Ich weiß so gar nicht, wie ihr eigentlich die Weihnachtsfreuden und -strapazen dies Jahr durchgemacht habt. Bei uns gings sehr auf und ab. Ich bin in den Festzeiten immer besonders ungeschickt und auf den Mund geschlagen […]. So redete ich mit sehr ungleicher Kraft und Erleuchtung am <ref type="pub" target="29053">4. Advent über Stillesein und Warten</ref> <ref type="can" subtype="bible" target="Ps.37.7">Ps. 37,7</ref>, an der Weihnacht über die <ref type="pub" target="29054">Klarheit des Herrn</ref> <ref type="can" subtype="bible" target="Lk.2">Luk. 2</ref>, am Sylvester über das <ref type="pub" target="29055">zweifache «Gedenken» Gottes</ref> <ref type="can" subtype="bible" target="Ps.25.7">Ps. 25,7</ref>, am Neujahr über das <ref type="pub-" target="32003">Geheimnis des Herrn</ref> <ref type="can" subtype="bible" target="Ps.25.14">Ps. 25,14</ref>. In der ersten und letzten [Predigt] ging es wohl am besten, die letzte halte ich nun morgen in <placeName ref="kbga-places-248">Laupen</placeName> noch einmal, während <persName ref="kbga-actors-27">Peter</persName>, der Unverfrorene, sich auf die hiesige <placeName ref="kbga-places-993">Münster</placeName>kanzel wagt und Kandidat <persName ref="kbga-actors-669">Lindt</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-669">Karl Lindt</persName> (1893–1948) ist später <persName ref="kbga-actors-2151">Karl Barths</persName> Schwager geworden. Er war Pfarrer in Gadmen, Beatenberg und Bern.</seg></note> den Safenwilern predigt.</p>
+        <p>Auch hier ist allerhand zu erleben: z. B. mein Bruder <persName ref="kbga-actors-23">Heiner</persName>, der das <persName ref="kbga-actors-240">Kutter</persName>buch<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-3613">«<title level="m">Reden an die deutsche Nation</title>», 1916.</bibl>
+                    </note> sehr lobt als den Durchbruch des platonischen gegenüber dem russischen Geist unter den Religiössozialen und es beständig gegen mich ausspielt: da seien nun einmal, was bei uns schwer zu vermissen, die Kulturaufgaben und das Geistesleben im Sinne <persName ref="kbga-actors-136">Goethes</persName> ernst genommen und von den Leuten, die ja Alle den kritischen Idealismus nicht verstanden haben, könne er sich <persName ref="kbga-actors-240">Kutter</persName> noch am ehesten gefallen lassen, <hi rend="italic">uns</hi> aber nach wie vor nicht. <persName ref="kbga-actors-240">Kutter</persName> ist übrigens hier. <persName ref="kbga-actors-23">Heiner</persName> war gestern mit ihm eingeladen, kam aber enttäuscht zurück, weil der große Mann den ganzen Abend damit zubrachte, mit zwei miteingeladenen deutschen internierten Studenten über <placeName ref="kbga-places-320">Serbien</placeName>, <placeName ref="kbga-places-1353">Bulgarien</placeName> und Flugzeugangriffe sich auszulassen. Ich vernahm das nicht ohne stille Schadenfreude. Unterdessen war ich — — in der <orgName ref="kbga-actors-6206">Helvetischen Gesellschaft</orgName> und hörte einen Vortrag über die wirtschaftlichen Verhältnisse von <orgName ref="kbga-actors-7856">Frankreich</orgName> von einem Genfer Journalisten. Die Gesellschaft gefiel mir nicht, und über den Vortrag konnte ich mich nur wundern. Wie naiv reden doch diese großen wichtigen Herren über «Verhältnisse», und wie wenig wissen sie von den Menschen.</p>
+        <pb xml:id="p168" ed="pga"/>
+        <p>Das Weltbild, das da entsteht und das alle die <orgName ref="kbga-actors-6206">Helvetiker</orgName> mit bitterernsten Gesichtern anstarren, ist erstaunlich grotesk, und das Erstaunlichste ist, daß niemand darüber erstaunt in diesen Regionen. Die gröbste Agitationspauke eines <persName ref="kbga-actors-703">Münzenberg</persName> ist realer als die Sprüche, die da von der Blüte unsres Volkes geklopft werden. Ich sah allerhand Bekannte aus der <orgName ref="kbga-actors-9812">Berner Zofingia</orgName><note xml:id="n03">Studentenverbindung, der <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-403">Thurneysen</persName> angehört hatten.</note>, die sich unterdessen stattliche Bäuche und rote Backen zugelegt haben, und wurde gönnerhaft begrüßt als Mann aus der Provinz. — Mit Freude habe ich dagegen Freund <persName ref="kbga-actors-684">von May</persName> wiedergefunden, den Salutisten. Ich hörte eine Unterweisungs-Stunde von ihm über den Sündenfall, wobei er über die Schlange und den lieben Gott erstaunliche und zutreffende Dinge vorbrachte. Die Kinder beten selber frei, recht frisch und einfach (soweit sind unsere Völklein noch nicht, was?), und das Ganze machte einen freundlichen, frommen Eindruck, wie ich ihn von meinen Stunden nicht habe. Nachher hatten wir noch nützliche Gespräche, und er zeigte sich für unsere Reserve-Stellung zugänglicher als früher. Ich werde ihn jedenfalls wieder einmal zu uns berufen. <persName ref="kbga-actors-757">Schädelin</persName> fährt noch irgendwo Ski, wird aber auch noch auftauchen, und am Dienstag kann ich ihr <orgName ref="kbga-actors-9901">Kränzli</orgName> mitmachen. Auch zu einem Abonnementskonzert mit <persName ref="kbga-actors-281">Mozart</persName>, <persName ref="kbga-actors-455">Bach</persName> und <persName ref="kbga-actors-924">Brahms</persName> komme ich eben noch recht. Am Mittwoch gehts dann heimwärts.</p>
+        <p>Schrieb ich dir, daß unsre Kirchenpflege am <date when="1916-12-27">27. Dez</date>. eine «Wurst-Mahlzeit» hatte, wie sie in <placeName ref="kbga-places-54">Safenwil</placeName> beim Schlachten eines Schweins üblich ist? Ich brachte als Beitrag ein großes Gedicht in Knittelversen. Auf den höhern Stufen, auf denen wir weilen, wird offenbar Alles «wieder» möglich! Vielleicht sollte ich darüber im <orgName ref="kbga-actors-9850">Monatsblatt</orgName> schreiben?! […]</p>
+        
+        <closer>
+        <salute>Genug! Ich grüße euch herzlich und wünsche euch nachträglich zum neuen Jahr Freude, Schlagkraft und innern Frieden.</salute>
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

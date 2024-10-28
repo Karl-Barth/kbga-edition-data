@@ -8,8 +8,10 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 |Titel |Link |
 |:-----|:----|
 | Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966 (Abt. V Briefe), Zürich 1994 (2. Auflage. Aufl.) | [[Band 1](https://kbga-pilot.karl-barth.ch/volume/01)] |
+| Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921 (Abt. V Briefe), Zürich 1973 | [[Band 3](https://kbga-pilot.karl-barth.ch/volume/03)] |
 | Predigten 1914 (Abt. I Predigten), Zürich 1999 | [[Band 5](https://kbga-pilot.karl-barth.ch/volume/05)] |
 | Predigten 1954–1967 (Abt. I Predigten), Zürich 2003 | [[Band 12](https://kbga-pilot.karl-barth.ch/volume/12)] |
+| Vorträge und kleinere Arbeiten 1922–1925 (Abt. III Vorträge und kleinere Arbeiten), Zürich 1990 | [[Band 19](https://kbga-pilot.karl-barth.ch/volume/19)] |
 | Predigten 1915 (Abt. I Predigten), Zürich 1996 | [[Band 27](https://kbga-pilot.karl-barth.ch/volume/27)] |
 | Predigten 1916 (Abt. I Predigten), Zürich 1998 | [[Band 29](https://kbga-pilot.karl-barth.ch/volume/29)] |
 | Die Theologie Zwinglis 1922/1923 (Abt. II Akademische Werke), Zürich 2004 | [[Band 40](https://kbga-pilot.karl-barth.ch/volume/40)] |
@@ -20,12 +22,12 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 ### Statistik
 |Entität|fertig bearbeitet|verwendet|
 |:---|---:|---:|
-|Bände | 9 |9 |
-|Personen | 2426 |3039 |
-|Organisationen | 157 |460 |
-|Orte | 492 |650 |
-|Literaturangaben | 1353 |2176 |
-|Lieder | 235 |235 |
+|Bände | 11 |11 |
+|Personen | 3002 |3413 |
+|Organisationen | 172 |561 |
+|Orte | 545 |814 |
+|Literaturangaben | 1484 |2923 |
+|Lieder | 236 |236 |
 |Begriffe | 1955 |1955 |
 
 Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.
@@ -33,4 +35,4 @@ Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschre
 ### Karl Barth-Archiv
 Über 90000 Verzeichnungseinheiten, knapp 20000 Akteure (Dubletten und Überschneidungen), über 5000 Orte und über 88000 Medien (der grösste Teil davon sind PDFs, die s/w-Fotografien der Dokumente enthalten)
 
-<small>generated 2024-10-28 09:45:32</small>
+<small>generated 2024-10-28 11:21:08</small>

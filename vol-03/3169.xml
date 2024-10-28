@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3169">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. Juni 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3169 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 207a–209.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3169</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 207a-209</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">169</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 64</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 25. Juni 1917. <ref target="https://kba.karl-barth.ch/objects/9466">KBA 9270.123</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-06-25">25. Juni 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-06-25">25. Juni 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3168"/>
+          <ref type="next" target="kbga-texts-3170"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3168"/>
+          <ref type="next-in-corresp" target="kbga-texts-3170"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p207" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-06-25">25. Juni 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Was du tun willst, das tue bald [vgl. <ref type="can" subtype="bible" target="Joh.13.27">Joh 13,27</ref>]! Da habe ich nun sechs Predigten ausgewählt,<note xml:id="n01">Für den gemeinsamen Predigtband <bibl corresp="kbga-bibls-1461">«<title level="m">Suchet Gott, so werdet ihr leben!</title>»</bibl>
+               </note> die mir zusammen ein deutliches Ganzes zu bilden scheinen, das sich zur Wechselrede mit sechs Leutwiler Sprüchen eignen würde. Ihr kennt sie alle schon, ich möchte aber, daß ihr sie noch einmal prüft auf ihre Haltbarkeit und auf ihre Zusammenstimmung mit den deinigen, <persName ref="kbga-actors-403">Eduard</persName>, und mir eventuelle Tilgungs- oder Ersatzvorschläge macht. Die <ref type="pub-" target="32012">Salbungspredigt</ref> fehlt, sie ist mir wegen des heftigen Widerspruchs, den sie hier gefunden, etwas verleidet, und auch <persName ref="kbga-actors-26">Nelly</persName> meint, daß die andern für diesen Zweck besser in unsrer Linie liegen. Dagegen beantrage ich, daß den zwölf Predigten zum Schluß auch dein Safenwiler Vortrag über die Kirche und mein Leutwiler über die <bibl corresp="kbga-bibls-3442"><ref type="pub" target="48042">Bibel</ref></bibl> beigefügt werden, zur prinzipiellen Ins-Licht-Stellung dieser für uns so wichtigen Punkte. Als Titel ist mir eingefallen: «Es ist Alles bereit!» nach <ref type="can" subtype="bible" target="Lk.14.17">Luk. 14,17</ref>, worin <pb xml:id="p208" ed="pga"/> das Positive und doch Transzendente der Botschaft, wie wir sie bringen möchten, schön hervorkäme. Aber vielleicht hast du bereits nach etwas Besserem geforscht oder wirst es noch tun. Eine Predigtsammlung von <persName ref="kbga-actors-531">Dräseke</persName>,<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4062"><persName ref="kbga-actors-531">J. H. B. Dräseke</persName> (1774–1849, Gen.-Sup. der Provinz Sachsen), <title level="m">Die Gottesstadt und die Löwengrube</title>.</bibl> Erste Zugabe zu der Schrift: <bibl corresp="kbga-bibls-4061"><title level="m">Christus an das Geschlecht dieser Zeit</title>, Lüneburg
+                            1820.</bibl>
+               </note> die ich besitze, trägt den Titel: «Die Stadt Gottes und die Löwengrube»!! Wenn du mit meiner Auswahl einverstanden bist und prinzipiell Freudigkeit hast, deine Hälfte beizusteuern und so Mitschuldiger dieses Angriffs auf die Christenheit zu werden, so sende das Päcklein bald weiter an <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs>, die sich mit ihrer Schreibmaschine darum Verdienste erwerben wollen.</p>
+        <p>Gestern war meine Wiederwahl. 277 Stimmende, 189 Ja, 49 Nein, 36 leer, 3 ungültig. Das ist ein freundliches Resultat in Anbetracht von allem, was in den 6 Jahren passiert ist. Wahlagitation gab es nicht die geringste; erst noch sollen eine Anzahl der 49 Nein auf Mißverständnis der Fragestellung bei der Wahl beruhen. Die Kirchenpflege hatte auf 100 Nein gerechnet! Dazu bekam ich wie die Lehrer 200 Fr. Teuerungszulage, auf Antrag der Kirchenpflege — und unter Rede-Unterstützung des Herrn [Fabrikanten] H. Bin ich eigentlich schon alt, zahm und ungefährlich geworden, ein harmlos zu akzeptierender Warte-Boller, oder was ist los?! Gestern Abend waren Dr. <rs type="person" ref="kbga-actors-661 kbga-actors-660">Lejeunes</rs> da, die daran herummachen, in die <orgName ref="kbga-actors-6132">soz. Partei</orgName> einzutreten. […] Die Färbereiarbeiter haben nun auch ihre <orgName ref="kbga-actors-8617">Gewerkschaft</orgName>, die zweite am Ort, und bereits eine Lohnbewegung erfolgreich durchgeführt. Nun wird die Strickerei zum großen Problem mit den 300 törichten Jungfrauen. Gestern habe ich mit <persName ref="kbga-actors-208">Jeremia</persName> [-Predigten] angefangen: über <ref type="pub-" target="32025">das Wort des Herrn, das zu dem Priestersohn geschah</ref> [<ref type="can" subtype="bible" target="Jer.1.1 Jer.1.3">Jer 1,1–3</ref>]. Nächsten Sonntag dann das: «<ref type="pub-" target="32026">Ich kannte dich …</ref>» <ref type="can" subtype="bible" target="Jer.1.5">v. 5</ref>. An was bist denn du wohl herangegangen? Mein arges Kreuz bleibt doch der Kinderunterricht; ich verführte gestern in der Kinderlehre ein ganz machtloses Geschrei über die Midianiterschlacht [<ref type="can" subtype="bible" target="Ri.7">Ri 7</ref>]. Das gelingt mir einfach nicht, und in jener Kirche der Zukunft, wo <persName ref="kbga-actors-316">Rudi Pestalozzi</persName> Kirchenpflegspräsident ist, werde ich dir das Feld gänzlich überlassen. Ebenso die Seelsorge: Alle Heiratsgeschichten, in die ich mich gemischt habe, laufen darauf hinaus, daß sie sich gegen <pb xml:id="p209" ed="pga"/> meinen klugen Rat doch nehmen werden. Ich habe das Gefühl, die Kinder lachen mich aus, und es seien aus den sechs Jahrgängen, die ich jetzt hier unterwiesen habe, schon zahlreiche Aspiranten für die «Schutztruppe»<note xml:id="n03">Gemeint sind vielleicht Jungschützenkurse, in denen die Aargauische Kantonal-Schützengesellschaft eine vormilitärische Schießausbildung für männliche Jugendliche vom vollendeten 16. Lebensjahr an betrieb.</note> hervorgegangen. Wann werden wir uns wiedersehen? […]</p>
+        <p>Wie schön wars doch in <placeName ref="kbga-places-440">Risch</placeName> und auf dem <placeName ref="kbga-places-772">Rigi</placeName>. Erst jetzt merkt man die heilsame Wirkung dieses gesegneten Ausschnaufs.</p>
+        <closer>
+          <salute>[…] Mit herzlichen Grüßen euch Beiden</salute>
+           <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

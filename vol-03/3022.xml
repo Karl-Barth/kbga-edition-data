@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3022">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 5. Februar 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3022 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 29–30.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3022</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 29-30</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">22</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 20</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 5. Februar 1915. <ref target="https://kba.karl-barth.ch/objects/8718">KBA 9270.16</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-02-05">5. Februar 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-02-05">5. Februar 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3021"/>
+          <ref type="next" target="kbga-texts-3023"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3021"/>
+          <ref type="next-in-corresp" target="kbga-texts-3023"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:19+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:19+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p029" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-02-05">5. Februar 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Meine Frau und ich möchten dich gerne nächsten Montag besuchen. Paßt es dir? Wir kämen via <placeName ref="kbga-places-382">Uerkheim</placeName>-<placeName ref="kbga-places-316">Schöftland</placeName>-<placeName ref="kbga-places-783">Kulm</placeName> zu Fuß gewandert der schönen Schneelandschaft und der guten Luft zu Ehren. Vielleicht kommst du uns etwas entgegen gegen <placeName ref="kbga-places-783">Kulm</placeName>, damit wir uns nicht wieder im Wald verlaufen. Schreib mir umgehend, ob du uns brauchen kannst. […] Du mußt uns dann Predigten von dir vorlesen, damit der Tag recht ergiebig wird. Dank für deinen letzten Brief. So ists gut, daß ich nicht am <orgName ref="kbga-actors-8246">Kränzli</orgName> war, und an das bei dir komme ich dann lieber nicht. […]</p>
+        <p><persName ref="kbga-actors-240">Kutter</persName> und <persName ref="kbga-actors-330">Ragaz</persName>; ich bin gerne bereit, von <persName ref="kbga-actors-240">Kutter</persName> noch viel mehr zu lernen, weil er in der Tat radikaler ist als <persName ref="kbga-actors-330">Ragaz</persName>. Aber sowie <persName ref="kbga-actors-240">Kutter</persName> mich in eigentliche Opposition gegen <persName ref="kbga-actors-330">Ragazens</persName> Standpunkt […] bringen möchte, kann ich nicht mehr mit. Ich schätze an <persName ref="kbga-actors-330">Ragaz</persName> den ernsten Willen, die religiöse Orientierung in Zusammenhang mit den praktischen ethischen Zielen zu bringen, während <persName ref="kbga-actors-240">Kutter</persName> mit seiner abgrundtiefen radikalen Orientierung gleichsam nackt dasteht und dastehen <hi rend="italic">will</hi> und sich nicht scheut, mit seinem ethischen Urteil, wenns ihm paßt (Deutschland!), in das Gegenteil seiner eigenen «Orientierung» zu stürzen. <persName ref="kbga-actors-330">Ragaz</persName> mag sehr oft die religiöse Tiefe einbüßen, wenn er alle Augenblicke schreit: siehe hier oder da ist das Reich Gottes [vgl. <ref type="can" subtype="bible" target="Lk.17.21">Lk 17,21</ref>]!, aber ebensosehr scheint mir der prinzipielle und ausschließliche Quietismus <persName ref="kbga-actors-240">Kutters</persName> eine Verarmung, die letztlich <hi rend="italic">auch</hi> eine persönliche Schrulle und nichts Herrliches ist. Nun, wir können dann davon reden am Montag.</p>
+        
+        <p><pb xml:id="p030" ed="pga" rend="noPipe"/>Ich bin nun in die <orgName ref="kbga-actors-6132">sozialdemokratische Partei</orgName> eingetreten. Gerade weil ich mich bemühe, Sonntag für Sonntag von den letzten Dingen zu reden, ließ es es mir nicht mehr zu, persönlich in den Wolken über der jetzigen bösen Welt zu schweben, sondern es mußte gerade jetzt gezeigt werden, daß der Glaube an das Größte die Arbeit und das Leiden im Unvollkommenen nicht aus- sondern einschließt. Die Sozialisten in meiner Gemeinde werden mich jetzt nach meiner öffentlichen Kritik an der Partei hoffentlich richtig verstehen. Und ich selber hoffe nun auch, der «wesentlichen» Orientierung nicht mehr untreu zu werden, wie es mir vielleicht noch vor zwei Jahren bei diesem Schritt hätte passieren können. Alle politische Parteitätigkeit habe ich zunächst abgesagt, meine Mitwirkung besteht in Beiträge zahlen und Vorträge halten — <ref type="pub" target="48020">am <date when="1915-02-14">14.</date> in der Kulturzentrale Zofingen</ref>!! Du beängstigend tief Orientierter wirst darüber bedenklich den Kopf schütteln. Wir können uns auch darüber dann aussprechen nächsthin.</p>
+        <p>Letzten Montag war ich in <placeName ref="kbga-places-9">Bern</placeName> und sah <persName ref="kbga-actors-27">Peter</persName>, der sehr auf dem rechten Flügel steht (<orgName ref="kbga-actors-6206">Helvetische Gesellschaft</orgName>!).<note xml:id="n01">Eine um die Erneuerung der Schweiz bemühte bürgerliche Vereinigung.</note> Das paßt ja auch besser, wenn man einen solchen Schwiegervater und Onkel<note xml:id="n02">Schwiegervater: <persName ref="kbga-actors-329">M. Rade</persName>; Onkel: <persName ref="kbga-actors-706">Fr. Naumann</persName>.</note> hat!! Was sagst du zum Friedenssonntag und zu den famosen Gebeten? Vgl. <ref type="can" subtype="bible" target="Hes.13.1 Hes.13.16">Hesekiel 13,1–16</ref>. Das Gebet des Papstes ist wirklich mindestens ebensogut.</p>
+        <p>Genug, genug! Gestern hatte ich eine große Schneeballenschlacht mit den Konfirmandenbuben. Ich leiste ihnen das alle Winter zur Erhöhung der gemeinsamen Freudigkeit. […]</p>
+        <closer>
+          <salute>Herzlicher Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

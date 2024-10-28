@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3249">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 10. Oktober 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3249 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 293–295.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3249</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 293-295</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">249</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 241</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 10. Oktober 1918. <ref target="https://kba.karl-barth.ch/objects/9871">KBA 9270.184</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-10-10">10. Oktober 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-10-10">10. Oktober 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3248"/>
+          <ref type="next" target="kbga-texts-3250"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3248"/>
+          <ref type="next-in-corresp" target="kbga-texts-3250"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:34+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:34+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p293" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1918-10-10">10. Oktober 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Die Pause unseres Verkehrs hat diesmal ja eine geradezu majestätische Länge angenommen. Kaum daß ich in diesen 4 1/2 Wochen auch nur wußte, wo ich dich in Gedanken zu suchen hatte: in <placeName ref="kbga-places-440">Risch</placeName>? im Gebirge? bei den Jünglingen in <placeName ref="kbga-places-474">Regensberg</placeName>? bei den sentimentalen Nebulosen in <placeName ref="kbga-places-143">Winterthur</placeName>? Und in welcher innern Verfassung und Bewegung, mit welchen Erträgnissen das alles? Nun zuletzt also auch bei euch die Grippe mit schweren Todesfällen. Es ist Zeit, daß du mich über das alles aufs Laufende setzest.</p>
+        <p>Unterdessen will ich den Anfang machen. Um mit dem <hi rend="italic">Häuslichen</hi> anzufangen: stille besuchslose Zeit der Konsolidierung und Einwinterung. […] <hi rend="italic">Pfarrerliches</hi>: Meine Bücherei hat sich durch die Teilung in <placeName ref="kbga-places-9">Bern</placeName><note xml:id="n01">Auflösung des elterlichen Haushalts: <persName ref="kbga-actors-2151">Barths</persName> seit 1912 verwitwete <persName ref="kbga-actors-18">Mutter</persName> siedelte im Oktober 1918 von <placeName ref="kbga-places-9">Bern</placeName> nach <placeName ref="kbga-places-5">Basel</placeName> über.</note> um ein Stattliches vermehrt: <persName ref="kbga-actors-798">Tertullian</persName>, <persName ref="kbga-actors-308">Origenes</persName>, <persName ref="kbga-actors-14">Augustin</persName> und alle Andern sind mir nun in greifbare Nähe gerückt, und das aus den Angeln Heben der modernen Theologie, das wir vor 2 1/2 Jahren zwischen <placeName ref="kbga-places-76">Leutwil</placeName> und <placeName ref="kbga-places-777">Birrwil</placeName> projektierten, erschiene immer möglicher, wenn wir nur besser Griechisch könnten! Auch eine hebräische Grammatik steht nun übrigens wieder solenn da und wartet auf Benützung im Geist und in der Wahrheit. Vorläufig wälze ich mich weiter durch die alte Weltgeschichte, lese die Biographie von <persName ref="kbga-actors-133">Frédéric Godet</persName><note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4130"><persName ref="kbga-actors-573">Ph. E. Godet</persName>, <title level="m">Frédéric Godet. D’après sa correspondance et d’autres documents inédits</title>, Neuchâtel
+                            1913.</bibl>
+                    </note> und pflüge am Anfang der Apostelgeschichte, zu der es leider außer <persName ref="kbga-actors-77">Calvin</persName> <pb xml:id="p294" ed="pga"/> und <persName ref="kbga-actors-851">Zündel</persName> wenig rechte Erklärungen gibt. Auch da bewährt sich aber der alte <hi rend="italic"><persName ref="kbga-actors-3717">Rieger</persName></hi><note xml:id="n03">
+                        <bibl corresp="kbga-bibls-3485"><persName ref="kbga-actors-3717">C. H. Rieger</persName> (1726–1791), <title level="m">Betrachtungen über das Neue Testament, zum Wachsthum in der Gnade und Erkenntniß unsers HErrn und Heilandes Jesu Christi</title>, 4 Teile in 2 Bänden, Tübingen 
+                        1828. Über die Apostelgeschichte: Teil 2, S. 1–146.</bibl>
+                    </note>, den du dir auch einmal anschaffen solltest. Predigten: immer noch <ref type="can" subtype="bible" target="Mt.8">Matth. 8</ref><note resp="sm" type="digital" xml:id="n3a" n="3a">
+                      <ref type="pub-" target="../volume/37/p192#p192">Matth. 8,1–4</ref> vom 25.8.1918;
+                      <ref type="pub-" target="../volume/37/p196#p196">Matth. 8,5–13</ref> vom 1.9.1918;
+                      <ref type="pub-" target="../volume/37/p200#p200">Matth. 8,14–15</ref> vom 8.9.1918;
+                      Bettag I <ref type="pub-" target="../volume/37/p204#p204">Matth. 8,24-30.36–43</ref> vom 15.9.1918;
+                      Bettag II <ref type="pub-" target="../volume/37/p208#p208">Phil. 1,9-10a</ref> vom 15.9.1918;
+                      <ref type="pub-" target="../volume/37/p210#p210">Matth. 8,18–20</ref> vom 29.9.1918;
+                      <ref type="pub-" target="../volume/37/p214#p214">Matth. 8,21–22</ref> vom 6.10.1918</note>. Am Montag war ich — am [Pfarr-] Kapitel. Am 21. wird eine weitere Sitzung stattfinden, zu der ich aber nicht kommen kann. Es handelt sich um den «Religionsartikel» des neuen Schulgesetzes. [Pfr.] <persName ref="kbga-actors-700">Müller</persName> mit seiner Balancierstange schien anfangs den Beifall der Mehrheit zu haben. Dann traten aber Andere gegen ihn in Aktion, zuletzt besonders eindrucksvoll <persName ref="kbga-actors-541">Epprecht</persName> mit 5 Gegenthesen und einem pausbackig gesunden Volkskirchenbegriff. Die Stimmung schlug darauf um. […] Das Ergebnis war, daß man also noch einmal zusammenkommen will, um auf die Synode hin einen einstimmigen (!) Beschluß zu fassen. Ich habe mich diesmal aufs stille Zuhören und Tubaken beschränkt. […] Was sollen wir auch sagen zu dieser Frage? Hast du eine Meinung für oder gegen? Ein Rückzugsgefecht ists auf alle Fälle und mit Illusionen muß man hüben und drüben rechnen. Immerhin neige ich noch eher dazu, den Lehrern als uns Pfärrern viel zuzutrauen, und habe eine alte Aversion gegen das Freikirchen-Wesen. Es könnte also wohl geschehen, daß wir uns da einmal Arm in Arm mit den Freisinnigen vorfänden. Aber zuerst möchte ich hören, was du auf Grund deiner Gabe der Durchschau irdischer Verhältnisse über die transzendente Lage der Dinge in diesem Punkt mitzuteilen hast, und befinde mich also mit F. und P. in weisem Wackeln.</p>
+        <p>
+                    <hi rend="italic">Auswärtige Beziehungen:</hi> Ich war also 8 Tage in <placeName ref="kbga-places-1149">Diessbach</placeName> und erlebte da eine sehr erfreuliche Zeit. <persName ref="kbga-actors-674">Gottfried Ludwig</persName> ist ein ausgezeichneter Mann, ein wahrer Tank Gottes in seiner Weise. Er forscht beharrlich und erfolgreich im N. T., in ständiger Fühlung mit <persName ref="kbga-actors-787">Ernst Staehelin</persName>, und predigt kräftig über den 1. Joh.-Brief. Wir hatten lange Gespräche, besonders über die Geduld <foreign xml:lang="grc" rend="Ell">μακροθυμία</foreign> sc. <foreign xml:lang="grc" rend="Ell">θεοῦ</foreign> und besuchten zur Bewährung eine Reihe von Nachbarpfarrern, wo wir das <foreign xml:lang="grc" rend="Ell">προσλαμβάνειν</foreign> [vgl. <ref type="can" subtype="bible" target="Röm.15.7">Rm 15,7</ref>] zu üben suchten. Es kam mir erst zum Bewußtsein, wie sehr wir eigentlich wegen Hochmut weithin übel beleumdet sind. Die Bettagspredigten, die wir uns da und dort vorlesen ließen, ergaben <pb xml:id="p295" ed="pga"/> allerdings schlimme Nachtbilder. <persName ref="kbga-actors-675">Ludwigs Bruder</persName>, ein Fürsprecher,<note xml:id="n04">= Rechtsanwalt.</note> verfolgte unsere Untersuchungen mit rührender Teilnahme. In <placeName ref="kbga-places-9">Bern</placeName> ist nun also unser Zelt abgebrochen, und heute wird es eben in <placeName ref="kbga-places-5">Basel</placeName> wieder aufgerichtet. Ich sah dort <persName ref="kbga-actors-757">Schädelin</persName>, der noch immer wie ein Frosch hin und herzuckt. Das Neueste ist die Verkündigung, «diese Bibelei» müsse nun einmal aufhören!! <persName ref="kbga-actors-674">Gottfried Ludwig</persName> sieht dem auch mit Staunen zu. […] Es geschehen doch immer wieder seltsamste Dinge im Reiche Gottes.</p>
+        <p>
+                    <hi rend="italic">Dementis und Proteste:</hi> Bei <persName ref="kbga-actors-6579">Bäschlin</persName> vernahm ich also, daß unsere <bibl corresp="kbga-bibls-1461">Predigten</bibl> draußen<note xml:id="n05">«Draußen»: in der Schweiz gebräuchlicher Ausdruck für: in Deutschland.</note> «aus militärischen Gründen» verboten seien. […] Ich habe mir erlaubt, <persName ref="kbga-actors-329">Rade</persName> und <persName ref="kbga-actors-88">Deißmann</persName> auf die Sache aufmerksam zu machen. Vielleicht daß wir aber im neuen Deutschland nun ohnehin möglich werden. Prinz <persName ref="kbga-actors-683">Max von Baden</persName><note xml:id="n06">Prinz <persName ref="kbga-actors-683">Max von Baden</persName> (1867–1929) wurde am <date when="1918-10-03">3.10.1918</date> deutscher Reichskanzler und bat den amerikanischen Präsidenten <persName ref="kbga-actors-841">Wilson</persName> um Friedensverhandlungen. Er legte bei Ausrufung der Republik am <date when="1918-11-09">9.11.1918</date> sein Amt nieder.</note> redet ja fast so schön wie <persName ref="kbga-actors-240">Kutter</persName> in seinen «Reden».</p>
+        <p>Ja eben: <hi rend="italic">Weltübersicht</hi> — Was sagen wir eigentlich zu dem allem, was unterdessen vorgegangen? Kommt da etwas oder ist wirklich alles wieder Bluff? Wer doch so sicher zu orakeln wüßte wie Z. im <orgName ref="kbga-actors-9960">Zwinglikalender</orgName>! Wer doch die Hitze hätte, Briefe an <persName ref="kbga-actors-841">Wilson</persName> und <persName ref="kbga-actors-672">Lloyd George</persName> zu schreiben wie <persName ref="kbga-actors-330">Ragaz</persName>!<note xml:id="n07"><persName ref="kbga-actors-330">Ragaz</persName> hatte im <date when="1916-12">Dezember 1916</date> den englischen Premierminister <persName ref="kbga-actors-672">D. Lloyd George</persName> brieflich aufgefordert, das Friedensangebot der deutschen Regierung vom <date when="1916-12-12">12.12.1916</date> mit einem konstruktiven, auf eine internationale Friedensorganisation und allgemeine Abrüstung gerichteten Friedensplan zu beantworten. Vgl. <bibl corresp="kbga-bibls-3449">M. Mattmüller, <title level="m">Leonhard Ragaz und der religiöse Sozialismus</title>, Bd. 2, Basel/Stuttgart
+                            1968, S. 306ff.</bibl> — Die Friedensinitiative des amerikanischen Präsidenten <persName ref="kbga-actors-841">Th. W. Wilson</persName> (<date when="1917">1917</date>) hatte Ragaz begeistert begrüßt. Daß er auch an Wilson direkt geschrieben habe, scheint dagegen auf einer Erinnerungstäuschung <persName ref="kbga-actors-2151">Barths</persName> zu beruhen. Vgl. <bibl corresp="kbga-bibls-1769">M. Mattmüller, <title>a.a.O.</title> S. 313ff.</bibl>
+               </note> […]</p>
+        <p>
+                    <hi rend="italic">Kleine Zeitung:</hi> [Pfarrer] Weber in <placeName ref="kbga-places-462">Menziken</placeName> hat mich aufgefordert, im Pastoralverein einen Vortrag zu halten, weil ich nach dem Alphabet drankomme. Ich habe ihm geantwortet, daß ich das tun werde, sobald die Kollegen zu erkennen geben würden, daß sie sich mit dem, was bis jetzt unsrerseits gesagt und gedruckt sei, auseinandersetzen wollten. — <orgName ref="kbga-actors-9960">Zwinglikalender</orgName>! Beachte besonders auch das Kalendarium mit den Tagesereignissen! — Der Druck des <bibl corresp="kbga-bibls-1497">Römerbriefs</bibl> ist wenigstens am 7. Kapitel und gibt mir immer wieder viel Arbeit. — Hast du die Predigten gelesen, die ich dir in einem zurückgehenden Korbe sandte, und was hältst du von ihnen? Sie sind von einem gewissen <persName ref="kbga-actors-1510">Burri</persName>,<note xml:id="n08"><seg type="bio"><persName ref="kbga-actors-514">Hans Burri</persName> (geb. 1893), Pfarrer in <placeName ref="kbga-places-479">Büren an der Aare</placeName> und in <placeName ref="kbga-places-480">Ostermundigen</placeName>.</seg></note> aus der Schule meines Bruders.</p>
+        <p>[…] </p>
+        <closer>
+          <salute>Leb wohl und laß bald viel Hintergründliches von dir hören. Mit herzlichem Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Und wenn du am Sonntag oder Montag herüberkämest?</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

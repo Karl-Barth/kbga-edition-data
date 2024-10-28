@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3175">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 18. Juli 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3175 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 216–217.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3175</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 216-217</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">175</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 170</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 18. Juli 1917. <ref target="https://kba.karl-barth.ch/objects/9484">KBA 9270.128</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-07-18">18. Juli 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-07-18">18. Juli 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3174"/>
+          <ref type="next" target="kbga-texts-3176"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3174"/>
+          <ref type="next-in-corresp" target="kbga-texts-3176"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p216" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-07-18">18. Juli 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Hier die in der Tat gewichtigen und klärenden Aktenstücke zurück. […] Was sind das für Verworrenheiten, in denen sich da unsere <orgName ref="kbga-actors-9899">rel.-soz. Konferenz-Väter</orgName> […] befinden! Möchte man sich nicht wünschen, lebenslänglich ein schlichter Hirte auf dem Land bleiben zu dürfen angesichts dieser Kirchenhölle in der Stadt, <pb xml:id="p217" ed="pga"/> jedenfalls in <placeName ref="kbga-places-66">Zürich</placeName>!? Und in dieser verkarrten<note xml:id="n01">= verfahren.</note> Situation soll sich nun nach der <persName ref="kbga-actors-240">Kutter</persName>schen Reichsgottesstrategie die Entscheidung anbahnen? Sind denn wirklich in <placeName ref="kbga-places-1134">Alexandrien</placeName>, <placeName ref="kbga-places-53">Rom</placeName> oder <placeName ref="kbga-places-8">Berlin</placeName> die bisherigen Entscheidungen gefallen? Oder waren diese religiösen Hexenkessel bis jetzt etwas Andres als Stätten der Verbreiterung, Verwirrung und Zerstreuung des Göttlichen? Mich veranlaßt besonders der Brief von <persName ref="kbga-actors-316">Ruedi [Pestalozzi]</persName> zu erneutem Heimat- und Bodengefühl auf meinem Safenwiler Känzelein und in der stillen Gesellschaft so vieler guter und ungelesener Bücher. Ja und unsre Graubündner! Das tönt wirklich fatal und das möge uns doch ja nie passieren, daß man uns im «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>» in diesem beruhigten Gönnerton loben kann! Verwüstungszone her! Und welch seltsames Licht fällt da auf <persName ref="kbga-actors-564">Gerber</persName>, daß er nun bereits stark genug ist, sich an grüne Kommissionstische zu setzen! Gute Nacht!</p>
+        <p>Nächsten Sonntag gehe ich nach <placeName ref="kbga-places-66">Zürich</placeName>. […] Ich bleibe dann über den Montag dort und besuche in raschem Lauf <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs>, <persName ref="kbga-actors-240">Kutter</persName> und <persName ref="kbga-actors-330">Ragaz</persName>, der mir nun einmal Rede stehen soll. Gestern, als ich eben den Brief an euch geschrieben, kam <persName ref="kbga-actors-583">Grolimund</persName><note xml:id="n02"><persName ref="kbga-actors-2151">Barths</persName> katholischer Nachbarpfarrer.</note> zu einem längern Gespräch über Mystik, Sozialismus und Coelibat. Heute Abend gehen wir zu <rs type="person" ref="kbga-actors-661 kbga-actors-660">Lejeune’s</rs>, die meinen <ref type="pub" target="48047">Vortrag</ref> für <placeName ref="kbga-places-779">Buus</placeName> hören wollen, so als Hauptprobe. Hat dir <bibl corresp="kbga-bibls-4329"><persName ref="kbga-actors-787">Ernst Staehelin</persName> seinen «<persName ref="kbga-actors-711">Oekolampad</persName>»</bibl> auch geschickt? Das ist doch erfreulich, was für andere Klänge da wieder kommen von der Universität! Was sagt wohl Vater <persName ref="kbga-actors-420">Wernle</persName> zu der Saat, die da auf seinem eigensten Reformationsäckerlein aufgehen will?!</p>
+        <closer>
+          <salute>Herzlichste Grüße nochmals!</salute>
+          <salute>Eure getreuen</salute>
+          <signed><persName ref="kbga-actors-26">N.</persName> und <persName ref="kbga-actors-2151">K.</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>Was sagen wir zu dem neuen <orgName ref="kbga-actors-9822">D.C.S.V.</orgName>ernden Reichskanzler?<note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-692">Georg Michaelis</persName> (1857–1936), Vorsitzender der Deutschen christlichen Studentenvereinigung, Vertrauensmann der deutschen Heeresleitung, die ihn nach hundertzehn Tagen der Reichskanzlerschaft (<date>Juni-Oktober 1917</date>) fallenließ; stand den pietistischen Gemeinschaftskreisen nahe.</seg></note> Nun müßte es doch mit der großartigen Parole «Macht Jesus zum König!» irgendwie etwas werden! Aber was?</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

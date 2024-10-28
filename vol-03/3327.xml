@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3327">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 26. April 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3327 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 383–384.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3327</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 383-384</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">327</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 318</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 26. April 1920. <ref target="https://kba.karl-barth.ch/objects/10551">KBA 9370.342</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-04-26">26. April 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1920-04-26">26. April 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3326"/>
+          <ref type="next" target="kbga-texts-3328"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3326"/>
+          <ref type="next-in-corresp" target="kbga-texts-3328"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:39+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:39+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p383" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            <date when="1920-04-26">26. April 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Hier ein Brief <persName ref="kbga-actors-537">Hans Ehrenbergs</persName>. Wir laden ihn zu uns ein. Es bedarf vielleicht noch der Verständigung über eventuelle Besuche bei <persName ref="kbga-actors-240">Kutter</persName> und <persName ref="kbga-actors-330">Ragaz</persName>, ob oder ob nicht? <persName ref="kbga-actors-240">Kutters</persName> Eigenheiten und <persName ref="kbga-actors-330">Ragazens</persName> Steilheit und <persName ref="kbga-actors-537">Ehrenbergs</persName> enthusiastische Beredsamkeit könnten unter Umständen seltsame Situationen ergeben. Aber das wird sich zeigen. Schick mir doch noch seinen <ref type="kba-objects-id" target="10488">Brief</ref>, damit ich ihm gegenüber auf dem Laufenden bin. Ich bekomme nun auch sein «Sonntagsblatt» und nehme mit Kopfschütteln Kenntnis davon. Wir werden ihn allerdings mit gepanzerter Brust empfangen und ihn energisch auf seinen so unerfreulich verdrängten Zionismus aufmerksam machen müssen. Es scheint mir immer mehr, es seien christlich-kirchliche Krämpfe, in denen <pb xml:id="p384" ed="pga"/> diese unsere lieben Patmosfreunde sich befinden. — […] Ich lese gegenwärtig nach Feierabend <persName ref="kbga-actors-169">Heilers</persName> «Gebet».<note xml:id="n01"><bibl corresp="kbga-bibls-1715"><persName ref="kbga-actors-169">Fr. Heiler</persName>, <title level="m">Das Gebet. Eine religionsgeschichtliche und religionspsychologische Untersuchung</title>, München (1919) 1920<hi rend="sup">2</hi>.</bibl></note> Schade, daß du für den <ref type="pub" target="48064">Aarauer Vortrag</ref> noch nicht nähere Kenntnis von diesem das Beten vollständig an die Religion verratenden Buche hattest. <persName ref="kbga-actors-550">Feuerbach</persName> oder auch <persName ref="kbga-actors-312">Overbeck</persName> könnten sich die Hände reiben über diese «Unterhändler»-theologen.</p>
+        <closer>
+          <salute>Herzliche Grüße an euch alle!</salute>
+          <salute>Herzlich</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

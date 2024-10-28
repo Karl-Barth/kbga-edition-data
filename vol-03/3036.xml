@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3036">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. Mai 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3036 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 45a–48.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3036</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 45a-48</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">36</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 34</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 25. Mai 1915. <ref target="https://kba.karl-barth.ch/objects/8812">KBA 9270.26</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-05-25">25. Mai 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-05-25">25. Mai 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3035"/>
+          <ref type="next" target="kbga-texts-3037"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3035"/>
+          <ref type="next-in-corresp" target="kbga-texts-3037"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:19+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:19+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p045" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-05-25">25. Mai 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>[…] Schade, daß aus unserm Zusammensein vorgestern nichts wurde. Dr. <persName ref="kbga-actors-629">Jung</persName> ist der nämliche Dr. <persName ref="kbga-actors-629">Jung</persName>, den <persName ref="kbga-actors-240">Kutter</persName> kennt; er redete sehr unbefangen von seinem Zusammentreffen mit ihm und wollte die Reise absolut unternehmen, um den Preis, in <placeName ref="kbga-places-76">Leutwil</placeName> in der Wirtschaft zu übernachten!! Daß er mitsamt seiner Psychoanalyse seines Berufes und seiner selbst nicht allzu sicher ist, den Eindruck haben wir auch. […] Es macht mir eine gewisse Freude, solche Menschen sich recht auswirken zu lassen und es ihnen zu überlassen, wie stark oder schwach sie sich von mir beeindrucken lassen. Man kann so in freundlicher Freiheit Austausch haben <pb xml:id="p046" ed="pga"/> auch mit recht Fremden, und denen wiederum kann es dann auch wohlsein da. […]</p>
+        <p>An <ref type="pub" target="27023">Pfingsten</ref> wehte der Geist bei mir etwas mittelmäßig über <ref type="can" subtype="bible" target="Jer.31.31 Jer.31.34">Jer. 31,31–34</ref> hin. Du kennst sicher dieses deprimierende Auf und Ab auch, aber es liegt eigentlich eine große Weisheit darin und vor Allem eine Notwendigkeit, die zu unserer ganzen Stellung gehört und die wir uns nicht hinwegwünschen können. Warum sollte sogar die Gemeinde nicht merken, daß wir unter dieser Notwendigkeit stehen und daß unsere Produktion keine Mechanik ist? «Weisheit» — ich meine, man «meint» dann nicht so leicht etwas [von sich], wenn einem alle 3-4 Wochen oder öfters so ein recht schwaches Predigtli «geschenkt» wird und gar noch an einem Festtag bei voller Kirche.</p>
+        <p>Ungefreutes von <persName ref="kbga-actors-420">Wernle</persName>. Ich ließ ihm durch <persName ref="kbga-actors-787">E. Staehelin</persName> einen Gruß ausrichten und bat erstern, mir gelegentlich zu schreiben, ob er es für möglich halte, daß ich <persName ref="kbga-actors-420">Wernle</persName> — wir gehen demnächst einen Tag nach <placeName ref="kbga-places-5">Basel</placeName> — wieder einmal besuche. Nun schreibt er mir, <persName ref="kbga-actors-420">Wernle</persName> sei furchtbar aufgeregt, könne wegen der Politik nicht mehr schlafen und habe über mich aufs neue Übles geredet. Ich weiß ja nicht was? und das ist mir auch gleichgültig, aber unendlich schwach finde ich das, daß er nun nicht einmal zu einem gewissen <hi rend="italic">persönlichen</hi> Vertrauen den Rank finden zu können scheint. Was habe ich ihm denn Besonderes in den Weg gelegt? Und der will uns dann die Bergpredigt<hi rend="italic">moral</hi> und die «stille Ewigkeit» vorhalten! Es ist mir auch leid, daß da nichts zu machen ist, weil ich hauptsächlich deinetwegen ein wirkliches Interesse daran hätte, mit ihm <hi rend="italic">nicht</hi> auseinanderzukommen.</p>
+        <p>Wegen Seelsorge möchte ich dich dann noch Weiteres <hi rend="italic">reden</hi> hören. Ich warf die Frage wirklich nur auf, um dich zu weiteren Erklärungen zu veranlassen. Prinzipiell sind wir ganz einig. Es fiel mir nur damals die Bestimmtheit auf, mit der du von dem «passenden Schlüssel» auf <hi rend="italic">diesem</hi> Gebiet sprachst resp. von dem freudigen und sicheren Gebrauch dieses «Schlüssels», während du mir gelegentlich schon sagtest, du wissest nicht, was du z. B. in einer sozialistischen Versammlung vorbringen solltest, oder du <pb xml:id="p047" ed="pga"/> könntest das, was du meintest, dort nicht vorbringen. Mir geht es, wenigstens ein Stück weit, umgekehrt: ich bin gerade an Krankenbetten oft eher in Verlegenheit und möchte gerne noch deutlicher merken, wie du es machst. Daß der Schlüssel passen <hi rend="italic">muß</hi>, ist auch mir ganz klar: wenn ich ihn nur besser in der Hand hätte. Wie schade, daß aus der Dreier-Konferenz mit <persName ref="kbga-actors-240">Kutter</persName> nichts wurde. Ich sollte eigentlich nichts sagen über das, was du mir andeutest, weil ich ihn nicht selbst gehört habe. Aber weißt du, mir wars: da sollte doch der liebe Gott einmal dreinschlagen und diesem Trick-Track-Spiel von Tun und Nicht-Tun, Ernst-Nehmen und Nicht-Ernst-Nehmen etc. einmal ein erfreuliches und gesegnetes Ende bereiten:  </p>
+        
+          <sp>
+          <speaker>Die Kirche spricht</speaker>
+          <l>Laßt uns den Glauben predigen und die Innerlichkeit und die Hoffnung aufs Jenseits.</l> 
+          </sp>
+          <sp>
+            <speaker><persName ref="kbga-actors-240">Kutter</persName></speaker>
+             <l>Nein, das ists nicht, aber der Kämpfer gegen den Mammon und der Gläubige einer besseren Gerechtigkeit, der hat Gott.</l>
+          </sp>
+            <sp>
+              <speaker>Die Religiös-Sozialen</speaker>
+            <l>Also laßt uns zu den Sozialisten, Pazifisten, Abstinenten etc. gehen <lb/> ---</l>
+          </sp>
+         
+            <sp>
+              <speaker><persName ref="kbga-actors-240">Kutter</persName></speaker>
+            <l>Nein, nein, das ist Pharisäismus der Idee, auf die Welt Gottes heißt es warten.</l>
+            </sp>
+            <sp>
+            <speaker>Die kleine Herde in <placeName ref="kbga-places-76">Leutwil</placeName>, <placeName ref="kbga-places-54">Safenwil</placeName> etc.</speaker>
+            <l>Also laßt uns in lauter innerm Tun die andere Welt ans Licht stellen ---</l>
+          </sp>
+         <sp>
+            <speaker><persName ref="kbga-actors-240">Kutter</persName></speaker>
+           <l> Nein nein nein, wie unfruchtbar, merkt ihr nicht, wie viel auch in der alten Welt immerhin «ernst zu nehmen» ist! Im «Nebelein», da ists!</l>
+         </sp>
+          <sp>
+            <speaker><persName ref="kbga-actors-403">Eduard</persName></speaker>
+            <l>Ach ja, im Nebelein …</l>
+          </sp>
+         <sp>
+            <speaker><persName ref="kbga-actors-240">Kutter</persName></speaker>
+            <l>------!?</l>
+            </sp>
+        
+        <p>Das ist nun etwas grob und schnurrig dargestellt, und es versteht sich ja von selbst, daß ich den tatsächlichen Wert dieses dialektischen <hi rend="italic">Spiels</hi> (<persName ref="kbga-actors-240">Kutter</persName> selbst braucht ja den Ausdruck) einsehe. Aber noch stärker empfinde ich augenblicklich, daß wir aus diesem Hin und Her, wo immer das Gegenteil wieder das tiefste Evangelium ist, einmal <hi rend="italic">heraus</hi> sollten. Oder ist das etwa die heilige Unruhe, von der wir umgetrieben sein <hi rend="italic">müssen?</hi> <persName ref="kbga-actors-240">Kutters</persName> Position erscheint mir darum so fruchtbar, weil sie, im Einklang <pb xml:id="p048" ed="pga"/> mit der tiefsten religiösen und philosophischen Erkenntnis, immer die Position und die Negation gleichzeitig aus sich entläßt und in sich enthält. Aber das ist etwas anderes als dies Hin- und Herschleudern, dies ruhelose: jetzt gerade das nicht! das er uns zumutet? nein, aber in das er uns leicht hineinbringt.</p>
+        <p>[…] Ich bin etwas beunruhigt, offen gestanden, durch das, was du wegen <placeName ref="kbga-places-35">Italien</placeName> schreibst. Natürlich ist diese Politik eine offene Schurkerei, aber warum sie uns tiefer betrüben sollte als etwa <placeName ref="kbga-places-167">Belgien</placeName><note xml:id="n01">Einmarsch der deutschen Truppen nach <placeName ref="kbga-places-167">Belgien</placeName> (<date when="1914-08">August 1914</date>) unter Bruch von dessen völkerrechtlich garantierter Neutralität.</note> und Lusitania,<note xml:id="n02">Englisches Passagierschiff, am <date when="1915-05-07">7. Mai 1915</date> von deutschen Unterseebooten im <placeName ref="kbga-places-1076">Atlantik</placeName> versenkt. Hunderte von Menschen, z.T. aus dem neutralen Ausland, kamen dabei ums Leben.</note> ist mir nicht deutlich. Hats denn <persName ref="kbga-actors-557">Friedrich der Große</persName>, hat es <persName ref="kbga-actors-500">Bismarck</persName> besser gemacht als die jetzigen Italiener? Ich komme <hi rend="italic">politisch</hi> auch nicht weiter, als wie es die <orgName ref="kbga-actors-5804">Basler Nachrichten</orgName> […] dargestellt, und das heißt aber doch: Welt ist Welt! […] Auch die Betrachtungsweise, als ob <orgName ref="kbga-actors-7792">Deutschland</orgName> mit seinen besten Werten und Verheißungen verloren sein müsse und wir damit noch sogar, wenn es jetzt den Andern gelingen sollte, ist mir fremdartig. Wieso denn? […]</p>
+        <p>Wir verbrachten den gestrigen Tag ganz im Walde, mit Kinderwagen, Büchern, Stumpen und Kochgeschirr. Du solltest auch einmal ein solches Fest mit uns erleben. </p>
+        <closer>
+        <salute>Herzlichen Gruß von</salute> 
+        <salute><persName ref="kbga-actors-26">Nelly</persName>, <persName ref="kbga-actors-5802">Fränzeli</persName> und</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

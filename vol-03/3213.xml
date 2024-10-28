@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3213">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 19. Januar 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3213 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 257–258.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3213</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 257-258</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">213</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 206</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 19. Januar 1918. <ref target="https://kba.karl-barth.ch/objects/9703">KBA 9270.163</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-01-19">19. Januar 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-01-19">19. Januar 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3212"/>
+          <ref type="next" target="kbga-texts-3214"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3212"/>
+          <ref type="next-in-corresp" target="kbga-texts-3214"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:32+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p257" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1918-01-19">19. Januar 1918</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Nun ja, nun hat <persName ref="kbga-actors-420">Wernle</persName> also seinen Schuß tun dürfen.<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4110"><persName ref="kbga-actors-420">P. Wernle</persName>, Rezension über «<title level="a">Suchet Gott, so werdet ihr leben!</title>» in: <title level="m">Kirchenblatt für die ref. Schweiz</title>, Jg. 33 (1918), S. 9–11.</bibl>
+                    </note> […] Und sein Produkt ist genau die Stimme des gekränkten Men<milestone xml:id="m17" unit="page"/><pb xml:id="p258" ed="pga" break="no"/>schenverstandes und der betrübten Kirchlichkeit, die zu erwarten war. Ich meine wir können das alles uns mit freundlichem Kopfnicken sagen lassen, um dann geschäftig weiterzumachen. Dem Absatz des <bibl corresp="kbga-bibls-1461">Buches</bibl> wird der Angriff, wie du meintest, wohl eher förderlich sein. Es wird nun der eine und andere danach greifen, um sich über die wüsten Stellen «des einen der beiden Pfarrer» mitzuentrüsten, vielleicht auch der eine und andere durch <persName ref="kbga-actors-420">Wernles</persName> Widerspruch veranlaßt auf die Vermutung kommen, es könnte etwas an der Sache sein. Ah bah! […]</p>
+        <p>Morgen predigt mir <persName ref="kbga-actors-641">Kistler</persName>.<note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-641">Adolf Kistler</persName> (1876–1962), Pfarrer in Olten.</seg></note> Am <date when="1918-01-27">27.</date> also du, nichtwahr? Ist es nicht möglich, mir die Kinderlehre in <placeName ref="kbga-places-76">Leutwil</placeName> zu erlassen? Sie ist mir immer eine greuliche Sorge. Hier auch, ich kann das einfach nicht. Aber bei fremden Kindern und bei den deinigen noch besonders. Natürlich, wenns sein muß, so muß es eben sein. <bibl corresp="kbga-bibls-1497"><ref type="pub-" target="16012">Römer 8</ref></bibl> geht dem Schluß entgegen. Deine Arbeit über die Praedestination<note xml:id="n03">Eine Seminararbeit, die <persName ref="kbga-actors-403">Thurneysen</persName> als Student bei <persName ref="kbga-actors-420">Wernle</persName> geschrieben hatte.</note> habe ich mit Interesse gelesen und brauche sie dann noch für 9-11. […]</p>
+        <p>Am Donnerstag hatten wir eine gute Kirchenpflegssitzung mit rechten Gesprächen über Gott und Welt. Sie wollen nun so fortfahren. […] Dazu schlagen nun die Wackern der Kirchgemeinde eine bleibende Besoldungserhöhung von 400 Fr. für mich vor. Das ist doch schön, nach allem, nicht? Meinen 2. Urlaub nehme ich erst nach Ostern. […]</p>
+        <closer>
+        <salute>1000 herzliche Grüße über Berg und Tal!</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

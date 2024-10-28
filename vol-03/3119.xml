@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3119">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. Juli 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3119 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 148–149.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3119</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 148-149</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">119</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 116</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. Juli 1916. <ref target="https://kba.karl-barth.ch/objects/9185">KBA 9270.86</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-07-27">27. Juli 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-07-27">27. Juli 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3118"/>
+          <ref type="next" target="kbga-texts-3120"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3118"/>
+          <ref type="next-in-corresp" target="kbga-texts-3120"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p148" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1916-07-27">27. Juli 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>[…] Ich habe auch das Bedürfnis, euch wieder zu sehen, aber für mehrere Tage ginge es jetzt nicht gut, weil ich im <date when="1916-09">September</date> im Ernst vierzehn Tage Ferien machen werde und inzwischen die Kontinuität von Unterweisung und Schriftstudium nicht unterbrechen sollte!! […]</p>
+        <p>Was ist das für eine Katastrophe mit der Zensur, die <persName ref="kbga-actors-240">Kutters</persName> Buch verboten hat!<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-3613"><persName ref="kbga-actors-240">Kutters</persName> «<title level="m">Reden an die deutsche Nation</title>»</bibl>, bei Eugen Diederichs in Jena erschienen, wurden im <date when="1916-07">Juli 1916</date> von der deutschen Militärzensur mit einem Verkaufsverbot belegt, das nach drei Monaten wieder aufgehoben wurde. Siehe <bibl corresp="kbga-bibls-4007"><persName ref="kbga-actors-653">H. Kutter jun.</persName>, <title>a.a.O.</title> S. 74f.</bibl>
+               </note> Ist das nun eine Attacke des leidigen Teufels oder ein freundliches Eingreifen des lieben Gottes, der noch rechtzeitig ein Unheil verhüten wollte? Jedenfalls ein Beweis für die seltene Blindheit, mit der im Gottesvolk da draußen immer noch regiert wird, und insofern eine kuriose Beleuchtung des Kutterschen Buches selbst.</p>
+        <p>Ich meinerseits bin mit der <hi rend="italic"><persName ref="kbga-actors-330">ragaz</persName>ischen</hi> Zensur noch immer in Unterhandlung. Er hat auf meinen <ref type="kba-objects-id" target="9175">Brief</ref> hin mein Manuskript wieder zurückgefordert, aber scheints nur behufs Beantwortung. Die beiden Stellen habe ich korrigiert und im übrigen erklärt, daß ich nichts streichen lassen <hi rend="italic">wolle</hi>, dies in einem unter <persName ref="kbga-actors-26">Nellys</persName> Überwachung fast übertrieben liebenswürdig gehaltenen Brief (<hi rend="italic">sachlich</hi> streng abweisend freilich). Die ganze Geschichte ist etwas düster, und ich habe ihm das auch angedeutet. […]</p>
+        <p>Fundgrube entdeckt: <hi rend="italic"><persName ref="kbga-actors-35">J. T. Beck</persName>!!</hi> Als <bibl corresp="kbga-bibls-3475">Bibelerklärer</bibl> einfach <hi rend="italic">turmhoch</hi> über der übrigen Gesellschaft, auch über <persName ref="kbga-actors-359">Schlatter</persName>, und auch in seinen systematischen Wegen für uns z.T. ohne Weiteres wieder zugänglich und vorbildlich. Ich bin ihm durch den Römerbrief auf die Spur gekommen und will ihm da nachgehen im Zusammenhang mit den Andern von <persName ref="kbga-actors-77">Calvin</persName> bis <persName ref="kbga-actors-800">Tholuck</persName> bis auf <persName ref="kbga-actors-240">Kutters</persName> «Gerechtigkeit»,<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-3583"><persName ref="kbga-actors-240">H. Kutter</persName>, <title level="m">Gerechtigkeit (Römerbrief Kap. I-VIII). Ein altes Wort an die moderne Christenheit</title>, Berlin
+                            1905.</bibl>
+                    </note> eine ganze Wolke von Zeugen!! Die ältere Generation könnte noch einmal Freude an uns bekommen, aber ein wenig anders als sie meint. Es entsteht da übrigens ein Heft mit «Scholien», in denen ich Alles in meine Sprüche zusammenfasse. Auch den verschiedenen unheimlichen <persName ref="kbga-actors-216">Kant</persName>i<pb xml:id="p149" ed="pga" break="no"/>schen Tafeln gehe ich weiter nach, wenn auch mit weniger Freude und Ausbeute, mehr aus Pflichtgefühl!!</p>
+        <p>Wie stehts auch — da die entscheidenden Schläge, die wir jetzt vorbereiten, erst in zehn Jahren fallen können — mit unserer Predigtsammlung? Würden wir wohl auch der Zensur verfallen?!</p>
+        <p>Die Präsidentschaft des <orgName ref="kbga-actors-8613">Blauen Kreuzes</orgName> konnte ich nun glücklich abgeben und habe jetzt nur noch alle 14 Tage Vereinsstunde. […]</p>
+        <closer>
+          <salute>Und nun herzlichen Gruß und freudiges Winken von</salute> 
+          <salute>Euren</salute>
+          <signed><persName ref="kbga-actors-26">N.</persName> und <persName ref="kbga-actors-2151">K.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

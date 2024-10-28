@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3418">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 30. Mai 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3418 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 492–494.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3418</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 492-494</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">418</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 407</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 30. Mai 1921. <ref target="https://kba.karl-barth.ch/objects/11144">KBA 9270.306</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-05-30">30. Mai 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-05-30">30. Mai 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3417"/>
+          <ref type="next" target="kbga-texts-3419"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3417"/>
+          <ref type="next-in-corresp" target="kbga-texts-3419"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:46+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:46+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p492" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-05-30">30. Mai 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Hier <bibl corresp="kbga-bibls-48"><ref type="pub" target="47016">Röm. 8,1–10</ref></bibl>. Du siehst, daß <persName ref="kbga-actors-246">Fritz Liebs</persName> Anwesenheit Räder an den Wagen gebracht hat. Viel Merkwürdiges rückt auf: der Zitterrochen,<note xml:id="n01">Vgl. <ref type="pub" target="3297#fn_n01">Anm. 1 zum Brief vom <date when="1919-11-11">11.11.1919</date></ref>.</note> eine weitere kleine Christologie, der «Ursprung» fast mit Händen zu greifen und doch wieder nicht, und viele kleine Nebenübungen am hohen Trapez. Was soll, was soll das alles? Weißt du, daß in den Kreisen unserer Freunde und «Mitsucher der Wahrheit», um mit <persName ref="kbga-actors-63">Brunner</persName> zu reden, die Anek<pb xml:id="p493" ed="pga" break="no"/>dote zirkuliert, wir zwei seien uns einmal einen ganzen Nachmittag rauchend gegenübergesessen. Nach einer Stunde habe <hi rend="italic">ich</hi> gesagt: Vielleicht!! und nach einer Stunde weitern Schweigens <hi rend="italic">du</hi>: vielleicht auch nicht!!! und das sei unser Gespräch gewesen und der konzentrierte Inhalt unseres Systems! Irgendwie sehen unsere Bemühungen vom Himmel oder auch nur vom Mond aus jedenfalls sehr mißlich aus.</p>
+        <p>Ich hatte allerlei Besuch diese Woche. Am Montag <persName ref="kbga-actors-27">Peter</persName>, mit dem es diesmal gut ging, obwohl er sich immer an einem bestimmten Punkt weigert, die Medizin zu schlucken, die wir den Leuten mit Teufelsgewalt eingeben wollen. Am Donnerstag J., wie gewohnt unsicher zuerst, an Lehramt und Weltreisen denkend, dann [von mir] energisch bedroht und belehrt, schließlich für einmal wieder beruhigt abreisend. Ein seltsamer Zeitgenosse. Die Gelegenheit, in der Sache, in der ich auf deinen Wink ein wenig <persName ref="kbga-actors-240">Kutter</persName> spielen sollte für ihn, war günstig, ich bemerkte aber keinerlei Spuren von Einschnappen. Gestern Sonntag traf <persName ref="kbga-actors-823">Wilhelm Vischer</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-823">Wilhelm Vischer</persName> (geb. 1895), Pfarrer, Dozent bzw. Prof. für A. T. in Bethel, Basel und Montpellier, naher Freund <persName ref="kbga-actors-2151">Barths</persName> und <persName ref="kbga-actors-403">Thurneysens</persName>.</seg></note> hier ein, eine gute Gestalt, wo das Rütteln an allem, was etwa noch niet- und nagelfest sein könnte, […] besonders lockend und lohnend ist. Er bleibt noch bis heute Mittag hier.</p>
+        <p>Der Verkehr mit dem Epheben <persName ref="kbga-actors-246">Lieb</persName> ist überaus ergötzlich. Der säuft nun (im Gegensatz zu <persName ref="kbga-actors-27">Peter</persName>) die bewußte Medizin literweise in sich. […] Seine gestrige Predigt stellte die erste ungefähr auf den Kopf. […] Für den nächsten Sonntag habe ich ihm nun die Aufgabe gestellt: sich auf die Füllung des einzelnen Wortes mit beziehungsreichem Inhalt zu konzentrieren. […] Seine hemmungslose Intelligenz und Ehrlichkeit läßt viel Gutes hoffen. Er hat jedenfalls eine echte philosophische Ader. Gestern teilte er uns einiges Selbstentdeckte über nicht-euklidische Geometrie mit, was wirklich gut war und wahrscheinlich demnächst im <bibl corresp="kbga-bibls-48">Römerbrief</bibl> als Wegzeichen auftauchen wird.</p>
+        <p>Am Donnerstag nahm ich ihn mit ins [Pfarr-] Kapitel. Es war entmutigender als je zuvor. Der Präsident hielt eine ganz unmögliche Eröffnungsrede über Religion und Gewissen und nachher <pb xml:id="p494" ed="pga"/> stieg Quatsch auf Quatsch, sodaß wir bald wieder entflohen. […] Am Sonntag sehen wir uns auf dem <placeName ref="kbga-places-100">Bergli</placeName>. Auch ich habe großes Verlangen, dein Angesicht zu sehen. Hast du eigentlich dein <bibl corresp="kbga-bibls-1842"><persName ref="kbga-actors-530">Dostojewski</persName>-Manuskript</bibl> abgeliefert?! Hü! wenns noch nicht geschehen ist. Alle Welt schreit darnach, es im Druck zu lesen, und auch ich brauche es dringend für den Schluß des Römerbriefs. […]</p>
+        <closer>
+          <salute>Grüße <persName ref="kbga-actors-1285">Marguerite</persName> und sei selbst gegrüßt von mir, <persName ref="kbga-actors-246">Fritz Lieb</persName>
+und <persName ref="kbga-actors-823">Wilhelm Vischer</persName>.</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

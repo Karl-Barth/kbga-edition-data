@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3352">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 19. Juli 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3352 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 413a–414.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3352</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 413a-414</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">352</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 342</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 19. Juli 1920. <ref target="https://kba.karl-barth.ch/objects/10691">KBA 9270.257</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-07-19">19. Juli 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-07-19">19. Juli 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3351"/>
+          <ref type="next" target="kbga-texts-3353"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3351"/>
+          <ref type="next-in-corresp" target="kbga-texts-3353"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p413" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-07-19">19. Juli 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Da — der Kompromißvorschlag [<persName ref="kbga-actors-607">Herpels</persName>], wie ich mirs dachte. […] Es sollte mich wunder nehmen, wenn wir ihn verschieden auffaßten. […] Mich sieht das Ding nicht gut an. Welch ein Chaos von Fragen und von Leuten, die reden, reden, reden wollen! Was sollen wir unter ihnen? Was wir bis jetzt zu bemerken haben, das wissen sie aus unsern Büchern und Briefen zur Genüge. Es wird dafür gesorgt sein, daß sie nicht ganz wider den Stachel löcken können, daß ihnen unsre Gedanken auch ohne uns gelegentlich wie Prügel zwischen die Beine fahren werden. Mit uns <hi rend="italic">weiter</hi> nachzudenken, <hi rend="italic">vorwärts</hi> zu arbeiten, dazu haben sie keine Lust. Unsere Rolle bestünde tatsächlich nur darin, ihnen zu ihren «Haupterörterungen» das Hochamt zu lesen, wobei du als Referent über den Kolosserbrief nicht einmal vorgesehen bist und auf <pb xml:id="p414" ed="pga"/> unsere weitern Vorschläge von Schweizern überhaupt nicht Rücksicht genommen wird. — Bei dieser Lage fühle ich <hi rend="italic">keinen</hi> Antrieb hinzureisen. Was wollten wir dort Anderes tun, als sie von ihren «Haupterörterungen» tunlichst abzulenken? Vielleicht steht es ja wirklich so, daß sie nun zunächst an ihren brennenden Fragen die Hände sich wärmen müssen, wie wir ja durchaus durch das Stadium […] <persName ref="kbga-actors-580">Karl v. Greyerz</persName>-<persName ref="kbga-actors-330">Ragaz</persName> hindurchmußten. Die Gewissenserleichterung, daß die «Frage nach Gott» doch <hi rend="italic">auch</hi> zur Geltung komme, dürfen <hi rend="italic">wir</hi> ihnen nicht verschaffen, wo es so deutlich ist, daß sie uns überhaupt nur als Korrektiv dabei haben wollen. So kann ich jene Stelle in <persName ref="kbga-actors-221">Kierkegaards</persName> «Richter»<note xml:id="n01"><bibl corresp="kbga-bibls-1694"><persName ref="kbga-actors-221">S. Kierkegaard</persName>, <title level="m">Buch des Richters. Seine Tagebücher 1833-1855</title> im Auszug aus dem Dänischen von H. Gottsched, Jena/Leipzig 1905, S. 100</bibl>: «… Das sind die Korrektive. Ein unseliger Irrtum ist es, wenn nun der, welcher zum Anbringen des Korrektivs gebraucht wird, ungeduldig wird und das Korrektiv zum Normativ für die anderen machen will, das ist ein Versuch alles zu verwirren.» In den vorangehenden und den folgenden Sätzen vergleicht Kierkegaard die Menschen, die Gott dergestalt als «Korrektiv» verwendet, mit «ein kleines bißchen Zimt», das die Köchin einer Speise beimischt. Diesen Vergleich nahm <persName ref="kbga-actors-2151">Barth</persName> in seinem Vortrag <bibl corresp="kbga-bibls-1424">«<title level="m"><ref type="pub" target="19008">Not und Verheißung der christlichen Verkündigung</ref></title>» (1922)</bibl> zur Charakterisierung seiner eigenen Theologie auf. (<bibl corresp="kbga-bibls-929"><title level="m">Das Wort Gottes und die Theologie</title>, S. 100.</bibl>)</note> nicht verstehen. Unsere Abwesenheit wird ihnen deutlicher sagen als alles, was wir vorbringen könnten, daß wir unsern Beitrag zur Bewegung nicht als Randglosse, als freundliche oder auch etwas unheimliche Morgen- und Abendandacht auffassen. Was ihnen in <hi rend="italic">dieser</hi> Form beizubringen ist, wird ihnen der Kolosserbrief selbst auch beibringen. Wir aber können diese Form nicht gutheißen. Die Idee, uns ausgerechnet über das Thema «Sollen wir politisch handeln?» als Diskussionsredner anzukündigen, ist einfach grotesk. — Oder siehst du alles ganz anders, milder, möglicher an? Wenn nicht, so übernimm doch bitte wieder unsern Antwortbrief, dem ich mich dann anschließe. Es eilt aber, sonst setzen sie uns auf irgendeine Liste. Ich will, wenn du mich nicht gründlich eines Besseren belehren solltest, ganz und gar nichts mit der Geschichte zu tun haben. […]</p>
+        <p>[…] Bei uns wimmelt es: zwei Ferienbuben aus <placeName ref="kbga-places-66">Zürich</placeName>, Gipser und Tapezierer in Sicht für unser Schlafzimmer, am Freitag also <persName ref="kbga-actors-275">Merz</persName>, der heute die Grenze überschreitet. Arge Hitze. Gestern abend Schluß der Epheserbriefbesprechungen; wir kehren nun zu <ref type="can" subtype="bible" target="Mt.20">Matth. 20</ref> zurück, wo wir letzten Herbst stehen blieben. <bibl corresp="kbga-bibls-4214"><persName ref="kbga-actors-530">Dostojewski</persName>, «Die Dämonen»</bibl>. <ref type="can" subtype="bible" target="2.Kor.5">2.Kor. 5</ref> beendigt mit zwei Predigten<note resp="sm" type="digital" xml:id="n1a" n="1a">Predigt vom 11.Juli 1920 über <ref type="pub-" target="../volume/42/p250#p250">2.Kor. 5,16–17</ref>; Predigt vom 18.Juli 1920 über <ref type="pub-" target="../volume/42/p259#p259">2.Kor. 5,18–21</ref></note>, die du einmal einsehen kannst. In der Vorbereitung zu Kolosser stecke ich schon ziemlich tief; vielleicht führe ich sie nun zu anderm Zwecke durch.</p>
+        <closer>
+          <salute>Herzlichen Gruß euch Beiden!</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

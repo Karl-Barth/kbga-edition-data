@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3162">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 16. Mai 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3162 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 200–201.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3162</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 200-201</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">162</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 158</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 16. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9435">KBA 9270.118</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-05-16">16. Mai 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-05-16">16. Mai 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3161"/>
+          <ref type="next" target="kbga-texts-3163"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3161"/>
+          <ref type="next-in-corresp" target="kbga-texts-3163"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:28+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:28+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p200" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-05-16">16. Mai 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Was sagst du zu dieser neuerlichen Einladung?<note xml:id="n01"><persName ref="kbga-actors-2151">Barth</persName> war zu einem Referat am <date when="1917-07-31">31. Juli 1917</date> in einem Ferienlager verschiedener christlicher Jungmännervereine auf der <placeName ref="kbga-places-1365">Rotmatt</placeName> bei <placeName ref="kbga-places-779">Buus</placeName> (Baselland) eingeladen worden. Er nahm dann die Einladung an und sprach über «<ref type="pub" target="48047">Die Zukunft des Christentums und der Sozialismus</ref>».</note> Das Grundsätzliche und das Taktische berühren sich eben stark bei der Frage, ob wir solchen Berufungen folgen wollen oder nicht. Ich sehe aus allen meinen Pietistenbiographien, was für ein <hi rend="italic">tragischer</hi> Moment es war vor 100 Jahren, als sie anfingen, begehrt und gehört zu werden und die Wüste verlassen konnten, um Antistes etc. zu werden. Werden wir ihre Irrtümer zu vermeiden wissen, wenn wir nun auch anfangen, uns in solchen Reichsgottesheerlagern hören zu lassen? <persName ref="kbga-actors-562">Gelzer</persName> täte z. B. auch besser, sich nicht mit den Leuten von <placeName ref="kbga-places-160">Baden</placeName><note xml:id="n02">Jährliche Versammlung von Pfarrern und Laien der «positiven» Richtung. Am <date when="1917-05-09">9. Mai 1917</date> hatte <persName ref="kbga-actors-2151">Barth</persName> <persName ref="kbga-actors-562">Gelzer</persName> dort getroffen.</note> zu kompromittieren. In der Konsequenz <hi rend="italic">jeden</hi> solchen Schrittes kann, gerade weil es da wieder ins christliche Wesen hineingeht, der Tod lauern, daß der liebe Gott die kaum im Schloß bewegte Türe wieder mit lautem Knall muß zuklappen lassen. Oder ist es genug, wenn man das <hi rend="italic">weiß</hi>, und darf man dann wieder harmlos sein und sich freuen über alle, die hören wollen? Ich wünsche darüber deinen analysierenden Zuspruch und Rat zu vernehmen.</p>
+        <pb xml:id="p201" ed="pga"/>
+        <p>Ich wälze an einer <ref type="pub-" target="32021">Himmelfahrtspredigt</ref> über <ref type="can" subtype="bible" target="Mic.2.13">Micha 2,13</ref>, und du wirst ähnlich beschäftigt sein. Bei den <persName ref="kbga-actors-612">Hofacker</persName>’schen Predigten<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4459"><persName ref="kbga-actors-612">L. Hofacker</persName>, <title level="m">Predigten für alle Sonn-, Fest- und Feiertage</title>, Stuttgart
+                            1851<edition rend="sup">15</edition>.</bibl>
+                    </note> über solche Themata tritt mir mehr das Unzulängliche dieser Art entgegen als ihre Stärke. Ich werde eher vorsichtig über den Himmel und die Kirche etwas zu sagen versuchen und den «Durchbrecher» als das große X dazwischen stehen lassen. Die Voraussetzungen, darüber mit Vollmacht zu reden, fehlen sowohl mir als meinen Zuhörern <hi rend="italic">zu</hi> sehr.</p>
+        <p>Wie wars in <placeName ref="kbga-places-5">Basel</placeName>?</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

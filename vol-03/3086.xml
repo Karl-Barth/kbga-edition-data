@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3086">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 7. Dezember 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3086 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 111–112.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3086</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 111-112</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">86</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 83</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 7. Dezember 1915. <ref target="https://kba.karl-barth.ch/objects/9008">KBA 9370.125</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-12-07">7. Dezember 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1915-12-07">7. Dezember 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3085"/>
+          <ref type="next" target="kbga-texts-3087"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3085"/>
+          <ref type="next-in-corresp" target="kbga-texts-3087"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:23+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:23+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p111" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            <date when="1915-12-07">7. Dezember 1915</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>[…] Denk, am Sonntag predigte ich in <placeName ref="kbga-places-452">Frick</placeName> und fuhr mit dem Fünfliber,<note xml:id="n01">= Fünffrankenstück.</note> den mir die Predigt ungefreut-gefreuterweise bald nach Verhallen des Amens in der Stille der Sakristei eintrug, nach <placeName ref="kbga-places-66">Zürich</placeName>. Dort hörte ich meinen Freund <persName ref="kbga-actors-562">Heinrich Gelzer</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-562">Heinrich Gelzer</persName> (1888–1963), damals Pfarrer im Kanton Schaffhausen, später Lehrer am Basler Missionshaus, pietistisch geprägt, Zinzendorf-Kenner, ein ausgezeichneter Theologe von großer Weitherzigkeit und Bescheidenheit.</seg></note> einen Evangelisationsvortrag halten und habe mich erfreut und gestärkt gefunden durch diesen Pietisten. Seine entschlossene, freudige und doch vornehme Art hat mir starken Eindruck gemacht. Ich lese in diesen Tagen in <persName ref="kbga-actors-420">Wernles</persName> neuem Jesusbuch,<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-3964"><persName ref="kbga-actors-420">P. Wernle</persName>, <title level="m">Jesus</title>, Tübingen
+                            1916.</bibl>
+                    </note> aber ich war bei der Altgläubigkeit <persName ref="kbga-actors-562">Gelzers</persName> ungleich viel stärker an die Sache des Gottesreiches herangeführt als bei dem modernen Theologen. Auch den Basler «<orgName ref="kbga-actors-9781">Unabhängigen Kirchgenossen</orgName>»<note xml:id="n04"><seg type="org">«<orgName ref="kbga-actors-9781">Unabhängige Kirchgenossen</orgName>»: ein von <persName ref="kbga-actors-420">Wernle</persName> begründeter Kreis in Basel.</seg> Dort hatte <persName ref="kbga-actors-2151">Barth</persName> am <date when="1915-11-15">15.11.1915</date> seinen Vortrag «<ref type="pub" target="48031">Kriegszeit und Gottesreich</ref>» gehalten. Vgl. <ref type="pub" target="3079#fn_n03">Anm. 3</ref> zum Brief vom <date when="1915-11-12">12.11.1915</date>.</note> mit ihrer Trostreligion, die nach ihrer Meinung im Gegensatz zu unsrer Sturm- und Drangfrömmigkeit stehen soll, muß ich entgegenhalten: auch wir wollen Gesetz und Propheten nicht auflösen, auch unser Christus möchte sie erfüllen [vgl. <ref type="can" subtype="bible" target="Mt.5.17">Mt 5,17</ref>], wir möchten euch nur befreiter und freudiger von alledem reden hören. Aber vielleicht sollten wir statt aller Polemik den Beweis des Geistes und der Kraft <pb xml:id="p112" ed="pga"/> [vgl. <ref type="can" subtype="bible" target="1.Kor.2.4">1.Kor 2,4</ref>] antreten. Vielleicht sollten auch wir zu Evangelisten werden und unbekümmert zur Gemeinde reden, wie es uns gegeben ist: «Redet mit Jerusalem freundlich und sagt ihr, daß ihre Dienstbarkeit ein Ende hat!» [<ref type="can" subtype="bible" target="Jes.40.2">Jes 40,2</ref>].</p>
+        <p>Bei mir im Hause wird den ganzen Tag geklopft und gehämmert. Kamine werden gemauert, und ich sitze inmitten dieses Getöses und suche das Geheimnis zu ergründen «des, der da kommt». Schick mir wieder einmal eine von deinen «Lösungen», und sei in herzlicher Verbundenheit gegrüßt von </p>
+        <closer>
+        <salute>Deinem</salute>
+          <signed><persName ref="kbga-actors-403">Ed. Th.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

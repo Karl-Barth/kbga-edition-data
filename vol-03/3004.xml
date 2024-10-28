@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3004">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 4. Mai 1913</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3004 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 3a–4.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3004</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 3a-4</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">4</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 2</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 4. Mai 1913. <ref target="https://kba.karl-barth.ch/objects/8328">KBA 9270.6</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1913-05-04">4. Mai 1913</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1913-05-04">4. Mai 1913</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-66">Zürich</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3003"/>
+          <ref type="next" target="kbga-texts-3005"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3003"/>
+          <ref type="next-in-corresp" target="kbga-texts-3005"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:17+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:17+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    
+      <div type="letter">
+        <pb xml:id="p003" ed="pga"/>
+        <opener>
+        <persName ref="kbga-actors-2151">Barth</persName>
+          <dateline>
+            <date when="1913-05-04">4. Mai 1913</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Was mußt du von mir denken, daß ich dir noch gar nicht für das prächtige Hochzeitsgeschenk, den <persName ref="kbga-actors-410">Troeltsch</persName>,<note xml:id="n01"><bibl corresp="kbga-bibls-11"><seg type="bio"><persName ref="kbga-actors-410">Ernst Troeltsch</persName> (1865–1923, Prof. für systematische Theologie in Heidelberg)</seg>, <title level="a">Die Soziallehren der christlichen Kirchen und Gruppen</title> ( = Gesammelte Schriften, Bd. 1), Tübingen 1912.</bibl></note> gedankt habe? Ich sagte es dir ja schon vorher, als wie nett ich diese freundschaftliche Demonstration empfunden habe und wie ich mich auf den Besitz des Buches freue. […] Nun kann ich den Dank gleich noch verbinden mit der herzlichen Gratulation zu <placeName ref="kbga-places-76">Leutwil</placeName>.<note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-403">Eduard Thurneysen</persName> (geb. 1888), 1911-1913 Hilfssekretär des <orgName ref="kbga-actors-5239">CVJM</orgName> in <placeName ref="kbga-places-66">Zürich</placeName>, von 1913 bis 1920 Pfarrer in <placeName ref="kbga-places-76">Leutwil</placeName> im Kanton Aargau.</seg></note> Hurra, ein «wohlgesinnter» aargauischer Pfarrer mehr! Gewiß mußt du dich der bisher von <persName ref="kbga-actors-763">Schild</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-763">Paul Schild</persName> (1884–1966), damals Pfarrer in <placeName ref="kbga-places-382">Uerkheim</placeName>, <choice><sic>det</sic><corr type="misprint" resp="sm">der</corr></choice> Nachbargemeinde von <placeName ref="kbga-places-54">Safenwil</placeName></seg>.</note> und mir gebildeten äußersten Rechten in der <orgName ref="kbga-actors-9779">Synode</orgName> anschließen! […] Und nun komme ich noch mit einer Bitte daher. Mein Lieber, bist du am <date when="1913-05-18">18. Mai</date> noch frei und könntest du für mich predigen und kinderlehren? Ich habe nämlich am <date when="1913-05-19">19. Mai</date> im aargauischen Pfarrverein in <placeName ref="kbga-places-116">Lenzburg</placeName> über «<ref type="pub-" target="22051">den Glauben an den persönlichen Gott</ref>»<note xml:id="n04">Der Vortrag wurde veröffentlicht in: <bibl corresp="kbga-bibls-3797">ZThK 24 (1914), S. 21–32; 65-95.</bibl></note> zu referieren und wäre froh, in der Woche vorher von der Predigtarbeit frei zu sein. Es wäre auch fein, wenn du bei diesem Anlaß wieder einmal zu mir kommen und uns im Ehestand besichtigen könntest. Meine Frau<note xml:id="n05"><persName ref="kbga-actors-26">Nelly Barth</persName>, geb. v. Hoffmann, geb. 1893.</note> würde sich auch freuen, dich wiederzusehen. Machs doch, wenn du <pb xml:id="p004" ed="pga"/> kannst, wal? Ich sitze hinter einer langen, langen Reihe von Religionsphilosophen und Dogmatikern, denen ich für mein Thema auf den Zahn fühlen muß.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3325">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 20. April 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3325 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 378a–380.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3325</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 378a-380</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">325</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 316</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 20. April 1920. <ref target="https://kba.karl-barth.ch/objects/10539">KBA 9270.238</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-04-20">20. April 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-04-20">20. April 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3324"/>
+          <ref type="next" target="kbga-texts-3326"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3324"/>
+          <ref type="next-in-corresp" target="kbga-texts-3326"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:39+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:39+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p378" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1920-04-20">20. April 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich habe dir Vieles zu erzählen über die seit unsrer plötzlichen Trennung am Sonntag eingetretenen Ereignisse. Das nächste war eine plötzlich beschlossene und energisch durchgeführte Velofahrt mit <persName ref="kbga-actors-26">Nelly</persName>, <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs> und Frl. <persName ref="kbga-actors-826">Wehrli</persName> von <placeName ref="kbga-places-1">Aarau</placeName> nach <placeName ref="kbga-places-435">Luzern</placeName> mit großen Naturfreuden, kopfschüttelnden und doch seelenruhigen Gesprächen über das Thema des Tages und einem trefflichen Essen in <placeName ref="kbga-places-493">Beromünster</placeName>. Am Abend rollte ich dann noch per Achse nach <placeName ref="kbga-places-5">Basel</placeName> zu meiner <persName ref="kbga-actors-18">Mama</persName>. Sie hat nun nach langer Zeit der Mißbilligung den Weg wieder gefunden zur Einsicht in unsre Wege, und ich hatte sehr schöne Tage mit ihr, <persName ref="kbga-actors-23">Heiner</persName> (der meinem <ref type="pub" target="48064">Vortrag</ref> den philosophischen Segen erteilt hat!) und meiner <persName ref="kbga-actors-668">Schwester</persName>. […] Am Sonntag war ich bei <persName ref="kbga-actors-665">Liechtenhan</persName> in der Predigt. Er stellte sich nicht undeutlich als «das irdene Gefäß» neben den zu seinen Füßen thronenden <persName ref="kbga-actors-491">Benz</persName> (<ref type="can" subtype="bible" target="2.Kor.4.7">2.Kor. 4 [V. 7])</ref>.</p>
+        
+        <p><pb xml:id="p379" ed="pga" rend="noPipe"/>Am Nachmittag ging ich beherzten Schrittes zu <persName ref="kbga-actors-821">Eberhard Vischer</persName> und fragte nach <persName ref="kbga-actors-155">Harnack</persName>. Ich platzte dort mitten in eine große Einladung, […] wo sie mich (wie ich später auf Umwegen hörte) eben verhandelt hatten. <persName ref="kbga-actors-155">Harnack</persName> thronte auf einem Kanapee, wurde «Exzällänz» genannt und teilte den Damen Bonmots aus (zwei Dinge seien international: das Geld und der Geist und ähnliches!). Nachher gabs eine einstündige Entrevue mit ihm und <persName ref="kbga-actors-821">Eberhard Vischer</persName>. Ich fragte ihn, was er unter «profan» verstehe, und hörte, daß er damit meine auch von <persName ref="kbga-actors-359">Schlatter</persName> geübte Einseitigkeit verstehe, die das Geheimnis Gottes verletze. Nicht so glatt konnte er antworten auf meine Frage, ob er mir nicht wenigstens historisch (N. T.) recht geben müsse. Die beiden Herren verwickelten sich bis zu der Behauptung, Sündenvergebung sei etwas ganz Einfaches, das einfach zur Nächstenliebe gehöre, und das er, <persName ref="kbga-actors-155">Harnack</persName>, beständig übe. <hi rend="italic">Etwas</hi> Erschütterung sei der Kirche wohl zu wünschen, aber ich solle meine Auffassung von Gott (<foreign xml:lang="grc" rend="Ell">καινὴ κτίσις</foreign>) doch lieber für mich behalten, keinen «Exportartikel» (!) daraus machen. Zuletzt wurde ich als Calvinist und Intellektualist beschimpft und mit der Weissagung, daß ich nach allen Erfahrungen der Kirchengeschichte eine Sekte gründen und Inspirationen empfangen werde, entlassen und von <persName ref="kbga-actors-821">Eberhard Vischer</persName> mit gütig lächelnden Bemerkungen über <persName ref="kbga-actors-312">Overbeck</persName>, den <hi rend="italic">er</hi> «<foreign xml:lang="fre">à fonds</foreign>» kenne, zur Türe geleitet. Gut, nichtwahr?! — Am andern Morgen meldete ich mich flugs telephonisch bei <persName ref="kbga-actors-494">Carl Albrecht Bernoulli</persName>, der mich freudig am Tram in <placeName ref="kbga-places-1369">Ariesheim</placeName> in Empfang nahm und in seine Klause führte, wo das gute Wort: «<foreign xml:lang="lat">Tenax propositi!</foreign>» an der Wand steht, und wo wir dann eine gute vorläufige Aussprache hatten. Er gefällt mir persönlich viel besser als aus seinen Schriften. Von hüst! und hott! war keine Rede mehr. Die <ref type="pub" target="48061">Tambacher Rede</ref> hatte ihn einigermaßen belehrt, daß wir auch nicht eben erst aus dem Ei gekrochen, und so fragte er hauptsächlich, und ich gab, so gut es ging, Auskunft. Es war ein freudiges offenes Beisammensein. Sein «Psychismus» ist eine ganz vage Sache; vielleicht läßt er sich allerlei von <hi rend="italic">uns</hi> sagen und besonders von <persName ref="kbga-actors-23">Heiner</persName>, auf dessen <bibl corresp="kbga-bibls-1775">Buch</bibl> er gespannt ist. Allerlei <pb xml:id="p380" ed="pga"/> Schrulliges mag im Hintergrund lauern, aber gerade der hochnäsige Kulturmensch, den ich hinter ihm vermutete, ist er nicht. Es ist alles im Rollen. — Auf seinen Rat ging ich am Nachmittag zu Frau Professor <persName ref="kbga-actors-719">Overbeck</persName>, und das war nun ganz fein. Sie ist völlig auf dem Laufenden, eine häßliche, lebhafte, gescheite alte Dame, nahm mich sehr herzlich auf und entwarf mir ein Bild von ihrem <persName ref="kbga-actors-312">Mann</persName>, das nun einfach haarscharf stimmt zu unsrer Auffassung. Die Broschüre<note xml:id="n01"><bibl corresp="kbga-bibls-1686"><persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-403">E. Thurneysen</persName>, <title level="m">Zur inneren Lage des Christentums</title>.</bibl></note> kann ruhigst erscheinen, es ist Alles in Ordnung, und über die Basler Alleswisser werden <hi rend="italic">wir</hi> lachen, mehr als sie über uns. Sie zeigte mir ein weiteres gutes Bild von ihm. Dir läßt sie sagen, du habest ihr durch deinen Brief an <persName ref="kbga-actors-494">Bernoulli</persName> eine sehr glückliche Viertelstunde gemacht, und sie freue sich, dich auch kennen zu lernen. Wahrscheinlich war sie früher nicht ohne Schärfe. Sie sagte gute Dinge über alles Mögliche, z. B. über Geistleiblichkeit (ich mußte ihr aus einer großen aufliegenden Bibel einige Stellen aufsuchen! […] Nur vom Sozialismus wollte sie nicht viel wissen […] und hieß mich wiederkommen und alles Literarische zusenden. Eine treffliche rückendeckende Beziehung, nichtwahr!</p>
+        <p>Heute Nachmittag bin ich wieder zurückgekommen. Wir müssen nun beide in die Hände speuzen zur Vorbereitung neuer Taten. Es ist offenbar, daß der Götze wackelt. <persName ref="kbga-actors-155">Harnack</persName> machte den Eindruck eines im Grunde gebrochenen Mannes, er wußte wirklich erstaunlich wenig außer seinen erhabenen Witzlein, die ihm auch noch einmal ausgehen werden. […] Ich las eben deine Predigt nochmals<note xml:id="n02"><bibl corresp="kbga-bibls-1686"><title level="m">Die enge Pforte</title>, vgl. <ref type="pub" target="3317#fn_n01">Anm. 1 zum Brief vom 15.3.1920</ref>.</bibl></note> und finde sie ausgezeichnet, ich stehe zum Ganzen und zu jedem Satz und begreife nicht, was [mein Bruder] <persName ref="kbga-actors-27">Peter</persName> da <hi rend="italic">nicht</hi> begreift. […] Ich werde der <orgName ref="kbga-actors-9871">CSV</orgName><note xml:id="n03"><persName ref="kbga-actors-2151">Barth</persName> war gebeten worden, im Sommer <date when="1920">1920</date> als Referent und Diskussionsleiter an einem Ferienlager der <orgName ref="kbga-actors-9871">Christlichen Studentenvereinigung</orgName> der deutschen Schweiz teilzunehmen.</note> noch einmal Freiheit geben, mich abzustellen. Der Schrecken scheint gerade in diesen Kreisen nicht gering gewesen zu sein.<note xml:id="n04">Reaktion auf <persName ref="kbga-actors-2151">Barths</persName> Vortrag an der <orgName ref="kbga-actors-5240">Aarauer Studentenkonferenz</orgName> vom <date when="1920-04-17">17.4.1920</date>: <bibl corresp="kbga-bibls-2381"><title level="m"><ref type="pub" target="48064">Biblische Fragen, Einsichten und Ausblicke</ref></title>.</bibl></note> Ich habe einen Vetter dabei, der mir heute ein ängstliches Gepiepse vortrug, es seien Viele in völliger Ratlosigkeit vom Platze gegangen. […] Umso besser die wackere unbekannte Aarauerin.</p>
+        <closer>
+          <salute>Vale! Grüße <persName ref="kbga-actors-1285">Marguerite</persName>!</salute>
+          <salute>Herzlichst dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

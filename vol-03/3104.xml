@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3104">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. April 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3104 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 132–133.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3104</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 132-133</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">104</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 101</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. April 1916. <ref target="https://kba.karl-barth.ch/objects/9130">KBA 9270.79</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-04-27">27. April 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-04-27">27. April 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3103"/>
+          <ref type="next" target="kbga-texts-3105"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3103"/>
+          <ref type="next-in-corresp" target="kbga-texts-3105"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:24+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:24+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p132" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-04-27">27. April 1916</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Wir sind mit voller Teilnahme bei euch in dieser wichtigen Entscheidungsstunde. Was soll ich raten, wenn du mich fragst? Die Gefahr liegt nahe, daß ich vor allem selbstsüchtigerweise sage: Lauft uns nicht davon! Laßt euch nicht verschleppen in diesen Winkel am Ende des <placeName ref="kbga-places-848">Toggenburgs</placeName>! […] Denn dann ade schönes Zusammenarbeiten! Aber das ist ein sekundärer Gesichtspunkt. Entscheidend wird sein, was du selbst schreibst, ob du dich von den Leutwilern schon wieder abwenden darfst — und ob der fette Acker der 1700-fränkigen, gollorgelnden<note xml:id="n01">bezieht sich auf die bekannte Firma <orgName ref="kbga-actors-575">Goll</orgName>, Orgelbauer.</note> <placeName ref="kbga-places-105">St. Galler</placeName> Frömmigkeit <hi rend="italic">die</hi> Welt ist, in die <hi rend="italic">du</hi> dich als Säemann berufen fühlst. Weißt du sonst noch mehr über die Gemeinde? Was <persName ref="kbga-actors-515">Buxtorf</persName> schreibt und <hi rend="italic">wie</hi> er schreibt, macht mir den Eindruck, das seien <pb xml:id="p133" ed="pga"/> Gefilde, die wir lieber andern überlassen sollten. Der gottlose <placeName ref="kbga-places-152">Aargau</placeName> hat etwas erquickend Jungfräuliches, Ehrliches neben diesem Land <placeName ref="kbga-places-1045">Kanaan</placeName>, wo es Gemeindeammänner gibt, die … und an denen der Pfarrer … Willst du nicht auch noch eine Weile den Aargauern ein Aargauer sein? Ich will nun nicht so kräftig an dir reißen wie <persName ref="kbga-actors-515">Buxtorf</persName>, aber dich am Ärmel zupfen tun wir Alle: <persName ref="kbga-actors-26">Nelly</persName>, <persName ref="kbga-actors-5802">Fränzeli</persName>, <persName ref="kbga-actors-24">Markus</persName> und ich: bleib!</p>
+        <p>Und nun müßt ihr am Sonntag auf alle Fälle kommen, um uns euern Entschluß mitzuteilen. In treuem Gedenken</p>
+        <closer>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

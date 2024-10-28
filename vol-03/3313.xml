@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3313">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 19. Februar 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3313 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 367–370.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3313</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 367-370</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">313</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 304</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 19. Februar 1920. <ref target="https://kba.karl-barth.ch/objects/10439">KBA 9270.229</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-02-19">19. Februar 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-02-19">19. Februar 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3312"/>
+          <ref type="next" target="kbga-texts-3314"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3312"/>
+          <ref type="next-in-corresp" target="kbga-texts-3314"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:39+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:39+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p367" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-02-19">19. Februar 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Ich will dir gleich das Nötigste über <placeName ref="kbga-places-43">München</placeName>-<placeName ref="kbga-places-66">Zürich</placeName> melden. Es waren gute wohlausgefüllte Tage voll Kampfgewühl und Gesichtern. Schade daß ihr nicht mehr mit waret, wir haben eure Abwesenheit an diesem für uns ergiebigsten Teil der Reise mehr als einmal beklagt.</p>
+        <p>Die Reise <placeName ref="kbga-places-118">Göppingen</placeName>-<placeName ref="kbga-places-43">München</placeName> im II. Klasse-Coupé gab gute Beziehungen zum deutschen Bürgertum; wir hörten Drohendes von einem Berliner Polizeioffizier, Problematisches von allerlei Kaufleuten, in der letzten Reisestunde kam ich in den Fall, ein kleines Privatissimum über Schweizergeschichte nach <persName ref="kbga-actors-760">J. Schaffner</persName><note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4189"><persName ref="kbga-actors-760">J. Schaffner</persName>, <title level="m">Geschichte der Schweizerischen Eidgenossenschaft</title>, Stuttgart
+                            1915.</bibl>
+                    </note> zu lesen.</p>
+        <p>In <placeName ref="kbga-places-43">München</placeName> rauschender Empfang von Kriegsgefangenen. Mitten darin Pfarrer <persName ref="kbga-actors-275">Merz</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-275">Georg Merz</persName> (1892–1959), Pfarrer in einer Vorortgemeinde Münchens, später Dozent in Bethel, Rektor der Augustanahochschule Neuendettelsau. Merz brachte <persName ref="kbga-actors-2151">Karl Barths</persName> <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> in den <orgName ref="kbga-actors-631">Verlag Chr. Kaiser</orgName>, wurde Schriftleiter von «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>». Seine jahrelange Verbundenheit mit <persName ref="kbga-actors-2151">Barth</persName> lockerte sich aus theologischen Gründen.</seg></note> mit — hocherhobenem <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> als Kennzeichen. Gut, nicht? Leider verfehlten wir ihn trotzdem und fanden erst nach langer Irrfahrt unser Heim.</p>
+        <p>
+                    <hi rend="italic"><persName ref="kbga-actors-275">Merz</persName></hi> ist sehr gut, kennt den Römerbrief besser als ich. Er kommt von <persName ref="kbga-actors-748">Rittelmeyer</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-748">Friedrich Rittelmeyer</persName> (1872–1938), Pfarrer in Nürnberg, schloß sich der Anthroposophie <persName ref="kbga-actors-791">Rudolf Steiners</persName> an. Begründer der <orgName ref="kbga-actors-8646">Christengemeinschaft</orgName></seg>.</note> und hat noch einige entsprechende Residuen, war aber die ganze Zeit über höchst aufgeschlossen, unermüdlich in Fragen, menschlich überaus sympathisch […], kann erquickend lachen und erzählen, hält seinen Vorortposten, wie ich mich in seiner Predigt überzeugen konnte, vortrefflich und vielversprechend, dirigiert überdies den Verleger <persName ref="kbga-actors-662">Lempp</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-662">Albert Lempp</persName> (1884–1943), Münchner Buchhändler, besaß und leitete den <orgName ref="kbga-actors-631">Verlag Christian Kaiser</orgName> und gab solange, bis es durch das nationalsozialistische Regime verboten wurde, das Schrifttum <persName ref="kbga-actors-2151">Barths</persName> und seiner Freunde heraus in persönlichem Einsatz und naher Verbundenheit mit <persName ref="kbga-actors-275">Georg Merz</persName>, <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-403">Thurneysen</persName></seg>.</note> in theologischer Hinsicht sehr intelligent. Ein Abend mit <hi rend="italic"><persName ref="kbga-actors-169">Friedrich <pb xml:id="p368" ed="pga"/> Heiler</persName></hi><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-169">Friedrich Heiler</persName> (1892–1967), Prof. für Religionswissenschaft in Marburg.</seg></note> Nicht gut. Gescheites Theolöglein (28jährig), ganz historisch orientiert, mit verdächtiger Vorliebe für «evangelische Frömmigkeit». Wir betasteten uns vom ersten Augenblick an entschieden feindselig und kamen zu keinem Ziel. Der Mann wird noch Schaden anrichten! (Es ergab sich, daß in derselben Viertelstunde bei <persName ref="kbga-actors-662">Lempp</persName> von ihm der «<bibl corresp="kbga-bibls-1497">Römerbrief</bibl>» und von <hi rend="italic">mir</hi> «<bibl corresp="kbga-bibls-1715">Das Gebet</bibl>» [das Hauptwerk <persName ref="kbga-actors-169">F. Heilers</persName>] gekauft wurde.)</p>
+        <p>
+                    <hi rend="italic"><persName ref="kbga-actors-7252">Alexander Münch</persName></hi>, […] wie <persName ref="kbga-actors-169">Heiler</persName> vom Katholizismus kommend, fein beweglich zitternde Seele, hin und her zwischen Revolution und Reaktion, preist seufzend «die Liebe» und das Urchristentum, wird wahrscheinlich eines Tages kopfschüttelnd in irgendein feineres Lager als das unsrige übergehen, könnte aber vielleicht auch noch gut werden. Sogar aufs «Kgl. Dekanat» wurde ich zitiert und empfing dort von einem milden alten Pfarrer, der aber über «die verfluchten Juden» wenig christlich denkt und redet, viele «Gott segne Sie» auf den Weg.</p>
+        <p>Ein Nachmittag bei <hi rend="italic"><persName ref="kbga-actors-922">Artur Bonus</persName></hi><note xml:id="n06"><seg type="bio"><persName ref="kbga-actors-922">Artur Bonus</persName> (1864–1941), Freund <persName ref="kbga-actors-137">Gogartens</persName>, Literat aus dem Kreise des <orgName ref="kbga-actors-93">Diederichs-Verlages</orgName>.</seg></note> in <placeName ref="kbga-places-615">Taufkirchen</placeName>. Trefflicher mürrisch-vergnügter Einsiedler in einer Bauernhütte, wahrscheinlich mit allerlei uns verwandten Gedanken und Einsichten, ließ sich die <persName ref="kbga-actors-312">Overbeck</persName>-Rezension<note xml:id="n07">
+                        <bibl corresp="kbga-bibls-3519"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="m"><ref type="pub" target="48063">Unerledigte Anfragen an die heutige Theologie</ref></title>, in: <persName ref="kbga-actors-2151">K. Barth</persName>/ <persName ref="kbga-actors-403">E. Thurneysen</persName>, <title level="m">Zur inneren Lage des Christentums</title>, München
+                            1920, S. 3–24.</bibl> Wieder abgedruckt in: <bibl corresp="kbga-bibls-954"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="m">Die Theologie und die Kirche</title>. Ges. Vorträge II, München 
+                        1928, S. 1ff.</bibl>
+               </note> vorlesen und war sehr freundlich. Am letzten Abend großes «Simultan-Schachspiel» mit etwa 30 Einberufenen (Pfarrer, Studenten, Architekten ‹gut!›, ob nicht auch ein Konsul da war? Jedenfalls <persName ref="kbga-actors-540">Kurt Eisners</persName><note xml:id="n08"><seg type="bio"><persName ref="kbga-actors-540">Kurt Eisner</persName> (1867–1919) rief als Führer der Unabhängigen Sozialdemokraten am <date when="1918-11-07">7.11.1918</date> in <placeName ref="kbga-places-43">München</placeName> die Republik aus und wurde bayerischer Ministerpräsident. Opfer eines politischen Attentats.</seg></note> Tochter, was doch wohl erheblich ist!). Ich las eine Predigt vor, und dann gab es unter <persName ref="kbga-actors-275">Merzens</persName> gewandter Leitung ein zweistündiges mächtiges Fragen von allen Seiten besonders über Pfarrer und Gemeinde, Reich Gottes und Politik. «Des ischt mir alles fabelhaft neu», bekannte der wackere <persName ref="kbga-actors-662">Lempp</persName> zum Schluß. Es gab aber ein gutes allgemeines Aufmerken, Einlenken und fragend Auseinandergehen, wie wir es lieben, zum Schluß, und <placeName ref="kbga-places-43">München</placeName> darf nun als ein wichtiger besetzter Punkt auf unsrer Landkarte vermerkt werden. — Pinakotheken etc. wurden natürlich auch besichtigt.</p>
+        <p>Von der Heimreise ist zu sagen, daß wir sogar I. Klasse fahren mußten, […] daß ich von <placeName ref="kbga-places-481">Romanshorn</placeName> bis <placeName ref="kbga-places-66">Zürich</placeName> noch ein nützliches Gespräch mit einem deutschen Arzt hatte.</p>
+        <pb xml:id="p369" ed="pga"/>
+        <p>
+                    <hi rend="italic"><placeName ref="kbga-places-66">Zürich</placeName></hi>. Hier trefflich aufgenommen bei <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs>. […] Heute Morgen war ich bei — — <hi rend="italic"><persName ref="kbga-actors-330">Ragaz</persName></hi>. Ja wahrhaftig, ich ging hin und ließ das ganze Zorngefäß noch einmal über mich ausschütten: <bibl corresp="kbga-bibls-1497">Der Römerbrief</bibl> sei das Schlimmste, was ihm überhaupt in seinem Leben angetan worden sei, ich sei von schlimmstem Hochmut erfüllt, ferner von Haß und Verachtung gegen ihn, <persName ref="kbga-actors-330">Ragaz</persName> […]. Ich saß ganz demütig da und ließ mir alles sagen, bis die Zornkraft sichtlich erlahmte, dann gab ich mit ruhigster Stimme zu erkennen, ich lasse mich durchaus von ihm zur Buße rufen, hingegen sei im <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> und in meiner Polemik etwas, was davon auf alle Fälle nicht betroffen werde. Seine peinliche Überraschung über meine Haltung sei die direkte Folge davon, daß er nie ernsthaft sich auf unsere Probleme eingelassen habe, wir seien gewöhnt, das Persönliche nicht so wichtig zu nehmen. Sobald er auf die Sache eintreten werde, werde er auch erkennen, daß von der Ruchlosigkeit meines Angriffs eigentlich wenig übrig bleibe. Und siehe, es trat eine gewisse Entspannung ein. Er war mir in dieser Aufregung und Hilflosigkeit auf einmal in gewissem Sinn sympathisch, und er seinerseits eröffnete wenigstens die Aussicht auf Versöhnung, fand es sehr schön, daß ich gekommen sei, und lud mich sogar — zur Mitarbeit an den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>» ein!! Allerdings unter der Proklamation, mein Intellektualismus sei vielleicht sein demnächst zu bekämpfender «größter Feind». «Schön so!», fuhr es mir heraus; er solle nur kommen, das sei besser als die Sphäre persönlicher Stimmungen, in die jetzt Alles zwischen uns gehüllt sei. Er könnte ja [seinen Mitarbeiter] <persName ref="kbga-actors-661">Lejeune</persName> vorschicken, schlug ich ihm vor, weil er sagte, er finde einfach die Zeit (!) nicht, <persName ref="kbga-actors-240">Kutter</persName> und uns einmal gründlich zu erlegen. Es war ein Präliminarfriede nicht ohne Aussichten. Ich war zum ersten Mal lieber an der Gloria- als an der Zollikerstraße gewesen.<note xml:id="n09">Gloriastraße: Wohnung von <persName ref="kbga-actors-330">Ragaz</persName>, Zollikerstraße: Wohnung von <persName ref="kbga-actors-240">Kutter</persName> in <placeName ref="kbga-places-66">Zürich</placeName>.</note>; Nachher war ich noch eine Stunde bei <hi rend="italic"><persName ref="kbga-actors-561">Fueter</persName></hi>, dem ich klar zu machen suchte, wir erwarteten von dem Kanzeln und Katheder beherrschenden System <persName ref="kbga-actors-590">Hadorn</persName>-<persName ref="kbga-actors-491">Benz</persName> bessere Leistungen als seine Rezensionen. […]</p>
+        <milestone xml:id="m24" unit="page"/>
+        <pb xml:id="p370" ed="pga"/>
+        <p>So ist unsre seltsame Reise auch meinerseits nun zum Abschluß gekommen. Seltsam nur schon wegen ihrer Tiefpunkte, […] seltsam wegen des vieldeutigen Höhepunktes <placeName ref="kbga-places-43">München</placeName>, seltsam wegen all des Klingenkreuzens, das uns wieder einmal passiert ist und dessen Erträgnisse nun abzuwarten sind. […]</p>
+        <p>Das <orgName ref="kbga-actors-5240">Aarauer Zentralkomitee</orgName> findet meine Formulierung<note xml:id="n10">Titel von <persName ref="kbga-actors-2151">Barths</persName> Vortrag auf der <orgName ref="kbga-actors-5240">Aarauer Studentenkonferenz</orgName> am <date when="1920-04-17">17.4.1920</date>. Es blieb dann doch bei Barths ursprünglichem Vorschlag: <bibl corresp="kbga-bibls-2381">«<title level="m"><ref type="pub" target="48064">Biblische Fragen, Einsichten und Ausblicke</ref></title>.»</bibl>
+               </note> «kraftlos». Ich habe ihnen einiges über Dynamis mitgeteilt und neu vorgeschlagen: «Die Frage der Bibel an die Gegenwart.» […]</p>
+        <closer>
+          <salute>Herzlichen Gruß euch beiden</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      
+      <postscript>
+        <p>P. S. <hi rend="italic"><persName ref="kbga-actors-275">Merz</persName></hi> erklärte mir, unsre «Botschaft» an die Pfarrer lasse sich auch zusammenfassen in das Gebot: Hütet euch vor dem Kitsch und heiratet die entsprechenden Frauen!</p>
+      </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

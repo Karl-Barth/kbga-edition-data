@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3178">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. Juli 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3178 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 219–220.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3178</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 219-220</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">178</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 173</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. Juli 1917. <ref target="https://kba.karl-barth.ch/objects/9500">KBA 9270.131</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-07-27">27. Juli 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-07-27">27. Juli 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3177"/>
+          <ref type="next" target="kbga-texts-3179"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3177"/>
+          <ref type="next-in-corresp" target="kbga-texts-3179"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:30+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:30+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p219" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-07-27">27. Juli 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Eben habe ich <persName ref="kbga-actors-403">Eduards</persName> Patriarchen ein erstes Mal durchgangen und auch die früheren Betrachtungen, die in dem Heft stehen. Und da freue ich mich eben über die in <placeName ref="kbga-places-76">Leutwil</placeName> fließende Quelle und gönne es allen dortigen Kinderlein, die daraus trinken dürfen, und möchte es dir so <hi rend="italic">gerne</hi>, so <hi rend="italic">gerne</hi> einfach nachmachen und kann doch nicht, weil ich diesen «Geischt» nicht habe, auch wenn ich dir die Worte nachsagen wollte. O dieses liebevolle sich Versenken in all die einzelnen [Patriarchen] auch als Einzelne, das dein Reden so anschaulich und anfassend macht, während ich überhaupt nur eine Melodie weiß, und wenn ich die vergesse, überhaupt lackiert <pb xml:id="p220" ed="pga"/> bin und darum so oft ganz mißlich dastehe vor gelangweilten Gesichtern, die mit Grund nur Worte hören. Und was ist das für ein intelligentes Bibellesen, bei dem wirklich etwas «heraus»- (ab und zu wohl auch hinein-) kommt für dich und die Kinder, während ich traurig dastehe, wenn ich meine eigenen Fäden spinne, trauriger wenn ich über etwas Biblisches referiere, und am traurigsten, wenn ich mit ihnen direkt aus der Bibel lesen sollte, wobei mir gewöhnlich einfach der Atem ausgeht bei den bekanntesten Dingen. Vielen Dank also für dein Heft, das ich nun wieder voll Sehnsucht und Lernbegierde und Spähen nach deinem Geheimnis studieren werde. Es ahnt mir aber schon, daß es nicht viel nützen wird. Ich bin nun einmal der katechetische Quak [Versager], was auf tiefer liegende Schäden hinweist, die man mir auch einmal hinweganalysieren sollte.</p>
+        <p>[…] Ich bin eben dran, mir durch langweiligste Studien von <persName ref="kbga-actors-829">Weiß</persName>,<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4072"><persName ref="kbga-actors-829">B. Weiß</persName>, <title level="m">Der Brief an die Römer</title> (Krit.-exeget. Kommentar über das N. T., begr. v. H. A. W. Meyer), 6.-9. Aufl., Göttingen 
+                        1881-1899.</bibl>
+                    </note> <persName ref="kbga-actors-133">Godet</persName>,<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-3476"><persName ref="kbga-actors-133">F. Godet</persName>, <title level="m">Commentar zu dem Brief an die Römer</title>, deutsch von E. R. und P. Wunderlich, 2 Bände, Hannover 
+                        1881/82.</bibl>
+                    </note> <persName ref="kbga-actors-671">Lipsius</persName><note xml:id="n03">
+                        <bibl corresp="kbga-bibls-3472"><persName ref="kbga-actors-671">R. A. Lipsius</persName>, <title level="m">Hand-Commentar zum</title>
+                            N. T. II, 2, Freiburg 
+                        1891.</bibl>
+                    </note>… das Recht und die Möglichkeit zur <bibl corresp="kbga-bibls-1497">Auslegung</bibl> von <ref type="can" subtype="bible" target="Röm.5">Röm. 5</ref> zu erwerben. Die Zeddel häufen sich, aber die Durchsicht hat sich noch nicht eröffnet. Weißt, ich glaube aus unsrer Predigtsammlung wird nichts, jedenfalls bei <orgName ref="kbga-actors-742">Reinhardt</orgName><note xml:id="n04">Verlag <orgName ref="kbga-actors-742">Friedrich Reinhardt</orgName> in <placeName ref="kbga-places-5">Basel</placeName>.</note> nicht. Auch entferne ich mich in raschem Lauf von meinen damals ausgewählten (leider z.T. schon abgeschriebenen!) Predigten. Gehts dir nicht auch so?</p>
+        <p><persName ref="kbga-actors-23">Heiner</persName> war da. «Ich glaube, ihr lest zu viel in der Bibel.» — «Wie schade, daß <persName ref="kbga-actors-403">Thurneysen</persName> nicht kam, ich freue mich immer, mit so bedeutenden und gelehrten Männern zu verkehren.» Daneben aber auch sachliche Gespräche, in denen ihn der Verweis auf die historische Parallele des <persName ref="kbga-actors-167">Hegel</persName>ianismus in seinen fatalen Beziehungen zur Theologie doch etwas stutzig machte. Aber sonst geht er unentwegt auf sein Ziel los, die «religiösen Begriffe» für das System des reinsten Idealismus «in Anspruch zu nehmen», wie er sagt, unter mißfälligen Seitenblicken auf unsre allzu biblische Art des Denkens, die ihm wie ein seltsamer Rappel vorkommt. […]</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen an euch Beide in großer Verbundenheit
+von Geist und Gemüt</salute>
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

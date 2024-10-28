@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3031">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 7. Mai 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3031 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 41–42.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3031</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 41-42</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">31</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 29</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 7. Mai 1915. <ref target="https://kba.karl-barth.ch/objects/8797">KBA 9370.83</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-05-07">7. Mai 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1915-05-07">7. Mai 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3030"/>
+          <ref type="next" target="kbga-texts-3032"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3030"/>
+          <ref type="next-in-corresp" target="kbga-texts-3032"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:19+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:19+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p041" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            <date when="1915-05-07">7. Mai 1915</date>
+          </dateline>
+          <salute>Lieber Freund,</salute>
+        </opener>
+        <p>Ich habe die Einladung nach <placeName ref="kbga-places-9">Bern</placeName> auch erhalten, weiß aber noch nicht, ob ich hinfahren kann. Würde nicht <persName ref="kbga-actors-580">Greyerz</persName> reden, ich bliebe sicher daheim. Was du von den heilsamen Folgen der Absonderung von den andern schreibst, ist sehr richtig. Im Übrigen bin ich der Meinung, wir sollten nicht zuviel Nachdenken darauf verwenden, sondern tun, was uns gerade richtig erscheint. <persName ref="kbga-actors-240">Kutter</persName> hat mir eine längere Rede darüber gehalten, wie nötig es sei, sich nicht zu klar über sich selber zu werden, weil die innern Wachstumsvorgänge dadurch gestört würden. Die naive Unbewußtheit solle wie eine schützende fruchtbare Dämmerung, wie ein «Nebelein» den innersten Lebensvorgang umhüllen und vor eigener und fremder Zudringlichkeit bewahren. Ich mußte an den <placeName ref="kbga-places-1343">Schmadribachfall</placeName> im <placeName ref="kbga-places-1342">Lauterbrunnental</placeName> denken, den ich einst eine Woche lang bei trübem Wetter von <placeName ref="kbga-places-459">Wengen</placeName> aus Tag für Tag aus einer Nebelschicht herabstürzen sah. Es war, als ob Wolken und Nebel den Wasserfall aus sich entließen. So also soll aus dem <pb xml:id="p042" ed="pga"/> fruchtbaren Dämmern des Bewußtseins … Ich sehe, du lachst, aber <persName ref="kbga-actors-240">Kutter</persName> hat wohl einigermaßen recht, auch ohne mein Bild. […]</p>
+        <closer>
+          <salute>Sei herzlich gegrüßt von</salute>
+          <salute>deinem</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

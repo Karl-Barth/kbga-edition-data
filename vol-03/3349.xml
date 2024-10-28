@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3349">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 14. Juli 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3349 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 410.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3349</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 410-410</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">349</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 339</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 14. Juli 1920. <ref target="https://kba.karl-barth.ch/objects/10679">KBA 9270.255</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-07-14">14. Juli 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-07-14">14. Juli 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3348"/>
+          <ref type="next" target="kbga-texts-3350"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3348"/>
+          <ref type="next-in-corresp" target="kbga-texts-3350"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p410" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-07-14">14. Juli 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Da! Gestern Nachmittag ist <persName ref="kbga-actors-210">Jülichers</persName> längst angekündigte 42 cm Granate<note xml:id="n01"><bibl corresp="kbga-bibls-918"><persName ref="kbga-actors-210">A. Jülicher</persName>, <title level="a">Ein moderner Paulus-Ausleger</title> (Rezension über <persName ref="kbga-actors-2151">Barths</persName> «<bibl corresp="kbga-bibls-1497">Römerbrief</bibl>»), in: CW, Jg. 34 (1920), Sp. 453–457; 466-469</bibl>. Wieder abgedruckt in: <bibl corresp="kbga-bibls-914">J. Moltmann (Hrsg.), <title level="m">Anfänge der dialektischen Theologil</title>, Teil 1, München 1962, S. 87ff.</bibl></note> hier niedergegangen. Hilf mir den Trichter ausmessen und die allenfalls Verschütteten wieder ausgraben. Allzuschlimm ists ja nicht; mehr ein milde alles begießender Abendregen als ein schreckliches Gewitter. Also laut <persName ref="kbga-actors-155">Harnack</persName>: <persName ref="kbga-actors-704">Thomas Münzer</persName>,<note xml:id="n02">Daß <persName ref="kbga-actors-155">Harnack</persName> <persName ref="kbga-actors-2151">Barth</persName> mit <persName ref="kbga-actors-704">Thomas Münzer</persName> verglichen habe, erwähnt Barth auch im Vorwort zur 2. Aufl. seines <bibl corresp="kbga-bibls-48">«<title level="m">Römerbriefs</title>» (München 1922), <ref type="pub" target="47004#pr015">S. XV</ref></bibl> (= XVII in späteren Auflagen; auch bei <bibl corresp="kbga-bibls-914">Moltmann, <title>a.a.O.</title> S. 116</bibl>). Die Mitteilung bezieht sich wahrscheinlich auf eine mündliche Äußerung Harnacks während oder nach der <orgName ref="kbga-actors-5240">Aarauer Konferenz</orgName> 1920. Vgl. <ref type="pub" target="3325">Brief Barths vom <date when="1920-04-20">20.4.1920</date></ref>; vgl. auch <bibl corresp="kbga-bibls-216"><persName ref="kbga-actors-845">A. von Zahn-Harnack</persName>, <title level="m">Adolf von Harnack</title>, Berlin-Tempelhof 1936, S. 532.</bibl> Am <date when="1935-12-23">23.12.1935</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> an <persName ref="kbga-actors-845">A. v. Zahn</persName>: «… Ich erinnere mich sehr deutlich des Entsetzens, mit dem er [Harnack] sich in der Diskussion nach meinem Vortrag [in <placeName ref="kbga-places-1">Aarau</placeName>] äußerte: seit <persName ref="kbga-actors-221">Kierkegaard</persName> (ich höre noch den baltischen Klang des Namens in seinem Munde) sei die Sache nicht mehr <hi rend="italic">so</hi> schlimm gemacht worden, wie jetzt eben! — aber auch der großen Vornehmheit, in der er dem so viel Jüngern und unbekannten Landpfarrer gegenüber Stellung nahm …» (<ref type="kba-objects-id" target="27804">Briefdurchschlag im Karl Barth-Archiv</ref>, Basel).</note> laut <persName ref="kbga-actors-210">Jülicher</persName> <persName ref="kbga-actors-678">Marcion</persName>.<note xml:id="n03"><bibl corresp="kbga-bibls-918"><persName ref="kbga-actors-210">A. Jülicher</persName>, a.a.O. Sp. 467</bibl> (<bibl corresp="kbga-bibls-914">bei Moltmann S. 95</bibl>).</note> Nun sollte mir wirklich auch noch <persName ref="kbga-actors-410">Troeltsch</persName> irgend einen solchen Ketzerhut aufsetzen. Die Rezension verrät, daß man uns draußen stark nach unsern dortigen Freunden beurteilt, das läppische Mißverständnis, als meine ich mit dem «jetzt» 1919, ist ja ganz <persName ref="kbga-actors-607">Herpel</persName> und <persName ref="kbga-actors-751">Rosenstock</persName>. Am schwersten scheint er aber doch das Fehlen gelehrter Zwiesprache mit ihm und Andern zu empfinden, und daneben haben ihn die paar Anmerkungen verdrossen, die er in ihrer Harmlosigkeit (sie beziehen sich alle auf den <bibl corresp="kbga-bibls-2736"><rs type="person" ref="kbga-actors-707 kbga-actors-6070">Nestle</rs>-Text</bibl>) nicht erkannt hat. Das Schauspiel des Kampfes einer <hi rend="italic">jüngern</hi> gegen eine <hi rend="italic">ältere</hi> Generation wollen wir jedenfalls soviel als möglich zu vermeiden suchen in Zukunft. Es ist zu zweideutig. Und vor dem 25mal größeren Wissen dieser Gelehrten wollen wir in Zukunft ehrerbietiger den Hut lüften, auch wenn es uns noch so götzenhaft anmutet. Was dürfte sonst noch zu lernen sein?</p>
+        <closer>
+          <salute>[…] Herzlichst</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

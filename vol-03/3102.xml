@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3102">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 24. April 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3102 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 129–131.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3102</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 129-131</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">102</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 99</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 24. April 1916. <ref target="https://kba.karl-barth.ch/objects/9125">KBA 9270.78</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-04-24">24. April 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-04-24">24. April 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3101"/>
+          <ref type="next" target="kbga-texts-3103"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3101"/>
+          <ref type="next-in-corresp" target="kbga-texts-3103"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:24+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:24+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p129" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1916-04-24">24. April 1916</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Wie lange, wie lange, daß man nichts mehr von einander weiß. Wie magst du dich wohl durch die Festtage durchgekämpft haben? Erlösend, daß nun Alles dahinten liegt, nicht? Denk ich war in der Zwischenzeit eine Woche im Bett, krank an einem Abszeß an der Lippe!! aber nicht von der berühmten glühenden Kohle [vgl. <ref type="can" subtype="bible" target="Jes.6.6 Jes.6.13">Jes 6,6f.</ref>], sondern von einer Rasierwunde. Freund <persName ref="kbga-actors-763">Schild</persName> hat am <date when="1916-04-09">9.</date> für mich predigen müssen, und ich lag und las die Pfarrerbücher von <persName ref="kbga-actors-816">Benjamin Vallotton</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-816">Benjamin Vallotton</persName> (1877–1962), welschschweizerischer Romanschriftsteller.</seg> Welche seiner Bücher <persName ref="kbga-actors-2151">Barth</persName> gelesen hat, läßt sich nicht mehr feststellen. Doch erwähnt er in <bibl corresp="kbga-bibls-1220"><title level="a">Der Dienst am Wort Gottes</title>, ThExh 13, München 
+                        1934, S. 6</bibl>, eine Romanfigur Vallottons namens «Pasteur Chardonnet».</note> zum zweitenmal (kennst du sie?) und freute mich eigentlich über die plötzliche Mattstellung. In der folgenden Woche kam dann <persName ref="kbga-actors-757">Schädelin</persName> für drei Tage, von Donnerstag bis Sonntag, sonst hätte ich dir gerufen. Er machte mir diesmal einen etwas unsteten Eindruck mit seinen vielen entthronten Göttern rings um sich herum. Er kam von <placeName ref="kbga-places-66">Zürich</placeName> mit der Nachricht, daß es nun auch zwischen <persName ref="kbga-actors-240">Kutter</persName> und der Firma <persName ref="kbga-actors-457">Bader</persName>-<persName ref="kbga-actors-807">Tischhauser</persName> zum «endgültigen Bruch» gekommen sei. Man könnte grinsen, wenn man nicht weinen möchte über die verfluchte Komödie, die unsre Propheten miteinander zu spielen belieben. Wir müssen doch noch einmal an unsre Idee vom «Hirtenbrief vom Lande» herantreten, oder aber die Zustände in <placeName ref="kbga-places-66">Zürich</placeName> in das sonntägliche Kirchengebet aufnehmen. Die Eigenbrödlerei ist einfach haarig. <persName ref="kbga-actors-757">Schädelin</persName> schimpft auch nach Noten darüber und treibt es selber am ärgsten; und wir sind wahrscheinlich, <milestone xml:id="m9" unit="page"/> 
+               <pb xml:id="p130" ed="pga"/> von den Minentrichtern der Andern aus gesehen, in der gleichen Verdammnis. Gott besser’s! Und wir sind die, die den <placeName ref="kbga-places-1046">Turm von Babel</placeName> stürzen wollen.</p>
+        <p>Diese Woche kommt nun <persName ref="kbga-actors-674">[Gottfried] Ludwig</persName>: von Donnerstag auf Freitag, falls der Geist dich treiben und <persName ref="kbga-actors-1285">Marguerite</persName> es zulassen sollte, so komm doch auch noch schnell. Ach, das wäre gefreut! <persName ref="kbga-actors-26">Nelly</persName> tut soeben einen Spruch: sie habe große Sehnsucht, <persName ref="kbga-actors-1285">Marguerite</persName> wieder zu sehen, sie möchte sich wieder einmal mit ihr aussprechen mündlich und am Klavier, und sie solle doch bitte auch kommen […] zu einer kleinen Neben-Prophezei. Also laßt den Geist wehen, wie er will und faßt einen frohen Entschluß und kommt, ja kommt. Des <orgName ref="kbga-actors-8246">Kränzlis</orgName> am <date when="1916-05-08">8. Mai</date> unbeschadet. Denn wir werden uns doch durch diesen Leim [Einladung zu einem Stimmbildungskurs], der am gleichen Tag stattfindet, nicht irre machen lassen?</p>
+        <p>Hast du nicht auch Freude gehabt an <persName ref="kbga-actors-674">Ludwigs</persName> Predigt in den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>»?<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4000"><persName ref="kbga-actors-674">[G.] L[udwig]</persName>, <title level="a">Glaube</title> (Predigt über <ref type="can" subtype="bible" target="Röm.8.38 Röm.8.39">Rm 8,38f.</ref>), in: Neue Wege, Jg. 10 (1916), S. 167ff.</bibl>
+                    </note> Und was hast du gesagt zu <persName ref="kbga-actors-329">Rades</persName> Attentat auf die Safenwiler <ref type="pub" target="29008">Predigt</ref>?<note xml:id="n03"><persName ref="kbga-actors-329">Rade</persName> hatte den Abdruck von <persName ref="kbga-actors-2151">Barths</persName> Predigt in der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>» (vgl. <ref type="pub" target="3098#fn_n01">Anm. 1 zum Brief vom <date when="1916-03-06">6.3.1916</date></ref>) ohne Nennung von Barths Namen und ohne sein Wissen vorgenommen.</note> Ich bin völlig unschuldig und wehrlos und habe bis jetzt keine Ahnung, was der Zweck dieser Übung war. Was sollen sie in <placeName ref="kbga-places-151">Deutschland</placeName> damit anfangen? Und was die zahlreichen unerwünschten Leser in der <placeName ref="kbga-places-58">Schweiz</placeName>? <persName ref="kbga-actors-63">Brunners</persName> Artikel<note xml:id="n04">
+                        <bibl corresp="kbga-bibls-4002"><persName ref="kbga-actors-63">E. Brunner</persName>, <title level="a">Grundsätzliches zum Kapitel «Die jungen Theologen</title>», in: Kirchenblatt für die ref. Schweiz, Jg. 31 (1916), S. 57–59.</bibl>
+                    </note> hatte ich schon von ihm selbst. Er ist mir zu indirekt und akademisch. Mit <persName ref="kbga-actors-420">Wernle</persName> muß man entweder gar nicht oder dann mit 42 cm-Geschütz verkehren, lieber das erstere. <hi rend="italic">Diese</hi> Art zu reden mit <hi rend="italic">diesen</hi> «Gegnern» aber kommt mir unnütz vor, es geschieht damit einfach gar nichts. […]</p>
+        <p>Denk, ich machte letzthin einen schwachen Versuch, mich von der Leitung des <orgName ref="kbga-actors-8613">Blauen Kreuzes</orgName> zurückzuziehen: um den vielen Neben-Reden zu entgehen und um auch die Leute zur Konzentration einzuladen. Aber es wird wahrscheinlich nicht gelingen, das Joch ist nicht abzuschütteln.</p>
+        <p><persName ref="kbga-actors-5802">Fränzeli</persName> war etwas krank in letzter Zeit, nun gehts wieder besser. <persName ref="kbga-actors-24">Karl Markus</persName> macht seine ersten Versuche im Greifen […]. Was für Stufen doch der Mensch durchlaufen muß, bis er glücklich soweit ist, Predigten und andere Durchbrüche zu produzie<pb xml:id="p131" ed="pga" break="no"/>ren. Nun ist auch <persName ref="kbga-actors-586">Guggenheim</persName> verlobt und ich bin bereits als Trauredner gewonnen, so ist eine zweite Missionsreise nach <placeName ref="kbga-places-105">St. Gallen</placeName> in Aussicht. Gestern Nachmittag Ausflug mit den Konfirmanden bei Regenwetter, mit Ausnahme einiger von der Nachhut vertilgter Biere nicht übel gelungen. Nachher traf plötzlich mein Bruder <persName ref="kbga-actors-23">Heiner</persName> ein, irgendwoher aus dem Unendlichen, jetzt — nach seinen Berliner Eindrücken — viel zugänglicher für unsre Methoden, doch mit den ernsten Vorbehalten des Ethikers.</p>
+        <p>Was wirds geben mit Amerika?<note xml:id="n05">Kriegseintritt der <orgName ref="kbga-actors-8455">USA</orgName> anfangs <date when="1917">1917</date>.</note> Was soll man denken von alldem, was heute in der Zeitung stand? […] Es eröffnen sich gigantische Perspektiven für die Fortsetzung des Krieges. […] Ich denke, was wir jetzt zu tun versuchen, ist doch unter all den Möglichkeiten immer noch das Vernünftigste und Aussichtsreichste. Aber ich habe sehr das Bedürfnis, wieder von dir «bestärkt» zu werden, und darum <hi rend="italic">komm</hi> bald.</p>
+        <closer>
+          <salute>Schluß. Herzlichen Gruß euch Beiden [und] auf frohes Wiedersehn!</salute>
+          <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

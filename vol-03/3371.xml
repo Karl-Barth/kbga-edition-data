@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3371">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. Oktober 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3371 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 435–436.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3371</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 435-436</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">371</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 360</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. Oktober 1920. <ref target="https://kba.karl-barth.ch/objects/10806">KBA 9270.271</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-10-27">27. Oktober 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-10-27">27. Oktober 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3370"/>
+          <ref type="next" target="kbga-texts-3372"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3370"/>
+          <ref type="next-in-corresp" target="kbga-texts-3372"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:43+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:43+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+        <pb xml:id="p435" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-10-27">27. Oktober 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Nun bin ich für eine Weile wieder ohne Besuch. Der von <persName ref="kbga-actors-137">Gogarten</persName> war aber hocherfreulich. Das ist ein Dreadnought für uns und gegen unsere Widersacher. Wer weiß, wird er eines Tages uns noch belehren! Er hat durchaus die Allüren und auch das Zeug derjenige Mann, welcher … zu sein. Ich sehe ihm mit großen Erwartungen nach, etwa im Sinne von <persName ref="kbga-actors-330">Ragaz</persName>, als er meinen frühen Tod prophezeite. Den <orgName ref="kbga-actors-5420">Christl. Welt</orgName>-Leuten wird er jedenfalls noch sehr unangenehme Zeiten bereiten und vielleicht eines Tages irgend ein enormes Loch in die theologische Mauer machen. Es fängt offenbar schon an zu rieseln. […]</p>
+        <p>Hier meine Predigt vom letzten Sonntag. Da du mich, wie du sehen kannst, so gut aufs Roß gesetzt hast dafür, mußt du sie nun auch lesen. Am Nachmittag ging ich mit <persName ref="kbga-actors-137">Gogarten</persName> spazieren und geriet dabei in die Höhle des Löwen <persName ref="kbga-actors-763">Schild</persName>, wo sich bald auch noch Dr. <persName ref="kbga-actors-661">Lejeune</persName> und <persName ref="kbga-actors-660">Frau</persName> einfanden. Alle vier ließen sich mit merkwürdiger Beflissenheit von <persName ref="kbga-actors-137">Gogarten</persName> die Anthroposophie <persName ref="kbga-actors-791">Steiners</persName> erklären. […] Am Montag fuhren wir auf den Velos nach <placeName ref="kbga-places-418">Madiswil</placeName>, wo alsbald — diesmal <persName ref="kbga-actors-564">Max Gerber</persName> die Bühne betrat und den Tag beherrschte. […] Ich hatte gar keinen guten Eindruck von ihm. […] Meine Einwände waren ihm so wenig willkommen, wie mir sein ganzer «Aspekt», wie <persName ref="kbga-actors-137">Gogarten</persName> sagen würde.</p>
+        <p>Und nun eine seltsame und erschreckende Nachricht: Als <persName ref="kbga-actors-137">Gogarten</persName> (mit dem ich übrigens neben diesen Exkursionen manches gute Tag- und Nachtgespräch hatte) fort war, fing plötzlich der <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> an, sich zu häuten, d.h. ich bekam die Erleuchtung, daß er so wie er jetzt ist, unmöglich einfach abgedruckt werden darf, sondern an Haupt und Gliedern reformiert werden muß. Ich sende dir hier eine Probe. Vergleiche sie bitte mit der noch nicht gehäuteten Fassung und schreibe mir <hi rend="italic">flugs</hi>, wie dich das Ding ansieht. Vor dem Frühling kann nun freilich die 2. Auflage nicht erscheinen. Ich habe bereits ein diesbezügliches Halt! nach <placeName ref="kbga-places-43">München</placeName> gekabelt — aber besser diese Verzögerung, als <pb xml:id="p436" ed="pga"/> daß die <bibl corresp="kbga-bibls-1497">1. Fassung</bibl>, die ich auf einmal, wo ich hineingucke, schloddrig, überladen, schwammig etc. finde, fortgesetzt zu Mißverständnissen und Irrungen Anlaß gibt. Vielleicht bin ich an dem «<orgName ref="kbga-actors-8244">Neuen Werk</orgName>» und der Marburger [Konferenz-] Katastrophe nicht ganz unschuldig durch dieses noch viel zu sehr auf Hurra! gestimmte Buch. Sende mir die Blätter gleich wieder, womöglich mit einigen trostreichen, ermunternden Worten; denn ich habe nun einen weiten Weg vor mir.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

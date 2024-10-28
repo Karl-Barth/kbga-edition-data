@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3009">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 3. September 1914</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3009 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 8–9.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3009</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 8-9</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">9</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 7</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 3. September 1914. <ref target="https://kba.karl-barth.ch/objects/8607">KBA 9370.43</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1914-09-03">3. September 1914</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1914-09-03">3. September 1914</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3008"/>
+          <ref type="next" target="kbga-texts-3010"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3008"/>
+          <ref type="next-in-corresp" target="kbga-texts-3010"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p008" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1914-09-03">3. September 1914</date>
+          </dateline>
+          <salute>Lieber Freund,</salute>
+        </opener>
+        <p>Eben erst schrieb mir dein Bruder <persName ref="kbga-actors-27">Peter</persName>,<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-27">Peter Barth</persName> (1888–1940), Bruder von <persName ref="kbga-actors-2151">Karl Barth</persName>, Schwiegersohn von Prof. <persName ref="kbga-actors-329">M. Rade</persName>, Pfarrer in Laupen, später in Madiswil (Bern).</seg> Zusammen mit <bibl corresp="kbga-bibls-41">W. Niesel Herausgeber von: <title level="m">Joannis Calvini opera selecta</title>, 5 Bände, München 
+                        1926-1952.</bibl>
+               </note> es werde jetzt dann einmal eine <orgName ref="kbga-actors-9902">religiössoziale Zusammenkunft in Bern</orgName> stattfinden. Auch ihm scheint das sehr am Platze zu sein. Er gibt der gleichen Betrübnis Ausdruck, wie wir sie hegen, über das Versagen unsrer religiösen Presse. Nirgends erscheint etwas aus den Gedanken heraus, die uns bewegen. Immer nur die alten Tröstereien mit neuem Pathos. Das scheint mir z. B. bei <persName ref="kbga-actors-420">Wernle</persName> so stark der Fall zu sein. Lies den beigelegten Artikel. Wozu mit diesem Elan aufs Neue verkündigen: ihr sollt und dürft Gott und das Vaterland zusammendenken und jeder für das seine beten. Wahrhaftig, das wissen wir ja und tuns auch, aber daß es ein grauenvoller Widerspruch ist und bleibt, das ist das Entscheidende, wenn man betende Hände zu dem einen Gott und die Waffen gegeneinander erhebt. Das sollte zum Bewußtsein gebracht werden, sonst artet alles in eine bodenlose Gemütlichkeit und Gedankenlosigkeit aus. Jeder soll nur recht beten, der Franzose und der Deutsche und neuerdings sogar, wie man liest, der Türke (für den Deutschen!). Das ist die Wirklichkeit, ein Phantast, wer es anders sieht. Und das sei, so argumentiert <persName ref="kbga-actors-420">Wernle</persName>, reife und nüchterne christliche <pb xml:id="p009" ed="pga"/> Haltung. Sie ergebe sich überdies mit zwingender Notwendigkeit aus der Historie. […] Natürlich will er dann doch auch nicht der sein, der «Dein Reich komme» nicht mehr beten kann. Ich kann dieses sich geradezu Freuen an ungelösten Widersprüchen nicht verstehen. […] Und dazu die billigen Ausfälle gegen religiössoziale Antimilitaristen. Was dem gegenüber <persName ref="kbga-actors-330">Ragaz</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-330">Leonhard Ragaz</persName> (1868–1945), Pfarrer am Münster in Basel, dann Prof. in Zürich. Führer der religiössozialen Bewegung in der Schweiz.</seg></note> von der verwandelnden Kraft der heutigen Katastrophen schreibt, ist nicht unrichtig. Aber was ich in diesen Tagen in meiner Gemeinde an Selbstsucht und Egoismus sehen muß, zeigt mir, daß auch die heutige Katastrophe noch nicht hart genug ist und also nicht die letzte sein wird. — Ich lege dir eine Predigt von <persName ref="kbga-actors-240">Kutter</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-240">Hermann Kutter</persName> (1869–1931), Pfarrer am Neumünster in Zürich. Kämpfer für ein neues soziales Christentum. Bedeutender Prediger und Schriftsteller.</seg></note> bei, du magst sie behalten, und meine letzte Sonntagspredigt, sie handelt vom Zorn Gottes. Ich halte sie nicht für besonders gut, aber ich möchte mir damit auch wieder einmal eine oder zwei von dir erbitten. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard Th.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

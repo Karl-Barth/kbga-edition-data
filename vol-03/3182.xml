@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3182">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 30. August 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3182 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 223a–226.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3182</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 223a-226</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">182</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 177</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 30. August 1917. <ref target="https://kba.karl-barth.ch/objects/9545">KBA 9270.137</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-08-30">30. August 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-08-30">30. August 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3181"/>
+          <ref type="next" target="kbga-texts-3183"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3181"/>
+          <ref type="next-in-corresp" target="kbga-texts-3183"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:30+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:30+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p223" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-08-30">30. August 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Es ist kaum halb zehn Uhr [morgens], und ich habe bereits eine Volksrede gehalten — vor der fast vollzähligen Safenwiler Arbeiterschaft (Männer leider nur!), die mit erstaunlicher Entschlossenheit heute den Demonstrations-Streik<note xml:id="n01">Demonstration aus Anlaß einer Preiserhöhung.</note> mitmacht. Der Referent hatte Zugsverspätung, und da mußte ich eingreifen mit einem extemporierten Spruch über Wachbleiben und Lindigkeit! Nach Hause gekommen (jetzt redet ein Arbeitersekretär, und ich habe lange genug gewartet) finde ich den <ref type="kba-objects-id" target="9543">Brief</ref> von <persName ref="kbga-actors-588">Guidon</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-588">Bernhard Guidon</persName>, Pfarrer in <placeName ref="kbga-places-502">Scharans</placeName> (Graubünden)</seg>, hatte im Namen der Bündner Religiös-Sozialen um Einberufung der <orgName ref="kbga-actors-9899">religiös-sozialen Konferenz</orgName> oder einer vorbereitenden Delegiertenkonferenz gebeten. Vgl. <ref type="pub" target="3110#fn_n03">Anm. 3 zum Brief vom <date when="1916-05-30">30.5.1916</date></ref>.</note> vor. Was nun? Wir werden uns entschließen müssen. Meine nächste Meinung ist die: Einberufung der <orgName ref="kbga-actors-9899">Konferenz</orgName> nach Wunsch der Bündner, <hi rend="italic">Auflösungsantrag</hi> unsrerseits, Referat von einem von uns […] über die Lage: wie die gemeinsame Welle uns Religiös <pb xml:id="p224" ed="pga"/> Soziale zunächst nicht zusammen, sondern auseinander geführt habe, wie ohne Streit und Händeleien ein gemeinsames Losbrechen <hi rend="italic">jetzt</hi> unmöglich sei, wie wir das Beste gerade vom <hi rend="italic">Nicht</hi>-Zusammenkommen, d.h. von der intensiveren tieferen Arbeit der Einzelnen erwarten und darum für keine Aktionen zu haben seien. Beliebt das der Mehrheit nicht, dann eben Rücktritt von uns und Fortsetzung durch andere, die unsere Bedenken nicht teilen. So ungefähr standen wir im Herbst in <placeName ref="kbga-places-427">Umiken</placeName> bei der dunklen <persName ref="kbga-actors-330">Ragaz</persName>-Entrevue.<note xml:id="n03">Treffen von <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-403">Thurneysen</persName> mit <persName ref="kbga-actors-330">Ragaz</persName> am <date when="1916-11-03">3.11.1916</date>.</note> Unterdessen haben wir gar nicht mehr von dem Zeug geredet, oder? Haben sich dir unterdessen neue erfreulichere Perspektiven aufgetan? Siehst du eine Möglichkeit, auf unsere frühere, harmlosere Auffassungsweise zurückzukommen? Wollen wir <persName ref="kbga-actors-5802">Fränzeli</persName>, <persName ref="kbga-actors-24">Markus</persName>, <persName ref="kbga-actors-518">Dorotheeli</persName> [zur <orgName ref="kbga-actors-9899">Konferenz</orgName>] nach <placeName ref="kbga-places-503">Weesen</placeName> bringen und mitten unter sie stellen nebst einigen Kanarienvögeln, um ihnen zu sagen, […] was wir meinen? Mir ists weniger als je konferenzlich zu Mute. Gibts jetzt eine Zusammenkunft, dann wird alles Mögliche zur Sprache kommen müssen, was sich besser in der Stille weiterentwickeln würde zum Gericht oder zum Leben. Wir werden Abstand nehmen müssen von <persName ref="kbga-actors-330">Ragaz</persName>, von <persName ref="kbga-actors-564">Gerber</persName>, von <persName ref="kbga-actors-457">Bader</persName>, was weiß ich — wir werden unsre eigenen Karten aufdecken, Stellung beziehen müssen, gerade alles das, was wir <hi rend="italic">nicht</hi> begehren. Vielleicht daß es nun sein muß. Aber schade, schade! Wieviel schöne Zeit wird nun wieder verloren gehen mit Gesprächen und Briefen, […] die kein erfreuliches und lehrreiches Ziel vor sich haben. O Erzväter, o Römerbrief! Was wird nun das Nächste sein? Eine Vorstandssitzung in <placeName ref="kbga-places-50">Olten</placeName>? Oder wollen wir einigen Bündnern privatim in <placeName ref="kbga-places-66">Zürich</placeName> Rendez-vous geben, um sie zur Zurückziehung ihres Antrags zu bewegen, indem wir sie auf die Folgen aufmerksam machen? Oder eine Delegierten-Tagung, wo wir die Basler, Berner, Zürcher mitverantwortlich machen würden für den entstehenden Schaden? Oder zu <hi rend="italic">aller</hi>nächst, was wohl geschehen <hi rend="italic">muß</hi>;, eine Empfangsbestätigung an <persName ref="kbga-actors-588">Guidon</persName> unter sofortiger Ablehnung der drei Postulate: 1. Ausschaltung des «Hausstreits» (der <hi rend="italic">mehr</hi> ist als ein solcher), 2. Nicht-Einladung der «in Gottsnamen» nicht Zugehörigen (die als Mitglieder das <pb xml:id="p225" ed="pga"/> 
+               <hi rend="italic">Recht</hi> haben eingeladen zu werden!), 3. Nicht-Prädominieren der Theologen (was nur durch bis jetzt unsichtbare Laienkräfte zu erreichen wäre, und was überdies für uns kein Gesichtspunkt ist). Äußere dich bitte bald über diesen ersten Schritt, der wesentlich darauf hinauslaufen muß, daß wir uns nicht so binden lassen, wie die Bündner es vorsehen. — Gedankenstrich.</p>
+        <p>Erfreulicher ist etwas Anderes. Ich traf dieser Tage eine junge Lehrerin, die mir sagte, daß sie und eine Anzahl ihrer Freundinnen gerne von <hi rend="italic">uns</hi> einen eintägigen «Kurs» über Religionsunterricht hätten.<note xml:id="n04">Der Kurs fand am <date when="1917-10-09">9.10.1917</date> in <placeName ref="kbga-places-54">Safenwil</placeName> statt. <persName ref="kbga-actors-2151">Barth</persName> referierte über «<ref type="pub" target="48049"><hi rend="italic">Religion und Leben</hi></ref>», <persName ref="kbga-actors-403">Thurneysen</persName> über den Sinn der Bibel. Barths Vortrag wurde viel später veröffentlicht in: <bibl corresp="kbga-bibls-4073">Ev. Theol. 11 (1951/52), S. 437–451.</bibl>
+        </note> Frl. <persName ref="kbga-actors-484">V. Baumann</persName> [aus <placeName ref="kbga-places-76">Leutwil</placeName>] scheint dahinter zu stehen. So etwas ließe sich schon denken, nicht? Nur daß wir die Sache wohl prinzipieller anfassen würden, als die Töchter es vielleicht meinen, und daß man von <hi rend="italic">mir</hi> keine sogen. «Lehrproben» verlangen müßte, wohl aber von <hi rend="italic">dir</hi>. Im Übrigen Besprechungen über den Stoff, weniger oder gar nicht über die Methode, nicht: «wie reden wir von …?», sondern, «worum handelt es sich?» Ich möchte eigentlich mehr nur als Zuhörer dabei sein, eingedenk meiner Blöße auf diesem Feld. Erkundige dich doch einmal bei Frl. <persName ref="kbga-actors-484">Baumann</persName>, die mehr weiß als meine Berichterstatterin.</p>
+        <p>Gestern Kirchenpflegs-Sitzung mit allerhand Rückschlägen, wie sie hier immer wieder vorkommen. Große Debatte über — Konfirmationssprüche, von denen allerlei katastrophale Wirkungen ausgegangen sind, — über den <orgName ref="kbga-actors-9824">Aarburger Kirchentag</orgName>,<note xml:id="n05">Das Dekanat <placeName ref="kbga-places-360">Zofingen</placeName> veranstaltete im Sommer <date when="1916">1916</date> in Zofingen, <date when="1917">1917</date> in <placeName ref="kbga-places-776">Aarburg</placeName> ein «kirchliches Bezirksfest» mit dem Zweck, den inneren Zusammenhalt der Kirche zu stärken und einer größeren Öffentlichkeit kirchliches Leben vor Augen zu führen.</note> an dem ich die Mitwirkung refüsierte, — über das Reformationsfest, wo sie sich gerne überzeugen ließen, daß kein Anlaß zum Festfeiern vorliege (doch werden die Glocken läuten, aber ohne Kommentar von mir), — über die Leichenrede, die ich einem Sozialisten hielt und die vermutlich im «<orgName ref="kbga-actors-6494">Freien Aargauer</orgName>» gedruckt wird.<note xml:id="n06">
+                        <bibl corresp="kbga-bibls-4074"><persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Ansprache des Pfarrers bei der Beerdigung eines Arbeiters</title>, in: Neuer Freier Aargauer, Jg. 12, Nr. 203 (3.9.1917).</bibl>
+                    </note> […]</p>
+        <p>Ich möchte für Sonntag zu einer größeren Predigt ausholen irgendwie über das <foreign xml:lang="grc" rend="Ell">πάντες ἥμαρτον</foreign> [<ref type="can" subtype="bible" target="Röm.3.23">Röm 3,23</ref>; <ref type="can" subtype="bible" target="Röm.5.12">5,12</ref>] und seine Hinter- und Vordergründe im Römerbrief.<note xml:id="n07">Barth <ref type="pub-" target="32035">predigte am folgenden Sonntag</ref> (<date when="1917-09-02">2. 9.</date>) über <ref type="can" subtype="bible" target="Lk.15.11 Lk.15.32">Lk 15,11–32</ref>.</note> Aber ob die Kraft dasein wird zu gebären? <persName ref="kbga-actors-9961">Ida</persName><note xml:id="n08">Eine ehemalige Konfirmandin von <persName ref="kbga-actors-403">Thurneysen</persName> aus <placeName ref="kbga-places-76">Leutwil</placeName>, die bei <persName ref="kbga-actors-2151">Barths</persName> im Haushalt arbeitete.</note> kam ganz erfreut von <placeName ref="kbga-places-76">Leutwil</placeName> zurück: du habest «fast die gleiche» Predigt gehalten wie ich am Sonntag vorher, sogar mit den gleichen Liedern. Was würden <milestone xml:id="m15" unit="page"/> 
+               <pb xml:id="p226" ed="pga"/> erst deine Konfirmanden für Entdeckungen machen in meinem Unterricht! <foreign xml:lang="lat">Communio sanctorum!</foreign></p>
+        <closer>
+          <salute>Wir begrüßen euch herzlichst, unentwegt und freudig!</salute>
+          <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

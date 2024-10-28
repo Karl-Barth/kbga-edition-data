@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3367">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. Oktober 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3367 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 429–430.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3367</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 429-430</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">367</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 56</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. Oktober 1920. <ref target="https://kba.karl-barth.ch/objects/10794">KBA 9270.269</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-10-07">7. Oktober 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-10-07">7. Oktober 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3366"/>
+          <ref type="next" target="kbga-texts-3368"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3366"/>
+          <ref type="next-in-corresp" target="kbga-texts-3368"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:42+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:42+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p429" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-10-07">7. Oktober 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p><persName ref="kbga-actors-26">Nelly</persName> und ich haben gestern nachmittag per Velo die Tour über den <placeName ref="kbga-places-454">Hauenstein</placeName> nach <placeName ref="kbga-places-5">Basel</placeName> gemacht. Heute mittag sind wir wieder hier eingetroffen. Unterwegs fuhren wir eine Strecke weit mit <persName ref="kbga-actors-246">Fritz Lieb</persName>, der sich zu einem sozialistischen Jungburschen-Referat nach <placeName ref="kbga-places-455">Birsfelden</placeName> begab. Er unterhielt uns beredt […] über <persName ref="kbga-actors-454">Franz v. Baader</persName>;<note xml:id="n01">Mit dem röm.-kath. Theosophen <persName ref="kbga-actors-454">Franz von Baader</persName> (1765–1841) hat sich <persName ref="kbga-actors-246">Fritz Lieb</persName> eingehend beschäftigt. <date when="1923">1923</date> promovierte er mit einer (ungedruckten) Arbeit «Baader und Kant». <date when="1926">1926</date> veröffentlichte er als erweiterte Fassung seiner Habilitationsschrift: <bibl corresp="kbga-bibls-4222"><title level="m">Franz Baaders Jugendgeschichte. Die Frühentwicklung eines Romantikers</title>, München.</bibl></note> ich habe nicht den Eindruck, daß da viel für uns zu holen sei. Übrigens berichtete er, «man» sehe uns zwei nachgerade als unverständliche, esoterische Sonderlinge an und schüttle bedenklich den Kopf über uns. Auch gut! Oder auch nicht gut! — wie man will. Meine <persName ref="kbga-actors-18">Mama</persName> wußte auch allerlei, daß und warum man mich sowohl zu <placeName ref="kbga-places-1375">St. Theodor [in Basel]</placeName> als an der <placeName ref="kbga-places-279">Nydeck in Bern</placeName> nicht gewollt habe. Es scheint, daß besonders ich mich heimlich in einer Art kirchlicher Sperrzone befinde. <persName ref="kbga-actors-646">Köhler</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-646">Walther Köhler</persName> (1870–1946), Prof. für Kirchengeschichte in Gießen, Zürich, Heidelberg.</seg></note> triumphiert ja auch schon in den heutigen «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>.»<note xml:id="n03"><bibl corresp="kbga-bibls-3457"><persName ref="kbga-actors-646">Walther Köhler</persName>, <title level="m">Von der Aarauer Konferenz 1920</title> (Rezension über den Konferenzbericht), in: Basler Nachrichten v. 7.10.1920, Mittagsausgabe</bibl>. Köhler schreibt u.a.: «Wenn wir in unserm Berichte über die <orgName ref="kbga-actors-5240">Aarauer Konferenz</orgName> von <date when="1919">1919</date> der Befürchtung Ausdruck gaben, es möchte sich dieser akademische Sprechsaal … einseitig der religiös-sozialen Richtung verschreiben, so widerlegt die vorliegende Ausgabe … die Befürchtung aufs glücklichste … Ein neckischer Zufall — oder war es Absicht? — hat es gewollt, daß gerade der <ref type="pub" target="48064">Vortrag</ref> des Religiös-Sozialen, <persName ref="kbga-actors-2151">Karl Barth</persName>, in die vorliegende Sammlung nicht aufgenommen wurde, vielmehr separat erscheint. Mehr noch: der Vortrag von <persName ref="kbga-actors-155">Ad. v. Harnack</persName> … ist … eine scharfe Absage an die Geschichtsverächter und ’Erlebnischristen’, und jedermann weiß, wo diese zu suchen sind.»</note> […]</p>
+        <p>Den verlangten Beitrag an die «<orgName ref="kbga-actors-9887">Pastoralblätter</orgName>» liefere doch ja! Natürlich recht deutlich so, daß der Festzug unserer Mitgenossen dadurch bengalisch beleuchtet wird. Mild in der Sprache, beunruhigend freundlich in der Haltung, feindselig sakral im Inhalt — kurz so wie nur <hi rend="italic">du</hi> auf diese unvorsichtig genug gerade an dich gerichtete Frage antworten kannst. Ich reibe mir die Hände beim Gedanken an die Schweizer Kollegen […], die nun freudig geschmeichelt ihre Predigtmanuskript-Schätze durchgehen werden. Hoffentlich geht die Falle schön zu. […]</p>
+        <p>Deine Notizen zu <persName ref="kbga-actors-2930">Matthäus</persName> sehen mich sehr gut und und verheißungsvoll an. […] Hier noch Einiges zum Frontbericht von meiner Seite: […] Das Zirkular des <orgName ref="kbga-actors-9871">C.S.V.</orgName> ist insofern interessant, als wir möglicherweise […] in <placeName ref="kbga-places-776">Aarburg</placeName> Meister <persName ref="kbga-actors-171">Karl Heim</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-171">Karl Heim</persName> (1874–1958), Prof. für systematische Theologie in Münster und Tübingen, kam vom schwäbischen Pietismus her, suchte das moderne Denken mit dem christlichen Glauben zu verbinden.</seg></note> anhören könnten. Wa? Es könnte zu unserer Belehrung dienen, von diesem Mann Kenntnis zu nehmen.</p>
+        <p><persName ref="kbga-actors-137">Gogarten</persName> ist also bei <persName ref="kbga-actors-423">Wieser</persName>. Ich erwarte ihn hier auf den <date when="1920-10-20">20.</date> Gewiß mußt du auf den <date when="1920-10-17">17.</date> hierherkommen zur Begrüßung <pb xml:id="p430" ed="pga"/> <rs type="person" ref="kbga-actors-776 kbga-actors-775">Siebecks</rs>. […] So rundet sich alles überall zum Ganzen. Es ist eine zu unheimliche Logik darin, wie wir alle «unsres Daseins Kreise vollenden.»<note xml:id="n05">Aus <bibl corresp="kbga-bibls-117"><persName ref="kbga-actors-136">Goethes</persName> Gedicht «<title level="m">Das Göttliche</title>», 6. Strophe</bibl>: «Nach ewigen, ehrnen, / Großen Gesetzen / Müssen wir alle / Unseres Daseins / Kreise vollenden.»</note> Gilt auch von «<orgName ref="kbga-actors-5483">Herrnhut</orgName>-<placeName ref="kbga-places-158">Boll</placeName>», wie die Firma jetzt heißt. Du wirst mit dem gleichen schmerzlichen Abscheu wie ich Kenntnis genommen haben von der Nachricht, daß <persName ref="kbga-actors-441">Zinzendorf</persName> und die Väter <rs type="person" ref="kbga-actors-47 kbga-actors-48">Blumhardt</rs> ungefähr dasselbe gemeint hätten, und daß man sich jetzt in hemmungsloser «Liebe» um den Hals fallen wolle.</p>
+        <p>Dem Nationalrat <persName ref="kbga-actors-766">A. Schmid</persName><note xml:id="n06"><seg type="bio"><persName ref="kbga-actors-766">Arthur Schmid</persName>, sozialdemokratischer Abgeordneter im Nationalrat, der großen Kammer des schweizerischen Bundesparlaments.</seg></note> habe ich in einem Briefe auseinanderzusetzen versucht, daß ich zum Sozialismus eine zu gebrochene Stellung einnehme, als daß es ratsam sei, mich auf die offizielle Rednerliste zu setzen. Ich legte ihm den <bibl corresp="kbga-bibls-404"><ref type="pub" target="48064">Aargauer Vortrag</ref></bibl> bei als Beleg, wo mein Bolschewismus anfange und hinziele. Er antwortete mir aus der Bundesversammlung recht freundlich und verhieß seinen Besuch. Dagegen habe ich dem Arbeiterverein <placeName ref="kbga-places-426">Seon</placeName> halb und halb zugesagt für ein Referat<note xml:id="n07">Anscheinend hat <persName ref="kbga-actors-2151">Barth</persName> das Referat nicht gehalten.</note> («Was will der Sozialismus?» — ja was?) […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß aus der <foreign xml:lang="grc" rend="Ell">θλῖψις</foreign> in die <foreign xml:lang="grc" rend="Ell">θλῖψις</foreign></salute>
+           <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

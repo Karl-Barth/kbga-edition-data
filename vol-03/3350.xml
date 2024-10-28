@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3350">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 16. Juli 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3350 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 411–412.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3350</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 411-412</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">350</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 340</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 16. Juli 1920. <ref target="https://kba.karl-barth.ch/objects/10686">KBA 9270.256</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-07-16">16. Juli 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-07-16">16. Juli 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3349"/>
+          <ref type="next" target="kbga-texts-3351"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3349"/>
+          <ref type="next-in-corresp" target="kbga-texts-3351"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p411" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-07-16">16. Juli 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Mir träumte jüngst von meiner eigenen Beerdigung; doch war ich nur scheintot und reklamierte, schon im Grabe, heftig. Meine <persName ref="kbga-actors-18">Mama</persName> riet ganz freundlich, das Grab nur zuzumachen, ich werde dann schon sterben (!!), doch gelang es mir, mich durchzusetzen, worauf es dann im Galopp durch den Kirchhof hindurch zurück ins Leben ging. Das ist wahrscheinlich für meinen alten Menschen, der nicht sterben will, bezeichnender als für die Lage im allgemeinen!</p>
+        <p>An <persName ref="kbga-actors-210">Jülicher</persName> habe ich vorgestern den beiliegenden überaus zahmen Brief geschrieben. Nun reut es mich fast, ihm nicht energischer die Spitze geboten zu haben, statt so historisch mit dem Historiker zu verkehren. […] Es schien mir gut, in irgend einer Form sofort Gefechtsfühlung mit dem großen Mann zu nehmen. Wie wäre es wohl mit einem Artikel in der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>», in Fortsetzung und Erläuterung der von <persName ref="kbga-actors-137">Gogarten</persName> daselbst gemachten Mitteilungen?<note xml:id="n01">Vgl. <ref type="pub" target="3342#fn_n01">Anm. 1 zum Brief vom <date when="1920-06-16">16.6.1920</date></ref>. Später (<bibl corresp="kbga-bibls-969">in der CW-Nummer vom <date when="1920-08-26">26.8.1920</date>) antwortete <persName ref="kbga-actors-137">Gogarten</persName> auch direkt auf Jülichers «<title level="m">Römerbrief</title>»-Rezension: <title level="m">Vom heiligen Egoismus des Christen</title> (Sp. 546–550</bibl>; wieder abgedruckt bei <bibl corresp="kbga-bibls-914">Moltmann, Anfänge 1, S. 99ff.</bibl>).</note> Die Felder scheinen auch nach den Berichten aus <placeName ref="kbga-places-43">München</placeName> und <placeName ref="kbga-places-27">Göttingen</placeName> weiß zur Ernte [vgl. <ref type="can" subtype="bible" target="Joh.4.35">Joh 4,35</ref>], und es ist wohl möglich, daß wir jetzt Schlag auf Schlag sagen sollten, was zu sagen ist. Vielleicht unter dem Titel meines <persName ref="kbga-actors-21">Vaters</persName> «Alte und Junge im Reiche Gottes»,<note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-4213"><persName ref="kbga-actors-21">F. Barth</persName>, <title level="a">Die Alten und die Jungen im Reiche Gottes</title> (Vortrag von 1894), in: <title level="m">Christus unsere Hoffnung</title>. Sammlung von religiösen Reden und Vorträgen von D. Fritz Barth. Mit einem biogr. Vorwort von M. Lauterburg, Bern 1913, S. 1–24.</bibl></note> wobei die Alten […] als lächelnd und einverstanden darzustellen wären. Könntest du nicht etwas Derartiges schreiben? <persName ref="kbga-actors-329">Rade</persName> würde es sicher aufnehmen.</p>
+        <p>Sommerliche Wärme. Mich gelüstet es nach den Bergen, nach irgendeiner Höhe über 3000, wie die, die wir letztes Jahr erklom<pb xml:id="p412" ed="pga" break="no"/>men. Dort aber wimmelt es jetzt sicher. Doch das soll nun nicht sein, sondern — 2. Korinther- und Kolosserbrief und Unterweisung, tagaus tagein. Auch gut. Es wäre aber schön gewesen, von irgend einem Grat oder Horn herunter über <persName ref="kbga-actors-210">Jülicher</persName> zu lachen. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+     
+      <postscript>
+        <p>Gestern Nachmittag rang ich in der Kapitelskommission drei Stunden lang zäh aber freundlich mit den Kollegen und kam so weit, daß «Christus» und «das Reich Gottes» glücklich zuerst aus der Verfassung selbst, dann auch aus dem Ingreß hinausgedrängt wurden. Beabsichtigt ist jetzt nur noch ein Bibelspruch als Motto <hi rend="italic">vor</hi> dem Ingreß, zu dem ich grundsätzlich die Einwilligung gab unter dem Vorbehalt, daß sich ein solcher finde, der sich als mildes Oberlicht (unter keinen Umständen als Bekenntnis) über ein so weltliches Werk wie eine Kirchenverfassung setzen lasse. Ich habe nach deiner Anweisung zuerst lange nur Pfeife geraucht und die Andern reden lassen, um dann plötzlich mit aller Lebhaftigkeit einzugreifen. Das Verfahren ist sehr gut. <persName ref="kbga-actors-625">Jahn</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-625">Victor Jahn</persName> (1865–1937), Pfarrer in <placeName ref="kbga-places-428">Brugg</placeName></seg>.</note> versicherte mir, meine «Psychologie» interessiere ihn, und er habe eigentlich nicht viel dagegen einzuwenden. In der Tat krebsten alle rückwärts. Doch bringt erst die nächste Sitzung den Entscheid.</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3079">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 12. November 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3079 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 100–101.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3079</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 100-101</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">79</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 76</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 12. November 1915. <ref target="https://kba.karl-barth.ch/objects/8988">KBA 9270.60</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-11-12">12. November 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-11-12">12. November 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3078"/>
+          <ref type="next" target="kbga-texts-3080"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3078"/>
+          <ref type="next-in-corresp" target="kbga-texts-3080"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:23+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:23+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p100" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-11-12">12. November 1915</date>
+          </dateline>
+          <salute>Lieber Freund und Gevatter!</salute>
+        </opener>
+        <p>Der 42 cm Schuß ist also aus dem Rohr,<note xml:id="n01">Barths <ref type="pub" target="48030">Antrag</ref> an die <orgName ref="kbga-actors-9779">Synode</orgName>: Abschaffung des die Synode einleitenden Gottesdienstes.</note> und du empfängst vielleicht gerne kurze Nachricht über Abschuß und Einschlag, sofern solche bis jetzt festzustellen waren. Die Sache begann mit einer ganz haarigen Predigt von J., der uns «dem braven aargauischen Kirchenbürger ins biedere Angesicht schauen» ließ, der ein «Bild der Kirche in Krieg und Frieden» entwarf und mit dem «schwarzblauen Aargauerband» umschlang, der die Richtungen mit vier Aposteln sinnig kombinierte:</p> 
+        <table>
+                        <row>
+                            <cell rend="width(10%)">positiv</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell>Stimmung der Gemeinschaftskreise</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell rend="width(10%)">Johannes</cell>
+                        </row>
+                        <row>
+                            <cell rend="width(10%)">freisinnig</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell>das Christentum der Gebildeten</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell rend="width(10%)">Paulus</cell>
+                        </row>
+                        <row>
+                            <cell rend="width(10%)">Vermittler</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell>Wichtigkeit des Kirchlichen als solchen</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell rend="width(10%)">Petrus</cell>
+                        </row>
+                        <row>
+                            <cell rend="width(10%)">relig.-soz.</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell>gehen zu den Armen ins Hinterhaus</cell>
+                            <cell rend="width(5%)">=</cell>
+                            <cell rend="width(10%)">Jakobus</cell>
+                        </row>
+                    </table> 
+                    <p>Zum Schluß eindringliche Warnung vor geistlichem Hochmut und Drängertum, es sei dato eben keine Erweckungs- und Reformationszeit, und die Kirche, so wie sie sei, passe für unsre Heimat. Dafür: «Halte, was du hast, auf daß dir …!» [<ref type="can" subtype="bible" target="Apk.3.11">Apk 3,11</ref>] unter Seitenblick auf (11. Nov.) den <persName ref="kbga-actors-9780">heiligen Martin</persName> und den Gotteshelden <persName ref="kbga-actors-261">Luther</persName>. Lied: «Du bists allein! Du bists allein!»<note xml:id="n02">
+                        <bibl type="song" corresp="kbga-songs-296"><persName ref="kbga-actors-795">V. Fr. v. Strauß</persName>, «Du bist’s allein, Macht und Gewalt sind dein!», in: Gesangbuch für die ev.-ref. Kirche der deutschen Schweiz von 1891, Nr. 29.</bibl>
+                    </note> — Du kannst dir denken, daß ich in ziemlich geladener Stimmung ins Rathaus hinüberzog, wo ich durch <persName ref="kbga-actors-705">Müris</persName> anerkennenswerte Willigkeit und Gewandtheit sofort das Wort erhielt. Ich suchte vom lieben Gott zu reden und von der Synode, wie sie nach solchen Liedern und Gebeten sein müßte, dann davon, wie sie ist, von der christlichen Liebe und von der Wahrheit und schließlich von der Gewissensfrage, auf die jetzt jeder einmal antworten müsse. <persName ref="kbga-actors-705">M.</persName> lobte mich nachmittags, ich habe große Mäßigung bewiesen, andere fanden, es seien doch einige unnötige Schärfen unterlaufen, z. B. eine an sich harmlose Aufzählung, wir seien hier bei<pb xml:id="p101" ed="pga" break="no"/>einander «als Oberrichter, Feldprediger, Großräte, Kirchenpolitiker», nur nicht als Christen — das war das Ärgste. Der Einschlag: W.: wir wollen den <ref type="pub" target="48030">Antrag</ref> als Motion behandeln und erst nächstes Jahr besprechen!!! Sch. erhebt in aller Form Protest dagegen, daß Synode und Kirchenrat, die ja nicht vollkommen seien, von mir als «Heuchler, Sünder und Heiden» behandelt wurden. Pr. vertröstet Sch. und beantragt sofortiges Eintreten. Abstimmung über Behandlung jetzt oder übers Jahr:</p>
+                    
+        <list type="simple">
+          <item>Jetzt: 51</item>
+          <item>Übers Jahr: 68</item>
+        </list>
+   
+        <p>Darauf zog ich den Antrag zurück, <hi rend="italic">mein</hi> Zweck sei durch diese Abstimmung erreicht. Was geschieht?! Sch.-Schinznach nimmt den Antrag wieder auf und wird ihn nun übers Jahr als den seinigen vertreten. So ist nun für die Permanenz der «Beunruhigung» vorderhand gesorgt und ich meine, wir können damit und mit dem gestrigen Abstimmungsresultat zufrieden sein. Aber wie es mir sonst im Volksmund und in den Zeitungen gehen wird, das ist nicht abzusehen. Du schickst mir dann, was eure Zeitungen dort drüben darüber bringen, gelt?</p>
+        <p>Der <ref type="pub" target="48031">Basler Vortrag</ref><note xml:id="n03">Der Vortrag über «<title level="m"><ref type="pub" target="48031">Kriegszeit und Gottesreich</ref></title>» wurde am <date when="1915-11-15">15.11.1915</date> in <placeName ref="kbga-places-5">Basel</placeName> gehalten. Er wurde nicht veröffentlicht und ist anscheinend nicht erhalten.</note> ist fertig. Er enthält nun u.A. auch eine Generalabrechnung mit <persName ref="kbga-actors-420">Wernle</persName>. Ich dachte daran, ihn nachher drucken zu lassen. […] In den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>» unter all dem Pazifismus wäre er etwas verlocht. Was nun? Übermorgen <ref type="can" subtype="bible" target="Ps.18.29 Ps.18.30">Psalm 18,29–30</ref>. Abends <persName ref="kbga-actors-27">Peter</persName> über Amos!!</p>
+        <closer>
+          <salute>Herzlichen Gruß</salute>
+           <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

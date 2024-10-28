@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3391">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 8. Januar 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3391 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 460–461.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3391</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 460-461</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">391</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 381</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 8. Januar 1921. <ref target="https://kba.karl-barth.ch/objects/10942">KBA 9370.390</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-01-08">8. Januar 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1921-01-08">8. Januar 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3390"/>
+          <ref type="next" target="kbga-texts-3392"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3390"/>
+          <ref type="next-in-corresp" target="kbga-texts-3392"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:44+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:44+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p460" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            <date when="1921-01-08">8. Januar 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Es ist wahr: zwei Briefe von dir haben sich bei mir eingefunden, und du wartest noch immer auf einen von mir. Unterdessen liegen Weihnachten und Neujahr hinter uns und beunruhigen einen nur noch vom Rücken her, während man für 1921, wie du schreibst, allerlei Couloirs, Firnhalden, Gletscherspalten und vielleicht auch einige Abstürze ins Auge faßt. Wir müssen vor allem dafür sorgen, daß das Seil zwischen uns zweien stets gehörig gespannt bleibt. Das ist mein Neujahrswunsch. Unsere Weihnacht verlief in aller Stille. Ich bekam einige gute Bücher: <persName ref="kbga-actors-221">Kierkegaard</persName>, <persName ref="kbga-actors-301">Nietzsche</persName>, <persName ref="kbga-actors-1621">Gotthelf</persName> und <persName ref="kbga-actors-530">Dostojewski</persName>, eine nicht üble geistige Reihe. […] <persName ref="kbga-actors-607">Herpeln</persName> will ich schreiben. Deine <pb xml:id="p461" ed="pga"/> Predigten habe ich alle nochmals gelesen. Vielen Dank für die Sendung.</p>
+        <closer>
+          <salute>Herzlich grüßen wir beide <persName ref="kbga-actors-26">Nelly</persName> und Dich.</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

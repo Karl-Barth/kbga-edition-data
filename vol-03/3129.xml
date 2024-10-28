@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3129">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. November 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3129 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 160–161.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3129</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 160-161</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">129</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 126</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. November 1916. <ref target="https://kba.karl-barth.ch/objects/9265">KBA 9270.95</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-11-07">7. November 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-11-07">7. November 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3128"/>
+          <ref type="next" target="kbga-texts-3130"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3128"/>
+          <ref type="next-in-corresp" target="kbga-texts-3130"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:26+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:26+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p160" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-11-07">7. November 1916</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Da bringt mir die Post zwei Dedikationen, die dich auch interessieren werden, von <persName ref="kbga-actors-832">Wendland</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-832">Johannes Wendland</persName> (1871–1947), Prof. für systematische Theologie in Basel.</seg></note> und von unserm bösen Geist welsche et laïque. Es zeichnet sich zwar keine durch Tiefe aus. Doch wird man ja der Frl. <persName ref="kbga-actors-696">Monastier</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-696">Hélène Monastier</persName>, eine theologisch interessierte Frau, Mitglied der religiössozialen Konferenz.</seg></note> nun schon einmal erklären können, daß unser «Individualismus» noch viel verwunderlicher ist, als sie sich vorstellt. <persName ref="kbga-actors-240">Kutter</persName> schreibt mir, ich solle die Besprechung<note xml:id="n03"><persName ref="kbga-actors-2151">Barth</persName> hatte den «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>» eine Rezension über <bibl corresp="kbga-bibls-3613">Kutters «<title level="m">Reden an die deutsche Nation</title>»</bibl> angeboten, von der Redaktion aber den Bescheid erhalten, man müsse die Rezension erst haben, um dann entscheiden zu können, ob es tunlich sei, etwas über das Buch zu veröffentlichen.</note> […] nur bleiben lassen und das tue ich nun gerne; ich habe jetzt mit <bibl corresp="kbga-bibls-1497"><hi rend="italic"><persName ref="kbga-actors-444">Abraham</persName></hi> [<ref type="can" subtype="bible" target="Röm.4">Röm 4</ref>]</bibl> zu tun.</p>
+        <p>Gegen deine gestrige Besprechung <bibl corresp="kbga-bibls-4036"><persName ref="kbga-actors-35">Becks</persName></bibl> opponiert etwas in mir. Ich habe noch zu wenig von ihm gelesen, um dir einfach zu sagen, du habest ihm Unrecht getan. Ich übersehe sein Ganzes zu wenig, um einfach zu behaupten, deine Darstellung von einem Teil aus sei eine Entstellung. Aber lies doch nur einmal die Übersicht, die <persName ref="kbga-actors-533">Eck</persName> in der R. G. G.<note xml:id="n04">
+                        <bibl corresp="kbga-bibls-4271">RGG
+                            1. Aufl., Bd. I, Sp. 996f.</bibl>
+                    </note> davon gibt. Das ist doch etwas ganz Anderes, Fruchtbareres als das ordinäre positive Christentum! Sollte dieses Andere nicht auch in der Pastoraltheologie<note xml:id="n05">
+                        <bibl corresp="kbga-bibls-4036"><persName ref="kbga-actors-35">J. T. Beck</persName>, <title level="m">Pastorallehren des Neuen Testaments</title>, hrsg. von B. Riggenbach, Gütersloh
+                            1880.</bibl>
+                    </note> bei einiger Liebe auszugraben gewesen sein? Dürfen und sollen wir (bei der Kritik Anderer!) unsre speziellen <rs type="person" ref="kbga-actors-47 kbga-actors-48">Blumhardtischen</rs> Erleuchtungen über Kirche, Staat, Krankheit etc. zum Kriterium machen? Wer kann dann eigentlich vor uns bestehen? Und ist dieses Vorgehen nicht allzu eilig und billig? Ich möchte ja das Alles nur <hi rend="italic">fragen</hi>. Aber es ist mir einfach, um nützlich von Andern <pb xml:id="p161" ed="pga"/> zu lernen, müßten wir geduldiger auf das aufpassen, was eventuell <hi rend="italic">jenseits</hi> der verschiedenen «Orientierung» in ihrem Denken zum Vorschein kommt. Ich könnte ja z. B. auch meine 20 Schünken<note xml:id="n06">= Wälzer (Kommentare).</note> über den Römerbrief an einen Haufen werfen und frischweg sagen, wie es nach «unsrer» Orientierung <persName ref="kbga-actors-313">Paulus</persName> meinen muß, denn da wimmelt es ja nur so von falschen Gesichtspunkten. Aber der Geprellte wäre dabei doch ich selbst. Es kommt mir vor, du habest da gestern ein Verfahren geübt, das du sonst selber eher mißbilligst. <hi rend="italic">Mir</hi> aber gebührt für dieses Bedenken ein Käppli mit goldener Troddel! […]</p>
+   
+        <closer>
+        <salute>Mit den herzlichsten Grüßen in großer Vorfreude auf Sonntag</salute>
+          <salute>eure getreuen</salute>
+          <signed>Safenwiler</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3008">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 29. August 1914</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3008 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 7–8.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3008</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 7-8</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">8</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 6</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 29. August 1914. <ref target="https://kba.karl-barth.ch/objects/8604">KBA 9270.9</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1914-08-29">29. August 1914</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1914-08-29">29. August 1914</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3007"/>
+          <ref type="next" target="kbga-texts-3009"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3007"/>
+          <ref type="next-in-corresp" target="kbga-texts-3009"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p007" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1914-08-29">29. August 1914</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Dank für deine Karte. Du weißt offenbar noch nicht, daß <persName ref="kbga-actors-253">Loew</persName> sich mit <persName ref="kbga-actors-252">Liese Naumann</persName> hat nottrauen lassen und als Freiwilliger mitgezogen ist. Man könnte allen diesen Heroismus, den sie jetzt drüben entfalten, bewundern, wenn die Sache nicht so über die Maßen jammervoll wäre. Wozu alles dieses gute Blut? Etwas vom Betrüblichsten ist mir die Haltung der «<orgName ref="kbga-actors-5420">Christl. Welt</orgName>», resp. <persName ref="kbga-actors-329">Rades</persName>.<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-329">Martin Rade</persName> (1857–1949), ev. Theologe, Prof. für systematische Theologie in Marburg, Schriftleiter der «Christlichen Welt».</seg>
+               </note> Nun setzt er uns als letzten Trost die erbärmlichen Sophismen (wenigstens mir kommen sie in diesem Augenblick so vor!) <persName ref="kbga-actors-261">Luthers</persName> über die seligen Kriegsleute vor.<note xml:id="n02">Nach Kriegsausbruch druckte die «<orgName ref="kbga-actors-5420">Christliche Welt</orgName>» in mehreren Fortsetzungen auszugsweise <bibl corresp="kbga-bibls-3804"><persName ref="kbga-actors-261">Luthers</persName> Schrift <bibl corresp="kbga-bibls-1995">«<title level="a">Ob Kriegsleute auch in seligem Stande sein können</title>» (1520)</bibl> ab: CW 28, Sp. 788ff., 806ff., 820ff., 837f., 857f.
+</bibl>               </note> […] Überhaupt versagt die Kirche bedenklich: Zirkular unseres hohen Kirchenrates! Predigt von G. im <orgName ref="kbga-actors-4530">Aargauer Tagblatt</orgName>! Predigt von <persName ref="kbga-actors-590">Hadorn</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-590">Wilhelm Hadorn</persName> (1869–1929), Münsterpfarrer und Prof. für Kirchengeschichte in Bern.</seg></note> in <placeName ref="kbga-places-9">Bern</placeName>! Proklamationen des <orgName ref="kbga-actors-9903">Bernischen Synodalrates</orgName>! Es ist eine allgemeine Ratlosigkeit. Aber die Predigt von <persName ref="kbga-actors-757">Schädelin</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-757">Albert Schädelin</persName> (1880–1961), Dr. theol., Pfarrer am Münster in Bern, Prof. für praktische Theologie.</seg></note> ist fein. Ich will dir demnächst schicken, was ich an solchen Aktenstücken besitze, sofern du sie noch nicht kennst. Ich bin <pb xml:id="p008" ed="pga"/> 
+               <hi rend="italic">sehr</hi> dafür, daß das <orgName ref="kbga-actors-8246">rel. soz. Kränzchen</orgName> bald einmal stattfindet, aber wo?</p>
+        <closer>
+          <salute>Herzlichst</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

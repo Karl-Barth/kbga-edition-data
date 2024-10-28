@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3404">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 8. März 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3404 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 473a–475.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3404</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 473a-475</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">404</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 393</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 8. März 1921. <ref target="https://kba.karl-barth.ch/objects/11021">KBA 9270.297</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-03-08">8. März 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-03-08">8. März 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3403"/>
+          <ref type="next" target="kbga-texts-3405"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3403"/>
+          <ref type="next-in-corresp" target="kbga-texts-3405"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:45+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:45+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p473" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-03-08">8. März 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Herzlichen Dank für Brief und Kurier. Hierseits ist nichts entsprechend Wichtiges eingegangen. […] Ich lege bei: die Rezension von <persName ref="kbga-actors-87">Dehn</persName>,<note xml:id="n01"><bibl corresp="kbga-bibls-4240"><persName ref="kbga-actors-87">G. Dehn</persName>, <hi rend="italic">Rezension über Barth, <ref type="pub" target="48064">Biblische Fragen, Einsichten und Ausblicke</ref></hi></bibl>; <bibl corresp="kbga-bibls-4396"><persName ref="kbga-actors-2151">Barth</persName> / <persName ref="kbga-actors-403">Thurneysen</persName>, <hi rend="italic">Zur inneren Lage des Christentums</hi></bibl>; <bibl corresp="kbga-bibls-4395">Barth / Thurneysen, <hi rend="italic">Suchet Gott, so werdet ihr leben!</hi>, in: Aufwärts, <date when="1921-01-07">7.1.1921</date></bibl>.</note> […] eine Nummer der <orgName ref="kbga-actors-7627">Frankfurter Zeitung</orgName> mit einem Wetterleuchten aus unbekannter Ecke. […]</p>
+        <p>Hier ist wenig geschehen, seit wir uns trennten. Am <bibl corresp="kbga-bibls-48">Römerbrief</bibl> noch gar nichts. Die <ref type="pub-" target="../volume/44/p062#p062">Predigt</ref> über die Sadduzäerfrage entstand z.T. erst am Sonntag Morgen in Notizenform. Dann war <persName ref="kbga-actors-743">Reitzenstein</persName> zu Besuch da. Wir hörten eine dunkle Dichtung von ihm und brachten das Doppelkonzert von <persName ref="kbga-actors-455">Bach</persName> wieder einmal zur Aufführung. Dann habe ich <persName ref="kbga-actors-673">Ludendorff</persName><note xml:id="n02"><bibl corresp="kbga-bibls-1850"><persName ref="kbga-actors-673">E. Ludendorff</persName>, <title level="m">Meine Kriegserinnerungen 1914-1918</title>, Berlin 1921.</bibl></note> und <persName ref="kbga-actors-761">Scheidemann</persName><note xml:id="n03"><bibl corresp="kbga-bibls-4394"><persName ref="kbga-actors-761">Ph. Scheidemann</persName>, <title level="m">Der Zusammenbruch</title>, Berlin 1921</bibl></note> in einem Zug durchgelesen, mit gespanntester Anteilnahme an der Entstehung des Wracks, auf das wir nun vielleicht uns begeben sollen. Es sind beides, wenn auch sehr verschieden, höchst instruktive Bücher zur Erkenntnis der Gerichtsluft, in der wir leben. <persName ref="kbga-actors-761">Scheidemann</persName> übertraf meine schlimmsten Erwartungen; <pb xml:id="p474" ed="pga"/> aber auch er ist in seiner Weise ein in sich geschlossener Kreis. Beachte, was er über <persName ref="kbga-actors-692">Michaelis</persName> und den <persName ref="kbga-actors-683">Prinzen von Baden</persName> sagt, in denen das Christentum in fragwürdigster Weise seinen Schildkrötenpanzer eben so streift. Man sollte noch viel mehr solche Bücher lesen und zwar von A-Z; die Hiobfrage ist doch schauerlich deutlich auch in dem <hi rend="italic">menschlichen</hi> zoologischen Garten.</p>
+        <p>Ein merkwürdiges Zwischenspiel hat gestern Abend in einer vielstündigen Sitzung des <orgName ref="kbga-actors-9909">Arbeitervereins</orgName>, kaum begonnen, seinen Abschluß gefunden. Die Wackern wollten mich im April kumuliert als Großrat<note xml:id="n04">= Abgeordneter im Großen Rat, dem kantonalen Parlament.</note> portieren! Der Präsident kam am Samstag zu mir in der etwas kühnen Erwartung, die Aussicht auf diesen kurulischen Stuhl werde mich sicher dazu bringen, den andern Stuhl in <placeName ref="kbga-places-27">Göttingen</placeName> (von dem mittlerweile das Gerücht durch das ganze Dorf gegangen) auszuschlagen, oder ich werde doch bereit sein, die sozialistische Liste mit meinem «geachteten und beliebten» Namen durchzureißen und ein Mandat zu erobern. Du kannst dir denken, daß mein politisches Äderchen einen Augenblick anschwoll und das «Gelüsten», wie <persName ref="kbga-actors-240">Kutter</persName> sagen würde, an mich herantrat, im Lauf des Sommers meinen Abschied von der <placeName ref="kbga-places-58">Schweiz</placeName> auch in <hi rend="italic">dieser</hi> Weise zu feiern (im Großratssaal in <placeName ref="kbga-places-1">Aarau</placeName> irgendwie frondierend gegen die freisinnigen Großräte <persName ref="kbga-actors-595">Haller</persName>, <persName ref="kbga-actors-8471">Zimmermann</persName> und <persName ref="kbga-actors-735">Preiswerk</persName>, Mitglied einer Kommission für die Korrektion der <placeName ref="kbga-places-1381">Wyna</placeName><note xml:id="n05">Ein Flüßchen im <placeName ref="kbga-places-152">Aargau</placeName>.</note> oder ein Kleinviehversicherungsgesetz, «kleine Anfragen» an die Regierung richtend und dergl. mehr!). Ich habe dann aber männlich widerstanden und mich begnügt, abgesehen von meiner Kandidatur energisch in die Verhandlungen einzugreifen, was sehr nötig war, denn der Sumpf bei den Sozialisten ist groß. Es kam so weit, daß einer vorschlug, den Arbeiterverein aufzulösen, worauf ich nach dem Gewitter, das ich zuerst hatte ergehen lassen, begütigend erklären konnte: Nein, das nicht, aber … Es kam auch wieder zu der weinerlichen Aufforderung des Präsidenten, die Genossen sollten doch fleißiger zur Kirche gehen, worauf ich wieder abwinken mußte: auch das seis nicht! Endlich baten mich zwei der Vorgeschlagenen, die durchaus nicht annehmen wollten, mit ihren Frauen (!!), die besonders zu wider<pb xml:id="p475" ed="pga" break="no"/>streben scheinen, Rücksprache zu nehmen, was ich denn auch zusagte. […]</p>
+        <closer>
+          <salute>Vale! […] Mit herzlichem Gruß dir und <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

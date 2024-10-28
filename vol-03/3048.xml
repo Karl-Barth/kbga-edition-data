@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3048">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 8. Juli 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3048 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 61–62.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3048</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 61-62</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">48</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 46</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 8. Juli 1915. <ref target="https://kba.karl-barth.ch/objects/8863">KBA 9270.35</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-07-08">8. Juli 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-07-08">8. Juli 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3047"/>
+          <ref type="next" target="kbga-texts-3049"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3047"/>
+          <ref type="next-in-corresp" target="kbga-texts-3049"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:20+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:20+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p061" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-07-08">8. Juli 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Als erfreuliches Hindernis (von der dir auch sattsam bekannten Art der aargauischen Jungmännerschaft) taucht die Möglichkeit auf, daß unter den Konfirmanden die Parole ausgegeben wird: Wir wollen nicht mit! Im Stande sind sie’s schon. Sie sind dies Jahr ohnehin eine klebrige Gesellschaft sondergleichen. Unter Umständen muß ich morgen aus pädagogischer Sachlichkeit noch erklären: Also, wir gehen nicht!, wenn ich nämlich sehe, daß sie sich irgendwie rar machen wollen. Typisch ist die Geschichte, nicht? Eventuell erlebst du gleichzeitig das Gleiche? […]</p>
+        <p>Das Bataillon 83 ist nun von einem zehntägigen Ausmarsch wieder hieher zurückgekehrt, und <persName ref="kbga-actors-586">Guggenheim</persName> logiert diesmal bei mir. […] Der gestrige Predigtbesprechungsabend vereinigte fünf Männer und vier Frauen. <persName ref="kbga-actors-26">Nelly</persName> fand ihn erfreulich und ermutigend. Ich war eher etwas deprimiert über das, was ich hörte. Ich hatte so starke «<hi rend="italic">Aargauer</hi>» Eindrücke von meiner kleinen Herde! Auf der einen Seite die rationalistische Fortschrittlichkeit, auf der andern Seite ein sentimentaler Pietismus, beides sowohl in reinen Exemplaren als froh vereinigt in den gleichen Köpfen und Gemütern. Da entwischen sie einem immer wieder, bald nach der einen bald nach der andern Seite. Ich redete so stark als möglich und auch wohl so deutlich, als es mir jetzt möglich ist, hatte aber zum Schluß eigentlich nur von einem Einzigen den sichern Eindruck, <pb xml:id="p062" ed="pga"/> er habe es verstanden. Die Andern redeten immer wieder zähe neben der Sache vorbei. <persName ref="kbga-actors-26">Nelly</persName> hat wohl recht: es ist schon viel, daß sie überhaupt einmal etwas sagen. Wie machst dus nur in deinen Diskussionsabenden? Und was reden deine Leute? Der Kirchenpflegepräsident sagte mir heute noch nachträglich, er und andere empfänden eine <hi rend="italic">besondere</hi> Schwierigkeit meiner Predigten seit meiner Deutschlandreise. Seit damals sei ich ihnen besonders «vor[-<hi rend="italic">aus</hi>»], sodaß sie Mühe hätten mitzukommen. Ist das nun «<placeName ref="kbga-places-158">Boll</placeName>»,<note xml:id="n01">«<placeName ref="kbga-places-158">Boll</placeName>» repräsentiert <persName ref="kbga-actors-48">Christoph Blumhardts</persName> «Theologie der Hoffnung».
+               </note> das ich noch nicht ganz assimiliert hätte, oder was? Du wirst mich am Sonntag wahrscheinlich etwas trostbedürftig vorfinden und mußt mir mit ein paar guten großen Sprüchen aufhelfen!! Sollten die Konfirmanden wirklich streiken, so würde ich möglicherweise allein zu dir kommen auf den Sonntag Abend und Montag Morgen. Könntest du mich brauchen? […]</p>
+        <p>In den sozialdemokratischen Blättern kommen jetzt überall Artikel gegen den «neuen»<note xml:id="n02">Der von <persName ref="kbga-actors-2151">Barth</persName> vertretene kritische religiöse Sozialismus.</note> Sozialismus. Es scheint System zu sein in der Sache.</p>
+        <closer>
+          <salute>Herzlichen Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+     
+      <postscript>
+        <p>Nächsten Sonntag predige ich über die <ref type="pub" target="27029">Krankheit</ref> (<ref type="can" subtype="bible" target="Lk.13.10 Lk.13.13">Luk. 13,10–13</ref>). Du hast mir da einmal eine gute Anregung gegeben, die mir bei einem bestimmten Fall sehr wertvoll wurde und über die ich mir jetzt klar werden möchte.</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3163">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 22. Mai 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3163 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 201–202.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3163</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 201-202</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">163</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 159</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 22. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9442">KBA 9370.192</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-05-22">22. Mai 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1917-05-22">22. Mai 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3162"/>
+          <ref type="next" target="kbga-texts-3164"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3162"/>
+          <ref type="next-in-corresp" target="kbga-texts-3164"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:28+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:28+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p201" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1917-05-22">22. Mai 1917</date>
+          </dateline>
+          <salute>Liebe Freunde,</salute>
+        </opener>
+        <p>Es ist allerlei geschehen, seit wir dich, <persName ref="kbga-actors-2151">Karl</persName>, an deinem Geburtstag verabschiedet haben. Ich war in <placeName ref="kbga-places-5">Basel</placeName> und habe mich auf den «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>» erkundigt nach dem Erscheinen der Besprechung von <persName ref="kbga-actors-240">Kutters</persName> «<bibl corresp="kbga-bibls-3613">Reden</bibl>». Ich hatte den Eindruck, es sei ein Wort zur Lage, wie es Kutter sagen möchte, für die Redaktion dieser Zeitung etwas sehr Nebensächliches den weltbewegenden Hauptsachen gegenüber, die sie mit weisen Federn bearbeiten.</p>
+        <p>Nachher ging ich zu einem freundlich-wehmütigen Zusammensein mit <persName ref="kbga-actors-420">Wernle</persName>. Was haben wir alles geredet? Ebenfalls allerlei Nebensachen unter steten heimlichen Blicken nach der Hauptsache. Nachmittags <orgName ref="kbga-actors-8246">Kränzli</orgName> in <placeName ref="kbga-places-412">Pratteln</placeName> mit den Basler «Lichtfreunden». Wir betrachteten <ref type="can" subtype="bible" target="Mt.10">Matth. 10</ref>. Ich beneidete diesen Kreis um das mit zäher Regelmäßigkeit abgehaltene Schriftstudium.</p>
+        <pb xml:id="p202" ed="pga"/>
+        <p>Ich lese <bibl corresp="kbga-bibls-4459"><persName ref="kbga-actors-612">L. Hofacker</persName></bibl> und bin dir dankbar für die Zusendung. Ich habe bei ihm den Eindruck von einem wackern Pilger, der eine christliche Staubwolke um sich her aufwirbelt, aber von dem eigentlichen Ziel seiner Wanderschaft und von der Bewegung darauf hin sieht man weniger als von seinen Mühsalen und gelegentlichen Erquickungen. — Am Sonntag habe ich über «das lebendige Herz» gepredigt (<ref type="can" subtype="bible" target="Ps.69.33">Ps. 69,33</ref>). Ich will dir diese Predigt einmal vorlesen, vielleicht am <placeName ref="kbga-places-464">Zugersee</placeName>.<note xml:id="n01">Gemeinsame Ferien von <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-403">Thurneysen</persName>, <persName ref="kbga-actors-316">Pestalozzi</persName> in <placeName ref="kbga-places-440">Risch am Zugersee</placeName>, <date from="1917-06-04" to="1917-06-21">4.-21.6.1917</date>.</note> Und nun kommt Pfingsten. Ich möchte den hl. Geist als ein Wetterleuchten beschreiben, welches das dunkle Menschenland plötzlich erhellen kann und uns Kunde gibt von uns leider noch fernen Kraftentladungen Gottes. Deine Predigt über die «<ref type="pub-" target="32020">Brünnlein Gottes</ref>» haben wir überaus gerne gelesen.</p>
+        <p>Und nun die Frage wegen der Einladung nach <placeName ref="kbga-places-779">Buus</placeName>. Was soll ich dazu sagen? Sie wissen ja immerhin, <hi rend="italic">wen</hi> sie fragen, wenn sie <hi rend="italic">dich</hi> fragen. Ich habe darum nichts dagegen einzuwenden.</p>
+        <p>Nun wird <persName ref="kbga-actors-329">Rade</persName> auftauchen. Er muß scheints, um über die Grenze zu dürfen, Vorträge halten über den innern Kriegsgewinn des deutschen Volkes, wie mir <persName ref="kbga-actors-420">Wernle</persName> erzählte.</p>
+        <closer>
+          <salute rendition="left">Wir grüßen euch samt euren Kindern mit aller Freude.</salute>
+          <signed rendition="right"><persName ref="kbga-actors-1285">Marguerite</persName> und <persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

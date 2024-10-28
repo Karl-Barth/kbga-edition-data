@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3290">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 11. September 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3290 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 343–345.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3290</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 343-345</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">290</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 281</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 11. September 1919. <ref target="https://kba.karl-barth.ch/objects/10205">KBA 9270.214</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-09-11">11. September 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-09-11">11. September 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3289"/>
+          <ref type="next" target="kbga-texts-3291"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3289"/>
+          <ref type="next-in-corresp" target="kbga-texts-3291"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:37+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:37+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p343" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1919-09-11">11. September 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Hier sende ich dir, was ich […] in ununterbrochener Tag- und Nachtschicht (vorläufig) für <orgName ref="kbga-actors-9864">Tambach</orgName> <ref type="pub" target="48061">verfaßt</ref> habe. Hast du Zeit, es schnell durchzusehen, deine Bemerkungen und Ergänzungen dazu zu machen und es mir dann eiligst wieder eingeschrieben zurückzusenden? Ich wäre so froh, bevor ich die Sache <pb xml:id="p344" ed="pga"/> endgültig festlege, dein Einverständnis zu haben. Wie du siehst, ist es eine nicht ganz einfache Maschine geworden, vorwärts- und rückwärtslaufend, nach allen Seiten schießend, an offenen und heimlichen Scharnieren kein Mangel. Sieh alles gut nach, ob alles gut ineinander greift. <persName ref="kbga-actors-23">Heiners</persName> Vortrag<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-3411"><persName ref="kbga-actors-23">H. Barth</persName>, <title level="m">Gotteserkenntnis</title>; vgl. <ref type="pub" target="3275#fn_n01">Anm. 1 zum Brief vom <date when="1919-04-10">10.4.1919</date></ref></bibl>.</note> hat mit Wind und Gegenwind mächtig auf meine Fahrt eingewirkt. Sein Ende befriedigt mich beim Lesen doch nicht recht, dieses «Ende gut, Alles gut» riecht einfach ein wenig kirchlich.</p>
+        <p>Doch nun zu der entscheidenden Nachricht, die du mir letzte Woche gegeben hast.<note xml:id="n02"><persName ref="kbga-actors-403">Thurneysen</persName> hatte sich zur Ablehnung des Rufes nach <placeName ref="kbga-places-105">St. Gallen</placeName> entschlossen. Er nahm ihn dann doch an.</note> Also du bleibst. Welche <hi rend="italic">Erleichterung</hi> und <hi rend="italic">Freude</hi> über uns Beide kam, brauche ich dir nicht zu sagen. Die Sache lag ja wie ein schwarzer Schatten über uns, umso mehr als ich gar kein Pathos fand, dich beschwörend im <placeName ref="kbga-places-152">Aargau</placeName> festzuhalten. Mir schienen gegen meinen Wunsch alle Gründe fürs Gehen zu sprechen. Und nun gehst du doch nicht, und so ist für den Aargau und für mich bis auf weiteres alles, alles wieder gut. Hoffentlich auch für dich selbst und deine Arbeit. Doch wie sollte es nicht: du hast dich <foreign xml:lang="lat">sub specie aeternitatis</foreign> entschieden, und so wird es das Rechte sein. Das Nähere mußt du mir dann noch erzählen.</p>
+        <p>An die Predigerversammlung wollte ich wirklich auch kommen. Aber im letzten Augenblick, als ich abfahren wollte, reuten mich die schönen Tage, ich fuhr dann nur nach <placeName ref="kbga-places-1">Aarau</placeName>, um den Paß zu bestellen und Pfarrer <persName ref="kbga-actors-582">Grob</persName> aufzubieten, der mich am Bettag vertreten wird (welche Erleichterung, so einmal dem Bettag zu entrinnen!!), kaufte ein Päckli Havanna-Stumpen und setzte mich ans Werk. Ich sehe aus den «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>», daß du geredet und M.s milden Beifall gefunden hast. Wie war das? […]</p>
+        <p><persName ref="kbga-actors-607">Herpel</persName> telegraphierte: «Einverstanden. <persName ref="kbga-actors-403">Thurneysen</persName> mitbringen.» Du weißt also, was du zu tun hast. Ich reise mit <persName ref="kbga-actors-665">Liechtenhan</persName> und <persName ref="kbga-actors-457">Bader</persName> in der Morgenfrühe des Bettags. Die Reise dieser seltsamen drei Väter<note xml:id="n03">Der Ausdruck «Väter» für die Wortführer der schweizerischen religiössozialen Bewegung stammt aus dem Einladungsschreiben <persName ref="kbga-actors-607">O. Herpels</persName>; vgl. <ref type="pub" target="3281#fn_n01">Anm. 1 zum Brief vom <date when="1919-06-26">26.6.1919</date></ref>.</note> könnte auch noch gut werden. Könntest du nicht auch gleich dann kommen?!</p>
+        <p>[…] Hier noch eine nette Kundgebung aus dem Volk. […] Im Übrigen haben meine Artikel hauptsächlich einen «ernsten <pb xml:id="p345" ed="pga"/> Bibelforscher» in <placeName ref="kbga-places-160">Baden</placeName> aufgeregt, der mich nun mit demütigen Zusendungen […] bombardiert. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

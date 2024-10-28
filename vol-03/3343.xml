@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3343">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 24. Juni 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3343 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 400–401.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3343</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 400-401</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">343</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 333</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 24. Juni 1920. <ref target="https://kba.karl-barth.ch/objects/10639">KBA 9270.249</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-06-24">24. Juni 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-06-24">24. Juni 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3342"/>
+          <ref type="next" target="kbga-texts-3344"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3342"/>
+          <ref type="next-in-corresp" target="kbga-texts-3344"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p400" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-06-24">24. Juni 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Bei mir ist <persName ref="kbga-actors-312">Overbeck</persName><note xml:id="n01">Die Belegexemplare von <bibl corresp="kbga-bibls-1686">«<title level="m">Zur inneren Lage des Christentums</title>».</bibl></note> noch nicht eingetroffen. […] Ich glaube das Heftlein wird ganz bedenklich Krach erregen gegen uns; ich las es auf der Eisenbahn ganz unbeteiligt, aber mit dem Gefühl, diesmal könne es nicht anders sein, als daß die Wespe, in deren Nest da gegriffen wird, stoßen werde. Hast du in <persName ref="kbga-actors-210">Jülichers</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-210">Adolf Jülicher</persName> (1857–1938), Prof. für N. T. in <placeName ref="kbga-places-41">Marburg</placeName></seg>.</note> Artikel über das Augustin-Buch<note xml:id="n03"><bibl corresp="kbga-bibls-4203"><persName ref="kbga-actors-210">A. Jülicher</persName>, <title level="a">Ein moderner Gnostiker und Augustinus</title> (Rezension über: <title level="m">Augustinus Redivivus: des heiligen Kirchenvaters philosophisches Weltbild. In Umrissen gezeichnet nach dm Bekenntnissen</title>. Vom Verfasser des Spinoza Redivivus, Halle 1919), in: CW, Jg. 34 (1920), Sp. 386–390.</bibl></note> das gegen mich heraufziehende Gewitter beachtet? Heute Nacht um 3 Uhr erwachte ich stürmisch: ich war im Traum soeben von Weißgardisten in raffinierter Weise erschossen worden, weil ich meinerseits (und ich weiß nicht auf wen) einen Schuß abgegeben hatte. Übrigens hatte ich den ganzen Abend über <bibl corresp="kbga-bibls-1814"><persName ref="kbga-actors-221">Kierkegaards</persName> «Augenblick»</bibl> zugebracht.</p>
+        <p>Und nun aufs neue <persName ref="kbga-actors-607">Herpel</persName> und <persName ref="kbga-actors-771">Schultheis</persName>.<note xml:id="n04"><persName ref="kbga-actors-607">Herpel</persName> und <persName ref="kbga-actors-771">Schultheis</persName> bereiteten in Fortsetzung der <orgName ref="kbga-actors-9864">Tambacher Konferenz</orgName> von <date when="1919">1919</date> für den <date when="1920-09">September 1920</date> ein Treffen in <placeName ref="kbga-places-41">Marburg</placeName> vor und hatten um Mitwirkung <persName ref="kbga-actors-2151">Barths</persName> und <persName ref="kbga-actors-403">Thurneysens</persName> gebeten. Zu deren Teilnahme kam es dann nicht.</note> Was soll man dazu sagen? Ists Ernst? Ists nicht Ernst? Mir macht es den Eindruck, wir müßten das <foreign xml:lang="grc" rend="Ell">προσλαμβάνειν, μὴ εἰς διακρίσεις διαλογισμῶν</foreign> <ref type="can" subtype="bible" target="Röm.14.1">Röm. 14,1</ref>, das uns dieser Tage beschäftigte […], ein weiteres Mal in Anwendung bringen, so sauer es uns fallen mag. Irgendwie wollen sie sich, bei allem offenkundigen Joggelen,<note xml:id="n05">= Schwanken.</note> <hi rend="italic">mit</hi><pb xml:id="p401" ed="pga" break="no"/>bewegen, und da dürfen wir uns ihnen jedenfalls grundsätzlich nicht versagen. Ob wir dann den Gang ausgerechnet nach <placeName ref="kbga-places-41">Marburg</placeName>, der Stätte ihrer <hi rend="italic">und</hi> unsrer alten Ideale und Irrtümer, tatsächlich antreten, ist eine andere Frage. Auch das, ob wir ihnen nun einen «präzisierten» Vorschlag für ihre Konferenz unterbreiten wollen. Ich bin nicht recht dafür. Es ist <hi rend="italic">ihre</hi> Konferenz, und <hi rend="italic">sie</hi> müssen die <hi rend="italic">ganze</hi> Verantwortung dafür übernehmen. Wir unsrerseits würden ein weiteres Zusammenlaufen im Augenblick nicht für nötig halten, meinen das Nötigste gesagt zu haben und könnten höchstens andeuten: <hi rend="italic">wenn</hi> durchaus Zusammenkunft, <hi rend="italic">dann</hi> biblisches Thema. <hi rend="italic">Nicht</hi> freie Textwahl nach Pfarrermanier, sondern <hi rend="italic">ein</hi> größerer Text für alle Redner, als Stange, an die man sich halten muß. Und diesen Text müßten <hi rend="italic">sie</hi> vorschlagen, die Deutschen, damit es nicht aussieht, als ob … Festhalten an der Forderung, dieses Thema solle dann der ausschließliche Zweck der Versammlung sein. Offenlassen, ob wir kommen oder nicht kommen. […] Was denkst du? Willst du in <hi rend="italic">dir</hi> gutscheinendem Sinn ein Schreiben an sie abfassen (sie haben es wieder einmal eilig), dem ich mich dann mit ein paar Worten anschließen würde? — Wir werden übrigens allmählich auch Prälaten, wenn das so weitergeht, und müssen Vorkehrungen treffen, um das zu verhindern.</p>
+        <p>[…] Die Tage bei euch waren gut, — «wenn der Weg so weit nicht wär», wäre ich sofort wieder gekommen mit diesen Briefen.</p>
+        <p>[…]</p>
+        <closer>
+          <salute rendition="left">Herzlichst Dein</salute>
+          <signed rendition="right"><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+     
+      <postscript>
+        <p>Meine Füllfeder ist in Reparatur in <placeName ref="kbga-places-66">Zürich</placeName>; die Anstrengungen der letzten Jahre haben sie teilweise zu arg mitgenommen.</p>
+        <milestone xml:id="m26" unit="page"/>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

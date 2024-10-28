@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3029">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 22. April 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3029 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 38–39.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3029</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 38-39</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">29</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 27</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 22. April 1915. <ref target="https://kba.karl-barth.ch/objects/8781">KBA 9270.21</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-04-22">22. April 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-04-22">22. April 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3028"/>
+          <ref type="next" target="kbga-texts-3030"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3028"/>
+          <ref type="next-in-corresp" target="kbga-texts-3030"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:19+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:19+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+   
+    <body>
+     <div type="letter">
+<pb xml:id="p038" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1915-04-22">22. April 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Auch ich habe die Hornbrille wieder auf der Nase! Nachdem ich noch schöne Tage in <placeName ref="kbga-places-9">Bern</placeName> verlebt, dabei allerdings Frau Prof. <persName ref="kbga-actors-739">Rade</persName><note xml:id="n01"><persName ref="kbga-actors-739">Dora Rade</persName>, Gattin von Prof. <persName ref="kbga-actors-329">Martin Rade</persName>, Schwester von <persName ref="kbga-actors-706">Friedrich Naumann</persName>.</note> noch einmal über mich ergehen lassen mußte ohne erfreuliche Ergebnisse. […] Ich bin an meinem Seoner Vortrag<note xml:id="n02">Vortrag am <date when="1915-04-25">25.4.1915</date> in <placeName ref="kbga-places-426">Seon</placeName> über «<title level="m"><ref type="pub" target="48025">Christus und die Sozialdemokratie</ref></title>», bisher unveröffentlicht.</note> und er wird mir, wie überhaupt der Pfarrerlebtig,<note xml:id="n03">= das Pfarrerdasein.</note> wieder recht schwer. Unser psychoanalytischer Hausgenosse in <placeName ref="kbga-places-9">Bern</placeName>, Dr. <persName ref="kbga-actors-629">Jung</persName>, sprach mir zu: ich solle mich doch nicht immer um die Grundlegungen des Lebens bemühen, das zehre nur an der Gesundheit <pb xml:id="p039" ed="pga"/> und werde mich nie zur «Befriedigung» kommen lassen. Ich solle irgendeine Spezialität (Abstinenz oder so etwas) ergreifen und tüchtig betreiben. Dabei komme für mich und die anderen mehr heraus. Wenn man’s doch könnte! dürfte! In irgendein Horn stoßen, irgendwo mitmachen mit dem Jubelruf: das ists! Statt dessen rumort die Sehnsucht in einem herum, sich selbst und den Andern das Wesentliche zu zeigen, und läßt einem nicht einmal die Naivität, ein «packendes» Predigtlein oder Vorträglein zu bauen. Nun, also nicht, sondern mit Geknorz Gegendampf als «Unbefriedigter»! Ein Trost, daß man im Grunde den festesten Boden unter den Füßen hat und daß man nicht ganz allein ist. Aber den Sonnenuntergang zwischen den Beinen durch ansehen, wollen wir nie machen, das geht zu weit.</p>
+        <p>Laß du meinen Vortrag fahren und trink schwarzen Kaffee im Pfarrhaus, das ist gescheiter. Du weißt ja alles längst, was ich sage, und könntest es viel besser sagen. Die <orgName ref="kbga-actors-6132">Schweizer Parteileitung</orgName> in <placeName ref="kbga-places-66">Zürich</placeName> hat mich frecherweise ohne Anfrage als 1. Mai-Referenten in <placeName ref="kbga-places-439">Trimbach</placeName> publiziert. Ich lehne kalt ab. So lasse ich mich nicht in den Sack stecken. […]</p>
+        <closer>
+          <salute>Herzlichen Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

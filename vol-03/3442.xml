@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3442">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 6. September 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3442 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 517–518.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3442</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 517-518</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">442</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 431</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 6. September 1921. <ref target="https://kba.karl-barth.ch/objects/11300">KBA 9270.326</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-09-06">6. September 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-09-06">6. September 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3441"/>
+          <ref type="next" target="kbga-texts-3443"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3441"/>
+          <ref type="next-in-corresp" target="kbga-texts-3443"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:48+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:48+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p517" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1921-09-06">6. September 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Auch ich freue mich von Herzen mit euch, daß ihr über den Berg seid, und grüße das kleine <persName ref="kbga-actors-802">Kätterli</persName> in unserm Bunde. Was mag dem Guten alles bevorstehen in diesem seltsamen Erdental! Aber vorläufig hat es das freudige Recht, sich ganz selbständig darin umzusehen, und wer weiß, ob es nicht, wenn es eine Jungfrau geworden ist, mit andern Jungfrauen und Jünglingen den Kopf schütteln wird über alles das, was sein Vater und seine Freunde sich jetzt zusammendenken. Ich hoffe doch wirklich manchmal auf eine Zeit, wo man wieder <hi rend="italic">etwas</hi> mehr Luft hat, als wir es jetzt haben, obwohl ich mir nicht vorstellen kann wie? und obwohl ich nicht denke, daß wir daran noch teilnehmen. Und in der <hi rend="italic">Hauptsache können</hi> wir ja unsern Kindern nicht etwas anderes wünschen, als sie möchten einmal auch wissen, was wir jetzt wissen — müssen oder dürfen. Grüße <persName ref="kbga-actors-1285">Marguerite</persName> recht herzlich auch von mir, gelt!</p>
+        <p>Am Sonntag hat <persName ref="kbga-actors-669">Karl Lindt</persName> hier gepredigt und scheint große Chancen zu haben. Die Predigt ging leider zu wenig aus dem gewohnten Pfarrerschema heraus. Er behauptet, das mit Absicht so zu machen, was ich ihm in längeren Reden auszureden versuchte. Im übrigen verstanden wir uns gut. […]</p>
+        <p>Hier Röm. 13.<note xml:id="n01">Ein Manuskript von <persName ref="kbga-actors-403">Thurneysen</persName>.</note> Ich habe mächtig mit deinem Kalbe gepflügt, wie du siehst, und bin dir höchst dankbar. Wenn ich in <placeName ref="kbga-places-27">Göttingen</placeName> einmal Ethik lese, werde ich dieses Manuskript wieder einfordern. Es ist wirklich trefflich, viel besser als das, was ich nun an die «scharfe Kurve» des Textes gebunden und auch sonst davon wenig erleuchtet, herausgebracht habe. Ich nehme nun die 2. Hälfte von Röm. 13 zusammen unter dem Titel «<bibl corresp="kbga-bibls-48"><ref type="pub" target="../volume/47/p658#p658">Die große <hi rend="italic">positive</hi> Möglichkeit</ref></bibl>»: Liebe und Parusie. Es hängt ja im Text ausdrücklich zusammen.</p>
+        <p><placeName ref="kbga-places-27">Göttingen</placeName> kommt wie ein Gespenst immer näher. Alles was ich von Universitäten, Fakultäten, Professoren und Wissenschaft lese, ist so absurd. Ich wollte oft am liebsten ab, auf den Mond oder wohin man will, nur nicht nach <placeName ref="kbga-places-27">Göttingen</placeName>. Dazu bin ich all<pb xml:id="p518" ed="pga" break="no"/>mählich rechtschaffen ermüdet. Aber die Zeit eilt unerbittlich, und eines schönen Morgens werde ich unerbittlich dort sein und den Deutschen irgendetwas mitteilen müssen […]</p>
+        <p>Willst du es übernehmen, statt meiner <persName ref="kbga-actors-776">Siebeck</persName> wieder einmal zu schreiben? Mir ists fast unmöglich.</p>
+        <closer>
+          <salute/>
+          <salute rendition="left">1000 Grüße!</salute>
+          <signed rendition="right"><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

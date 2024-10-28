@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3081">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 21. November 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3081 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 102a–104.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3081</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 102a-104</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">81</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 78</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 21. November 1915. <ref target="https://kba.karl-barth.ch/objects/8995">KBA 9270.61</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-11-21">21. November 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-11-21">21. November 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3080"/>
+          <ref type="next" target="kbga-texts-3082"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3080"/>
+          <ref type="next-in-corresp" target="kbga-texts-3082"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:23+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:23+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p102" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-11-21">21. November 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ob ich dich morgen in <placeName ref="kbga-places-783">Kulm</placeName> <orgName ref="kbga-actors-8246">treffe</orgName>? Ich habe im Sinn hinzugehen, da <persName ref="kbga-actors-9778">La Roche</persName> mich noch expreß hat kommen heißen und es möglicherweise zu nützlichen Gesprächen kommen könnte. […] Wir sind sehr einverstanden mit deinem Eindruck von meinem <ref type="pub" target="48031">Vortrag</ref>. Es war eben wirklich, wie ich schon am Abend selbst empfand, ein Schlag an die Wand und kein «Durchbruch». Warum nicht? Ich suchte mir am Dienstag Abend mit <persName ref="kbga-actors-27">Peter</persName> intellektuell zurechtzulegen, wie der Vortrag hätte laufen müssen, um die Gegenreden und Bedenken der andern von vornherein zu paralysieren, nein, positiv fruchtbar in das Ganze unserer Anschauung hineinzunehmen. Es hatte mir ja schon <hi rend="italic">vorher</hi> ein solches «hereinnehmen» aller andersartigen religiösen Positionen vorgeschwebt, <pb xml:id="p103" ed="pga"/> und was du in deinem Votum Punkt I sagtest, wies auch darauf hin. Und doch bin ich eigentlich froh, es nun nicht anders gemacht zu haben. Denn es war ehrlicher so <hi rend="italic">für mich</hi>. Denn ich empfinde nun einmal tatsächlich, so richtig ich deinen Einwurf finde, die Abwesenheit Gottes in den innerweltlichen Kreisen, die ich im 1. Teil beschrieb, stärker als seine Anwesenheit, sein Hereinragen in diesen Kreisen. <persName ref="kbga-actors-420">Wernle</persName> hat mein Empfinden mit dem Schimpfwort «apokalyptisch» nicht ganz unrichtig aufgefaßt, und es war besser, das kam nun etwas naiv zum Vorschein, als wenn ich es durch eine stärkere positive Wertung des Innerweltlichen durch eine <hi rend="italic">für mich</hi> mehr intellektuelle als religiös aufrichtige Wendung und Umgruppierung meiner Gedanken verhüllt hätte. Verstehst du mich? Ich empfinde die Härte und Hölzernheit meiner Gedanken, wie sie jetzt herauskamen, auch als innerlich-religiöses Manko. Wenn diese gewisse Härte und Dürftigkeit nun gerade bei der mehr kühlen rechnerischen Art meines <hi rend="italic">Vortrags</hi> gegenüber der <hi rend="italic">Predigt</hi>methode (wo die Liebe der Sünden Menge deckt!! [vgl. <ref type="can" subtype="bible" target="1.Petr.4.8">1.Petr 4,8</ref>]) zum Vorschein kam, so war das objektiv sicher kein Schade, und ich bin froh, gleichsam zu meiner eigenen Entlarvung nicht gepredigt, sondern, wie du gut sagst, abgerechnet zu haben. Wenn <persName ref="kbga-actors-420">Wernle</persName> seinen Teil bei dieser Abrechnung übersehen und nachher fröhlich seine alten Schlagtotformeln gehandhabt hat wie vorher, so ist das seine Sache. Ich für mich bin froh, daß mein eigenes Manko dabei ziemlich sauber herausgekommen ist, und suche nun weiter in der gleichen Form.</p>
+        <p>Etwas muß ich dir nachträglich noch gestehen. Ich habe in meinem Schlußvotum auch deinem Punkt II — Dankbarkeit gegen die moderne Theologie — zugestimmt, eigentlich ein wenig unbesehenerweise. Nachträglich mußte ich mir sagen, daß ich ehrlicherweise dazu hätte schweigen oder — sehr mißlich! — dir widersprechen müssen. Ich empfand folgenden Tags bei meinem Besuch bei <persName ref="kbga-actors-420">Wernle</persName> sehr stark, daß diese modernen Theologen <hi rend="italic">mir</hi> wenigstens sozusagen <hi rend="italic">nichts</hi> mehr zu bieten haben als den Widerspruch, der einen auf eigene Torheiten und Schwachheiten aufmerksam macht, und wofür ich ja sehr dankbar bin. Gerade in bezug auf <pb xml:id="p104" ed="pga"/> Jesus haben uns diese Leute doch einfach <hi rend="italic">irre</hi>geführt mit ihrer langweiligen Zeitgeschichte. Der <persName ref="kbga-actors-420">Wernle</persName>’sche Jesus speziell, soweit er mir gerade in diesen Tagen wieder entgegengetreten ist, ist eine Figur, die mich völlig kalt läßt, trotz der (mich oft künstlich überhitzt anmutenden) Begeisterung, mit der er sie einem anpreist. Haben wir nicht alles, was uns an Jesus wichtig ist, anderswoher als von diesen modernen Theologen? Wir mußten ja offenbar durch diese Schule hindurch, und es fällt mir nicht ein, hinterdrein mit den Herren hadern zu wollen, daß sie uns nicht das geboten haben, was unsere Väter z. B. an <persName ref="kbga-actors-35">J. T. Beck</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-35">Johann Tobias Beck</persName> (1804–1878), Prof. für systematische Theologie in Basel und Tübingen.</seg></note> hatten; aber ihnen noch extra <hi rend="italic">danken</hi> für den Umweg, zu dem sie uns veranlaßten, und für diese Aufenthalte bei lauter Nebensächlichem, zu dem sie uns jetzt immer wieder veranlassen wollen, das geht nun eigentlich doch nicht. Nur wenn dein Bekenntnis zu diesen Herren ganz plusquamperfektisch gemeint war, könnte ich dir zustimmen. <hi rend="italic">Jetzt</hi> sehe ich auf dieser Seite nichts Vorwärtsführendes mehr. Wir mögen noch <hi rend="italic">sehr</hi> in den Kinderschuhen stecken, es kommt mir wirklich auch so vor, aber ich glaube nicht, daß bei <persName ref="kbga-actors-420">Wernle</persName> und Cons[orten] noch etwas zu holen und zu lernen ist für uns, positiv nämlich.</p>
+        <p>Ich schicke dir hier noch meine <ref type="pub" target="27047">Einleitungspredigt</ref> zu euern Vorträgen von heute morgen. Nicht zur Erbauung […] aber vielleicht zur Orientierung, weil du am Mittwoch den Schlußpunkt zu setzen hast. Ich habe keine Ahnung, ob die Leute kommen und andauernd kommen werden. Die Predigt heute Morgen war gut besucht, die Kirchenpflege war in corpore da. Sie benimmt sich überhaupt sympathisch. […]</p>
+        <p>Nun wird mein <persName ref="kbga-actors-684">Heilsarmeefreund</persName> bald anrücken. Ich erwarte alles Gute von ihm. […] Die <ref type="pub" target="27044">Predigt</ref> über <ref type="can" subtype="bible" target="Neh.8">Neh. 8</ref> ist noch bei dir, nicht? Schick mir jetzt auch wieder einmal etwas von dem Deinigen.</p>
+        <closer>
+          <salute>Herzlichen Gruß senden dem einsamen Gevatter und «Onkel»</salute>
+          <salute>Deine</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName>, <persName ref="kbga-actors-26">Nelly</persName>, <persName ref="kbga-actors-5802">Fränzeli</persName>, <persName ref="kbga-actors-24">Markus</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

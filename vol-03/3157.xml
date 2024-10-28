@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3157">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. Mai 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3157 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 196–197.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3157</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 196-197</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">157</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 154</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9418">KBA 9270.116</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-05-07">7. Mai 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-05-07">7. Mai 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3156"/>
+          <ref type="next" target="kbga-texts-3158"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3156"/>
+          <ref type="next-in-corresp" target="kbga-texts-3158"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:28+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:28+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p196" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-05-07">7. Mai 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Herzlichen Dank, daß ich kommen darf! Ich werde morgen Dienstag Abend mit Freuden etwa um 7 Uhr das Brücklein überschreiten, mit ein paar Predigten im Sack, dagegen die Unterweisung daheimlassend, da sie zu viel ungelegte Eier enthält und vor dem Pleroma der deinigen doch nicht bestehen kann. Zur Fortsetzung des <bibl corresp="kbga-bibls-1497">Römerbriefs</bibl> rüste ich mich eben durch Aufsuchung von allerhand Anschauung, letzte Woche lauter Pietisten und ihre Feinde, jetzt bin ich an <persName ref="kbga-actors-789">Steffens</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-789">Henrik Steffens</persName> (1773–1845), Naturphilosoph, Freund <persName ref="kbga-actors-356">Schellings</persName>, Professor in Halle und Berlin</seg>: <bibl corresp="kbga-bibls-4050"><title level="m">Christliche Religionsphilosophie</title>, 2 Bände, Breslau 
+                        1839.</bibl></note> Religions(= Natur!) philosophie. Das ist ein schönes Buch, das mich stark an <persName ref="kbga-actors-240">Kutter</persName> erinnert, unsern Idealisten allerdings ein Ärgernis und eine Torheit und darum begreiflicherweise verschollen. An die Laupener habe ich am Samstag ein großes Sendschreiben über gemeinsame Sachlichkeit und Einigkeit im Geist gerichtet unter kräftiger Abgrenzung gegen den «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>»-Geist und Kirchengeist. Gestern im <pb xml:id="p197" ed="pga"/> <orgName ref="kbga-actors-8613">Blaukreuz</orgName> Sprüche über die noch nicht gegrabenen «Brünnlein Gottes». Am Morgen <ref type="pub-" target="32019">Frühlingspredigt</ref> mit realistischer Ablehnung der pietistischen Hybris. […]</p>
+        <closer>
+          <salute>Herzlich grüßen euch</salute>
+          <salute><persName ref="kbga-actors-26">Nelly</persName>, die Kindlein und euer</salute> 
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

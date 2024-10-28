@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3166">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 1. Juni 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3166 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 205–206.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3166</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 205-206</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">166</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 162</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 1. Juni 1917. <ref target="https://kba.karl-barth.ch/objects/9453">KBA 9370.193</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-06-01">1. Juni 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1917-06-01">1. Juni 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3165"/>
+          <ref type="next" target="kbga-texts-3167"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3165"/>
+          <ref type="next-in-corresp" target="kbga-texts-3167"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p205" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1917-06-01">1. Juni 1917</date>
+          </dateline>
+          <salute>Liebe Freunde,</salute>
+        </opener>
+        <p>Es ist allerlei gegangen seit meinem letzten Sendschreiben an euch. Z.B. ist der Aarauer Konferenzbericht<note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4046"><title level="m">Die XXI. Christliche Studenten-Konferenz. Aarau 1917. Den 12. bis 14. März</title>, Bern
+                            1917.</bibl> Darin S. 16–45: <bibl corresp="kbga-bibls-4058"><persName ref="kbga-actors-757">A. Schädelin</persName>, <title level="m">Verheißung und Erfüllung</title>.</bibl>
+               </note> eingetroffen, und ich habe <persName ref="kbga-actors-757">Schädelins</persName> vortreffliche Arbeit gelesen. Sie hat mir starken Eindruck gemacht. Jetzt liegt wieder ein Wort vor, auf das wir verweisen können, wenn man uns fragt, was wir eigentlich wollen. Mir ist an seiner Arbeit nebenbei auch das wichtig, daß man merkt, daß die historisch-kritischen Fragestellungen darin auch verarbeitet sind, aber eben verarbeitet, es ist nicht dieses ewige Darüberstolpern und damit Wichtigtun, sondern es ist wirklich die Sache, die wichtig wird, ohne daß <persName ref="kbga-actors-757">Schädelin</persName> deswegen in ein biblizistisch-harmloses Reden verfiele, sondern es ist der «Schriftgelehrte zum Reiche Gottes gelehrt» [vgl. <ref type="can" subtype="bible" target="Mt.13.52">Mt 13,52</ref>], der da redet. Meine Konferenzpredigt<note xml:id="n02">
+                        <bibl corresp="kbga-bibls-4044"><persName ref="kbga-actors-403">E. Thurneysen</persName>, <title level="m">Gotteshilfe</title>, ebd. S. 5–15.</bibl>
+                    </note> ist daneben mehr nur ein zaghafter Stoß ins große Horn, ich tröste mich aber, daß sie mit <persName ref="kbga-actors-757">Schädelins</persName> Block und Wurf sehr viel enger zusammenhängt als mit dem andern Inhalt des Berichtes. Ich habe meine Predigt auch an einige andere Schriftgelehrte und Propheten gesandt. Sie hat aber nicht viel Widerhall geweckt. […]</p>
+        <p>Ich habe gegenwärtig Mühe mit dem Predigen, lese aber <persName ref="kbga-actors-851">Zündel</persName>, <persName ref="kbga-actors-612">Hofacker</persName>- und <persName ref="kbga-actors-47">Blumhardt</persName>predigten und eine Geschichte der Reformation. Was sagst du zu <persName ref="kbga-actors-330">Ragazens</persName> Predigt<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4059"><persName ref="kbga-actors-330">L. Ragaz</persName>, <title level="a">Was der Einzelne kann</title> (Predigt über <ref type="can" subtype="bible" target="1.Kor.3.9">1.Kor 3,9</ref>), in: Neue Wege, Jg. 11 (1917), S. 219–231.</bibl>
+                    </note> von den Men<pb xml:id="p206" ed="pga" break="no"/>schen, die Gottes Mitarbeiter sein sollen, und zu seinem erneuten Brief über <persName ref="kbga-actors-841">Wilson</persName>?<note xml:id="n04">
+                        <bibl corresp="kbga-bibls-4060"><title level="m">Warum Amerika Krieg führt</title> (Brief eines ungenannten Deutsch-Amerikaners an L. Ragaz), ebd. S. 268ff.</bibl>
+                    </note> […]</p>
+        <p>Als letztes hier noch drei Predigten von drei berühmten Stadtpfarrern ungefähr zur gleichen Zeit gehalten — ist es das nun? Wir wollen noch nicht Stadtpfarrer werden!</p>
+        <closer>
+          <salute rendition="left">Mit herzlichem Gruß an euch alle</salute>
+          <signed rendition="right">wir beide</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3195">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 26. Oktober 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3195 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 237–238.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3195</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 237-238</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">195</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 190</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 26. Oktober 1917. <ref target="https://kba.karl-barth.ch/objects/9617">KBA 9270.148</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-10-26">26. Oktober 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-10-26">26. Oktober 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3194"/>
+          <ref type="next" target="kbga-texts-3196"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3194"/>
+          <ref type="next-in-corresp" target="kbga-texts-3196"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:31+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p237" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-10-26">26. Oktober 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>[…] Von unserm Marsch kamen wir am Montag alle wieder glücklich heim, ich allerdings wie üblich etwas bedenklich gemacht durch allerlei, was du mir sagtest und nicht sagtest: <placeName ref="kbga-places-54">Safenwil</placeName> und meine sämtlichen Predigtvorstöße seit <placeName ref="kbga-places-440">Risch</placeName>,<note xml:id="n01">Vgl. <ref type="pub" target="3163#fn_n01">Anm. 1 zum Brief vom <date when="1917-05-22">22.5.1917</date></ref>.</note> diese permanente und permanent steckenbleibende Offensive — was soll das eigentlich? Wie lange noch? Wo haperts eigentlich? […] Die Engel hören sicher meine Predigten mit sehr gemischten Gefühlen, […] und ich bitte dich um alles dir zugängliche Licht über mein «Eifern mit Unverstand» [vgl. <ref type="can" subtype="bible" target="Röm.10.2">Rm 10,2</ref>]. Du hast mich ja schon ein paarmal besser verstanden als ich mich selbst. — Wäre doch die fatale Reformationswoche<note xml:id="n02">Vierhundertjahrfeier der Reformation.</note> schon vorüber. Ich wollte wahrhaftig auch da mit meinem Stillsitzen nicht ein prophetisches Zeichen tun wider Jerusalem, und doch läuft es nun fast darauf hinaus; denn ich sehe mit Grauen, wie die Lokalanzeiger und Kirchenzeddel sich füllen mit Ankündigungen von herrlichen Vorträgen und andern «Türken». In <placeName ref="kbga-places-441">Schönenwerd</placeName> wird der «Ernst» der Feier unterstrichen durch die Mitteilung, daß [nach dem Vortrag] keine Konsumation stattfinde! <persName ref="kbga-actors-543">Hans Faber</persName> verteilt ohne zu erröten den Helgen<note xml:id="n03">= Bild.</note> mit dem schwindsüchtigen <persName ref="kbga-actors-261">Luther</persName> vorn und der Kirche hinten, in <placeName ref="kbga-places-243">Kölliken</placeName> bereiten sich förmliche Orgien vor: <persName ref="kbga-actors-595">Haller</persName> rühmte mir, daß sogar die Lehrer «religiöses Verständnis» hätten, übten sie doch willig eine Motette ein auf die Worte «O welch eine Tiefe …», von anderm zu schweigen. Zwischen all dem drin nun wir hier mit unserm <pb xml:id="p238" ed="pga"/> Wald von leeren Bänken mit kopfschüttelnden Frauen, konstant entrüsteten Kirchenpflegern — und nun also noch über die ganze Festwoche meine unheimliche Stille. Auch da wieder: was soll da werden? <hi rend="italic">Ich</hi> weiß es jedenfalls nicht, lebe gänzlich prospektlos und weiß nur, daß es auch da nicht anders sein kann. Wie bringt einen doch die Kirche in die Tinte, d.h. in die Opposition und <foreign xml:lang="eng">splendid isolation</foreign>, auch wenn man gar nichts tun will als eben <hi rend="italic">seinen</hi> Weg gehen. Könnte man doch etwas Anderes sein als Pfarrer, wo man immer wieder in so närrische Situationen kommt! Im vorliegenden Fall bin ich nun schon so weit, mich mit L. und andern Weltkindern zu trösten, die mit ebensolcher Unbewegtheit wie ich an dem Reformationsjubel vorbeigehen werden, wie ich es ja übrigens in jenem <ref type="pub" target="48049">Lehrerinnenvortrag</ref> selbst beschrieben habe. Aber wöhler wäre es mir doch, wenn ich zu dem Religionsgetriebe, an das man nun als Pfarrer einmal geschmiedet ist, eine etwas nachsichtigere Stellung einnehmen könnte. Wenn du mir darüber wiederum aus <hi rend="italic">letzten</hi> Boller Gesichtspunkten (die mir eben fehlen) auch Einiges eröffnen könntest, so würde ich es dankbar hinnehmen. Am Montag haben wir Gemeinderatswahl mit zwei sozialistischen Kampfkandidaten, die ziemlich sicher durchfallen werden. […]</p>
+        <p>Ich bin tagaus tagein an <bibl corresp="kbga-bibls-1497">Römer 6-8</bibl> und habe noch viel Arbeit vor mir, bis ich zur Interpretation gehen kann (in der Klause meines <persName ref="kbga-actors-21">Vaters</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-21">Fritz Barth</persName> (1856–1912), Pfarrer in <placeName ref="kbga-places-417">Reitnau</placeName> (Aargau), Lehrer an der Predigerschule <placeName ref="kbga-places-5">Basel</placeName>, Prof. für Kirchengeschichte in <placeName ref="kbga-places-9">Bern</placeName>.</seg></note> in <placeName ref="kbga-places-9">Bern</placeName>). Am Abend lese ich jeweilen moderne Theologen über <persName ref="kbga-actors-313">Paulus</persName> und staune immer mehr über die Welt, die sich das alles bieten läßt. Auch über die Geduld und Langmut Gottes, der längst mit einem Erdbeben hätte Schluß erklären können.</p>
+        <closer>
+                    <salute><persName ref="kbga-actors-26">Nelly</persName> begrüßt dich freudig samt <persName ref="kbga-actors-1285">Marguerite</persName>, und unsre drei
+Kleinen jubeln euch im Chor zu</salute>. <salute>Dein</salute>
+                    <signed><persName ref="kbga-actors-2151">Karl B.</persName></signed>
+                </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

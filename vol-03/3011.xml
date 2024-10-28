@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3011">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 25. September 1914</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3011 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 11–13.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3011</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 11-13</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">11</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 9</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 25. September 1914. <ref target="https://kba.karl-barth.ch/objects/8619">KBA 9270.11</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1914-09-25">25. September 1914</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1914-09-25">25. September 1914</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3010"/>
+          <ref type="next" target="kbga-texts-3012"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3010"/>
+          <ref type="next-in-corresp" target="kbga-texts-3012"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p011" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1914-09-25">25. September 1914</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ich bin also auf dem <placeName ref="kbga-places-1285">Zürichberg</placeName> […] in der Villa meines Schwagers<note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-640">Richard Kisling</persName> (1862–1917), Kaufmann und Kunsthändler, verheiratet mit <persName ref="kbga-actors-5831">Hedwig K. geb. v. Hoffmann</persName></seg>.</note> und blicke mit der Gelassenheit der besitzenden Klasse auf den Hexenkessel da unten. Ziemlich seltsam komme ich mir zwar vor am Schreibtisch meines Schwagers! Ich wäre auch gern nach <placeName ref="kbga-places-9">Bern</placeName> gekommen, aber es war wieder einmal des Reisens und Ausfliegens etwas viel geworden in letzter Zeit, und so mußte ich verzichten. […] Willst du mir dann ein paar Worte schreiben, wie es gewesen ist? Ihr solltet nicht versäumen, <persName ref="kbga-actors-420">Wernle</persName> gegenüber einmal recht deutlich zu reden. Ich kann seine zwei letzten Artikel immer noch nicht verputzen. Über die <orgName ref="kbga-actors-9902">Berner Zusammenkunft</orgName> hörte ich schon durch <persName ref="kbga-actors-853">Zulauf</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-853">Fritz Zulauf</persName> (1885–1965), religiössozialer Pfarrer in Delsberg, Studienkamerad Barths.</seg></note> in <placeName ref="kbga-places-1338">Delsberg</placeName> (die einzige «Ruine» meiner bernischen <orgName ref="kbga-actors-2687">Zofinger</orgName>zeit!). <persName ref="kbga-actors-27">Peter</persName> ist seit acht Tagen wieder aus <placeName ref="kbga-places-41">Marburg</placeName> zurück. Seine Anwesenheit dort war von <persName ref="kbga-actors-329">Rade</persName> selbst dringend gewünscht worden, der sich scheints durch Peters und meinen energischen Protest gegen die Haltung der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>» stark gekränkt und überrascht und betroffen fühlte (alles aufs Mal scheints!). Es scheint <persName ref="kbga-actors-329">Rade</persName> mehr an uns Schweizern gelegen zu sein, als wir denken. Es gab dann eine große Aussprache <pb xml:id="p012" ed="pga"/> in Gegenwart von <persName ref="kbga-actors-293">Natorp</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-293">Paul Natorp</persName> (1854–1924), Prof. für Philosophie in Marburg</seg>.</note> und <persName ref="kbga-actors-181">Herrmann</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-181">Wilhelm Herrmann</persName> (1846–1922), Prof. für systematische Theologie in Marburg, Lehrer Karl Barths</seg>.</note> und <persName ref="kbga-actors-792">Stephan</persName><note xml:id="n05"><seg type="bio"><persName ref="kbga-actors-792">Horst Stephan</persName> (1873–1954), Prof. für systematische Theologie in Marburg und Leipzig.</seg></note>. <persName ref="kbga-actors-329">Rade</persName> beabsichtige auch, einen Brief von mir und seine Antwort darauf in der «<orgName ref="kbga-actors-4524">Zeitschrift für Theologie und Kirche</orgName>» abzudrucken<note xml:id="n06">Der Briefwechsel erschien nicht dort, sondern in <bibl corresp="kbga-bibls-3805">«Neue Wege». Vgl. <ref type="pub" target="3010#fn_n01">Anm. 1</ref> zum Brief vom 4.9.1914.</bibl>
+               </note> (ganz <persName ref="kbga-actors-329">Rade</persName>!). Doch habe ich unterdessen nichts weiter davon gehört. <persName ref="kbga-actors-27">Peter</persName> sagt, man könne sich bei uns keine Rechenschaft geben von dem ungeheuren Druck, unter dem sie jetzt dort draußen stehen. Ganz <placeName ref="kbga-places-41">Marburg</placeName> voll Verwundete, kaum ein Haus schon jetzt ohne einen Toten oder mehrere. Gestern hörte ich übrigens hier aus einem Privatbrief eines deutschen Militärarztes, daß einzig in drei Spitälern an der belgischen Grenze an 130 verwundete Deutsche mit ausgestochenen Augen gepflegt werden. Was müssen solche Détails aus der Nähe erlebt für seelische Reaktionen bewirken! Kann man sich wundern über die Katastrophe des Christliche-Welt-Christentums? Wie würden wir bestehen in solcher Lage? Eine Katastrophe bleibt es freilich trotz allem, dieses Verhalten unsrer Freunde draußen. <persName ref="kbga-actors-293">Natorp</persName>!! Und dabei ist die «<orgName ref="kbga-actors-4183">Christliche Welt</orgName>» noch etwas vom Gemäßigtsten, was jetzt geschrieben wird, und hat viele Anfechtungen zu erdulden wegen mangelnden nationalen Bewußtseins. Wie es im Durchschnitt jetzt tönen mag von den deutschen Kanzeln, ist ganz unabsehbar. Wie wird es werden, wenn sie einmal erwachen werden aus diesem ganzen fürchterlichen Irrtum? Woher soll die notwendige neue Orientierung kommen? Wenn irgend einmal, so möchte man jetzt Gott bitten, Propheten aufstehen zu lassen. <hi rend="italic">Wir</hi> sind es jedenfalls nicht mit unsern paar Sprüchen, wenn wir jetzt auch ein klein wenig weiter sehen als die draußen. Auch <persName ref="kbga-actors-240">Kutter</persName> und <persName ref="kbga-actors-330">Ragaz</persName> nicht. Ich habe beide besucht und war eigentlich von beiden etwas enttäuscht. Bei <persName ref="kbga-actors-330">Ragaz</persName> störte mich eine gewisse unangenehme Sicherheit («wir haben es immer gesagt»), und <persName ref="kbga-actors-240">Kutter</persName> fand ich in einem bei ihm mir ganz unbegreiflichen Interesse für die Détails der Zeitgeschichte und in einer noch unbegreiflicheren Parteinahme für <orgName ref="kbga-actors-7792">Deutschland</orgName> und dessen relativ gerechtere Sache. Er war von diesem Thema fast nicht abzubringen, und während man ihm sonst so gerne zuhört, kommen mir seine vorgetragenen politischen Meinungen trotz allerlei Lichtblicken und -blitzen eher wunder<pb xml:id="p013" ed="pga" break="no"/>lich vor. Ich werde ihn am Sonntag predigen und kinderlehren hören und bin gespannt darauf. Es war mir auch unerfreulich, in welchem <hi rend="italic">Ton</hi> er […] von den andern Pfarrern redete, die jetzt bis an den Hals von Unterstützungsarbeiten in Anspruch genommen sind. Natürlich ist ja diese Betriebsamkeit etwas höchst Problematisches, natürlich rächt sie sich dann in der Untiefe der Predigten, die diese Leute halten (ich hörte am Mittwoch <persName ref="kbga-actors-456">Bachofner</persName><note xml:id="n07"><seg type="bio"><persName ref="kbga-actors-456">Paul Bachofner</persName>, Pfarrer am Fraumünster in Zürich.</seg></note> im <placeName ref="kbga-places-904">Fraumünster</placeName> und fand ihn ziemlich 2-3), aber ein überlegener Geist könnte nicht so davon reden, mit solcher Selbstbespiegelung, wie <persName ref="kbga-actors-240">Kutter</persName> es gestern tat. Gestern Abend traf ich in einer Einladung mit Pfarrer <persName ref="kbga-actors-636">Keller</persName><note xml:id="n08"><seg type="bio"><persName ref="kbga-actors-636">Adolf Keller</persName> (1872–1963), einer der Initianten der ökumenischen Bewegung in Europa, Sekretär des Schweiz. Kirchenbundes.</seg></note> zusammen, war aber auch von ihm gar nicht befriedigt, in anderer Hinsicht wieder. Ich bin doch ein heillos selbstgerechter Mensch, nichtwahr? Ich kam gewiß hieher, um zu lernen und zu hören, aber was ich bis jetzt sah von den Propheten, hat mich nicht groß erbaut und gestärkt. Ich hatte von unsern bescheidenen Zusammenkünften mehr. Doch habe ich ja eine Expedition nach <placeName ref="kbga-places-1339">Außersihl</placeName><note xml:id="n09">In Zürich Außersihl wirkten die religiössozialen Pfarrer <persName ref="kbga-actors-457">Hans Bader</persName> (1875–1935), einer der Anreger und Führer der schweizerischen Religiössozialen, und <persName ref="kbga-actors-807">Emanuel Tischhauser</persName> (1868–1943).</note> noch vor mir und so manches andere und hoffe doch noch zu meiner beabsichtigten Ernte zu kommen. In der übrigen Zeit lese ich von und über — <persName ref="kbga-actors-500">Bismarck</persName>. Mein Schwager hat eine ganze Literatur über ihn, und so nahm ich die Gelegenheit wahr. Ich wollte eigentlich eine <persName ref="kbga-actors-216">Kant</persName>- und <persName ref="kbga-actors-551">Fichte</persName>-Repetition vornehmen da oben und hoffe, es komme doch noch dazu. […] Ich habe noch öfters nachgedacht über unser Gespräch bei deinem letzten Besuch bei mir. Eigentlich habe ich allerlei nicht verstanden, besonders deine Aussprüche über das Wunder nicht. Und inwiefern man wirklich alles vom Standpunkt des lieben Gottes aus betrachten solle und könne, ist mir auch noch mehr Problem als dir, obwohl ich das Großzügige dieser Auffassung wohl empfinde. Andrerseits empfinde ich dann doch wieder eine gewisse Vorliebe für das Konkrete und Unzweideutige. Jedenfalls werde ich dir gerne ein nächstes Mal, hoffentlich bald, zuhören, und du wirst ja schon Geduld mit mir haben. […] Für heute genug. Heute Abend gehe ich sogar ins Theater. Von den Cigarren meines Schwagers ganz zu schweigen!</p>
+        <closer>
+          <salute>Mit freundlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

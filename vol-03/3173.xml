@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3173">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 17. Juli 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3173 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 214–215.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3173</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 214-215</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">173</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 168</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 17. Juli 1917. <ref target="https://kba.karl-barth.ch/objects/9482">KBA 9370.199</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-07-17">17. Juli 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1917-07-17">17. Juli 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3172"/>
+          <ref type="next" target="kbga-texts-3174"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3172"/>
+          <ref type="next-in-corresp" target="kbga-texts-3174"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p214" ed="pga"/>
+        <opener>
+        Thurneysen
+          <dateline>
+            
+            <date when="1917-07-17">17. Juli 1917</date>
+          </dateline>
+          <salute>Liebe Freunde,</salute>
+        </opener>
+        <p>Hier allerlei vom Tage. Nr. 1 Brief von <persName ref="kbga-actors-316">Pestalozzi</persName> mit Auskünften über die wahren Gesinnungen der Außersihler Pfarrer. Man ersieht daraus deutlich, wie in der Außersihler Kirchenpflege keiner dem andern über den Weg traut, und wie jeder den Versuch macht, den zu wählenden Jugendpfarrer von vornherein für sich in Beschlag zu nehmen. Jeder hat kirchen- und parteipolitische Erwägungen und von daher bestimmte Absichten im Blick auf das Jugendpfarramt. Es herrscht da jetzt schon ein seltsames Schieben und Schachern. O Kirchenpolitik! O Parteiwesen! Natürlich ist uns nun klar, daß wir absagen und alle weitern Schritte unterlassen.</p>
+        <p>Weiter der Artikel im «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>», woraus sich ergibt, daß unsre Bündnerfreunde, <persName ref="kbga-actors-564">Gerber</persName> und Cie., nun plötzlich kirchenratsfähig werden und an der neuen Kirchenverfassung mitarbeiten wollen. Ein gefährlicher Weg! Ob es ihnen gelingt, dabei der Sache treu zu bleiben?</p>
+        <p>Ich bin dieser Tage noch einmal hinter die Lektüre der Schaffhauser Pfarrer <persName ref="kbga-actors-782">Spleiß</persName> und <persName ref="kbga-actors-621">Hurter</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-621">Friedrich von Hurter</persName> (1787–1865), Antistes in Schaffhausen, trat zum Katholizismus über.</seg></note> gegangen. <persName ref="kbga-actors-782">Spleiß</persName> ist wirklich ein selten kräftiger Pietist. Wäre er nur aufrecht und gerade seinen Weg weitergegangen! Ein Hauptfehler bei ihm ist doch, daß er seine Erkenntnisse und Tiefblicke in die Zusammenhänge von Natur und Gnade nicht zu einem Entweder-Oder zusammenfaßt und damit zum Zentrum hindurchbricht, wie es beim altern <persName ref="kbga-actors-48">Blumhardt</persName> mit seiner Einsicht in die Wahrheit von Pfingsten geschehen ist. Da zeigt es sich, daß man alle Erkenntnisse nicht um ihrer selbst willen haben darf, sondern nur als Schlüssel, mit dem es Türen zu erbrechen gilt. Da scheidet sich der Weg des spekulativen Betrachters, erst recht des Kirchenmannes von dem des Propheten. <persName ref="kbga-actors-782">Spleiß</persName> war doch anfangs auf dem prophetischen Weg, aber nicht entschlossen genug. Es wäre alles recht gewesen: Erweckung und Anstaltsgründung, aber nur als Stationen auf dem Wege, nicht als letzte Ziele und Ergebnisse. Es macht doch einen <pb xml:id="p215" ed="pga"/> seltsamen Eindruck, wenn man seine Zeugnisse aus den Jahren der Kraft liest und dann weitergeht und sieht, daß es zu nichts Stärkerem kommt als eben zu einer Erweckung und Anstaltsgründung und endlich zum Antistes.</p>
+        <closer>
+          <salute>Also nichtwahr, ihr kommt bald! Von Herzen</salute>
+          <salute> euer</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

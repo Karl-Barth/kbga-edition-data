@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3239">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 24. Juni 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3239 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 283.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3239</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 283-283</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">239</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 231</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 24. Juni 1918. <ref target="https://kba.karl-barth.ch/objects/9799">KBA 9370.249</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-06-24">24. Juni 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1918-06-24">24. Juni 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3238"/>
+          <ref type="next" target="kbga-texts-3240"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3238"/>
+          <ref type="next-in-corresp" target="kbga-texts-3240"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:33+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:33+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p283" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            
+            <date when="1918-06-24">24. Juni 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Hier <persName ref="kbga-actors-486">Hans Baurs</persName><note xml:id="n01"><persName ref="kbga-actors-486">Hans Baur</persName> (1870–1938), freisinniger Pfarrer in Basel.</note> Rezension im «<orgName ref="kbga-actors-7417">Protestantenblatt</orgName>».<note xml:id="n02">Rezension über <bibl corresp="kbga-bibls-2249">«<title level="a">Suchet Gott …</title>!», in: Schweizerisches Protestantenblatt, Jg. 41 (1918), S. 200.</bibl>
+               </note> Dieser Freund von <persName ref="kbga-actors-810">Gottfried Traub</persName> und echte Alleinerbe <persName ref="kbga-actors-443">Zwinglis</persName> testiert uns, wir seien religiöse <orgName ref="kbga-actors-8745">Bolschewiki</orgName>. Er rühmt uns «großen Zug im Ganzen» nach und warnt vor uns, wir seien für im Denken Unselbständige gefährlich! Der <persName ref="kbga-actors-443">Zwingli</persName>, auf den sich <persName ref="kbga-actors-486">Baur</persName> beruft, wird einem verdächtig. Es fragt sich, ob dieser Zwingli der wirkliche Zwingli war. Die Frage wird 1919 brennend, wenn der Auftritt Zwinglis in <placeName ref="kbga-places-66">Zürich</placeName> gefeiert werden wird. Wir werden da einiges erleben.</p>
+        <p>In <placeName ref="kbga-places-5">Basel</placeName> hat es eine kleine Revolution gegeben, an der unsere sozialistischen Freunde beteiligt sind. <persName ref="kbga-actors-423">Gottlob Wieser</persName> scheint dazu eine kräftige Predigt in <placeName ref="kbga-places-443">Binningen</placeName> gehalten zu haben.</p>
+        <p>[Brief unterbrochen durch <persName ref="kbga-actors-2151">Barths</persName> Ankunft in <placeName ref="kbga-places-76">Leutwil</placeName>.]</p>
+      </div>
+    </body>
+  </text>
+</TEI>

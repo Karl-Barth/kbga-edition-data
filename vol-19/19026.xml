@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19026">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">Kirche und Theologie</title>
+        <title type="citation_line_1">Kirche und Theologie, kein Datum</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19026 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 644–682.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19026</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Kirche und Theologie</title>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 644-682</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">26</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, kirche und theologie 1925</title>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Kirche und Theologie, in: Zwischen den Zeiten Jg. 4 (1926), S. 18–40 </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation">kein Datum</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p644" ed="pga"/>
+        <head>KIRCHE UND THEOLOGIE</head>
+        <head type="sub">1925</head>
+        <div type="abstract">
+           <div>
+          <p>Von <persName ref="kbga-actors-317">Erik Peterson</persName><note xml:id="n01">Vgl. oben <ref type="pub" target="../volume/19/p006#p006">S. 6</ref>. Zu <persName ref="kbga-actors-317">Petersons</persName>
+                     späterer Konversion im Jahre <date when="1930">1930</date> äußerte <persName ref="kbga-actors-2151">Barth</persName> sich in: <bibl corresp="kbga-bibls-2338">
+                                <persName ref="kbga-actors-2151">K.
+                              Barth</persName> / <persName ref="kbga-actors-367">K. L. Schmidt</persName>,
+                              <title level="a">Zu Erik
+                                 Petersons Übertritt zum römischen Katholizismus</title>,
+                           in: ThBl, Jg. 10 (1931), Sp. 59f.</bibl>; <bibl corresp="kbga-bibls-2339">
+                                <title level="a">Offener Brief an Professor D. Dr. G. Wobbermin</title>, in:
+                              ThBl, Jg. 11 (1932), Sp. 186f.</bibl>; <bibl corresp="kbga-bibls-2340">
+                                <hi rend="italic">Replik an
+                              Professor D. Dr. G. Wobbermin</hi>, a. a. O., Sp. 221f.</bibl></note>, <persName ref="kbga-actors-2151">Barths</persName> ehemaligem Göttinger Fakultätskollegen<note xml:id="n02">Über
+                     seine Beziehungen zu <persName ref="kbga-actors-317">Peterson</persName> vgl.
+                        <bibl corresp="kbga-bibls-932">Bw. Th. II, S. 732f.</bibl> (Register) und <bibl corresp="kbga-bibls-966">
+                                Bw. R., S. 170.177f.</bibl>
+                     Vgl. auch seine Bemerkungen über <persName ref="kbga-actors-317">Peterson</persName> in einem Brief vom <date when="1963-08-12">12.8.1963</date> an Prof. Dr.
+                        <persName ref="kbga-actors-1484">Franco Bolgiani</persName> (<placeName ref="kbga-places-404">Turin</placeName>), in:
+                        <bibl corresp="kbga-bibls-1378">
+                                <hi rend="italic">Briefe 1961–1968</hi>, hrsg. von
+                              J. Fangmeier und H. Stoevesandt,
+                              Zürich 1979<edition rend="sup">2</edition>, <ref type="pub-" target="6105">S. 165f.</ref></bibl></note>, war im <date when="1925-07">Juli 1925</date> ein Heft mit dem Titel «<bibl corresp="kbga-bibls-1033"><hi rend="italic">Was ist Theologie?</hi></bibl>»<note xml:id="n03">
+                            <placeName ref="kbga-places-10">Bonn</placeName> <date when="1925">1925</date> (wieder abgedruckt in: ders., <bibl corresp="kbga-bibls-1034">
+                                <hi rend="italic">Theologische Traktate</hi>,
+                              München 1951, S. 9–43</bibl>).
+                     Im Folgenden ist in den Anmerkungen des Hrsg. jeweils in Klammern die
+                     Seitenzahl des letzten Wiederabdrucks angegeben in: <bibl corresp="kbga-bibls-1035">
+                                <title level="a">Theologie als Wissenschaft.
+                              Aufsätze und Thesen</title>, hrsg. von G. Sauter,
+                              ThB 43, München
+                           1971, S. 132–151.</bibl></note> erschienen, dessen Drucklegung er zuvor <persName ref="kbga-actors-2151">Barth</persName> in einem Brief angezeigt
+                  hatte:» Von der Bonner Theologenschaft aufgefordert, habe ich kürzlich einen
+                  Vortrag über die Frage: Was ist Theologie? gehalten. Der Vortrag hat Skandal u.
+                  Sensation hervorgerufen. Mit Scharren u. Trampeln wurde er vor einem Publikum, das
+                  zu gleichen Hälften aus Katholiken u. Protestanten bestand, zu Ende geführt. Ich
+                  halte das von mir Gesagte für das Beste, was ich bisher gemacht habe. In ca. 14
+                  Tagen wird der Vortrag erscheinen u. Ihnen zugehen. Ich muß Ihnen nun gestehen,
+                  daß ich im ersten Teil gegen <persName ref="kbga-actors-221">Kierkegaard</persName> u. gegen Ihren Vortrag: Das Wort Gottes als Aufgabe der
+                     Theologie<note xml:id="n04">In diesem Band <ref type="pub" target="../volume/19/p144#p144">S. 144ff.</ref></note> u. gegen <persName ref="kbga-actors-512">Bultmann</persName>’s letzten Aufsatz<note xml:id="n05">
+                            <bibl corresp="kbga-bibls-2343">
+                                <persName ref="kbga-actors-512">R.
+                              Bultmann</persName>, <title level="a">Welchen Sinn hat es, von Gott zu
+                              reden?</title>, in: ThBl, Jg. 4
+                              (1925), Sp. 129–135</bibl>; wieder abgedruckt in:
+                     ders., <bibl corresp="kbga-bibls-985">
+                                <hi rend="italic">Glauben und Verstehen. Gesammelte
+                              Aufsätze</hi>, Bd. I,
+                              Tübingen 1933, S. 26–37.</bibl></note> Stellung genommen habe. Den Aufsatz von <persName ref="kbga-actors-512">Bultmann</persName> halte ich – vertraulich gesagt – für
+                  einen unerhörten Skandal. Sie würden mir sehr mein Herz erleichtern, wenn Sie mir
+                  sagen würden, daß Sie diese Art von Spekulation in Nachfolge von <persName ref="kbga-actors-551">Fichte</persName> und <persName ref="kbga-actors-167">Hegel</persName> nicht goutieren. Ich gestehe Ihnen, daß mich <persName ref="kbga-actors-512">Bultmann</persName>’s Aufsatz richtig empört hat. – Aber
+                  freilich, Ihren Vortrag halte ich auch nicht für tragfähig u. die hier ver<pb xml:id="p645" ed="pga" break="no"/>tretene Dialektik für theolog, gänzlich
+                  ungeeignet. … Seien Sie mir bitte<note xml:id="n06">Im Original doppelt
+                     unterstrichen.</note> nicht böse, wenn im ersten Teil m. Vortrages etw. gegen
+                  Sie u. <persName ref="kbga-actors-512">Bultmann</persName> gesagt ist – der
+                  Hauptangriff ist gegen <persName ref="kbga-actors-221">Kierkegaard</persName> gerichtet – aber ich kann nicht anders.»<note xml:id="n07">Brief vom <date when="1925-06-23">23.6.1925</date>. <ref type="kba-objects-id" target="13340">Original im Karl Barth-Archiv</ref>,
+                     Basel.</note> <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-512">Bultmann</persName>
+                  (ursprünglich war wohl auch eine Beteiligung <persName ref="kbga-actors-403">E.
+                     Thurneysens</persName> geplant) hatten zunächst beabsichtigt, gemeinsam auf
+                  <persName ref="kbga-actors-317">Peterson</persName> zu antworten. Dazu kam es jedoch – wohl auf Grund eines Mißverständnisses
+                  in der Korrespondenz beider – nicht.<note xml:id="n08">Am <date when="1925-09-23">23.9.1925</date>
+                     hatte <persName ref="kbga-actors-512">Bultmann</persName> <persName ref="kbga-actors-2151">Barth</persName> mitgeteilt
+                        (<bibl corresp="kbga-bibls-2033">Bw. B.,
+                           <ref type="pub" target="1037"><choice><sic>S. 52</sic><corr resp="sm">S. 55</corr></choice></ref></bibl>): «Ich arbeite seit einigen Tagen an der Entgegnung
+                     auf <persName ref="kbga-actors-317">P.</persName>  Es wird noch einige Tage dauern, bis ich Ihnen meinen Entwurf schicken
+                     kann. Ich meine: die Sache ist so wichtig, daß wir sie nicht übereilen dürfen.
+                     Damit sollen Sie sich aber natürlich nicht als gebunden ansehen, wenn Sie ohne
+                     mich schon früher antworten wollen. Ich hoffe zwar, daß Sie meine Ausführungen
+                     akzeptieren können; <persName ref="kbga-actors-403">Thurneysens</persName>
+                     Sätze ließen sich wenigstens ganz organisch, wie mir scheint, in meinen ersten
+                     Entwurf einarbeiten.» Vielleicht war eine gemeinsame Antwort anläßlich des
+                     Besuches <persName ref="kbga-actors-512">Bultmanns</persName> bei <persName ref="kbga-actors-2151">Barth</persName> Mitte
+                     September vereinbart worden (vgl. <bibl corresp="kbga-bibls-2033">a. a. O.,
+                           <ref type="pub" target="../volume/01/p051#p051">S. 51</ref></bibl>). Zu <persName ref="kbga-actors-403">Thurneysens</persName> (verschollenem) Mskr. vgl. <bibl corresp="kbga-bibls-2033">
+                                a. a. O., <ref type="pub" target="1037#fn_n31">S. 55 (Anm. 3)</ref></bibl>. – Am <date when="1925-09-23">25.9.</date>
+                     antwortete <persName ref="kbga-actors-2151">Barth</persName> ihm (<bibl corresp="kbga-bibls-2033">a. a. O., <ref type="pub" target="1038">S. 56f.</ref></bibl>): «Auch ich sitze hinter <persName ref="kbga-actors-317">Petersons</persName> sämtlichen Werken u.
+                     zerbreche mir den Kopf darüber, von wo aus der zu nehmen ist. Für Eile bin ich
+                     in keinem Fall. Ich habe lange nichts gelesen, was mich so angeregt und
+                     geärgert hätte wie diese glänzenden und in jeder Beziehung unverschämten
+                     Pamphlete, durch die wir alle wieder in <hi rend="italic">eine</hi> Ecke mit
+                        <persName ref="kbga-actors-181">Herrmann</persName> gerückt werden. Wohin
+                     wir uns wahrscheinlich in diesem Fall auch stellen müssen. …. Mein Vortrag für
+                     den <date when="1925-10-07">7.</date> [10. in <placeName ref="kbga-places-27">Göttingen</placeName>] ist noch <hi rend="italic">ganz</hi> im Stadium des
+                     innerlichen Rumors.» <persName ref="kbga-actors-2151">Barth</persName> hatte aber <persName ref="kbga-actors-512">Bultmanns</persName> Schreiben vom <date when="1925-09-23">23.9.</date> offenbar so verstanden, als wolle
+                     dieser getrennt vorgehen, und schrieb daher am <date when="1925-10-04">4.10.</date> an <persName ref="kbga-actors-275">G. Merz</persName> und <persName ref="kbga-actors-403">E. Thurneysen</persName> (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p371#p371">S. 371</ref></bibl>):
+                        «<persName ref="kbga-actors-512">Bultmann</persName> ist auch mit einer
+                     Refutation beschäftigt, vermutlich auf ganz anderen Linien sich bewegend. Wir
+                     dachten ursprünglich an eine gemeinsam zu redigierende Antwort. Das erübrigt
+                     sich nun.» <persName ref="kbga-actors-512">Bultmann</persName> seinerseits
+                     sandte dann <persName ref="kbga-actors-2151">Barth</persName> am <date when="1925-10-19">19.10.</date> sein Manuskript zu und schrieb im Begleitbrief (<bibl corresp="kbga-bibls-2033">Bw. B.,
+                           <ref type="pub" target="1039">S. 54f.</ref></bibl>): «Inzwischen haben Sie nun in <placeName ref="kbga-places-27">Göttingen</placeName> Ihren
+                     Vortrag gehalten u. sich, wie ich andeutungsweise höre, dabei mit <persName ref="kbga-actors-317">Peterson</persName>
+                     auseinandergesetzt. Da Sie diesen Vortrag ja veröffentlichen werden, haben Sie
+                     vielleicht keine Neigung mehr, meine Antwort auf <persName ref="kbga-actors-317">Peters</persName>, zu ergänzen, zu
+                     korrigieren u. mit zu unterzeichnen; das wäre schade, aber machen Sie es ganz
+                     nach Ihrem Ermessen. Ich würde dann meine Antwort auf eigene Verantwortung
+                     veröffentlichen, am liebsten in ‹<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>›. (Oder etwa zusammen mit
+                     Ihrem Vortrag in einer gemeinsamen Broschüre?) Da ich ursprünglich annahm, es
+                     würde eine gemeinsam verfaßte Antwort, habe ich kein Bedenken getragen,
+                        <persName ref="kbga-actors-403">Thurneysens</persName> Kritik mit
+                     einzuarbeiten. Wenn Sie nun einen andern Weg wählen, müßte ich wohl die betr.
+                     Stücke streichen oder ändern? Das größte dieser Stücke steht S. 8f. des
+                     Manuskripts. Am Schluß S. 17 folgt ein anderes, das ich aber, da es mir P.’s
+                     Intentionen nicht gerecht zu werden schien, stark gekürzt habe.» <persName ref="kbga-actors-2151">Barth</persName>
+                     antwortete ihm am <date when="1925-10-26">26.10.</date> (<bibl corresp="kbga-bibls-2033">a. a. O., <ref type="pub" target="1040">S. 57</ref></bibl>): «Die Thurneysencitate müssen Sie, eventuell unter
+                     Anzeige an den Autor, ruhig <hi rend="italic">stehen</hi> lassen. … Wir sind doch
+                     nicht so.»</note>
+                  <pb xml:id="p646" ed="pga"/> <persName ref="kbga-actors-2151">Barth</persName> legte dann jedoch Wert darauf, daß seine
+                  (zweimal zunächst als Vortrag gehaltene) und <bibl corresp="kbga-bibls-1038">
+                                <persName ref="kbga-actors-512">Bultmanns</persName> Erwiderung im gleichen Heft von ZZ</bibl> erscheinen.<note xml:id="n09">
+                            <persName ref="kbga-actors-2151">Barth</persName> teilte <persName ref="kbga-actors-512">Bultmann</persName> am <date when="1925-10-26">26.10.1925</date> mit, er habe <persName ref="kbga-actors-275">Georg Merz</persName> als Schriftleiter von <title level="m">
+                                <orgName ref="kbga-actors-6169">ZZ</orgName></title> «die Wahl gelassen, sie beide entweder in einer
+                     Broschüre <hi rend="italic">oder</hi> gleichzeitig im nächsten Heft von <orgName ref="kbga-actors-6169">Zw. d. Z.</orgName>
+                     erscheinen zu lassen» (<bibl corresp="kbga-bibls-2033"><ref type="pub" target="1040">a. a. O.</ref></bibl>). <persName ref="kbga-actors-275">Merz</persName> gegenüber nennt <persName ref="kbga-actors-2151">Barth</persName> den erhaltenen Entwurf <persName ref="kbga-actors-512">Bultmanns</persName> «ein <hi rend="italic">sehr</hi>
+                     gediegenes Manuskript … Auf keinen Fall dürfte die Bultmann’sche Sache abgelehnt oder
+                     zurückgestellt werden, da die doppelte Antwort gerade als gleichzeitiges
+                     Kreuzfeuer wirken muß und wird» (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p382#p382">S. 382</ref> vom
+                              25.10.1925</bibl>). Beide Beiträge erschienen dann
+                     in <bibl corresp="kbga-bibls-1042">ZZ, Jg. 4
+                              (1926), [Heft 1 =] Heft XIII</bibl>; <bibl corresp="kbga-bibls-1038">
+                                <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="italic">Die Frage der «dialektischen»
+                              Theologie (Eine Auseinandersetzung mit Peterson)</hi>, S. 40–59.</bibl> – <persName ref="kbga-actors-2151">Barth</persName> griff dabei zurück auf seine Ausführungen
+                     (bes. über das Dogma) in: <bibl corresp="kbga-bibls-219">«<hi rend="italic">Unterricht in
+                              der christlichen Religion</hi>», 1. Bd.: <hi rend="italic">Prolegomena. 1924</hi>, hrsg. von H. Reiffen,
+                              Zürich
+                           1985, bes. <ref type="pub-" target="../volume/17/p048#p048">S. 48–51</ref>.<ref type="pub-" target="../volume/17/p291#p291">291–297</ref>.</bibl></note>
+               </p>
+        </div>
+        <div>
+          <head type="sub" rend="text-recte">1. <placeName ref="kbga-places-27">Göttingen</placeName> <date when="1925-10-07">7. Oktober 1925</date></head>
+          <p>Seinen Vortrag «<title level="m">Kirche und
+                           Theologie</title>» hielt <persName ref="kbga-actors-2151">Barth</persName> erstmals vor der «Göttinger Herbstkonferenz»<note xml:id="n10">Es handelte sich dabei um eine alljährliche
+                     Veranstaltung, vermutlich auf Einladung des Göttinger Pfarrvereins. Vgl. auch
+                     die Ankündigung in der <bibl corresp="kbga-bibls-2350">«Göttinger Zeitung» vom 6.10.1925: «<title level="a">Theologische
+                           Herbstkonferenz</title></bibl>. Die diesjährige theologische
+                     Herbstkonferenz findet am Mittwoch dieser Woche vormittags <hi rend="top">1</hi>/<hi rend="buttom">2</hi>10 Uhr in den
+                     Göttinger Festsälen (‹Reichshof›) statt.» Neben <persName ref="kbga-actors-2151">Barth</persName> ist dort als Referent
+                     Pastor <persName ref="kbga-actors-4144">Albrecht Saathoff</persName>,
+                     <placeName ref="kbga-places-27">Göttingen</placeName>, über «Neuordnung der Perikopen» erwähnt.</note> am <date when="1925-10-07">7. Oktober 1925</date>
+                  unter Beisein von <persName ref="kbga-actors-317">Peterson</persName>. Es «kam nicht viel heraus, weil P. sich einfach nicht
+                  stellte, sondern erklärte, er habe mich nicht verstanden. Und die übrige
+                  Diskussion war unter allem Hund …»<note xml:id="n11"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p378#p378">S. 378</ref> (25.10.1925).</bibl></note> <persName ref="kbga-actors-317">Peterson</persName> erklärte
+                  seinerseits gegenüber <persName ref="kbga-actors-512">Bultmann</persName>: «Ich
+                  kann nicht finden, daß meine Argumente widerlegt seien. <persName ref="kbga-actors-2151">Barth</persName> sieht m. E. das
+                  Problem noch lange nicht in der Schärfe, in der es gesehen werden muß. Ich will
+                  aber erst abwarten, was alles zur Sache gesagt wird, dann will ich mehr sagen. …
+                  <persName ref="kbga-actors-2151">Barth</persName> ist seit seinem Vor<pb xml:id="p647" ed="pga" break="no"/>trag mit mir
+                  ausgesöhnt, in der Diskussion sah er sich genötigt, auf meine Seite zu
+                     treten.»<note xml:id="n12">Brief vom <date when="1925-10-11">11.10.1925</date>, abgedruckt in
+                        <bibl corresp="kbga-bibls-2033">Bw. B., <ref type="pub" target="../volume/01/p047#fn_n08">S. 47f. (Anm. 8)</ref></bibl>.</note>
+               </p>
+        </div>
+        <div>
+          <head type="sub" rend="text-recte">2. <placeName ref="kbga-places-197">Elberfeld</placeName> <date when="1925-10-23">23. Oktober 1925</date></head>
+          <p>Auf der 20. Tagung des <orgName ref="kbga-actors-4134">Reformierten Bundes</orgName> in <placeName ref="kbga-places-651">Duisburg-Meiderich</placeName> vom <date when="1925-06">Juni 1925</date>, an
+                  der <persName ref="kbga-actors-2151">Barth</persName> selbst teilgenommen hatte<note xml:id="n13">Vgl. oben <ref type="pub" target="../volume/19/p609#p609">S. 609f.</ref></note>,
+                  war die Einrichtung einer regelmäßig abzuhaltenden «Theologischen Woche» beschlossen worden:
+                  «<placeName ref="kbga-places-197">Elberfeld</placeName> [mit seinem Reformierten Kandidatenstift] scheint der gegebene Platz
+                  für ein solches Unternehmen zu sein. … Als Thema der ersten Konferenz wurde
+                  vorgeschlagen und als dringend wichtig erwünscht: <hi rend="text-recte">die Lehre von der Kirche</hi>.»<note xml:id="n14">
+                            <bibl corresp="kbga-bibls-2351">
+                                <persName ref="kbga-actors-4124">F. Otten</persName>, <title level="a">Geschäftliche Versammlung auf der 20. Tagung des Reformierten Bundes
+                              in Duisburg-Meiderich am 5. Juni 1923</title>, in: RKZ, Jg. 75 (1925). S. 158.</bibl> – <persName ref="kbga-actors-2151">Barth</persName>
+                     hat auch in späteren Jahren an der Elberfelder Theologischen Woche referiert;
+                     vgl. <bibl corresp="kbga-bibls-2352">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das Wort in der Theologie von
+                              Schleiermacher bis Ritschl</title>. Vortrag, gehalten an der 2.
+                           theologischen Woche des <orgName ref="kbga-actors-4134">reformierten Bundes</orgName> in <placeName ref="kbga-places-197">Elberfeld</placeName>,
+                              Mittwoch, 19.10.1927, in: ZZ, Jg. 6 (1928), S. 92–109</bibl> (= <bibl corresp="kbga-bibls-954">
+                                    Th. u. K., S. 190–211</bibl>); ders., <bibl corresp="kbga-bibls-2353">
+                                <title level="a">Der heilige Geist und das christliche Leben</title>. Vortrag, gehalten
+                     an der [3.] Theologischen Woche in <placeName ref="kbga-places-197">Elberfeld</placeName> am 9. Oktober 1929,
+                     in: <persName ref="kbga-actors-2151">K. Barth</persName>/
+                              <persName ref="kbga-actors-23">H. Barth</persName>, <hi rend="italic">Zur
+                              Lehre vom heiligen Geist</hi>,
+                              München 1930, S. 39–105.</bibl></note>
+               </p>
+          <p>
+                        <persName ref="kbga-actors-1044">Hermann Albert Hesse</persName><note xml:id="n15">
+                            
+                                <persName ref="kbga-actors-1044">Hermann Albert Hesse</persName>
+                        (1877–1957), 1902–1907 Pfarrer in
+                     Duisburg-Meiderich, 1909–1916 an St. Pauli in Bremen, von
+                        1916 bis zur Zwangspensionierung 1943 in
+                     Elberfeld; 1920–1943 Direktor des dortigen Reformierten
+                     Predigerseminars und Dozent der Theologischen Schule. 1918–1928
+                     Schriftleiter der <orgName ref="kbga-actors-7337">RKZ</orgName>.</note> als einer der Initianten wandte sich am <date when="1925-07-30">30. Juli 1925</date> an <persName ref="kbga-actors-2151">Barth</persName> mit der
+                  Bitte, dort einen Vortrag zu halten «über: Die Kirche der Hoffnung. Wir glauben,
+                  daß Sie gerade nach dieser Seite uns ein besonderes Wort zu sagen hätten.
+                  Selbstredend sind wir mit einer anderen Formulierung, die Ihnen besser liegen
+                  würde, von vornherein einverstanden.»<note xml:id="n16">
+                            <ref type="kba-objects-id" target="13445">Original des Briefes im
+                     Karl Barth-Archiv</ref>, Basel.</note> Am <date when="1925-08-25">25. August</date> bedankte sich <persName ref="kbga-actors-1044">Hesse</persName> für die «freilich mit weinendem Auge
+                  gegebene Zusage, uns in <placeName ref="kbga-places-197">Elberfeld</placeName> zu helfen. Der Elberfelder Kreis nahm sofort in
+                  dem Sinne Stellung, daß man alles versuchen müsse, Ihre Träne wegzuwischen und
+                  Ihnen im übrigen zu sagen, es handle sich ja um ein Thema, das Ihnen nur um die
+                  Hergabe einiger Spähne [sic] aus Ihrer theologischen Werkstatt bedeuten
+                     würde.»<note xml:id="n17">
+                            <ref type="kba-objects-id" target="13500">Original des Briefes im Karl Barth-Archiv</ref>,
+                     Basel.</note>
+                  <pb xml:id="p648" ed="pga"/> <persName ref="kbga-actors-2151">Barth</persName>, der – wohl im Hinblick auf seine einstündige
+                  Vorlesung vom kommenden Wintersemester <date from="1925" to="1926">1925/26</date> in <placeName ref="kbga-places-44">Münster</placeName> über «Eschatologie» –
+                  ein entsprechendes Vortragsthema gewählt hatte, teilte Hesse dann im September die
+                  Änderung in «<title level="m">Kirche und
+                        Theologie</title>» mit.<note xml:id="n18">Auf einer Postkarte
+                     vom <date when="1925-09-18">18.9.</date> (<ref type="kba-objects-id" target="13531">Original im Karl Barth-Archiv</ref>, Basel) bestätigte <persName ref="kbga-actors-1044">Hesse</persName>:
+                     «Selbstredend sind wir gern damit einverstanden, daß Sie Ihrem Vortrag das
+                     andere Thema, das Ihnen jetzt besser liegt, zugrunde legen: ‹Kirche und
+                     Theologie›. Es wäre mir und unserem Freundeskreis ja von besonderer Bedeutung
+                     gewesen, aus Ihrem Munde etwas zu hören über das, was wir als eschatologische
+                     Gestalt der Kirche zu erhoffen haben. Aber ich weiß, daß es dann ja zunächst
+                     eine große Auseinandersetzung geben müßte über das, was ‹Eschatologie› heißt,
+                     wovon gerade heute wieder so viel geredet wird.»</note>
+               </p>
+          <p>Der Elberfelder Fabrikant <persName ref="kbga-actors-1146">Adolf Paul
+                     Müller</persName> – begleitet von <persName ref="kbga-actors-1054">Fritz Horn</persName> – holte <persName ref="kbga-actors-2151">Barth</persName> und seine Frau <persName ref="kbga-actors-26">Nelly</persName> mit seinem Auto von <placeName ref="kbga-places-27">Göttingen</placeName> ab. Am
+                  Vormittag des <date when="1925-10-23">23. Oktober</date> um 9 Uhr hielt <persName ref="kbga-actors-2151">Barth</persName> seinen Vortrag «als vorletztes
+                  Stück der reformierten Elberfelder Woche, die dort längst im Gange war.<note xml:id="n19">Vgl. das Programm zur <bibl corresp="kbga-bibls-2354">«<title level="a">Theologischen Woche in Elberfeld vom <date>19–23. Oktober
+                              1925</date></title>, über: <title level="a">Die Frage nach der Kirche</title>» in: RKZ, Jg. 75 (1925), S. 240 (6.9.), S. 248 (13.9.), S. 264.280 (27.9. und 11.10., mit berichtigtem
+                           Vortragstitel).</bibl> – Vgl. auch den Bericht <persName ref="kbga-actors-2151">Barths</persName> über die Reise nach und den
+                     Aufenthalt in <placeName ref="kbga-places-197">Elberfeld</placeName> <bibl corresp="kbga-bibls-932">Bw. Th II, <ref type="pub-" target="../volume/04/p378#p378">S. 378–382</ref>
+                           (25.10.1925).</bibl></note> Großer Aufmarsch von allerlei Beteiligten und Neugierigen aus <placeName ref="kbga-places-914">Rheinland</placeName> und <placeName ref="kbga-places-697">Westfalen</placeName>. […] Die Diskussion ergab auch hier nichts Wesentliches.»<note xml:id="n20">
+                            <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p380#p380">S. 380</ref>.</bibl></note> <persName ref="kbga-actors-317">Peterson</persName> schrieb dann am
+                  <date when="1925-11-06">6. November</date> an <persName ref="kbga-actors-2151">Barth</persName>: «Daß Sie in <placeName ref="kbga-places-197">Elberfeld</placeName> geredet haben, erschwert meine
+                  Situation hier [= in <placeName ref="kbga-places-10">Bonn</placeName>] außerordentlich. Man hat in Student. Kreisen jetzt die
+                  Vorstellung, daß man das, was ich gesagt habe, überhaupt nicht mehr ernst zu
+                  nehmen brauche. Das war, was mir berichtet wurde, wohl auch die Überzeugung der
+                  Pfarrer in <placeName ref="kbga-places-197">Elberfeld</placeName>. Verstehen Sie mich recht, ich finde es durchaus in der
+                  Ordnung, daß Sie in <placeName ref="kbga-places-27">Göttingen</placeName> od. <placeName ref="kbga-places-44">Münster</placeName> od. <orgName ref="kbga-actors-6169">Zw. d. Z.</orgName> gegen mich reden, aber daß
+                  Sie in <placeName ref="kbga-places-197">Elberfeld</placeName> gesprochen haben, erschwert meine Lehrtätigkeit hier.»<note xml:id="n21"><ref type="kba-objects-id" target="13640">Original im Karl Barth-Archiv</ref>, Basel.</note>
+               </p>
+          <p>Die von <persName ref="kbga-actors-2151">Barth</persName> – besonders in den Anmerkungen – für den Wiederabdruck in <bibl corresp="kbga-bibls-954">Th. u. K.</bibl> gegenüber dem Erstabdruck in <ref corresp="A">ZZ</ref> gestrichene
+                  Textstücke (vgl. <ref type="pub" target="#fn_na">Anm. a</ref>) werden im folgenden durch spitze Klammern gekennzeichnet.
+                  Die zwischen senkrechten Strichen in den Text eingefügte Originalpaginierung ist
+                  die des Wiederabdrucks in <bibl corresp="kbga-bibls-954">
+                            <title>Th. u. K.</title></bibl>
+                    </p>
+        </div>
+      </div>
+        
+        <div>
+         <head>Kirche und Theologie</head>
+          <p>
+                        <pb rend="noPipe" xml:id="p649" ed="pga"/> «<hi rend="italic">Was ist Theologie?</hi>»
+                  In einer ebenso geistreichen, wie rätselvollen, wie hochgemuten Broschüre dieses
+                  Titels hat <persName ref="kbga-actors-317">Erik Peterson</persName> neulich folgende Lehre aufgestellt<note xml:id="na" type="original"><bibl corresp="kbga-bibls-1033">
+                                Was ist Theologie? Von <persName ref="kbga-actors-317">Erik Peterson</persName></bibl>, o. ö. Professor der Theologie
+                     an der <orgName ref="kbga-actors-8226">Universität Bonn</orgName>. <date when="1925">1925</date> bei <persName ref="kbga-actors-8778">Friedrich Cohen</persName>, <placeName ref="kbga-places-10">Bonn</placeName>. – Der
+                     erste Abdruck dieses Vortrags <bibl corresp="kbga-bibls-2355">(Z.d.Z. 1926, Heft 1)</bibl> enthielt eine
+                     Reihe von <hi rend="italic">Anmerkungen</hi>, in denen ich mich beiläufig mit
+                     einigen andern damals aufgestandenen Kritikern beschäftigte. Ich habe sie hier
+                     aus keinem andern Grunde als eben wegen ihrer Beiläufigkeit, in der sie heute
+                     nur belastend wirken könnten, <hi rend="italic">gestrichen</hi>.</note>: Theologie
+                  ist im Gegensatz zur Mythologie und einer der Mythologie verwandten dialektischen
+                  Theologie der gehorsame Vollzug einer in Form konkreter Autorität gegebenen
+                  Möglichkeit von Erkenntnis, und zwar unparadoxer<note xml:id="n22">In den früheren
+                     Drucken: «unparadoxe»; Korrektur von <persName ref="kbga-actors-2151">Barth</persName> in seinem Handexemplar.</note>
+                  Erkenntnis Gottes.<note xml:id="n23">Vgl. 
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, <hi rend="italic">Was ist Theologie?</hi>,
+                              Bonn 1925, S. 9</bibl> (<bibl corresp="kbga-bibls-1034">Wiederabdruck – vgl.
+                           <ref type="pub" target="#fn_n03">Anm. 3</ref>; im folgenden mit «bzw.» angegeben – S. 135f.</bibl>).</note> Sie hat nicht von Gott zu <hi rend="italic">reden</hi>; denn das kann nur und
+                  das tut Christus.<note xml:id="n24">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 14–16</bibl> bzw. <bibl corresp="kbga-bibls-1034">140–143</bibl>.</note> Sie hat
+                  nichts von Gott zu <hi rend="italic">sagen</hi>; denn das ist das Amt der die
+                  Logos-Offenbarung vorbereitenden alttestamentlichen Propheten.<note xml:id="n25">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 17</bibl> bzw. <bibl corresp="kbga-bibls-1034">143f.</bibl></note> Sie hat auch nicht von Gott zu <hi rend="italic">sprechen</hi>; denn das tut mit richterlicher Gewalt die Kirche.<note xml:id="n26">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 19ff.</bibl> bzw. <bibl corresp="kbga-bibls-1034">145ff.</bibl></note> Sie hat aber auf Grund konkreter
+                  Autorität zu <hi rend="italic">argumentieren</hi>.<note xml:id="n27">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 19</bibl> bzw.
+                     <bibl corresp="kbga-bibls-1034">145</bibl>.</note> Die <hi rend="italic">konkrete Autorität</hi>, von der die Rede ist, ist
+                  nicht etwa die Bibel. Die Bibel, die pneumatische Bibelexegese und die ihr
+                  folgende Predigt gehören vielmehr streng genommen überhaupt nicht in die
+                  Theologie, sondern in den Kultus.<note xml:id="n28">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 17f.</bibl> bzw. <bibl corresp="kbga-bibls-1034">143f.</bibl></note>
+                  Sie fällt aber auch nicht etwa zusammen mit dem kirchlichen Bekenntnis. Sondern
+                  sie ist analog der Einsetzung des Sakramentes gegeben als Ausfluß der bei der
+                  Himmelfahrt der Kirche verliehenen Gewalt (und insofern <pb n="303" ed="kbga-sources-2314"/> als Fortsetzung der Logos-Offenbarung) in dem als
+                  positiver Rechtsanspruch den Menschen <foreign xml:lang="lat">jure divino</foreign>, und zwar bis zur
+                  Ketzerverbrennung leibhaft wirklich treffenden <hi rend="italic">Dogma</hi>.<note xml:id="n29">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 20f.</bibl> bzw. <bibl corresp="kbga-bibls-1034">146–148</bibl>.</note> Durch die Beziehung auf das
+                  Dogma wird die <pb xml:id="p650" ed="pga"/> Theologie selbst zu einer Konkretion
+                  des Logos.<note xml:id="n30">
+                            Vgl. <bibl corresp="kbga-bibls-1033">S. 19</bibl> bzw. <bibl corresp="kbga-bibls-1034">145f.</bibl></note> Erst durch das Dogma
+                  wird sie gelöst aus der fatalen Verbindung mit den sogenannten
+                  Geisteswissenschaften, wird sie in eine Sphäre erhoben, in der ein Mann leben
+                  kann, wird sie Gehorsam gegen Christus, wird sie weiten Kreisen wieder
+                  interessant, wird sie als Stand und als Fachwissenschaft möglich.<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-1033">S. 23f.</bibl> bzw. <bibl corresp="kbga-bibls-1034">150f.</bibl></note>
+               </p>
+          <p>Was ich Ihnen heute vorlegen möchte, ist der Form nach eine Auseinandersetzung mit
+                  diesen Gedanken<note xml:id="nb" type="original">‹Die nachfolgende Arbeit von <hi rend="italic">
+                                <persName ref="kbga-actors-512">Bultmann</persName></hi> ist unabhängig
+                     von diesem Vortrag entstanden und vor der Drucklegung nicht mit ihm verglichen
+                     worden.›</note>, wobei ich, um dies gleich vorauszuschicken, zu dem, was
+                  <persName ref="kbga-actors-317">Peterson</persName> gesagt hat, in der Hauptsache werde Nein sagen müssen. Aber man kann hier
+                  auf sehr verschiedene Art Nein sagen, und ich möchte mit meinem Nein nicht mit dem
+                  Anderer verwechselt sein. Gestatten Sie mir also eine kleine Vorrede. Ich würde es
+                  weder für gerecht noch für klug halten<note xml:id="nc" type="original">‹Das Folgende bezieht sich
+                     zunächst auf die Tatsache, daß die «<orgName ref="kbga-actors-7732">Theol. Literaturzeitung</orgName>»<note xml:id="n32">Herausgeber der <orgName ref="kbga-actors-7732">ThLZ</orgName> war <persName ref="kbga-actors-184">Emanuel Hirsch</persName>, Göttingen.</note> eine
+                     Besprechung der Petersonschen Schrift <hi rend="italic">abgelehnt</hi> hat. Schon
+                     vorher ist der – dann in <bibl corresp="kbga-bibls-1032">
+                                Z. d. Z. Heft 11 erschienene – Aufsatz «Über die Forderung einer Theologie des
+                              Glaubens»</bibl><note xml:id="n33">
+                                <bibl corresp="kbga-bibls-1032">
+                                    E. Peterson, <title level="a">Über die Forderung einer Theologie des Glaubens. Eine
+                                 Auseinandersetzung mit Paul
+                                    Althaus</title>, in: ZZ, Jg. 3 (1925), [Heft 3=] Heft XI [der ganzen Zeitschrift], S. 281–302.</bibl></note> unter ausdrücklicher Geltendmachung des
+                     konfessionellen Gesichtspunktes von der «<orgName ref="kbga-actors-8654">Zeitschrift für syst. Theologie</orgName>»<note xml:id="n34">Herausgeber der 
+                                    <orgName ref="kbga-actors-8654">ZSTh</orgName> war <persName ref="kbga-actors-393">Carl Stange</persName>, Göttingen.</note>
+                     <hi rend="italic">nicht</hi> aufgenommen worden. Derselben m. E. nicht gut zu
+                     heißenden Taktik entspricht das, was <bibl corresp="kbga-bibls-2356">
+                                Theol. Lit. Bericht 1925,
+                     Heft 10 über «Was ist
+                           Theologie?»</bibl> zu lesen steht.<note xml:id="n35">
+                                <bibl corresp="kbga-bibls-2356">
+                                    <persName ref="kbga-actors-4">[P.] Althaus</persName>,
+                                 [<title level="a">Rez. von E. Peterson, Was ist
+                                 Theologie?</title>,] in: <hi rend="italic">Theologischer
+                                 Literaturbericht</hi>, Jg. 48 (1925), Nr. 10, S. 174f.</bibl> Die Besprechung schließt mit den Worten: «Eine
+                        Gesundung der Theologie von ihrer dialektischen und sonstigen Krise
+                        erstreben auch wir – aber der Weg <persName ref="kbga-actors-317">Petersons</persName> ist uns wirklich zu billig. Wer
+                        den Verfasser als evangelischen Theologen ernst nehmen will, der kann ihm
+                        nur die Ehre tun, diese Schrift nicht ernst zu nehmen, sondern sie als einen
+                        (freilich recht mißverständlichen!) Witz des geistreichen Verfassers mit
+                        fröhlichem Lachen zu genießen.» – Im Blick auf diese <ref type="pub" target="#fn_nc">Anm. c</ref> schrieb <persName ref="kbga-actors-2151">Barth</persName> am
+                           <date when="1925-10-26">26.10.1925</date> an <persName ref="kbga-actors-512">R.
+                           Bultmann</persName> (<bibl corresp="kbga-bibls-2033">Bw. B.,<ref type="pub" target="1040"> S. 57</ref></bibl>): «Auch ich habe ihn
+                        [<persName ref="kbga-actors-317">Peterson</persName>] so glimpflich als möglich behandelt, am Anfang sogar einen
+                        heftigen Vorstoß gegen die Leute (gemeint; <persName ref="kbga-actors-393">Stange</persName>, <persName ref="kbga-actors-184">Hirsch</persName>,
+                           <persName ref="kbga-actors-4">Althaus</persName> …) gemacht, die ihn mit
+                        Totschweigen oder Gelächter erledigen wollen.»</note>›</note>, auf die
+                  Darbietung <persName ref="kbga-actors-317">Petersons</persName> <pb xml:id="p651" ed="pga"/> die allzu naheliegende Antwort
+                  zu geben, daß sie in ihrer Voraussetzung und ihren Konsequenzen römisch-katholisch
+                  und darum als indiskutabel totzuschweigen sei. Daß sie katholisch und in mehr als
+                  einem Stück überkatholisch ist, ist auch meine Meinung. Aber ich denke, daß diese
+                  leicht zu machende Feststellung kein polemisches Gewicht hat und daß es nicht
+                  wohlgetan ist, die sachliche Diskussion dieser und ähnlicher Gedanken auf Grund
+                  dieser Feststellung von vornherein abzulehnen. Dies aus folgenden Gründen: Wenn
+                  eine, so hätte die <hi rend="italic">alt</hi>protestantische Theologie das innere Recht
+                  dazu gehabt, auf einen Überfall wie den von <persName ref="kbga-actors-317">Peterson</persName> ohne jede Diskussion mit
+                  glatter Ablehnung zu reagieren. Sie hätte nämlich dabei gewußt, was sie wollte und
+                  was sie tat. Altprotestantische Intoleranz richtet sich nicht zufällig, sondern
+                  nach der Logik der Sache mit gleicher Schärfe gegen Schwärmer und Spiritualisten,
+                  gegen <persName ref="kbga-actors-1081">Karlstadt</persName> und <persName ref="kbga-actors-774">Servet</persName>, gegen <persName ref="kbga-actors-6368">Socini</persName> und <persName ref="kbga-actors-2784">Arminius</persName> wie
+                  gegen Rom, als gegen den in verschiedenem Gewand hüben und drüben identischen
+                  Gegner. <pb n="304" ed="kbga-sources-2314"/> Sie stritt nach rechts und links für
+                  die Ehre Gottes und die Reinheit des Glaubens gegen die Anmaßung und Willkür des
+                  frommen Menschen. In der Einheit dieser Abwehr war der Streit der Reformatoren und
+                  ihrer Nachfolger gegen das Papsttum legitim und sinnvoll, ein Streit mit gutem
+                  Gewissen und freiem Rücken. Vom Streit des heutigen Protestantismus mit dem Gegner
+                  zur Rechten kann man das nur bedingt sagen. Allzusehr hat er sich dem damaligen
+                  Gegner zur Linken innerlich angenähert, als daß seine Zornesäußerungen gegen
+                  rechts, gemessen an denen <persName ref="kbga-actors-261">Luthers</persName> und
+                     <persName ref="kbga-actors-77">Calvins</persName>, nicht hohl und unglaubwürdig
+                  tönten, als daß nicht der Verdacht bestünde, daß dabei vielleicht zum größeren
+                  Teil Dinge <hi rend="italic">verteidigt</hi> würden, in denen die Reformatoren alsbald
+                  im <rs type="person" ref="kbga-actors-971">erasmischen</rs> oder täuferischen
+                  Gewand denselben altbösen Feind<note xml:id="n36">Vgl. <bibl type="song" corresp="kbga-songs-59">
+                                <persName ref="kbga-actors-261">M. Luthers</persName> Lied «Ein feste Burg ist unser Gott» (1528), I. Strophe (EKG 201,
+                                KGB 342)</bibl>.</note> erkannt hätten, den sie im Papsttum <hi rend="italic">bekämpften</hi>. Bis zur besseren Bereinigung unseres Verhältnisses
+                  nach links, d. h. gegenüber dem siegreich bei uns eingedrungenen Rationalismus und
+                  Pietismus dürfte es ratsam und billig sein, beim Ertönen «katholisierender»
+                  Stimmen von rechts her nicht zu schnell nach der ultima ratio des
+                  Protestantenzorns zu greifen, als wi<pb xml:id="p652" ed="pga" break="no"/>derfahre uns nun <hi rend="italic">damit</hi> etwas Sonderliches [vgl. <ref type="can" subtype="bible" target="1.Petr.4.12">1.Petr. 4,12</ref>]. Konkret
+                  gesprochen: der evolutionistische Historismus, Moralismus und Idealismus, der
+                  unsere heutige Theologie beherrscht, hat, gemessen an der Reformation, zu viel auf
+                  dem Kerbholz, als daß er Vollmacht hätte, gegen einen katholisierenden
+                  Phänomenologismus, wie ihn <persName ref="kbga-actors-317">Peterson</persName> vertritt, Steine zu werfen. ‹Ist <persName ref="kbga-actors-65">Friedrich Brunstäd</persName> als evangelischer
+                  Theologieprofessor nicht unmöglich, dann ist es <persName ref="kbga-actors-317">Erik Peterson</persName> auch nicht.<note xml:id="n37">
+                            
+                                <persName ref="kbga-actors-65">Fr. Brunstäd</persName>
+                        (1883–1944) habilitierte sich 1911 für Philosophie
+                     in Erlangen, wurde dort 1917 a. o. Professor für Philosophie und
+                        1925 o. Professor für Systematische Theologie in Rostock. Er
+                     erstrebte eine Synthese von Philosophie und Religion. Zur Kritik <persName ref="kbga-actors-2151">Barths</persName> an
+                        <persName ref="kbga-actors-65">Brunstäds</persName> Publikation <bibl corresp="kbga-bibls-2357">
+                                <hi rend="italic">Die Idee der Religion. Prinzipien der
+                              Religionsphilosophie</hi>,
+                              Halle 1922</bibl> vgl. <bibl corresp="kbga-bibls-220">
+                                <hi rend="italic">Die christliche Dogmatik im
+                              Entwurf</hi>, 1. Bd.: <title level="a">Die Lehre vom Worte Gottes.
+                              Prolegomena zur christlichen Dogmatik. 1927</title>, hrsg. von
+                              G. Sauter,
+                              Zürich 1982, <ref type="pub-" target="../volume/14/p078#p078">S. 78f.</ref></bibl></note>› Darf man sich, ohne erröten zu müssen, zu <persName ref="kbga-actors-360">Schleiermacher</persName> bekennen, dann auch zu <persName ref="kbga-actors-1282">Thomas von Aquino</persName>. Denn von <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName> liegen beide mindestens gleich weit ab. Es hat keinen Sinn,
+                  jetzt auf einmal, statt nach Gründen zu fragen, konfessionelle Entschiedenheit zu
+                  markieren. Jetzt, wo uns statt irgendeiner modernistischen Abweichung zur
+                  Abwechslung einmal auch die mittelalterliche Abweichung <foreign xml:lang="lat">intra muros</foreign> begegnet!</p>
+          <p>Und warum sollten wir uns eigentlich weigern, veranlaßt durch die Petersonschen
+                  Darlegungen (so unsympathisch uns der Ort sein mag, von dem sie herkommen) die in
+                  Betracht kommenden Fragen, <pb n="305" ed="kbga-sources-2314"/> ganz abgesehen von
+                  ihrer konfessionellen Bedeutung, rein sachlich in Erwägung zu ziehen? Unsere Väter
+                  haben es ja auch nicht versäumt, gegen den katholischen Versucher außer mit
+                  zorniger Ablehnung auch mit ernsthaften Gründen zu reagieren. Vielleicht, daß wir
+                  um solche verlegener sind als jene, weil wir des Ortes, wo wir als protestantische
+                  Theologen hingehören, infolge der seither eingetretenen Verschiebungen weniger
+                  sicher sind. Dann haben wir aber Anlaß, uns von <persName ref="kbga-actors-317">Peterson</persName>, was auch von seinem
+                  Vorstoß zu halten sei, zur Besinnung darüber aufrufen zu lassen, wo wir eigentlich
+                  stehen sollen und wollen. Dann wäre bloßer <foreign xml:lang="lat">furor protestanticus</foreign> in jeder Form,
+                  auch in der des Schweigens oder Lächelns, ein Versteckspiel, das sich rächen
+                  müßte. Ich hoffe also dem, was man die «evangelische Sache» nennt, besser zu
+                  dienen, wenn ich meinen Darlegungen gerade <hi rend="italic">nicht</hi> den Charakter
+                  einer konfessionellen Anti<pb xml:id="p653" ed="pga" break="no"/>these gebe,
+                  sondern <persName ref="kbga-actors-317">Peterson</persName> auf den Boden grundsätzlicher theologischer Überlegung folge, den
+                  er selbst gewählt und gewahrt hat.</p>
+          <p>«<hi rend="italic">Kirche und Theologie</hi>»
+                  habe ich meinen Vortrag überschrieben. Ich tat es in der Meinung, daß in dem von
+                  <persName ref="kbga-actors-317">Peterson</persName> so eigenartig behandelten Problemkreis die Bestimmung der Begriffe Kirche
+                  und Theologie und ihres Verhältnisses untereinander die entscheidende Frage
+                  bildet, in der wir nach Klarheit zu suchen haben.<note xml:id="nd" type="original">‹Der Nachweis,
+                     daß und inwiefern ich mich in der von <persName ref="kbga-actors-317">Peterson</persName> im ersten Teil seiner Broschüre
+                     u. A. gegen mich persönlich gerichteten Polemik<note xml:id="n38">Vgl. 
+                                    <bibl corresp="kbga-bibls-1033">
+                                    E. Peterson, <hi rend="italic">Was ist
+                                 Theologie?</hi>, S. 5–14</bibl> bzw. <bibl corresp="kbga-bibls-1034">132–141</bibl>.</note> betrüblich mißverstanden fühle, ist nicht so wichtig, daß ich die
+                     Öffentlichkeit damit behelligen möchte. Das Grundsätzliche wird unten an seiner
+                     Stelle zur Sprache kommen.›</note>
+               </p>
+        </div>
+        <div>
+          <head>1.</head>
+          <p>Ich hoffe <persName ref="kbga-actors-317">Petersons</persName> Intention richtig zu verstehen, wenn ich ausgehe von seinem
+                  Satz, daß Theologie wesenhaft bestehe <hi rend="italic">im konkreten Gehorsam gegen
+                     konkrete Autorität</hi> (S. 9).<note xml:id="n39">
+                            
+                                <bibl corresp="kbga-bibls-1033">
+                                a. a. O., S. 9</bibl> bzw. <bibl corresp="kbga-bibls-1034">136</bibl>: «Zum Mythus
+                     gehört wesentlich, daß er <hi rend="italic">erzählt</hi> wird – so wie etwa
+                        <persName ref="kbga-actors-221">Kierkegaard</persName> die Erzählung von der
+                     Opferung <persName ref="kbga-actors-2198">Isaaks</persName> erzählt hat. Zur Theologie aber gehört nicht, daß sie erzählt
+                     wird, sondern daß in ihr konkret gefragt und konkret geantwortet wird, daß in
+                     ihr konkrete Autorität und konkreter Gehorsam laut wird.»</note> Dieser Satz
+                  sagt zwar, was ja wohl auch <persName ref="kbga-actors-317">Petersons</persName> Meinung ist, nicht alles, was zu sagen ist.
+                  Er ist aber an sich aus folgenden Gründen richtig: <hi rend="italic">Theologie</hi> ist
+                  der in einem bestimmten Jetzt und Hier in den Formen begrifflichen Denkens sich
+                  vollziehende Dienst bestimmter Menschen an Gottes <hi rend="italic">Offenbarung</hi>.<note xml:id="ne" type="original">Vgl. dazu die Definition von <hi rend="italic">Gogarten</hi>: Th. ist «die kritische methodische Besinnung des Theologen
+                     darüber, was er tut, wenn er auf Grund der Offenbarung von Gott redet» (<bibl corresp="kbga-bibls-2362">Z. d. Z. Heft 9, S. 78</bibl>)<note xml:id="n40">
+                                <bibl corresp="kbga-bibls-2362">
+                                    <persName ref="kbga-actors-137">Fr. Gogarten</persName> in:
+                                 [ders./H. Herrigel,] <title level="a">Vom
+                                 skeptischen und gläubigen Denken. Ein Briefwechsel</title>, in:
+                                 ZZ, Jg. 3 (1925), [Heft 1 =]
+                              Heft IX [der ganzen Zeitschrift], S. 62–83; S. 78</bibl>: «Wenn
+                        ich sagte, daß die Theologie die kritische methodische Besinnung des
+                        Theologen sei darüber …»</note>, und die von <hi rend="italic">
+                                <persName ref="kbga-actors-512">Bultmann</persName></hi>: Th. ist «die begriffliche
+                     Darstellung der Existenz des Menschen als einer durch Gott bestimmten» (<bibl corresp="kbga-bibls-986">Z. d. Z. Heft 12, S. 353</bibl>)<note xml:id="n41">
+                                <bibl corresp="kbga-bibls-986">
+                                    <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="italic">Das
+                                 Problem der theologischen Exegese des Neuen Testaments</hi>,
+                              a. a. O.</bibl></note></note> Zwischen Gottes ebenfalls in einem bestimmten <foreign xml:lang="lat">Hic <pb n="306" ed="kbga-sources-2314"/> et Nunc</foreign> gegebener Offenbarung und der Theologie steht
+                  aber zunächst trennend die <hi rend="italic">Zeit</hi>. Um <pb xml:id="p654" ed="pga"/>
+                  Gegenstand der Theologie werden zu können, muß die Offenbarung der Theologie <hi rend="italic">gleichzeitig</hi> werden. Diese Vergegenwärtigung der Offenbarung
+                  vollzieht sich jedenfalls nicht nur unmittelbar, durch Gottes direktes Reden in
+                  allen Zeiten, sondern auch, wenn auch nicht ohne das Zeugnis und Siegel dieser
+                  Unmittelbarkeit, <hi rend="italic">mittelbar</hi>. Der biblische Kanon und Text, die
+                  von der Kirche mehr oder weniger gemeinsam empfangenen und gewonnenen, als
+                  Bekenntnisse niedergelegten Erkenntnisse, die durch die Arbeit gewisser von der
+                  Kirche als maßgebend anerkannter Lehrer gewiesenen Richtlinien, endlich die
+                  bestimmte Gestalt, in der sich die Offenbarung selbst in jedem bestimmten Jetzt
+                  und Hier gerade so und nicht anders darbietet – sie bilden miteinander die in
+                  ihrer Geschlossenheit nur annähernd erkennbare, aber darum nicht weniger gegebene
+                     <hi rend="italic">Form</hi>, in der jede Theologie allein ihren Gegenstand bekommt.
+                  Diese Form ist die konkrete Autorität, der sie konkreten Gehorsam zu leisten hat.
+                  Wie die Theologie – <foreign xml:lang="lat">theologia</foreign> <foreign xml:lang="grc" rend="Ell">ἔκτυπος</foreign>, <foreign xml:lang="lat">theologia viatorum</foreign> nach den feinen Erläuterungen der Alten: im
+                  Gegensatz zur <foreign xml:lang="lat">theologia</foreign> <foreign xml:lang="grc" rend="Ell">ἀρχέτυπος</foreign>
+                  Gottes selbst, zu der <foreign xml:lang="lat">theologia comprehensorum</foreign>, nämlich der Engel und Seligen im
+                     Himmel<note xml:id="n42">Zu dieser Unterscheidung in der altprotestantischen
+                     Orthodoxie vgl. <bibl corresp="kbga-bibls-263">
+                                HpB 6f.</bibl>; <bibl corresp="kbga-bibls-1616">
+                                SchmP 28.</bibl></note> – wie also die Theologie irdischer Menschen an einer bestimmten Stelle in
+                  der Zeit ist, so auch, in gnadenvoller Zuwendung, ihr Gegenstand, die Offenbarung.
+                  Der bestimmten Stelle entspricht die bestimmte Form beider, der Offenbarung und
+                  der ihr dienenden Theologie die Form der Autorität und des Gehorsams. Daß es keine
+                  Theologie gibt (weil keine mittelbare Gegenwart der Offenbarung) ohne die
+                  Unmittelbarkeit des ewigen allgegenwärtigen Wortes und Geistes Gottes, in dem ihre
+                     <hi rend="italic">Freiheit</hi> gründet, die Freiheit des an Gott allein gebundenen
+                  Glaubens, das kann nichts daran ändern, daß sie jedenfalls <hi rend="italic">auch</hi>
+                  konkreter Gehorsam ist gegen konkrete Autorität. Eine Theologie, die das <pb n="307" ed="kbga-sources-2314"/> wirklich nicht wäre, wäre notwendig
+                  gegenstandslos, sie wäre überhaupt nicht Theologie.</p>
+        </div>
+        <div>
+          <head>2.</head>
+          <p>Bereinigen wir zunächst die Frage nach dem <hi rend="italic">Umfang</hi> dessen, was
+                  hier unter «konkreter Autorität» zu verstehen ist. <persName ref="kbga-actors-317">Peterson</persName> redet
+                  verwunderlicherweise nur vom Dogma. Gemeint ist dabei sicher nicht die Idee <pb xml:id="p655" ed="pga"/> oder das Wesen des Dogmas, sondern (auf der
+                  Konkretheit der bezeichneten Größe liegt gerade der Nachdruck) das da und da, dann
+                  und dann formulierte und approbierte Dogma. Man könnte <persName ref="kbga-actors-317">Peterson</persName> gegenüber wie
+                  kürzlich <persName ref="kbga-actors-155">Harnack</persName> gegenüber den
+                     Hochkirchlern<note xml:id="nf" type="original">
+                            <bibl corresp="kbga-bibls-2363">
+                                Christl.
+                              Welt 1925, Nr. 7/8, Sp. 166f.</bibl><note xml:id="n43">
+                                <bibl corresp="kbga-bibls-2363">
+                                    <persName ref="kbga-actors-455">A. von
+                                 Harnack</persName>, <title level="a">Una Sancta</title>, in CW, Jg. 39 (1925), Sp. 163–168</bibl>, hält
+                        den Wortführern des «<title level="m">Hochkirchlich-Ökumenischen Bundes</title>» vor (Sp. 167): «Mit dem gesteigerten Leichtsinn, mit welchem heute
+                        die Geschichte nicht studiert, aber dienstbar gemacht wird, wird uns einfach
+                        der Begriff ‹Die alte ungeteilte Kirche› hingeworfen, dazu die ökumenischen
+                        Symbole, von denen doch nur <hi rend="italic">eines</hi> ökumenisch ist! Welche
+                        «alte ungeteilte Kirche› ist hier überhaupt gemeint? Die des 15.
+                        Jahrhunderts oder des 11. oder des 9. oder des 6.? Und was ist unter ihrem
+                        ‹Besitz› verstanden? Soll Alles heute als <hi rend="italic">Grundlage</hi>
+                        gelten, was im 15. oder 11. oder im 9. oder im 6. Jahrhundert gegolten hat?
+                        Soll ihm gegenüber wirklich alle Kritik verstummen? Und wie? Ist an
+                        Abendland und Morgenland gedacht oder nur an Jenes?»</note></note> auf
+                  Beantwortung der Frage drängen: <hi rend="italic">welches</hi> Dogma denn nun
+                  eigentlich; gemessen an der Norm <hi rend="italic">welches</hi> Jahrhunderts hat <hi rend="italic">die</hi> Kirche <hi rend="italic">das</hi> Dogma kreiert? Aber hier müßte
+                  ich mich auf <persName ref="kbga-actors-317">Petersons</persName> Seite schlagen und sagen: Darauf kann ein einzelner
+                  Theologe leider Gottes heute nur private, zufällige, unmaßgebliche Antwort geben.
+                  Er kann sagen: die und die von der Teilkirche, der ich zunächst verpflichtet bin,
+                  in der Reformationszeit aufgestellten und seither nicht zurückgenommenen oder
+                  ersetzten Bekenntnisse mit den und den altkirchlichen Voraussetzungen, auf denen
+                  sie ruhen, sind das, was ich, wenn ich «<hi rend="italic">Dogmatik</hi>» treibe, das «<hi rend="italic">Dogma</hi>» nenne. Aber diese seine Antwort
+                  ist, und wenn sie noch so wohl begründet wäre, nicht die Antwort, die hier gegeben
+                  sein müßte. Und zwar darum nicht, weil es eben nur <hi rend="italic">seine</hi> Antwort
+                  ist. Hier müßte aber sinnvollerweise die <hi rend="italic">Kirche</hi> geantwortet
+                  haben, und wenn es nur eine bescheidene Landeskirche oder eine als gemeinsame
+                  Synode legitimierte Vertretung von solchen wäre. Eine sehr wesentliche Bedingung
+                  des Elends unserer heutigen Theologie besteht darin, daß wir, indem wir Theologie
+                  treiben, keine Kirche hinter uns haben, die den Mut besitzt, uns unzweideutig zu
+                  sagen: das und das ist, soweit wir mitzureden haben, Dogma <foreign xml:lang="lat">in concretissimo</foreign>. Sagen
+                  die Kirchen uns das nicht und verlangen sie trotzdem von uns, daß wir «<hi rend="italic">Dogmatik</hi>» lernen und
+                  lehren <pb n="308" ed="kbga-sources-2314"/> sollen, dann gleichen sie wahrlich dem
+                  König <persName ref="kbga-actors-2743">Nebukadnezar</persName>, der von seinen
+                  Weisen nicht nur wissen wollte, was sein Traum bedeute, sondern auch, <pb xml:id="p656" ed="pga"/> was er denn überhaupt geträumt habe [<ref type="can" subtype="bible" target="Dan.2.5">Dan. 2,5</ref>]. Die Verlegenheit, die man
+                  <persName ref="kbga-actors-317">Peterson</persName> mit der Frage, <hi rend="italic">welches</hi> Dogma? bereiten kann, spiegelt
+                  nur die Verlegenheit wider, in der sich unsere evangelische Kirche befindet. Sie
+                  ändert nichts an der Richtigkeit des Satzes, daß es keine Theologie gibt ohne
+                  konkrete Autorität, ohne Dogma.</p>
+          <p>Wichtiger und ernsthafter scheint mir die Feststellung, daß das wirkliche Dogma,
+                  das wir nun also nicht ohne schmerzlichen Humor als bekanntes <foreign xml:lang="lat">concretissimum</foreign>
+                  voraussetzen, für die wirkliche Theologie nie und nirgends die <hi rend="italic">isolierte</hi> Bedeutung gehabt hat, die <persName ref="kbga-actors-317">Peterson</persName> ihm zuschreiben will. Die
+                  Argumentation z. B. der neueren katholischen Dogmatik gründet sich, soweit ich
+                  sehe, auf folgende Autoritäten: 1. Bibelstellen, 2. Väter, 3. Dogma, 4. womöglich
+                  neue päpstliche Entscheidungen. <persName ref="kbga-actors-317">Peterson</persName> hätte ja spöttischerweise anmerken
+                  können, daß bei uns anstelle von Nr. 4 einzusetzen wäre: der Standpunkt des betreffenden
+                  Theologieprofessors, aber er hätte nicht unterlassen dürfen, die Vielheit der in
+                  der Theologie tatsächlich angerufenen Autoritäten – in seiner Sprache zu reden –
+                  als «Ausdruck eines Sachverhalts»<note xml:id="n44">Vgl. z. B. 
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, a. a. O., S. 20</bibl> bzw.
+                           <bibl corresp="kbga-bibls-1034">146</bibl>: «Der objektive und konkrete Ausdruck aber dafür, daß
+                     Gott in der Menschwerdung den Menschen auf den Leib gerückt ist, ist das Dogma.
+                     Es ist so sehr der adäquate Ausdruck für diesen Sachverhalt, daß jede Wendung
+                     gegen das Dogma, wie sie der Ketzer unternimmt, sinnvollerweise auch eine am
+                        <hi rend="italic">Leibe</hi> des Ketzers vorgenommene Bestrafung im Gefolge
+                     hat.»</note> zu werten. Es würde sich dann herausgestellt haben, daß innerhalb
+                  des Begriffes der konkreten Autorität das Dogma doch nur ein Moment neben anderen
+                  ist. Hinter dem Dogma stehen die Feststellungen der Kirche über Kanon und Text der
+                     <hi rend="italic">Bibel</hi>, neben dem Dogma das Votum der jeweils maßgebenden <hi rend="italic">Väter</hi>, der <foreign xml:lang="lat">doctores ecclesiae</foreign> (denken Sie nur an die
+                  eigentümliche Dignität des Lutherzitates in den theologischen Verhandlungen
+                  unserer protestantischen Gegenwart; auch die durchaus nicht zu mißachtenden
+                  besonderen Traditionen etwa der lutherischen bzw. reformierten theologischen <hi rend="italic">Schule</hi> wären hier zu erwähnen), hinter Dogma und Vätern endlich wahrlich
+                  nicht der Standpunkt des betreffenden Professors, sondern eben jene der Willkür
+                  des einzelnen prinzipiell überlegene, aktuelle gegenwärtige Autorität, welche in
+                  der katholischen Theologie beneidenswert <pb n="309" ed="kbga-sources-2314"/> (und
+                  doch nicht beneidenswert) handgreiflich durch den Begriff des im Papste
+                  verkörperten kirchlichen <pb xml:id="p657" ed="pga"/> Lehramtes bezeichnet ist,
+                  während wir uns begnügen müssen, das objektive Gegebensein einer «<hi rend="italic">Kairos</hi>»-Notwendigkeit, um mit <persName ref="kbga-actors-406">Tillich</persName> zu reden<note xml:id="n45">Vgl. <persName ref="kbga-actors-2151">Barths</persName> Bemerkung nach
+                     seiner ersten Begegnung mit <persName ref="kbga-actors-406">Tillich</persName>
+                     im Frühjahr <date when="1922">1922</date>: «… ein in <placeName ref="kbga-places-8">Berlin</placeName> und bei den <persName ref="kbga-actors-1003">Stefan Georgianern</persName> beliebtes Stichwort …»;
+                     vgl. 
+                                <bibl corresp="kbga-bibls-2123">
+                                <persName ref="kbga-actors-406">P. Tillich</persName>,
+                              <title level="a">Kairos I</title> (1922), in: ders.,
+                              <hi rend="italic">Gesammelte Werke</hi>, Bd. VI: <hi rend="italic">Der
+                              Widerstreit von Raum und Zeit. Schriften zur
+                              Geschichtsphilosophie</hi>, hrsg. von R. Albrecht,
+                              Stuttgart 1963, S. 9–28</bibl>;
+                        
+                                <hi rend="italic">Antwort</hi> [auf <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="m">Von der
+                              Paradoxie des «positiven Paradoxes». Antworten und Fragen an Paul Tillich</title>]
+                              (<date when="1923">1923</date>), in diesem Band <ref type="pub" target="../volume/19/p376#p376">S. 376</ref>: «Der Begriff
+                     des ‹Kairos› bedeutet für mich, daß man nicht zu jeder Zeit Jedes sagen und tun
+                     kann, sondern daß jede Zeit die Aufgabe hat, den ewigen Sinn aller Zeit aus
+                     ihrem Leben und ihren Worten neu zu schöpfen.»</note>, eine auf keinem Papier
+                  stehende und doch verpflichtende Bestimmtheit jedes Augenblicks für alle
+                  theologische Arbeit anzuerkennen<note xml:id="n46">Die Zeilen von «während wir
+                     uns» bis hier sind am Rand des Handexemplars <persName ref="kbga-actors-2151">Barths</persName> von <bibl corresp="kbga-bibls-954">
+                                Th. u. K.</bibl>
+                     mit einer Schlangenlinie angestrichen (Ausdruck späterer Selbstkritik).</note>,
+                  ohne sie von der ebenso unentbehrlich gegenwärtigen Erleuchtung des einzelnen
+                  Arbeiters unmittelbar durch Wort und Geist Gottes juristisch greifbar
+                  unterscheiden zu können. Die Feststellungen der Kirche über Kanon und kanonischen
+                  Text der Schriftoffenbarung, über gewisse mehr oder weniger einhellig anerkannte
+                  Grundsätze der auf jene sich gründenden kirchlichen Verkündigung, erklärt durch
+                  die Stimme der Väter, endlich eben jenes (gleichfalls als kirchlich zu
+                  verstehende) Gebot der Stunde, diese drei oder vier (wie man sieht, auf ganz
+                  verschiedenen Ebenen liegenden und in ganz verschiedenem Sinn bedeutsamen) Momente
+                  miteinander – nicht aber das Dogma allein bilden die konkrete Autorität, der die
+                  Theologie konkreten Gehorsam zu leisten hat.</p>
+        </div>
+        <div>
+          <head>3.</head>
+          <p>Die Theologie lebt vom Dogma, sagt <persName ref="kbga-actors-317">Peterson</persName>.<note xml:id="n47">Vgl. etwa 
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, a. a. O., S. 23</bibl>
+                           bzw. <bibl corresp="kbga-bibls-1034">150</bibl>: «Eine Theologie, die nicht <hi rend="italic">wesentlich</hi> vom Dogma bestimmt ist, ist vielmehr darum Phantasterei,
+                     weil in ihr die Offenbarung in Christus nicht konkret zum Ausdruck kommt. …
+                     Erst durch das Dogma wird die Theologie aus ihrer Verbindung mit den
+                     zweifelhaftesten aller Wissenschaften, den sogenannten Geisteswissenschaften
+                     gelöst, aus dieser Umgebung von Weltgeschichte, Literaturgeschichte,
+                     Kunstgeschichte, Lebensphilosophie und wie das alles heißt, befreit. Erst durch
+                     das Dogma wird sie in eine Sphäre erhoben, in der ein <hi rend="italic">Mann</hi>
+                     leben kann.»</note> Sie lebt <hi rend="italic">auch</hi> vom Dogma, haben wir
+                  berichtigen zu müssen geglaubt. Wir fragen nun weiter: wie kommt sie dazu, vom
+                  Dogma im Zusammenhang mit den ge<pb xml:id="p658" ed="pga" break="no"/>nannten
+                  anderen Momenten leben zu müssen? Wessen Autorität ist es denn, die sie hier
+                  anerkennt? Worauf wieder im Einklang mit <persName ref="kbga-actors-317">Peterson</persName> resolut zu antworten ist: Es ist
+                  zweifellos die Autorität der Kirche, die sie hier anerkennt. Wohl verstanden:
+                  Gehorsam ist <hi rend="italic">nicht Pietät</hi>. Es wäre <hi rend="italic">nicht</hi> wohl
+                  getan, hier etwa von einer Autorität der <hi rend="italic">Geschichte</hi> zu reden,
+                  obwohl doch die Momente, aus denen sich diese Autorität zusammensetzt,
+                  unverkennbar geschichtliche Daten darstellen. Aber die Geschichte oder ein
+                  Ausschnitt aus der Geschichte, Kanon und Text, Väter und Dogma, das Gebot der
+                  Stunde endlich, als geschichtliche Größen und Notwendigkeiten verstanden, können,
+                  christlich-theologisch betrachtet, gerade keine <pb n="310" ed="kbga-sources-2314"/> Autorität bedeuten, und zwar darum nicht, weil der Kardinalsatz einer gewissen
+                  theologisierenden Philosophie, daß Geschichte und Gott, Geschichte und Offenbarung
+                     «zuhaufe»<note xml:id="ng" type="original">So <bibl corresp="kbga-bibls-2364">
+                                <persName ref="kbga-actors-368"><hi rend="italic">Schmidt-Japing</hi></persName>, Zeitschrift f. syst. Theol. I 69ff.</bibl><note xml:id="n48">
+                                <bibl corresp="kbga-bibls-2364">
+                                    <persName ref="kbga-actors-368">[J. W.] Schmidt-Japing</persName>, <title level="a">Geschichte und Offenbarung</title>, in: ZSTh, Jg. 1 (1923), S. 69–91; S. 88</bibl>: «Soviel nur können wir sagen im Angesicht dieses unser
+                        ganzes geschichtliches Sein umfassenden Geheimnisses: <hi rend="italic">Geschichte und Offenbarung gehören zu
+                                 Haufe</hi>.»</note> ‹Indem ich eben mit der
+                     Korrektur dieses Vortrages beschäftigt bin, erhalte ich von <persName ref="kbga-actors-368">Schmidt-Japing</persName> seinen neuesten Aufsatz:
+                     <bibl corresp="kbga-bibls-2365">«Die christologischen Anschauungen der dialektischen Theologie» (Apologet. Jahrb. [,
+                              Gütersloh] 1925, S. 87–112)</bibl>.<note xml:id="n49">Ein Separatdruck dieses Aufsatzes,
+                        der <persName ref="kbga-actors-2151">Barth</persName> durch <persName ref="kbga-actors-368">Schmidt-Japing</persName>
+                        dediziert worden war, befindet sich im <ref type="kba-objects-id">Karl Barth-Archiv</ref>, Basel. Er trägt
+                        die Widmung: «<foreign xml:lang="lat">adversario, non inimico. D. Vf.</foreign>».</note> Er wird dem obigen
+                     entnehmen, daß mir sein und seiner Freunde Weg (ich erwähnte ihn im Text
+                     wirklich nur beispielsweise) nicht minder bedenklich ist als ihm offenbar der
+                     meinige. «Jedes Reden von Gott, in dem das … Zeugnis der Vergangenheit
+                     verworfen oder umgedeutet wird, steht in der Gefahr, mit der Geschichte auch
+                     den lebendigen Gott zu verlieren, der sie wirkt und regiert», schreibt er auch
+                     jetzt wieder gleich S. 87. Ich frage: Wie kommt denn die <hi rend="italic">Vergangenheit</hi> dazu, Trägerin des <hi rend="italic">Zeugnisses</hi> im
+                     theologischen Sinn dieses Begriffs zu werden? Ist die <hi rend="italic">Geschichte</hi> etwa darum, weil sie in der Tat von Gott gewirkt und
+                     regiert ist wie alles Geschaffene, – <hi rend="italic">nicht</hi> «Finsternis»? Hat
+                     sie nicht <hi rend="italic">aufgehört, Subjekt</hi> zu sein, wenn sie da und dort
+                     (aber das ist dann in den Kategorien des Vorsehungsgedankens kaum mehr
+                     auszudrücken!) tatsächlich Zeugnis vom «Licht» sein sollte? Wie in aller Welt
+                     kommt (S. 107) Geschichte dazu, «Heil wirkend» zu sein, und umgekehrt das Leben
+                     Jesu «geschichtsbildend»?<note xml:id="n50">
+                                <bibl corresp="kbga-bibls-2365">
+                                    a. a. O., S. 107</bibl>: «Aber mit
+                        Bewußtsein wird sowohl von <persName ref="kbga-actors-2151">Barth</persName> als von <persName ref="kbga-actors-167">Hegel</persName> nicht nur die bloße Tatsächlichkeit, die dem Chronisten
+                        eines profanen oder heiligen Geschehens wichtig sein mag, abgelehnt, sondern
+                        auch der davon ganz verschiedene konkret-geheimnisvolle Zusammenhang der
+                        Ereignisse und Taten, der mit dem Leben Jesu anhebend als Heil wirkende
+                        Geschichte unsere Gegenwart bestimmt. … Durch eine solche Verkennung des
+                        geschichtsbildenden Lebens Jesu wird die Gestalt Christi für <persName ref="kbga-actors-2151">Barth</persName> wie für
+                           <persName ref="kbga-actors-167">Hegel</persName> eigentümlich
+                        unkonkret.»</note> Sollte es denn gar nicht gelingen, diesen
+                     distinktionslosen Gebrauch eines Begriffs, der nie und nimmer in die Theologie
+                     gehört (<ref type="can" subtype="bible" target="Joh.1.14">Joh. 1,14</ref> gibt
+                     wirklich zu diesem Mißbrauch keinen Anlaß!), ebenso einzudämmen, wie dies
+                     gegenüber dem ähnlichen Greuel, der mit dem Begriff «Erlebnis» in noch nicht
+                     ferner Vergangenheit getrieben wurde, wenigstens einigermaßen gelungen
+                     ist?›</note> ge<pb xml:id="p659" ed="pga" break="no"/>hörten, falsch ist.
+                  Geschichte kann wohl ein Prädikat der Offenbarung werden, aber nie und nimmer wird
+                  die Offenbarung zum Prädikat der Geschichte. Wer Geschichte sagt, sagt eben damit
+                  Nicht-Offenbarung. Geschichte bedeutet in der Theologie genau das, was <persName ref="kbga-actors-2239">Pontius Pilatus</persName> im Credo<note xml:id="n51">Vgl. <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum
+                              Apostolicum</title>, BSLK 21,12</bibl>; <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum Nicaenum</title>, BSLK 26,16.</bibl></note>. Denn die Geschichte als Subjekt steht wohl wie der Mensch als solcher in
+                  direkter Relation zu Gottes Schöpfung, aber auch zu <persName ref="kbga-actors-2144">Adams</persName> Fall und Ausstoßung aus
+                  dem Paradies [vgl. <ref type="can" subtype="bible" target="Gen.3">Gen. 3</ref>]
+                  und gerade <hi rend="italic">nicht</hi> zu Christus und der in ihm geschehenen
+                  Versöhnung. Geschichte ist: «der ganze unbegreifliche Zwischenzustand zwischen
+                  Schöpfung und Erlösung, in dem wir uns befinden».<note xml:id="nh" type="original">So <bibl corresp="kbga-bibls-2366">
+                                <hi rend="italic">Thurneysen</hi>, Z. d. Z.
+                           Heft 9, S. 27.</bibl><note xml:id="n52">
+                                <bibl corresp="kbga-bibls-2366">
+                                    <persName ref="kbga-actors-403">E. Thurneysen</persName>, <title level="a">Der
+                                 Prolog zum Johannes-Evangelium</title>, in: ZZ, Jg. 3 (1925), [Heft 1 =] Heft IX [der
+                              ganzen Zeitschrift], S. 12–37.</bibl></note></note> Sie ist <foreign xml:lang="grc" rend="Ell">σκοτία</foreign>, die
+                  Finsternis, die das Licht nicht begriffen hat [vgl. <ref type="can" subtype="bible" target="Joh.1.5">Joh. 1,5</ref>]. Aber wie der Schmutz und das
+                  Elend der menschlichen Natur in der Fleischwerdung des Wortes aufgenommen,
+                  eingetaucht und erhoben ist in die Heiligkeit und Sündlosigkeit des ewigen Gottes,
+                  wie der Mensch, ohne aufzuhören, in sich selbst ein Sünder zu sein, in Christus
+                  begnadigt, gerechtfertigt und geheiligt ist, so und im selben Sinn ist von einer
+                  durch die Offenbarung <hi rend="italic">qualifizierten</hi> Geschichte zu reden, die,
+                  ohne aufzuhören, in sich selber zu sein, was alle Geschichte ist, qualifiziert
+                  durch die Offenbarung nun <hi rend="italic">nicht bloß</hi> Zwischenzustand ist. Gewiß
+                  ist das Reich, in dem die <foreign xml:lang="lat">peccatores electi</foreign>, durch das fleischgewordene Wort
+                  geeinigt und versöhnt, ihrer Erlösung entgegensehen mitten in der Geschichte, in
+                  allen seinen Erscheinungen selbst Geschichte und steht mit allen anderen
+                  geschichtlichen Wirklichkeiten im selben finsteren Schatten. Aber nicht bloß das
+                  ist von ihm zu sagen, sondern nun das andere überschwengliche Wort, <pb xml:id="p660" ed="pga"/> daß dies eben mitten im Schattenreich das Reich des
+                  Lichtes ist, regiert durch den himmlischen Herrn, geglaubt von den Elenden, seinen
+                  Erwählten und Berufenen, die eine, heilige, allgemeine apostolische <hi rend="italic">Kirche</hi><note xml:id="n53">
+                            <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum Nicaenum</title>, BSLK 26,7f.</bibl></note>: in aller Fragwür<pb n="311" ed="kbga-sources-2314"/>digkeit ihrer Erscheinung der verborgene und doch
+                  nicht verborgene Weg durch die Zeiten, auf dem die Offenbarung zu den Völkern und
+                  Geschlechtern kommt. Auf diesem Weg wird sie dann u.a. auch immer wieder zum
+                  Gegenstand der Theologie. Indem die Theologie anerkennt, daß ihr die Offenbarung
+                  jedenfalls <hi rend="italic">auch</hi> mittelbar, in Form konkreter Autorität gegeben
+                  ist, lebt sie, ohne die geschichtliche Bedingtheit dieser Form auch nur einen
+                  Augenblick zu vergessen, nicht von der Geschichte. Denn die Geschichte hat keine
+                  theologische Autorität, wohl aber die <hi rend="italic">Kirche</hi>.</p>
+        </div>
+        <div>
+          <head>4.</head>
+          <p>Aber eben als Autorität der <hi rend="italic">Kirche</hi> ist nun die konkrete
+                  Autorität, der die Theologie konkret zu gehorchen hat, näher zu bestimmen.
+                  <persName ref="kbga-actors-317">Peterson</persName> stellt das Verhältnis zwischen Christus und seiner Kirche dar unter
+                  Anwendung des biblischen Tropus vom Haupt und Leib<note xml:id="n54">Vgl. 
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, a. a. O., S. 32</bibl>
+                           bzw. <bibl corresp="kbga-bibls-1034">149, Anm. 23</bibl>.</note> und sagt, daß die Autorität des Dogmas die abgeleitete Autorität Christi,
+                  die von ihm bei seiner Himmelfahrt der Kirche verliehene Autorität (S. 16,22)
+                     sei.<note xml:id="n55">
+                            
+                                <bibl corresp="kbga-bibls-1033">
+                                a. a. O., S. 16</bibl> bzw.
+                           <bibl corresp="kbga-bibls-1034">143</bibl>: «Die Theologie gründet daher auch nicht in der
+                     Autorität, die die Propheten hatten, kraft dessen, daß sie Gottes Wort sagten,
+                     und sie gründet auch nicht in der Autorität, die Christus nicht nur hatte,
+                     sondern auch war, kraft dessen, daß er als das Wort Gottes von Gott redete,
+                     sondern Theologie gibt es nur unter der Voraussetzung der Autorität der
+                     Propheten und der Autorität Christi – mit andern Worten, <hi rend="italic">die in
+                        der Theologie sich manifestierende Autorität ist abgeleitete
+                     Autorität</hi>.» – S. 23 bzw. 150: «Denn wie es Dogma erst seit der Himmelfahrt
+                     gibt und Kirche erst seitdem gibt, so gibt es auch Theologie erst von diesem
+                     Zeitpunkt an. Man kann keine Antwort auf die Frage: Was ist Theologie? geben,
+                     wenn man vergißt, daß das Wort Gottes Fleisch geworden ist und von Gott geredet
+                     hat. Man kann aber auch keine Antwort auf die Frage: Was ist Theologie? geben,
+                     wenn man das andere vergißt, daß Christus zum Himmel gefahren ist und daß es
+                     Dogma gibt.»</note> Dem ist grundsätzlich zuzustimmen. Wäre die Autorität der
+                  Kirche nicht die ihr irgendwie übertragene Autorität Christi, so könnte sie für
+                  die Theologie so wenig Autorität sein wie die Geschichte. Aber nun wird, wenn man
+                  genau sein will, größter Nachdruck darauf zu legen <pb xml:id="p661" ed="pga"/>
+                  sein, daß es sich dabei nach <persName ref="kbga-actors-317">Petersons</persName> eigenen Worten um die «verliehene» oder
+                  (weniger glücklich) die «abgeleitete» Autorität Christi handelt. Der Leib ist eben
+                  auf Erden, das Haupt im Himmel. Der Leib in der ganzen Zweideutigkeit der ihrer
+                  Erlösung erst harrenden sarkischen Menschenwelt, das Haupt in der Glorie des
+                  Vaters, das Haupt dem Leibe nicht anders gegenwärtig und zu eigen als in der
+                  ganzen Würde und Machtvollkommenheit des <hi rend="italic">Hauptes</hi>, d. h. aber als
+                  das <hi rend="italic">Wort</hi> und durch den <hi rend="italic">Geist</hi> des Vaters und
+                  des Sohnes. Der Satz <persName ref="kbga-actors-317">Petersons</persName>: «Als er aber zum Himmel aufgefahren war, da
+                  sprachen weder die anderen noch er selbst von seiner Autorität, da hat er seine
+                  Gewalt der Kirche verliehen» (S. 22)<note xml:id="n56">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 149</bibl>.</note> ist kein guter Satz. Denn das kann die Gewaltverleihung an seine
+                  Kirche sinn<pb n="312" ed="kbga-sources-2314"/>vollerweise nicht bedeuten, daß
+                  Christus zu ihren Gunsten sozusagen abgedankt, daß er sich auch nur teilweise in
+                  ihre Gewalt begeben, daß er aufgehört hätte, auch ihr gegenüber ganz und gar <hi rend="italic">Gott</hi> zu sein. Himmelfahrt bedeutet nicht nur, wie <persName ref="kbga-actors-317">Peterson</persName> es
+                  darstellt, die Übertragung stellvertretender, sekundärer Gewalt an die Kirche,
+                  sondern auch den Abschied des eigentlichen, primären Gewalthabers, das
+                  Sichtbarwerden der der Kirche gesetzten eschatologischen <hi rend="italic">Grenze</hi>.
+                  Die Erhöhung des Hauptes bedeutet wahrlich für den Leib auch eine Erniedrigung,
+                  die Versetzung in einen Stand der Demut und des Wartens. Der Vorbehalt des <hi rend="italic">Pfingst</hi>wunders und der <hi rend="italic">Pfingst</hi>gabe dürfte nie
+                  vergessen, nie als selbstverständlich behandelt werden, wenn man von ihrer Gewalt
+                  redet. Man wird also der bei <persName ref="kbga-actors-317">Peterson</persName> sehr häufigen Formel: «<hi rend="italic">Es
+                     gibt</hi>» dies und das, z. B. Dogma, Sakrament, Theologie<note xml:id="n57">
+                            <bibl corresp="kbga-bibls-1033">S. 24</bibl> bzw. <bibl corresp="kbga-bibls-1034">150</bibl>: «Ich bekenne aber, daß, wenn ich zu wählen hätte, ob ich dem
+                     Gesetz menschlicher Lehrmeinungen und den Schulüberzeugungen der Professoren
+                     gehorchen wollte, oder dem Dogma der Kirche, daß ich mich ohne langes Besinnen
+                     für das letztere entscheiden würde. Aber Gott sei Dank, wir <hi rend="italic">brauchen</hi> ja nicht zu wählen. Brauchen darum nicht zu wählen, weil es
+                     Dogma <hi rend="italic">gibt</hi> …» S. 21 bzw. 148: «Erst als das Wort Gottes
+                     Fleisch geworden war und damit alles frühere prophetische Sagen des Wortes
+                     Gottes versiegelt hatte, erst als das Wort Gottes von Gott redete, erst seitdem
+                     gibt es auch Dogma und Sakrament.» – S. 18 bzw. 145: «Es <hi rend="italic">gibt</hi>
+                     keine Theologie bei Juden und Heiden, es <hi rend="italic">gibt</hi> Theologie nur
+                     im Christentum und nur unter der Voraussetzung, daß das fleischgewordene Wort
+                     von Gott geredet hat.»</note> usf., mindestens einen sehr vorsichtigen – <foreign xml:lang="lat">sit
+                  venia verbo</foreign> – «dialektischen» Gebrauch wünschen müssen. Was «gibt» es denn in
+                  diesem Zu<pb xml:id="p662" ed="pga" break="no"/>sammenhang, dem es nicht
+                  wesentlich wäre, daß <hi rend="italic">Gott</hi> «es gibt», und zwar nicht ein für
+                  allemal, sondern immer wieder gibt? Man wird von «Elongaturen» und «Fortsetzungen»
+                  der Offenbarung<note xml:id="n58">
+                            Vgl. z. B. <bibl corresp="kbga-bibls-1033">S. 19.21</bibl> bzw. <bibl corresp="kbga-bibls-1034">145f. 148.</bibl></note>, von
+                  «abgeleiteter» Autorität u. dgl. zur Vermeidung naturalistischer Konfusionen
+                  zwischen Himmel und Erde lieber gar nicht reden. Und wenn man durchaus sagen will,
+                  daß das Dogma uns «aus dem Leib Christi» heraus «<foreign xml:lang="lat">jure divino</foreign>» treffe (S. 20)<note xml:id="n59">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 146</bibl>.</note>, so wird genau zu sagen sein, in
+                  welchem bestimmt differenzierten Sinne hier von <foreign xml:lang="lat">jus divinum</foreign> die Rede sein kann.
+                  Die Autorität, mit der die Kirche den Kanon fixiert, Dogma proklamiert usf., ist
+                  offenbar Autorität Christi in <hi rend="italic">sekundärem</hi> Sinn, d. h. aber sie
+                  ist zeitliche, relative, formelle Autorität. Sie ist 1. <hi rend="italic">zeitliche</hi> Autorität, d. h. sie ist so Autorität, wie es eben auf Erden,
+                  diesseits der Wiederkunft Christi, Autorität geben kann. Nämlich Autorität, die
+                  (anders als die Autorität ihres Hauptes) in ihrem Ursprung auch ihre Grenze hat,
+                  die auf Unfehlbarkeit und Unveränderlichkeit ihrer Entscheidungen<note xml:id="n60">Vgl. die entsprechende Definition in der 
+                                <title level="a">Constitutio dogmatica
+                     «Pastor aeternus»</title> des I. Vaticanum (<date when="1870-07-18">18.7.1870</date>), <bibl corresp="kbga-bibls-1938">
+                                    DS 3074.</bibl></note> keinen Anspruch machen kann. Die Kirche ist die Kirche der begnadigten
+                  Schächer [vgl. <ref type="can" subtype="bible" target="Lk.23.39 Lk.23.43">Lk. 23,39–43</ref>], die auf ihre Er<pb n="313" ed="kbga-sources-2314"/>lösung
+                  warten. Das bricht ihre Autorität nicht, aber das bezeichnet ihre Schranke. Sie
+                  ist 2. <hi rend="italic">relative</hi> Autorität, d. h. sie «repräsentiert» nur, wie
+                  auch <persName ref="kbga-actors-317">Peterson</persName> sagt, die göttliche Autorität.<note xml:id="n61">Vgl. <bibl corresp="kbga-bibls-1033">S. 22.32</bibl> bzw.
+                     <bibl corresp="kbga-bibls-1034">149 mit Anm. 24</bibl>.</note> Die Sitte, die Ketzer «am Leibe zu bestrafen», die von
+                  <persName ref="kbga-actors-317">Peterson</persName> nicht ohne eine gewisse spanische Wärme erwähnt wird (S. 20)<note xml:id="n62">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 146</bibl>.</note>, ist doch wohl besonnenerweise als
+                  <foreign xml:lang="lat">abusus</foreign> und nicht als <foreign xml:lang="lat">usus</foreign> zu werten, weil sie offenkundig auf einer
+                  verhängnisvollen Verwechslung gerade an diesem Punkte beruht. Kirchliche Autorität
+                  ist nicht Autorität in sich selber, sondern in <hi rend="italic">Beziehung</hi> auf die
+                     <hi rend="italic">eigentliche</hi> Autorität des Herrn in seiner Glorie. Und unter
+                  dieser Voraussetzung dürfte es geraten sein, einander lieber <hi rend="italic">nicht</hi> zu verbrennen. Sie ist endlich 3. <hi rend="italic">formelle</hi>
+                  Autorität, d. h. sie ersetzt in keiner Weise die Offenbarung. Sie bestimmt und
+                  verändert sie auch nicht, weder ihren Inhalt noch ihren Gang. Sie ist nur ihr
+                  Kanal. Die Frage nach ihrem Wasser und die Frage nach seinem Fließen steht in
+                  einem anderen Buch. In diesem be<pb xml:id="p663" ed="pga" break="no"/>stimmten
+                  Sinn und nicht anders trifft uns das Dogma und die anderen Momente konkreter
+                  Autorität <foreign xml:lang="lat">jure divino</foreign>. Ihr <foreign xml:lang="lat">jus divinum</foreign> erstreckt sich auf <hi rend="italic">mittelbare</hi> Vergegenwärtigung der Offenbarung. Es ist nicht von der Art,
+                  daß die Kirche es etwa unterlassen könnte, <hi rend="italic">vor und nach</hi> ihren
+                  Entscheidungen nach dem Wort zu forschen und um den Heiligen Geist zu bitten, der
+                  sie <hi rend="italic">allein</hi> in alle Wahrheit leitet [vgl. <ref type="can" subtype="bible" target="Joh.16.13">Joh. 16,13</ref>]. Um <hi rend="italic">das</hi>
+                  <foreign xml:lang="lat">jus divinum</foreign>, mit dem Christus durch Wort und Geist unmittelbar, unfehlbar und
+                  inappellabel entscheidet als <hi rend="italic">Herr</hi> der Kirche, kann es sich nicht
+                  handeln, und diese unmittelbare Autorität, in der die Freiheit des Glaubens, des
+                  Glaubensgehorsams gründet, ist für die Theologie ebenso konstituierend wie die
+                  mittelbare Autorität der Kirche.</p>
+        </div>
+        <div>
+          <head>5.</head>
+          <p>Ist nun zwischen Christi unmittelbarer und seiner der Kirche verliehenen
+                  mittelbaren Autorität, an die die Theologie zunächst gewiesen ist, zu
+                  unterscheiden, so muß es einen Angelpunkt geben, an dem die <hi rend="italic">Unterordnung</hi> der Kirche unter ihren Herrn (das <hi rend="italic">Geben</hi>
+                  und <hi rend="italic">Empfangen</hi> der Offenbarung, das den <pb n="314" ed="kbga-sources-2314"/> Herrn und die Kirche für alle Zeit unterscheidet, als
+                  konkretes Gesetz und Kriterium, als konkretes Gegenüber des mittelbaren Handelns
+                  Christi <hi rend="italic">in</hi> seiner Kirche und seines unmittelbaren Handelns <hi rend="italic">an</hi> ihr) in die Erscheinung tritt.<note xml:id="ni" type="original">Vgl. zu diesem
+                     Punkt: <bibl corresp="kbga-bibls-2367">«Das Schriftprinzip der ref. Kirche», Z. d. Z. Heft 11, bes. S. 228ff.</bibl><note xml:id="n63">
+                                <bibl corresp="kbga-bibls-2367">
+                                    <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das
+                                 Schriftprinzip der reformierten Kirche</title>, in: ZZ, Jg. 3 (1925), [Heft 3 =] Heft XI
+                              [der ganzen Zeitschrift], S. 215–245</bibl>; in diesem Band S. <ref type="pub" target="../volume/19/p500#p500">500ff.</ref></note> = <bibl corresp="kbga-bibls-1050">
+                                Dogmatik I S. 346ff.</bibl><note xml:id="n64">
+                                
+                                    <bibl corresp="kbga-bibls-1050">
+                                    <persName ref="kbga-actors-2151">K.
+                                 Barth</persName>, <title level="a">Die christliche Dogmatik im
+                                 Entwurf</title>, Bd. I: <title level="a">Die Lehre vom Worte
+                                 Gottes, Prolegomena zur christlichen Dogmatik</title>,
+                                 München 1927, S. 346ff.</bibl>; <bibl corresp="kbga-bibls-220">Neuausgabe (siehe <ref type="pub" target="#fn_n37">Anm. 37</ref>), <ref type="pub-" target="14026#p451">S. 451ff.</ref></bibl> – Der Hinweis
+                        auf diese Publikation findet sich erst im Wiederabdruck in <bibl corresp="kbga-bibls-954">
+                                    Th. u. K.</bibl></note></note> Die naturalistische Art, in der <persName ref="kbga-actors-317">Peterson</persName>, den Tropus von Haupt und
+                  Gliedern pressend, den Zusammenhang zwischen Christus und der Kirche darstellt,
+                  hat ihn verhindert, sich die Frage nach diesem kritischen Punkt überhaupt zu
+                  stellen, und hat ihn andererseits veranlaßt, die <hi rend="italic">Bibel</hi>, ihre
+                  Exegese und die auf sie begründete Predigt (mehr als katholisch!) in jene
+                  merkwürdige Abseitsstellung zu drängen, in der sie für die Frage: Was ist
+                  Theologie? schließlich zugunsten des Dogmas überhaupt ausscheidet. In Wirklichkeit
+                  vollzieht sich nun aber die Gewaltübertragung an die Kirche, das <pb xml:id="p664" ed="pga"/> prinzipielle Zustandekommen ihrer konkreten Autorität gerade in Form
+                  der Einsetzung des singulären, unwiederholbaren und unüberbietbaren Amtes des
+                     Offenbarung<hi rend="italic">szeugnisses</hi>, nämlich in Form der Bestätigung des
+                  alttestamentlichen prophetischen und der Inkraftsetzung des neutestamentlichen
+                  apostolischen <hi rend="italic">Wortes</hi>. Dieses gesprochene und geschriebene Wort,
+                  in das die Logos-Offenbarung eingegangen ist, um auszugehen in alle Welt, ist als
+                  solches, als Prinzip aller konkreten Vergegenwärtigung der Offenbarung, der
+                  Ursprung und die Grenze aller solcher Vergegenwärtigung, das Maß, an dem alles,
+                  was die Kirche «spricht» im Namen ihres Herrn, gemessen ist und immer wieder zu
+                  messen ist. Wir müssen hinzufügen: Sofern nämlich Gott der Heilige Geist sich je
+                  und je zu diesem Wort des Zeugen bekennt als zu seinem eigenen Wort, sofern er es
+                  immer wieder unvergleichlich wahr und kraftvoll macht, sofern er in den Herzen
+                  seiner Gläubigen durch dieses Wort seine Entscheidungen herbeiführt und
+                  durchführt. Denn als Wort des <hi rend="italic">Geistes</hi> ist es von Christus
+                  eingesetzt als Grund seiner Gemeinde. Und darum ist derselbe Sachverhalt von der
+                  anderen Seite so zu bestimmen: Die Gewaltübertragung an die Kirche vollzieht sich
+                  durch die <pb n="315" ed="kbga-sources-2314"/> Gabe des heiligen <hi rend="italic">Geistes</hi> der Pfingsten, durch den das alte Propheten- und das neue
+                  Apostelwort zum wirksamen Zeugnis Christi an die Völker und Generationen wird.
+                  Dieser <hi rend="italic">Geist</hi>, durch den die Logos-Offenbarung im gesprochenen
+                  und geschriebenen Zeugenwort ausging in alle Welt, ist als solcher das Prinzip
+                  aller Vergegenwärtigung und Offenbarung, der unfehlbare und unveränderliche Herr
+                  und Richter über allem, was die Kirche «spricht». Aber dann ist hinzuzufügen:
+                  Sofern es nämlich der Geist des Sohnes ist, d. h. des fleischgewordenen, aber auch
+                  sprache- und schriftgewordenen göttlichen <hi rend="italic">Wortes</hi>, sofern er als
+                  der Geist, der in den Herzen der Gläubigen redet, kein anderer ist als der Geist
+                  der Propheten und Apostel. Es ist der Geist des Wortes und kein anderer, der die
+                  Kirche in alle Wahrheit leitet [vgl. <ref type="can" subtype="bible" target="Hiob.16.13">Joh. 16,13</ref>]. <hi rend="italic">Wort</hi> und <hi rend="italic">Geist</hi> zusammen also (und keines von beiden ist größer oder kleiner)
+                  bilden den kritischen Punkt, wo die unmittelbare Autorität Christi der mittelbaren
+                  Autorität der Kirche begründend, aber auch begrenzend gegenübertritt. In <hi rend="italic">Beziehung</hi> auf jene gibt es diese, als deren Erscheinung wir z. B.
+                  den fixierten Kanon, das proklamierte Dogma, die Geltung maßgebender Lehrer der
+                  Kirche usf. zu erkennen haben. Im Blick auf jene prinzipielle Form aller
+                  Vergegenwärtigung der Offenbarung, d. h. <pb xml:id="p665" ed="pga"/> im Blick auf
+                  die unmittelbare Autorität Christi, im <hi rend="italic">Glaubens</hi>gehorsam gegen
+                  Gott selber und darum in <hi rend="italic">Freiheit</hi> leistet die Theologie den
+                  konkreten Autoritäten konkreten Gehorsam, weil und insofern sie jener gemäß
+                  sind.</p>
+        </div>
+        <div>
+          <head>6.</head>
+          <p>Von da aus ist nun der Ort der bewußten konkreten Autorität näher zu
+                     umschreiben.<note xml:id="nj" type="original">Vgl. zum Folgenden <bibl corresp="kbga-bibls-2324">«Wünschbarkeit und Möglichkeit
+                     eines allgemeinen ref. Glaubensbekenntnisses», Z. d. Z. Heft 12, S. 312–319, in dieser Sammlung S. 77–86.</bibl><note xml:id="n65">
+                                <bibl corresp="kbga-bibls-2324">
+                                    <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Wünschbarkeit und Möglichkeit eines allgemeinen reformierten
+                                 Glaubensbekenntnisses</title>, in: ZZ, Jg. 3 (1925), [Heft 4 =] Heft XII [der ganzen Zeitschrift],
+                              S. 311–333, hier: S. 312–319</bibl>; in diesem Band <ref type="pub" target="../volume/19/p604#p604">S. 604ff.</ref> –
+                        Der letzte Satzteil der Anm. bezieht sich auf den Wiederabdruck in <bibl corresp="kbga-bibls-954">Th. u. K</bibl>.
+                        und findet sich erst in diesem.</note></note> <persName ref="kbga-actors-317">Peterson</persName> unterschlägt doch wohl die Hälfte des Tatbestandes, wenn er
+                  erklärt, daß das Dogma nicht in der Verlängerung des menschlichen Glaubensaktes
+                  liege, daß es wesenhaft nichts mit dem Bekenntnis zu tun habe.<note xml:id="n66">
+                            
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, a. a. O.,
+                           S. 21</bibl> bzw. <bibl corresp="kbga-bibls-1034">148</bibl>: «Das Dogma liegt also gar nicht in der
+                     Verlängerung des menschlichen Glaubensaktes. Da liegt das Bekenntnis. Aber das
+                     Bekenntnis hat wesenhaft nichts mit dem Dogma zu tun.»</note> In der <pb n="316" ed="kbga-sources-2314"/> Verlängerung des sündlich-kreatürlichen <hi rend="italic">Vollzugs</hi> des Glaubens, und wäre er noch so tief und rein, liegt
+                  es in der Tat nicht. Als «Ausdruck des Glaubens» im Sinn <persName ref="kbga-actors-360">Schleiermachers</persName><note xml:id="n67">Zu dieser
+                     resümierenden Anspielung auf <persName ref="kbga-actors-360">Fr. Schleiermachers</persName> dogmatische Prinzipienlehre vgl. etwa <bibl corresp="kbga-bibls-256">
+                                <hi rend="italic">Der christliche Glaube nach den Grundsäzen
+                              der evangelischen Kirche im Zusammenhang dargestellt</hi>, Bd. I,
+                              Berlin 1830<edition rend="sup">2</edition>, S. 99</bibl> (§ 15, Leitsatz):
+                     «Christliche Glaubenssäze sind Auffassungen der christlich frommen
+                     Gemüthszustände in der Rede dargestellt.»</note>, d. h. als Niederschlag
+                  menschlichen Erlebthabens und Überzeugtseins ist es in der Tat als Dogma, als
+                  Autorität nicht zu verstehen. Ebenso wäre vom Kanon zu sagen, daß natürlich seine
+                  Autorität nicht aus seiner geschichtlichen Genesis zu begründen ist. Es wäre im
+                  gleichen Sinn zu sagen, daß <persName ref="kbga-actors-14">Augustin</persName>
+                  oder <persName ref="kbga-actors-261">Luther</persName>, als Heroen der Frömmigkeit
+                  betrachtet, keine theologischen Autoritäten sind und daß jenes Gebot der
+                  gegenwärtigen Stunde, so schwierig seine begriffliche Sicherung für uns
+                  Protestanten sein mag, einem Zinzendorfischen «Es ist mir so»<note xml:id="n68">Zu dieser für
+                        <persName ref="kbga-actors-441">Zinzendorf</persName> charakteristischen
+                     Wendung vgl. die Belege bei <bibl corresp="kbga-bibls-1709">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Das
+                              christliche Leben. Die Kirchliche Dogmatik IV/4, Fragmente aus dem
+                              Nachlaß. Vorlesungen 1959–1961</hi>, hrsg. von H.-A. Drewes
+                              und E. Jüngel,
+                                 Zürich 1979<edition rend="sup">2</edition>, <ref type="pub-" target="../volume/07/p304#fn_n75">S. 304f., Anm. 75</ref></bibl>.</note> je<pb xml:id="p666" ed="pga" break="no"/>denfalls gerade gegenüber steht. Aber ein
+                  anderes ist die legitime und notwendige Abgrenzung gegen den theologischen
+                  Psychologismus, ein ganz anderes die ganz unmögliche Leugnung des Glaubens- und
+                  Bekenntnischarakters der konkreten Autorität, wie sie <persName ref="kbga-actors-317">Peterson</persName> uns zumuten will.
+                  Aus dem Subjektivismus in einen ebenso naiven Objektivismus fallen und aus der
+                  Psychologie in die Ontologie, das nenne ich den Teufel mit Beelzebub austreiben
+                  [vgl. <ref type="can" subtype="bible" target="Mt.12.27">Mt. 12,27</ref>]. Ist,
+                  was auch <persName ref="kbga-actors-317">Peterson</persName> anderweitig nicht bestreitet<note xml:id="nk" type="original">sondern gegen
+                        <persName ref="kbga-actors-4">Paul Althaus</persName> behauptet und
+                     begründet; vgl. <bibl corresp="kbga-bibls-1032">
+                                Z. d. Z. Heft
+                           11, S. 285.</bibl><note xml:id="n69">
+                                <bibl corresp="kbga-bibls-1032">
+                                    E. Peterson, <hi rend="italic">Über die Forderung einer Theologie des Glaubens. Eine
+                                 Auseinandersetzung mit Paul
+                                    Althaus</hi>, a. a. O., S. 285</bibl>: «Der
+                        eigentliche Irrtum von <persName ref="kbga-actors-4">Althaus</persName>
+                        besteht darin, daß er den Akt des Glaubens mit dem psychologischen Vollzug
+                        des Glaubens immer wieder verwechselt.»</note></note>, zwischen Glauben als <hi rend="italic">Vollzug</hi> und Glauben als <hi rend="italic">Akt</hi> begrifflich zu unterscheiden, ist der Glaube als <hi rend="italic">Akt</hi> gerade das Werk des heiligen Geistes in den Herzen der Sünder in
+                  direkter Korrelation zu Gottes Offenbarung und ist endlich die Kirche als
+                  Gemeinschaft der Heiligen<note xml:id="n70">Vgl. <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum Apostolicum</title>,
+                              BSLK 21,20f.</bibl></note>, d. h. der in Gottes Offenbarung Angesprochenen, durchaus die Gemeinschaft
+                  eben dieses von Gott gewirkten und geschenkten Glaubens, so ist nicht einzusehen,
+                  was dagegen einzuwenden ist, wenn das autoritäre «Sprechen» der Kirche im Dogma
+                  usf. jedenfalls auch als <hi rend="italic">Glaubens</hi>akt, als <hi rend="italic">Glaubens</hi>bekenntnis verstanden wird. Wir betonen und unterstreichen
+                  durchaus: Es ist Akt und Bekenntnis von <hi rend="italic">Menschen</hi>, von <hi rend="italic">Sündern</hi>, aber eben <hi rend="italic">Glaubens</hi>akt, <hi rend="italic">Glaubens</hi>bekenntnis. Damit ist durchaus nicht gesagt, daß Kirche und Dogma
+                  wesentlich zum Men<pb n="317" ed="kbga-sources-2314"/>schen gehörten, wie
+                  <persName ref="kbga-actors-317">Peterson</persName> einwendet (S. 32)<note xml:id="n71">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 149, Anm. 23</bibl>.</note>. Als ob es nicht in den Begriffen Offenbarung, Kirche, Glauben läge,
+                  daß nun eben zwischen Gottes ewiger Wahrheit, die seines Wortes und Geistes
+                  alleiniges Prädikat ist, und den religiösen Opinionen und Expektorationen des
+                  menschlichen Subjektes ein <hi rend="italic">Drittes</hi> gesetzt ist. In dieser Mitte,
+                  wo die Kirche Gott erkennt und bekennt durch Gottes vollkommene Gnade, aber beides
+                  in menschlicher Beschränktheit nach dem Maß des ihr, der Sünderkirche, geschenkten
+                  Glaubens, wo sie Gottes Wort ver<pb xml:id="p667" ed="pga" break="no"/>nimmt und
+                  verkündigt, aber beides in schwachen Menschenworten, wo sie <foreign xml:lang="lat">jure divino</foreign> ihre
+                  Entscheidungen trifft, aber eben damit <foreign xml:lang="lat">jus humanum</foreign> aufrichtet, wo die
+                  Infallibilität des von Gott Gegebenen und die Fallibilität des von den Menschen
+                  Empfangenen so wenig einen ausschließenden Gegensatz bilden wie die Konstanz des
+                  Gnadenbundes, in den der einzelne aufgenommen ist, zu der täglichen Buße, der er
+                  gerade als solcher bedürftig ist – in dieser Mitte «gibt es» konkrete Autorität,
+                  «gibt es» neben dem anderen, was unter diesen Begriff fällt, auch Dogma. Daß es
+                  der Kirche von Christus verliehen ist, das darf nicht ausschließen, daß es in der
+                  Tat auch in der Verlängerung des menschlichen Glaubensaktes liegt, auch
+                  Glaubensbekenntnis ist. Was hieße konkrete Autorität, wenn gerade diese ihre
+                  Lokalisierung in der <hi rend="italic">Mitte</hi> zu ihrem Wesen nicht mitgehören soll?
+                  Hat es mit dem Erbarmen Gottes in Christo, mit der prinzipiellen <hi rend="italic">Souveränität</hi> des Herrn über die Gemeinde, des Hauptes über den Leib seine
+                  Richtigkeit, dann auch mit dieser Mitte, in der es in der Unheiligkeit alles
+                  menschlichen, unter der heilsamen Krisis des göttlichen Wortes und Geistes –
+                  heilige Kirche mit konkreter, aber eben darum zeitlicher, relativer, formeller
+                  Autorität gibt.</p>
+        </div>
+        <div>
+          <head>7.</head>
+          <p>Ist nun Theologie wirklich <hi rend="italic">konkreter</hi> Gehorsam gegen diese
+                  konkrete Autorität, dann ist sie doch wohl – was hieße sonst konkreter Gehorsam?
+                  –, wie es immer mit ihrer Bestimmung durch ihren Gegenstand stehen mag, auch ein
+                  wirkliches <pb n="318" ed="kbga-sources-2314"/> Verhalten und Tun wirklicher
+                  Menschen, also nicht ein abstrakt zu erfassendes Inventarstück einer beziehungslos
+                  über diesem unserem Jammertal schwebenden Geisteswelt, sondern neben dem, daß sie
+                  lebt von Gottes Offenbarung, der sie dienen will, auch ganz handgreiflich das, was
+                  von Professoren, Pfarrern und Studenten an ihren Schreibtischen mit mehr oder
+                  weniger Begabung, Fleiß und Erfolg nun eben verrichtet wird. Es ist ihr wie der
+                  Kirche wirklich wesentlich eigen, daß sie immer auch ein irdisches Geschehen ist
+                  in einem bestimmten <foreign xml:lang="lat">Hic et Nunc</foreign>, und zwar ein Geschehen, dessen nächstes Subjekt
+                  ein adamitisch determinierter Mensch ist, ein <foreign xml:lang="lat">viator in patriam</foreign>, kein
+                     <foreign xml:lang="lat">comprehensor</foreign><note xml:id="n72">Die «<foreign xml:lang="lat">theologia comprehensorum</foreign>» (vgl. oben bei
+                     <ref type="pub" target="#fn_n42">Anm. 42</ref>) wird – worauf <persName ref="kbga-actors-2151">Barth</persName> hier anspielt – in der altprotestantischen
+                     Orthodoxie gelegentlich auch «<foreign xml:lang="lat">theologia patria</foreign>e» genannt (vgl. <bibl corresp="kbga-bibls-1616">
+                                SchmP 28</bibl>);
+                     sie steht als Theologie der Seligen im Himmel und der Engel der
+                     zeitlich-menschlichen «<foreign xml:lang="lat">theologia viatorum</foreign>» gegenüber.</note>. Dann ist es aber
+                  übermütig, mit <persName ref="kbga-actors-317">Peterson</persName> <pb xml:id="p668" ed="pga"/> zu <hi rend="italic">leugnen</hi>,
+                  daß die Theologie wesenhaft an die mannigfachen geistigen Akte des Menschen, wie
+                  Reden, Schreiben, Verkündigen usw. <hi rend="italic">gebunden</hi> ist (S. 19)<note xml:id="n73">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 146</bibl>: «Gerade weil aber die Theologie noch in der
+                     Elongatur der Logosoffenbarung liegt, so wie die Predigt noch in der Elongatur
+                     des Prophetischen sich findet, gerade darum kann sie wesenhaft nicht an einen
+                     der mannigfachen geistigen Akte des Menschen: wie Reden, Schreiben, Verkündigen
+                     usw. gebunden sein, sondern nur die Offenbarung selber kann letzthin das
+                     eigentliche <hi rend="italic">Wesen</hi> der Theologie bestimmen.»</note> und an
+                  ihren Möglichkeiten auch ihre Schranken hat. Das leugnen, hieße offenbar die <hi rend="italic">Konkretheit</hi> ihres Gehorsams leugnen. «Das Subjekt der Theologie
+                  ist nicht der Theologieprofessor, sondern primär Christus und sekundär die
+                  Kirche», schreibt <persName ref="kbga-actors-317">Peterson</persName> (S. 30).<note xml:id="n74">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 146, Anm. 19</bibl>: «Man kann auch so sagen: Das Subjekt …» (Anm. zu dem in Anm. 73 zitierten
+                     Satz).</note> Schön und wahr gesagt. Der Dienst des doctor ‹<foreign xml:lang="lat">ecclesiae</foreign>› ist in
+                  der Tat wie der des pastor nur sinnvoll als <foreign xml:lang="lat">ministerium ecclesiasticum</foreign>, und dieses
+                  repräsentiert Christus. Aber die Kirche, die <foreign xml:lang="lat">ecclesia militans</foreign>, in deren Raum es
+                  konkrete Autorität und konkreten Gehorsam gibt, ist der Leib Christi im Staub und
+                  Gedränge der Erde, und zwar der Erde <hi rend="italic">dieses</hi> Äons, <hi rend="italic">diesseits</hi> des Sündenfalls. Das <hi rend="italic">nächste</hi> Subjekt der
+                  Theologie, der Theologieprofessor, darf also, so fatal es sein mag, seiner zu
+                  gedenken, so große Lust ihn selber nicht selten anwandeln mag, aus seiner Haut zu
+                  fahren, bei der Bestimmung ihres Wesens gerade nicht gestrichen werden. Und es ist
+                  wieder Übermut zu sagen, daß nur die Offenbarung selber letzthin das eigentliche
+                  Wesen der Theologie bestimmen könne (S. 19)<note xml:id="n75">Siehe <ref type="pub" target="#fn_n73">Anm. 73</ref>.</note>. Auf ihren <hi rend="italic">Gegenstand</hi> gesehen, von dem sie lebt,
+                     <hi rend="italic">ja!</hi> Aber nicht minder wesentlich ist, daß dieses ihr Leben,
+                  sei es denn, wenn man so sagen will, «in der Elongatur der Logos-Offenbarung»,
+                  sich in den Formen menschlichen sündigen Denkens, Redens und <pb n="319" ed="kbga-sources-2314"/> Schreibens vollzieht. Will man sie durchaus eine
+                  «Konkretion des Logos» heißen, so ist jedenfalls zu bedenken, daß der Weg des
+                  Logos auf <hi rend="italic">Erden</hi> der Weg von <placeName ref="kbga-places-385">Bethlehem</placeName> nach <placeName ref="kbga-places-405">Golgatha</placeName> gewesen ist.
+                  Wie die «konkrete Autorität», der sich die Theologie beugt, unter dem Vorbehalt
+                  der eigentlichen, primären, unmittelbaren Autorität Christi steht, von der sie
+                  geliehen ist, so <pb xml:id="p669" ed="pga"/> der «konkrete Gehorsam», den sie
+                  leistet, im Schatten des Menschlichen, Allzumenschlichen<note xml:id="n76">Vgl.
+                        <bibl corresp="kbga-bibls-2368">
+                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>,
+                              <hi rend="italic">Menschliches, Allzumenschliches</hi>
+                              (1878/79).</bibl></note>, in dessen verhüllender Sphäre sich zu offenbaren es Gott nun einmal in
+                  Gnaden gefallen hat. Ist sie doch nicht nur <foreign xml:lang="lat">theologia</foreign> <foreign xml:lang="grc" rend="Ell">ἔκτυπος</foreign> bloß und <foreign xml:lang="lat">theologia viatorum</foreign>, sondern nach der
+                  weiteren Erläuterung unserer Alten auch <foreign xml:lang="lat">theologia post lapsum</foreign><note xml:id="n77">Zur altprotestantischen Unterscheidung einer «<foreign xml:lang="lat">theologia ante lapsum sive
+                     paradisiaca</foreign>» von einer «<foreign xml:lang="lat">theologia post lapsum</foreign>» innerhalb der «<foreign xml:lang="lat">theologia
+                     viatorum</foreign>» vgl. <bibl corresp="kbga-bibls-1616">
+                                SchmP 28.</bibl></note>, d. h. aber in ihren Grundvoraussetzungen mitbedingt durch «des Menschen
+                     Elend»<note xml:id="n78">Überschrift des ersten der drei Teile des <bibl corresp="kbga-bibls-17">
+                                <title level="a">Heidelberger
+                              Katechismus</title> (1563): «Von des menschen elend», BSRK 683,17.</bibl></note>. Das bedeutet nun aber, daß es nicht angeht, trotz aller Lebhaftigkeit,
+                  mit der <persName ref="kbga-actors-317">Peterson</persName> das unternimmt, den <hi rend="italic">dialektischen</hi> Charakter der
+                  Theologie, d. h. aber die Gebrochenheit, die Paradoxie, – die jedesmal radikale
+                  Ergänzungsbedürftigkeit, das prinzipielle Offenbleiben aller ihrer Sätze mit einer
+                  ärgerlichen Handbewegung in Abrede zu stellen. Die Offenbarung, von der die
+                  Theologie redet, ist nicht dialektisch, ist kein Paradox (S. 11)<note xml:id="n79">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 137f</bibl>.</note>. Das brauchte ja eigentlich gar nicht gesagt zu
+                  werden. Aber wenn die <hi rend="italic">Theologie</hi> anhebt, wenn wir Menschen <hi rend="italic">denken, reden</hi> und <hi rend="italic">schreiben</hi> oder, wenn <persName ref="kbga-actors-317">Peterson</persName>
+                  das für wesenhafter hält, «argumentieren» auf Grund der Offenbarung, dann ist eben
+                  ein <foreign xml:lang="grc" rend="Ell">διαλέγεσθαι</foreign>, d. h. ein Bilden
+                  prinzipiell unvollständiger Gedanken und Sätze, unter denen jede Antwort auch
+                  wieder Frage ist und die alle miteinander über sich selbst hinaus hinweisen auf
+                  die erfüllende unaussprechliche Wirklichkeit des <hi rend="italic">göttlichen</hi>
+                  Sprechens – ob wir es wissen und wollen oder nicht, wir können nichts davon noch
+                  hinzu tun [vgl. <ref type="can" subtype="bible" target="Dtn.4.2">Dt. 4,2</ref>]
+                  –, die tatsächliche Form unseres Tuns und Verrichtens, eine Schranke, über die uns
+                  auch die konkrete Autorität, der wir dabei gehorchen (z. B. das als kanonisch
+                  gelesene Bibelwort, das als Dogma respektierte Bekenntnis) nicht hinweg trägt,
+                  weil sie, wie gezeigt, selber unter dem Gegensatz des göttlichen Gebens und des
+                  menschlichen Empfangens steht. Sagt uns <pb n="320" ed="kbga-sources-2314"/> nun
+                  <persName ref="kbga-actors-317">Peterson</persName>, daß die Theologie unter solchen Umständen mit ihren Sätzen den «Ernst
+                  Gottes» nicht erreiche (S. 7)<note xml:id="n80">
+                            <bibl corresp="kbga-bibls-1033">S. 7</bibl> bzw. <bibl corresp="kbga-bibls-1034">134</bibl>: «Alle Dialektik
+                     kann zu keinem höheren Ernst als zu dem eines möglichen Ernst<hi rend="italic">nehmens</hi> führen. Wie die Dialektik sinnvollerweise nicht einmal zu
+                     einem realen <hi rend="italic">menschlichen</hi> Ernst gelangt, so kann sie noch
+                     viel weniger gar den Ernst <hi rend="italic">Gottes</hi> in ihrer Dialektik
+                     erreichen. Wie es aber zu Gott gehört, daß er <hi rend="italic">über</hi> alle
+                     menschliche Dialektik erhaben ist, so gehört es auch zu dem Ernste Gottes, daß
+                     er jenseits alles dialektischen Ernst<hi rend="italic">nehmens</hi> steht.»</note>,
+                  so ist zu antworten, daß sie es darauf, auf den Ernst der Erkennt<pb xml:id="p670" ed="pga" break="no"/>nis, mit dem Gott selber redet, auch nicht abgesehen haben
+                  kann. «<foreign xml:lang="lat">Non in dialectica complacuit Deo salvum facere populum suum</foreign>», zitiert
+                  <persName ref="kbga-actors-317">Peterson</persName> aus <persName ref="kbga-actors-4544">Ambrosius</persName> (S. 8)<note xml:id="n81">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 134</bibl>. – <ref type="can">
+                                <bibl corresp="kbga-bibls-2369">
+                                    <persName ref="kbga-actors-4544">Ambrosius</persName>, <title level="a">De fide ad
+                           Gratianum Augustum</title>, MPL 16, col. 537</bibl>.</ref></note>. Sehr wohl!, ist zu sagen, aber was Gott tut und was die Theologen tun,
+                  dürfte zweierlei sein. <hi rend="italic">Ihr</hi> bescheideneres Teil ist in der Tat –
+                  ich sehe nicht ein, warum das mit Geringschätzung gesagt werden müßte – das
+                     «Ernst<hi rend="italic">nehmen</hi>» der Offenbarung (S. 7). Die Offenbarung «ernst
+                  nehmen» in der Sphäre des begrifflichen Denkens, das heißt mit aller Bestimmtheit
+                  und Zähigkeit den Doppelweg gehen, der uns damit gewiesen ist, daß wir als <hi rend="italic">Menschen</hi> von <hi rend="italic">Gott</hi> zu reden haben. Wir müssen
+                  z. B., um das in der Offenbarung enthüllte prinzipielle Verhältnis von Gott und
+                  Menschen sachgemäß zu erkennen, von Gottes Gericht <hi rend="italic">und</hi> von
+                  Gottes Gnade reden; um Gottes Verhältnis zu allem, was nicht er selbst ist, zu
+                  bestimmen, von Schöpfung <hi rend="italic">und</hi> von Vorsehung; um vollständig zu
+                  sagen, was Kirche ist, von ihrer Sichtbarkeit <hi rend="italic">und</hi>
+                  Unsichtbarkeit; um von der Gnade recht zu reden: von Rechtfertigung <hi rend="italic">und</hi> Heiligung, und auf Seiten des Menschen: von Glauben <hi rend="italic">und</hi> Gehorsam; um das Schriftprinzip sinnvoll zu erfassen: von Wort <hi rend="italic">und</hi> Geist; um das Wesen des Sakraments zu begreifen: von der <foreign xml:lang="lat">res
+                  coelestis <hi rend="italic">et</hi> terrestris</foreign><note xml:id="n82">Vgl. die Belege bei
+                        <bibl corresp="kbga-bibls-1616">
+                                SchmP
+                           335–337.355</bibl>; <bibl corresp="kbga-bibls-1727">[<persName ref="kbga-actors-162">K. von Hase</persName>,] <hi rend="italic">Hutterus
+                              Redivivus oder Dogmatik der evangelisch-lutherischen Kirche. Ein
+                              dogmatisches Repertorium für Studirende</hi>,
+                              Leipzig
+                           1862<edition rend="sup">10</edition>, S. 321.</bibl></note>, von der <foreign xml:lang="lat">manducatio oralis <hi rend="italic">et</hi> spiritualis</foreign><note xml:id="n83">Zur Unterscheidung von «<foreign xml:lang="lat">manducatio oralis</foreign>» bzw. «<foreign xml:lang="lat">externa</foreign>» und
+                     «<foreign xml:lang="lat">manducatio spiritualis</foreign>» in der Abendmahlslehre der Orthodoxie vgl. <bibl corresp="kbga-bibls-263">
+                                HpB 515f.522f.</bibl>; <bibl corresp="kbga-bibls-1616">
+                                SchmP 35 8f.</bibl></note>, oder also, wenn es sich darum handelt, die Situation des Theologen zu
+                  beschreiben: von dem in der Sache begründeten Sollen <hi rend="italic">und</hi>
+                     Nicht-Können<note xml:id="n84">Anspielung auf <persName ref="kbga-actors-2151">Barths</persName> eigene Formulierung im
+                     Vortrag <bibl corresp="kbga-bibls-929">
+                                <title level="a">Das Wort
+                              Gottes als Aufgabe der Theologie</title> (1922), in:
+                              W. G. Th., S. 158</bibl>; in diesem
+                     Band <ref type="pub" target="../volume/19/p151#p151">S. 151</ref>: «<hi rend="italic">Wir sollen als Theologen von Gott reden</hi>. <hi rend="italic">Wir sind aber Menschen und können als solche nicht von Gott
+                        reden</hi>. <hi rend="italic">Wir sollen Beides</hi>, unser Sollen und unser
+                     Nicht-Können, <hi rend="italic">wissen und eben damit Gott die Ehre geben</hi>.» Mit
+                     dem Zitat dieser drei Sätze beginnt <persName ref="kbga-actors-317">Petersons</persName> Aufsatz (<bibl corresp="kbga-bibls-1033">S. 5</bibl> bzw. <bibl corresp="kbga-bibls-1034">132</bibl>).</note>,
+                  unter dem er steht. Nicht um ein erträgliches Nebeneinander handelt es sich bei
+                     al<pb xml:id="p671" ed="pga" break="no"/>len diesen und ähnlichen
+                     Kontrasten.<note xml:id="nl" type="original">‹Auch nicht um ein «<hi rend="italic">heiliges</hi>
+                     Nebeneinander», muß ich nun im Blick auf den oben zitierten neuen Aufsatz von
+                        <bibl corresp="kbga-bibls-2365">
+                                <persName ref="kbga-actors-368"><hi rend="italic">Schmidt-Japing</hi></persName>, S. 108ff.</bibl>
+                     hinzufügen. Daß es im Erkennen und im Worte Gottes selbst ein «heiliges
+                     Nebeneinander» des Kreuzes und der Auferstehung Christi<note xml:id="n85">
+                                <bibl corresp="kbga-bibls-2365">
+                                    <persName ref="kbga-actors-368">J. W.
+                                 Schmidt-Japing</persName>, <hi rend="italic">Die christologischen
+                                 Anschauungen der dialektischen Theologie</hi>, a. a. O., S. 107f.</bibl>: «Diese konkrete Nähe des heiligen Gottes ist nicht
+                        Vernichtung der Zeit und in ihr unanschauliches Hereinbrechen zeitloser
+                        Ewigkeit. Sie schafft vielmehr eine ‹historische Zeit›, nein die
+                        ‹heilsgeschichtliche Zeit›, jenes konkrete, heilige, schlechthin einmalige,
+                        unsere gelebte Gegenwart mit der Vergangenheit und der ‹Zukunft Jesu Christ›
+                        eindeutig verbindende Nacheinander, jenes nicht relativierbare, nicht
+                        umkehrbare heilige Nebeneinander der Zeit. … Ein Hinweis auf diese
+                        historische, diese heilsgeschichtliche Zeit, auf dies heilige Nacheinander,
+                        ist die immer wieder im Neuen Testament auftauchende konkrete, zeitliche
+                        Bezogenheit von Kreuz und Auferstehung, jenes ‹am dritten Tage› der
+                        Synoptiker.»</note> gibt, das ist wahr, und um seinetwillen wird Beides als
+                     Evangelium und Gesetz, Glauben und Gehorsam fordernd, gepredigt. Aber <hi rend="italic">uns</hi> steht dabei dieses «heilige Nebeneinander» als solches
+                     nicht so zur Verfügung, daß Karfreitag und Ostern nicht eine alte und eine neue
+                        <hi rend="italic">Welt</hi> bezeichneten, zwischen denen es für <hi rend="italic">uns</hi> kein «Nebeneinander», sondern nur ein Entweder-Oder gibt, das sich
+                     in keiner pragmatischen Betrachtung, sondern nur in der existentiellen
+                     Entscheidung des am Worte hängenden Glaubens auflöst, in unserem <hi rend="italic">Denken</hi> und <hi rend="italic">Reden</hi> aber immer wieder als Entweder-Oder
+                     dasteht, nur als solches dargelegt und gepredigt werden kann. Daß nun auch hier
+                     wieder die leidige «Geschichte» als Rahmen oder Brücke dienen soll, um das
+                     «Nebeneinander» jener <hi rend="italic">gegen</hi>einander stehenden Welten zu einer
+                     denkbaren und aussprechbaren Möglichkeit zu machen, das zu begründen sollten
+                     uns die Schlußkapitel der Evangelien mit ihrer grandiosen historischen
+                     Anschaulichkeit doch wirklich zu gut sein.›</note> Nicht quantitativ, nicht in
+                     «Spannungsverhältnissen»<note xml:id="n86">Gegen die Deutung der Dialektik als
+                     Ausdruck eines bloßen Spannungsverhältnisses setzt <persName ref="kbga-actors-2151">Barth</persName> sich wiederholt zur
+                     Wehr, besonders in Abgrenzung gegenüber <persName ref="kbga-actors-360">Schleiermacher</persName>, z. B. in <bibl corresp="kbga-bibls-219">«<hi rend="italic">Unterricht in der christlichen Religion</hi>», Bd. I
+                              (1924), hrsg. von H. Reiffen,
+                              Zürich
+                           1985, S. 376</bibl>: «Nun kommt Alles darauf an, daß
+                     dieses Gespräch <hi rend="italic">ehrlich und tapfer</hi> geführt wird.
+                     Kaisermanöver – Parteiversammlung (Wenn bloß Amphibolien, Spannungen zwischen
+                     unwirklichen Gegensätzen, Sieg schon feststeht) <persName ref="kbga-actors-360">Schleierm[acher]</persName>: im Gefühl.
+                     Nein, das Überlegene nur im Gegenstand.» Vgl. die ausgearbeitete Form dieser
+                     Skizze in: <bibl corresp="kbga-bibls-1050">
+                                <hi rend="italic">Die christliche Dogmatik im
+                              Entwurf</hi>, Bd. I (1927), a. a. O. (Anm. 37), S. 581</bibl>: «<hi rend="italic"><persName ref="kbga-actors-360">Schleiermachers</persName></hi> Theologie z. B. ist darum typisch
+                     undialektische Theologie, weil sie wohl unvermeidlicherweise auch mit Wort und
+                     Gegenwort, aber nur mit quantitativen Unterschieden, nur mit Amphibolien und
+                     Spannungen arbeitet, d. h. aber eben: <hi rend="italic">ein</hi> Wort, <hi rend="italic">das</hi> Wort sagen zu können meint, auf Kosten des Gehaltes, den das eine
+                     wie das andere Wort bekommen muß, wenn es in Beziehung zu Gottes Offenbarung
+                     gesetzt wird.» Vgl. ferner: <bibl corresp="kbga-bibls-974">
+                                <hi rend="italic">Die
+                              Theologie Schleiermachers</hi> (1923/ 24), hrsg. von
+                              D. Ritschl, Zürich
+                           1978, S. 347–352</bibl>; <bibl corresp="kbga-bibls-994">
+                                <hi rend="italic">Die Auferstehung der Toten. Eine akademische Vorlesung über
+                                 <ref type="can" subtype="bible" target="1.Kor.15">I.Kor. 15</ref></hi>), München 1924, S. 125
+                              (Zollikon-Zürich 1953<edition rend="sup">4</edition>, S. 129)</bibl>: «Die Spannung,
+                     in der sich die Gedanken des <persName ref="kbga-actors-313">Paulus</persName> bewegen, ist unerhört. … Sie ist nicht die
+                     Spannung in einem <hi rend="italic">Neben</hi>einander, sondern die Spannung in
+                     einem <hi rend="italic">In</hi>einander. Gerade darum ist sie unaufhebbare <hi rend="italic">echte</hi> Spannung …», sowie aus etwas späterer Zeit: <bibl corresp="kbga-bibls-954">
+                                <title level="a">Schleiermacher</title>
+                              (1926), in: Th. u. K., S. 150–153</bibl>; <bibl corresp="kbga-bibls-2370">
+                                <title level="a">Schicksal
+                              und Idee in der Theologie</title> (1929), in: <hi rend="italic">Theologische Fragen und Antworten. Gesammelte
+                           Vorträge</hi>, Bd. 3, Zürich
+                           1986<edition rend="sup">2</edition>, S. 80f.</bibl> Vgl. auch
+                     <persName ref="kbga-actors-2151">Barths</persName> Polemik gegen <persName ref="kbga-actors-4">P. Althaus</persName> in
+                     diesem Band oben <ref type="pub" target="../volume/19/p518#fn_ny">S. 518, Anm. y</ref>, und <ref type="pub" target="../volume/19/p534#fn_nat">S. 534, Anm. at</ref> (bei <ref type="pub" target="../volume/19/p534#fn_n109">Anm. 109</ref>).</note>,
+                  nicht begriffen, sondern unbegriffen in <hi rend="italic">einem</hi> Wort, das <hi rend="italic">wir</hi> sprechen könnten, stehen sich ihre Glieder gegenüber: ex<pb xml:id="p672" ed="pga" break="no"/>klusiv, weil in verschiedener Weise alle
+                  Ausdruck des unendlichen qualitativen Unterschiedes von Gott und Mensch<note xml:id="n87">Zu dieser Anspielung auf <persName ref="kbga-actors-221">S. Kierkegaard</persName> vgl. oben <ref type="pub" target="../volume/19/p165#fn_n56">S. 165f., Anm. 56</ref>.</note>, mit dem eine
+                  Theologie der Sünder (und das ist <hi rend="italic">alle</hi> Theologie, sie mag so
+                     theozentrisch<note xml:id="n88">Anspielung auf <bibl corresp="kbga-bibls-1388">
+                                <persName ref="kbga-actors-353">E. Schaeder</persName>, <hi rend="italic">Theozentrische Theologie. Eine Untersuchung zur dogmatischen
+                              Prinzipienlehre</hi>, Bd. 1,
+                              Leipzig 1909.1925<edition rend="sup">3</edition>; Bd. 2,
+                              Leipzig 1914.
+                                 1928<edition rend="sup">2</edition>.</bibl></note> oder christozentrisch <pb n="321" ed="kbga-sources-2314"/>sein oder sich
+                  gebärden, wie sie will) nun einmal in der <hi rend="italic">Darstellung</hi> der
+                  Gemeinschaft von Gott und Mensch zu <hi rend="italic">rechnen</hi> hat. In dem «<hi rend="italic">Und</hi>», mit dem die Theologie zusammen<hi rend="italic">spricht</hi>,
+                  was sie doch nicht zusammen<hi rend="italic">denken</hi> kann, weil es nur im Akt des
+                  göttlichen Wortes und Geistes zusammen<hi rend="italic">kommt</hi>, in diesem «<hi rend="italic">Und</hi>» liegt das theologische «Ernstnehmen» der Offenbarung. Nur
+                  wer Jesus Christus, d. h. aber Gott im Fleisch, Gott und Mensch sagen könnte in
+                     <hi rend="italic">einem</hi>, aber in einem <hi rend="italic">wahren</hi> Wort, nur der
+                  könnte sich rühmen, <hi rend="italic">kein</hi> «dialektischer Theologe» zu sein. Die
+                  Dogmengeschichte lehrt aber und das christologische Dogma, speziell von
+                     <placeName ref="kbga-places-1004">Chalcedon</placeName><note xml:id="n89">Zur Christologie des Konzils von Chalcedon (451)
+                     siehe <bibl corresp="kbga-bibls-1938">
+                                DS 302.</bibl></note>, <hi rend="italic">gebietet</hi>, hier nicht zu <hi rend="italic">wollen</hi>, was
+                  man verständigerweise nicht wollen kann. Und was hier gilt, gilt für die ganze
+                  Theologie. Es bleibt dabei, und das allgemeine Händeverwerfen über diesen Satz
+                  wird mich nicht so bald irre machen: Theologie ist auf der ganzen Linie im besten
+                  Fall <hi rend="italic">Pro</hi>legomenon<note xml:id="n90">Zu dieser Formulierung vgl.
+                     den Beleg unten <ref type="pub" target="./fn_n107#fn_n107">bei Anm. 107</ref>.</note>. Sie redet <hi rend="italic">vorläufig</hi> von
+                  dem, was <hi rend="italic">endgültig</hi> immer wieder Gott selbst sagen muß und sagen
+                  will. Insofern kann sie die Offenbarung in der Tat nur «ernst <hi rend="italic">nehmen</hi>». Möchte sie es tun! Der Ernst <hi rend="italic">Gottes</hi> aber, die
+                  sturmfreie Synthese jenseits von Satz und Gegensatz, Frage und Gegenfrage, das im
+                  Himmel gesprochene Ja und Amen zu unserem «Argumentieren», das «<foreign xml:lang="lat">quo jure</foreign> <pb xml:id="p673" ed="pga"/> der Offenbarung», das in der Tat über den Sinn unseres
+                  Argumentierens entscheidet (S. 19)<note xml:id="n91">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck s. 145</bibl>.</note>,
+                  es kann der Theologie wie der Kirche überhaupt schlechterdings nur gegeben werden
+                  und zu eigen sein, indem und sofern sich Gott durch sein Wort und seinen Geist zu
+                  ihr <hi rend="italic">bekennt</hi>, wie er sich auch zu ihrer konkreten Autorität immer
+                  wieder <hi rend="italic">bekennen</hi> muß. Kein konkreter Gehorsam gegen keine
+                  konkrete Autorität kann das schaffen, ersetzen, herbeiführen, garantieren und
+                  fortführen, was die Theologie im Unterschied zu der leerlaufenden gottlosen
+                  Dialektik der Mythologie zur Theologie macht, was sie von «den zweifelhaftesten
+                  aller Wissenschaften, den sogenannten Geisteswissenschaften» (S. 23)<note xml:id="n92">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 150</bibl>.</note> mit letzter, unzweideutiger Klarheit
+                  abhebt, was sie endlich zum «Fach aller Fächer» macht (S. 24)<note xml:id="n93">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 151</bibl>.</note>. Ist es doch im Begriff der Offenbarung begrün<pb n="322" ed="kbga-sources-2314"/>det, daß das souveräne Tun Gottes ganz allein
+                  es ist, was die Kirche inmitten der großen Zweideutigkeit der Religionsgeschichte
+                  und trotz ihrer eigenen Magdgestalt zur <hi rend="italic">wahren</hi> Kirche und den
+                  Christen inmitten der <foreign xml:lang="lat">massa perditionis</foreign><note xml:id="n94">Vgl. <bibl corresp="kbga-bibls-2371">
+                                <persName ref="kbga-actors-14">A.
+                              Augustinus</persName>, <title level="a">De gratia Christi et de peccato
+                              originali contra Pelagium et Coelestium libri duo</title>, MSL 44, col. 402.</bibl></note>, der auch er verfallen ist, zum <hi rend="italic">Erwählten</hi> und <hi rend="italic">Heiligen</hi> macht. Dieser Regel folgt auch die Theologie. Nicht
+                  darin besteht das ihr gesetzte «Punktum des Glaubens» (S. 8)<note xml:id="n95">
+                            <bibl corresp="kbga-bibls-1034">Wiederabdruck S. 135</bibl>.</note>, daß ihr gestattet wäre, in die Gerechtsame
+                  Gottes einzugreifen, vorwegzunehmen, was ihr durch Gottes Güte jeden Morgen neu
+                  geschenkt werden muß [vgl. <ref type="can" subtype="bible" target="Klagel.3.23">Klgl. 3,23</ref>], sondern darin, daß sie im konkreten Gehorsam gegen die
+                  konkrete Autorität ihrerseits jeden Morgen neu wagt, auf Hoffnung der Gnade hin,
+                  forschend nach dem Wort und bittend um den Heiligen Geist, die Offenbarung in
+                  ihrer besonderen Sphäre, der Sphäre des begrifflichen Denkens ernst zu nehmen, d. h. aber «<hi rend="italic">dialektisch</hi>» ernst zu nehmen. Ich kann nichts dafür,
+                  daß dieses Wort, einmal in die Debatte geworfen, alsbald zu einem Popanz gemacht
+                  worden ist, mit dem man die Kinder schreckt, als ob wer weiß welcher Greuel von
+                  unterchristlicher Philosophie dahinter stecke.<note xml:id="nm" type="original">‹Nach den
+                     Ergebnissen der neuesten Forschung (<bibl corresp="kbga-bibls-2365"><persName ref="kbga-actors-368"><hi rend="italic">Schmidt-Japing</hi></persName>,
+                           a. a. O., S. 101ff.</bibl>) habe ich die Ehre, eine Art auf den Kopf
+                     gestellter <hi rend="italic">
+                                <persName ref="kbga-actors-167">Hegel</persName></hi>
+                     zu sein.<note xml:id="n96">Zu der von <persName ref="kbga-actors-368">J. W.
+                           Schmidt-Japing</persName> behaupteten Parallele zwischen dem jungen
+                           <persName ref="kbga-actors-167">Hegel</persName> und <persName ref="kbga-actors-2151">Barth</persName> vgl. <bibl corresp="kbga-bibls-2365">
+                                    a. a. O., S. 101–108.</bibl></note> «<persName ref="kbga-actors-2151">Barths</persName> Theologie und Christologie ist konsequenter Idealismus mit
+                     negativem Vorzeichen» (S. 104) oder auch «eine Akzentverschiebung im <persName ref="kbga-actors-293">Natorp</persName>-<persName ref="kbga-actors-81">Cohenschen</persName> logischen System» (S. 111). Was soll eigentlich das
+                     alles?›</note> Es handelt sich um die schlichte Anerkennung, daß das Wort: «Wo
+                  der Herr nicht das Haus bauet, da arbei<pb xml:id="p674" ed="pga" break="no"/>ten
+                  umsonst, die daran bauen!» [<ref type="can" subtype="bible" target="Ps.127.1">Ps. 127,1</ref>] in der Theologie keinen Augenblick <hi rend="italic">nicht</hi>
+                  aktuell ist. Unser Reden, Sagen, Sprechen oder Argumentieren in der Theologie kann
+                  sich nur <hi rend="italic">beziehen</hi> auf die in Christus geschehene und immer
+                  wieder geschehende Anrede <hi rend="italic">Gottes</hi> an den Menschen, die zu <hi rend="italic">vollziehen</hi> in keinem Sinne in unserer Kompetenz und Gewalt liegt.
+                  Danach haben wir uns einzurichten. Es soll Klöster geben, in deren Refektorium der
+                  Ehrenplatz bei jeder Mahlzeit mit vollem Gedeck <hi rend="italic">zubereitet</hi>, dann
+                  aber <hi rend="italic">unbesetzt</hi> gelassen wird!<note xml:id="n97">In Klöstern der
+                     deutschen Benediktinerkongregation etwa ist es üblich, daß nach dem Ableben
+                     eines der Patres dessen Platz im Refektorium eine gewisse Zeit weiterhin
+                     gedeckt wird und frei bleibt.</note> Dieses Freibleiben <hi rend="italic">der</hi>
+                  Stelle, wo das entscheidende Wort zu sprechen wäre, ist der Sinn der Dialektik in
+                  der Theologie. Ja (S. 25)<note xml:id="n98">
+                            <bibl corresp="kbga-bibls-1033">S. 25</bibl> bzw. <bibl corresp="kbga-bibls-1034">151</bibl>: «Wir kennen alle die
+                     mittelalterlichen Kreuzigungsdarstellungen. Zu Füßen des Kreuzes liegen die
+                     Knochen des toten Adam. Das kann ein Symbol für das Wesen der Theologie sein.
+                     Adam <hi rend="italic">ist</hi> gestorben und mit ihm ist die Zeit alles bloß
+                     menschlichen Redens von Gott vergangen.»</note>, <persName ref="kbga-actors-2144">Adam</persName> <hi rend="italic">ist</hi>
+                  gestorben, aber wahrlich darum mit seinem ganzen Geschlecht noch nicht erlöst.
+                  Gott <hi rend="italic">hat</hi> geredet in seinem Sohn! [vgl. <ref type="can" subtype="bible" target="Hebr.1.2">Hebr. 1,2</ref>], wir <hi rend="italic">sind</hi>
+                  nun Gottes Kinder. Aber es ist noch nicht erschienen, was wir sein werden (<ref type="can" subtype="bible" target="1.Joh.3.2">1.Joh. 3,2</ref>). Noch ist die
+                  Zeit des bloß menschlichen Fragens <pb n="323" ed="kbga-sources-2314"/> nach Gott,
+                  des bloß menschlichen Redens von Gott nicht vergangen, noch hat die Kirche Anlaß,
+                  sich an der <hi rend="italic">Verheißung genügen</hi> zu lassen, ihrer Grenze bewußt zu
+                  sein, ihres Herrn zu warten und nicht selber den Herrn zu spielen. Es ist nicht
+                  einzusehen, inwiefern dies etwa gerade der Theologie erlaubt sein sollte.<note xml:id="nn" type="original">‹Damit meine ich nicht nur <persName ref="kbga-actors-317">Peterson</persName>, sondern auch vielen anderen
+                     (ich nenne z. B. <persName ref="kbga-actors-4">Althaus</persName><note xml:id="n99">
+                                <bibl corresp="kbga-bibls-1448">
+                                    <persName ref="kbga-actors-4">P. Althaus</persName>, <title level="a">Theologie
+                                 und Geschichte. Zur Auseinandersetzung mit der dialektischen
+                                 Theologie</title>, in: ZSTh, Jg. 1
+                                 (1923), S. 741–786</bibl>; ders., <bibl corresp="kbga-bibls-2372">
+                                    <title level="a">Paulus und sein neuester Ausleger. Eine
+                                 Beleuchtung von Karl Barths «Auferstehung der Toten»</title>, in:
+                                 <hi rend="italic">Christentum und Wissenschaft</hi>, Jg. 1
+                                 (1925), S. 20–30.97–102.</bibl></note>,
+                        <persName ref="kbga-actors-2855">Girgensohn</persName>†<note xml:id="n100">
+                                
+                                    <bibl corresp="kbga-bibls-2373">
+                                    <persName ref="kbga-actors-2855">K.
+                                 Girgensohn</persName>, <hi rend="italic">Die Inspiration der Heiligen
+                                 Schrift</hi>,
+                              Dresden 1925</bibl>.
+                           <persName ref="kbga-actors-2855">Girgensohn</persName> war am
+                           <date when="1925-09-21">21.9.1925</date> verstorben.</note>, <persName ref="kbga-actors-353">Schaeder</persName><note xml:id="n101">
+                                <bibl corresp="kbga-bibls-2244">
+                                    <persName ref="kbga-actors-353">E. Schaeder</persName>, <hi rend="italic">Das Geistproblem der Theologie. Eine systematische
+                                 Untersuchung</hi>,
+                                 Leipzig/Erlangen 1924, bes. S. 34–42</bibl>; ders., <bibl corresp="kbga-bibls-2374">
+                                    <title level="a">Die Geistfrage in der neueren Theologie.
+                                 Referat gehalten auf der Thüringer Kirchlichen Konferenz
+                                 Neudietendorf September 1925</title>, in: ZSTh, Jg. 3 (1926), S. 424–460, bes. S. 435–446.</bibl></note>, <persName ref="kbga-actors-173">Heinzelmann</persName><note xml:id="n102">
+                                <bibl corresp="kbga-bibls-2375">
+                                    <persName ref="kbga-actors-173">G.
+                                 Heinzelmann</persName>, <title level="a">Das Prinzip der Dialektik in
+                                 der Theologie Karl Barths</title>, in: NKZ, Jg. 35 (1924), S. 531–556.</bibl></note>, <persName ref="kbga-actors-1121">Lüttge</persName><note xml:id="n103">
+                                <bibl corresp="kbga-bibls-2376">
+                                    <persName ref="kbga-actors-1121">W. Lüttge</persName>, <title level="a">Dialektische Theologie</title> (SgV 113), Tübingen
+                              1925.</bibl></note>, <persName ref="kbga-actors-4095">Lehmann-Issel</persName><note xml:id="n104">
+                                <bibl corresp="kbga-bibls-2377">
+                                    <persName ref="kbga-actors-4095">K.
+                                 Lehmann-Issel</persName>, <title level="a">Das Wort Gottes als
+                                 Aufgabe der Theologie? Zur Krisis der Theologie und zur «Theologie
+                                 der Krisis» (Karl Barth)</title>, in: CW, Jg. 39 (1925), Sp. 338–344.391–400.440–445.</bibl></note>), die sich in den letzten Jahren speziell gegen
+                     diese Seite meiner theologischen Bemühungen protestierend geäußert haben, die
+                     vorläufig nötige und mögliche Antwort gegeben zu haben. Ob man den «Ernst
+                     Gottes», mit dem man durchaus reden möchte, mit <persName ref="kbga-actors-317">Peterson</persName> aus der Bindung an das
+                     Dogma ableitet oder mit den andern aus der «geschichtlichen Wirklichkeit» eines
+                     angeblichen Geistbesitzes des religiösen Subjekts, ob die ungerechte Anklage
+                     dahin laute, daß «dialektische» (d. h. sich selbst als dialektisch verstehende)
+                     Theologie überhaupt keine Theologie sei (<persName ref="kbga-actors-317">Peterson</persName> S. 6)<note xml:id="n105">
+                                <bibl corresp="kbga-bibls-1033">S. 6</bibl>
+                        bzw. <bibl corresp="kbga-bibls-1034">132f.</bibl>: «Denn die Theologie, die es nur in dem gibt, daß es keine
+                        Theologie gibt, ist eben <hi rend="italic">keine</hi> Theologie, sondern nur die
+                        Frage: gibt es Theologie?»</note>, oder dahin, daß ihr «der Mensch des
+                     Glaubens» verloren gehe (so z. B. <bibl corresp="kbga-bibls-2375">
+                                <persName ref="kbga-actors-173">Heinzelmann</persName>, NKZ XXXV, H. 12, S. 556</bibl>)<note xml:id="n106">
+                                <bibl corresp="kbga-bibls-2375">
+                                    <persName ref="kbga-actors-173">G.
+                                 Heinzelmann</persName>, a. a. O., S. 556</bibl>:
+                        «<persName ref="kbga-actors-2151">Barth</persName> hat uns große Dienste erwiesen … Er hat uns in jeder falschen
+                        Gewißheit erschüttert. Er hat auch den letzten Rest einer
+                        Menschenvergötterung abgetan. Aber, er hat darüber den <hi rend="italic">Menschen</hi> des Glaubens verloren! Seine Theologie ist im eigentlichen
+                        Sinne <hi rend="italic">un</hi>menschlich.»</note>, das macht offenbar einen
+                     grundsätzlichen Unterschied nicht aus. Ich vermisse bei allen meinen in dieser
+                     Sache aufgestandenen Kritikern das Bedenken, daß unser wie immer zu
+                     begründendes Erkennen und Besprechen Gottes wirklich und konkret «Stückwerk»
+                     [vgl. <ref type="can" subtype="bible" target="1.Kor.13.9">1.Kor. 13,9</ref>]
+                     ist, daß <hi rend="italic">wir</hi> zu letzten, den «Ernst Gottes» eindeutig und
+                     einwandfrei wiedergebenden Sätzen das Zeug nicht haben, daß es außerhalb des
+                        <hi rend="italic">göttlichen</hi> Subjekts, <hi rend="italic">seiner</hi> Gnade und
+                        <hi rend="italic">seiner</hi> Wahrheit <hi rend="italic">keinen</hi> Grund gibt, der
+                     Theologie nicht – müde zu werden. «Wer sieht nicht, in welcher furchtbaren Not
+                     sich <persName ref="kbga-actors-2151">K. Barth</persName> befindet? … Oder ist das nicht das Eingeständnis völliger
+                     Ratlosigkeit in Sachen der Theologie aus dem Munde eines Theologen, der
+                     christlicher Theologe sein möchte?», so schreibt <persName ref="kbga-actors-173">Heinzelmann</persName> (<bibl corresp="kbga-bibls-2375">a. a. O., S. 548</bibl>), veranlaßt
+                     durch das, was ich einst (<bibl corresp="kbga-bibls-929">Das Wort Gottes u.d. Theol., S. 178</bibl>)<note xml:id="n107">
+                                <bibl corresp="kbga-bibls-929">
+                                    <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das Wort
+                                 Gottes als Aufgabe der Theologie</title>, in: W.
+                                 G. Th., S. 178</bibl>; in diesem Band <ref type="pub" target="../volume/19/p175#p175">S. 175</ref>: «Ob die
+                        Theologie über die 
+                                    <hi rend="italic">Prolegomena</hi> zur Christologie je hinauskommen
+                        kann und soll? Es könnte ja auch sein, daß mit den Prolegomenen <hi rend="italic">Alles</hi> gesagt ist.»</note> über Christologie als <title level="m">
+                                <hi rend="italic">Prolegomena</hi></title> zur
+                     Christologie gesagt und oben im Text ausdrücklich wiederholt habe. Er fügt
+                     nicht ohne Wohlwollen hinzu, daß er die Not, in der ich mich befinde, auch zu
+                     kennen glaube.<note xml:id="n108">
+                                <bibl corresp="kbga-bibls-2375">
+                                    <persName ref="kbga-actors-173">G. Heinzelmann</persName>,
+                                 a. a. O., S. 548</bibl>: «Ich schreibe das gewiß
+                        nicht, um mich über K. Barth zu erheben. Ich glaube die Not auch zu kennen,
+                        in der er sich befindet …»</note> Aber in diesem Fall handelt es sich nun
+                     wirklich nicht darum, etwas zu <hi rend="italic">glauben</hi>, sondern es zu <hi rend="italic">wissen</hi>, und vor allem zu <hi rend="italic">zeigen</hi>, daß man es
+                     weiß. Ich meinerseits «glaube» nicht, daß <persName ref="kbga-actors-173">Heinzelmann</persName> die bewußte <hi rend="italic">in der Tat</hi> furchtbare
+                     Not kennt, sonst <hi rend="italic">müßte</hi> er ja eingesehen haben, daß sein
+                     Aufsatz (dessen Scharfsinn und Gerechtigkeit übrigens aller Ehren wert ist) als
+                        <hi rend="italic">Angriff</hi> auf das «Prinzip der Dialektik in der Theologie
+                     <persName ref="kbga-actors-2151">Karl Barths</persName>» <hi rend="italic">gegenstandslos</hi> ist, daß er und alle seine
+                     Mitangreifer es zu den als vom Himmel geredeten eindeutigen Worten, die wir als
+                     Theologen sagen <hi rend="italic">sollten</hi> und <hi rend="italic">nicht können</hi>
+                     (in der Christologie und sonst) so wenig je gebracht haben noch je bringen
+                     werden wie ich, sondern über «dialektische» Formeln <hi rend="italic">hinaus</hi>
+                     bestenfalls zu ehrlichen Versicherungen und Beteuerungen, die aber den
+                     Charakter des Ja und Amen, das wir auf Kanzel und Katheder sprechen sollten, in
+                     keiner Weise besitzen, sondern auf ein Ja und Amen angewiesen sind, das <hi rend="italic">anderswoher</hi> gesprochen werden muß. Daß ich das weiß, das ist
+                     die «furchtbare Not», in der ich mich befinde und von der ich wohl wollte, daß
+                     etliche, statt mich anzuklagen, als ob <hi rend="italic">ich</hi> diese Sache
+                     erfunden hätte, sie mit mir <hi rend="italic">teilen</hi> würden. Auf die Gefahr
+                     hin, daß dann ein gewisser «Ernst» und eine gewisse «Vergnügtheit» unter den
+                     Theologen seltener würden. Die sog. «Barth’sche Theologie» wird eines Tages
+                     gehen, wie sie gekommen ist, und ihr wird ihr Recht geschehen. Aber dieses weiß
+                     ich bestimmt: Es sei denn, daß meine Kritiker aus <hi rend="italic">schwererer</hi>
+                     «Not», aus <hi rend="italic">größerer</hi> «Ratlosigkeit» als die meine gegen mich
+                     reden werden, werden sie trotz ihrer größeren Kunst, Gelehrsamkeit und
+                     Frömmigkeit die Leute nicht sein, «den Weg nach vorn» (<bibl corresp="kbga-bibls-2365"><persName ref="kbga-actors-368"><hi rend="italic">Schmidt-Japing</hi></persName>, a. a. O., S. 112</bibl>)<note xml:id="n109">«Durch solche Theologie des Korrektivs,
+                        in der der Idealismus sich durch sich selbst vernichtet, wird viel Schutt
+                        weggeräumt, gebaut aber wird in ihr nicht … Es läßt sich nicht leugnen, daß
+                        durch die gewissenschärfende Theologie K. Barths alle Schiffe verbrannt
+                        sind, die als letzten Ausweg eine Rettung im idealistischen Hafen übrig
+                        ließen. Der Weg nach vorn aber, auf den alles ankommt, wird nicht gezeigt.
+                        Ihn zu suchen ist die Aufgabe der heutigen Theologie.» – <persName ref="kbga-actors-368">Schmidt-Japing</persName> spielt hier an auf eine
+                        Formulierung <persName ref="kbga-actors-2151">Barths</persName> in <bibl corresp="kbga-bibls-929">
+                                    <title level="a">Not und Verheißung der christlichen Verkündigung</title>
+                                 (1922), in: W. G. Th., S. 99f.</bibl>; in diesem Band S. 67f.: «Fassen Sie meinen Beitrag
+                        zur theologischen Diskussion … auf … als eine Art <hi rend="italic">Randbemerkung</hi> und Glosse … Meine Meinung ist wirklich die, es
+                        möchte jedermann in seiner Schule und bei seinen Meistern <hi rend="italic">bleiben</hi>, nur vielleicht als <hi rend="italic">Korrektiv</hi> … sich
+                        gefallen lassen, was allenfalls in jener Randbemerkung Erhebliches enthalten
+                        ist.»</note> zu entdecken und zu gehen. Das berühmte «Korrektiv» haben sie
+                     sich alle noch nicht recht zu Herzen genommen. Bekümmerter würden sie sonst
+                     reden.›</note> «Wir haben aber solchen Schatz in <hi rend="italic">irdenen</hi>
+                  Gefäßen, auf daß die überschwengliche Kraft sei <hi rend="italic">Gottes</hi> und <hi rend="italic">nicht</hi> von uns» [<ref type="can" subtype="bible" target="2.Kor.4.7">2.Kor. 4,7</ref>]. <pb xml:id="p675" ed="pga"/> </p>
+          
+        </div>
+        <div>
+          <pb xml:id="p676" ed="pga"/>
+          <head>8.</head>
+          <p>Theologie ist konkreter <hi rend="italic">Gehorsam</hi>. Lassen Sie uns mit einer
+                  Überlegung darüber, was hier <hi rend="italic">Gehorsam</hi> bedeuten muß, den Schluß
+                  machen. Gehorsam gibt es nur in Beziehung zu einem sich zu Gehör bringenden <pb xml:id="p677" ed="pga"/> höheren Willen. <persName ref="kbga-actors-317">Peterson</persName> sagt aber mit Recht, daß es
+                  sich um den dem christlichen <hi rend="italic">Glauben</hi> zugeordneten Gehorsam
+                  handle (S. 8)<note xml:id="n110">Zur Definition von «Glaube» erklärt <persName ref="kbga-actors-317">Peterson</persName> (<bibl corresp="kbga-bibls-1033">S. 8</bibl> bzw. <bibl corresp="kbga-bibls-1034">135</bibl>): «Der Glaube, zu dem es wesentlich gehört, daß er Gehorsam ist …
+                     Ein Gehorsam, der zum Glauben hinzugehört, nicht im Sinne eines Akzidentiellen,
+                     etwa in dem Sinne, daß einem rein theoretischen assensus des Glaubens dann
+                     nachträglich noch eine Leistung des Willens hinzugefügt würde, auch nicht in
+                     dem Sinne, als ob der Glaube selber ein voluntativer Akt wäre, sondern so, daß
+                     dem Akt des Glaubens ein Akt des Gehorsams metaphysisch-ontisch zugeordnet ist
+                     …»</note>. Als <hi rend="italic">Glaubens</hi>gehorsam steht er aber offenbar in
+                  Beziehung zu dem Willen Gottes in seiner Offenbarung, und das ist der Wille Gottes
+                  in seiner Offenbarung: den Menschen, indem er ihn <hi rend="italic">anredet</hi>, mit
+                  sich selbst zu versöhnen und seiner Erlösung entgegenzuführen. Als der, der
+                  geredet hat in seinem Sohn und noch redet durch das Zeugnis seiner Knechte und
+                  Boten, will er auch heute, <hi rend="italic">heute</hi> reden [vgl. <ref type="can" subtype="bible" target="Hebr.4.7">Hebr. 4,7</ref>]. Glaubensgehorsam muß
+                  heißen: Dienst am Geschehen dieses Willens, d. h. also Dienst an dieser Anrede,
+                  durch die Gott Sein Werk treibt – Raum geben und schaffen, damit sie heute und
+                  auch heute nicht umsonst zum Gehör komme. Solcher «Dienst am Wort» ist nun der
+                  Sinn der Kirche überhaupt und in der Kirche an ihrer bestimmten Stelle der Sinn
+                  auch der Theologie. Raum geben und Raum schaffen, weil Gott sein heilsames Wort
+                  spricht: das tut die ganze Gemeinde durch ihr Hören der Predigt, durch ihre Feier
+                  der Sakramente, durch ihre Buße, durch ihre Dankbarkeit, durch ihr Gebet. Das tut
+                  als Organ der Gemeinde das kirchliche <hi rend="italic">Amt</hi> insbesondere, als
+                  Träger des der Kirche anvertrauten Kerygmas. Das tut in spezieller Funktion dieses
+                  Amtes die Theologie, indem sie den unvermeidlichen Schwankungen im Vollzug des
+                  Kerygmas gegenüber an Hand <pb n="324" ed="kbga-sources-2314"/> der konkreten
+                  kirchlichen Autorität und gerade darum in der Freiheit des Glaubens, d. h. im
+                  Blick auf die primäre Autorität des Herrn, <hi rend="italic">wacht</hi> über der
+                  Erhaltung oder Wiederherstellung reiner Lehre. <hi rend="italic">Reiner</hi> Lehre, d. h. aber schrift- und geistgemäßer Lehre, solcher Lehre, die dem göttlichen Wort
+                  selbst Freiheit gibt gegenüber den Eigenmächtigkeiten alles menschlichen Redens
+                     <hi rend="italic">von</hi> und <hi rend="italic">über</hi> Gott. So ist die Predigt als
+                  die Stelle, an der jener Wille Gottes in seiner Offenbarung «<hi rend="italic">heute,
+                     heute</hi>» geschehen will, der Ort, an dem sich die Theologie der Kirche
+                  einordnet, an dem sie ihren Sinn bekommt. Einordnung bedeutet aber sachliche und
+                  methodische Unterordnung. Die Freigabe des <pb xml:id="p678" ed="pga"/> Glaubens,
+                  in der sie arbeitet, kann eben als Freiheit des <hi rend="italic">Glaubens</hi> nicht
+                  darin bestehen, daß sie ihren Charakter als Dienst etwa verleugnet. «Sowie sich
+                  die Dogmatik aus dem Gebiete der Kirche entfernt», schreibt <persName ref="kbga-actors-413">Vilmar</persName><note xml:id="no" type="original">
+                            <bibl corresp="kbga-bibls-236">
+                                <persName ref="kbga-actors-413">A. F. C. Vilmar</persName>, Dogmatik. Erster Teil,
+                              Gütersloh 1874, S. 59; vgl. S. 5 u.
+                           89.</bibl><note xml:id="n111">
+                                <bibl corresp="kbga-bibls-236">
+                                    <persName ref="kbga-actors-413">A. F. C. Vilmar</persName>, <hi rend="italic">Dogmatik. Akademische Vorlesungen</hi>, hrsg. von K. W.
+                                 Piderit, Bd. I,
+                                 Gütersloh 1874.</bibl></note></note>,
+                  «dient sie nicht mehr der Seligkeit, sondern der Wissenseitelkeit des Individuums.
+                  Die Dogmatik soll wissen, daß sie als ein Gegenstand der Vorbereitung für das
+                  geistliche Amt in dem Verhältnis der Schule zum wirklichen Leben stehe und daß
+                  auch ihr gesagt sei: <foreign xml:lang="lat">non scholae, sed vitae discimus</foreign>. Das Leben der Kirche steht
+                  über der Dogmatik.» Nicht als ob die Theologie selbst zu predigen hätte; sie ist
+                  aber auch nicht nur Dogmatik, wie es bei <persName ref="kbga-actors-317">Peterson</persName> den Anschein hat. Sie hat, um
+                  von den historischen Hilfsdisziplinen hier abzusehen, als Exegese immer wieder die
+                  grundlegende Frage nach dem genuinen Propheten- und Apostelzeugnis von der
+                  Offenbarung an die kanonischen «Quellen» zu richten. Sie hat als Dogmatik auf dem
+                  beherrschenden Hintergrund und nach der Norm jenes Zeugnisses an Hand der
+                  Bekenntnisse und der Väter die Grundsätze christlicher Verkündigung immer neu
+                  herauszuarbeiten. Sie hat als Homiletik<note xml:id="n112">In <bibl corresp="kbga-bibls-1042">
+                                <hi rend="italic">ZZ</hi>: «als Praktische
+                           Theologie».</bibl></note>, gesichert durch die so gewonnenen Prinzipien, belehrt durch jenes
+                  ungeschriebene Gebot der Stunde über das konkrete Was? und Wie? der christlichen
+                  Verkündigung an die jeweilige <pb n="325" ed="kbga-sources-2314"/> Gegenwart
+                  nachzudenken. Das alles im Sinn eines Dienstes, eines Wächteramtes an den
+                  Wächtern, als die Stätte, wo die Kirche sich selber Rechenschaft gibt von ihrem
+                  Tun, wo sie Besinnung übt über die zweideutigen Bedürfnisse des Tages, der Praxis,
+                  der Gesellschaft <hi rend="italic">hinweg</hi> auf die eindeutigen kirchlichen
+                  Bedürfnisse, auf die Sache, auf das <foreign xml:lang="lat">ministerium verbi divini</foreign>, das sich nicht will
+                  verhökern und verkrämern lassen an den Zeitgeist, und wenn es der kirchliche
+                  Zeitgeist wäre. So dient die Theologie der Offenbarung, indem sie der Predigt
+                  dient. Um eine besondere <hi rend="italic">Sorge</hi> handelt es sich dabei, die
+                  grundsätzlich der Kirche als solcher, der <hi rend="italic">ganzen</hi> Kirche
+                  aufgeladen ist, aber auch um ein Charisma, das als solches grundsätzlich wiederum
+                  der ganzen Gemeinde verliehen ist. Der Satz, daß, wie alle <hi rend="italic">Gläubigen</hi> Priester, so auch Alle <hi rend="italic">Theologen</hi> sind, ist in
+                  dem verständigen Sinn, in dem er al<pb xml:id="p679" ed="pga" break="no"/>lein
+                  ernsthaft aufgestellt werden kann, trotz des (nicht ganz loyalen) Spottes, mit dem
+                  er von <persName ref="kbga-actors-317">Peterson</persName> bedacht worden ist (S. 32)<note xml:id="n113">
+                            
+                                <bibl corresp="kbga-bibls-1033">
+                                E. Peterson, a. a. O., S. 32</bibl> bzw.
+                           <bibl corresp="kbga-bibls-1034">151</bibl>: «Wenn freilich alle Gläubigen Priester sind, dann sind
+                     auch alle Gläubigen Theologen. Wenn die Theologie nicht mehr Aufgabe eines
+                     Standes ist, fällt sie der Mannigfaltigkeit menschlicher ‹Berufe› anheim. Dann
+                     gibt es eine Theologie des Arbeiters, eine Theologie des Kapitalisten, eine
+                     Theologie des Journalisten und – auch eine Theologie der Theologieprofessoren.
+                     Dann ist jeder in seinem ‹Beruf› zum Theologen geworden. Glückliches Zeitalter,
+                     in dem es ebenso viele Theologen wie ‹Berufe› gibt, nur Eines aber fehlt – <hi rend="italic">die</hi> Theologie.»</note>, aufrecht zu erhalten. An dem
+                  besonderen Schaden, um dessen willen es Theologie geben muß, nämlich an der
+                  Sieghaftigkeit, mit der sich heidnische Klugheit, heidnischer Tiefsinn, heidnische
+                  (NB. aufrichtige heidnische) Frömmigkeit in immer neuen einladenden Formen gerade
+                  der Stätte bemächtigt, da Gottes Ehre wohnen [vgl. <ref type="can" subtype="bible" target="Ps.26.8">Ps. 26,8</ref>] soll, an der Zuchtlosigkeit und Trägheit des
+                  sich selbst überlassenen menschlichen Denkens und Redens, deren sich auch die
+                  christliche Verkündigung immer wieder anklagen muß, krankt, mitschuldig und
+                  mitleidend, die ganze Kirche in allen ihren Gliedern. So muß auch die Reaktion
+                  dagegen, der wohl überlegte Ruf zur Sache, zur Disziplin, zur christlichen Strenge
+                  – und das ist eben die Theologie! – grundsätzlich von der ganzen Kirche ausgehen
+                  und getragen sein. Daß es nun Theologie als einen besonderen Stand, als besondere
+                  Wissenschaft sogar gibt, das darf und muß wohl als besondere Gnade und insofern
+                  als gute christliche Ordnung verstanden werden. Aber nicht anders als in großer
+                  Demut, nicht ohne Verständnis für das gewisse eifersüchtige Bedenken, von dem
+                  dieser besondere Stand, diese besondere Wissenschaft als <pb n="326" ed="kbga-sources-2314"/> solche in der Kirche selbst wahrlich von allen Seiten
+                  umgeben ist, für das Mißtrauen, als ob hier unter dem Vorwand des Dienstes eine
+                  unzulässige Herrschaft, eine Aristokratie der Gnostiker, ein «Papat der
+                  Schriftgelehrten» (Schlatter)<note xml:id="n114">Im gedruckten Werk <persName ref="kbga-actors-359">Adolf Schlatters</persName> nicht nachzuweisen. Ob es
+                     sich um eine Reminiszenz aus dem Wintersemester 1907/08 handelt, als <persName ref="kbga-actors-2151">Barth</persName> in
+                     <placeName ref="kbga-places-61">Tübingen</placeName> <persName ref="kbga-actors-359">Schlatters</persName> Vorlesung
+                     «Erklärung des Matthäusevangeliums» hörte?</note> aufgerichtet werden solle.
+                  Welche Theologie dürfte sich über das Vorhandensein dieses Mißtrauens gegen alle
+                  Theologie etwa einfach hinwegsetzen? Und auch die skeptische Frage, zu der die
+                  Besonderheit der Theologie als Stand und Wissenschaft denen, die draußen sind
+                  [vgl. <ref type="can" subtype="bible" target="1.Thess.4.12">1.Thess. 4,12</ref>],
+                   notwendig Anlaß gibt, werden wir weder mit Gewalt <pb xml:id="p680" ed="pga"/> noch mit listiger Rede zum Verstummen zu bringen, sondern an ihrer
+                  Stelle als in sich richtige Frage zu <hi rend="italic">hören</hi> haben. Der
+                  ausgezeichneten Weise, in der (allen Dingen, die «es gibt», gegenüber!) Gott und
+                  nur Gott seine <hi rend="italic">Offenbarung</hi> gibt, entspricht doch wohl die
+                  gewisse Anfechtbarkeit und Ärgerlichkeit, in der die <hi rend="italic">Theologie</hi>
+                  allen anderen Ständen und Wissenschaften gegenübersteht. Wie dem auch sei: Auf <hi rend="italic">keinen</hi> Fall darf die Theologie, wie das bei <persName ref="kbga-actors-317">Peterson</persName> geschieht,
+                  mit Berufung auf diese ihre Besonderheit als Stand und Wissenschaft, oder wohl gar
+                  zur Rechtfertigung dieser Besonderheit, zum Selbstzweck erhoben werden. Theologie
+                  wird als Stand und Wissenschaft möglich als Trägerin jener besonderen Sorge, jener
+                  besonderen eifrigen Treue der Kirche gegen ihren Herrn, der Sorge und des Eifers
+                  um die Reinheit ihrer Predigt. «Das Wissen der Theologie und vor Allem der
+                  Dogmatik dient nicht ausschließlich der Askese oder vollends gar der Spekulation
+                  in der Ruhe eines gleichsam mönchischen Lebens: es dient der von Gott geordneten
+                  Leitung der Kirche, dem von Gott geordneten geistlichen Amt und kann nur von
+                  dessen Einsetzung aus vollständig gewürdigt werden. Das Wissen, welches zum
+                  geistlichen Amt gehört, ist ein <hi rend="italic">energisches</hi>, aus sich
+                  herausgehendes, die Gemeinde regierendes und ihrem Ziele entgegenführendes, mithin
+                  den gesamten Gang und Weg der Kirche rückwärts und vorwärts überschauendes, ein zu
+                  dem <foreign xml:lang="grc" rend="Ell">χάρισμα κυβερνήσεως</foreign> gehörendes
+                  Wissen, welches zur Unterstützung dieses <foreign xml:lang="grc" rend="Ell">χάρισμα</foreign> dient.»<note xml:id="np" type="original"><bibl corresp="kbga-bibls-236"><persName ref="kbga-actors-413">[A. F. C.] Vilmar</persName>, a. a. O., S. 60.</bibl><note xml:id="n115">Das Zitat mit dieser Anm. wurde von
+                        <persName ref="kbga-actors-2151">Barth</persName> erst in den Abdruck in <bibl corresp="kbga-bibls-954"><title>Th. u. K.</title></bibl>
+                        eingefügt.</note></note> Es kann nicht wohl<pb n="327" ed="kbga-sources-2314"/>getan sein, diesen Zusammenhang zu zerreißen, mit der
+                  Bibel und ihrer Exegese die Predigt aus dem Interessenkreis der Theologie
+                  auszuscheiden, ihr Wesen sich darin erschöpfen zu lassen, daß sie in vornehmer
+                  Absichtslosigkeit mittels des Dogmas Gott oder vielmehr eine Welt von geistigen
+                  Wirklichkeiten zu erkennen und «argumentierend» in ihrem «metaphysisch-ontischen»
+                  Seinszusammenhange zum Verständnis zu bringen habe. Die Fragen, die ich an
+                  <persName ref="kbga-actors-317">Peterson</persName> zu richten habe, häufen sich wohl nicht zufällig gerade an dieser Stelle.
+                  Es sollen wirklich nur Fragen sein. Aber ich kann sie um der Klarheit und
+                  Vollständigkeit willen hier nicht unterdrücken. Also <hi rend="italic">diesem</hi> Tun,
+                  dem, was er uns da als Theologie beschreibt, soll nun etwa der «Ernst <pb xml:id="p681" ed="pga"/> Gottes» innewohnen, den er bei uns anderen vermißt,
+                  der Ernst, mit dem Gott «da ist», «etwa in der Form des jüngsten Gerichts» (S. 7)<note xml:id="n116">
+                            <bibl corresp="kbga-bibls-1033">S. 7</bibl> bzw. <bibl corresp="kbga-bibls-1034">134</bibl>: «Denn das gehört gerade zu dem Ernste
+                     Gottes, daß er konkret sichtbar und daß er ganz undialektisch ist, <hi rend="italic">da ist</hi> etwa in der Form des Gerichts am jüngsten Tage, wie es der
+                     christliche Glaube bekennt.»</note>? Was hat Theologie, wenn sie in diesem Tun
+                  ihr Wesen hat, mit konkretem <hi rend="italic">Gehorsam</hi>, mit der Ehre Christi zu
+                  tun? Was unterscheidet sie dann von einem intellektuellen <hi rend="italic">Spiel</hi>
+                  oder von der anthroposophischen Erkenntnis höherer Welten<note xml:id="n117">Vgl.
+                     oben <ref type="pub" target="../volume/19/p153#fn_n39">S. 153, Anm. 39</ref>.</note>? Eine Theologie, die in sich selber ruhend oder
+                  wesend sich selber genug ist – ist das nicht, gleichviel, ob sie in dem mondänen
+                  Modeanzug sogenannter Religionswissenschaft oder in dem archaistischen
+                  Kirchengewand des Petersonschen
+                  Vorschlags auftrete, ein in seiner Müßigkeit eigentlich nur in der Luft des
+                  Heidentums mögliches Unternehmen? Ist nicht auch ihr Gegenstand, jene Fülle der im
+                  Dogma angeblich direkt erkennbaren Wesenheiten und Sachverhalte, nach deren
+                  letzter Beziehung man nicht fragen darf, deren grundsätzliche Unterordnung unter
+                  Christus dunkel und unaktuell bleibt, merkwürdig ähnlich der Welt der Götter und
+                  Halbgötter, deren Einfluten in die christliche Predigt eine christliche Theologie
+                  gerade abwehren sollte? Inwiefern soll nun gerade diese Sphäre, das Halbdunkel
+                  einer dogmatisch begründeten Metaphysik, eine Sphäre sein, in der «ein Mann leben
+                  kann» (S. 23)? Sollte das von <persName ref="kbga-actors-317">Peterson</persName>
+                  (S. 14, 28)<note xml:id="n118">
+                            <bibl corresp="kbga-bibls-1033">S. 14</bibl> bzw. <bibl corresp="kbga-bibls-1034">140</bibl>: «Dann glauben die Menschen, hier
+                     könne vielleicht ‹der Berufene sein› sein, bis man am Ende dann entdeckt, daß
+                     der Betreffende kein Berufener und kein Prophet, sondern nur ein Schriftsteller
+                     oder ein Journalist war. … Und wenn etwas gegen einen Theologen mißtrauisch
+                     machen kann – und es mag sich dabei selbst um <persName ref="kbga-actors-261">Luther</persName> handeln – dann ist es die Größe seiner
+                     schriftstellerischen und seiner sprachlichen Leistung. Ich stehe darum auch
+                     nicht an zu behaupten, daß <persName ref="kbga-actors-261">Luther</persName>
+                     wesenhaft nur da als Theologe geredet hat, wo er nicht schriftstellert, sondern
+                     wo er argumentiert.» <bibl corresp="kbga-bibls-1033">S. 28</bibl> bzw. <bibl corresp="kbga-bibls-1034">140, Anm. 11</bibl>: «Das Pathos <persName ref="kbga-actors-261">Luthers</persName> ist nicht einfach das subjektive
+                     Pathos eines leidenschaftlich empfindenden Menschen, sondern es ist objektiv
+                     motiviert, und wie mir scheint ist für dieses Pathos der hinter seinem
+                     Glaubensbegriff stehende spätmittelalterliche Nominalismus von … großer
+                     Bedeutung …»</note> als journalistisch und nominalistisch durchschaute Pathos
+                     <hi rend="italic">
+                            <persName ref="kbga-actors-261">Luthers</persName></hi>, aber auch
+                  – trotz allem, was dagegen zu erinnern sein mag – die <pb n="328" ed="kbga-sources-2314"/> «Schwermut», mit der <hi rend="italic">
+                            <persName ref="kbga-actors-221">Kierkegaard</persName></hi> als «Einzelner»<note xml:id="n119">Vgl. <bibl corresp="kbga-bibls-2311">
+                                <persName ref="kbga-actors-221">S. Kierkegaard</persName>, «<title level="a">Der Einzelne». Zwei
+                              «Bemerkungen» zu meiner schriftstellerischen Wirksamkeit</title>, in:
+                           ders., <hi rend="italic">Gesammelte Werke</hi>, Bd. 10, übers. von A.
+                           Dorner und Chr. Schrempf, Jena 1922, S. 77–100.</bibl></note> das Anliegen der Kirche schließ<pb xml:id="p682" ed="pga" break="no"/>lich
+                  in Form des «Angriffs auf die Christenheit»<note xml:id="n120">Vgl. den Titel der
+                     (abgebrochenen) <persName ref="kbga-actors-221">Kierkegaard</persName>-Edition:
+                        <bibl corresp="kbga-bibls-2378">
+                                <hi rend="italic">Sören
+                                 Kierkegaards Angriff auf die Christenheit</hi>, hrsg.
+                           von A. Dorner und Chr. Schrempf, Bd. I: <hi rend="italic">Die Akten</hi>, 2 Halbbände, Stuttgart
+                           1896.</bibl> Auf diesen Titel spielt an: <bibl corresp="kbga-bibls-2379">
+                                J.
+                              Herzog, <title level="a">Abwehr von Sören Kierkegaards «Angriff auf
+                              die Christenheit». Ein Beitrag zum Verständnis der Mission Kierkegaards an die evangelische
+                              Kirche</title>, in: ZThK, Jg. 8 (1898), S. 271–381.</bibl></note> meinte auf sich nehmen zu müssen (S. 12)<note xml:id="n121">
+                            <bibl corresp="kbga-bibls-1033">S. 12f.</bibl> bzw.
+                     <bibl corresp="kbga-bibls-1034">138f.</bibl>: «Der Dialektiker <persName ref="kbga-actors-221">Kierkegaard</persName>
+                     ist zwar nicht gehorsam, aber er ist dafür schwermütig. Seine Schwermut … <hi rend="italic">ist</hi> sein Gehorsam.»</note>, dem angeblichen Ernst <hi rend="italic">dieser</hi> Theologie nicht immer noch vorzuziehen sein? Das Wesen des
+                  «Journalisten» besteht doch wohl darin, daß er als Zuschauer schreibt. Einer in
+                  Beziehung auf die wirkliche Not der wirklichen Kirche in dieser wie in anderer
+                  Hinsicht sorgenfreien, im leeren Raum <hi rend="italic">spielenden</hi> Theologie
+                  gegenüber schließe ich mit der Feststellung, daß wirklich christliche Theologie
+                  mit der ganzen Last des Glaubens auch die Last des konkreten <hi rend="italic">Dienstes</hi> nicht abwerfen darf, sondern <hi rend="italic">tragen</hi> muß. Denn
+                  nur indem sie <hi rend="italic">trägt wird</hi> sie getragen, von Gott und von den
+                  Menschen, – als <foreign xml:lang="lat">theologia crucis</foreign>, um mit dem «Nominalisten» <persName ref="kbga-actors-261">Luther</persName> zu reden.<note xml:id="n122">Vgl.die
+                     programmatische These 21 <persName ref="kbga-actors-261">M. Luthers</persName>
+                     in: <bibl corresp="kbga-bibls-1734">
+                                <title level="a">Disputatio
+                              Heidelbergae habita</title> (1518), WA 1,354,21f.:</bibl> «<foreign xml:lang="lat">Theologus gloriae dicit malum
+                     bonum et bonum malum, theologus crucis dicit id quod res est</foreign>.» – <bibl corresp="kbga-bibls-2380">«<title level="a">Die
+                     Heidelberger Disputation Doktor Martin
+                        Luthers</title>» (übersetzt von G. Merz) eröffnete 
+                                ZZ, Jg. 4 (1926), Heft 1 (S. 3–17)</bibl>, woran sich der
+                     Abdruck dieses Vortrages <persName ref="kbga-actors-2151">Barths</persName> unmittelbar anschloß.</note>
+               </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

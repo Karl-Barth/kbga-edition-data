@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3429">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 27. Juli 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3429 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 506–507.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3429</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 506-507</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">429</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 418</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 27. Juli 1921. <ref target="https://kba.karl-barth.ch/objects/11232">KBA 9270.317</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-07-27">27. Juli 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-07-27">27. Juli 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3428"/>
+          <ref type="next" target="kbga-texts-3430"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3428"/>
+          <ref type="next-in-corresp" target="kbga-texts-3430"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:47+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:47+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p506" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-07-27">27. Juli 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Unsere letzten Sendungen haben sich gekreuzt. Dein Brief war mir eine willkommene Botschaft. Ich stehe jetzt in der Tat unter stärkstem Druck, fahre mit abgeblendeten Lichtern gradaus ins Dunkle und bin des Trostes und der Ermunterung sehr bedürftig. Was da nun eigentlich passieren soll, wenn der 1<date when="1921-10-15">5. Oktober</date> einmal da ist, das stelle ich mir gar nicht vor. Sicher scheint nur, daß unbedingt bis dahin der <bibl corresp="kbga-bibls-48">Römerbrief</bibl> fertig zu schreiben ist. Und so schreibe ich denn nun los, «in getroster Verzweiflung» auch ich. 1000 Dank für dein Hilfsangebot. Das Wichtigste, was geschehen kann, tust du ja schon, und das ist die Revision des Manuskripts, die mir sozusagen ein gutes Gewissen nach rückwärts verschafft, während die Walze vorne weitergeht. Gewiß hast du auch bei den Kirchenkapiteln [Röm 9-11], die jetzt dran sind, aus dem reichen Schatz deiner Überlegungen und Erfahrungen noch diese oder jene kleine oder große Verschärfung hinzuzufügen! Unterlaß es ja nicht! Was die Korrekturen betrifft, die ja jetzt bald wieder anfangen werden einzutreffen, so lies sie bitte so, daß meinerseits nur noch ein rasches Durchlesen […] nötig ist. <pb xml:id="p507" ed="pga"/> […] Von Kundschafterdiensten ist jeder erwünscht und begrüssenswert. Das, was vor mir liegt, sieht mich alles gleich grau und dunkel an, bis ich es unmittelbar vor der Brille habe. Was ist wohl z. B. mit <bibl corresp="kbga-bibls-48">Kap. 14-15</bibl> los? […] Dank für <bibl corresp="kbga-bibls-48"><ref type="pub" target="../volume/47/p638#p638">Röm. 13</ref></bibl>, der Winkel von 360 Grad ist bewundernswürdig vollzogen, und ich will sehen, wie weit ich damit dann bei dem Text durchkomme. Das wird überhaupt noch ein harter Kuchen werden, wie schon das erste Mal, besonders auch darum, weil das Publikum gerade darauf mit Gier gespitzt ist.</p>
+        <p>Dank für den Kurier und etwas Weniges meinerseits dazu. […] Mit Frau Pfarrer <persName ref="kbga-actors-606">Herpel</persName> hatten wir hier gute Tage. […] Und nun freuen wir uns auf <persName ref="kbga-actors-275">Merz</persName>. Höre: Halte dir doch die Zeit vom <date to="1921-08-30" from="1921-08-20">20.-30. August</date> offen für eine Unternehmung ins Gebirge nach <placeName ref="kbga-places-433">Gadmen</placeName>. Ich sehe zu, daß möglichst viel Römerbrief bis dahin unter Dach kommt. […] Am Sonntag predigte ich über <ref type="pub-" target="../volume/44/p153#p153">Jesu Mutter und Brüder</ref> [<ref type="can" subtype="bible" target="Mt.12.46 Mt.12.50">Mt 12,46–50</ref>]. Euer Gemeindeblatt sieht einen übrigens doch recht hoffnungsvoll an. Und nun zurück zu <ref type="can" subtype="bible" target="Röm.10">Röm. 10</ref>. Die Arbeit «vor Ort» ist schon im Gang. Ich beginne mit Schrecken zu ahnen, daß das Buch erheblich dicker werden könnte als die <bibl corresp="kbga-bibls-1497">1.Auflage</bibl>.</p>
+        <closer>
+          <salute>Herzlichen Gruß!</salute>
+           <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

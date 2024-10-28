@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3061">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 8. September 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3061 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 77–79.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3061</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 77-79</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">61</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 58</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 8. September 1915. <ref target="https://kba.karl-barth.ch/objects/8907">KBA 9270.45</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-09-08">8. September 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-09-08">8. September 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3060"/>
+          <ref type="next" target="kbga-texts-3062"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3060"/>
+          <ref type="next-in-corresp" target="kbga-texts-3062"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:21+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:21+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p077" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1915-09-08">8. September 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Kennst du die Technik des Obstabnehmens, die Probleme des Leiternstellens, die Geheimnisse des Einkellerns? Zwei ganze Nachmittage habe ich mich jetzt diesem äußern Tun gewidmet und habe noch viel vor mir. Ich sollte dir eigentlich zuhanden deiner malerischen <persName ref="kbga-actors-1285">Braut</persName> das Bild schildern: zuhinterst der <hi rend="italic">Himmel</hi>, davor die Safenwiler <hi rend="italic">Kirche</hi>, vor dieser der <hi rend="italic">Baum der Erkenntnis</hi> des Guten und Bösen, auf diesem in kühner Situation der <hi rend="italic">Pfarrer</hi>, darunter in andächtiger Stimmung Frau <hi rend="italic"><persName ref="kbga-actors-26">Nelly</persName>, Schwiegermutter</hi> <persName ref="kbga-actors-5823">Hoffmann</persName> und Tochter <hi rend="italic"><persName ref="kbga-actors-5802">Fränzeli</persName></hi> (letzteres mit einem Apfel so groß wie sein Kopf in der Hand) und alle, alle <hi rend="italic">lesen emsig auf</hi>, was der Vater und Hirt <hi rend="italic">herunterwirft</hi> (unter Sorgfalt, daß es nicht <pb xml:id="p078" ed="pga"/> auf die Köpfe fällt). Ist das nicht alles zugleich malerisch <hi rend="italic">und</hi> symptomatisch? Und du hast unterdessen gewiß einen wunderbaren Sonntag erlebt! Was sagte deine <persName ref="kbga-actors-1285">Braut</persName> denn zu deiner Predigt? […] Wovon hast du gepredigt? Ich <ref type="pub" target="27037">das zweite Mal über den</ref> <persName ref="kbga-actors-2228">Mose</persName> [nochmals <ref type="can" subtype="bible" target="Ex.17.8 Ex.17.15">Ex 17,8–15</ref>], und zwar nach Ansicht des Kirchenpflegepräsidenten «tiefsinnig». Am Abend dann noch im <orgName ref="kbga-actors-8613">Blaukreuz</orgName> eine große dringende Rede über neuen Most und alte Schläuche [<ref type="can" subtype="bible" target="Mt.9.16 Mt.9.17">Mt 9,16f.</ref>] (am Nachmittag überdies eine Stunde Hoffnungsbund über die Wirkung des Alkohols auf das Gehirn, mit Reminiszenzen und selbstgezeichneter Tabelle!). So hatte ichs verdient, am Montag nach <placeName ref="kbga-places-412">Pratteln</placeName> reisen zu dürfen. Am Vormittag aber war ich noch in <placeName ref="kbga-places-490">Gelterkinden</placeName> bei meiner <persName ref="kbga-actors-350">Großmama</persName> und <persName ref="kbga-actors-756">Tante</persName>, wo ich wunderliche Dinge von <persName ref="kbga-actors-329">Rades</persName> Besuch daselbst hörte. Er <hi rend="italic">wollte</hi> mich wirklich nicht sehen, er habe das Gefühl, «er interessiere sich sehr für meine Ansichten, aber ich mich nicht für die seinigen», und überdies ist er über uns drei alle «verstimmt», weil wir nach der Hochzeit <placeName ref="kbga-places-41">Marburg</placeName> so eilig verlassen hätten, um nach <placeName ref="kbga-places-158">Boll</placeName> überzusiedeln. Was sind das für Geschichten! […]</p>
+        <p>In <placeName ref="kbga-places-412">Pratteln</placeName> wars nun eine sehr schöne Tagung. Ich hatte an <persName ref="kbga-actors-457">Baders</persName> Referat große Freude. Er gab einen guten Überblick über die Bewegung mit allerlei Details, die mir neu oder wieder neu waren, und zeichnete dann das Werden der Differenz <persName ref="kbga-actors-330">Ragaz</persName>-<persName ref="kbga-actors-240">Kutter</persName> etwa so: </p>
+        <table rend="100">
+                        <row>
+                            <cell rend="width(50%)"><persName ref="kbga-actors-330">Ragaz</persName>:</cell>
+                            <cell><persName ref="kbga-actors-240">Kutter</persName>:</cell>
+                        </row>
+                        <row>
+                            <cell>Erlebnis der sozialen Nöte und Probleme</cell>
+                            <cell>Erlebnis Gottes</cell>
+                        </row>
+                        <row>
+                            <cell>Ethische Forderung</cell>
+                            <cell>Das Gottesreich als Verheißung</cell>
+                        </row>
+                        <row>
+                            <cell>Glaube an die Entwicklung</cell>
+                            <cell>Einsicht in die Unfreiheit des Menschen ohne Gott</cell>
+                        </row>
+                        <row>
+                            <cell>Optimistische Einschätzung der Sozialdemokratie</cell>
+                            <cell>Die Sozialdemokratie kann uns nie verstehen!!</cell>
+                        </row>
+                        <row>
+                            <cell>Opposition gegen die Kirche</cell>
+                            <cell>Religiöse Aufgabe <hi rend="italic">in</hi> der Kirche in Fortsetzung der pietistischen Tradition!</cell>
+                        </row>
+                       
+                        <row>
+                            <cell> Religiössoziale Partei mit Konferenzen und «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>»</cell>
+                            <cell><pb xml:id="p079" ed="pga" rend="noPipe"/>Freundeskreise zur <hi rend="italic">innern</hi> Vertiefung und Arbeit</cell>
+                        </row>
+                        <row>
+                            <cell>Gewichtlegen auf Fühlung mit Arbeitern und anderen «Laien»</cell>
+                            <cell>Konzentration zunächst auf die Pfarrer</cell>
+                        </row>
+                        <row>
+                            <cell>«Man redet von uns»</cell>
+                            <cell> – </cell>
+                        </row>
+                        <row>
+                            <cell>Märtyrertum erhofft und gesucht</cell>
+                            <cell> – </cell>
+                        </row>
+                        <row>
+                            <cell>Protest gegen den Krieg</cell>
+                            <cell>Dämme bauen für eine viel spätere Zukunft.</cell>
+                        </row>
+                    </table>
+            
+        <p rend="margin-top">Schluß: Die religiössoziale «Sache» ist aus, das Ernstmachen mit Gott fängt an. […]</p>
+        <p>Ich suchte meinerseits zu zeigen, daß ich in den <hi rend="italic">Betonungen</hi> auch überall auf die Seite <persName ref="kbga-actors-240">Kutters</persName> gedrängt worden sei, daß ich aber die Positionen von <persName ref="kbga-actors-330">Ragaz</persName> in keinem Hauptpunkt als auszuschließende betrachten könne, daß mir speziell das (von <persName ref="kbga-actors-457">Bader</persName> nicht berührte) Streben nach praktischem Ernstmachen bei <persName ref="kbga-actors-330">Ragaz</persName> trotz seiner deutlichen «Gefahr» ein unentbehrliches, wenngleich sekundäres Moment in der Sache sei. Auch <persName ref="kbga-actors-423">Wieser</persName> redete für den Frieden!! Ich habe heute <persName ref="kbga-actors-457">Bader</persName> noch einen Brief geschrieben unter Hinweis auf die «Stadt die auf dem Berge liegt …» [<ref type="can" subtype="bible" target="Mt.5.14">Mt 5,14</ref>] und die uns in den Wäldern in erfreulicher Weise «leuchten» sollte! <persName ref="kbga-actors-457">Bader</persName> stellte uns den förmlichen Antrag, wir sollten uns statt alle Vierteljahre alle vierzehn Tage vereinigen zu gemeinsamem Bibellesen, und zwar sollten einfach die Vermöglichen den «Ärmeren» die Reise bezahlen, das verstehe sich von selbst. […]</p>
+        <p>Den Gedanken mit dem gemeinsamen Bibellesen hatte ich übrigens auch schon. Ob sich nicht im <placeName ref="kbga-places-152">Aargau</placeName> etwas würde machen lassen? Aber <persName ref="kbga-actors-457">Bader</persName> hat recht: man müßte sich regelmäßig und zwar etwas oft und am besten für einen Vormittag dafür freimachen. Ein Weg wäre das jedenfalls, auf dem man sich noch mehr sein könnte, und wo fast <hi rend="italic">sicher</hi> etwas zu holen wäre für jeden.</p>
+        <closer>
+          <salute>[…] Wir beide grüßen dich.</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

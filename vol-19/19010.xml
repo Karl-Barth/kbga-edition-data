@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19010">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">Das Wort Gottes als Aufgabe der Theologie</title>
+        <title type="citation_line_1">Barth, Karl: Das Wort Gottes als Aufgabe der Theologie, 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19010 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 144–175.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19010</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Das Wort Gottes als Aufgabe der Theologie</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 144-175</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">10</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 8</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Das Wort Gottes als Aufgabe der Theologie, in: Die Christliche Welt 36 (1922), Sp. 858–873 </bibl>
+        <bibl xml:id="A1" type="source">A1 (Exemplar von A): Barth, Karl, Das Wort Gottes als Aufgabe der Theologie, 23. November 1922. <ref target="https://kba.karl-barth.ch/objects/5446">KBA 96</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1922">1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p144" ed="pga"/>
+        <head>DAS WORT GOTTES ALS AUFGABE DER THEOLOGIE</head>
+        <head type="sub">1922</head>
+
+        <div type="abstract">
+          <div>
+          <head type="sub" rend="text-recte">1. <placeName ref="kbga-places-784">Elgersburg</placeName> <date when="1922-10-03">3. Oktober 1922</date></head>
+          <p>Im Jahre <date when="1886">1886</date> war die in der Folgezeit weitverbreitete und als Hauptorgan des liberalen
+          Protestantismus in <placeName ref="kbga-places-151">Deutschland</placeName> geltende Wochenschrift «<orgName ref="kbga-actors-5420">Die Christliche Welt</orgName>» gegründet
+          worden, deren Schriftleitung bis <date when="1931">1931</date> in den Händen von <persName ref="kbga-actors-329">Martin Rade</persName><note xml:id="n01">
+                            
+                                <persName ref="kbga-actors-329">Martin
+              Rade</persName> (1857–1940), 1882 Pfarrer in Schönbach,
+              1892–1899 in Frankfurt am Main, 1900 Privatdozent, später o.
+            Professor für Systematische Theologie in Marburg.</note> lag. Um die theologische
+          Diskussion unter den Lesern zu fördern, wurde am <date from="1903-09-29" to="1903-09-30">29./30. September 1903</date> in <placeName ref="kbga-places-195">Eisenach</placeName> die
+          «<orgName ref="kbga-actors-4183">Vereinigung der Freunde der Christlichen Welt</orgName>» (FCW) ins Leben
+            gerufen<note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-1478">
+                                <persName ref="kbga-actors-333">J. Rathje</persName>, <hi rend="italic">Die Welt des freien Protestantismus. Ein Beitrag zur
+            deutschevangelischen Geistesgeschichte. Dargestellt an Leben und Werk von Martin Rade</hi>,
+                  Stuttgart 1952, S. 123–127.</bibl></note>, der auch <persName ref="kbga-actors-2151">K. Barth</persName> seit <date when="1910">1910</date> bis zu deren Auflösung im Jahre <date when="1934">1934</date> angehörte<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-966">Bw. R., S. 194, Anm. 1.</bibl></note>. Mit <persName ref="kbga-actors-329">Rade</persName> war <persName ref="kbga-actors-2151">Barth</persName> seit seiner
+          Marburger Zeit als Redaktionsgehilfe der <orgName ref="kbga-actors-5420">CW</orgName> (<date from="1908" to="1909">1908/09</date>) auf besondere Weise verbunden.<note xml:id="n04">Vgl. <bibl corresp="kbga-bibls-134">
+                                    Busch, S. 58.61</bibl> und den regen Briefverkehr beider in <bibl corresp="kbga-bibls-966">Bw. R.</bibl></note>
+        </p>
+          <p>Am <date when="1920-10-01">1. Oktober 1920</date> hatte die Mitgliederversammlung der <orgName ref="kbga-actors-4183">FCW</orgName> in
+          <placeName ref="kbga-places-195">Eisenach</placeName> beschlossen, sich mit anderen regionalen liberal-protestantischen Vereinigungen
+          zu einem Verband zusammenzuschließen<note xml:id="n05">Darunter waren z. B. die «<orgName ref="kbga-actors-8748">Freunde
+            der Freien Volkskirche</orgName>» in <placeName ref="kbga-places-337">Thüringen</placeName>, die «<orgName ref="kbga-actors-8749">Freunde evangelischer Freiheit</orgName>» in <placeName ref="kbga-places-155">Anhalt</placeName> und
+            der «<orgName ref="kbga-actors-8750">Bund Freie Volkskirche</orgName>» in der Provinz <placeName ref="kbga-places-299">Sachsen</placeName>; vgl.<bibl corresp="kbga-bibls-1478">
+                                <persName ref="kbga-actors-333">J. Rathje</persName>, 
+                                    a. a. O., S. 274.</bibl> Der <orgName ref="kbga-actors-3989">BGC</orgName> bestand bis
+            <date when="1930">1930</date>.</note>, «der als <orgName ref="kbga-actors-3989">Bund für Gegenwartchristentum</orgName> [BGC] seine jährliche Tagung hält»<note xml:id="n06">
+                            <bibl corresp="kbga-bibls-1478">A. a. O., S. 275.</bibl></note>. Die erste
+          Hauptversammlung des <orgName ref="kbga-actors-3989">BGC</orgName> hatte – gemeinsam mit einer Versammlung
+          der <orgName ref="kbga-actors-4183">FCW</orgName> – <date from="1921-10-01" to="1921-10-05">Anfang Oktober 1921</date> wiederum in <placeName ref="kbga-places-195">Eisenach</placeName>
+          stattgefunden. In den Hauptvorträgen von <persName ref="kbga-actors-120">Erich
+            Foerster</persName><note xml:id="n07">
+                                <bibl corresp="kbga-bibls-1699">
+                                    <title level="a">Marcionitisches Christentum. Der Glaube an den Schöpfergott und der
+                  Glaube an den Erlösergott</title>. Vortrag auf der Eisenacher Tagung des <orgName ref="kbga-actors-3989">Bundes
+                für Gegenwartchristentum</orgName> am 3. Oktober 1921, in: CW, Jg. 35 (1921), Sp. 809–827</bibl>; Bezugnahmen auf
+            <persName ref="kbga-actors-2151">Barth</persName> (in dessen Werk er «eine Erneuerung des <persName ref="kbga-actors-678">Marcionitismus</persName> erkennt», Sp. 813) Sp. 813–819.</note> und <pb xml:id="p145" ed="pga"/>
+          <persName ref="kbga-actors-4097">Reinhard Liebe</persName><note xml:id="n08">
+                            <bibl corresp="kbga-bibls-1698">
+                                <hi rend="italic">Der Gott des heutigen Geschlechts und wir</hi>.
+                Vortrag gehalten im <orgName ref="kbga-actors-3989">Bund für Gegenwartchristentum</orgName> zu <placeName ref="kbga-places-195">Eisenach</placeName> am 5. Oktober
+                  1921, in: a. a. O., Sp. 850–853.866–868.883–889</bibl>; Bezugnahmen auf <persName ref="kbga-actors-2151">Barth</persName>
+            Sp. 867 (wo er <persName ref="kbga-actors-2151">Barth</persName> einen «biblizistischen
+            Neusupranaturalisten» nennt) und Sp. 888.</note> und den anschließenden Aussprachen war
+          der Auseinandersetzung mit <persName ref="kbga-actors-2151">Barth</persName> (der selbst
+          nicht anwesend war) «eine große Rolle»<note xml:id="n09">Brief <persName ref="kbga-actors-329">Rades</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom <date when="1921-10-13">13.10.1921</date>, <bibl corresp="kbga-bibls-966">Bw. R., S. 161.</bibl> Die
+            Diskussion zu den beiden Vorträgen ist wiedergegeben in: <bibl corresp="kbga-bibls-1801">An die Freunde. Vertrauliche d.
+            i. nicht für die Öffentlichkeit bestimmte Mitteilungen, Nr. 71 (1921), Sp. 777–779.
+            782–786.</bibl></note> zugekommen.</p>
+          <p><persName ref="kbga-actors-329">Rade</persName> kündigte daraufhin <persName ref="kbga-actors-2151">Barth</persName> in einem Brief
+          vom <date when="1921-10-13">13. Oktober 1921</date> an: «Ich melde Dir schon heute, daß wir Dich bitten werden, uns übers
+          Jahr den einen Vortrag zu halten.»<note xml:id="n10"><bibl corresp="kbga-bibls-966">Bw. R., S. 161.</bibl></note>
+          Am <date when="1922-01-09">9. Januar 1922</date> wurde die Einladung dann von <persName ref="kbga-actors-329">Rade</persName> offiziell ausgesprochen:
+            «Das Thema bleibt Dir freigestellt. Auch hast Du die Wahl, ob Du lieber in der
+            Sonderversammlung der <orgName ref="kbga-actors-4183">FCW</orgName> sprechen willst (ein mehr
+            zünftig-theologisches Publikum voraussetzend) oder in einer der beiden Versammlungen des
+              <orgName ref="kbga-actors-3989">BGC</orgName> … für die weiteren Kreise der Laiengenossen … Ich rate
+            Dir sehr zuzusagen. Gründe, es nicht zu tun, werden leicht dasein. Aber man würde es,
+            glaube ich, in weiten Kreisen nicht verstehen, wenn Du in einem solchen Momente
+            versagtest.»<note xml:id="n11"><bibl corresp="kbga-bibls-966">A. a. O., S. 168.</bibl></note>
+          <persName ref="kbga-actors-2151">Barth</persName> sagte postwendend am <date when="1922-01-10">10.
+            Januar</date> für die Versammlung der <orgName ref="kbga-actors-4183">FCW</orgName> zu: «Ich sehe wohl, daß ich
+            da nicht gut ablehnen kann, obwohl in der Tat Vieles dafür sprechen würde …»<note xml:id="n12">
+                            <bibl corresp="kbga-bibls-966">A. a. O., S. 169</bibl>. Unter
+            «Verschiedenes» kündigte <persName ref="kbga-actors-329">Rade</persName> daraufhin in: 
+                                    <orgName ref="kbga-actors-5420">CW</orgName>
+                             die Tagung von <placeName ref="kbga-places-784">Elgersburg</placeName> mit <persName ref="kbga-actors-2151">Barth</persName> als
+            Referenten an.</note>
+          Auf Rückfragen <persName ref="kbga-actors-2151">Barths</persName> in bezug
+            auf die Themenstellung antwortete <persName ref="kbga-actors-329">Rade</persName>: «M. E. handelt es sich um eine Antwort auf
+              <persName ref="kbga-actors-120">Foerster</persName>. Aber doch nicht um eine Antwort.
+            Vielmehr um eine Fortführung der Gedanken, die uns damals mit ihrem Für und Wider bewegt
+            haben. Also die direkte Auseinandersetzung mit F. müßte durchaus zurücktreten, und
+            siegreich heraustreten sollte, <hi rend="text-recte">was Dich am meisten bewegt</hi>, was Dich
+            treibt, Deine Stimme zu erheben und Bücher zu schreiben, und worin Du Dich eins weißt
+            mit Anderen wie <persName ref="kbga-actors-137">Gogarten</persName>.»<note xml:id="n13"><bibl corresp="kbga-bibls-966">Bw. R., S. 171 (21.1.1922).</bibl></note>
+          Mit der Formulierung des Vor<pb xml:id="p146" ed="pga" break="no"/>tragsthemas zögerte <persName ref="kbga-actors-2151">Barth</persName><note xml:id="n14">Vgl. <bibl corresp="kbga-bibls-966">a. a. O., S. 175
+                  (3.4.1922)</bibl>: «Kannst du dich wegen <placeName ref="kbga-places-784">Elgersburg</placeName> noch etwas
+            gedulden? Ich bin wirklich immer noch ziemlich ratlos, was da nun eigentlich geschehen
+            soll, und würde mich lieber in mein Schneckenhaus verkriechen. – Sobald die betr.
+            Intuition da ist, melde ich dies.» Noch in einem Brief vom <date when="1922-07-03">3.7.1922</date> (<bibl corresp="kbga-bibls-966">a. a. O., S. 177</bibl>) an <persName ref="kbga-actors-26">Nelly Barth</persName> fragt <persName ref="kbga-actors-329">Rade</persName>: «<persName ref="kbga-actors-2151">Karl</persName>, dein Mann, hat sich doch inzwischen sein Thema für <placeName ref="kbga-places-784">Elgersburg</placeName>
+            überlegt?»</note>, bis er sich dann Ende <date when="1922-06">Juni</date> «endgültig auf ‹das Wort
+            Gottes als Aufgabe der Theologie› besonnen»<note xml:id="n15"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p087#p087">S. 87</ref> (28.6.1922).</bibl></note>
+          hatte.</p>
+          <p>Ende <date when="1922-07">Juli</date> lud der <orgName ref="kbga-actors-3989">BGC</orgName> als Veranstalter in der CW<note xml:id="n16">Vgl. das Programm in: <bibl corresp="kbga-bibls-1803">CW, Jg. 36 (1922), Nr. 30 vom 27.7.1922, Sp. 567.</bibl></note> zur Tagung in <placeName ref="kbga-places-784">Elgersburg</placeName><note xml:id="n17">Ortschaft bei <placeName ref="kbga-places-392">Ilmenau</placeName> im
+            Thüringer Wald (heute <placeName ref="kbga-places-186">DDR</placeName>), südlich von <placeName ref="kbga-places-202">Erfurt</placeName>. Die
+            Veranstaltungen fanden teils in den Räumlichkeiten von Schloß <placeName ref="kbga-places-784">Elgersburg</placeName>, teils im
+            «Deutschen Kaiser» statt.</note> vom <date from="1922-10-02" to="1922-10-05">2. bis 5. Oktober 1922</date> ein. <persName ref="kbga-actors-2151">Barths</persName> Vortrag war für den <date when="1922-10-03">3.</date>, abends um 6 Uhr,
+          vorgesehen. Noch am <date when="1922-09-28">28. September</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> an <persName ref="kbga-actors-403">E. Thurneysen</persName>, daß ihn
+          «die Elgersburger Sache mit größter Sorge» erfülle: «<hi rend="text-recte">Vier</hi> vollgezählte Tage liegen vor
+          mir, in denen der Kram entstehen sollte. Was in aller Welt soll ich ihnen wohl
+            sagen?»<note xml:id="n18"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4031">S. 100</ref>.</bibl></note> Mit einem noch nicht beendeten
+          Manuskript reiste <persName ref="kbga-actors-2151">Barth</persName> von <placeName ref="kbga-places-27">Göttingen</placeName> ab; «den
+          letzten Drittel des Elgersburger Vortrages habe ich mit dem Mut der Verzweiflung in der
+          Eisenbahn auf den Knien geschrieben, ein paar Stunden, bevor ich ihn hielt!!»<note xml:id="n19"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4034">S. 107</ref> (9.10.1922).</bibl></note>
+        </p>
+          <p>Dort waren dann «300–400 <orgName ref="kbga-actors-4183">Freunde der christl. Welt</orgName>»<note xml:id="n20">Brief <persName ref="kbga-actors-2151">Barths</persName> an seine <persName ref="kbga-actors-18">Mutter</persName> vom <date when="1922-10-05">5.10.1922</date>
+            (<ref type="kba-objects-id" target="11822">Original im Karl Barth-Archiv</ref>, Basel).</note> versammelt. Die Kanzel, von der aus
+            <persName ref="kbga-actors-2151">Barth</persName> seinen Vortrag hielt, hatte «links und
+          rechts einen Gipsengel, von denen jedenfalls einer ein Schild trug mit der Aufschrift: Tut
+          Buße!, wobei er auf mich zeigte.»<note xml:id="n21"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4033">S. 102</ref> (7.10.1922).</bibl></note> «Nachher [war] im Saal des Schlosses
+          ein großes Rede-Fest»<note xml:id="n22"><ref type="kba-objects-id" target="11822">Brief</ref> <persName ref="kbga-actors-2151">Barths</persName> an seine <persName ref="kbga-actors-18">Mutter</persName> vom
+              <date when="1922-10-05">5.10.1922</date>.</note> mit zahlreichen Votanten<note xml:id="n23">Vgl.
+              <persName ref="kbga-actors-2151">Barths</persName> Bericht <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p103#p103">S. 103–106</ref>
+                  (7.10.1922)</bibl>, den Austausch der Eindrücke von <placeName ref="kbga-places-784">Elgersburg</placeName>
+            zwischen <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-329">Rade</persName>
+            <bibl corresp="kbga-bibls-966">Bw. R., S. 179–182</bibl> (<date when="1922-10-16">16.</date> bzw. <date when="1922-10-18">18.10.1922</date>) und den zusammenfassenden
+            (wegen Versagens des Protokollanten erst verspätet erschienenen) Bericht über die
+            Diskussion in: <bibl corresp="kbga-bibls-1804">An die Freunde, Nr. 75 (1923), Sp. 818.</bibl></note>, unter ihnen auch «<persName ref="kbga-actors-120">Foerster</persName>, der seine Anklagen vom letzten Jahr glatt
+            re<pb xml:id="p147" ed="pga" break="no"/>vozierte»<note xml:id="n24"><bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p104#p104">S. 104</ref>
+                  (7.10.1922).</bibl></note>. <persName ref="kbga-actors-2151">Barth</persName> zeigte sich über die
+          Aussprache unbefriedigt.<note xml:id="n25">Vgl. <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p105#p105">S. 105</ref>
+              (7.10.1922)</bibl>; <bibl corresp="kbga-bibls-966">Bw. R., S. 179f.
+              (16.10.1922).</bibl></note> «Mein Schlußvotum war dementsprechend ziemlich böse.»<note xml:id="n26">Brief
+            <persName ref="kbga-actors-2151">Barths</persName> an seine <persName ref="kbga-actors-18">Mutter</persName> vom <date when="1922-10-05">5.10.1922</date>. Dieses Schlußvotum wird im Bericht
+            in: <bibl corresp="kbga-bibls-1804">An die Freunde, a. a. O.</bibl>,
+            folgendermaßen wiedergegeben: <persName ref="kbga-actors-2151">«Barth</persName> ist von der Diskussion im allgemeinen erschüttert!
+            Wie zuversichtlich haben die Pfarrer geredet! Jesus Christus macht es mir möglich, so in
+            der Not zu stecken und doch nicht zu verzweifeln.»</note>
+        </p>
+          <p>Die spätere Bitte <persName ref="kbga-actors-2151">Barths</persName>, das stillschweigend der <orgName ref="kbga-actors-5420">CW</orgName> zugesicherte Recht auf
+          Erstveröffentlichung des Vortrags an «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>» abzutreten, wurde von <persName ref="kbga-actors-329">Rade</persName> abgewiesen.<note xml:id="n27">Am <date when="1922-09-13">13.9.</date> war <persName ref="kbga-actors-2151">Barth</persName>
+            von <persName ref="kbga-actors-329">Rade</persName> gebeten worden (<bibl corresp="kbga-bibls-966">Bw. R., S. 178</bibl>): «Mit
+            Deinem Elgersburger Vortrag richte Dich so ein, daß ich ihn dann rasch zum Druck für die
+              <orgName ref="kbga-actors-5420">CW</orgName>
+            bekomme. Alle Elgersburger Vorträge erscheinen in der <orgName ref="kbga-actors-5420">CW</orgName>. (Nachher kannst Du
+            den Text ungeniert weiter verwenden.)» Daraufhin schrieb <persName ref="kbga-actors-2151">Barth</persName> im Rundbrief vom
+              <date when="1922-10-07">7.10.1922</date> (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p103#p103">S. 103</ref></bibl>): «Den Elgersburger [Vortrag] muß ich,
+            sobald ich ihn in <placeName ref="kbga-places-650">Emden</placeName> nochmals gehalten, der ‹<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>› zur Beute überlassen,
+            was gewiß unserem Redakteur in <placeName ref="kbga-places-43">München</placeName> [= <persName ref="kbga-actors-275">Georg
+              Merz</persName>, Schriftleiter der geplanten Zeitschrift «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>»] und
+            auch mir selbst nicht recht ist, aber kaum zu umgehen, ohne <persName ref="kbga-actors-329">Rade</persName> vor den Kopf zu stoßen.» Trotz der
+            stillschweigend gegenüber <persName ref="kbga-actors-329">Rade</persName> gemachten
+            Zusage bat <persName ref="kbga-actors-2151">Barth</persName> ihn («Aber nur, wenn es in <hi rend="italic">Freundschaft</hi> geschehen
+            kann, soll es geschehen»): «Wir sind mit unserer demnächst zu eröffnenden Zeitschrift
+            arme Leute, arm an brauchbarem Manuskript meine ich, und eigentlich nicht in der Lage,
+            gerade ein solches immerhin überlegtes Manifest wie den Elgersburger Vortrag an einen so
+            reichen Mann wie die <orgName ref="kbga-actors-5420">Christl. Welt</orgName> abzugeben … So komme ich mit der Bitte, ob du mir den
+            schon Verhafteten nicht wieder freigeben wolltest?» (<date when="1922-10-16">16.10.1922</date>, <bibl corresp="kbga-bibls-966">Bw. R., S. 179</bibl>). <persName ref="kbga-actors-329">Rade</persName> jedoch lehnte dies
+            am <date when="1922-10-18">18.10.1922</date> ab (<bibl corresp="kbga-bibls-966">a. a. O., S. 181</bibl>). <persName ref="kbga-actors-2151">Barth</persName> sah seinen Vortrag «nun in der ‹<orgName ref="kbga-actors-5420">Christl. Welt</orgName>›
+            verschimmeln» (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4038">S. 115</ref> vom 26.10.1922</bibl>).</note>
+        </p>
+        </div>
+        <div>
+          <head type="sub" rend="text-recte">2. <placeName ref="kbga-places-650">Emden</placeName> <date when="1922-10-11">11. Oktober 1922</date></head>
+          <p><persName ref="kbga-actors-2151">Barth</persName> wiederholte diesen Vortrag vor dem «Coetus reformierter Prediger in <placeName ref="kbga-places-686">Ostfriesland</placeName>»
+          in dessen Ordentlicher Sitzung vom <date when="1922-10-11">11. Oktober 1922</date> in <placeName ref="kbga-places-650">Emden</placeName>.<note xml:id="n28">Vgl. oben
+            die Einleitung zu <bibl corresp="kbga-bibls-492"><hi rend="italic">Das Problem der Ethik in der
+                  Gegenwart</hi>, <ref type="pub" target="../volume/19/p100#p100">S. 100f.</ref></bibl></note>
+        </p>
+          <p rend="margin-top">Die zwischen senkrechten Strichen in den Text eingefügte Originalpaginierung ist die des
+          Wiederabdrucks in <bibl corresp="kbga-bibls-929">W. G. Th.</bibl>
+        </p>
+        </div>
+      </div>
+        <div>
+          <pb xml:id="p148" ed="pga"/>
+          
+          <head>Das Wort Gottes als Aufgabe der Theologie</head>
+          <head>I.</head>
+          <p>Wir Theologen sind durch unsern Beruf in eine Bedrängnis versetzt, in der wir uns
+          vielleicht vertrösten, aber sicher nicht trösten lassen können. Wir ahnten es ja schon als
+          Studenten dunkel, daß es so kommen werde; wir wurden älter, und es war schwerer, als wir
+          je geahnt hatten. Wir sind Pfarrer, oder wir sind Dozenten; es ist immer die gleiche
+          Bedrängnis, die Einen können ihr so wenig ausweichen wie die Andern. Ich wundere mich, daß
+          es noch Theologen gibt, die in katholische Kirchen und wer weiß noch wohin gehen, um das
+          sogenannte Numinose<note xml:id="n29">Anspielung auf <bibl corresp="kbga-bibls-1711">
+                                <persName ref="kbga-actors-169">Fr. Heiler</persName>, <title level="a">Katholischer und
+                  evangelischer Gottesdienst</title> (Aus der Welt christlicher Frömmigkeit, Bd. 1),
+                  München
+                1921, S. 17f.</bibl>: «Alles ästhetische Genießen umkreist nur in
+            heiliger Scheu das mystische Urgefühl des <hi rend="italic">Numinosum</hi> und <hi rend="italic">Fascinosum</hi>, das in seiner undifferenzierten Form im katholischen Gottesdienst
+            wie selten anderswo durchbricht.» Der Begriff «das Numinose» wurde nachhaltig geprägt
+            durch <bibl corresp="kbga-bibls-52">
+                                <persName ref="kbga-actors-311">R. Otto</persName>, <hi rend="italic">Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein
+                  Verhältnis zum Rationalen</hi>, (<placeName ref="kbga-places-179">Breslau</placeName> 1917)
+                  München 1971<edition rend="sup">36–40</edition>.</bibl></note> kennen zu lernen, als ob es nicht um uns wäre, sehr uninteressant, aber dafür
+          real, wenn wir an unserm Schreibtisch sitzen, wenn wir uns niederlegen und wieder
+          aufstehen, bevor wir wieder einmal unseres Amtes walten und nachdem es wieder einmal
+          geschehen ist, einfach und ohne alle weitern Erlebnisse kraft der Tatsache, daß wir
+          Theologen sind. Die Bedrängnis, die aus dieser Tatsache kommt, ist von den Umständen, in
+          denen wir uns befinden mögen, ganz unabhängig. Sie ist, um das gleich vorwegzunehmen, mit
+          den Mitteln der Psychologie sicher zu illustrieren, aber von daher so wenig zu erklären
+          wie die allen Menschen durch ihren sicher bevorstehenden Tod irgendwie in die Seele
+          geschriebene Frage. Das seltsame Schaukelspiel des seelischen Lebens, dem wir Theologen
+          natürlich unterworfen sind so gut oder so schlimm wie jedermann, geht neben unsrer
+          Bedrängnis her seinen eigenen Weg und hat mit ihr<note xml:id="n30">In den früheren
+            Drucken: «es geht neben …, und sie hat mit ihm»; Korrektur von <persName ref="kbga-actors-2151">Barth</persName> in seinem
+            Handexemplar.</note> wesentlich nichts zu tun. Aber auch die Problematik der
+          mechanischen Seite unsres Berufes geht ihr wohl immer zur Seite und ist doch nicht ihre
+          Ursache. Das theologische System z. B. ist nun schon reichlich oft verbessert und gänzlich
+          umgebaut worden, die theologische Praxis gleichfalls, und auch an Variationen in der
+          persönlichen Stellung zu unserm Beruf ist wohl längst versucht und erprobt worden, <pb n="157" ed="kbga-sources-2327"/> <pb xml:id="p149" ed="pga"/> was da überhaupt zu versuchen ist. Bedeutet das Alles etwa
+          mehr, als wenn man einen Kranken zur Abwechslung von der einen auf die andere Seite legt?
+          Haben wir noch nicht gemerkt, in der Kirche wie auf der Universität, daß, was gestern uns
+          Ruhe war, morgen sicher uns Unruhe sein wird, daß vom Wechsel der Methoden und
+          Orientierungen, so unvermeidlich er uns immer wieder wird, eine Beseitigung dessen, was
+          uns bedrängt, jedenfalls nicht zu erwarten ist? Es kann sich auch wirklich nicht etwa um
+          eine eigentümliche Verlegenheit gerade der Gegenwart handeln. Darum nicht, weil die
+          Theologen so ziemlich jeder Zeit gemeint haben, gerade zu ihrer Zeit sei es besonders
+          schwer, diesen Beruf zu versehen. Von unserer Zeit wäre sogar zu sagen, daß es heute
+          insofern leichter ist, Theologe zu sein, als vor zehn Jahren und hier in <placeName ref="kbga-places-151">Deutschland</placeName>
+          leichter als etwa im neutralen Ausland, weil die allgemeine Auflockerung des Bodens
+          infolge der Ereignisse, von denen wir herkommen, dem, was wir nun zu tun hätten,
+          unvergleichlich viel günstigere Aussichten eröffnet. Und auch daran kann es nicht liegen,
+          daß unsere Stellung in der Gesellschaft so fraglich ist: daß wir bei der Mehrzahl der
+          Menschen jedenfalls als Theologen nicht eben beliebt und geachtet, sondern von jenem Duft
+          von Mißtrauenswürdigkeit umgeben sind, von dem <persName ref="kbga-actors-312">Overbeck</persName> so viel zu sagen wußte.<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-1340">
+                                <persName ref="kbga-actors-312">Fr. Overbeck</persName>, <hi rend="italic">Christentum und Kultur. Gedanken und Anmerkungen zur modernen Theologie</hi>,
+                aus dem Nachlaß hrsg. von C. A. Bernoulli,
+                  Basel
+                1919, z. B. S. 273</bibl>: Die Theologen «sind im günstigsten Fall
+            Unterhändler des Christentums mit dieser Welt, und eben darum traut ihnen auch Niemand
+            recht über den Weg, wenn auch die Dinge wohl so liegen können, daß ein großes Interesse
+            besteht, ihnen darüber zu trauen, wie das in diesem Augenblick der Fall sein mag. Aber
+            immer bleibt es dabei, daß sie selbst <hi rend="italic">Unterhändler</hi> sind – eine
+            Menschensorte, die ein begründetes Mißtrauen gegen sich hat …»</note> Denn erstens
+          dürften wir uns nach dem Evangelium darüber nicht wundern, wenn wir im übrigen unserer
+          Sache ganz sicher wären, und zweitens steht es ja auch damit so schlimm nicht; war es doch
+          auch im neuen <placeName ref="kbga-places-151">Deutschland</placeName> immer noch ein unerhörter Fall, als neulich die Möglichkeit
+          auftauchte, unsereinem gegenüber die sogenannte Bedürfnisfrage aufzurollen.<note xml:id="n32">Vielleicht eine Anspielung auf die Kirchenaustrittsbewegung nach dem Ende
+            des 1. Weltkrieges; vgl. <bibl corresp="kbga-bibls-1805">
+                                <persName ref="kbga-actors-4047">H. G.
+                  Haack</persName>, <hi rend="italic">Die evangelische Kirche Deutschlands in der
+                  Gegenwart</hi>, Berlin 1929, bes. S. 107–114.</bibl> «Den vollen Umfang der Nachkriegsaustrittsbewegung erkennt man
+            aus der erschütternden Tatsache, daß von <date from="1919" to="1922">1919–1922</date> in <placeName ref="kbga-places-151">Deutschland</placeName> 931 146
+            Evangelische ihrer Kirche den Rücken kehrten» (S. 110).</note> Im Ganzen haben <pb xml:id="p150" ed="pga"/> wir uns über die uns widerfahrene Behandlung durch das
+          gebildete und ungebildete Publikum sicher nicht ernstlich zu beklagen. Die wirkliche und
+          besorgniserregende Bedürfnisfrage ist uns von ganz anderer Seite gestellt. Unsere Not
+          kommt aber auch nicht von der Kirche, von dem rückständigen Geist ihrer Leitung, von ihrer
+          Bureaukratie, von ihrem Bekenntniszwang. Ich komme aus dem paradiesischen Lande, wo die
+          Theologen vom Universitätsprofessor bis zum einfachen Dorfpfarrer ungefähr in jeder
+          Beziehung machen können, was sie wollen<note xml:id="n33">In der <placeName ref="kbga-places-58">Schweiz</placeName> wurde im 19.
+            Jahrhundert die Verpflichtung auf bestimmte Bekenntnisschriften in den Kantonalkirchen
+            teils offiziell aufgehoben, teils zunehmend unterlassen. Bekenntnisformulierungen finden
+            sich seitdem lediglich in Einleitungen der jeweiligen Kirchenordnungen. Vgl. <persName ref="kbga-actors-2151">Barths</persName>
+            eigene Ausführungen oben in: <bibl corresp="kbga-bibls-552">
+                                <hi rend="italic">Die kirchlichen
+                  Zustände in der Schweiz</hi>, bes. <ref type="pub" target="../volume/19/p021#p021">S. 21ff.</ref></bibl></note>, wo es keine Präambeln<note xml:id="n34">Im Jahre <date when="1922">1922</date> war die vom
+            Verfassungsausschuß der Evangelischen Kirche der altpreußischen Union formulierte
+            Präambel – abgedruckt in: <bibl corresp="kbga-bibls-1806">
+                                CW, Jg. 36 (1922), Sp. 228</bibl> – Gegenstand
+            heftiger Auseinandersetzungen zwischen verschiedenen kirchlichen Gruppierungen. Vgl.
+            etwa die Sammlung von Stellungnahmen <bibl corresp="kbga-bibls-1807">
+                                a. a. O.: <title level="a">Erklärungen zu dem Verfassungsentwurf der altpreußischen Landeskirche</title>,
+                Sp. 307–309</bibl>; <bibl corresp="kbga-bibls-1808">
+                                <title level="a">Wider die
+                  Präambel</title>, Sp. 479f. 659</bibl>; weiterhin <bibl corresp="kbga-bibls-1809">
+                                <persName ref="kbga-actors-4161">H. Schuster</persName>, <hi rend="italic">Eine
+                  dringliche Warnung. Ein Wort der Religionslehrer zum Streit um die
+                  Präambel</hi>, Sp. 451–453</bibl>; <bibl corresp="kbga-bibls-1810">
+                                <hi rend="italic">Kundgebung der Theologischen Fakultät Berlin zur Bekenntnisfrage</hi>, Sp. 454f.</bibl>;<bibl corresp="kbga-bibls-1811">
+                                <persName ref="kbga-actors-485">O. Baumgarten</persName>, <hi rend="italic">Vom Präambelstreit</hi>, Sp. 534–538.</bibl> – Die in dritter Lesung am <date when="1922-09-29">29.9.1922</date> angenommene
+            Formulierung der Präambel zur «Verfassung der evangelischen Kirche der altpreußischen
+            Union» lautet: «Getreu dem Erbe der Väter steht die evangelische Landeskirche der
+            älteren Provinzen <placeName ref="kbga-places-289">Preußens</placeName> auf dem in der Heiligen Schrift gegebenen Evangelium von
+            Jesus Christus, dem Sohn des lebendigen Gottes, dem für uns Gekreuzigten und
+            Auferstandenen, dem Herrn der Kirche, und erkennt die fortdauernde Geltung ihrer
+            Bekenntnisse an: des Apostolischen und der anderen altkirchlichen, ferner der
+            Augsburgischen Konfession, der Apologie, der Schmalkaldischen Artikel und des Kleinen
+            und Großen Katechismus <persName ref="kbga-actors-261">Luthers</persName> in den lutherischen Gemeinden, des Heidelberger
+            Katechismus in den reformierten, sowie der sonstigen Bekenntnisse, wo solche in Kraft
+            stehen» (zitiert nach: <bibl corresp="kbga-bibls-938">
+                                K. Kupisch, <title level="a">Quellen zur Geschichte des deutschen Protestantismus 1871–1945</title>.
+                Quellensammlungen zur Kulturgeschichte, Bd. XI,
+                  Göttingen
+                                /Frankfurt 1960, S. 146f.</bibl>).</note> gibt und wo die mildeste und dehnbarste
+          Vermittlungstheologie ungefähr in allen Kirchenregimentern das Szepter führt, und kann nur
+          warnen vor der Illusion, als ob dadurch die Last, die auf die Theologen gelegt ist, auch
+          nur im Geringsten erleichtert wäre. Im Gegenteil: <pb n="158" ed="kbga-sources-2327"/> Wenn einmal alle Kämpfe gegen eine
+          alte und für eine neue Kirche äußerlich so gegenstandslos werden, wie sie es innerlich
+          vielleicht ohnehin sind, wenn all der darauf verwendete Ernst frei wird <pb xml:id="p151" ed="pga"/> für ernsthaftere Gegenstände, rückt einem die wesentliche Not der Theologie
+          nur um so grimmiger zu Leibe.</p>
+          <p>Sie liegt in der Sache, in der uns gestellten Aufgabe. Wie weit sie von Diesem und Jenem
+            <hi rend="italic">empfunden</hi> wird, ist eine Frage für sich. Über unsre <hi rend="italic">Situation</hi> möchte ich mich mit Ihnen unterhalten, und das sollte möglich sein,
+          gleichviel ob wir so oder anders empfinden. Ich möchte diese unsre Situation in folgenden
+          drei Sätzen charakterisieren: <hi rend="italic">Wir sollen als Theologen von Gott reden. Wir
+            sind aber Menschen und können als solche nicht von Gott reden. Wir sollen Beides</hi>,
+          unser Sollen und unser Nicht-Können, <hi rend="italic">wissen und eben damit Gott die Ehre
+            geben</hi>. Das ist unsre Bedrängnis. Alles Andre ist daneben Kinderspiel. Ich will
+          versuchen, Eines nach dem Andern zu erläutern.</p>
+        </div>
+        <div>
+          <head>II.</head>
+          <p>
+                        <hi rend="italic">Wir sollen von Gott reden</hi>. Unser Name sagt es. Aber nicht bloß unser
+          Name. Es wird wohl auch uns Theologen gegenüber erlaubt sein, die schlichte Frage nach dem
+            <hi rend="italic">Zweck</hi> unsres Tuns zu stellen. Was hat die Aufmachung, der Betrieb
+          unsres Amtes für einen Sinn? Was für eine Erwartung setzen die Menschen auf uns, sie, die
+          uns als das, was wir sind, haben wollen oder doch gelten lassen? Oder auf was hin weist
+          uns ihr Hohn und ihre Verachtung, wenn sie sich in ihrer Erwartung getäuscht sehen?
+          Natürlich nicht nach ihren ersten besten Motiven werden wir sie fragen dürfen, als ob sie
+          uns so ohne Weiteres sagen könnten, was sie von uns wollen. Um das Motiv ihrer Motive
+          handelt es sich, darum, die Menschen um uns her in ihrer auf uns gerichteten Erwartung
+          besser zu verstehen, als sie sich selbst verstehen<note xml:id="n35">Vgl. oben <ref type="pub" target="../volume/19/p077#fn_n29">S. 77 mit Anm. 29</ref>.</note>. Ist es nicht so: Unsre Existenz als Theologen ist doch nur zu verstehen
+          auf Grund der Existenznot der andern Menschen. Zum Aufbau ihrer Existenz mit Allem, was
+          dazu gehört, brauchen sie uns nicht. Das besorgen sie ohne unsre Ratschläge, und zwar
+          besser, als wir gewöhnlich denken. Jenseits ihrer Existenz aber und jenseits aller Fragen,
+          die damit verknüpft sind, kennen sie ein großes Was? Wozu? Woher? Wohin?, das ist ein
+          Minus vor der ganzen Klammer<note xml:id="n36">Zur Wendung «Minus vor der Klammer» vgl.
+            schon <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2,
+                z. B. S. 468–471 (= <ref type="pub" target="../volume/47/p645#645">S. 466–469</ref> in späteren Auflagen).</bibl></note>, eine Frage, <pb n="159" ed="kbga-sources-2327"/> die alle schon beantworteten Fragen in der Klammer aufs Neue zu
+          Fragen macht. Auf diese Frage aller Fragen wis<pb xml:id="p152" ed="pga" break="no"/>sen
+          sie sich keine Antwort zu geben und sind naiv genug anzunehmen, Andere könnten es, und
+          darum schieben sie uns in unsre merkwürdige Sonderexistenz, darum stellen sie uns auf ihre
+          Kanzeln und Katheder, damit wir daselbst von Gott reden sollen, von der Antwort auf die
+          letzte Frage. Warum suchen sie mit dieser letzten Frage nicht selber fertig zu werden, wie
+          sie es mit allen andern tun? Warum kommen sie zu uns, obwohl sie doch längst die Erfahrung
+          gemacht haben müßten, daß man nicht zu uns kommen kann, wie man zum Rechtsanwalt oder zum
+          Zahnarzt geht, daß wir in dieser Frage nicht mehr wissen, als sie sich selbst sagen
+          können? Ja, so kann man wohl fragen. Offenbar drücken sie mit ihrem Zu-uns-Kommen aus, daß
+          sie irgendwie wissen, daß der Mensch sich die Antwort auf diese Frage nicht selber geben
+          könne und daß, wenn nun Einer mit dieser Frage zum Andern geht, doch auch dies jedenfalls
+          nicht um der Antwort willen geschieht, die dieser Andere selber etwa geben kann.</p>
+          <p>Aber wie dem auch sei: wir sind <hi rend="italic">gefragt</hi>. Und nun gilt es wohl zu
+          beachten, <hi rend="italic">wonach</hi> wir gefragt sind. Zum Leben brauchen uns die Menschen
+          offenbar nicht, aber zum <hi rend="italic">Sterben</hi>, in dessen Schatten ja ihr ganzes Leben
+          steht, scheinen sie uns brauchen zu wollen. Die Geschichte geht ihren Gang ohne uns; wenn
+          aber die eschatologischen, die <hi rend="italic">letzten Dinge</hi> an ihrem Horizont
+          auftauchen – und welches Problem in der Geschichte läge nicht auf der Schwelle zu den
+          letzten Dingen? –, dann sollten wir offenbar da sein und eröffnende, entscheidende Worte
+          zu sprechen haben. Über sich selbst und das, was ihnen möglich und erlaubt ist, sind sie
+          leidlich orientiert; wie es aber mit dem dünnen Faden steht, an dem das ganze Netz dieser
+          Lebensorientierung aufgehängt ist, mit dem messerscharfen Gratweg zwischen <hi rend="italic">Zeit</hi> und <hi rend="italic">Ewigkeit</hi>, auf dem sie sich manchmal plötzlich wandelnd
+          wissen, nachdem sie es lange vergessen, das wollen sie wunderlicher Weise von uns wissen.
+          An den <hi rend="italic">Grenzen</hi> der Humanität<note xml:id="n37">Zu dieser Anspielung auf
+            Publikationen von <persName ref="kbga-actors-293">P. Natorp</persName> und <persName ref="kbga-actors-63">E. Brunner</persName> vgl. oben <ref type="pub" target="../volume/19/p010#fn_n23">S. 10 mit Anm. 23</ref>.</note> ist das
+          theologische Problem aufgeworfen<note xml:id="n38">In den früheren Drucken irrtümlich:
+            «aufgerufen»; Korrektur von <persName ref="kbga-actors-2151">Barth</persName> in seinem Handexemplar.</note>. Die Philosophen wissen
+          das, wir Theologen scheinen es manchmal nicht zu wissen. Denn wohlverstanden: auch über
+          Sittlichkeit und Geistesleben, auch über Religion und Frömmigkeit, auch über allfällig
+          mögliche Erkennt<pb xml:id="p153" ed="pga" break="no"/>nis höherer Welten<note xml:id="n39">Vgl. <bibl corresp="kbga-bibls-1812">
+                                <persName ref="kbga-actors-791">R.
+                  Steiner</persName>, <hi rend="italic">Wie erlangt man Erkenntnisse der höheren
+                  Welten?</hi> (1904/05), Dornach
+                1961<edition rend="sup">20</edition>.</bibl> Zu dieser Anspielung auf
+            Anthroposophie und Christengemeinschaft vgl. auch unten <ref type="pub" target="../volume/19/p314#p314">S. 314f.</ref> mit den entsprechenden
+            Anmerkungen.</note> brauchen sie <hi rend="italic">unsre</hi> Aufklärungen und Mitteilungen
+          im Grunde <hi rend="italic">nicht</hi>. Auch das Alles gehört ja zu ihrer Existenz und ist in
+          die <hi rend="italic">Not</hi> ihrer Existenz mit hineingerissen, ob sie es wissen oder nicht.
+          <pb n="160" ed="kbga-sources-2327"/> Mögen wir diesem und jenem und vielleicht Hunderten Freude machen und hilfreich sein,
+          wenn wir ihm auf die ihn in diesen Sphären bewegenden Fragen unsre mehr oder weniger
+          nützlichen Anregungen und kompetenten Auskünfte zu geben versuchen. Mögen wir es tun,
+          warum sollten wir nicht? Aber ohne zu vergessen, daß damit <hi rend="italic">die</hi> Frage,
+          mit der sie eigentlich zu uns kommen, <hi rend="italic">nicht</hi> erledigt ist, daß wir der
+          Kunst, <hi rend="italic">hier</hi> antworten zu können, <hi rend="italic">diesen</hi> Bedürfnissen
+          zu dienen (ich wiederhole: das religiöse inbegriffen!), unser Amt als Theologen <hi rend="italic">nicht</hi> verdanken. Schützen wir nicht zu schnell die Liebe vor! Da fragt
+          sich eben, was die Liebe ist, die <hi rend="italic">wir</hi> den Andern schuldig sind? Es
+          könnte sein, daß <hi rend="italic">wir unbarmherzig</hi> sind, solange wir meinen, damit
+          barmherzig zu sein, daß wir den Menschen existieren helfen, und wenn Tausende uns für
+          unsre Gaben dankten. Nicht <hi rend="italic">ihre</hi> Existenz, sondern das Jenseits ihrer
+          Existenz, <hi rend="italic">Gottes</hi> Existenz steht in Frage, wenn sie uns um unsre Hilfe
+          angehen. Als Dorfweise oder Stadtweise aber sind wir im Grunde unerwünscht, überflüssig
+          und lächerlich. Wir haben unser Amt als Theologen nicht verstanden, solange wir es nicht
+          verstanden haben als Exponenten und Wahrzeichen, nein Notzeichen einer Verlegenheit, die
+          über die <hi rend="italic">ganze</hi> Skala wirklicher und möglicher menschlicher
+          Zuständlichkeiten sich ausbreitet, in der sich also<note xml:id="n40">Im Erstdruck hatte
+            es versehentlich «in der sich aber der moralische …» geheißen. <persName ref="kbga-actors-2151">Barth</persName> korrigierte in
+            seinem Handexemplar von <ref corresp="A">CW</ref> das «aber» in «also», während es im Nachdruck 
+            W. G. Th.
+            überhaupt ausfiel.</note> der moralische <hi rend="italic">mit</hi> dem unmoralischen, der
+          geistige <hi rend="italic">mit</hi> dem ungeistigen, der fromme <hi rend="italic">mit</hi> dem
+          unfrommen Menschen, in der sich der Mensch einfach als Mensch befindet. Der Mensch in
+          seiner Menschlichkeit, die als solche Beschränktheit, Endlichkeit, Kreatürlichkeit,
+          Getrenntheit von Gott bedeutet, ob er sich dessen nun mehr oder weniger bewußt sei. Seine
+          Lage ist um so schlimmer, je weniger er sich dessen bewußt ist, je weniger er es uns sagen
+          kann, was ihm fehlt, je leichter ihn die hilfsbereite Mitmenschheit mißversteht.</p>
+          <p>Der Mensch als Mensch schreit nach Gott, nicht nach <hi rend="italic">einer</hi> Wahrheit, <pb xml:id="p154" ed="pga"/> sondern nach <hi rend="italic">der</hi> Wahrheit, nicht nach <hi rend="italic">etwas</hi> Gutem, sondern nach <hi rend="italic">dem</hi> Guten, nicht nach
+          Antworten, sondern nach der Antwort, die unmittelbar eins ist mit seiner Frage. Denn er
+          selbst, der <hi rend="italic">Mensch</hi>, ist ja die Frage, so muß die Antwort die <hi rend="italic">Frage</hi> sein, sie muß <hi rend="italic">er selbst</hi> sein, aber nun als
+          Antwort, als beantwortete Frage. Nicht nach Lösungen schreit er, sondern nach <hi rend="italic">Er</hi>lösung. Nicht wiederum nach etwas Menschlichem, sondern nach Gott, aber nach
+          Gott als dem Erlöser seiner <hi rend="italic">Menschlichkeit</hi>. Mag man ihn tausendmal
+          darüber belehren, daß er, um in <pb n="161" ed="kbga-sources-2327"/> das Unendliche zu schreiten, nur im Endlichen zu geben
+          habe nach allen Seiten<note xml:id="n41">Aus <persName ref="kbga-actors-136">J. W. von
+              Goethes</persName> Gedicht «Gott, Gemüt und Welt»: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Willst du ins Unendliche schreiten,</l>
+                                    <l xml:space="preserve">Geh nur im Endlichen nach allen Seiten.</l></lg></q></note> – o ja, er tut es ja, er geht ja, und die Herrlichkeit und der Greuel alles
+          dessen, was er auf diesem ihm in der Tat allein möglichen Gang leistet und vollbringt, ist
+          Zeugnis genug für die unheimliche Wucht seines Suchens nach dem Unmöglichen, das ja doch
+          das Bewegende auch dieses Ganges ist. Aber wieder und wieder begnügt er sich einfach nicht
+          – warum kann er nicht? – mit diesem Gang im Endlichen, trotz aller Belehrungen und
+          Zurechtweisungen. Immer wieder wird es ihm unerträglich, daß das Gefundene zu dem
+          Gesuchten sich so offenkundig verhält wie 1: ∞, – wo er doch nicht glauben kann, daß 1 =
+          ∞; wie sollte er das glauben können und dürfen, wo ihm doch vielmehr das ganze Meer von
+          Antwort, über das er verfügt, immer wieder unter den Händen zu einem einzigen Tröpflein
+          wird, das nur noch Frage ist, und diese Frage ist er selbst, seine Existenz, und jenseits,
+          jenseits aller bekannten Meere ist die Antwort, die Realität, auf die alle Beziehungen, in
+          denen er steht, hinweisen, das Subjekt all der Prädikate, der Sinn all der exotischen
+          Buchstaben, der Ursprung all der unechten Anfänge, die zusammen sein bekanntes Leben
+          bilden.</p>
+          <p>Aber diese Antwort, diese Realität, dieses Subjekt, dieser Sinn, dieser Ursprung ist ja
+          eben <hi rend="italic">dort</hi>, nicht hier. Die Antwort ist nicht die Frage. <hi rend="italic">Der
+            dort</hi> ist nicht <hi rend="italic">er hier</hi>. Nach der Antwort, die als Antwort seine
+            <hi rend="italic">Frage</hi> wäre, nach dem Unendlichen, das als Unendliches <hi rend="italic">endlich</hi> wäre, nach dem dort, der als der, der er dort ist, <hi rend="italic">er
+            hier</hi> wäre, nach Gott, der als Gott <hi rend="italic">Mensch</hi> wäre, fragt er, wenn er
+          nach Gott fragt. Ihm angesichts dieser Frage mit Antworten zu begegnen, die Kultur,
+          Geistesleben und Fröm<pb xml:id="p155" ed="pga" break="no"/>migkeit betreffen, oder auch
+          mit einer Kritik aller dieser Größen, heißt das nicht, so gut es gemeint sein mag, ihn
+          dahin wieder zurückschicken, woher er zu uns, zu den Theologen gekommen ist? Wollen wir
+          denn immer wieder das Spiel mit ihm treiben, nie verstehen, wozu, zu welch allerdings
+          unerhörtem Zweck er uns duldet und brauchen zu können meint? Warum sagen wir es ihm nicht
+          offen heraus, wenn das im Stillen unsre Meinung ist, daß wir von Gott nicht reden wollen
+          oder können? Oder wenn wir ernste Gründe haben, dies nicht oder nicht so zu sagen, warum
+          machen wir uns nicht wenigstens seine <hi rend="italic">Frage</hi> nach Gott zu eigen, zum
+          zentralen Thema unsres Berufes?</p>
+          <p>Ich habe bis jetzt vorwiegend die Verkündigung der <hi rend="italic">Kirche</hi> im Auge
+          gehabt; es gilt aber grundsätzlich ganz dasselbe auch für <pb n="162" ed="kbga-sources-2327"/> die <hi rend="italic">Universitätstheologie</hi>, auch wenn man von ihrer erzieherischen Aufgabe gegenüber
+          den künftigen Pfarrern ganz absehen wollte. Auch als Glied der <foreign xml:lang="lat">Universitas literarum</foreign> ist
+          die Theologie ein Notzeichen, ein Zeichen, daß etwas nicht in Ordnung ist. Es gibt auch
+          eine akademische Existenznot, die natürlich mit der des Menschen überhaupt letztlich eine
+          und dieselbe ist. Gerade die echte Wissenschaft ist bekanntlich ihrer Sache <hi rend="italic">nicht</hi> sicher, und zwar nicht nur da und dort, sondern im <hi rend="italic">Grunde</hi>,
+          in den letzten <hi rend="italic">Voraussetzungen</hi> nicht sicher. Jede einzelne Wissenschaft
+          kennt sehr genau das Minus, das vor ihrer Klammer steht, von dem dann mit jener gedämpften
+          Stimme geredet zu werden pflegt, die verrät, daß es hier freilich um den Nagel gehe, an
+          dem Alles hänge, aber auch um das Fragezeichen, das unvermeidlich hinter das im übrigen
+          methodisch aufgebaute Ganze zu setzen sei. Denke man sich, diese Fragezeichen seien nun
+          wirklich das Letzte, was jede Wissenschaft zu sagen hat, wie offenkundig wäre es dann, daß
+          der vermeintliche akademische Kosmos in Wirklichkeit ein Gewirr von vereinzelten Blättern
+          ist, die über einem Abgrund flattern! Und nun <hi rend="italic">sind</hi> diese Fragezeichen
+          tatsächlich das Letzte in allen Wissenschaften. Und darum, um ihres schlechten oder
+          vielmehr um ihres trostbedürftigen Gewissens willen, duldet die Universität die Theologie
+          in ihren Mauern, etwas verdrießlich über die Ungeduld, mit der die Theologen ausgerechnet
+          gerade auf das Letzte, von dem man nicht spricht, den Finger<note xml:id="n42">In den
+            früheren Drucken irrtümlich: «die Fragen»; Korrektur von <persName ref="kbga-actors-2151">Barth</persName> in seinem
+            Handexemplar.</note> legen, und doch – oder täusche ich mich? – <pb xml:id="p156" ed="pga"/> auch heimlich froh darüber, daß Jemand sich dazu hergibt, so
+          unwissenschaftlich zu sein und durch lautes, bestimmtes Reden eben von diesem Letzten, von
+          dieser unanschaulichen Mitte, auf die alles hinweist, die Erinnerung wachzuhalten, daß das
+          Ganze, was da getrieben wird, einen Sinn haben möchte. Auch hier ist die Theologie –
+          welches auch die Privatmeinungen dieser und jener nicht-theologischen Akademiker von ihr
+          sein mögen – tatsächlich von der Erwartung umgeben, daß sie ihres Amtes walte und als
+          Antwort vertrete (sehe sie zu, wie sie sich damit abfinde!), was bei den Andern allen,
+          solange sie es verschweigen können und wollen, nur als Fragezeichen im Hintergrund steht,
+          als <hi rend="italic">möglich</hi>, was sie alle nur als Grenzbegriff, als das Unmögliche
+          kennen dürfen, daß sie von Gott nicht nur flüstere und munkle, sondern <hi rend="italic">rede</hi>, auf ihn nicht nur hinweise, sondern von ihm herkommend ihn <hi rend="italic">bezeuge</hi>, ihn nicht irgendwo in den Hintergrund, sondern allen methodischen
+          Voraussetzungen, allen Wissenschaften <pb n="163" ed="kbga-sources-2327"/> zum Trotz in den <hi rend="italic">Vordergrund</hi>
+          stelle. Wohl verstanden: das Dasein der Theologie auf der Universität läßt sich nicht etwa
+          a priori rechtfertigen und begründen, sondern nur als Notstandsmaßnahme, als eine, da der
+          Notstand vermutlich nicht zu beheben ist, permanente Ausnahme von der Regel. Als solche
+          aber läßt es sich rechtfertigen und begründen, wie das der Kirche in der Gesellschaft, die
+          sich auch nicht aus deren Idee ableiten läßt. Es ist, paradoxer-, aber
+          unvermeidlicherweise, so: gerade als Wissenschaft im Sinn der andern Wissenschaften hat
+          die Theologie auf der Universität <hi rend="italic">kein</hi> Daseinsrecht, ist sie eine ganz
+          unnötige Verdoppelung einiger in andre Fakultäten gehöriger Disziplinen. Eine <hi rend="italic">theologische</hi> Fakultät, mit der Aufgabe, das zu sagen, was die Andern <foreign xml:lang="lat">rebus sic
+          stantibus</foreign> nicht, oder nur so, daß man es nicht hört, sagen dürfen, als Notsignal
+          wenigstens, daß das durchaus gesagt sein <hi rend="italic">müßte</hi>, als lebendige
+          Erinnerung, daß ein Chaos [, sei es] noch so wunderbar, darum kein Kosmos ist, als Frage-
+          und Ausrufzeichen am äußersten Rande, nein im Unterschied zu dem, was ja auch die
+          Philosophie tut: genau jenseits des Randes der wissenschaftlichen Möglichkeiten – das hat
+          einen Sinn. Eine <hi rend="italic">religionswissenschaftliche</hi> Fakultät<note xml:id="n43">Vgl. <bibl corresp="kbga-bibls-1728">
+                                <persName ref="kbga-actors-1122">Chr. E. Luthardt</persName>,
+                  <hi rend="italic">Kompendium der Dogmatik</hi>,
+                  Leipzig 1889<edition rend="sup">8</edition>, S. 4</bibl>: «Seit dem <hi rend="italic">18. Jahrh</hi>. faßte
+            man die Theol. … allgemein als Religionswissensch. (<persName ref="kbga-actors-1316">Wegscheider</persName>).» Vgl. diesen Gedanken programmatisch bei <bibl corresp="kbga-bibls-1813">
+                                <persName ref="kbga-actors-429">G. Wobbermin</persName>, <hi rend="italic">Systematische Theologie nach religionspsychologischer Methode</hi>, Bd. I:
+                  <hi rend="italic">Die Religionspsychologische Methode in Religionswissenschaft und
+                  Theologie</hi>, Leipzig 1913, dessen 6.
+                Kapitel (S. 99–117) überschrieben ist: «Theologie als
+              Religionswissenschaft».</bibl></note> dagegen hat wirklich <hi rend="italic">keinen</hi> Sinn. Denn so gewiß das Wissen <pb xml:id="p157" ed="pga"/> um das Phänomen der Religion dem Historiker, dem Psychologen,
+          dem Philosophen unentbehrlich ist, so gewiß sind alle diese Forscher in der Lage, allein
+          und ohne theologischen Beistand dieses Wissen zu gewinnen und zu pflegen. Oder sollte etwa
+          das sogenannte «religiöse Verständnis» ein Pachtgut des zufällig theologischen Historikers
+          und Psychologen sein, der Profanwissenschaftler die Urkunden der Religion nicht mit
+          derselben Liebe und Sachkunde zu studieren vermögen? Wenn <hi rend="italic">das</hi> wirklich
+          unsre Meinung sein sollte, daß Theologie aufzugehen habe in Religionswissenschaft, dann
+          hätten wir das Daseinsrecht auf der Universität jedenfalls verwirkt. Denn Religion ist ein
+          Phänomen so lehrreich, aber auch so fragwürdig wie andre. Zu wissen notwendig und zu
+          wissen möglich, jawohl. Aber gerade darum: indem ich Religion als etwas Wissens<hi rend="italic">mögliches</hi> studiere, gestehe ich ein, daß ich mich dabei in derselben
+          Existenznot aller Wissenschaft befinde, wie wenn ich einen Käfer studiere. Neue,
+          besondere, gewiß sehr merkwürdige Fragen mögen mich dann beschäftigen, aber Fragen, wie
+          alle Fragen sind, Fragen, die auf eine letzte, ungelöste Frage zurückweisen, nicht <hi rend="italic">die</hi> Frage, die nichts Anderes als die letzte Antwort ist, um deren willen
+          Theologie, <pb n="164" ed="kbga-sources-2327"/> einst die Mutter der ganzen Universität, immer noch, wenn auch etwas
+          gesenkten Hauptes, als die erste, als etwas Besonderes neben den andern Fakultäten steht.
+          Nicht den Finger gerührt habe ich zu jenem Wagnis, das die Andern, mögen sie von mir
+          denken, was sie wollen, im Grunde von mir, dem Theologen erwarten.</p>
+          <p>Eine historische Anmerkung möge hier den Schluß bilden. Die Ahnenreihe, an der wir uns,
+          wenn die soeben aus dem Wesen der Sache entwickelten Gedanken maßgebend sind, zu
+          orientieren haben, läuft über <hi rend="italic">
+                            <persName ref="kbga-actors-221">Kierkegaard</persName></hi> zu <hi rend="italic">
+                            <persName ref="kbga-actors-261">Luther</persName></hi> und <hi rend="italic">
+                            <persName ref="kbga-actors-77">Calvin</persName></hi>, zu <hi rend="italic">
+                            <persName ref="kbga-actors-313">Paulus</persName></hi>, zu <hi rend="italic">
+                            <persName ref="kbga-actors-208">Jeremia</persName></hi>. Auf diese Namen pflegen sich nun freilich Viele zu berufen.
+          Ich möchte also verdeutlichend hinzufügen: nicht etwa auch und gleichzeitig über <persName ref="kbga-actors-679">Martensen</persName><note xml:id="n44">
+                            
+                                <persName ref="kbga-actors-679">Hans Lassen Martensen</persName> (1808–1884) war ab
+              1854
+            lutherischer Bischof von Seeland (Dänemark).
+            Die Predigt anläßlich des Begräbnisses seines Amtsvorgängers <persName ref="kbga-actors-4120">Jakob Peter Mynster</persName> am <date when="1854-02-05">5.2.1854</date>
+            veranlaßte <persName ref="kbga-actors-221">S. Kierkegaard</persName> zu einem letzten
+            scharfen Angriff auf die zeitgenössische Kirche, der vor allem seinen Niederschlag fand
+            in: 
+                                <bibl corresp="kbga-bibls-1814">
+                                <hi rend="italic">Der Augenblick</hi>
+                (1855), übers. von Christoph Schrempf, in: ders., <hi rend="italic">Gesammelte Werke</hi>, Bd. 12, Jena 1909<hi rend="sup">2</hi></bibl></note> zu <persName ref="kbga-actors-971">Erasmus</persName><note xml:id="n45">
+                            <persName ref="kbga-actors-971">Desiderius Erasmus von Rotterdam</persName>
+              (1469–1536); Anspielung auf dessen Streit mit <persName ref="kbga-actors-261">Luther</persName>
+            1524/25. Vgl. <bibl corresp="kbga-bibls-1325">
+                                <persName ref="kbga-actors-971">Erasmus von Rotterdam</persName>, <title level="a">De libero arbitrio <foreign xml:lang="grc" rend="Ell">ΔIATΡIBΗ</foreign> sive collatio</title> (1524), in: ders., <hi rend="italic">Ausgewählte
+                  Schriften</hi>, hrsg. von W. Welzig, Bd. 4,
+                  Darmstadt 1969</bibl>, und <bibl corresp="kbga-bibls-1326">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <title level="a">De servo
+                  arbitrio</title> (1525), WA 18,600–787.</bibl></note>, zu denen, die  <ref type="can" subtype="bible" target="1.Kor.15.12 1.Kor.15.34">1.Kor. 15[,12–34]</ref> bekämpft werden, <pb xml:id="p158" ed="pga"/> zum Propheten
+          <persName ref="kbga-actors-8751">Hananja</persName>, der das Joch vom Halse des Propheten <persName ref="kbga-actors-208">Jeremia</persName> nahm und zerbrach es [vgl. <ref type="can" subtype="bible" target="Jer.28.10">Jer. 28,10</ref>]! Und um ganz deutlich zu sein, möchte ich
+          ausdrücklich darauf hinweisen, daß in der hier empfohlenen Ahnenreihe der Name <hi rend="italic">
+                            <persName ref="kbga-actors-360">Schleiermacher</persName> fehlt</hi>. Ich halte
+            <persName ref="kbga-actors-360">Schleiermacher</persName> bei allem schuldigen Respekt
+          vor der Genialität seines Lebenswerkes darum vorläufig für <hi rend="italic">keinen</hi> guten
+          theologischen Lehrer, weil es bei ihm, soweit ich sehe, in der verhängnisvollsten Weise
+          unklar bleibt, daß der Mensch als Mensch sich in <hi rend="italic">Not</hi>, und zwar in
+          rettungsloser Not befindet, unklar, daß auch der ganze Bestand der sogenannten Religion,
+          und wenn es christliche Religion wäre, an dieser Not <hi rend="italic">teilnimmt</hi>, unklar
+          darum auch, daß von Gott reden etwas <hi rend="italic">Anderes</hi> heißt als in etwas erhöhtem
+          Ton vom Menschen reden. Wer etwa gerade darin <persName ref="kbga-actors-360">Schleiermachers</persName> besondren Vorzug sehen sollte, daß er den sogenannten
+          Dualismus, in dem etwa <persName ref="kbga-actors-261">Luther</persName> stecken geblieben sei, überwunden und gerade mit dem Begriff
+          der Religion die erwünschte und mit Ehren zu begehende Brücke zwischen Himmel und Erde
+          geschlagen habe, der wird nun freilich, wenn er es nicht schon getan hat, von dem, was
+          hier vertreten wird, endgültig abrücken müssen. Ich kann es ihm nicht wehren, nur den
+          Wunsch aussprechen, er möchte sich dann jedenfalls nicht etwa gleichzeitig auf <persName ref="kbga-actors-360">Schleiermacher</persName>
+          <hi rend="italic">und</hi> die Reformatoren, auf <persName ref="kbga-actors-360">Schleiermacher</persName>
+          <hi rend="italic">und</hi> das Neue Testament, auf <persName ref="kbga-actors-360">Schleiermacher</persName>
+          <hi rend="italic">und</hi> die alttestamentlichen Propheten berufen, sondern von <persName ref="kbga-actors-360">Schleiermacher</persName> aufwärts eine neue Ahnenreihe sich
+          suchen, als deren nächstes Glied etwa <hi rend="italic">
+                            <persName ref="kbga-actors-272">Melanchthon</persName></hi> in Betracht kommen dürfte. Denn was mit den Namen
+            <persName ref="kbga-actors-221">Kierkegaard</persName>, <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName>, <persName ref="kbga-actors-313">Paulus</persName> und <persName ref="kbga-actors-208">Jeremia</persName> bezeichnet
+          ist, das ist <pb n="165" ed="kbga-sources-2327"/> unzweideutige, gänzlich unschleiermacherische Klarheit darüber, daß
+          Menschendienst <hi rend="italic">Gottes</hi>dienst sein muß und nicht umgekehrt. Die
+          Negativität und Einsamkeit, in der <persName ref="kbga-actors-208">Jeremia</persName> den
+          Königen Judas, ihren Fürsten, dem Volke im Lande, vor allem aber seinen <hi rend="italic">Priestern</hi> und <hi rend="italic">Propheten</hi> gegenübersteht, die das ganze Leben des
+            <persName ref="kbga-actors-313">Paulus</persName> charakterisierende scharfe <pb xml:id="p159" ed="pga"/> Wendung gegen die im Judentum verkörperte Welt der <hi rend="italic">Religion</hi><note xml:id="n46">Vgl. das in diesem Sinne von <persName ref="kbga-actors-2151">Barth</persName> ausgelegte Kapitel <ref type="can" subtype="bible" target="Röm.7">Röm. 7</ref>
+            in: <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2, S. 213–255(= <ref type="pub" target="47015">S. 211–253</ref> in späteren
+                Auflagen).</bibl></note>, <persName ref="kbga-actors-261">Luthers</persName> Bruch nicht mit der Unfrömmigkeit, sondern mit der <hi rend="italic">Frömmigkeit</hi> des Mittelalters, <persName ref="kbga-actors-221">Kierkegaards</persName> Angriff auf die <hi rend="italic">Christenheit</hi><note xml:id="n47">Vgl. unten <ref type="pub" target="../volume/19/p682#fn_n120">S. 682 mit Anm. 120</ref>.</note>, alles Unternehmungen, auf die
+            <persName ref="kbga-actors-360">Schleiermacher</persName> nie gekommen wäre, sie sind
+          die Merkmale der Art, wie hier von <hi rend="italic">Gott</hi> geredet wird. Der Mensch und
+          sein Universum, sein noch so lebendig angeschautes und gefühltes Universum<note xml:id="n48">Vgl. <bibl corresp="kbga-bibls-1729">
+                                <persName ref="kbga-actors-360">Fr. Schleiermacher</persName>, <title level="a">Über die
+                  Religion. Reden an die Gebildeten unter ihren Verächtern</title>
+                  (1799), hrsg. von H.-J. Rothert (PhB 255), Hamburg
+                1958, S. 29 (Orig.-Ausg. S. 50)</bibl>: «Ihr [scil. der Religion]
+            Wesen ist weder Denken noch Handeln, sondern Anschauung und Gefühl. Anschauen will sie
+            das Universum, in seinen eigenen Darstellungen und Handlungen will sie es andächtig
+            belauschen …»</note>, ein Rätsel, eine Frage, nichts sonst. Ihm steht Gott gegenüber als
+          das <hi rend="italic">Unmögliche</hi> dem Möglichen, als der <hi rend="italic">Tod</hi> dem Leben,
+          als die <hi rend="italic">Ewigkeit</hi> der Zeit. Die Auflösung des Rätsels aber, die Antwort
+          auf die Frage, das Ende der Existenznot ist das schlechthin neue Geschehen, daß das
+          Unmögliche <hi rend="italic">selbst</hi> das Mögliche wird, der <hi rend="italic">Tod</hi> das
+          Leben, die <hi rend="italic">Ewigkeit</hi> Zeit, <hi rend="italic">Gott</hi> Mensch. Ein <hi rend="italic">neues</hi> Geschehen, zu dem <hi rend="italic">kein</hi> Weg führt, für das der
+          Mensch <hi rend="italic">kein</hi> Organ hat. Denn der Weg und das Organ sind selber das Neue,
+          die Offenbarung und der Glaube, das Geschautwerden und Schauen des neuen Menschen. Nur auf
+          den <hi rend="italic">Ernst</hi> dieses Versuches, von Gott zu reden, möchte ich hinweisen –
+          das Gelingen ist eine andre Frage –, auf den Einsatzpunkt. <hi rend="italic">Verstanden</hi>
+          ist hier auf alle Fälle die Not, in der der Mensch als Mensch sich befindet. <hi rend="italic">Verstanden</hi> die Frage, die er in dieser Not erhebt. An diese <hi rend="italic">Not</hi>
+          und an diese <hi rend="italic">Frage</hi> wird der Versuch, von Gott zu reden, angeknüpft,
+          nicht anderswo, zerstreut aller Schein, der sie etwa als Not und Frage verhüllen könnte.
+          Das ist seine Ernsthaftigkeit. Das ist’s, warum wir an dieser geschichtlichen Linie uns
+          orientieren und also auch aus der Geschichte den Imperativ hören: Wir sollen von Gott
+          reden! Wäre dieser Imperativ nicht Bedrängnis genug, und wenn wir in der Lage wären, ihm
+          zu gehorchen?</p>
+        </div>
+        <div>
+          <pb xml:id="p160" ed="pga"/>
+          <head>III.</head>
+          <p>Ich wende mich zu meinem zweiten Satz: <hi rend="italic">Wir sind aber Menschen und können als
+            solche nicht von Gott reden</hi>. Wir denken an das Wort des Ältesten unsrer <pb n="166" ed="kbga-sources-2327"/>
+          Gewährsmänner: Ach Herr, Herr, ich tauge <hi rend="italic">nicht</hi> zu predigen [<ref type="can" subtype="bible" target="Jer.1.6">Jer. 1,6</ref>]! Er hat es stehen lassen in
+          seinen Reden, auch als er 23 Jahre gepredigt <hi rend="italic">hatte</hi> [vgl. <ref type="can" subtype="bible" target="Jer.25.3">Jer. 25,3</ref>], sicher nicht als Dokument seiner
+          Entwicklung, sondern als Überschrift über Alles, was er nachher gesagt hat: ich kann es
+          nicht sagen. Und <persName ref="kbga-actors-208">Jeremia</persName> war ein von Gott
+          selbst Berufener und Geheiligter. Wir wollen die Frage nicht aufrollen, ob es so einfach
+          geht, an die Stelle der Berufung durch Gott selbst das kirchliche Amt zu setzen, das Eine
+          mit dem Andern zu identifizieren, so lichtvoll die Gedanken waren, mit denen <persName ref="kbga-actors-261">Luther</persName> das begründet hat.<note xml:id="n49">Vgl. z. B.
+              <bibl corresp="kbga-bibls-1815">
+                                <persName ref="kbga-actors-261">M.
+                  Luther</persName>, <title level="a">Auslegung des dritten und vierten Kapitels
+                  Johannis in Predigten</title> (1538–1540), WA 47,191,27ff.38ff.</bibl>: «Joannes redet alhier von der
+            Sendung … und wirdt zweierlej weise geredet vom senden, Erstlich, das Gott seine Leuthe
+            sendet ohne alle mittel, als die propheten und Aposteln … Das Ander senden ist auch wohl
+            von Gott, geschiecht aber durch menschen und mittel, nach dem das Ampt gestifft ist von
+            Gott, das man predigt, und die gewalt der Schlussel gebraucht werden. Das wirdt den
+            bleiben, und wird kein andern Predigtampt sein. Aber die personen bleiben nicht, sondern
+            sterben, drumb mus man immer naue prediger haben …» – Weitere Belege bei <bibl corresp="kbga-bibls-1816">
+                                <persName ref="kbga-actors-3988">W. Brunotte</persName>, <hi rend="italic">Das
+                  geistliche Amt bei <persName ref="kbga-actors-261">Luther</persName></hi>,
+                  Göttingen 1959, bes. S. 118–126.</bibl></note> Nehmen wir an, wir hätten mit unserm Amt zugleich den Verstand, d. h. unsre
+          göttliche Berufung und Ausrüstung bekommen, so bleibt es doch dabei: wir können als
+          Menschen nicht von Gott reden. Wie erstaunlich die Meinung der Andern, der Gemeinde, sie
+          könnten uns zuschieben, ihnen das zu sagen, was ja freilich, wir wissen es selber nur zu
+          gut, um jeden Preis gehört werden müßte, uns zu delegieren, wie die Universität es tut,
+            <hi rend="italic">das</hi> zu sagen, was sonst Niemand sagen kann noch darf. Wir sind auch
+          Menschen, wir können, was sie von uns wollen und was wir als Theologen selber wollen
+          müssen, ebensowenig wie sie. Wir können nicht von Gott reden. Denn von Gott reden würde,
+          wenn es ernst gelten soll, heißen, auf Grund der Offenbarung und des Glaubens reden. Von
+          Gott reden würde heißen Gottes Wort reden, das Wort, das nur von ihm kommen kann, das
+          Wort, <hi rend="italic">daß Gott Mensch wird</hi>. Diese vier Worte können wir sagen, aber wir
+          haben damit noch nicht das Wort Gottes gesagt, in dem das <hi rend="italic">Wahrheit</hi> ist.
+          Das zu sagen, daß <hi rend="italic">Gott Mensch</hi> wird, aber als <hi rend="italic">Gottes</hi>
+          Wort, wie es eben wirklich <hi rend="italic">Gottes</hi> Wort ist, das wäre unsre theo<pb xml:id="p161" ed="pga" break="no"/>logische Aufgabe. Das wäre die Antwort auf die an uns
+          gerichtete Frage der erschrockenen Gewissen, die Antwort auf die Frage des Menschen nach
+          der Erlösung seiner Menschlichkeit. Das müßte wie mit Posaunen erschallen in unsern
+          Kirchen und wahrhaftig auch in unsern Hörsälen, und aus den Kirchen und Hörsälen hinaus
+          auf die Straßen, wo die Menschen unsrer Zeit darauf warten, daß ihnen <hi rend="italic">das</hi> gesagt werde, aber anders als wir Schriftgelehrten pflegen. Dazu stehen wir
+          auf unsren Kanzeln und Kathedern, um ihnen <hi rend="italic">das</hi> zu sagen. Solange wir
+          ihnen <hi rend="italic">das</hi> nicht sagen, reden wir an ihnen vorbei, enttäuschen wir sie.
+          Denn das allein, aber wohl gemerkt: als Gottes Wort, ist die Antwort, die echte
+          Transzendenz besitzt und gerade darum die Kraft hat, das Rätsel der Immanenz aufzulösen.
+          Denn nicht in einer Beseitigung <pb n="167" ed="kbga-sources-2327"/> der Frage darf diese Antwort bestehen, aber auch nicht
+          bloß in einer Unterstreichung und Verschärfung der Frage, und endlich auch nicht in der
+          kühnen, überaus wahren, aber in unserm Munde abwechselnd allzu eindeutigen oder allzu
+          zweideutigen Behauptung, daß die Frage selber die Antwort sei. Nein, die Antwort muß eben
+          die Frage <hi rend="italic">sein</hi> und so die Erfüllung der Verheißung, das Sattwerden der
+          Hungrigen, die Eröffnung der blinden Augen und tauben Ohren [vgl. <ref type="can" subtype="bible" target="Jes.35.5">Jes. 35,5</ref>]. Diese Antwort sollten wir <hi rend="italic">geben</hi>, und eben diese Antwort können wir <hi rend="italic">nicht</hi>
+          geben.</p>
+          <p>Ich sehe drei Wege, auf denen wir versuchen können, sie doch zu geben, und die alle drei
+          endigen mit der Einsicht, daß wir sie nicht geben können. Es ist der dogmatische, der
+          kritische und der dialektische Weg. Wobei zu bemerken ist, daß diese Unterscheidung nur
+          begrifflich zu vollziehen ist. In Wirklichkeit ist noch nie ein ernstzunehmender Theologe
+          nur den einen oder andern oder dritten gegangen. <persName ref="kbga-actors-261">Luther</persName> etwa werden wir auf allen dreien begegnen.</p>
+          <p>Der erste ist der <hi rend="italic">dogmatische</hi> Weg. Hier werden dem Menschen in
+          richtiger Einsicht seiner Not und Frage, in mehr oder weniger ausdrücklicher Anlehnung an
+          Bibel und Dogma die bekannten christologischen, soteriologischen und eschatologischen
+          Gedanken vor Augen gestellt, die sich aus der einen These: Gott wird Mensch entwickeln
+          lassen. Ich würde es, in Erinnerung an <persName ref="kbga-actors-261">Luthers</persName>
+          Predigten etwa, immer noch für besser halten, wenn man sich nicht anders zu helfen weiß,
+            <hi rend="italic">diesen</hi> Weg zu gehen, als etwa zurück[zu]kehren dazu, mit Hilfe der
+          Geschichte, und wäre es die biblische Geschichte, Geistesleben und Frömmigkeit zu pflegen
+          und so zu vergessen, wozu uns der Mensch <hi rend="italic">nicht</hi> nötig hat, wo<pb xml:id="p162" ed="pga" break="no"/>nach er uns aber in Wirklichkeit <hi rend="italic">fragt</hi>, und daß wir als Theologen von Gott reden sollen. Gegen die Orthodoxie ist
+          gewiß Manches zu erinnern; aber in ihr lebt jedenfalls eine kräftige Erinnerung an das,
+          was überflüssig, und an das, was nötig ist, mehr als in manchem ihrer theologischen
+          Gegner. Und das, und wahrhaftig nicht bloß Gewohnheit und Denkträgheit, ist denn auch
+          sicher die Ursache, daß sie immer noch und immer wieder religiös und kirchlich und sogar
+          politisch so wirksam ist. Der Spaten wird eben einfach auf jener Seite tiefer eingesetzt.
+          Ferner ist zu bemerken, daß auch der überzeugteste Nicht-Orthodoxe stellenweise, und zwar
+          gerade dann, wenn er von seinen gewohnten Psychologismen zu entscheidenden Mitteilungen
+          übergehen will, wenn auch er, wenn auch fast wider Willen, statt von Frömmigkeit von Gott
+          reden will, gar nicht <pb n="168" ed="kbga-sources-2327"/> anders kann, als in dogmatischen Wendungen sich bewegen. Wenn
+          eben einmal die entscheidende Einsicht gewonnen ist, daß nicht die Vergottung des
+          Menschen, sondern die Menschwerdung Gottes das Thema der Theologie ist, ja wo diese
+          Einsicht auch nur gelegentlich aufblitzt in einem Theologen, da gewinnt er Geschmack
+          gerade an dem Objektiven, nicht als psychischer Vorgang zu Analysierenden in Bibel und
+          Dogma, dann beginnt die ihm vorher als «supranaturalistisch» so verdächtige und mißliche
+          Welt, in der er sich da befindet, allmählich, aber fast mühelos ihm verständlich und
+          sinnvoll zu werden, dann sieht er ihre Gedanken sozusagen von innen oder von hinten,
+          begreift, daß es so und nicht anders geschrieben stehen muß, manchmal bis auf entlegenste
+          Winkel, von denen er sich nicht träumen ließ, daß er da noch heimisch werden könnte,
+          bekommt eine gewisse Freiheit, sich in diesen ungewohnten Räumen zu bewegen, und ist
+          vielleicht zuletzt soweit, das Apostolikum etwa mit allen seinen Härten einfach wahrer,
+          tiefer und sogar geistreicher zu finden als das, was moderne Kurzatmigkeit an seine Stelle
+          setzen möchte.</p>
+          <p>Aber freilich: von Gott kann man auch in den kräftigsten und lebendigst aufgefaßten
+          Supranaturalismen nicht reden, wir können auch so nur bezeugen, daß wir es gerne möchten.
+          Die Schwäche der Orthodoxie ist nicht der sogenannt supranaturalistische Inhalt der Bibel
+          und des Dogmas, das ist gerade ihre Stärke, wohl aber der Umstand, daß sie, daß wir,
+          sofern wir alle ein wenig Dogmatiker sind, nicht darüber hinauskommen, diesen Inhalt, und
+          wäre es auch nur das Wort «Gott», dinglich, gegenständlich, mythologisch-pragmatisch uns
+          selbst und den <pb xml:id="p163" ed="pga"/> Menschen gegenüberzustellen: da, das glaube
+          nun! Wir sind wohl alle schon bei <persName ref="kbga-actors-261">Luther</persName> auf
+          die vielen Stellen gestoßen, wo wir z. B. angesichts des trinitarischen Dogmas einfach mit
+          dem Bescheid stehen gelassen werden: da gelte es, sein Hütlein zu lüften und Ja zu
+            sagen.<note xml:id="n50">Vgl. z. B. <bibl corresp="kbga-bibls-1817">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <title level="a">Von Jesu Christo eine
+                  Predigt zu Hofe zu Torgau gepredigt</title> (1533), WA 37,40,17ff.24ff.</bibl>: «Da hast du das wort und vernunfft
+            widdereinander, noch sol sie da die meisterschafft legen und kein richter noch Doctor
+            werden, sondern das hutlin abethun und sagen: Zwey sind eines, ob ichs schon nicht sehe
+            noch verstehe, sondern ich gleube es, Warumb? Umb des willen, der es oben herab gesagt
+            hat … Nu es aber von himel herab schallet, so wil ichs gleuben, was er mir sagt, das zwo,
+            ja alle drey person nur ein rechter Gott, nicht zween odder drey Götter sind.» 44,
+            41–45, 2: «Aber das gilt nicht, das mans wil hie her zihen jnn die kunst, die nicht aus
+            unserm kopff wechset, sondern Gottes wort ist, von himel herab offenbaret, Sondern es
+            heisset schlecht dein hutlin abzihen und ja da zu sagen und war lassen sein …» Vgl. auch
+              <bibl corresp="kbga-bibls-2040">
+                                WA 30/I,118,19</bibl>; <bibl corresp="kbga-bibls-2042">34/II, 102, 14.24</bibl>.</note> Da spüren wir, bei aller
+          Bereitwilligkeit, die Hure Vernunft totzuschlagen<note xml:id="n51">Vgl. <bibl corresp="kbga-bibls-2043">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, WA 9,559,28f.</bibl>; <bibl corresp="kbga-bibls-2044">
+                                WA 18,164,25–27.</bibl></note>: so geht’s jedenfalls nicht, und denken mit Bestürzung daran, wie oft wir es, ohne
+            <persName ref="kbga-actors-261">Luther</persName> zu sein, offen und besonders heimlich
+          auch schon so gemacht haben. Warum geht es so nicht? Weil da die Frage des Menschen nach
+          Gott durch die Antwort einfach niedergeschlagen wird. Nun soll er nicht mehr fragen,
+          sondern an Stelle der Frage die Antwort haben. Er kann aber als Mensch von der Frage nicht
+          lassen. Er selbst, der Mensch, ist ja die Frage. Soll ihm Antwort werden, so muß sie seine
+          Natur annehmen, selber zur Frage werden. Das <pb n="169" ed="kbga-sources-2327"/> heißt nicht von Gott reden, etwas, und
+          wäre es das Wort «Gott», vor den Menschen hinstellen mit der Aufforderung, das nun zu
+          glauben. Das ist’s ja, daß der Mensch das <hi rend="italic">nicht</hi> glauben kann, was bloß
+            <hi rend="italic">vor</hi> ihm steht, das nicht <hi rend="italic">als</hi> das, was es <hi rend="italic">dort</hi> ist, auch <hi rend="italic">hier</hi> wäre – daß er <hi rend="italic">nicht</hi> glauben kann, was sich ihm nicht <hi rend="italic">offenbart</hi>, die Kraft und
+          das Vollbringen nicht hat, <hi rend="italic">zu ihm</hi> zu kommen. Bloß Gott ist nicht Gott.
+          Er könnte auch etwas Anderes sein. Der Gott, der sich offenbart, ist Gott. Der Gott, der
+          Mensch wird, ist Gott. Und der Dogmatiker redet nicht von diesem Gott.</p>
+          <p>Der zweite Weg ist der <hi rend="italic">kritische</hi>. Hier wird nun allerdings sehr
+          deutliche, erschreckend deutliche Anweisung zur Menschwerdung Gottes gegeben. Da wird dem
+          Menschen empfohlen, er habe, um Gottes teilhaftig zu werden, als Mensch zu sterben, aller
+          Eigenheit, Selbstheit, Ichheit <pb xml:id="p164" ed="pga"/> sich zu begeben<note xml:id="n52">Vgl. zu diesen und den folgenden Anspielungen auf die spätmittelalterliche
+            Mystik das von <persName ref="kbga-actors-2151">Barth</persName> hier offenbar u.a. zu Rate gezogene Kompendium von <bibl corresp="kbga-bibls-1712">
+                                <persName ref="kbga-actors-1119">Fr. Loofs</persName>, <hi rend="italic">Leitfaden zum Studium der Dogmengeschichte</hi>,
+            Halle 1906<edition rend="sup">4</edition>, S. 628–633.</bibl></note>, ganz still, ganz einfach, ganz direkt zu werden, nur noch empfänglich schließlich
+          zu sein, wie die Jungfrau Maria, als der Engel zu ihr trat: Ich bin des Herrn Magd, mir
+          geschehe, wie du gesagt hast [<ref type="can" subtype="bible" target="Lk.1.38">Lk. 1,38</ref>]! Kein Dies und Das sei ja Gott, kein Ding, kein Etwas, kein Gegenüber, kein
+          Zweites, sondern das reine, qualitätslose, Alles erfüllende Sein, dem nur das partikulare
+          Eigensein des Menschen im Wege stehe. Falle dies endlich und zuletzt dahin, dann werde es
+          gewißlich zu der Geburt Gottes in der Seele kommen. Der Weg der Mystik, auch er wahrhaftig
+          beachtenswert! Wer dürfte da sofort schelten, wo mit den Besten des Mittelalters auch der
+            junge<note xml:id="n53">In 
+                                    <orgName ref="kbga-actors-4183">CW</orgName>
+                             irrtümlich: «der ganze».</note>
+          <persName ref="kbga-actors-261">Luther</persName> eine Strecke weit mit Begeisterung
+          mitgegangen ist?<note xml:id="n54">
+                            <persName ref="kbga-actors-261">Luther</persName> gab
+              <date when="1516">1516</date> – zunächst unvollständig – eine aus der deutschen Mystik um
+              <date when="1400">1400</date> stammende Schrift eines unbekannten Priesters der Deutschherren in
+            Sachsenhausen bei <placeName ref="kbga-places-20">Frankfurt</placeName> heraus (<bibl corresp="kbga-bibls-3333">WA 1,153ff.</bibl>), deren Inhalt er als «nach der art
+            des erleuchten doctors <persName ref="kbga-actors-2124">Tauleri</persName>» (153)
+            einschätzte. In der <bibl corresp="kbga-bibls-1818">Vorrede zur erweiterten Ausgabe von 1518, die erstmals
+            den Titel 
+                                <hi rend="italic">Eyn deutsch
+              Theologia</hi> (WA 1,378ff.)</bibl> trägt, erklärt er, ihm sei «nehst der
+            Biblien und S. Augustino nit vorkummen eyn buch, dar auß ich mehr erlernet hab und will,
+            was got, Christus, mensch und alle ding seyn» (378, 21–23). Vgl. dazu auch seinen Brief
+            an <persName ref="kbga-actors-4166">G. Spalatin</persName> vom <date when="1516-12-14">14.12.1516</date>
+              (<bibl corresp="kbga-bibls-19">WA. B 1,79,58–63</bibl>).</note> Sehr beachtenswert ist auch hier die Einsicht, daß es
+          sich, wenn von Gott die Rede sein soll, auf keinen Fall darum handeln kann, dem Menschen
+          beim Aufbau, sondern vielmehr grundsätzlich beim Abbau seiner Existenz behilflich zu sein,
+          die Einsicht, daß der Mensch wirklich nach dem fragt, der <hi rend="italic">er nicht</hi> ist.
+          Darum nenne ich den mystischen Weg, der sich auch als Idealismus verstehen läßt, den
+          kritischen, weil sich hier der Mensch unter ein Gericht, in eine Negation hineinstellt,
+          weil es hier so klar erkannt ist: Der Mensch als Mensch ist das, was überwunden werden
+            muß.<note xml:id="n55">Vgl. <bibl corresp="kbga-bibls-1819">
+                                <persName ref="kbga-actors-301">Fr.
+                  Nietzsche</persName>, <title level="a">Also sprach Zarathustra</title>, IV 10, in:
+                  <hi rend="italic">Nietzsches
+                  Werke</hi>, hrsg. von K. Schlechta, Bd. II,
+                  Darmstadt 1963, S. 279</bibl>: «Der Mensch
+            ist etwas, das überwunden werden soll.»</note> Wir sind auch auf diesem Weg Alle schon
+          betroffen worden und werden es nie aufgeben können, ihn streckenweise zu begehen, wie auch
+            <persName ref="kbga-actors-261">Luther</persName> ihn nie ganz aufgegeben hat. Dem in
+          seiner Kultur oder Unkultur sich aufblähenden, dem <pb xml:id="p165" ed="pga"/> in seiner
+          Moral und Religiosität sich so titanisch gen Himmel reckenden Menschen wird man immer
+          wieder sagen müssen, daß er, von <pb n="170" ed="kbga-sources-2327"/> Aufhebung zu Aufhebung schreitend, warten, klein,
+          zunichte werden lernen, daß er sterben müsse. Diese Lehre von der Katastrophe des Menschen
+          als solchen ist ein Stück Wahrheit, das, was sich auch gegen die Mystik einwenden läßt,
+          nicht ungestraft vernachlässigt werden könnte. Die Stärke dieses Redens liegt dort, wo die
+          Schwäche des dogmatischen liegt: hier geschieht etwas, hier werden wir nicht stehen
+          gelassen mit dem Bescheid, wir müßten eben glauben, hier wird der Mensch in der
+          ernsthaftesten Weise angegriffen, hier wird Gott so energisch Mensch, daß vom Menschen
+          sozusagen gar nichts übrig bleibt. Unendlich viel besser natürlich auch das, als der
+          paganistische Kultus des Geisteslebens und der Frömmigkeit.</p>
+          <p>Aber auch so kann man von Gott nicht reden. Denn daß das nun Gott sei, was da den
+          Menschen, ihn selber vernichtend, erfüllen will, dieser Abgrund, in den der Mensch sich
+          stürzen, diese Finsternis, in die er sich begeben, dieses Nein, unter das er sich stellen
+          soll, daß das alles <hi rend="italic">Gott</hi> sei, das pflegten die Mystiker und wir alle,
+          sofern wir auch ein wenig Mystiker sind, mit ihnen zwar zu <hi rend="italic">behaupten</hi>,
+          wir sind aber nicht in der Lage, es zu <hi rend="italic">zeigen</hi>. Der Inhalt der Botschaft,
+          dessen wir <hi rend="italic">sicher</hi> sind, das, was wir <hi rend="italic">zeigen</hi> können,
+          das ist immer nur die Negation, die Negativität des Menschen. Und wenn wir nun daran
+          denken, daß der Mensch von dieser Negativität seiner Existenz, von diesem Fragezeichen
+          jenseits aller seiner Lebensinhalte ja gerade <hi rend="italic">her</hi>kommt, so muß es uns
+          doch stutzig machen, daß wir auf dem kritischen Wege eigentlich nichts Anderes tun, als
+          daß wir ihm dieses Fragezeichen irgendwie riesengroß machen. Gewiß, das wird immer wieder
+          gut sein, ihn darüber zu verständigen, daß die Frage, mit der er sich an uns gewandt hat,
+          noch ganz anders radikal ist, als er sich in den zufälligen Verlegenheiten seines Lebens
+          einbildete, immer wieder gut, seine Kultur und Unkultur in das blendende Licht des
+          unendlichen Abstandes von Schöpfer und Geschöpf<note xml:id="n56">Vgl. <bibl corresp="kbga-bibls-1052">
+          <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <title level="a">Einübung im Christentum</title>, übers, von H. Gottsched, in: ders., <hi rend="italic">Gesammelte Werke</hi>, Bd. 9, Jena 1912, S. 126</bibl>: «Nimm aber die Möglichkeit des Ärgernisses weg, wie man in der
+            Christenheit getan hat, so ist das ganze Christentum direkte Mitteilung, und dann ist
+            das ganze Christentum abgeschafft, es ist ein leichtes, oberflächliches Etwas geworden,
+            das weder tief genug verwundet noch heilt, die unwahre Erfindung des bloß menschlichen
+            Mitleids, die den unendlich qualitativen Unterschied zwischen Gott und Mensch vergißt.»
+            S. 114: «Der einzelne Mensch oder ein einzelner Mensch zu sein (in gewissem Sinne
+            gleichgültig, ob es ein vornehmer oder geringer ist), ist der größtmögliche, der
+            unendlich qualitative Abstand vom Gottsein, und darum das tiefste Inkognito.» – Vgl.
+            <persName ref="kbga-actors-2151">Barths</persName> Erklärung im Vorwort zu <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2, <ref type="pub" target="../volume/47/p115#p115">S. XIII</ref></bibl>: «Wenn ich ein ‹System› habe,
+            so besteht es darin, daß ich das, was <persName ref="kbga-actors-221">Kierkegaard</persName> den ‹unendlichen qualitativen Unterschied› von Zeit und
+            Ewigkeit genannt hat, in seiner negativen und positiven Bedeutung möglichst beharrlich
+            im Auge behalte.» Vgl. auch <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2, S. 16.28.75.184.271.317.343.401</bibl> (= in
+            späteren Auflagen <ref type="pub" target="../volume/47/p062#p062">S. 14</ref>.<ref type="pub" target="../volume/47/p077#p077">26</ref>.<ref type="pub" target="../volume/47/p138#p138">73</ref>.<ref type="pub" target="../volume/47/p278#p278">182</ref>.<ref type="pub" target="../volume/47/p392#p392">269</ref>.<ref type="pub" target="../volume/47/p451#p451">315</ref>.<ref type="pub" target="../volume/47/p487#p487">341</ref>.<ref type="pub" target="../volume/47/p557#p557">399</ref>).</note> zu rücken und <pb xml:id="p166" ed="pga"/> ihm so klar zu machen, was er eigentlich will, wenn er in
+          seiner Not nach Gott schreit. Aber vergessen wir nicht: keine Negation, die wir ihm
+          empfehlen können (und wenn wir ihm Selbstmord empfehlen würden!), ist so groß, so
+          prinzipiell wie <hi rend="italic">die</hi> Negation, auf die alles Negieren doch nur hinzielen
+          kann, die Negation, die unmittelbar erfüllt ist von der Positivität Gottes. Über eine
+          gewaltige Verschärfung der Frage als Frage kommen wir mit der schärfsten Kritik des
+          Menschen nicht hinaus. Das heißt nur noch <pb n="171" ed="kbga-sources-2327"/> einmal den Ort bezeichnen, richtig
+          bezeichnen allerdings, den Ort, wo von Gott allenfalls die Rede sein kann, wenn man den
+          Menschen in Frage stellt. Das heißt aber noch nicht von Gott reden. Das ist’s noch nicht.
+          Auch der Angriff <persName ref="kbga-actors-261">Luthers</persName> und <persName ref="kbga-actors-221">Kierkegaards</persName> auf
+          die Christenheit war’s ja noch nicht! Das Kreuz wird dabei aufgerichtet, aber die
+          Auferstehung wird so nicht verkündigt, und darum ist es endlich und zuletzt doch nicht das
+          Kreuz Christi, was da aufgerichtet wird, sondern irgend ein anderes Kreuz. Das Kreuz
+          Christi brauchte wohl nicht erst von <hi rend="italic">uns</hi> aufgerichtet zu werden! Die
+          Frage hat keine Antwort bekommen. Nicht <hi rend="italic">Gott</hi> ist da Mensch geworden,
+          sondern der <hi rend="italic">Mensch</hi> ist da wieder einmal und nun erst recht Mensch
+          geworden, und das ist kein heilvoller Vorgang. Erst recht ragt nun seine Subjektivität wie
+          eine abgebrochene Säule in ganzer Herrlichkeit gen Himmel. Nur wo <hi rend="italic">Gott</hi>
+          (in jener Objektivität, von der die Orthodoxie nur zu viel weiß!) Mensch wird, mit seiner
+            <hi rend="italic">Fülle</hi> eingeht in unsre Leere<note xml:id="n57">Vgl. die diesem
+            Gedanken entsprechenden Wendungen aus <bibl corresp="kbga-bibls-48">
+                Römerbrief 2</bibl>; Glaube als «Hohlraum» S. 11.19.27f.39.64.86.99 u. ö. 
+                (= in späteren Auflagen <ref type="pub" target="../volume/47/p055#p055">S. 9</ref>.<ref type="pub" target="../volume/47/p066#p066">17.</ref><ref type="pub" target="../volume/47/p076#p076">25f</ref><ref type="pub" target="../volume/47/p092#p092">.37</ref>.<ref type="pub" target="../volume/47/p124#p124">62</ref>.<ref type="pub" target="../volume/47/p152#p152">84</ref>.<ref type="pub" target="../volume/47/p168#p168">97</ref>), «leerer
+            Raum» S. 102 (= S. <ref type="pub" target="../volume/47/p172#p172">100</ref>), «leerer Kanal» S. 42f.64 (= <ref type="pub" target="../volume/47/p096#p096">S. 40f</ref>.<ref type="pub" target="../volume/47/p142#p142">62</ref>), «Vakuum› S. 127.224
+            (= <ref type="pub" target="../volume/47/p204#p204">S. 125</ref>.<ref type="pub" target="../volume/47/p330#p330">222</ref>).</note>, mit seinem <hi rend="italic">Ja</hi> in unser Nein, nur da ist von
+          Gott geredet worden. Die Mystiker, und wir mit ihnen, reden nicht von diesem Gott.</p>
+          <p>Der dritte Weg ist der <hi rend="italic">dialektische</hi>. Er ist, nicht nur weil er der
+            pauli<pb xml:id="p167" ed="pga" break="no"/>nisch-reformatorische ist, sondern wegen
+          seiner sachlichen Überlegenheit, weitaus der beste. Die großen Wahrheiten des dogmatischen
+          und des kritischen Weges sind hier vorausgesetzt, aber auch die Einsicht in ihre
+          Stückhaftigkeit, in ihre bloß relative Zulänglichkeit. Hier ist mit dem positiven
+          Entfalten des Gottesgedankens einerseits und mit der Kritik des Menschen und alles
+          Menschlichen andrerseits von vornherein Ernst gemacht; aber beides darf nun nicht
+          beziehungslos geschehen, sondern unter beständigem Hinblick auf ihre gemeinsame
+          Voraussetzung, auf die lebendige, selber freilich nicht zu benennende Wahrheit, die in der
+          Mitte steht und beiden, der Position und der Negation, erst Sinn und Bedeutung gibt. Daß
+          Gott (aber wirklich Gott!) Mensch (aber wirklich Mensch!) wird, das ist da gleichmäßig
+          gesehen als jenes Lebendige, als der entscheidende Inhalt eines wirklichen
+          Von-Gott-Redens. Wie aber soll nun die notwendige Beziehung von beiden Seiten auf diese
+          lebendige Mitte hergestellt werden? Der echte Dialektiker weiß, daß diese Mitte unfaßlich
+          und unanschaulich ist, er wird sich also möglichst selten zu direkten Mitteilungen<note xml:id="n58">Zur Unmöglichkeit «direkter Mitteilung» vgl. <bibl corresp="kbga-bibls-1052">
+          <persName ref="kbga-actors-221">S. Kierkegaard</persName>, a. a. O., bes. S. 119–131</bibl>; vgl. oben <ref type="pub" target="#fn_n56">Anm. 56</ref>.</note> darüber hinreißen lassen, wissend,
+          daß alle direkten Mitteilungen <hi rend="italic">darüber</hi>, ob sie nun positiv oder negativ
+          seien, <hi rend="italic">nicht</hi> Mitteilungen <hi rend="italic">darüber</hi>, sondern eben immer
+            <hi rend="italic">entweder</hi> Dogmatik <pb n="172" ed="kbga-sources-2327"/> <hi rend="italic">oder</hi> Kritik sind. Auf diesem
+          schmalen Felsengrat kann man nur gehen, nicht stehen, sonst fällt man herunter, entweder
+          zur Rechten oder zur Linken, aber sicher herunter. So bleibt nur übrig, ein
+          grauenerregendes Schauspiel für alle nicht Schwindelfreien, Beides, Position und Negation,
+            <hi rend="italic">gegenseitig aufeinander</hi> zu beziehen, Ja am Nein zu verdeutlichen und
+          Nein am Ja, ohne länger als einen Moment in einem starren Ja <hi rend="italic">oder</hi> Nein
+          zu verharren, also z. B. von der Herrlichkeit Gottes in der Schöpfung nicht lange anders zu
+          reden als (in Erinnerung an <ref type="can" subtype="bible" target="Röm.8.19 Röm.8.22">Röm. 8[,19–22]</ref> etwa) unter stärkster Hervorhebung der gänzlichen Verborgenheit,
+          in der sich Gott in der Natur für unsre Augen befindet, vom Tod und von der
+          Vergänglichkeit nicht lange anders als in Erinnerung an die Majestät des ganz andern
+          Lebens, das uns gerade im Tod entgegentritt, von der Gottebenbildlichkeit des Menschen um
+          keinen Preis lange anders als mit der Warnung ein für allemal, daß der Mensch, den <pb xml:id="p168" ed="pga"/> wir kennen, der gefallene Mensch ist, von dessen Elend wir mehr
+          wissen als von seiner Glorie, aber wiederum von der Sünde nicht anders als mit dem
+          Hinweis, daß wir sie nicht erkennen würden, wenn sie uns nicht vergeben wäre. Was das
+          heißt, daß Gott den Menschen gerecht macht, das läßt sich nach <persName ref="kbga-actors-261">Luther</persName> nicht anders erklären denn als <foreign xml:lang="lat">justificatio
+          impii</foreign> [<ref type="can" subtype="bible" target="Röm.4.5">Röm. 4,5</ref> Vulg.]. Der <foreign xml:lang="lat">impius</foreign>
+          aber soll, indem er weiß und hört, daß er das ist und nichts Anderes, sich sagen lassen,
+          daß er, gerade er ein <foreign xml:lang="lat">justus</foreign> ist. Die einzig mögliche Antwort auf die wirklich gewonnene
+          Einsicht in die Unvollkommenheit alles menschlichen Werkes ist die, sich frisch an die
+          Arbeit zu machen. Wenn wir aber Alles getan haben, was wir zu tun schuldig sind, so sollen
+          wir sprechen: wir sind unnütze Knechte [<ref type="can" subtype="bible" target="Lk.17.10">Lk. 17,10</ref>]. Alle Gegenwart ist nur wert gelebt zu werden im Hinblick auf die
+          ewige Zukunft, auf den lieben jüngsten Tag<note xml:id="n59">Vgl. <persName ref="kbga-actors-261">M. Luthers</persName> Brief an seine <persName ref="kbga-actors-5070">Frau</persName> vom
+              <date when="1540-07-16">16.7.1540</date>, <bibl corresp="kbga-bibls-19">
+                                WA  B 9,175,17.</bibl></note>. Aber wir sind Phantasten, wenn wir meinen, daß die Zukunft des Herrn nicht in
+          eben unsrer Gegenwart unmittelbar vor der Türe stehe. Ein Christenmensch ist ein freier
+          Herr über alle Dinge und Niemand untertan. Ein Christenmensch ist ein dienstbarer Knecht
+          aller Dinge und Jedermann untertan.<note xml:id="n60">
+                            <bibl corresp="kbga-bibls-1302">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <title level="a">Von der
+                  Freyheyt eynisz Christen menschen</title> (1520), WA 7,21,1–4</bibl>: «Eyn Christen mensch ist eyn freyer herr über
+            alle ding und niemandt unterthan. Eyn Christen mensch ist eyn dienstpar knecht aller
+            ding und ydermann unterthan.»</note> Ich brauche nicht fortzufahren. Wer’s merkt,
+          merkt’s, wie’s gemeint ist, wo so geredet wird. Er merkt’s, daß gemeint ist: die Frage ist
+          die Antwort, weil die Antwort die Frage ist. Er freut sich also der ihm durchaus
+          vernehmbar gewordenen Antwort, um im selben Augenblick erst recht und aufs Neue zu fragen,
+          weil er ja die Antwort nicht hätte, wenn er nicht immer wieder die Frage hätte. 
+                    </p>
+          <p>
+                        <pb n="173" ed="kbga-sources-2327" rend="noPipe"/> Der Zuschauer freilich, ein «Flachlandbewohner»<note xml:id="n61">Vgl. zu den folgenden
+            Anspielungen vor allem <bibl corresp="kbga-bibls-1699">
+                                <persName ref="kbga-actors-120">E.
+                  Foerster</persName>, <hi rend="italic">Marcionitisches Christentum. Der Glaube an den
+                  Schöpfergott und der Glaube an den Erlösergott</hi>, a. a. O. (Anm. 7), hier Sp. 819</bibl>: «<persName ref="kbga-actors-2151">Barth</persName> vergleicht das Wandern auf der Grenzscheide zwischen
+            Position und Negation der Kultur einmal einer Gratwanderung. In der Tat, nur mit einer
+            solchen kann man ein Leben nach dieser Regel vergleichen, einer Wanderung auf
+            messerscharfem Grat, wo jeder Schritt zu weit nach rechts oder links unfehlbar in den
+            Abgrund stürzt, wo kein Stillstehen, kein Liegen, kein Sitzen möglich ist, sondern nur
+            ein unaufhaltsames Weiterklettern. Den Sohn der schweizer Berge mag dieser Aspekt nicht
+            so schrecklich anmuten wie die Millionen, die im Flachlande wohnen. Die aber werden wohl
+            sagen, daß die Bewährung des Christentums im Leben dadurch zu einem Virtuosenstück und
+            zu einer raffinierten Technik wird. Wie sollen sie es anfangen, auf dieser schmalen
+            Basis Balance zu halten?»</note> wahrscheinlich, <pb xml:id="p169" ed="pga"/> steht
+          verblüfft daneben und merkt von Allem nichts, jammert jetzt über Supranaturalismus<note xml:id="n62">Anspielung auf <bibl corresp="kbga-bibls-1698">
+                                <persName ref="kbga-actors-4097">R.
+                  Liebe</persName>, <hi rend="italic">Der Gott des heutigen Geschlechts und
+                wir</hi></bibl>; vgl. oben <ref type="pub" target="#fn_n08">Anm. 8</ref>.</note> und jetzt über Atheismus, sieht
+          jetzt den alten <persName ref="kbga-actors-678">Marcion</persName> aus seinem Grab
+          hervorgehen und jetzt <persName ref="kbga-actors-983">Sebastian Frank</persName><note xml:id="n63">Daß <persName ref="kbga-actors-2151">Barth</persName> von einem Kritiker in der theologischen Nähe von <persName ref="kbga-actors-983">Sebastian Franck</persName> (<date from="1499" to="1542">1499–1542</date>) gesehen
+            worden wäre, ist nicht nachweisbar. Vielleicht handelt es sich um eine Verwechslung
+            <persName ref="kbga-actors-2151">Barths</persName> mit <persName ref="kbga-actors-983">Francks</persName> ebenfalls täuferischem
+            Zeitgenossen <persName ref="kbga-actors-773">Kaspar von Schwenckfeld</persName>
+              (<date from="1489" to="1561">1489–1561</date>), der von <bibl corresp="kbga-bibls-1802">
+                                <persName ref="kbga-actors-646">Justinus</persName>
+            (Pseudonym für <persName ref="kbga-actors-646">W. Köhler</persName>), 
+                                <title level="a">Zur religiösen Lage der Gegenwart</title>, in: 
+                                    Neue Zürcher Zeitung vom 21.10.1920</bibl>, mit <persName ref="kbga-actors-2151">Barth</persName> in Verbindung gebracht wurde: «… bei <persName ref="kbga-actors-2151">Karl Barth</persName>, dem Pfarrer
+            von <placeName ref="kbga-places-54">Safenwil</placeName>, werden <persName ref="kbga-actors-851">Zündel</persName>, <persName ref="kbga-actors-773">Schwenckfeld</persName> und die alten Mystiker
+          lebendig …»</note>, was doch wirklich nicht ganz dasselbe ist, und jetzt gar Schellingsche Identitätsphilosophie<note xml:id="n64">Vielleicht eine Anspielung auf <bibl corresp="kbga-bibls-1833">
+                                <persName ref="kbga-actors-6561">A. Albers</persName>, <title level="a">Johannes Müller und Karl Barth, was sie uns
+                  heute sind</title>, in: <title>CW</title>, Jg. 35 (1921),
+                Sp. 498–501</bibl>; hier Sp. 499: «Auf <persName ref="kbga-actors-2151">Barth</persName> hat <persName ref="kbga-actors-301">Nietzsches</persName> Freund <persName ref="kbga-actors-312">Franz Overbeck</persName> sehr stark gewirkt. Beide stehen auf <persName ref="kbga-actors-261">Lutherschem</persName> Boden und
+            sind der deutschen Romantik nicht fremd (<persName ref="kbga-actors-551">Fichte</persName>, <persName ref="kbga-actors-356">Schelling</persName> und <persName ref="kbga-actors-221">Kierkegaard</persName>). Womit ich aber nicht gesagt haben will,
+            daß sie von diesen Männern ‹abhängig› sind. Sie gehören, wenn auch stark modifiziert,
+            deren Geistestypus an.» Vgl. auch <persName ref="kbga-actors-2151">Barths</persName> briefliche Äußerung vom <date when="1922-01-22">22.1.1922</date>
+              (<bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="../volume/04/p029#p029">S. 29f.</ref></bibl>): «… willig läßt man sich’s gefallen, als ‹Typus› behandelt zu
+            werden (von <persName ref="kbga-actors-184">Hirsch</persName> z. B. als religiöser
+            Agnostiker …, von <persName ref="kbga-actors-393">Stange</persName> als
+            Identitätsphilosoph usf.).» Vgl. die einige Monate spätere Bemerkung <persName ref="kbga-actors-403">Thurneysens</persName> vom <date when="1923-06-21">21.6.1923</date> (<bibl corresp="kbga-bibls-932">a. a. O., <ref type="pub-" target="../volume/04/p178#p178">S. 178</ref></bibl>): «Ich wittere hinter
+            seiner [scil. <persName ref="kbga-actors-142">E. Grisebachs</persName>] Behauptung,
+            unsere Lehre sei <persName ref="kbga-actors-356">Schellingsche</persName>
+            <hi rend="italic">Identitäts</hi>philosophie (auch <persName ref="kbga-actors-171">Heim</persName> orakelte dergl.) …, <hi rend="italic">sein</hi> völliges Unvermögen (an dem
+            unser Reden sicher nicht ohne Schuld ist), wirklich zu hören, was gemeint sein könnte,
+            wenn bei uns von Gott die Rede ist. … Es scheint Mode zu werden, uns bei dem Greuel der
+            Identitätsphilosophie zu behaften.»</note>, erschrickt jetzt über eine Weltverneinung,
+          bei der ihm Hören und Sehen vergeht, und ärgert sich jetzt darüber, daß gerade auf diesem
+          Weg eine Weltbejahung möglich sein soll, wie er sie sich nie hat träumen lassen, bäumt
+          sich jetzt gegen die Position auf und jetzt gegen die Negation und dann wieder gegen den
+          «unversöhnlichen Widerspruch», in dem beide zueinander stehen<note xml:id="n65">Vgl. <bibl corresp="kbga-bibls-1699">
+                                <persName ref="kbga-actors-120">E. Foerster</persName>, a. a. O., Sp. 820</bibl>: «Welch unerträglicher Widerspruch, diese theoretische Verneinung der
+            Kultur zugleich mit praktischer Bejahung!»</note>. Was soll ihm der Dialektiker,
+          wahrscheinlich ein «Sohn der Berge», Anderes antworten als: Mein <pb xml:id="p170" ed="pga"/> Freund, du mußt einsehen, daß du, wenn du nach <hi rend="italic">Gott</hi> fragst,
+          und wenn nun wirklich von <hi rend="italic">Gott</hi> die Rede sein soll, von <hi rend="italic">mir</hi> etwas Anderes nicht erwarten darfst. Ich habe getan, was ich konnte, um dich
+          darauf aufmerksam zu machen, daß mein Bejahen wie mein Verneinen nicht mit dem Anspruch
+          auftreten, die Wahrheit Gottes zu sein, sondern mit dem Anspruch, <hi rend="italic">Zeugnis</hi> zu sein von der Wahrheit Gottes, die in der Mitte, jenseits von allem Ja
+          und Nein steht. Und darum eben habe ich nie bejaht, ohne zu verneinen, nie verneint, ohne
+          zu bejahen, weil das Eine wie das Andre nicht das Letzte ist. Wenn mein <hi rend="italic">Zeugnis</hi> von diesem Letzten von der Antwort, die du suchst, dir nicht genügt, so
+          tut mir das leid. Es kann sein, daß ich noch nicht deutlich genug davon gezeugt, d. h. daß
+          ich Ja durch Nein und Nein durch Ja immer noch nicht kräftig genug aufgehoben habe, um
+          alles Mißverständnis zu verhindern, so kräftig, daß dir nichts übrig blieb, als zu sehen,
+          worauf Ja und Nein, Nein und Ja sich beziehen. Es könnte aber auch sein, daß das Versagen
+          meiner Antwort davon herrührt, daß du noch gar nicht richtig <hi rend="italic">gefragt</hi>,
+          nach <hi rend="italic">Gott</hi> gefragt hast, sonst müßten wir uns doch verstehen. So könnte
+          der Dialektiker antworten und würde damit dem Zuschauer gegenüber wahrscheinlich,
+          vielleicht im Rechte sein.</p>
+          <p>Ja <hi rend="italic">vielleicht</hi>, aber vielleicht auch <hi rend="italic">nicht</hi><note xml:id="n66"><persName ref="kbga-actors-2151">Barth</persName> spielt hier wohl auf eine Anekdote aus der Safenwiler Zeit an,
+            die er <persName ref="kbga-actors-403">E. Thurneysen</persName> (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="3418">S. 492</ref></bibl>) am <date when="1921-05-30">30.5.1921</date> mitteilte: «Weißt
+            du, daß in den Kreisen unserer Freunde … die Anekdote zirkuliert, wir zwei seien uns
+            einmal einen ganzen Nachmittag rauchend gegenübergesessen. Nach einer Stunde habe <hi rend="italic">ich</hi> gesagt: Vielleicht!! und nach einer Stunde weitern Schweigens <hi rend="italic">du</hi>: vielleicht auch nicht!!! und das sei unser Gespräch gewesen und der
+            konzentrierte Inhalt unseres Systems!»</note>, vielleicht nicht einmal dem Zuschauer
+          gegenüber! Denn auch das dialektische Reden leidet an einer in der Sache liegenden
+          Schwäche. Sie zeigt sich darin, daß der Dialektiker, wenn er überzeugen will, darauf
+          angewiesen ist, daß ihm auf Seiten seines Unterredners die Frage nach Gott schon <hi rend="italic">entgegenkommt</hi>. Redete er wirklich von <pb n="174" ed="kbga-sources-2327"/> Gott, gäbe er also die Antwort,
+          die zugleich die Frage ist, dann dürfte die Situation nicht eintreten, daß er seinen
+          Unterredner kopfschüttelnd stehen lassen muß mit dem Bescheid, er habe eben die rechte
+          Frage noch nicht. Er würde besser über sich selbst den Kopf schütteln, daß <hi rend="italic">er</hi> offenbar die rechte <hi rend="italic">Antwort</hi> noch nicht habe, die Antwort, die
+          dann auch die Frage des Unterredners wäre. Sein Reden <pb xml:id="p171" ed="pga"/> beruhte
+          eben auf einer schwerwiegenden Voraussetzung, nämlich auf der Voraussetzung jener
+          lebendigen, ursprünglichen Wahrheit dort in der Mitte. Sein Reden selbst aber war nicht
+          ein Setzen dieser Voraussetzung, konnte und durfte es ja auch nicht sein, sondern ein
+          Bejahen und Verneinen, das sich freilich auf diese Voraussetzung, auf diesen Ursprung
+          bezog, aber zunächst doch auch das nur in Form einer <hi rend="italic">Behauptung</hi>, daß dem
+          so sei. <hi rend="italic">Eindeutig</hi> klang die Behauptung zur Rechten, eindeutig die zur
+          Linken, und <hi rend="italic">zweideutig</hi>, sehr zweideutig die zusammenfassende Behauptung,
+          daß mit Behauptung links und Behauptung rechts schließlich dasselbe behauptet sei. <hi rend="italic">Wie kommt es dazu, daß menschliches Reden in notwendiger, in zwingender Weise
+            bedeutsam, zeugniskräftig wird?</hi>, das ist das Problem, das sich auf dem Boden der
+          dialektischen Methode darum besonders lebhaft stellt, weil hier alles getan ist, was getan
+          werden konnte, um es bedeutsam und zeugniskräftig zu machen. Denn <hi rend="italic">wenn</hi>
+          dialektisches Reden sich als bedeutsam und zeugniskräftig erwies – und an einigen
+          Unterrednern <persName ref="kbga-actors-322">Platos</persName>, des <persName ref="kbga-actors-313">Paulus</persName> und der Reformatoren scheint es sich als das
+          erwiesen zu haben –, dann nicht auf Grund dessen, was der Dialektiker tut und kann, nicht
+          auf Grund seines Behauptens, das in der Tat fragwürdig ist, fragwürdiger, als der
+          entrüstete Zuschauer solcher Kunst ahnt, sondern auf Grund dessen, daß in seinem immer
+          eindeutigen und zweideutigen Behaupten die lebendige Wahrheit in der Mitte, die
+          Wirklichkeit Gottes <hi rend="italic">selbst</hi> sich behauptete, die Frage, auf die es
+          ankommt, schuf, und die Antwort, die er suchte, ihm <hi rend="italic">gab</hi>, weil sie eben
+          Beides, die rechte Frage und die rechte Antwort <hi rend="italic">war</hi>.</p>
+          <p>Aber diese Möglichkeit, die Möglichkeit, daß Gott <hi rend="italic">selbst</hi> spricht, wo
+          von ihm gesprochen wird, liegt nicht auf dem dialektischen Weg als solchem, sondern dort,
+          wo auch dieser Weg <hi rend="italic">abbricht</hi>. Den Behauptungen des Dialektikers kann man
+          sich, wie der Augenschein lehrt, auch entziehen. Der Dialektiker als solcher ist nicht
+          besser dran als der Dogmatiker und der Kritiker. Ihre eigentliche <pb n="175" ed="kbga-sources-2327"/> Schwäche, ihr
+          Unvermögen, wirklich von <hi rend="italic">Gott</hi> zu reden, ihr Zwang, immer von etwas
+          Anderem reden zu müssen, das alles erscheint sogar beim Dialektiker potenziert: gerade <hi rend="italic">weil</hi> er <hi rend="italic">alles</hi> sagt und alles im Hinblick auf die
+          lebendige Wahrheit selbst, muß ihm die unvermeidliche <hi rend="italic">Ab</hi>wesenheit dieser
+          lebendigen Wahrheit in seinem Alles-Sagen nur um so schmerzlicher zum Bewußtsein kommen.
+          Und auch wenn nun jenseits seines Alles-Sagens das ge<pb xml:id="p172" ed="pga" break="no"/>schehen sollte, was Allem erst Sinn und Wahrheit gibt, auch wenn nun Gott selbst seinem
+          Unterredner das Eine sagen sollte, sein eigenes Wort, auch dann, ja <hi rend="italic">gerade</hi> dann ist er, der Dialektiker, als solcher ins Unrecht gesetzt und kann nur
+          bekennen: Wir können nicht von Gott reden. Denn daß Gott selbst spricht, das kann auch
+          jenseits dessen geschehen, was die Andern, der Dogmatiker und der Kritiker und vielleicht
+          noch viel primitivere Gottesredner sagen. Es ist ja nicht einzusehen, wieso etwa gerade
+          die dialektische Theologie <hi rend="italic">vorzüglicherweise</hi> in der Lage sein sollte,
+          auch nur bis unmittelbar <hi rend="italic">vor</hi> diese nur von innen zu eröffnende Pforte zu
+          führen. Wenn sie etwa wähnen sollte, eine besondere Höhe zu bedeuten, wenigstens als
+          Vorbereitung auf das, was Gott tut, so möge sie sich klar machen, daß ein simples direktes
+          Wort des Glaubens und der Demut <hi rend="italic">dazu</hi> denselben Dienst tun kann wie sie
+          mit ihren Paradoxien. Im Verhältnis zum Reiche Gottes kann alle Pädagogik gut und alle
+          schlecht sein – ein Schemel hoch genug und die längste Leiter zu kurz, um das Himmelreich
+          zu stürmen.</p>
+          <p>Und wer das Alles nun etwa eingesehen, die Möglichkeiten aller dieser Wege (ich nannte
+          nur die, die ernsthaft in Betracht kommen) durchprobiert haben sollte – und klar oder
+          unklar hat jeder Theologe diese Einsicht und Erfahrung –, sollte der nicht in Bedrängnis
+          sein?</p>
+        </div>
+        <div>
+          <head>IV.</head>
+          <p>Mein dritter Satz lautet: <hi rend="italic">Wir sollen Beides</hi>, daß wir von Gott reden
+          sollen und nicht können, <hi rend="italic">wissen und eben damit Gott die Ehre geben</hi>. Zu
+          diesem Satz ist nicht viel zu bemerken. Er kann nur als Schlußstrich dastehen und
+          bedeuten, daß alles so gemeint ist, wie es gesagt ist.</p>
+          <p>Das Wort Gottes ist die ebenso notwendige wie unmögliche Aufgabe der Theologie. Das ist
+          das Ergebnis des Bisherigen, und das Bisherige ist das Ganze, was ich zu diesem Thema zu
+          sagen <pb n="176" ed="kbga-sources-2327"/> habe. Was nun, angesichts dieses Ergebnisses? Zurückkehren in die Niederungen,
+          wo man scheinbar Theologe und in Wirklichkeit etwas ganz Anderes ist, etwas, was die
+          Anderen auch sein könnten und wozu sie uns im Grunde <hi rend="italic">nicht</hi> brauchen? Ich
+          fürchte, auch wenn wir eines solchen Gewaltakts fähig wären, die Logik der Sache würde uns
+          bald eben dahin zurückführen, wo wir stehen. Oder vom redenden zur Abwechslung zum <hi rend="italic">schweigenden</hi> Dienst<note xml:id="n67">Vgl. oben <ref type="pub" target="../volume/19/p031#fn_n41">S. 31 mit Anm. 41</ref> und <ref type="pub" target="../volume/19/p081#fn_n35">S. 81 mit Anm. 35</ref>.</note> übergehen? Als ob es etwa leichter und möglicher wäre, <pb xml:id="p173" ed="pga"/> vor Gott (wirklich vor <hi rend="italic">Gott</hi>) zu schweigen,
+          als von ihm zu reden! Was soll das Spiel? Oder der Theologie Valet sagen, unser Amt an den
+          Nagel hängen und irgend etwas von dem werden, was die glücklichen Andern sind? Aber die
+          Andern sind nicht glücklich, sonst wären wir nicht da. Die Bedrängnis unsrer Aufgabe ist
+          nur das Zeichen der Bedrängnis aller menschlichen Aufgaben. Wenn wir es nicht wären,
+          müßten eben andere Theologen sein unter denselben Umständen. Die Frau kann auch nicht von
+          den Kindern weglaufen und der Schuster nicht von seinem Leisten, und wir können überzeugt
+          sein, daß die Dialektik etwa der Kinderstube nicht minder angreifend ist als die Dialektik
+          unsrer theologischen Studierstube. Die Theologie aufgeben hat so wenig Sinn wie sich das
+          Leben zu nehmen; es wird nichts, gar nichts anders dadurch. Also ausharren, nichts weiter.
+          Wir sollen eben Beides, die Notwendigkeit und die Unmöglichkeit unsrer Aufgabe <hi rend="italic">wissen</hi>. Was heißt das?</p>
+          <p>Den Blick fest und unverwandt auf das richten, was von uns erwartet ist, da wir nun
+          einmal dahingestellt sind, wo wir stehen. Was daraus wird und ob man mit uns zufrieden
+          ist, sind keine Fragen. Einordnen läßt sich unsre Aufgabe in das Ganze des bekannten
+          Menschenlebens, in Natur und Kultur nur dort, wo die Frage entsteht, wie sich dieses Ganze
+          etwa seinerseits in die Welt und Schöpfung Gottes einordne. Diese Frage kann vom Menschen
+          aus gesehen immer nur eine Frage sein. Einordnen läßt sich also unsre Aufgabe nur als das
+          Nichteinzuordnende. Von daher die Logik, der kategorische Imperativ der Sachlichkeit<note xml:id="n68">«Sachlichkeit» wird dann wenig später ein Leitbegriff in <persName ref="kbga-actors-2151">Barths</persName> erster
+            Dogmatik-Vorlesung: «<bibl corresp="kbga-bibls-219"><title level="a">Unterricht in der
+                  christlichen Religion</title>», 1. Bd.: <hi rend="italic">Prolegomena. 1924</hi>, hrsg. von H. Reiffen, Zürich
+                1985, vgl. S. 398 (Register).</bibl></note>, der unserm Beruf innewohnt so gut wie jedem Beruf, der nun aber für unsern Beruf
+            <hi rend="italic">diesen</hi> Inhalt hat. Mehr kann nicht von uns verlangt werden, als daß
+          wir diesen kategorischen Imperativ starr ins Auge fassen, wie z. B. jeder Eisenbahnbeamte
+          es auch tun muß. Das aber <hi rend="italic">ist</hi> von uns verlangt.</p>
+          <p>Und ebenso genau ist zu bedenken, daß es mit unsrer Aufgabe so steht, daß von Gott nur
+          Gott <hi rend="italic">selber</hi> reden kann. Die Aufgabe <pb n="177" ed="kbga-sources-2327"/> der Theologie ist das Wort
+          Gottes. Das bedeutet die sichere <hi rend="italic">Niederlage aller</hi> Theologie und <hi rend="italic">aller</hi> Theologen. Auch hier gilt es, dem, was zu sehen ist, nicht
+          auszuweichen, nicht links noch rechts auszublicken nach einer von den vielen erbaulichen
+          oder unerbaulichen Verschleierungen und <pb xml:id="p174" ed="pga"/> Bemäntelungen des
+          Tatbestandes, die allerdings möglich sind. Wir müssen uns klar sein darüber, daß wir, und
+          wenn wir <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName> wären, und welchen Weg wir auch einschlagen
+          mögen, so wenig ans Ziel kommen werden, wie <persName ref="kbga-actors-2228">Moses</persName> in das gelobte Land gekommen ist [vgl. <ref type="can" subtype="bible" target="Dtn.34.4">Dt. 34,4</ref>]. So gewiß wir irgendeinen Weg gehen müssen und so
+          gewiß es sich wahrhaftig lohnt, wählerisch zu sein und nicht den ersten besten Weg zu
+          gehen, so gewiß müssen wir bedenken, daß das Ziel unsrer Wege das ist, daß Gott selber
+          rede, und dürfen uns also nicht wundern darüber, wenn uns überall am Ende unsrer Wege, und
+          wenn wir unsre Sache noch so gut gemacht hätten, ja dann am meisten, der Mund <hi rend="italic">verschlossen</hi> wird.</p>
+          <p>Dreierlei möchte ich zum Schluß noch sagen.</p>
+          <p>1. Fast wage ich es nicht und wage es nun doch zu hoffen, daß Niemand nachher komme und
+          mich frage: Ja, was sollen wir denn nun tun? wie denkst du dir’s nun, was in der Kirche
+          und auf der Universität zu geschehen hätte, wenn <hi rend="italic">das</hi> die Situation ist?
+          Ich habe Ihnen keine Vorschläge zu unterbreiten, weder über die Reform des Pfarramts noch
+          über die Reform des theologischen Wissenschaftsbetriebes. Es handelt sich nicht <hi rend="italic">darum</hi>. Es scheint mir, daß wir nicht darüber reden sollten, was zu tun
+          ist, <hi rend="italic">wenn</hi> unsre Situation die ist, sondern darüber, ob wir anerkennen
+          wollen, <hi rend="italic">daß</hi> unsre Situation die ist, die hier gezeichnet wurde. Auf
+          Grund dieser Anerkennung würde dann vielleicht in der Kirche und auf der Universität
+          Einiges anders zu machen sein, als es gemacht wird. Vielleicht auch nicht. Nur auf Grund
+          jener Anerkennung wäre ein Gespräch darüber möglich und nützlich. Aber noch einmal: es
+          kommt jetzt nicht <hi rend="italic">darauf</hi> an.</p>
+          <p>2. Unsere Bedrängnis ist auch<note xml:id="n69">Im Abdruck <bibl corresp="kbga-bibls-929">
+                                W. G. Th.</bibl>: «ist unsere
+            Verheißung»; Korrektur nach dem Erstdruck.</note> unsre Verheißung. Wenn <hi rend="italic">ich</hi> das sage, so ist es ein dialektischer Satz wie ein andrer. Und wir wissen nun,
+          wie es mit der Dialektik steht. Da kann Jeder sagen: ich danke für eine Verheißung, die
+          ich nur als Bedrängnis erfahren kann!, und ich kann ihm nicht antworten. Aber es könnte ja
+          sein, daß nicht nur <hi rend="italic">ich</hi> das sage, daß unsre Bedrängnis unsre Verheißung
+          ist. Es könnte ja sein, daß das die lebendige Wahrheit wäre, die über Ja und Nein ist, die
+          Wirklichkeit Gottes, über die <pb n="178" ed="kbga-sources-2327"/> ich nicht zu verfügen habe mit einer dialektischen Um<pb xml:id="p175" ed="pga" break="no"/>kehrung, in der es aber aus eigener Macht und Liebe
+          verfügt sein könnte, daß Verheißung eingegangen ist in unsre Bedrängnis, daß das Wort, das
+          Wort Gottes, das wir nie sprechen werden, angenommen hat unsre Schwachheit und
+          Verkehrtheit, so daß <hi rend="italic">unser</hi> Wort <hi rend="italic">in</hi> seiner Schwachheit
+          und Verkehrtheit fähig geworden wäre, wenigstens Hülle und irdenes Gefäß [vgl. <ref type="can" subtype="bible" target="2.Kor.4.7">2.Kor. 4,7</ref>] des Wortes Gottes zu
+          werden. Es könnte sein, sage ich, und wenn es so wäre, dann hätten wir allen Anlaß, statt
+          von der Not, laut und stark von der Hoffnung, von der verborgenen Herrlichkeit unsres
+          Berufes zu reden.</p>
+          <p>3. Ich habe das <hi rend="italic">eigentliche</hi> Thema meiner Darlegungen einigemal berührt,
+          aber nie ausdrücklich genannt. Alle meine Gedanken kreisten um den einen Punkt, der im
+          Neuen Testament Jesus Christus heißt. Wer «Jesus Christus» sagt, der darf nicht sagen: «es
+          könnte sein», sondern: es <hi rend="italic">ist</hi>. Aber wer von <hi rend="italic">uns</hi> ist in
+          der Lage, «Jesus Christus» zu sagen? <hi rend="italic">Wir</hi> müssen uns vielleicht begnügen
+          mit der Feststellung, daß Jesus Christus <hi rend="italic">gesagt</hi> ist von seinen ersten
+          Zeugen. Auf ihr Zeugnis hin zu glauben an die Verheißung und also Zeugen von ihrem Zeugnis
+          zu sein, also <hi rend="italic">Schrift</hi>theologen, das wäre dann unsre Aufgabe. Mein
+          Vortrag ist alttestamentlich gemeint und reformiert. Ich habe ja als Reformierter – und
+          nach meiner Meinung natürlich nicht nur als das – die Pflicht, gegenüber dem lutherischen <foreign xml:lang="lat">est</foreign><note xml:id="n70">Vgl. die Berichte
+          über das Marburger Religionsgespräch <date when="1529">1529</date>, z. B. von <persName ref="kbga-actors-718">Osiander</persName> (<bibl corresp="kbga-bibls-1971">WA 30/III,147,15–17</bibl>): «Da hub <hi rend="italic">
+                                <persName ref="kbga-actors-261">Luther</persName></hi> die Sammaten deck auff
+            vnd zaiget Im den spruch, das ist mein leyb, den er mit der kreyden hett für sich
+            geschryben, vnd sprach. alhie steet vnnser schryfft.» Weitere Berichte <bibl corresp="kbga-bibls-1971">
+                                    a. a. O., 112, 21; 137, 9–13.</bibl></note> wie gegenüber der lutherischen
+          <hi rend="italic">Heilsgewißheit</hi><note xml:id="n71">Vgl. z. <bibl corresp="kbga-bibls-1834">
+                                <persName ref="kbga-actors-2030">B. J. Gottschick</persName>, <title level="a">Die
+                  Heilsgewißheit des evangelischen Christen, im Anschluß an Luther dargestellt</title>, in: ZThK, Jg. 13 (1903), S. 349–435</bibl>; <bibl corresp="kbga-bibls-1835">
+                                <persName ref="kbga-actors-191">K. Holl</persName>, <title level="a">Die
+                  Rechtfertigungslehre in Luthers
+                  Vorlesung über den Römerbrief mit besonderer Rücksicht auf die Frage der
+                  Heilsgewißheit</title> (1910), in: ders., <hi rend="italic">Gesammelte
+                  Aufsätze zur Kirchengeschichte</hi>, Bd. I: <title level="a">Luther</title>, Tübingen
+                  (1916) 1932<edition rend="sup">6</edition>, S. 111–154</bibl>; die auf
+            «Gottesgewißheit als Heilsgewißheit» (S. 37) abhebende Darstellung von <bibl corresp="kbga-bibls-1836">
+                                <persName ref="kbga-actors-2915">K. Leese</persName>, <hi rend="italic">Die
+                  Prinzipienlehre der neuern systematischen Theologie im Lichte der Kritik
+                  Feuerbachs</hi>, Leipzig  1912</bibl>;
+            vgl. auch die Belege zur Frage der «Gewißheit» oben <ref type="pub" target="../volume/19/p134#fn_n80">S. 134 bei Anm. 80</ref>. – Zur Kritik der
+            «Heilsgewißheit» vgl. schon <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2, S. 398 (= <ref type="pub" target="../volume/47/p553#p553">S. 396</ref> in späteren Auflagen).</bibl></note> eine gewisse letzte <hi rend="italic">Distanz</hi> zu wahren. Ob die Theologie über die
+            <hi rend="italic">Prolegomena</hi> zur Christologie je hinauskommen kann und soll? Es könnte
+          ja auch sein, daß mit den Prolegomenen <hi rend="italic">Alles</hi> gesagt ist.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

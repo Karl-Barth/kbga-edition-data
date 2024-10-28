@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3155">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 21. April 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3155 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 191–194.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3155</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 191-194</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">155</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 152</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 21. April 1917. <ref target="https://kba.karl-barth.ch/objects/9407">KBA 9270.114</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-04-21">21. April 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-04-21">21. April 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3154"/>
+          <ref type="next" target="kbga-texts-3156"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3154"/>
+          <ref type="next-in-corresp" target="kbga-texts-3156"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:28+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:28+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p191" ed="pga"/>
+        <opener>
+          <dateline>
+                      <date when="1917-04-21">21. April 1917</date>
+                    </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>In eure sonntägliche Einsamkeit will ich euch nun das versprochene Communiqué senden samt etlichen Beilagen, für die ihr wohl Interesse habt. Ich habe also zunächst eine kurze aber ausgiebige Zürcher-Campagne hinter mir. […] Infolge der Besuche <pb xml:id="p192" ed="pga"/> der vorletzten Woche ist <persName ref="kbga-actors-26">Nelly</persName> etwas angestrengt und müde. Hoffentlich kommts nun wieder besser. […] Also <placeName ref="kbga-places-66">Zürich</placeName>: Ja, da hatte ich viele Stunden Gespräche mit meinen Schwägerinnen und der Schwester von <persName ref="kbga-actors-640">Richard Kisling</persName> und mußte «es»<note xml:id="n01">«es» bezeichnet immer wieder die <persName ref="kbga-actors-2151">Barth</persName> am Herzen liegende biblische Botschaft vom Reiche Gottes im Gegensatz zur kirchlichen Innerlichkeitsfrömmigkeit.</note> von immer neuen Seiten zeigen und sagen. Ich schrieb euch schon, daß ich im Ganzen doch Freude hatte, obwohl dieses individuelle Reden nicht gerade meine Sache ist. Am Montag hatte ich einen schönen Nachmittag bei <rs type="person" ref="kbga-actors-316 kbga-actors-315">Pestalozzis</rs>, die mich mit Liebe, Verständnis, Freude und Törtlein ganz umgaben und zuletzt noch auf den <placeName ref="kbga-places-1285">[Zürich-] Berg</placeName> begleiteten. Wir redeten auch von unserm Predigtbüchlein, nach dem sie großes Verlangen zeigten!!<note xml:id="n02">Der Predigtband — <bibl corresp="kbga-bibls-1461">«<title level="m">Suchet Gott, so werdet ihr leben!</title>» — erschien Ende 1917.</bibl></note> […] <persName ref="kbga-actors-330">Ragaz</persName> und <persName ref="kbga-actors-611">Högger</persName> traf ich nicht zu Hause, wohl aber <persName ref="kbga-actors-240">Kutter</persName>. Nach zweistündigem angenehmem Aufenthalt beim Zahnarzt landete ich nämlich am Mittwoch für drei Stunden an der <placeName ref="kbga-places-66">Zollikerstraße</placeName><note xml:id="n03"><persName ref="kbga-actors-240">Kutters</persName> Pfarrhaus in <placeName ref="kbga-places-66">Zürich</placeName>.</note> und bekam gewaltig vorgelesen, sodaß ich zum Schluß in jeder Hinsicht plombiert war. Das neue Buch<note xml:id="n04"><persName ref="kbga-actors-240">Kutters</persName> damals noch unveröffentlichtes Buch: <bibl corresp="kbga-bibls-1849"><title level="m">Das Bilderbuch Gottes für Groß und Klein. I. Römerbrief Kapitel 1-4</title>, Basel
+                            1917. (Einen weiteren Band hat <persName ref="kbga-actors-240">Kutter</persName> nicht folgen lassen.)</bibl></note> wird gut, vielleicht besser noch als die «<bibl corresp="kbga-bibls-3613">Reden</bibl>». Aber ein unheimlicher Vulkan ist <persName ref="kbga-actors-240">Kutter</persName> doch. […]</p>
+        <p>Am Donnerstag kam ich heim und dann brach also die Konferenz<note xml:id="n05">Vgl. <ref type="pub" target="3149#fn_n03">Anm. 3 zum Brief vom <date when="1917-03-20">20.3.1917</date></ref>.</note> los, deren letzte Wellen sich eben verlaufen haben. Was soll ich sagen? Es sind ja ein wenig seltsam zudringliche Verehrer des lieben Gottes das, mit ihren B. K.<note xml:id="n06">B. K. = Bibelkreis.</note> und andern geheimnisvoll deutschtümelnden Initialen. Es fielen kuriose Worte für unsre Ohren, allerlei kleine Wähne machten sich auch breit, das Wirtszimmer im «Hirschen» hörte wohl zum ersten Mal, seit es steht, ein schönes Gebet von <persName ref="kbga-actors-562">Gelzer</persName>, und auf dem Dorfplatz vor dem Brunnen wurde zum Schluß in großem Kreis mit verschlungenen Armen («nach alter B. K. Sitte») gesungen: «<bibl type="song" corresp="kbga-songs-33">So nimm denn meine Hände …</bibl>»! <persName ref="kbga-actors-556">Frick</persName><note xml:id="n07"><seg type="bio"><persName ref="kbga-actors-556">Max Frick</persName> (geb. 1891), später Pfarrer am Großmünster in Zürich.</seg></note> tat seinen Mund sehr weit auf und mein <ref type="pub" target="48046">Vorträglein</ref> fand <persName ref="kbga-actors-26">Nellys</persName> Billigung durchaus nicht. Aber — Alles in Allem waren es doch schöne und inhaltsreiche Tage, und ich freue mich doch, die Sache übernommen zu haben. Erstlich weil mir diese Gymnasiasten mit ihrer getrosten Art (abgesehen von einigen schwankenden Gestalten) doch sehr gut gefielen, vor allem aber wegen der Bekanntschaft mit <persName ref="kbga-actors-562">H. Gelzer</persName>, den ich wirk<pb xml:id="p193" ed="pga" break="no"/>lich respektieren gelernt habe. Wenn wir doch den in der Nähe hätten! Das Pietistische kann ich wirklich nicht so schwer an ihm nehmen, dafür hat er ja dann so etwas unmittelbar Positives, Freudemachendes, Friedliches, etwas von dem «Es», um das ich erst so mühsam ringe, etwa wie <persName ref="kbga-actors-684">Ernst v. May</persName>, mein <orgName ref="kbga-actors-9056">Heilsarmee</orgName>freund. <persName ref="kbga-actors-26">Nelly</persName> meinte sehr richtig, es wäre uns gesünder, die alte kirchliche Art würde uns mehr in solchen Erscheinungen begegnen als immer in den Gestalten unsrer positiven Pfarrer. Ich gab <persName ref="kbga-actors-562">Gelzer</persName> die gedruckte Predigt, und wir konnten dann sehr freundlich und gut miteinander reden darüber. Wie könnten wir diesen Mann für unsere Bibelforschungen ausbeuten, gerade mit seinen saftigen orthodoxen Erkenntnissen! — <persName ref="kbga-actors-556">Frick</persName> hat am Unterhaltungsabend «<bibl corresp="kbga-bibls-4457">Nach Frankreich zogen zwei Grenadier …</bibl>» wirklich schön gesungen. Im Übrigen ist er sicher trotz seiner «sichern» Art (er wagte es wahrhaftig am ersten Tag, mir einen Zuspruch über die uns fehlende Innerlichkeit zu geben) ein ehrlicher Mensch, nur zu erfüllt von sich selbst (wodurch er mich beständig im Gespräch mit <persName ref="kbga-actors-562">Gelzer</persName> störte). Sein Vortrag war gescheit, wenn auch nichts Besonderes herauskam. Nach meinem Vortrag heute Morgen lenkte er dann auf einmal ein, und […] nun hieß es auf einmal: «wunderbar» und was weiß ich! Wir müssen doch unser Büchlein<note xml:id="n08">Siehe <ref type="pub" target="#fn_n02">Anm. 2</ref>.</note> herausgeben! Zum Schluß sangen die Basler noch vor dem Pfarrhaus: «<bibl corresp="kbga-bibls-4458">Heißt ein Haus zum Schweizerdegen!</bibl>» und ein Lied in der Negersprache und zogen dann mit lautem Gebrüll über den Berg nach <placeName ref="kbga-places-50">Olten</placeName>. Vielleicht daß sie nächstes Jahr wiederkommen. Die Kirchenpflege nahm, <foreign xml:lang="fre">bouche béante</foreign>, am Unterhaltungsabend teil und die Wirtin hat wohl gut verdient.</p>
+        <p>Genug für heute. Was sagst du zu diesem <persName ref="kbga-actors-330">Ragaz</persName>-Brief?<note xml:id="n09"><ref type="kba-objects-id" target="9402">Briefkarte</ref> von <persName ref="kbga-actors-330">L. Ragaz</persName> an <persName ref="kbga-actors-2151">K. Barth</persName> vom <date when="1917-04-16">16.4.1917</date>:
+        <p>
+          «Verehrter Herr Pfarrer!
+        </p>
+        <p>Ich habe Ihre Predigt mit größtem Gewinn, zu meiner Stärkung und Erholung, gelesen und danke Ihnen von Herzen dafür. Wenn ich bedenke, wie vollständig ich Ihnen bei einer so aus dem Innersten kommenden Äußerung zustimmen kann, und zwar mit dem Herzen sogut wie mit dem Kopfe, dann tut es mir von neuem weh, daß ich dann wieder jene Kluft sich auftun sehe, wie bei Ihrem Votum zum Vortrag <persName ref="kbga-actors-564">Gerber</persName> in <placeName ref="kbga-places-1">Aarau</placeName>. Wenn wir doch einmal dieses Etwas loswürden, das wie ein schlimmer Nebel sich zwischen denen erhebt, die in der gleichen Landschaft in der gleichen Richtung nach dem gleichen Ziele wandern, so daß sie einander verlieren und sich nur noch wie aus großer Ferne hören. Wie schön müßte die Sonne sein!</p>
+        <p rend="left">Mit freundlichem Gruß</p>
+                    <p rend="right">Ihr <persName ref="kbga-actors-330">L. Ragaz</persName>.»</p>
+ 
+<p rend="right">(<ref type="kba-objects-id" target="9402">Original im Karl Barth-Archiv</ref>, Basel)</p>
+ </note> Ist das eine Hand zum Frieden oder eine Kriegserklärung?</p>
+<closer>
+          <salute>Herzlichen Gruß von uns Beiden!</salute>
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+</closer>     
+      </div>
+    </body>
+  </text>
+</TEI>

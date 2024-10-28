@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3087">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 8. Dezember 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3087 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 112–114.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3087</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 112-114</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">87</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 84</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 8. Dezember 1915. <ref target="https://kba.karl-barth.ch/objects/9009">KBA 9270.64</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-12-08">8. Dezember 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-12-08">8. Dezember 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3086"/>
+          <ref type="next" target="kbga-texts-3088"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3086"/>
+          <ref type="next-in-corresp" target="kbga-texts-3088"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:23+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:23+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p112" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-12-08">8. Dezember 1915</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p rend="center">[Zeitungsausschnitt:]<lb/> <orgName ref="kbga-actors-6133">Soz.-dem. Partei</orgName> und <orgName ref="kbga-actors-9782">Gewerkschaftskartell Baden</orgName></p> 
+              <p rend="center"> <hi rend="italic">II. Vortrag</hi><lb/>
+                Dienstag den <date when="1915-12-07">7. Dezember 1915</date>, abends 8 Uhr<lb/> im Schulhaussaal.</p> 
+                <p rend="center">Referent: Herr <persName ref="kbga-actors-2151">Barth</persName>, Pfarrer, <placeName ref="kbga-places-54">Safenwil</placeName>,</p> 
+                <p rend="center">Thema:<lb/> <hi rend="italic">Ist Religion und Sozialismus vereinbar?</hi></p>
+                <p rend="center">Zahlreichen Besuch erwartet</p>
+               <p rend="right"> Der Bildungsausschuß.</p>
+        <pb xml:id="p113" ed="pga"/>
+        <p rend="margin-top">Aber ich kann sicher, sicher nichts dafür! Für dieses schreckliche Thema nämlich.<note xml:id="n01"><persName ref="kbga-actors-2151">Barths</persName> Manuskript ist lediglich überschrieben: <hi rend="italic"><ref type="pub" target="48032">Religion und Sozialismus</ref></hi>.
+               </note> Das hat der «Bildungsausschuß» getan!! Doch verlief die Sache recht gnädig. Der Präsident, Großrat <persName ref="kbga-actors-639">Killer</persName> (Lehrer), hatte den Takt, nachher zu bemerken, man solle sich nun nicht durch eine Diskussion um den Eindruck der Sache bringen, und so ging Alles still auseinander, etwa 100-120 Arbeiter, Arbeiterinnen, Angestellte und Lehrer. Ich habe vom lieben Gott geredet und einfach persönlich von meinem Weg zum Sozialismus vom Reiche Gottes (nicht von der Religion) her. Die Vorbereitung kostete mich diesmal schwere Mühe. Ich muß dir dabei gestehen, daß ich letzthin in der Nacht zu <persName ref="kbga-actors-26">Nelly</persName> hinüber ein wenig über dich schimpfte, daß du mich so mit <persName ref="kbga-actors-240">Kutter</persName>scher Unnahbarkeit dieses Joch allein tragen lässest. Bei Tag sage ich mir freilich selbst — du brauchst dich aber keinen Augenblick zu rechtfertigen —, daß es da nichts zu schimpfen gibt. Aber ich bin schon jetzt wieder für vier sozialistische Weihnachtsfeiern angefragt und muß natürlich allen absagen (nicht ohne wiederum den <orgName ref="kbga-actors-9772">Grütliverein</orgName><note xml:id="n02">«<orgName ref="kbga-actors-9772">Grütlivereine</orgName>» waren Zusammenschlüsse solcher, die der Sozialdemokratie nahestanden, ohne der Partei anzugehören.</note> <placeName ref="kbga-places-445">Untersiggingen</placeName> auf dich zu hetzen), und das dauert mich immer für die Leute, die doch nicht nur aus äußerlich-nichtigen Gründen unsereins rufen, statt immer wieder die Genossen <persName ref="kbga-actors-544">Fähndrich</persName>, <persName ref="kbga-actors-732">Platten</persName> und <persName ref="kbga-actors-703">Münzenberg</persName>. Ich gehe ja selber <hi rend="italic">gar</hi> nicht enthusiastisch an diese Sachen und sehe die heillose Gefahr, mich zu verplämpern, sehr wohl, sehe auch ganz gut, daß ich den Beweis des Geistes und der Kraft jetzt durchaus nicht leiste, und seufze wahrhaftig darunter, aber — muß nicht das <hi rend="italic">Sich-Rüsten</hi> auf das Größere, Eigentliche irgendwie in der <hi rend="italic">Einheit</hi> der <hi rend="italic">innerlichen Spannung</hi> und eines äußerlichen und leider Gottes noch lahm-schief-krummhalberlösten Ringens und <hi rend="italic">Tastens</hi> bestehen? Wir sollten da wieder einmal mündlich reden können über das Warten auf Gott, über geistige Vornehmheit, sich Reservieren <hi rend="italic">wo</hi> und wo <hi rend="italic">nicht</hi>, sich getrost verplämpern <hi rend="italic">wo</hi> und wo <hi rend="italic">nicht</hi>, Harren auf das Unmittelbare und kindliches täppisch-frohes es einmal Wagen usw. Schriftlich ist nicht gut davon handeln, es gibt gar leicht Mißverständnisse.</p>
+        <p>[…] Denk ich war heute Morgen bei <persName ref="kbga-actors-736">Preiswerk</persName> in <placeName ref="kbga-places-427">Umiken</placeName>, besuchte seine sehr erfreuliche Unterweisungsstunde und redete <milestone xml:id="m8" unit="page"/> 
+               <pb xml:id="p114" ed="pga"/> ausführlich mit ihm über Sozialismus und Kirchliches. Wir kamen uns viel näher und schieden vergnügt, nicht ohne daß er mir einige freundliche Lehren mit auf den Weg gab, ich sei nun als «das Gewissen» der Aargauer Kirche aufgetreten und müsse mich hüten vor bösen Mißgriffen und Unterlassungen im Praktischen. Das ließ ich mir gerne sagen. Denn das ist einfach wahr, daß wir bei unsrer grundsätzlichen Stellung zur «Moral» nicht wachsam genug sein können um der Sache willen. Aber wiederum muß es klar bleiben, daß wir unseren eigenen Weg gehen müssen auch hierin, und daß die spezifische Basler- und Pfarrhausethik dabei nicht die Maßstäbe abgeben darf. […]</p>
+        <p><persName ref="kbga-actors-562">Heinrich Gelzer</persName> würde ich gerne auch kennen lernen. Könntest du ihn nicht einmal kommen lassen? Von <bibl corresp="kbga-bibls-3964"><persName ref="kbga-actors-420">Wernles</persName> Buch</bibl> kenne ich erst den <persName ref="kbga-actors-210">Jülicher</persName>’schen Lobpreis in der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>»,<note xml:id="n03">
+                        <bibl corresp="kbga-bibls-3965"><persName ref="kbga-actors-210">A. Jülicher</persName>, <title level="a">Paul Wernle’s Jesus</title>, in: <title level="m">CW</title> 29 (1915), Sp. 961–964.</bibl>
+                    </note> der mich nicht stark lockt. Sag mirs dann, wenn etwas «Entscheidendes» drin steht, nichtwahr?</p>
+        <p>Unterdessen bereitet mir Freund Fabrikant <persName ref="kbga-actors-5822">Hochuli</persName> wieder Nachstellungen wegen des Konfirmandenunterrichts. Zum Glück hilft mir die Kirchenpflege, hoffentlich energisch. Und der Gemeinderat will mir die Besoldung wieder um 100 Fr. erhöhen im neuen Jahr, das empfinde ich als rührend und freue mich des guten Willens.</p>
+        <p>Heute Abend Bibelstunde über «Selig die Barmherzigen …» [<ref type="can" subtype="bible" target="Mt.5.7">Mt 5,7</ref>]. Warum schickst du mir keine Predigt? Wegen unseres neuen <orgName ref="kbga-actors-8246">Kränzlis</orgName> will ich nächstens einen Vorschlag bei allen Vier in Umlauf setzen; wir wollen doch nun im Januar anfangen einmal.</p>
+       
+        <p>Grüße mir deine <persName ref="kbga-actors-1285">Marguerite</persName> und sei selbst herzlich gegrüßt von deinen Mitpilgern <persName ref="kbga-actors-26">Nelly</persName>, <persName ref="kbga-actors-5802">Fränzeli</persName>, Patensohn <persName ref="kbga-actors-24">Markus</persName> und </p>
+        <closer>
+          <signed rend="right">Vater <persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

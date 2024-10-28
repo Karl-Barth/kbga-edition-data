@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3329">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 3. Mai 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3329 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 386–387.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3329</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 386-387</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">329</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 320</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 3. Mai 1920. <ref target="https://kba.karl-barth.ch/objects/10560">KBA 9270.240</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-05-03">3. Mai 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-05-03">3. Mai 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3328"/>
+          <ref type="next" target="kbga-texts-3330"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3328"/>
+          <ref type="next-in-corresp" target="kbga-texts-3330"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:40+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:40+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p386" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-05-03">3. Mai 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Wir erwarten euch mit tausend Freuden. Wir haben bereits unsre Bibelbesprechung, wo beharrlich am Epheserbrief weiter wiedergekäut wird, bis alle Nester ausgenommen sind, soweit das geht, — auf den Montag Abend verlegt, um deine Mitsprache zu sichern. Und wieviel wird sonst zu besprechen sein!</p>
+        <p>Dem Herrn <persName ref="kbga-actors-686">Mennicke</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-686">Carl Mennicke</persName> (1887–1959), ev. Theologe, religiöser Sozialist in Berlin, trat 1927 aus der Kirche aus.</seg></note> habe ich eine wohlüberlegte Epistel geschrieben. […] Es <persName ref="kbga-actors-330">ragazt</persName> dort offenkundig. Hoffnungsvoll ist das steile Losgehen auf die Gottesfrage, wenn es auch etwas sehr berlinerisch zugeht. Ich habe ihm mitgeteilt, wir seien keine Kuhhirten und hätten <persName ref="kbga-actors-216">Kant</persName> sozusagen auch gelesen und hätten liberale Belehrungen nicht nötig. Im Übrigen seien wir <hi rend="italic">jenseits</hi> der Selbstverständlichkeiten, die sie uns entgegenstellen zu müssen meinten, zu Gesprächen gerne bereit. […]</p>
+        <p>Nicht genieren kann man sich […] vor <persName ref="kbga-actors-330">Ragazens</persName> neuestem Völkerbundsschrei.<note xml:id="n02"><bibl corresp="kbga-bibls-1772"><persName ref="kbga-actors-330">L. Ragaz</persName>, <title level="a">Die Schweiz vor der Lebensfrage. Zur Abstimmung vom 16. Mai</title>, in: Neue Wege, Jg. 14 (1920), S. 182–188.</bibl></note> […] Es ist ein erschreckender Beleg dafür, <pb xml:id="p387" ed="pga"/> daß ich ihn <bibl corresp="kbga-bibls-1497"><ref type="pub-" target="../volume/16/p514#p514">Römer 13</ref></bibl> halt doch nicht zu Unrecht abgesägt habe und daß es auch in einer 2. Auflage keine Streichungen aus persönlichem Erbarmen geben kann. Er soll es für etwas halten, wenn man ihn auf solche Leistungen hin nicht aufs Neue angreift, sondern im Frieden sich versurren läßt. Stimmt: Nein! [zum <orgName ref="kbga-actors-8413">Völkerbundseintritt der Schweiz</orgName>] das ist die einzige Antwort.</p>
+        <p><hi rend="italic"><persName ref="kbga-actors-776">Siebeck</persName></hi>,<note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-776">Richard Siebeck</persName> (1883–1965), Prof. für Innere Medizin in Bonn, Berlin, Heidelberg, Freund <persName ref="kbga-actors-2151">Barths</persName> und <persName ref="kbga-actors-403">Thurneysens</persName>.</seg> Sein Buch «<bibl corresp="kbga-bibls-4193"><title level="m">Medizin in Bewegung. Klinische Erkenntnisse und ärztliche Aufgabe</title>», Stuttgart 1949</bibl>, wird von <bibl corresp="kbga-bibls-2">Barth KD III/4, S. 405</bibl>, zitiert.</note> gut, nichtwahr? Den sollten wir einmal zu uns herüberlotsen können. <persName ref="kbga-actors-537">H. Ehrenberg</persName> kommt nun also erst im August. Ich wäre froh gewesen, ihn zu haben als Kommentator zu den dunklen Worten seiner <orgName ref="kbga-actors-9995">Patmosbrüder</orgName>.</p>
+        <p>Denk ich bin an der Arbeit an einem — — Gebetbuch für unsere Gottesdienste, zunächst lauter Psalmen und Psalmenzusammenstellungen. Dabei komme ich gründlich im Psalter herum und kann eigentlich nur staunen, daß die «Religion» sich durch diese merkwürdige Literatur nicht mehr hat erschrecken lassen. Es stehen ja unerhörte Dinge darin über das «ganz Andere», auf deren Hintergrund sich eine «Erbauung» erhebt, die sehr anders aussieht als das, was man so nennt. Dieses liturgische Geschäft — das erste Mal in meinem Leben, daß ich über Kultisches länger als 5 Minuten nachdenke — erfüllt mich augenblicklich mit ungewohntem Frieden. Daneben lese ich kopfschüttelnd wie du in dem <bibl corresp="kbga-bibls-1715">Wälzer von <persName ref="kbga-actors-169">Heiler</persName></bibl>, ratlos darüber, was das soll?</p>
+        <p>Daß deine Leutwiler Abschiedspredigt gedruckt wird, begrüße ich sehr.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß in Vorfreude aufs Wiedersehen</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19008">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">Not und Verheißung der christlichen Verkündigung</title>
+        <title type="citation_line_1">Barth, Karl: Not und Verheißung der christlichen Verkündigung, 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19008 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 65–97.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19008</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">Not und Verheißung der christlichen Verkündigung</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 65-97</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">8</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 6</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Karl Barth: Not und Verheißung der christlichen Verkündigung, in: Zwischen den Zeiten Jg. 1 (1923), S. 3–25 </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1922">1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:50+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:50+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p065" ed="pga"/>
+        <head>NOT UND VERHEISSUNG DER CHRISTLICHEN VERKÜNDIGUNG</head>
+        <head type="sub">1922</head>
+
+        <div type="abstract">
+          <p>Am <date when="1922-06-19">19.6.1922</date> wandte sich D. <persName ref="kbga-actors-4069">Julius
+                  Jacobi</persName><note xml:id="n01">
+                            
+                                <persName ref="kbga-actors-4069">August Julius
+                     Justus Jacobi</persName> (1850–1937), 1877 Pfarrer
+                  der deutsch-reformierten Gemeinde Magdeburg, 1884 Hof- und
+                  Garnisonsprediger in Weimar, 1889 Pfarrer an St. Stephani Bremen,
+                     1893 an der Zionskirche  Berlin, 1901 Superintendent
+                  der Diözese Berlin III, 1902 Pfarrer in Schöneberg und Superintendent
+                  der Diözese Friedrichwerder II, 1907–1924 Generalsuperintendent der
+                  Provinz Sachsen (Südwestsprengel).</note>, Generalsuperintendent des
+               <placeName ref="kbga-places-333">Südwestsprengels</placeName> der Provinz <placeName ref="kbga-places-299">Sachsen</placeName>, in einem Brief an <persName ref="kbga-actors-2151">Barth</persName>: «Vom <date from="1922-07-24" to="1922-07-26">24.–26. Juli</date>
+               gedenke ich einen Pfarrertag meines Sprengels in der <placeName ref="kbga-places-308">Schulpforta</placeName><note xml:id="n02">
+                            Zwischen Bad Kösen und Naumburg im Saaletal gelegen (heute: <placeName ref="kbga-places-308">Schulpforte</placeName>, DDR). In den Räumlichkeiten des ehemaligen
+                  Zisterzienserklosters Pforte war seit der Gründung der <date when="1543">1543</date> durch
+                     <persName ref="kbga-actors-4113">Moritz von Sachsen</persName> dort errichteten
+                  Fürstenschule eine überregionale Bildungsstätte mit Internat untergebracht.</note>
+               b. <placeName ref="kbga-places-245">Kösen</placeName> abzuhalten, die uns vom Rector zu Beginn der Schulferien freundlichst
+               eingeräumt werden wird. Das große und aktuelle Interesse, welches Ihre Theologie
+               namentlich bei den jüngeren Pastoren auch in unserer Provinz gefunden hat, die
+               wichtige Auseinandersetzung mit dem Verhältnis zwischen Gott und Welt, das Ihr
+                  Buch<note xml:id="n03">Gemeint ist: <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2.</bibl></note> bietet und das geeignet ist, den Gottesglauben zu vertiefen und zu klären, –
+               das alles veranlaßt mich zu der Bitte, Sie wollen vor dem größeren Kreis meiner
+               Geistlichen uns in das Verständnis Ihrer Theologie einführen… Welches Kernstück Sie
+               wählen und wie Sie es formulieren[,] überlassen wir durchaus Ihnen, sehr geehrter
+               Herr Professor.»<note xml:id="n04">
+            <ref type="kba-objects-id" target="11705">Original im Karl Barth-Archiv</ref>, Basel. <persName ref="kbga-actors-2151">Barth</persName> legte
+                  dieses Schreiben seinem Rundbrief in die <placeName ref="kbga-places-58">Schweiz</placeName> vom <date when="1922-06-28">28.6.1922</date> bei;
+                  vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p087#p087">S. 87</ref>.</bibl></note> <persName ref="kbga-actors-2151">Barth</persName> sagte wenige Tage nach Erhalt dieser Einladung auf den <date when="1922-07-25">25. Juli</date> zu und
+               gab als Thema an «Not und Verheißung der christlichen Verkündigung».<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II,  <ref type="pub-" target="../volume/04/p087#p087">S. 87</ref>.</bibl></note> Im Gedränge seiner Vorlesungsverpflichtungen klagte er dann später: «Wie soll
+               ich nun z. B. für <placeName ref="kbga-places-308">Schulpforta</placeName> etwas Vernünftiges zu Papier bringen? Über dem Tambacher
+                  Vortrag<note xml:id="n06">«<bibl corresp="kbga-bibls-435"><ref type="pub" target="48061">Der Christ in der Gesellschaft</ref></bibl>»; vgl. oben <ref type="pub" target="../volume/19/p039#fn_n04">S. 39, Anm. 4</ref>.</note> habe ich eben drei Wochen gebrütet, diesmal muß ich froh sein, wenn ich
+               nur drei Tage erübrigen kann.»<note xml:id="n07">
+                            <bibl corresp="kbga-bibls-932">Bw. Th. II, <ref type="pub-" target="4027#p092">S. 92</ref>(7.7.1922).</bibl></note>
+            </p>
+          <p>Der Vortrag war für den vereinbarten Tag nach der Morgenandacht <pb xml:id="p066" ed="pga"/> um 9 Uhr festgesetzt worden. Im Anschluß fand eine Aussprache
+                  statt.<note xml:id="n08">Vgl. das vollständige Programm in der Ankündigung des
+                  Pfarrertages in: <bibl corresp="kbga-bibls-1692">
+                                <title>Amtliche Mitteilungen des Evangelischen Konsistoriums der Provinz Sachsen</title>, 1922, Nr. 9, S. 77f.</bibl></note> In einem Dankbrief vom <date when="1922-08-03">3.8.1922</date><note xml:id="n09">
+                            <ref type="kba-objects-id" target="11771">Original im Karl Barth-Archiv</ref>, Basel.</note> schrieb <persName ref="kbga-actors-4069">Jacobi</persName> an <persName ref="kbga-actors-2151">Barth</persName>: «Es waren die Früchte der
+                  <foreign xml:lang="grc" rend="Ell">γνῶσις καὶ αἰσθήσεις</foreign>. Und wenn ich,
+               um die Besprechung einzuleiten[,] nach den Nöten Ihrer Theologie neugierig fragte, so
+               hatten Sie ein Recht, diese Neugier zurückzuweisen, weil Sie den ungenähten Rock
+               bieten wollten. Das Echo aus meiner Pastorenwelt ist denn auch bereits da. Man
+               erzählt, daß mancher graue Praktiker tief ergriffen durch den Kreuzgang geschritten
+               sei und gemeint habe, sein Amt an den Nagel hängen zu müssen, worauf die Ehehälfte
+               ihm begütigend, wie <persName ref="kbga-actors-8739">Bartholome’s</persName> Frau auf dem <foreign xml:lang="fre">père lachatse</foreign>[,] auf die Schulter
+               geklopft habe: ‹Es wird so schlimm nicht gemeint sein!›»</p>
+          <p>Mit der Reise nach <placeName ref="kbga-places-308">Schulpforta</placeName> begann <persName ref="kbga-actors-2151">Barths</persName> ausgedehnte Vortragstätigkeit, die seine
+               universitären Verpflichtungen von nun an begleitet hat. Die Erstveröffentlichung
+               dieses Vortrags war gleichzeitig der Auftakt zur Zeitschrift «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>» zu
+               Beginn des Jahres <date when="1923">1923</date>.<note xml:id="n10">
+                            <bibl corresp="kbga-bibls-1693">
+                                ZZ, [Jg. 1] 1923, S. 3–25.</bibl> Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="4038#p115">S. 115</ref>
+                     (26.10.1922).</bibl></note>
+            </p>
+          <p>Die zwischen senkrechten Strichen in den Text eingefügte Originalpaginierung ist die
+               des Wiederabdrucks in <bibl corresp="kbga-bibls-929">
+                            W. G. Th.</bibl>
+            </p>
+        </div>
+        <div>
+         
+         <head>Not und Verheißung der christlichen Verkündigung</head>
+          <p>Die freundliche Einladung, die Herr Generalsuperintendent D. <persName ref="kbga-actors-4069">Jacobi</persName> zur heutigen Tagung an mich hat ergehen
+               lassen, enthielt die Aufforderung, Ihnen eine «Einführung in das Verständnis meiner
+               Theologie» zu bieten. Es macht mich immer ein wenig verlegen, so ernsthaft von
+               «meiner Theologie» reden zu hören. Nicht etwa darum, weil ich meinte, was ich treibe,
+               sei etwas Anderes, Besseres als eben schlecht und recht Theologie. Die
+               Kinderkrankheit, mich der Theologie zu schämen, meine ich einigermaßen überstanden zu
+               haben. Einige von Ihnen kennen sie vielleicht auch und haben sie vielleicht auch
+               schon überstanden. Wohl aber darum, weil ich mich etwas betroffen fragen muß, in was
+               denn eigentlich meine Theologie bestehen möchte, wo denn nun die Kathedrale oder
+               Festung sein könnte, die diesen Namen verdiente und in deren Verständnis ich Sie – an
+               Hand eines Grundrisses etwa – «einfüh<pb xml:id="p067" ed="pga" break="no"/>ren»
+               könnte. Ich habe genug darunter zu seufzen, daß es so ist, aber ich muß Ihnen offen
+               gestehen, daß das, was ich «meine Theologie» allenfalls nennen kann, wenn ich genau
+               zusehe, schließlich in einem einzigen Punkt besteht, und das ist nicht, wie man es
+               von einer rechten Theologie als Mindestes verlangen dürfte, ein <hi rend="italic">Stand</hi>punkt<note xml:id="n11">Zur Kritik eines christlichen bzw.
+                  theologischen «Standpunktes» vgl. schon <bibl corresp="kbga-bibls-119">Römerbrief 1, S. 703</bibl> (Begriffsregister), bes. aber Römerbrief 2, z. B. S. 35.116 (= in
+                  späteren Auflagen <ref type="pub" target="../volume/47/p087#p087">S. 33</ref>.<ref type="pub" target="../volume/47/p189#p189">114</ref>). – Vgl. auch das – wie dieser Vortrag – aus dem
+                     <date when="1922-07">Juli 1922</date> stammende Vorwort zur 3. Auflage. <ref type="pub" target="../volume/47/p029#p029">S. XXII</ref>: «Das <foreign xml:lang="grc">pneuma
+                  Christou</foreign> ist kein Standpunkt, auf den man sich stellen kann, um von hier aus den
+                     <persName ref="kbga-actors-313">Paulus</persName> oder wen auch immer zu schulmeistern.»</note>, sondern ein <hi rend="italic">mathematischer</hi> Punkt, auf dem man also nicht stehen kann, ein <hi rend="italic">Gesichts</hi>punkt bloß. Alles übrige, was zu einer rechten Theologie gehört, ist
+               bei mir ganz in den Anfängen, und ich weiß nicht, ob ich je darüber hinauskommen
+               werde, ja ob ich es nur wünschen soll, darüber hinauszukommen. Ich maße mir also
+               wirklich nicht an, dem, was die großen ehrwürdigen Schöpfer theologischer Programme
+               und Systeme geleistet haben und noch leisten, etwas Ebenbürtiges oder auch nur
+               Kommensurables zur Seite zu stellen. Fassen Sie meinen Beitrag zur theologischen
+               Diskussion und auch das, was ich heute sagen möchte, nicht als ein
+               Konkurrenzunternehmen zur positiven, <pb n="100" ed="kbga-sources-2330"/> liberalen,
+                  <persName ref="kbga-actors-339">Ritschl</persName>’schen oder
+               religionsgeschichtlichen Theologie auf, sondern als eine Art <hi rend="italic">Randbemerkung</hi> und Glosse, die sich mit jenen allen in ihrer Weise verträgt
+               und auch nicht verträgt, die aber nach meiner eigenen Überzeugung ihren Sinn in dem
+               Augenblick verliert, wo sie mehr als das sein, wo sie Raum ausfüllend als neue
+               Theologie neben die andern treten wollte. Sofern <persName ref="kbga-actors-403">Thurneysen</persName><note xml:id="n12">
+                            
+                                <persName ref="kbga-actors-403">Eduard
+                     Thurneysen</persName> (1888–1974), 1911–1913 <orgName ref="kbga-actors-5239">CVJM</orgName>-Hilfssekretär in Zürich, 1913–1920 Pfarrer in Leutwil-Dürrenäsch
+                  (Kanton Aargau), 1920–1927 in St. Gallen-Bruggen,
+                     1927–1959 am Basler Münster, ab 1941 gleichzeitig a.
+                  o. Professor für Praktische Theologie in Basel. – <persName ref="kbga-actors-2151">Barth</persName> und <persName ref="kbga-actors-403">Thurneysen</persName>, deren Eltern bereits
+                  freundschaftlich verbunden waren (vgl. <bibl corresp="kbga-bibls-134">
+                                Busch, S. 14.17</bibl>), hatten
+                  sich in ihrer Studienzeit als Mitglieder der Studentenverbindung «<orgName ref="kbga-actors-2687">Zofingia</orgName>»
+                  kennengelernt (vgl. <bibl corresp="kbga-bibls-134">
+                                a. a. O., S. 48.62</bibl>).</note>, <persName ref="kbga-actors-137">Gogarten</persName><note xml:id="n13">
+                            
+                                <persName ref="kbga-actors-137">Friedrich
+                     Gogarten</persName> (1887–1967), 1917 Pfarrer in
+                  Stelzendorf (Thüringen), 1925 Pfarrer in Dorndorf an der Saale und
+                  zugleich Privatdozent für Systematische Theologie in Jena, 1931 o.
+                  Professor in Breslau, 1935 in Göttingen. – <persName ref="kbga-actors-2151">Barth</persName> war <persName ref="kbga-actors-137">Gogarten</persName> erstmals im <date when="1919-09">September
+                     1919</date> in <placeName ref="kbga-places-334">Tambach</placeName> begegnet (vgl. <bibl corresp="kbga-bibls-134">
+                                Busch, S. 124</bibl>).</note> und
+                  ich<note xml:id="n14">
+                            <persName ref="kbga-actors-137">Gogarten</persName>,
+                     <persName ref="kbga-actors-403">Thurneysen</persName> und <persName ref="kbga-actors-2151">Barth</persName> waren bis zum
+                     <date when="1922-07">Juli 1922</date> noch nicht gemeinsam literarisch in Erscheinung
+                  getreten. Im <date when="1922-08">August</date> des Jahres jedoch gründeten sie im Sommerhaus «<placeName ref="kbga-places-100">Bergli</placeName>» bei
+                  Oberrieden (am Zürichsee) die ab <date when="1923">1923</date> als «Vierteljahrsschrift», ab
+                     <date when="1926">1926</date> bis <date when="1933">1933</date> als «Zweimonatsschrift» erscheinende
+                  Zeitschrift «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>», deren Schriftleitung <persName ref="kbga-actors-275">Georg Merz</persName> (vgl. <ref type="pub" target="../volume/19/p039#fn_n03">S. 39 mit Anm. 3</ref>) innehatte.
+                  Der Titel war einem Aufsatz <persName ref="kbga-actors-137">Gogartens</persName>
+                  entliehen: <bibl corresp="kbga-bibls-1017">
+                                
+                <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>, in: CW, Jg. 34
+                           (1920), Sp. 374–378</bibl> (wieder abgedruckt in: <bibl corresp="kbga-bibls-916">
+                                Anfänge II, S. 95–101</bibl>). Zu den Umständen der Zeitschriftengründung vgl. <persName ref="kbga-actors-2151">Barths</persName>
+                  Brief an <persName ref="kbga-actors-275">Georg Merz</persName>
+                  <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II,
+                     <ref type="pub-" target="4029">S. 97f.</ref> (14.9.1922)</bibl> und den Rückblick <persName ref="kbga-actors-2151">Barths</persName> in:
+                     <bibl corresp="kbga-bibls-1225">
+                                <title level="a">Abschied</title>,
+                    in: ZZ, Jg. 11 (1933), S. 536–544</bibl>
+                  (wieder abgedruckt in: <bibl corresp="kbga-bibls-916">
+                                Anfänge II, S. 313–321</bibl>).</note> wirklich im
+               bekannten Sinn des Worts <pb xml:id="p068" ed="pga"/> «Schule machen» sollten, sind
+               wir erledigt. Meine Meinung ist wirklich die, es möchte jedermann in seiner Schule
+               und bei seinen Meistern <hi rend="italic">bleiben</hi>, nur vielleicht als <hi rend="italic">Korrektiv</hi>, als das «bißchen Zimt» zur Speise, um mit <persName ref="kbga-actors-221">Kierkegaard</persName> zu reden<note xml:id="n15">
+                            <bibl corresp="kbga-bibls-1694">
+                                <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="italic">Buch des Richters. Seine Tagebücher 1833–1855 im
+                        Auszug</hi>, übers. und hrsg. von H. Gottsched,
+                           Jena/Leipzig
+                        1905, S. 99f.</bibl>: «O, die Weltleitung ist eine
+                  ungeheure Haushaltung, ein grandioses Gemälde. Doch machts der Meister, Gott in
+                  den Himmeln, wie die Köchin und der Künstler, er sagt: Da muß noch ein kleines
+                  bißchen Zimt hinein, ein kleines bißchen Rot angebracht werden. Wir begreifen
+                  nicht, warum, wir sehen es kaum, in dem Grade verschwindet ein kleines bißchen
+                  Zimt im Ganzen, aber Gott weiß, warum … Das sind die Korrektive. Ein unseliger
+                  Irrtum ist es, wenn nur der, welcher zum Anbringen des Korrektivs gebraucht wird,
+                  ungeduldig wird und das Korrektiv zum Normativ für die anderen machen will, das
+                  ist ein Versuch, alles zu verwirren.»</note>, sich gefallen lassen, was allenfalls
+               in jener Randbemerkung Erhebliches enthalten ist. «Meine Theologie» verhält sich zu
+               den andern richtiggehenden Theologien etwa so wie die Brüdergemeinde zu den andern
+               richtiggehenden Konfessionen und Kirchengemeinschaften<note xml:id="n16">
+                            Die
+                  Mitglieder der auf <persName ref="kbga-actors-441">Zinzendorf</persName>
+                  zurückgehenden <orgName ref="kbga-actors-5483">Brüdergemein(d)e</orgName> gehören in der Regel auch der jeweiligen
+                  evangelischen Landeskirche an. – Am <date when="1922-06-17">17.6.1922</date> feierte die
+                  <orgName ref="kbga-actors-5483">Brüdergemeine</orgName> ihr zweihundertjähriges Bestehen, woran in verschiedenen
+                  Zeitschriften erinnert worden war; z. B. <bibl corresp="kbga-bibls-1695">
+                                <persName ref="kbga-actors-4172">Th. Steinmann</persName>, <title level="a">In necessariis unitas, in dubiis libertas, in Omnibus caritas.
+                           Gedanken zur Zweijahrhundertfeier der Brüdergemeine (1722 - 17.Juni-
+                           1922)</title>, in: ThBl, Jg. 1
+                           (1922), Sp. 121–124</bibl>; die ganze Nr. 24 von <bibl corresp="kbga-bibls-2212">
+                                CW, Jg. 36
+                     (1922)</bibl> war <persName ref="kbga-actors-441">Zinzendorf</persName>
+                  und den <orgName ref="kbga-actors-5483">Herrnhutern</orgName> gewidmet.</note>; sie will jedenfalls auch keinen neuen
+               eigenen Tropus bilden. Aber nun muß ich schon die zweite Bitte aussprechen, es mir
+               auch nicht als Hochmut und Einbildung auszulegen, wenn ich mich so weigere, in die
+               Reihe gestellt zu werden. Ich weiß ja, daß man nicht in der Luft stehen kann,
+               sondern, ob man will oder nicht und wäre es auch nur mit einem Fuß, immer irgendwo
+               auf der Erde steht. Ich weiß, daß ich nicht der erste und nicht der einzige bin, dem
+               eine <foreign xml:lang="lat">theologia via <pb xml:id="p069" ed="pga"/> torum</foreign><note xml:id="n17">Die
+                  Dogmatiker der Orthodoxie unterschieden in der «<foreign xml:lang="lat">theologia</foreign> <foreign xml:lang="grc" rend="Ell">ἔκτυπος</foreign>» zwischen der noch ausstehenden «<foreign xml:lang="lat">theologia
+                  beatorum</foreign>» bzw. «<foreign xml:lang="lat">comprehensorum</foreign>» und der in diesem Leben möglichen «<foreign xml:lang="lat">theologia
+                  viatorum</foreign>»; vgl. <bibl corresp="kbga-bibls-263">
+                                HpB 6</bibl>, <bibl corresp="kbga-bibls-1616">
+                                SchmP 28</bibl>. <persName ref="kbga-actors-2151">Barth</persName> nimmt den
+                  Terminus hier in anderem Sinne auf.</note> quer hindurch durch die vorhandenen
+               theologischen Möglichkeiten zur Linken, zur Rechten und in der Mitte, alle
+               verstehend, alle umfassend und alle überwindend als das Ziel seiner Sehnsucht
+               vorschwebt. Wer möchte heute nicht irgendwie «über den Richtungen» stehen? Ich weiß
+               auch das, daß es noch keinem von diesen wirklichen oder vermeintlichen <foreign xml:lang="lat">theologi
+               viatores</foreign> – wenn die Götter ihn nicht so sehr liebten, um ihn früh sterben zu
+                  lassen<note xml:id="n18">
+                            "<foreign xml:lang="grc" rend="Ell">Ὃν οἱ θεοὶ φιλοῦσιν,
+                     ἀποθνήσκει νέος</foreign>: auf <persName ref="kbga-actors-4109">Menander</persName> zurückgehender, von <bibl corresp="kbga-bibls-1697">
+                                <ref type="can">
+                                    <persName ref="kbga-actors-4130">Plutarch</persName>, <title level="m">Consolatio ad Apollonium</title>, Kap.
+                     34</ref></bibl> überlieferter Vers.</note> – gelungen ist, seinen Lauf zu vollenden,
+               ohne daß er eben doch, wenn auch nicht eine Kathedrale oder Festung, so doch ein
+               Zigeunerzelt irgendwo errichtet hätte, das dann, ob es ihm recht war oder nicht,
+               statt als Glosse als Text, als eine <hi rend="italic">neue</hi> Theologie aufgefaßt worden
+               ist. <persName ref="kbga-actors-221">Kierkegaard</persName> selber, diesem
+               verwegensten Springer auf dem Schachbrett, ist es nicht anders ergangen. So werden
+               «wir» es uns wohl gefallen lassen müssen, daß in den Augen Vieler auch jetzt nichts
+               weiter geschieht, als daß eine etwas wunderliche weitere Theologie auf den Plan
+               getreten ist, geistigen Raum ausfüllend, historische Breite gewinnend, fragwürdig
+               genug neben ihren alten und neuen, so viel stattlicheren Nachbarn, wahr<pb n="101" ed="kbga-sources-2330"/>scheinlich
+               so etwas wie mystischer oder auch biblizistischer Neu-Supranaturalismus<note xml:id="n19">
+                            <bibl corresp="kbga-bibls-1698">
+                                <persName ref="kbga-actors-4097">R. Liebe</persName>, <title level="a">Der Gott des
+                           heutigen Geschlechts und wir. Vortrag gehalten im Bund für
+                           Gegenwartchristentum zu Eisenach am 5. Oktober 1921</title>, 
+                           in: CW, Jg. 35 (1921), Sp. 850–853.866–868.
+                        883–889</bibl> hatte <persName ref="kbga-actors-2151">Barth</persName> einen «biblizistischen
+                  Neusupranaturalisten» genannt und <persName ref="kbga-actors-137">Gogartens</persName> Äußerungen einem «<hi rend="italic">mystischen</hi> Neusupranaturalismus» zugeordnet (Sp. 867).</note>, um nicht
+               zu sagen Neu-Marcionitismus<note xml:id="n20">Der Vorwurf des «Marcionitismus» war
+                  bis <date when="1922">1922</date> gegenüber <persName ref="kbga-actors-2151">Barth</persName> erhoben worden von <bibl corresp="kbga-bibls-918">
+                                <persName ref="kbga-actors-210">A. Jülicher</persName>, <title level="a">Ein moderner Paulus-Ausleger</title>, in: CW, Jg. 34 (1920), Sp. 467</bibl> (<bibl corresp="kbga-bibls-914">Anfänge I, S. 95f.</bibl>); <bibl corresp="kbga-bibls-1699">
+                                <persName ref="kbga-actors-120">E. Foerster</persName>, <title level="a">Marcionitisches Christentum. Der Glaube an den Schöpfergott und der
+                Glaube an den Erlösergott. Vortrag auf der Eisenacher Tagung des Bundes für Gegenwartchristentum am 3. Oktober 1921</title>, in: CW, Jg. 35 (1921), Sp. 813f.</bibl>; 
+                <bibl corresp="kbga-bibls-1700">
+                                <persName ref="kbga-actors-367">K. L. Schmidt</persName>, <title level="a">Marcion und wir. Die Gegenwartsbedeutung von Harnacks Marcion</title>, in: <hi rend="italic">Kartell-Zeitung. Organ des Eisenacher Kartells Akademisch-Theologischer
+                           Vereine</hi>, Jg. 31 (1920/21), S. 83–85</bibl>;
+                     <bibl corresp="kbga-bibls-1701">
+                                <persName ref="kbga-actors-1034">A.
+                           Hein</persName>, <title level="a">Moderner Marcionitismus und praktische
+                           Theologie</title>, in: ThBl, Jg. 1 (1922), Sp. 124–130.145–152 passim.</bibl> Zu diesem
+                  Vorwurf (ab <date when="1921">1921</date> erhoben unter Bezugnahme auf <bibl corresp="kbga-bibls-1703">
+                                <persName ref="kbga-actors-155">A. von Harnack</persName>, <hi rend="italic">Marcion: Das
+                           Evangelium vom fremden Gott</hi>,
+                           Leipzig 1921)</bibl> vgl. <persName ref="kbga-actors-2151">Barths</persName>
+                  Bemerkung im Vorwort zu <bibl corresp="kbga-bibls-48">
+                                Römerbrief 2,<ref type="pub" target="../volume/47/p021#p021"> S. XVIf.</ref></bibl></note>. Wir können nicht verhindern, daß es so <pb xml:id="p070" ed="pga"/>
+               aussieht, wir können nur, wenn es sich darum handeln sollte, das, was man da sieht,
+               verstehen zu wollen, versichern, daß wir nicht von der Absicht und Vorbereitung eines
+               solchen Schul- und Systembaus herkommen, sondern – nun eben von der «<hi rend="italic">Not
+                  und Verheißung der christlichen Verkündigung</hi>», von der ich heute zu Ihnen
+               sprechen möchte.</p>
+          <p>Darf ich Ihnen das etwas erklären? Es gehört zur Sache. Ich war 12 Jahre Pfarrer<note xml:id="n21">Vgl. oben <ref type="pub" target="../volume/19/p016#fn_n05">S. 16 mit Anm. 5</ref>.</note> wie Sie alle und <hi rend="italic">hatte</hi> meine Theologie, nicht die meinige natürlich, sondern die meines
+               unvergessenen Lehrers <persName ref="kbga-actors-181">Wilhelm
+                  Herrmann</persName><note xml:id="n22">Vgl. unten <ref type="pub" target="../volume/19/p546#fn_n09">S. 546 mit Anm. 9–10</ref>.</note>,
+               aufgepfropft auf die mit meiner Heimat gegebene und mehr unbewußt als bewußt
+               übernommene reformierte Richtung, die ich ja heute auch von Amts wegen zu vertreten
+               habe und gerne vertrete. <hi rend="italic">Unabhängig</hi> von diesen meinen theologischen
+               Denkgewohnheiten bin ich dann durch allerlei Umstände immer stärker auf das
+               spezifische <hi rend="italic">Pfarrer</hi>problem der <hi rend="italic">Predigt</hi> gestoßen
+               worden, suchte mich, wie Sie das ja sicher alle kennen, zurecht zu finden zwischen
+               der Problematik des Menschenlebens auf der einen und dem Inhalt der Bibel auf der
+               andern Seite. Zu den <hi rend="italic">Menschen</hi>, in den unerhörten Widerspruch ihres
+               Lebens hinein sollte ich ja als Pfarrer reden, aber reden von der nicht minder
+               unerhörten Botschaft der <hi rend="italic">Bibel</hi>, die diesem Widerspruch des Lebens
+               als ein neues Rätsel gegenübersteht. Oft genug sind mir diese beiden Größen, das
+               Leben und die Bibel, vorgekommen (und kommen mir noch vor!) wie Skylla und Charybdis:
+               Wenn das <hi rend="italic">das</hi> Woher? und Wohin? der christlichen Verkündigung ist,
+               wer soll, wer kann da Pfarrer sein und predigen? Ich bin überzeugt, Sie alle kennen
+               diese Lage und diese Plage. Viele von Ihnen kennen sie vielleicht <hi rend="italic">schweigend</hi> viel tiefer, stärker und lebendiger als ich, und ihnen habe ich
+               eigentlich heute nichts Wesentliches zu sagen, sie sind in meine Theologie schon
+               eingeführt. Während sie schwiegen, habe ich <hi rend="italic">geredet</hi>. Schweigen hat
+               seine Zeit, und Reden hat seine Zeit [vgl. <ref type="can" subtype="bible" target="Pred.3.7">Pred. 3,7</ref>]. Ich überschätze den Wert der Möglichkeit, das
+               Reden zu wählen, nicht, habe mir auch schon gewünscht, geschwiegen zu haben<note xml:id="n23">Vgl. entsprechende Äußerungen <persName ref="kbga-actors-2151">Barths</persName>, die allerdings erst später
+                  schriftlichen Niederschlag fanden, z. B. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II,  <ref type="pub-" target="4030">S. 99</ref>
+                        (20.9.1922)</bibl>: «O wie verwünsche ich manchmal im
+                  Stillen Professur, Doktorhut und Berühmtheit (vor allem das letztere!!) und
+                  begehre mit <persName ref="kbga-actors-752">Richard Rothe</persName> nicht nach
+                  Ruhe, aber nach Stille, Schweigen dürfen.» S. 222 (<date when="1924-02-05">5.2.1924</date>): «Hätten
+                  wir doch damals geschwiegen … Wir haben aber, und das war das Unheil, nie <hi rend="italic">geschwiegen</hi>, und nun haben wir die Bescherung …». Vgl. auch S. 391.393.650.</note>. Aber es war nun einmal so: die bekannte Situation des
+               Pfarrers <pb xml:id="p071" ed="pga"/> am Samstag an seinem Schreibtisch, am Sonntag
+               auf der Kanzel verdichtete sich bei mir zu jener Randbemerkung zu aller Theologie,
+               zuletzt in der voluminösen Form eines ganzen Römerbriefkommentars, und ähnlich ist es
+               meinen Freunden <pb n="102" ed="kbga-sources-2330"/> ergangen. Nicht als ob ich etwa einen <hi rend="italic">Ausweg</hi>
+               gefunden hätte aus jener kritischen Situation, <hi rend="italic">gerade das nicht</hi>,
+               wohl aber wurde mir eben diese kritische Situation selbst zur Erläuterung des Wesens
+               aller Theologie. Was kann Theologie anderes sein als der Ausdruck dieser auswegslosen
+               Lage und Frage des Pfarrers, die möglichst wahrhaftige Beschreibung des Gedränges, in
+               das der Mensch kommt, wenn er an diese Aufgabe sich heranwagt, ein Ruf also aus
+               großer Not und großer Hoffnung auf Errettung? Was kann sie anderes tun zur Erfüllung
+               ihrer <hi rend="italic">kulturellen</hi> Aufgabe sowohl – und Theologie hat eine solche –
+               wie ihrer <hi rend="italic">pädagogischen</hi>, den ahnungslos-ahnungsvollen Jünglingen
+               gegenüber, die beschlossen haben, «Pfarrer zu studieren«, wie man bei uns sagt – was
+               kann sie anderes tun, als sich bei der Bearbeitung ihrer traditionellen historischen,
+               systematischen und praktischen Stoffe dieses ihres innersten wahrhaftigsten Wesens
+               immer wieder bewußt zu werden? Oder welche Situation ist etwa für den Beruf, auf den
+               sie vorbereiten will, bezeichnender als <hi rend="italic">diese</hi>? Aber wie kommt es
+               nun, daß man dem theologischen Betrieb so wenig anmerkt davon, daß er auf <hi rend="italic">diesen</hi> Beruf, der in <hi rend="italic">diese</hi> Situation führt,
+               vorbereitet? Wie kam es nur, mußte ich mich fragen, daß das schon mit der Existenz
+               des Pfarrers gesetzte Frage- und Ausrufezeichen in der Theologie, die ich kannte,
+               sozusagen gar keine Rolle spielte, so daß ich, als ich Pfarrer wurde, von der
+               Wahrheit überfallen werden mußte wie von einem gewappneten Mann [vgl. <ref type="can" subtype="bible" target="Spr.6.11">Spr. 6,11</ref>]? War denn meine Frage wirklich
+               nur <hi rend="italic">meine</hi> Frage<note xml:id="n24">Anspielung auf den in einer
+                  Rezension von <bibl corresp="kbga-bibls-119">
+                                Römerbrief 1</bibl> 
+                  erhobenen Vorwurf von <bibl corresp="kbga-bibls-918">
+                                <persName ref="kbga-actors-210">A. Jülicher</persName>, <hi rend="italic">Ein moderner Paulus-Ausleger</hi>, a. a. O., Sp. 468f.</bibl> (<bibl corresp="kbga-bibls-914">Anfänge I, S. 98</bibl>): «Wer in heiligem Egoismus immer
+                  nur an seine Frage denkt und Tote die schilt, die ihm sie nicht beantworten
+                  können, der soll erst gar nicht verlangen, daß ein Produkt der Vergangenheit – wie
+                  es der Römerbrief doch wohl auch ist – für ihn lebendig werde. Ich höre – von
+                  jeher – neben den eignen Fragen die Fragen, die die Menschen der Vergangenheit an
+                  mich stellen, und schon weil ich die Pflicht, den Nächsten zu lieben wie mich
+                  selbst, nicht auf die noch lebenden oder zukünftigen Nächsten beschränke, nötigt
+                  mich mein Gewissen, ihre Fragen zu beantworten, es wenigstens zu versuchen. Meine
+                  eignen Fragen beantworte ich, so gut es gelingt, in meinem Kämmerlein.»</note>,
+               und <pb xml:id="p072" ed="pga"/>
+               <hi rend="italic">wußten</hi> denn etwa andre den Ausweg, den ich nicht fand? Ich sah sie
+               wohl Auswege gehen, aber solche, die ich als Auswege nicht anerkennen konnte. Aber
+               warum suchten dann die mir bekannten Theologien jene Situation, wenn sie sie
+               überhaupt berührten, als erträglich und überwindbar darzustellen, statt sie vor allem
+               einmal zu <hi rend="italic">begreifen</hi>, ihr ins Gesicht zu sehen und – dabei
+               vielleicht zu entdecken, daß der Theologie eigenster Gegenstand sich gerade in dieser
+               Situation in ihrer ganzen Unerträglichkeit und Unüberwindbarkeit manifestiert? Sollte
+               es sich nicht lohnen, fragte ich mich weiter, sich zu überzeugen, was für ein Licht
+               alle Theologie gerade von <hi rend="italic">hier</hi> aus empfängt? Wäre es der Theologie
+               nicht zu ihrem eigenen Heil besser, sie wollte am Ende nichts anderes sein als das
+               Wissen um die not- und verheißungsvolle Lage und Frage des christlichen Verkündigers?
+               Müßte sich nicht alles Weitere von selbst aus diesem Wissen ergeben? Bedrängt von <pb n="103" ed="kbga-sources-2330"/>
+               dieser Frage – und ich frage nochmals: ist das bloß <hi rend="italic">meine</hi> zufällige
+               Frage? – habe ich mich seinerzeit an die Arbeit am Römerbrief gemacht<note xml:id="n25">Vgl. Vorwort zu <bibl corresp="kbga-bibls-48">Römerbrief 2, <ref type="pub" target="../volume/47/p015#p015">S. XIIf.</ref></bibl>: «Ich weiß, was es
+                  heißt, jahraus jahrein den Gang auf die Kanzel unternehmen zu müssen, verstehen
+                  und erklären sollend und wollend und doch nicht könnend … Ja wohl, aus der Not
+                  meiner Aufgabe als Pfarrer bin ich dazu gekommen, es mit dem Verstehen- und
+                  Erklärenwollen der Bibel schärfer zu nehmen …»</note>, die anfänglich nur ein
+               Versuch sein sollte, mich mit mir selbst zu verständigen. Natürlich steht nun sehr
+               viel scheinbar ganz anderes in dem Buch: neutestamentliche Theologie, Dogmatik,
+               Ethik, Philosophie. Aber am besten verstehen Sie es dann, wenn Sie aus allem immer
+               wieder den Pfarrer heraushören, mit seiner Frage: was heißt predigen?, und – nicht:
+               wie <hi rend="italic">macht</hi> man das?, sondern: wie <hi rend="italic">kann</hi> man das?
+               Das andre, was darinsteht, ist schon Reflex, nicht selber das Licht, auf das ich mich
+               hingewiesen sah und hinweisen möchte. Und so kam es denn zu dem, was sich jetzt als
+               «meine Theologie», sagen wir einmal als «Theologie des Korrektivs» schon ein wenig
+               breit machen will.</p>
+          <p>Ich sage Ihnen das alles nicht, um Sie mit meiner Biographie zu behelligen, sondern
+               um Ihnen zu zeigen, inwiefern meine Absicht, wenigstens primär, nicht eine neue
+               Theologie, sondern eine sozusagen von au<pb xml:id="p073" ed="pga" break="no"/>ßen an
+               die Theologie herankommende Beleuchtung ist, und zwar eine Beleuchtung gerade von
+               dorther, wo Sie, vielleicht nicht als Theologen, aber sicher als Pfarrer ohnehin
+               stehen. Es scheint mir, es <hi rend="italic">könne</hi> gar nicht anders sein, als daß wir
+               uns heute verstehen, wenn Sie mir zunächst einmal dies Eine abnehmen, daß ich im <hi rend="italic">Grunde</hi>, wohlverstanden, wenn Sie den Humor haben, über einiges
+               Zufällige freundlich <hi rend="italic">hinweg</hi>zusehen, nicht mit einer neuen
+               erstaunlichen Theologie bewaffnet daherkomme, sondern, welches auch <hi rend="italic">Ihre</hi> Theologie sein möge, einfach mit Verständnis und Teilnahme für Ihre
+               Lage als Pfarrer <hi rend="italic">neben</hi> Sie treten möchte. Fassen Sie es darum
+               richtig auf, wenn ich heute mehr als Pfarrer zu Kollegen, denn als Professor zu Ihnen
+               rede. Nach der Lage der Sache ist zweifellos <hi rend="italic">das</hi> die sinngemäße
+               Ausführung des mir gewordenen Auftrags. Habe ich nicht nur einen <hi rend="italic">Gesichts</hi>punkt, sondern etwa auch einen <hi rend="italic">Stand</hi>punkt, so ist
+               es einfach der wohlbekannte des Mannes auf der Kanzel, vor sich die geheimnisvolle
+               Bibel und die geheimnisvollen Köpfe seiner mehr oder weniger zahlreichen Zuhörer – ja
+               was ist nun geheimnisvoller? Auf alle Fälle: <hi rend="italic">Was nun</hi>? Wenn es mir
+               gelingen sollte, Ihnen dies «Was nun?» in seinem ganzen Gehalt wieder einmal akut in
+               Erinnerung zu rufen, so habe ich Sie nicht nur für meinen <hi rend="italic">Stand</hi>punkt, der ja ohnehin der Ihrige ist, sondern auch für meinen <hi rend="italic">Gesichts</hi>punkt gewonnen, was Sie auch von meiner Theologie halten mögen,
+               
+                    </p>
+          <p rend="margin-top">
+                        <pb n="104" ed="kbga-sources-2330" rend="noPipe"/> Wenn am Sonntag morgen die Glocken ertönen, um Gemeinde und Pfarrer zur Kirche zu
+               rufen, dann besteht da offenbar die <hi rend="italic">Erwartung</hi> eines großen,
+               bedeutungsvollen, ja entscheidenden <hi rend="italic">Geschehens</hi>. Wie stark diese
+               Erwartung in den etwa beteiligten Menschen lebt, ja ob da überhaupt Menschen sind,
+               die sie bewußterweise hegen, darauf kommt jetzt gar nichts an. Die Erwartung besteht,
+               sie liegt in der ganzen Situation. Da ist eine uralte ehrwürdige <hi rend="italic">Institution</hi>, oft und schwer angegriffen von außen und noch öfter und
+               schwerer kompromittiert von innen, aber von unverwüstlicher Lebens- oder sagen wir
+               Daseinskraft, wandlungsfähig und beharrlich zugleich, altertümlich und in der Regel
+               auch modern (was jeweilen gerade modern heißt), obwohl sie beides nicht gerne Wort
+               haben will, den schwersten intellektuellen, politischen, sozialen und sogar
+               religiösen Erschütterungen bis jetzt siegreich gewachsen – und wie sollte sie es
+               nicht auch in Zukunft sein? Ihr Vorhandensein begründet auf einen Anspruch, der in
+               groteskem Widerspruch zu stehen <pb xml:id="p074" ed="pga"/> scheint mit den
+               Tatsachen und dessen Berechtigung und Möglichkeit doch eigentlich nur ganz Wenige und
+               wenig Beachtliche etwa laut und unzweideutig und restlos zu leugnen wagen. Da ist ein
+                  <hi rend="italic">Gebäude</hi>, dessen Bauart schon, auch abgesehen von den Symbolen,
+               Bildern und Geräten, mit denen es geschmückt ist, in der Sprache alter oder neuer
+               Architektenkunst verrät, daß es als Schauplatz außerordentlicher Dinge gedacht ist.
+               Da sind <hi rend="italic">Menschen</hi>, nur 2–3 vielleicht, wie es ja hierzulande
+               vorkommen soll, aber vielleicht auch einige Hundert, die, von einem merkwürdigen
+               Instinkt oder Willen getrieben, diesem Gebäude zuströmen, wo sie – <hi rend="italic">was</hi> suchen? Befriedigung einer alten Gewohnheit? Ja, aber woher diese alte
+               Gewohnheit? Unterhaltung und Belehrung? Eine sehr merkwürdige Unterhaltung und
+               Belehrung auf alle Fälle! Erbauung? Ja, so sagt man, aber was heißt Erbauung? Wissen
+               sie es etwa? Oder wissen sie sonst, warum sie da sind? Jedenfalls sie sind da – und
+               wenn es nur ein altes Mütterchen wäre –, und ihr Dasein schon weist hin auf ein
+               Geschehen, das sie erwarten oder doch zu erwarten scheinen, das hier mindestens, wenn
+               denn alles tot und ausgestorben sein sollte, früher einmal erwartet worden ist. Und
+               da ist vor allem ein <hi rend="italic">Mann</hi>, auf dem die Erwartung des da scheinbar
+               bevorstehenden Geschehens in ganz besonderer Weise zu ruhen, zu lasten scheint, nicht
+               nur weil er die Technik dieses Geschehens studiert hat und beherrschen sollte, nicht
+               nur weil er von der Gesellschaft besoldet und <pb n="105" ed="kbga-sources-2330"/> angestellt oder doch fast
+               widerspruchslos geduldet ist in der Funktion, deren Sinn offenbar dieses Geschehen
+               wäre – nein, da ist nicht nur Mechanik, da ist Freiheit im Spiel, er selbst hat ja
+               diesen Beruf ergriffen, Gott weiß aus was für Verständnissen und Mißverständnissen
+               heraus, aber doch so, daß es seine kurze, seine einzige Lebenszeit nun ganz und gar
+               mit der Erwartung jenes Geschehens verknüpft hat. Und dieser Mann wird nun vor der
+               Gemeinde und für die Gemeinde <hi rend="italic">beten</hi>, wohlverstanden: beten – zu
+               Gott! Er wird die <hi rend="italic">Bibel</hi> öffnen und Worte voll unendlicher Tragweite
+               daraus zur Verlesung bringen, Worte, die alle auf Gott sich beziehen. Und dann wird
+               er auf die Kanzel steigen und – welches Wagnis auf alle Fälle! – <hi rend="italic">predigen</hi>, d. h. aus seinem Kopf und Herzen etwas hinzufügen zu dem, was aus
+               der Bibel verlesen ist, «biblische» Gedanken der Eine nach bestem Wissen und
+               Gewissen, kühn oder auch matt an der Bibel vorbeiflatternde Gedanken der Andere: es
+               hat ja der eine eine «positive», der andere eine «liberale» Predigt gestern
+               vorbereitet, aber verschlägt es so viel, wenn <pb xml:id="p075" ed="pga"/> man den
+               Gegenstand bedenkt? Von Gott scheint ja hier auf alle Fälle, <foreign xml:lang="lat">nolens volens</foreign>
+               vielleicht, die Rede sein zu sollen. Und dann wird er die Gemeinde <hi rend="italic">singen</hi> lassen, altertümliche Gesänge voll schwerer, unheimlicher
+               Gedankenfracht, seltsame gespenstische Zeugen der Leiden, Kämpfe und Triumphe der
+               längst entschlafenen Väter, alle an den Rand eines unermeßlichen Geschehens führend,
+               alle, ob Pfarrer und Gemeinde verstehen, was sie singen, oder nicht, voll Erinnerung
+               an Gott, immer wieder an Gott. «Gott ist gegenwärtig!«<note xml:id="n26">Vgl.
+                <bibl type="song" corresp="kbga-songs-11">
+                                <persName ref="kbga-actors-797">G. Tersteegens</persName> Lied «Gott ist
+                  gegenwärtig» (1729); 
+                    EKG 128, KGB 201</bibl>.</note> Ja, Gott <hi rend="italic">ist</hi> gegenwärtig. Die ganze Situation zeugt, ruft,
+               schreit ja offenbar davon, und wenn sie, vom Pfarrer oder von der Gemeinde aus
+               gesehen, noch so fragwürdig, kümmerlich und trostlos wäre, ja dann vielleicht gerade
+               am meisten, mehr noch als da, wo Fülle und – menschlich geredet – gutes Gelingen das
+               Problem der Situation halb oder ganz verdecken.</p>
+          <p>Aber was bedeutet diese Situation? Was ist das für ein Geschehen, auf das die
+               Erwartung, die sich in ihm widerspiegelt, hinweist? Was heißt «Gott ist gegenwärtig!«
+               in diesem Zusammenhang? Offenbar nicht ganz dasselbe, wie wenn wir auf einen
+               blühenden Kirschbaum, auf <persName ref="kbga-actors-488">Beethovens</persName>
+               neunte Symphonie, auf den Staat oder auch auf unser und anderer ehrliches Tagewerk
+               <pb n="106" ed="kbga-sources-2330"/> solche Rede anzuwenden uns erlauben. Warum sonst die überflüssige Zurüstung?
+               Warum das Besondere gerade <hi rend="italic">dieser</hi> Situation, wenn hier nicht
+               hingezielt wäre auf ein besonderes, spezifisches, kühner gemeintes: «Gott ist
+               gegenwärtig!»? Ist’s nicht so: Wenn die Menschen sich in <hi rend="italic">diese</hi>
+               Situation begeben, also in die Kirche kommen, dann haben sie, ob sie es wissen oder
+               nicht, Kirschbaum, Symphonie, Staat, Tagewerk und noch einiges andre <hi rend="italic">hinter</hi> sich als irgendwie erschöpfte Möglichkeiten. Die Antwort: Gott ist
+               gegenwärtig, die in allen diesen Möglichkeiten zweifellos irgendwie gegeben ist, der
+               Wahrheitsgehalt dieser Dinge, ihr Zeugnis von einem Sinn des Lebens, ist offenbar
+               selbst wieder fraglich geworden, die großen Rätsel des Daseins: die unergründliche
+               Stummheit der uns umgebenden sog. Natur, die Zufälligkeit und Dunkelheit alles
+               dessen, was einzeln und in der Zeit ist, das Leid, das Schicksal der Völker und
+               Individuen, das radikale Böse<note xml:id="n27">Vgl. <bibl corresp="kbga-bibls-1707">
+                                <persName ref="kbga-actors-216">I. Kant</persName>,
+                           <title level="a">Die Religion innerhalb der Grenzen der bloßen
+                           Vernunft</title>, in: ders., <hi rend="italic">Werke</hi>, hrsg. von
+                           W. Weischedel, Bd. 4,
+                           Wiesbaden 1956, S. 645–879.</bibl></note>, der Tod, sie sind wieder da und reden, reden lauter als alles das, <pb xml:id="p076" ed="pga"/> was uns versichern möchte, Gott sei gegenwärtig. Nein,
+               die Frage läßt sich nicht mehr unterdrücken, sie wird brennend heiß: <hi rend="italic">Ob’s denn auch wahr ist?</hi> Wahr die Ahnung von einer Einheit des Zerstreuten,
+               von einem ruhenden Pol in der Erscheinungen Flucht<note xml:id="n28">Vgl. 
+                  <bibl corresp="kbga-bibls-1708">
+                                <persName ref="kbga-actors-764">Fr. von Schillers</persName> Gedicht «Der
+                  Spaziergang» (1795)</bibl>: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">Aber im stillen Gemach entwirft bedeutende Zirkel</l>
+                                    <l xml:space="preserve">Sinnend der Weise, …</l>
+                                    <l xml:space="preserve">Sucht den ruhenden Pol in der Erscheinungen Flucht.</l></lg></q></note>, von einer Gerechtigkeit nicht irgendwo hinter den Sternen, sondern in dem
+               Geschehen, das nun einmal unser Leben ist, von einem <hi rend="italic">Himmel</hi> über
+               der Erde: <hi rend="italic">über</hi> der Erde ja, aber über der <hi rend="italic">Erde?</hi>
+               Wahr die Rede von der Liebe und Güte eines Gottes, der mehr wäre als eines jener
+               freundlichen Götzlein, deren Herkunft so leicht zu durchschauen ist, deren Herrschaft
+               so wenig lang währt? <hi rend="italic">Ob’s wahr ist?</hi>, wollen die Menschen vernehmen,
+               erkennen, wissen, und <hi rend="italic">darum</hi> greifen sie, nicht wissend, was sie
+               tun, nach der unerhörten Möglichkeit zu beten, die Bibel aufzuschlagen, von Gott zu
+               reden, zu hören und zu singen. <hi rend="italic">Darum</hi> kommen sie zu uns, begeben
+               sich in die ganze groteske Situation des Sonntagmorgens, die ja nur der potenzierte
+               Ausdruck dieser Möglichkeit ist. Wohlverstanden: vernehmen, erkennen, wissen wollen
+               sie, also nicht nur Behauptungen und Beteuerungen hören, und wenn sie noch so innig
+               und begeistert wären. Und vernehmen, erkennen, wissen wollen sie, <hi rend="italic">ob’s
+                  wahr ist</hi>, also nicht irgend etwas anderes, das wie die Katze um diesen heißen
+               Brei herumgeht. Lassen wir uns nicht dadurch irre machen, daß uns dieses Begehren
+               selten oder nie in dieser Dringlichkeit offen entgegen tritt. <hi rend="italic">Das</hi>
+               schreien die Menschen natürlich nicht einfach heraus <pb n="107" ed="kbga-sources-2330"/> und am wenigsten uns
+               Pfarrern in die Ohren. Aber lassen wir uns nicht täuschen durch dieses ihr Schweigen,
+               – Blut und Tränen, tiefste Verzweiflung und höchstes Hoffen, leidenschaftliches
+               Verlangen, <hi rend="italic">das</hi>, nein <hi rend="italic">den</hi> zu fassen, der die Welt
+               überwindet [vgl. <ref type="can" subtype="bible" target="Joh.16.33">Joh. 16,33</ref>], weil er ihr Schöpfer und Erlöser ist, der Anfang und das Ende 
+               [vgl. <ref type="can" subtype="bible" target="Apk.1.8">Apk. 1,8</ref> u. ö.], der Herr der
+               Welt, leidenschaftliches Verlangen, sich das <hi rend="italic">Wort</hi> sagen zu lassen,
+                  <hi rend="italic">das</hi> Wort, das Gnade im <hi rend="italic">Gericht</hi> verheißt, Leben
+               im <hi rend="italic">Tode</hi>, Jenseits im <hi rend="italic">Diesseits, Gottes</hi> Wort – das
+               ist’s, was hinter unsern Kirchgängern steht, mag uns das, was sie begehren, in der
+               sog. Wirklichkeit noch so schläfrig, noch so bürgerlich, noch so gewöhnlich
+               vorkommen. Es ist wirklich nicht ratsam, sich an das vorletzte und vorvorletzte
+               Begehren der Menschen zu halten, und sie werden uns <pb xml:id="p077" ed="pga"/>
+               keinen Dank wissen, wenn wir es tun. Sie erwarten von uns, daß wir sie besser
+               verstehen, als sie sich selber verstehen<note xml:id="n29">Vgl. aus der Geschichte
+                  dieser hermeneutischen Formel zuerst <bibl corresp="kbga-bibls-644">
+                                <persName ref="kbga-actors-216">I. Kant</persName>, <title level="a">Kritik der reinen Vernunft</title>, in: ders., <hi rend="italic">Werke</hi>, hrsg. von W. Weischedel, Bd. II,
+                        Wiesbaden 1956, S. 322</bibl>: «Ich merke nur an, daß es gar nichts
+                  Ungewöhnliches sei, sowohl im gemeinen Gespräche, als in Schriften, durch die
+                  Vergleichung der Gedanken, welche ein Verfasser über seinen Gegenstand äußert, ihn
+                  so gar besser zu verstehen, als er sich selbst verstand, indem er seinen Begriff
+                  nicht genugsam bestimmte, und dadurch bisweilen seiner eigenen Absicht entgegen
+                  redete, oder auch dachte.» Weitere Belege aus <persName ref="kbga-actors-360">Fr. Schleiermacher</persName> und <persName ref="kbga-actors-1040">J. G.
+                     Herder</persName> sind aufgeführt in: <bibl corresp="kbga-bibls-1709">
+                    <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Das
+                           christliche Leen. Die Kirchliche Dogmatik IV/4, Fragmente aus dem
+                           Nachlaß. Vorlesungen 1959–1961</hi>, hrsg. von H.-A. Drewes
+                           und E. Jüngel,
+                              Zürich 1979<edition rend="sup">2</edition>, S. 440, Anm. 109.</bibl></note>, ernster nehmen, als sie sich selbst nehmen. Nicht dann sind wir lieblos,
+               wenn wir tief hineingreifen in die Wunde, mit der sie zu uns kommen, sondern dann,
+               wenn wir sie bloß betippen, als wüßten wir nicht, warum sie zu uns kommen. Nicht dann
+               geben wir uns einer Illusion hin, wenn wir annehmen, daß sie von den letzten
+               schwersten Fragen herkommen, sondern dann, wenn wir meinen, sie könnten sich, wenn
+               sie zu uns kommen, wirklich mit vorletzten, leichteren Antworten abspeisen lassen. O
+               ja, sie tun es natürlich vorläufig; sie sind gerührt, erfreut, befriedigt, auch wenn
+               sie das, was sie eigentlich suchen, nicht finden, sondern (in religiösen,
+               christlichen, positiv-christlichen Formen vielleicht) das, was sie im Grunde besser
+               auch anderswo finden könnten. Der Katholizismus ist das gewaltige Beispiel dafür, wie
+               es allenfalls gelingen kann, die Menschen hinzuhalten, einzulullen, ihr eigentliches
+               Begehren vergessen zu lassen durch Darbietung einer glücklich gewählten letzten
+               Vorläufigkeit. Aber täuschen wir uns nicht: <hi rend="italic">wir</hi> sind nicht
+               katholisch und unsre Gemeinden auch nicht, wir befinden uns in einem
+               fortgeschrittenen Stadium der Situation, in dem uns die Verabreichung auch der
+               bestgewählten Narkotika trotz aller rückläufigen Erscheinungen nur noch teilweise,
+               nur noch kurzfristig gelingen kann. Glaubt es ihnen <hi rend="italic">nicht</hi>, den
+               Gutmütigen, die uns versichern, daß wir unsre Sache gut gemacht haben, auch dann,
+               wenn unsre ganze Kunst darin bestanden hat, dem Sinn der Situation auszuweichen! Hört
+                  <hi rend="italic">nicht</hi> auf sie, die Ängstlichen, die uns jammernd davor warnen,
+               die Situation doch ja nicht etwa ernst werden zu lassen, doch ja nicht von unserm
+               gewohnten Blind- zum Scharf<pb n="108" ed="kbga-sources-2330"/>schießen überzugehen! Es ist <hi rend="italic">nicht</hi>
+               die Stimme der Kirche Gottes, die aus ihnen <pb xml:id="p078" ed="pga"/> redet! Der
+               ernste Sinn der Situation bei <hi rend="italic">uns</hi> ist der, daß die Menschen das
+               Wort zu hören begehren, will sagen: die Antwort auf die Frage, <hi rend="italic">ob’s wahr
+                  ist</hi>, von der sie, ob sie es wissen oder nicht, bewegt sind. Die Situation am
+               Sonntag morgen ist im wörtlichsten Sinn <hi rend="italic">end-geschichtlich</hi>,
+               eschatologisch, auch von den Menschen aus betrachtet, von der Bibel vorläufig noch
+               ganz abgesehen; d. h. wenn diese Situation eintritt, dann ist die Geschichte, die
+               übrige Geschichte zu Ende, und ein <hi rend="italic">letztes</hi> Begehren des Menschen
+               nach einem <hi rend="italic">letzten</hi> Geschehen wird nun maßgebend. Verstehen wir
+               dieses letzte Begehren nicht, nehmen wir die Menschen <hi rend="italic">nicht</hi> ernst
+               in der Bedrängnis ihrer Existenz, die sie zu uns geführt hat (ich wiederhole es:
+               ernster, als sie sich selbst nehmen!), dann dürfen wir uns nicht wundern, wenn sie in
+               ihrer Mehrzahl, ohne zu Kirchenfeinden zu werden, allmählich lernen, die Kirche links
+               liegen-, uns mit jenen Gutmütigen und Ängstlichen allein zurückzulassen. Ist es etwa
+               nur psychologisch bedingt, wenn immer wieder gerade auch aufgewecktere Pfarrers- und
+               Theologensöhne zu diesem Heer der stillen Flüchtlinge stoßen, oder sollte es nicht
+               auch daher kommen, daß sie aus der Nähe wissen: was man eigentlich sucht, das wird
+               man bei uns schwerlich finden? Habe ich nicht wenigstens teilweise recht, wenn ich
+               sage: Die Menschen sind eben <hi rend="italic">enttäuscht</hi> von uns, und zwar die
+               Gebildeten und die Ungebildeten, und zwar in ihrem Tiefsten enttäuscht; allzu oft
+               sind sie, vielleicht schon seit Jahrhunderten, <hi rend="italic">abgespeist</hi> worden,
+               allzu oft ist, gerade in der wohlgemeinten Absicht, ihnen entgegenzukommen, an ihnen
+               vorbeigeredet worden? Wäre es, statt aus vermeintlicher Menschenliebe auf immer neue
+               Abspeisungen der Enttäuschten zu sinnen, nicht besser, einmal zu überlegen, ob sie
+               nicht darauf warten, in der Kirche ganz einfach <hi rend="italic">ernster</hi> genommen,
+               besser <hi rend="italic">verstanden</hi> zu werden in ihrer großen unstillbaren
+               Lebensunruhe, als es ihnen in der Regel (im Gegensatz zur methodistischen,
+               kommunistischen oder anthroposophischen Versammlung etwa) gerade hier widerfährt?
+               Wunderlich genug, wie sie immer noch dadurch, daß sie sich von uns wenigstens taufen,
+               konfirmieren, trauen und beerdigen lassen, zeigen, daß die Erwartung, die sie auf uns
+               setzen, nicht ganz erloschen ist. Wunderlich genug, daß es immer noch sog. kirchliche
+               Gemeinden und Gegenden gibt. Es wäre uns vielleicht besser, es gäbe sie nicht, damit
+               wir endlich merkten, was die Glocke geschlagen hat. Wir <pb n="109" ed="kbga-sources-2330"/> sollten uns aber durch
+               die Langmut Gottes, die uns Pfarrern vielfach noch in der Langmut, vielleicht auch
+                  <pb xml:id="p079" ed="pga"/> bloß in der Schläfrigkeit unsres Publikums
+               entgegentritt, nicht abhalten lassen von der Buße, die durchaus auch im Blick auf die
+               Menschen heute das erste Gebot der Stunde sein könnte.</p>
+          <p rend="margin-top">Aber das ist nur die eine Seite der Situation am Sonntag morgen, und die andre ist
+               noch belangreicher. Sie besteht äußerlich darin, daß da die <hi rend="italic">Bibel</hi>
+               aufgeschlagen wird, wenigstens in unsern protestantischen Kirchen. – Es lohnt sich
+               wohl, hier einen Augenblick stehen zu bleiben und uns klar zu machen, welch
+               unermeßlich Gefährliches damit geschehen ist, daß die Reformatoren es gewagt haben,
+               als Grund und Ziel der Kirche das in der Heiligen Schrift ausgesprochene Wort Gottes
+               zu proklamieren. Wer darüber noch nie <hi rend="italic">geseufzt</hi> hat, der hat <hi rend="italic">nicht</hi> das Recht, reformationsfroh darüber zu <hi rend="italic">jubilieren</hi>. Denn damit haben uns die Reformatoren auch von der andern Seite
+               den Riegel vorgeschoben, so daß wir mit gutem Gewissen mit vorläufigen Darbietungen
+               uns nicht mehr zufrieden geben können, wie sich unsre Gemeinden im Grunde auch nicht
+               damit zufrieden geben. Wie unvergleichlich viel gesicherter, kontinuierlicher und
+               zuversichtlicher geht die andre Kirche ihren Weg, die dieses gefährliche Prinzip des
+               Wortes wohlweislich unentdeckt gelassen hat! Und wir haben durchaus keinen Anlaß,
+               über diese bekannte katholische Sicherheit ohne weiteres die Nase zu rümpfen. Ich
+               denke an das, was mir einst ein Benediktiner aus dem <placeName ref="kbga-places-199">Elsaß</placeName> aus der Kriegszeit
+               erzählte: Er hat eines Abends als Singmeister seines Klosters eben mit seinen
+               Confratres das Magnifikat intoniert, da durchschlägt plötzlich eine französische
+               Granate das Dach und explodiert mitten im Schiff der Kirche. Aber der Qualm verzieht
+               sich, und das Magnifikat wird fortgesetzt. Man darf wohl fragen, ob die
+               protestantische Predigt auch fortgesetzt worden wäre? Haben wir nicht alle, wenn uns
+               unsre Aufgabe als <foreign xml:lang="lat">verbi divini ministri</foreign>, wie wir Reformierten sagen<note xml:id="n30">Vgl. oben <ref type="pub" target="../volume/19/p027#fn_n30">S. 27, Anm. 30</ref> und die historischen Belege für diese Bezeichnung in:
+            <bibl corresp="kbga-bibls-1710">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Die christliche Dogmatik im Entwurf</hi>, 1. Bd.: <hi rend="italic">Die Lehre vom Worte Gottes. Prolegomena zur christlichen
+                           Dogmatik. 1927</hi>, hrsg. von G. Sauter,
+                           Zürich 1982, <ref type="pub-" target="../volume/14/p038#p038">S. 38</ref>.</bibl></note>, wieder einmal bedrängte und bedrückte, etwa ein stilles Heimweh empfunden
+               nach den «schönen Gottesdiensten» [<ref type="can" subtype="bible" target="Ps.27.4">Ps. 27,4</ref>] des Katholizismus<note xml:id="n31">Vielleicht eine Anspielung
+                  auf die Publikationen des Marburger Religionsgeschichtlers <persName ref="kbga-actors-169">Fr. Heiler</persName> zum Katholizismus, z. B. <bibl corresp="kbga-bibls-1711">
+                                <title level="a">Katholischer und evangelischer
+                           Gottesdienst</title> (Aus der Welt christlicher Frömmigkeit, Bd. 1),
+                           München
+                        1921, S. 16</bibl>, wo er in der katholischen Messe «die
+                  schönen Künste mit der mystischen Herzensfrömmigkeit zu einem fruchtbaren Bande»
+                  vereint sieht: «Der Außenstehende, der zum erstenmal einen katholischen
+                  Gottesdienst besucht, hat den Eindruck eines wundersamen Bühnendramas. Alle Künste
+                  helfen zusammen, um das Mysterium der Gottesschau und Gotteinigung einzubetten in
+                  eine Welt der Schönheit.»</note> und der beneidenswer<pb xml:id="p080" ed="pga" break="no"/>ten Rolle des Priesters am Altar, der, das Sanktissimum hoch erhebend
+               vor allem Volk mit der ganzen Bedeutungsfülle und Kraft, die das dingliche Symbol
+               immer voraus hat vor dem <pb n="110" ed="kbga-sources-2330"/> Symbol des Menschenwortes als solchem, die doppelte
+               Gnade des Opfertodes und der Inkarnation des Gottessohnes nicht nur verkündigt in
+               Worten, sondern sich vollziehen läßt unter seinen Händen, ein «<foreign xml:lang="lat">creator
+                  creatoris</foreign>»<note xml:id="n32">Anspielung auf einen (allerdings von ihm als «absurd»
+                  verworfenen) Begriff der Abendmahlslehre von <persName ref="kbga-actors-4125">Paschasius Radbertus</persName> (ca. 790–856/59); vgl. <bibl corresp="kbga-bibls-1712">
+                                <persName ref="kbga-actors-1119">Fr. Loofs</persName>, <hi rend="italic">Leitfaden zum Studium der Dogmengeschichte</hi>,
+                           Halle 1906<edition rend="sup">4</edition>, S. 473.</bibl></note>? «<foreign xml:lang="fre">Le prêtre un autre Jésus Christ</foreign>!», wie ich einmal bei einer Primiz-Feier
+               wörtlich habe verkünden hören. Wenn wir das auch könnten! Ja, auch dort wird nebenbei
+               die Bibel ausgelegt. Aber wie belanglos, wie wenig sorgenerregend ist die Aufgabe der
+               Predigt, wie ist dort auch das dürftigste Predigtlein zum vornherein gedeckt und
+               gerettet durch den Abglanz des eucharistischen Wunders, in dem es geschieht. Um
+               dieses Wunders willen kommen ja doch die Menschen tatsächlich allein zur Kirche. Wie
+               anschaulich, einleuchtend, geordnet und möglich ist der Weg von Gott zum Menschen,
+               vom Menschen zu Gott, den der katholische Pfarrer von diesem Zentrum aus täglich zu
+               gehen und den andern zu weisen hat. Wie glänzend ist dort das Problem gelöst, die
+               Menschen bei tiefstem Verständnis für das, was sie in der Kirche suchen, mit einer
+               letzten enormen Vorläufigkeit hinzuhalten, bei scheinbar größter Erschütterung das
+               Gleichgewicht der Seelen und der Welt tatsächlich nicht zu erschüttern und dabei doch
+               den Anschein zu erwecken, als ob nun das letzte erlösende Wort gesprochen sei. Wer
+               von uns hätte die Stirne, den kerygmatischen Gehalt und Erfolg des katholischen
+               Altarsakraments unter Hinweis auf etwas Besseres, das <hi rend="italic">wir</hi> etwa
+               hätten, in Abrede stellen zu wollen? Wir sind uns doch klar darüber, daß das Bessere,
+               das die Reformation genau an die Stelle der abgeschafften Messe gestellt wissen
+               wollte – unsre Wortverkündigung sein müßte. Denn <foreign xml:lang="lat">verbum vi<pb xml:id="p081" ed="pga" break="no"/>sibile</foreign><note xml:id="n33">Die Bezeichnung des Sakraments als «<foreign xml:lang="lat">verbum
+                  visibile</foreign>» geht auf <persName ref="kbga-actors-14">Augustin</persName> zurück, vgl. z. B. <bibl corresp="kbga-bibls-1713">
+                                <title level="a">C. Faustum
+                           Man</title>. 19,16: «<foreign xml:lang="lat">Quid enim sunt corporalia sacramenta nisi quaedam
+                        verba visibilia</foreign>?» (CSEL 25,513</bibl>).</note>, gegenständlich verdeutlichte Wortverkündigung ist auch
+               das, was bei uns als Sakrament übrig geblieben ist. Alles hat uns die Reformation
+               genommen und grausam allein die Bibel uns gelassen. Wollen wir das Rad nicht
+               rückwärts drehen, um eine Viertels- oder Achtelsdrehung wenigstens? Ist es nur
+               gewachsene Feinfühligkeit und Duldsamkeit oder nicht auch geschwundene Exusia, wenn
+               wir es heute unterlassen, die päpstliche Messe mit der tapfern Frage 80 des
+               Heidelberger Katechismus eine «Verleugnung des einigen Opfers und Leidens Jesu
+               Christi und eine vermaledeite Abgötterei»<note xml:id="n34">
+                            <bibl corresp="kbga-bibls-17">
+                                BSRK 704,30–32</bibl>: «Unnd ist also die Meß im grund nichts anderst, denn ein
+                  verleugnung des einigen opffers und leidens Jesu Christi, und ein vermaledeyte
+                  Abgötterey.»</note> zu nennen? Allzu deutlich verraten ja die bekannten
+               Bestrebungen, die schmale, furchtbar schmale Basis der protestantisch-christlichen
+               Verkündigung zu <hi rend="italic">verbreitern</hi>, das Heimweh, dem sich viele von uns in
+               nur zu verständlicher Weichmütigkeit überlassen haben. Könnte man, um nur eines zu
+               erwähnen, offener <pb n="111" ed="kbga-sources-2330"/> beweisen, wohin die Reise geht, als durch den doch geradezu
+               humoristischen Vorschlag, die in der Kirche des <hi rend="italic">Wortes</hi> schmerzlich
+               empfundene Lücke auszufüllen durch das sog. «Sakrament des – <hi rend="italic">Schweigens</hi>»<note xml:id="n35">Experimente mit einem solchen «Sakrament»
+                  fanden u.a. im Kreis der «<orgName ref="kbga-actors-4183">Freunde der Christlichen Welt</orgName>» Eingang, so etwa auf
+                  ihrer Jahrestagung <date from="1920-09-29" to="1920-10-01">29.9.-1.10.1920</date> in <placeName ref="kbga-places-195">Eisenach</placeName>; vgl. den
+                  Tagungsbericht von <bibl corresp="kbga-bibls-1714">
+                                <persName ref="kbga-actors-4131">G. Rade</persName>, <title level="a">Eisenach</title>, in: CW, Jg. 34
+                           (1920), Sp. 670</bibl>: «Der dritte Tag begann mit
+                  einer Freundesandacht in der Kreuzkirche. Edle Musik, ausgewählte Dichterworte und
+                  eine Ansprache von <hi rend="italic">
+                                <persName ref="kbga-actors-559">Fuchs</persName></hi> sollten hinleiten zum ‹Sakrament des Schweigens› und der
+                  durch allgemeines Händereichen veranschaulichten inneren Gemeinschaft. Aber so
+                  innig war die Gemeinschaft, so einheitlich war die Stimmung nicht. Solche
+                  Höhepunkte gemeinsamen Gottesdienstes können nicht erzwungen werden, die Frucht
+                  muß erst reifen, ehe man sie brechen darf.» Zum Hintergrund vgl. auch oben <ref type="pub" target="../volume/19/p031#fn_n41">S. 31
+                  mit Anm. 41</ref> und ferner <bibl corresp="kbga-bibls-1649">
+                                <persName ref="kbga-actors-311">R. Otto</persName>, <title level="a">Schweigender
+                  Dienst</title>, in: CW, Jg. 34
+                  (1920), Nr. 36, Sp. 561–565</bibl>: «Das kultische Schweigen überhaupt
+                  kann dreifacher Art sein: das numinos-sakramentale Schweigen, das wartende
+                  Schweigen und das einende Schweigen. Das <hi rend="italic">numinos-sakramentale
+                     Schweigen</hi> ist bedeutet in dem Psalmworte: ‹Es sei stille vor ihm alle
+                  Welt›. Solch großen Akte des Schweigens … sind die sakramentalen Höhepunkte der
+                  Kulthandlung, sie bezeichnen den Augenblick, wo das <foreign xml:lang="lat">numen praesens</foreign> erlebt wird …
+                  Alles im Kultus Vorhergehende ist nur eine Vorbereitung … auf den Augenblick, von
+                  dem das Wort gilt: ‹Das Unzulängliche: hier wirds Ereignis›… Solch ein
+                  ‹Ereigniswerden› des Unzulänglichen ist Sakrament. Und was es herbeiführt,
+                  begleitet oder vorbereitet, das ist sakramental. Darum ist solch ein Schweigen ein
+                  sakramentales Schweigen» (Sp. 562).</note>? Ist <pb xml:id="p082" ed="pga"/> der
+               tiefe Eindruck, den das schwüle Buch von <persName ref="kbga-actors-169">Heiler</persName> über das Gebet<note xml:id="n36"><bibl corresp="kbga-bibls-1715"><persName ref="kbga-actors-169">Fr. Heiler</persName>, <hi rend="italic">Das Gebet. Eine religionsgeschichtliche und religionspsychologische Untersuchung</hi>, München 1919.1920<edition rend="sup">2</edition> u.ö</bibl>. – Über <persName ref="kbga-actors-2151">Barths</persName> Lektüre dieses Buches im <date from="1920-05" to="1920-06">Mai/Juni 1920</date> vgl. <bibl corresp="kbga-bibls-931">Bw. Th. I,  <ref type="pub" target="../volume/03/p368#p368">S. 368</ref>.<ref type="pub" target="../volume/03/p386#p386">386f</ref>.<ref type="pub" target="3337">395</ref>.</bibl></note> unter uns erzielt hat, nicht denkwürdiger als das Buch selbst? Was soll man
+               davon halten, wenn man ernste Männer unter Zurückgehen noch <hi rend="italic">hinter</hi>
+               den Katholizismus sogar die Einführung des kirchlichen Tanzes ernsthaft in Erwägung
+               ziehen hört?<note xml:id="n37">Der Tanz hatte herausragende Bedeutung in der
+                  «Freistätte des persönlichen Lebens», die <persName ref="kbga-actors-8648">Johannes
+                     Müller</persName> (1864–1949) zunächst auf <placeName ref="kbga-places-307">Schloß Mainberg</placeName>, ab
+                     <date when="1916">1916</date> auf dem von ihm errichteten <placeName ref="kbga-places-306">Schloß Elmau</placeName> gründete. <persName ref="kbga-actors-286">Müller</persName> hielt vor seinen Gästen regelmäßig
+                  Vorträge über das Wesen des Tanzes und bot wöchentliche, auf besondere Weise
+                  gestaltete Tanzabende an. Das Wesen des Tanzes bezeichnete <persName ref="kbga-actors-286">Müller</persName> als «die Ausschaltung des Ichs mit den
+                  heilenden, erlösenden Folgen davon, die Rückkehr in das Ursprüngliche seines
+                  Wesens und die Unmittelbarkeit des persönlichen Lebens, woraus eine gesteigerte
+                  Empfänglichkeit für schöpferische Einfälle und Eindrücke entsteht und die
+                  angeborene Genialität des Lebens wieder erwacht» (<bibl corresp="kbga-bibls-1716"><persName ref="kbga-actors-286">J. Müller</persName>, <hi rend="italic">Vom Geheimnis
+                           des Lebens. Erinnerungen</hi>, Bd. II: <title level="a">Schicksal und
+                           Werk</title>, Stuttgart/Berlin 1938, S. 76</bibl>; vgl. zum Tanz in <placeName ref="kbga-places-258">Mainberg</placeName> und <placeName ref="kbga-places-198">Elmau</placeName> S. 73–83.89f.).
+                     <persName ref="kbga-actors-286">Müller</persName> spricht zwar nicht von einer
+                  regelrechten «Einführung des kirchlichen Tanzes», erklärt jedoch, «daß da, wenn
+                  irgendwo, der <foreign xml:lang="lat">Creator spiritus</foreign> uns in sein Reich und Werk einbezieht und unbewußt
+                  beeinflußt, heilt, erlöst und zur Ursprünglichkeit unserer geschöpflichen Existenz
+                  zurückführt» (<bibl corresp="kbga-bibls-1716">a. a. O., S. 77</bibl>).
+                  Von den Tanzabenden sagt er: «Kein Wunder, daß manchmal ein Brausen, Klingen und
+                  Singen durch die Herzen ging. Niemand dachte dabei an den ‹Heiligen Geist›. Der
+                  war ja für sie alle eine feierliche Angelegenheit aus den Gottesdiensten in
+                  dunklen Räumen, wo man Vergebung der Sünde und Schutz vor den Dämonen in der
+                  eigenen Brust sucht … Sie [scil. die Tanzabende] wurden geradezu Pfingstereignisse,
+                  nicht bloß für die Tanzenden, sondern auch für die Zuschauenden, die sie
+                  miterlebten» (S. 73). Vgl. auch <bibl corresp="kbga-bibls-1717">
+                                <persName ref="kbga-actors-286">J. Müller</persName>, <hi rend="italic">Die Erlösung
+                           des Leibes</hi> (Flugschriften Heft 9), <placeName ref="kbga-places-198">Elmau</placeName> o. J., S. 31–36</bibl>; <bibl corresp="kbga-bibls-1718"><persName ref="kbga-actors-4117">B. Müller</persName>-<placeName ref="kbga-places-198">Elmau</placeName>, <hi rend="italic">Das Wesen der Elmau</hi>,
+                        Elmau o. J., S. 61–64.</bibl> – Über <placeName ref="kbga-places-198">Elmau</placeName> und die dortigen Tanzabende
+                  hatte <persName ref="kbga-actors-2151">Barth</persName> vielleicht durch den gelegentlich dort weilenden <persName ref="kbga-actors-275">Georg Merz</persName> gehört (vgl. auch <bibl corresp="kbga-bibls-1663">
+                                <persName ref="kbga-actors-275">G. Merz</persName>, <hi rend="italic">Wege und Wandlungen. Erinnerungen aus der Zeit von 1892–1922</hi>,
+                        nach seinem Tode bearbeitet von J. Merz, München 1961, S. 166–171</bibl>).</note> O die Verlegenheit, aus der das alles stammt,
+               ist nur zu begreiflich. Es ist eine harte Sache, daß die Reformation uns hier einen
+               Riegel vorgeschoben hat, den wir nicht so leicht zurückschieben werden, daß unsre
+               Situation nach einer Vergangenheit von 400 Jahren auch nach dieser Richtung gegeben
+               ist und durch die verschiedenen Weihrauchdämpfe, die man heute wieder aufsteigen
+               lassen <pb xml:id="p083" ed="pga"/> möchte<note xml:id="n38">Im Rahmen der
+                  zeitgenössischen liturgischen Bewegung, auf die <persName ref="kbga-actors-2151">Barth</persName> hier allgemein anspielt,
+                  wurde gelegentlich auch die Wiedereinführung von Weihrauch im evangelischen
+                  Gottesdienst verlangt. Vgl. z. B. <bibl corresp="kbga-bibls-1719">
+                                <persName ref="kbga-actors-4108">O. Mehl</persName>, <title level="a">Weihrauch</title>, in: Die Hochkirche.
+                        Monatsschrift der Hochkirchlichen Vereinigung e.V., [Jg. 3]
+                           1921, S. 308f.</bibl>; <bibl corresp="kbga-bibls-1650">
+                                <persName ref="kbga-actors-311">R. Otto</persName>,
+                           <title level="a">Schweigender Dienst in der Christvesper</title>, in:
+                           CW, Jg. 35 (1921), Sp. 62.</bibl></note>, wohl verdunkelt, aber nicht mehr grundsätzlich verändert werden kann, daß
+               die Grenzen, die vom Lande Jahves in das Land <persName ref="kbga-actors-2149">Baals</persName> hinüberführen, uns wenn auch, wie
+               figura zeigt, nicht hermetisch, so doch immerhin wirksam verschlossen sind, daß die
+               Verkündigung des biblischen Gotteswortes uns nun einmal mit dem ganzen Schwergewicht
+               einer geschichtlichen Realität zugewiesen ist und nicht mehr ganz wird abgeschüttelt
+               werden können. Es ist eine harte Sache, statt in dem heiteren Schein des
+               Mittelalters, wie er etwa vom Schluß von <persName ref="kbga-actors-136">Goethes</persName> Faust, zweiter Teil, ausgeht, in dem düstern Schatten der
+               Reformation stehen zu müssen, und wäre es auch nur als das Epigonengeschlecht, das
+               wir sind. Ja gerade so hart wie die andre Sache, von der wir vorhin sprachen: daß
+               unsre Zuhörer und Nichtmehr-Zuhörer durchaus mit der Erwartung des Wortes, der
+               Antwort auf die Frage: <hi rend="italic">Ob’s wahr ist?</hi> uns und unsrer Kirche
+               gegenüberstehen. Skylla und Charybdis, die sich gegenseitig anschauen und zwischen
+               denen wir uns zurechtzufinden haben!</p>
+          <p rend="margin-top">Aber wir müssen uns mit <hi rend="italic">der</hi> Seite <hi rend="italic">der</hi> Situation,
+               die durch das auf Kanzel und Altar aufgeschlagene Bibelbuch bezeichnet ist, noch
+               etwas näher befassen. Was macht es uns denn so schwer, auf dem Boden des
+               reformatorischen Schriftprinzips zu verharren? Nun nur keine Kleinlichkeiten zur
+               Antwort! Nicht das Alter, die Ferne und Fremdheit der Bibel (etwa die Fremdheit ihrer
+               «Weltanschau<pb n="112" ed="kbga-sources-2330" break="no"/>ung») machen es uns so schwer. Auch nicht die verlockende Konkurrenz,
+               die der Bibel durch <persName ref="kbga-actors-136">Goethe</persName> und <persName ref="kbga-actors-764">Schiller</persName>, durch <persName ref="kbga-actors-68">Buddha</persName> und <persName ref="kbga-actors-301">Nietzsche</persName>
+               bereitet sind. In der Regel auch nicht das allzu reichliche Fließen der eigenen
+               Inspiration, die sich durch die biblischen Gedankenbahnen etwa beengt fühlen würde.
+               Nein, die Bibel ist uns unheimlich, weil sie eine neue große (<hi rend="italic">größere!</hi>) spannungsvolle <hi rend="italic">Erwartung</hi> in die kirchliche
+               Situation hineinträgt von der <hi rend="italic">andern</hi> Seite. <hi rend="italic">Bringt</hi> die Gemeinde primär in die Kirche die große <hi rend="italic">Frage</hi>
+               des Menschenlebens und <hi rend="italic">sucht</hi> darauf <hi rend="italic">Antwort</hi>, so
+                  <hi rend="italic">bringt</hi> die Bibel umgekehrt primär eine <hi rend="italic">Antwort,</hi> und was sie dazu <hi rend="italic">sucht</hi>, das ist die <pb xml:id="p084" ed="pga"/>
+               <hi rend="italic">Frage</hi> nach dieser Antwort, fragende <hi rend="italic">Menschen</hi>, die
+               diese Antwort als solche, eben als Antwort auf die entsprechende Frage verstehen,
+               suchen und finden wollen. Auch die Linie, auf der sich die Gedankenwelt der Bibel
+               bewegt, läuft offenbar dort durch, wo eine ganze Reihe großer und wertvoller
+               Möglichkeiten in Frage gestellt sind durch das Übergewicht der negativen Faktoren in
+               der Lebensrechnung, also eben dort, wo wir auf des Menschen Seite die Frage: ob’s
+               denn wahr ist? entstehen sehen. Die Bibel überspringt mit unheimlicher Einseitigkeit
+               alle die Stufen des Menschenlebens, wo diese Krisis etwa noch nicht akut ist, wo der
+               Mensch etwa noch in ungebrochener Naivität bei Kirschbaum, Symphonie, Staat, Tagewerk
+               sich der Gegenwart Gottes trösten kann. Sie interessiert sich mit unheimlicher
+               Dringlichkeit erst für <hi rend="italic">die</hi> Stufe – ist es die höchste oder die
+               tiefste? –, wo der Zweifel über ihn gekommen ist. Auch Lob und Dank und Jubel und
+               Gewißheit finden in der Bibel nicht diesseits, sondern jenseits der Linie statt, wo
+               der Mensch ein Suchender, Bittender, Anklopfender [vgl. <ref type="can" subtype="bible" target="Mt.7.7">Mt. 7,7</ref>] geworden ist, wo eben jene
+               hilfesuchende letzte Verlegenheit über ihn gekommen ist, die ihn, sagen wir einmal:
+               in die Kirche führt. Achten Sie darauf – um nur ein zentrales Beispiel zu nennen –,
+               wo die Linie der Bibel die menschliche Lebenslinie in den <hi rend="italic">Psalmen</hi>
+               schneidet, da haben wir die Antwort doch ganz unzweideutig: in Schuldbewußtsein,
+               Krankheit, Bedrängnis durch den persönlichen und durch den Volksfeind, in Ferne von
+               Gott und göttlichen Dingen, in Zweifel und Verzweiflung, in Vergänglichkeit und
+               Sterben. So stellt sich die Bibel zunächst ganz einfach neben den zum Bewußtsein
+               seiner Lage erwachten Menschen und fragt mit ihm – denken Sie an den <ref type="can" subtype="bible" target="Ps.42">42. Psalm</ref>,
+               denken Sie an <persName ref="kbga-actors-2193">Hiob</persName> –, <hi rend="italic">ob’s
+                  denn wahr ist</hi>, wahr, daß es in dem Allem einen Sinn, ein Ziel und einen Gott
+               <pb n="113" ed="kbga-sources-2330"/> gibt, nachdem diese Gewißheit sonst überall schwankend geworden ist.</p>
+          <p>Aber in zwei Punkten <hi rend="italic">unterscheidet</hi> sich nun die Bibel von dem
+               Bewußtsein jenes erwachenden Menschen. Erstens darin, daß sie seiner Frage erst ihre
+               wirkliche Schärfe und Bedeutung gibt: und das in einer Weise, die doch wohl auch den
+               Erschrockensten, Gedemütigtsten, Verzweifelndsten noch einmal an den Rand eines
+               Abgrunds führt, von dem er nichts ahnte; in einer Weise, daß Freud und Leid, Gutes
+               und Böses, Licht und Finsternis, Ja und Nein, wie wir sie als die Widersprüche unsres
+               Daseins kennen, auf einmal ganz nahe aneinanderrücken und sogar unsre heißeste,
+               brennendste Frage, die uns schließlich flehende Hände <pb xml:id="p085" ed="pga"/> zu
+               Gott erheben läßt, erblassen und verstummen muß, in einer Weise, daß wir merken
+               müssen: all unser Fragen war erst Vorbereitung und Übung, und nun erst fragt es sich,
+               ob wir im <hi rend="italic">Ernst</hi> fragen, ob wir nach <hi rend="italic">Gott</hi> fragen
+               wollen. Wenn der Dulder <persName ref="kbga-actors-2193">Hiob</persName> sein Leid
+               klagt, dann meint er offenbar ein Leid, das, menschlich gesprochen, kein Ende hat.
+               Wenn <persName ref="kbga-actors-313">Paulus</persName> von der Sünde redet, dann
+               meint er damit nicht die Puppensünden<note xml:id="n39">Vgl. <bibl corresp="kbga-bibls-1720">
+            <persName ref="kbga-actors-261">M. Luther</persName>, WA. TR 6,106,33–107,3 (Nr. 6669)</bibl>: «Da ich ein Mönch war, schreib ich Doctor <persName ref="kbga-actors-2509">Staupitzen</persName> oft, und ein Mal schreib
+                  ich ihm: O meine Sünde, Sünde, Sünde! Darauf gab er mir diese Antwort: ‹Du willt
+                  ohne Sünde sein, und hast doch keine rechte Sünde; Christus ist die Vergebung
+                  rechtschaffner Sünde, als die Aeltern ermorden, offentlich lästern, Gott
+                  verachten, die Ehe brechen etc., das sind die rechten Sünde. Du mußt ein Register
+                  haben, darinne rechtschaffene Sünde stehen, soll Christus dir helfen; mußt nicht
+                  mit solchem Humpelwerk und Puppensünden umgehen und aus einem jglichen Bombart
+                  eine Sünde machen!›»</note>, mit denen wir uns plagen, sondern die Sünde Adams, in
+               der wir erzeugt und mit der wir geboren sind, die Sünde, die wir, solange die Zeit
+               währt, nicht ablegen werden. Wenn die Johannesschriften zu sagen wissen von der
+               Finsternis dieser Welt<note xml:id="n40">Vgl. <ref type="can" subtype="bible" target="Joh.1.5">Joh. 1,5</ref>; 
+                  <ref type="can" subtype="bible" target="Joh.3.19">3,19</ref>; 
+                  <ref type="can" subtype="bible" target="Joh.8.12">8,12</ref> u. ö.; 
+                  <ref type="can" subtype="bible" target="1.Joh.1.5">1.Joh. 1,5</ref>; 
+                  <ref type="can" subtype="bible" target="1.Joh.2.8 Joh.2.9">2,8f.</ref></note>, dann ist das nicht bloß eine von jenen Dunkelheiten, in denen und neben
+               denen es doch noch allerlei freundliche Lichtlein gibt für jeden, der nicht als ganz
+               rabiater Pessimist sich gebärden will, sondern von <hi rend="italic">der</hi> Finsternis
+               ist da die Rede, angesichts derer die Frage, ob einer mehr Optimist oder Pessimist
+               sein will, ganz gegenstandslos wird. Und wenn Jesus Christus am Kreuze stirbt, dann
+               fragt er nicht bloß: ob’s denn auch wahr ist?, sondern: «mein Gott, mein Gott, warum
+               hast du mich verlassen?» [<ref type="can" subtype="bible" target="Mt.27.46">Mt. 27,46</ref>]. Man hat gemeint, Jesus entschuldigen zu müssen mit der schwer zu
+               begründenden Ausrede, das sei doch noch nicht der Ausdruck wirklicher
+                  Verzweiflung<note xml:id="n41">Vgl. z. B. 
+                <bibl corresp="kbga-bibls-1724">
+                                <persName ref="kbga-actors-14">A. Augustinus</persName>, <title level="a">Enarratio in
+                        psalmum XXI</title>, MPL 36, 172</bibl>;
+                  auslegungsgeschichtliche Übersichten bei <bibl corresp="kbga-bibls-1725">
+                                <persName ref="kbga-actors-4188">E. Vogelsang</persName>, <hi rend="italic">Der
+                           angefochtene Christus bei Luther</hi>,
+                           Berlin/Leipzig 1932, S. 23</bibl>;
+                     <bibl corresp="kbga-bibls-1726">
+                                <persName ref="kbga-actors-54">G. Bornkamm</persName>,
+                        <title level="a">[Meditation über] Mk.
+                           15,20–39</title>, in: <hi rend="italic">Göttinger Predigtmeditationen. Die
+                           altkirchlichen Evangelien,</hi> Jg. 4 (1949/50),
+                           Göttingen
+                        1966<edition rend="sup">2</edition>, S. 121f.</bibl></note>, und hat ganz übersehen: das ist nicht weniger, sondern <hi rend="italic">mehr</hi> als Zweifel und Verzweiflung, das ist <foreign xml:lang="lat">derelictio</foreign>, Verloren- und
+               Verlassenheit, wie unsre alten Dogmatiker noch gewußt haben<note xml:id="n42">Vgl.
+               die Belege z. B. bei <bibl corresp="kbga-bibls-1727">[<persName ref="kbga-actors-162">K. A. von
+               Hase</persName>,] <hi rend="italic">Hutterus redivivus, oder Dogmatik der
+evangelisch-lutherischen Kirche. Ein dogmatisches Repertorium für Studirende</hi>,
+                           Leipzig
+                        1862<edition rend="sup">10</edition>, S. 273</bibl>; <bibl corresp="kbga-bibls-1728">
+                                <persName ref="kbga-actors-1122">Chr. E. Luthardt</persName>, <hi rend="italic">Kompendium der
+                           Dogmatik,</hi>
+                                Leipzig 1889<edition rend="sup">8</edition>, S. 207.</bibl></note>. Leiden heißt in der Bibel: an <pb xml:id="p086" ed="pga"/>
+               <hi rend="italic">Gott</hi> leiden. Sündigen: an <hi rend="italic">Gott</hi> sündigen.
+               Zweifeln: an <hi rend="italic">Gott</hi> zweifeln. Vergehen: an <hi rend="italic">Gott</hi>
+               vergehen. Anders ausgedrückt: Aus der schmerzlichen Einsicht in die Grenzen der
+               Menschheit<note xml:id="n43">Vgl. <bibl corresp="kbga-bibls-1392"><persName ref="kbga-actors-136">J. W. von Goethes</persName> Gedicht «Grenzen der
+                  Menschheit»</bibl>.</note>, die der Mensch im Zusammenhang mit seinen auf- und
+               absteigenden Lebenserfahrungen mehr oder weniger deutlich gewinnen kann, <pb n="114" ed="kbga-sources-2330"/> wird in
+               der Bibel die Botschaft vom <hi rend="italic">Kreuz</hi> als der Ordnung des heiligen
+               Gottes, unter die der Mensch jetzt und hier ein- für allemal gestellt ist. Das Kreuz
+               ist die Forderung Gottes, daß wir nach ihm, nach Gott fragen und lebenslänglich, auch
+               wenn alle andern Fragen lösbar wären, <hi rend="italic">dieser</hi> Frage uns nicht mehr
+               entwinden und entziehen sollen. Deutlich und immer deutlicher ringt sich in der
+               ganzen Bibel Alten und Neuen Testamentes diese Botschaft ans Licht und wird
+               unzweideutig und unmißverständlich in Jesus Christus. Sie sucht Menschen, die nach
+               Gott fragen können und wollen, die in der Lage sind, ihre <hi rend="italic">kleinen</hi>
+               Fragen – und welche werden da <hi rend="italic">nicht</hi> klein? – aufgehen zu lassen in
+               der <hi rend="italic">großen</hi> Frage, sich unter das Kreuz und d. h. sich vor Gott zu
+               stellen. «Kommet her zu mir alle, die ihr mühselig und beladen seid!» Wozu? «Nehmet
+               auf euch <hi rend="italic">mein</hi> Joch!» [<ref type="can" subtype="bible" target="Mt.11.28 Mt.11.29">Mt. 11,28f.</ref>]. Das versteht sich nicht von selbst, auch
+               nicht bei den erwachtesten, suchendsten Menschen, daß sie <hi rend="italic">so</hi> sehr
+               Mühselige und Beladene sind, daß sie <hi rend="italic">sein</hi> Joch, <hi rend="italic">Christi</hi> Joch auf sich nehmen. Das haben wir nie begriffen, und wenn wir es
+               schon tausendmal begriffen hätten.</p>
+          <p>Der zweite entscheidende Punkt ist der, daß die menschlichen Lebensfragen auch in
+               ihrer höchsten Form bloß Fragen sind, denen die gesuchte Antwort als ein Zweites,
+               Anderes, das erst dazukommen muß, gegenübersteht. So dagegen, wie die <hi rend="italic">Bibel</hi> die menschliche Lebensfrage faßt, übersetzt in die Frage nach <hi rend="italic">Gott</hi>, unter die wir gestellt sind, kann man von «Frage» gar nicht
+               reden und hören, ohne schon von <hi rend="italic">Antwort</hi> zu hören. Wer sagen kann,
+               da, wo die Bibel uns hinführe, sei schließlich nur ein großes Nein zu hören, ein
+               großes Loch zu sehen, der beweist damit nur, daß er dahin noch nicht geführt worden
+               ist. <hi rend="italic">Dieses</hi> Nein ist eben Ja. <hi rend="italic">Dieses</hi> Gericht ist
+               Gnade. <hi rend="italic">Diese</hi> Verurteilung ist Vergebung. <hi rend="italic">Dieser</hi>
+               Tod ist Leben. <hi rend="italic">Diese</hi> Hölle ist Himmel. <hi rend="italic">Dieser</hi>
+               furchtbare Gott ist der liebende Vater, der den verlorenen Sohn in seine Arme zieht
+                  <pb xml:id="p087" ed="pga"/> [vgl. <ref type="can" subtype="bible" target="Lk.15.20">Lk. 15,20</ref>]. Der Gekreuzigte ist der Auferstandene. Und
+               das Wort vom Kreuz [<ref type="can" subtype="bible" target="1.Kor.1.18">1.Kor. 1,18</ref>] 
+               als solches ist das Wort vom ewigen Leben. Kein Zweites, Anderes braucht
+               zur Frage hinzuzutreten. Die Frage ist die Antwort. Die Wahrheit und Wirklichkeit,
+               die Begründetheit dieser Umkehrung, die der Sinn der ganzen Bibel ist? Ich weiß keine
+               andere als die Realität des lebendigen Gottes, dessen, der <hi rend="italic">ist,</hi> der
+               er ist [<ref type="can" subtype="bible" target="Ex.3.14">Ex. 3,14</ref>], des sich
+               selbst Begründenden. Die Bibel verzichtet auf alle Begründetheiten Gottes. Sie
+               bezeugt Offenbarung. Wir sahen seine Herrlichkeit [<ref type="can" subtype="bible" target="Joh.1.14">Joh. 1,14</ref>], 
+               und <hi rend="italic">so</hi> sahen wir sie: als
+               die Antwort in der <hi rend="italic">Frage</hi>. Wie kann man die Antwort <pb n="115" ed="kbga-sources-2330"/> anders
+               vernehmen, erkennen, wissen als eben so? Aber die <hi rend="italic">Antwort</hi> ist das
+                  <hi rend="italic">Primäre</hi>. Es wäre keine Frage, wenn nicht die Antwort wäre. Nur
+               damit sie dem Menschen wirklich <hi rend="italic">Antwort sein</hi> kann, muß sie ihm als
+               Frage begegnen. Gott ist die Fülle des Ja; nur damit wir ihn als <hi rend="italic">Gott
+                  verstehen,</hi> müssen wir hindurch durch sein Nein. Die enge Pforte [vgl. <ref type="can" subtype="bible" target="Mt.7.14">Mt. 7,14</ref>; 
+                  <ref type="can" subtype="bible" target="Lk.13.24">Lk. 13,24</ref>] führt zum Leben; nur weil sie
+                  <hi rend="italic">diese Pforte</hi> ist, muß sie so eng sein. «Ich will euch
+               erquicken!» [<ref type="can" subtype="bible" target="Mt.11.28">Mt. 11,28</ref>]. Und
+               «mein Joch ist sanft und meine Last ist leicht» [<ref type="can" subtype="bible" target="Mt.11.30">Mt. 11,30</ref>]. Nur damit dies an uns <hi rend="italic">wahr
+                  werde</hi>, müssen wir das Joch und die Last auf uns nehmen. «So ihr mich von
+               ganzem Herzen <hi rend="italic">suchet</hi>, will ich mich von euch <hi rend="italic">finden
+                  lassen</hi>!, spricht der Herr» [<ref type="can" subtype="bible" target="Jer.29.13 Jer.29.14">Jer. 29,13f</ref>]. Nur der <hi rend="italic">Herr</hi> kann so
+               sprechen, kann Suchen und Finden, Frage und Antwort in eins setzen. Die Bibel aber
+               bezeugt, <hi rend="italic">daß</hi> er so spricht.</p>
+          <p>Das ist’s also, was die <hi rend="italic">andre</hi> Seite der kirchlichen Situation
+               ausmacht. Sagte ich’s recht? Es ist die <hi rend="italic">noch</hi> größere Erwartung, die
+               durch die <hi rend="italic">Bibel</hi> in diese Situation hineingetragen wird. Dies ist
+               die Erwartung: Wo sind die Menschen, die in der Frage der Bibel ihre eigene Frage
+               wiedererkennen und dann <hi rend="italic">in</hi> dieser Frage Gottes Antwort: endgültig,
+               erlösend, neuschaffend, belebend, beseligend, Zeit und alles, was in der Zeit ist, in
+               das Licht der Ewigkeit rückend, Hoffnung und Gehorsam erzeugend? Wo sind die
+               Menschen, die Augen haben zu sehen, was kein Auge gesehen, Ohren zu hören, was kein
+               Ohr gehört, Herzen zu fassen, was in keines Menschen Herz gekommen ist [vgl. <ref type="can" subtype="bible" target="1.Kor.2.9">1.Kor. 2,9</ref>]? Die Menschen,
+               die den Heiligen Geist empfangen wollen und können als Unterpfand dessen, was immer
+                  <hi rend="italic">noch nicht</hi> erschienen, auch den Kindern Gottes, <hi rend="italic">gerade</hi> den Kindern Gottes <hi rend="italic">noch nicht</hi> erschienen ist [vgl.
+                  <ref type="can" subtype="bible" target="1.Joh.3.2">1.Joh. 3,2</ref>]? Die
+               Menschen, die glauben wollen und können <hi rend="italic">in</hi> ihrer Not auf <hi rend="italic">Verheißung</hi>? <hi rend="italic">Gott</hi> erwartet, <hi rend="italic">Gott</hi>
+               sucht solche Menschen. Nicht <hi rend="italic">unser</hi> Leben, <hi rend="italic">unsre</hi>
+               <pb xml:id="p088" ed="pga"/> Angelegenheiten, Bedürfnisse und Wünsche sind’s, die in
+               der Bibel in Frage stehen, sondern so steht’s, daß der <hi rend="italic">Herr</hi>
+               Arbeiter sucht in <hi rend="italic">seinen</hi> Weinberg [vgl. <ref type="can" subtype="bible" target="Mt.20.1">Mt. 20,1</ref>]. Klein und unbedeutend
+               wahrhaftig ist die Erwartung, die von der <hi rend="italic">Gemeinde</hi> in die
+               kirchliche Situation hineingetragen wird, und wenn wir sie noch so tief verstehen,
+               neben <hi rend="italic">der</hi> Erwartung, die ebenso stumm wie jene, aber noch ganz
+               anders real von der Seite der aufgeschlagenen <hi rend="italic">Bibel</hi> aus besteht.
+               Oder vielmehr: Ist das Erwachen der Menschen, das diese Situation kennzeichnet, groß
+               und bedeutend, dann im Lichte dessen, was <hi rend="italic">Gott</hi> da erwartet. Darum
+               ist das menschliche Erwarten ernstzunehmen, kann nicht ernst genug <pb n="116" ed="kbga-sources-2330"/> genommen
+               werden, weil es eine Abschattung ist des großen Erwartens, mit dem Gott hier zuerst
+               auf dem Plan ist. Das ist eine unheimliche Situation, wer wollte das verkennen? Wohl
+               begreiflich, daß wir ihr ausweichen möchten. Aber wir werden nicht wider den Stachel
+               löcken können [vgl. <ref type="can" subtype="bible" target="Act.26.14">Act. 26,14</ref>]: gerade nach der Seite, von woher das Unheimliche in diese Situation
+               ursprünglich kommt, gerade nach der Seite der Bibel sind <hi rend="italic">wir,</hi> ich
+               wiederhole es, durch das, was vor 400 Jahren über die Christenheit gekommen ist,
+               festgelegt.</p>
+          <p rend="margin-top">Das Geschehen, auf das diese Erwartung von beiden Seiten gerichtet ist, ist die
+               christliche Verkündigung. Und der Mann, der bei diesem Geschehen zwar nicht im
+               Mittelpunkt, wohl aber an vorderster, exponiertester Stelle steht, ist der
+               christliche Verkündiger, der Pfarrer. Er ist doch, von den Menschen aus gesehen, die
+               am Sonntag in die Kirche kommen oder auch nicht kommen, jedenfalls der Erste, der
+               ihnen <hi rend="italic">Antwort</hi> geben, und er ist, von der Bibel aus gesehen, der
+               Erste, der bereit sein müßte, sich unter Gottes <hi rend="italic">Frage</hi>, in das
+               Fragen nach Gott hineinzustellen, ohne das Gottes Antwort für uns nicht wahr werden
+               kann. Würde er das tun: antworten auf das, was die <hi rend="italic">Menschen fragen</hi>,
+               aber antworten als ein selber <hi rend="italic">von Gott gefragter</hi> Mensch, ja dann
+               dürfte man wohl sagen, daß er – Gottes Wort redet, das die Menschen bei ihm suchen
+               und das Gott ihm zu reden aufgetragen hat. Denn als wirklich von Gott gefragter und
+               nach Gott fragender Mensch würde er ja Gottes Antwort wissen und so den Menschen
+               Antwort geben können, diesen Menschen, die ja mit <hi rend="italic">ihrer</hi> Frage
+               gerade auf <hi rend="italic">Gottes</hi> Antwort warten, auch wenn sie es nicht wissen. Ja
+               wenn <hi rend="italic">das</hi> der Fall wäre, gäbe es dann ein bedeutungsvolleres,
+               entscheidenderes Geschehen als die christliche Ver<pb xml:id="p089" ed="pga" break="no"/>kündigung? Verständlich wäre auf einmal die ganze kirchliche
+               Situation, wenn sie der Rahmen <hi rend="italic">dieses</hi> Geschehens wäre,
+               gerechtfertigt die Existenz des Pfarrers, wenn er <hi rend="italic">dieses</hi> Geschehens
+               Diener sein sollte, sinnvoll gerade das Tun, das im Protestantismus den Mittelpunkt
+               seines Amtes bilden soll: die Predigt als Schriftauslegung, wenn sie eben
+               Verkündigung des Wortes Gottes sein sollte. Es ist ja fast eine Banalität, wenn ich
+               jetzt sage: Es gibt nichts Wichtigeres, Dringenderes, Notwendigeres, Hilfreicheres,
+               Erlösenderes und Heilvolleres, es gibt vom Himmel wie von der <pb n="117" ed="kbga-sources-2330"/> Erde aus gesehen
+               nichts der wirklichen Lage Entsprechenderes als das Reden und Hören des Wortes Gottes
+               in seiner richtenden und aufrichtenden Wahrheitsmacht, in seinem alles entwurzelnden
+               und alles versöhnenden Ernst, in seiner Leuchtkraft hinein in die <hi rend="italic">Zeit</hi> und ihre Wirren und darüber hinaus in die Klarheit der <hi rend="italic">Ewigkeit</hi> und immer Beides <hi rend="italic">zugleich</hi> und das Eine <hi rend="italic">durch</hi> das Andre und <hi rend="italic">im</hi> Andern, das Wort, der Logos
+               des lebendigen Gottes. Fragen wir uns selbst und denken wir dabei an Jesus Christus,
+               ob der Wille Gottes nicht drängt und ob die Verfassung des Menschen, des heutigen
+               Menschen hier in <placeName ref="kbga-places-151">Deutschland</placeName> <date when="1922">1922</date> nicht schreit nach diesem Geschehen? Noch einmal:
+               Was wäre unsere christliche Verkündigung, wenn sie dieses Geschehen <hi rend="italic">wäre</hi>! Und daß sie das ist, das ist die Verheißung, die sie hat: nehmen wir
+               unsre Situation als Pfarrer ernst, dann <hi rend="italic">können</hi> wir gar nicht anders
+               als diese Verheißung <hi rend="italic">bejahen</hi>. Sie ist mit dem Ernstnehmen unsrer
+               Situation zwischen Gemeinde und Bibel <hi rend="italic">gegeben</hi>. Ernstnehmen kann
+               hier nichts anderes sein, als Gottes Verheißung, die hinter dieser merkwürdigen
+               Situation steht, ergreifen und glauben, auf sie vertrauen und ihr gehorsam
+               werden.</p>
+          <p>Aber hier müssen wir innehalten. Das ist die <hi rend="italic">Verheißung</hi> der
+               christlichen Verkündigung: daß wir <hi rend="italic">Gottes Wort reden</hi>. Verheißung
+               ist nicht Erfüllung. Verheißung bedeutet, daß Erfüllung uns versprochen ist.
+               Verheißung hebt die Notwendigkeit zu glauben nicht auf, sondern begründet sie.
+               Verheißung ist des <hi rend="italic">Menschen</hi> Teil, Erfüllung ist <hi rend="italic">Gottes</hi> Teil. Daß, was Gottes ist, auch des Menschen ist, das kann nur
+               geglaubt werden. «Wir haben solchen Schatz in <hi rend="italic">irdenen</hi> Gefäßen»
+                  [<ref type="can" subtype="bible" target="2.Kor.4.7">2.Kor. 4,7</ref>]. Keine
+               Verwechslungen zwischen Gottes und des Menschen Teil, zwischen dem Schatz und den
+               irdenen Gefäßen! Warum passiert diese Verwechslung niemandem so leicht wie uns
+               Theologen und unvorsichtigen Philosophen etwa, gerade uns, die es besser wissen
+               sollten? Es ist doch wohl <pb xml:id="p090" ed="pga"/> klar: auch daß wir Gottes Wort
+               reden, können wir nur glauben. Gottes Wort auf eines Menschen Lippen, das ist nicht
+               möglich, das kommt nicht vor, das kann man nicht ins Auge fassen und nicht ins Werk
+               setzen. <hi rend="italic">Gottes</hi> Tun ist doch wohl das Geschehen, auf das sich die
+               Erwartung vom Himmel wie von der Erde aus richtet. Etwas anderes kann den wartenden
+               Menschen nicht genügen und etwas anderes kann Gottes Wille nicht sein, als daß er
+               selbst der ist, der es schafft. Gottes Wort ist also und will und muß sein und
+               bleiben <hi rend="italic">Gottes</hi> Wort. Der Schein, als ob es anders wäre, verkehrt
+               die Sache in ihr <pb n="118" ed="kbga-sources-2330"/> Gegenteil, und wenn es der glänzendste, der christlichste, der
+               biblischste Schein wäre. Vorweggenommene Erfüllung raubt uns auch die Verheißung.</p>
+          <p rend="margin-top">Und hier muß nun von der furchtbaren <hi rend="italic">Gefahr</hi> der kirchlichen
+               Situation geredet werden. Ist sie nicht ganz dazu angetan, jenen Schein zu erwecken:
+               hier haben Menschen es darauf abgesehen und – wer weiß? – schon erreicht, Gottes Wort
+               auf ihre Lippen zu nehmen als ihr eigenes Wort? Wohlverstanden: um so bedenklicher
+               wird dieser Schein, um so bedrohlicher die Lage, je mehr Gelingen, Erfolg und
+               Erfüllung etwa damit verbunden ist. Um so mehr, je voller unsre Kirchen, je
+               gesegneter und befriedigender unsre Tätigkeit etwa ist. Was heißt Segen? Was heißt
+               Befriedigung im Pfarramt? Machen uns die Propheten und Apostel, um von Jesus Christus
+               nicht zu reden, etwa den Eindruck von Leuten, denen es gelungen ist, daß sie nachher
+               auf ein gesegnetes, befriedigendes Leben zurückblicken konnten? Wie seltsam, wenn wir
+               soviel besser daran sind als sie! Was kann das bedeuten? Das bedeutet auf alle Fälle,
+               daß wir einmal gründlich erschrecken sollten. Was tust du, du Mensch, mit <hi rend="italic">Gottes</hi> Wort auf <hi rend="italic">deinen</hi> Lippen? Wie kommst du zu
+               dieser Rolle des Mittlers zwischen Himmel und Erde? Wer hat dich befugt, sich dahin
+               zu stellen und religiöse Stimmung zu erzeugen? Und nun gar noch mit Erfolg und
+               Gelingen? Was kann das anderes bedeuten als höchste Überhebung, höchsten Titanismus
+               und – weniger klassisch, aber um so deutlicher: höchsten Kitsch! Man überschreitet
+               die Grenze der Humanität<note xml:id="n44">Zu dieser Anspielung auf Publikationen von
+                     <persName ref="kbga-actors-293">P. Natorp</persName> und <persName ref="kbga-actors-63">E. Brunner</persName> vgl. oben <ref type="pub" target="../volume/19/p010#fn_n23">S. 10 mit Anm. 23</ref>.</note>
+               nicht ungestraft, und man bricht nicht ungestraft ein in die Gerechtsame Gottes!
+               Gehört aber nicht Beides unvermeidlich zum Beruf des Pfar<pb xml:id="p091" ed="pga" break="no"/>rers? <hi rend="italic">Ist</hi> nicht die ganze kirchliche Situation eine
+               namenlose Überhebung des Menschen, schlimmer als das, was sein Übermut auf andern
+               Gebieten sich leistet? Ich würde antworten: Bei Gott ist es möglich, daß dem <hi rend="italic">nicht</hi> so ist, daß wir <hi rend="italic">als</hi> Pfarrer und <hi rend="italic">in</hi> der kirchlichen Situation gerettet sind wie ein Brand vor dem Feuer [vgl.
+                  <ref type="can" subtype="bible" target="Sach.3.2">Sach. 3,2</ref>]. Bei den
+               Menschen aber ist das unmöglich [vgl. <ref type="can" subtype="bible" target="Mt.19.26">Mt. 19,26</ref>]. Soviel <hi rend="italic">wir</hi> wissen, können
+               wir nur sagen: Wo kann ernstlicher vom Zorne Gottes die Rede sein als über uns
+               Pfarrern? Oder sollten wir nichts davon wissen, wie sehr gerade <hi rend="italic">wir</hi>
+               unter dem Gericht stehen; nicht irgendwie geistig, religiös oder sonst harmlos meine
+               ich das, sondern höchst real: Mose [vgl. <ref type="can" subtype="bible" target="Ex.4.10 Ex.4.13">Ex. 4,10–13</ref>] und Jesaja 
+               [vgl. <ref type="can" subtype="bible" target="Jes.6.5">Jes. 6,5</ref>], Jeremia 
+               [vgl. <ref type="can" subtype="bible" target="Jer.1.6">Jer. 1,6</ref>] und 
+               Jona [vgl. <ref type="can" subtype="bible" target="Jona.1.3">Jona 1,3</ref>] haben <pb n="119" ed="kbga-sources-2330"/> 
+               wahrhaftig gewußt, warum sie sich in diese Situation des
+               Predigers <hi rend="italic">nicht</hi> begeben wollten. Kirche ist eigentlich eine
+               Unmöglichkeit. Pfarrer kann man eigentlich nicht sein. Predigen, ja wer darf, wer
+               kann denn das, wenn er weiß, um was es da geht? Ist uns die kritische Lage der Kirche
+               etwa immer noch nicht drastisch genug vor Augen gestellt? Wann werden wir sie zu
+               deuten wissen? In welchem von den vielen Einwänden, die heute gegen die Kirche und
+               gegen das Christentum von den Gebildeten und Ungebildeten unter ihren Verächtern<note xml:id="n45">Anspielung auf <bibl corresp="kbga-bibls-1729">
+                                <persName ref="kbga-actors-360">Fr. Schleiermacher</persName>, <title level="a">Über
+                           die Religion. Reden an die Gebildeten unter ihren Verächtern</title>
+                           (1799), hrsg. von H.-J. Rothert (PhB 255), Hamburg
+                        1958.</bibl></note> erhoben werden, steckte nicht letztlich der Einwand, den wir selber gegen uns
+               erheben müßten, wenn wir uns dessen genauer bewußt wären, was wir als Pfarrer wagen?
+               Wäre es nicht besser, uns jene Einwände, ob sie nun gerecht oder ungerecht, gescheit
+               oder dumm seien, einfach einmal ein wenig gefallen zu lassen, in der Einsicht, daß
+               etwas dran ist, wie David die Steinwürfe Simeis des Sohnes Geras 
+               [<ref type="can" subtype="bible" target="2.Sam.16.5 2.Sam.16.14">2.Sam. 16,5–14</ref>], statt uns sofort
+               mit dem Rüstzeug unsrer ebenso subtilen wie in ihrem Wert fragwürdigen Apologetik
+               dagegen zur Wehr zu setzen? Wäre es nicht ratsamer, gewisse Stürme, die über uns
+               kommen wollen, einmal ruhig ihre reinigende Kraft an uns auswirken zu lassen, statt
+               ihnen sofort mit einem kirchlichen Gegensturm entgegenzutreten? Wäre es uns nicht
+               besser, statt pastoral-theologischer Zeitschriften und dgl. z. B. <persName ref="kbga-actors-550">Feuerbach</persName> zu lesen<note xml:id="n46">Das
+                  Göttinger «<orgName ref="kbga-actors-8723">Stange-Kränzchen</orgName>», dem <persName ref="kbga-actors-2151">Barth</persName>
+                  angehörte, hatte am <date when="1922-02-05">5.2.1922</date>
+                  <persName ref="kbga-actors-550">Feuerbach</persName> behandelt; vgl. oben <ref type="pub" target="../volume/19/p006#p006">S. 6ff.</ref>
+                  – Zu <persName ref="kbga-actors-2151">Barths</persName> späterer Auseinandersetzung mit <persName ref="kbga-actors-550">Feuerbach</persName> vgl. <bibl corresp="kbga-bibls-1623">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Ludwig Feuerbach</title>, in: ZZ, Jg. 3 (1927), S. 11–33</bibl>
+                     (<bibl corresp="kbga-bibls-954">wieder abgedruckt in: Th. u. K., S. 212–239</bibl>) und ders., <bibl corresp="kbga-bibls-34">
+                                <hi rend="italic">Die protestanische Theologie im 19.
+                           Jahrhundert. Ihre Vorgeschichte und ihre Geschichte</hi>,
+                           Zollikon/Zürich 1947, S. 484–489.</bibl></note>, und zwar ohne zu versuchen, den Kopf <pb xml:id="p092" ed="pga"/> sofort
+               wieder aus der Schlinge zu ziehen? Wenn Gott uns, das Wunder ist ja <hi rend="italic">möglich</hi> bei <hi rend="italic">ihm</hi>, erwählt hat und rechtfertigen will <hi rend="italic">als</hi> Pfarrer und <hi rend="italic">in</hi> der kirchlichen Situation, dann
+               jedenfalls allein <hi rend="italic">da</hi>, im <hi rend="italic">Gericht</hi> über uns selbst,
+               im <hi rend="italic">Gericht</hi> über die Kirche, im <hi rend="italic">Gericht</hi> über unser
+               Pfarrertum. Denn erst <hi rend="italic">hier</hi> können wir ja die Verheißung ergreifen,
+               erst <hi rend="italic">hier</hi> glauben. Erst damit, daß wir nicht nur als Menschen im
+               allgemeinen – das wäre allzu bequem, denn niemand ist ein Mensch im allgemeinen –,
+               sondern gerade als Geistliche, gerade in unsrer Mittlerstellung die Frage, die große
+               schlechthin demütigende, ja tödliche Frage Gottes an alles, was Fleisch heißt, auf
+               uns nehmen, gerade dadurch erst kommen wir in die Lage, «Geistliche» zu sein, d. h.
+               Gottes <hi rend="italic">Antwort</hi> zu vernehmen und dann auch den Menschen Antwort zu
+               geben auf <hi rend="italic">ihre</hi> Frage. Erst dadurch, daß unsre Verkündigung aus
+               realer Not kommt, wird aus unserm Amt <hi rend="italic">Sendung</hi>. Und Sendung allein
+               kann unsre Verkündigung legitimieren. Es liegt Sinn darin, daß der Hohepriester am
+               großen Versöhnungstag nach 
+               <ref type="can" subtype="bible" target="Lev.16">Lev. 16</ref> zuerst einen Farren darbringen, schlachten und opfern <pb n="120" ed="kbga-sources-2330"/> mußte zum
+               Sündopfer, «daß er <hi rend="italic">sich</hi> und <hi rend="italic">sein</hi> Haus versöhne»
+                  [<ref type="can" subtype="bible" target="Lev.16.11">Lev. 16,11</ref>], und <hi rend="italic">danach</hi> den Bock als Sündopfer für das Volk 
+                  [<ref type="can" subtype="bible" target="Lev.16.15">16,15</ref>]. Wäre es nicht ratsam, diesen
+               Farren nun einmal darzubringen und unterdessen wenigstens den Bock noch leben zu
+               lassen? Weigerten wir uns etwa dessen, daß das Gericht anheben muß beim Hause Gottes
+                  [<ref type="can" subtype="bible" target="1.Petr.4.17">1.Petr. 4,17</ref>],
+               weigerten wir uns, uns und unser Amt und unsre Kirche dahin zu stellen, wo alles
+               Fleisch stehen muß, sollte das <hi rend="italic">nicht</hi> das Erste sein, mit dem wir
+               immer wieder <hi rend="italic">anfangen</hi>, an das wir immer wieder <hi rend="italic">zuerst</hi> denken, das unsrer Arbeit am Studiertisch und unsrem Reden auf der
+               Kanzel <hi rend="italic">vorangehen</hi> muß, wollten wir uns der gründlichen
+               Desillusionierung, die das bedeutet, heimlich oder offen, mit weltlicher oder
+               christlicher Begründung entziehen, sollten wir eine Anklage gegen die Welt, gegen die
+               unchristlichen Weltanschauungen, die unreligiöse Masse und wie das alles heißt,
+               schleudern, die nicht zuerst mit ihrer vollen Wucht uns selbst getroffen hat, so
+               getroffen, daß uns zum Reden gegen die da draußen zunächst einfach der Atem ausgeht,
+               sollten wir von der Sünde, der Sünde des <foreign xml:lang="lat">Eritis sicut Dii</foreign> 
+               [<ref type="can" subtype="bible" target="Gen.3.5">Gen. 3,5</ref> Vulg.] reden, ohne <pb xml:id="p093" ed="pga"/> zuvor 
+               zu uns selbst gesagt zu haben: <hi rend="italic">Du</hi>
+               bist der Mann [<ref type="can" subtype="bible" target="2.Sam.12.7">2.Sam. 12,7</ref>], du <hi rend="italic">mehr</hi> als alle andern! – wie sollten wir dann nicht
+                  <hi rend="italic">bleiben</hi> müssen unter dem Gericht, aus dem uns das Wort Gottes
+                  <hi rend="italic">mit</hi> allem Fleisch freilich herausreißen und erretten will? Diese
+               Weigerung würde ja bedeuten, daß wir uns <hi rend="italic">nicht</hi> begnügen lassen
+               wollen an der Verheißung, daß wir <hi rend="italic">nicht</hi> glauben wollen. Wie sollte
+               es dann für uns selbst zu einem Hören und Reden und für unsre Gemeinden zu einem
+               Vernehmen, Erkennen, Wirken des Wortes <hi rend="italic">Gottes</hi> kommen? Wie sollten
+               wir dann glaubwürdig sein? Vergebung der Sünden, Auferstehung des Fleisches und ein
+               ewiges Leben<note xml:id="n47">Vgl. <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum Apostolicum</title>, BSLK 21, 21–23.</bibl></note> wirklich und nicht nur in Worten verkündigen können? <hi rend="italic">Glaubwürdig</hi> werden wir nur durch das Wissen um unsre Unglaubwürdigkeit! <hi rend="italic">Überzeugendes</hi> Reden von Gott, das gibt es ja nur da, wo die
+               christliche Verkündigung selbst mitten drin steht in der <hi rend="italic">Not</hi>, unter
+               dem <hi rend="italic">Kreuz</hi>, in dem <hi rend="italic">Fragen</hi>, nach dem Gott allererst
+               fragt, um antworten zu können. Aus dieser Not dürfen wir nicht <hi rend="italic">heraus</hi> wollen. Das war es, was der junge <persName ref="kbga-actors-261">Luther</persName> dem katholischen Mittelalter vorgeworfen hat, daß es aus dieser
+               Not <hi rend="italic">heraus</hi> wollte. Jede Seite fast in seiner Psalmen- und in seiner
+                  Römerbrieferklärung<note xml:id="n48">In <persName ref="kbga-actors-2151">Barths</persName> Besitz befand sich
+                     <date when="1922">1922</date>
+                  <bibl corresp="kbga-bibls-1730">
+                                <hi rend="italic">Luthers Vorlesung über den Römerbrief 1515/16</hi>,
+                        hrsg. von J. Ficker (<title level="a">Anfänge reformatorischer
+                        Schriftauslegung</title>, Bd. 1), Leipzig
+                        1908</bibl>, und <bibl corresp="kbga-bibls-1733">
+                                <hi rend="italic">Dr. Martin Luthers erste und älteste
+                           Vorlesungen über die Psalmen aus den Jahren 1513–1516</hi>, hrsg. von
+                           J. K. Seidemann, 2 Bde., <placeName ref="kbga-places-17">Dresden</placeName> 1880<edition rend="sup">2</edition></bibl>; vgl. zum letzteren <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II,  <ref type="pub-" target="4026">S. 90</ref>
+                           (30.6.1922) und  <ref type="pub-" target="4027#p094">94</ref> (7.7.1922).</bibl></note> redet von dem Entsetzen, das ihn erfaßte, als er die Entdeckung machte: was
+               die Scholastiker und Mystiker trieben, das war ja, wie er es in der Heidelberger
+               Disputation von <date when="1518">1518</date> nannte: «<foreign xml:lang="lat">theologia <pb n="121" ed="kbga-sources-2330"/> gloriae</foreign>»<note xml:id="n49">
+                            <bibl corresp="kbga-bibls-1734">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="italic">Disputatio Heidelbergae habita</hi>
+                        (1518)</bibl>, These 21: «<foreign xml:lang="lat">Theologus gloriae dicit malum
+                  bonum et bonum malum, theologus crucis dicit id quod res est</foreign>» (<bibl corresp="kbga-bibls-1734">WA 1,354,21f.</bibl>).</note>, ein naives religiöses Stimmung-Machenwollen, eine <hi rend="italic">Flucht</hi> vor dem Fragen, nach dem Gott fragt, um seine Antwort geben
+               zu können. <hi rend="italic">Hier</hi> hat er den Spaten eingesetzt und seine Theologie,
+               die reformatorische, auf deren Boden wir angeblich stehen, definiert als «<foreign xml:lang="lat">theologia
+               crucis</foreign>», die von dort aus entworfen ist, wo der Mensch auch sein Höchstes und Bestes,
+                  <hi rend="italic">gerade</hi> das, preisgegeben und unter das Gericht gestellt hat und
+               so die Verheißung ergreift, auf Glauben, <hi rend="italic">allein</hi> auf <hi rend="italic">Glauben</hi> hin, weil er selber ergriffen ist von der grundlo<pb xml:id="p094" ed="pga" break="no"/>sen, nur in sich selber begründeten Barmherzigkeit
+                  Gottes<note xml:id="n50">Vgl. schon <bibl corresp="kbga-bibls-96">
+                                Römerbrief 2, S. 70</bibl> (= in
+                  späteren Auflagen <ref type="pub" target="../volume/47/p131#p131">S. 68</ref>): «Gerechtigkeit Gottes ist das <hi rend="italic">Trotzdem!</hi>, mit dem Gott sich erklärt als unser Gott und uns zu sich
+                  rechnet, und unbegreiflich, grundlos, nur in sich selbst, nur in Gott begründet,
+                  von allem ‹Darum› rein ist dieses Trotzdem!» – Die Wendung «grundlose
+                  Barmherzigkeit» geht vielleicht zurück auf die – in manchen Liturgien verarbeitete
+                  – Allgemeine Beichtformel der «Nürnberger Messe» des <persName ref="kbga-actors-4007">Andreas Döber</persName> (<date when="1525">1525</date>); <persName ref="kbga-actors-2151">Barth</persName>
+                  könnte die Wendung in <placeName ref="kbga-places-27">Göttingen</placeName>
+                  bei einer Allgemeinen Beichte gehört haben, die
+                  damals dem (nach dem lutherischen Hauptgottesdienst gefeier) Abendmahl vorausging
+                  (Mitteilung von Pastor Dr. <persName ref="kbga-actors-4169">Joachim
+                     Stalmann</persName>, <placeName ref="kbga-places-30">Hannover</placeName>, an den Hrsg.).</note>, weil <hi rend="italic">Christus</hi> der <hi rend="italic">Gekreuzigte</hi> in seiner <foreign xml:lang="lat">derelictio</foreign> der Träger
+               der Verheißung ist. «Er hat uns gemacht, und nicht wir selbst, zu seinem Volk und zu
+               Schafen seiner Weide» [<ref type="can" subtype="bible" target="Ps.100.3">Ps. 100,3</ref>]. Wie sollen das die Menschen hören aus der christlichen Verkündigung der
+               Kirche, wenn die Kirche selber es vielleicht noch gar nicht gehört hat?</p>
+          <p rend="margin-top">Stehen wir auf dem Boden der <foreign xml:lang="lat">theologia crucis</foreign>? Das scheint mir die Schicksalsfrage zu
+               sein, die heute, wo wir, was Kreuz ist, zu merken wahrhaftig Anlaß hätten, an unsre
+               protestantischen Kirchen gestellt ist. Wir brauchen heute <hi rend="italic">ernste</hi>
+               Pfarrer. Jawohl, aber dieser Ernst muß der <hi rend="italic">Sache</hi> der Kirche und in
+               keinem Sinne der Kirche selbst gelten. Der sehr menschliche Pfarrerernst, der der
+               Kirche gilt, ist dem beinahe göttlichen Ernst der heutigen Lage nicht mehr gewachsen.
+               Wir brauchen <hi rend="italic">tüchtige</hi> Pfarrer. Ja, aber nicht <hi rend="italic">geschäfts</hi>tüchtige. Die Verwaltung des Wortes ist kein Geschäft, und wenn es
+               noch so glänzend ginge. Die Tüchtigkeit wird sich zu erweisen haben in Situationen,
+               in die in Geschäften nur Untüchtige zu kommen pflegen: in Erfolg- und
+               Wirkungslosigkeit, in schwerster Isolierung, in negativen Abschlüssen vielleicht bis
+               zum Lebensende. Wir brauchen <hi rend="italic">fromme</hi> Pfarrer. Ja, wenn Frömmigkeit
+               Gehorsam bedeutet gegen den Ruf: Folge du <hi rend="italic">mir</hi> nach! [<ref type="can" subtype="bible" target="Joh.21.22">Joh. 21,22</ref>], der uns
+               vielleicht aus all dem, was man zur Rechten und zur Linken Frömmigkeit nennt,
+               herausführt. Doch überlegen Sie sich selbst, was Ernst, Tüchtigkeit, Frömmigkeit auf
+               dem Boden der <foreign xml:lang="lat">theologia crucis</foreign> etwa bedeuten möchte? Wollen wir dort stehen, dann
+               müssen wir jedenfalls allem resolut den Abschied geben, was auf der Linie des
+               katholischen Altarsakraments liegt, dieses genialsten Symbols einer
+               Kirchenherrlichkeit, die sich dem Gericht <hi rend="italic">entziehen</hi> zu können <pb n="122" ed="kbga-sources-2330"/>
+               meint und sich ge<pb xml:id="p095" ed="pga" break="no"/>rade der <hi rend="italic">Gnade</hi> entzieht, die sich an der Verheißung nicht begnügen lassen, sondern
+               Erfüllung haben, genießen, erleben – ja eben <hi rend="italic">erleben</hi> will, als ob
+               der Weg zum Erleben der Erfüllung nicht durch das Sterben aller menschlichen
+               Herrlichkeit und zuerst aller kirchlichen ginge! Wir sollen unter keinen Umständen
+               und in keinem Sinn <foreign xml:lang="lat">creatores creatoris</foreign> sein wollen. Nicht zu <hi rend="italic">er</hi>zeugen haben wir Gott, sondern ihn zu <hi rend="italic">be</hi>zeugen. In dieser
+               Silbe liegt der Unterschied. Was in der Linie des Altarsakraments liegt, das ist <hi rend="italic">Flucht</hi> vor der Not der christlichen Verkündigung und darum Flucht
+               auch vor ihrer <hi rend="italic">Verheißung</hi>. Täuschen wir uns nicht, sehr vieles
+               liegt in dieser Linie, was noch lange nicht katholisch aussieht, sondern sehr
+               evangelisch und vor allem auch sehr modern. Ich überlasse es Ihnen, zu überlegen, ob
+               sie sich nicht ausziehen läßt tief hinein in unsre gewohntesten homiletischen und
+               seelsorgerlichen Darbietungen, in unsre <hi rend="italic">traditionellen</hi> kirchlichen
+               Formen und noch viel mehr in die <hi rend="italic">neueren</hi> und <hi rend="italic">neuesten</hi> Bestrebungen gerade auf dem Gebiet der kirchlichen Formen, aber
+               auch tief, sehr tief hinein in die systematischen und historischen Darstellungen
+               unsrer Theologie aller Richtungen. Sie läuft überall da durch, wo ein Haben auftritt,
+               das nicht auch ein Nicht-Haben wäre, ein Eilen ohne Warten [vgl. <ref type="can" subtype="bible" target="2.Petr.3.12">2.Petr. 3,12</ref>], ein Geben ohne Nehmen,
+               ein Besitzen ohne Entbehren, ein Wissen ohne Nicht-Wissen, ein Rechthaben ohne
+               Unrechthaben, ein Sitzen ohne Aufstehen, eine Gegenwart des Himmelreichs, wo gar
+               keine «Armen im Geist» [<ref type="can" subtype="bible" target="Mt.5.3">Mt. 5,3</ref>] sind. Auf dieser Linie kann es zu keiner Gewißheit, zu keinem Sieg
+               kommen. Denn der Gott, von dem Gewißheit und Sieg kommt, wohnt in einem Lichte, da
+               niemand zu kann [<ref type="can" subtype="bible" target="1.Tim.6.16">1.Tim. 6,16</ref>], 
+               und als solcher will er erkannt und angebetet sein. Das ist die Krisis
+               der christlichen Verkündigung. Wohlverstanden: ich möchte damit, daß ich von dieser
+               fatalen Linie rede, keinen direkten Vorwurf richten nach irgendeiner Seite. Die Sache
+               eignet sich schlecht zum Vorwürfemachen. Ich verkenne nicht, daß vieles aus der Not
+               und darum mit der Verheißung der christlichen Verkündigung geredet und getan sein
+               kann, was auf den ersten Blick jener fatalen Linie unheimlich nahe zu liegen scheint.
+               Mag denn alles, was in Sachen der christlichen Verkündigung zur Rechten und zur
+               Linken, bei den Volkskirchlern und bei den <orgName ref="kbga-actors-8740">Hochkirchlern</orgName><note xml:id="n51">
+                            Im
+                     <date when="1918-10">Oktober 1918</date> war die «<orgName ref="kbga-actors-8740">Hochkirchliche Vereinigung e.V.</orgName>» gegründet
+                  worden mit ihrem seitdem erscheinenden Publikationsorgan «Die Hochkirche». Sie
+                  trat u.a. ein für eine bischöfliche Kirchenverfassung, die Wiedereinführung der
+                  Deutschen Messe, das Stundengebet und die Erneuerung der Privatbeichte; 
+                  vgl. <bibl corresp="kbga-bibls-1735">
+                                <persName ref="kbga-actors-4010">W. Drobnitzky</persName>, Art.
+                           «Hochkirchliche Bewegung II. In
+                  Deutschland und anderen Kirchen der Ökumene», in: RGG<hi rend="sup">3</hi>, Bd. III, Sp. 379–382.</bibl></note>, von den Alten und <pb xml:id="p096" ed="pga"/> von den Jungen heute geredet
+               und getan wird, seinen Lauf nehmen. <foreign xml:lang="lat">Fiat, fiat</foreign>! «Eines schickt sich nicht für alle.
+               Sehe jeder wo er bleibe, sehe jeder wie er’s treibe, und wer steht, daß er nicht
+                  falle.»<note xml:id="n52">Aus<bibl corresp="kbga-bibls-1608"> <persName ref="kbga-actors-136">J. W. von
+                     Goethes</persName> Gedicht «Beherzigung»</bibl>; dort: <q rend="block">
+                                <lg>
+                                    <l xml:space="preserve">… Sehe jeder, wie er’s treibe,</l>
+                                    <l xml:space="preserve">Sehe jeder, wo er bleibe …</l></lg></q></note> Nicht darum kann es sich <pb n="123" ed="kbga-sources-2330"/> handeln, diesem oder jenem eine neue Position
+               oder auch nur eine Negation polemisch gegenüberzustellen. Wohl aber darum, <hi rend="italic">Besinnung</hi> eintreten zu lassen über das, was da geredet und getan wird,
+               Besinnung auf das Eine, Notwendige [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], Unentrinnbare, dem unsre Kirchen, dem wir
+               Pfarrer und Theologen vor allem heute mehr als je tatsächlich gegenüberstehen;
+               Besinnung heißt <hi rend="italic">Erinnerung</hi> an den <hi rend="italic">Sinn</hi> unsres
+               Redens und Tuns.<note xml:id="n53">«Besinnung» wird wenig später ein Leitbegriff in
+                  <persName ref="kbga-actors-2151">Barths</persName> erster Dogmatikvorlesung «<bibl corresp="kbga-bibls-219"><title level="a">Unterricht
+                           in der christlichen Religion</title>», 1. Bd.: <hi rend="italic">Prolegomena. 1924</hi>, hrsg.
+                        von H. Reiffen,
+                           Zürich 1985, vgl. S. 388 (Register) und
+                        bes. <ref type="pub-" target="../volume/17/p030#p030">S. 30.</ref></bibl></note> Vielleicht daß bei solcher Besinnung dies und das nicht mehr gesagt und getan
+               oder anders gesagt und getan werden wird als bis dahin. Vielleicht daß nur in neuer
+               Meinung dasselbe gesagt und getan zu werden braucht wie bis dahin. Besinnung bedeutet
+               grundsätzlich weder Position noch Negation, sondern eben nur – eine Randbemerkung,
+               «ein bißchen Zimt». Besinnung braucht uns jedenfalls nicht voneinander zu trennen,
+               auch wenn ihre theoretischen und praktischen Ergebnisse nicht bei uns allen dieselben
+               sein sollten. Ich halte dafür, daß es grundsätzlich möglich sein müßte, sich über
+               diese Besinnung sogar mit einem katholischen Theologen zu verständigen, endlich und
+               zuletzt sogar über das Altarsakrament und ohne es ihm durchaus nehmen zu wollen. Die
+               Not und Verheißung der christlichen Verkündigung, göttliches Gericht und göttliche
+               Rechtfertigung wird wohl letzten Endes auch hinter der Kirche des Tridentinums
+               stehen. Es steckt genug Katholisches in uns Protestanten, daß wir annehmen müssen,
+               das reformatorische Anliegen könne auch da drüben nicht einfach tot sein. Oder was
+               berechtigte uns zu dieser Annahme? Um so weniger können wir uns untereinander etwa
+               mit dieser Annahme gegenübertreten. Aber auch nicht mit der Annahme, als ob uns das
+               reformatorische Anliegen etwa selbstverständlich sei. Es ist uns <hi rend="italic">nicht</hi> selbstverständlich. Man kann über <pb xml:id="p097" ed="pga"/> die
+               Frage, ob wir es kennen, ob es in uns wach ist, <hi rend="italic">nicht</hi> zur
+               Tagesordnung übergehen. Es muß heute, morgen, immer wieder in uns erwachen.
+               Reformation ist wahrhaftig heute nicht minder möglich und notwendig als vor 400
+               Jahren. Reformation findet statt, wo Besinnung stattfindet. Wenn Ihnen heute die
+               Sehnsucht nach Reformation vielleicht mehr als bittere Sorge entgegengetreten ist
+               denn als etwas anderes, so bedenken Sie, daß es nicht anders sein darf. Seufzen:
+               «<foreign xml:lang="lat">Veni creator Spiritus</foreign>!»<note xml:id="n54">Anfang des <bibl type="song" corresp="kbga-songs-243">
+                                <persName ref="kbga-actors-2886">Hrabanus Maurus</persName> (um 776–856) zugeschriebenen
+                  Pfingsthymnus «Veni creator spiritus» (vgl. EKG 97)</bibl>.</note> ist nun
+               einmal nach <ref type="can" subtype="bible" target="Röm.8">Röm. 8</ref> [, <ref type="can" subtype="bible" target="Röm.8.26">26</ref>] hoffnungsvoller als
+               triumphieren, wie wenn man ihn schon hätte. Sie sind in «meine Theologie» eingeführt,
+               wenn Sie diesen Seufzer gehört haben. Haben Sie ihn gehört und verstanden, verstanden
+               vielleicht besser, als Ihnen lieb ist, dann werden Sie es <pb n="124" ed="kbga-sources-2330"/> auch verstehen, wenn ich
+               schließen möchte mit einem Bekenntnis der <hi rend="italic">Hoffnung</hi>. Es sind einige
+               Sätze aus <hi rend="italic">
+                            <persName ref="kbga-actors-77">Calvins</persName></hi>
+               Erklärung von <ref type="can" subtype="bible" target="Mi.4.6">Micha 4,6</ref> («Zur
+               selbigen Zeit, spricht der Herr, will ich die Lahmen versammeln und die Verstoßenen
+               zuhauf bringen und die ich geplagt habe»). «Obwohl die Kirche», sagt <persName ref="kbga-actors-77">Calvin</persName> dazu, «zur Zeit kaum zu unterscheiden ist
+               von einem toten oder doch invaliden Manne, so darf man doch nicht verzweifeln; denn
+               auf einmal richtet der Herr die Seinigen auf, wie wenn er Tote aus dem Grabe
+               erweckte. Das ist wohl zu beachten; denn wenn die Kirche nicht leuchtet, halten wir
+               sie schnell für erloschen und erledigt. Aber so wird die Kirche in der Welt erhalten,
+               daß <hi rend="italic">sie auf einmal</hi> vom Tode aufsteht, ja am Ende geschieht diese
+               ihre Erhaltung jeden Tag unter vielen solchen Wundern. Halten wir fest: Das Leben der
+               Kirche ist nicht ohne Auferstehung, noch mehr: nicht ohne viele Auferstehungen.
+               <foreign xml:lang="lat">Tenendum est, ecclesiae vitam non esse absque resurrectione, imo absque multis
+                  resurrectionibus.</foreign>»<note xml:id="n55">
+                            
+                                <bibl corresp="kbga-bibls-5110">CR 71 (= Calvini Opera 43), col. 353</bibl>:
+                     «<foreign xml:lang="lat">Summa est, quamvis ecclesia ad tempus nihil fere
+                     differat ab homine mortuo, vel saltem mutilato, non esse desperandum: quia
+                     Dominus subinde suos erigit, ac si excitaret mortuos e sepulcro, et hoc
+                     diligenter notandum est, quia simul atque non resplendet ecclesia Dei, putamus
+                     illam esse prorsus exstinctam et abolitam. Atqui ecclesia sic in mundo
+                     servatur, ut subinde resurgat a morte: denique ecclesiae conservatio singulis
+                     fere diebus secum fert multa miracula. Sed hoc tenendum est, ecclesiae vitam
+                     non esse absque resurrectione, imo absque multis resurrectionibus, ut ita
+                     loquar.</foreign>»</note>
+            </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

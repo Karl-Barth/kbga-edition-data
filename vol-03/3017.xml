@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3017">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 7. Dezember 1914</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3017 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 21–22.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3017</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 21-22</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">17</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 15</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 7. Dezember 1914. <ref target="https://kba.karl-barth.ch/objects/8671">KBA 9270.14</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1914-12-07">7. Dezember 1914</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1914-12-07">7. Dezember 1914</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3016"/>
+          <ref type="next" target="kbga-texts-3018"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3016"/>
+          <ref type="next-in-corresp" target="kbga-texts-3018"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:18+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:18+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p021" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1914-12-07">7. Dezember 1914</date>
+          </dateline>
+          <salute>Mein Lieber!</salute>
+        </opener>
+        <p>Vielleicht interessiert es dich, zu sehen, was ich gestern den <orgName ref="kbga-actors-6132">Sozialdemokraten</orgName> in <placeName ref="kbga-places-508">Küngoldingen</placeName> vorgebracht habe.<note xml:id="n01">Vortrag über <bibl corresp="kbga-bibls-311">«<title level="m"><ref type="pub" target="48017">Krieg, Sozialismus und Christentum</ref></title>»</bibl>, bisher unveröffentlicht.</note> In der Diskussion meinte ein Mann sehr nett, was ich ihnen beschrieben habe, sei zwar sicher der Sinn Jesu und seiner Jünger, aber ob ich ihnen in Anbetracht der Unvollkommenheit der Welt und der Menschen nicht daneben noch einen andern, <hi rend="italic">leichtern</hi> Weg wisse? Ein Gewerkschafter belehrte mich über die Unmöglichkeit zu «warten» und über die Notwendigkeit des proletarischen Kampfes!! […] Die Schwierigkeit für uns, bei und zu den <orgName ref="kbga-actors-6132">Sozialdemokraten</orgName> zu reden, wurde mir aufs Neue klar: <hi rend="italic">entweder</hi> man bestärkt sie in ihrer Parteigesinnung durch religiöse Unterbauung und mit allerlei christlichen Wünschen für ihr politisches Ethos — <hi rend="italic">oder</hi> man versucht, sie über sich selbst hinauszuweisen, und legt ihnen damit, wie es mir gestern den Eindruck machte, eine Last auf, die Vielen zu schwer ist. Das Richtige wird trotz dieser Gefahr das Letztere sein, <hi rend="italic">wenn</hi> man überhaupt solche Referate annehmen will. Ich halte es doch für das Richtige, wenn man darum gefragt wird. Gerade jetzt ist für einen radikalen Sozialismus bei den Arbeitern mehr Verständnis da, als man denkt. Aber von einer Popularisierung solcher Anschauungsweise kann natürlich keine Rede sein, und darum werden wohl mit der Zeit solche Anfragen seitens der Vereinsleitungen zu Ausnahmen werden. Vorderhand habe ich noch in <placeName ref="kbga-places-509">Rothrist</placeName> bei einem sozialistischen Weihnachtsbaum zu reden, wo es letztes Jahr sehr nett war.</p>
+        <pb xml:id="p022" ed="pga"/>
+        <p>Unsere <orgName ref="kbga-actors-8613">Blaukreuz</orgName>stunde gestern Abend hatte folgenden Verlauf: <list type="ordered">
+                        <item n="1"> Gesang: «Voll Hoffnung und voll Glaubensmut …»</item>
+                        <item n="2"> Verlesung der <persName ref="kbga-actors-240">Kutter</persName>’schen Kinderlehre aus der «<orgName ref="kbga-actors-4700">Glocke</orgName>»<note xml:id="n02">
+                                <bibl corresp="kbga-bibls-3809"><persName ref="kbga-actors-240">H. Kutter</persName>, «<title level="a">Etwas vom Krieg. Eine Kinderlehre</title>», in: Die Glocke (Zürcher CVJM-Monatsschrift), Jg. 23, Dez. 1914, S. 13ff.</bibl>
+                            </note>
+                  </item>
+                        <item n="3"> Gesang: «<bibl corresp="kbga-bibls-3808">Bald kommt der Herr, Hallelujah …</bibl>»</item>
+                        <item n="4"> Ansprache einer Tochter über Bereitschaft auf die Wiederkunft.</item>
+                        <item n="5"> Ansprache eines jungen Mannes (Wachtmeister Bat. 55) und zwar: 
+                          <list type="simple">
+                                <item>a) Vorlesung aus dem «<orgName ref="kbga-actors-6494">Freien Aargauer</orgName>»</item>
+                                <item>b) Erinnerungen aus dem Militärdienst</item>
+                                <item>c) Vorlesung einer (ganz abscheulich pietistischen) Gebetserhörungsgeschichte</item>
+                            </list>
+                  </item>
+                        <item n="6"> Deklamation einer Tochter: <bibl corresp="kbga-bibls-1267">Schillers «Glocke»</bibl>!!</item>
+                        <item n="7"> Bericht einer Tochter über ihre Erlebnisse in der Küche des Basler Frauenspitals in der Kriegszeit […]</item>
+                        <item n="8"> Gesang: «<bibl type="song" corresp="kbga-songs-294">Ach wie hab’ ich einst das Leben</bibl>…» (Die Lieder vom Volke vorgeschlagen!).</item>
+                    </list> Ich teile dir das mit, um dir einen Begriff zu geben von den mancherlei Geistern und Gaben, die hier oft entfesselt sind. Ich ging trotz dieses Reichtums eher gedrückt heim, denn ich fühle mich der Direktion dieses Orchesters einfach nicht gewachsen. Das Material ist ja da, aber in grauenhaftem Chaos. Nummer 5 brauchte für sich einen Pfarrer zur Verarbeitung und Amalgamierung seiner verschiedenen Komponenten. Er ist durchaus nicht ein verworrener Mensch, sondern ein sehr einfach denkender, ruhiger und praktischer Aargauer-Typ. Nr. 7 eine ehemalige Musterkonfirmandin, jetzt etwas deroutiert durch Aufenthalte in <placeName ref="kbga-places-67">Genf</placeName> und <placeName ref="kbga-places-5">Basel</placeName>. Willst du nicht einmal an einem Sonntag Abend herüberkommen und ein kräftiges Wort zu meiner Herde reden? Einseitig sind wir auf keinen Fall, man kann uns von allen möglichen Seiten her zusetzen, aber wir haben es sehr nötig!</p>
+        <p>Mein Kind<note xml:id="n03"><persName ref="kbga-actors-5802">Franziska («Fränzeli») Barth</persName>, geb. 13.4.1914, verheiratet mit <persName ref="kbga-actors-438">Max Zellweger</persName>.</note> kann jetzt sitzen und sagt: Papap! Und du hast noch nicht einmal eine Frau!</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

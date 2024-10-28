@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3297">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 11. November 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3297 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 350a–351.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3297</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 350a-351</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">297</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 288</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 11. November 1919. <ref target="https://kba.karl-barth.ch/objects/10295">KBA 9270.219</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-11-11">11. November 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1919-11-11">11. November 1919</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3296"/>
+          <ref type="next" target="kbga-texts-3298"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3296"/>
+          <ref type="next-in-corresp" target="kbga-texts-3298"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:37+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:37+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p350" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1919-11-11">11. November 1919</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich komme aus großer Verlegenheit zu dir. Du mußt nämlich am Montag in <placeName ref="kbga-places-382">Uerkheim</placeName> die Exegese für mich übernehmen. Bei mir ist z.Z. alles <hi rend="italic">zu</hi> unzulänglich, als daß ich mit irgend etwas von meinen Materialien mich produzieren könnte und möchte. Ich saß gestern und heute über <ref type="can" subtype="bible" target="1.Kor.15">1.Kor. 15</ref>, aber ich bin in den Anfängen stecken geblieben, als ich anfing, gründlich zu verarbeiten, und euch irgend etwas vorhudeln mag ich nicht. Es ist mir einfach so ganz und garnicht ums Mitteilungen-Machen, so gern ich das tue, wenn etwas zu sagen ist. Nur jetzt nicht mich über die <foreign xml:lang="grc" rend="Ell">ἀνάστασις</foreign> ergehen müssen vor dir, <persName ref="kbga-actors-27">Peter</persName>, <persName ref="kbga-actors-763">Schild</persName> und unsern lieben lernbegierigen Frauen! Nur jetzt einmal schweigen und für mich weiter lesen dürfen! Es wäre jetzt alles belanglos, was ich sagen würde. Das Kapitel ist der Schlüssel des ganzen Briefes mit seinen merkwürdig steilen, aus letzter Weisheit kommenden Eröffnungen über dies und das, von denen uns letzthin einige getroffen haben wie Schläge eines Zitterrochens.<note xml:id="n01">Das Bild stammt aus <bibl corresp="kbga-bibls-3635"><persName ref="kbga-actors-322">Platons</persName> Dialog <hi rend="italic">Menon</hi></bibl>, wo <persName ref="kbga-actors-9678">Menon</persName> die Wirkung, die von den Reden des <persName ref="kbga-actors-777">Sokrates</persName> ausgeht, mit den elektrischen Schlägen eines Zitterrochens vergleicht.</note> Nicht umsonst. Ich beeile mich, das N. T. an <hi rend="italic">dieser</hi> Stelle vorläufig zu schließen und mich mit Stellen zu beschäftigen, wo es nicht so unheimlich brennt. Ein wahres Glück, sicher durch der Engel Geschäfte so geordnet, daß ich die <pb xml:id="p351" ed="pga"/> Sache nicht bei den Pfarrern vorbringen konnte. Ich hätte sie damit totgeschlagen wie <persName ref="kbga-actors-2228">Mose</persName> den Ägypter [vgl. <ref type="can" subtype="bible" target="Ex.2.12">Ex 2,12</ref>] unter größtem Schaden für meine Seele und größtem Schweigen im Himmel. Und nun bitte ich dich dringend, mich als Invaliden zu betrachten und für mich einzuspringen. Es ist ohnehin angemessen, daß wir jetzt <hi rend="italic">dich</hi> noch einmal hören. Sag uns etwas vom Anfang des <persName ref="kbga-actors-2930">Matthäus</persName>. Das wird allen erhellend sein.</p>
+        <p>Hier hast du allerhand aus <placeName ref="kbga-places-151">Deutschland</placeName>. Das fehlt jetzt gerade noch, daß von dorther solcher Weihrauchdampf vor uns emporsteigt. <persName ref="kbga-actors-537">Ehrenberg</persName> ist wenn auch anders als <persName ref="kbga-actors-607">Herpel</persName>, auch ganz hemmungslos mir gegenüber. Er hat ein Vorwort geschrieben zu meinem Vortrag, das ich mit dringenden Censurvermerken zurückschicken mußte. <persName ref="kbga-actors-607">Herpel</persName> habe ich durch <persName ref="kbga-actors-457">Bader</persName> sagen lassen, sie sollten doch das Ding in Gottes Namen versenden und nicht ein solches Geschrei machen. Wenn die wüßten, in was für Höllenregionen wenigstens ich mich zuweilen aufhalte! In <placeName ref="kbga-places-158">Bad Boll</placeName> sieht man uns offenbar auch noch immer als hoffnungsvolle junge Leute an. O Welt!</p>
+        <p>Ich habe noch eine weitere Verlegenheit auf dem Buckel. Die <orgName ref="kbga-actors-6132">Sozialdemokraten</orgName> von <placeName ref="kbga-places-425">Suhr</placeName> haben ihren Häuptling zu mir gesandt, ich solle ihnen am <date when="1919-11-29">29. November</date> eine <ref type="pub" target="48062">Volksrede</ref> halten. Ich seufzte, bat, mahnte, wies darauf hin, daß es eine Predigt geben könnte, und konnte schließlich doch nicht ausweichen, weil der Mann dabei blieb, sie wollten gerade von <hi rend="italic">mir</hi> hören, was gerade <hi rend="italic">ich</hi> sagen könne und wolle. Nun muß ich gehen, im Kleinen wie du nach <placeName ref="kbga-places-105">St. Gallen</placeName>, und weiß doch wirklich nicht, was ich da sagen soll.<note xml:id="n02">Die Rede wurde veröffentlicht unter dem Titel <bibl corresp="kbga-bibls-4177">«<ref type="pub" target="48062"><title level="a">Vom Rechthaben und vom Unrechthaben</title></ref>» in: Das neue Werk. Der Christ im Volksstaat, Jg. 1 (1919/1920), Sp. 635–641.</bibl>
+               </note> Nach meiner Rede führen sie ein Stück auf, [die Turner] vielleicht auch noch Pyramiden!</p>
+        <p>Heute war ich an der Synode. Das Boot «Religionsunterricht» trieb kieloben dem Strande zu: mit fast allen gegen circa 10 Pfarrerstimmen siegte der Interkonfessionelle. Ich saß dabei und unterhielt mich diesmal mit Stadtammann H.!! Die Sache war irgendwie ein Gleichnis, denn die Freisinnigen beherrschten schlechterdings die Szene.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

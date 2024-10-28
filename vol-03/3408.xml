@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3408">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 21. März 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3408 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 479.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3408</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 479-479</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">408</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 397</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 21. März 1921. <ref target="https://kba.karl-barth.ch/objects/11054">KBA 9370.404</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-03-21">21. März 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-77">Bruggen SG</placeName>
+          <date when="1921-03-21">21. März 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3407"/>
+          <ref type="next" target="kbga-texts-3409"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3407"/>
+          <ref type="next-in-corresp" target="kbga-texts-3409"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:45+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:45+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p479" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            <date when="1921-03-21">21. März 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-2151">Karl</persName>,</salute>
+        </opener>
+        <p>Herzlichen Dank für den Brief samt Kurier. Das «<foreign xml:lang="lat"><ref type="pub" target="../volume/47/p270#p270">Futurum resurrectionis</ref></foreign>» ist ausgezeichnet! Laß dich nur nicht zu sehr hetzen. Wie sollte es anders sein, als daß das neue Kapitel <ref type="can" subtype="bible" target="Röm.6">Röm. 6</ref> manche Pfeife und einige gedankenvolle Waldspaziergänge braucht, bis es durchschritten ist.</p>
+        <p>Wir und die Kinderlehre, wir und die Kinder! — da wäre allerdings einiges zu seufzen. Auch ich bin ganz unbefriedigt; schon nur die äußere Ordnung ist oft schwer zu erzielen, und das rührt deutlich von einer innern Ohnmacht meinerseits her. Du glaubst es mir vielleicht nicht, aber das unmittelbare und direkte Verhältnis, das nach <persName ref="kbga-actors-530">Dostojewski</persName> «der russische Mensch» gerade zu Kindern haben soll — o weh, davon ist auch bei mir nicht viel vorhanden. Ich habe oft das Gefühl, abschreckend zu wirken, und im Übrigen hatte auch ich erst dieser Tage Polizeiakten wegen allerlei wüster Dinge über zwei meiner Unterrichtsmädchen zu lesen, und die entsprechenden Ausbrüche von Pharisäismus bei den andern fehlten auch nicht.</p>
+        <p>Meinen Vortrag über <persName ref="kbga-actors-530">Dostojewski</persName> werde ich auslaufen lassen in Erwägungen über Menschenliebe als Liebe zum Einzelnen, zum irdischen Menschen. Es findet bei <persName ref="kbga-actors-530">Dostojewski</persName> gerade kraft der Aufhebung alles Menschlichen eine merkwürdige Rückwendung zum Menschen selber statt und zwar nicht nur zur Idee des Menschen, sondern zum empirischen konkreten Menschen. Dafür ist sein ganzes Œuvre Zeugnis, eine ungeheure Rückwendung der Kurve aus allen Fernen, den himmlischen und höllischen, zur Erde — — aber unter dem Signum Auferstehung.</p>
+        <closer>
+          <salute rendition="left">Herzlich</salute>
+          <signed rendition="right"><persName ref="kbga-actors-403">Eduard</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3107">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 10. Mai 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3107 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 134a–135.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3107</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 134a-135</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">107</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 104</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 10. Mai 1916. <ref target="https://kba.karl-barth.ch/objects/9139">KBA 9370.145</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-05-10">10. Mai 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1916-05-10">10. Mai 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3106"/>
+          <ref type="next" target="kbga-texts-3108"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3106"/>
+          <ref type="next-in-corresp" target="kbga-texts-3108"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p134" ed="pga"/>
+        <opener>
+            Thurneysen
+          <dateline>
+            <date when="1916-05-10">10. Mai 1916</date>
+          </dateline>
+          <salute>Mein Lieber,</salute>
+        </opener>
+        <p>Nach den Erquickungen der letzten Tage bin ich wieder in unsern Pfarrhof zurückgekehrt. Ich muß mich förmlich mit Zwang wieder daran erinnern und darauf einstellen, daß ich nicht <pb xml:id="p135" ed="pga"/> nur für mich selber als freier Liebhaber Gottes hier in <placeName ref="kbga-places-76">Leutwil</placeName> sitze, sondern als «Leutpriester» oder «Gehilfe der Freude» [vgl. <ref type="can" subtype="bible" target="2.Kor.1.24">2.Kor 1,24</ref>]. Im Grunde begreife ich immer besser die Neigung der <persName ref="kbga-actors-664">Lhotzky</persName><note xml:id="n01"><seg type="bio">Heinrich <persName ref="kbga-actors-664">Lhotzky</persName> (1859–1930), religiöser Schriftsteller.</seg></note> und <persName ref="kbga-actors-8648">Johannes Müller</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-8648">Johannes Müller</persName> (1864–1949), religiöser Schriftsteller, Herausgeber der «Blätter zur Pflege persönlichen Lebens» (seit 1914 «<orgName ref="kbga-actors-8247">Grüne Blätter</orgName>»)</seg>, nahm Fühlung mit <persName ref="kbga-actors-2151">Karl Barth</persName>, ohne diesen wirklich zu verstehen.</note> und anderer kleiner Propheten zum freien, nebenkirchlichen, unorganisierten Ausschank und Vertrieb oder das Verfahren der Zeltmissionsbrüder und verwandter Sendlinge, die mit Harmonium, Stiftshütten und Tabernakeln von Ort zu Ort ziehen. Das wäre eine — wer weiß? — auch uns angemessene Lebensweise, als herumziehende Reichsgotteszigeuner, Stürmer, Dränger, Straßenprediger und Berenner von Babelstürmen im Lande herumzuziehen. Doch einstweilen ist es noch nicht so weit. Wir sind gestern munter über Berg und Tal unter allerhand Rückblicken auf das Erlebte heimgewandert und freuen uns bereits aufs nächste Mal. Heute Morgen nach Rezept <persName ref="kbga-actors-541">Epprecht</persName> frühe Tagwacht mit erfreulicher Besiegung des alten Menschen!</p>
+        <closer>
+          <salute>[…] Wir grüßen dich und <persName ref="kbga-actors-26">Nelly</persName> und danken für alle Gastfreiheit
+und hoffen auf euer Kommen zu uns.</salute>
+<salute>[…]</salute>
+          <signed><persName ref="kbga-actors-403">Eduard</persName> und <persName ref="kbga-actors-1285">Marguerite</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

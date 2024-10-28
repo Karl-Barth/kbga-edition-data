@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3062">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 10. September 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3062 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 80.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3062</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 80-80</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">62</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 59</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 10. September 1915. <ref target="https://kba.karl-barth.ch/objects/8913">KBA 9270.46</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-09-10">10. September 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-09-10">10. September 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3061"/>
+          <ref type="next" target="kbga-texts-3063"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3061"/>
+          <ref type="next-in-corresp" target="kbga-texts-3063"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:21+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:21+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+      <div type="letter">
+      <pb xml:id="p080" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-09-10">10. September 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Hier einige interessante und lustige Beiträge zur geistigen Lage! Das ist köstlich, wie sie nun in <placeName ref="kbga-places-9">Bern</placeName> alle beruhigt und erfreut sind darüber, daß doch auch <persName ref="kbga-actors-757">Schädelin</persName> für den «Begriff der Arbeit» eintritt und wie sie es bedauern, daß die Gruppe «Du [<persName ref="kbga-actors-2151">Barth</persName>] und <persName ref="kbga-actors-403">Thurneysen</persName>» diesen Schlag nicht miterlebt hat!! Nun dürfen sie also alle wieder etwas «machen»: <persName ref="kbga-actors-27">Peter</persName> seine <orgName ref="kbga-actors-6206">Helvetik</orgName>, der lange <persName ref="kbga-actors-655">Otto</persName><note xml:id="n01">
+                        <seg type="bio"><persName ref="kbga-actors-655">Otto Lauterburg</persName> (1873–1927) in Bern, Pfarrer, Herausgeber einer religiössozialen Zeitschrift, der «<orgName ref="kbga-actors-4685">Freie Schweizer Arbeiter</orgName>».</seg> Er ist nicht zu verwechseln mit Pfarrer <persName ref="kbga-actors-656">Otto Lauterburg</persName> in Saanen.
+                    </note> seine kantonal-bernische Politik, die <persName ref="kbga-actors-730">Pieczynska</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-730">Emma Pieczynska-Reichenbach</persName> (1854–1927) gehörte zum Freundeskreis um <persName ref="kbga-actors-330">L. Ragaz</persName></seg>.</note> ihre Frauenbestrebungen usf. Heil, Heil!</p>
+        <p>Wir hatten gestern Abend eine interessante Kirchenpflegssitzung mit langer Aussprache über den lieben Gott und sein Verhältnis zu den Safenwilern im Speziellen, im Anschluß an die letzte <ref type="pub" target="27037">Predigt</ref>. Von neuen Ziegeln aufs Pfarrhaus und dergleichen wurde diesmal nur nebenbei geredet und beschlossen, öfters solche <hi rend="italic">sachlichen</hi> Sitzungen abzuhalten. Jetzt bin ich an der 3. Bearbeitung der <ref type="pub" target="27038">Amalekiterschlacht</ref>, zu der ich gestern Abend viel Anregung und Stoff bekam.</p>
+        <closer>
+          <salute rendition="left">Mit herzlichen Grüßen und Wünschen für einen kräftigen
+Sonntag</salute>
+          <signed rendition="right"><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

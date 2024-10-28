@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3144">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 21. Februar 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3144 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 176–178.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3144</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 176-178</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">144</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 141</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 21. Februar 1917. <ref target="https://kba.karl-barth.ch/objects/9336">KBA 9270.104</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-02-21">21. Februar 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-02-21">21. Februar 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3143"/>
+          <ref type="next" target="kbga-texts-3145"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3143"/>
+          <ref type="next-in-corresp" target="kbga-texts-3145"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:27+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:27+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p176" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-02-21">21. Februar 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Der Schall eurer Stimme [am Telephon] hat uns wieder höchlichst erfreut, und schon sehen wir gespannt dem nächsten <orgName ref="kbga-actors-8246">Kränzli</orgName> entgegen, das uns wieder zusammenführen wird. Das ist erfreulich, daß der Feldzug in <placeName ref="kbga-places-76">Leutwil</placeName> solches Echo gefunden hat. An was liegt es doch? Sind unsere Leute [in <placeName ref="kbga-places-54">Safenwil</placeName>] stumpfer? Oder zurückhaltender? Oder frage ich zu wenig nach? Oder bin ich zu mißtrauisch gegen ihre Äußerungen? Jedenfalls habe ich noch nie hier ein so gefreutes Antworten gefunden wie das, von dem du schreibst. Mir ist immer, ich schreie gegen eine Wand, und wenn einmal Einer oder Eine etwas munkelt, so muß ich schon froh sein. Als Ausnahme ist allerdings zu erwähnen, daß am letzten Sonntag meine <ref type="pub-" target="32008">Predigt</ref> (und schon am Donnerstag vorher eine Leichenrede) katastrophal gewirkt hat auf ein vermutlich hysterisches Frauenzimmer, das hier auf Besuch war und mir nach dem Essen in aller Form auf die Bude stieg, um mir wüst zu sagen, daß ich sie nicht «getröstet», sondern geärgert habe. Sie bezog nämlich jedes Wort von Leichenrede und Predigt direkt auf sich und ihren verstorbenen unerfreulichen Vater und ihre auch unerfreuliche Familie und sammelte sich auf diese Weise eine Menge Zorn, die sie dann nicht ertragen konnte. Aber sonst bin ich fast immer von einer lastenden Stille umgeben, trotzdem ich jetzt auch viel fleißiger in der Gemeinde herumlaufe. Die Welt oder vielmehr Safenwil wird nun nächstens wieder mit einem gedruckten Schrei von mir erfreut werden; eben diese letzte Predigt<note xml:id="n01">Die Predigt erschien unter dem Titel<bibl corresp="kbga-bibls-3512"> «<ref type="pub-" target="32008"><hi rend="italic">Über die Grenze!</hi></ref>» im April 1917 als Privatdruck</bibl>.
+               </note> will ich als Hirtenbrief für die Fastenzeit wieder unters Volk verteilen wie letztes Jahr; auf Kosten unsres <persName ref="kbga-actors-316">Pestalozzi</persName>-Fonds, der noch unberührt am Zins liegt. Es sollte wieder einmal ein Gesamt-Schlag sein. Text: <ref type="can" subtype="bible" target="Mk.10.32 Mk.10.34">Markus 10,32–34</ref> der Zug von <placeName ref="kbga-places-780">Galiläa</placeName> nach <placeName ref="kbga-places-37">Jerusalem</placeName>, Einbruch des Gottesreiches über die Grenzen des «wirklichen Lebens», <hi rend="italic">hier</hi> das Kreuz als göttliche Notwendigkeit. Ich habe die Sache gestern und heute ausgearbeitet, und nun geht sie schon in die Druckerei. Dem piependen Volk der Theologen <pb xml:id="p177" ed="pga"/> soll sie diesmal tunlichst vorenthalten bleiben. Neues wirst du nicht darin finden und überhaupt vielleicht nicht ganz einig sein mit der Parole: Einbrechen! über deren Tunlichkeit sich ja viel sagen läßt.</p>
+        <p>Deiner Meldung über den Besuch von <persName ref="kbga-actors-580">Greyerz</persName> können wir entgegenstellen die Nachricht von einem Nachmittag mit <rs ref="kbga-actors-561 kbga-actors-560">Fueters</rs><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-561">Karl Fueter</persName> (1884–1963), <persName ref="kbga-actors-2151">Barths</persName> Vorgänger in <placeName ref="kbga-places-54">Safenwil</placeName>, dann Pfarrer in Olten, später in Zürich, gehörte der kirchlichen Mitte an.</seg></note> von <placeName ref="kbga-places-50">Olten</placeName>. Während er und <persName ref="kbga-actors-26">Nelly</persName> musizierten, verwickelte ich sie im Nebenzimmer in ein Gespräch über <placeName ref="kbga-places-158">Boll</placeName>, wo sie scheints früher ein- und ausgegangen ist, aber ohne großen Erfolg für ihren Mann. Denn als dieser nun auch in Sicht kam und auf 8000 m das Feuer gegen mich eröffnete, zeigte es sich, daß da merkwürdige Dunkelheiten walten, obgleich er «Alles» versteht! Sie redeten beide viel vom «ganz wahr» sein, […] von der «Pflicht», die sie nun künftig «in <placeName ref="kbga-places-782">Fluntern</placeName> [Zürich] zu erfüllen» gedenken, vom «rein Praktischen» ihrer Orientierung und vom «rein Erbaulichen» seiner Predigtweise. Auf meine Bedenken gegen den modernen Pfarrerbetrieb wurde mir bedeutet, daß wir mit unserer «Nationalökonomie» und [unsern] ewigen Mammonismuspredigten doch auch eine Veräußerlichung uns leisteten. Die Erwähnung der Projektionsapparate führte auf die ernste Frage: was ich von der Bibel halte? <hi rend="italic">Sie</hi> seien eben an der Arbeit, das Volk in die Bibel einzuführen (nämlich durch Vorführung von Bildern aus dem hl. Land etc.). Zum Schluß die eigentümliche Konzession: es sei ja recht, daß Einige mit Nachdruck das Extrem verträten wie wir, aber das könne man doch nicht von allen 1200 Pfarrern verlangen. <hi rend="italic">Er</hi> wolle in der Mitte stehen zwischen uns und dem großen Haufen! Ich konnte ihm nur noch in den Eisenbahnwagen nachrufen: Nein, nein, gerade nicht so! Dann entrollten sie uns auf diesmal. Wir sind also nicht so glücklich gewesen wie ihr bei <persName ref="kbga-actors-580">Greyerz</persName>. Ich habe eben nie Glück bei solchen Gesprächen. […]</p>
+        <p>Letzten Samstag mußte ich auch eine Niederlage unterschreiben: Die Trauung der Muster- und Glanzkonfirmandin meines ersten hiesigen Jahrgangs mit einem ganz unerquicklichen Mann, der die Taufe wohl in nicht ferner Zeit wird folgen müssen. Ich legte ein eher betrübtes Zeugnis ab, das die Beiden vermutlich in <milestone xml:id="m12" unit="page"/> 
+               <pb xml:id="p178" ed="pga"/> unheimlicher Erinnerung haben; aber vielleicht nicht einmal das. Du wirst mir bald auch wieder einmal zusprechen müssen: <hi rend="italic">Das</hi> sei es ja nicht etc. und es sei «an sich nicht so wichtig», wie und mit wem sich unsre Konfirmanden verheiraten! Das ist doch eigentlich miserabel, wie man so abwechselnd bald montiert und dann wieder deprimiert ist. <persName ref="kbga-actors-3943">Vetter</persName> würde wahrscheinlich sagen, ich sei eben noch nicht versiegelt, sonst würde mir das nicht passieren. Vielleicht kommen wir auch einmal dazu, so Tag und Nacht das gleiche Friedensgesicht zu machen. Andrerseits ist es tröstlich, daß der <persName ref="kbga-actors-2204">Jesaja</persName> von <persName ref="kbga-actors-693">Michelangelo</persName> eigentlich auch noch kein solches Gesicht macht!</p>
+        <p>Der gute vertrauensvolle <persName ref="kbga-actors-63">[Emil] Brunner</persName> wäre bald enttäuscht, wenn er wüßte, wie bald ich jeweilen mit meinem Latein zu Ende bin. Du kennst meine zahlreichen luftleeren Räume (Vacua) besser und mußt ihn unter der Hand darüber aufklären, sonst wird sich «dieser <persName ref="kbga-actors-2151">Barth</persName>» wohl hüten, sich in <placeName ref="kbga-places-97">Obstalden</placeName><note xml:id="n03">In <placeName ref="kbga-places-97">Obstalden</placeName> (Kanton Glarus) war <persName ref="kbga-actors-63">E. Brunner</persName> Pfarrer.</note> einer Entlarvung auszusetzen.</p>
+        <p>Heute Abend habe ich Bibelstunde über <persName ref="kbga-actors-2307">Lazarus</persName> [<ref type="can" subtype="bible" target="Lk.16.19 Lk.16.31">Lk 16,19–31</ref>]. Du siehst, wie ich errötend deinen Spuren folge. <persName ref="kbga-actors-26">Nelly</persName> möchte deine Predigt<note xml:id="n04">Predigt von <persName ref="kbga-actors-403">Thurneysen</persName> über den Anfang desselben Kapitels <ref type="can" subtype="bible" target="Lk.16">Lk 16</ref>.</note> auch noch lesen. Bei der Auslegung: «Was hat er denn getan? Er hat fremden Besitz wie seinen eigenen behandelt», komme ich nicht ganz mit. Ist <hi rend="italic">das</hi> der Durchbruch von Mein und Dein, der pointiert ist? Liegt der Nachdruck nicht zunächst auf <ref type="can" subtype="bible" target="Lk.16.2">v. 2b</ref>: «du kannst nicht mehr …» und der Situation, die sich daraus ergibt: die Relativität alles «Mein und Dein» gegenüber der Sicherheit des vermeintlichen Besitzes, die vorher da war? Mammon ist uns nur <hi rend="italic">auf Gnadenfrist</hi> gegeben, er zieht selber seinen Anbetern den Boden unter den Füßen weg — darum brauch ihn nur <hi rend="italic">als Sprungbrett!</hi> (Parallele zu <ref type="can" subtype="bible" target="Lk.12.20">Luk. 12,20</ref>, aber positiv gewandt). Dann käme auch der eskamotierte <ref type="can" subtype="bible" target="Lk.12.9">V. 9</ref> wieder zu Ehren.</p>
+        <closer>
+          <salute>Herzliche Grüße senden euch Beiden</salute>
+          <salute>Eure Freunde Diesseits!</salute>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

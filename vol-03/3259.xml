@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3259">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 1. Dezember 1918</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3259 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 304a–305.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3259</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 304a-305</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">259</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 251</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 1. Dezember 1918. <ref target="https://kba.karl-barth.ch/objects/9910">KBA 9270.190</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1918-12-01">1. Dezember 1918</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1918-12-01">1. Dezember 1918</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3258"/>
+          <ref type="next" target="kbga-texts-3260"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3258"/>
+          <ref type="next-in-corresp" target="kbga-texts-3260"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:35+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:35+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p304" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1918-12-01">1. Dezember 1918</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>[…] Es wird dich als ersten Mitschuldigen am <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> auch interessieren, die drei <ref type="pub-" target="33021">Briefe</ref> <persName ref="kbga-actors-63">Brunners</persName> zu lesen, die heute in einem Couvert ankamen! Er will im «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>» rezensieren<note xml:id="n01"><bibl corresp="kbga-bibls-3434"><persName ref="kbga-actors-63">E. Brunner</persName>, «<title level="m">Der Römerbrief</title>» von Karl Barth. <title level="a">Eine zeitgemäß-unmoderne Paraphrase</title>, in: Kirchenblatt für die reformierte Schweiz, Jg. 34 (1919), S. 29–32</bibl>; wieder abgedruckt bei <bibl corresp="kbga-bibls-914">J. Moltmann (Hrsg.), <title level="m">Anfänge der dialektischen Theologie</title>, Teil l, München 
+        1962, S. 78ff.</bibl></note> und hat dazu die bisher erschienenen Bogen bekommen. Ich verstehe nicht alles. Was ist das z. B. mit dem Kosmologischen und Ontologischen? Es überrascht mich, daß ich in der Tat bisher mit seinen beiden Haupt-Göttern <persName ref="kbga-actors-9848">Eckehardt</persName> und <persName ref="kbga-actors-551">Fichte</persName> nichts Positives anzufangen wußte. Ich las darin und war nachher so klug wie vorher. Wie gehts dir eigentlich mit ihnen? <persName ref="kbga-actors-551">Fichte</persName> steht sehr schön gebun<pb xml:id="p305" ed="pga" break="no"/>den bei dir, hast du ein Verhältnis dazu wie offenbar auch <persName ref="kbga-actors-240">Kutter</persName>? Die Bemühungen <persName ref="kbga-actors-63">Brunners</persName>, alles unter <hi rend="italic">eine</hi> Wölbung zu bringen, sind mir nicht recht sympathisch. Was soll ich ihm auch auf das «Selbstgespräch» im 2. Brief antworten? Er nimmt einen so seltsam eifrig beim Rockknopf. Erklär mir ihn ein wenig, damit ich, wenn es sein soll, in ernsten Verkehr mit ihm kommen kann.</p>
+        <p>Was für eine elende Sache das Kapitel am Donnerstag! Diese ratlose Pfaffheit! Das Beste war noch, wie wir P. durch unser Eintreten für [den freisinnigen] W. und die Andern in der <orgName ref="kbga-actors-6206">Helvetia</orgName> durch unsern Bolschewismus ärgern konnten. Welche Tragikomödie mitten in der Götterdämmerung.</p>
+        <p>Ja die Entente! Nun ist der Teufel sichtlich zu ihnen übergegangen. Aber nur nicht diese einfachen Konstruktionen <persName ref="kbga-actors-240">Kutters</persName> gegenüber so komplexen Vorgängen! Wollen wir nicht wie <persName ref="kbga-actors-712">Oeri</persName><note xml:id="n02"><persName ref="kbga-actors-712">Albert Oeri</persName> (1875–1950), Chefredaktor der «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>».</note> eine Amerika-Reise antreten, um unter dem Platzregen von 200000-300000 Toasten (ists menschenmöglich?) festzustellen, wie die da drüben eigentlich sind? Das sollten wir doch wissen, nicht? […] Oder wollen wir lieber nach <placeName ref="kbga-places-871">Palästina</placeName>? Dort sollten wir doch eigentlich auch einmal gewesen sein. Ich nährte jüngst ein ganzes Mittagessen mit dem entsprechenden Reiseplan und führte nachher mit den Kindern den voraussichtlichen Kamelsritt auf. […]</p>
+        <p>Heute Morgen habe ich nach schwerster Not über <ref type="can" subtype="bible" target="Joh.1.1">Joh. 1,1</ref> gepredigt und will nächsten Sonntag fortfahren. Kinderlehre wie gewohnt verunglückt. Das kann ich einfach nicht. Heute Abend Fortsetzung von <ref type="can" subtype="bible" target="Act.2">Apg. 2</ref> [im <orgName ref="kbga-actors-8613">Blaukreuzverein</orgName>]. Schicke mir wieder einmal von deinen Predigten. Ich werde schon dahinterkommen.</p>
+        <p>Wie stehen wir eigentlich zum Johannes-Evangelium? Wahrscheinlich würde sich von da aus die Aussicht auf <persName ref="kbga-actors-9848">Eckehardt</persName> und <persName ref="kbga-actors-551">Fichte</persName> ergeben, die <persName ref="kbga-actors-63">Brunner</persName> jetzt bei «meinem» <persName ref="kbga-actors-313">Paulus</persName> vermißt.</p>
+        <closer>
+          <salute>Treulichst und herzlichst</salute>
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">K. B.</persName></signed>
+        </closer>
+        <milestone xml:id="m20" unit="page"/>
+      </div>
+    </body>
+  </text>
+</TEI>

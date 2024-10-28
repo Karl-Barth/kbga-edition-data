@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3115">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 26. Juni 1916</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3115 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 143–145.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3115</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 143-145</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">115</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 112</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 26. Juni 1916. <ref target="https://kba.karl-barth.ch/objects/9164">KBA 9270.84</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1916-06-26">26. Juni 1916</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1916-06-26">26. Juni 1916</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3114"/>
+          <ref type="next" target="kbga-texts-3116"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3114"/>
+          <ref type="next-in-corresp" target="kbga-texts-3116"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:25+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:25+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p143" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1916-06-26">26. Juni 1916</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Denkt ich bin ganz allein! <persName ref="kbga-actors-26">Nelly</persName> und <persName ref="kbga-actors-5802">Fränzeli</persName> sind für vier Tage nach <placeName ref="kbga-places-160">Baden</placeName> zu unsrer Schwester gegangen, und nun ists sehr still im Haus, denn Klein-<persName ref="kbga-actors-24">Markus</persName> macht gar keinen Lärm, nur der Regen draußen tropft und tropft, wie es nach meiner gestrigen Erklärung im <orgName ref="kbga-actors-8613">Blauen Kreuz</orgName> sein muß, solange Güte und Treue sich nicht begegnen (<ref type="can" subtype="bible" target="Ps.85.10 Ps.85.13">Ps. 85,10–13</ref>) zwischen Himmel und Erde.</p>
+        <p>Wie endigte das [Pfarr-] Kapitel? Es war höchste Zeit, daß ich ging. Solche Verhandlungen erfüllen mich immer mit einer höchsten Beunruhigung und Beklemmung, denn das hat einfach keinen Sinn, und dann möchte ich etwas in den Saal hinaus schreien können und habe doch die Stimme und das Wort nicht, und dann hänge ich da zappelnd wie ein Dachdecker am Seil, aber nicht wie im <ref type="can" subtype="bible" target="Ps.85">85. Psalm</ref>, sondern in peinlicher Plage. Es wird mir in Zukunft jeder Grund recht sein, um diese Veranstaltungen zu meiden. In 10 oder 20 Jahren kann ich vielleicht wieder mitwirken in diesen Dingen, jetzt ists innerlich und äußerlich aussichtslos und schädlich. Gehts dir nicht auch so?</p>
+        <p>Ich hatte vor dem Kapitel ein langes Gespräch mit <persName ref="kbga-actors-763">Schild</persName>. Das <orgName ref="kbga-actors-8246">Kränzli</orgName> ist ihm sehr wichtig und wertvoll. Er möchte eigentlich über sich selbst heraus und meint es sehr sachlich. Er meinte selbst, wir sollten uns an seinen «Eierschalen» theologisch-methodischer Art nicht stoßen, und ich glaube auch, wir tun am Besten, wenn wir unsern Weg weiter gehen und seine richtenden Sprüche gar nicht stark beachten und schwer nehmen. Wahrscheinlich wäre ihm am Besten gedient, wenn er <hi rend="italic">nicht reden</hi> müßte am <pb xml:id="p144" ed="pga"/> Kränzli. Ich verstehe das sehr gut, es geht mir selber oft so, und man sollte diesem Trieb oder Nicht-Trieb gehorsam sein. Mit <persName ref="kbga-actors-541">Epprecht</persName> stehts vermutlich ähnlich, nur daß er bei seiner Herkunft noch mehr Mühe hat. Ich habe doch die Empfindung, es fehle auch ihm nicht an Willigkeit, ich sprach auch mit ihm und auch er schien erfreut von unserm <orgName ref="kbga-actors-8246">Kränzli</orgName>. Wir müssen uns doch immer vor Augen halten, daß es wirklich Felsblöcke sind, die wir den Beiden auf ihren sichern Weg gewälzt haben, und dürfen nicht erwarten, daß sie schon damit jonglieren können. Wir wälzen und ächzen ja selbst noch genug daran, jedenfalls ich. Ich hätte sicher noch vor vier Jahren <hi rend="italic">ganz gleich</hi> dumm getan wie die zwei jetzt. Also wollen wir sie ruhig der immanenten Logik der <hi rend="italic">Sache</hi> überlassen, die sie schon ereilen wird, auch wenn noch einige oder viele merkwürdige Diskussionen dazwischen liegen sollten.</p>
+        <p>Ich habe <persName ref="kbga-actors-330">Ragazen</persName> die Besprechung von <persName ref="kbga-actors-47">Blumhardt</persName> angekündigt, und er heißt sie willkommen. So werde ich mich also dran machen, aber nur als Cicerone, nicht als Rezensent. Warum machst <hi rend="italic">dus</hi> eigentlich nicht? Ich muß doch immer wieder daran erinnern, daß <hi rend="italic">du</hi> uns irgend einen großen Schlag in den «<orgName ref="kbga-actors-4867">Neuen Wegen</orgName>», z. B. immer noch die Auseinandersetzung mit deinem Freund <persName ref="kbga-actors-410">Troeltsch</persName> schuldig bist. Ich schäme mich bald, wie ich rastlos und ruchlos drucken lasse, und du, der mir das Meiste vorgesagt hat, stehst so bescheiden im Gebüsch und lässest nichts von dir hören. Das ist ein offenkundiges Mißverhältnis.</p>
+        <p>[…] Was mag mit <persName ref="kbga-actors-240">Kutter</persName> geschehen sein und mit euch unter dem Feuerstrom seiner Beredsamkeit?! Ist er gewonnen für die <orgName ref="kbga-actors-9899">Brugger Bassin-Konferenz</orgName>? Sind euch neue Aufschlüsse geworden über das «Innere der Natur»? Versäumt doch ja nicht, uns bald auch etwas davon mitzuteilen!</p>
+        <p>[…] Unsere Erwägungen<note xml:id="n01">Wir beschlossen auf einem Spaziergang, uns hinter umwälzende theologische Studien zu machen! <persName ref="kbga-actors-2151">Barth</persName> begann bald darauf mit der Exegese des <bibl corresp="kbga-bibls-1497">Römerbriefs</bibl>.</note> von vor drei Wochen über erneutes Philosophie- und Theologie-Studium gehen mir nach und werden mir, von allen Seiten betrachtet, immer wichtiger. Der Monolog mit mir selbst und das bißchen Dialog mit der zufälligen Gemeinde und auch unsere — so ertragreich sie sind — gemeinsamen Besprechungen genügen mir doch auf die Länge nicht. Das Sammel<pb xml:id="p145" ed="pga" break="no"/>gebiet für die innere Konzentrierung und Kräftigung, aus der heraus ich so gern reden und wirken <hi rend="italic">möchte</hi>, muß ausgeweitet und vertieft werden, sonst bleibts beim Wünschen, sonst droht ein toter Punkt. Es geht nicht weiter damit, daß mein schärfstes und gründlichstes <hi rend="italic">Denken</hi> allwöchentlich dem gilt, was ich <hi rend="italic">sagen</hi> will, sonst ist eines Tages nichts oder zu wenig mehr da zum Sagen; ich komme mir vor wie einer, der aus seinen Zinsen lebt, das ist nichts. Ferner sage ich mir, daß eine so gewagte Position, wie wir sie einnehmen, einfach der Ordnung halber, solid unterbaut sein muß, und das geschieht nicht mit einem gelegentlichen metaphysischen Konstruktiönlein zwischen Zeitung und Unterweisung. Endlich drängt die Sache selbst zu einer umfassenderen Behandlung, als sie so einem 30jährigen kleinen Pfarrer in seinem praktischen Wirkungskreis möglich ist. Also auf in den Kampf! Ich bin bereits dran, mir Auszüge aus <persName ref="kbga-actors-216">Kant</persName> zu machen (bis jetzt «<bibl corresp="kbga-bibls-53">Prolegomena</bibl>» und «<bibl corresp="kbga-bibls-1309">Grundlegung</bibl>», nächstens gehts an die «<bibl corresp="kbga-bibls-3525">Kritik der reinen …</bibl>», oh!), als ob ich <persName ref="kbga-actors-246">Fritz Lieb</persName> wäre und noch einmal ins Prope<note xml:id="n02">= Propädeutikum: theologisches Vorexamen.</note> sollte, und diese Aufräumungsarbeit und verbesserte Neuauflage alter Studien erfrischt mich sehr. Nun eröffne du das Feuer an einer andern Stelle!</p>
+        <p>Hier schenke ich dir […] meine <ref type="pub" target="29014">Aarauer Predigt</ref>.<note xml:id="n03">Vgl. <ref type="pub" target="3097#fn_n02">Anm. 2 zum Brief vom <date when="1916-03-02">2.3.1916</date></ref>.</note> […] Jetzt bist du in <placeName ref="kbga-places-5">Basel</placeName> am <orgName ref="kbga-actors-8246">Kränzli</orgName> und bringst hoffentlich gute Botschaft zurück!</p>
+        <closer>
+          <salute>Ich grüße euch herzlich. In Freudigkeit und Treuen</salute> 
+          <salute>Euer</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+        <milestone xml:id="m10" unit="page"/>
+      </div>
+    </body>
+  </text>
+</TEI>

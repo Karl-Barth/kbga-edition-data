@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3342">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 16. Juni 1920</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3342 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 399–400.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3342</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 399-400</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">342</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 332</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 16. Juni 1920. <ref target="https://kba.karl-barth.ch/objects/10628">KBA 9270.247</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1920-06-16">16. Juni 1920</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1920-06-16">16. Juni 1920</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3341"/>
+          <ref type="next" target="kbga-texts-3343"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3341"/>
+          <ref type="next-in-corresp" target="kbga-texts-3343"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:41+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:41+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p399" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            
+            <date when="1920-06-16">16. Juni 1920</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Dank für deinen Brief. Eben meldet mir <persName ref="kbga-actors-662">Lempp</persName>, daß <bibl corresp="kbga-bibls-1686"><persName ref="kbga-actors-312">Overbeck</persName></bibl> erschienen […] sei. […] Was wird diese Rakete für einen Lauf nehmen? Viele Freunde oder Doktorhüte wird sie uns jedenfalls nicht eintragen. Ich weiß gar nicht mehr genau, was eigentlich drinsteht und bin so gespannt wie nur irgend einer aus dem Volk.</p>
+        <p>Hast du <hi rend="italic"><persName ref="kbga-actors-137">Gogarten</persName></hi> «Zwischen den Zeiten»<note xml:id="n01"><bibl corresp="kbga-bibls-1017"><persName ref="kbga-actors-137">F. Gogarten</persName>, <title level="a">Zwischen den Zeiten</title>, in: CW, Jg. 34 (1920), Sp. 374–378</bibl>, wieder abgedruckt in: <bibl corresp="kbga-bibls-916">J. Moltmann (Hrsg.), <title level="m">Anfänge der dialektischen Theologie</title>, Teil 2, München 1963, S. 95ff.</bibl> Von diesem Aufsatz entlieh die <date to="1933" from="1922">1922 bis 1933</date> von <persName ref="kbga-actors-275">G. Merz</persName> zusammen mit <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName> herausgegebene gleichnamige Schriftenreihe bzw. (später) Zeitschrift ihren Namen.</note> in der «<orgName ref="kbga-actors-5420">Christlichen Welt</orgName>» gelesen? Ich habe ihm sofort eine Begrüßung geschickt und ihn aufgefordert, laut zu rufen. Der kommt gut. — Wie findest du es, daß ich in die Kapitelskommission für die Verfassung gewählt bin und <hi rend="italic">nicht</hi> ablehne? Ich gedenke dort hauptsächlich den «Positiven» in die Zähne zu stehen (die den Herrn Jesus als Eckstein der aargauischen Kirche proklamieren möchten), bereits in Fühlung mit der Reform […], die vernünftigerweise alle und jede religiösen Sprüche unterlassen wissen will. Diese Sitzungen werden sicher gut. […]</p>
+        <p>Ich bin an der Vorbereitung zu <ref type="can" subtype="bible" target="2.Kor.5">2.Kor. 5</ref>. Das ist noch ein Kapitel! Wenns doch gelänge, solche Stellen auch nur ein wenig wieder zum Reden zu bringen. Es ist Alles geladen voll «Einsichten und Ausblicke», aber wie schwer, sie zu fassen. Und dabei zu denken, daß das Alles gar nicht <foreign xml:lang="lat">ex cathedra</foreign> sondern als Randglossen bei Anlaß einer ziemlich persönlich bedingten Selbsterklärung des <persName ref="kbga-actors-313">Paulus</persName> gesagt ist! […]</p>
+        <closer>
+          <salute>Herzlichst grüßend von Haus zu Haus</salute> 
+          <salute>dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+     
+      
+      <postscript>
+        <p><pb xml:id="p400" ed="pga" rend="noPipe"/>[…] Hältst dus nicht auch für wahrscheinlich, daß <ref type="can" subtype="bible" target="2.Kor.6.14 2.Kor.7.1">2.Kor. 6,14-7,1 </ref> eine Interpolation ist? Die neuern [Ausleger] haben zwar die Hypothese meist aufgegeben, mir scheint sie doch sehr plausibel. Es ist eigentlich ein recht pfäffischer Abschnitt, der im Zusammenhang und im Ganzen des Briefes gar nichts zu tun hat. Irgend ein Pfarrer aus dem 2. Jahrhundert scheint da seinem fraglichen Eifer Luft gemacht zu haben. Beachte auch, wie <ref type="can" subtype="bible" target="2.Kor.6.13">6,13</ref> und <ref type="can" subtype="bible" target="2.Kor.7.2">7,2</ref> gut anschließen.</p>
+      </postscript>
+       </div>
+    </body>
+  </text>
+</TEI>

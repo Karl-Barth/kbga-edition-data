@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3058">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 21. August 1915</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3058 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 73–74.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3058</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 73-74</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">58</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 55</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 21. August 1915. <ref target="https://kba.karl-barth.ch/objects/8896">KBA 9270.43</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1915-08-21">21. August 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1915-08-21">21. August 1915</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3057"/>
+          <ref type="next" target="kbga-texts-3059"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3057"/>
+          <ref type="next-in-corresp" target="kbga-texts-3059"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:21+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:21+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    
+    <body>
+    <div type="letter">
+<pb xml:id="p073" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1915-08-21">21. August 1915</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ich habe heute einen schönen Samstag, indem meine <ref type="pub" target="27035">Predigt</ref> schon gestern (!) nachmittag fertig wurde und <persName ref="kbga-actors-26">Nelly</persName> ein freundliches Urteil darüber gesprochen hat. Sieh, solches wirst du dann auch erleben, wenn deine zukünftige <persName ref="kbga-actors-1285">Frau</persName> endgültig bei dir eingetroffen ist! Wir hatten große Freude an dem Bildlein von dem die Kirche stürmischen Schrittes hinter sich lassenden Brautpaare und zeigen es allen Interessenten. […] Wenn nichts dazwischen kommt, gehe ich am Montag ins <orgName ref="kbga-actors-8246">Kränzli</orgName> nach <placeName ref="kbga-places-463">Auenstein</placeName>, wenn das Wetter es erlaubt vielleicht mit dem Velo. Könnte ich möglicherweise nachher zu dir kommen? Ich würde eigentlich gerne einmal einen deiner Besprechungsabende still mitmachen, oder ist dir das unangenehm, dann sagst dus natürlich fröhlich. Von dem Pratteler Convent wußte ich auch noch nichts. Hält <persName ref="kbga-actors-457">Bader</persName> jetzt Wandervorträge über das endgültige Ende der «Parteiungen», oder was soll das? Natürlich sollte man hingehen, um zu hören, was ihm so das Herz abdrückt, und ihn fragen, was denn der Lärm solle, wenn doch die innere Beunruhigung etc. unbeschädigt sei. Nein das sind ungefreute, aufgeregte Geschichten das! Aber offenbar müssen wir da hindurch und so nehme ich <pb xml:id="p074" ed="pga"/> <placeName ref="kbga-places-412">Pratteln</placeName> aufs Programm. Ich hätte nur gerne vorher auch etwas von der <foreign xml:lang="lat">altera pars</foreign> gehört. Gehst du nicht nach <placeName ref="kbga-places-66">Zürich</placeName> in diesen 14 Tagen? Wie wärs wenn du gerade jetzt <persName ref="kbga-actors-330">Ragaz</persName> auf die Bude stiegest, daß wir auch von ihm erführen, was denn los sei? Ich wollte gerne selbst gehen, aber der Familienvater in mir will das Billet nicht auch noch bewilligen. […]</p>
+        <p>Ja die Weltlage! Ich stecke stumm meine Reißnägel auf der Landkarte des Ostens und frage mich, wos noch hinaus will. Heute bei Tisch großes politisches Exposé gegeben! Mit dem ich dich verschonen will. Über <persName ref="kbga-actors-240">Kutters</persName> Prophetie freuten wir uns sehr. Die Kosakenlanze quer durch Kirchenblätter und religiössoziale Predigtserien könnte eher zur Pickelhaube werden. Wir erwogen auch die Möglichkeit eines großen Erdbebens von <placeName ref="kbga-places-1123">Lissabon</placeName> bis <placeName ref="kbga-places-886">Petersburg</placeName> oder das plötzliche Vorrücken der Gletscherwelt als glückliche Lösung. Auf alle Fälle sind die religiössozialen Pfarrhöfe samt Müttern und Kinderlein mitbedroht. Vorläufig können wir nichts tun als eben von Sonntag zu Sonntag «unentwegt» das <hi rend="italic">Andere</hi> sagen und vor allem selbst ein bißchen fester werden in diesem Andern. Was sonst einen Sinn hätte, weiß ich nicht.</p>
+        <p>Die deutschen Mäuler gehen jetzt entsetzlich weit auf (vide Rede des <persName ref="kbga-actors-902">Reichskanzlers</persName> an die Volksmasse im heutigen Mittagsblatt), und es wird gleich noch viel ärger kommen. […]</p>
+        <closer>
+          <salute>Mit herzlichem Gruß an dich und deine liebe <persName ref="kbga-actors-403">Braut</persName></salute>
+          <salute>von <persName ref="kbga-actors-26">Nelly</persName>, <persName ref="kbga-actors-5802">Fränzeli</persName> und
+          deinem getreuen</salute>
+          <signed><persName ref="kbga-actors-2151">K. Barth</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

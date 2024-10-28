@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-19003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-19">Vorträge und kleinere Arbeiten 1922–1925</title>
+        <title type="content">«Über Kirche»</title>
+        <title type="citation_line_1">Barth, Karl: «Über Kirche», 8. Januar 1922</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/19003 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1922–1925, hrsg. v. Finze, Holger (Gesamtausgabe, Abt. III), Zürich 1990, S. 1–5.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/19003</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Vorträge und kleinere Arbeiten 1922–1925</title>
+          <title type="text">«Über Kirche»</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Finze, Holger</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1990</date>
+          <biblScope unit="page">Pp. 1-5</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">3</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe III.19, Vorträge und kleinere Arbeiten 1922-1925, 1922 speech 1</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Konzept für Referat "Über Kirche", 8. Januar 1922. <ref target="https://kba.karl-barth.ch/objects/456">KBA 11002</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weiteres Material ): Barth, Karl, [ohne Titel, Konzept für Referat "Über Kirche"], 8. Januar 1922. <ref target="https://kba.karl-barth.ch/objects/457">KBA 11003</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weiteres Material ): Barth, Karl, Über Kirche, 8. Januar 1922. <ref target="https://kba.karl-barth.ch/objects/458">KBA 11004</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1922-01-08">8. Januar 1922</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+        <language ident="lat">Latin</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>paper</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:49+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:49+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="paper">
+        <pb xml:id="p001" ed="pga"/>
+        <head>«ÜBER KIRCHE»</head>
+        <head type="sub">1922</head>
+
+        <div type="abstract">
+          <p>Auf Initiative von <persName ref="kbga-actors-393">Carl Stange</persName><note xml:id="n01">
+                            
+                                <persName ref="kbga-actors-393">Carl Stange</persName> (1870–1959), 1904 Professor für
+              Systematische Theologie in Greifswald, 1912–1937 in Göttingen.</note> fand in
+            dessen Göttinger Hause (<address><addrLine>Hanssenstraße 10</addrLine></address>)
+            im Wintersemester <date from="1921" to="1922">1921/22</date> jeweils am
+            Sonntagabend ungefähr «alle 14 Tage eine theologische Zusammenkunft»<note xml:id="n02">
+                            <bibl corresp="kbga-bibls-966">
+                                Bw. R., S. 170 (10.1.1922).</bibl></note> statt, deren regelmäßige Teilnehmer neben dem
+            Einladenden <persName ref="kbga-actors-184">Emanuel Hirsch</persName><note xml:id="n03">
+                            
+                                <persName ref="kbga-actors-184">Emanuel Hirsch</persName> (1888–1972), 1921 Professor in
+                Göttingen, zunächst für Kirchengeschichte, ab 1935 für Systematische Theologie, 1945
+              emeritiert.</note> und <persName ref="kbga-actors-2151">Karl Barth</persName> (meist mit Ehefrauen) waren.<note xml:id="n04">Vgl.
+                <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p015#p015">S. 15</ref> (27.11.1921)</bibl>:
+              «Heute Abend sind wir bei <persName ref="kbga-actors-393">Stange</persName> mit
+                <persName ref="kbga-actors-321">Pipers</persName> zusammen. Er will ihn, <persName ref="kbga-actors-184">Hirsch</persName> und mich in einer Art <orgName ref="kbga-actors-8723">Kränzchen</orgName> um sich
+              scharen unter der Flagge ‹Wir Jüngeren›!!!, wahrscheinlich ist er ein Fuchs; ich…
+              will den Anlaß benützen, einmal in die Geschichte hineinzusehen.» <persName ref="kbga-actors-321">Piper</persName> hat offenbar nicht regelmäßig an den Abenden
+              teilgenommen.</note> Gastweise gesellten sich gelegentlich z. B. <persName ref="kbga-actors-321">Otto Piper</persName><note xml:id="n05">
+                            
+                                <persName ref="kbga-actors-321">Otto Piper</persName> (1891–1971), ab 1920 Privatdozent für Systematische
+              Theologie in Göttingen, 1928 dort a.
+              o. Professor, 1930 o. Professor in
+                Münster, 1934 Gastprofessor in
+                Wales, lehrte ab 1937 in
+                Princeton/USA.</note>, <persName ref="kbga-actors-1273">Ernst
+              Strasser</persName><note xml:id="n06">
+                            
+                                <persName ref="kbga-actors-1273">Ernst
+                Strasser</persName> (1892–1978), Inspektor des
+              lutherischen Stiftes in Göttingen von 1920 bis 1922, später Pastor in Lübeck und
+                Hildesheim, Superintendent und Konsistorialrat in
+                Ilfeld, Schloßprediger in Hannover;
+                1947–1960 Propst in
+              Uelzen.</note> und <persName ref="kbga-actors-429">Georg
+              Wobbermin</persName><note xml:id="n07">
+                            
+                                <persName ref="kbga-actors-429">Georg
+                Wobbermin</persName> (1869–1943), seit 1898 Privatdozent für Systematische Theologie in
+                Berlin, 1906 a.o. Professor in
+                Marburg, 1907 o. Professor in
+                Breslau, 1915 in
+                Heidelberg, 1922 in
+                Göttingen, ab 1935 in
+                Berlin.</note> hinzu. Zum ersten Abend kam man am <date when="1921-11-27">27. November 1921</date> zusammen. Nach dem Vortrag eines oder
+            kurzen Referaten mehrerer der Teilnehmer wurde jeweils das Gespräch eröffnet. Unter den
+            behandelten Themen des von <persName ref="kbga-actors-2151">Barth</persName> sog. «<orgName ref="kbga-actors-8723">Stange-Kränzchens</orgName>» waren: am <date when="1921-12-11">11. Dezember
+              1921</date> Vortrag <persName ref="kbga-actors-393">Stanges</persName> «über den
+            Entwicklungsbegriff in der Religionsgeschichte»<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p022#p022">S. 22f.</ref> (11./12.12.1921).</bibl></note>; am <date when="1922-01-08">8. Januar 1922</date> der folgende Vortrag <persName ref="kbga-actors-2151">Barths</persName>
+            «Über Kirche»; am <date when="1922-01-22">22. Januar</date> Vortrag <persName ref="kbga-actors-184">Hirschs</persName> «über den Begriff des historischen
+              Verstehens»<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p031#p031">S. 31</ref> (22./23.1.1922).</bibl></note>; am <date when="1922-02-05">5. Februar</date> Referat von <persName ref="kbga-actors-393">Stange</persName>, <persName ref="kbga-actors-184">Hirsch</persName> und <persName ref="kbga-actors-2151">Barth</persName> «über unser Verhältnis zu <persName ref="kbga-actors-550">Feuerbach</persName>»<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-932">ebd.</bibl>; <persName ref="kbga-actors-2151">Barths</persName> Beitrag siehe unten <ref type="pub" target="../volume/19/p006#p006">S. 6ff.</ref></note>; am <date>12.
+              Februar</date> Ge<pb xml:id="p002" ed="pga" break="no"/>spräch über «das Problem der
+            Christlichen Kunst»<note xml:id="n11">
+                            <persName ref="kbga-actors-2151">K. Barth</persName> brieflich an seine <persName ref="kbga-actors-18">Mutter</persName> am <date when="1922-02-27">17.2.1922</date>
+              (<ref type="kba-objects-id" target="11534">Original im K. Barth-Archiv</ref>, Basel).</note>; am <date when="1922-02-26">26.
+              Februar</date> Referat <persName ref="kbga-actors-393">Stanges</persName> über «Leib
+            und Seele»<note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p050#p050">S. 50f.</ref> (27.2.1922).</bibl></note>; am <date when="1922-05-21">21. Mai</date> Vortrag eines «längeren Exkurs[es]
+            über <persName ref="kbga-actors-443">Zwingli</persName>»<note xml:id="n13">Vgl. <bibl corresp="kbga-bibls-932">
+                                Bw. Th. II, <ref type="pub-" target="../volume/04/p079#p079">S. 79</ref> (22.5.1922).</bibl> Es
+              handelt sich hierbei wohl um den <persName ref="kbga-actors-443">Zwingli</persName>
+              behandelnden Abschnitt aus dem einleitenden <ref type="pub-" target="23003">ersten Kapitel</ref> von <persName ref="kbga-actors-2151">Barths</persName> Vorlesung im SS
+                1922, <bibl corresp="kbga-bibls-33">«Die Theologie
+                      Calvins»</bibl>
+              (Veröffentlichung in der Gesamtausgabe in Vorbereitung). <persName ref="kbga-actors-2151">Barth</persName> hatte diesen Abschnitt
+              am <date when="1922-05-12">12.</date> und <date when="1922-05-15">15. Mai 1922</date>
+              im Kolleg vorgetragen und also im darauffolgenden «<orgName ref="kbga-actors-8723">Stange-Kränzchen</orgName>» wiederholt.</note> von <persName ref="kbga-actors-2151">Barth</persName>. Rückblickend auf das
+            Referat «Über Kirche» schrieb <persName ref="kbga-actors-2151">Barth</persName> an seine <persName ref="kbga-actors-18">Mutter</persName>: «Vorgestern war zum ersten Mal wieder Stange-Kränzchen, das sich
+            nicht übel anläßt. <persName ref="kbga-actors-393">Stange</persName> u. <persName ref="kbga-actors-184">Hirsch</persName> möchten
+            mich gerne in die Zange nehmen[,] und ich bin ja wirklich eine rechte Unschuld neben
+            diesen gelehrten Akademikern. Aber bis jetzt ließ ich mich noch nicht erwischen.»<note xml:id="n14">Postkarte, Poststempel vom <date when="1922-01-11">11.1.1922</date>
+              (<ref type="kba-objects-id" target="11489">Original im K. Barth-Archiv</ref>, Basel).</note> <persName ref="kbga-actors-2151">Barths</persName> Referat blieb
+              unveröffentlicht.<note xml:id="n15">Das <ref corresp="A">Mskr</ref>. trägt die am Rand mit Bleistift
+              nachgetragene Überschrift: «Über
+                  <hi rend="italic">Kirche</hi>. <date when="1922-01-08">8.1.22</date>. (<orgName ref="kbga-actors-8723">Stange-Kränzchen</orgName>)».</note>
+          </p>
+        </div>
+        <div>
+          <head>«Über Kirche»</head>
+          <p>1. Gottes Offenbarung ist Offenbarung der Wahrheit. Das ist die <hi rend="italic">Wahrheit</hi>, daß der Mensch sich in einer letzten Krisis befindet. Seine höchste
+            Verheißung ist es, die ihm s[eine] tiefste Not bereitet[,] und seine tiefste Not ist
+            selbst seine höchste Verheißung. Er ist gerichtet und darum gerechtfertigt. Er ist ein
+            Sterbender und darum ein Lebender. Er ist Kreatur und darum Gottes Kind. Aber dieses
+            «und darum» ist das Ende aller Dinge, aller Geschichte, aller Anschaulichkeit, aller
+            Möglichkeit und der Anfang einer neuen Welt. D. h. aber: die Wahrheit ist uns nie
+            gegeben, sie ist nur Wahrheit als <hi rend="italic">Offenbarung</hi>, als Wort und Wunder
+            Gottes. Sie ist in ihrem Wesen das absolute Paradox, Wahrheit für <hi rend="italic">uns</hi>
+            nur in und aus Gott selber. <hi rend="italic">Wird</hi> sie Wahrheit für uns, so hat Gott
+            sich uns offenbart. Ob sie für uns Wahrheit ist, das ist für uns in jedem Augenblick der
+            Zeit problematisch, denn in jedem Augenblick der Zeit aufs Neue hängt die Realität der
+            Offenbarung an dem ewigen Willen und Wohlgefallen Gottes[,] und nur im Hinblick auf Gott
+            kann u. darf von <pb xml:id="p003" ed="pga"/> einer Heilsgewißheit unsrerseits die Rede
+            sein. Den schärfsten Ausdruck für diesen Sachverhalt finde ich darin, daß im Bereich der
+            biblischen Welt die Offenbarung exklusiv in dem unerhörten Weg Jesu Xi [Christi] vom
+            Kreuz zur Auferstehung gesucht u. gefunden worden ist.</p>
+          <p>2. Im Bereich der bibl. Welt rücken darum alle relig. Begriffe in das Licht dieser
+            letzten Krisis. Sie werden samt u. sonders eschatologisch[,] d. h. sie begreifen samt u.
+            sonders das Vergehen dieser Welt u. das Kommen des R[eiches] G[ottes].<note xml:id="n16">Vgl. <bibl corresp="kbga-bibls-1615">
+                                <hi rend="italic">Die Didache</hi> (<foreign xml:lang="grc" rend="Ell">Διδαχὴ τῶν δώδεκα ἀποστόλων</foreign>), hrsg. von
+                    H. Lietzmann, Bonn 1912<hi rend="sup">3</hi>, S. 11 (Kap. 10,6)</bibl>: <foreign xml:lang="grc" rend="Ell">Ἐλθέτω χάρις καὶ παρελθέτω ὁ κόσμος οὗτος</foreign>.</note> Sie
+            reden in möglichen Worten vom Unmöglichen, in menschlichen anschaulichen Worten von der
+            unanschaulichen Wirklichkeit Gottes. Sie sind Versuche, die ewige Offenbarung zeitlich
+            zu fassen[,] und weisen als solche von sich selbst weg, über sich selbst hinaus auf
+            ihren Gegenstand, der doch selber nie ein Gegenstand unter andern ist noch werden kann.
+            Sie werden dialektisch. Sie werden zu Grenzbegriffen. Sie werden samt u. sonders voll
+            heimlicher Negativität und nur in ihrer Negativität positiv u. wahr. Sie begreifen die
+            Beziehung <hi rend="italic">Gottes</hi> zum Menschen, die nur in fortschreitenden Aufhebungen
+            der Beziehung des <hi rend="italic">Menschen</hi> zu Gott[,] d. h. der sog. <hi rend="italic">religiösen</hi> Beziehung klar zu machen ist. Ihre Eindeutigkeit besteht in ihrer
+            vollen bewußten Zweideutigkeit. Sie sind Antworten, indem sie Fragen sind. Sie sind
+            Mitteilungen über Gott, indem sie Gott nach Maßgabe des 2<hi rend="sup">ten</hi> Gebotes
+              [<ref type="can" subtype="bible" target="Ex.20.4 Ex.20.6">Ex. 20,4–6</ref>] tunlichst
+            verhüllen. Sie setzen Offenbarung voraus und sie sind Hinweis auf Offenbarung. Nicht
+            weniger[,] aber auch nicht mehr.</p>
+          <p>3. In diesem Sinn bezeichnet der Begriff der <hi rend="italic">Kirche</hi> die Beziehung
+            Gottes zum Menschen in Rücksicht auf seine geschichtliche Gemeinschaft zu den
+            Mitmenschen, anders ausgedrückt: die Gemeinschaft der Menschen in Gott. Diese
+            Gemeinschaft findet statt in X [Christus], in der Offenbarung der Wahrheit. Denn daß
+            Einer im Andern seinen Bruder in Gott, d. h. aber letztlich sich selbst erkenne, das ist
+            das absolute Paradox der Wahrheit, das ist nie direkt, das ist nur durch Offenbarung
+            Wahrheit. C. A. «<foreign xml:lang="lat">eccl[esia] est congr[egatio] sanctorum in qua
+              ev[an]g[elium] recte docetur et recte administrantur sacramenta.</foreign>»<note xml:id="n17">
+                            <bibl corresp="kbga-bibls-13">
+                                <title level="a">Confessio Augustana</title> (1530), BSLK 59,17–60,3</bibl>: «<foreign xml:lang="lat">Est autem
+                ecclesia congregatio sanctorum, in qua evangelium pure docetur et recte
+                administrantur sacramenta.</foreign>» Für die Lesart «<foreign xml:lang="lat">recte docetur</foreign>» siehe den
+              textkritischen Apparat <bibl corresp="kbga-bibls-14">
+                                BSLK 60.</bibl></note>
+          </p>
+          
+          <p>
+                        <pb rend="noPipe" xml:id="p004" ed="pga"/> 4. Eben in diesem <foreign xml:lang="lat">recte</foreign> ist nun aber auch der kritische Sinn dieses Begriffs
+            ausgesprochen. Wo geht es <foreign xml:lang="lat">recte</foreign> zu, wenn G[ott] u. M[ensch] sich gegenüberstehen? Wenn
+            G.’s Wort auf M[enschen]lippen ertönt, von M.ohren vernommen werden soll? Wie kann das
+            Wort u. Wunder G.’s zu einem menschlichen Tun werden. Aller Reichtum kirchl.
+            Möglichkeiten kann nicht darüber wegtäuschen, daß der M. als M. sich so auf einem
+            verlorenen Posten befindet. Wehe ihm, wenn er es nicht weiß
+              (Israel, Rom etc.). Das Verderben der
+            Kirche ist das Nicht-Wissen von dem Gericht[,] unter dem sie steht. Darum <hi rend="italic">
+                            <persName ref="kbga-actors-261">Luther</persName></hi>; «<foreign xml:lang="lat">sec. sensum nusquam apparet</foreign>»<note xml:id="n18">
+                            <bibl corresp="kbga-bibls-561">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <title level="a">In epistolam S. Pauli ad Galatas
+                      Commentarius 1531 (1535)</title>, 
+                                    WA
+40/II, 106,21–23</bibl>: «<foreign xml:lang="lat">Deus enim ita abscondit et obruit eam [scil, ecclesiam]
+                infirmitatibus, peccatis et erroribus, variis formis Crucis et scandalis, ut
+                secundum sensum nusquam appareat.</foreign>»</note>. Lehre von der eccl.
+              invisib[ilis].<note xml:id="n19">Zur Unterscheidung der «<foreign xml:lang="lat">ecclesia visibilis</foreign>» von der «<foreign xml:lang="lat">ecclesia
+                invisibilis</foreign>» vgl. z. B. <bibl corresp="kbga-bibls-263">
+                                HpB 540f.</bibl>; <bibl corresp="kbga-bibls-1616">
+                                SchmP
+                  374–376.</bibl></note> Keine <hi rend="italic">zweite</hi> neben jener, sondern die göttliche Möglichkeit
+              <hi rend="italic">in</hi> ihr, über ihr. Nur von ihr gilt «<foreign xml:lang="lat">una
+              sancta, catholica, apostolica</foreign>»<note xml:id="n20">
+                            <bibl corresp="kbga-bibls-14">
+                                <title level="a">Symbolum Nicaenum</title>,
+                    BSLK 26,3; 27,7f.</bibl>: «<foreign xml:lang="lat">Credo… unam, sanctam, catholicam et apostolicam
+              ecclesiam.</foreign>»</note>. Unnötig[,] nach neuer Kirche und Kirchenform zu
+            suchen.</p>
+          <p>5. Was wird aus der <foreign xml:lang="lat">eccl. vis[ibilis]</foreign>? Sie rückt in
+            die Reihe der menschl. Möglichkeiten, aller Kritik ist Raum zu geben, Beugung vor <hi rend="italic">Gott</hi> u. s. Walten. Aber eben darum auch Ruhe [?] zu relativer Arbeit in
+            ihr. Ja wer wird so bestehen [vgl. <ref type="can" subtype="bible" target="Ps.130.3">Ps. 130,3</ref>]? aber [?]<note xml:id="n21">«eben»?</note> im Aufdecken der Freiheit
+            Gottes, der doppelten Prädestination, des göttlichen Erbarmens. Darum nicht
+            Menschendienst: Element d. Beunruhigung. Hier Not u. Hoffnung am Brennendsten. Hier Lage
+            d. M. am Ehrlichsten erkannt. Selbstverständlich in Kontakt mit den andern Möglichkeiten,
+            aber nie in ihrem Dienst, immer gedenkend der letzten Dinge.<note xml:id="n22">Dem <ref corresp="B">Mskr</ref>.
+              <persName ref="kbga-actors-2151">Barths</persName> liegt ein Zettel mit folgenden handschriftlichen Notizen bei: «<hi rend="italic">1. Der Begr. d. Kirche ist ein dialektischer
+                    Begriff</hi>. Er entsteht an d. Grenze von Zeit u. Ewigkeit,
+              Mensch u. Gott, Diesseits u. Jenseits. Wir haben uns zu hüten vor allen triftigen [?]
+              Konkretheiten <hi rend="italic">u</hi>. Abstraktheiten, noch mehr aber vor der Kombination
+              beider. Immer beziehen sich die abstrakten Aussagen auf die <foreign xml:lang="lat">eccl[esia] vis[ibilis]</foreign>. Immer werden alle konkreten Aussagen aufgehoben
+              durch ihre Beziehungen auf die <foreign xml:lang="lat">eccl[esia] invis[ibilis]</foreign>.» Es handelt sich vermutlich
+              um einen abgebrochenen ersten Entwurf zu dem Referat. Weiterhin ist dem Manuskript
+              beigefügt eine Sammlung von Zitaten zur Ekklesiologie. Den Namen der Autoren folgt
+              jeweils (mit Ausnahme des ersten ohne nähere Quellenangabe) ein Zitat oder auch eine
+              Mehrzahl von Zitaten. Es sind dies: (erstes Blatt) <persName ref="kbga-actors-1063">Irenäus</persName>, <persName ref="kbga-actors-2371">Cyprian</persName>, <persName ref="kbga-actors-2162">Bonifaz VIII.</persName>, <persName ref="kbga-actors-2346">Bellarmin</persName>, <bibl corresp="kbga-bibls-13">C[onfessio]
+                A[gustana]</bibl>, <persName ref="kbga-actors-272">Melanchthon</persName>,
+                <persName ref="kbga-actors-1004">Gerhard</persName>; (zweites Blatt) <persName ref="kbga-actors-261">Luther</persName>, <persName ref="kbga-actors-443">Zwingli</persName>,
+              <persName ref="kbga-actors-261">Luther</persName>.</note> 
+           
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

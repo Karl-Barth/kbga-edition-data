@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3177">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Eduard Thurneysen an Karl Barth</title>
+        <title type="citation_line_1">Eduard Thurneysen an Karl Barth, 26. Juli 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3177 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 218a–219.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3177</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Eduard Thurneysen an Karl Barth</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 218a-219</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">177</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 172</title>
+          <author ref="kba-actors-403">Thurneysen, Eduard</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Thurneysen, Eduard, Eduard Thurneysen an Karl Barth, 26. Juli 1917. <ref target="https://kba.karl-barth.ch/objects/9499">KBA 9370.201</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-07-26">26. Juli 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+          <date when="1917-07-26">26. Juli 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3176"/>
+          <ref type="next" target="kbga-texts-3178"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3176"/>
+          <ref type="next-in-corresp" target="kbga-texts-3178"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p218" ed="pga"/>
+        <opener>
+          Thurneysen
+          <dateline>
+            
+            <date when="1917-07-26">26. Juli 1917</date>
+          </dateline>
+          <salute>Liebe Freunde,</salute>
+        </opener>
+        <p><persName ref="kbga-actors-63">Emil Brunner</persName> erschien mit seiner Braut. Wir haben uns an beiden gefreut. Er las eine längere Arbeit vor über Reich Gottes und Reformation, eine Art Besinnung über die Reformation von unsern Gedanken aus. Ich hatte eigentlich mehr erwartet, als schließlich dabei herauskam.</p>
+        <p>Viel mehr bin ich gespannt auf das, was du im Baselbiet sagen wirst. Ich kann aber nicht kommen. […] — Ich bin immer noch in der Auseinandersetzung mit dem Pietismus. <bibl corresp="kbga-bibls-4459"><persName ref="kbga-actors-612">Hofacker</persName></bibl> ist noch unter meinen Händen. Ich habe daneben auch die vielberufene Gegenschrift <persName ref="kbga-actors-677">Märklins</persName><note xml:id="n01">
+                        <bibl corresp="kbga-bibls-4069"><persName ref="kbga-actors-677">C. Märklin</persName>, <title level="m">Darstellung und Kritik des modernen Pietismus. Ein wissenschaftlicher Versuch</title>, Stuttgart
+                            1839.</bibl> — Über Märklin (<choice><sic>1771-1841</sic><corr type="misprint" resp="sm">1807–1849</corr></choice>) vgl. <bibl corresp="kbga-bibls-4070"><persName ref="kbga-actors-398">D. F. Strauß</persName>, <title level="m">Christian Märklin. Ein Lebens- und Charakterbild aus der Gegenwart</title>, Mannheim
+                            1851.</bibl>
+               </note> durchgegangen und will dann von <persName ref="kbga-actors-612">Hofacker</persName> weiter zu den beiden Altersgenossen <persName ref="kbga-actors-633">Kapff</persName><note xml:id="n02"><seg type="bio"><persName ref="kbga-actors-633">Sixt Karl von Kapff</persName> (1805–1879), württembergischer Pietist.</seg></note> und <persName ref="kbga-actors-398">D. Fr. Strauß</persName>. In <persName ref="kbga-actors-468">Christian Gottlob Barths</persName><note xml:id="n03">
+                        <bibl corresp="kbga-bibls-4071"><persName ref="kbga-actors-2622">K. Werner</persName>, <title level="m">Christian Gottlob Barth, Doktor der Theologie, nach seinem Leben und Wirken gezeichnet</title>, 2 Bände, Calw/Stuttgart 
+                        1865/66.</bibl> — <seg type="bio"><persName ref="kbga-actors-468">C. G. Barth</persName> (1799 bis 1862) war in <placeName ref="kbga-places-591">Möttlingen</placeName> Vorgänger von <persName ref="kbga-actors-48">J. C. Blumhardt</persName>.</seg></note> Leben habe ich nachgeschaut, aber fast nichts über den ältern <persName ref="kbga-actors-48">Blumhardt</persName> gefunden. Überhaupt wo bleibt Blumhardt und was er zu sagen hat bei seinen Vorgängern, Zeitgenossen und Nachfahren? Er taucht kaum einmal auf in diesem sonst so geräuschvollen Gewoge frommer Männer. Da ist wenig mehr von einsamen Abrahamsweglein zu spüren, dafür: <pb xml:id="p219" ed="pga"/> volle Kirchen, Missionsfeste, Bibeltage, Streitschriften, gläubige Professoren, Kirchenpolitiker, ein ganzer Apparat, ein gewaltiges Singen und Predigen und Beten. Manchmal spüren es die Beteiligten ja selber, daß da nicht viel herauskomme. Und schließlich zucken die 48er Blitze über den Himmel, und darüber geht eigentlich allen der Atem aus. Ich bin dir aber jedenfalls dankbar, daß du mich auf diesen Pietistenschwarm hingewiesen hast. Er hat uns doch allerlei zu sagen, negativ und auch positiv.</p>
+        <p>Wir freuen uns fortgesetzt über den Sommer, gestern habe ich sogar unter grünen Bäumen über die Erzväter geredet mit meiner Schar.</p>
+        <closer>
+                    <salute>Ich freue mich ganz stark, bis ich euch wieder sehe und grüße
+euch bis dahin samt <persName ref="kbga-actors-1285">Marguerite</persName> von Herzen.</salute> <salute>Euer</salute>
+                    <signed><persName ref="kbga-actors-403">Eduard</persName></signed>
+                </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3206">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. Dezember 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3206 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 250–253.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3206</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 250-253</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">206</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 199</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. Dezember 1917. <ref target="https://kba.karl-barth.ch/objects/9665">KBA 9270.158</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-12-17">17. Dezember 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-12-17">17. Dezember 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3205"/>
+          <ref type="next" target="kbga-texts-3207"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3205"/>
+          <ref type="next-in-corresp" target="kbga-texts-3207"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:31+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p250" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-12-17">17. Dezember 1917</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ja, ich habe den letzten <ref type="pub" target="3205">Montag</ref> auch in der seltsamsten Erinnerung, bin aber doch froh, dabei gewesen zu sein. Eingegriffen habe ich nicht […], empfing aber zum Schluß im Privatgespräch von <persName ref="kbga-actors-330">Ragaz</persName> noch die Mitteilung, <hi rend="italic">das</hi> sei nun eben die wahre Art gewesen, von den Taten Gottes zu reden, was ich stumm und höflich entgegennahm. Die Geschichte endigte damit, daß alle noch ihre Adressen austauschten, das Letzte, was ich hörte, war ein lautes Rufen von St. nach Nachtessen. Auf dem Heimweg über den <placeName ref="kbga-places-501">Engelberg</placeName> gelang es immerhin, den Herrn L. etwas zum Schweigen zu bringen; er wußte schließlich nur noch <persName ref="kbga-actors-564">Gerbers</persName> Frömmigkeit zu rühmen!! <persName ref="kbga-actors-240">Kutters</persName> Bücher schneiden sie scheints <pb xml:id="p251" ed="pga"/> dort hinten nicht einmal mehr auf! Mein Brief an <persName ref="kbga-actors-588">Guidon</persName> habe allgemeine Entrüstung erregt, ich gelte ihnen nun als der typische «Theologe», wogegen der deinige an <persName ref="kbga-actors-564">Gerber</persName> die Stimmung dann wieder verbessert habe. Was mich aufs Neue darin bestärkt, daß das Departement des Äußern besser in deinen Händen ruht als in den meinigen. Der gute Z. ist auch ein Greis auf dem Dache, der sich nicht zu helfen weiß. Er hat zwei Jahre die Militärsteuer verweigert, die ihm dann heimlich von verwandter Seite doch bezahlt wurde!! Nun will ers doch wieder tun, da «der Militarismus jetzt eigentlich erledigt sei». In seiner Gemeinde offenbar alle mögliche Beunruhigung, in die er allerlei hineinruft. Ich kam seinem dumpf rauchenden Feuer nicht recht bei, zu hören oder zu lesen begehrt er nichts, er schwingt ganz in sich selber, und so nahmen wir bald wieder freundlich Abschied. Die Haltlosigkeit des <orgName ref="kbga-actors-9899">Oltener Unternehmens</orgName> war ihm aber auch aufgegangen, und die Situation zwischen uns und den Andern hatte er auch durchschaut, nur daß er mehr als Zuschauer hin- und herwandert und Alles zu vorderhand unerklärlichen Zwecken auf sein Berner Gemüt wirken läßt.</p>
+        <p>Die <persName ref="kbga-actors-457">Bader</persName>’sche Welt ist mir sehr fremd, und den Schulmeisterton, den er uns gegenüber immer anschlägt, habe ich satt. Wir wollen, <persName ref="kbga-actors-330">Ragaz</persName> glücklich entronnen, ja nicht unter diese Traufe kommen. […] [Seine] «Bitte um Stillschweigen»! Ja, ja! Das Nächste [was <persName ref="kbga-actors-457">Bader</persName> uns empfehlen wird] sind dann des Nachts phosphoreszierende Wandsprüche, wie die, mit denen Sch. hausiert! Und das Übernächste relig. soziale Totenkränze unter Glas zu hängen! […]</p>
+        <p>Hier war am Samstag Neuwahl in den Gemeinderat für zwei vom Regierungsrat kassierte Wahlen.<note xml:id="n01">Die Wahl zweier sozialdemokratischer Kandidaten war vom Regierungsrat (= Kantonsregierung) für ungültig erklärt worden.</note> Die Freisinnigen haben sich nun aufgerafft und den Sieg errungen, aber es ging nahe aneinander; die Differenz zu der sozialdemokratischen Stimmenzahl ist nur noch knapp 20. Wahrscheinlich wird sich nun der Groll gegen mich wieder etwas legen. Aber morgen Abend ist Kirchenpflegssitzung, wo W. [der Präsident] seine Fahne entrollen will. Kirchenrat <persName ref="kbga-actors-595">Haller</persName> sieht milde über die Grenze.</p>
+        <pb xml:id="p252" ed="pga"/>
+        <p>Und nun kommt da gestern der Brief der Aarauer Studenten.<note xml:id="n02"><persName ref="kbga-actors-2151">Barth</persName> war eingeladen worden, auf der <orgName ref="kbga-actors-5240">Aarauer Studentenkonferenz</orgName> <date when="1918">1918</date> über das Thema «Erlösung» zu sprechen. Er lehnte dann ab. Von den im folgenden Genannten war nur <persName ref="kbga-actors-661">R. Lejeune</persName> unter den Aargauer Referenten von <date when="1918">1918</date>.</note> Ich bin ratlos. Natürlich sollte ich annehmen. Aber das war mir sofort klar: <hi rend="italic">wenn</hi> ichs tue, dann müßte nun endlich einmal die uns schon lange obliegende Auseinandersetzung mit <persName ref="kbga-actors-81">Cohen</persName> und <persName ref="kbga-actors-293">Natorp</persName> sich ereignen, mit der <hi rend="italic">allein</hi> den Ragazianern gegenüber reiner Tisch geschafft werden kann. Das naive Wiederholen unserer Positionen hat in <hi rend="italic">diesem</hi> Kreis keinen Sinn, wir müßten auf die tiefsten Voraussetzungen, von denen die Leute herkommen, eingehen und zeigen, warum wir gerade von dort her, vom <foreign xml:lang="grc" rend="Ell">νόμος</foreign> im reinsten Sinne, das Ärgernis und die Torheit [vgl. <ref type="can" subtype="bible" target="1.Kor.1.23">1.Kor 1,23</ref>] behaupten müssen. Aber woher nehme ich die Zeit zu diesem Unternehmen? Natürlich lockt es mich mächtig! Aber der <bibl corresp="kbga-bibls-1497">Römerbrief</bibl>, mit dem ich ohnehin im ärgsten Gedränge bin! Ich hätte einfach ein schlechtes Gewissen, wenn ich mir nun diese Diversion gestattete, noch dazu in der strengsten Zeit des «Kirchenjahrs». Und darum möchte ich dich allen Ernstes fragen, ob ich ihnen nicht <hi rend="italic">dich</hi> angeben darf als Retter in der Not. Du würdest dich nun die nächsten Monate nur dieser Sache widmen und dann einen großen wohlgezielten Schlag führen, was es bei mir vermutlich doch nicht würde. Das Thema und die Sache und die Gelegenheit <hi rend="italic">muß</hi> dich ja freuen. — Eine ganz andere Möglichkeit wäre ja nun die, das Feld dies Jahr überhaupt zu räumen und ihnen ans Herz zu legen, nun einmal gründlich die <hi rend="italic">andere</hi> Seite zu hören, etwa in Gestalt meines Bruders <persName ref="kbga-actors-23">Heinrich</persName>, der mit <persName ref="kbga-actors-661">Lejeune</persName><note xml:id="n03"><seg type="bio"><persName ref="kbga-actors-661">Robert Lejeune</persName> (<date from="1891" to="1970">1891–1970</date>), Pfarrer in Graubünden, später in Zürich, Freund von <persName ref="kbga-actors-330">L. Ragaz</persName></seg>.</note> und <persName ref="kbga-actors-445">Adler</persName><note xml:id="n04"><seg type="bio"><persName ref="kbga-actors-445">Max Adler</persName> (<date from="1873" to="1937">1873–1937</date>), österreichischer Marxist.</seg></note> ein ungleich harmonischeres Ganzes bilden würde als ich oder du. Was hältst du davon? Aber bitte sag nun nicht unbesehen, ich soll den Elefanten nur machen, es stehe mir wohl an etc. Du weißt ja, wie ich dran bin und daß, wenn ich absage, auch wichtige Interessen im Spiel sind. Wie lösen wir diesen Knoten? Könnte ich nur meinen Sohn <persName ref="kbga-actors-24">Markus</persName> mitten unter sie stellen! […]</p>
+        <p>Das Predigen fällt mir all die Zeiten immer schwerer. Ich sprach gestern entsprechend meiner Lage über den <ref type="pub-" target="32048">Unglauben und die Stummheit</ref> des <persName ref="kbga-actors-6493">Zacharias</persName> <ref type="can" subtype="bible" target="Lk.1">Luk. 1</ref>.</p>
+        <p>Wenn nur die Leute in <placeName ref="kbga-places-9">Bern</placeName> unser <bibl corresp="kbga-bibls-1461">Buch</bibl> noch herausbringen, solange die Käufer noch Weihnachtsbatzen im Sack haben. Die <pb xml:id="p253" ed="pga"/> Korrekturen sind durch, aber wenn nun dort nicht ganz entschieden gearbeitet wird, ist der «Lack» da.</p>
+        <closer>
+          <salute>Mit herzlichem Gruß auch von <persName ref="kbga-actors-26">Nelly</persName> und an Mutter <persName ref="kbga-actors-1285">Marguerite</persName></salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

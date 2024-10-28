@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3427">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 17. Juli 1921</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3427 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 503–505.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3427</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 503-505</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">427</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 416</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 17. Juli 1921. <ref target="https://kba.karl-barth.ch/objects/11219">KBA 9270.315</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1921-07-17">17. Juli 1921</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1921-07-17">17. Juli 1921</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3426"/>
+          <ref type="next" target="kbga-texts-3428"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3426"/>
+          <ref type="next-in-corresp" target="kbga-texts-3428"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:47+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:47+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+        <pb xml:id="p503" ed="pga"/>
+        <opener>
+          Barth
+          <dateline>
+            <date when="1921-07-17">17. Juli 1921</date>
+          </dateline>
+          <salute>Lieber <persName ref="kbga-actors-403">Eduard</persName>!</salute>
+        </opener>
+        <p>Ich sitze wieder zu Hause und suche Ordnung zu machen im Getümmel von Eindrücken und Ereignissen der letzten Woche. Es war ein unendliches Herumlaufen, Begrüßen, Hören und Reden in allertiefsten und allergewöhnlichsten Angelegenheiten. Ich kann dir nur die Summe mitteilen. Es wurde in solennster Weise ein Bauplatz gekauft, in beherrschender und waldnaher Lage, — wenn das zu errichtende Haus ebenso gut wird, sicher eine verheißungsvolle Stätte. Es wurde beschlossen, auf den Winter in <placeName ref="kbga-places-99">Oberrieden</placeName> doch zu verzichten und auf <date to="1921-10-31" from="1921-10-25">Ende Oktober</date> meinen, <persName ref="kbga-actors-26">Nellys</persName> und der zwei Jüngsten Aufbruch anzusetzen, während <persName ref="kbga-actors-5802">Fränzeli</persName>, <persName ref="kbga-actors-24">Markus</persName> und der Hausrat dann im Frühjahr nachrücken sollen. […] Es läßt sich aber schriftlich schwer erklären, wieso wir <hi rend="italic">aus</hi> dem Gedränge schließlich diesen Weg <hi rend="italic">ins</hi> Gedränge nehmen mußten. Besonders der baldige Abmarsch hier und Aufmarsch dort wird mir ja nun sicher ein gedrängtes Maß voll Ungemach bringen, und was ich als deutscher Boden- und Hausbesitzer vor mir habe, ist auch noch nicht abzusehen. Aber es gilt nun die Zähne zusammenzubeißen und den Sprung zu wagen, und zwar gleich und ganz. Ich habe Vorlesungen gehört bei <persName ref="kbga-actors-495">Bertholet</persName>, <persName ref="kbga-actors-393">Stange</persName>, <persName ref="kbga-actors-808">Titius</persName> und <persName ref="kbga-actors-317">Peterson</persName>. Abgesehen von Letzterem, der <hi rend="italic">sehr</hi> gut über <persName ref="kbga-actors-779">Spener</persName> referierte, nahm mein Respekt vor den Akademikern eher ab als zu. Bei <persName ref="kbga-actors-317">Peterson</persName> fand ich zu meinem Befremden nur 14 Zuhörer vor und mußte dann zu meinem noch größeren Befremden vernehmen, daß es eigentlich nur zwei seien; die andern 12 waren gekommen — um <hi rend="italic">mich</hi> zu besichtigen, da es sich «herumgesprochen» hatte, daß ich dort zu sehen sein werde. Eine Studentin überreichte mir bei diesem Anlaß einen Blumenstrauß!!, was aber den fatalen Eindruck nicht verwischen konnte, daß die Leute offenbar von mir etwas anderes erwarten als von dem vortrefflichen <persName ref="kbga-actors-317">Peterson</persName>. […] Dieser beklagte sich ziemlich bitter, wie er zwischen Skylla und Charybdis drin sei, und ich benützte eine nächtliche Aussprache mit den Studenten <pb xml:id="p504" ed="pga"/> sofort, ihnen eine warme kleine Lobrede auf den — Rationalismus zu halten. Mit weit ausgebreiteten Armen empfing mich der große <hi rend="italic"><persName ref="kbga-actors-393">Stange</persName></hi> — ganz Liebenswürdigkeit und Entgegenkommen, forderte mich sofort auf, am «apologetischen Seminar <placeName ref="kbga-places-354">Wernigerode</placeName>» vom 7.-14. Oktober einen 7stündigen Kurs zu geben (in <placeName ref="kbga-places-599">Dortmund</placeName>), à 100.— Mark die Stunde, Verpflegung und Reise II. Klasse, bitteschön! Was ich selbstverständlich nicht tue. <persName ref="kbga-actors-316">Rudi</persName> und ich aßen bei ihm zu Mittag. Er […] ist ein fabelhafter Diplomat […] und möchte sichtlich und ausdrücklich mit mir «zusammenarbeiten» resp. mich in seinem latenten Krach mit der übrigen Fakultät auf seine Seite bringen. […] Seine Vorlesung über Dogmatik war auch <hi rend="italic">nur</hi> schlau, aller Dämonie entbehrend. Nicht viel anders eine über Ethik von <persName ref="kbga-actors-808">Titius</persName> […]. <persName ref="kbga-actors-495">Bertholet</persName> ist ganz Gentleman, redet sehr flüssig, weiß jedenfalls viel, ließ aber von dem, was wir <ref type="can" subtype="bible" target="Gen.14">Gen. 14</ref> vermuten, nichts hören, sondern bloß allerlei Babylonismen. Dagegen ist er ein großer Musiker, war eben ganz beschäftigt mit der Neuaufführung einer <persName ref="kbga-actors-592">Händel’</persName>schen Oper und wird jedenfalls schon via <persName ref="kbga-actors-26">Nelly</persName> in ein freundliches Verhältnis zu mir zu stehen kommen. <persName ref="kbga-actors-694">Mirbt</persName><note xml:id="n01"><seg type="bio"><persName ref="kbga-actors-694">Carl Mirbt</persName> (<date from="1860" to="1929">1860–1929</date>), Prof. für Kirchengeschichte in Marburg und Göttingen.</seg></note> empfing mich in der vollen Würde der Magnifizenz, die er eben bekleidet. […] Das übrige Personal dieser problematischen Bühne habe ich nicht zu Gesicht bekommen. […]</p>
+        <p><placeName ref="kbga-places-27">Göttingen</placeName> und Umgebung machten mir diesmal einen vorzüglichen Eindruck. Die Hitze ist lange nicht so groß wie hier. Ringsum schöne Anlagen und Wälder. Von unserem Haus aus werden wir eine gewaltige Rundsicht haben auf die bekannten weiten, weichen Hebungen und Senkungen des deutschen Geländes und — Gemütes, hätte ich bald gesagt. Müßte man nicht gerade Theologe sein, so würde sich dort trefflich leben lassen. Wie wir uns durchschlagen werden bei den greulichen Preisen und Gebühren, die man auf Schritt und Tritt bezahlen muß, das ist noch unübersehbar. Die Studenten saufen noch wie früher! […]</p>
+        <p>Wie ausgezeichnet wertvoll die Mitwirkung <persName ref="kbga-actors-316">Rudis</persName> war, ist nicht zu sagen. Ich hätte zwischen all den Agenten, Anwälten, <pb xml:id="p505" ed="pga"/> Bankiers und derartigen Figuren sicher eine Dummheit gemacht, ganz abgesehen von dem Check, den <persName ref="kbga-actors-316">Rudi</persName> im entscheidenden Moment auf den Tisch des Hauses legen konnte. Die Erwerbung von Land und Haus wird genau den Betrag unseres Vermögeleins ausmachen, sodaß wir nun auf Gedeih und Verderb mit dem deutschen Reich verbunden sind. Daß die Reise auch im übrigen nicht ohne war, darüber mag dich die beiliegende Speisewagenrechnung belehren, die natürlich nicht ich bezahlt habe. Schade, schade, daß du nicht dabei warst!</p>
+        <p>[…] Laut «<orgName ref="kbga-actors-5420">Christlicher Welt</orgName>» gehöre ich nun also bereits zu den Berüchtigten, von denen man sagt, «was sie uns heute sind». O <persName ref="kbga-actors-6561">Albers</persName>!<note xml:id="n02"><bibl corresp="kbga-bibls-1833"><persName ref="kbga-actors-6561">A. Albers</persName>, <title level="a">Johannes Müller und Karl Barth — was sie uns heute sind</title>, in: CW, Jg. 35 (1921), Sp. 498–501.</bibl></note> O Reihe von Männern, welche …! Na, das Unterseeboot wird nun nächstens tauchen und nachher sicher nicht mehr an der Seite von <persName ref="kbga-actors-8648">Johannes Müller</persName> zu sehen sein.</p>
+        <p><persName ref="kbga-actors-316">Rudi</persName> sagte mir, er werde dir einen speziellen Reisefonds zur Verfügung stellen zu einer Reihe von Retourbilletten <placeName ref="kbga-places-105">St. Gallen</placeName> — <placeName ref="kbga-places-54">Safenwil</placeName>. Nütze sie dann noch recht fleißig aus.</p>
+        <p>Grüße <persName ref="kbga-actors-275">Merz</persName> und <persName ref="kbga-actors-688">Frau</persName>; ich vermute sie noch bei dir. Wir freuen uns lebhaft auf sie. Was wird aus dem armen <bibl corresp="kbga-bibls-48">Römerbrief</bibl>? Ich muß mich nun fanatisch dranhalten. […]</p>
+        <closer>
+          <salute>Mit herzlichen Grüßen euch allen!</salute>
+          <salute>Dein</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

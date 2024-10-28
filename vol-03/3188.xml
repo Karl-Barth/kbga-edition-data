@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3188">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 11. September 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3188 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 229–231.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3188</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 229-231</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">188</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 183</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 11. September 1917. <ref target="https://kba.karl-barth.ch/objects/9561">KBA 9270.141</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-09-11">11. September 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-09-11">11. September 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3187"/>
+          <ref type="next" target="kbga-texts-3189"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3187"/>
+          <ref type="next-in-corresp" target="kbga-texts-3189"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:30+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:30+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p229" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-09-11">11. September 1917</date>
+          </dateline>
+          <salute>Lieber Freund!</salute>
+        </opener>
+        <p>Ich war in <placeName ref="kbga-places-9">Bern</placeName> und habe mit «unserm Verleger», Herrn <persName ref="kbga-actors-6579">Bäschlin</persName>, ein längeres Gespräch gehalten. Er ist, durch <persName ref="kbga-actors-316">Pestalozzis</persName> Auftreten sichtlich mitbestimmt, sehr höflich und willig und wird <pb xml:id="p230" ed="pga"/> sich sicher Mühe geben. Es wurde deutlich, daß ihm eine Abhandlung über das, was wir sagen wollen, eigentlich lieber wäre als eine Predigtsammlung, die viele Vorurteile gegen sich habe. Die zwei Vorträge zum Schluß sind ihm sehr wichtig, wir dürfen sie also nicht fallen lassen.<note xml:id="n01"><persName ref="kbga-actors-403">Thurneysen</persName> ließ seinen Safenwiler Vortrag vom <date when="1915-11-24">24.11.1915</date> über die Kirche dann doch nicht in den Band aufnehmen. Vgl. <ref type="pub" target="3197">Brief vom <date when="1917-10-30">30.10.1917</date></ref>. Dagegen wurde er <date when="1928">1928</date> in die 2. Auflage des Buches aufgenommen; vgl. <ref type="pub" target="3074#fn_n03">Anm. 3 zum Brief vom <date when="1915-10-22">22.10.1915</date></ref>.</note> Sehr billig kann das <bibl corresp="kbga-bibls-1461">Buch</bibl> nicht werden: er berechnet es auf 4-5 Fr. Ich denke kaum, daß wir weniger als je 6 Predigten geben können, wenn die Sache auch nur einigermaßen abgerundet herauskommen soll. Praktisch wäre das Resultat dieses: 1. Auf den <date when="1917-10-01">1. Oktober</date> müssen wir ihm unser Manuskript einsenden. Also sei gewaltig an der Arbeit. 2. Innerhalb der nächsten 4 Tage müssen wir ihm definitiv den Titel angeben können, wegen des Weihnachtskatalogs, in welchen wir noch (unter «Religiöse Literatur»!) hinein müssen. Darüber müssen wir uns also sofort schlüssig werden. «Es ist Alles bereit» fand er gefährlich, Spott und Widerspruch sofort herausfordernd. Was für ein dummes Geschäft, so nach einer Fahne zu suchen! Aber die Sache sei höchst wichtig und entscheidend, sagt er. Bitte, bitte setze dich hin, besinne dich, und mach mir umgehend Vorschläge. Mir fällt gar nichts ein. Vielleicht: «Die eherne Schlange»!! oder irgendetwas Schönes aus den Patriarchengeschichten. Also schnell, schnell! Ich verlasse mich ganz auf dich.</p>
+        <p>Es steht uns dann noch viel Schlimmeres bevor, nämlich die Abfassung eines Waschzeddels für die Versendung, auf dem wir in vier Sätzen packend und sensationell sagen müssen, was wir eigentlich wollen!!! Aber das kommt später.</p>
+        <p>Der <bibl corresp="kbga-bibls-1497">Römerbrief</bibl> muß auf <date when="1918-09-01">1. September 1918</date> fertig vorliegen, weil immer die Weihnacht der Termin ist, auf den solche Schläge geschehen müssen. Ohne einige Wochen oder Monate Urlaub wird es kaum abgehen, wenn die Sache gut werden soll. Und auch so wird es ein gedrängtes Jahr werden für mich. […]</p>
+        <p>Die <orgName ref="kbga-actors-9909">Organisationsbewegung</orgName> hier geht weiter, die Mitgliederzahl hat sich mehr als verdoppelt. Der Fabrikant wehrt sich krampfhaft, bald mit Einzelkündigungen (die Gesamtkündigung wird revoziert!), bald mit Einzellohnerhöhungen. Am Samstag war eine weitere <orgName ref="kbga-actors-9909">Versammlung</orgName>, an der <persName ref="kbga-actors-661">Lejeune</persName> und ich redeten. Heute <pb xml:id="p231" ed="pga"/> Abend gehts wieder los. Es ist eine Zeit, wo sich allerlei bewährt und nicht bewährt.</p>
+        <p>Was machst du am Bettag?</p>
+        <closer>
+                    <salute>Herzliche Grüße dir und <persName ref="kbga-actors-1285">Marguerite</persName>.</salute> 
+                    <salute>Dein</salute>
+                    <signed><persName ref="kbga-actors-2151">Karl</persName></signed>
+                  </closer>
+                    <postscript><p>Schreibe bald! Brich hervor!</p></postscript>
+                
+      </div>
+    </body>
+  </text>
+</TEI>

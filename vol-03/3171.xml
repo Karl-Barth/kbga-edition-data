@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3171">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 30. Juni 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3171 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 210–212.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3171</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 210-212</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">171</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 166</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Eduard Thurneysen, 30. Juni 1917. <ref target="https://kba.karl-barth.ch/objects/9468">KBA 9270.124</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-06-30">30. Juni 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+        <language ident="gre">Greek</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-06-30">30. Juni 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3170"/>
+          <ref type="next" target="kbga-texts-3172"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3170"/>
+          <ref type="next-in-corresp" target="kbga-texts-3172"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p210" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            
+            <date when="1917-06-30">30. Juni 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Das sind nun allerdings ganz große und verhängnisschwere Dinge, die sich da bei euch ereignen, und ihr könnt euch denken, daß wir ihrer Entwicklung mit höchstem Anteil folgen. Als ich zuerst den Brief von […] [<placeName ref="kbga-places-1339">Außersihl</placeName>] las, ahnte ich nicht, daß dir die Sache so nahe gehen werde. Ist das ganze neue Institut dort nicht etwas Unmögliches, eines von den vielen Kunststücken, <pb xml:id="p211" ed="pga"/> mit denen die Kirche hinter ihren versäumten Gelegenheiten herläuft, zum vornherein atavistisch belastet trotz seiner Neuheit, und zum vornherein der glatten Ablehnung derer, auf die es abgesehen ist, sicher? Eine veränderte Auflage deiner <orgName ref="kbga-actors-5239">CVJM</orgName>-Bemühungen [in <placeName ref="kbga-places-66">Zürich</placeName>]? Eine Falle für die bedauerlichen Inhaber schlimmer noch als das historische Pfarramt? Nun dir aber die Sache erwägenswert scheint, sieht sie doch auch mich ganz anders an. Sehr anders sogar als etwa neulich deine offene Tür in die [theologische] Prüfungskommission. Wenn du den Glauben hast, so ist es möglich, daß aus diesem verfehlten Kirchenmanöver etwas wird, etwas anderes als die Initianten meinen, etwas Besseres — daß du aus dir heraus den Geist ersetzest, aus dem das neue Institut nach deiner Schilderung offenbar nicht geboren ist — daß du in gänzlich verfehlter Stellung dem Spott und Hohn der Jungburschen über den neuen christlichen Schleichweg die Überlegenheit der größeren, umfassenden Sache erfolgreich entgegenwirfst. Ja, ich möchte sogar sagen, daß, wenn diese Unternehmung überhaupt einen Sinn haben soll, gerade <hi rend="italic">du</hi> sie übernehmen mußt, wenn du den Beruf und den Glauben hast. Wenns einer von den neugebackenen Kandidaten macht oder einer von den im «<orgName ref="kbga-actors-4787">Kirchenblatt</orgName>» Angelockten, dann kommts sicher schief. Wenn du es machst (<foreign xml:lang="grc" rend="Ell">ἐκ πίστεως εἰς πίστιν</foreign> [<ref type="can" subtype="bible" target="Röm.1.17">Rm 1,17</ref>]), so wird es dir schwerste Konflikte und Leiden eintragen, aber es <hi rend="italic">geht</hi> dann etwas auf dem verlorenen Posten. Ich suche mir die Sache auch von deinem persönlichen Standpunkt aus zu denken. Du hast zweifellos einen besondern Ruf für das Wort an die Jungen, die Atmosphäre der Vereinsarbeit ist dir nicht von vornherein unsympathisch, du fühlst dich durch den engen Spielraum in deiner jetzigen Gemeinde stark beeinträchtigt (alles Punkte, die bei mir anders liegen), da könntest du dir durch die Annahme dieses Rufes die Türe öffnen lassen in jeder Beziehung. Kurzum ich könnte dir nicht abraten. Dem was in dir selber ja sagt, muß ich auch zustimmen. Wags, dem kindleinfressenden Moloch der Zürcher Kirche zum Trotz, den unsichern Kantonisten unter den Außersihler Pfarrern zum Trotz, dem angesägten Balken, auf den sie dich setzen wollen, zum Trotz <pb xml:id="p212" ed="pga"/> — es ist ja ganz klar, daß sich da allem zum Trotz Möglichkeiten auftun, und es kann sein, daß der Augenblick für dich gekommen ist, dich für die Hoffnungen, die uns bis jetzt im Stillen bewegt haben, auf dem Markt ins Zeug zu legen. <hi rend="italic">Ich</hi> könnte es <hi rend="italic">so</hi> nicht, aber ich würde mich über dich freuen und dich in aller Zuversicht von weitem begleiten.</p>
+        <p>Zwei Bedenken, die du in deinem Brief nicht nennst, möchte ich freilich nicht unterdrücken. 1. Darfst du schon von <placeName ref="kbga-places-76">Leutwil</placeName> weg? Wenn die Lage in unsern Gemeinden die wäre, wie du sie in deinen Worten zu meiner Wiederwahl beschreibst, darfst du dann — und es ist mir immer, es stehe bei euch drüben noch hoffnungsvoller als bei uns — den Pflug jetzt stehen lassen und einen andern annehmen?! 2. Und wir? Wäre nicht noch Einiges gemeinsam auszubrüten in den nächsten Jahren? Hast du deine seelsorgerliche Funktion speziell mir gegenüber schon beendigt? Was wird aus mir bei der Verwüstungszone, die ich um mich gelegt habe, wenn du weggehst? Denn darüber wollen wir uns nicht täuschen, daß Verschiedenes <hi rend="italic">aus</hi> ist, wenn du einmal in den Wirbeln von <placeName ref="kbga-places-1339">Zürich-Außersihl</placeName> verschwunden bist.</p>
+        <p>Das ist so das <foreign xml:lang="lat">Sic et Non</foreign>, das uns mit euch bewegt, und wir sehen nun gespannt eurem Entscheid entgegen.</p>
+        <p>Was ist das für dummes Zeug, was <persName ref="kbga-actors-330">Ragaz</persName> da von den Pfarrerssöhnen gesagt hat?! Ist er wirklich bei solchen Erwägungen angelangt?!</p>
+        <p>Für morgen ist ein <ref type="pub-" target="32026">Spruch</ref> über Prädestination mit <persName ref="kbga-actors-47">Blumhardt</persName>ischem Endausblick entstanden. Und was treibst du? Bitte äußere dich auch ganz offen wegen der zu druckenden Predigten; es muß wirklich gegenseitiges Einverständnis dasein über die Auswahl. […]</p>
+        <closer>
+          <salute>Herzlich grüßend und teilnehmend</salute>
+           <salute>Eure</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName> samt Kindlein</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

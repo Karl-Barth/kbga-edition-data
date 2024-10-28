@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-3164">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-03">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+        <title type="content">Karl Barth an Eduard Thurneysen</title>
+        <title type="citation_line_1">Karl Barth an Eduard Thurneysen, 26. Mai 1917</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/3164 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921, hrsg. v. Thurneysen, Ernst (Gesamtausgabe, Abt. V), Zürich 1973, S. 202–204.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2024">2024</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/3164</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921</title>
+          <title type="text">Karl Barth an Eduard Thurneysen</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Thurneysen, Ernst</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">1973</date>
+          <biblScope unit="page">Pp. 202-204</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">164</biblScope>
+        </bibl>
+        <!-- The first digital edition (data from xml and database) -->
+        <bibl type="asp" xml:id="asp">
+          <title type="edition">Princeton Barth Project edition</title>
+          <title type="text">electronic edition of Karl Barth, Gesamtausgabe V.3, Karl Barth-Eduard Thurneysen Briefwechsel Band I 1913-1921, letter 160</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>James R. Adair, Jr.</editor>
+          <editor>Timothy J. Finney</editor>
+          <editor>Christian Kelm</editor>
+          <pubPlace>Princeton</pubPlace>
+          <publisher>Alexander Street Press</publisher>
+          <date type="publication">2001</date>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Karl Barth an Freunde, Rundbrief (Eduard Thurneysen), 26. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9449">KBA 9270.119</ref>. </bibl>
+        <bibl xml:id="B" type="source">B (Weitere Vorlage): Barth, Karl, Karl Barth an Freunde, Rundbrief (Emil Brunner), 26. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9447">KBA 9217.17</ref>. </bibl>
+        <bibl xml:id="C" type="source">C (Weitere Vorlage): Barth, Karl, Karl Barth an Freunde, Rundbrief (Willy Spoendlin), 26. Mai 1917. <ref target="https://kba.karl-barth.ch/objects/9448">KBA 9217.16</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1917-05-26">26. Mai 1917</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>letter</term>
+        </keywords>
+      </textClass>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="kbga-actors-2151">Barth, Karl</persName>
+          <date when="1917-05-26">26. Mai 1917</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="kbga-actors-403">Thurneysen, Eduard</persName>
+          <placeName ref="kbga-places-76">Leutwil</placeName>
+        </correspAction>
+        <correspContext>
+          <ref type="previous" target="kbga-texts-3163"/>
+          <ref type="next" target="kbga-texts-3165"/>
+          <ref type="previous-in-corresp" target="kbga-texts-3163"/>
+          <ref type="next-in-corresp" target="kbga-texts-3165"/>
+        </correspContext>
+      </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2024-10-28T12:20:29+01:00">teiHeader was automatically produced from the database 2024-10-28T12:20:29+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="letter">
+          <pb xml:id="p202" ed="pga"/>
+        <opener>
+        Barth
+          <dateline>
+            <date when="1917-05-26">26. Mai 1917</date>
+          </dateline>
+          <salute>Liebe Freunde!</salute>
+        </opener>
+        <p>Der Beschluß dieses wunderbaren Pfingstsamstags soll noch ein Gruß an euch sein. […] Ich habe mir wieder einmal schon gestern Predigtruhe für heute verschaffen können und führte ein beschauliches Dasein mit Sendschreiben an die verschiedensten Adressen unter sympathischem Gedenken an all die hornbebrillten Brüder, die jetzt auch zu entscheidenden Schlägen ausholen land<pb xml:id="p203" ed="pga" break="no"/>auf landab. Eine befremdliche Zunft sind wir ja schon, wie auch der Maler <persName ref="kbga-actors-447">Amiet</persName><note xml:id="n01"><persName ref="kbga-actors-447">Cuno Amiet</persName> (1868–1961), Schweizer Maler.</note> konstatiert haben soll, dem man [meine Predigt] «<ref type="pub-" target="32008">Über die Grenze</ref>» vorgewiesen hat. «Gott Lob und Dank» muß ich nicht ans [Pfarr-] Kapitel, weil ich dann sicher schon mit Kind und Kegel in <placeName ref="kbga-places-440">Risch</placeName> sein werde. <hi rend="italic">Du</hi> mußt aber unbedingt gehen und uns dann Nachricht dorthin bringen von den drei Kirchenräten etc. Wie kam es nur, daß ich dieser Tage einige Partieen aus <bibl corresp="kbga-bibls-1755"><persName ref="kbga-actors-420">Wernles</persName> «Einführung»</bibl> las, in der auch dein Name verewigt ist?<note xml:id="n02">
+          <bibl corresp="kbga-bibls-1755"><persName ref="kbga-actors-420">P. Wernle</persName>, <title level="m">Einführung in das theologische Studium</title>, Tübingen
+            1908; 1911<edition rend="sup">2</edition> (1921<edition rend="sup">3</edition>). Im Vorwort zur 1. und in dem zur 2. Aufl. (beide in der 2. Aufl.</bibl>: S. VII und X) wird <persName ref="kbga-actors-403">E. Thurneysen</persName> als Helfer bei Korrektur- und Registerarbeiten genannt.</note> […] Ich war mir gar nicht bewußt, was für ein seltsames Werk diese «Einführung» ist, resp. wie sehr wir wirklich von allem aber auch allem das Gegenteil denken und tun, was in diesem Kompendium der geltenden Theologie steht. Bei einer Stelle in der Praktischen Theologie, die ich dir einmal zeigen werde, mußte ich buchstäblich bis zu Tränen lachen. Es stehen aber Merkwürdigkeiten drin, wo man sie aufschlägt. […] Etwas von Beiden muß ein böser Traum sein: <hi rend="italic">entweder</hi> der «Common sense» wie <persName ref="kbga-actors-562">Gelzer</persName> sagt <hi rend="italic">oder</hi> unser Abrahamsweglein. Jedenfalls ist das Eine etwas total Anderes als das Zweite.</p>
+        <p>Wie weit werden wir mit <persName ref="kbga-actors-562">Gelzer</persName> gehen können? Ich habe die zwei Begegnungen mit ihm in so erfreulicher Erinnerung. Aber was du nun berichtest, ist nicht ermutigend. Vielleicht falle ich, proportional zu meinen sonstigen heftigen Abstoßungen, zu rasch auf solche intensiven Leute herein. Es ist etwas Direktes in ihm, das trotz aller Reserven stark auf mich wirkt, das mir z. B. einen kräftigen Anlauf gab für die <ref type="pub-" target="32021">Himmelfahrtspredigt</ref> und für die vom letzten Sonntag über einen <ref type="pub-" target="32022">Hebräerbrieftext</ref> vom Hohepriester, den wir <hi rend="italic">haben</hi> … [<ref type="can" subtype="bible" target="Hebr.4.14 Hebr.4.16">Hebr 4,14–16</ref>]. Ich will sie dir dann in unsrer Retraite am <placeName ref="kbga-places-464">Zugersee</placeName> beide vorlesen zur aufmerksamen Prüfung, ob das Abrahamsweglein dabei nicht möglicherweise verlassen wurde. Dem <persName ref="kbga-actors-562">Gelzer</persName> schrieb ich nach der Lektüre von <bibl corresp="kbga-bibls-4056"><persName ref="kbga-actors-782">Spleiß</persName></bibl> einen Brief<note xml:id="n03"><persName ref="kbga-actors-2151">Barth</persName> hatte die <persName ref="kbga-actors-782">Spleiß</persName>-Biographie (vgl. <ref type="pub" target="3161#fn_n01">Anm. 1 zum Brief vom <date when="1917-03-13"><choice><sic>13.3.1917</sic><corr type="misprint" resp="sm">13.5.1917</corr></choice></date></ref> von <persName ref="kbga-actors-562">H. Gelzer</persName> erhalten.</note> über die Kirche als Satanas der Pietisten, mit der Feststellung, daß ich diesen Satanas schon im N. T. am Ende wenigstens winken sehe. Was wird er zu solchen Sprüchen sagen? Aber es mußte gesagt sein, gerade weil er mir etwas «gegeben» hat, wie man in seinem Jargon sagt.</p>
+       
+        <p> <pb xml:id="p204" ed="pga" rend="noPipe"/>Den Baslern habe ich zugesagt. Aber zugleich ein anderes Thema ausbedungen etwa im Sinne von «<ref type="pub" target="48047">Christentum oder Sozialismus?</ref>», da ich mich nicht hergebe, so als Spezialist für «eppis Sozials»<note xml:id="n04">= etwas Soziales. Die Einladung nach <placeName ref="kbga-places-779">Buus</placeName> (vgl. <ref type="pub" target="3162#fn_n01">Anm. 1 zum Brief vom <date when="1917-05-16">16.5.1917</date></ref>) war aus <placeName ref="kbga-places-5">Basel</placeName> gekommen. Ursprünglich war <persName ref="kbga-actors-2151">Barth</persName> das Thema «Soziale Zukunftsfragen» gestellt worden.</note> aufzutreten, wie mir durchs Telephon zugerufen wurde!! Ob sie diesen Brocken annehmen, ist die Frage; ich habe noch keine Antwort. […]</p>
+        <p>Nun gibts heute Abend noch etwas Landwirtschaft für mich. […] Ich sitze im Baumgarten; senkrecht über mir rumpelt eben ein Flieger seine Bahn. Darüber wäre Manches zu sagen.</p>
+        <closer>
+          <salute>Herzlichen Gruß in Freuden</salute>
+          <salute>eure</salute>
+          <signed><persName ref="kbga-actors-2151">Karl</persName> und <persName ref="kbga-actors-26">Nelly</persName></signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
