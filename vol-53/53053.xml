@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53053">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 51</title>
         <title type="content">Predigt: Matthäus 13,13</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 13,13, 23. Oktober 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53053 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53053 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 51: Predigt: Matthäus 13,13</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p624" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>51</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, den <date when="1910-10-23">23. Oktober
+                            <hi rend="italic">Genf</hi></placeName>, den <date when="1910-10-23">23. Oktober
                             1910</date> <date rend="right">(22. Sonntag nach Trinitatis)</date> 
                     </dateline>
                     <epigraph>
@@ -113,7 +115,7 @@
                     drei Scheffeln Mehl verstand sich das für die Zuhörer von selbst. Jesus
                     meinte die neben jenem verschwindend kleine Masse, die vielleicht für
                     mehrere Tage im Voraus abgewogen und bereitgehalten wurde. Die kommt nun in
-                    den Mehlteig, sie verschwindet darin so vollständig, wie nur immer mög<pb xml:id="p625" ed="pga"/>lich ist, er bleibt derselbe, kaum dass sein Gewicht
+                    den Mehlteig, sie verschwindet darin so vollständig, wie nur immer mög<pb xml:id="p625" ed="pga" break="no"/>lich ist, er bleibt derselbe, kaum dass sein Gewicht
                     und Aussehen um ein Geringes verändert wird. Und doch ist er nicht mehr
                     derselbe. Denn durch das Geringfügige, das hinzugekommen ist, sind die
                     Kräfte der Gärung in ihm entbunden. Die wirksame Natur setzt bei der
@@ -123,13 +125,13 @@
                     das Brot aufgehen, und es wird aus einer indifferenten und
                     schwerverdaulichen Masse zu einer wohlschmeckenden und nahrhaften Speise.
                     Das erlebt eine Hausfrau hundert und tausend Mal, sie weiß nicht,
-                        <hi rend="i">wie</hi> es geschieht, sie kennt die Regeln der wirksamen Natur
-                    nicht in ihrem innern Zusammenhang, aber sie weiß, <hi rend="i">dass</hi> es
+                        <hi rend="italic">wie</hi> es geschieht, sie kennt die Regeln der wirksamen Natur
+                    nicht in ihrem innern Zusammenhang, aber sie weiß, <hi rend="italic">dass</hi> es
                     geschieht. Dies alltägliche Ereignis ist merkwürdig genug, wollte Jesus
                     sagen, hier ist ein Wunder, nehmt es an! Man mag zur Erklärung des Wie? hier
                     wie beim wachsenden Samenkorn chemische und physikalische Beschreibungen
                     herbeibringen. Hinter allen Beschreibungen des Wie? steht doch ein
-                    unerklärliches <hi rend="i">Dass</hi>, die Tatsache, dass es geschieht. Und darum
+                    unerklärliches <hi rend="italic">Dass</hi>, die Tatsache, dass es geschieht. Und darum
                     behält der kleine Vorgang auch im Lichte der fortgeschrittensten
                     Wissenschaft die, wenn ihr mich recht verstehen wollt, übernatürliche
                     Bedeutsamkeit, die er für Jesus hatte. Das <term type="Sachen" key="Himmelreich">Himmelreich</term> ist dem gleich, sagte er, und
@@ -151,19 +153,19 @@
                     als Erzeugnis und Spiegelbild des <pb xml:id="p626" ed="pga"/> Menschen, der ihn
                     gedacht und ausgesprochen. <anchor type="note" xml:id="fn-c"/>Worte sind tot<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, Menschen sind lebendig.</p>
                 <p>
-                        <hi rend="i">Das Himmelreich ist gleich einem Sauerteig</hi>. Der Vergleichspunkt
+                        <hi rend="italic">Das Himmelreich ist gleich einem Sauerteig</hi>. Der Vergleichspunkt
                     zwischen beiden besteht darin, dass hier wie dort ein Kleines, Geringfügiges
                     ein andersartiges Großes ergreift, durchdringt, verwandelt. Dort
                     sind’s die drei Scheffel Mehlteig, hier ist’s der Mensch, die
                     Menschheit, die ergriffen und verwandelt werden. Aus Jesu Jugendzeit, die
                     für uns in all ihren Einzelheiten in Dunkel gehüllt ist, ist uns
-                        <hi rend="i">eine</hi> Geschichte überliefert, die uns bereits den Grundzug
+                        <hi rend="italic">eine</hi> Geschichte überliefert, die uns bereits den Grundzug
                     seines innern Lebens ahnen lässt, die Geschichte vom Zwölfjährigen im
                     Tempel. Wie ihn Vater und Mutter dort nach angstvollem Suchen entdecken, da
                     antwortet er ihnen freimütig: Muss ich nicht sein in dem, was meines Vaters
                     ist? [<ref type="can" subtype="bible" target="Lk.2.49">Lk. 2,49</ref>] Dieses
-                        «<hi rend="i">Ich muss</hi>» war der wirksame Sauerteig in seinem Dasein.
-                    Keimartig, konzentriert, ihm selber kaum bewusst, muss in ihm eine Lebens<hi rend="i">erkenntnis</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, ein Lebens<hi rend="i">wille</hi> gelegen sein, der sein
+                        «<hi rend="italic">Ich muss</hi>» war der wirksame Sauerteig in seinem Dasein.
+                    Keimartig, konzentriert, ihm selber kaum bewusst, muss in ihm eine Lebens<hi rend="italic">erkenntnis</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, ein Lebens<hi rend="italic">wille</hi> gelegen sein, der sein
                     Fühlen und Streben vom Scheinbaren und Vergänglichen ab- und auf die
                     verborgenen Wurzeln des Ewigen im Dasein hinlenkte. Er ist ein <term type="Sachen" key="Jesus Christus, wahrer Mensch">Mensch</term> gewesen,
                     genau in dem Sinn wie jedes von uns auch, das müssen wir vor Allem
@@ -178,7 +180,7 @@
                     nicht wie ein Engel, nicht wie ein Himmelswesen, nicht wie ein von einem
                     fernen Stern auf unsre Erde gekommener Prinz, sondern gerade wie wir, als
                     ein schlichtes Menschenkind. Aber in alledem war als bestimmendes und
-                    beherrschendes Element jenes «<hi rend="i">Ich muss</hi>». In dem Allem, was ich
+                    beherrschendes Element jenes «<hi rend="italic">Ich muss</hi>». In dem Allem, was ich
                     lebe und erlebe, muss ich Gott die Ehre geben, ihm zu gehorchen muss der
                     Zweck und Inhalt meines Lebens sein, ganz anders als die andern, nicht als
                     ein Knecht, der gehorcht um des Lohnes willen, <pb xml:id="p627" ed="pga"/>
@@ -199,7 +201,7 @@
                         Virtuosen<note xml:id="n02">Von «Virtuosen der Religion»
                         spricht <bibl corresp="kbga-bibls-212">
                                 <persName ref="kbga-actors-360">Fr. D. E. Schleiermacher</persName>,
-                            <hi rend="i">Über die Religion. Reden an die Gebildeten unter ihren
+                            <hi rend="italic">Über die Religion. Reden an die Gebildeten unter ihren
                             Verächtern</hi> (1799), Kritische Gesamtausgabe, Abt. 1, Bd. 2,
                         hrsg. von G. Meckenstock, Berlin / New York 1984, S. 185–326,
                         Zitat S. 278,25; vgl. auch dort S. 190,15 und S. 285,11.27</bibl>.<term type="Sachen" key="Religion, religiöse Virtuosen"/>
@@ -209,7 +211,7 @@
                     musste, das mussten und sollten die Menschen Alle sein. Nicht eine
                     Privatsache oder Sektensache ist der neue Gottesgehorsam, der in ihm war,
                     sondern die Sache des Reiches, in dem die Sonne nicht untergeht, weil es so
-                    weit ist als der Himmel. Wie der Sauerteig wirken <hi rend="i">muss</hi> auf die
+                    weit ist als der Himmel. Wie der Sauerteig wirken <hi rend="italic">muss</hi> auf die
                     verwandten Elemente, so hat der Gottesgehorsam in <term type="Sachen" key="Jesus Christus, Gehorsam">Jesus</term> sofort seine Universalität
                     und Allgemeingiltigkeit bewährt, zunächst in ihm selbst, <pb ed="A" rend="hidden" n="5"/> seinem menschlichen Wesen, Denken und Tun gegenüber. Er konnte
                     nicht ein Element neben andern sein in seinem Bewusstsein, wie es bei unsrer
@@ -220,18 +222,18 @@
                     Reinheit erhoben und verwandelt, die ihm als <term type="Sachen" key="Schöpfung">Schöpfung</term> Gottes ursprünglicherweise eigen sein
                     sollte. In ihm kam zum Durchbruch, was <anchor type="note" xml:id="fn-f"/>die Sage<note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      auf dem ersten Blatt der Bibel tiefsinnig berichtet: Gott schuf den
-                    Menschen nach <hi rend="i">seinem</hi>
+                    Menschen nach <hi rend="italic">seinem</hi>
                     <term type="Sachen" key="Mensch, imago Dei">Bilde</term> [<ref type="can" subtype="bible" target="Gen.1.27">Gen. 1,27</ref>], und darum steht Gott
                         <anchor type="note" xml:id="fn-g"/>bei Jesus dem<note type="textcritical" n="g" xml:id="ng" target="fn-g"> Im Mskr. nachträglich mit Bleistift verbessert aus: «den».</note>
                      Menschen nicht gegenüber als eine ferne Welt- und Naturmacht, sondern
                     als sein<note type="textcritical" n="h" xml:id="nh"> Im Mskr. nachträglich mit Bleistift verbessert aus: «ihr».</note>
                      Vater, als der überlegene, gute Geist, der in der Menschheit war und
-                    ist und sein wird. Wenn <hi rend="i">wir</hi> in unser eigenes Herz sehen, dann
+                    ist und sein wird. Wenn <hi rend="italic">wir</hi> in unser eigenes Herz sehen, dann
                     müssen wir zweifeln an diesem Gedanken und müssen auch in unsern besten
                     Augenblicken mit dem Zöllner im Tempel abseits gehen und sagen: Gott, sei
                     mir Sünder gnädig [<ref type="can" subtype="bible" target="Lk.18.13">Lk. 18,13</ref>]. Aber wenn Jesus, der ein <term type="Sachen" key="Jesus Christus, wahrer Mensch">Mensch</term> war wie wir, in sein
                     Herz sah, dann war da, wie er im Gleichnis sagt, das Ganze durchsäuert, der
-                    Gottesgehorsam war da das Universale und Giltige, er <hi rend="i">war</hi> der
+                    Gottesgehorsam war da das Universale und Giltige, er <hi rend="italic">war</hi> der
                     Mensch nach Gottes <term type="Sachen" key="Jesus Christus, imago Dei">Bild</term>, und darum konnte er ohne Überhebung von sich sagen: Wer
                     mich sieht, der sieht den Vater [<ref type="can" subtype="bible" target="Joh.14.9">Joh. 14,9</ref>]. Wir dürfen aber nicht daran zweifeln, dass
                     diese Durchdringung des Menschlichen in ihm durch das Göttliche auch bei ihm
@@ -239,7 +241,7 @@
                     Naturzustand. Nicht mit einer selbstverständlichen Sündlosigkeit haben wir
                     es zu tun, <anchor type="note" xml:id="fn-i"/>wie es nach den Formeln der alten
                         Kirchenlehre<note type="textcritical" n="i" xml:id="ni" target="fn-i"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
-                    <term type="Sachen" key="Lehre, Kirchenlehre"/> aussieht<note xml:id="n03">Vgl. etwa aus dem <hi rend="i">Symbolum
+                    <term type="Sachen" key="Lehre, Kirchenlehre"/> aussieht<note xml:id="n03">Vgl. etwa aus dem <hi rend="italic">Symbolum
                             Chalcedonense</hi> (451): «<foreign xml:lang="grc" rend="Ell">καὶ ὁμοούσιον
                             ἡμῖν τὸν αὐτὸν κατὰ τὴν ἀνδρωπότητα, κατὰ πάντα ὅμοιον ἡμῖν χωρὶς
                             ἁμαρτίας</foreign>»; «und der Menschheit nach uns wesensgleich, in
@@ -270,7 +272,7 @@
                     Menschen gekommen. <persName ref="kbga-actors-360">Schleiermacher</persName> hat
                     das so ausgedrückt: Das Urbildliche ist in Jesus geschichtlich
                         geworden,<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-256">
-                                <persName ref="kbga-actors-360">Fr. D. E. Schleiermacher</persName>, <hi rend="i">Der christliche Glaube nach den
+                                <persName ref="kbga-actors-360">Fr. D. E. Schleiermacher</persName>, <hi rend="italic">Der christliche Glaube nach den
                             Grundsätzen der evangelischen Kirche im Zusammenhange dargestellt.
                             Zweite Auflage (1830/31)</hi>, Teilbd. 2, Kritische Gesamtausgabe,
                         Abt. 1, Bd. 13/2, hrsg. von R. Schäfer, Berlin 2003, S. 41 (§ 93,
@@ -283,7 +285,7 @@
                     mehr auszulöschende Tatsache in das geschichtliche Leben der Menschheit
                     eingetreten. Der Sauerteig des <term type="Sachen" key="Jesus Christus, Gehorsam">Gottesgehorsams</term>, der ihn zu dem
                     machte, was er war, musste weiterwirken, treiben, befreien, erlösen. Von dem
-                    einen Men<pb xml:id="p630" ed="pga"/>schen sind Ströme lebendigen Wassers
+                    einen Men<pb xml:id="p630" ed="pga" break="no"/>schen sind Ströme lebendigen Wassers
                     ausgegangen [vgl. <ref type="can" subtype="bible" target="Joh.7.38">Joh. 7,38</ref>] nach allen Seiten. Was in ihm geschah, der Sieg des
                     Unvergänglichen über das Vergängliche, die Durchdringung des Menschen mit
                     Gott, das hat sich tausendfältig erneuert und wiederholt seit den kurzen
@@ -291,10 +293,10 @@
                     wo Leben entstehen soll, da muss sich dieser Sieg und diese Durchdringung
                     vollziehen.</p>
                 <p> Vor einigen Wochen hat der bekannte <placeName ref="kbga-places-138">Karlsruher</placeName> Professor <persName ref="kbga-actors-99">
-                            <hi rend="i">Arthur Drews</hi></persName>, der behauptet, Jesus habe
+                            <hi rend="italic">Arthur Drews</hi></persName>, der behauptet, Jesus habe
                     überhaupt nicht gelebt,<note xml:id="n06">Vgl.<bibl corresp="kbga-bibls-1391"> A. Drews,
-                            <hi rend="i">Die Christusmythe</hi>, Jena 1909</bibl>; vgl. auch oben,
-                            <ref type="pub" target="../volume/53/p385#p385">S. 385f</ref>.</note> in Bern einen Vortrag
+                            <hi rend="italic">Die Christusmythe</hi>, Jena 1909</bibl>; vgl. auch oben,
+                            <ref type="pub" target="../volume/53/p385#p385">S. 385f.</ref></note> in Bern einen Vortrag
                     gehalten, und nach einem Zeitungsbericht darüber, der mir vorlag, scheint er
                     besonders auf den Gedanken Gewicht gelegt zu haben, Gott sei nichts Anderes
                     als der Mensch selbst, der Jesus, der in uns lebe, sei das Ideal des
@@ -309,8 +311,8 @@
                         <persName ref="kbga-actors-330">Leonhard Ragaz</persName>
                         – zum Thema: «Lebt Jesus, und in welchem Sinne?» Vgl. <bibl corresp="kbga-bibls-1769">
                                 M. Mattmüller,
-                            <hi rend="i">­Leonhard Ragaz und der religiöse Sozialismus. Eine
-                            Biographie</hi>, Bd. 1: <hi rend="i">Die Entwicklung der Persönlichkeit
+                            <hi rend="italic">­Leonhard Ragaz und der religiöse Sozialismus. Eine
+                            Biographie</hi>, Bd. 1: <hi rend="italic">Die Entwicklung der Persönlichkeit
                             und des Werkes bis ins Jahr 1913</hi>, Zollikon 1957,
                         S. 172f</bibl>.</note>
                     <anchor type="note" xml:id="fn-m"/>Die Grenze zwischen Richtigem und Unrichtigem ist manchmal
@@ -321,7 +323,7 @@
                     getan. Das Wort und der Gedanke, der im Munde des <persName ref="kbga-actors-313">Paulus</persName> die tiefste Wahrheit des christlichen <term type="Sachen" key="Wahrheit, des christlichen Glaubens">Glaubens</term>
                     ist, wird im Munde <persName ref="kbga-actors-99">Drews’</persName> zu einer platten, oberflächlichen Torheit. Denn
                     das ist doch gerade die Schwierigkeit, in der wir uns befinden, dass wir uns
-                    selber nicht erlösen <hi rend="i">können</hi>, sonst würden wir es doch wohl tun.
+                    selber nicht erlösen <hi rend="italic">können</hi>, sonst würden wir es doch wohl tun.
                     Gewiss ist es wahr:</p>
                 
                 <q rend="block">
@@ -367,35 +369,35 @@
                     Scheffeln Mehl, die waren von sich selbst durchsäuert. Es liegt auf der
                     Hand, dass das Unsinn wäre. Eigenes inneres <term type="Sachen" key="Leben, inneres">Leben</term>, Sicherheit und Bestimmtheit unsres
                     Daseins, Leben mit Gott und in Gott, das ist nicht da, das haben wir nicht
-                    ohne Weiteres, sondern das muss in uns <hi rend="i">werden</hi><note type="textcritical" n="o" xml:id="no"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>. Es muss durch die Offenbarung der Macht, die größer ist
-                    als wir, in uns <hi rend="i">entstehen</hi><note type="textcritical" n="p" xml:id="np"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>, wir sollen nicht bleiben, was wir sind, sondern wir
+                    ohne Weiteres, sondern das muss in uns <hi rend="italic">werden</hi><note type="textcritical" n="o" xml:id="no"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>. Es muss durch die Offenbarung der Macht, die größer ist
+                    als wir, in uns <hi rend="italic">entstehen</hi><note type="textcritical" n="p" xml:id="np"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>, wir sollen nicht bleiben, was wir sind, sondern wir
                     sollen uns <anchor type="note" xml:id="fn-q"/>
-                        <hi rend="i">durchdringen lassen</hi><note type="textcritical" n="q" xml:id="nq" target="fn-q"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
+                        <hi rend="italic">durchdringen lassen</hi><note type="textcritical" n="q" xml:id="nq" target="fn-q"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
                          von dem, was wir noch nicht sind, wie die drei Scheffel
                     Mehl vom Sauerteig.</p>
                 <p>Davon ist nun zu reden. Zuerst von dem, was durchdrungen werden soll, vom
                     Menschen, von der <term type="Sachen" key="Menschheit">Menschheit</term>.
-                    Vor zwei entgegengesetzten <hi rend="i">Irrtümern</hi> gilt es sich hier zu
+                    Vor zwei entgegengesetzten <hi rend="italic">Irrtümern</hi> gilt es sich hier zu
                     hüten. – |</p>
                 <p>Von dem einen war eben die Rede: der Mensch sei schon göttlich, er brauche
                     die Durchdringung gar nicht erst, er habe seine <term type="Sachen" key="Vernunft">Vernunft</term>, seinen Willen, er erkenne die <term type="Sachen" key="Wahrheit">Wahrheit</term>, strebe nach dem Guten und
                     Schönen und habe so Alles, was er innerlich bedürfe. Antwort: Schön, wenn es
-                    so ist, aber ist es denn auch wahr? <hi rend="i">Brauchen</hi> wir denn unsre
-                    Vernunft? <hi rend="i">Üben</hi> wir unsern Willen? <hi rend="i">Streben</hi> wir
+                    so ist, aber ist es denn auch wahr? <hi rend="italic">Brauchen</hi> wir denn unsre
+                    Vernunft? <hi rend="italic">Üben</hi> wir unsern Willen? <hi rend="italic">Streben</hi> wir
                     aufrichtig und anhaltend nach dem Wahren, Guten und Schönen?<note xml:id="n09">Zur Verwendung dieser Trias als kultureller
                         Leitidee im 18. und 19. Jahrhundert vgl. oben, <ref type="pub" target="../volume/53/p140#fn_n03">S. 140, Anm. 3</ref>.</note>
                     <pb ed="A" rend="hidden" n="9"/> oder steht es nicht so, dass hier das schwere
                     Problem des innern Lebens erst anfängt? Ein wertvolles inneres, geistiges
                     Leben kann doch offenbar nicht schon darin bestehen, dass wir als Menschen
-                        <hi rend="i">angelegt</hi> sind dazu, Vernunft und Willen zu brauchen, nach
+                        <hi rend="italic">angelegt</hi> sind dazu, Vernunft und Willen zu brauchen, nach
                     den ewigen Zielen geistiger Kultur zu streben, sondern darin, dass wir das,
-                    wozu wir angelegt sind, <hi rend="i">wirklich <term type="Sachen" key="Mensch, Anlage und wirkliches Tun">tun</term></hi>. Drei
+                    wozu wir angelegt sind, <hi rend="italic">wirklich <term type="Sachen" key="Mensch, Anlage und wirkliches Tun">tun</term></hi>. Drei
                     Scheffel Mehl sind eine gute Sache, aber damit sie eine erfreuliche Speise
                     werden, muss noch etwas damit gemacht werden. Kultur des Verstandes, des
                     Willens und Gefühls ist auch eine gute Sache, aber bevor sie für das innere
-                    Leben etwas bedeutet, müssen wir sie <hi rend="i">haben</hi>, muss sie uns
-                        <hi rend="i">zugänglich</hi> gemacht sein. <persName ref="kbga-actors-136">
-                            <hi rend="i">Goethe</hi></persName> hat das
+                    Leben etwas bedeutet, müssen wir sie <hi rend="italic">haben</hi>, muss sie uns
+                        <hi rend="italic">zugänglich</hi> gemacht sein. <persName ref="kbga-actors-136">
+                            <hi rend="italic">Goethe</hi></persName> hat das
                     berühmt-berüchtigte Wort ausgesprochen:</p>
                 
                     <q rend="block">
@@ -405,7 +407,7 @@
                             <l>Wer jene beiden nicht besitzt,</l>
                             <l>Der habe Religion.<note xml:id="n10">Aus 
                                         <bibl corresp="kbga-bibls-2801">
-                                        <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Zahme Xenien IX</hi> (Berliner
+                                        <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Zahme Xenien IX</hi> (Berliner
                                     Ausgabe. Poetische Werke, Bd. 2, Berlin 1966,
                                     S. 381–393, dort S. 383)</bibl>.</note>
                             </l>
@@ -417,26 +419,26 @@
                     wäre freilich Torheit. Aber ich meine, man muss dies scharf zugespitzte Wort
                     verstehen im Zusammenhang mit der übrigen Gedankenwelt des großen Mannes, so
                     bekommt es seinen tiefen und richtigen Sinn, den wir uns als Christen sehr
-                    wohl aneignen dürfen. Goethe wollte sagen: <hi rend="i">wirkliche</hi> geistige
+                    wohl aneignen dürfen. Goethe wollte sagen: <hi rend="italic">wirkliche</hi> geistige
                     Kultur, nicht bloß eine eingebildete, imitierte Zivilisation des Kopfes, die
                     hat allemal <term type="Sachen" key="Religion, Voraussetzung wirklicher Kultur">Religion</term> zur
                     Voraussetzung, sie hat sie in sich. Wogegen wer sie nicht besitzt, der fange
                     damit an, Religion zu haben. Es kommt also, wie ich eben sagte, darauf an,
-                    ob wir Vernunft und Willen wirklich <hi rend="i">brauchen</hi>, ob geistige
-                    Kultur <hi rend="i">da ist</hi>, ob wir <hi rend="i">tatsächlich</hi> nach den ewigen
+                    ob wir Vernunft und Willen wirklich <hi rend="italic">brauchen</hi>, ob geistige
+                    Kultur <hi rend="italic">da ist</hi>, ob wir <hi rend="italic">tatsächlich</hi> nach den ewigen
                     Zielen streben. Man braucht in jenem Goethewort bloß die Worte
-                        «<hi rend="i">besitzt</hi>» zu unterstreichen, dann bekommt es auch für
+                        «<hi rend="italic">besitzt</hi>» zu unterstreichen, dann bekommt es auch für
                     aufrichtige Verehrer menschlicher Kultur, was wir als Christen hoffentlich
                     Alle sind, ein recht nachdenkliches Gesicht. Denn wenn wir unsern Verstand
-                    fragen nach dem, was er <hi rend="i">besitzt</hi>, nach dem, was er begriffen,
-                    erkannt, <hi rend="i">verstanden</hi> hat von <pb ed="A" rend="hidden" n="10"/> der
+                    fragen nach dem, was er <hi rend="italic">besitzt</hi>, nach dem, was er begriffen,
+                    erkannt, <hi rend="italic">verstanden</hi> hat von <pb ed="A" rend="hidden" n="10"/> der
                     Welt und von uns selbst, dann wird gerade ein scharfer und schneidiger
-                    Denker sehr zurückhaltend sein mit der Behauptung, er <hi rend="i">besitze</hi>
+                    Denker sehr zurückhaltend sein mit der Behauptung, er <hi rend="italic">besitze</hi>
                     <term type="Sachen" key="Wissenschaft">Wissenschaft</term>, er wird vielmehr
                     mit <persName ref="kbga-actors-777">Sokrates</persName> die Sache umkehren
                     und sagen: Ich weiß, dass ich nichts weiß,<note xml:id="n11">
                         <bibl corresp="kbga-bibls-2558">
-                                <persName ref="kbga-actors-322">Platon</persName>, <hi rend="i">Apologie</hi>,
+                                <persName ref="kbga-actors-322">Platon</persName>, <hi rend="italic">Apologie</hi>,
                         21d</bibl>; s. oben, <ref type="pub" target="../volume/53/p199#fn_n06">S. 199, Anm. 6</ref>.</note> und das ist dann gleichbedeutend mit dem
                     Bekenntnis des alten Kirchenliedes:</p>
                     <q rend="block">
@@ -453,7 +455,7 @@
                     </q>
                 <p rend="noindent">Der Doktor Faust im Studierzimmer bei demselben <persName ref="kbga-actors-136">Goethe</persName> ist die
                     lebendigste Illustration dafür.<note xml:id="n13">Vgl. etwa dort
-                        die berühmten Verse (<bibl corresp="kbga-bibls-647"><hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                        die berühmten Verse (<bibl corresp="kbga-bibls-647"><hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                         V. 354–359 [Nacht]</bibl>):
                             <q rend="block">
                                 <lg>
@@ -467,12 +469,12 @@
                             </q>
                         </note> 
                     Und ebenso sind wir dran, wenn wir <pb xml:id="p634" ed="pga"/>
-                    auf das sehen, was unser <hi rend="i">Wille</hi> besitzt, d. h. was wir
-                        <hi rend="i">getan</hi> haben in der Richtung auf das <term type="Sachen" key="Gutes / das Gute">Gute</term> hin. Gerade die Menschen, die es mit
+                    auf das sehen, was unser <hi rend="italic">Wille</hi> besitzt, d. h. was wir
+                        <hi rend="italic">getan</hi> haben in der Richtung auf das <term type="Sachen" key="Gutes / das Gute">Gute</term> hin. Gerade die Menschen, die es mit
                     sich selbst und ihrem Handeln ernst nehmen, werden keineswegs einmal mit
                     sich selbst zufrieden sein, werden immer wieder ihr Streben und Mühen
                     mangelhaft, unvollständig finden. Und so hat Niemand in irgend einer
-                    Hinsicht Anlass, es sich im Hinblick auf seinen <hi rend="i">Besitz</hi> an
+                    Hinsicht Anlass, es sich im Hinblick auf seinen <hi rend="italic">Besitz</hi> an
                     menschlicher <term type="Sachen" key="Kultur">Kultur</term> genug sein zu
                     lassen. Denn wenn er sich ernsthaft besinnt darüber, wie es mit diesem
                     Besitzen steht, muss er sich sagen, dass da die Frage, die Lebensfrage, ob
@@ -489,19 +491,19 @@
                     die wahrhaftig keinen Anlass dazu hätten, sehr mitleidig von <persName ref="kbga-actors-244">Lessing</persName>, <persName ref="kbga-actors-764">Schiller</persName> oder <persName ref="kbga-actors-136">Goethe</persName> reden,
                     die bei allem Adel ihrer Gesinnung, bei aller Tiefe ihrer Weltanschauung,
                     bei allem Ernst ihres <pb ed="A" rend="hidden" n="11"/> persönlichen Lebens eben
-                    doch <hi rend="i">nur</hi><note type="textcritical" n="r" xml:id="nr"> Im Mskr. doppelt unterstrichen.</note>
+                    doch <hi rend="italic">nur</hi><note type="textcritical" n="r" xml:id="nr"> Im Mskr. doppelt unterstrichen.</note>
                          gute Menschen gewesen seien, während man von jener
                     religiösen Sonderprovinz bei ihnen nicht viel höre. Ja, da muss man denn
-                    doch allen Ernstes fragen, ob denn der Sinn der <term type="Sachen" key="Religion, Sinn">Religion</term> ein <hi rend="i">anderer</hi> ist als
+                    doch allen Ernstes fragen, ob denn der Sinn der <term type="Sachen" key="Religion, Sinn">Religion</term> ein <hi rend="italic">anderer</hi> ist als
                     der, dass wir gute, brauchbare, innerlich wertvolle Menschen werden, ob es
-                    wohlgetan <pb xml:id="p635" ed="pga"/> ist, da ein <hi rend="i">Nur</hi> davor zu
+                    wohlgetan <pb xml:id="p635" ed="pga"/> ist, da ein <hi rend="italic">Nur</hi> davor zu
                     setzen, ob es am Ende besser wäre, das Stück Sauerteig für sich zu essen,
                     statt es in den drei Scheffeln Mehl verschwinden zu lassen, es darin zu
-                    verbergen, wie es im griechischen Text des Gleichnisses heißt,<note xml:id="n14">Griechisch: «<foreign xml:lang="grc" rend="Ell">ἐνέκρυψεν</foreign>».</note> und so <hi rend="i">mit seiner Hilfe</hi>
+                    verbergen, wie es im griechischen Text des Gleichnisses heißt,<note xml:id="n14">Griechisch: «<foreign xml:lang="grc" rend="Ell">ἐνέκρυψεν</foreign>».</note> und so <hi rend="italic">mit seiner Hilfe</hi>
                     essbares Brot herzustellen?! Die Wirkung, die der Sauerteig im Mehl hat,
                     soll doch das Göttliche im Menschlichen haben: es soll das, wozu wir
                     angelegt sind, in uns zu wirklicher Entfaltung kommen, es soll tatsächlich
-                        <hi rend="i">geschehen</hi>, dass wir strebend und erlebend mit dem Wahren,
+                        <hi rend="italic">geschehen</hi>, dass wir strebend und erlebend mit dem Wahren,
                     Guten und Schönen immer mehr eins werden. Das will Gott von uns, und dazu
                     verhilft er uns, indem er uns nicht allein lässt, sondern sich uns
                     offenbart; aber das, was da aus uns werden soll, ist nicht ein Gegensatz zum
@@ -537,9 +539,9 @@
                 <p> <pb ed="A" rend="hidden" n="12"/> Ich bin der Stein! Wir Menschen mit unserm
                     starken oder schwachen Denken und Wollen, wir sind der Rohstoff, aus dem
                     Gott etwas machen will, aus jedem etwas Besonderes. Der Marmorblock, wie er
-                    aus <pb xml:id="p636" ed="pga"/> dem Steinbruch kommt, ist noch <hi rend="i">kein
+                    aus <pb xml:id="p636" ed="pga"/> dem Steinbruch kommt, ist noch <hi rend="italic">kein
                         Denkmal</hi> – das bewahrt uns vor dem Irrtum, als brauchten
-                    wir Gott nicht, um zu werden, was wir sein sollen. Aber <hi rend="i">aus dem
+                    wir Gott nicht, um zu werden, was wir sein sollen. Aber <hi rend="italic">aus dem
                         Marmorblock</hi> wird das Denkmal herausgearbeitet – das zeigt
                     uns, dass das Leben in Gott nicht etwas Anderes ist als die wirkliche
                     Gestaltung und Bildung unsres menschlichen Lebens.</p>
@@ -571,7 +573,7 @@
                     entgegen? Gegenüber all diesen gewaltigen Hindernissen ist das <term type="Sachen" key="Himmelreich">Himmelreich</term> schließlich doch
                     durchgedrungen. Es hatte jene Männer von <placeName ref="kbga-places-780">Galiläa</placeName> erfasst, den einen in dieser, den andern in
                     jener Stunde, als ihm ein Wort, ein Blick, eine Tat Jesu die Herrlichkeit
-                    <term type="Sachen" key="Gott, Herrlichkeit">Gottes</term> offen<pb xml:id="p637" ed="pga"/>barte, und der wirksame Sauerteig, der da in die drei
+                    <term type="Sachen" key="Gott, Herrlichkeit">Gottes</term> offen<pb xml:id="p637" ed="pga" break="no"/>barte, und der wirksame Sauerteig, der da in die drei
                     Scheffel Mehl gemengt worden, das Leben, das in ihrem Herzen und Kopf
                     erwacht war, die waren daraus nicht mehr zu entfernen. Jesus konnte sterben,
                     aber seine letzten Stunden wirkten in ihnen zugleich den letzten und
@@ -616,7 +618,7 @@
                     der <pb ed="A" rend="hidden" n="14"/> Sauerteig, der in das Zusammenleben der
                     Menschen hineingekommen war, konnte daraus nicht mehr beseitigt werden. Die
                     Tatsache konnte nicht mehr weggestrichen werden, dass ein Mensch wie Jesus
-                    einmal dagewesen war und dass eine Handvoll Menschen von ihm ergriffen <pb xml:id="p638" ed="pga"/> waren und wie <hi rend="i">er</hi> den Sinn des Lebens
+                    einmal dagewesen war und dass eine Handvoll Menschen von ihm ergriffen <pb xml:id="p638" ed="pga"/> waren und wie <hi rend="italic">er</hi> den Sinn des Lebens
                     darin fanden, Gott zu vertrauen und Gott gehorsam zu sein. Es ist bei der
                     Auslegung der Gleichnisse vom Senfkorn, das zum Baum wird [vgl. <ref type="can" subtype="bible" target="Mk.4.30 Mk.4.32">Mk. 4,30–32</ref>
                     par.], und vom Sauerteig, der drei Scheffel Mehl durchdringt, oft
@@ -624,7 +626,7 @@
                     sich entfaltet hat durch die <term type="Sachen" key="Völker">Völker</term>,
                     wie sie das Suchen und Ahnen der Griechen, der Römer, der Germanen zur <term type="Sachen" key="Wahrheit">Wahrheit</term> werden ließ, befreite,
                     reinigte. Es kann dies nur mit Vorsicht der Sieg des <term type="Sachen" key="Christentum, Sieg">
-                            <hi rend="i">Christentums</hi></term> genannt werden;
+                            <hi rend="italic">Christentums</hi></term> genannt werden;
                     die Christen und das Christentum waren oft genug ferne von der Hoheit
                     Christi, aber es war der Sieg Gottes, der die Christen, wie sie waren, als
                         <term type="Sachen" key="Christen, Werkzeuge Gottes">Werkzeuge</term>
@@ -636,7 +638,7 @@
                 <p> Was die ersten <term type="Sachen" key="Jünger">Jünger</term> gesehen und
                     erlebt, das sprang durch ihr Zeugnis wie ein elektrischer Funken auf andre
                     über. Wie er gewirkt hat, sehen wir an Saulus, der ein <persName ref="kbga-actors-313">
-                            <hi rend="i">Paulus</hi></persName> wurde. Ein Eiferer, ein
+                            <hi rend="italic">Paulus</hi></persName> wurde. Ein Eiferer, ein
                     jüdischer Schriftgelehrter, ein energischer, oft gewaltsamer Mensch war er,
                     und er ist es auch als Jünger Jesu geblieben. Nicht ein Zerstörungswerk ist
                     seine geistige Neugeburt gewesen, sondern eine Indienststellung, eine
@@ -645,7 +647,7 @@
                     an dem Tage von <placeName ref="kbga-places-946">Damaskus</placeName> die
                     neue Zielrichtung, das Vertrauen und den Gehorsam in die Seele senkte [vgl.
                     <ref type="can" subtype="bible" target="Act.9.1 Act.9.19">Act. 9,1–19</ref>
-                    par.]. Ganz anders scheinbar geht es zu, wenn ein <hi rend="i">
+                    par.]. Ganz anders scheinbar geht es zu, wenn ein <hi rend="italic">
                             <persName ref="kbga-actors-555">Franz von Assisi</persName></hi> zum
                     Jünger Jesu, zum lebendigen Menschen wird. Er ist und bleibt der heitere,
                     lebensfreudige Italiener, der mit lautern, naiven Augen die Welt in sich
@@ -655,10 +657,10 @@
                         <term type="Sachen" key="Nachfolge">Nachfolge</term> Jesu gelernt hat,
                     dass sie die Welt Gottes ist, des <term type="Sachen" key="Gott, Vater">Vaters</term>, der uns liebt, so dass wir gar nicht anders können, als
                     wieder lieben. Da ist <persName ref="kbga-actors-77">
-                            <hi rend="i">Calvin</hi></persName>, dieser durch und durch französisch,
+                            <hi rend="italic">Calvin</hi></persName>, dieser durch und durch französisch,
                     d. h. individuell lebhaft und sicher, aber kalt-logisch empfindende und
                     denkende Christ und Theologe. Da ist <persName ref="kbga-actors-261">
-                            <hi rend="i">Luther</hi></persName>, der das <term type="Sachen" key="Evangelium">Evangelium</term> nicht nur auf der <term type="Sachen" key="Wartburg">Wartburg</term>, sondern zuerst und vor
+                            <hi rend="italic">Luther</hi></persName>, der das <term type="Sachen" key="Evangelium">Evangelium</term> nicht nur auf der <term type="Sachen" key="Wartburg">Wartburg</term>, sondern zuerst und vor
                     allem in seiner eigenen <pb xml:id="p639" ed="pga"/> Person aus etwas fremdartig
                     Äußerlichem in deutsches innerliches<note type="textcritical" n="s" xml:id="ns"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
                      Leben und Erleben übersetzt hat. Und da sind so viele Andre, Bekannte

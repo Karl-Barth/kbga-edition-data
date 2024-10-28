@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1087">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 85</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 24. Februar 1934</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1087 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1087 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 140–142.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">85</title>
+          <title type="text">Brief Nr. 85: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -109,7 +110,7 @@
             März</date>)<note xml:id="n01">Diese Exkursion <persName ref="kbga-actors-179">Hermelinks</persName> mit Studenten nach <placeName ref="kbga-places-53">Rom</placeName> wurde zum Anlaß seiner späteren
             Zwangsentlassung als Professor (s. <ref type="pub" target="1090#fn_n03">Nr. 88, Anm. 3</ref>), obgleich <persName ref="kbga-actors-388">H. v. Soden</persName> und andere Kollegen sich noch für seinen Verbleib an der <orgName ref="kbga-actors-8224">Marburger Universität</orgName> einsetzten; vgl. <bibl corresp="kbga-bibls-1206">
                             <persName ref="kbga-actors-205">B. Jaspert</persName>, <title level="a">Der
-                  Kirchenhistoriker Heinrich Hermelink</title>, in: ders., <hi rend="i">Theologie und Geschichte. Gesammelte
+                  Kirchenhistoriker Heinrich Hermelink</title>, in: ders., <hi rend="italic">Theologie und Geschichte. Gesammelte
                   Aufsätze</hi>, Bd. I, Frankfurt a. M.
                   1989, S. 219–239.</bibl>
                     </note>, damit uns seine Teilnahme nicht in Verlegenheit bringt. Daß wir <persName ref="kbga-actors-16">Balla</persName>, <persName ref="kbga-actors-433">Wünsch</persName>
@@ -138,7 +139,7 @@
             ihn <persName ref="kbga-actors-249">Hanns Lilje</persName> in die von ihm zusammen mit
               <persName ref="kbga-actors-390">Fritz Söhlmann</persName> herausgegebene und ebenfalls
             auf Seiten der Bekennenden Kirche stehende Zeitschrift «<orgName ref="kbga-actors-6002">Junge Kirche</orgName>» auf. Nachdruck des Aufsatzes in: <bibl corresp="kbga-bibls-1208">
-                            <persName ref="kbga-actors-201">G. Jacob</persName>, <hi rend="i">Die Versuchung der
+                            <persName ref="kbga-actors-201">G. Jacob</persName>, <hi rend="italic">Die Versuchung der
                   Kirche. Theologische Vorträge der Jahre 1933–1944</hi>, Göttingen 1946, S. 7–21.</bibl>
                     </note> und bittet mich, ihm zur Veröffentlichung zu helfen. Der <orgName ref="kbga-actors-994">Furche</orgName>-Verlag hat den
           Druck wegen der zu großen Aktualität (!) abgelehnt. Ich weiß nun nichts Besseres als Ihre
@@ -147,7 +148,7 @@
                         <bibl corresp="kbga-bibls-1209">
                             <persName ref="kbga-actors-431">E. Wolf</persName>, <title level="a">Martin Luther, das Evangelium und die
                   Religion</title> (<title>ThExh</title> 6), München
-                1934.</bibl> Autor der bisherigen Hefte <abbr ref="kbga-abbreviations-271">ThExh</abbr> 1–5 war ausschließlich <persName ref="kbga-actors-2151">Barth</persName>.</note>, sodaß offenbar <hi rend="i">grundsätzliche</hi>
+                1934.</bibl> Autor der bisherigen Hefte ThExh 1–5 war ausschließlich <persName ref="kbga-actors-2151">Barth</persName>.</note>, sodaß offenbar <hi rend="italic">grundsätzliche</hi>
           Bedenken gegen die Mitarbeit anderer Autoren nicht bestehen. Um Zeit zu sparen, wage ich,
           Ihnen das Manuskript, ohne Ihre Antwort abzuwarten, zuzuschicken, und bitte deshalb um
           Verzeihung.</p>
@@ -170,7 +171,7 @@
           gesagt zu sein, und nach meiner Meinung würde er in Ihrer Sammlung auch in seiner Eigenart
           gut am Platze sein. — Ich habe meinerseits Jacob, da ich in seinem Aufsatz das Positive
           gegenüber dem Kritischen nicht hinreichend zur Geltung gebracht finde, dringend gebeten,
-          den Aufsatz <hi rend="i">zusammen</hi> mit einem Vortrag über <persName ref="kbga-actors-261">Luthers</persName> Verhältnis zum Staat<note xml:id="n07">Unveröffentlicht. Vgl. aus demselben Jahr <bibl corresp="kbga-bibls-1211">
+          den Aufsatz <hi rend="italic">zusammen</hi> mit einem Vortrag über <persName ref="kbga-actors-261">Luthers</persName> Verhältnis zum Staat<note xml:id="n07">Unveröffentlicht. Vgl. aus demselben Jahr <bibl corresp="kbga-bibls-1211">
                             <persName ref="kbga-actors-201">G. Jacob</persName>, <title level="a">Luthers Kirchenbegriff</title>, in:
                   <title>ZThK</title>, Jg. 15 (1934), S. 16–32.</bibl> — <seg type="bio">
                             <persName ref="kbga-actors-201">Günter Jacob</persName>

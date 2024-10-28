@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1145">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 33</title>
         <title type="content">Autobiographische Bemerkungen von Rudolf Bultmann</title>
         <title type="citation_line_1">Bultmann, Rudolf: Autobiographische Bemerkungen von Rudolf Bultmann, 28. Januar 1956</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1145 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1145 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 302–311.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">33</title>
+          <title type="text">Anhang Nr. 33: Autobiographische Bemerkungen von Rudolf Bultmann</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -68,7 +69,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:46+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:46+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -137,10 +138,10 @@
                         Repetentenstelle am Seminarium <orgName ref="kbga-actors-8224">Philippinum in Marburg</orgName> erhielt, konnte ich an meiner
                         Promotion und Habilitation arbeiten. <date when="1910">1910</date> wurde ich aufgrund meiner Arbeit
                             <bibl corresp="kbga-bibls-912">
-                            <hi rend="i"> der paulinischen Predigt und die
+                            <hi rend="italic"> der paulinischen Predigt und die
                                     kynisch-stoische Diatribe</hi></bibl> zum Lic. theol. promoviert. Das Thema hatte mir <persName ref="kbga-actors-418">Johannes Weiß</persName> gestellt. Das Thema
                         meiner Habilitation, <bibl corresp="kbga-bibls-1469">
-                            <hi rend="i">Die Exegese des Theodor von <pb xml:id="p304" ed="pga"/> Mopsuestia</hi></bibl>, hatte <persName ref="kbga-actors-210">Adolf Jülicher</persName>
+                            <hi rend="italic">Die Exegese des Theodor von <pb xml:id="p304" ed="pga"/> Mopsuestia</hi></bibl>, hatte <persName ref="kbga-actors-210">Adolf Jülicher</persName>
                         vorgeschlagen. <date when="1912">1912</date> habilitierte ich mich damit als Dozent für Neues
                         Testament in <placeName ref="kbga-places-41">Marburg</placeName> und lehrte
                         dort als solcher bis zum Herbst <date when="1916">1916</date>.</p>
@@ -155,7 +156,7 @@
                         den Diskussionen teil, die Theologie und Kirche in den Jahren unmittelbar
                         vor und nach dem Ersten Weltkrieg bewegten. Ich erlebte auch persönlich
                         einen beachtlichen Teil der Geschichte, die <bibl corresp="kbga-bibls-1478">
-                            <persName ref="kbga-actors-333">Johannes Rathje</persName> in seiner <persName ref="kbga-actors-329">Rade</persName>-Biographie <hi rend="i">Die Welt des freien
+                            <persName ref="kbga-actors-333">Johannes Rathje</persName> in seiner <persName ref="kbga-actors-329">Rade</persName>-Biographie <hi rend="italic">Die Welt des freien
                             Protestantismus</hi></bibl><note xml:id="n01">
                             <bibl corresp="kbga-bibls-1478">Untertitel: <title level="a">Ein Beitrag zur deutsch-evangelischen
                                         Geistesgeschichte. Dargestellt am Leben und Werk</title> von
@@ -174,7 +175,7 @@
                             Kriegsfreiwilliger.</note> Wir erfuhren aber auch viel Freundschaft und
                         Hilfe. In <placeName ref="kbga-places-179">Breslau</placeName> schrieb ich
                             <bibl corresp="kbga-bibls-1470">
-                            <hi rend="i">Die Geschichte der synoptischen Tradition</hi></bibl>, die <date when="1921">1921</date> veröffentlicht wurde.<note xml:id="n04">
+                            <hi rend="italic">Die Geschichte der synoptischen Tradition</hi></bibl>, die <date when="1921">1921</date> veröffentlicht wurde.<note xml:id="n04">
                             <bibl corresp="kbga-bibls-1470">(<title>FRLANT</title> 29), Göttingen
                                     1921 (1979<edition rend="sup">9</edition>).</bibl>
                         </note>
@@ -218,7 +219,7 @@
                             <persName ref="kbga-actors-388">Hans von Soden</persName> — darum, daß
                         die freie Gelehrtenarbeit ihren eigenen Platz in ihr erhielt, trotz
                         gegenteiliger Tendenzen.<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-1480">
-                                A. Lindemann, <title level="a">Neutestamentler in der Zeit des Nationalsozialismus. Hans von Soden und Rudolf Bultmann</title>, in: <hi rend="i">Wort und Dienst. Jahrbuch der Theologischen Schule Bethel</hi>, Bd. XX, Bielefeld 1989, S. 25–52</bibl>; <bibl corresp="kbga-bibls-1481">
+                                A. Lindemann, <title level="a">Neutestamentler in der Zeit des Nationalsozialismus. Hans von Soden und Rudolf Bultmann</title>, in: <hi rend="italic">Wort und Dienst. Jahrbuch der Theologischen Schule Bethel</hi>, Bd. XX, Bielefeld 1989, S. 25–52</bibl>; <bibl corresp="kbga-bibls-1481">
                                 <persName ref="kbga-actors-205">B. Jaspert</persName>, <title level="a">Sachkritik und Widerstand. Das Beispiel Rudolf Bultmanns</title>, in: <title>ThLZ</title>, Jg. 115
                                         (1990), Sp. 161–182.</bibl>
                         </note>
@@ -275,9 +276,9 @@
                         äußerst fruchtbar.</p>
           <p>Die Veröffentlichungen, die aus meiner Arbeit in <placeName ref="kbga-places-41">Marburg</placeName> hervorgingen, sind in der
                         Bibliographie zusammengestellt, die in der <bibl corresp="kbga-bibls-1482">
-                            <hi rend="i">Theologischen Rundschau 1954</hi></bibl> publiziert wurde.<note xml:id="n09">
+                            <hi rend="italic">Theologischen Rundschau 1954</hi></bibl> publiziert wurde.<note xml:id="n09">
                             <bibl corresp="kbga-bibls-1482">
-                                <title level="a">Veröffentlichungen <hi rend="i">von</hi>  Rudolf Bultmann,</title> in:
+                                <title level="a">Veröffentlichungen <hi rend="italic">von</hi>  Rudolf Bultmann,</title> in:
                                         <title>ThR</title>, Jg. 22.
                                     (1954), S. 3–20.</bibl> Die bisher vollständigste Bibliographie Bultmanns einschließlich
                             seiner erst posthum erschienenen Arbeiten bietet <bibl corresp="kbga-bibls-1484">
@@ -296,20 +297,20 @@
                         Besonders dankbar bin ich für die Freundschaft mit <persName ref="kbga-actors-126">Anton Fridrichsen</persName>.</p>
           <p>1951 ging ich auf Einladung der <orgName ref="kbga-actors-8211">Yale University</orgName> in die <orgName ref="kbga-actors-8455">Vereinigten Staaten</orgName>,
                         um die Shaffer Lectures zu halten, die später unter dem Titel <bibl corresp="kbga-bibls-1280">
-                            <hi rend="i">Jesus Christ and Mythology</hi></bibl><note xml:id="n10">Siehe <ref type="pub" target="1143#fn_n01">Anh. 31, Anm. 1</ref>.</note> veröffentlicht wurden.
+                            <hi rend="italic">Jesus Christ and Mythology</hi></bibl><note xml:id="n10">Siehe <ref type="pub" target="1143#fn_n01">Anh. 31, Anm. 1</ref>.</note> veröffentlicht wurden.
                         Weitere Einladungen von verschiedenen Universitäten und theologischen
                         Seminaren gaben weitere Gelegenheiten, amerikanische Gelehrte zu treffen. Der geistige Austausch,
                         der im Laufe dieses dreimonatigen Besuches möglich war, war ein bedeutsames
                         Erlebnis für mich. Ein paar Jahre später, 1955, nahm ich die Einladung der
                             <orgName ref="kbga-actors-8598">Edinburgh University</orgName> an, die
                         <orgName ref="kbga-actors-8672">Gifford Lectures</orgName> zu halten, die später als Buch unter dem Titel <bibl corresp="kbga-bibls-1471">
-                            <hi xml:lang="eng" rend="i">The Presence of <pb xml:id="p308" ed="pga"/>
+                            <hi xml:lang="eng" rend="italic">The Presence of <pb xml:id="p308" ed="pga"/>
                                     Eternity</hi></bibl><note xml:id="n11">
                             <bibl corresp="kbga-bibls-1471">
                                 New York 1957</bibl>; im selben Jahr in <bibl corresp="kbga-bibls-1485">
-                                Edinburgh unter dem Titel <hi xml:lang="eng" rend="i">History and Eschatology</hi>
+                                Edinburgh unter dem Titel <hi xml:lang="eng" rend="italic">History and Eschatology</hi>
                                     erschienen</bibl>; deutsch: <bibl corresp="kbga-bibls-1022">
-                                <hi rend="i">Geschichte und Eschatologie</hi>, Tübingen 1958 (1979<edition rend="sup">3</edition>).</bibl>
+                                <hi rend="italic">Geschichte und Eschatologie</hi>, Tübingen 1958 (1979<edition rend="sup">3</edition>).</bibl>
                         </note> erschienen. <date when="1959">1959</date> ging ich auf Einladung der <orgName ref="kbga-actors-8695">Syracuse University</orgName>
                         wieder in die <orgName ref="kbga-actors-8455">Vereinigten Staaten</orgName>, um dort am <foreign xml:lang="eng">Department of Bible and
                         Religion</foreign> während des Frühjahrssemesters Vorlesungen zu halten. Wieder war es
@@ -321,7 +322,7 @@
                         eine wichtige Umkehr in der Geschichte der Theologie und in der Geschichte
                         der modernen Philosophie durchlebt — Entwicklungen, die seltsam parallel
                         laufen. Im Jahre <date when="1919">1919</date> erschien <persName ref="kbga-actors-2151">Karl Barths</persName> Buch <bibl corresp="kbga-bibls-119">
-                            <hi rend="i">Der Römerbrief</hi></bibl>.<note xml:id="n12">
+                            <hi rend="italic">Der Römerbrief</hi></bibl>.<note xml:id="n12">
                             <ref type="pub" target="1144#fn_n14">Siehe Anh. 32, Anm. 14.</ref>
                         </note> Barths Einfluß auf
                         die theologische Arbeit wuchs vom Beginn der 20er Jahre an ständig. <date when="1920">1920</date>
@@ -330,7 +331,7 @@
                             <title level="a">Die Krisis unserer Kultur</title></bibl> auf der Jahrestagung der <orgName ref="kbga-actors-4183">Freunde der Christlichen
                             Welt</orgName>.<note xml:id="n13">In: <bibl corresp="kbga-bibls-1472">
                                 <title>CW</title>, Jg. 34 (1920), Sp. 770–776.786–791</bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1411">
-                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="i">Die religiöse Entscheidung</hi>, Jena 1921, S. 32–53</bibl> (= <bibl corresp="kbga-bibls-914">
+                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="italic">Die religiöse Entscheidung</hi>, Jena 1921, S. 32–53</bibl> (= <bibl corresp="kbga-bibls-914">
                                 Anfänge II, S. 101–121</bibl>).</note> <date when="1923">1923</date> begann die Zeitschrift <orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>, herausgegeben von Barth, <persName ref="kbga-actors-137">Gogarten</persName> und <persName ref="kbga-actors-403">Thurneysen</persName>, als das Organ der theologischen Bewegung zu
                         erscheinen, die bald als «dialektische Theologie» bezeichnet wurde. Ich
                         versuchte, in die Diskussion mit dieser Theologie einzutreten, zuerst in dem
@@ -367,7 +368,7 @@
                                         Beitrag zu den Untersuchungen über Kants Philosophie der
                                         Geschichte</title>, in: Kant-Studien, Jg. 9 (1904),
                                     S. 21–154</bibl>; ders., <bibl corresp="kbga-bibls-1489">
-                                <hi rend="i">Psychologie und Erkenntnistheorie in der
+                                <hi rend="italic">Psychologie und Erkenntnistheorie in der
                                         Religionswissenschaft. Eine Untersuchung über die Bedeutung
                                         der Kantischen Religionslehre für die heutige
                                     Religionswissenschaft</hi>, Tübingen 1905 (1922<edition rend="sup">2</edition>)</bibl>; ders., <bibl corresp="kbga-bibls-1490">
@@ -376,7 +377,7 @@
                                         Religion und Geisteskultur
                                         (Göttingen), Jg. 3
                                         (1909), S. 263–273</bibl>, in überarbeiteter und erweiterter Fassung in: ders., <bibl corresp="kbga-bibls-1491">
-                                <hi rend="i">Gesammelte Schriften</hi>, Bd. II: <title level="a">Zur religiösen Lage, Religionsphilosophe und
+                                <hi rend="italic">Gesammelte Schriften</hi>, Bd. II: <title level="a">Zur religiösen Lage, Religionsphilosophe und
                                         Ethik</title>, Tübingen 1913 (<edition rend="normal">2. Nachdruck der 2. Aufl.</edition>
                                     Tübingen
                                     1922: Aalen
@@ -404,7 +405,7 @@
                         Ich glaube nicht, daß eine endgültige Klärung unserer Beziehung schon
                         erreicht ist; <persName ref="kbga-actors-309">Heinrich Ott</persName> hat
                         hier einen guten Anfang gemacht mit seinem Buch <bibl corresp="kbga-bibls-1337">
-                            <hi rend="i">Geschichte und Heilsgeschichte in der Theologie Rudolf Bultmanns</hi> (1955)</bibl>.<note xml:id="n18">
+                            <hi rend="italic">Geschichte und Heilsgeschichte in der Theologie Rudolf Bultmanns</hi> (1955)</bibl>.<note xml:id="n18">
                             <bibl corresp="kbga-bibls-1337">(BHTh 19), Tübingen
                                     1955.</bibl>
                         </note> Auf der anderen Seite ist die Gemeinsamkeit in den theologischen
@@ -416,23 +417,23 @@
                         der «Entmythologisierung» erwähnt zu haben, der zum Brennpunkt vieler
                         theologischer Debatten geworden ist. Ich benutzte diesen Ausdruck zum ersten
                         Mal 1941 in einem Vortrag, der später in dem Band <bibl corresp="kbga-bibls-1473">
-                            <hi rend="i">Offenbarung und Heilsgeschehen</hi></bibl><note xml:id="n19">
+                            <hi rend="italic">Offenbarung und Heilsgeschehen</hi></bibl><note xml:id="n19">
                             <ref type="pub" target="1138#fn_n04">Siehe Anh. 26, Anm. 4.</ref>
                         </note> veröffentlicht wurde. Die
                         Entmythologisierungsdebatte ist noch im Gange. Seit <date when="1948">1948</date> wurden verschiedene
                         Bände mit Kommentaren unter dem Titel <bibl corresp="kbga-bibls-1272">
-                            <hi rend="i">Kerygma und Mythos</hi></bibl>, herausgegeben von  <persName ref="kbga-actors-28">H. W.  Bartsch</persName>, veröffentlicht.<note xml:id="n20">
+                            <hi rend="italic">Kerygma und Mythos</hi></bibl>, herausgegeben von  <persName ref="kbga-actors-28">H. W.  Bartsch</persName>, veröffentlicht.<note xml:id="n20">
                             <bibl corresp="kbga-bibls-1492">Innerhalb der
                             Reihe «<title level="s">Theologische Forschung — Wissenschaftliche Beiträge zur
                             kirchlich-evangelischen Lehre</title>» gab Hans-Werner Bartsch zusammen mit anderen von
                                 1948 bis 1963, dem Jahr der Überarbeitung
-                            der autobiographischen Bemerkungen <persName ref="kbga-actors-512">Bultmanns</persName>, 6 Bände <hi rend="i">Kerygma und Mythos</hi> mit Diskussionsbeiträgen heraus. Der 5. Band erschien mit zwei
+                            der autobiographischen Bemerkungen <persName ref="kbga-actors-512">Bultmanns</persName>, 6 Bände <hi rend="italic">Kerygma und Mythos</hi> mit Diskussionsbeiträgen heraus. Der 5. Band erschien mit zwei
                             Ergänzungsbänden (Monographien), der 6. in zwei Teilbänden</bibl>.</note> Band
                         IV (1963) enthält einige Vorlesungen des römischen Symposions <bibl corresp="kbga-bibls-1474">
-                            <hi rend="i">Il problema della Demitizzazione</hi></bibl>, das <date when="1961">1961</date> unter der Leitung von <persName ref="kbga-actors-79">Enrico
+                            <hi rend="italic">Il problema della Demitizzazione</hi></bibl>, das <date when="1961">1961</date> unter der Leitung von <persName ref="kbga-actors-79">Enrico
                             Castelli</persName> stattfand.<note xml:id="n21">
                             <bibl corresp="kbga-bibls-1474">
-                                E. Castelli (ed.), <hi rend="i">Il Problema della
+                                E. Castelli (ed.), <hi rend="italic">Il Problema della
                                         Demitizzazione</hi>, Roma
                                     1961
                                 ; darin: <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Zum Problem der Entmythologisierung</title>, S. 19–26</bibl>; Nachdruck in: <bibl corresp="kbga-bibls-1271">
@@ -440,32 +441,32 @@
                                 GuV IV, S. 128–137</bibl>). Die römischen Kolloquien wurden in den folgenden Jahren unter
                             Leitung von <persName ref="kbga-actors-79">Enrico Castelli</persName> am
                             <orgName ref="kbga-actors-8696">Istituto di Studi Filosofici</orgName> der <orgName ref="kbga-actors-8697">römischen Staatsuniversität</orgName>
-                            fortgesetzt. Eine Auswahl der Akten wurde in Deutschland weiterhin in <abbr ref="kbga-abbreviations-155">KuM</abbr> publiziert.</note> Unter den Kritikern meiner Theologie ist der
+                            fortgesetzt. Eine Auswahl der Akten wurde in Deutschland weiterhin in KuM publiziert.</note> Unter den Kritikern meiner Theologie ist der
                         Philosoph <persName ref="kbga-actors-204">Karl Jaspers</persName>. Unser
                         Gedankenaustausch wurde <date when="1954">1954</date> unter dem Titel <bibl corresp="kbga-bibls-1475">
-                            <hi rend="i">Die Frage der Entmythologisierung</hi></bibl> veröffentlicht.<note xml:id="n22">München <date when="1954">1954</date>; Neuausgabe <bibl corresp="kbga-bibls-1493">mit einer Einführung von H. Ott («<hi rend="i">Zur
+                            <hi rend="italic">Die Frage der Entmythologisierung</hi></bibl> veröffentlicht.<note xml:id="n22">München <date when="1954">1954</date>; Neuausgabe <bibl corresp="kbga-bibls-1493">mit einer Einführung von H. Ott («<hi rend="italic">Zur
                             Wirkungsgeschichte der Entmythologisierungs-Debatte</hi>») München
                             1981</bibl>.</note> Auf der anderen Seite schrieb <persName ref="kbga-actors-137">Friedrich Gogarten</persName>, ein Befürworter der
                         Entmythologisierung, <date when="1953">1953</date> <bibl corresp="kbga-bibls-1476">
-                            <hi rend="i">Entmythologisierung und Kirche</hi></bibl>.<note xml:id="n23">
+                            <hi rend="italic">Entmythologisierung und Kirche</hi></bibl>.<note xml:id="n23">
                             <bibl corresp="kbga-bibls-1476">
                                 Stuttgart 1953 (1967<edition rend="sup">4</edition>).</bibl>
                         </note> In jüngerer Zeit habe ich die Ansichten
                         unterstützt, die Bischof <persName ref="kbga-actors-343">John A. T.
                             Robinson</persName> in seinem Buch <bibl corresp="kbga-bibls-1371">
-                            <hi rend="i">Honest to God</hi> (1963)</bibl><note xml:id="n24">
+                            <hi rend="italic">Honest to God</hi> (1963)</bibl><note xml:id="n24">
                             <bibl corresp="kbga-bibls-1371">
-                                London 1963; deutsch: <hi rend="i">Gott ist anders —
+                                London 1963; deutsch: <hi rend="italic">Gott ist anders —
                                         Honest to God</hi>, München 1963 (1967<edition rend="sup">13</edition>).</bibl>
                         </note> vertrat. Die <bibl corresp="kbga-bibls-1477">
-                            <hi rend="i">Honest to God Debate</hi>, 1963 von Robinson und David L. Ewards</bibl> veröffentlicht<note xml:id="n25">London <date when="1963">1963</date>. Einige Beiträge der englischen Ausgabe sind übersetzt in: <bibl corresp="kbga-bibls-1494">
-                                H. W. Augustin (Hrsg.), <hi rend="i">Diskussion zu Bischof Robinsons Gott ist anders</hi>, München
+                            <hi rend="italic">Honest to God Debate</hi>, 1963 von Robinson und David L. Ewards</bibl> veröffentlicht<note xml:id="n25">London <date when="1963">1963</date>. Einige Beiträge der englischen Ausgabe sind übersetzt in: <bibl corresp="kbga-bibls-1494">
+                                H. W. Augustin (Hrsg.), <hi rend="italic">Diskussion zu Bischof Robinsons Gott ist anders</hi>, München
                                     1964; darin S. 104–117</bibl> Nachdruck von<bibl corresp="kbga-bibls-1373"> <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Der Gottesgedanke und der moderne Mensch</title>,
                                     aus: <title>ZThK</title>, Jg. 60 (1963),
                                     S. 335–348</bibl> (= <bibl corresp="kbga-bibls-985">
                                 GuV IV, S. 113–127</bibl>).</note>, enthält einen Auszug <pb xml:id="p311" ed="pga"/>
                         meines ursprünglich für die deutsche Wochenzeitung <bibl corresp="kbga-bibls-1372">
-                            <hi rend="i">Die Zeit</hi></bibl> geschriebenen Diskussionsbeitrages.<note xml:id="n26">
+                            <hi rend="italic">Die Zeit</hi></bibl> geschriebenen Diskussionsbeitrages.<note xml:id="n26">
                             <bibl corresp="kbga-bibls-1372">
                                 <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Ist der Glaube an Gott erledigt?</title>, in:
                                         Die Zeit, Nr. 19 vom

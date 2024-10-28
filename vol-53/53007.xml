@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53007">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 5</title>
         <title type="content">Predigt: Markus 6,32-34</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 6,32-34, 25. August 1907</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53007 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53007 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 5: Predigt: Markus 6,32-34</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -64,13 +66,13 @@
                 <pb xml:id="p037" ed="pga"/>
                 
                 <div type="opener">
-                    <head type="0">
+                    <head>
                         <pb ed="A" rend="hidden" n="1"/>
                         <idno>5</idno>
                     </head>
                     <dateline>
                         <placeName ref="kbga-places-133">
-                            <hi rend="i">Meiringen</hi></placeName>, <date when="1907-08-25">den
+                            <hi rend="italic">Meiringen</hi></placeName>, <date when="1907-08-25">den
                             25. August 1907</date> <date rend="right">(13. Sonntag nach Trinitatis)</date> 
                     </dateline>
                     <argument>
@@ -99,17 +101,17 @@
                         (1606–1669), einer der bedeutendsten europäischen Maler des
                         Barocks, führender Künstler des «Goldenen Zeitalters» der
                         niederländischen Kunst.</note>, das lange Zeit unter dem Namen
-                        «<hi rend="i">Hundertguldenblatt</hi>»<note xml:id="n02">Siehe
+                        «<hi rend="italic">Hundertguldenblatt</hi>»<note xml:id="n02">Siehe
                         Abb. 2. – Die unter dem Namen «Hundertguldenblatt» bekannte
                         Radierung <persName ref="kbga-actors-1189">Rembrandts</persName> «Christus, dem die kleinen Kinder gebracht
                         werden» oder «Christus heilt die Kranken» (27,8 x 38,8 cm) wurde 1647/49
                         fertiggestellt. Eine Besprechung findet sich u. a. in: <bibl corresp="kbga-bibls-2499">
-                                <hi rend="i">Rembrandts
+                                <hi rend="italic">Rembrandts
                             Handzeichnungen und Radierungen zur Bibel</hi>, hrsg. von H.-M.
                         Rotermund, Lahr / Stuttgart 1963, S. 182f., Abb. 186</bibl>.</note> bekannt
                     war, weil der für das 17. Jahrhundert unerhörte Preis von 100 Gulden dafür
                     gezahlt worden ist. Es stellt Christus dar, umgeben von Hilfe<pb ed="A" rend="hidden" n="2"/>suchenden aller Art. Von der rechten Seite naht
-                    ein langer Zug <hi rend="i">Leidender</hi>, gestützt, getragen und gefahren von
+                    ein langer Zug <hi rend="italic">Leidender</hi>, gestützt, getragen und gefahren von
                     ihren Angehörigen; wir sehen hoffnungsvolle und gläubige neben matten und
                     verzweifelnden Augen zum Heiland aufblicken, alle voll brennender Erwartung:
                     wird er mir helfen? Eine alte Frau erhebt flehend ihre Hände, während eine
@@ -122,7 +124,7 @@
                         <head> <pb rend="noPipe" xml:id="p038" ed="pga"/></head>
                         <graphic url="../images/53/Abb-2.jpg"/>
                         <figDesc> 
-                            <hi>Abb. 2: Rembrandt van Rijn, «Christus, dem die kleinen Kinder gebracht werden», 1647/49 (Wikimedia Commons).</hi>
+                            <hi rend="italic">Abb. 2: Rembrandt van Rijn, «Christus, dem die kleinen Kinder gebracht werden», 1647/49 (Wikimedia Commons).</hi>
                         </figDesc>
                     </figure>
 
@@ -130,7 +132,7 @@
                     </p>
               <!-- Seitenumbruch kommt vor das Bild -->
                 <p>Und noch interessanter ist die Gruppe zur Linken. Das sind keine Kranken,
-                    sondern <hi rend="i">äußerlich gesunde</hi> Männer jedes Alters <anchor type="note" xml:id="fn-a"/>und Standes<note type="textcritical" target="fn-a" n="a" xml:id="na"> Im Mskr. mit Bleistift hinzugefügt.</note>. Auch sie sind gekommen, um den merkwürdigen Rabbi von <term type="Sachen" key="Jesus Christus">Nazareth</term> zu sehen und zu
+                    sondern <hi rend="italic">äußerlich gesunde</hi> Männer jedes Alters <anchor type="note" xml:id="fn-a"/>und Standes<note type="textcritical" target="fn-a" n="a" xml:id="na"> Im Mskr. mit Bleistift hinzugefügt.</note>. Auch sie sind gekommen, um den merkwürdigen Rabbi von <term type="Sachen" key="Jesus Christus">Nazareth</term> zu sehen und zu
                     hören, und in ihren Gesichtern spiegeln sich ihre Gedanken. Da sind wieder
                     Gläubige, Schwärmer, Gleichgiltige, Spötter, Selbstzufriedene, Gerechte und
                     Ungerechte, Freunde und Feinde. Jesus blickt hoheitsvoll und beherrschend
@@ -140,39 +142,39 @@
                     wunderbaren Bildes. Es ist eine Äußerlichkeit, aber, wie ich glaube, nicht
                     unwichtig. Wir bemerken, dass der <rs type="person" ref="kbga-actors-1189">Maler</rs> sich sichtlich bemüht hat, seinem
                     Gegenstand auch äußerlich gerecht zu werden durch Anpassung an die
-                        <hi rend="i">orientalische</hi> Umgebung. Die Personen, die wir da sehen,
+                        <hi rend="italic">orientalische</hi> Umgebung. Die Personen, die wir da sehen,
                     sind in phantastische Mäntel und Kleidungsstücke gehüllt und tragen Turbane
                     und Hüte nach Art der Juden des Mittelalters. Aber wenn wir <pb xml:id="p039" ed="pga"/> dann genauer zusehen, so entdecken wir, dass der Künstler in
                     scheinbarem Widerstreit damit die Gesichter der Dargestellten aus seiner
                     eigenen Umgebung genommen hat. So mögen die Kranken und Bettler auf den
-                    Straßen der <hi rend="i">holländischen</hi> Seestädte ausgesehen haben, so die
+                    Straßen der <hi rend="italic">holländischen</hi> Seestädte ausgesehen haben, so die
                     vornehmen, satten Kaufleute, die Magistrate und Ratsherren von dazumal.
-                    Diese Leute sehen wir da um Jesus versammelt, <hi rend="i">europäische Menschen des
+                    Diese Leute sehen wir da um Jesus versammelt, <hi rend="italic">europäische Menschen des
                         17. Jahrhunderts in der Tracht des Morgenlandes!</hi> Ich glaube, das
-                    ist weder Zufall noch künstlerische Laune, sondern ein <hi rend="i">Gedanke</hi>
+                    ist weder Zufall noch künstlerische Laune, sondern ein <hi rend="italic">Gedanke</hi>
                     kommt darin zum genialen <term type="Sachen" key="Hundertguldenblatt">Ausdruck</term>: Was Jesus dem leidenden und irrenden <term type="Sachen" key="Juden / Judentum">Judenvolk</term>
                     <pb ed="A" rend="hidden" n="4"/> seiner Zeit sein wollte, das kann und will er den
                     Menschen aller Völker und Zeiten sein: der <term type="Sachen" key="Jesus Christus, Heiland">
-                            <hi rend="i">Heiland</hi></term>, will sagen
-                    der Mann, der <hi rend="i">Heil</hi> bringt, Rettung aus Not und <term type="Sachen" key="Sünde">Sünde</term>.</p>
+                            <hi rend="italic">Heiland</hi></term>, will sagen
+                    der Mann, der <hi rend="italic">Heil</hi> bringt, Rettung aus Not und <term type="Sachen" key="Sünde">Sünde</term>.</p>
                 <p>
-                        <hi rend="i">Äußere Not</hi> und <hi rend="i">inwendig Sünde</hi>, ja diese Mächte hat
+                        <hi rend="italic">Äußere Not</hi> und <hi rend="italic">inwendig Sünde</hi>, ja diese Mächte hat
                     es allerorts und zu allen Zeiten gegeben. Man hat diese Mächte wegtäuschen
                     und wegdisputieren wollen, und unzählige Menschen halten es mit ihnen so wie
                     der Vogel Strauß, der den Kopf in den Sand steckt, wenn der Jäger kommt; sie
                     schließen die Augen zu und behaupten dann: es gibt keine Not, es gibt keine
                     Sünde. Und trotz Allem sind sie da, und furchtbar werden wir oft plötzlich
                     an ihr Dasein erinnert.</p>
-                <p> Wir haben aber auch einen Helfer! Es ist der lebendige <term type="Sachen" key="Gott, lebendiger">Gott</term>, der in <hi rend="i">Jesus von <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Nazareth</term></hi> zu uns geredet hat. Wir alle sind krank an
-                    jenen Übeln. Siehe, hier fragt dich Gott: <hi rend="i">Willst du gesund
+                <p> Wir haben aber auch einen Helfer! Es ist der lebendige <term type="Sachen" key="Gott, lebendiger">Gott</term>, der in <hi rend="italic">Jesus von <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Nazareth</term></hi> zu uns geredet hat. Wir alle sind krank an
+                    jenen Übeln. Siehe, hier fragt dich Gott: <hi rend="italic">Willst du gesund
                         werden?</hi> [<ref type="can" subtype="bible" target="Joh.5.6">Joh. 5,6</ref>]</p>
                 <div>
-                    <head type="4">I</head>
-                    <p rend="noindent">– – <hi rend="i">er sah die Menge des Volks und
+                    <head>I</head>
+                    <p rend="noindent">– – <hi rend="italic">er sah die Menge des Volks und
                             hatte Mitleid mit ihnen</hi>. Krankheit und Tod, Hunger und Elend,
                         das hat es im jüdischen Volk zur <pb ed="A" rend="hidden" n="5"/> Zeit Jesu
                         gegeben wie heute. Liebe Freunde! Soll ich euch davon reden, was
-                            <hi rend="i">irdische <term type="Sachen" key="Not">Not</term></hi> ist?
+                            <hi rend="italic">irdische <term type="Sachen" key="Not">Not</term></hi> ist?
                         Es sind Viele unter euch, die das besser tun könnten als ich, weil sie
                         nicht am Studiertisch darüber nachgedacht, sondern sie an sich selbst
                         und an andern hundertfältig erfahren haben. Not ist es, wenn der Vater
@@ -180,17 +182,17 @@
                         es, wenn durch plötzliche, schwere Ereignisse der Ertrag vieler
                         vergangener und zukünftiger Jahre auf einmal vernichtet wird, Not ist
                         es, wenn es vorkommt, dass eine Frau, ein Mädchen 15 Stunden täglich
-                        arbeiten muss, um damit einen gan<pb xml:id="p040" ed="pga"/>zen Franken zu
+                        arbeiten muss, um damit einen gan<pb xml:id="p040" ed="pga" break="no"/>zen Franken zu
                             verdienen!<note xml:id="n03">Solche Arbeitszeiten waren in
                             den vom 1874 erlassenen <term type="Sachen" key="Schweiz, Fabrikgesetz 1874">Fabrikgesetz</term> betroffenen
-                            Arbeitsbereichen nicht mehr möglich (vgl. dazu <bibl corresp="kbga-bibls-2500">K. Barth, <hi rend="i">Die
+                            Arbeitsbereichen nicht mehr möglich (vgl. dazu <bibl corresp="kbga-bibls-2500">K. Barth, <hi rend="italic">Die
                                 Arbeiterfrage</hi> [1913/1914], in: V.u.kl.A.
                             1909–1914, S. <ref type="pub-" target="../vol-22/p573#p573">573–682</ref>, dort S. 592f.</bibl>), konnten aber in
                             der ganz überwiegend von Frauen betriebenen und schlecht bezahlten
                             Heimarbeit durchaus vorkommen, in der um 1900 in der Schweiz noch
                             etwa 90 000 Personen beschäftigt waren. Vgl. exemplarisch: <bibl corresp="kbga-bibls-2480">
                                     Cl. Hagmayer,
-                                <hi rend="i">Bis dass der Tod euch scheidet. Witwen in der Schweiz um
+                                <hi rend="italic">Bis dass der Tod euch scheidet. Witwen in der Schweiz um
                                 1900</hi>, Zürich 1994, S. 102–104</bibl>.</note> Ihr, die ihr
                         das nie erfahren habt, seid ihr vom <term type="Sachen" key="Glück">Glück</term> so abgestumpft, dass euch kein bitteres und wehmütiges
                         Gefühl wenigstens ergreift, wenn ihr an das denkt, was so viele andere
@@ -200,7 +202,7 @@
                                 <l>Wer nie sein Brot mit Tränen aß,</l>
                                 <l>Wer nie die kummervollen Nächte</l>
                                 <l>Auf seinem Bette weinend saß,<note xml:id="n04">
-                                        <bibl corresp="kbga-bibls-1526">J. W. von Goethe, <hi rend="i">Wilhelm Meisters
+                                        <bibl corresp="kbga-bibls-1526">J. W. von Goethe, <hi rend="italic">Wilhelm Meisters
                                             Lehrjahre</hi>, Zweites Buch, Kapitel 13
                                         (Hamburger Ausgabe, Bd. 7, S. 136)</bibl>.</note>
                                 </l>
@@ -220,8 +222,8 @@
                         schon gedacht?! Es ist menschlich, aber doch sollst du dabei nicht
                         stehen bleiben. Ich möchte dir vor Allem Eines zu bedenken geben
                         – nicht ein Trost soll es sein, aber es kann dich freier machen
-                        gegenüber deiner Not –, <hi rend="i">du bist mit deinem <term type="Sachen" key="Leid">Leiden</term></hi>
-                        <hi rend="i">nicht allein</hi>, ja es gibt Tausende in allen Ländern, denen
+                        gegenüber deiner Not –, <hi rend="italic">du bist mit deinem <term type="Sachen" key="Leid">Leiden</term></hi>
+                        <hi rend="italic">nicht allein</hi>, ja es gibt Tausende in allen Ländern, denen
                         es noch schlimmer geht als dir. Denke an <term type="Sachen" key="Arbeiter">die</term>, die Tag für Tag in den Tiefen der
                         Bergwerke ihr Brot zu verdienen haben, oder an die, die im Rumpf der
                         Ozeandampfer an der Maschine stehen, denke an die Hunderttausende von
@@ -234,7 +236,7 @@
                         Warum sage ich dir dies alles, lieber Freund?! Um dir zu zeigen, dass du
                         und deine Not nur ein kleiner Teil bist einer ungeheuren Gesamt-Not,
                         einer Not, die da ist, seit es Menschen gibt, einer Not, die als die
-                            <hi rend="i">soziale <term type="Sachen" key="Soziale Frage">Frage</term></hi> in unsern Tagen das Interesse und die Arbeit
+                            <hi rend="italic">soziale <term type="Sachen" key="Soziale Frage">Frage</term></hi> in unsern Tagen das Interesse und die Arbeit
                         der Besten in Anspruch nimmt.<note xml:id="n05">Der Begriff
                             «Soziale Frage» oder «Arbeiterfrage» wurde seit der Mitte des 19.
                             Jahrhunderts als Oberbegriff für die Lage und die zu einem großen
@@ -243,7 +245,7 @@
                             politischer Hinsicht verwendet. Damit und mit dem in dieser
                             Problematik enthaltenen gesellschaftlichen Sprengstoff hatte Barth
                             sich bereits im Jahr zuvor in seinem wohl ersten öffentlichen
-                            Vortrag überhaupt befasst: <bibl corresp="kbga-bibls-2481">K. Barth, <hi rend="i">Zofingia und Sociale
+                            Vortrag überhaupt befasst: <bibl corresp="kbga-bibls-2481">K. Barth, <hi rend="italic">Zofingia und Sociale
                                 Frage</hi>, in: V.u.kl.A. 1905–1909, <ref type="pub-" target="../vol-21/p061#p061">S. 61–99</ref>,
                             dort bes. <ref type="pub-" target="../vol-21/p071#p071">S. 71–76</ref></bibl>.</note> Auf der einen Seite der <term type="Sachen" key="Reichtum">Reichtum</term>, das <term type="Sachen" key="Kapitalismus">Kapital</term>, das sich bei
                         einzelnen Wenigen immer mehr anhäuft, auf der andern Seite die <term type="Sachen" key="Armut">Armut</term> in tausend Formen und
@@ -251,7 +253,7 @@
                             <term type="Sachen" key="Not">Not</term>, die Not der Menschheit,
                         die nach Erlösung seufzt, – das ist die eine Gruppe auf dem <term type="Sachen" key="Hundertguldenblatt">Rembrandt-Bild</term>, das
                         ich euch beschrieben habe.</p>
-                    <p>Ja, sie sind wie Schafe, die keinen Hirten haben, und <hi rend="i">Jesus</hi>
+                    <p>Ja, sie sind wie Schafe, die keinen Hirten haben, und <hi rend="italic">Jesus</hi>
                         hat diese Not gesehen und erkannt, und es heißt von ihm: er hatte
                         Mitleid mit ihnen, da er die Menge des Volks sah! Und dieses Mitleid war
                         kein bloßes, schwächliches Gefühl, <pb ed="A" rend="hidden" n="8"/> sondern
@@ -269,8 +271,8 @@
                         geholfen, der äußern Not <term type="Sachen" key="Jesus Christus, Helfer in der äußeren Not">geholfen</term>, und
                         helfen will er auch heute, denn unsre sozialen <term type="Sachen" key="Soziale Frage">Zustände</term> sind ferne vom Reich Gottes!</p>
                     
-                     <p>  <pb rend="noPipe" xml:id="p042" ed="pga"/> Aber freilich: Die Hilfe, <hi rend="i">die Kraft <term type="Sachen" key="Jesus Christus, Kraft">Jesu</term></hi>
-                        <hi rend="i">wirkt von innen heraus</hi>. Dem Gichtbrüchigen in
+                     <p>  <pb rend="noPipe" xml:id="p042" ed="pga"/> Aber freilich: Die Hilfe, <hi rend="italic">die Kraft <term type="Sachen" key="Jesus Christus, Kraft">Jesu</term></hi>
+                        <hi rend="italic">wirkt von innen heraus</hi>. Dem Gichtbrüchigen in
                             <placeName ref="kbga-places-862">Kapernaum</placeName> hat er
                         zuerst gesagt: Deine Sünden sind dir vergeben! und dann: Stehe auf, nimm
                         dein Bett und gehe heim! 
@@ -284,7 +286,7 @@
                         Seine [<ref type="can" subtype="bible" target="Jes.53.6">Jes. 53,6</ref>],
                         statt Gottes Sache, will sagen, die Sache der Gesamtheit, der <term type="Sachen" key="Menschheit, Gemeinschaft">Gemeinschaft</term>. Es
                         fehlt den Menschen ein gemeinsames Ziel, jeder geht seinem Nutzen und
-                        Vorteil nach, der in Erwerb und Genuss bestehen soll. Sieh, <hi rend="i">hier
+                        Vorteil nach, der in Erwerb und Genuss bestehen soll. Sieh, <hi rend="italic">hier
                             will Jesus eingreifen und heilen</hi>. Denn diese allseitige <term type="Sachen" key="Selbstsucht">Selbstsucht</term>, dieser Mangel an
                         Gemeinschaft verursacht immer aufs Neue die sozialen Nöte. Wenn an die
                         Stelle der Selbstsucht bei uns Allen das Reich <term type="Sachen" key="Reich Gottes">Gottes</term> tritt, dann ist die soziale <term type="Sachen" key="Soziale Frage">Frage</term> gelöst. Wenn es
@@ -306,8 +308,8 @@
                 </div>
                 <div>
                     <pb xml:id="p043" ed="pga"/>
-                    <head type="4">II</head>
-                    <p rend="noindent">– – <hi rend="i">er hatte Mitleid mit ihnen, denn
+                    <head>II</head>
+                    <p rend="noindent">– – <hi rend="italic">er hatte Mitleid mit ihnen, denn
                             sie waren wie Schafe, die keinen Hirten haben</hi>. Auf die äußere
                             <term type="Sachen" key="Not">Not</term> der Menschen richtete sich
                         dieses Mitleiden <term type="Sachen" key="Jesus Christus, Mitleid">Jesu</term> zunächst, wir haben aber bereits gesehen, dass ihre
@@ -332,21 +334,21 @@
                         oder vornehm, ungebildet oder gebildet, der es nicht nötig hätte, immer
                         wieder von Jesus <term type="Sachen" key="Jesus Christus, Kraft">Kraft</term> zu empfangen. Das wäre das Reich <term type="Sachen" key="Reich Gottes">Gottes</term>, wenn unser äußeres wie unser
                         geistiges Leben an ihm orientiert wäre, aber es fehlt auch dazu viel,
-                        sehr viel! <hi rend="i">Sie sind wie Schafe, die keinen Hirten haben</hi>.
+                        sehr viel! <hi rend="italic">Sie sind wie Schafe, die keinen Hirten haben</hi>.
                         Ist es nicht eine Lästerung des <term type="Sachen" key="Heiliger Geist, Lästerung">Geistes</term> unsrer Zeit, wenn man
                         dies Wort auf sie anwendet? Und doch ist es so! Ja, man pflegt sich
                         heutzutage gerne dessen zu freuen und zu rühmen, was unser Jahrhundert
                         geleistet «und wie wir’s dann zuletzt so herrlich weit
                             gebracht!»<note xml:id="n06"> <bibl corresp="kbga-bibls-647">
                                     <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                <hi rend="i">Faust. Der Tragödie erster Teil</hi>, V. 573
+                                <hi rend="italic">Faust. Der Tragödie erster Teil</hi>, V. 573
                             (Nacht)</bibl>.</note> Aber sieh einmal <pb ed="A" rend="hidden" n="12"/> hinein
                         in dies geistige Leben der <term type="Sachen" key="Gegenwart, geistiges Leben">Gegenwart</term>, und welche
                         Zerfahrenheit, Unklarheit, welche Divergenzen wirst du da entdecken,
                         welches Sich-Anklammern an diese oder jene Autorität, die plötzlich auf
                         den Schild gehoben, meist ebenso plötzlich wieder fallen gelassen wird.
                         Ich habe im letzten Winter in der deutschen Reichshauptstadt <placeName ref="kbga-places-8">Berlin</placeName> die <term type="Sachen" key="Deutsches Reich, Reichstagswahlen 1907">Reichstagswahlen</term>
-                        miter<pb xml:id="p044" ed="pga"/>lebt.<note xml:id="n07">Barth war
+                        miter<pb xml:id="p044" ed="pga" break="no"/>lebt.<note xml:id="n07">Barth war
                             zum Wintersemester 1906/07 nach Berlin gegangen, um dort sein
                             Studium – besonders bei <persName ref="kbga-actors-155">Adolf von Harnack</persName> (1851–1930; seit
                             1888 Prof. für Kirchengeschichte in Berlin) – fortzusetzen.
@@ -363,8 +365,8 @@
                             deutlicheren Stimmengewinne im bürgerlichen Lager und der dort
                             erfolgten Stichwahlabsprachen büßten sie beinahe die Hälfte ihrer
                             Mandate ein (43 statt 81). Vgl. <bibl corresp="kbga-bibls-2482">
-                                    Th. Nipperdey, <hi rend="i">Deutsche
-                                Geschichte 1866–1918</hi>, Bd. 2: <hi rend="i">Machtstaat vor
+                                    Th. Nipperdey, <hi rend="italic">Deutsche
+                                Geschichte 1866–1918</hi>, Bd. 2: <hi rend="italic">Machtstaat vor
                                 der Demokratie</hi>, München 1998, S. 729–731</bibl>.</note>
                         Die Geister sind aufeinandergeplatzt, aber wahrlich, das sind keine
                         Geister von oben gewesen. Wir alle<note type="textcritical" n="d" xml:id="nd">Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
@@ -399,10 +401,10 @@
                             größten Teils <placeName ref="kbga-places-909">Marokkos</placeName>
                             (vgl. <bibl corresp="kbga-bibls-2098">
                                     A. Adam,
-                                <hi rend="i">Sur l’action du Galilée à Casablanca en août
+                                <hi rend="italic">Sur l’action du Galilée à Casablanca en août
                                 1907</hi>, in: Revue d l’Occident musulman et de la
                             Méditerranée, Vol. 6 [1969], S. 9–21</bibl>; <bibl corresp="kbga-bibls-2484">
-                                    G. Mai, <hi rend="i">Die
+                                    G. Mai, <hi rend="italic">Die
                                 Marokko-Deutschen. 1873–1918</hi>, Göttingen 2014,
                             S. 351–364</bibl>).</note> Nicht wahr:</p>
                    
@@ -422,7 +424,7 @@
                         Technik, Handel und Industrie haben sich zu schwindelhafter Höhe
                         heraufgearbeitet, und immer neue Ausblicke tun sich auf nach allen
                         Seiten. Allein alles das sind der Güter höchste noch nicht,<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-846">
-                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Wilhelm
+                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Wilhelm
                                 Tell</hi>, Zweiter Aufzug, Zweite Szene (a.a.O., Bd. 2,
                             S. 959)</bibl>: 
                             <q rend="block">
@@ -439,7 +441,7 @@
                             </note> sondern bloß eine Außenseite.
                         Was helfen sie, wenn unter ihrer Decke der <term type="Sachen" key="Eigennutz">Eigennutz</term>, die <term type="Sachen" key="Sinnlichkeit">Sinnlichkeit</term>, <pb ed="A" rend="hidden" n="13"/> die <term type="Sachen" key="Eitelkeit">Eitelkeit</term>, die <term type="Sachen" key="Borniertheit">Borniertheit</term> der Menschen
                         dieselbe bleibt?!</p>
-                    <p>Ja, <hi rend="i">er hatte Mitleid mit ihnen</hi>, und auch wir Menschen von
+                    <p>Ja, <hi rend="italic">er hatte Mitleid mit ihnen</hi>, und auch wir Menschen von
                         heutzutage haben dieses Mitleid nötig, denn es fehlt uns trotz Allem an
                         hohen gemeinsamen Zielen, an großen Gedanken in den kleinen Sorgen des
                         Tages. Liebe Freunde! Es kann ein Mensch die besten Schulen besucht
@@ -447,9 +449,9 @@
                         Barbar sein. Alle <term type="Sachen" key="Bildung">Bildung</term> ist
                         nichts, wenn sie nicht <term type="Sachen" key="Bildung, Herzensbildung">Herzensbildung</term> ist, wenn sie dich nicht gelehrt hat, ein
                         ganzer Mensch, eine <term type="Sachen" key="Persönlichkeit">
-                                <hi rend="i">Persönlichkeit</hi></term> zu werden. Dass wir das so
-                        vielfach <hi rend="i">nicht sind</hi>, ist unser Unglück. Der Kampf, das zu
-                            <hi rend="i">werden</hi>, ist unsre Lebensaufgabe. <pb xml:id="p046" ed="pga"/>
+                                <hi rend="italic">Persönlichkeit</hi></term> zu werden. Dass wir das so
+                        vielfach <hi rend="italic">nicht sind</hi>, ist unser Unglück. Der Kampf, das zu
+                            <hi rend="italic">werden</hi>, ist unsre Lebensaufgabe. <pb xml:id="p046" ed="pga"/>
                         Und sieh, nun tritt Jesus an deine Seite. Du hast jenen Kampf vergeblich
                         gekämpft, aber:</p>
                 
@@ -471,14 +473,14 @@
                         </q>
                 
                     <p rend="noindent">Und nun blicke zu ihm auf, ernst und lange, und du wirst
-                        ein Geheimnis erfahren, schwer und doch so einfach: <hi rend="i">Der Weg, ein
+                        ein Geheimnis erfahren, schwer und doch so einfach: <hi rend="italic">Der Weg, ein
                             solcher ganzer Mensch, eine Persönlichkeit zu werden, ist die Liebe,
                             die sich selbst verleugnet</hi>, die nicht das <term type="Sachen" key="Persönlichkeit, und Eigennutz">Ihre</term> sucht [<ref type="can" subtype="bible" target="1.Kor.13.5">1.Kor. 13,5</ref>], sondern das
                         Heil der <term type="Sachen" key="Persönlichkeit, und Gemeinschaft">Gemeinschaft</term>!</p>
                      <p>  <pb ed="A" rend="hidden" n="14"/> Mein Freund, besinne dich heute darüber, ob
                         ich recht habe, es braucht zu diesem Besinnen keine Bücher und keine
                             <term type="Sachen" key="Wissenschaft">Wissenschaft</term>, nur ein
-                            <term type="Sachen" key="Gewissen">Gewissen</term>! <hi rend="i">Die Liebe,
+                            <term type="Sachen" key="Gewissen">Gewissen</term>! <hi rend="italic">Die Liebe,
                             die sich selbst verleugnet</hi> – und sieh, da sind wir
                         wieder bei dem angelangt, was wir als die Befreiung von aller irdischen,
                         äußern <term type="Sachen" key="Not">Not</term> erkannt haben, beim

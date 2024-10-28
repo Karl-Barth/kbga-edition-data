@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-55007">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-55">Vorträge und kleinere Arbeiten 1935–1937</title>
         <title type="content">Vorwort [zu: Das Bekenntnis der Reformation und unser Bekennen]</title>
         <title type="citation_line_1">Barth, Karl: Vorwort [zu: Das Bekenntnis der Reformation und unser Bekennen], 1935</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55007 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius, Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 170–171.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55007 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius / Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 170–171.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,7 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Vorträge und kleinere Arbeiten 1935–1937</title>
+          <title type="text">Vorwort [zu: Das Bekenntnis der Reformation und unser Bekennen]</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Kratzert, Lucius</editor>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2020</date>
@@ -55,7 +58,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:48+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:48+02:00</change>
+      <change when="2024-10-28T10:45:17+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:17+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -66,12 +69,12 @@
                     <anchor type="cross" xml:id="kbga-texts-55007_start"/>Vorwort<lb/>[zu: Das Bekenntnis der Reformation <lb/>und unser Bekennen]</head>
 <head type="sub">1935</head>
 <div type="abstract">
-<p>Dieses Vorwort ist am Tag nach <persName ref="kbga-actors-2151">Barths</persName> Rückkehr aus <placeName ref="kbga-places-105">St. Gallen</placeName> geschrieben, wo er den im Heft enthaltenen Vortrag am <date>24. September 1935</date> an der 80. Jahresversammlung des <orgName ref="kbga-actors-5619">Schweizerischen reformierten Pfarrvereins</orgName> gehalten hatte.<note place="footnote" xml:id="n01"> Zum Vortrag und den Diskussionen in <placeName ref="kbga-places-105">St. Gallen</placeName> vgl. oben, <ref type="pub" target="../volume/55/p109#p109">S. 109–169</ref>.</note>
+<p>Dieses Vorwort ist am Tag nach <persName ref="kbga-actors-2151">Barths</persName> Rückkehr aus <placeName ref="kbga-places-105">St. Gallen</placeName> geschrieben, wo er den im Heft enthaltenen Vortrag am <date>24. September 1935</date> an der 80. Jahresversammlung des <orgName ref="kbga-actors-5619">Schweizerischen reformierten Pfarrvereins</orgName> gehalten hatte.<note xml:id="n01"> Zum Vortrag und den Diskussionen in <placeName ref="kbga-places-105">St. Gallen</placeName> vgl. oben, <ref type="pub" target="../volume/55/p109#p109">S. 109–169</ref>.</note>
 </p>
 <p>
-                        <persName ref="kbga-actors-2151">Barth</persName> war bis zum Mittwoch, <date>25. September</date>, in <placeName ref="kbga-places-105">St. Gallen</placeName>, wo er am Vormittag noch den Vortrag <persName ref="kbga-actors-653">Hermann Kutters</persName> hörte, den er in diesem Vorwort für das nächste Heft ankündigt. Erst «spät Abend» war er wieder in <placeName ref="kbga-places-5">Basel</placeName> und berichtete dort von dem «Krach […] mit den <term ref="kbga-terms-691">Reformern</term>», den sein Vortrag und vor allem das am Ende der ihm folgenden Diskussion gehaltene Schlusswort ausgelöst hatten.<note place="footnote" xml:id="n02"> Taschenkalender Charlotte von Kirschbaums, Eintrag vom <date>25.9.1935</date>.</note>
+                        <persName ref="kbga-actors-2151">Barth</persName> war bis zum Mittwoch, <date>25. September</date>, in <placeName ref="kbga-places-105">St. Gallen</placeName>, wo er am Vormittag noch den Vortrag <persName ref="kbga-actors-653">Hermann Kutters</persName> hörte, den er in diesem Vorwort für das nächste Heft ankündigt. Erst «spät Abend» war er wieder in <placeName ref="kbga-places-5">Basel</placeName> und berichtete dort von dem «Krach […] mit den <term ref="kbga-terms-691">Reformern</term>», den sein Vortrag und vor allem das am Ende der ihm folgenden Diskussion gehaltene Schlusswort ausgelöst hatten.<note xml:id="n02"> Taschenkalender Charlotte von Kirschbaums, Eintrag vom <date>25.9.1935</date>.</note>
 </p>
-<p>Am darauffolgenden Tag muss <persName ref="kbga-actors-2151">Barth</persName> – Notizen dazu sind ebenso wenig erhalten wie Vorarbeiten zum Text – zwischen den Terminen und vielen Besuchen, die <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName> für diesen Tag notierte,<note place="footnote" xml:id="n03"> A.a.O., Eintrag vom <date>26.9.1935</date>: «<persName ref="kbga-actors-2151">Karl</persName> hat erste <orgName ref="kbga-actors-8250">Fakultätssitzung</orgName>. Ich gehe auf die Fremdenpolizei. Mittags Karls <persName ref="kbga-actors-18">Mutter</persName> und <persName ref="kbga-actors-3923">Ernst Sartorius</persName> da. Nachm[ittags] Pfr. <persName ref="kbga-actors-3947">Walter</persName> aus <placeName ref="kbga-places-67">Genf</placeName> und Frau und dazwischen noch Dr. <persName ref="kbga-actors-109">Emmerich</persName> aus <placeName ref="kbga-places-138">Karlsruhe</placeName>, ein geflüchteter Jude.»</note> Zeit gefunden haben, das Vorwort niederzuschreiben oder zu diktieren.</p>
+<p>Am darauffolgenden Tag muss <persName ref="kbga-actors-2151">Barth</persName> – Notizen dazu sind ebenso wenig erhalten wie Vorarbeiten zum Text – zwischen den Terminen und vielen Besuchen, die <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName> für diesen Tag notierte,<note xml:id="n03"> A.a.O., Eintrag vom <date>26.9.1935</date>: «<persName ref="kbga-actors-2151">Karl</persName> hat erste <orgName ref="kbga-actors-8250">Fakultätssitzung</orgName>. Ich gehe auf die Fremdenpolizei. Mittags Karls <persName ref="kbga-actors-18">Mutter</persName> und <persName ref="kbga-actors-3923">Ernst Sartorius</persName> da. Nachm[ittags] Pfr. <persName ref="kbga-actors-3947">Walter</persName> aus <placeName ref="kbga-places-67">Genf</placeName> und Frau und dazwischen noch Dr. <persName ref="kbga-actors-109">Emmerich</persName> aus <placeName ref="kbga-places-138">Karlsruhe</placeName>, ein geflüchteter Jude.»</note> Zeit gefunden haben, das Vorwort niederzuschreiben oder zu diktieren.</p>
 <p>Der einzige Abdruck erfolgte in: <bibl corresp="kbga-bibls-760">
                             <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">
                                 <hi rend="text-recte">Das Bekenntnis der Reformation und unser Bekennen</hi></title> (ThExh 29), München 1935, S. [3]</bibl>.</p>
@@ -79,11 +82,11 @@
     <div>
 
 <head>Vorwort</head>
-<p>Der in diesem Heft abgedruckte Vortrag «Das Bekenntnis der Reformation und unser Bekennen» wurde gehalten am <date>24. September 1935</date> in der Versammlung des <orgName ref="kbga-actors-5619">Schweizerischen reformierten Pfarrvereins</orgName> in der <placeName ref="kbga-places-849">St. Mangenkirche zu St. Gallen</placeName>. Ich füge hinzu mein Schlusswort <pb xml:id="p171" ed="pga"/> in der diesem Vortrag folgenden Diskussion. <anchor type="cross" xml:id="kbga-texts-55007_1a"/>Das nächste Heft bringt eine beim selben Anlass vorgetragene Arbeit von Pfarrer <persName ref="kbga-actors-653">Hermann Kutter, jun.</persName> (<placeName ref="kbga-places-77">Bruggen</placeName>, Kanton St. Gallen): «Die Stellung der Kirche in der Volksgemeinschaft».<anchor type="cross" xml:id="kbga-texts-55007_1b"/><note place="footnote" xml:id="n04">
+<p>Der in diesem Heft abgedruckte Vortrag «Das Bekenntnis der Reformation und unser Bekennen» wurde gehalten am <date>24. September 1935</date> in der Versammlung des <orgName ref="kbga-actors-5619">Schweizerischen reformierten Pfarrvereins</orgName> in der <placeName ref="kbga-places-849">St. Mangenkirche zu St. Gallen</placeName>. Ich füge hinzu mein Schlusswort <pb xml:id="p171" ed="pga"/> in der diesem Vortrag folgenden Diskussion. <anchor type="cross" xml:id="kbga-texts-55007_1a"/>Das nächste Heft bringt eine beim selben Anlass vorgetragene Arbeit von Pfarrer <persName ref="kbga-actors-653">Hermann Kutter, jun.</persName> (<placeName ref="kbga-places-77">Bruggen</placeName>, Kanton St. Gallen): «Die Stellung der Kirche in der Volksgemeinschaft».<anchor type="cross" xml:id="kbga-texts-55007_1b"/><note xml:id="n04">
                             <bibl corresp="kbga-bibls-80">
                                 <persName ref="kbga-actors-653">H. Kutter</persName>, <title level="a">Die Stellung der Kirche in der Volksgemeinschaft</title> (ThExh 30), München 1935</bibl>.</note>
 </p>
-<p>Man sieht: Es handelt sich um dieselben großen Fragen, die nun seit zweieinhalb Jahren die <term ref="kbga-terms-673">deutsche evangelische Kirche</term> bewegen. Sie sind aber hier ganz im Licht und auch im Schatten der besonderen schweizerischen Voraussetzungen behandelt. Diese Besonderheit ist für die Veröffentlichung auch in Äußerlichkeiten nicht unterdrückt worden, sondern die Hefte geben genau das wieder, was nun eben in diesem Raume zu diesen Dingen gesagt wurde und gesagt werden musste. Die Leser in <placeName ref="kbga-places-151">Deutschland</placeName> werden darin nicht nur eine Zumutung erblicken und sie werden auch an diesen Heften nicht nur historisches Interesse nehmen. Die Erkenntnisse und Erfahrungen des deutschen <term ref="kbga-terms-222">Kirchenkampfes</term> und darüber hinaus die der ganzen <term ref="kbga-terms-248">Kirche Jesu Christi</term> gestellten Fragen und geschenkten Antworten werden ihnen ja in eigentümlich abgewandelter Form auch hier begegnen. Und ich denke, dass die Teilnahme an den Gegebenheiten, Nöten, Problemen und Möglichkeiten einer zunächst so anderen, ja teilweise fremden Situation, wie es die schweizerische für den Deutschen zunächst ist, angesichts der Einheit der <hi rend="i">geistlichen</hi> Voraussetzungen den Einen und Anderen gerade mitten in den Sorgen und Kämpfen der eigenen, deutschen Lage lehrreich, tröstlich und befreiend sein kann. Denn es ist hie kein Unterschied … (<ref type="can" subtype="bible" target="Röm.3.23 Röm.3.24">Röm. 3,23–24</ref>).</p>
+<p>Man sieht: Es handelt sich um dieselben großen Fragen, die nun seit zweieinhalb Jahren die <term ref="kbga-terms-673">deutsche evangelische Kirche</term> bewegen. Sie sind aber hier ganz im Licht und auch im Schatten der besonderen schweizerischen Voraussetzungen behandelt. Diese Besonderheit ist für die Veröffentlichung auch in Äußerlichkeiten nicht unterdrückt worden, sondern die Hefte geben genau das wieder, was nun eben in diesem Raume zu diesen Dingen gesagt wurde und gesagt werden musste. Die Leser in <placeName ref="kbga-places-151">Deutschland</placeName> werden darin nicht nur eine Zumutung erblicken und sie werden auch an diesen Heften nicht nur historisches Interesse nehmen. Die Erkenntnisse und Erfahrungen des deutschen <term ref="kbga-terms-222">Kirchenkampfes</term> und darüber hinaus die der ganzen <term ref="kbga-terms-248">Kirche Jesu Christi</term> gestellten Fragen und geschenkten Antworten werden ihnen ja in eigentümlich abgewandelter Form auch hier begegnen. Und ich denke, dass die Teilnahme an den Gegebenheiten, Nöten, Problemen und Möglichkeiten einer zunächst so anderen, ja teilweise fremden Situation, wie es die schweizerische für den Deutschen zunächst ist, angesichts der Einheit der <hi rend="italic">geistlichen</hi> Voraussetzungen den Einen und Anderen gerade mitten in den Sorgen und Kämpfen der eigenen, deutschen Lage lehrreich, tröstlich und befreiend sein kann. Denn es ist hie kein Unterschied … (<ref type="can" subtype="bible" target="Röm.3.23 Röm.3.24">Röm. 3,23–24</ref>).</p>
 
 <closer>
     <dateline rend="left">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-55004">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-55">Vorträge und kleinere Arbeiten 1935–1937</title>
         <title type="content">Gott erkennen, Gott ehren, Gott vertrauen nach Calvins Katechismus</title>
         <title type="citation_line_1">Barth, Karl: Gott erkennen, Gott ehren, Gott vertrauen nach Calvins Katechismus, 1935</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55004 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius, Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 41–69.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55004 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius / Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 41–69.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,7 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Vorträge und kleinere Arbeiten 1935–1937</title>
+          <title type="text">Gott erkennen, Gott ehren, Gott vertrauen nach Calvins Katechismus</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Kratzert, Lucius</editor>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2020</date>
@@ -56,7 +59,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:48+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:48+02:00</change>
+      <change when="2024-10-28T10:45:17+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:17+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -69,8 +72,8 @@
 <div type="abstract">
 <p>Beim vorliegenden Text handelt es sich um Ausführungen Barths in drei
 Sitzungen einer «seminaristischen Arbeitsgemeinschaft über den Anfang
-des <term ref="kbga-terms-2">calvinischen Katechismus</term>»,<note place="footnote" xml:id="n01"> <bibl corresp="kbga-bibls-748">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Vorwort</title>, in: ders., <hi rend="i">Die
+des <term ref="kbga-terms-2">calvinischen Katechismus</term>»,<note xml:id="n01"> <bibl corresp="kbga-bibls-748">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Vorwort</title>, in: ders., <hi rend="italic">Die
     Kirche und die Kirchen</hi> (<title>ThExh</title> 27), München 1935, S.
 [3]</bibl>.</note> die er in der Woche vom <date>21.–27. Juli 1935</date> in
 <placeName ref="kbga-places-67">Genf</placeName> leitete. Die
@@ -79,7 +82,7 @@ von <persName ref="kbga-actors-636">Adolf Keller</persName> im Rahmen
 des dortigen <orgName ref="kbga-actors-8259">Internationalen
 Theologischen Seminars</orgName> veranstaltet wurde und an dem <persName ref="kbga-actors-2151">Barth</persName>
 auch noch mit der vierteiligen Vorlesung <hi rend="text-recte">Die Kirche und die
-Kirchen</hi><note place="footnote" xml:id="n02"> Siehe oben, <ref type="pub" target="../volume/55/p003">S. 3-40</ref>.</note> beteiligt war.<note place="footnote" xml:id="n03"> Für nähere Angaben zur Vorgeschichte und zum Ablauf der Genfer
+Kirchen</hi><note xml:id="n02"> Siehe oben, <ref type="pub" target="../volume/55/p003">S. 3-40</ref>.</note> beteiligt war.<note xml:id="n03"> Für nähere Angaben zur Vorgeschichte und zum Ablauf der Genfer
 Tagung s. oben, <ref type="pub" target="../volume/55/p005#p005">S. 5–9</ref>.</note>
 </p>
 <p>In den drei Sitzungen der Arbeitsgemeinschaft am <date>23., 24. und 26.
@@ -89,7 +92,7 @@ lateinischen Fassung von <bibl corresp="kbga-bibls-476">
 <term ref="kbga-terms-2">Genfer Katechismus</term> (1542;
 lat.: 1545)</bibl>. Von seiner ursprünglichen Absicht, den
 lateinischen Text Calvins als Grundlage zu nehmen, rückte er auf Anraten
-<persName ref="kbga-actors-636">Kellers</persName> ab.<note place="footnote" xml:id="n04">
+<persName ref="kbga-actors-636">Kellers</persName> ab.<note xml:id="n04">
                             <anchor type="cross" xml:id="kbga-texts-55004_1"/>Zunächst dachte <persName ref="kbga-actors-2151">Barth</persName> offenbar an ein anderes Thema, denn auf
 einem Schreiben <persName ref="kbga-actors-636">Kellers</persName> vom<date> 8.2.1935</date> notierte er neben dem Titel
 der Vorlesungen: «3 x 2 Std. Seminar‚ Übungen zur Theol[ogie]
@@ -100,21 +103,21 @@ zur Verwendung einer neueren Übersetzung (<idno type="kba-objects-identifier">K
 gestellt. Als Textgrundlage für die Vorbereitung der Sitzungen aber
 musste <persName ref="kbga-actors-2151">Barth</persName> den lateinischen <abbr ref="kbga-abbreviations-39">BSRK</abbr>-Text verwenden, hatte er doch infolge
 des erzwungenen Wechsels von <placeName ref="kbga-places-10">Bonn</placeName> nach <placeName ref="kbga-places-5">Basel</placeName> sein «Corp[us] Ref[ormatorum] mit dem
-französ[ischen] Text» noch nicht wieder greifbar.<note place="footnote" xml:id="n05"> Brief Barths an <persName ref="kbga-actors-636">Keller</persName> vom <date>21.6.1935</date> (<idno type="kba-objects-identifier">KBA 9235.153</idno>).</note>
+französ[ischen] Text» noch nicht wieder greifbar.<note xml:id="n05"> Brief Barths an <persName ref="kbga-actors-636">Keller</persName> vom <date>21.6.1935</date> (<idno type="kba-objects-identifier">KBA 9235.153</idno>).</note>
 </p>
 <p>Mit den Vorbereitungen für die Arbeitsgemeinschaft geriet <persName ref="kbga-actors-2151">Barth</persName> unter
 erheblichen Zeitdruck. Am <date>15. Juli</date> bat Keller<persName ref="kbga-actors-636"/> ihn dringend um die «nähere Bezeichnung der
 Kapitel im Katechismus», die <persName ref="kbga-actors-2151">Barth</persName> behandeln wolle; drei Tage später hatte er
-immer noch keine Nachricht <pb xml:id="p042" ed="pga"/> und wiederholte die Bitte nochmals.<note place="footnote" xml:id="n06"> <idno type="kba-objects-identifier">KBA 9335.749</idno>; <idno type="kba-objects-identifier">KBA 9335.764</idno>.</note> Es ist anzunehmen, dass <persName ref="kbga-actors-2151">Barth</persName>, der zu diesem Zeitpunkt noch mit
-der Ausarbeitung der Vorlesung beschäftigt war,<note place="footnote" xml:id="n07"> Siehe oben, <ref type="pub" target="../volume/55/p005#p005">S. 5</ref>.</note> seine Ausführungen allenfalls skizzenhaft vorbereiten konnte und
+immer noch keine Nachricht <pb xml:id="p042" ed="pga"/> und wiederholte die Bitte nochmals.<note xml:id="n06"> <idno type="kba-objects-identifier">KBA 9335.749</idno>; <idno type="kba-objects-identifier">KBA 9335.764</idno>.</note> Es ist anzunehmen, dass <persName ref="kbga-actors-2151">Barth</persName>, der zu diesem Zeitpunkt noch mit
+der Ausarbeitung der Vorlesung beschäftigt war,<note xml:id="n07"> Siehe oben, <ref type="pub" target="../volume/55/p005#p005">S. 5</ref>.</note> seine Ausführungen allenfalls skizzenhaft vorbereiten konnte und
 ansonsten weitgehend frei formuliert haben dürfte.</p>
 <p>Das von <persName ref="kbga-actors-223">Charlotte von
 Kirschbaum</persName> erstellte und am <date>7. August 1935</date>
-von ihr ausgearbeitete Protokoll<note place="footnote" xml:id="n08"> Vgl. Taschenkalender Ch. von
+von ihr ausgearbeitete Protokoll<note xml:id="n08"> Vgl. Taschenkalender Ch. von
 Kirschbaum, Eintrag vom <date>7.8.1935</date>.
 </note> der Sitzungen ist nicht erhalten. An Vorarbeiten zum
 Editionstext liegt lediglich eine Durchsicht der Druckfahne vor, auf der
-am Rand zahlreiche Korrekturen vermerkt sind,<note place="footnote" xml:id="n09"> <idno type="kba-objects-identifier">KBA 263</idno>. – Angesichts dessen, dass das ausgearbeitete Protokoll
+am Rand zahlreiche Korrekturen vermerkt sind,<note xml:id="n09"> <idno type="kba-objects-identifier">KBA 263</idno>. – Angesichts dessen, dass das ausgearbeitete Protokoll
 <persName ref="kbga-actors-223">Ch. von
 Kirschbaums</persName> nicht erhalten ist, kann nicht
 definitiv entschieden werden, welche Korrektur eine bloße
@@ -126,21 +129,19 @@ eingeflossen sind.</p>
 </div>
 <div>
 <head>Gott erkennen, Gott ehren, Gott vertrauen <lb/>nach <persName ref="kbga-actors-77">Calvins</persName>
-<term ref="kbga-terms-2">Katechismus</term> <pb xml:id="p26" ed="A"/>
-
-</head>
+<term ref="kbga-terms-2">Katechismus</term> </head>
 <head>
      I.
 </head>
 <table rend="100p">
 <row>
-<cell rend="width50%">
+<cell rend="width50%"> <pb n="26" ed="A"/> 
 <foreign xml:lang="lat">Magister: Quis humanae vitae
 praecipuus est finis?</foreign>
 </cell>
 <cell>
 Lehrer: Welches ist das entscheidende Ziel des menschlichen
-Lebens?
+Lebens? 
 </cell>
 </row>
 <row>
@@ -178,11 +179,11 @@ seine Herrlichkeit gerichtet sei.
 </row>
 <row>
 <cell rend="width50%">
-<pb xml:id="p043" ed="pga" rend="right"/>
+
  <foreign xml:lang="lat">M.: Quod vero est summum bonum
 hominis?</foreign>
 </cell>
-<cell>
+<cell><pb xml:id="p043" ed="pga" rend="noPipe"/>
 L.: Was ist aber das höchste Gut des Menschen?
 </cell>
 </row>
@@ -227,7 +228,7 @@ gemäß zu leben?
 </row>
 <row>
 <cell>
-<foreign xml:lang="lat">P.: Sic res habet.</foreign><note place="footnote" xml:id="n10">
+<foreign xml:lang="lat">P.: Sic res habet.</foreign><note xml:id="n10">
     <bibl corresp="kbga-bibls-17">
                                         BSRK, S. 117,7–20;</bibl> vgl. <bibl corresp="kbga-bibls-29">
                                         CR 34 (= Calvini Opera 6), col. 10</bibl>; <bibl corresp="kbga-bibls-30">
@@ -245,34 +246,34 @@ Lebens</term> wird gefragt. Und die Antwort lautet: Dieses Ziel
 besteht darin, dass es zur Erkenntnis Gottes<term ref="kbga-terms-14"/>
 kommt bei dem Menschen, zur Erkenntnis des Gottes, der sein<term ref="kbga-terms-25"> Schöpfer</term> ist.</p>
 <p>Die zweite Frage fragt nach dem Grund dieser ersten Antwort und wird in
-doppelter Weise beantwortet, einmal im Blick auf <hi rend="i">Gott:</hi>
-«dass er in uns verherrlicht werde». Sodann im Blick auf den <hi rend="i">Menschen:</hi> Es entspricht dem Sachverhalt, der Situation
+doppelter Weise beantwortet, einmal im Blick auf <hi rend="italic">Gott:</hi>
+«dass er in uns verherrlicht werde». Sodann im Blick auf den <hi rend="italic">Menschen:</hi> Es entspricht dem Sachverhalt, der Situation
 des Menschen, dessen <term ref="kbga-terms-27">Ursprung Gott</term> ist,
 dieses sein Leben zur <term ref="kbga-terms-28">Ehre Gottes</term> zu
 leben.
 </p>
 <p>
-                        <pb xml:id="p27" ed="A"/> Nun steigt die Frage auf nach dem <term ref="kbga-terms-29">höchsten Gut</term>des Menschen.<note place="footnote" xml:id="n11"> Das «höchste Gut» (<foreign xml:lang="lat">summum
+                        <pb xml:id="p27" ed="A"/> Nun steigt die Frage auf nach dem <term ref="kbga-terms-29">höchsten Gut</term>des Menschen.<note xml:id="n11"> Das «höchste Gut» (<foreign xml:lang="lat">summum
 bonum</foreign>) ist ein Spitzenbegriff der mittelalterlichen
 Philosophie, der auf die späte <term ref="kbga-terms-31">Stoa</term> (vgl. etwa <bibl corresp="kbga-bibls-443">
-                                <persName ref="kbga-actors-1525">Cicero</persName>, <hi rend="i">De finibus
+                                <persName ref="kbga-actors-1525">Cicero</persName>, <hi rend="italic">De finibus
     bonorum et malorum</hi> 1, 9,29</bibl>) zurückgeht und dasjenige
 als höchstes Gut bezeichnet, das um seiner selbst willen
 erstrebt wird. Seit Augustin gilt Gott selbst als das höchste,
 vollkommene und ungeteilte Gute, das jedem einzelnen Gut
 zugrunde liegt und es ermöglicht; vgl. <bibl corresp="kbga-bibls-444">
-                                <persName ref="kbga-actors-14">Augustinus</persName> <hi rend="i">De trinitate</hi> 8, 3,4</bibl>; <bibl corresp="kbga-bibls-432">ders., <hi rend="i">De civitate Dei</hi> 12, 1,3</bibl>.</note> Antwort: <foreign xml:lang="lat">Illud ipsum</foreign>, Dasselbe!
+                                <persName ref="kbga-actors-14">Augustinus</persName> <hi rend="italic">De trinitate</hi> 8, 3,4</bibl>; <bibl corresp="kbga-bibls-432">ders., <hi rend="italic">De civitate Dei</hi> 12, 1,3</bibl>.</note> Antwort: <foreign xml:lang="lat">Illud ipsum</foreign>, Dasselbe!
 Die <foreign xml:lang="lat">glorificatio Dei</foreign> ist das <foreign xml:lang="lat">summum bonum</foreign> des Menschen.</p>
 <p>Und warum ist dem so? Antwort: Wenn man die <term ref="kbga-terms-16">Verherrlichung Gottes</term> aus dem Leben des Menschen wegnähme,
 dann würde seine Lage unseliger sein als die des Tieres, dann wäre das
-<foreign xml:lang="lat">humanum</foreign><note place="footnote" xml:id="n12"> Das <foreign xml:lang="lat">humanum</foreign> bzw. das aus dem
+<foreign xml:lang="lat">humanum</foreign><note xml:id="n12"> Das <foreign xml:lang="lat">humanum</foreign> bzw. das aus dem
 lateinischen Adjektiv <foreign xml:lang="lat">humanus</foreign>
 abge<pb xml:id="FN44" ed="pga" break="no"/>leitete Abstraktum «<foreign xml:lang="lat">Humanitas</foreign>», ebenfalls ein aus <term ref="kbga-terms-31">stoischer Tradition</term> stammender
 Begriff, bezeichnet «die Summe der geistigen Normen und
 praktischen Verhaltensweisen, die den Menschen zum Menschen
 machen» (<bibl corresp="kbga-bibls-445">
-                                <persName ref="kbga-actors-8832">R.
-Rieks</persName>, Art. «<title level="a">Humanitas</title>», in: HWP 3, Sp. 1231f.,
+                                R.
+Rieks, Art. «<title level="a">Humanitas</title>», in: HWP 3, Sp. 1231f.,
 dort Sp. 1231</bibl>).</note> als solches aufgehoben.</p>
     <p>
                         <pb xml:id="p044" ed="pga" rend="noPipe"/> Es kann also dem Menschen kein größeres Unglück widerfahren als das,
@@ -288,7 +289,7 @@ Lebens</term>.</p> <!-- print: halbe leerzeile -->
 einer <term ref="kbga-terms-5">anthropologischen</term> Frage; sein
 Blick ist zu Beginn seines <term ref="kbga-terms-2">Katechismus</term>
 ganz auf die <foreign xml:lang="lat">vita humana</foreign> gerichtet.
-Dass dem so ist, das ist nicht zufällig. Er kommt aus der <term ref="kbga-terms-32">humanistischen</term> Welt.<note place="footnote" xml:id="n13"> Lehrer <persName ref="kbga-actors-77">Calvins</persName> waren u. a. die Humanisten <persName ref="kbga-actors-8388">Maturin Cordier</persName>
+Dass dem so ist, das ist nicht zufällig. Er kommt aus der <term ref="kbga-terms-32">humanistischen</term> Welt.<note xml:id="n13"> Lehrer <persName ref="kbga-actors-77">Calvins</persName> waren u. a. die Humanisten <persName ref="kbga-actors-8388">Maturin Cordier</persName>
 (<date>1479/80–1564</date>), <persName ref="kbga-actors-5208">Melchior
 Volmar</persName> (<date>1496/97–1561</date>) und der Jurist <persName ref="kbga-actors-5048">Andreas Alciati</persName>
 (<date>1492–1550</date>) in <placeName ref="kbga-places-148">Bourges</placeName>. <persName ref="kbga-actors-77">Calvin</persName> besuchte das von <persName ref="kbga-actors-5074">Guillaume Budé</persName> (<date>1467–1540</date>)
@@ -296,17 +297,17 @@ geleitete <orgName ref="kbga-actors-8389">Collège de
 France</orgName>, an dem er seine Erstlingsschrift, einen
 Kommentar zu <bibl corresp="kbga-bibls-446">
                                 <persName ref="kbga-actors-1406">Senecas</persName>
-<hi rend="i">De clementia</hi></bibl> verfasste (<bibl corresp="kbga-bibls-29">
+<hi rend="italic">De clementia</hi></bibl> verfasste (<bibl corresp="kbga-bibls-29">
                                 1532; CR 33 [=
 Calvini Opera 5], Sp. 1–162</bibl>), und blieb dem
 Kreis der humanistischen Reformer, der sich um <persName ref="kbga-actors-5149">Margarete von Navarra</persName>
 gesammelt hatte, zeitlebens verbunden. Vgl. <bibl corresp="kbga-bibls-31">
-                                <persName ref="kbga-actors-6589">J. Bohatec</persName>, <hi rend="i">Budé und <persName ref="kbga-actors-77">Calvin</persName>. Studien zur Gedankenwelt des
+                                <persName ref="kbga-actors-6589">J. Bohatec</persName>, <hi rend="italic">Budé und <persName ref="kbga-actors-77">Calvin</persName>. Studien zur Gedankenwelt des
 französischen Frühhumanismus</hi>, Graz 1950</bibl>; <bibl corresp="kbga-bibls-32">
-                                <persName ref="kbga-actors-8833">B. Cottret</persName>, <hi rend="i">Calvin. Eine Biographie</hi>, Stuttgart 1998,
+                                B. Cottret, <hi rend="italic">Calvin. Eine Biographie</hi>, Stuttgart 1998,
 S. 73–94</bibl>; <bibl corresp="kbga-bibls-447">
                                 <persName ref="kbga-actors-8834">Chr.
-Burger</persName>, <title level="a">Calvin und die Humanisten</title>, in: <hi rend="i">Calvin
+Burger</persName>, <title level="a">Calvin und die Humanisten</title>, in: <hi rend="italic">Calvin
     Handbuch</hi>, hrsg. von H. Selderhuis, Tübingen 2008, S. 137–143,
     dort S. 140–142</bibl>.</note> Wir stehen hier in einer sehr anderen Situation als die <persName ref="kbga-actors-261">Luthers</persName>.
 <persName ref="kbga-actors-261">Luther</persName> kam aus der <term ref="kbga-terms-34">katholischen Kirche</term>, und auf seine Frage:
@@ -314,7 +315,7 @@ Wie bekomme ich einen <term ref="kbga-terms-36">gnädigen Gott</term>?
 ward ihm die Antwort, die zu dem Inhalt seines ganzen Denkens und Redens
 wurde: Durch den Glauben; d. h. <term ref="kbga-terms-120">Christi
 Gerechtigkeit</term>
-<term ref="kbga-terms-51">wird meine Gerechtigkeit</term>.<note place="footnote" xml:id="n14"> Im zweiten Teil seiner Predigten «Von der heiligen Taufe» (<date>1534</date>)
+<term ref="kbga-terms-51">wird meine Gerechtigkeit</term>.<note xml:id="n14"> Im zweiten Teil seiner Predigten «Von der heiligen Taufe» (<date>1534</date>)
 berichtete <persName ref="kbga-actors-261">Luther</persName>
 selbst: «[…], noch hab ich mich nie können ein mal meiner Tauffe
 trösten, Sondern imer gedacht: O wenn wiltu ein mal from werden
@@ -338,7 +339,7 @@ auf diesem Boden stehend, darf, ja muss er nun seine Frage stellen, die
 Frage nach dem Ziel des menschlichen Lebens. Wir werden die <term ref="kbga-terms-61">Reformation</term> nur dann als ein Ganzes
 begreifen, wenn wir deutlich sehen, dass hier die Linien der beiden
 Reformatoren sich schneiden, nicht in einem Widerspruch, sondern als die
-<hi rend="i">beiden</hi> Fragen, die der Mensch hören muss, wenn er
+<hi rend="italic">beiden</hi> Fragen, die der Mensch hören muss, wenn er
 die Wahrheit erkennen soll. Vor Gott sind diese beiden Fragen und ihre
 Beantwortungen eine, aber hier auf Erden, in dem Raume, in dem die <term ref="kbga-terms-61">Reformation</term> der Kirche und der Theologie
 sich abspielte, können wir <term ref="kbga-terms-62">seine
@@ -346,12 +347,12 @@ Wahrheit</term> nicht in ein Wort fassen. Die Reformation begann mit
 der Botschaft von der <term ref="kbga-terms-63">Sündenvergebung</term>
 und sie wurde fortgesetzt mit der Frage nach der <term ref="kbga-terms-53">Heiligung</term>. Wir könnten auch sagen:
 <persName ref="kbga-actors-261">Luther</persName> fragt nach dem,
-was Gott <hi rend="i">für uns</hi> getan hat, <persName ref="kbga-actors-77">Calvin</persName> <pb xml:id="p28" ed="A"/>
-nach dem, was Gott <hi rend="i">an uns</hi>
-getan hat. Oder in den Worten von <ref type="can" subtype="bible" target="Röm.1.17">Röm. 1,17</ref>: Der Gerechte wird seines <hi rend="i">Glaubens</hi> leben (<persName ref="kbga-actors-261">Luther</persName>), der Gerechte wird seines
-Glaubens <hi rend="i">leben</hi> (<persName ref="kbga-actors-77">Calvin</persName>). Jede Abstraktion, jedes
+was Gott <hi rend="italic">für uns</hi> getan hat, <persName ref="kbga-actors-77">Calvin</persName> <pb xml:id="p28" ed="A"/>
+nach dem, was Gott <hi rend="italic">an uns</hi>
+getan hat. Oder in den Worten von <ref type="can" subtype="bible" target="Röm.1.17">Röm. 1,17</ref>: Der Gerechte wird seines <hi rend="italic">Glaubens</hi> leben (<persName ref="kbga-actors-261">Luther</persName>), der Gerechte wird seines
+Glaubens <hi rend="italic">leben</hi> (<persName ref="kbga-actors-77">Calvin</persName>). Jede Abstraktion, jedes
 Auseinanderreißen dieser beiden Worte würde ein Missverständnis der
-ganzen Reformation bedeuten. <persName ref="kbga-actors-261">Luther</persName> kann nicht ohne <persName ref="kbga-actors-77">Calvin</persName>, <persName ref="kbga-actors-77">Calvin</persName> kann nur von <persName ref="kbga-actors-261">Luther</persName> her verstanden werden.<note place="footnote" xml:id="n15"> Auf diese Weise interpretierte <persName ref="kbga-actors-2151">Barth</persName> die Unterschiede und den
+ganzen Reformation bedeuten. <persName ref="kbga-actors-261">Luther</persName> kann nicht ohne <persName ref="kbga-actors-77">Calvin</persName>, <persName ref="kbga-actors-77">Calvin</persName> kann nur von <persName ref="kbga-actors-261">Luther</persName> her verstanden werden.<note xml:id="n15"> Auf diese Weise interpretierte <persName ref="kbga-actors-2151">Barth</persName> die Unterschiede und den
 Zusammenhang von <persName ref="kbga-actors-261">Luthers</persName> und <persName ref="kbga-actors-77">Calvins</persName> Theologie bereits in seiner
 im Sommer­semester <date>1922</date> gehaltenen <persName ref="kbga-actors-77">Calvin</persName>-Vorlesung; vgl.
 <bibl corresp="kbga-bibls-33">
@@ -363,7 +364,7 @@ Frage verfälscht sein. Die Zeit liegt noch nicht weit zurück, da pflegte
 eine ganze Generation von Pfarrern die Frage dahin zu stellen: Wozu ist
 der Mensch auf der Welt? und die Antwort zu geben als Antwort tiefster
 <term ref="kbga-terms-6">menschlicher Selbsterkenntnis</term>: um
-glücklich, um gut, um edel, um fromm zu sein.<note place="footnote" xml:id="n16"> Gemeint sind wohl solche Pfarrer, deren Lehrer <persName ref="kbga-actors-339">Albrecht Ritschl</persName>
+glücklich, um gut, um edel, um fromm zu sein.<note xml:id="n16"> Gemeint sind wohl solche Pfarrer, deren Lehrer <persName ref="kbga-actors-339">Albrecht Ritschl</persName>
 (<date>1822–1889</date>) war, von dem <persName ref="kbga-actors-2151">Barth</persName> schrieb, er habe in seiner
 Theologie «energisch» auf den «als antimetaphysischen Moralisten
 interpretierten <persName ref="kbga-actors-216">Kant</persName>»
@@ -382,7 +383,7 @@ der persönlichen Tugendbildung» (<bibl corresp="kbga-bibls-34">a.a.O., S. 601
 Selbsterkenntnis, dann würde davon alles, was nachher zur Erklärung
 dieser Antwort gesagt wird, bestimmt werden. Als man vor zwei
 Jahrhunderten begann, in der <term ref="kbga-terms-7">Dogmatik</term>
-mit dieser Frage einzusetzen,<note place="footnote" xml:id="n17"> Vor (damals) zweihundert Jahren vollzog sich für <persName ref="kbga-actors-2151">Barth</persName> der
+mit dieser Frage einzusetzen,<note xml:id="n17"> Vor (damals) zweihundert Jahren vollzog sich für <persName ref="kbga-actors-2151">Barth</persName> der
 Umbruch zum <term ref="kbga-terms-282">Neuprotestantismus</term>
 (vgl. <bibl corresp="kbga-bibls-2">
                                 KD I/2, S. 315f</bibl>.; zu weiteren Belegen bei <persName ref="kbga-actors-2151">Barth</persName>, aber auch
@@ -390,8 +391,8 @@ bei anderen Theologen vgl. <bibl corresp="kbga-bibls-26">
                                 V.u.kl.A. 1930–1933, <ref type="pub-" target="../volume/49/p32#fn_n49">S. 32,
 Anm. 49</ref>)</bibl>.</note> da war im Voraus darüber entschieden, dass man sich nicht mehr
 an Gottes <term ref="kbga-terms-8">
-                            <hi rend="i">Offenbarung</hi></term> halten konnte und wollte. Man hatte den <term ref="kbga-terms-6">Menschen und seine Erkenntnis</term> zum Maß erhoben, zum <term ref="kbga-terms-9">Maße Gottes</term> und seiner <term ref="kbga-terms-8">Offenbarung</term>. Und man hatte damit letztlich
-die Theologie zu einer feinsten Art <term ref="kbga-terms-11">Selbstexplikation des Menschen</term> gemacht.<note place="footnote" xml:id="n18"> Vgl. den Spitzensatz des Erfahrungstheologen <persName ref="kbga-actors-190">Johann Christian Konrad von
+                            <hi rend="italic">Offenbarung</hi></term> halten konnte und wollte. Man hatte den <term ref="kbga-terms-6">Menschen und seine Erkenntnis</term> zum Maß erhoben, zum <term ref="kbga-terms-9">Maße Gottes</term> und seiner <term ref="kbga-terms-8">Offenbarung</term>. Und man hatte damit letztlich
+die Theologie zu einer feinsten Art <term ref="kbga-terms-11">Selbstexplikation des Menschen</term> gemacht.<note xml:id="n18"> Vgl. den Spitzensatz des Erfahrungstheologen <persName ref="kbga-actors-190">Johann Christian Konrad von
 Hofmann</persName> (<date>1810–1877</date>): «Freie Wissenschaft ist die
 Theologie nur dann, wenn eben das, was den Christen zum Christen
 macht, sein ihm selbständiges Verhältnis zu Gott, in
@@ -399,27 +400,27 @@ wissenschaftlicher Selbsterkenntnis und Selbstaussage den
 Theologen zum Theologen macht, wenn ich, der Christ, mir, dem
 Theologen, eigenster Stoff meiner Wissenschaft bin» (<bibl corresp="kbga-bibls-35">
                                 <persName ref="kbga-actors-190">J. Chr. K. von
-Hofmann</persName>, <hi rend="i">Der Schriftbeweis. Ein
+Hofmann</persName>, <hi rend="italic">Der Schriftbeweis. Ein
 theologischer Versuch</hi>, Erste Hälfte, Nördlingen 1852,
 S. 10</bibl>; von <persName ref="kbga-actors-2151">Barth</persName> in seinem Exemplar an- und unterstrichen und
 schon in <bibl corresp="kbga-bibls-34">
                                 Prot.Theol., S. 555</bibl>, zitiert).</note> In der Frage nach dem Sinn des Menschenlebens trennen sich die
 Wege: Wer hier nicht streng an <persName ref="kbga-actors-77">Calvin</persName> gebunden vorwärts geht, könnte unversehens zum
-<term ref="kbga-terms-12">Pietisten</term> oder <term ref="kbga-terms-13">Rationalisten</term> werden. <persName ref="kbga-actors-77">Calvin</persName> weiß nur <hi rend="i">eine</hi> Antwort auf diese Frage: Sie hat mit Selbsterkenntnis
+<term ref="kbga-terms-12">Pietisten</term> oder <term ref="kbga-terms-13">Rationalisten</term> werden. <persName ref="kbga-actors-77">Calvin</persName> weiß nur <hi rend="italic">eine</hi> Antwort auf diese Frage: Sie hat mit Selbsterkenntnis
 nichts zu tun: Das <term ref="kbga-terms-4">Ziel des Lebens</term> ist
 die <term ref="kbga-terms-14">Erkenntnis Gottes</term>, der den Menschen
 <term ref="kbga-terms-25">geschaffen</term> hat. Hier fällt eine
 <term ref="kbga-terms-26">Entscheidung</term>, der gegenüber es nur
 ein Entweder–Oder gibt. Es wird hier eine Aussage gemacht über den Sinn
 des Menschen, der <term ref="kbga-terms-748">Gottes Geschöpf</term> ist,
-Geschöpf im Vollgehalt des biblischen Begriffes: <term ref="kbga-terms-912">geschaffen</term> aus dem <hi rend="i">Nichts</hi>. Der Mensch hängt nicht nur von Gott ab, er hat von ihm
+Geschöpf im Vollgehalt des biblischen Begriffes: <term ref="kbga-terms-912">geschaffen</term> aus dem <hi rend="italic">Nichts</hi>. Der Mensch hängt nicht nur von Gott ab, er hat von ihm
 seine <term ref="kbga-terms-913">
-                            <hi rend="i">Existenz</hi></term>.<note place="footnote" xml:id="n19"> Wohl eine polemische Spitze gegen <persName ref="kbga-actors-360">Schleiermacher</persName>, der das
+                            <hi rend="italic">Existenz</hi></term>.<note xml:id="n19"> Wohl eine polemische Spitze gegen <persName ref="kbga-actors-360">Schleiermacher</persName>, der das
 wörtliche <pb xml:id="FN47" ed="pga"/> Verständnis des «<foreign xml:lang="lat">ex nihilo</foreign>» hinterfragt und es nur als
 Ausdruck schlechthinniger Abhängigkeit der Welt von Gott gelten
 lässt (vgl. <bibl corresp="kbga-bibls-448">
                                 <persName ref="kbga-actors-360">Fr. D.
-E. Schleiermacher</persName>, <hi rend="i">Der christliche
+E. Schleiermacher</persName>, <hi rend="italic">Der christliche
 Glaube nach den Grundsätzen der evangelischen Kirche im
 Zusammenhange dargestellt</hi>, Bd. 1, Berlin 1830<edition rend="sup">2</edition>, § 41.1
 [ders., <title level="s">Kritische Gesamtausgabe</title>, Abt. I, Bd. 13,1, hrsg. von R.
@@ -427,43 +428,43 @@ Schäfer, Berlin / New York 2003, S. 236–238]</bibl>), und für den
 «Schöpfung» lediglich «eine Ergänzung ist zu dem Begriff der
 Erhaltung» (<bibl corresp="kbga-bibls-448">a.a.O., § 36.1 [<title level="s">Kritische Gesamtausgabe</title>,
 S. 219]</bibl>).</note> Die Frage Calvins stellt also den Menschen vor einen <pb xml:id="p047" ed="pga"/> Abgrund,
-sie fragt ihn: Weißt du, dass du <hi rend="i">nur hier</hi> stehen
+sie fragt ihn: Weißt du, dass du <hi rend="italic">nur hier</hi> stehen
 kannst, dass jeder Tritt daneben ein Tritt in den Abgrund ist? Es gilt
-erkennen, dass wir von Gott <hi rend="i">geschaf<pb xml:id="p29" ed="A" break="no"/>fen</hi> sind. Diese Antwort aber ist nicht die freie Wahl
+erkennen, dass wir von Gott <hi rend="italic">geschaf<pb xml:id="p29" ed="A" break="no"/>fen</hi> sind. Diese Antwort aber ist nicht die freie Wahl
 einer uns zugänglichen Lebensmöglichkeit; sie ist <term ref="kbga-terms-26">Entscheidung</term> zwischen Nichtwissen und
 <term ref="kbga-terms-73">Glauben</term>. Das ist die Situation des
 Menschen, dass wir so dran sind und dass wir – Gott sei Lob und Dank –
 die Antwort geben können und dürfen <foreign xml:lang="lat">ex verbo
-Dei</foreign>, auf Grund der <term ref="kbga-terms-8">Offenbarung</term> Gottes. Dazu musste <term ref="kbga-terms-756">Gottes Sohn Fleisch werden</term>, damit uns <hi rend="i">das
+Dei</foreign>, auf Grund der <term ref="kbga-terms-8">Offenbarung</term> Gottes. Dazu musste <term ref="kbga-terms-756">Gottes Sohn Fleisch werden</term>, damit uns <hi rend="italic">das
 gesagt</hi> werde.</p>
 <p>Schon diese erste Antwort zerstreut den <term ref="kbga-terms-5">anthropologischen</term> Schein der ersten Frage. – Im Folgenden
 wird das noch deutlicher. Die zweite Antwort scheint mit dem
 Menschenleben zunächst nichts zu tun zu haben. Gott hat die Absicht, er
 hat uns dazu geschaffen, dass er <term ref="kbga-terms-16">verherrlicht</term> werde in unserem Leben. Von einem Selbstzweck
 des Menschenlebens ist nicht die Rede. Damit nimmt <persName ref="kbga-actors-77">Calvin</persName> den Menschen ernst: dass er
-ihn <hi rend="i">nicht</hi> ernst nimmt! Dass er ihm sagt: Du verfügst
+ihn <hi rend="italic">nicht</hi> ernst nimmt! Dass er ihm sagt: Du verfügst
 nicht über dein Leben, du hast keine Lebenspläne zu machen. Es ist
 bestimmt über dich, Gott hat beschlossen! [vgl. <ref type="can" subtype="bible" target="Kol.1.19">Kol. 1,19</ref>] Bilde dir nicht
-ein, dass du in der Lage wärest, etwas sichtbar zu machen von <hi rend="i">deiner</hi>
+ein, dass du in der Lage wärest, etwas sichtbar zu machen von <hi rend="italic">deiner</hi>
 <term ref="kbga-terms-913">Existenz</term>! Gewiss soll etwas sichtbar
 werden, nämlich das, was Gott will. Wir dürfen hier nicht
 zurückschrecken vor dem Gedanken des <term ref="kbga-terms-914">
-                            <hi rend="i">Egoismus Gottes</hi></term>
-                        <hi rend="i">!</hi><note place="footnote" xml:id="n20"> Die Formulierung erinnert an von <persName ref="kbga-actors-2151">Barth</persName> in seinem Exemplar
+                            <hi rend="italic">Egoismus Gottes</hi></term>
+                        <hi rend="italic">!</hi><note xml:id="n20"> Die Formulierung erinnert an von <persName ref="kbga-actors-2151">Barth</persName> in seinem Exemplar
 unterstrichene Sätze aus <bibl corresp="kbga-bibls-37">
-                                <persName ref="kbga-actors-550">L. Feuerbach</persName>, <hi rend="i">Das Wesen
+                                <persName ref="kbga-actors-550">L. Feuerbach</persName>, <hi rend="italic">Das Wesen
 des Christentums</hi>, <title level="s">Kritische Ausgabe</title>, hrsg. von K.
 Quenzel, Leipzig [1904], S. 194</bibl>: «Der Egoismus ist wesentlich
 monotheistisch, denn er hat nur Eines, nur Sich zum Zweck. Der
 Egoismus sammelt, konzentriert den Menschen auf sich.» – Ähnlich
 <bibl corresp="kbga-bibls-38">
                                 <persName ref="kbga-actors-2513">M.
-Stirner</persName>, <hi rend="i">Der Einzige und sein
+Stirner</persName>, <hi rend="italic">Der Einzige und sein
 Eigentum</hi>, Neue Ausgabe, mit einer Einführung von A.
 Ruest, Berlin 1924, S. 14</bibl>: «Nun, es ist klar, Gott bekümmert
 sich nur ums Seine, […]. Seine Sache ist eine – rein egoistische
 Sache» (in <persName ref="kbga-actors-2151">Barths</persName> Exemplar ist der letzte Satz
-unterstrichen).</note> Eben in ihm beruht unser Heil! Indem wir uns <hi rend="i">ihm</hi> unterwerfen, geht es uns gut. Wenn wir das einmal einsehen
+unterstrichen).</note> Eben in ihm beruht unser Heil! Indem wir uns <hi rend="italic">ihm</hi> unterwerfen, geht es uns gut. Wenn wir das einmal einsehen
 könn<pb xml:id="p048" ed="pga" break="no"/>ten, dass wir nicht <term ref="kbga-terms-38">Kompagnons
 Gottes</term> sind, sondern dass er allein beschließt und handelt,
 und dass wir dabei sein dürfen! Denn das ist das Geheimnis des <term ref="kbga-terms-58">christlichen Lebens</term>, das ist <term ref="kbga-terms-186">Gottes Güte</term>: dass er uns dabei sein
@@ -474,7 +475,7 @@ transzendenter Gott uns dabei sein lässt, wird er «<term ref="kbga-terms-917">
 seiner <term ref="kbga-terms-36">Gnade</term> und <term ref="kbga-terms-37">Liebe</term>. Neben diese Umschreibung von
 Gottes Absicht und Ziel stellt <persName ref="kbga-actors-77">Calvin</persName> nun den Satz: Es ist billig, <foreign xml:lang="lat">aequum est</foreign>, dass wir unser Leben in seinen
 Dienst stellen, zu seiner <term ref="kbga-terms-16">Verherrlichung</term> führen. Man könnte hier an das schöne
-deutsche Wort: <term ref="kbga-terms-874">Sachlichkeit</term><note place="footnote" xml:id="n21"> Zu <persName ref="kbga-actors-2151">Barths</persName> Hochschätzung dieses Begriffs seit den frühen 1920er
+deutsche Wort: <term ref="kbga-terms-874">Sachlichkeit</term><note xml:id="n21"> Zu <persName ref="kbga-actors-2151">Barths</persName> Hochschätzung dieses Begriffs seit den frühen 1920er
 Jahren vgl. die zahlreichen Belegstellen in <abbr ref="kbga-abbreviations-291">Unterricht I</abbr>. Dort
 definierte er «Sachlichkeit» als «genaueste Anpassung des
 Erkennens und der Erkenntnisse an die Eigenart ihres
@@ -489,7 +490,7 @@ Theologie</title>, in: V.u.kl.A. 1922–1925, S. 144–175, dort
 1930–1933, S. 271–363, dort <ref type="pub-" target="../volume/49/p280#p280">S. 280–282</ref></bibl>, in dem <persName ref="kbga-actors-2151">Barth</persName> seine
 Präferenz eines Wortes «zur Sache» gegenüber einem Wort «zur
 Lage» darlegt.</note> denken. Dazu ist unser Leben da, dass das geschehe, was Gott von
-uns will, dass es zum Schauplatz seiner Verherrlichung werde.<note place="footnote" xml:id="n22"> Das Bild vom «Schauplatz der Herrlichkeit Gottes» findet sich
+uns will, dass es zum Schauplatz seiner Verherrlichung werde.<note xml:id="n22"> Das Bild vom «Schauplatz der Herrlichkeit Gottes» findet sich
 bei <bibl corresp="kbga-bibls-453">
                                 <persName ref="kbga-actors-77">J.
 Calvin</persName>, <title level="a">De aeterna praedestinatione
@@ -504,7 +505,7 @@ ist billig. Das <pb xml:id="p30" ed="A"/> ist das <term ref="kbga-terms-918">Geh
 gleichzeitig das unerhörteste <term ref="kbga-terms-919">Wunder</term>
 und der allerschlichteste <term ref="kbga-terms-234">Gehorsam</term>
 ist. Es ist billig, es gilt! Wer nicht tut, «was sich gehört» – der
-Ausdruck ist der Rechtssprache entnommen<note place="footnote" xml:id="n23"> Die sittliche Eigenschaft der <foreign xml:lang="grc">ἐπιείκεια</foreign>, definiert als <term ref="kbga-terms-922">Billigkeit</term>, Takt, Güte oder
+Ausdruck ist der Rechtssprache entnommen<note xml:id="n23"> Die sittliche Eigenschaft der <foreign xml:lang="grc">ἐπιείκεια</foreign>, definiert als <term ref="kbga-terms-922">Billigkeit</term>, Takt, Güte oder
 verständnisvolles Wesen, konnte für <persName ref="kbga-actors-11">Aristoteles</persName> identisch sein
 mit der Tugend als solcher und bei richtiger Anwendung auch das
 im Einzelfall lüc<pb xml:id="FN49" ed="pga" break="no"/>kenhafte allgemeine Gesetz korrigieren; als
@@ -523,8 +524,8 @@ wenn sie nur an ihr ausgerichtet sind.</note> –, der ist ein Narr.</p>
                         <pb xml:id="p049" ed="pga" rend="noPipe"/> Worin besteht das <term ref="kbga-terms-29">höchste Gut</term> des
 Menschen? Der Begriff des <foreign xml:lang="lat">summum bonum</foreign>,
 den <persName ref="kbga-actors-77">Calvin</persName> hier einführt, ist
-ein Hauptbegriff der ganzen mittelalterlichen Theologie seit <persName ref="kbga-actors-14">Augustin</persName>.<note place="footnote" xml:id="n24"> Vgl. oben, <ref type="pub" target="#fn_n11">Anm. 11</ref>.</note> <persName ref="kbga-actors-77">Calvin</persName> ist nicht so rigoros, dass er die Frage nach dem «<term ref="kbga-terms-920">Glück</term>» des Menschen verwerfen
-würde.<note place="footnote" xml:id="n25"> Vgl. etwa <bibl corresp="kbga-bibls-16">
+ein Hauptbegriff der ganzen mittelalterlichen Theologie seit <persName ref="kbga-actors-14">Augustin</persName>.<note xml:id="n24"> Vgl. oben, <ref type="pub" target="#fn_n11">Anm. 11</ref>.</note> <persName ref="kbga-actors-77">Calvin</persName> ist nicht so rigoros, dass er die Frage nach dem «<term ref="kbga-terms-920">Glück</term>» des Menschen verwerfen
+würde.<note xml:id="n25"> Vgl. etwa <bibl corresp="kbga-bibls-16">
                                 Inst. III, 7,8f.; 10,1–3</bibl>, aber auch die von <persName ref="kbga-actors-77">Calvin</persName> gewählte Übersetzung
 des hebräischen «Schalom» im aaronitischen Schlusssegen der
 Genfer Gottesdienstordnung von 1542: «<foreign xml:lang="fre">bonne prosperité</foreign>» /«gutes Wohlergehen» (<bibl corresp="kbga-bibls-20">
@@ -536,8 +537,8 @@ ipsum</foreign>, Dasselbe: Das schlechthinige Bezogensein des
 Menschen auf Gott, das ist das <term ref="kbga-terms-921">höchste
 Gut</term>. Und warum ist das das höchste Gut? Die Antwort sagt
 wiederum, dass es hier keine Wahl gibt, dass es hier um Sein oder
-Nichtsein geht. Wenn wir nicht auf diesem Wege «<hi rend="i">höchst</hi>
-glücklich» sein wollen, sind wir sofort <hi rend="i">ganz</hi>
+Nichtsein geht. Wenn wir nicht auf diesem Wege «<hi rend="italic">höchst</hi>
+glücklich» sein wollen, sind wir sofort <hi rend="italic">ganz</hi>
 unglücklich, sind wir jämmerlicher daran als irgendein Tier. Es ist ein
 sehr drastisches Bild, das <persName ref="kbga-actors-77">Calvin</persName> hier verwendet. Und, fährt er fort,
 daraus folgt, dass dem Menschen kein größeres Unglück widerfahren kann
@@ -546,7 +547,7 @@ als das, nicht Gott gemäß zu leben.</p>
 eingeführt und dann scheinbar fallen gelassen wird, den Begriff der
 <term ref="kbga-terms-14">Gotteserkenntnis</term>, <foreign xml:lang="lat">cognitio Dei</foreign>. <persName ref="kbga-actors-77">Calvin</persName> meint offenbar mit
 diesem Begriff dasselbe, was nachher mit <foreign xml:lang="lat">glorificatio Dei</foreign>, mit «Leben nach Gott» beschrieben
-wird.<note place="footnote" xml:id="n26"> Die Katechismus-Antwort hat ihre Parallele in dem berühmten
+wird.<note xml:id="n26"> Die Katechismus-Antwort hat ihre Parallele in dem berühmten
 Eingangssatz der ersten Institutio-Ausgabe von <date>1536</date>: «<foreign xml:lang="lat">Summa fere sacrae doctrinae duabus his
 partibus constat: Cognitione Dei ac nostri</foreign>» (<bibl corresp="kbga-bibls-29">
                                 CR 29
@@ -563,7 +564,7 @@ haben, wenn sie von <term ref="kbga-terms-19">Erkenntnis</term>
 sprachen, nicht zuerst an das erkennende Subjekt, sondern zuerst an den
 Gegenstand der Erkenntnis gedacht. So ist <foreign xml:lang="lat">cognitio</foreign> bei <persName ref="kbga-actors-77">Calvin</persName> das <term ref="kbga-terms-20">Ereignis einer Begegnung</term>, d. h. nicht in erster Linie ein
 Akt des erkennenden Subjektes, sondern ein Akt, der an diesem Subjekt
-vollzogen wird.<note place="footnote" xml:id="n27"> Der Erkenntnisvollzug beginnt nach <bibl corresp="kbga-bibls-16">
+vollzogen wird.<note xml:id="n27"> Der Erkenntnisvollzug beginnt nach <bibl corresp="kbga-bibls-16">
                                 Inst. 1,2,1 und 2 (deutscher
 Text</bibl> hier und überall nach <bibl corresp="kbga-bibls-456">
                                 <persName ref="kbga-actors-1953">Otto Weber</persName> [Ausgabe Freudenberg, Neukirchen-Vluyn 2008]</bibl>) mit
@@ -580,14 +581,14 @@ Erwartens und Bittens (<foreign xml:lang="lat">expectare et
 petere</foreign>; <bibl corresp="kbga-bibls-41">a.a.O., S. 35.1</bibl>) entsprechen und auf diese
 Weise erkennen, nicht wer, sondern was für ein (<foreign xml:lang="lat">qualis</foreign>) Gott er ist (<bibl corresp="kbga-bibls-41">a.a.O.,
 S. 35.13</bibl>). – <bibl corresp="kbga-bibls-46">
-                                <persName ref="kbga-actors-2151">Barth</persName> skizziert hier zugleich seinen 1931 in <hi rend="i">Fides quaerens intellectum. Anselms Beweis der
+                                <persName ref="kbga-actors-2151">Barth</persName> skizziert hier zugleich seinen 1931 in <hi rend="italic">Fides quaerens intellectum. Anselms Beweis der
 Existenz Gottes im Zusammenhang seines theologischen
 Programms</hi>, hrsg. von E. Jüngel / I. U. Dalferth
 (Gesamtausgabe, Abt. II), Zürich 2002<edition rend="sup">3</edition></bibl>, und später in <bibl corresp="kbga-bibls-2">
                                 KD II/1,
 § 25</bibl>, im Gegenzug zur neuzeitlichen Methode entwickelten Ansatz
 der theologischen Erkenntnislehre.</note> Wie ja schon <persName ref="kbga-actors-313">Paulus</persName>
-davon sprach, dass er <hi rend="i">erkannt sei</hi> von Gott [vgl. <ref type="can" subtype="bible" target="1.Kor.13.12">1.Kor.
+davon sprach, dass er <hi rend="italic">erkannt sei</hi> von Gott [vgl. <ref type="can" subtype="bible" target="1.Kor.13.12">1.Kor.
 13,12</ref>]. Wenn also <persName ref="kbga-actors-77">Calvin</persName>
 als das <term ref="kbga-terms-4">Hauptziel des menschlichen
 Lebens</term> die <foreign xml:lang="lat">cognitio Dei</foreign>
@@ -598,14 +599,14 @@ Möglichkeit beschlossen, <pb xml:id="p31" ed="A"/> beschlossen in der
 realen Bezogenheit, die sich gründet auf ein Handeln des «Objektes» der
 «Erkenntnis». Wir denken an die merkwürdige Verwendung, die dem Begriff
 <foreign xml:lang="lat">subjectum</foreign> in der <term ref="kbga-terms-21">Scholastik</term> eigentümlich ist. Gerade was
-wir «Objekt» nennen, heißt dort «Subjekt»!<note place="footnote" xml:id="n28"> Im Unterschied zum modernen, durch <persName ref="kbga-actors-2710">Descartes</persName> geprägten
+wir «Objekt» nennen, heißt dort «Subjekt»!<note xml:id="n28"> Im Unterschied zum modernen, durch <persName ref="kbga-actors-2710">Descartes</persName> geprägten
 Sprachgebrauch bedeutet Subjekt (griech.: <foreign xml:lang="grc">ὑποκείμενον</foreign>) in der antiken und mittelalterlichen
-Tradition im Wesentlichen dreierlei: <hi rend="i">ontologisch</hi> den Träger von Eigenschaften (Akzidentien)
-oder Handlungen, <hi rend="i">logisch</hi> dasjenige, von dem
-ein Prädikat ausgesagt wird, <hi rend="i">regional</hi> den
+Tradition im Wesentlichen dreierlei: <hi rend="italic">ontologisch</hi> den Träger von Eigenschaften (Akzidentien)
+oder Handlungen, <hi rend="italic">logisch</hi> dasjenige, von dem
+ein Prädikat ausgesagt wird, <hi rend="italic">regional</hi> den
 Gegenstand einer Wissenschaft oder Beschäftigung. Vgl. <bibl corresp="kbga-bibls-1625">
                                 <persName ref="kbga-actors-1282">Thomas von
-Aquino</persName>, <hi rend="i">Summa theologiae I</hi>,
+Aquino</persName>, <hi rend="italic">Summa theologiae I</hi>,
 q.1, a.7</bibl>.</note> So ist es zu verstehen, wenn <persName ref="kbga-actors-77">Calvin</persName> in der Lage ist, <foreign xml:lang="lat">cognitio</foreign> mit <foreign xml:lang="lat">glorificatio</foreign> zu ersetzen. <term ref="kbga-terms-14">Gott
 erkennen</term> heißt nach <persName ref="kbga-actors-77">Calvin</persName>: Vor dem <term ref="kbga-terms-22">handelnden
 Gott</term> stehen, mit dem handelnden Gott leben.</p>
@@ -654,7 +655,7 @@ obsequendo studeamus – si eum, quoties aliqua nos urget
 necessitas, invocemus, salutem in eo quaerentes, et
 quidquid expeti potest bonorum – si postremo tum corde,
 tum ore illum bonorum omnium solum auctorem
-agnoscamus.</foreign><note place="footnote" xml:id="n29">
+agnoscamus.</foreign><note xml:id="n29">
     <bibl corresp="kbga-bibls-17">
                                         BSRK, S. 117,21–28</bibl>; vgl. <bibl corresp="kbga-bibls-29">
                                         CR 34 (= Calvini Opera 6), col. 10</bibl>;
@@ -674,14 +675,14 @@ Urheber alles Guten anerkennen.
 </cell>
 </row>
 </table>
-<p>Welches ist nun die <hi rend="i">wahre</hi> und <hi rend="i">richtige</hi>
+<p>Welches ist nun die <hi rend="italic">wahre</hi> und <hi rend="italic">richtige</hi>
 <term ref="kbga-terms-14">Erkenntnis Gottes</term>? Beachtlich ist schon
 die Reihenfolge, in der <persName ref="kbga-actors-77">Calvin</persName> die Begriffe anführt. Es ist nicht
 zufällig, dass die <foreign xml:lang="lat">veritas</foreign> der <foreign xml:lang="lat">rectitudo</foreign> vorangestellt wird. Die <term ref="kbga-terms-923">Wahrheit</term> hat den Primat. Es gibt nicht
 eine übergeordnete Richtigkeit, die als solche dann auch die Wahrheit in
-sich schlösse. Das wäre modernes pragmatisches Denken.<note place="footnote" xml:id="n30"> Eine solche Position wurde vertreten etwa von <bibl corresp="kbga-bibls-44">
+sich schlösse. Das wäre modernes pragmatisches Denken.<note xml:id="n30"> Eine solche Position wurde vertreten etwa von <bibl corresp="kbga-bibls-44">
                                 <persName ref="kbga-actors-6163">W.
-Windelband</persName>, <hi rend="i">Präludien. Aufsätze und
+Windelband</persName>, <hi rend="italic">Präludien. Aufsätze und
 Reden zur Philosophie und ihrer Geschichte</hi>, Bd. 1,
 Tübingen 1919<edition rend="sup">6</edition>, S. 138</bibl>: «Wahrheit ist Normalität des Denkens.»
 Vgl. <bibl corresp="kbga-bibls-45">
@@ -694,26 +695,26 @@ im 20. Jahrhundert</title> (ChrKu 14), Zürich 2013, S. 93</bibl>.</note>
 <term ref="kbga-terms-19">Erkenntnis</term>, die Anteil hat an der
 <foreign xml:lang="lat">veritas</foreign> und damit Anteil an dem
 Gegenstand, die ontisch durch diesen ihren Gegenstand begründet
-ist.<note place="footnote" xml:id="n31"> Dieser ursprünglich platonische Gedanke ist durch <persName ref="kbga-actors-14">Augustin</persName> in die <pb xml:id="FN52" ed="pga"/>  christliche
+ist.<note xml:id="n31"> Dieser ursprünglich platonische Gedanke ist durch <persName ref="kbga-actors-14">Augustin</persName> in die <pb xml:id="FN52" ed="pga"/>  christliche
 Theologie eingegangen: «<foreign xml:lang="lat">nec ullum verum nisi veritate verum est</foreign>»
 (<bibl corresp="kbga-bibls-461">
                                 <persName ref="kbga-actors-14">A.
-Augustinus</persName>, <hi rend="i">De vera religione</hi>,
+Augustinus</persName>, <hi rend="italic">De vera religione</hi>,
 39,73</bibl>). Über <persName ref="kbga-actors-9">Anselm von
 Canterbury</persName> (vgl. bes. <bibl corresp="kbga-bibls-462">De
 veritate</bibl>) ist er zu einem Fundamentalsatz der
 Erkenntnislehre Bart<persName ref="kbga-actors-2151">hs gew</persName>orden (vgl. <bibl corresp="kbga-bibls-46">ders, Fides
 quaerens intellectum [<ref type="pub" target="#fn_n27">Anm. 27</ref>], bes. <ref type="pub-" target="../volume/13/p044#p044">S. 44–52</ref>)</bibl>.</note> <pb xml:id="p052" ed="pga"/> Eine Erkenntnis, die nicht beliebig ihren Gegenstand wechseln
 <pb xml:id="p32" ed="A"/> kann, sondern die von der Selbstenthüllung
-(aletheia)<note place="footnote" xml:id="n32"> Das griechische <foreign xml:lang="grc">αλήθεια</foreign>,
+(aletheia)<note xml:id="n32"> Das griechische <foreign xml:lang="grc">αλήθεια</foreign>,
 gewöhnlich mit «Wahrheit» übersetzt, bedeutet wörtlich
 «Unverborgenheit». Die dogmatische Bedeutung als
 Selbstenthüllung (Offenbarung) entfaltet <persName ref="kbga-actors-2151">Barth</persName> in <bibl corresp="kbga-bibls-2">
                                 KD I/1,
 S. 338f</bibl>.</note> dieses einen Gegenstandes lebt. Darum, weil diese Erkenntnis
 ihre Existenz nicht in sich selber hat, sondern erweckt wird durch ihren
-Gegenstand, darum kann von ihrer <foreign xml:lang="lat">veritas</foreign> gesprochen werden. Es geht um eine <term ref="kbga-terms-924">Erkenntnis</term>, die <hi rend="i">sach</hi>bezogen ist und die – und damit gehen wir zu dem zweiten
-Begriff über – sach<hi rend="i">bezogen</hi><note place="footnote" xml:id="n33"> Dass die «Sachhaltigkeit bzw. Gegenstandsgemäßheit» als
+Gegenstand, darum kann von ihrer <foreign xml:lang="lat">veritas</foreign> gesprochen werden. Es geht um eine <term ref="kbga-terms-924">Erkenntnis</term>, die <hi rend="italic">sach</hi>bezogen ist und die – und damit gehen wir zu dem zweiten
+Begriff über – sach<hi rend="italic">bezogen</hi><note xml:id="n33"> Dass die «Sachhaltigkeit bzw. Gegenstandsgemäßheit» als
 Kriterium theologischer Erkenntnis zu gelten habe, hat <persName ref="kbga-actors-2151">Barth</persName> in
 der Kontroverse mit dem ihm später befreundeten Philosophen und
 Logiker <persName ref="kbga-actors-374">Heinrich
@@ -739,7 +740,7 @@ könnte, so man wollte, aus diesen Begriffen die ganze reformatorische –
 <term ref="kbga-terms-52">Rechtfertigungslehre</term> entwickeln,
 wobei der <foreign xml:lang="lat">veritas</foreign> die <term ref="kbga-terms-51">Rechtfertigung</term>, der <foreign xml:lang="lat">rectitudo</foreign> die <term ref="kbga-terms-53">Heiligung</term> zugeordnet werden müsste.</p>
 <p>Wo solche Erkenntnis ist, da wird Gott die ihm gehörige und also
-schuldige <hi rend="i">Ehre</hi><note place="footnote" xml:id="n34"> Ehre (<foreign xml:lang="lat">honor</foreign>, <foreign xml:lang="lat">gloria</foreign>) ist ein Spitzenbegriff der
+schuldige <hi rend="italic">Ehre</hi><note xml:id="n34"> Ehre (<foreign xml:lang="lat">honor</foreign>, <foreign xml:lang="lat">gloria</foreign>) ist ein Spitzenbegriff der
 Theologie <persName ref="kbga-actors-77">Calvins</persName>. Er
 ist mit dem Namen, dem Ansehen und der Geltung Gottes untrennbar
 verbunden und korrespondiert so seiner Einzigkeit; vgl. bes.
@@ -752,15 +753,15 @@ verbunden und korrespondiert so seiner Einzigkeit; vgl. bes.
                                 Calvin-Studienausgabe, Bd. 2, S. 58/59</bibl>).</note>
 <term ref="kbga-terms-40">erwiesen</term>. Einem Anderen <term ref="kbga-terms-54">Ehre</term>, <foreign xml:lang="lat">honor</foreign>, erweisen heißt ihm das geben, was ihm zukommt. Ihn
 nicht überfordern und nicht unterschätzen, sondern ihn gelten lassen als
-das, was er ist. Ehre <pb xml:id="p053" ed="pga"/> ist also kein statischer, sondern ein <term ref="kbga-terms-55">beweglicher Begriff</term>: Jedem gebührt <hi rend="i">seine</hi> Ehre. Jedes Vorbeisehen am Anderen, auch wenn es
+das, was er ist. Ehre <pb xml:id="p053" ed="pga"/> ist also kein statischer, sondern ein <term ref="kbga-terms-55">beweglicher Begriff</term>: Jedem gebührt <hi rend="italic">seine</hi> Ehre. Jedes Vorbeisehen am Anderen, auch wenn es
 in einer Glorifikation bestünde, heißt ihn nicht ehren. <term ref="kbga-terms-40">Gott ehren</term> heißt also ganz schlicht, Gott
-<hi rend="i">Gott</hi> sein lassen.<note place="footnote" xml:id="n35"> Dass wir «von Natur Gott nicht Gott sein lassen» und dies auch
+<hi rend="italic">Gott</hi> sein lassen.<note xml:id="n35"> Dass wir «von Natur Gott nicht Gott sein lassen» und dies auch
 nicht «wollen können», ist eine schon früh von <persName ref="kbga-actors-261">Luther</persName> formulierte
 Grunderkenntnis der Reformation: «<foreign xml:lang="lat">Non
 potest homo naturaliter velle deum esse deum, Immo vellet se
 esse deum et deum non esse deum</foreign>» (<bibl corresp="kbga-bibls-465">
                                 <persName ref="kbga-actors-261">M. Luther</persName>,
-<hi rend="i">Disputatio contra scholasticam Theologiam</hi>
+<hi rend="italic">Disputatio contra scholasticam Theologiam</hi>
 [1517], These 17; WA 1, 225,1</bibl>).</note> Ihm standhalten, wie er uns begegnet, sich vor ihm verantworten
 als vor dem, der er ist. <persName ref="kbga-actors-77">Calvin</persName> greift hier zurück auf den eingangs erwähnten
 <term ref="kbga-terms-98">«Sinn» des menschlichen Lebens</term>. Wo
@@ -769,9 +770,9 @@ als vor dem, der er ist. <persName ref="kbga-actors-77">Calvin</persName> greift
 Einfachste, was geschehen kann im Leben des Menschen. Und alle Aussagen
 über Glaube, Liebe, Hoffnung [vgl. <ref type="can" subtype="bible" target="1.Kor.13.13">1.Kor. 13,13</ref>], über die <term ref="kbga-terms-58">vita christiana</term> und die <term ref="kbga-terms-33">Kirche</term> lassen sich zusammenfassen in
 diesem einen: Gott Gott sein lassen. Gott dichten, das ist die Quelle
-alles Irrtums und Heidentums [vgl. <ref type="can" subtype="bible" target="Act.17.29">Act. 17,29</ref>].<note place="footnote" xml:id="n36"> In <bibl corresp="kbga-bibls-47">
+alles Irrtums und Heidentums [vgl. <ref type="can" subtype="bible" target="Act.17.29">Act. 17,29</ref>].<note xml:id="n36"> In <bibl corresp="kbga-bibls-47">
                                 <persName ref="kbga-actors-272">Ph.
-Melanchthon</persName>, <hi rend="i">Heubtartikel
+Melanchthon</persName>, <hi rend="italic">Heubtartikel
 Christlicher Lere: im Latin genandt, Loci Theologici</hi>,
 Wittenberg 1571</bibl>, der von <persName ref="kbga-actors-272">Melanchthon</persName> selbst besorgten Übersetzung seines
 Hauptwerks, heißt es an prominenter Stelle, im zweiten Absatz
@@ -779,13 +780,13 @@ des Werkes: «Darum sollen christliche Herzen ihre Anrufung weit
 absondern von der heidnischen und türkischen Anrufung, und ihre
 Herzen unterrichten, auf daß sie nicht irre gehen, und andere
 Dinge, als Gott ansprechen, welche doch nicht Gott sind. […] Den
-<hi rend="i">Herrn</hi>, deinen Gott sollst du anbeten und
+<hi rend="italic">Herrn</hi>, deinen Gott sollst du anbeten und
 demselbigen allein dienen; d. i.: diesen wahrhaftigen Gott
 sollst du allein anrufen, der sich in Gottes Volk mit gewissen
 Zeugnissen geoffenbaret hat, und sollst nicht flattern mit
 Gedanken, und andere Götter dichten» (<bibl corresp="kbga-bibls-47">a.a.O., S. 1f.</bibl>;
 modernisierte Fassung nach: <bibl corresp="kbga-bibls-466">
-                                <hi rend="i">Philipp Melanchthon’s
+                                <hi rend="italic">Philipp Melanchthon’s
 Werke</hi>, hrsg. von Fr. A. Koethe, Teil 4, Leipzig 1829,
 S. 10</bibl>).</note> Und das ist die Summe des <term ref="kbga-terms-66">Gesetzes</term> und des <term ref="kbga-terms-59">Evangeliums</term>, dass Gott uns aufruft in <term ref="kbga-terms-36">seiner Gnade</term> zu dieser <foreign xml:lang="lat">vera et recta cognitio</foreign>.</p>
 <p>
@@ -800,7 +801,7 @@ gedrungen ist und ich ihn gehört habe in seinem Anspruch, so gilt es neu
 zu hören, welches konkret dieser Anspruch ist, damit es in meinem Leben
 zur <foreign xml:lang="lat">glorificatio Dei</foreign> komme.</p>
 <p>Am Schluss des ersten Abschnittes seines <term ref="kbga-terms-2">Katechismus</term> beschreibt nun <persName ref="kbga-actors-77">Calvin</persName> in vier Begriffen die <foreign xml:lang="lat">ratio rite honorandi Dei</foreign>, die rechte Art, <term ref="kbga-terms-40">Gott zu ehren</term>: <term ref="kbga-terms-41">Vertrauen</term>, <term ref="kbga-terms-377">Gehorsam</term>, <term ref="kbga-terms-43">Anrufung</term>, <term ref="kbga-terms-44">Danksagung</term>. Es sind vier Begriffe, die wir in seiner
-Institutio II 8,16 wiederfinden.<note place="footnote" xml:id="n37"> Sowohl in <persName ref="kbga-actors-2151">Barths</persName> <abbr ref="kbga-abbreviations-39">BSRK</abbr>-Ausgabe als auch in seinem <abbr ref="kbga-abbreviations-67">CR</abbr>-Band ist
+Institutio II 8,16 wiederfinden.<note xml:id="n37"> Sowohl in <persName ref="kbga-actors-2151">Barths</persName> <abbr ref="kbga-abbreviations-39">BSRK</abbr>-Ausgabe als auch in seinem <abbr ref="kbga-abbreviations-67">CR</abbr>-Band ist
 diese <abbr ref="kbga-abbreviations-135">Inst.</abbr>-Stelle am Rand der siebten Katechismus-Frage
 notiert. In der <abbr ref="kbga-abbreviations-39">BSRK</abbr>-Ausgabe sind alle vier im Folgenden
 genannten Begriffe unterstrichen (in <abbr ref="kbga-abbreviations-67">CR</abbr> der ganze Abschnitt). An
@@ -822,26 +823,26 @@ rechte Richtung deutet. <persName ref="kbga-actors-77">Calvin</persName> ist als
 Wenn er die rechte Art, Gott zu ehren, erklären soll, so denkt er an den
 Unterricht der Kirche und also konkret an die vier Hauptstücke des <term ref="kbga-terms-2">Katechismus</term>. Ihnen sind die vier genannten
 Begriffe entnommen: <term ref="kbga-terms-41">
-                            <hi rend="i">Vertrauen</hi></term> wird erklärt an Hand des <term ref="kbga-terms-48">Apostolischen
+                            <hi rend="italic">Vertrauen</hi></term> wird erklärt an Hand des <term ref="kbga-terms-48">Apostolischen
 Glaubensbekenntnisses</term>. <term ref="kbga-terms-377">
-                            <hi rend="i">Gehorsam</hi></term> weist uns auf die <term ref="kbga-terms-80">10 Gebote</term>,
+                            <hi rend="italic">Gehorsam</hi></term> weist uns auf die <term ref="kbga-terms-80">10 Gebote</term>,
 <term ref="kbga-terms-43">
-                            <hi rend="i">Anrufung</hi></term> auf das <term ref="kbga-terms-49">Unser Vater</term>, <term ref="kbga-terms-44">
-                            <hi rend="i">Danksagung</hi></term> endlich auf das <term ref="kbga-terms-50">Wort Gottes</term>,
-auf <term ref="kbga-terms-67">Predigt</term>, <term ref="kbga-terms-68">Taufe</term> und <term ref="kbga-terms-69">Abendmahl</term>.<note place="footnote" xml:id="n38"> Vgl. die vier Teile des <bibl corresp="kbga-bibls-476">Genfer Katechismus: I. <foreign xml:lang="lat">De fide</foreign>, II. <foreign xml:lang="lat">De Lege</foreign>, III. <foreign xml:lang="lat">De
+                            <hi rend="italic">Anrufung</hi></term> auf das <term ref="kbga-terms-49">Unser Vater</term>, <term ref="kbga-terms-44">
+                            <hi rend="italic">Danksagung</hi></term> endlich auf das <term ref="kbga-terms-50">Wort Gottes</term>,
+auf <term ref="kbga-terms-67">Predigt</term>, <term ref="kbga-terms-68">Taufe</term> und <term ref="kbga-terms-69">Abendmahl</term>.<note xml:id="n38"> Vgl. die vier Teile des <bibl corresp="kbga-bibls-476">Genfer Katechismus: I. <foreign xml:lang="lat">De fide</foreign>, II. <foreign xml:lang="lat">De Lege</foreign>, III. <foreign xml:lang="lat">De
 oratione</foreign>, IV. <foreign xml:lang="lat">De
 Sacramentis</foreign></bibl>.</note>
 </p>
 <p>1. Was heißt <term ref="kbga-terms-41">
-                            <hi rend="i">fiducia</hi></term>
-                        <hi rend="i">?</hi>
+                            <hi rend="italic">fiducia</hi></term>
+                        <hi rend="italic">?</hi>
 Es geht hier zweifelsohne um eine Bewegung unseres
 Ich mit allem, was dazu gehört, aber um seine Bewegung fort <pb xml:id="p055" ed="pga"/> von sich
 selbst hin auf ein Anderes. Vertrauen klingt nach Treue, Sicherheit,
 Gemütsruhe; das alles ist auch richtig, aber Alles, was in dieser Weise
 auszusagen ist, ist auszusagen nicht von dem Hier, sondern von dem Dort,
 auf das das Hier bezogen ist: <foreign xml:lang="lat">in
-eo</foreign>.<note place="footnote" xml:id="n39"> Vgl. <bibl corresp="kbga-bibls-16">
+eo</foreign>.<note xml:id="n39"> Vgl. <bibl corresp="kbga-bibls-16">
                                 Inst. II,8,16</bibl>: «Vertrauen ist die gewisse Zuversicht
 unseres Herzens zu ihm, wie wir sie gewinnen, wenn wir ihn und
 seine herrlichen Tugenden recht erkennen, wenn wir bei ihm
@@ -850,95 +851,95 @@ suchen und in der Gemeinschaft mit ihm allein unsere Seligkeit
 erblicken.»</note> Wer <foreign xml:lang="lat">fiducia</foreign> recht beschreiben
 will, der muss hinwegblicken von sich dorthin, wo Vater, Sohn und
 Heili<pb xml:id="p34" ed="A" break="no"/>ger <term ref="kbga-terms-70">Geist</term> und nur noch das zu sagen ist. Des Menschen fiducia
-ist <hi rend="i">dann</hi> ein Vertrauen mit Kräften der <term ref="kbga-terms-71">Gewissheit</term> und der <term ref="kbga-terms-72">Verheißung</term>, wenn ihr Grund <hi rend="i">dort</hi> liegt, <foreign xml:lang="lat">tota fiducia</foreign>
-<hi rend="i">dort</hi>, <foreign xml:lang="lat">in eo</foreign>. Das ist
+ist <hi rend="italic">dann</hi> ein Vertrauen mit Kräften der <term ref="kbga-terms-71">Gewissheit</term> und der <term ref="kbga-terms-72">Verheißung</term>, wenn ihr Grund <hi rend="italic">dort</hi> liegt, <foreign xml:lang="lat">tota fiducia</foreign>
+<hi rend="italic">dort</hi>, <foreign xml:lang="lat">in eo</foreign>. Das ist
 der Gesichtspunkt, unter dem <persName ref="kbga-actors-77">Calvin</persName> vom <term ref="kbga-terms-73">Glauben</term>
-spricht und unter den<note place="footnote" xml:id="n40">
+spricht und unter den<note xml:id="n40">
                             <bibl corresp="kbga-bibls-749">
-                                ThExh 27</bibl>: «dem»; von den Hrsg. geändert.</note> doch wohl auch das <term ref="kbga-terms-74">Neue Testament</term> den Begriff der Pistis<note place="footnote" xml:id="n41">Der Begriff <foreign xml:lang="grc">πίστις</foreign> hatte seit seinen Römerbriefauslegungen eine besondere Bedeutung für <persName ref="kbga-actors-2151">Barth</persName>.
+                                ThExh 27</bibl>: «dem»; von den Hrsg. geändert.</note> doch wohl auch das <term ref="kbga-terms-74">Neue Testament</term> den Begriff der Pistis<note xml:id="n41">Der Begriff <foreign xml:lang="grc">πίστις</foreign> hatte seit seinen Römerbriefauslegungen eine besondere Bedeutung für <persName ref="kbga-actors-2151">Barth</persName>.
 Für seine Übersetzung mit «Treue Gottes» wurde er, insbesondere vom <placeName ref="kbga-places-41">Marburger</placeName>
 Neutestamentler <persName ref="kbga-actors-210">Adolf Jülicher</persName> (<date>1857–1938</date>), stark kritisiert. Vgl.
 <bibl corresp="kbga-bibls-96">
                                 Römerbrief 2, 
                                     <ref type="pub-" target="../volume/47/pr016#pr016">S. XVIf</ref>.<ref type="pub-" target="../volume/47/p022#p022">22f</ref></bibl>.</note> stellt.</p>
 <p>2. Was heißt <term ref="kbga-terms-377">
-                            <hi rend="i">Gehorsam</hi></term>, <foreign xml:lang="lat">voluntati eius obsequi</foreign>? Doch
+                            <hi rend="italic">Gehorsam</hi></term>, <foreign xml:lang="lat">voluntati eius obsequi</foreign>? Doch
 wohl dies, dass Er vorangeht und wir Ihm folgen. Der <term ref="kbga-terms-38">Dienst an Gott</term> ist nicht in unser
 Ermessen gestellt. Wir haben seinem <term ref="kbga-terms-76">Willen</term> zu gehorchen. – Wir dürfen an dieser Stelle einen
 charakteristischen Unterschied zwischen <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName> nicht übersehen. <persName ref="kbga-actors-261">Luther</persName> stellt in
-seinem Katechismus den Begriff des <term ref="kbga-terms-66">Gesetzes</term> an den Anfang;<note place="footnote" xml:id="n42"> Sowohl der <term ref="kbga-terms-78">Kleine</term> als auch der
+seinem Katechismus den Begriff des <term ref="kbga-terms-66">Gesetzes</term> an den Anfang;<note xml:id="n42"> Sowohl der <term ref="kbga-terms-78">Kleine</term> als auch der
 <term ref="kbga-terms-79">Große Katechismus</term> <persName ref="kbga-actors-261">Luthers</persName>
 beginnen mit den Auslegungen der <term ref="kbga-terms-80">Zehn
 Gebote</term> (<bibl corresp="kbga-bibls-14">
                                 BSLK, S. 507–510. 560–645</bibl>; <bibl corresp="kbga-bibls-15">
                                 BSLK.NE,
 S. 862–871. 930–1049</bibl>). </note> ihm steht in erster Linie jene Funktion des Gesetzes vor Augen,
-die darin besteht, den Menschen seiner <term ref="kbga-terms-77">Schuld</term> zu überführen.<note place="footnote" xml:id="n43"> Gemeint ist der neben dem zivilrechtlichen zweite – und für
+die darin besteht, den Menschen seiner <term ref="kbga-terms-77">Schuld</term> zu überführen.<note xml:id="n43"> Gemeint ist der neben dem zivilrechtlichen zweite – und für
 <persName ref="kbga-actors-261">Luther</persName> «vornehmste» – Gebrauch des Gesetzes, der <foreign xml:lang="lat">usus elenchticus</foreign> oder <foreign xml:lang="lat">theologicus</foreign>; eine sachlich klare
 Unterscheidung beider Gesetzesgebräuche findet sich ausführlich
 in <persName ref="kbga-actors-261">Luthers</persName>
 Galaterbriefvorlesung von <date>1531</date> (<bibl corresp="kbga-bibls-561">
                                 WA
                                  40/I</bibl>); vgl. <bibl corresp="kbga-bibls-50">
-                                <persName ref="kbga-actors-8837">M. J. Suda</persName>, <hi rend="i">Die Ethik Martin Luthers</hi> (FSÖTh 108),
+                                M. J. Suda, <hi rend="italic">Die Ethik Martin Luthers</hi> (FSÖTh 108),
 Göttingen 2006, S. 72–78.</bibl> </note> Das Gesetz richtet Zorn an und erst dann kann das <term ref="kbga-terms-59">Evangelium</term> gehört werden, wenn der Mensch
 seiner Unfähigkeit, das <term ref="kbga-terms-60">Gebot</term> zu
 erfüllen, überführt ist. <anchor type="cross" xml:id="kbga-texts-55004_3a"/>
 <persName ref="kbga-actors-77">Cal<pb xml:id="p056" ed="pga" break="no"/>vin</persName> denkt demgegenüber in erster Linie an die
-Tatsache, dass <hi rend="i">Gott</hi>, der Vater Jesu Christi, uns das
+Tatsache, dass <hi rend="italic">Gott</hi>, der Vater Jesu Christi, uns das
 Gesetz gegeben hat, was auch immer daraus werde. Darum stellt er den
 <term ref="kbga-terms-73">Glauben</term> an diesen Gott bzw. den
 Glauben an Gott Vater, Sohn und Heiligen Geist dem Gesetz voran.<anchor type="cross" xml:id="kbga-texts-55004_3b"/> Gerade
 der Mensch, der es gehört hat, dass sein ganzes <term ref="kbga-terms-41">
-                            <hi rend="i">Vertrauen</hi> in Gott</term> ruht, wird auch in das
-rechte Verhältnis zu dem <hi rend="i">Willen</hi> Gottes kommen. Bei ihm
-wird <hi rend="i">dann</hi> auch das real werden, was <persName ref="kbga-actors-261">Luther</persName> dem Gesetz
+                            <hi rend="italic">Vertrauen</hi> in Gott</term> ruht, wird auch in das
+rechte Verhältnis zu dem <hi rend="italic">Willen</hi> Gottes kommen. Bei ihm
+wird <hi rend="italic">dann</hi> auch das real werden, was <persName ref="kbga-actors-261">Luther</persName> dem Gesetz
 zuschreibt: der Zusammenbruch des Menschen unter dem Gebot. Aber der
 Mensch weiß nach <persName ref="kbga-actors-77">Calvin</persName> nicht nur um sein Versagen, sondern indem er das
 <term ref="kbga-terms-59">Evangelium</term> gehört hat, weiß er auch
 um den guten und von uns zu respektierenden <term ref="kbga-terms-76">Willen Gottes</term> im <term ref="kbga-terms-66">Gesetz</term>. In
 Christus ist ja das Gesetz erfüllt [vgl. <ref type="can" subtype="bible" target="Röm.10.4">Röm. 10,4</ref>], das ist <persName ref="kbga-actors-77">Calvin</persName> wichtiger als
-die Erkenntnis, dass wir es <hi rend="i">nicht</hi> erfüllen! Die
+die Erkenntnis, dass wir es <hi rend="italic">nicht</hi> erfüllen! Die
 Dankbarkeit gegenüber dem <term ref="kbga-terms-82">Versöhner</term>
 wird uns dazu anhalten, Gottes Willen immer wieder gedemütigt, aber auch
 immer wieder offen und bereit zu achten und vor Augen zu haben. So
 bekommt das Gesetz bei <persName ref="kbga-actors-77">Calvin</persName> – wird man sagen dürfen im Unterschied zu
 der Stellung, die es bei <persName ref="kbga-actors-261">Luther</persName> einnimmt? – einen notwendigen und klaren
-Ort.<note place="footnote" xml:id="n44"> Mit diesem Ort ist inhaltlich der später so genannte <foreign xml:lang="lat">tertius usus legis</foreign> gemeint (bei
+Ort.<note xml:id="n44"> Mit diesem Ort ist inhaltlich der später so genannte <foreign xml:lang="lat">tertius usus legis</foreign> gemeint (bei
 <persName ref="kbga-actors-77">Calvin</persName>: <foreign xml:lang="lat">usus praecipuus</foreign>). Er
 bezieht sich auf den eigentlichen Zweck (<foreign xml:lang="lat">finis</foreign>) des Gesetzes, sich unter der Leitung des
 Geistes der Weisung Gottes anzuvertrauen, vgl. <bibl corresp="kbga-bibls-16">
                                 Inst. II,7,12–17</bibl>.
 Im <bibl corresp="kbga-bibls-439">
                                 <term ref="kbga-terms-89">
-                                    <hi rend="i">Heidelberger Katechismus</hi></term></bibl> stehen die Gebote daher im dritten Teil unter der
+                                    <hi rend="italic">Heidelberger Katechismus</hi></term></bibl> stehen die Gebote daher im dritten Teil unter der
 Überschrift «Von der Dankbarkeit» (<bibl corresp="kbga-bibls-17">
                                 BSRK, S. 706,23 bzw.
 708,5–709,10</bibl>; <bibl corresp="kbga-bibls-20">
                                 RefBS 2/2, S. 197,25 bzw. 199,7–200,8</bibl>).</note> Im <term ref="kbga-terms-83">Luthertum</term> jedenfalls
 schwankte man dauernd zwischen <term ref="kbga-terms-84">Nomismus</term>
-und <term ref="kbga-terms-85">Antinomismus</term>,<note place="footnote" xml:id="n45">
+und <term ref="kbga-terms-85">Antinomismus</term>,<note xml:id="n45">
                             <anchor type="cross" xml:id="kbga-texts-55004_4"/> Unter Nomismus versteht man die Lehre, nach der das geschriebene
 Gesetz auch für die Gerechtfertigten uneingeschränkt in Geltung
 steht. Dagegen behauptet der Antinomismus z. B. des <persName ref="kbga-actors-8107 ">Johannes Agricola</persName>
 (<date>1494–1566</date>), dass die Wiedergeborenen keinerlei Gesetzes,
 sondern nur der Leitung des Geistes bedürfen, um ihren Gehorsam
 zu bewähren. Auf diesen sogenannten «Antinomistischen Streit»
-beziehen sich die Eingangsworte in Art. VI der <hi rend="i">Solida Declaratio</hi> der <term ref="kbga-terms-572">
-                                <hi rend="i">Konkordienformel</hi></term> (<bibl corresp="kbga-bibls-14">
+beziehen sich die Eingangsworte in Art. VI der <hi rend="italic">Solida Declaratio</hi> der <term ref="kbga-terms-572">
+                                <hi rend="italic">Konkordienformel</hi></term> (<bibl corresp="kbga-bibls-14">
                                 BSLK, S. 962,8–963,10</bibl>; <bibl corresp="kbga-bibls-15">
-                                BSLK.NE, S. 1442,33–1444,7</bibl>).</note> eine Gefahr, die bei <persName ref="kbga-actors-77">Calvin</persName> dadurch vermieden ist, dass er den <hi rend="i">begnadigten</hi>
+                                BSLK.NE, S. 1442,33–1444,7</bibl>).</note> eine Gefahr, die bei <persName ref="kbga-actors-77">Calvin</persName> dadurch vermieden ist, dass er den <hi rend="italic">begnadigten</hi>
 <pb xml:id="p35" ed="A"/> Menschen beansprucht weiß, dessen
 Existenzordnung das Gesetz ist, was wiederum nichts anderes besagen
 kann, als dass sie in Christus, dem <term ref="kbga-terms-87">Erfüller
 des Gesetzes</term>, gründet.</p>
 <p>
                         <pb xml:id="p057" ed="pga" rend="noPipe"/> 3. Was heißt <term ref="kbga-terms-43">
-                            <hi rend="i">Anrufung</hi></term>, <foreign xml:lang="lat">invocatio</foreign>? Wir sollen <hi rend="i">ihn</hi> anrufen. Keine Notwendigkeit ließe sich anführen,
+                            <hi rend="italic">Anrufung</hi></term>, <foreign xml:lang="lat">invocatio</foreign>? Wir sollen <hi rend="italic">ihn</hi> anrufen. Keine Notwendigkeit ließe sich anführen,
 die den Menschen zwingen könnte, sich anderswohin denn an ihn zu wenden.
 <persName ref="kbga-actors-77">Calvin</persName> sieht die <term ref="kbga-terms-88">Lebensnot des Menschen</term>
 hineingestellt in den Zusammenhang von <term ref="kbga-terms-59">Evangelium</term>, <term ref="kbga-terms-36">Gnade</term>, <term ref="kbga-terms-66">Gesetz</term>, <term ref="kbga-terms-60">Gebot</term>, <term ref="kbga-terms-76">Wille Gottes</term>. In
-diesem Zusammenhang vor Gott stehen heißt <term ref="kbga-terms-90">Beten</term>.<note place="footnote" xml:id="n46"> Vgl. <bibl corresp="kbga-bibls-41">
+diesem Zusammenhang vor Gott stehen heißt <term ref="kbga-terms-90">Beten</term>.<note xml:id="n46"> Vgl. <bibl corresp="kbga-bibls-41">
                                 Inst. II,8,16 (Opera Selecta III, S. 357.33–358.1)</bibl>: «Die
 Anrufung geschieht, indem unser Herz (<foreign xml:lang="lat">mentis</foreign>) in aller Not, die uns umdrängen mag, zu
 seiner Treue als einziger Hoffnung sich flüchtet.» Vgl. auch den
@@ -947,9 +948,9 @@ großen Traktat über das Gebet in <bibl corresp="kbga-bibls-16">
 und 2</bibl>.</note> Es ist der Herzschlag <term ref="kbga-terms-91">calvinistischen
 theologischen Denkens</term> und calvinischer <term ref="kbga-terms-925">Frömmigkeit</term>, den wir hier hören.</p>
 <p>4. Was heißt <term ref="kbga-terms-44">
-                            <hi rend="i">Danksagung?</hi></term> Dass wir ihn als den <term ref="kbga-terms-92">Urheber alles Guten</term> erkennen.<note place="footnote" xml:id="n47"> Vgl. <bibl corresp="kbga-bibls-476">Frage 296 des <term ref="kbga-terms-2">
-                                    <hi rend="i">Genfer Katechismus</hi></term></bibl>
-<hi rend="i">:</hi> Der vierte Teil der Verehrung Gottes
+                            <hi rend="italic">Danksagung?</hi></term> Dass wir ihn als den <term ref="kbga-terms-92">Urheber alles Guten</term> erkennen.<note xml:id="n47"> Vgl. <bibl corresp="kbga-bibls-476">Frage 296 des <term ref="kbga-terms-2">
+                                    <hi rend="italic">Genfer Katechismus</hi></term></bibl>
+<hi rend="italic">:</hi> Der vierte Teil der Verehrung Gottes
 «bestehe darin, Gott als Urheber alles Guten anzuerkennen und
 seiner Güte, Gerechtigkeit, Weisheit und Macht Lob und Dank zu
 erweisen, damit die Ehre für alles Gute allein ihm zukomme»
@@ -970,12 +971,12 @@ sagen: immer wieder diese Bewegung vollziehen, die ihn als den <foreign xml:lang
 Das ist der Sinn unseres <term ref="kbga-terms-90">Gebetes</term>,
 unseres <term ref="kbga-terms-96">Gottesdienstes</term>. Er ist der
 <foreign xml:lang="lat">
-                            <hi rend="i">solus</hi> auctor <hi rend="i">omnium</hi>
+                            <hi rend="italic">solus</hi> auctor <hi rend="italic">omnium</hi>
 bonorum</foreign>. Das ist es, was die Gemeinde immer wieder
 zusammenführt. Da ist Christus selber, da ist Gott mir gegenwärtig, da
-wird Christi Fleisch gegessen und Christi Blut getrunken,<note place="footnote" xml:id="n48"> Die Formulierung ähnelt der in F<bibl corresp="kbga-bibls-476">rage 342 des <term ref="kbga-terms-2">
-                                    <hi rend="i">Genfer Katechismus</hi></term></bibl>
-                            <hi rend="i">:</hi>
+wird Christi Fleisch gegessen und Christi Blut getrunken,<note xml:id="n48"> Die Formulierung ähnelt der in F<bibl corresp="kbga-bibls-476">rage 342 des <term ref="kbga-terms-2">
+                                    <hi rend="italic">Genfer Katechismus</hi></term></bibl>
+                            <hi rend="italic">:</hi>
 «Nähren wir uns also wirklich von Leib und
 Blut des Herrn (<foreign xml:lang="lat">corpore Domini et
 sanguine</foreign>)? Jawohl […]» (<bibl corresp="kbga-bibls-17">
@@ -986,7 +987,7 @@ Calvini Opera 6], col. 124</bibl>;
                                 Calvin-Studienausgabe, Bd. 2, S. 124 bzw. 125</bibl>). Noch deutlicher
 for<pb xml:id="FN58" ed="pga" break="no"/>mulierte <bibl corresp="kbga-bibls-469">
                                 <persName ref="kbga-actors-77">Calvin</persName> in
-seinem <hi rend="i">Petit Traicté de la Saincte Cene</hi>
+seinem <hi rend="italic">Petit Traicté de la Saincte Cene</hi>
 (1541)</bibl>: «Wie es heißt, daß sein Geist unser Leben ist, ebenso
 erklärt er daher auch mit seinem eigenen Mund, daß sein Fleisch
 (<foreign xml:lang="fre">sa bouche</foreign>) wahrhaft
@@ -1001,8 +1002,8 @@ erquicken» (<bibl corresp="kbga-bibls-29">
 453</bibl>).</note> da wird es immer wie<pb xml:id="p058" ed="pga" break="no"/>der und immer neu wahr: Er ist in uns und
 wir in ihm, da wird die <term ref="kbga-terms-97">Fülle der Gottheit,
 die in Christus</term> ist, erlebt und erfahren als Realität: da, wo
-der Mensch in dieser Erkenntnis Gott gegenübersteht: Er, der <hi rend="i">alleinige</hi>
-<term ref="kbga-terms-92">Urheber <hi rend="i">alles</hi> Guten</term>!
+der Mensch in dieser Erkenntnis Gott gegenübersteht: Er, der <hi rend="italic">alleinige</hi>
+<term ref="kbga-terms-92">Urheber <hi rend="italic">alles</hi> Guten</term>!
 – So also findet eine <foreign xml:lang="lat">vera et recta
 cognitio</foreign> statt, so wird Gott die <term ref="kbga-terms-28">ihm eigene</term> und geschuldete <term ref="kbga-terms-40">Ehre
 gegeben</term> und so erfüllt der Mensch den <term ref="kbga-terms-98">Sinn seines Lebens</term>.
@@ -1142,7 +1143,7 @@ Vertrauens ist also seine Erkenntnis in Christus?
 </row>
 <row>
 <cell>
-<foreign xml:lang="lat">P.: Omnino.</foreign><note place="footnote" xml:id="n49">
+<foreign xml:lang="lat">P.: Omnino.</foreign><note xml:id="n49">
 <bibl corresp="kbga-bibls-17">
                                         BSRK, S. 117,29–118,5</bibl>; vgl. <bibl corresp="kbga-bibls-29">
                                         CR 34 (= Calvini Opera 6), col. 12</bibl>;
@@ -1157,7 +1158,7 @@ S.: Ganz und gar.
 </row>
 </table>
 <p>Als ersten Begriff der <foreign xml:lang="lat">ratio rite honorandi
-Dei</foreign> nennt <persName ref="kbga-actors-77">Calvin</persName> die <foreign xml:lang="lat">fiducia</foreign>, das <hi rend="i">Vertrauen</hi>. Wir dürfen
+Dei</foreign> nennt <persName ref="kbga-actors-77">Calvin</persName> die <foreign xml:lang="lat">fiducia</foreign>, das <hi rend="italic">Vertrauen</hi>. Wir dürfen
 unser ganzes Vertrauen, <foreign xml:lang="lat">totam fiduciam</foreign>,
 auf ihn setzen. <foreign xml:lang="lat">Qualiter fiet</foreign>? Wie
 geschieht das? Diese Frage ist nicht genetisch, sondern objektiv als
@@ -1166,20 +1167,20 @@ Begriff Vertrauen wird nicht erläutert mit Angaben über das Wesen des
 Vertrauens, <pb xml:id="p37" ed="A"/> sondern mit Aussagen über Gott,
 über sein Wesen, sein Handeln, seine <term ref="kbga-terms-8">Offenbarung</term>. Was das heißt, sein Vertrauen auf Gott setzen,
 das ist nach <persName ref="kbga-actors-77">Calvin</persName> mit der
-Frage zu beantworten: Wer ist und was tut <hi rend="i">Gott?</hi> Wir
+Frage zu beantworten: Wer ist und was tut <hi rend="italic">Gott?</hi> Wir
 werden dann unser ganzes Vertrauen auf ihn setzen, wenn wir ihn erkennen
 als den <term ref="kbga-terms-99">Allmächtigen</term> und <term ref="kbga-terms-100">Allgütigen</term>, <foreign xml:lang="lat">omnipotentem et perfecte bonum</foreign>. <term ref="kbga-terms-19">Erkennen</term> ist ein ontisches Ereignis nach <persName ref="kbga-actors-77">Calvin</persName>, auf Grund
 dessen es zu einem noetischen kommt, zu einem Annehmen einer dem
 Menschen vorgegebenen Wahrheit: der Wahrheit der Allmacht und
 vollkommenen Güte Gottes. Warum gerade diese beiden Begriffe?</p>
-<p>Wäre Gott nicht <hi rend="i">allmächtig</hi>, dann wäre dem Menschen Raum
+<p>Wäre Gott nicht <hi rend="italic">allmächtig</hi>, dann wäre dem Menschen Raum
 gelassen zu einer eigenmächtigen Selbsthilfe, wäre Gott nicht ganz und
 gar sein Herr, er nicht ganz und gar in Gottes Händen. Dann aber würde
 auch sein Vertrauen nicht ganzes Vertrauen, alleiniges Vertrauen,
 <foreign xml:lang="lat">tota fiducia</foreign> sein. <foreign xml:lang="lat">Tota fiducia</foreign> schließt jede Eigenmächtigkeit
 aus, d. h. der Gegenstand des Vertrauens ist ganz und gar Gott. Die
 <foreign xml:lang="lat">potentia</foreign>, die über mein Leben und
-meine Existenz verfügt, ist ganz <pb xml:id="p060" ed="pga"/> und gar <hi rend="i">seine</hi>
+meine Existenz verfügt, ist ganz <pb xml:id="p060" ed="pga"/> und gar <hi rend="italic">seine</hi>
 <foreign xml:lang="lat">potentia</foreign>. Soll das gelten und soll das
 der Dienst des Menschen sein, den er Gott darzubringen hat, dass er ihm
 sein ganzes <term ref="kbga-terms-41">Vertrauen</term> schenkt, dann
@@ -1187,10 +1188,10 @@ kann als Gegenstand dieses Vertrauens nur der Gott in Betracht kommen,
 dem <foreign xml:lang="lat">omnipotentia</foreign>, <term ref="kbga-terms-99">Allmacht</term>, eignet.</p>
 <p>Aber der Begriff des Vertrauens ist nicht mit der Erkenntnis der Allmacht
 Gottes erschöpft. Es bedarf auch dessen, dass wir ihn, als den <foreign xml:lang="lat">perfecte bonum</foreign>, als den <term ref="kbga-terms-100">
-                            <hi rend="i">vollkommen Guten</hi></term> erkennen. Die Macht, die unser Leben in Anspruch nimmt, ist
+                            <hi rend="italic">vollkommen Guten</hi></term> erkennen. Die Macht, die unser Leben in Anspruch nimmt, ist
 nicht irgendeine Macht, nicht etwa die Unwiderstehlichkeit eines in sich
-gründenden Mechanismus des Makrokosmos oder Mikrokosmos.<note place="footnote" xml:id="n50"> Wohl eine Anspielung auf <bibl corresp="kbga-bibls-51">
-                                <persName ref="kbga-actors-311">R. Otto</persName>, <hi rend="i">Naturalistische und religiöse Weltansicht</hi>, Tübingen
+gründenden Mechanismus des Makrokosmos oder Mikrokosmos.<note xml:id="n50"> Wohl eine Anspielung auf <bibl corresp="kbga-bibls-51">
+                                <persName ref="kbga-actors-311">R. Otto</persName>, <hi rend="italic">Naturalistische und religiöse Weltansicht</hi>, Tübingen
 1909<edition rend="sup">2</edition>, S. 260f.</bibl>: «Je mehr wir Person werden, desto klarer,
 fester und unzerfließlicher heben wir uns mit unserem geistigen
 Leben und Besitztum heraus aus allem Strome natürlichen
@@ -1205,12 +1206,12 @@ zwar <term ref="kbga-terms-99">allmächtig</term>, aber nicht auch
 <foreign xml:lang="lat">perfecte bonus</foreign>, so würde unser
 Vertrauen anstatt <foreign xml:lang="lat">tota fiducia</foreign> ein mit
 Angst durchsetztes Vertrauen sein. Gott erkennen heißt ihn erkennen als
-den, der vollkommen gut ist, der also auch <hi rend="i">uns</hi> gut ist
+den, der vollkommen gut ist, der also auch <hi rend="italic">uns</hi> gut ist
 in seiner <term ref="kbga-terms-101">Freiheit</term>. Darum kann er <pb xml:id="p38" ed="A"/> Gegenstand einer <foreign xml:lang="lat">tota
 fiducia</foreign> sein. Indem Gott diese <foreign xml:lang="lat">tota
 fiducia</foreign>, dieses völlige Vertrauen begründet, tritt der
-Mensch auf den Weg der rechten Verehrung Gottes, der <foreign xml:lang="lat">ratio rite honorandi Dei</foreign>.<note place="footnote" xml:id="n51"> Vgl. <bibl corresp="kbga-bibls-476">Frage 7 des <term ref="kbga-terms-2">
-                                    <hi rend="i">Genfer Katechismus</hi></term></bibl> (s. oben, <ref type="pub" target="../volume/55/p051#p051">S. 51</ref>).</note> Damit aber wird der Mensch zum Menschen, damit bekommt sein
+Mensch auf den Weg der rechten Verehrung Gottes, der <foreign xml:lang="lat">ratio rite honorandi Dei</foreign>.<note xml:id="n51"> Vgl. <bibl corresp="kbga-bibls-476">Frage 7 des <term ref="kbga-terms-2">
+                                    <hi rend="italic">Genfer Katechismus</hi></term></bibl> (s. oben, <ref type="pub" target="../volume/55/p051#p051">S. 51</ref>).</note> Damit aber wird der Mensch zum Menschen, damit bekommt sein
 Leben ein Ziel. Das <term ref="kbga-terms-4">Ziel des Lebens</term> ist
 das <term ref="kbga-terms-41">Gottvertrauen</term>, das Vertrauen auf
 ihn den ganz freien und <term ref="kbga-terms-100">ganz
@@ -1224,20 +1225,20 @@ beginnt nun eigentlich erst die Problematik des <term ref="kbga-terms-102">chris
 wohl zu beachten, welchen Weg <persName ref="kbga-actors-77">Calvin</persName> ein<pb xml:id="p061" ed="pga" break="no"/>schlägt. <persName ref="kbga-actors-77">Calvin</persName> hat mit dem
 Bisherigen tatsächlich Alles gesagt, was über das <term ref="kbga-terms-58">christliche Leben</term> auszusagen ist; der
 ganze Inhalt des christlichen <term ref="kbga-terms-103">
-                            <hi rend="i">Glaubens</hi>bekenntnisses</term> steht vor uns. Aber
-eben weil es um <hi rend="i">Glaubens</hi>bekenntnis geht, das nur da
+                            <hi rend="italic">Glaubens</hi>bekenntnisses</term> steht vor uns. Aber
+eben weil es um <hi rend="italic">Glaubens</hi>bekenntnis geht, das nur da
 stattfinden kann, wo Gott uns in <term ref="kbga-terms-36">freier
 Gnade</term> begegnet, muss nun die Frage gestellt werden: Ist das
-genug? Muss nach einer Explikation des<note place="footnote" xml:id="n52"> <bibl corresp="kbga-bibls-749">
+genug? Muss nach einer Explikation des<note xml:id="n52"> <bibl corresp="kbga-bibls-749">
                                 ThExh 27</bibl>: «der»; von den Hrsg. geändert.</note> vorangehenden Satzes gefragt werden, die ihn von einer
 eigenmächtigen Spekulation unzweideutig unterscheidet. Und darum muss
-geantwortet werden: Jener Satz genügt <hi rend="i">nicht</hi> (obwohl er
+geantwortet werden: Jener Satz genügt <hi rend="italic">nicht</hi> (obwohl er
 Alles sagt!) – er genügt nur als explizierter Glaubenssatz, weil wir
 Unwürdige sind, <foreign xml:lang="lat">quia indigni sumus</foreign>.
 Schon das kann der Mensch sich nicht selber vorsagen, sondern wenn er
 sich das eingesteht, so geschieht es im Hören auf <term ref="kbga-terms-8">Gottes Offenbarung</term>, im Hören auf <term ref="kbga-terms-50">sein Wort</term>. <persName ref="kbga-actors-77">Calvin</persName> redet nicht auf zwei
 verschiedenen Ebenen. Alles, was er sagt über das <term ref="kbga-terms-41">Vertrauen</term> und den Grund des Vertrauens,
-ist gesagt aus der Situation des <hi rend="i">glaubenden</hi> Menschen,
+ist gesagt aus der Situation des <hi rend="italic">glaubenden</hi> Menschen,
 des in Christus von Gott gerufenen, mit Gott <term ref="kbga-terms-104">versöhnten Menschen</term>. Der glaubende Mensch kann und muss
 beides sagen: Gott ist der <term ref="kbga-terms-99">Allmächtige</term>
 und <term ref="kbga-terms-100">Allgütige</term>, und: ich bin der
@@ -1251,35 +1252,35 @@ Elend</term> gilt es: <foreign xml:lang="lat">Non satis
 est</foreign>. Und nun dennoch: es gibt <foreign xml:lang="lat">tota
 fiducia</foreign>! Wenn <persName ref="kbga-actors-77">Calvin</persName> in diesem Zusammenhang von unserer <term ref="kbga-terms-108">Unwürdigkeit</term> spricht, so zeigt dies: Es
 geht nicht um die Aussage: <pb xml:id="p39" ed="A"/>
-<foreign xml:lang="lat">finitum non capax infiniti</foreign>.<note place="footnote" xml:id="n53"> Gemeint ist die unter dem Namen «<foreign xml:lang="lat">Extra
+<foreign xml:lang="lat">finitum non capax infiniti</foreign>.<note xml:id="n53"> Gemeint ist die unter dem Namen «<foreign xml:lang="lat">Extra
 Calvinisticum</foreign>» bekannt gewordene reformierte
 Lehrentscheidung, die von <persName ref="kbga-actors-77">Calvin</persName> «auf die Formel gebracht worden
 ist, daß der göttliche Logos ungeachtet seiner vollen Einwohnung
 in der Menschheit Christi auch ganz außerhalb (<foreign xml:lang="lat">extra</foreign>) derselben bleibe und ‚wie im
 Anfang die ganze Welt erfüllt‘ (<bibl corresp="kbga-bibls-16">
                                 Inst.  II,13,4</bibl>)» (<bibl corresp="kbga-bibls-470">
-                                <persName ref="kbga-actors-8838">Chr. Link</persName>, Art.
+                                Chr. Link, Art.
 «Extra Calvinisticum», in: RGG<edition rend="sup">4</edition> II, Sp. 1841f., dort
 Sp. 1841</bibl>).</note> Es ist nicht die endliche Beschränkung, die hier störend in den
 Weg tritt. Den Schauder vor dem Numinosum, das <foreign xml:lang="lat">tremere</foreign> des kleinen Menschleins vor der
-Unendlichkeit,<note place="footnote" xml:id="n54"> Nach <bibl corresp="kbga-bibls-52">
+Unendlichkeit,<note xml:id="n54"> Nach <bibl corresp="kbga-bibls-52">
                                 <persName ref="kbga-actors-311">R.
-Otto</persName>, <hi rend="i">Das Heilige. Über das
+Otto</persName>, <hi rend="italic">Das Heilige. Über das
 Irrationale in der Idee des Göttlichen und sein Verhältnis
 zum Rationalen</hi>, Breslau 1918<edition rend="sup">2</edition>,</bibl> sind das «<foreign xml:lang="lat">Tremendum</foreign>» und das «<foreign xml:lang="lat">Fascinans</foreign>» wesentliche
 Charakteristika des Numinosen.</note> das kennen <pb xml:id="p062" ed="pga"/> die <term ref="kbga-terms-109">Heiden</term> auch.
 Endlichkeit und Unendlichkeit sind Korrelate, sind vertauschbare
-Begriffe (<persName ref="kbga-actors-216">Kant</persName>!).<note place="footnote" xml:id="n55"> Vgl. <bibl corresp="kbga-bibls-53">
+Begriffe (<persName ref="kbga-actors-216">Kant</persName>!).<note xml:id="n55"> Vgl. <bibl corresp="kbga-bibls-53">
                                 <persName ref="kbga-actors-216">I.
-Kant</persName>, <hi rend="i">Prolegomena zu einer jeden
+Kant</persName>, <hi rend="italic">Prolegomena zu einer jeden
 künftigen Metaphysik, die als Wissenschaft wird auftreten
 können</hi> (1783), <title level="s">Akademie-Ausgabe</title>, Bd. IV, Berlin
 1903/11, S. 253–384, dort S. 342 (§ 52c)</bibl>: «Wenn ich nun nach der
 Weltgröße dem Raume und der Zeit nach frage, so ist es für alle
 meine Begriffe eben so unmöglich zu sagen, sie sei unendlich,
 als sie sei endlich. Denn keines von beiden kann in der
-Erfahrung enthalten sein, weil weder von einem <hi rend="i">unendlichen</hi> Raume oder unendlicher verflossener Zeit,
-noch der <hi rend="i">Begrenzung</hi> der Welt durch einen
+Erfahrung enthalten sein, weil weder von einem <hi rend="italic">unendlichen</hi> Raume oder unendlicher verflossener Zeit,
+noch der <hi rend="italic">Begrenzung</hi> der Welt durch einen
 leeren Raum oder eine vorhergehende leere Zeit Erfahrung möglich
 ist; das sind nur Ideen.»</note>
 <foreign xml:lang="lat">Quia indigni sumus</foreign>, damit wird ein
@@ -1287,46 +1288,46 @@ Verhältnis zwischen Gott und Mensch aufgezeigt, das nicht mehr umkehrbar
 ist. Damit ist etwas ausgesagt über das Sein des Menschen, dem er sich
 nicht mehr entziehen, vor dem er sich nicht mehr flüchten kann. Damit
 ist Gott gegenüber, der allein die Autorität hat, mir meine Unwürdigkeit
-aufzuweisen, die <hi rend="i">Grenze</hi> gesteckt. Und dieser Grenze
+aufzuweisen, die <hi rend="italic">Grenze</hi> gesteckt. Und dieser Grenze
 gegenüber sind die kleinen Schaukelbewegungen unseres Lebens, das
 bisschen Hin und Her, Auf und Ab zwischen Endlichkeits- und
 Unendlichkeitsgefühlen belanglos. Die Aussage: Wir sind Unwürdige! ist
 keinesfalls als eine Aussage <term ref="kbga-terms-65">natürlicher
 Theologie</term> zu verstehen, sie kann uns nur von Gott selbst auf
-die Lippen gelegt werden. Wir <hi rend="i">sind</hi>
+die Lippen gelegt werden. Wir <hi rend="italic">sind</hi>
 <term ref="kbga-terms-108">Unwürdige</term>. Das ist keine moralische
-Aussage, sondern eine Aussage über unser Sein. So sieht die <term ref="kbga-terms-110">heilige Schrift</term>, so sehen <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName> den Menschen.<note place="footnote" xml:id="n56"> Vgl. etwa <ref type="can" subtype="bible" target="Röm.7.14 Röm.7.25">Röm. 7,14–25</ref>; zu <bibl corresp="kbga-bibls-471">
+Aussage, sondern eine Aussage über unser Sein. So sieht die <term ref="kbga-terms-110">heilige Schrift</term>, so sehen <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-77">Calvin</persName> den Menschen.<note xml:id="n56"> Vgl. etwa <ref type="can" subtype="bible" target="Röm.7.14 Röm.7.25">Röm. 7,14–25</ref>; zu <bibl corresp="kbga-bibls-471">
                                 <persName ref="kbga-actors-261">Luther</persName>: <title level="a">Disputatio De
 homine</title> (1536), WA 39/1, 175–177</bibl> (vgl. auch <bibl corresp="kbga-bibls-54">
-                                <persName ref="kbga-actors-103">G. Ebeling</persName>, <title level="a">Der Mensch als Sünder</title>, in: ders., <hi rend="i">Lutherstudien</hi>, Bd. 3: <hi rend="i">Begriffsuntersuchungen – Textinterpretationen –
+                                <persName ref="kbga-actors-103">G. Ebeling</persName>, <title level="a">Der Mensch als Sünder</title>, in: ders., <hi rend="italic">Lutherstudien</hi>, Bd. 3: <hi rend="italic">Begriffsuntersuchungen – Textinterpretationen –
 Wirkungsgeschichtliches</hi>, Tübingen 1985, S. 74–107</bibl>); zu
 <persName ref="kbga-actors-77">Calvin</persName>: z. B. <bibl corresp="kbga-bibls-16">
                                 Inst. III,20,17</bibl> (vgl. <bibl corresp="kbga-bibls-55">
                                 <persName ref="kbga-actors-8839">A. N. S. Lane</persName>,
-<title level="a">Mensch</title>, in: <hi rend="i">Calvin
+<title level="a">Mensch</title>, in: <hi rend="italic">Calvin
 Handbuch</hi>, hrsg. von H. Selderhuis, Tübingen 2008,
 S. 270–284</bibl>).</note> In der Wurzel seiner Existenz ist seine <foreign xml:lang="lat">indignitas</foreign> Gott gegenüber Wirklichkeit, in dem
 tatsächlichen Verhältnis <term ref="kbga-terms-111">zwischen Gott, dem
 Heiligen, und uns</term>, den Unheiligen. Gott ist und bleibt – an
-<hi rend="i">dieser</hi> Grenze erst wird das sichtbar und
+<hi rend="italic">dieser</hi> Grenze erst wird das sichtbar und
 verständlich – Gott dem Menschen gegenüber, und doch gibt es unerhörter,
 unbegreiflicher Weise ein <term ref="kbga-terms-41">Vertrauen des
 Menschen zu Gott</term>. Wir können das nur als Faktum begreifen,
 wir können das nicht ableiten und erklären. Wie sollten wir unsere <term ref="kbga-terms-64">Sünde</term> und ihre <term ref="kbga-terms-63">Vergebung</term> ableiten und erklären können? Gott offenbart sich
 dauernd und offenbart sich <pb xml:id="p063" ed="pga"/> überall, aber der Mensch ist dieser <term ref="kbga-terms-8">Offenbarung</term> nicht würdig und kann darum
-<hi rend="i">faktisch</hi> nicht erkennen, was ihm theoretisch wohl
+<hi rend="italic">faktisch</hi> nicht erkennen, was ihm theoretisch wohl
 als Möglichkeit offen stünde. So wie ein Mensch, der an sich wohl die
 Fähigkeit des Gehens hat, praktisch von ihr keinen Gebrauch mehr machen
 kann, wenn ihm seine Beine gebrochen sind. Alle <term ref="kbga-terms-65">natürliche Theologie</term> aber rechnet noch
 mit – ungebrochenen Beinen!! <foreign xml:lang="lat">Si Adam integer
 stetisset</foreign>, das ist der verhängnisvolle Konjunktiv, der
-eben nicht übersehen werden darf in dem berühmten Anfang von <persName ref="kbga-actors-77">Calvins</persName> Institutio.<note place="footnote" xml:id="n57"> <bibl corresp="kbga-bibls-16">
+eben nicht übersehen werden darf in dem berühmten Anfang von <persName ref="kbga-actors-77">Calvins</persName> Institutio.<note xml:id="n57"> <bibl corresp="kbga-bibls-16">
                                 Inst. I,2,1</bibl>: «<foreign xml:lang="lat">Sed tantu de prima illa et
 simplici loquor, ad quam nos deduceret genuinus naturae ordo
 si integer stetisset Adam</foreign>.» / «Hier ist bloß von
 einer ursprünglichen und einfachen Erkenntnisweise die Rede, zu
 welcher schon die Ordnung der Natur führen würde, wenn <persName ref="kbga-actors-2144">Adam</persName>
-nicht gefallen wäre.»</note> Wir haben <hi rend="i">gebrochene</hi> Beine. Wenn hier, bei
+nicht gefallen wäre.»</note> Wir haben <hi rend="italic">gebrochene</hi> Beine. Wenn hier, bei
 uns, das letzte Wort gesagt wäre, dann müssten wir wahrhaft ver<pb xml:id="p40" ed="A" break="no"/>zweifeln. Aber für solchen Pessimismus ist kein
 Raum. Diese Aussage über uns ist keinen Augenblick abstrakt zu
 verstehen, sie ist gesagt in der <term ref="kbga-terms-14">Erkenntnis</term> der <term ref="kbga-terms-37">Liebe
@@ -1337,21 +1338,21 @@ wird den unauflöslichen Widerspruch zwischen Gott und sich erkennen und
 anerkennen.</p>
 <p>Aber diesem Schritt folgt unmittelbar ein weiterer. Alles bisher Gesagte
 ist nur zu verstehen von der Höhe dessen aus gesehen, was nun folgt: Was
-muss also noch geschehen? <hi rend="i">Dass ein Jeder von uns in seinem
+muss also noch geschehen? <hi rend="italic">Dass ein Jeder von uns in seinem
 Herzen überzeugt ist, dass er von Gott geliebt wird und dass Gott
 ihm ein Vater sein will und der Urheber seiner Errettung</hi>. Dass
 wir von ihm geliebt werden: es ist nicht die Rede davon, dass wir doch
 noch einen Rest von Güte uns erhalten hätten, von sittlichem Ernst oder
-anderen guten Qualitäten.<note place="footnote" xml:id="n58"> Wohl eine Anspielung auf <bibl corresp="kbga-bibls-56">
-                                <persName ref="kbga-actors-63">E. Brunner</persName>, <hi rend="i">Das Gebot
+anderen guten Qualitäten.<note xml:id="n58"> Wohl eine Anspielung auf <bibl corresp="kbga-bibls-56">
+                                <persName ref="kbga-actors-63">E. Brunner</persName>, <hi rend="italic">Das Gebot
 und die Ordnungen. Entwurf einer
 protestantisch-theologischen Ethik</hi>, Tübingen 1932</bibl>.
 <persName ref="kbga-actors-63">Brunner</persName> thematisiert hier im ersten Buch ausführlich die
 «natürliche Sittlichkeit» sowie ihr Verhältnis zur «christlichen
-Botschaft» (<bibl corresp="kbga-bibls-56">a.a.O., S. 3–94</bibl>) und spricht u. a. vom «<hi rend="i">Ernst</hi> der Entscheidung» im Blick auf die «<hi rend="i">eine</hi> sittliche Idee» (<bibl corresp="kbga-bibls-56">a.a.O., S. 13</bibl>). </note> Nein, nun erfolgt wieder eine jener großartigen Umkehrungen
+Botschaft» (<bibl corresp="kbga-bibls-56">a.a.O., S. 3–94</bibl>) und spricht u. a. vom «<hi rend="italic">Ernst</hi> der Entscheidung» im Blick auf die «<hi rend="italic">eine</hi> sittliche Idee» (<bibl corresp="kbga-bibls-56">a.a.O., S. 13</bibl>). </note> Nein, nun erfolgt wieder eine jener großartigen Umkehrungen
 <persName ref="kbga-actors-77">Calvins</persName>. Gott muss die
 Initiative ergreifen – nein, nicht: er muss sie ergreifen, sondern: er
-hat sie bereits ergriffen. Das ist die Voraussetzung. Ich <hi rend="i">bin</hi>
+hat sie bereits ergriffen. Das ist die Voraussetzung. Ich <hi rend="italic">bin</hi>
 <term ref="kbga-terms-38">von Gott geliebt</term>. Wenn der Mensch in
 seiner <foreign xml:lang="lat">indignitas</foreign> das aussagen kann,
 dann ist in dieser Erkenntnis <pb xml:id="p064" ed="pga"/> der Weg offen zu dem völligen Vertrauen,
@@ -1376,9 +1377,9 @@ einer Väterlichkeit auf Erden gesprochen werden, niemals umgekehrt. Wenn
 spricht, <pb xml:id="p41" ed="A"/> dann denkt er daran, dass wir in
 Christo Angenommene des Vaters sein dürfen, dann denkt er an die ewige
 Liebe Gottes des <term ref="kbga-terms-70">Vaters, des Sohnes und des
-Heiligen Geistes</term>.<note place="footnote" xml:id="n59"> Vgl. <bibl corresp="kbga-bibls-476">
+Heiligen Geistes</term>.<note xml:id="n59"> Vgl. <bibl corresp="kbga-bibls-476">
                                 <term ref="kbga-terms-2">
-                                    <hi rend="i">Genfer Katechismus</hi></term>, Frage 22</bibl>: «Warum nennst Du ihn ‚Vater‘? Zuerst im Blick
+                                    <hi rend="italic">Genfer Katechismus</hi></term>, Frage 22</bibl>: «Warum nennst Du ihn ‚Vater‘? Zuerst im Blick
 auf Christus, der sowohl dessen Weisheit ist, von ihm vor aller
 Zeit gezeugt, als auch in die Welt gesandt und als dessen Sohn
 offenbart worden ist. Da Gott der Vater Jesu Christi ist,
@@ -1403,16 +1404,16 @@ und erkennen, was vollkommene, wirkliche Güte ist. Das ist <foreign xml:lang="l
 an denen, die seiner unwürdig sind, Gottes Heilandsein.</p>
      <p>
                         <pb xml:id="p065" ed="pga" rend="noPipe"/> Wenn Gott uns seine Allmacht und seine <term ref="kbga-terms-100">vollkommene Güte</term>
-<hi rend="i">nicht</hi> offenbart, dann bleiben diese beiden Begriffe
+<hi rend="italic">nicht</hi> offenbart, dann bleiben diese beiden Begriffe
 leere Begriffe, dann könnten auch sie nur ein Götzenbild sein. Gott
 liebt uns und erweist sich uns als Vater Jesu Christi, als der Urheber
 unserer Errettung; das allein ist wirkliche Macht und wirkliche
 Güte.</p>
 <p>Woher aber wissen wir, dass Gott uns liebt? Wenn es gilt, dass wir <term ref="kbga-terms-108">Unwürdige</term> sind, wenn wir dem nicht
 entfliehen und nicht aus Gott ein Göttlein und aus unserer <foreign xml:lang="lat">indignitas</foreign> eine Unvollkommenheit und aus dem
-Satz: Gott liebt mich! einen Gefühlszustand machen wollen<note place="footnote" xml:id="n60"> Am Schluss der Erklärung der Methode seiner Dogmatik heißt es
+Satz: Gott liebt mich! einen Gefühlszustand machen wollen<note xml:id="n60"> Am Schluss der Erklärung der Methode seiner Dogmatik heißt es
 bei <bibl corresp="kbga-bibls-448">
-                                <persName ref="kbga-actors-360">Schleiermacher</persName>, <hi rend="i">Der christliche
+                                <persName ref="kbga-actors-360">Schleiermacher</persName>, <hi rend="italic">Der christliche
 Glaube</hi> (<ref type="pub" target="#fn_n19">Anm. 19</ref>), S. 196 (§ 31, Leitsatz)</bibl>: «Die oben
 angegebene Einteilung wird also nach allen diesen drei Formen
 der Reflexion über die frommen Gemütsregungen vollständig
@@ -1431,9 +1432,9 @@ Frage unerbittlich als Entscheidungsfrage: Woher wissen wir das?
 <persName ref="kbga-actors-77">Calvin</persName> weiß, das können wir
 nicht aus uns selber wissen, das muss Gott uns sagen in seinem eigenen
 <term ref="kbga-terms-50">
-                            <hi rend="i">Worte</hi></term>, in welchem er uns <term ref="kbga-terms-115">seine
+                            <hi rend="italic">Worte</hi></term>, in welchem er uns <term ref="kbga-terms-115">seine
 Barmherzigkeit</term> aufzeigt. So ist es das Fundament unseres
-Vertrauens<term ref="kbga-terms-41"/>, dass wir Gott in <hi rend="i">Christus</hi>
+Vertrauens<term ref="kbga-terms-41"/>, dass wir Gott in <hi rend="italic">Christus</hi>
 <term ref="kbga-terms-14">erkennen</term>.</p>
 <p>Damit sind wir an der Wurzel und zugleich auch vor der Fülle der
 Problematik aller Theologie angelangt. Hier scheiden sich die Wege.
@@ -1442,7 +1443,7 @@ dieses <foreign xml:lang="lat">ex verbo ipsius</foreign> oder aber man
 versteht es nicht. Man könnte an dieser Stelle wohl von <term ref="kbga-terms-116">Prädestination</term> sprechen. Entweder be<pb xml:id="p42" ed="A" break="no"/>gegnet man hier dem großen Gegenüber oder aber man
 löst die Begegnung auf in die leere Frage: Sollte Gott nur so und nur
 einmal geredet haben? Warum ist gerade <term ref="kbga-terms-117">Christus das Wort</term>? Und die ganze Fülle der Verlegenheiten
-bricht auf, die in diesen Fragen zutage kommt.<note place="footnote" xml:id="n61"> Ausführlicher dazu: <bibl corresp="kbga-bibls-473">
+bricht auf, die in diesen Fragen zutage kommt.<note xml:id="n61"> Ausführlicher dazu: <bibl corresp="kbga-bibls-473">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das erste Gebot als
 theologisches Axiom</title>, in: V.u.kl.A. 1930–1933,
 S. 209–241, dort <ref type="pub-" target="../volume/49/p229#p229">S. 229–232</ref></bibl>.</note>
@@ -1452,16 +1453,16 @@ das, was ich mir nicht selber sagen kann, was ich nur wiederholen kann
 als einen Satz, mit dem ich schlechterdings anfangen muss, ganz
 bescheiden, ganz anspruchslos, als einen Satz, der nur in völliger
 Wehrlosigkeit ausgesprochen werden kann: was in keines Menschen Herz
-gekommen ist, das hat <hi rend="i">Gott gegeben!</hi> [vgl. <ref type="can" subtype="bible" target="1.Kor.2.9">1.Kor. 2,9</ref>]
+gekommen ist, das hat <hi rend="italic">Gott gegeben!</hi> [vgl. <ref type="can" subtype="bible" target="1.Kor.2.9">1.Kor. 2,9</ref>]
 Gott ist nicht nur der <term ref="kbga-terms-99">Allmächtige</term> und
 <term ref="kbga-terms-100">Allgütige</term>, sondern als der
 Allmächtige und Allgütige hat er zu uns gesprochen und spricht er zu
 uns. Ich bin <term ref="kbga-terms-38">ein von Gott Geliebter</term>.
-Das sagt <hi rend="i">er</hi> mir. Und als <foreign xml:lang="lat">indignus</foreign>, als <term ref="kbga-terms-108">Unwürdiger</term>, unwürdig, seine offenbare Allmacht und Allgüte
-zu erfahren, <hi rend="i">höre</hi> ich es. Auf diesem Boden ereignet
+Das sagt <hi rend="italic">er</hi> mir. Und als <foreign xml:lang="lat">indignus</foreign>, als <term ref="kbga-terms-108">Unwürdiger</term>, unwürdig, seine offenbare Allmacht und Allgüte
+zu erfahren, <hi rend="italic">höre</hi> ich es. Auf diesem Boden ereignet
 sich Theologie. Nicht um ein Prinzip geht es hier, sondern um ein <term ref="kbga-terms-118">Hören auf das Wort</term>, das uns in der <term ref="kbga-terms-110">heiligen Schrift</term> dargeboten wird. Wir
-können nur das <hi rend="i">Zeugnis</hi> vom <term ref="kbga-terms-50">Worte Gottes</term> hören und uns fragen, ob das auch für uns und
-unser Leben <hi rend="i">gilt</hi>. Und wir werden es dann wohl – und da
+können nur das <hi rend="italic">Zeugnis</hi> vom <term ref="kbga-terms-50">Worte Gottes</term> hören und uns fragen, ob das auch für uns und
+unser Leben <hi rend="italic">gilt</hi>. Und wir werden es dann wohl – und da
 beginnt eigentlich die Theologie – gelten lassen müssen als Gottes Wort
 und nicht als unser eigenes Wort. Hier stecken alle <term ref="kbga-terms-119">Fehlerquellen theologischen Denkens und
 Redens</term> und andererseits auch alle Verheißung und Hoffnung
@@ -1471,8 +1472,8 @@ Gottes Geschenk. Wenn es schief geht in der Theologie – und es geht
 immer wieder schief –, dann deshalb, weil wir mit dem Wort umgehen als
 mit einer Sache, die wir in die Tasche stecken könnten. Wir machen dann
 aus dem Worte Gottes eine Philosophie, wir setzen an die Stelle des uns
-gesagten Wortes die Illusion einer eigenmächtigen Entdeckung.<note place="footnote" xml:id="n62"> Auch hier könnte <persName ref="kbga-actors-2151">Barth</persName> an <bibl corresp="kbga-bibls-448">
-                                <persName ref="kbga-actors-360">Schleiermacher</persName>, <hi rend="i">Der
+gesagten Wortes die Illusion einer eigenmächtigen Entdeckung.<note xml:id="n62"> Auch hier könnte <persName ref="kbga-actors-2151">Barth</persName> an <bibl corresp="kbga-bibls-448">
+                                <persName ref="kbga-actors-360">Schleiermacher</persName>, <hi rend="italic">Der
 Christliche Glaube</hi> (<ref type="pub" target="#fn_n19">Anm. 19</ref>)</bibl>, gedacht haben, wo es im
 Leitsatz zu § 50 heißt: «Alle Eigenschaften, welche wir Gott
 beilegen, sollen nicht etwas besonderes in Gott bezeichnen,
@@ -1482,7 +1483,7 @@ Bedeutsamkeit des Begriffs «<term ref="kbga-terms-50">Wort
 Gottes</term>» vielleicht wieder schärfer sehen dürfen als vergangene
 Zeiten und weil wir gerade darum uns hüten müssen, mit diesem Begriff
 umzugehen wie ein Krämer mit seiner Ware, mit einer flotten, aber im
-Grunde hochmütigen und eigenmächtigen Sicherheit.<note place="footnote" xml:id="n63"> Vgl. ausführlicher: <bibl corresp="kbga-bibls-474">
+Grunde hochmütigen und eigenmächtigen Sicherheit.<note xml:id="n63"> Vgl. ausführlicher: <bibl corresp="kbga-bibls-474">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Der Dienst am Worte
 Gottes</title>, in: V.u.kl.A. 1934–1935, S. 401–425, bes.
 <ref type="pub" target="../vol_52/p411#p411">S. 411f</ref></bibl>.</note> Gerade die junge und jüngste <pb xml:id="p067" ed="pga"/> Generation mag sich an dieser
@@ -1493,7 +1494,7 @@ seine eigene Sache, und wäre sie noch so gut und ansehnlich, nicht
 stärken. Es ist und bleibt ein Geschenk, das wir, wir seien alt oder
 jung, auf <term ref="kbga-terms-121">keinen Fall verdient haben</term>!
 Es ist ein Wunder, das uns begegnet und das, wenn wir nicht richtig
-damit umgehen, uns jederzeit wieder genommen werden kann.<note place="footnote" xml:id="n64"> Schon in <bibl corresp="kbga-bibls-397">
+damit umgehen, uns jederzeit wieder genommen werden kann.<note xml:id="n64"> Schon in <bibl corresp="kbga-bibls-397">
                                 <title level="a">Theologische Existenz heute!</title>
 (<ref type="pub" target="#fn_n21">Anm. 21</ref>), <ref type="pub-" target="../volume/49/p353#p353">S. 353</ref></bibl>, hatte <persName ref="kbga-actors-2151">Barth</persName> angesichts der im Sommer
 <date>1933</date> sichtbaren Bedrohung der «Freiheit, d. h.
@@ -1513,34 +1514,34 @@ einer täglich neuen Ehrfurcht und davon reden mit einer täglich neuen
 Sorgfalt!</p>
 <p>Das letzte Wort, das <persName ref="kbga-actors-77">Calvin</persName> in
 diesem Zusammenhang anführt, ist nicht der Begriff des Wortes Gottes,
-sondern <hi rend="i">Christus</hi>, als der <hi rend="i">Inhalt</hi>
+sondern <hi rend="italic">Christus</hi>, als der <hi rend="italic">Inhalt</hi>
 dieses <term ref="kbga-terms-123">Wortes</term>. Er ist die letzte
 Antwort auf unsere Frage: <foreign xml:lang="lat">Unde?</foreign> Das
 Wort Gottes ist nicht ein Satz, auch nicht ein Gefüge von Sätzen, es ist
-Gott selber, der mit uns redende Gott:<note place="footnote" xml:id="n65"> Vgl. <bibl corresp="kbga-bibls-2">
+Gott selber, der mit uns redende Gott:<note xml:id="n65"> Vgl. <bibl corresp="kbga-bibls-2">
                                 KD
                                  I/1, S. 141</bibl>: «‚Gottes Wort‘ heißt: Gott redet. […]
 Gottes Wort ist kein Ding, das zu beschreiben, es ist aber auch
 kein Begriff, der zu definieren wäre. Es ist weder ein
 Sachverhalt, noch eine Idee. Es ist nicht ‚eine‘, auch nicht die
-höchste ‚Wahrheit‘. Es ist <hi rend="i">die</hi> Wahrheit, indem
+höchste ‚Wahrheit‘. Es ist <hi rend="italic">die</hi> Wahrheit, indem
 es Gottes sprechende Person ist, <foreign xml:lang="lat">
-                                <hi rend="i">Dei loquentis persona</hi>
+                                <hi rend="italic">Dei loquentis persona</hi>
                             </foreign>» (mit Bezugnahme auf <bibl corresp="kbga-bibls-16">
                                 Inst. I,7,4</bibl> [<bibl corresp="kbga-bibls-41">
                                 Opera Selecta,
 S. 68,30–69,1</bibl>]: «<foreign xml:lang="lat">Itaque summa Scripturae
 probatio passim a Dei loquentis persona
 sumitur</foreign>»).</note>
-    <term ref="kbga-terms-117">Jesus Christus</term>.<note place="footnote" xml:id="n66"> Vgl. die <bibl corresp="kbga-bibls-481">erste These der <term ref="kbga-terms-126">
-                                    <hi rend="i">Barmer Theologischen Erklärung</hi></term></bibl>
-                            <hi rend="i">:</hi>
+    <term ref="kbga-terms-117">Jesus Christus</term>.<note xml:id="n66"> Vgl. die <bibl corresp="kbga-bibls-481">erste These der <term ref="kbga-terms-126">
+                                    <hi rend="italic">Barmer Theologischen Erklärung</hi></term></bibl>
+                            <hi rend="italic">:</hi>
 «Jesus Christus, wie er uns in der heiligen
 Schrift bezeugt wird, ist das eine Wort Gottes, das wir zu
 hören, dem wir im Leben und im Sterben zu vertrauen und zu
 gehorchen haben» (<bibl corresp="kbga-bibls-3">
                                 V.u.kl.A. 1934–1935, <ref type="pub-" target="../volume/52/p296#p296">S. 296</ref></bibl>).</note> Indem Gott <pb xml:id="p068" ed="pga"/> mit uns redet, bietet er uns seine <term ref="kbga-terms-115">Barmherzigkeit</term> dar. Das Wort <term ref="kbga-terms-124">
-                            <hi rend="i">Barmherzigkeit</hi></term> umschreibt das <term ref="kbga-terms-125">Geschehen in Jesus
+                            <hi rend="italic">Barmherzigkeit</hi></term> umschreibt das <term ref="kbga-terms-125">Geschehen in Jesus
 Christus</term>. Von diesem Begriff aus will alles bisher Gesagte
 verstanden sein. Barmherzigkeit bedeutet einerseits zweifellos dies,
 dass wir nicht ohne Gott sind, dass Gott sich unserer annimmt,
@@ -1553,17 +1554,17 @@ sich. Eine <term ref="kbga-terms-128">Sündenerkenntnis</term> bzw. eine
 anderswoher treffen wollte als von daher, dass Gott ihm barmherzig ist,
 würde den Menschen nicht erreichen. Das rinnt an uns ab wie der Regen
 oder aber es führt uns in die Verzweiflung. Diese Schaukel aber zwischen
-Verzweiflung und Leichtsinn<note place="footnote" xml:id="n67"> Vgl. die beiden von <bibl corresp="kbga-bibls-1975">
-                                <persName ref="kbga-actors-261">Luther</persName> in der <hi rend="i">Secunda disputatio
+Verzweiflung und Leichtsinn<note xml:id="n67"> Vgl. die beiden von <bibl corresp="kbga-bibls-1975">
+                                <persName ref="kbga-actors-261">Luther</persName> in der <hi rend="italic">Secunda disputatio
 contra Antinomos</hi> (1538)</bibl> herausgestellten Gestalten der
 Sünde wider den heiligen Geist: <foreign xml:lang="lat">finalis
 praesumptio</foreign> (Selbstüberschätzung) und <foreign xml:lang="lat">finalis dubitatio</foreign> oder <foreign xml:lang="lat">desperatio</foreign> (Verzweiflung) (<bibl corresp="kbga-bibls-1975">
                                 WA
 39/I, 428,19–429,1</bibl>).</note> wird dann stillgelegt sein, wenn statt der Gesetzespredigt das
-Wort ertönt: <hi rend="i">Gott</hi> liebt <hi rend="i">dich</hi>, <hi rend="i">Gott</hi> ist <hi rend="i">dir</hi> barmherzig. Vor dem
+Wort ertönt: <hi rend="italic">Gott</hi> liebt <hi rend="italic">dich</hi>, <hi rend="italic">Gott</hi> ist <hi rend="italic">dir</hi> barmherzig. Vor dem
 <term ref="kbga-terms-129">Kreuz Christi</term> wird die Sünde
 erkannt. Das Kreuz allein ist die <pb xml:id="p44" ed="A"/>
-    <term ref="kbga-terms-130">wahre Gesetzespredigt</term>.<note place="footnote" xml:id="n68"> Vgl. den Luther
+    <term ref="kbga-terms-130">wahre Gesetzespredigt</term>.<note xml:id="n68"> Vgl. den Luther
 zitierenden Art. V,12: «‚Es ist alles des Gesetzes Predigt, was da von unsern
 Sünden und Gottes Zorn prediget, es geschehe wie oder wann es
 wolle. […] Ja, was ist vor ein ernstlicher, schrecklicher
@@ -1588,23 +1589,23 @@ Menschen gesagt hat, sagt und sagen wird. Das ist die Basis, auf der
 <persName ref="kbga-actors-77">Calvin</persName> das <term ref="kbga-terms-48">Apostolische Glaubensbekenntnis</term> erklärt
 hat. Von hier aus ist es unmöglich für ihn, dieses Glaubensbekenntnis
 auseinanderfallen zu lassen in eine Lehre vom Schöpfergott,
-Versöhnergott und Heiligen Geist.<note place="footnote" xml:id="n69"> Vgl. <bibl corresp="kbga-bibls-33">
+Versöhnergott und Heiligen Geist.<note xml:id="n69"> Vgl. <bibl corresp="kbga-bibls-33">
                                 Th.Calvins, 
-                                    <ref target="../volume/23/p217#p217" type="pub-">S. 217f</ref>.</bibl>: «Man darf
+                                    <ref target="../volume/23/p217#p217" type="pub-">S. 217f.</ref></bibl>: «Man darf
 sich […] dadurch nicht irre machen lassen, daß <persName ref="kbga-actors-77">Calvin</persName> in der
-letzten Auflage seines Werkes die ‚<foreign xml:lang="lat">Cognitio Dei creatoris</foreign>‘ und die ‚<foreign xml:lang="lat">Cognitio Dei <hi rend="i">redemptoris</hi>
+letzten Auflage seines Werkes die ‚<foreign xml:lang="lat">Cognitio Dei creatoris</foreign>‘ und die ‚<foreign xml:lang="lat">Cognitio Dei <hi rend="italic">redemptoris</hi>
 </foreign>‘ als Buch I und II sich gegenübergestellt hat. Ohne
-die biblische <hi rend="i">Offenbarung</hi>, die für den
+die biblische <hi rend="italic">Offenbarung</hi>, die für den
 <foreign xml:lang="lat">Deus redemptor</foreign> bezeichnend
 ist, gibt es für <persName ref="kbga-actors-77">Calvin</persName> keine wirkliche Erkenntnis des <foreign xml:lang="lat">Deus creator</foreign>, und es ist umgekehrt
-auch die Erkenntnis des Deus <foreign xml:lang="lat">redemptor</foreign> nichts Anderes als das <hi rend="i">schärfere</hi> und <hi rend="i">deutlichere</hi> Sehen der
+auch die Erkenntnis des Deus <foreign xml:lang="lat">redemptor</foreign> nichts Anderes als das <hi rend="italic">schärfere</hi> und <hi rend="italic">deutlichere</hi> Sehen der
 Offenbarung des <foreign xml:lang="lat">Deus creator</foreign>.
 Inhaltlich decken sich beide Erkenntnisse aufs genaueste […].»
-</note> <persName ref="kbga-actors-77">Calvin</persName> redet in allen <hi rend="i">drei</hi> Artikeln nur von
+</note> <persName ref="kbga-actors-77">Calvin</persName> redet in allen <hi rend="italic">drei</hi> Artikeln nur von
 dem Einen: von Jesus Christus, dem Fundament eines wirklichen Vertrauens
-zu Gott.<note place="footnote" xml:id="n70"> Vgl. <bibl corresp="kbga-bibls-476">
+zu Gott.<note xml:id="n70"> Vgl. <bibl corresp="kbga-bibls-476">
                                 <term ref="kbga-terms-2">
-                                    <hi rend="i">Genfer Katechismus</hi></term>, Frage 14</bibl> (s. oben, die letzte von <persName ref="kbga-actors-2151">Barth</persName> angeführte
+                                    <hi rend="italic">Genfer Katechismus</hi></term>, Frage 14</bibl> (s. oben, die letzte von <persName ref="kbga-actors-2151">Barth</persName> angeführte
 Frage), und Frage 89: «Was bringt er [der Glaube an den Heiligen
 Geist] uns? / Er zielt darauf ab, daß wir erkennen: So wie Gott
 uns durch den Sohn erlöst und gerettet hat, gibt er uns nun

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53043">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 41</title>
         <title type="content">Predigt: Jakobus 2,8-13 (II)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 2,8-13 (II), 5. Juni 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53043 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53043 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 41: Predigt: Jakobus 2,8-13 (II)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p470" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>41</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-06-05">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-06-05">Sonntag, den
                             5. Juni 1910</date> <date rend="right">(2. nach Trinitatis)</date>
                     </dateline>
                     <epigraph>
@@ -106,7 +108,7 @@
                         <lg>
                             <l>Was du ererbt von deinen Vätern hast,</l>
                             <l>Erwirb es, um es zu besitzen.<note xml:id="n02">
-                                    von<bibl corresp="kbga-bibls-647"> <persName ref="kbga-actors-136">J. W. Goethe</persName>, <hi rend="i">Faust. Der Tragödie erster
+                                    von<bibl corresp="kbga-bibls-647"> <persName ref="kbga-actors-136">J. W. Goethe</persName>, <hi rend="italic">Faust. Der Tragödie erster
                                         Teil</hi>, V. 682f. (Nacht)</bibl>.</note>
                             </l>
                         </lg>
@@ -125,7 +127,7 @@
                     darüber, dass euch die Sache offenbar nicht so klar und selbstverständlich
                     vorgekommen ist wie mir. Aber bei näherer Besinnung musste ich mir dann
                     sagen, dass eure widerstrebende Empfindung doch ganz normal und erklärlich
-                    sei. <hi rend="i">Erstens</hi> darum, weil das 19. Jahrhundert, dessen Kinder wir
+                    sei. <hi rend="italic">Erstens</hi> darum, weil das 19. Jahrhundert, dessen Kinder wir
                     Alle sind, in Bezug auf diese Gedanken vielfach <anchor type="note" xml:id="fn-c"/>ein
                     Jahrhundert des Rückschritts, der Reaktion gewesen ist<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, bei allen Fortschritten der Wissenschaft und der Technik. Wenn wir
                     über Gesetz und Freiheit nachdenken und reden, dann geht es uns ungefähr so,
@@ -139,7 +141,7 @@
                     Zusammenhänge<note type="textcritical" n="e" xml:id="ne" target="fn-e"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, die ich das letzte Mal zu entwickeln versucht habe, durchgedacht und
                     verstanden haben, <anchor type="note" xml:id="fn-f"/>um nachher<note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      zu entdecken, dass der Berg der eigentlichen Schwierigkeit immer noch
-                        <hi rend="i">vor</hi> einem liegt. Ich gestehe euch offen, dass es mir selbst
+                        <hi rend="italic">vor</hi> einem liegt. Ich gestehe euch offen, dass es mir selbst
                     so geht. Man hat sich die Gedanken der innern Freiheit und des innern
                     Gesetzes angeeignet, man merkt deutlich: nun bin ich auf der richtigen Spur,
                     in dieser Richtung geht der Weg, der zu Gott führt, man freut sich, die
@@ -158,7 +160,7 @@
                             <l>Aus der Kirchen ehrwürdiger Nacht</l>
                             <l>Sind sie Alle ans Licht gebracht.<note xml:id="n04">
                                     <bibl corresp="kbga-bibls-647">
-                                        <persName ref="kbga-actors-136">Goethe</persName>, <hi rend="i">Faust</hi>
+                                        <persName ref="kbga-actors-136">Goethe</persName>, <hi rend="italic">Faust</hi>
                                     (Anm. 2), V. 927f. (Vor dem Tor).</bibl>
                                 </note>
                             </l>
@@ -173,12 +175,12 @@
                     freundliche Erinnerung, die aber nur in der Kirchen ehrwürdiger Nacht noch
                     Bedeutung hat, während draußen andre Gesetze gelten. Die andern kommen doch
                     nicht davon los, dass das, was sie erkannt und gesehen, das
-                        <hi rend="i">ewige</hi> Licht war, d. h. das Licht, das unser ganzes Leben
+                        <hi rend="italic">ewige</hi> Licht war, d. h. das Licht, das unser ganzes Leben
                     bestrahlen und erfüllen soll, aber umso gewaltiger erhebt sich vor ihnen die
                     Aufgabe, das ganze <term type="Sachen" key="Gesetz">Gesetz</term> und die
                     ganze <term type="Sachen" key="Freiheit">Freiheit</term> in ihrem ganzen
                     Leben zu würdiger Gestaltung zu bringen. Jedenfalls stehen wir Alle, gerade
-                        <hi rend="i">wenn</hi> wir die Aufgabe, die uns obliegt, durchschaut und
+                        <hi rend="italic">wenn</hi> wir die Aufgabe, die uns obliegt, durchschaut und
                     verstanden haben, vor der bohrenden und peinlichen Frage: Was nun? Die
                     Schwierigkeit dieser Frage besteht aber gerade darin, dass es eine Frage des
                     Willens und Lebens ist, viel mehr als eine Frage des reflektierenden
@@ -213,11 +215,11 @@
                 <p> Wenn wir uns heute über <term type="Sachen" key="Gesetz, Anwendung">Anwendung</term> und Erfüllung des <term type="Sachen" key="Gesetz, Erfüllung">Gesetzes</term> besinnen wollen, dann tritt uns
                     gleich am Anfang unsres Textabschnitts und am Anfang unsrer eigenen innern
                     Erfahrung die <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term>
+                            <hi rend="italic">Sünde</hi></term>
                     entgegen, dort das Wort und hier die Sache. Wenn ihr Ansehung der Person
                     übt, dann tut ihr <term type="Sachen" key="Sünde, Ansehung der Person">Sünde</term>, sagt uns <persName ref="kbga-actors-8959">Jakobus</persName>. Wenn ihr Halbe seid und nicht Ganze, dann tut ihr <term type="Sachen" key="Sünde, Halbheit">Sünde</term>, sagt uns die innere
                         <term type="Sachen" key="Erfahrung">Erfahrung</term>, wenn wir
-                    wenigstens gelernt haben, aufmerksam uns selbst zu beob<pb xml:id="p474" ed="pga"/>achten. Ich habe vor einigen Wochen in <placeName ref="kbga-places-66">Zürich</placeName> eine Predigt gehört, in der sich der Redner
+                    wenigstens gelernt haben, aufmerksam uns selbst zu beob<pb xml:id="p474" ed="pga" break="no"/>achten. Ich habe vor einigen Wochen in <placeName ref="kbga-places-66">Zürich</placeName> eine Predigt gehört, in der sich der Redner
                     eine halbe Stunde lang bemühte zu beweisen, es sei nichts mit diesem
                     Gedanken der Sünde, es handle sich dabei um einen traurigen Irrtum, den die
                         <term type="Sachen" key="Reformatoren">Reformatoren</term> und später
@@ -248,7 +250,7 @@
                     Reformator die rechten Menschen und <term type="Sachen" key="Christen, freie Königskinder">Christen</term>.<note xml:id="n06">
                             <bibl corresp="kbga-bibls-1302">
                                 <persName ref="kbga-actors-261">M. Luther</persName>,
-                            <hi rend="i">Von der Freiheit eines Christenmenschen</hi>, WA 7,
+                            <hi rend="italic">Von der Freiheit eines Christenmenschen</hi>, WA 7,
                         36,20–27</bibl>: «Und Christus Matt. 17. Da von seynen Jüngern ward
                         tzynß pfennig gefoddert, disputiert er mit St. Peter, ob nit künigs
                         kynder frey weren zynß zu geben, […]. Das ist ein feyn exempell
@@ -256,10 +258,10 @@
                         nennett, die keynis dings bedurffen, und doch sich unterlessit
                         williglich, dient und gibt den tzynß.»</note> Aber nun mussten wir eben
                     konstatieren, dass dieser Zustand bei uns keineswegs erreicht ist, vielmehr
-                    als eine <hi rend="i">Aufgabe</hi> vor uns liegt. So hat auch Luther seine
+                    als eine <hi rend="italic">Aufgabe</hi> vor uns liegt. So hat auch Luther seine
                     Schilderung verstanden. Warum entspricht die Wirklichkeit dem <term type="Sachen" key="Ideal, und Wirklichkeit">Ideal</term> nicht? Warum
                     sind wir nicht, was wir sein sollen? Die <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term> steht im Weg, sagte schon <persName ref="kbga-actors-313">Paulus</persName>, sagte <persName ref="kbga-actors-261">Luther</persName>, sagten die <term type="Sachen" key="Pietisten">Pietisten</term>, sagten alle <pb xml:id="p475" ed="pga"/>
+                            <hi rend="italic">Sünde</hi></term> steht im Weg, sagte schon <persName ref="kbga-actors-313">Paulus</persName>, sagte <persName ref="kbga-actors-261">Luther</persName>, sagten die <term type="Sachen" key="Pietisten">Pietisten</term>, sagten alle <pb xml:id="p475" ed="pga"/>
                     Leute, die den Dingen auf den Grund gingen und nicht obenhin redeten. Sie
                     meinten damit den bösen <term type="Sachen" key="Wille, böser">Willen</term>, der im Menschen ist und der es nicht zur <term type="Sachen" key="Gesetz, Anwendung">Anwendung</term> und Erfüllung des <term type="Sachen" key="Gesetz, Erfüllung">Gesetzes</term> kommen lässt oder
                     doch nur zu Halbheiten. Wenn man dem lieber einen andern Namen gibt, so ist
@@ -271,24 +273,24 @@
                     Aufgabe, wo aber keine Aufgabe ist, da ist auch keine Antwort. Nimmt man es
                     aber mit der <term type="Sachen" key="Wahrheit">Wahrheit</term> genau, so
                     wird wohl auch der rechte <term type="Sachen" key="Optimismus, rechter ">Optimismus</term> dabei nicht zu kurz kommen.</p>
-                <p>So wollen wir versuchen, die Wurzeln dieses <hi rend="i">Gegensatzes</hi> in uns
+                <p>So wollen wir versuchen, die Wurzeln dieses <hi rend="italic">Gegensatzes</hi> in uns
                     bloßzulegen, und wenn uns das gelingt, dann sehen wir vielleicht auch den
-                    Weg zu seiner <hi rend="i">Überwindung</hi>. Die Erkenntnis <anchor type="note" xml:id="fn-l"/>des
+                    Weg zu seiner <hi rend="italic">Überwindung</hi>. Die Erkenntnis <anchor type="note" xml:id="fn-l"/>des
                         <pb ed="A" rend="hidden" n="7"/> Negativen und des Positiven<note type="textcritical" n="l" xml:id="nl" target="fn-l"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      darf eben in den letzten großen Fragen des innern Lebens nicht
                     nebeneinander stehen, sondern es muss die positive Erkenntnis aus der
                     negativen hervortreten wie bei der photographischen Platte, von der wir bei
                     einem frühern Anlass geredet.<note xml:id="n07">Siehe oben,
-                            <ref type="pub" target="../volume/53/p325#p325">S. 325f</ref>.</note>
+                            <ref type="pub" target="../volume/53/p325#p325">S. 325f.</ref></note>
                     </p>
                 <p>
                     <persName ref="kbga-actors-8959">Jakobus</persName> charakterisiert die <term type="Sachen" key="Sünde">Sünde</term> oder die Übertretung des <term type="Sachen" key="Sünde, Übertretung des Gesetzes">Gesetzes</term>
-                    dadurch, dass er sagt, <hi rend="i">der Mensch fehle dabei in einem Stücke</hi>,
+                    dadurch, dass er sagt, <hi rend="italic">der Mensch fehle dabei in einem Stücke</hi>,
                     er mache irgend eine Ausnahme von der Regel. Er richtet seine Mahnung an
                     Leute, die das ganze Gesetz zu halten, ja die als Christen auch das
                     königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term> der
                         <term type="Sachen" key="Nächstenliebe">Liebe</term> zu erfüllen meinen.
-                    Aber ihr <hi rend="i">übt Ansehung der <term type="Sachen" key="Nächstenliebe, mit Ansehung der Person">Person</term></hi>,
+                    Aber ihr <hi rend="italic">übt Ansehung der <term type="Sachen" key="Nächstenliebe, mit Ansehung der Person">Person</term></hi>,
                     sagt er ihnen, und meint damit jene unterschiedliche Behandlung des Armen
                     und des Reichen im Gottesdienst. Es handelt sich also bei dem einen Stück,
                     in dem sie fehlen, um eine ganz geringfügige Sache, jene kleine Szene war
@@ -297,7 +299,7 @@
                     braucht, dass er gleich auf die oberste Instanz <pb xml:id="p476" ed="pga"/>
                     verweist, auf Gott und sein Gesetz, statt ihnen vielleicht eine Belehrung
                     über christliche Schicklichkeit zu geben. Dass er fortfahren kann, wie wenn
-                    es sich um Mord oder Ehebruch handeln würde: <hi rend="i">Der da sprach: Du sollst
+                    es sich um Mord oder Ehebruch handeln würde: <hi rend="italic">Der da sprach: Du sollst
                         nicht ehebrechen, sprach auch: Du sollst nicht töten. Wenn du nun zwar
                         nicht ehebrichst, tötest aber, so bist du ein Übertreter des Gesetzes
                         geworden</hi>. Wie gesagt: Die feierliche und umständliche Behandlung
@@ -398,17 +400,17 @@
                     Fische das Netz passieren trotz der Maschen. Einen solchen Fall haben wir
                         <pb ed="A" rend="hidden" n="11"/> z. B. in der im Jakobusbrief erwähnten
                     Szene vom Armen und Reichen vor uns, von der den Christen zu ihrem und
-                    unserm Erstaunen gesagt wird, dass dabei <hi rend="i">gesündigt</hi> worden sei,
+                    unserm Erstaunen gesagt wird, dass dabei <hi rend="italic">gesündigt</hi> worden sei,
                     während sie und wir befriedigt konstatieren zu können glaubten, es sei doch
                     noch lange keines der Zehn Gebote verletzt dadurch, dass einem armen Mann
                     kein Stuhl angeboten wird.</p>
                 <p> Was ist denn das, was <persName ref="kbga-actors-8959">Jakobus</persName>
                     hier <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term> nennt und von
+                            <hi rend="italic">Sünde</hi></term> nennt und von
                     dem ich soeben gesagt habe, dass uns dabei der Tod im Nacken sitzt, wenn wir
-                        <hi rend="i">so</hi> argumentieren? Es ist das: All die guten Gebote und
+                        <hi rend="italic">so</hi> argumentieren? Es ist das: All die guten Gebote und
                     Verbote, nach denen wir uns da einrichten oder einzurichten behaupten,
-                    stehen dabei in unserm innern <term type="Sachen" key="Leben, inneres">Leben</term> als ein <hi rend="i">fremdes</hi> Element, dem wir uns zwar
+                    stehen dabei in unserm innern <term type="Sachen" key="Leben, inneres">Leben</term> als ein <hi rend="italic">fremdes</hi> Element, dem wir uns zwar
                     unterwerfen, das wir uns aber nicht angeeignet haben. Wir gehorchen ihnen
                     zwar, aber wir gehorchen ihnen, wie die Schulkinder den Ordnungen der Schule
                     und des Lehrers gehorchen, nämlich so, dass unser innerster Wille eigentlich
@@ -425,11 +427,11 @@
                     selbstverständlich für gewöhnlich nicht entziehen, in der andern stehen wir
                     selbst mit dem, was uns eigentlich beschäftigt und interessiert. Mit einem
                     Wort: Die sittlichen <term type="Sachen" key="Gebote, sittliche">
-                            <hi rend="i">Gebote</hi></term>, die wir kennen und für gewöhnlich auch
-                    anerkennen, sind <hi rend="i">nicht</hi> unser <hi rend="i">Eigentum</hi>, und der
-                        <hi rend="i">Gehorsam</hi>, den wir ihnen leisten, ist <hi rend="i">nicht</hi> der
+                            <hi rend="italic">Gebote</hi></term>, die wir kennen und für gewöhnlich auch
+                    anerkennen, sind <hi rend="italic">nicht</hi> unser <hi rend="italic">Eigentum</hi>, und der
+                        <hi rend="italic">Gehorsam</hi>, den wir ihnen leisten, ist <hi rend="italic">nicht</hi> der
                     Gehorsam unsres Willens, unsrer <term type="Sachen" key="Persönlichkeit">
-                            <hi rend="i">Persönlichkeit</hi></term>.</p>
+                            <hi rend="italic">Persönlichkeit</hi></term>.</p>
                 <p>Mit dieser doppelten Buchführung kann nur ein Kind eine Zeit <pb ed="A" rend="hidden" n="12"/> lang froh und zufrieden dahinleben, sobald es
                     heranwächst zum Mann und zur Frau, hört das auf. Denn es erwächst dann zu
                     dem wachen, selbständigen <term type="Sachen" key="Mensch, selbständiges Bewusstsein">Bewusstsein</term>, das den
@@ -439,7 +441,7 @@
                     Beunruhigungen und Kämpfe, aus denen heraus erst das geboren werden und
                     wachsen muss, was des Menschen innere Bestimmung ist. Denn dies Bewusstsein,
                     das den Menschen erst zum Menschen macht, verlangt vor Allem innere <term type="Sachen" key="Bewusstsein, verlangt innere Einheit">
-                            <hi rend="i">Einheit</hi></term> des Denkens und des Willens. Es erträgt
+                            <hi rend="italic">Einheit</hi></term> des Denkens und des Willens. Es erträgt
                     es nicht auf die Länge, dass unser Wille im tiefsten Grund seinen eigenen
                     Weg geht, vorbei an jenen sittlichen Geboten, die als ein fremdes Eigentum
                     in unserm innern <term type="Sachen" key="Leben, inneres">Leben</term>
@@ -466,26 +468,26 @@
                     eigentlichen Lebens mit den kleinen und großen Fischen, die er trägt,
                     zwischen den Maschen ihres Netzes hindurchgeht, dass unser Wille in Wahrheit
                     etwas Anderes ist als Gehorsam gegen ihre Forderungen. Und sowie wir dessen
-                    einmal gewahr werden, dass unser Wille und Geist <hi rend="i">etwas Anderes</hi>
+                    einmal gewahr werden, dass unser Wille und Geist <hi rend="italic">etwas Anderes</hi>
                     ist als der gute Wille und Geist, der aus jenen Forderungen unverkennbar zu
                     uns redet, müssen wir auch konstatieren, dass unser Wille <term type="Sachen" key="Wille, böser">böse</term> ist, denn sowie wir auch
                     nur im geringsten Grade auf den guten <term type="Sachen" key="Wille, guter">Willen</term> und Geist aufmerksam geworden sind, müssen wir uns sagen,
                     dass jene Forderungen im Unterschiede zu allen konventionellen
                     Schicklichkeitsregeln nicht in erster Linie unsre Gebärden und Handlungen,
-                    sondern <hi rend="i">uns selbst</hi> in Anspruch nehmen, dass wir sie in
-                    Wirklichkeit <hi rend="i">nicht</hi> befolgen, solange sie nicht unser Eigentum
+                    sondern <hi rend="italic">uns selbst</hi> in Anspruch nehmen, dass wir sie in
+                    Wirklichkeit <hi rend="italic">nicht</hi> befolgen, solange sie nicht unser Eigentum
                     sind, ja solange sie nicht als absolute und <anchor type="note" xml:id="fn-y"/>kategorische
                     Gebote aus unserm eigenen Innenleben hervorgegangen sind, wie die Knochen
                     wachsen und sich bilden<note type="textcritical" n="y" xml:id="ny" target="fn-y"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      aus der <term type="Sachen" key="Lebenskraft">Lebenskraft</term> des
                     Körpers heraus. Und wir müssen dann konstatieren, dass unser Wille solange
-                        <hi rend="i">böse</hi>, <hi rend="i">sündig</hi> ist, als das Gesetz, dem wir
+                        <hi rend="italic">böse</hi>, <hi rend="italic">sündig</hi> ist, als das Gesetz, dem wir
                     gehorchen wollen, bloß ein Netzwerk ist mit engern oder weitern Maschen und
                     nicht eine eherne Mauer.</p>
                 <p> Zu dieser Erkenntnis hat <persName ref="kbga-actors-8959">Jakobus</persName>
                     seine Christen aufrufen wollen, als er ihnen sagte, in scheinbar so
                     übertreibender Weise sagte, sie hätten <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term> getan, indem sie dort den Armen und den
+                            <hi rend="italic">Sünde</hi></term> getan, indem sie dort den Armen und den
                     Reichen in jener Bagatellsache ungleich behandelten. Ihr meint Christen zu
                     sein, sagt er ihnen, ihr meint, Gottes Gesetz zu kennen, aber dabei tut ihr,
                     als ob Gottes Gesetz ein menschliches <term type="Sachen" key="Gesetz, göttliches und menschliches">Gesetzbuch</term> sei, mit
@@ -497,23 +499,23 @@
                     Gesetz verstoßen, das wisst ihr, aber wenn ihr behauptet, nichts davon zu
                     wissen, wie <pb ed="A" rend="hidden" n="14"/> es mit jener kleinen
                     Unfreundlichkeit steht, weil davon nichts geschrieben und geboten ist, dann
-                        <hi rend="i">tut ihr Sünde</hi>, denn das beweist, dass Gottes Gesetz noch
+                        <hi rend="italic">tut ihr Sünde</hi>, denn das beweist, dass Gottes Gesetz noch
                     nicht die grundgewaltige Einheit eures Lebens geworden ist, eine <term type="Sachen" key="Gesetz, göttliches G. ist ein Ganzes">Einheit</term>,
                     die keine Lücken kennt, weder große noch kleine, sondern dass euer Wille,
                     euer innerstes persönliches <term type="Sachen" key="Leben, inneres">Leben</term> noch seine eigenen Wege geht, Wege, die an Gott vorbei
                     führen, und das sind eben die Wege der Sünde.</p>
                 <p>Meine Freunde! Wenn wir diese Gedanken des Jakobus verstanden haben, wenn wir
                     es empfunden und gemerkt haben, dass er damit das zufriedene Christenleben
-                    seiner Leser oder Zuhörer allen Ernstes hat <hi rend="i">beunruhigen</hi> wollen
+                    seiner Leser oder Zuhörer allen Ernstes hat <hi rend="italic">beunruhigen</hi> wollen
                     und dass sie auch uns beunruhigen sollen, dann sind wir heute dem
                     Verständnis des Gesetzes der <term type="Sachen" key="Gesetz, der Freiheit">Freiheit</term> vielleicht doch einen Schritt näher gerückt. Denn wenn
                     es des <persName ref="kbga-actors-8959">Jakobus</persName> Meinung ist, dass
-                    das das Wesen der Sünde, des <hi rend="i">bösen <term type="Sachen" key="Wille, böser">Willens</term></hi> sei, wenn wir Gottes Gebote <hi rend="i">wörtlich</hi><note type="textcritical" n="aa" xml:id="naa"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
+                    das das Wesen der Sünde, des <hi rend="italic">bösen <term type="Sachen" key="Wille, böser">Willens</term></hi> sei, wenn wir Gottes Gebote <hi rend="italic">wörtlich</hi><note type="textcritical" n="aa" xml:id="naa"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
                          nehmen, um sie <anchor type="note" xml:id="fn-ab"/>
-                        <hi rend="i">nicht ernst</hi><note type="textcritical" n="ab" xml:id="nab" target="fn-ab"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
+                        <hi rend="italic">nicht ernst</hi><note type="textcritical" n="ab" xml:id="nab" target="fn-ab"> Im Mskr. nachträglich mit blauem Stift unterstrichen.</note>
                         
                     <term type="Sachen" key="Sünde, Gebote wörtlich aber nicht ernst nehmen">nehmen</term> zu müssen, so wird er offenbar den Willen
-                        <hi rend="i">gut</hi> nennen, der Gottes Gebote ernst nimmt, d. h. der sie
+                        <hi rend="italic">gut</hi> nennen, der Gottes Gebote ernst nimmt, d. h. der sie
                     versteht und ergreift als den zusammenhängenden lückenlosen Ausdruck des
                     guten göttlichen <term type="Sachen" key="Gebote, Ausdruck des guten göttlichen Geistes">Geistes</term>, der
                     dann unsern Geistern nicht mehr gegenübersteht als fremdes Element, sondern
@@ -521,7 +523,7 @@
                     Siehe da, eine Hütte Gottes unter den Menschen! 
                     <ref type="can" subtype="bible" target="Apk.21.3">[Apk. 21,3</ref>]</p>
                 <p>
-                        <hi rend="i">So redet und so handelt wie Leute, welche durch das Gesetz der Freiheit
+                        <hi rend="italic">So redet und so handelt wie Leute, welche durch das Gesetz der Freiheit
                         gerichtet werden sollen!</hi> Die Gedanken über den Wert und Unwert
                     unsres Handelns, die in diesem Satz und dem nächstfolgenden verborgen sind,
                     werden uns das nächste Mal zu beschäftigen haben, so dass wir also ein
@@ -542,7 +544,7 @@
                         Ob er denn am Ende gar nichts spielen konnte? – Ja, einen
                         gewissen Erfolg hatte die Bemühung doch. Gegen Ende seiner Schulung sei
                         er bis zum E-Dur-Violin-Konzert von Bach vorgedrungen» (<bibl corresp="kbga-bibls-1234"><persName ref="kbga-actors-1513">E. Busch</persName>,
-                            <hi rend="i">Meine Zeit mit Karl Barth. Tagebücher 1965–1968</hi>,
+                            <hi rend="italic">Meine Zeit mit Karl Barth. Tagebücher 1965–1968</hi>,
                         Göttingen 2011, S. 632</bibl>).</note> Aber seine und meine Bemühungen sind
                     leider gescheitert, und ich habe es bis zuletzt nur zu einem unschönen,
                     jämmerlichen Kratzen gebracht. Es zeigte sich nämlich, dass die Arbeit
@@ -565,15 +567,15 @@
                     Wirklichkeit Tatlosigkeit, in Wirklichkeit <term type="Sachen" key="Gehorsam, äußerlicher G. ist Sünde">Sünde</term>.</p>
                 <p>Und wenn wir durch diese Erkenntnis vor die geheimnisvolle Tatsache geführt
                     werden, dass unser verborgenstes inneres Leben anders <pb xml:id="p484" ed="pga"/>
-                    sein müsste, damit Gottes Gesetz <hi rend="i">wirklich</hi> von uns angewendet
+                    sein müsste, damit Gottes Gesetz <hi rend="italic">wirklich</hi> von uns angewendet
                     und erfüllt werde, dann stehen wir auf dem Punkte, auf dem uns der tiefe
                     Gedanke des <persName ref="kbga-actors-313">Paulus</persName> und der <term type="Sachen" key="Reformatoren">Reformatoren</term> deutlich wird, dass
                     der <term type="Sachen" key="Mensch, gerecht allein aus Gnade">Mensch</term>
-                    gerecht werde <hi rend="i">allein aus <term type="Sachen" key="sola gratia">Gnade</term></hi>.</p>
+                    gerecht werde <hi rend="italic">allein aus <term type="Sachen" key="sola gratia">Gnade</term></hi>.</p>
                     <q rend="block">
                         <lg>
                             <l>Ich kann nicht selbst der Sünde steuern,</l>
-                            <l>Das ist <hi rend="i">dein</hi> Werk, du Quell des Lichts.</l>
+                            <l>Das ist <hi rend="italic">dein</hi> Werk, du Quell des Lichts.</l>
                             <l>Du musst von Grund aus mich erneuern,</l>
                             <l>Sonst hilft mein eignes Wirken nichts.</l>
                             <l>O Geist, sei meines Geistes Leben!</l>

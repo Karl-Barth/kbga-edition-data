@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1089">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 87</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 4. April 1934</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1089 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1089 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 146.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">87</title>
+          <title type="text">Brief Nr. 87: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -103,7 +104,7 @@
         <p>Leider habe ich Ihre Ferienadresse vergessen, hoffe aber, daß diese Karte Sie erreicht.
           Ich bleibe bis zum <date when="1934-04-15">15.IV.</date> hier und wollte fragen, ob wir, falls Sie innerhalb
           dieser Zeit oder unmittelbar danach nach <placeName ref="kbga-places-10">Bonn</placeName>
-          zurückkehren, <hi rend="i">hier</hi> (in <placeName ref="kbga-places-70">Wiesbaden</placeName>) eine kleine Konferenz abhalten wollen. <persName ref="kbga-actors-362">Schlier</persName> würde dazu von <placeName ref="kbga-places-41">Marburg</placeName> herüberkommen; auch <persName ref="kbga-actors-388">v.
+          zurückkehren, <hi rend="italic">hier</hi> (in <placeName ref="kbga-places-70">Wiesbaden</placeName>) eine kleine Konferenz abhalten wollen. <persName ref="kbga-actors-362">Schlier</persName> würde dazu von <placeName ref="kbga-places-41">Marburg</placeName> herüberkommen; auch <persName ref="kbga-actors-388">v.
             Soden</persName>, wenn er dann schon aus <placeName ref="kbga-places-35">Italien</placeName> zurück ist. Ebenso könnte vielleicht aus <placeName ref="kbga-places-10">Bonn</placeName> einer der Kollegen kommen. — Die äußeren
           Bedingungen für ein Zusammensein sind hier sehr angenehm, und ich erfreue mich ihrer in
           den 4 Wochen meiner hiesigen Kur.</p>

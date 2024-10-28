@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53055">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 53</title>
         <title type="content">Predigt: Matthäus 16,26</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 16,26, 20. November 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53055 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53055 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 53: Predigt: Matthäus 16,26</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p659" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>53</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-11-20">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-11-20">Sonntag, den
                             20. November 1910</date> <date rend="right">(26. nach Trinitatis)</date> 
                     </dateline>
                     <epigraph>
@@ -117,12 +119,12 @@
                     sei das eigentlich wichtige, während das, was man die Seele nenne, mehr eine
                     Art Begleitungsmusik sei. Aber ob man nun so oder so Ordnung geschafft habe,
                     diese Ordnung ist auf alle Fälle nur ein Anfang, sie haben
-                        <hi rend="i">begonnen</hi> damit, Ordnung zu schaffen. Denn die
-                        <hi rend="i">einen</hi> werden sich, wenn sie aufrichtig sind, immer wieder
+                        <hi rend="italic">begonnen</hi> damit, Ordnung zu schaffen. Denn die
+                        <hi rend="italic">einen</hi> werden sich, wenn sie aufrichtig sind, immer wieder
                     sagen müssen, dass es in ihrem Leben noch sehr geräumige Winkel gebe, wo die
                         <term type="Sachen" key="Welt">Welt</term> zuvorderst steht und nicht
                     die <term type="Sachen" key="Seele">Seele</term>, und die
-                        <hi rend="i">andern</hi> gestehen es vielleicht nicht ein, aber es ist doch
+                        <hi rend="italic">andern</hi> gestehen es vielleicht nicht ein, aber es ist doch
                     wahr, die andern haben ihrerseits gewisse halb unbewusste Falten ihres
                     Herzens, wo die Ordnung noch nicht hergestellt ist, wo eine Stimme sich
                     geltend macht, die behauptet, die Seele sei das eigentlich Wichtige. Und
@@ -180,8 +182,8 @@
                     Jesu in der Übersetzung von <persName ref="kbga-actors-261">Luther</persName> wiedergegeben, weil es den meisten von uns wohl in dieser
                     Form vertraut und bekannt ist. Wenn ihr eine neuere Übersetzung des Neuen
                     Testaments in die Hand nehmen würdet, so würdet ihr finden, dass dort an
-                    Stelle des Wortes «Seele» das Wort <hi rend="i">Leben</hi> steht.<note xml:id="n01">So z. B.: <bibl corresp="kbga-bibls-2412">
-                                <hi rend="i">Das Neue Testament</hi>,
+                    Stelle des Wortes «Seele» das Wort <hi rend="italic">Leben</hi> steht.<note xml:id="n01">So z. B.: <bibl corresp="kbga-bibls-2412">
+                                <hi rend="italic">Das Neue Testament</hi>,
                         übersetzt von C. Weizsäcker, Tübingen 1903<hi rend="sup">9</hi>,
                         S. 20</bibl>.</note> Das ist genauer übersetzt, und es erklärt auch deutlicher
                     und allgemeiner, wovon die Rede ist: Was hülfe es dem <pb xml:id="p662" ed="pga"/>
@@ -201,9 +203,9 @@
                     gibt, dass er nicht daran denkt, eine Aufzählung weltlicher Dinge zu machen.
                     Das überlässt er uns und sagt nur: Die Welt <pb ed="A" rend="hidden" n="5"/> ist
                     Alles das, was ihr erhalten wollt, das, woran ihr Interesse habt, das, wovon
-                    ihr sagt: <hi rend="i">ich</hi> möchte das haben, behalten, besitzen, genießen.
+                    ihr sagt: <hi rend="italic">ich</hi> möchte das haben, behalten, besitzen, genießen.
                     Das Alles ohne jede Ausnahme ist die <term type="Sachen" key="Welt">Welt</term>. Und nun merkt wohl auf: Die <term type="Sachen" key="Seele">Seele</term> fängt genau an dem Punkt an, wo das Interesse
-                    aufhört, wo die Frage: was möchte <hi rend="i">ich</hi> haben, behalten,
+                    aufhört, wo die Frage: was möchte <hi rend="italic">ich</hi> haben, behalten,
                     besitzen, genießen? zum Schweigen kommt.</p>
                 <p> Jesu Meinung über diese zwei Dinge, die Welt und die <term type="Sachen" key="Seele, und Welt">Seele</term>, ist also die: Was hilft es einem
                     Menschen, wenn er darauf ausgeht, die ganze Welt zu gewinnen, alles dessen
@@ -213,7 +215,7 @@
                     verloren? Stellt es den Preis, den Gegenwert dessen dar, worauf er
                     verzichtet? Antwort: Nichts ist unter all dem Gewonnenen, was das Verlorene
                     ersetzen könnte. Ein Leben, das regiert ist von dem Gesichtspunkt:
-                        <hi rend="i">Ich</hi> interessiere mich für dies und das, für die ganze Welt
+                        <hi rend="italic">Ich</hi> interessiere mich für dies und das, für die ganze Welt
                     meinetwegen, ein solches Leben hat rettungslos Nicht-Leben, Lebensverlust,
                         <term type="Sachen" key="Tod">Tod</term> zur Folge.</p>
                 <p>Meine Freunde! Ich würde gerne wissen, was in eurem Innern vorgegangen ist,
@@ -278,7 +280,7 @@
                     steht.</p>
                 <p>Wenn wir heute einmal ganz unten anfangen wollen, so wäre da vor Allem das
                     Interesse an der <term type="Sachen" key="Gesundheit">
-                            <hi rend="i">Gesundheit</hi></term> zu nennen. Ich habe es schon öfters
+                            <hi rend="italic">Gesundheit</hi></term> zu nennen. Ich habe es schon öfters
                     aus dem Munde armer Leute gehört: die Gesundheit sei doch das Beste im
                     Leben. Das sagen aber nicht nur arme Leute, deren Gesundheit wirklich ihr
                     einziges irdisches Gut ist, das ist ein Evangelium, das mit allerlei
@@ -297,22 +299,22 @@
                         Körperkult, eine «gesunde» Ernährung und Lebensweise waren zentrale
                         Schlagworte der Lebensreform-Bewegung in den Jahren vor und unmittelbar
                         nach dem Ersten Weltkrieg; vgl. <bibl corresp="kbga-bibls-2817">
-                                <persName ref="kbga-actors-9321">B. Wedemeyer-Kolwe</persName>, <hi rend="i">Aufbruch.
+                                <persName ref="kbga-actors-9321">B. Wedemeyer-Kolwe</persName>, <hi rend="italic">Aufbruch.
                             Die Lebensreform in Deutschland</hi>, Darmstadt 2017, bes.
-                        S. 27–31.92–106</bibl>.</note> Das ist ja nun sehr schön, wir wer<pb xml:id="p665" ed="pga"/>den nichts dagegen einzuwenden haben, im
+                        S. 27–31.92–106</bibl>.</note> Das ist ja nun sehr schön, wir wer<pb xml:id="p665" ed="pga" break="no"/>den nichts dagegen einzuwenden haben, im
                     Gegenteil, wir werden sagen: Recht so, wir sind auch dabei, weil wir wissen,
                     dass die Gesundheit des äußern und innern Menschen viel enger
                     zusammenhängen, als man gewöhnlich denkt. Aber wenn man uns nun fragt, ob
-                    Gesundsein schon <hi rend="i">Leben</hi>
+                    Gesundsein schon <hi rend="italic">Leben</hi>
                     <term type="Sachen" key="Leben, und Gesundheit">heiße</term>, so ist die
                     Antwort für jeden, der auch nur eine Spanne lang denken kann, sehr einfach.
                     Müsste man sich nicht beim Anblick jener Ringkämpferbilder ängstlich fragen,
-                    wie mag es in diesen <hi rend="i">Köpfen</hi> aussehen? Wenn ich Gott sei Dank
+                    wie mag es in diesen <hi rend="italic">Köpfen</hi> aussehen? Wenn ich Gott sei Dank
                     gesund bin und es zu bleiben hoffe, so ist das ein Gut, das ich mit einem
                     gesunden Pferd gemeinsam habe. Auch der ausgepichteste<note xml:id="n04">Umgangssprachlich für: «der erfahrenste», «der
                         gewiefteste».</note>
                     <term type="Sachen" key="Materialismus">Materialist</term> wird aber nicht
-                    der Meinung sein, dass das <hi rend="i">Leben</hi> das sei, was der Mensch mit
+                    der Meinung sein, dass das <hi rend="italic">Leben</hi> das sei, was der Mensch mit
                     dem Tiere gemeinsam hat. Ein schöner Rahmen ist eine <pb ed="A" rend="hidden" n="8"/> gute Sache, wenn aber kein Bild darin ist, so werden wir doch
                     nur mit sehr kühler Bewunderung davorstehen. Ein Mensch, der nur an seine
                         <term type="Sachen" key="Gesundheit">Gesundheit</term> denkt, lässt uns
@@ -324,9 +326,9 @@
                     fest, wenn wir nun in der Welt der Interessen einige Stufen höher
                     steigen.</p>
                 <p>Wir kommen zum Interesse am <term type="Sachen" key="Vergnügen">
-                            <hi rend="i">Vergnügen</hi>s</term>. Des Interesses an der bloßen
+                            <hi rend="italic">Vergnügen</hi>s</term>. Des Interesses an der bloßen
                     «bäurischen <term type="Sachen" key="Gesundheit, bäuerische">Gesundheit»</term>, wie <persName ref="kbga-actors-301">Nietzsche</persName> das nennt,<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-2818">
-                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="i">Unzeitgemäße
+                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="italic">Unzeitgemäße
                             Betrachtungen. Erstes Stück: David Strauss: Der Bekenner und der
                             Schriftsteller</hi>, Sämtliche Werke. Kritische Studienausgabe in
                         15 Bänden, hrsg. von G. Colli / M. Montinari, Bd. 1, München / Berlin
@@ -367,13 +369,13 @@
                     Alten. Man kann oft reife und erfahrene Leute mit einer Wärme und
                     Begeisterung von einem Menu reden hören oder von irgend einer Speise, die
                     sie vielleicht vor Jahren dort und dort genossen, dass man sich kaum des
-                    Eindrucks erwehren kann, <hi rend="i">hier</hi> stecke ihre eigentliche <term type="Sachen" key="Seele">Seele</term>, <hi rend="i">hier</hi> sei ihr
+                    Eindrucks erwehren kann, <hi rend="italic">hier</hi> stecke ihre eigentliche <term type="Sachen" key="Seele">Seele</term>, <hi rend="italic">hier</hi> sei ihr
                     innerstes Leben beteiligt, während sie für allerlei Anderes, das sie selbst
                     theoretisch als wichtiger anerkennen, nicht annähernd solchen Eifer
                     aufzubringen pflegen. Und es dürfte sehr wenig Menschen geben, die sich
                     nicht sagen müssten, dass auch bei ihnen wenigstens in bestimmten
-                    Lebensbeziehungen das Amüsement das eigentlich do<pb xml:id="p667" ed="pga"/>minierende Element ist. Jesus sagt, ob es uns gefällt oder nicht: was hülfe
-                    es dem Menschen, wenn er <hi rend="i">alle</hi> seine Vergnügungsinteressen
+                    Lebensbeziehungen das Amüsement das eigentlich do<pb xml:id="p667" ed="pga" break="no"/>minierende Element ist. Jesus sagt, ob es uns gefällt oder nicht: was hülfe
+                    es dem Menschen, wenn er <hi rend="italic">alle</hi> seine Vergnügungsinteressen
                     befriedigte? Nichts hülfe es ihm. Denn auch das größte Wohlbehagen, das er
                     sich dadurch verschafft, führt ihn noch nicht über die Stufe des Tieres
                     hinaus, das Menschenleben hat damit noch nicht begonnen; denn der
@@ -381,7 +383,7 @@
                      Tier muss doch wohl in etwas Anderem bestehen als darin, dass der
                     Mensch sich sein Wohlbehagen in raffinierterer Weise zu verschaffen versucht
                     als das Tier.<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-1749">
-                                <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Ethik</hi>,
+                                <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Ethik</hi>,
                         Tübingen 1909<hi rend="sup">4</hi>, S. 28</bibl>: «Sobald wir also anfangen, zu
                         wollen, oder die Stufe tierischen Lebens zu verlassen, stellt sich die
                         Unmöglichkeit heraus, in irgend einem Moment das Verlangen nach Lust als
@@ -389,10 +391,10 @@
                         Lust, so würden wir uns selbst nicht beherrschen, also nicht wollen,
                         also nicht Menschen werden.»</note> Auch bei den ausgesuchtesten und
                     andauerndsten <term type="Sachen" key="Vergnügen">Vergnügungen</term> bleibt
-                    der Rahmen noch leer. Her mit dem <hi rend="i">Bild!</hi>
+                    der Rahmen noch leer. Her mit dem <hi rend="italic">Bild!</hi>
                     </p>
                 <p>Vom Vergnügungsinteresse kommen wir zum <term type="Sachen" key="Geld">
-                            <hi rend="i">Geld</hi>interesse</term>. Geld ist Macht. Geld haben heißt
+                            <hi rend="italic">Geld</hi>interesse</term>. Geld ist Macht. Geld haben heißt
                     das Leben haben. Diese Frage ist ernsthafter und komplizierter, als man
                     gewöhnlich denkt. Dadurch dass man einige schauderhafte Anekdoten von
                     unglücklichen Millionären und dergleichen erzählt, ist sie nicht abgetan.
@@ -437,7 +439,7 @@
                     streiten, was wertvoller ist, die Gelder oder der Inhalt des
                     Hamsterbaus.</p>
                 <p> <pb ed="A" rend="hidden" n="11"/> Aber es wird Zeit, dass wir uns zu der Welt der
-                    sogenannten <hi rend="i">höhern</hi>
+                    sogenannten <hi rend="italic">höhern</hi>
                     <term type="Sachen" key="Ideale">Interessen</term> wenden. Vielleicht, dass
                     Jesus hier Unrecht [hat], und wir mit unserm Widerspruch Recht behalten.</p>
                 
@@ -447,7 +449,7 @@
                     Güter des <term type="Sachen" key="Ideale, und Leben">Menschenlebens</term>?
                     Sollte das Alles noch nicht das Leben selbst sein?</p>
                 <p>Die <term type="Sachen" key="Freiheit">
-                            <hi rend="i">Freiheit</hi></term>. Freiheit
+                            <hi rend="italic">Freiheit</hi></term>. Freiheit
                         <anchor type="note" xml:id="fn-f"/>des Individuums<note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift unterschlängelt.</note>, der Persönlichkeit, zu tun und zu lassen nach eigenem Urteil und
                     Gutfinden, unabhängig sein von lästiger Bevormundung durch andre, selber
                     sein und selber werden. Das ist auch so ein Gut erst der <term type="Sachen" key="Freiheit, Gut der Neuzeit">Neuzeit</term>. Das Altertum und das
@@ -457,7 +459,7 @@
                     französische <term type="Sachen" key="Französische Revolution">Revolution</term> und <anchor type="note" xml:id="fn-g"/>die klassische Philosophie<note type="textcritical" n="g" xml:id="ng" target="fn-g"> Im Mskr. nachträglich mit Bleistift unterschlängelt.</note>
                     <term type="Sachen" key="Philosophie, klassische"/> haben hier eine
                     Umwälzung hervorgebracht. Sie haben uns die bürgerliche Freiheit, die <term type="Sachen" key="Freiheit, Gewissensfreiheit">Gewissensfreiheit</term>
-                    und die <term type="Sachen" key="Freiheit, Gedankenfreiheit">Gedankenfreiheit</term> gebracht. Also: Freiheit, die <hi rend="i">ich</hi>
+                    und die <term type="Sachen" key="Freiheit, Gedankenfreiheit">Gedankenfreiheit</term> gebracht. Also: Freiheit, die <hi rend="italic">ich</hi>
                         meine,<note xml:id="n07">
                             <bibl corresp="kbga-bibls-2487">Beginn der ersten Strophe des
                         Gedichts «Freiheit» von M. von Schenkendorf</bibl>; vgl. oben, <ref type="pub" target="../volume/53/p060#fn_n05">S. 60,
@@ -483,7 +485,7 @@
                         Das Blaue Kreuz, das ist der Feind.» Eine Abbildung findet sich in: 
                             <bibl corresp="kbga-bibls-2820">
                                 <persName ref="kbga-actors-9322">M. Bröckers</persName> u. a.,
-                            <hi rend="i">Absinthe – Die Wiederkehr der Grünen Fee. Geschichten
+                            <hi rend="italic">Absinthe – Die Wiederkehr der Grünen Fee. Geschichten
                             und Legenden eines Kultgetränkes</hi>, Solothurn 2006,
                         S. 37</bibl>.</note> Deutlicher könnte man es gar nicht <pb xml:id="p670" ed="pga"/>
                     demonstrieren, dass das bloße Interesse an der persönlichen <term type="Sachen" key="Freiheit">Freiheit</term> auch wieder in einem kurzen
@@ -491,18 +493,18 @@
                         <term type="Sachen" key="Vergnügen">Vergnügen</term> zurückführt. Je
                     hochtrabender man da oft anfängt, desto kläglicher kann man enden. Wer da
                     schwärmt, sein Interesse am Leben sei seine Freiheit, soll sich nur recht
-                    klar machen, wozu er diese Freiheit, die <hi rend="i">er</hi> meint, brauchen
+                    klar machen, wozu er diese Freiheit, die <hi rend="italic">er</hi> meint, brauchen
                     will. Sie ist offenbar auch kein Zweck, sondern nur ein Mittel. Wenn man
                     einem Wildschwein seinen Käfig öffnet, so ist es damit auch frei; ich wollte
                     aber nicht dabei sein, wenn es seine Freiheit anwendet.</p>
                 <p>Die <term type="Sachen" key="Ehre">
-                            <hi rend="i">Ehre</hi></term>. Die Anerkennung,
+                            <hi rend="italic">Ehre</hi></term>. Die Anerkennung,
                     die Achtung, das Ansehen unter den Mitmenschen. <pb ed="A" rend="hidden" n="12"/>
                     Es ist die Würde des <term type="Sachen" key="Menschenwürde">Menschen</term>, die dieses Gut fordert. Wir Alle stehen lieber oben in der
                     Stufenleiter der Achtung der Andern als unten. Und so möchte es scheinen,
                     dass das recht eigentlich unser Lebensinteresse sei, unsre Ehre blank zu
                     erhalten vor den Andern. Aber nicht wahr, darin sind wir ja einig: es kommt
-                    doch sehr darauf an, <hi rend="i">wer</hi> diese Andern sind? Z. B. auf das
+                    doch sehr darauf an, <hi rend="italic">wer</hi> diese Andern sind? Z. B. auf das
                     Ehrgefühl, das der preußische Offizier und Korpsstudent bei seinesgleichen
                     voraussetzt, würden wir dankend verzichten. Was für ihn ehrenhaft oder
                     unehrenhaft ist, ist für uns vielleicht jedes Mal das Gegenteil. Wir lächeln
@@ -518,7 +520,7 @@
                     Letzte, Eigentliche im <term type="Sachen" key="Ehre, und Leben">Leben</term> sein, dann ist auch sie eine Form, die ihren Inhalt erst
                     bekommen muss.</p>
                 <p>Die <term type="Sachen" key="Freundschaft">
-                            <hi rend="i">Freundschaft</hi></term>
+                            <hi rend="italic">Freundschaft</hi></term>
                     endlich, und man könnte hinzufügen: die Liebe und die Ehe, die Bande
                     persönlicher Neigung, die den Menschen mit dem Menschen verbinden, sind sie
                     nicht ein Gut, das den Charakter <pb xml:id="p671" ed="pga"/> eines höchsten
@@ -555,7 +557,7 @@
                     die Welt ihm in dieser Beziehung bieten kann.</p>
                 <p>Wir steigen noch höher. Da sind die Interessen, die man die geistigen nennt.
                     Die <term type="Sachen" key="Wissenschaft">
-                            <hi rend="i">Wissenschaft</hi></term>
+                            <hi rend="italic">Wissenschaft</hi></term>
                     zuerst. Wie ein Sturmwind ist in den Völkern Europas seit dem großen
                     Wendepunkt im 16. Jahrhundert das eigene Denken und Erkennen erwacht. Es
                     wurde ein neues Evangelium, dass Wissen Macht,<note xml:id="n10">«Wissen ist Macht» ist ein auf <persName ref="kbga-actors-2341">Francis Bacons</persName> «Essays» (1598; dort: «for
@@ -571,9 +573,9 @@
                     der diesem Strom einen Damm entgegenstellen wollte. Und doch besteht kein
                     Zweifel, dass von einem Evangelium der Wissenschaft keine Rede sein kann in
                     dem Sinn, wie es oft behauptet wird. Denn gerade das, was die Menschen bei
-                    der Wissenschaft meistens suchen, den <hi rend="i">Besitz</hi> der <term type="Sachen" key="Wissenschaft, und Wahrheit">Wahrheit</term>, gerade
+                    der Wissenschaft meistens suchen, den <hi rend="italic">Besitz</hi> der <term type="Sachen" key="Wissenschaft, und Wahrheit">Wahrheit</term>, gerade
                     das vermag sie nicht zu bieten, weil sie ihrem Wesen nach ein ewiges <term type="Sachen" key="Wissenschaft, ewiges Suchen">
-                            <hi rend="i">Suchen</hi></term> ist. Wo eine Wissenschaft auftritt mit dem
+                            <hi rend="italic">Suchen</hi></term> ist. Wo eine Wissenschaft auftritt mit dem
                     Anspruch: ich weiß, ich habe, ich besitze, da wird sie unfehlbar zur
                     lächerlichen <term type="Sachen" key="Wissenschaft, unfehlbare W. wird zur Karikatur">Karikatur</term>
                     ihrer selbst, und das ist heutzutage nur zu oft der Fall. Jede Erkenntnis
@@ -587,7 +589,7 @@
                     empfängt, von der man auf dem Getümmel des Marktes, wo man von Erkenntnissen
                     und Resultaten der <term type="Sachen" key="Wissenschaft">Wissenschaft</term> redet, keine Ahnung hat.</p>
                 <p>Aber die Welt des wahren Lebensinteresses könnte die <term type="Sachen" key="Kunst">
-                            <hi rend="i">Kunst</hi></term> sein. Eröffnet sich hier nicht ein
+                            <hi rend="italic">Kunst</hi></term> sein. Eröffnet sich hier nicht ein
                     Feld, das der Beschränktheit, der Kleinlichkeit, der Menschlichkeit aller
                     andern Güter entrückt ist? Wieder erinnern wir uns an <persName ref="kbga-actors-764">Schiller</persName>, der uns gelehrt hat, aus der
                     dumpfen Enge des wirklichen Lebens hinüberzusehen in <anchor type="note" xml:id="fn-h"/>des
@@ -629,7 +631,7 @@
                             </l>
                         </lg>
                     </q>
-                <p rend="noindent">sagt <persName ref="kbga-actors-764">Schiller</persName> nicht trotzdem, sondern <hi rend="i">weil</hi> er hoch denkt
+                <p rend="noindent">sagt <persName ref="kbga-actors-764">Schiller</persName> nicht trotzdem, sondern <hi rend="italic">weil</hi> er hoch denkt
                     von der Kunst. Immer haben die großen Schöpfer dieser Werke das Bewusstsein
                     gehabt, dass sie sich in ihren Werken keineswegs erschöpften, dass das
                     Letzte, Eigentlichste, was sie zu sagen hatten, vor ihnen lag und nicht
@@ -638,7 +640,7 @@
                     letzte Werk des großen <persName ref="kbga-actors-281">Mozart</persName> hebt an mit den ergreifenden Klängen: Ewige Ruhe gib
                     ihnen, gib ihnen den Frieden und das ewige Licht leuchte ihnen!<note xml:id="n13">
                             <bibl corresp="kbga-bibls-2725">
-                                <persName ref="kbga-actors-281">W. A. Mozart</persName>, <hi rend="i">Requiem</hi>,
+                                <persName ref="kbga-actors-281">W. A. Mozart</persName>, <hi rend="italic">Requiem</hi>,
                         KV 626</bibl>:
                             <q rend="block">
                                 <lg>
@@ -653,7 +655,7 @@
                     Genießenwollen fällt, das nach Jesu Meinung das eigentlichste Merkmal
                     weltlicher Gesinnung ist. Es zeigt sich da, dass auch das Beste aufhört, ein
                     Gut zu sein, wenn wir ihm mit Interesse gegenüberstehen, d. h. in der
-                    Stimmung: <hi rend="i">Ich</hi> will das haben, <hi rend="i">ich</hi> will mir das
+                    Stimmung: <hi rend="italic">Ich</hi> will das haben, <hi rend="italic">ich</hi> will mir das
                     aneignen. Die Stimmung des Besitzes ist der innere Zustand, in dem man seine
                         <term type="Sachen" key="Seele, und Besitz">Seele</term> verliert. Und
                     es scheint immer deutlicher, dass Interesse und Leben zwei Dinge sind, die
@@ -661,7 +663,7 @@
                 
                 <p> <pb rend="noPipe" xml:id="p674" ed="pga"/> Aber wir müssen noch einen letzten unvermeidlichen Schritt tun: auch die Welt
                     der <term type="Sachen" key="Frömmigkeit">
-                            <hi rend="i">Frömmigkeit</hi></term>
+                            <hi rend="italic">Frömmigkeit</hi></term>
                     kann ein Stück von dieser verderblichen Welt des Interesses werden. Es kann
                     ein Mensch alle jene Lebenskreise durchwandert und verlassen haben,
                     scheinbar von nichts mehr ergriffen als von Jesu Mahnung, Acht zu haben auf
@@ -692,8 +694,8 @@
                     nicht angefangen, so wenig wie bei all den Andern, die bei diesem oder jenem
                     Gut des Lebens stehenbleiben, so lange unser inneres Leben oder unsre <term type="Sachen" key="Frömmigkeit, und das Ich">Frömmigkeit</term> noch
                     unter dem Zeichen steht: <pb ed="A" rend="hidden" n="16"/>
-                    <hi rend="i">Ich</hi> möchte selig werden, oder wie etwa moderne Menschen
-                    dieselbe Sache zu nennen pflegen: <hi rend="i">Ich</hi> möchte eine starke,
+                    <hi rend="italic">Ich</hi> möchte selig werden, oder wie etwa moderne Menschen
+                    dieselbe Sache zu nennen pflegen: <hi rend="italic">Ich</hi> möchte eine starke,
                     vielseitige, entwickelte Persönlichkeit werden. Täuschen wir uns nicht!
                     Erinnern wir uns an das, was am Anfang gesagt wurde: Die <term type="Sachen" key="Seele">Seele</term> fängt genau an dem Punkt an, wo das Interesse
                     aufhört, nicht früher. Wer sein Leben erhalten will, der wird es verlieren,
@@ -709,17 +711,17 @@
                     Leitfaden für den Konfirmandenunterricht, der anfängt mit der Frage: Wie
                     werde ich glücklich? und mit der Antwort: ich werde glücklich, wenn ich Gott
                     habe, und darum sei mein Seelenglück das Ziel meines Lebens.<note xml:id="n15">Vgl. bes.: <bibl corresp="kbga-bibls-2822">
-                                <hi rend="i">Leitfaden zum
+                                <hi rend="italic">Leitfaden zum
                             Confirmanden-Unterrichte</hi>, St. Gallen 1844, S. 3</bibl>: «F. 1: Was
-                        soll unsre größte und beständige Sorge im Leben sein? <hi rend="i">Daß wir
+                        soll unsre größte und beständige Sorge im Leben sein? <hi rend="italic">Daß wir
                             selig werden</hi>»; <bibl corresp="kbga-bibls-2823">
-                                <persName ref="kbga-actors-9323">E. Müller</persName>, <hi rend="i">Leitfaden für den
+                                <persName ref="kbga-actors-9323">E. Müller</persName>, <hi rend="italic">Leitfaden für den
                             Konfirmanden-Unterricht</hi>, Bern 1904<hi rend="sup">5</hi>,
                         S. 1</bibl>: «Was Petrus seinem Herrn bekannt hat, das kann am Schluß dieser
                         Unterweisung […] auch dein Bekenntnis werden. Dazu muß es dir
                         jetzt klar werden, was aus dir werden soll. Ein guter und glücklicher
                         Mensch!» Ähnlich auch <bibl corresp="kbga-bibls-2824">
-                                <persName ref="kbga-actors-9324">W. Langhans</persName>, <hi rend="i">Die christliche Lehre. Für den
+                                <persName ref="kbga-actors-9324">W. Langhans</persName>, <hi rend="italic">Die christliche Lehre. Für den
                             Konfirmanden-Unterricht dargestellt</hi>, Bern 1899<hi rend="sup">17</hi>, S. 1</bibl>. – Alle Schriften finden sich in Barths
                         Bibliothek.</note> Dieselbe Frage kann man in unzähligen Predigten und
                     religiösen Vorträgen als die Anfangsfrage der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> behandeln hören. Wir Alle ohne
@@ -730,9 +732,9 @@
                     zu täuschen, wenn ich sage: Der große Antichrist <persName ref="kbga-actors-301">Friedrich Nietzsche</persName> hat Christus
                     in diesem Zentralpunkt besser verstanden als die Meisten, die sich nach
                     Christi Namen nennen. «Bessere Lieder müssten sie mir singen», sagt er von
-                    den Christen, sagt er von <hi rend="i">uns</hi>, meine Freunde, «dass ich an
+                    den Christen, sagt er von <hi rend="italic">uns</hi>, meine Freunde, «dass ich an
                     ihren Erlöser glauben lerne; erlöster mir seine Jünger aussehen.»<note xml:id="n16"> <bibl corresp="kbga-bibls-326">
-                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="i">Also sprach
+                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="italic">Also sprach
                             Zarathustra. Ein Buch für Alle und Keinen</hi>, SämtlicheWerke.
                         Kritische Studienausgabe in 15 Bänden, hrsg. von G. Colli / M.
                         Montinari, Bd. 4, München / Berlin 1999, S. 118 (Von den Priestern)</bibl>; bei
@@ -760,7 +762,7 @@
                     Welt singen wie <persName ref="kbga-actors-637">Gottfried Keller</persName>,<note xml:id="n17">Siehe oben, <ref type="pub" target="#fn_n02">Anm. 2</ref>.</note>
                     sondern ein ewiges Morgenlied. Denn wenn wir Christusmenschen sein werden,
                     dann wird es uns mit der siegreichen Gewalt der Wahrheit ergreifen, was das
-                    erste Wort der Bibel meldet: im Anfang schuf <hi rend="i">Gott</hi> Himmel und
+                    erste Wort der Bibel meldet: im Anfang schuf <hi rend="italic">Gott</hi> Himmel und
                     Erde [<ref type="can" subtype="bible" target="Gen.1.1">Gen. 1,1</ref>]. Die <term type="Sachen" key="Seele">Seele</term> wird Gottes sein. Und weil sie es
                     ist, wird sie sein die Königin der Welt.</p>
                 </div>  

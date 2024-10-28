@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53026">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 24</title>
         <title type="content">Predigt: Jesaja 40,3-5</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jesaja 40,3-5, 12. Dezember 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53026 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53026 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 24: Predigt: Jesaja 40,3-5</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p230" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>24</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1909-12-12">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1909-12-12">Sonntag, den
                             12. Dezember 1909</date> <date rend="right">(3. Advent)</date>
                     </dateline>
                     <epigraph>
@@ -155,7 +157,7 @@
                         Verbindung gebrachtes Motto der Reformation.</note> Und wir wollen uns
                     hüten, Wasser in diesen Wein zu <pb xml:id="p232" ed="pga"/> schütten, unsre <term type="Sachen" key="Gefühle">Gefühle</term> und <term type="Sachen" key="Stimmungen">Stimmungen</term> in die Herbigkeit dieses
                     Grundgedankens aller ernsthaften <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>.</p>
-                <p>Gott allein die Ehre! Und nun trotzdem: <hi rend="i">Horch, man ruft! Bahnet in der
+                <p>Gott allein die Ehre! Und nun trotzdem: <hi rend="italic">Horch, man ruft! Bahnet in der
                         Wüste den Weg des Herrn, ebnet in der Steppe eine Straße für unsern
                         Gott!</hi> Wir <term type="Sachen" key="Menschen, Gottes Wegbereiter">Menschen</term> Gottes Wegbereiter! Und wir spüren Alle, dass auch
                     dieser Gedanke unentbehrlich ist für eine ernsthafte <pb ed="A" rend="hidden" n="4"/> Frömmigkeit. Wir selbst müssen aufs Lebhafteste beteiligt sein,
@@ -172,25 +174,25 @@
                         (1607–1676), lutherischer Theologe und Liederdichter.</note> aus:</p>
                     <q rend="block">
                         <lg>
-                            <l>Wie soll <hi rend="i">ich dich</hi> empfangen?</l>
+                            <l>Wie soll <hi rend="italic">ich dich</hi> empfangen?</l>
                         </lg>
                     </q>
                 <p rend="noindent">
-                        <hi rend="i">Ich</hi>, der Mensch, <hi rend="i">dich</hi>, Gott! Und
+                        <hi rend="italic">Ich</hi>, der Mensch, <hi rend="italic">dich</hi>, Gott! Und
                     wir wollen sehen, ob wir eine Antwort finden.</p>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Die <term type="Sachen" key="Wahrheit">Wahrheit</term>
                         wird uns vielfach schon dadurch deutlich, dass wir lernen, den <term type="Sachen" key="Irrtum">Irrtum</term> scharf und genau ins Auge
                         fassen. Vielleicht dringen wir tiefer ein in das Geheimnis der Frage:
                         wie soll ich dich empfangen?, wenn wir uns zuerst darüber verständigen,
-                        wie wir das «empfangen» <hi rend="i">nicht</hi> fertigbringen. Kurz gesagt,
+                        wie wir das «empfangen» <hi rend="italic">nicht</hi> fertigbringen. Kurz gesagt,
                         wenn wir auf Gott warten und auf seinen Einzug in unser Innerstes, so
                         handelt es sich dabei <pb ed="A" rend="hidden" n="5"/> um etwas, wobei von
                         «Fertigbringen» unsrerseits in keiner Weise die Rede sein kann. <persName ref="kbga-actors-313">Paulus</persName> und <persName ref="kbga-actors-14">Augustin</persName> und <persName ref="kbga-actors-77">Calvin</persName> haben ganz recht gesehen: Wer
                         etwas zu sagen weiß vom Walten des lebendigen <term type="Sachen" key="Gott, lebendiger">Gottes</term> in seinem Innern, der kann dies
                         Walten als nichts Anderes empfinden denn als das unverdiente Geschenk
-                        einer unbegreiflichen <term type="Sachen" key="Gnade, Gottes G.">Gnade</term>. Al<pb xml:id="p233" ed="pga"/>ler Irrtum und aller Unfug
+                        einer unbegreiflichen <term type="Sachen" key="Gnade, Gottes G.">Gnade</term>. Al<pb xml:id="p233" ed="pga" break="no"/>ler Irrtum und aller Unfug
                         in <term type="Sachen" key="Religion, Irrtum und Unfug">Religionssachen</term> sind davon gekommen, dass man immer wieder
                         gemeint hat und noch meint, diese Unbegreiflichkeit <term type="Sachen" key="Gott, Unbegreiflichkeit">Gottes</term> eskamotieren oder doch
                         abschwächen zu müssen. Die katholische <term type="Sachen" key="Kirche, römisch-katholische">Kirche</term> mit jeder einzelnen
@@ -227,7 +229,7 @@
                         wahr zu halten. Er ist vielleicht durch Krankheit und Not oder durch
                         sein nahes Lebensende in innere Verwirrung gekommen, oder es hat irgend
                         ein Ereignis oder eigenes Nachdenken in ihm den Hunger und Durst nach
-                        Höherem geweckt. Kurzum, er ist vor die Lebens<pb xml:id="p234" ed="pga"/><term type="Sachen" key="Lebensfrage">frage</term> gestellt: Wie soll
+                        Höherem geweckt. Kurzum, er ist vor die Lebens<pb xml:id="p234" ed="pga" break="no"/><term type="Sachen" key="Lebensfrage">frage</term> gestellt: Wie soll
                         ich dich empfangen?, und es ist ihm ernst damit. Und nun wird ihm
                         gesagt, er möge sich einen innern Ruck geben und sich zu der Annahme
                         entschließen, dass Gott wirklich da sei, dass Christus auf Erden
@@ -262,7 +264,7 @@
                         die Antwort auf die Frage: wie kommt man zu diesen trefflichen Dingen?
                         ist immer dieselbe: man entschließt sich eben, sie als wahr anzunehmen,
                         man erklärt sich einverstanden damit, womöglich durch eine <pb ed="A" rend="hidden" n="8"/> Beitrittserklärung auf vorgedruckter
-                        Postkarte. Immer ist das Empfangen Gottes ein Entschluss des gläu<pb xml:id="p235" ed="pga"/>bigen und rechtschaffenen Menschen. Beim einen
+                        Postkarte. Immer ist das Empfangen Gottes ein Entschluss des gläu<pb xml:id="p235" ed="pga" break="no"/>bigen und rechtschaffenen Menschen. Beim einen
                         besteht dann die <term type="Sachen" key="Religion">Religion</term>, die
                         so zustande gebracht wird, in der Zustimmung zu einer umfangreichen
                             <term type="Sachen" key="Dogmatik">Dogmatik</term>, und beim andern
@@ -276,7 +278,7 @@
                             Barth war zum Sommersemester 1908 vor allem wegen Herrmann nach
                             Marburg gegangen.</note> in <placeName ref="kbga-places-41">Marburg</placeName>,
                         pflegte allen derartigen Glauben als «<term type="Sachen" key="Götzendienst">Götzendienst</term>» zu bezeichnen.<note xml:id="n07">Vgl. schon <bibl corresp="kbga-bibls-1792">
-                                    <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Die Religion
+                                    <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Die Religion
                                 im Verhältniß zum Welterkennen und zur Sittlichkeit. Eine
                                 Grundlegung der systematischen Theologie</hi>, Halle 1879,
                             S. 7f.</bibl>: «Ein religiöser Glaube […] wird als solcher [=
@@ -311,7 +313,7 @@
                         hat einmal gesagt, die <term type="Sachen" key="Seele">Menschenseele</term> sei von Natur eine Christin.<note xml:id="n08">
                             <bibl corresp="kbga-bibls-2479">
                                     <persName ref="kbga-actors-798">Tertullian</persName>,
-                                <hi rend="i">Apologeticum</hi> 17,6</bibl>: «O testimonium animae
+                                <hi rend="italic">Apologeticum</hi> 17,6</bibl>: «O testimonium animae
                             naturaliter Christianae! Denique pronuntians haec non ad Capitolium,
                             sed ad caelum respicit. Novit enim sedem dei vivi; ab illo, et inde
                             descendit.» («O Zeugnis der Seele, die von Natur Christin ist!
@@ -349,7 +351,7 @@
                         Frömmigkeit, mag sie sich so oder anders drapieren. Und <pb xml:id="p237" ed="pga"/> sie tut uns die Pforte des Lebens nicht auf, sie führt
                         uns nicht zu Gott, so wenig der berühmte Freiherr von <persName ref="kbga-actors-9191">Münchhausen</persName>
                         sich selbst an seinem Zopf aus dem Sumpf gezogen hat.<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-2575">
-                                    <persName ref="kbga-actors-6404">G. A. Bürger</persName>, <hi rend="i">Wunderbare
+                                    <persName ref="kbga-actors-6404">G. A. Bürger</persName>, <hi rend="italic">Wunderbare
                                 Reise zu Wasser und Lande, Feldzüge und lustige Abenteuer des
                                 Freiherrn von Münchhausen, wie er dieselben bei der Flasche im
                                 Zirkel seiner Freunde selbst zu erzählen pflegt</hi>,
@@ -368,7 +370,7 @@
                         Herrn den Weg bereiten, etwas Anderes bedeutet.</p>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Wir haben am Anfang unsres heutigen Gottesdienstes die
                         Erzählung des Lukasevangeliums vom Auftreten <persName ref="kbga-actors-2206">Johannes des Täufers</persName> gelesen
                         [vgl. <ref type="can" subtype="bible" target="Lk.3.1 Lk.3.18">Lk. 3,1–18</ref>], und ihr habt hören können, wie dort unser
@@ -404,12 +406,12 @@
                         Frage beschäftigte. Ihr wisst, wie ganz Israel damals auf den Messias
                         wartete. Und dies Volk war auch im Besitz von allerlei Antworten, an
                         deren <pb ed="A" rend="hidden" n="12"/> Richtigkeit die einen zuversichtlich,
-                        die andern zweifelnd glaubten. Da waren die <hi rend="i">orthodoxen</hi><note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                        die andern zweifelnd glaubten. Da waren die <hi rend="italic">orthodoxen</hi><note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                         <term type="Sachen" key="Pharisäer">Pharisäer</term>, die darauf
                         pochten, dass <persName ref="kbga-actors-444">Abraham</persName> ihr
                         Vater sei [vgl. <ref type="can" subtype="bible" target="Joh.8.33">Joh. 8,33</ref>], und die von der strikten Befolgung eines heiligen
                         alten <term type="Sachen" key="Gesetz, mosaisches">Gesetzes</term> das
-                        Heil erwarteten. Und da waren die <hi rend="i">liberalen</hi><note type="textcritical" n="f" xml:id="nf"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                        Heil erwarteten. Und da waren die <hi rend="italic">liberalen</hi><note type="textcritical" n="f" xml:id="nf"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                         <term type="Sachen" key="Sadduzäer">Sadduzäer</term>, die sich
                         selbstzufrieden eine aufgeklärtere Religion gemacht hatten. Und zwischen
                         den beiden Extremen bewegte sich ein zahlreiches Volk, mehr dahin oder
@@ -457,9 +459,9 @@
                         seine Antwort erschöpft sei mit den Anweisungen, die er dort den
                         einzelnen Ständen gegeben hat. Er hat mit diesen Anweisungen die
                         Menschen aufrütteln wollen aus dem Schlaf der selbstgemachten <term type="Sachen" key="Frömmigkeit, selbstgemachte">Frömmigkeit</term>,
-                        er hat ihnen sagen wollen: seid jetzt einmal <hi rend="i">nicht</hi> fromm,
+                        er hat ihnen sagen wollen: seid jetzt einmal <hi rend="italic">nicht</hi> fromm,
                         sondern seht stracks hin, ein jeder auf das, was er soll.
-                            <hi rend="i">Soll</hi>, versteht <pb ed="A" rend="hidden" n="14"/> ihr das
+                            <hi rend="italic">Soll</hi>, versteht <pb ed="A" rend="hidden" n="14"/> ihr das
                         Wort, meine <pb xml:id="p240" ed="pga"/> Freunde? Sollen heißt nicht, sich
                         entschließen zur Befolgung irgend eines <term type="Sachen" key="Gebote">Gebots</term> oder Gebötleins<note type="textcritical" n="j" xml:id="nj"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>, das von<note type="textcritical" n="k" xml:id="nk"> Mskr.: doppeltes «von» am Zeilenende und -anfang.</note>
                          außen uns angepriesen oder aufoktroyiert<note type="textcritical" n="l" xml:id="nl"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
@@ -481,7 +483,7 @@
                             von Materie des Gesetzes, freiem Willen und moralischem Gesetz bei
                             <bibl corresp="kbga-bibls-645">
                                     <persName ref="kbga-actors-216">I. Kant</persName>,
-                                <hi rend="i">Kritik der praktischen Vernunft</hi> (1788),
+                                <hi rend="italic">Kritik der praktischen Vernunft</hi> (1788),
                             Akademie-Ausgabe, Bd. 5, Berlin 1908/13, S. 1–163, bes.
                             S. 29f.; vgl. a.a.O., S. 30</bibl>: «Er urtheilt also, daß er etwas kann,
                             darum weil er sich bewußt ist, daß er es soll, und erkennt in sich
@@ -519,7 +521,7 @@
                         Einschränkung für gut könnte gehalten werden, als allein ein guter
                             Wille.»<note xml:id="n12">
                                 <bibl corresp="kbga-bibls-1309">
-                                    <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="i">Grundlegung zur
+                                    <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="italic">Grundlegung zur
                                 Metaphysik der Sitten</hi> (1785), Akademie-Ausgabe, Bd. 4,
                             Berlin 1903/11, S. 385–463, dort S. 393 (i. Orig. mit
                             Hervorhebung von «Wille»)</bibl>.</note> Es ist wie ein weichlich und
@@ -528,17 +530,17 @@
                         und <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> haben
                         möchten, bevor wir etwas wissen von jener Beugung unter die Majestät des
                             <anchor type="note" xml:id="fn-m"/>kategorischen Imperativs<note type="textcritical" n="m" xml:id="nm" target="fn-m"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>,<note xml:id="n13">«Kategorischer <term type="Sachen" key="Kategorischer Imperativ">Imperativ»</term> ist die gängige
-                            Bezeichnung für das von Kant formulierte «<hi rend="i">Grundgesetz der
+                            Bezeichnung für das von Kant formulierte «<hi rend="italic">Grundgesetz der
                                 reinen praktischen Vernunft</hi>»: «Handle so, daß die Maxime
                             deines Willens jederzeit zugleich als Princip einer allgemeinen
-                            Gesetzgebung gelten könne» (<bibl corresp="kbga-bibls-645"><persName ref="kbga-actors-216">Kant</persName>, <hi rend="i">Kritik der praktischen
+                            Gesetzgebung gelten könne» (<bibl corresp="kbga-bibls-645"><persName ref="kbga-actors-216">Kant</persName>, <hi rend="italic">Kritik der praktischen
                                 Vernunft</hi> [Anm. 10], S. 30</bibl>).<term type="Sachen" key="Kategorischer Imperativ"/>
                             </note> dass wir Gott haben
                         möchten, bevor wir uns nach dem <term type="Sachen" key="Gutes / das Gute">Guten</term> gefragt haben, dass wir allerlei
                         Schönes von Christus sagen und uns sagen lassen möchten, bevor wir zu
                         <persName ref="kbga-actors-2206">Johannes dem Täufer</persName> an den <placeName ref="kbga-places-926">Jordan</placeName> gegangen sind.</p>
                     <p>
-                            <hi rend="i">Bahnet in der Wüste den Weg des Herrn! Ebnet in der Steppe eine
+                            <hi rend="italic">Bahnet in der Wüste den Weg des Herrn! Ebnet in der Steppe eine
                             Straße für unsern Gott!</hi> Und indem ihr’s tut, werdet
                         ihr sehen, dass der <anchor type="note" xml:id="fn-n"/>kategorische Imperativ<note type="textcritical" n="n" xml:id="nn" target="fn-n"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                          mit seinem richtenden, niederdrückenden Ernst nicht das letzte
@@ -548,14 +550,14 @@
                         innern <term type="Sachen" key="Gehorsam, innerer">Gehorsams</term>,
                         dann ist die Straße geebnet und erhöht, auf der Gott bei dir einziehen
                         will. Denn du bist dann eingetreten als Glied in die <pb ed="A" rend="hidden" n="16"/> geheimnisvolle Kette der Menschen, die ein großes Licht
-                        gesehen haben [vgl. <ref type="can" subtype="bible" target="Jes.9.1">Jes. 9,1</ref>] und darauf <hi rend="i">zu</hi> wandern Tag und Nacht. Als
+                        gesehen haben [vgl. <ref type="can" subtype="bible" target="Jes.9.1">Jes. 9,1</ref>] und darauf <hi rend="italic">zu</hi> wandern Tag und Nacht. Als
                         ein schaffendes Glied und als ein empfangendes Glied. Denn in den
                         Kämpfen und Siegen und Niederlagen dieses <term type="Sachen" key="Gehorsam">Gehorsams</term> wirst du dich, ehe du’s
                         ahnst, getragen fühlen von einer Kraft, die dein Sollen verwandelt in
                         dein Können. Du hörst dann die wundersame Stimme, die dich zu sich ruft:
                         Kommet her zu mir alle, die ihr mühselig und beladen seid, ich will euch
                         erquicken [<ref type="can" subtype="bible" target="Mt.11.28">Mt. 11,28</ref>].
-                        Wer weiß, was Mühsal ist, <hi rend="i">der</hi><note type="textcritical" n="o" xml:id="no"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                        Wer weiß, was Mühsal ist, <hi rend="italic">der</hi><note type="textcritical" n="o" xml:id="no"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                              wird wissen, was das für eine Erquickung ist. Und es
                         leuchtet uns dann etwas auf von der Erkenntnis des <persName ref="kbga-actors-313">Paulus</persName>: Sind wir mit Christo gestorben, so
                         glauben wir, dass wir auch mit ihm leben werden [<ref type="can" subtype="bible" target="Röm.6.8">Röm. 6,8</ref>]. Und was wir vorher
@@ -570,14 +572,14 @@
                                 </l>
                             </lg>
                         </q>
-                    <p rend="noindent">Antwort: Bahnet den <hi rend="i">Weg</hi> des Herrn! Den
-                            <hi rend="i">Weg</hi>, hast du’s gehört? Dieser Weg ist die <term type="Sachen" key="Wahrhaftigkeit">Wahrhaftigkeit</term> deines
+                    <p rend="noindent">Antwort: Bahnet den <hi rend="italic">Weg</hi> des Herrn! Den
+                            <hi rend="italic">Weg</hi>, hast du’s gehört? Dieser Weg ist die <term type="Sachen" key="Wahrhaftigkeit">Wahrhaftigkeit</term> deines
                         innern <term type="Sachen" key="Mensch, innerer">Menschen</term>.
                         Überlass es Gott selbst, dem <term type="Sachen" key="Gott, lebendiger">lebendigen</term>, dem wirklichen Gott, wann und wie er auf diesem
                         Weg bei dir einziehen will. Er <anchor type="note" xml:id="fn-p"/>
-                            <hi rend="i">kann</hi> es
-                        tun, denn er ist größer als unser Herz [<ref type="can" subtype="bible" target="1.Joh.3.20">1.Joh. 3,20</ref>], und er <hi rend="i">wird</hi> es tun, denn sein <term type="Sachen" key="Gebote">Gebot</term> ist ein Gebot, das <term type="Sachen" key="Verheißung">Verheißung</term> hat. Aber nicht
-                            <hi rend="i">wir</hi> haben <hi rend="i">ihn</hi> erwählt, sondern <hi rend="i">er</hi> hat <hi rend="i">uns</hi><note type="textcritical" n="p" xml:id="np" target="fn-p">Die hervorgehobenen Worte sind im Manuskript jeweils nachträglich mit Bleistift unterstrichen.</note>
+                            <hi rend="italic">kann</hi> es
+                        tun, denn er ist größer als unser Herz [<ref type="can" subtype="bible" target="1.Joh.3.20">1.Joh. 3,20</ref>], und er <hi rend="italic">wird</hi> es tun, denn sein <term type="Sachen" key="Gebote">Gebot</term> ist ein Gebot, das <term type="Sachen" key="Verheißung">Verheißung</term> hat. Aber nicht
+                            <hi rend="italic">wir</hi> haben <hi rend="italic">ihn</hi> erwählt, sondern <hi rend="italic">er</hi> hat <hi rend="italic">uns</hi><note type="textcritical" n="p" xml:id="np" target="fn-p">Die hervorgehobenen Worte sind im Manuskript jeweils nachträglich mit Bleistift unterstrichen.</note>
                              erwählt [<ref type="can" subtype="bible" target="Joh.15.16">Joh. 15,16</ref>].</p>
                         </div>  
                         <div type="closer">

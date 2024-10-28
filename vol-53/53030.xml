@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53030">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 28</title>
         <title type="content">Predigt: Jakobus 1,1-2</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,1-2, 9. Januar 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53030 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53030 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 28: Predigt: Jakobus 1,1-2</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p280" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>28</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-01-09">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-01-09">Sonntag, den
                             9. Januar 1910</date> <date rend="right">(1. nach Epiphanias)</date>
                     </dateline>
                     <epigraph>
@@ -117,7 +119,7 @@
                     aber diesmal recht ausdrücklich von einem andern Ort aus, nämlich vom
                     Standpunkt des Werktags. Ich habe mir gedacht, dass wir uns dazu einige Mal
                     mit dem <term type="Sachen" key="Jakobusbrief">
-                            <hi rend="i">Jakobusbrief</hi></term> beschäftigen könnten, weil er so recht
+                            <hi rend="italic">Jakobusbrief</hi></term> beschäftigen könnten, weil er so recht
                     von einem Werktagschristen geschrieben ist und sein Inhalt <term type="Sachen" key="Jakobusbrief, Werktagschristentum">Werktagschristentum</term>. Die <term type="Sachen" key="Sonntagsfreude">Sonntagsfreude</term> wird darüber nicht zu kurz
                     kommen.</p>
                 <p>Vielleicht ist es keine unpassende Einleitung dazu, wenn ich ein kurzes Wort
@@ -139,8 +141,8 @@
                     enttäuscht. Warum? Weil alle religiöse <term type="Sachen" key="Lehre, religiöse">Lehre</term> über den <term type="Sachen" key="Glaube">Glauben</term>, über Christus, über das <term type="Sachen" key="Jenseits">Jenseits</term>, wie sie im Römer- oder Galaterbrief so
                     reichlich vorkommt, fast völlig fehlt. Man hat nachgezählt und gefunden,
                     dass der Name Jesu nur zwei Mal im ganzen Brief vorkommt. Dafür beschreibt
-                    der Verfasser ganz einfach und schlicht einige wichtige Züge des <hi rend="i">äußern</hi><note type="textcritical" n="c" xml:id="nc"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
-                         Lebens des <term type="Sachen" key="Christen, äußeres Leben">Chris<pb xml:id="p282" ed="pga"/>ten</term>, wie es sein
+                    der Verfasser ganz einfach und schlicht einige wichtige Züge des <hi rend="italic">äußern</hi><note type="textcritical" n="c" xml:id="nc"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                         Lebens des <term type="Sachen" key="Christen, äußeres Leben">Chris<pb xml:id="p282" ed="pga" break="no"/>ten</term>, wie es sein
                     sollte. Und darüber freuen sich nun die einen, weil sie meinen, es gehöre
                     zum religiösen <term type="Sachen" key="Fortschritt, religiöser">Fortschritt</term>, über die religiöse Lehre die Nase zu rümpfen und
                     nur das <term type="Sachen" key="Leben">Leben</term> zu betonen, während die
@@ -167,7 +169,7 @@
                     der Jakobusbrief bietet, im Neuen Testament nicht fehlen. Und so wurde er
                     doch aufgenommen.</p>
                 <p>Aber nun hat viele Jahrhunderte später der Reformator <persName ref="kbga-actors-261">
-                            <hi rend="i">Luther</hi></persName> ein Wort über diesen
+                            <hi rend="italic">Luther</hi></persName> ein Wort über diesen
                     Brief gesagt, das geht ihm bis heute nach. Dieser große Mann hatte einen
                     trefflichen Maßstab, nach dem er das Wertvolle in der <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> erkannt und vom Andern
                     geschieden wissen wollte. «Darin», sagt er, «stimmen alle rechtschaffenen
@@ -175,7 +177,7 @@
                     Auch ist das der rechte <term type="Sachen" key="Bibel / Heilige Schrift, Prüfstein">Prüfstein</term>, alle Bücher
                     zu beurteilen, wenn man sieht, ob sie <pb xml:id="p283" ed="pga"/> Christum
                     treiben oder nicht.»<note xml:id="n01">Barth zitiert in
-                        modernisiertem Deutsch <bibl corresp="kbga-bibls-2268"><persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="i">Vorrhede auff die Episteln Sanct Jacobi unnd
+                        modernisiertem Deutsch <bibl corresp="kbga-bibls-2268"><persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="italic">Vorrhede auff die Episteln Sanct Jacobi unnd
                             Judas</hi> (1522), WA.DB 7, 384,25–27</bibl>.</note> Auf diesen
                     Prüfstein hat Luther nun auch den Jakobusbrief gelegt, und nach seiner
                     Meinung <pb ed="A" rend="hidden" n="5"/> bestand er die Probe nicht. Darum nannte
@@ -183,7 +185,7 @@
                     Epistel», die keine evangelische Art an sich habe.<note xml:id="n02">
                             <bibl corresp="kbga-bibls-2614">
                                 <persName ref="kbga-actors-261">M. Luther</persName>,
-                            <hi rend="i">Das Newe Testament Deutsch. Vorrhede</hi> (1522), WA.DB 6,
+                            <hi rend="italic">Das Newe Testament Deutsch. Vorrhede</hi> (1522), WA.DB 6,
                         10,33–35</bibl>: «Darumb ist sanct Jacobs Epistel eyn rechte stroern
                         Epistel […], denn sie doch keyn Euangelisch art an yhr hat,
                         […].»</note> Es ist gut, dass <persName ref="kbga-actors-261">Luther</persName> dieses scharfe Wort ausgesprochen
@@ -196,14 +198,14 @@
                     dass nicht, die Herr, Herr sagen, sondern die den Willen tun seines Vaters,
                     ins Himmelreich kommen sollen [vgl. <ref type="can" subtype="bible" target="Mt.7.21">Mt. 7,21</ref>], und in dieser Richtung müssen wir das <term type="Sachen" key="Christentum, des Jakobusbriefes">Christentum</term>
                     des Jakobusbriefs zu verstehen suchen. Es ist gut, dass wir <persName ref="kbga-actors-313">Paulus</persName>
-                    <hi rend="i">und</hi>
+                    <hi rend="italic">und</hi>
                    <persName ref="kbga-actors-8959">Jakobus</persName> im Neuen <term type="Sachen" key="Neues Testament">Testament</term> haben, wie es noch
                     heute Christen gibt, deren Stärke im Nachdenken über die göttlichen Dinge
                     besteht, während den andern das Christentum vorzüglich eine Sache des
                     Willens ist. Diese Mannigfaltigkeit schon des Neuen Testaments zeigt uns,
                     wie eben Beides zusammengehört und im letzten Grunde doch nicht etwas
                     Verschiedenes ist, sondern dieselbe Sache. Die Menschen sind verschieden,
-                    und ihre <hi rend="i">Lehre</hi><note type="textcritical" n="g" xml:id="ng"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                    und ihre <hi rend="italic">Lehre</hi><note type="textcritical" n="g" xml:id="ng"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                         <term type="Sachen" key="Lehre"/> ist verschieden, aber die
                         <term type="Sachen" key="Wahrheit">Wahrheit</term> ist die eine. Das ist
                     aber die Wahrheit des <term type="Sachen" key="Wahrheit, des Christentums">Christentums</term>, dass wir in Jesus Gott erleben und erfahren als
@@ -212,10 +214,10 @@
                     äußern <term type="Sachen" key="Gott, Herr unseres äußeren Menschen">Menschen</term>, unsres ganzen Daseins.</p>
                 <div>
                    
-                    <head type="4">
+                    <head>
                         <pb xml:id="p284" ed="pga" rend="noPipe"/> <pb ed="A" rend="hidden" n="6"/> I</head>
                     <p rend="noindent">Jakobus redet die Leser seines Büchleins an als die
-                            <hi rend="i">zwölf Stämme in der Zerstreuung</hi>. Wir denken gleich an
+                            <hi rend="italic">zwölf Stämme in der Zerstreuung</hi>. Wir denken gleich an
                         die zwölf Stämme <term type="Sachen" key="Israel (Volk)">Israels</term>.
                         Aber er redet ja Christen an? Darunter waren auch ehemalige Juden,
                         gewiss, aber die Mehrzahl bestand doch in gewesenen <term type="Sachen" key="Heiden / Heidentum">Heiden</term>, die mit den zwölf Stämmen
@@ -224,7 +226,7 @@
                         das gehörte <anchor type="note" xml:id="fn-h"/>zur Theologie<note type="textcritical" n="h" xml:id="nh" target="fn-h"> Im Mskr. nachträglich mit Bleistift unterstrichen und mit
                                 einem Fragezeichen versehen.</note>
                             <term type="Sachen" key="Theologie, des Urchristentums"/>, zum
-                        Stil jener Zeit. Der Zusatz «<hi rend="i">in der Zerstreuung</hi>» führt uns
+                        Stil jener Zeit. Der Zusatz «<hi rend="italic">in der Zerstreuung</hi>» führt uns
                         gleich mitten in die Sache hinein. Die <term type="Sachen" key="Christen, frühe">Christen</term> waren damals eine kleine
                         Minderheit, hier eine kleine Gruppe oder Gemeinde und dort eine,
                         zersprengt, zerstreut unter den Heiden, wie etwa heutzutage Protestanten
@@ -244,9 +246,9 @@
                         als er seine Leute aussandte mit dem Befehl, aller Welt das Evangelium
                         zu verkündigen [<ref type="can" subtype="bible" target="Mk.16.15">Mk. 16,15</ref> par.]. Und der dänische Philosoph <persName ref="kbga-actors-221">Kierkegaard</persName>
                         hat nicht so unrecht mit seinem scharfen Spott über das wohlfeile <term type="Sachen" key="Christentum, Allerweltschristentum">Allerweltschristentum</term> der angeblichen <term type="Sachen" key="Jünger, angebliche">Jünger</term> dessen, der gesagt hat: ihr
-                        müsst <hi rend="i">gehasst</hi> werden von jedermann um meines Namens willen
+                        müsst <hi rend="italic">gehasst</hi> werden von jedermann um meines Namens willen
                         [<ref type="can" subtype="bible" target="Mt.10.22">Mt. 10,22</ref> par.].<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-1814">
-                                    <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="i">Der
+                                    <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="italic">Der
                                 Augenblick</hi> (Gesammelte Werke, Bd. 12), Jena 1909<hi rend="sup">2</hi>, S. 47f. (vgl. Gesammelte Werke, Abt. 34,
                             Düsseldorf / Köln 1959, S. 167)</bibl>: «Indem also der Christ nach dem
                             Christentum des Neuen Testaments alle die Anstrengung, den Kampf,
@@ -282,7 +284,7 @@
                         des ernsten, lebendigen Menschen, des <term type="Sachen" key="Christen, Einsamkeit">Christen</term>, <persName ref="kbga-actors-301">Nietzsche</persName> sagt einmal trefflich:
                         «Wo die Einsamkeit aufhört, da beginnt der Markt, und wo der Markt
                         beginnt, da beginnt auch der Lärm der großen Schauspieler.»<note xml:id="n05">Vgl.  <bibl corresp="kbga-bibls-326">
-                                    <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="i">Also sprach
+                                    <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="italic">Also sprach
                                 Zarathustra. Ein Buch für Alle und Keinen</hi>, Sämtliche
                             Werke. Kritische Studienausgabe in 15 Bänden, hrsg. von G.
                             Colli / M. Montinari, Bd. 4, München / Berlin 1999, S. 65 (Erster
@@ -298,7 +300,7 @@
                         nichts weiter? Nein, nach nichts weiter», so sagte <persName ref="kbga-actors-14">Augustin</persName> einmal.<note xml:id="n06">
                                 <bibl corresp="kbga-bibls-2615">
                                     <persName ref="kbga-actors-14">A. Augustinus</persName>,
-                                <hi rend="i">Soliloquia</hi> I, 2,7 (CSEL 89, S. 11,15–17)</bibl>:
+                                <hi rend="italic">Soliloquia</hi> I, 2,7 (CSEL 89, S. 11,15–17)</bibl>:
                             «Deum et animam scire cupio. Nihilne plus? Nihil omnino.»</note> Das
                         war die Einsamkeit der ersten Christen im heidnischen <term type="Sachen" key="Rom / Römisches Reich">Römerreich</term>, und das
                         ist auch heute<note type="textcritical" n="j" xml:id="nj"> Im Mskr. nachträglich mit Bleistift eingefügt.</note>
@@ -333,7 +335,7 @@
                                 <l>Über meiner Mütze nur die Sterne.<note xml:id="n08">
                                         <bibl corresp="kbga-bibls-2616">Erste Strophe des Gedichts «Freisinn» von 
                                      <persName ref="kbga-actors-136">J. W. von Goethe</persName>
-                                        (Erstdruck: 1819; ders., <hi rend="i">West-östlicher Diwan,
+                                        (Erstdruck: 1819; ders., <hi rend="italic">West-östlicher Diwan,
                                             Buch des Sängers</hi> [Berliner Ausgabe. Poetische
                                         Werke, Bd. 3, Berlin 1965, S. 11f., dort
                                     S. 11]).</bibl>
@@ -343,18 +345,18 @@
                         </q>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Aber solcher Trotz der Einsamkeit, der das Getümmel des
                         Marktes auf sich beruhen lässt und fröhlich nach Gottes Gesetz lebt,
                         solcher Trotz, meine ich, ist bälder ausgesprochen und den großen
-                        Einsamen aller Zeiten <hi rend="i">nach</hi>gesprochen als gelebt und geübt
+                        Einsamen aller Zeiten <hi rend="italic">nach</hi>gesprochen als gelebt und geübt
                         am <term type="Sachen" key="Werktag">Werktag</term> wie am <term type="Sachen" key="Sonntag">Sonntag</term>.</p>
                     <p> Das hat auch <persName ref="kbga-actors-8959">Jakobus</persName> gut
                         gewusst. Und darum geht er, nachdem er seine Leser als die zwölf Stämme
                         in der Zerstreuung, als das freie und trotzige Gottesvolk in der
                         Einsamkeit angeredet hat, gleich los auf die großen Schwierigkeiten und
                         Unannehmlichkeiten, die diese Stellung mit sich bringt. Ohne weitere
-                        Einleitung fängt er an: <hi rend="i">Seht es für lauter Freude an, meine
+                        Einleitung fängt er an: <hi rend="italic">Seht es für lauter Freude an, meine
                             Brüder, wenn ihr in allerlei Versuchungen geratet</hi>.</p>
                     <p>
                         <term type="Sachen" key="Versuchung">Versuchungen</term>! Damit hat ein
@@ -368,7 +370,7 @@
                         ankommt. Im Christen soll etwas Anderes herrschen als <pb ed="A" rend="hidden" n="10"/> die lärmenden Forderungen der «Welt»,
                         nämlich der gute <term type="Sachen" key="Wille Gottes">Wille</term> des
                         lebendigen <term type="Sachen" key="Gott, lebendiger">Gottes</term>, der
-                        darauf ausgeht, uns wahrhaftig und wirklich und <hi rend="i">auch</hi>
+                        darauf ausgeht, uns wahrhaftig und wirklich und <hi rend="italic">auch</hi>
                         lebendig zu machen. Aber ein Mensch, der dem Gotteswillen, der in seinem
                         Innern spricht, folgen möchte, wird bald zu erzählen wissen von
                         Zusammenstößen mit den Gesetzen<note type="textcritical" n="k" xml:id="nk"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
@@ -416,7 +418,7 @@
                         zu denken, sich summieren zu fatalen, sinnlosen Gewohnheiten, die uns
                         selbst schlecht und sinnlos und wertlos machen vor unsern eigenen Augen.
                         Sie machen uns unglücklich, diese <term type="Sachen" key="Versuchung, alltägliche">Versuchungen</term>, und nun kommt
-                        unser Textwort und sagt: <hi rend="i">seht es für lauter Freude an, meine
+                        unser Textwort und sagt: <hi rend="italic">seht es für lauter Freude an, meine
                             Brüder, wenn ihr in allerlei Versuchungen geratet</hi>. Wenn
                         ich’s recht überdenke, so kommt es mir vor, schon allein dieses
                         erste widerspruchsvolle Wort des <term type="Sachen" key="Jakobusbrief">Jakobusbriefs</term> genüge, um uns zu belehren, dass das doch
@@ -465,7 +467,7 @@
                         sie denen etwas zu sagen, die im ernsten<note type="textcritical" n="q" xml:id="nq"> Im Mskr. nachträglich mit Bleistift eingefügt und schwer zu
                                 entziffern.</note>
                          Kampf mit den Versuchungen traurig und unglücklich geworden sind.
-                            <hi rend="i">Seht es für lauter Freude an!</hi> Warum? Wär’s denn
+                            <hi rend="italic">Seht es für lauter Freude an!</hi> Warum? Wär’s denn
                         nicht viel besser, die Welt wäre so eingerichtet, dass es von vornherein
                         keine Versuchung darin gäbe, kein <term type="Sachen" key="Welt, Marktgetümmel">Marktgetümmel</term>, das uns leblos und
                         sinnlos machen will, sondern lauter gute, lebendige Menschen, dass wir
@@ -478,14 +480,14 @@
                         Ich weiß wohl, viele ernste Christen sehen das so an, aber ich kann da
                         nicht mit ihnen einig gehen, und <persName ref="kbga-actors-8959">Jakobus</persName> ist offenbar auch andrer Ansicht gewesen.</p>
                     <p>
-                            <hi rend="i">Seht es für lauter Freude an!</hi> Warum? Weil es gerade die Art
+                            <hi rend="italic">Seht es für lauter Freude an!</hi> Warum? Weil es gerade die Art
                         des verborgenen Lebens ist, das Gott in uns wecken will, dass es im
                         harten Kampf mit den <term type="Sachen" key="Versuchung">Versuchungen</term> erworben werden muss. Gott hat uns in die Welt
                             <term type="Sachen" key="Mensch, in die Welt hineingestellt">hineingestellt</term>, wie sie ist, nicht in ein Märchenland.
-                            <hi rend="i">In</hi> der Welt seinen Willen tun, das ist unsre Aufgabe,
+                            <hi rend="italic">In</hi> der Welt seinen Willen tun, das ist unsre Aufgabe,
                         gar nichts Andres. Und <pb xml:id="p291" ed="pga"/> Gott hat uns als Menschen
                         geschaffen, nicht als Engel. <pb ed="A" rend="hidden" n="14"/> Als
-                            <hi rend="i">Menschen</hi> seinen <term type="Sachen" key="Wille Gottes">Willen</term> zu tun, nicht als irgend etwas Anderes,
+                            <hi rend="italic">Menschen</hi> seinen <term type="Sachen" key="Wille Gottes">Willen</term> zu tun, nicht als irgend etwas Anderes,
                         Selbsterdachtes, das ist das Ziel, das er uns gesteckt hat. Und darum
                         ist es nichts mit dem Davonlaufen vor der <term type="Sachen" key="Weltflucht">Welt</term>, erstens, weil es nicht möglich ist,
                         und zweitens, weil es nicht ganz aufrichtig ist, und drittens, weil es
@@ -496,7 +498,7 @@
                                 <l>Sich ein Charakter in dem Strom der Welt.<note xml:id="n11">
                                         <bibl corresp="kbga-bibls-833">
                                             <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                            <hi rend="i">Torquato Tasso</hi>, erster Aufzug, zweiter
+                                            <hi rend="italic">Torquato Tasso</hi>, erster Aufzug, zweiter
                                         Auftritt (­Leonore).</bibl>
                                     </note>
                                 </l>
@@ -504,19 +506,19 @@
                         </q>
                         <p rend="noindent">Will sagen: wenn du auf eine Insel im Stillen Ozean gehst
                         wie <term type="Sachen" key="Crusoe, Robinson">Robinson</term>,<note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-2617">
-                                    <persName ref="kbga-actors-9225">D. Defoe</persName>, <hi rend="i">The life and strange
+                                    <persName ref="kbga-actors-9225">D. Defoe</persName>, <hi rend="italic">The life and strange
                                 surprizing adventures of Robinson Crusoe, of York,
                                 mariner</hi>, London 1719</bibl>; <bibl corresp="kbga-bibls-2618">deutsche Übersetzung z. B.:
-                                <hi rend="i">Defoe’s Robinson Crusoe</hi>, aus dem Engl. von
+                                <hi rend="italic">Defoe’s Robinson Crusoe</hi>, aus dem Engl. von
                             K. Altmüller, Leipzig [1895]</bibl>.</note> um da deine Tage zuzubringen,
                         so magst du dort ein geschickter Handwerker oder Künstler, ein großer
                         Naturforscher und Gelehrter werden, ein Charakter, ein Christ wirst du
                         so nicht.</p>
-                    <p>Ein Christ wirst du aber dann, wenn du mit beiden Füßen auf dieser <term type="Sachen" key="Christen, stehen mit beiden Füßen auf der Erde">Erde</term> stehst, <hi rend="i">in</hi> den Aufgaben deines <term type="Sachen" key="Beruf">Berufs</term>, <hi rend="i">in</hi> deiner
+                    <p>Ein Christ wirst du aber dann, wenn du mit beiden Füßen auf dieser <term type="Sachen" key="Christen, stehen mit beiden Füßen auf der Erde">Erde</term> stehst, <hi rend="italic">in</hi> den Aufgaben deines <term type="Sachen" key="Beruf">Berufs</term>, <hi rend="italic">in</hi> deiner
                             <term type="Sachen" key="Familie">Familie</term> und deinem
-                        Freundeskreis, <hi rend="i">in</hi> deinem <term type="Sachen" key="Vaterland">Vaterland</term> und deiner <term type="Sachen" key="Gemeinde">Gemeinde</term> und wenn du da tapfer all dem ins
+                        Freundeskreis, <hi rend="italic">in</hi> deinem <term type="Sachen" key="Vaterland">Vaterland</term> und deiner <term type="Sachen" key="Gemeinde">Gemeinde</term> und wenn du da tapfer all dem ins
                         Auge siehst, was dich an dir selbst und an Gott irre machen möchte.
-                            <hi rend="i">Da</hi> verlangt Gott deinen Dienst, nicht auf fernen
+                            <hi rend="italic">Da</hi> verlangt Gott deinen Dienst, nicht auf fernen
                         Inseln. Siehst du, es kommt Alles darauf an, dass der Wille Gottes dir
                         etwas Lebendiges werde, dass er dir nicht ein bloßer Glaubenssatz sei,
                         sondern dass er dir Aufgaben und Ziele stelle. Dann ist’s aber
@@ -530,7 +532,7 @@
                         anderswoher kommen. Was sich jetzt Gott entgegenzustellen scheint, was
                         dir eine Gelegenheit werden möchte, sinnlos und gottlos zu werden, das
                         kann und soll vielmehr eine Gelegenheit werden, Gott näher zu kommen,
-                        wenn du es als eine Aufgabe verstehst, als eine Auffor<pb xml:id="p292" ed="pga"/>derung, den guten Kampf zu kämpfen [vgl. <ref type="can" subtype="bible" target="1.Tim.6.12">1.Tim. 6,12</ref>]. Ohne diesen
+                        wenn du es als eine Aufgabe verstehst, als eine Auffor<pb xml:id="p292" ed="pga" break="no"/>derung, den guten Kampf zu kämpfen [vgl. <ref type="can" subtype="bible" target="1.Tim.6.12">1.Tim. 6,12</ref>]. Ohne diesen
                         Kampf könnten wir ja Gott nicht näher kommen, wir verstünden gar nicht,
                         was das <term type="Sachen" key="Gutes / das Gute">Gute</term> ist, zu
                         dem er uns erziehen will, wenn wir nicht täglich, stündlich die
@@ -548,10 +550,10 @@
                         Gelegenheiten zum Kämpfen und Siegen nicht weit zu suchen, du brauchst
                         sie überhaupt nicht zu suchen. Du brauchst kein <persName ref="kbga-actors-2832">Don Quixote</persName> zu werden, der auf
                         allerlei Abenteuer mit der Welt auszieht, um Gott zu dienen.<note xml:id="n13">Vgl. <bibl corresp="kbga-bibls-2619">
-                                    <persName ref="kbga-actors-9226">M. de Cervantes Saavedra</persName>, <hi rend="i">El
+                                    <persName ref="kbga-actors-9226">M. de Cervantes Saavedra</persName>, <hi rend="italic">El
                                 ingenioso hidalgo Don Quijote de la Mancha</hi>, Madrid
                             1605/1615</bibl>, deutsche Übersetzung: <bibl corresp="kbga-bibls-2620">
-                                    <hi rend="i">Der sinnreiche Junker Don
+                                    <hi rend="italic">Der sinnreiche Junker Don
                                 Quixote von der Mancha</hi>, Stuttgart 1870<hi rend="sup">3</hi></bibl>.</note> Sei aber ein Held <persName ref="kbga-actors-9224">Roland</persName>, du weißt schon, wo das Tal
                         Ronceval liegt, durch das gerade du ziehen musst.<note xml:id="n14">Das mittelalterliche «Rolandslied des Pfaffen Konrad»
                             basiert auf dem Konflikt zwischen Christen und Mauren in Spanien und
@@ -570,7 +572,7 @@
                         Gottes in dir es gebietet, in deiner Arbeit, in deinem Verkehr mit den
                         Andern. Wenn du einmal gemerkt hast, wie schwer das ist, verstehst du
                         das Wort des <persName ref="kbga-actors-8959">Jakobus</persName>. Die
-                        Freude, die der Christ auch in den Ver<pb ed="A" rend="hidden" n="16"/>suchungen erlebt, besteht darin, dass der Weg über die Ver<pb xml:id="p293" ed="pga"/>suchungen weg und <hi rend="i">nur</hi> dieser der Weg zu
+                        Freude, die der Christ auch in den Ver<pb ed="A" rend="hidden" n="16"/>suchungen erlebt, besteht darin, dass der Weg über die Ver<pb xml:id="p293" ed="pga" break="no"/>suchungen weg und <hi rend="italic">nur</hi> dieser der Weg zu
                             <term type="Sachen" key="Versuchung, Weg zu Gott">Gott</term> ist.
                         Es ist ein ungemein schlichter, schmaler und steiler Weg, aber es ist
                         der königliche Weg der Freiheit!</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-27008">
   <teiHeader>
     <fileDesc>
@@ -6,7 +6,7 @@
         <title type="volume" n="vol-27">Predigten 1915</title>
         <title type="content">Predigt: Lukas 12,32: "Gottes Vorhut"</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Lukas 12,32: "Gottes Vorhut", 14. Februar 1915</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27008 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/27008 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1915, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 1996, S. 52–68.</title>
       </titleStmt>
       <editionStmt>
@@ -28,8 +28,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1915</title>
-          <title type="text">[259]</title>
+          <title type="text">Predigt: Lukas 12,32: "Gottes Vorhut"</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1996</date>
@@ -70,13 +71,13 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:14+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:14+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <div type="sermon">
-        <pb xml:id="p052" ed="pga"/>
+        <pb xml:id="p052" ed="pga" rend="noPipe"/>
         <div type="opener">
       <head>
                         <idno>[259]</idno>
@@ -90,15 +91,15 @@
       Predigt selbst schrieb <persName ref="kbga-actors-2151">Barth</persName>: «Sie war die letzte einer Reihe von Predigten, in denen ich
       versuchte, zu zeigen, wie unsre Zeit als eine besondere Gottesreichszeit aufgefaßt und erlebt
       werden müsse.» <persName ref="kbga-actors-2151">Barths</persName> «Kriegsbrief» (<bibl corresp="kbga-bibls-966"><persName ref="kbga-actors-2151">K. Barth</persName> / <persName ref="kbga-actors-329">M. Rade</persName>,
-         <hi rend="i">Ein Briefwechsel</hi>, hrsg. von Chr. Schwöbel,
+         <hi rend="italic">Ein Briefwechsel</hi>, hrsg. von Chr. Schwöbel,
          Gütersloh
-                        1981, S. 95-98) war in Neue Wege. Blätter für
-        religiöse Arbeit, Jg. 8 (1914), S. 429-432 veröffentlicht worden.</bibl>
+                        1981, S. 95–98) war in Neue Wege. Blätter für
+        religiöse Arbeit, Jg. 8 (1914), S. 429–432 veröffentlicht worden.</bibl>
       Die Predigt über <ref type="can" subtype="bible" target="Lk.12.32">Lk. 12,32</ref> erschien
             dann in: <bibl corresp="kbga-bibls-2011">Neue Wege …, Jg. 9
-        (1915), S. 89-97.</bibl> Dem im folgenden dargebotenen Text liegt die
+        (1915), S. 89–97.</bibl> Dem im folgenden dargebotenen Text liegt die
             Druckfassung zugrunde. <persName ref="kbga-actors-403">Thurneysen</persName> hat sich auf <persName ref="kbga-actors-2151">Barths</persName> Bitte hin zu dieser Predigt geäußert
-       (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p036#p036">S. 36-38</ref></bibl>). Übrigens
+       (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p036#p036">S. 36–38</ref></bibl>). Übrigens
       sprechen von da an die Freunde gerne von der «kleinen Herde» im Blick auf die einsichtigen
       Glieder der Kirche (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p059#p059">S. 59</ref>.<ref type="pub" target="../volume/03/p116#p116">116</ref>.<ref type="pub" target="3143">175</ref>
         u.ö.</bibl>).</p>
@@ -170,7 +171,7 @@
      [vgl. <ref type="can" subtype="bible" target="Jak.1.17">Jak. 1,17</ref>] — das ist das
           geheimnisvolle Ende der Wege Gottes<note xml:id="n02">Anspielung auf das bekannte Wort von <persName ref="kbga-actors-306">Fr.
       Chr. Oetinger</persName>: «Leiblichkeit ist das Ende des Werkes GOttes, wie aus der Stadt GOttes klar
-            erhellet Offenb. 20» (<bibl corresp="kbga-bibls-2009"><hi rend="i">Biblisches und Emblematisches
+            erhellet Offenb. 20» (<bibl corresp="kbga-bibls-2009"><hi rend="italic">Biblisches und Emblematisches
          Wörterbuch, dem Tellerischen Wörterbuch und Anderer falschen Schrifterklärungen entgegen
          gesezt</hi>, o. O. 1776, S. 407</bibl>). <persName ref="kbga-actors-2151">Barth</persName> gebraucht dieses Zitat — mit der
       Abweichung: «Wege» statt «Werke» — häufig.</note>. Aber der Weg dahin ist anders, als wir es
@@ -222,7 +223,7 @@
      allein, dort ein paar Freunde, die sich darüber freuen, daß sie sich ⌜so gut⌝ verstehen, ein
      junger Mensch, ein Mann in voller Arbeitskraft, eine feine stille Frauenseele, ein alter müder
      ⌜und doch fröhlicher⌝ Lebenswanderer, ein Kind — am meisten Kinder und Junge vielleicht, ⌜weil⌝ die
-     noch nicht abgestumpft ⌜und enttäuscht⌝ und abgeschlossen und ein<pb ed="A" n="91"/>geschachtelt sind. Hier ein paar
+     noch nicht abgestumpft ⌜und enttäuscht⌝ und abgeschlossen und ein<pb ed="A" n="91" break="no"/>geschachtelt sind. Hier ein paar
      und dort ein paar. Aber kein Verein, keine «Gemeinschaft», keine Kirche, keine Partei. Wenn man
      «Gemeinschaften» und Parteien gründet, dann ist das gewöhnlich ein Zeichen, daß die
      geheimnisvolle Segenszeit schon vorbei ⌜ist⌝, daß auf den Frühling der Sommer gefolgt ist. Diese
@@ -331,7 +332,7 @@
       Apostel <persName ref="kbga-actors-313">Paulus</persName> an die korinthischen Christen schreiben».</note> nicht viel Weise nach dem
      Fleisch, nicht viel Gewaltige, nicht viel Edle sind berufen, sondern was töricht und was
      schwach ist vor der Welt, und das Unedle und Verachtete vor der Welt, das hat Gott erwählt!»
-     [vgl. <ref type="can" subtype="bible" target="1.Kor.1.26 1.Kor.1.28">1.Kor. 1,26-28</ref>]. Was für eine unscheinbare Sache nach Zahl und Art.<note place="footnote" n="be" type="textcritical" xml:id="nbe">
+     [vgl. <ref type="can" subtype="bible" target="1.Kor.1.26 1.Kor.1.28">1.Kor. 1,26–28</ref>]. Was für eine unscheinbare Sache nach Zahl und Art.<note place="footnote" n="be" type="textcritical" xml:id="nbe">
                             <ref corresp="B">Mskr.</ref>: «Was
        für eine durch und durch unscheinbare Sache, von außen betrachtet!»</note> ⌜Aber von diesen
           Leuten hat ein alter Dichter, der sie gut verstand, geschrieben:⌝ 
@@ -340,7 +341,7 @@
             <l>Doch innerlich sind sie aus göttlichem Stamme,</l>
             <l>Die Gott durch sein mächtig Wort selber gezeugt,</l>
             <l>Ein Funke und Flämmlein aus göttlicher Flamme,</l>
-            <l>Die oben Jerusalem freundlich gesäugt.<note xml:id="n05">Aus der <bibl corresp="kbga-songs-69" type="song">4. Strophe des Liedes «Es glänzet der Christen inwendiges Leben» von <persName ref="kbga-actors-2243">Chr. Fr. Richter</persName>; die von <persName ref="kbga-actors-2151">Barth</persName> zitierte Originalfassung findet sich z.B. in: <hi rend="i">Gesangbuch für die evangelisch-reformierte Gemeinde zu Lübeck</hi>, Lübeck 1832, Nr. 221, 3; andere Textfassungen: GERS (1952) 307, 3 und EKG 265, 4.</bibl>
+            <l>Die oben Jerusalem freundlich gesäugt.<note xml:id="n05">Aus der <bibl corresp="kbga-songs-69" type="song">4. Strophe des Liedes «Es glänzet der Christen inwendiges Leben» von <persName ref="kbga-actors-2243">Chr. Fr. Richter</persName>; die von <persName ref="kbga-actors-2151">Barth</persName> zitierte Originalfassung findet sich z.B. in: <hi rend="italic">Gesangbuch für die evangelisch-reformierte Gemeinde zu Lübeck</hi>, Lübeck 1832, Nr. 221, 3; andere Textfassungen: GERS (1952) 307, 3 und EKG 265, 4.</bibl>
                                     </note>
                                 </l>
                             </lg>
@@ -379,8 +380,7 @@
                             <ref corresp="B">Mskr.</ref>: «als die Kinder des
             Vaters sein Licht».</note> leuchten vor den Leuten, wie ihr Meister<note place="footnote" n="bn" type="textcritical" xml:id="nbn">
                             <ref corresp="B">Mskr.</ref>:
-      «wie es Jesus».</note> sie geheißen [<ref type="can" subtype="bible" target="Mt.5.16">Mt. 5,
-        16</ref>], gehen hierhin und dorthin zu <term ref="kbga-terms-783">Juden</term> und <term ref="kbga-terms-109">Heiden</term><note place="footnote" n="bo" type="textcritical" xml:id="nbo">
+      «wie es Jesus».</note> sie geheißen [<ref type="can" subtype="bible" target="Mt.5.16">Mt. 5,16</ref>], gehen hierhin und dorthin zu <term ref="kbga-terms-783">Juden</term> und <term ref="kbga-terms-109">Heiden</term><note place="footnote" n="bo" type="textcritical" xml:id="nbo">
                             <ref corresp="B">Mskr.</ref>: «zu den
       Juden und zu den Heiden».</note>, sagen es ihnen, was sie wissen, mühen sich endlos, ihnen
      allen das Geheimnis des Lebens entdecken zu helfen, das sie
@@ -389,7 +389,7 @@
                             <ref corresp="B">Mskr.</ref>: «als ob es selbstverständlich
        wäre».</note>, gehen fröhlich weiter als die Musikanten des lieben Gottes<note xml:id="n08">Als Musikanten des lieben Gottes = <foreign xml:lang="lat">ioculatores Domini</foreign> wollte <persName ref="kbga-actors-555">Franz von Assisi</persName> seine Brüder
          wirken sehen. In: <bibl corresp="kbga-bibls-119">
-                                <hi rend="i">Der Römerbrief (Erste Fassung)
+                                <hi rend="italic">Der Römerbrief (Erste Fassung)
          1919</hi>, hrsg. von H. Schmidt (Gesamtausgabe, Abt. II), <ref type="pub-" target="../volume/16/p569#p569">S.
            569</ref></bibl>, stellt <persName ref="kbga-actors-2151">Barth</persName> den lateinischen Ausdruck neben den deutschen und gibt
       dadurch den Ursprung zu erkennen. Dort auch der Beleg.</note>, die sich nicht wundern, wenn
@@ -398,7 +398,7 @@
      brauchen kann in der Welt. Das war die kleine Herde von damals. ⌜Sie war eben keine «Auslese der
      Tüchtigsten und Besten»<note xml:id="n09">Anspielung auf die Lehre von <bibl corresp="kbga-bibls-2008">
                                 <persName ref="kbga-actors-2013">Ch. Darwin</persName> in seinem
-      Buch <hi rend="i">On the Origin of Species by Means of Natural
+      Buch <hi rend="italic">On the Origin of Species by Means of Natural
          Selection, or The Preservation of Favoured Races in the Struggle for Life</hi>,
          London 1859 (Über die Entstehung
          der Arten im Thier und Pflanzen-Reich durch natürliche Züchtung, oder Erhaltung der
@@ -430,7 +430,7 @@
           ausgeworfen, erst recht beginnen<note place="footnote" n="bz" type="textcritical" xml:id="nbz">
                             <ref corresp="B">Mskr.</ref>: «erst jetzt so recht
       beginnen».</note>. Ja, ihnen war das Reich gegeben von ihrem Vater, dieser kleinen Herde von
-          damals! O diese glücklichen Wenigen! Diese seligen Helden und Stürmer und Dränger!<note xml:id="n10">Vgl. die Predigt vom 24. Januar über <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11,12</ref>, s. oben <ref type="pub" target="../volume/27/p022#p022">S. 22-33</ref>.</note> O die armen Meisten von damals,
+          damals! O diese glücklichen Wenigen! Diese seligen Helden und Stürmer und Dränger!<note xml:id="n10">Vgl. die Predigt vom 24. Januar über <ref type="can" subtype="bible" target="Mt.11.12">Mt. 11,12</ref>, s. oben <ref type="pub" target="../volume/27/p022#p022">S. 22–33</ref>.</note> O die armen Meisten von damals,
      die von dem allem nichts fanden und gewannen! O die Armen, die nicht bereit waren, als das
      Reich Gottes ihnen so nahe kam, die für das Göttliche an<note place="footnote" n="ca" type="textcritical" xml:id="nca">
                             <ref corresp="B">Mskr.</ref>: «in».</note>
@@ -516,7 +516,7 @@
                             <ref corresp="B">Mskr.</ref>: « — wir sollen
        nicht an sie glauben, wir sollen an Gott glauben, der ganz anders ist als sie.»</note> ⌜Denn
      Gott offenbart sich uns jetzt in der schrecklichen «Wirklichkeit» der Menschenwelt, nicht damit
-     wir <hi rend="i">sie</hi> anerkennen, sondern damit wir dazu kommen, <hi rend="i">ihn</hi>
+     wir <hi rend="italic">sie</hi> anerkennen, sondern damit wir dazu kommen, <hi rend="italic">ihn</hi>
           wieder zu anerkennen, der uns im Evangelium seine wunderbare Welt erschlossen hat.⌝ Menschen
      braucht es nun, die an die Wirklichkeit der Gotteswelt glauben, in ihr ihren Standort nehmen
      und darum innerlich frei sind von der Gefangenschaft der Vergangenheit und Gegenwart.<note place="footnote" n="cz" type="textcritical" xml:id="ncz">
@@ -527,18 +527,18 @@
       «standen».</note> die ersten
           <pb xml:id="p064" ed="pga"/> Christen in einer ebenso finstern Welt wie die unsrige gebetet<note place="footnote" n="db" type="textcritical" xml:id="ndb">
                             <ref corresp="B">Mskr.</ref>: «wie
-      die unsere und beteten».</note>: es vergehe <hi rend="i">diese</hi> Welt und es komme <hi rend="i">dein</hi> Reich!<note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-1615">Didache 10,6</bibl>:<foreign xml:lang="grc" rend="Ell">Ἐλθέτω χάρις καὶ
+      die unsere und beteten».</note>: es vergehe <hi rend="italic">diese</hi> Welt und es komme <hi rend="italic">dein</hi> Reich!<note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-1615">Didache 10,6</bibl>:<foreign xml:lang="grc" rend="Ell">Ἐλθέτω χάρις καὶ
        παρελθέτω ὁ κόσμος οὗτος</foreign>
                </note> Sie lebten in der Hoffnung. In ihrer Hoffnung
      und nur in ihr hatten sie Gottvertrauen, Stärke im Leiden, Gewissenstrost, Freiheit zu gutem
-     Tun. Wird es uns auch wieder geschenkt werden, so in der Hoffnung zu leben — zu <hi rend="i">leben</hi> und nicht bloß neben allerlei Götzendienst auch noch eine Hoffnung zu haben? —, in
-     der <hi rend="i">Hoffnung</hi> zu leben und nicht in einer Religiosität, die mit dem Gott und
+     Tun. Wird es uns auch wieder geschenkt werden, so in der Hoffnung zu leben — zu <hi rend="italic">leben</hi> und nicht bloß neben allerlei Götzendienst auch noch eine Hoffnung zu haben? —, in
+     der <hi rend="italic">Hoffnung</hi> zu leben und nicht in einer Religiosität, die mit dem Gott und
      Vater, den uns Jesus erschlossen, eigentlich gar nichts zu tun hat? Das ist die große, tiefe
      Frage unserer Zeit, ob Gott nun Menschen finden wird, die sich solches Leben in der Hoffnung
      schenken lassen. Wenn Gott uns irgend etwas zu sagen hat durch diesen Krieg, so ist es doch
      das, daß er wahr machen will<note place="footnote" n="dc" type="textcritical" xml:id="ndc">Anstelle des Passus ab «Sie lebten in der
-      Hoffnung» heißt es im <ref corresp="B">Mskr.</ref>: «Es komme <hi rend="i">dein</hi> Reich! Nun braucht es Menschen,
-      die in der Hoffnung leben — darin <hi rend="i">leben</hi> und nicht bloß neben allerlei
+      Hoffnung» heißt es im <ref corresp="B">Mskr.</ref>: «Es komme <hi rend="italic">dein</hi> Reich! Nun braucht es Menschen,
+      die in der Hoffnung leben — darin <hi rend="italic">leben</hi> und nicht bloß neben allerlei
       Götzendienst auch noch eine Hoffnung haben — die Hoffnung, daß Gott wahr machen wird
      …»</note>, was er verheißen hat. Daß diese ganze Welt voll Mißtrauen und Militär und Haß und
           Interessenpolitik und sogenannter Vaterlandsliebe eigentlich und wirklich eine<note place="footnote" n="dd" type="textcritical" xml:id="ndd">
@@ -625,7 +625,7 @@
         dieser».</note> kleinen Herde gehören, wer zur<note place="footnote" n="dw" type="textcritical" xml:id="ndw">
                             <ref corresp="B">Mskr.</ref>: «zu der».</note>
      großen Masse, die nichts merkt und weiterschläft? Seht, noch handelt es sich heute nicht darum,
-     etwas zu <hi rend="i">tun</hi>. Noch ist alles viel zu sehr in Verwirrung und im Unklaren<note place="footnote" n="dx" type="textcritical" xml:id="ndx">
+     etwas zu <hi rend="italic">tun</hi>. Noch ist alles viel zu sehr in Verwirrung und im Unklaren<note place="footnote" n="dx" type="textcritical" xml:id="ndx">
                             <ref corresp="B">Mskr.</ref>: «im Werden».</note>, als daß jetzt schon
           <pb xml:id="p067" ed="pga"/> gesagt werden könnte, was denn geschehen muß als erste<note place="footnote" n="dy" type="textcritical" xml:id="ndy">
                             <ref corresp="B">Mskr.</ref>:
@@ -642,16 +642,16 @@
                             <ref corresp="B">Mskr.</ref>: «Vermögen».</note>, noch
      deine Familie, noch dein Leben in Gefahr zu bringen. Du brauchst kein Prophet noch
      Märtyrer<note place="footnote" n="ec" type="textcritical" xml:id="nec">
-                            <ref corresp="B">Mskr.</ref>: «noch kein Prophet und Märtyrer».</note> zu werden. <hi rend="i">Warte</hi> auf Gott, wenn du verstehst, daß auf <hi rend="i">Gott</hi> warten
+                            <ref corresp="B">Mskr.</ref>: «noch kein Prophet und Märtyrer».</note> zu werden. <hi rend="italic">Warte</hi> auf Gott, wenn du verstehst, daß auf <hi rend="italic">Gott</hi> warten
             wichtiger ist als das größte Tun!<note place="footnote" n="ed" type="textcritical" xml:id="ned">Anstelle dieses Satzes heißt es im <ref corresp="B">Mskr.</ref>:
               «Alles derartige Handeln wird dann auch kommen, wenn es an der Zeit ist.»</note> Noch<note place="footnote" n="ee" type="textcritical" xml:id="nee">
-                            <ref corresp="B">Mskr.</ref>: «Für jetzt».</note> handelt es sich «nur» darum, für welchen <hi rend="i">Glauben</hi> du dich entscheiden willst: für den Glauben der kleinen Herde der Einsamen, der
+                            <ref corresp="B">Mskr.</ref>: «Für jetzt».</note> handelt es sich «nur» darum, für welchen <hi rend="italic">Glauben</hi> du dich entscheiden willst: für den Glauben der kleinen Herde der Einsamen, der
      Stillen, der Träumer und Törichten oder für den Glauben des großen Heeres der Klugen,
      Nüchternen und Praktischen?<note place="footnote" n="ef" type="textcritical" xml:id="nef">
-                            <ref corresp="B">Mskr.</ref>: «… für <hi rend="i">den</hi> Glauben, der
+                            <ref corresp="B">Mskr.</ref>: «… für <hi rend="italic">den</hi> Glauben, der
       wahrscheinlich auch jetzt wieder der Glaube der kleinen Herde sein wird, der Einsamen,
       Zerstreuten, Stillen im Land, die Augen und Ohren haben, um zu hören und zu sehen, was Gott
-      jetzt tut — oder für <hi rend="i">den</hi> Glauben, der wahrscheinlich auch jetzt wieder der
+      jetzt tut — oder für <hi rend="italic">den</hi> Glauben, der wahrscheinlich auch jetzt wieder der
       Glaube der großen Menge sein wird.»</note> Du weißt, wie sich diese beiden Glauben
      unterscheiden: Der eine ist Glaube an Gott und an die Wahrheit, der andere ist Glaube an die
      Götzen und an das, was immer so war und <pb ed="A" n="97"/> immer so sein wird. Nun wähle! Das ist die
@@ -669,7 +669,7 @@
       ist. Ich kann mich doch nicht so verhaßt und unmöglich machen. Was wird aus meinem Verdienst
       und Geschäft, aus meiner Familie und meiner Person werden, wenn dann wirklich aus dem Glauben
       einmal die Tat hervorgehen soll? Das ist schrecklich, das ist schwierig, das ist unmöglich. Du
-      hast zehnmal Recht, wenn du Angst hast. Es ist wahr, es <hi rend="i">ist</hi> schrecklich.
+      hast zehnmal Recht, wenn du Angst hast. Es ist wahr, es <hi rend="italic">ist</hi> schrecklich.
       Aber nun sagt Jesus von der anderen Seite: fürchte dich nicht, du kleine Herde! Und das ist
       auch wahr.»</note> ⌜Vielleicht, daß wir dann doch mit jenem Sänger des inneren Lebens aus
           vergangenen Tagen den Mut fassen, zu beten:⌝ 

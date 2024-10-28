@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53035">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 33</title>
         <title type="content">Predigt: Jakobus 1,13-18</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,13-18, 13. Februar 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53035 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53035 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 33: Predigt: Jakobus 1,13-18</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p348" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>33</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-02-13">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-02-13">Sonntag, den
                             13. Februar 1910</date> <date rend="right">(<choice><sic>Sontag</sic>
                                 <corr type="misprint">Sonntag</corr>
                             </choice> Invocavit)</date>
@@ -124,7 +126,7 @@
                 <p> Denn in der merkwürdigen Frage, die <persName ref="kbga-actors-8959">Jakobus</persName> in unsern Textworten verhandelt, steckt wieder eine
                     Lebensfrage. Gott versucht den Menschen zum Bösen, das würde ja nichts
                     Anderes bedeuten als: die <term type="Sachen" key="Entscheidung, Gut oder Böse">Entscheidung</term> zwischen Gut und
-                    Böse trifft nicht der Mensch, sondern sie trifft <hi rend="i">ihn</hi>, als ein
+                    Böse trifft nicht der Mensch, sondern sie trifft <hi rend="italic">ihn</hi>, als ein
                     Ereignis, über das er keine Gewalt hat, wie ihn auch wohl ein Hagelwetter
                     treffen kann. Gott versucht den Menschen, das würde bedeuten: es ist
                     unmöglich, den Menschen für die Richtung, die sein Leben nimmt,
@@ -133,9 +135,9 @@
                     Angelegenheit seines Lebens nicht frei, sondern unfrei. Mit andern Worten:
                     in der alten theologischen Frage, von der unser Textwort redet, steckt die
                     Lebensfrage nach der <term type="Sachen" key="Verantwortlichkeit">
-                            <hi rend="i">Verantwortlichkeit</hi></term>, die Frage, ob es überhaupt
+                            <hi rend="italic">Verantwortlichkeit</hi></term>, die Frage, ob es überhaupt
                     angeht, von einem menschlichen <term type="Sachen" key="Mensch, freier Wille">
-                            <hi rend="i">Willen</hi></term> zu reden und an
+                            <hi rend="italic">Willen</hi></term> zu reden und an
                     ihn zu appellieren, oder ob das, was wir so nennen, nichts Anderes ist als
                     ein im Grunde bewusstloses Stück der merkwürdigen großen Maschine des
                     Daseins, über die der eine <pb ed="A" rend="hidden" n="3"/> das Wort «Gott»
@@ -156,15 +158,15 @@
                         lange, doch blieben sie über die populärwissenschaftliche Rezeption
                         seiner Hauptwerke, die teils mehrfach übersetzt, erweitert und neu
                         aufgelegt wurden, lange im öffentlichen Gedächtnis: <bibl corresp="kbga-bibls-2644">
-                                <persName ref="kbga-actors-9247">C. Lombroso</persName>, <hi rend="i">Genio
+                                <persName ref="kbga-actors-9247">C. Lombroso</persName>, <hi rend="italic">Genio
                             e follia in rapporto alla psichiatria, alla storia ed
                             all’estetica</hi>, Milano 1864</bibl> (deutsch: <bibl corresp="kbga-bibls-2645">
-                                <hi rend="i">Genie und
+                                <hi rend="italic">Genie und
                             Irrsinn in ihren Beziehungen zum Gesetz, zur Kritik und zur
-                            Geschichte</hi>, Leipzig 1887</bibl>);<bibl corresp="kbga-bibls-2646"> <persName ref="kbga-actors-9247">ders.</persName>, <hi rend="i">L’Uomo
+                            Geschichte</hi>, Leipzig 1887</bibl>);<bibl corresp="kbga-bibls-2646"> <persName ref="kbga-actors-9247">ders.</persName>, <hi rend="italic">L’Uomo
                             delinquente in rapporto all’antropologia, alla giurisprudenza
                             ed alle discipline cacerarie</hi>, Torino 1876</bibl> (deutsch: <bibl corresp="kbga-bibls-2647">
-                                <hi rend="i">Der
+                                <hi rend="italic">Der
                             Verbrecher in anthropologischer, ärztlicher und juristischer
                             Beziehung</hi>, Hamburg 1887</bibl>).</note> wird hier der eine ein
                     guter, dort <pb xml:id="p350" ed="pga"/> der andre ein böser Mensch, wie hier ein
@@ -196,9 +198,9 @@
                     so! Das ist meine Natur! Wenn wir uns so freundlich lächelnd vor uns selbst
                     und den andern entschuldigen, so mag daran freilich die Theorie <persName ref="kbga-actors-9247">Lombrosos</persName> oder die
                     Meinung, dass Gott die Menschen versuche, die geringste Schuld tragen. Wohl
-                    aber ist eine gewisse Gesinnung in uns allen daran schuld. <hi rend="i">Sie</hi><note type="textcritical" n="a" xml:id="na"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                    aber ist eine gewisse Gesinnung in uns allen daran schuld. <hi rend="italic">Sie</hi><note type="textcritical" n="a" xml:id="na"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                          bringt im letzten Grunde <pb xml:id="p351" ed="pga"/> jene
-                    Meinungen hervor, jedenfalls ist <hi rend="i">sie</hi><note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                    Meinungen hervor, jedenfalls ist <hi rend="italic">sie</hi><note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                          es, die sie populär und beliebt macht. Diese Gesinnung
                     besteht in dem Verlangen, dass durch das Wort Verantwortlichkeit ein dicker
                     Strich gemacht werde. Dies Verlangen äußert sich dann unter Umständen in dem
@@ -216,18 +218,18 @@
                     bekannt und <pb ed="A" rend="hidden" n="5"/> dringlich ist, als in Form der
                     Redensart und der Stimmung: Ich bin einmal so! Das ist meine Natur, so
                     wollen wir zunächst von diesem letztern Punkt ausgehen, Ist jene Redensart
-                    giltig oder nicht? Ist das <term type="Sachen" key="Böses / das Böse">Böse</term> an <hi rend="i">uns</hi> und das <term type="Sachen" key="Gutes / das Gute">Gute</term> eine Naturerscheinung wie Regenwetter
+                    giltig oder nicht? Ist das <term type="Sachen" key="Böses / das Böse">Böse</term> an <hi rend="italic">uns</hi> und das <term type="Sachen" key="Gutes / das Gute">Gute</term> eine Naturerscheinung wie Regenwetter
                     und Sonnenschein, oder ist der Mensch in diesen Dingen frei und darum <term type="Sachen" key="Verantwortlichkeit">verantwortlich</term>?</p>
                 <p>Wir können dazu gleich den schönen Gedanken ins Auge fassen, den <persName ref="kbga-actors-8959">Jakobus</persName> in unsrer Stelle über
                     Gottes Art und Wesen zum Ausdruck bringt. Jakobus ist der Meinung gewesen,
                     es sei nichts mit jener Redensart. Es sei nicht wahr, dass Gott zum Bösen
                     versuche oder dass einer durch seine Natur gezwungen sei, böse zu sein.
-                    Vielmehr: <hi rend="i">gute Gabe allein und nur vollkommene Spende kommt von oben
+                    Vielmehr: <hi rend="italic">gute Gabe allein und nur vollkommene Spende kommt von oben
                         herab</hi>. Das will sagen: Die verborgene unbedingte Macht, die über
                     die Welt und die Menschen Gewalt hat, ist nicht ein Rätselwesen, das
                     zweideutig Böses und Gutes in sich bürge sondern sie ist rein und
                     unzweideutig die Macht des Guten. Gott ist nicht Helldunkel, sondern Gott
-                    ist das Licht. Den <hi rend="i">Vater der <term type="Sachen" key="Gott, Vater der Lichter">Lichter</term></hi> nennt ihn
+                    ist das Licht. Den <hi rend="italic">Vater der <term type="Sachen" key="Gott, Vater der Lichter">Lichter</term></hi> nennt ihn
                     Jakobus, und wir erraten unschwer, auf was er da anspielt. Er meint die
                     Lichter, die ihre Bahn gehen an dem ungeheuren Gewölbe des <term type="Sachen" key="Himmel">Himmels</term>, das sich nach der Anschauung
                     des Altertums über die Erde spannt: die Sonne, der Mond und</p>
@@ -249,11 +251,11 @@
                     ist beständig Veränderung und Wechsel. Das Licht des Tages, die Sonne, und
                     das Licht der Nacht, der Mond [vgl. <ref type="can" subtype="bible" target="Gen.1.16">Gen. 1,16</ref>], sie kommen und gehen, ihr Licht nimmt ab
                     und zu, es leidet <pb ed="A" rend="hidden" n="6"/> unter totalen und partiellen
-                    Finsternissen, und ebenso ist die <term type="Sachen" key="Sterne">Sternenwelt</term> beständigem Wechsel unterworfen. <hi rend="i">Die</hi>
-                    Lichter kommen, gehen, vergehen, <hi rend="i">das</hi> Licht bleibt, weil es
-                    unwandelbar und unvergänglich ist, Gott ist der Vater der <term type="Sachen" key="Gott, Vater der Lichter">Lichter</term>, <hi rend="i">bei
+                    Finsternissen, und ebenso ist die <term type="Sachen" key="Sterne">Sternenwelt</term> beständigem Wechsel unterworfen. <hi rend="italic">Die</hi>
+                    Lichter kommen, gehen, vergehen, <hi rend="italic">das</hi> Licht bleibt, weil es
+                    unwandelbar und unvergänglich ist, Gott ist der Vater der <term type="Sachen" key="Gott, Vater der Lichter">Lichter</term>, <hi rend="italic">bei
                         dem es keine <term type="Sachen" key="Gott, Unveränderlichkeit">Veränderung</term></hi>
-                    <hi rend="i">gibt noch eine Spur von Wechsel</hi>. Und so ist’s undenkbar,
+                    <hi rend="italic">gibt noch eine Spur von Wechsel</hi>. Und so ist’s undenkbar,
                     behauptet <persName ref="kbga-actors-8959">Jakobus</persName>, dass Gott zum
                     Bösen <term type="Sachen" key="Versuchung, zum Bösen">versuche</term>; was
                     von ihm kommt, ist gute Gabe und vollkommene Spende.</p>
@@ -278,10 +280,10 @@
                     anscheinend unterworfen <pb xml:id="p353" ed="pga"/> sind, tatsächlich nur um den
                     Wechsel der Anschauung, die wir Menschen auf der Oberfläche unsres kleinen
                     Gestirns von den Dingen haben. Und wenn somit die teilweise oder ganze
-                        <hi rend="i">Dunkelheit</hi>, in die sich die Gestirne nach bestimmten
+                        <hi rend="italic">Dunkelheit</hi>, in die sich die Gestirne nach bestimmten
                     Gesetzen hüllen, eine Sache unsrer menschlichen Anschauung ist, die nichts
                     zu tun hat mit einer wirklichen Veränderung, so gilt dasselbe, wenn wir vom
-                        <hi rend="i">Licht</hi> der <pb ed="A" rend="hidden" n="7"/> Sonne, des Mondes,
+                        <hi rend="italic">Licht</hi> der <pb ed="A" rend="hidden" n="7"/> Sonne, des Mondes,
                     der Sterne reden. Wir sehen sie als Lichter, weil wir gewohnt sind, sie
                     nicht anders wahrzunehmen als mittelst unsrer Augen. Aber dass wir sie in
                     dieser Weise wahrnehmen, das ändert nichts an ihrem Vorhandensein und an
@@ -313,8 +315,8 @@
                      zwingt, steht wie mit dem <pb xml:id="p354" ed="pga"/> Licht und dem Dunkel
                     der Gestirne, dass es nämlich – nicht Sache der Anschauungsweise
                     diesmal –, aber Sache der <term type="Sachen" key="Entscheidung, Gut oder Böse">Willensentscheidung</term> des
-                    Menschen ist. Es <hi rend="i">könnte</hi> so sein, sage ich, aber es könnte nicht
-                    nur, sondern es <hi rend="i">ist</hi> so. Was ist es denn mit diesem Mechanismus
+                    Menschen ist. Es <hi rend="italic">könnte</hi> so sein, sage ich, aber es könnte nicht
+                    nur, sondern es <hi rend="italic">ist</hi> so. Was ist es denn mit diesem Mechanismus
                     der Naturwelt, der angeblich gute und böse Menschen hervorbringen soll mit
                     der gleichen <pb ed="A" rend="hidden" n="8"/> Notwendigkeit, mit der er Schafe,
                     Apfelbäume und Leoparden hervorbringt? Ja, ich bitte euch, wie kommen denn
@@ -331,13 +333,13 @@
                     Natur an sich selber zuzuschreiben ist. Sondern wenn diese Dinge
                     Wirklichkeit sind und nicht bloß eine Illusion, wie man auch schon gemeint
                         hat,<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-882">
-                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="i">Götzen-Dämmerung
+                                <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="italic">Götzen-Dämmerung
                             oder Wie man mit dem Hammer philosophirt</hi>, Sämtliche Werke.
                         Kritische Studienausgabe in 15 Bänden, hrsg. von G. Colli / M.
                         Montinari, Bd. 6, München / Berlin 1999, S. 55–161, dort S. 99</bibl>:
                         «Man kennt meine Forderung an den Philosophen, sich
-                            <hi rend="i">jenseits</hi> von Gut und Böse zu stellen, - die Illusion
-                        des moralischen Urtheils <hi rend="i">unter</hi> sich zu haben.»</note> so
+                            <hi rend="italic">jenseits</hi> von Gut und Böse zu stellen, - die Illusion
+                        des moralischen Urtheils <hi rend="italic">unter</hi> sich zu haben.»</note> so
                     müssen sie anderswoher kommen.</p>
                 <p>Aber nun könnte jemand einwenden, das sei wieder einmal Rabulistik und
                     Philosophie, die die Dinge auf den Kopf stelle. Er würde uns z. B.
@@ -364,7 +366,7 @@
                     Lebensumstände nie in die Lage gekommen ist, Dinge zu tun, die man böse
                     heißt, deshalb schon einen guten Menschen zu nennen. Offenbar liegt eben das
                         <term type="Sachen" key="Gutes / das Gute">Gute</term> und das <term type="Sachen" key="Böses / das Böse">Böse</term> tatsächlich in etwas
-                    Anderem als in <hi rend="i">den</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                    Anderem als in <hi rend="italic">den</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                          Erscheinungen des menschlichen Lebens, die zum Naturgebiet
                     gehören. Das Böse ist etwas Anderes als eine Krankheit unsrer <term type="Sachen" key="Böses / das Böse, kein Naturphänomen">Natur</term>,
                     und das Gute ist etwas <term type="Sachen" key="Gutes / das Gute, kein Naturphänomen">Anderes</term> als ihre
@@ -379,7 +381,7 @@
                     sie uns denken müssen als aus einer guten Gesinnung hervorgegangen.</p>
                 <p>Gut und Böse gibt es offenbar nicht auf dem Gebiet der <pb ed="A" rend="hidden" n="10"/> Natur und der Naturerkenntnis, wohl aber auf dem Gebiet der
                     Gesinnung und der <term type="Sachen" key="Erkenntnis, Selbsterkenntnis">Selbsterkenntnis</term>. Und wie geht das zu, wenn wir da auf diese
-                    Dinge stoßen? Das geht so zu, dass wir anfangen, uns selbst zu <hi rend="i">be<pb xml:id="p356" ed="pga"/>urteilen</hi>, d. h. nach dem Wert oder Unwert
+                    Dinge stoßen? Das geht so zu, dass wir anfangen, uns selbst zu <hi rend="italic">be<pb xml:id="p356" ed="pga" break="no"/>urteilen</hi>, d. h. nach dem Wert oder Unwert
                     unsres Daseins und unsrer Handlungen uns zu fragen. Solange wir uns zu
                     diesem Tun nicht aufgerafft haben, solange steht es freilich so um uns, dass
                     wir an unserm eigenen Wesen und an dem der andern nichts wahrnehmen können
@@ -399,11 +401,11 @@
                         <term type="Sachen" key="Entscheidung, Gut oder Böse">Entscheidung</term> unsres <term type="Sachen" key="Mensch, freier Wille">Willens</term> für oder gegen, so wie es von
                     unsrer Anschauungsweise abhängt, ob die Himmelskörper über uns Licht sind
                     oder Dunkel.</p>
-                <p>Sollte die <hi rend="i">Unter</hi>scheidung von Gut und Böse, die wir in der
-                    sittlichen Selbst<hi rend="i">besinnung</hi> vornehmen, eine Fiktion sein, ein
-                    Phantasiegebilde ohne Wirklichkeit? Sollte die <hi rend="i">Ent</hi>scheidung
+                <p>Sollte die <hi rend="italic">Unter</hi>scheidung von Gut und Böse, die wir in der
+                    sittlichen Selbst<hi rend="italic">besinnung</hi> vornehmen, eine Fiktion sein, ein
+                    Phantasiegebilde ohne Wirklichkeit? Sollte die <hi rend="italic">Ent</hi>scheidung
                     zwischen Gut und Böse, die wir in der sittlichen
-                        Selbst<hi rend="i">bestimmung</hi> vornehmen, eine Illusion sein, ein müßiges
+                        Selbst<hi rend="italic">bestimmung</hi> vornehmen, eine Illusion sein, ein müßiges
                     Gedankenspiel? Es wäre freilich so, wenn nur der Natur und dem Naturerkennen
                     Wahrheit und Wirklichkeit zukäme, wenn der Mechanismus der Notwendigkeit,
                     von dem wir <pb ed="A" rend="hidden" n="11"/> sprachen, das ganze Leben wäre.
@@ -413,7 +415,7 @@
                     aufhört. Durch die schmale Pforte der <term type="Sachen" key="Mensch, Selbstbesinnung">Selbstbesinnung</term> und <term type="Sachen" key="Mensch, Selbstbestimmung">Selbstbestimmung</term>
                     tritt der Mensch ein in das Reich der <term type="Sachen" key="Freiheit">Freiheit</term>, in dem andre Gesetze gelten als im Reich der
                         Natur.<note xml:id="n07">Barths Gedanken folgen hier im
-                        Grundsatz<bibl corresp="kbga-bibls-1749"> <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Ethik</hi>, Tübingen 1909<hi rend="sup">4</hi>, S. 36–85 (2. Kapitel: «Das sittliche Denken als die
+                        Grundsatz<bibl corresp="kbga-bibls-1749"> <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Ethik</hi>, Tübingen 1909<hi rend="sup">4</hi>, S. 36–85 (2. Kapitel: «Das sittliche Denken als die
                         Selbstunterscheidung des Menschen von der Natur»)</bibl>. Er hatte am
                         26. September 1909 von seinem Marburger Lehrer ein Exemplar geschenkt
                         bekommen (Bucheintrag mit Datum: «Donum autoris»), das zahlreiche
@@ -424,7 +426,7 @@
                     Wohl aber wird dein innerster Mensch den Beweis der Kraft sehen, wenn du
                     nicht mehr sagst: ich bin einmal so, sondern: ich soll anders werden.</p>
                 <p>Und nun verhält es sich gerade so, dass das das <term type="Sachen" key="Böses / das Böse">
-                            <hi rend="i">Böse</hi></term> ist, wenn wir
+                            <hi rend="italic">Böse</hi></term> ist, wenn wir
                     nachsichtig zu uns selbst sagen: ich bin einmal so, und es damit bewenden
                     lassen. Das ist das Böse, wenn wir Naturwesen bleiben wollen, essen,
                     trinken, schlafen, es gut haben, wie die Tiere und Pflanzen in ihrer Weise
@@ -447,9 +449,9 @@
                     anstatt Menschen zu werden, wie das also in Wirklichkeit zugeht, wenn die
                         <term type="Sachen" key="Versuchung">Versuchung</term> über uns kommt,
                     das können wir nun einfach <pb ed="A" rend="hidden" n="12"/> aus unserm Text
-                    ablesen, besser könnte es gar nicht beschrieben werden. <hi rend="i">Jeder wird so
+                    ablesen, besser könnte es gar nicht beschrieben werden. <hi rend="italic">Jeder wird so
                         versucht, dass er von seiner eigenen Begierde gereizt und gelockt
-                        wird</hi>. Das bedeutet un<pb xml:id="p358" ed="pga"/>missverständlich:
+                        wird</hi>. Das bedeutet un<pb xml:id="p358" ed="pga" break="no"/>missverständlich:
                     sowie du jene <term type="Sachen" key="Mensch, Selbstbesinnung">Selbstbesinnung</term> und <term type="Sachen" key="Mensch, Selbstbestimmung">Selbstbestimmung</term> vollzogen hast,
                     sowie dir das auch nur auf einen Augenblick klar geworden ist, dass du ein
                     Mensch bist und kein Naturwesen, sofort musst du dir auch eingestehen, wenn
@@ -465,10 +467,10 @@
                     nachgiebige Stellung zur Natur, die sind böse, und an diesem <term type="Sachen" key="Böses / das Böse">Bösen</term> bist du selbst schuld.
                     Und weil du schuld bist an der <term type="Sachen" key="Begierde">Begierde</term>, bist du schuld an alledem, was daraus folgt, wie das B
                     und das C auf das A folgt. Bist schuld an der <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term>, die aus der Begierde kommt, d. h.
+                            <hi rend="italic">Sünde</hi></term>, die aus der Begierde kommt, d. h.
                     an der Untätigkeit, der Unreinheit, der Lieblosigkeit, die von da aus deinen
                     Charakter und dein ganzes Wesen ergreift und verdirbt, bist schuld endlich
-                    am <hi rend="i">Tod<note type="textcritical" n="f" xml:id="nf"> Im Mskr. doppelt unterstrichen.</note></hi>
+                    am <hi rend="italic">Tod<note type="textcritical" n="f" xml:id="nf"> Im Mskr. doppelt unterstrichen.</note></hi>
                         <term type="Sachen" key="Tod, Sold der Sünde"/>, der der
                     Sünde Sold und Ertrag ist [<ref type="can" subtype="bible" target="Röm.6.23">Röm. 6,23</ref>], d. h. an der völligen Auflösung und Dekomposition deines
                     innern <term type="Sachen" key="Leben, inneres">Lebens</term>, die sich
@@ -500,7 +502,7 @@
                         Körper gegenüber eher unnachgiebigen Haltung etwas abzurücken. Vgl. 
                             <bibl corresp="kbga-bibls-2648">
                                 <persName ref="kbga-actors-9248">J. Jørgenson</persName>,
-                            <hi rend="i">Der heilige Franz von Assisi. Eine Lebensbeschreibung</hi>,
+                            <hi rend="italic">Der heilige Franz von Assisi. Eine Lebensbeschreibung</hi>,
                         Kempten 1908, S. 642</bibl>: «Sie hatten auch versucht, seine ganze Lebensweise
                         zu reformieren, und dies war ihnen jedenfalls teilweise gelungen. ‚Ist
                         dein Körper dir nicht dein ganzes Leben hindurch ein guter und williger
@@ -524,7 +526,7 @@
                     gemein haben. Die andre Lebensstraße einschlagen, das heißt, den Willen
                     ablenken vom Naturleben und ihn auf etwas Anderes richten. Auf was? Auf die
                         <term type="Sachen" key="Menschheit, Ziel des menschlichen Willens">Menschheit</term>. Das ist ein philosophischer Begriff, denkst du. Wir
-                    wol<pb xml:id="p360" ed="pga"/>len ihn einmal auflösen, er ist in Wirk<pb ed="A" rend="hidden" n="14"/>lichkeit ungemein praktisch. Wenn ich sage, das
+                    wol<pb xml:id="p360" ed="pga" break="no"/>len ihn einmal auflösen, er ist in Wirk<pb ed="A" rend="hidden" n="14" break="no"/>lichkeit ungemein praktisch. Wenn ich sage, das
                     Ziel deines Willens muss die Menschheit werden, so meine ich, du musst ernst
                     machen mit der Gemeinschaft, mit der <term type="Sachen" key="Solidarität">Solidarität</term>, die den Menschen vom Tier unterscheidet. Dein Wille
                     muss so beschaffen werden, dass du denken kannst, so müssten Alle
@@ -536,14 +538,14 @@
                     zu erschöpfende Gesetz, das für Alle gilt und das Alle miteinander
                     verbindet. Du musst das «zusammen» verstehen und leben lernen, von dem wir
                     uns im letzten Gemeindeblatt unterhalten haben.<note xml:id="n11">Vgl. <bibl corresp="kbga-bibls-2649">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Aus einem Teller</hi>, in: V.u.kl.A.
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Aus einem Teller</hi>, in: V.u.kl.A.
                         1909–1914, S. 19–24, dort <ref type="pub-" target="../volume/22/p023#p023">S. 23f.</ref></bibl>: «Die rechte
-                        Freude an Gott ist wieder nur die Freude <hi rend="i">mit andern
+                        Freude an Gott ist wieder nur die Freude <hi rend="italic">mit andern
                             zusammen</hi>. […] Der gemeinsame Teller, die äußere
                         Einheit der Christen, mag vorläufig ein schöner Zukunftstraum sein,
                         […]. So wollen wir wenigstens in offener, freundlicher Gesinnung
                         jedes hinter seinen geliebten besondern Teller sitzen […] in dem
-                        aufrichtigen Bewußtsein: <hi rend="i">Und wir gehören doch
+                        aufrichtigen Bewußtsein: <hi rend="italic">Und wir gehören doch
                         zusammen!</hi>»</note> Du musst aus einem Einsiedler, der inmitten der
                     Republik <term type="Sachen" key="Genf, Republik">Genf</term> auf allerlei
                     offenen und geheimen Wegen schließlich doch immer nur das Seine sucht, ein
@@ -575,7 +577,7 @@
                             <l> <pb ed="A" rend="hidden" n="15"/> Das übet in Einfalt ein kindlich
                                     Gemüt.<note xml:id="n12">
                                     <bibl corresp="kbga-bibls-1574">
-                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Die Worte des Glaubens</hi>,
+                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Die Worte des Glaubens</hi>,
                                     Strophe 2 und 3 (Erstdruck: 1797; Sämtliche Werke, München
                                         1962<hi rend="sup">3</hi>, Bd. 1, S. 214f.)</bibl>.</note>
                             </l>
@@ -584,14 +586,14 @@
                 <p rend="noindent">Einige von euch wissen vielleicht, wie <persName ref="kbga-actors-764">Friedrich Schiller</persName> in seinem
                     inhaltsschweren Gedicht «Die Worte des Glaubens» an dieser Stelle
                     fortfährt:</p>
-                <p>Und <hi rend="i">ein Gott ist</hi>, beginnt die nächste Strophe. Wir stehen damit
+                <p>Und <hi rend="italic">ein Gott ist</hi>, beginnt die nächste Strophe. Wir stehen damit
                     wieder an dem Punkt, von dem wir fragend ausgegangen sind. In der Tat: wo
                     die freie Einfalt des guten <term type="Sachen" key="Mensch, freier Wille">Willens</term> ist, da ist Gott. Solange wir bloß reflektieren, wie es
                     in gewissen, angeblich religiösen Poesien geschieht, die Rosensträucher, die
                     Sterne, die Meere, «der Mensch voll Geist, Verstand» müssten doch irgendwo
                         herkommen,<note xml:id="n13">Vgl. <bibl corresp="kbga-bibls-2650">die dritte Strophe des
                         Liedes «Ich suche dich, o Unerforschlicher» von <persName ref="kbga-actors-9249">J. U. Hegner</persName> (Abdruck
-                        z. B. in: <hi rend="i">Universal-Liederbuch. Weltlicher Liederschatz für
+                        z. B. in: <hi rend="italic">Universal-Liederbuch. Weltlicher Liederschatz für
                             Deutschlands Gesangsfreunde. Eine Sammlung von mehr als 1600
                             auserlesenen Liedern</hi>, hrsg. von J. J. Algier, Reutlingen
                         1841, S. 437)</bibl>:
@@ -614,25 +616,25 @@
                     gute Gabe, seine vollkommene Spende ist, und es ist nichts, was ohne
                     Einschränkung für gut könnte gehalten werden, denn allein ein guter
                         Wille.<note xml:id="n14">Vgl. <bibl corresp="kbga-bibls-1309">
-                                <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="i">Grundlegung zur Metaphysik
+                                <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="italic">Grundlegung zur Metaphysik
                             der Sitten</hi> (1785), Akademie-Ausgabe, Bd. 4, Berlin 1903/11,
                         S. 385–463, dort S. 393</bibl>: «Es ist überall nichts in der Welt, ja
                         überhaupt auch außer derselben zu denken möglich, was ohne Einschränkung
                         für gut könnte gehalten werden, als allein ein guter
-                        <hi rend="i">Wille</hi>.»</note> Das ist wahre <hi rend="i">christliche</hi>
+                        <hi rend="italic">Wille</hi>.»</note> Das ist wahre <hi rend="italic">christliche</hi>
                     <term type="Sachen" key="Erkenntnis, Gottes">Gotteserkenntnis</term>, wenn
                     wir fortfahren:</p>
                 
                     <q rend="block">
                         <lg>
-                            <l> <pb rend="noPipe" xml:id="p362" ed="pga"/> Ein Gott ist, ein heiliger <hi rend="i">Wille</hi> lebt.</l>
+                            <l> <pb rend="noPipe" xml:id="p362" ed="pga"/> Ein Gott ist, ein heiliger <hi rend="italic">Wille</hi> lebt.</l>
                             <l>Wie auch der menschliche wanke;</l>
                             <l>Hoch über der Zeit und dem Raume webt</l>
                             <l>Lebendig der höchste Gedanke.</l>
                             <l>Und ob Alles in ewigem Wechsel kreist,</l>
                             <l>Es beharret im Wechsel ein ruhiger Geist.<note xml:id="n15">
                                     <bibl corresp="kbga-bibls-1574">
-                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Die Worte des Glaubens</hi>
+                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Die Worte des Glaubens</hi>
                                     (Anm. 12), Strophe 4 (a.a.O., S. 215).</bibl>
                                 </note>
                             </l>
@@ -641,10 +643,10 @@
                 <p rend="noindent">Es ist merkwürdig, aber es ist kein Zufall, wie hier der
                     größte Dichter des deutschen Idealismus fast wörtlich zusammentrifft mit
                         <persName ref="kbga-actors-8959">Jakobus</persName>, dem Prediger des
-                    Willens unter den Männern des <term type="Sachen" key="Urchristentum">Urchristentums</term>. Gott <hi rend="i">der Vater der Lichter, bei dem es
+                    Willens unter den Männern des <term type="Sachen" key="Urchristentum">Urchristentums</term>. Gott <hi rend="italic">der Vater der Lichter, bei dem es
                         keine Veränderung gibt noch eine Spur von Wechsel!</hi> Wir haben
                     gesehen, wo die <term type="Sachen" key="Mensch, Veränderlichkeit">Veränderlichkeit</term> herstammt, aus dem Missbrauch der <term type="Sachen" key="Freiheit, Missbrauch">Freiheit</term>, die das Wesen
-                    des Menschen ausmacht. Hinter dem freien <hi rend="i">guten</hi>
+                    des Menschen ausmacht. Hinter dem freien <hi rend="italic">guten</hi>
                     <term type="Sachen" key="Mensch, freier Wille">Willen</term> aber steht die
                     Unveränderlichkeit <term type="Sachen" key="Gott, Unveränderlichkeit">Gottes</term>. Was bei unserm kleinen, ohnmächtigen Willen immer wieder
                         <pb ed="A" rend="hidden" n="16"/> wechselt mit dem Gegenteil, das ist bei
@@ -654,19 +656,19 @@
                     wechselnden, intermittierenden guten Willens. Und darum sind wir uns in
                     jedem Augenblick bewusst, dass wir von seiner <term type="Sachen" key="Gnade, Gottes G.">Gnade</term> leben, d. h. dass die freie
                     Entscheidung zum <term type="Sachen" key="Entscheidung, Gut oder Böse">Guten</term>, sooft sie uns gelingt, Gottes freundliches Geschenk ist.
-                        <hi rend="i">Nach seinem Willen hat er uns gezeugt durch das Wort der
+                        <hi rend="italic">Nach seinem Willen hat er uns gezeugt durch das Wort der
                         Wahrheit</hi>, d. h. wenn ein derartiges Wunder wie ein freier guter
                     Wille in einem <term type="Sachen" key="Mensch, freier Wille">Menschen</term> entsteht, so ist das Gottes Offenbarung, die ihn
                     überwindet und befreit, nicht abstrakt und allgemein, sondern konkret und im
                     Besondern durch die Führung seines Lebens, durch die Zusammenführung seines
                     Lebens mit dem Leben, in dem Gott in der Geschichte sich kundgetan hat.</p>
-                <p>Und nun das letzte merkwürdige Wort unsres Textes: Wir sollen <hi rend="i">eine Art
+                <p>Und nun das letzte merkwürdige Wort unsres Textes: Wir sollen <hi rend="italic">eine Art
                         Erstlingsfrucht sein unter Gottes Geschöpfen</hi>. Das ist ein
                     Geheimniswort. Wir standen und stehen der <term type="Sachen" key="Natur, Rätselwesen">Natur</term> gegenüber als einem großen
                     Rätselwesen. Wir wissen von ihr nichts zu sagen, als dass sie das Ackerfeld
                     ist, auf dem wir zu arbeiten haben, weil nur der Arbeiter ein Mensch ist.
                     Wohl, wenn Gottes <term type="Sachen" key="Wille Gottes, Lebensinhalt des Menschen">Wille</term> unser
-                    Lebensinhalt wird, dann, <hi rend="i">erst</hi> dann ahnen wir auch in der Natur
+                    Lebensinhalt wird, dann, <hi rend="italic">erst</hi> dann ahnen wir auch in der Natur
                     ihre <term type="Sachen" key="Natur, Bestimmung">Bestimmung</term>. Wir <pb xml:id="p363" ed="pga"/> schauen jetzt in einem dunklen Spiegel, dereinst aber
                     von Angesicht zu Angesicht [<ref type="can" subtype="bible" target="1.Kor.13.12">1.Kor. 13,12</ref>]. Es ist wahr, was die Dichter und
                     Künstler gesehen, auch die <term type="Sachen" key="Schöpfung">Schöpfung</term> wartet und seufzt auf die Befreiung vom Dienste der
@@ -675,7 +677,7 @@
                     ihm sind alle Dinge; sein ist die Herrlichkeit in Ewigkeit [<ref type="can" subtype="bible" target="Röm.11.36">Röm. 11,36</ref>]. Das ist die Lösung
                     der Welträtsel,<note xml:id="n16">Anspielung auf <bibl corresp="kbga-bibls-2489">
                                 <persName ref="kbga-actors-150">Ernst Haeckels</persName> Werk «Die
-                        Welträthsel»</bibl> (s. oben, <ref type="pub" target="../volume/53/p024#fn_n06">S. 24f., Anm. 6</ref>).</note> die wir <hi rend="i">glauben</hi>.</p>
+                        Welträthsel»</bibl> (s. oben, <ref type="pub" target="../volume/53/p024#fn_n06">S. 24f., Anm. 6</ref>).</note> die wir <hi rend="italic">glauben</hi>.</p>
                 </div>  
                 <div type="closer">
                         <salute>Amen.</salute>

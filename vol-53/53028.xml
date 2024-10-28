@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53028">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 26</title>
         <title type="content">Predigt: Lukas 2,14</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Lukas 2,14, 25. Dezember 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53028 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53028 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 26: Predigt: Lukas 2,14</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,7 +65,7 @@
             <div type="sermon"> 
                 <pb xml:id="p255" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                         <idno>26</idno>
                     </head>
@@ -75,7 +77,7 @@
                         Genfer <term type="Sachen" key="Genf, deutsche reformierte Gemeinde">Gemeinde</term> ihren Gottesdienst im Temple de la <term type="Sachen" key="Genf, Temple de la Madeleine">Madeleine</term> in
                         der Genfer Altstadt, Rue de Toutes-Ames 20, halten.</note>
                         <placeName ref="kbga-places-67">
-                                    <hi rend="i">Genf</hi></placeName>
+                                    <hi rend="italic">Genf</hi></placeName>
                             </addrLine>
                         </address>
                 </dateline>
@@ -113,8 +115,8 @@
                         dem zweiten Artikel des Symbolum <term type="Sachen" key="Bekenntnisse, Nicaeno-Constantinopolitanum">Nicaeno-Constantinopolitanum</term> (vgl. <bibl corresp="kbga-bibls-14">BSLK, S. 26,9–13</bibl>;
                         <bibl corresp="kbga-bibls-15">BSLK.NE, S. 49,10–14</bibl>).</note>
                     <pb ed="A" rend="hidden" n="2"/> Diese Sprache und Sitte wird heute von vielen
-                    nicht mehr verstanden, aber wo sie <hi rend="i">noch</hi> verstanden wird und wo
-                    sie <hi rend="i">wieder</hi> verstanden wird, da spürt und ahnt der Mensch etwas
+                    nicht mehr verstanden, aber wo sie <hi rend="italic">noch</hi> verstanden wird und wo
+                    sie <hi rend="italic">wieder</hi> verstanden wird, da spürt und ahnt der Mensch etwas
                     vom Herzschlag der <term type="Sachen" key="Wahrheit">Wahrheit</term> und
                     der <term type="Sachen" key="Ewigkeit">Ewigkeit</term>, und in diesen Tagen
                     mehr als sonst; denn es ist Weihnachtszeit. – |</p>
@@ -124,7 +126,7 @@
                         Weihnachtslieder <bibl type="song" corresp="kbga-songs-37">«Stille Nacht, heilige Nacht» von <persName ref="kbga-actors-2664">J. Fr. Mohr</persName> (RG 412; EG 46)</bibl>
                         und <bibl corresp="kbga-bibls-2583">«Alle Jahre wieder», Strophe 1: «Alle Jahre wieder / kommt das
                         Christuskind / auf die Erde nieder, / wo wir Menschen sind» von <persName ref="kbga-actors-9195">W. Hey</persName> (Abdruck u. a. in:
-                            <hi rend="i">Weihnachtslieder aus alter und neuer Zeit</hi>, neu hrsg.
+                            <hi rend="italic">Weihnachtslieder aus alter und neuer Zeit</hi>, neu hrsg.
                         und bearb. von L. Erk, Berlin 1860, S. 15)</bibl>.</note> Vielleicht greift
                     dann auch der <pb xml:id="p256" ed="pga"/> Vater oder die Mutter nach der alten
                     Bibel, und alle hören zu, wie es damals gewesen ist, die einfache und doch
@@ -144,7 +146,7 @@
                     Wort oder <pb ed="A" rend="hidden" n="3"/> ein Lied, das gesprochen oder gesungen
                     wird, so können auch die Lichter des Tannenbaums eine andre Sprache reden,
                     so besinnt sich auch da der Eine oder Andre auf das Leben, das
-                        <hi rend="i">hinter</hi> dem «Leben» verborgen ist. Es ist ja
+                        <hi rend="italic">hinter</hi> dem «Leben» verborgen ist. Es ist ja
                     Weihnachtszeit.</p>
                 <p>Es ist Weihnachtszeit, und da merkt auch der langweiligste und alltäglichste
                     Mensch etwas davon, dass der grüne Tannenbaum mit den Lichtern eigentlich
@@ -160,7 +162,7 @@
                     Dinge, die ich <pb xml:id="p257" ed="pga"/> ehren und achten sollte als bloß das
                     Prosperieren meines Geschäftes und allenfalls das bisschen Politik oder
                     Vereinsleben, das ich nebenher betreibe.</p>
-                <p>Ein <hi rend="i">viel</hi>stimmiger<note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                <p>Ein <hi rend="italic">viel</hi>stimmiger<note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      Choral ist die <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> der <term type="Sachen" key="Christentum">Christenheit</term>. Wie steht’s aber mit der Harmonie in der
                     Vielstimmigkeit? Gott mag sie hören, wie er die Harmonie der Sphären hört,
                     von der die Dichter reden.<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-2584">Art. «Harmonie
@@ -174,7 +176,7 @@
                         Zentralfeuer, die nach Rechnung des Pythagoras dem Zahlenverhältnis der
                         sieben Töne seines Heptachords entsprachen […].» Zur Rezeption in
                         Philosophie und Dichtung vgl. <bibl corresp="kbga-bibls-2585">
-                                <persName ref="kbga-actors-9196">Fr. Zipp</persName>, <hi rend="i">Vom Urklang zur
+                                <persName ref="kbga-actors-9196">Fr. Zipp</persName>, <hi rend="italic">Vom Urklang zur
                             Weltharmonie. Werden und Wirken der Idee der Sphärenmusik</hi>,
                         Kassel (1985) 1999<hi rend="sup">2</hi></bibl>; vgl. auch <bibl corresp="kbga-bibls-828">
                                 Büchmann, S. 377</bibl>.</note> Für unsre
@@ -198,12 +200,12 @@
                     <q rend="block">
                         <lg>
                             <l>
-                                <hi rend="i">Ehre sei Gott in der Höhe!</hi>
+                                <hi rend="italic">Ehre sei Gott in der Höhe!</hi>
                             </l>
                         </lg>
                     </q>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Die Ehre <term type="Sachen" key="Gott, Ehre">Gottes</term> – das ist der ganze Inhalt der <term type="Sachen" key="Weihnachtsevangelium">Weihnachtsbotschaft</term>,
                         und <persName ref="kbga-actors-77">Johannes Calvin</persName>
                         hatte recht, das ist auch der ganze Inhalt des <term type="Sachen" key="Christentum">Christentums</term>.<note xml:id="n06">Zur zentralen Rolle der «gloria dei» im Leben des Christen vgl.
@@ -269,7 +271,7 @@
                         einen Schwall von Worten: Religion sei eigentlich <term type="Sachen" key="Relgion, Gefühl">Gefühl</term>, Alles Andre sei <term type="Sachen" key="Dogmatik">Dogmatik</term> und <term type="Sachen" key="Philosophie">Philosophie</term>, aber freilich habe die
                         Vernunft bei dieser Gefühlsreligion ein gewichtiges Wort mitzureden.
                         Religion sei das, was man am Sonntagnachmittag im grünen <term type="Sachen" key="Religion, im grünen Wald">Wald</term> draußen
-                        empfinde, aber Religion dürfe vor Allem auch nicht mit den <term type="Sachen" key="Religion, und Naturgesetze">Naturgeset<pb xml:id="p260" ed="pga"/>zen</term> in
+                        empfinde, aber Religion dürfe vor Allem auch nicht mit den <term type="Sachen" key="Religion, und Naturgesetze">Naturgeset<pb xml:id="p260" ed="pga" break="no"/>zen</term> in
                         Konflikt kommen. Gott sei eigentlich überall und <term type="Sachen" key="Pantheismus">Alles</term>, aber vielleicht komme doch einmal
                         die Zeit, wo bewiesen werde, dass Gott nirgends und gar nichts sei. Das
                         ist der griechische Geist der schönen <term type="Sachen" key="Griechen, Geist der schönen Vernünftigkeit">Vernünftigkeit</term>, der so redet, meine Freunde. Er waltet
@@ -286,7 +288,7 @@
                         berufen. Damit, dass du es ihm nachsagst, Gefühl sei Alles, Name sei
                         Schall und Rauch,<note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-647">
                                     <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                <hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                                <hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                             V. 3456–3458 (Marthens Garten)</bibl>:
                                 <q rend="block">
                                     <lg>
@@ -321,7 +323,7 @@
                     <p>Und etwas davon sehen wir im Altertum in Rom. Der Geist der Römer war<note type="textcritical" n="h" xml:id="nh"> Im Mskr. mit Bleistift eingefügt anstelle von: «ist» und
                                 nachträglich mit Bleistift unterstrichen.</note>
                          der Geist des Rechts und des <term type="Sachen" key="Römer, Geist des Rechts und Gesetzes">Gesetzes</term>.
-                            <hi rend="i">Etwas</hi> davon, von dem Ton des «selbständigen Gewissens»,
+                            <hi rend="italic">Etwas</hi> davon, von dem Ton des «selbständigen Gewissens»,
                         aber mehr eine Verheißung als eine Erfüllung, und auch die Verheißung
                         ist bald zur Karikatur geworden. Die Ehre <term type="Sachen" key="Gott, Ehre">Gottes</term> war in Rom die Ehre der <term type="Sachen" key="Römer, Ehre Gottes als Ehre der Republik">Republik</term>, die Ehre des Staates. <term type="Sachen" key="Jupiter">Jupiter</term> vom Kapitol war die Verkörperung dieses
                         Staates, und diese Idee führte in direkter Linie zu der göttlichen
@@ -341,14 +343,14 @@
                         wieder erstanden, gewaltiger als je einer der göttlichen<note type="textcritical" n="j" xml:id="nj"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                          Cäsaren es geträumt hatte. Ehre sei Gott in der Höhe? Nein, es
                         war auch hier der Mensch, der Mensch und sein <term type="Sachen" key="Römer, Ehre Gottes im Spiegel des Staatsgesetzes">Gesetz</term>, der sich selbst verherrlichte. |</p>
-                    <p>Was sagt uns der Spiegel? Er sagt uns: <hi rend="i">Du</hi> bist der Mann
+                    <p>Was sagt uns der Spiegel? Er sagt uns: <hi rend="italic">Du</hi> bist der Mann
                         [<ref type="can" subtype="bible" target="2.Sam.12.7">2.Sam. 12,7</ref>]. Denn
                         mit dem griechischen Geist der Gefühls- und <term type="Sachen" key="Griechen, Gefühls- und Vernunftreligion">Vernunftreligion</term> geht der römische Geist der <term type="Sachen" key="Römer, Staatsreligion">Staatsreligion</term> eng
                         verbunden durch die Zeiten. Wieder in allerlei Form. Aber die Grundform
                         ist immer dieselbe: Die höhern Gefühle des Menschen ergreifen irgend
                         eine menschliche Gemeinschaftsform, Staat, Kirche, Gemeinde, Schule,
                         Verein, in <term type="Sachen" key="Stimmungen, patriotisch">patriotischen</term> und <term type="Sachen" key="Stimmungen, kirchliche">kirchlichen</term> und gemeinnützigen
-                        <term type="Sachen" key="Stimmungen, gemeinnützige">Stim<pb xml:id="p262" ed="pga"/>mungen</term> und
+                        <term type="Sachen" key="Stimmungen, gemeinnützige">Stim<pb xml:id="p262" ed="pga" break="no"/>mungen</term> und
                         Betätigungen glaubt er das zu finden, was andre <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> nennen, und merkt nicht, dass
                         er sich schon wieder im Kreise bewegt. Das selbständige Gewissen wird
                         eingelullt durch das große Bewusstsein der Arbeit an einer festen
@@ -366,25 +368,25 @@
                         um den Tempel Jahwes versammelt ein Volk, das, wenn eines, erfüllt war
                         von dem Gedanken: Ehre sei Gott in der Höhe. Was die Besten der Griechen
                         und Römer ahnten, das hatten die großen <term type="Sachen" key="Propheten">Propheten</term> des israelitischen <term type="Sachen" key="Israel (Volk)">Volkes</term> längst aus
-                        geheimnisvollen Schächten zu Tage gefördert, dass <hi rend="i">ein</hi>
+                        geheimnisvollen Schächten zu Tage gefördert, dass <hi rend="italic">ein</hi>
                         <term type="Sachen" key="Gott, Einer">Gott</term> sei, der aber nicht
-                        Natur sei, nein, der Himmel und Erde <hi rend="i">gemacht</hi> habe, und dass
+                        Natur sei, nein, der Himmel und Erde <hi rend="italic">gemacht</hi> habe, und dass
                         es nur ein Gebot gebe, das das selbständige Gewissen befriedige: Du
                         sollst deinen <term type="Sachen" key="Nächstenliebe">Nächsten</term>
                         lieben wie dich selbst [<ref type="can" subtype="bible" target="Lev.19.18">Lev. 19,18</ref>]. Die reifsten und reichsten Gedanken der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> und der <term type="Sachen" key="Sittlichkeit">Sittlichkeit</term> waren da, auch
                         Christus hat <anchor type="note" xml:id="fn-k"/>reifere und reichere nicht gebracht<note type="textcritical" n="k" xml:id="nk" target="fn-k"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>. Und trotzdem war diese Religion tot in sich selbst und steht wie
-                            <hi rend="i">ein</hi> riesiges weltgeschichtliches Ausrufzeichen vor uns
+                            <hi rend="italic">ein</hi> riesiges weltgeschichtliches Ausrufzeichen vor uns
                         Menschen der Nachwelt. Warnend ruft uns <anchor type="note" xml:id="fn-l"/>der Geist der
                             Synagoge<note type="textcritical" n="l" xml:id="nl" target="fn-l"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                         <term type="Sachen" key="Juden / Judentum, Geist der Synagoge"/>
-                        zu: Folget mir <hi rend="i">nicht</hi> nach! Meinet nicht, dass das
+                        zu: Folget mir <hi rend="italic">nicht</hi> nach! Meinet nicht, dass das
                         Frömmigkeit sei, wenn man hohe und wahre Gedanken über Gott und
                         göttliche Dinge habe! Meinet nicht, dass das Frömmigkeit sei, wenn man
                         die schönsten und reinsten Gebote <pb ed="A" rend="hidden" n="11"/> habe und
                         sich beeifere, ihnen nachzukommen. Die Ehre <term type="Sachen" key="Gott, Ehre">Gottes</term> ist etwas Anderes, ganz Anderes, denn
                         in der <term type="Sachen" key="Religion, der Synagoge">Religion</term>
                         der Synagoge steckte verborgen derselbe Todeskeim, den wir bei den
-                        Griechen und Rö<pb xml:id="p263" ed="pga"/>mern sahen. Ihre Frömmigkeit war
+                        Griechen und Rö<pb xml:id="p263" ed="pga" break="no"/>mern sahen. Ihre Frömmigkeit war
                         verborgene <term type="Sachen" key="Juden / Judentum, Frömmigkeit als Selbstverherrlichung">Selbstverherrlichung</term>. Verborgene, sage ich, denn äußerlich
                         war wirklich die größere Ehre Gottes das Streben und Suchen jener
                         Menschen, und sie glaubten, tief heruntersehen zu dürfen auf die <term type="Sachen" key="Religion, griechische Naturreligion">Naturreligion</term> der Griechen und auf die Staatsreligion der
@@ -407,47 +409,47 @@
                         nicht Gott in der Höhe die <term type="Sachen" key="Gott, Ehre">Ehre</term> gibt, sondern dem Menschen in der Tiefe.</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="12"/> II</head>
                     <p rend="noindent">In die Welt der Griechen und Römer und Juden ist Christus
                         gekommen, und es wird erzählt, bei seiner Geburt sei die Menge der
                         himmlischen Heerscharen dagewesen, die lobten Gott und sprachen:
-                            <hi rend="i">Ehre sei Gott in der Höhe!</hi> Wer hat die himmlischen
+                            <hi rend="italic">Ehre sei Gott in der Höhe!</hi> Wer hat die himmlischen
                         Heerscharen gesehen, und wer hat ihre Stimmen vernommen? Wo der Glaube
                         stammelnd beschreibt, was er gesehen, da ist es eine kümmerliche Sache,
                         von Sage und Dichtung zu reden. Mag dem immer sein, wie ihm wolle, in
                         der schlichten und doch so ungeheuren Erzählung des Lukasevangeliums
                         redet die Ewigkeit des lebendigen Glaubens, redet dieselbe durch nichts
                         zu erschütternde Gewissheit, die den Verfasser des vierten <rs type="person" ref="kbga-actors-2297">Evangeliums</rs> zu
-                        dem begeisterten Ausruf treibt: Wir <hi rend="i">sahen</hi> seine
+                        dem begeisterten Ausruf treibt: Wir <hi rend="italic">sahen</hi> seine
                         Herrlichkeit! [<ref type="can" subtype="bible" target="Joh.1.14">Joh. 1,14</ref>]</p>
                    
                     <p> <pb rend="noPipe" xml:id="p264" ed="pga"/> Und was die <term type="Sachen" key="Apostel">Apostel</term> und die
                         ersten <term type="Sachen" key="Christen, frühe">Christen</term>
-                        <hi rend="i">sahen</hi>, das war die Ehre Gottes in ihrer vollen
+                        <hi rend="italic">sahen</hi>, das war die Ehre Gottes in ihrer vollen
                         Wirklichkeit. Was haben sie gesehen? Sie haben in den kurzen Monaten und
                         Tagen, in denen sie mit Jesus von <term type="Sachen" key="Jesus Christus">Nazareth</term> zusammen waren, einen Menschen
                         gesehen, in dem die <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>
-                        <hi rend="i">nicht</hi> in schönen Gefühlen und <hi rend="i">nicht</hi> in klugen
-                        Vernunftschlüssen und <hi rend="i">nicht</hi> in staatsbürgerlicher Gesinnung
-                        und <hi rend="i">nicht</hi> in der Befolgung von Paragraphen und
-                            <hi rend="i">nicht</hi> in der Hoffnung auf göttliche Belohnung bestand,
+                        <hi rend="italic">nicht</hi> in schönen Gefühlen und <hi rend="italic">nicht</hi> in klugen
+                        Vernunftschlüssen und <hi rend="italic">nicht</hi> in staatsbürgerlicher Gesinnung
+                        und <hi rend="italic">nicht</hi> in der Befolgung von Paragraphen und
+                            <hi rend="italic">nicht</hi> in der Hoffnung auf göttliche Belohnung bestand,
                         sondern in der <term type="Sachen" key="Jesus Christus, Frömmigkeit in der Tat">Tat</term> und in der
                             <term type="Sachen" key="Jesus Christus, Frömmigkeit in der Wahrheit">Wahrheit</term>
                         und im <term type="Sachen" key="Jesus Christus, Frömmigkeit im Leben">Leben</term>.</p>
                     <p>In der <term type="Sachen" key="Jesus Christus, Frömmigkeit in der Tat">
-                                <hi rend="i">Tat</hi></term>. Denn Christus hat gegenüber allem
+                                <hi rend="italic">Tat</hi></term>. Denn Christus hat gegenüber allem
                         gefühlvollen und vernünftelnden Religionswesen ein für allemal gesagt:
                         Nicht, die Herr, Herr sagen, nicht die schöne <pb ed="A" rend="hidden" n="13"/> Gefühle haben, nicht die so freundlich sind, hinter den Welträtseln
                         trotz Allem noch einen Gott zu vermuten, nicht die werden in das
-                        Himmelreich kommen, sondern die den <hi rend="i">Willen tun</hi> meines
+                        Himmelreich kommen, sondern die den <hi rend="italic">Willen tun</hi> meines
                         Vaters [vgl. <ref type="can" subtype="bible" target="Mt.7.21">Mt. 7,21</ref>].
                         Die Ehre <term type="Sachen" key="Gott, Ehre">Gottes</term> ist da, wo
                         ein Mensch beginnt, nach der Vollkommenheit zu trachten, nicht nach der
                             <term type="Sachen" key="Vollkommenheit">Vollkommenheit</term>, wie
                         sie irgend eine öffentliche Meinung oder irgend ein Gebot ihm
                         vorschreibt, sondern nach der Vollkommenheit <term type="Sachen" key="Gott, Vollkommenheit">Gottes</term>, der in seinem Innern
-                        redet. Es ist dir <hi rend="i">gesagt</hi>, Mensch, was gut ist [<ref type="can" subtype="bible" target="Mi.6.8">Mi. 6,8</ref>] und</p>
+                        redet. Es ist dir <hi rend="italic">gesagt</hi>, Mensch, was gut ist [<ref type="can" subtype="bible" target="Mi.6.8">Mi. 6,8</ref>] und</p>
                         <q rend="block">
                             <lg>
                                 <l>das selbständige Gewissen</l>
@@ -470,18 +472,18 @@
                         in deine Hände befehle ich meinen Geist [<ref type="can" subtype="bible" target="Lk.23.46">Lk. 23,46</ref>]. Ehre sei <term type="Sachen" key="Gott, Ehre">Gott</term> in der Höhe!</p>
                     
                     <p> <pb rend="noPipe" xml:id="p265" ed="pga"/> In Christus war die Frömmigkeit <term type="Sachen" key="Jesus Christus, Frömmigkeit in der Wahrheit">
-                                <hi rend="i">Wahrheit</hi></term>. Wo der Mensch meint, fromm sein,
+                                <hi rend="italic">Wahrheit</hi></term>. Wo der Mensch meint, fromm sein,
                         Gott die Ehre geben, könne erfüllt werden in der Befolgung und <pb ed="A" rend="hidden" n="14"/> Verehrung menschlicher Organisationen und
                         Gesetze, da stellt sich unvermeidlich die verborgene Lüge ein. Diese
                         Lüge der Staats- und <term type="Sachen" key="Religion, römische Staatsreligion">Gesetzesreligion</term> war
                         das Schicksal des römischen Kaiserreichs und wurde das Schicksal des
                         römischen Papstreichs, denn <anchor type="note" xml:id="fn-m"/>Sitte und <term type="Sachen" key="Sittlichkeit, und Sitte">Sittlichkeit</term>
                         liegen in ewigem Krieg miteinander<note type="textcritical" n="m" xml:id="nm" target="fn-m"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>. Allen Paragraphen der Menschen hat Christus entgegengestellt:
-                            <hi rend="i">Ich</hi> aber sage euch, eure Gerechtigkeit soll
-                            <hi rend="i">besser</hi> sein als die der <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term> [<ref type="can" subtype="bible" target="Mt.5.20">Mt. 5,20</ref>], <hi rend="i">besser</hi>
+                            <hi rend="italic">Ich</hi> aber sage euch, eure Gerechtigkeit soll
+                            <hi rend="italic">besser</hi> sein als die der <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term> [<ref type="can" subtype="bible" target="Mt.5.20">Mt. 5,20</ref>], <hi rend="italic">besser</hi>
                         als die <term type="Sachen" key="Gerechtigkeit">Gerechtigkeit</term> der
-                        Paragraphen, <hi rend="i">besser</hi> als die Gerechtigkeit des besten
-                        Staatsbürgersinns. Und mit diesem «<hi rend="i">besser</hi>» hat er sagen
+                        Paragraphen, <hi rend="italic">besser</hi> als die Gerechtigkeit des besten
+                        Staatsbürgersinns. Und mit diesem «<hi rend="italic">besser</hi>» hat er sagen
                         wollen: Euer Trachten nach Gerechtigkeit darf überhaupt keine Schranke
                         und kein Ende kennen, wenn es <term type="Sachen" key="Wahrheit">Wahrheit</term> sein will. Das ist ein harter Gedanke, und noch
                         härter ist es, <anchor type="note" xml:id="fn-n"/>ihn zu leben<note type="textcritical" n="n" xml:id="nn" target="fn-n"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>. Christus hat diesen harten Gedanken gedacht und er hat ihn
@@ -493,24 +495,24 @@
                         gesehen hatten und in der Wahrheit die eine große Tatsache: Ehre sei
                             <term type="Sachen" key="Gott, Ehre">Gott</term> in der Höhe!</p>
                     <p>Und in Christus war das <term type="Sachen" key="Jesus Christus, Frömmigkeit im Lebem">
-                                <hi rend="i">Leben</hi></term>. Gerade das Leben, das den hohen und reinen
+                                <hi rend="italic">Leben</hi></term>. Gerade das Leben, das den hohen und reinen
                         Gedanken und Geboten der Frömmigkeit und Sittlichkeit Israels fehlte.
                         Was heißt Leben? Leben ist das, wenn einer nicht das Seine sucht,
                         sondern das, was Gottes und was des Nächsten ist [<ref type="can" subtype="bible" target="1.Kor.10.24">1.Kor. 10,24</ref>]. Die Theologen
                         und Frommen in Israel redeten viel von Gott und viel <pb ed="A" rend="hidden" n="15"/> vom Nächsten, aber die ganze <term type="Sachen" key="Israel (Volk), Frömmigkeit">Frömmigkeit</term> und Sittlichkeit
                             <term type="Sachen" key="Israel (Volk), Sittlichkeit">Israels</term>
-                        war <hi rend="i">ein</hi> großes Warten auf göttliche <term type="Sachen" key="Israel (Volk), Lohngedanke">Belohnung</term>. Sie suchten das
+                        war <hi rend="italic">ein</hi> großes Warten auf göttliche <term type="Sachen" key="Israel (Volk), Lohngedanke">Belohnung</term>. Sie suchten das
                         Ihrige, obwohl im Mantel der reinsten Gottesverehrung. Christus hat auf
                         keine Belohnung gewartet. Über seinem ganzen Leben stand geschrieben:
-                            <hi rend="i">Muss</hi> ich nicht sein in dem, was meines Vaters ist? [<ref type="can" subtype="bible" target="Lk.2.49">Lk. 2,49</ref>] Und dies
-                            <hi rend="i">ich muss</hi> war in ihm das höchste <hi rend="i">ich will</hi>,
+                            <hi rend="italic">Muss</hi> ich nicht sein in dem, was meines Vaters ist? [<ref type="can" subtype="bible" target="Lk.2.49">Lk. 2,49</ref>] Und dies
+                            <hi rend="italic">ich muss</hi> war in ihm das höchste <hi rend="italic">ich will</hi>,
                         von der ersten Stunde seines Wirkens an bis zum Tode am <term type="Sachen" key="Kreuz / Kreuzestod">Kreuz</term>, den er auf sich
                         nahm, weil er bis zuletzt treu sein, bis zuletzt <term type="Sachen" key="Jesus Christus, Dienen">dienen</term> wollte. Und dies <pb xml:id="p266" ed="pga"/> Leben an ihm, diesen Sieg, diese Überwindung in
                         ihm, haben seine Freunde gesehen und sagten davon: wir sahen seine <term type="Sachen" key="Jesus Christus, Herrlichkeit">Herrlichkeit</term>. Und ihr Sehen war nicht das Zusehen der leeren
                         Bewunderung, sondern, indem sie sahen, empfingen sie, und indem sie
                         dabei waren, als Christus für Gott lebte und starb, erlebten und
-                        erfuhren sie’s: er hat <hi rend="i">für uns</hi> gelebt, und er ist
-                            <hi rend="i">für uns</hi>
+                        erfuhren sie’s: er hat <hi rend="italic">für uns</hi> gelebt, und er ist
+                            <hi rend="italic">für uns</hi>
                         <term type="Sachen" key="Stellvertretung">gestorben</term>. Und
                         jauchzend riefen nun auch sie es hinaus in die Welt der <term type="Sachen" key="Griechen">Griechen</term>, der <term type="Sachen" key="Römer">Römer</term>, der <term type="Sachen" key="Juden / Judentum">Juden</term>: Unser Glaube ist der Sieg, der
                         die Welt überwindet [<ref type="can" subtype="bible" target="1.Joh.5.4">1.Joh. 5,4</ref>]. Ehre sei <term type="Sachen" key="Gott, Ehre">Gott</term> in der Höhe!</p>
@@ -526,7 +528,7 @@
                         eigene, und denen das Wort vom <term type="Sachen" key="Wort vom Kreuz">Kreuz</term> ein Ärgernis, eine Torheit ist ganz wie damals [<ref type="can" subtype="bible" target="1.Kor.1.23">1.Kor. 1,23</ref>]. Und
                         verhehlen wir es uns nur nicht: jeder von uns trägt ein Stückchen von
                         diesen Dreien in sich herum.</p>
-                    <p>Wir haben <hi rend="i">nicht</hi> von der Fortsetzung der <hi rend="i">andern</hi>
+                    <p>Wir haben <hi rend="italic">nicht</hi> von der Fortsetzung der <hi rend="italic">andern</hi>
                         Reihe geredet. Und wir wollen es nicht tun. Denn diese Fortsetzung ist
                         für dich und mich, lieber Freund, eine von den Lebensfragen, bei denen
                         Schweigen besser ist als Reden. <anchor type="note" xml:id="fn-o"/>Und man kann diese
@@ -537,7 +539,7 @@
                     <p>Alle Jahre wieder kommt das Christuskind!<note xml:id="n10">Siehe oben, <ref type="pub" target="#fn_n04">Anm. 4</ref>.</note> hören wir jetzt die Kleinen singen. Alle
                         Jahre wieder kommt das <term type="Sachen" key="Weihnachten">Weihnachtsfest</term> und noch öfter das heilige <term type="Sachen" key="Abendmahl">Abendmahl</term>, das wir jetzt wieder
                         zu feiern gedenken. Alle Jahre wieder? Sieh, lieber Freund,
-                            <hi rend="i">das</hi> ist <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term>, wenn uns <hi rend="i">einmal</hi> das Licht aus
+                            <hi rend="italic">das</hi> ist <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term>, wenn uns <hi rend="italic">einmal</hi> das Licht aus
                         der Höhe begegnet ist. Einmal, Gott helfe uns Allen, für immer.</p>
                    
                     <p> <pb rend="noPipe" xml:id="p267" ed="pga"/> Ehre sei <term type="Sachen" key="Gott, Ehre">Gott</term> in der

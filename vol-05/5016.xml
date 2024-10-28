@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5016">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Matthäus 27,45-50</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Matthäus 27,45-50, 5. April 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5016 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 151–163.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5016 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 151–163.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">212</title>
+          <title type="text">Predigt: Matthäus 27,45-50</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -69,7 +71,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -90,13 +92,13 @@
           </epigraph>
           <argument>
             <ab>
-              <hi rend="i">Jesu Tod</hi>
+              <hi rend="italic">Jesu Tod</hi>
             </ab>
           </argument>
           <salute>Liebe Freunde!</salute>
         </div>
         <div type="main">
-        <p>Ist es möglich, daß Jesus wirklich und wahrhaftig das gebetet hat: «<hi rend="i">Mein
+        <p>Ist es möglich, daß Jesus wirklich und wahrhaftig das gebetet hat: «<hi rend="italic">Mein
                   Gott, mein Gott, warum hast du mich verlassen?</hi>» So ist er also doch zuletzt
                versunken in den Abgrund von Trostlosigkeit, in den seine verblendeten Feinde ihn mit
                ihren Spottreden stoßen wollten? Er hatte es eingesehen: umsonst habe ich Gott
@@ -119,7 +121,7 @@
                             Evangelium sec. Petrum
                  V, 19: <foreign xml:lang="grc" rend="Ell">ἡ δύναμίς μου, ἡ δύναμίς
                    (μου), κατέλειψάς με</foreign>. Vgl. <bibl corresp="kbga-bibls-1542">
-                                K. Aland, <hi rend="i">Synopsis Quattuor
+                                K. Aland, <hi rend="italic">Synopsis Quattuor
                            Evangeliorum</hi>, Stuttgart 1967<edition rend="sup">4</edition>, p. 489.</bibl>
                </note> Danach wäre also dieses merkwürdige Gebet Jesu in Wirklichkeit bloß ein
                Stoßseufzer gewesen, etwa mit dem Inhalt: ach, meine Kräfte sind zu Ende! So hat man
@@ -133,7 +135,7 @@
                Mund nimmt.</p>
         <p>Was sollen wir von all diesen Meinungen halten, wenn wir heute wieder vor dem Kreuze
                Jesu stehen und den Mann der Schmerzen zu uns reden lassen möchten? Das Letzte
-               zuerst: nein, das war <hi rend="i">keine bloße Redensart</hi>, was Jesus da sagte.
+               zuerst: nein, das war <hi rend="italic">keine bloße Redensart</hi>, was Jesus da sagte.
                Wenn irgend etwas in der Leidensgeschichte Jesu tiefster Ernst ist, so ist es gerade
                dieses Wort. Wenn wir irgendetwas im Neuen Testament wörtlich verstehen müssen, dann
                gerade diese Stelle. Würden uns wohl die Evangelisten dieses Wort aufbewahrt haben,
@@ -149,7 +151,7 @@
                dem Innersten Jesu, und wir würden etwas vom Kostbarsten verlieren, wenn wir darauf
                verzichten wollten, durch dieses Wort heute hineinzublicken in dieses heilige
                Innerste Jesu.</p>
-        <p>Damit habe ich schon gesagt, daß ich überzeugt bin, daß Jesus dieses Wort <hi rend="i">wirklich gesprochen</hi>, und zwar so gesprochen hat, wie es dasteht.
+        <p>Damit habe ich schon gesagt, daß ich überzeugt bin, daß Jesus dieses Wort <hi rend="italic">wirklich gesprochen</hi>, und zwar so gesprochen hat, wie es dasteht.
                Jene frommen christlichen Schriftsteller, die daran Anstoß nahmen und die es darum
                meinten korrigieren zu müssen,
                <pb xml:id="p153" ed="pga"/>
@@ -166,7 +168,7 @@
                Mit dieser Wahrheit müssen auch wir uns abfinden. Die Wahrheit richtet sich nicht
                nach unseren Wünschen. Wir müssen uns nach ihr richten.</p>
         <p>Doch nun kommen jene Anderen und triumphieren und sagen: also, da haben wir es ja, er
-               ist also doch an sich selbst und an Gott <hi rend="i">irregeworden</hi>, schwach und
+               ist also doch an sich selbst und an Gott <hi rend="italic">irregeworden</hi>, schwach und
                verzagt, er hat sich von Gott verlassen gefühlt, er ist in Angst und Verzweiflung
                gestorben. Mindestens ist dieses Wort ein dunkler Flecken auf seinem Bilde. Aber das
                sind törichte Reden; wer Jesus auch nur ein wenig kennt, der weiß, daß es ganz
@@ -202,7 +204,7 @@
                uns Andere getan, wie gerade in dem erschütternden Bilde des aus der Tiefe zu Gott
                rufenden Heilands das Zeichen der Erlösung, der Freiheit, des wahrhaftigen ewigen
                Lebens für uns aufgerichtet ist.</p>
-        <p>Das ist wahr: <hi rend="i">befremden</hi> muß uns dieses Bild auf den ersten Anblick.
+        <p>Das ist wahr: <hi rend="italic">befremden</hi> muß uns dieses Bild auf den ersten Anblick.
                Fragen müssen wir uns auch heute wieder und noch mehr als bei unserer letzten
                Passionsbetrachtung: wie war das möglich, wie konnte Gott das zulassen, daß Jesus
                nicht nur äußerlich, sondern auch innerlich, auch in seiner heiligen reinen Seele in
@@ -210,7 +212,7 @@
                Jesus so nach ihm rufen mußte? Ich sage auch heute wieder: diese Frage muß uns im
                Innersten ergreifen und beunruhigen. Aber gerade wenn sie uns so recht in der Seele
                <pb xml:id="p155" ed="pga"/>
-                gebrannt hat, ist dann auch die <hi rend="i">Antwort</hi> ganz nahe bei der Hand.
+                gebrannt hat, ist dann auch die <hi rend="italic">Antwort</hi> ganz nahe bei der Hand.
                Wir wollen sie uns heute geben mit den Worten des Hebräerbriefes : «Wir haben nicht
                einen Hohenpriester, der nicht könnte Mitleid haben mit unseren Schwachheiten,
                sondern der versucht ist allethalben gleich wie wir» 
@@ -264,7 +266,7 @@
         <p>Doch wir wollen versuchen, etwas tiefer hineinzusehen in das Geheimnis jenes Gebetes
                Jesu. Wenn uns das gelingt, werden wir einsehen, daß gerade der Jesus, der so
                gebetet, zu unserem Befremden so gebetet hat, unser Erlöser ist. Was hat er denn
-               gemeint mit diesem Seufzer aus tiefster Seele: <hi rend="i">Mein Gott, mein Gott,
+               gemeint mit diesem Seufzer aus tiefster Seele: <hi rend="italic">Mein Gott, mein Gott,
                   warum hast du mich verlassen?</hi> Wir müssen zurückblicken nach <placeName ref="kbga-places-864">Gethsemane</placeName>, wenn
                wir das verstehen wollen. Der Kampf, auf den sich Jesus
                <pb xml:id="p157" ed="pga"/>
@@ -276,7 +278,7 @@
                ungerechten Verurteilung und mit der entehrenden Verbrecherstrafe war es nicht, was
                ihn in solche Seelennot brachte. Diese Dinge an und für sich, so entsetzlich sie
                waren, waren doch Mückenstiche, die Jesus nicht zu diesem Gebet getrieben hätten.
-               Das, was ihn dazu trieb, das war das Bewußtsein, daß sein Lebenswerk, das ein <hi rend="i">Lebenswerk für Gott</hi> gewesen, nun <hi rend="i">zertrümmert</hi>
+               Das, was ihn dazu trieb, das war das Bewußtsein, daß sein Lebenswerk, das ein <hi rend="italic">Lebenswerk für Gott</hi> gewesen, nun <hi rend="italic">zertrümmert</hi>
                sei. Jesus hatte sich mit seiner ganzen Person und Kraft eingesetzt für die Aufgabe,
                die Menschen zu überzeugen von der Wahrheit einer unsichtbaren Tatsache in ihrem
                Leben, von der Wahrheit Gottes. Die Ruhe des lebendigen Gottes, das war es, wovon er
@@ -293,7 +295,7 @@
                Anderen brachte, immer wieder, unermüdlich immer wieder brachte, nicht sich
                irremachen ließ durch Widerspruch und Mißverständnis, durch Spott und Feindschaft.
                Das war die Heldentat Jesu, daß er so dieser Botschaft gelebt hatte.</p>
-        <p>Wie stand er nun heute da damit? Nun <hi rend="i">stand er ganz allein</hi> mit
+        <p>Wie stand er nun heute da damit? Nun <hi rend="italic">stand er ganz allein</hi> mit
                <pb xml:id="p158" ed="pga"/>
                 seiner Botschaft. Die Menschen konnten sie nicht fassen, ihr nicht wahrhaft Gehör
                schenken, sie wollten nichts von ihr wissen; das bewiesen sie ja klar damit, daß sie
@@ -345,8 +347,8 @@
                mich kommen [lassen]. Nun am Kreuze, in der Stunde der höchsten äußersten Not noch
                einmal dieses Aufflammen, bitter diesmal, verzagt und verzweifelt: mein Gott, mein
                Gott, warum hast du mich verlassen! soll ich wirklich und wahrhaftig so zu Grunde
-               gehen, ohne daß du mich hörst und dich meiner annimmst? Von den <hi rend="i">Menschen</hi> war Jesus verlassen in <placeName ref="kbga-places-864">Gethsemane</placeName> und auf <placeName ref="kbga-places-405">Golgatha</placeName>. <hi rend="i">Nur</hi> von den Menschen.</p>
-        <p>Aber, meine Freunde, wer von den Menschen <hi rend="i">so</hi> verlassen ist, wie
+               gehen, ohne daß du mich hörst und dich meiner annimmst? Von den <hi rend="italic">Menschen</hi> war Jesus verlassen in <placeName ref="kbga-places-864">Gethsemane</placeName> und auf <placeName ref="kbga-places-405">Golgatha</placeName>. <hi rend="italic">Nur</hi> von den Menschen.</p>
+        <p>Aber, meine Freunde, wer von den Menschen <hi rend="italic">so</hi> verlassen ist, wie
                dort Jesus, der fühlt sich auch von Gott verlassen. Wir fühlen uns ja auch manchmal
                einsam und verlassen, nicht wahr, aber wie
                <pb xml:id="p160" ed="pga"/>
@@ -375,8 +377,8 @@
                wir so fragen! Wir wissen es von den alten Propheten, wie furchtbar sie gerade
                darunter gelitten haben, mit Gott allein sein zu müssen, unverstanden, verfolgt unter
                einem unreifen, halsstarrigen Volk. Nicht das war das Schwere an ihrem Los, daß man
-                  <hi rend="i">sie</hi> nicht verstand, sie verfolgte, aber daß sie spüren mußten:
-                  <hi rend="i">Gott</hi> wird verworfen von den Leuten, daß sie allein sein mußten
+                  <hi rend="italic">sie</hi> nicht verstand, sie verfolgte, aber daß sie spüren mußten:
+                  <hi rend="italic">Gott</hi> wird verworfen von den Leuten, daß sie allein sein mußten
                mit ihrer besseren Einsicht, überall abgewiesen,
                <pb xml:id="p161" ed="pga"/>
                 verlacht, unterdrückt. So war es bei Jesus: wie gut kannte er Gott, wie tief war er
@@ -420,7 +422,7 @@
                anderen Gott als von dem, der mich heißt zu den Leuten zu gehen und sie lieb zu
                haben. Wenn ich aber das nicht mehr kann? Dann kommt der höchste, der entsetzlichste
                Zweifel über mich: muß ich nicht denken, Gott hat mich verlassen, wenn ich nicht mehr
-               tun kann, was ich tun <hi rend="i">muß</hi> in seinem Dienst? Wunder der göttlichen
+               tun kann, was ich tun <hi rend="italic">muß</hi> in seinem Dienst? Wunder der göttlichen
                Liebe! Nicht aus Mangel, sondern aus übergroßem Reichtum an ewigem Leben seufzt und
                betet Jesus: Mein Gott, mein Gott, warum hast du mich verlassen! Nicht darum fühlt er
                sich von Gott verlassen, nicht darum ist er verzagt und verzweifelt, weil er von

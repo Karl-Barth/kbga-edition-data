@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1041">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 39</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 3. Dezember 1925</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1041 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1041 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 60–61.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">39</title>
+          <title type="text">Brief Nr. 39: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:09+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:09+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -100,7 +101,7 @@
                     </dateline>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
-        <p>Mit <hi rend="i">Vergnügen</hi> erfahre ich soeben, daß auch Sie im <date when="1925-01">Januar</date> nach <hi rend="i">
+        <p>Mit <hi rend="italic">Vergnügen</hi> erfahre ich soeben, daß auch Sie im <date when="1925-01">Januar</date> nach <hi rend="italic">
                         <placeName ref="kbga-places-78">Danzig</placeName></hi> kommen werden.<note xml:id="n01">Zu einem theologischen
             Fortbildungskurs für Pfarrer und Religionslehrer, <date from="1926-01-04" to="1926-01-08">4.-8.1.1926</date>, den der
             Studiendirektor des <orgName ref="kbga-actors-8700">Posener Evangelischen Predigerseminars</orgName>, Pastor <persName ref="kbga-actors-371">Schneider</persName>, organisierte. Die Leitung hatte an den
@@ -132,9 +133,9 @@
           exegesiere ich Johannes<note xml:id="n05">Siehe <ref type="pub" target="1035#fn_n03">Nr. 33, Anm. 3</ref>.</note>, bin aber erst bis zu v 15 vorgedrungen.
           Die Mandäerparallelen erwähne ich so gewissenhaft als ich kann<note xml:id="n06">Siehe
           <bibl corresp="kbga-bibls-989">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Erklärung des Johannes-Evangeliums</hi> a. a. O. (<ref type="pub" target="1035#fn_n03">Nr. 33, Anm. 3</ref>), <ref type="pub-" target="../volume/09/p417#p417">S. 417</ref> (Begriffsregister), Stichwort «Mandäismus»</bibl>.</note>, aber ohne
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Erklärung des Johannes-Evangeliums</hi> a. a. O. (<ref type="pub" target="1035#fn_n03">Nr. 33, Anm. 3</ref>), <ref type="pub-" target="../volume/09/p417#p417">S. 417</ref> (Begriffsregister), Stichwort «Mandäismus»</bibl>.</note>, aber ohne
           Gewinn, weil mir auch hier (der Stein rollt ohne mein Zutun) der Text, wie er einmal
-          dasteht, merkwürdiger ist als alles das Teufelszeug, was wahrscheinlich <hi rend="i">dahinter</hi> steht. Unsere <hi rend="i">Petersoniaden</hi> werden sehr schön beieinander stehen.<note xml:id="n07">Siehe <ref type="pub" target="1040#fn_n03">Nr. 38, Anm. 3</ref>.</note> Ich habe zu der meinigen noch die Anmerkung hinzugefügt, die Ihrige und sie
+          dasteht, merkwürdiger ist als alles das Teufelszeug, was wahrscheinlich <hi rend="italic">dahinter</hi> steht. Unsere <hi rend="italic">Petersoniaden</hi> werden sehr schön beieinander stehen.<note xml:id="n07">Siehe <ref type="pub" target="1040#fn_n03">Nr. 38, Anm. 3</ref>.</note> Ich habe zu der meinigen noch die Anmerkung hinzugefügt, die Ihrige und sie
           seien unabhängig von einander entstanden und nicht miteinander verglichen worden.<note xml:id="n08">
                         <bibl corresp="kbga-bibls-1042">
                             <title>ZdZ</title>, Jg. 4

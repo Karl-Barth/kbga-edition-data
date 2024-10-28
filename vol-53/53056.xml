@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53056">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 54</title>
         <title type="content">Predigt: Markus 14,22-25</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 14,22-25, 4. Dezember 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53056 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53056 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 54: Predigt: Markus 14,22-25</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p677" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>54</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-12-04">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-12-04">Sonntag, den
                             4. Dezember 1910</date><note xml:id="n01">Von dieser
                             Predigt schrieb Barth seiner Mutter: «Die Predigt über das Abendmahl
                             gibt mir viel zu tun; ich bin hier nicht so recht in meinen
@@ -109,7 +111,7 @@
                     unerwünscht ist. Es hat mich, seit ich hier bin, bemüht zu sehen, wie gering
                     die Beteiligung der <term type="Sachen" key="Abendmahl, Beteiligung der Gemeinde">Gemeinde</term>, auch der
                     sonst kirchlich interessierten Gemeinde an dieser Feier ist.<note xml:id="n02">In <bibl corresp="kbga-bibls-2825">
-                                <hi rend="i">Etwas über die Kirche! Speziell über
+                                <hi rend="italic">Etwas über die Kirche! Speziell über
                             die deutsche reformierte in Genf und was davon zu halten sei</hi>
                         (V.u.kl.A. 1909–1914, <ref type="pub-" target="../volume/22/p213#p213">S. 213–218</ref>)</bibl> war Barth kurz zuvor
                         ebenfalls auf die geringe Beteiligung am Gottesdienst und an anderen
@@ -117,11 +119,11 @@
                         mit Verweis auf diese Predigt ausgeklammert. Von der «Passivität» der
                         Genfer <term type="Sachen" key="Genf, Deutsche reformierte Gemeinde">Gemeinde</term> und dem Problem der hohen Fluktuation ihrer
                         potentiell sehr vielen Mitglieder berichtet auch <bibl corresp="kbga-bibls-4">
-                                <persName ref="kbga-actors-8821">M. Jehle-Wildberger</persName>, <hi rend="i">Adolf Keller (1872–1963).
+                                M. Jehle-Wildberger, <hi rend="italic">Adolf Keller (1872–1963).
                             ­Pionier der ökumenischen Bewegung</hi>, Zürich 2008,
                         S. 60</bibl>.</note> Ich musste oft an die schönen Abendmahlsgottesdienste
                     denken, die ich in <placeName ref="kbga-places-9">Bern</placeName> und anderswo
-                    mitgemacht, wo man so recht das Gefühl hatte, einer Handlung der gro<pb xml:id="p678" ed="pga"/>ßen, allgemeinen <term type="Sachen" key="Kirche, Volkskirche">Volkskirche</term> beizuwohnen, wo jeder
+                    mitgemacht, wo man so recht das Gefühl hatte, einer Handlung der gro<pb xml:id="p678" ed="pga" break="no"/>ßen, allgemeinen <term type="Sachen" key="Kirche, Volkskirche">Volkskirche</term> beizuwohnen, wo jeder
                     Einzelne sich getragen fühlte von der großen Menge der Andern, die mit ihm
                     desselben Glaubens leben. Ein solches erhebendes Gefühl wird <pb ed="A" rend="hidden" n="2"/> einem hier in <placeName ref="kbga-places-67">Genf</placeName> mindestens sehr schwer gemacht, weil man fast den Eindruck
                     hat, es seien hier nur gewissermaßen die religiösen Spezialisten, wenn ich
@@ -261,7 +263,7 @@
                     Seine Zeit war noch nicht gekommen.</p>
                 <p>Und dann mag Jesus über dem Essen zuerst jenes Wort gesprochen haben, das im
                     Bericht des <persName ref="kbga-actors-9167">Markus</persName>
-                    erst zuletzt erwähnt wird: <hi rend="i">Wahrlich, ich sage euch: ich werde nicht
+                    erst zuletzt erwähnt wird: <hi rend="italic">Wahrlich, ich sage euch: ich werde nicht
                         mehr trinken vom Gewächs des Weinstocks bis zu dem Tag, da ich es neu
                         trinken werde im Reiche Gottes</hi>. Im Lukasevangelium steht es, wohl
                     richtiger, am Anfang [<ref type="can" subtype="bible" target="Lk.22.16">Lk. 22,16</ref>], denn von hier aus müssen wir Alles Übrige begreifen. Es
@@ -272,16 +274,16 @@
                         zentrale Gesichtspunkt des Abendmahls war, kam es um die Wende vom 19.
                         zum 20. Jahrhundert zum einen durch die «konsequent-eschatologische
                         Deutung des letzten Mahls Jesu» u. a. in: <bibl corresp="kbga-bibls-2827">
-                                <persName ref="kbga-actors-1243">A. Schweitzer</persName>, <hi rend="i">Das Abendmahl im
+                                <persName ref="kbga-actors-1243">A. Schweitzer</persName>, <hi rend="italic">Das Abendmahl im
                             Zusammenhang mit dem Leben Jesu und der Geschichte des
                             Urchristentums</hi>, 2 Hefte, Tübingen 1901</bibl>, zum andern durch die
                         u. a. von <bibl corresp="kbga-bibls-2828">
-                                <persName ref="kbga-actors-9325">A. Eichhorn</persName>, <hi rend="i">Das Abendmahl im Neuen Testament</hi>,
+                                <persName ref="kbga-actors-9325">A. Eichhorn</persName>, <hi rend="italic">Das Abendmahl im Neuen Testament</hi>,
                         Leipzig 1898</bibl>, vertretene religionsgeschichtliche Ableitung des
                         Abendmahls als einer Variante der weitverbreiteten «Theophagie»; vgl.
                         zum Ganzen: <bibl corresp="kbga-bibls-2829">
                                 <persName ref="kbga-actors-9326">G. Theißen</persName>
-                        / <persName ref="kbga-actors-9327">A. Merz</persName>, <hi rend="i">Der
+                        / <persName ref="kbga-actors-9327">A. Merz</persName>, <hi rend="italic">Der
                             historische Jesus. Ein Lehrbuch</hi>, Göttingen 2011<hi rend="sup">4</hi>, S. 361–364</bibl>.</note> Aber durch dies Wort scheint mir
                     diese Meinung widerlegt zu sein, auch dann, wenn der ausdrückliche Hinweis
                     auf das «Blut, das für Viele vergossen wird», erst eine spätere Hinzufügung
@@ -296,7 +298,7 @@
                     Liebe zu verwandeln. Und diese Gewissheit lag nun wie ein schwerer Druck auf
                     ihm; er hätte kein Mensch sein müssen, wenn es anders gewesen wäre. Noch
                     sitzt er im vertrauten Kreis der Seinigen beim heitern Genuss der guten
-                    Gaben Gottes, aber er weiß: es ist zum letzten Mal. «<hi rend="i">Ich werde nicht
+                    Gaben Gottes, aber er weiß: es ist zum letzten Mal. «<hi rend="italic">Ich werde nicht
                         mehr trinken vom Gewächs des Weinstocks</hi>.» Die Teilnahme an Allem,
                     was die Menschen freut und <pb xml:id="p683" ed="pga"/> glücklich macht, ist nun
                     vorbei. Auch Jesus konnte fröhlich sein mit den Fröhlichen [vgl. <ref type="can" subtype="bible" target="Röm.12.15">Röm. 12,15</ref>], auch Jesus war
@@ -309,7 +311,7 @@
                     sondern es bringt uns seine Hoheit menschlich nahe, dass wir in diesem Wort
                     den Schatten des Abschieds über seine Seele gleiten sehen. Denn sofort tritt
                     neben den Abschied die Gewissheit des Wiedersehens, der höhern Zukunft. Ich
-                    werde nicht mehr trinken vom Gewächs des Weinstocks, <hi rend="i">bis ich es neu
+                    werde nicht mehr trinken vom Gewächs des Weinstocks, <hi rend="italic">bis ich es neu
                         trinken werde im Reiche Gottes</hi>. Hat Jesus die Vorstellungen
                     seiner Volksgenossen geteilt von einem Jenseits, in dem die Frommen mit
                         <persName ref="kbga-actors-444">Abraham</persName>, ihrem Vater, zu
@@ -332,7 +334,7 @@
                     nach einem vor ihm liegenden Brot gegriffen haben, er sprach den <term type="Sachen" key="Segen">Segen</term> darüber, wie es wohl der
                     israelitische Hausvater im Kreis seiner Familie getan haben mag, er brach es
                     und gab es ihnen. Und so nahm er auch einen Becher, sprach den Segen darüber
-                    und gab ihn ihnen. Und jedes Mal sagte er dazu: <hi rend="i">Nehmet, das ist mein
+                    und gab ihn ihnen. Und jedes Mal sagte er dazu: <hi rend="italic">Nehmet, das ist mein
                         Leib, das ist mein Blut</hi>. <pb xml:id="p684" ed="pga"/> Man hat über den
                     Sinn dieser <term type="Sachen" key="Abendmahl, Einsetzungsworte">Worte</term> unendlich viel geredet und geschrieben. Man hat zur
                     Auslegung dieses «Das ist» die künstlichsten und geistreichsten Theorien
@@ -377,7 +379,7 @@
                     Brot und Wein, die ihr esset und trinket aus meiner Hand, sei euch Gleichnis
                     und Sinnbild für meine <term type="Sachen" key="Auferstehung, Jesu Christi">Auferstehung</term> in euch. Der Bericht des Evangeliums sagt, dass das
                     Wort über dem <term type="Sachen" key="Abendmahl, Kelchwort">Becher</term>
-                    noch etwas ausführlicher gelautet habe: Dies ist <hi rend="i">mein Blut des Bundes,
+                    noch etwas ausführlicher gelautet habe: Dies ist <hi rend="italic">mein Blut des Bundes,
                         das für Viele vergossen wird</hi>. Ich sehe nicht ein, warum diese
                     Erläuterung nicht schon von Jesus selbst herrühren sollte. Sie fügt zu dem
                     Gesagten nichts Neues hinzu. Was ich tue, tue ich euch zugut, damit der Weg,
@@ -392,8 +394,8 @@
                     das ist mein Blut. Eine andre und doch keine andre, möchte ich sagen. Wie
                     ihr Brot und Wein zu euch nehmet, so nehmet mich auf in euer Inneres, mich,
                     der sich jetzt im Gehorsam anschickt, sein Leben preiszugeben. <anchor type="note" xml:id="fn-c"/>Werdet so, wie ich bin, das sei eure <term type="Sachen" key="Erlösung, Sein wie Jesus Christus">Erlösung</term>.<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. nachträglich mit Bleistift unterschlängelt.</note>
-                     Aber nun merkt, was das heißen will: Von <hi rend="i">einem</hi> Brote
-                    esst ihr und aus <hi rend="i">einem</hi> Becher trinkt ihr. Und so sei euch das
+                     Aber nun merkt, was das heißen will: Von <hi rend="italic">einem</hi> Brote
+                    esst ihr und aus <hi rend="italic">einem</hi> Becher trinkt ihr. Und so sei euch das
                     Aufnehmen meines Lebens in euer Leben zugleich das Einheitsband, das euch
                     untereinander verbinde. Mein Leben, das ich euch mitteile, indem ich von
                     euch gehe, es ist <term type="Sachen" key="Jesus Christus, Liebe">Liebe</term>, Liebe zu euch, zu den Menschen. Und so wird das neue
@@ -436,7 +438,7 @@
                             <l>Denn setzet ihr nicht das Leben ein,</l>
                             <l>Nie wird euch das Leben gewonnen sein.<note xml:id="n04">
                                     <bibl corresp="kbga-bibls-2506">
-                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Wallensteins Lager</hi>,
+                                        <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Wallensteins Lager</hi>,
                                     11. Auftritt, Schlussverse</bibl>; dort: «Und
                                     ­setzet…».</note>
                             </l>
@@ -449,14 +451,14 @@
                 <p rend="margin-top">
                         <pb rend="noPipe" xml:id="p687" ed="pga"/> Nach den Berichten, die uns im Lukasevangelium und im
                     1. Korintherbrief des Apostels <persName ref="kbga-actors-313">Paulus</persName> über das erste <term type="Sachen" key="Abendmahl">Abendmahl</term> überliefert sind, hätte Jesus noch hinzugefügt:
-                        <hi rend="i">Solches tut zu meinem Gedächtnis!</hi> [<ref type="can" subtype="bible" target="Lk.22.19">Lk. 22,19</ref>; <ref type="can" subtype="bible" target="1.Kor.11.24 1.Kor.11.25">1.Kor. 11,24f.</ref>] Das Markus- und
+                        <hi rend="italic">Solches tut zu meinem Gedächtnis!</hi> [<ref type="can" subtype="bible" target="Lk.22.19">Lk. 22,19</ref>; <ref type="can" subtype="bible" target="1.Kor.11.24 1.Kor.11.25">1.Kor. 11,24f.</ref>] Das Markus- und
                     Matthäusevangelium wissen davon nichts, und es ist daher schwer, sicher zu
                     entscheiden, ob Jesus selbst schon an eine Wiederholung seiner
                     Gleichnishandlung gedacht hat. Aber das ist sicher, dass die Christen seit
                     urältesten Zeiten, wohl seit den Tagen kurz nach dem Aufhören der <pb ed="A" rend="hidden" n="12"/> Erscheinungen des <term type="Sachen" key="Jesus Christus, Auferstandener">Auferstandenen</term>, diese
                     Wiederholung <term type="Sachen" key="Abendmahl, Wiederholung zum Gedächtnis">gefeiert</term> haben.
                     Neben der Erzählung von den Worten und Taten des Herrn ist dieses
-                    gewaltigste seiner Gleichnisse als gern erneuerte <hi rend="i">Handlung</hi> in
+                    gewaltigste seiner Gleichnisse als gern erneuerte <hi rend="italic">Handlung</hi> in
                     ihrer Mitte lebendig geblieben, als einmal die ganze Bedeutung des hinter
                     ihnen liegenden Todes Jesu, die wir vorhin vorausgenommen haben, ihnen
                     aufgegangen war. Die Apostelgeschichte erzählt, dass die ersten Christen
@@ -469,7 +471,7 @@
                     Vorgangs, der Gemeinschaft, die der gekreuzigte <term type="Sachen" key="Jesus Christus, Gekreuzigter">Christus</term> gestiftet zwischen
                     sich und den Seinen und zwischen den Seinen untereinander.</p>
                 <p> So ist das <term type="Sachen" key="Abendmahl">Abendmahl</term> auf
-                        <hi rend="i">uns</hi> gekommen. Wir können hier nicht alle die Wandlungen
+                        <hi rend="italic">uns</hi> gekommen. Wir können hier nicht alle die Wandlungen
                     verfolgen, die es in der Auffassung und Würdigung der wechselnden
                     Geschlechter durchgemacht hat. Halten wir fest, was das Neue Testament
                     darüber bietet: es ist ein Gleichnis, und das Gleichnis <term type="Sachen" key="Abendmahl, Zeichen der Gemeinschaft mit Christus">bedeutet:</term>Gemeinschaft mit dem gekreuzigten Christus, und das heißt
@@ -483,7 +485,7 @@
                     feierlichsten und schönsten Ausdruck unsres Glaubens. Das Verständnis
                     dessen, was Jesus damals wollte, dürfte den meisten Christen nicht schwer
                     sein, wenn sie auch nur ein wenig vertraut sind <pb ed="A" rend="hidden" n="13"/>
-                    mit seiner Person und seinem Evangelium. Aber hier bei <hi rend="i">unsrer</hi>
+                    mit seiner Person und seinem Evangelium. Aber hier bei <hi rend="italic">unsrer</hi>
                     Feier, bei der <term type="Sachen" key="Abendmahl, Wiederholung zum Gedächtnis">Wiederholung</term>, fängt
                     für viele Freunde und Gegner des Abendmahls die Schwierigkeit an.</p>
                 <p>Es möchte mir vielleicht jemand sagen: Jesu Gleichnishandlung an jenem
@@ -512,7 +514,7 @@
                     dass er am Tisch des Herrn Brot und Wein genießt. Der Geist ist’s,
                     der lebendig macht, das Fleisch ist nichts nütze [<ref type="can" subtype="bible" target="Joh.6.63">Joh. 6,63</ref>].<note xml:id="n05">Dieser Vers war ein Hauptargument <persName ref="kbga-actors-443">Zwinglis</persName> im Abendmahlsstreit mit <persName ref="kbga-actors-261">Luther</persName>. Vgl. bes.: <bibl corresp="kbga-bibls-2830">
                                 <persName ref="kbga-actors-443">U.
-                        Zwingli</persName>, <hi rend="i">Amica Exegesis, id est: expositio eucharistiae negocii ad
+                        Zwingli</persName>, <hi rend="italic">Amica Exegesis, id est: expositio eucharistiae negocii ad
                             Martinum Lutherum</hi>, CR 92 (= Sämtliche Werke, 5),
                         S. 562–758, dort bes. S. 604–616</bibl>.</note> Aber was man
                     gegen das Abendmahl offen oder im Stillen einwendet, es sei etwas
@@ -553,8 +555,8 @@
                     2. Jahrhundert behaupteten,<note xml:id="n06">Zum
                         zeitgenössischen Stand der Gnosis-Forschung vgl. <bibl corresp="kbga-bibls-2831">
                                 <persName ref="kbga-actors-155">A. Harnack</persName>,
-                            <hi rend="i">Lehrbuch der Dogmengeschichte</hi>, Bd. 1: <hi rend="i">Die
-                            Entstehung des kirchlichen Dogmas</hi>, Tübingen 1909<hi rend="sup">4</hi>, S. 243–291</bibl>.</note> son<pb xml:id="p690" ed="pga"/>dern sie ist die Gotteswelt, in der ihm dieser Gott immer
+                            <hi rend="italic">Lehrbuch der Dogmengeschichte</hi>, Bd. 1: <hi rend="italic">Die
+                            Entstehung des kirchlichen Dogmas</hi>, Tübingen 1909<hi rend="sup">4</hi>, S. 243–291</bibl>.</note> son<pb xml:id="p690" ed="pga" break="no"/>dern sie ist die Gotteswelt, in der ihm dieser Gott immer
                     höhere und reichere Offenbarungen erschließt. Jesus, der doch wahrhaftig
                     kein Materialist war, hat diese Einheit gesehen und behauptet, und darum
                     führte er in seinen Gleichnissen die Menschen immer wieder zur <pb ed="A" rend="hidden" n="15"/> äußern Welt und rief ihnen zu: Seht ihr, so
@@ -580,22 +582,22 @@
                         <term type="Sachen" key="Erbauung">Erbauung</term>, wie wir sie uns
                     durch Predigthören, durch Lektüre, auch wohl durch einen stillen Spaziergang
                     verschaffen können, ist vorwiegend der Art, dass dabei unser Geist in
-                        <hi rend="i">Tätigkeit</hi> versetzt wird. Wir müssen dabei überlegen,
+                        <hi rend="italic">Tätigkeit</hi> versetzt wird. Wir müssen dabei überlegen,
                     geistig arbeiten sogar, Entschlüsse fassen. Ein vor kurzem erschienener
                     Katalog über religiöse Literatur trägt den bezeichnenden Titel: «Zum
-                        <hi rend="i">Aufbau</hi> eines neuen religiösen Lebens».<note xml:id="n07">
+                        <hi rend="italic">Aufbau</hi> eines neuen religiösen Lebens».<note xml:id="n07">
                             <bibl corresp="kbga-bibls-2832">
-                                <persName ref="kbga-actors-93">Eugen Diederichs Verlag</persName>, <hi rend="i">Zum Aufbau neuen religiösen
+                                <persName ref="kbga-actors-93">Eugen Diederichs Verlag</persName>, <hi rend="italic">Zum Aufbau neuen religiösen
                             Lebens. Bücher zur neuen idealistischen Bewegung</hi> (Katalog),
                         Jena 1910</bibl>. Mit diesem und drei weiteren «Buntpapierkatalogen mit
                         Aufsätzen verschiedener Autoren und Rezensionen der Bücher» wollte der
                         Verlag «seine verlegerischen Absichten klarer machen» und die «ganze
-                        Kulturbreite» seines Programms sichtbar machen (<bibl corresp="kbga-bibls-2833"><persName ref="kbga-actors-9328">I. Heidler</persName>, <hi rend="i">Der Verleger Eugen
+                        Kulturbreite» seines Programms sichtbar machen (<bibl corresp="kbga-bibls-2833"><persName ref="kbga-actors-9328">I. Heidler</persName>, <hi rend="italic">Der Verleger Eugen
                             Diederichs und seine Welt [1896–1930]</hi> [Mainzer Studien
                         zur Buchwissenschaft, 8], Wiesbaden 1998, S. 162</bibl>).</note> Die Meinung
                     ist offenbar die: durch das Lesen <pb xml:id="p691" ed="pga"/> der betreffenden
                     Bücher könne und solle der Mensch sein religiöses <term type="Sachen" key="Leben, religiöses">Leben</term>
-                    <hi rend="i">aufbauen</hi>. Die Vorstellung ist nicht so unrichtig, wenn mir auch
+                    <hi rend="italic">aufbauen</hi>. Die Vorstellung ist nicht so unrichtig, wenn mir auch
                     andre Bücher dazu wichtiger sind als manche von den in jenem Katalog
                     genannten. Wer nicht arbeitet, der soll auch nicht essen [vgl. 
                         <ref type="can" subtype="bible" target="2.Thess.3.10">2.Thess. 3,10</ref>], wer nicht
@@ -620,13 +622,13 @@
                         <persName ref="kbga-actors-443">Zwingli</persName> hat mit Recht
                     Nachdruck darauf gelegt, dass der Gang zum Abendmahl ein <term type="Sachen" key="Abendmahl, Glaubensbekenntnis">Glaubensbekenntnis</term>
                         darstelle.<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-627">
-                                <persName ref="kbga-actors-443">H. Zwingli</persName>, <hi rend="i">De vera et falsa
+                                <persName ref="kbga-actors-443">H. Zwingli</persName>, <hi rend="italic">De vera et falsa
                             religione Commentarius</hi>, CR 90 (= Sämtliche Werke, 3),
                         S. 628–911, dort S. 775</bibl>: «Est enim eucharistia gratiarum actio.
                         Qui ergo in hac publica gratiarum actione interesset, toti se ecclesiae
                         probaret ex eorum esse numero, qui Christo pro nobis exposito fiderent
                         […].»</note> Wir wollen stehen zu der freudigen Gewissheit, dass
-                    uns in Christus die Türe zum Vater aufgetan ist. Du möchtest dies Bekennt<pb xml:id="p692" ed="pga"/>nis lieber innerlich ablegen? Es ist recht, wenn
+                    uns in Christus die Türe zum Vater aufgetan ist. Du möchtest dies Bekennt<pb xml:id="p692" ed="pga" break="no"/>nis lieber innerlich ablegen? Es ist recht, wenn
                     du es tust, es ist sogar absolut nötig, dass du es innerlich tust. Gott ist
                     Geist, und die ihn anbeten, müssen ihn im Geist und in der Wahrheit anbeten
                     [<ref type="can" subtype="bible" target="Joh.4.24">Joh. 4,24</ref>]. Aber meinst

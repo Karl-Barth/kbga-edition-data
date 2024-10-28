@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53041">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 39</title>
         <title type="content">Predigt: Johannes 6,66-69 (Konfrmation)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Johannes 6,66-69 (Konfrmation), 5. Mai 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53041 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53041 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 39: Predigt: Johannes 6,66-69 (Konfrmation)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p439" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>39</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <term type="Sachen" key="Himmelfahrt / Auffahrt">Himmelfahrt</term>, den <date when="1910-05-05">5. Mai 1910</date>
+                            <hi rend="italic">Genf</hi></placeName>, <term type="Sachen" key="Himmelfahrt / Auffahrt">Himmelfahrt</term>, den <date when="1910-05-05">5. Mai 1910</date>
                     </dateline>
                         <head type="event">
                         <term type="Sachen" key="Konfirmation">Konfirmation</term><note xml:id="n01">Am <term type="Sachen" key="Himmelfahrt /Auffahrt">Himmelfahrtstag</term> 1910
@@ -122,7 +124,7 @@
                     euch liegt, vor euch aber das eigentliche Leben, das Leben der Erwachsenen
                     mit all seinen harten Realitäten, seinen Erwartungen und Enttäuschungen,
                     seinen Aufregungen und Mattigkeiten, seinen Kämpfen und Leiden. Den
-                        «<hi rend="i">Eintritt ins Leben</hi>» pflegt man darum die Konfirmation und
+                        «<hi rend="italic">Eintritt ins Leben</hi>» pflegt man darum die Konfirmation und
                     die <term type="Sachen" key="Konfirmation, Eintritt ins Leben">Konfirmationszeit</term> zu nennen.</p>
                 <p> Ich sage euch auch: Ja, so ist es; <term type="Sachen" key="Kinder">Kinder</term> seid ihr nun gewesen und <term type="Sachen" key="Erwachsene">Erwachsene</term> sollt ihr werden. Aber wenn ich euch
                     das sage, wünsche ich euch und mir, dass es mir gelingen möchte, euch in
@@ -141,7 +143,7 @@
                     Leben», den das Alter, in dem ihr steht, und dieser <term type="Sachen" key="Konfirmation, Eintritt ins Leben">Tag</term> insbesondere für euch
                     bedeuten soll. – |</p>
                 <p>Man kann darunter verstehen, dass von jetzt an die <term type="Sachen" key="Arbeit">
-                            <hi rend="i">Arbeit</hi></term> und Sorge erwachsener <term type="Sachen" key="Erwachsene, Arbeit und Sorge">Menschen</term> auch
+                            <hi rend="italic">Arbeit</hi></term> und Sorge erwachsener <term type="Sachen" key="Erwachsene, Arbeit und Sorge">Menschen</term> auch
                     euch erfüllen und beschäftigen soll. Bei Vielen von euch ist das längst der
                     Fall, und sie wissen, was das bedeutet, und auch die andern werden in der
                     Tat über kurz oder lang diesen Weg anzutreten haben. Aber es ist eine ganz
@@ -164,7 +166,7 @@
                     zu gut. – |</p>
                 <p>Genauso steht es aber, wenn man sagen wollte, der «Eintritt ins Leben»
                     bestehe darin, dass ihr von jetzt an von Rechts wegen an den <term type="Sachen" key="Vergnügen">
-                            <hi rend="i">Vergnügen</hi></term> der <term type="Sachen" key="Erwachsene, Vergnügen">Erwachsenen</term> teilnehmen
+                            <hi rend="italic">Vergnügen</hi></term> der <term type="Sachen" key="Erwachsene, Vergnügen">Erwachsenen</term> teilnehmen
                     dürft. Das mag dazu gehören, ich denke, ihr freut euch darauf, und es fällt
                     mir wahrhaftig nicht ein, es euch zu missgönnen. <pb ed="A" rend="hidden" n="4"/>
                     Wohl aber sollt ihr euch klar darüber sein, dass das noch nicht erwachsen
@@ -178,8 +180,8 @@
                     <term type="Sachen" key="Arbeit">Arbeit</term> ist gut und <term type="Sachen" key="Vergnügen">Vergnügen</term> ist gut, aber ihr sollt
                     nicht meinen, dass ihr damit ins Leben eintretet, dass ihr von nun an immer
                     mehr an Beidem teilnehmt, wie die <term type="Sachen" key="Erwachsene">Erwachsenen</term> es tun. Denn Arbeit und Vergnügen sind
-                        <hi rend="i">dann</hi> gut, wenn sie die Arbeit und das Vergnügen guter,
-                    rechter, reifer und reiner <hi rend="i">Menschen</hi> sind. Sonst sind beide ein
+                        <hi rend="italic">dann</hi> gut, wenn sie die Arbeit und das Vergnügen guter,
+                    rechter, reifer und reiner <hi rend="italic">Menschen</hi> sind. Sonst sind beide ein
                     sinnloses und wertloses Getriebe, das sich von dem Betriebe des Tier- und
                     Pflanzenlebens nicht wesentlich unterscheidet, gleichviel ob es sich dabei
                     um <term type="Sachen" key="Arbeit, feine">feine</term> oder grobe <term type="Sachen" key="Arbeit, grobe">Arbeit</term>, um <term type="Sachen" key="Vergnügen, feines">feines</term> oder grobes <term type="Sachen" key="Vergnügen, grobes">Vergnügen</term> handelt. Und darum sage ich,
@@ -191,9 +193,9 @@
                         <term type="Sachen" key="Mensch, innere Kraft">Kraft</term>.</p>
             
                 <p rend="margin-top">Als ihr klein wart, haben eure Eltern euch <term type="Sachen" key="Taufe">
-                            <hi rend="i">taufen</hi></term> lassen auf den
-                    Namen <hi rend="i">Jesu</hi>, zum Zeichen dessen, dass sie wollten, dass
-                        <hi rend="i">solche</hi> Menschen <pb xml:id="p442" ed="pga"/> aus euch würden,
+                            <hi rend="italic">taufen</hi></term> lassen auf den
+                    Namen <hi rend="italic">Jesu</hi>, zum Zeichen dessen, dass sie wollten, dass
+                        <hi rend="italic">solche</hi> Menschen <pb xml:id="p442" ed="pga"/> aus euch würden,
                     Menschen, die einmal in das wirkliche, wertvolle, verborgene Leben eintreten
                     sollten. Denn Alles, was man sagen kann über den rechten, reifen Menschen,
                     wie er sein sollte, kann man zusammenfassen in dem Namen Jesus. Sein Leben
@@ -245,11 +247,11 @@
                     Christus geliebt hat [vgl. <ref type="can" subtype="bible" target="Joh.13.34">Joh. 13,34</ref>]. Ihr wisst schon, dass diese Entscheidung nicht ein für
                     allemal vollzogen werden kann. Zu groß und zu wichtig ist die Angelegenheit,
                     um die es sich handelt. Wir sind nicht <term type="Sachen" key="Christen, werden Gottesmenschen">Gottesmenschen</term>, sondern wir
-                        <hi rend="i">werden</hi> es, indem wir unermüdlich wandern den Weg des
+                        <hi rend="italic">werden</hi> es, indem wir unermüdlich wandern den Weg des
                     Vertrauens und der Liebe. Aber die freie Entscheidung, die wir da immer
                     wieder vollziehen, bringt die christliche Gemeinde im Zeichen zum Ausdruck,
                     indem sie ihre erwachsenen Glieder versammelt zur Feier des <term type="Sachen" key="Abendmahl">
-                            <hi rend="i">Abendmahls</hi></term>. Denn indem
+                            <hi rend="italic">Abendmahls</hi></term>. Denn indem
                     wir uns da dankbar des Todes <term type="Sachen" key="Kreuz / Kreuzestod">Christi</term> erinnern, der uns den Weg des Lebens gewiesen und
                     eröffnet hat, bekennen und bezeugen wir, dass wir ihm angehören wollen,
                     d. h. dass wir <pb ed="A" rend="hidden" n="7"/> von seiner Art und Gesinnung sein
@@ -275,16 +277,16 @@
                     im Sinn und Geist der Verfassung unsrer <term type="Sachen" key="Genf, Kirchenverfassung">Genfer</term> Kirche, die es «ihren
                     Mitgliedern zur Pflicht macht, sich persönliche und wohlbegründete
                     Überzeugungen zu bilden».<note xml:id="n02">In der
-                            «Déclaration<hi rend="i">»</hi> der Verfassung von 1908, die sich auch in
+                            «Déclaration<hi rend="italic">»</hi> der Verfassung von 1908, die sich auch in
                         der Fassung von 2012 findet, heißt es: «L’Eglise nationale
                         protestante de Genève […] fait un devoir à chacun de ses membres
                         de se former des convictions personnelles et réfléchies»
-                            (<bibl corresp="kbga-bibls-2749"><hi rend="i">Constitution de l’Eglise protestante de Genève</hi>,
+                            (<bibl corresp="kbga-bibls-2749"><hi rend="italic">Constitution de l’Eglise protestante de Genève</hi>,
                         o. O., o. J. [Genf 2012], S. 6</bibl>).</note>
                     </p>
                 <p>Und darum lege ich euch heute mit allem Ernst und Nachdruck die Frage vor,
                     die Jesus an seine <term type="Sachen" key="Jünger">Jünger</term> gerichtet
-                    hat: <hi rend="i">Wollt ihr auch weggehen?</hi> Aus dem Textwort, das ich
+                    hat: <hi rend="italic">Wollt ihr auch weggehen?</hi> Aus dem Textwort, das ich
                     verlesen habe, hören wir, dass damals Viele, die einmal Jünger Jesu gewesen
                     waren, anfingen, sich von ihm zurückzuziehen und andere Wege zu gehen. Wir
                     können das gut begreifen: Der <pb ed="A" rend="hidden" n="8"/> Weg Jesu, das will
@@ -296,7 +298,7 @@
                     das <persName ref="kbga-actors-764">Friedrich Schiller</persName> einem seiner Helden in den Mund gelegt hat: Wer mit mir
                     geht, der sei bereit zu sterben!<note xml:id="n03">Vgl. <bibl corresp="kbga-bibls-2689">
                                 <persName ref="kbga-actors-764">Fr. Schiller</persName>,
-                            <hi rend="i">Wallensteins Tod</hi>, dritter Aufzug, dreiundzwanzigster
+                            <hi rend="italic">Wallensteins Tod</hi>, dritter Aufzug, dreiundzwanzigster
                         Auftritt (ders., Sämtliche Werke, Bd. 2, München 1962<hi rend="sup">3</hi>, S. 495f.)</bibl>:
                             <q rend="block">
                                 <lg>
@@ -318,7 +320,7 @@
                     seinen Verstand zum Opfer gebracht, sondern sich selbst, als er sah, dass
                     das der Wille <term type="Sachen" key="Wille Gottes">Gottes</term> war. Mit
                     dem alten, kleinen <term type="Sachen" key="Ich / das Ich">
-                            <hi rend="i">Ich</hi></term> soll es ein Ende nehmen, das sich aus all den
+                            <hi rend="italic">Ich</hi></term> soll es ein Ende nehmen, das sich aus all den
                     verborgenen und offenkundigen <term type="Sachen" key="Stimmungen">Stimmungen</term>, <term type="Sachen" key="Gefühle">Gefühlen</term>,
                     Wünschen und Neigungen zusammensetzt, die unser Dasein wertlos machen. An
                     seine Stelle soll Gott treten, der uns sagt: nicht Stimmungen, sondern <term type="Sachen" key="Gehorsam">Gehorsam</term>, nicht Wünsche, sondern
@@ -332,7 +334,7 @@
                     die Zurückbleibenden die <pb ed="A" rend="hidden" n="9"/> Frage: Wollt ihr auch
                     weggehen? Man hat gesagt, es liege ein Ton wehmütigen Verzichtes in diesen
                         Worten.<note xml:id="n04">Vgl. z. B. <bibl corresp="kbga-bibls-1052">
-                                <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="i">Einübung in
+                                <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="italic">Einübung in
                             das Christentum</hi> (1850) (Gesammelte Werke, Bd. 9), Jena 1912,
                         S. 87</bibl>: «Und wie jenes wehmütige Wort ‚selig, wer sich nicht an mir
                         ärgert‘, so folgt auch hier ein ähnliches, indem Christus zu den Zwölfen
@@ -357,7 +359,7 @@
                     so. In der Frage Jesu lag also die Aufforderung zur <term type="Sachen" key="Entscheidung">Entscheidung</term>, die Aufforderung zur Klarheit,
                     die er ein ander Mal mit dem Worte aussprach: Wer nicht für mich ist, der
                     ist wider mich [<ref type="can" subtype="bible" target="Mt.12.30">Mt. 12,30</ref>
-                    par.]. Und seine Frage war darum die <hi rend="i">Frage nach der <term type="Sachen" key="Überzeugung">Überzeugung</term></hi>, die heute
+                    par.]. Und seine Frage war darum die <hi rend="italic">Frage nach der <term type="Sachen" key="Überzeugung">Überzeugung</term></hi>, die heute
                     auch an euch ergeht. Aber ich füge gleich hinzu: nicht als ob diese Frage
                     heute euch gestellt und damit für morgen und übermorgen und immerdar
                     erledigt wäre, sondern das ist die Bedeutung dieses Tages, dass diese Frage
@@ -373,7 +375,7 @@
                     haben oder für die gar wie für <persName ref="kbga-actors-637">Gottfried Keller</persName> die <term type="Sachen" key="Konfirmation">Konfirmation</term> deshalb ein Fest war, weil sie an
                     diesem Tag zum letzten Mal in der Kirche waren.<note xml:id="n05">Über den Gottesdienst, der zum Abschluss seines Konfirmandenunterrichts
                         stattfand, heißt es in <bibl corresp="kbga-bibls-2690">
-                                <persName ref="kbga-actors-637">G. Keller</persName>, <hi rend="i">Der grüne Heinrich [Erste Fassung]</hi>
+                                <persName ref="kbga-actors-637">G. Keller</persName>, <hi rend="italic">Der grüne Heinrich [Erste Fassung]</hi>
                         (1854; ders., Sämtliche Werke in acht Bänden, Berlin 1961, Bd. 3),
                         S. 382 (zweiter Band, siebtes Kapitel)</bibl>: «Ich war schon in der Frühe
                         guter Laune, noch ein paar Stunden, und ich sollte frei sein von allem
@@ -414,7 +416,7 @@
                             <l>Sie hatten weder Glück noch Stern,</l>
                             <l>Sie sind verdorben, gestorben.<note xml:id="n06">Erste
                                     und dritte Strophe eines Volksliedes (vgl. <bibl corresp="kbga-bibls-2691">L. Erk / Fr. M.
-                                    Böhme [Hrsg.], <hi rend="i">Deutscher Liederhort</hi>, Bd. I,
+                                    Böhme [Hrsg.], <hi rend="italic">Deutscher Liederhort</hi>, Bd. I,
                                     Leipzig 1893, S. 588</bibl>), das von <persName ref="kbga-actors-1035">Heinrich Heine</persName> als
                                     «wirkliches Volkslied», das er «am Rheine» gehört habe, in
                                     seine Gedichte unter der Rubrik «Tragödie» aufgenommen wurde
@@ -427,7 +429,7 @@
                 <p rend="noindent">Ich denke an die Vielen, aus denen erklärte Taugenichtse und
                     Müßiggänger geworden sind, aber ich denke noch viel mehr an die Andern, die
                     viel Zahlreicheren, die mit keinem <term type="Sachen" key="Gesetz, Strafgesetz">Strafgesetz</term> in Konflikt gekommen sind
-                    und von denen es trotzdem heißt und heißen muss: Verwel<pb xml:id="p448" ed="pga"/>ket, verdorret, verdorben, gestorben, weil jener wertvolle Anfang in
+                    und von denen es trotzdem heißt und heißen muss: Verwel<pb xml:id="p448" ed="pga" break="no"/>ket, verdorret, verdorben, gestorben, weil jener wertvolle Anfang in
                     ihnen verwelkt, verdorrt, verdorben, gestorben ist, weil ihre <pb ed="A" rend="hidden" n="11"/>
                     <term type="Sachen" key="Stimmungen">Stimmungen</term> stärker waren als der
                         <term type="Sachen" key="Gehorsam">Gehorsam</term>, ihre Wünsche stärker
@@ -452,10 +454,10 @@
                     dort die zwölf Jünger, die bei Jesus blieben, wahrgenommen haben. Aber dabei
                     kann es nicht bleiben. Sondern nun kommt es an euch selbst: Wollt ihr auch
                     weggehen? Und das ist die Frage, ob ihr überzeugt seid, innerlich überwunden
-                    und überwältigt durch die Tatsache, dass <hi rend="i">Gott da</hi> ist, nicht
+                    und überwältigt durch die Tatsache, dass <hi rend="italic">Gott da</hi> ist, nicht
                     irgendwo in fernen Himmelshöhen – dort ist er auch, er ist überall
                     und nichts ist ohne ihn –, aber das, worauf es ankommt, ist die
-                    Frage, ob er <hi rend="i">euer</hi> Gott ist, ob er die Macht ist, die eure
+                    Frage, ob er <hi rend="italic">euer</hi> Gott ist, ob er die Macht ist, die eure
                     Gedanken und euren Willen leitet, ob ihr ihn gespürt und erfahren habt, ihr
                     selbst, ihr persönlich, und ob ihr nun willig seid, seine Art auch andern zu
                     spüren und zu erfahren <pb ed="A" rend="hidden" n="12"/> zu geben durch eure Art
@@ -481,7 +483,7 @@
                     jetzt an in der Tiefe eurer Herzen, wie sie hervorgegangen sind aus der
                     Tiefe eines Menschenherzens, in dem eine große Überzeugung lebte.</p>
                 <p>
-                        <hi rend="i">Herr, wohin sollen wir gehen?</hi> Das war das erste. Petrus hat es
+                        <hi rend="italic">Herr, wohin sollen wir gehen?</hi> Das war das erste. Petrus hat es
                     in jenem Augenblick auch klar und deutlich erkannt, dass die, die weggingen,
                     ihr Bestes weggaben, und darum hat er sich ihnen nicht angeschlossen.
                     Erstaunt und fast unwillig beantwortet er die Frage Jesu mit der Gegenfrage:
@@ -493,8 +495,8 @@
                     zum Leben führt und doch gemächlicher und bequemer ist als der Weg Jesu,
                     kennt er nicht.</p>
                 <p>Und <anchor type="note" xml:id="fn-d"/>
-                        <hi rend="i">ich</hi> kann auch <hi rend="i">euch</hi> keinen
-                    solchen <hi rend="i">dritten einfacheren</hi><note type="textcritical" n="d" xml:id="nd" target="fn-d"> Alle Unterstreichungen sind im Mskr. nachträglich mit
+                        <hi rend="italic">ich</hi> kann auch <hi rend="italic">euch</hi> keinen
+                    solchen <hi rend="italic">dritten einfacheren</hi><note type="textcritical" n="d" xml:id="nd" target="fn-d"> Alle Unterstreichungen sind im Mskr. nachträglich mit
                                 Bleistift vorgenommen.</note>
                     <term type="Sachen" key="Lebensweg">Weg</term> zeigen, meine lieben
                     Konfirmanden. Ich denke, ihr habt mich in dieser Zeit gut genug
@@ -504,8 +506,8 @@
                     sich um Gott handelt, da gibt es keine <term type="Sachen" key="Gott, keine Mittelwege">Mittelwege</term>, sondern es gilt da das
                     große <term type="Sachen" key="Entscheidung">Entweder-Oder</term> des Dänen
                         <persName ref="kbga-actors-221">Kierkegaard</persName>.<note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-2693">
-                                <hi rend="i">Enten
-                            – Eller. Et Livs-Fragment</hi> [dt.: <hi rend="i">Entweder
+                                <hi rend="italic">Enten
+                            – Eller. Et Livs-Fragment</hi> [dt.: <hi rend="italic">Entweder
                             – Oder. Ein Lebensfragment</hi>], udgivet af V. Eremita [=
                        <persName ref="kbga-actors-221">S. Kierkegaard</persName>], 2 Teile, Kopenhagen 1843; eine deutsche
                         Übersetzung erschien erstmals 1885</bibl>.</note> Man kann ohne Jesus ein
@@ -515,14 +517,14 @@
                     Herr, wohin sollen wir gehen? Vor uns öffnen sich die Straßen und Wege nach
                     allen Seiten, Straßen von jeder Art, schmale und breite, gerade und krumme,
                     Wege nach oben und Wege nach unten. Es sind viel gute Wege dabei, Wege, die
-                    zum Ziel führen, aber wenn es <hi rend="i">gute</hi>
+                    zum Ziel führen, aber wenn es <hi rend="italic">gute</hi>
                     <term type="Sachen" key="Lebenswege, gute">Wege</term> sind, sind sie es
                     darum, weil es Seitenwege sind und immer wieder zurückführen in den
                     verborgenen Weg, den der merkwürdige Mann gegangen ist, der vor 2000 Jahren
                     eine kurze Zeit unter den Menschen <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">gelebt</term> hat und von dem
                     damals Einige gesagt haben, durch ihn sei ihnen Gott deutlich und
                     gegenwärtig und unvergesslich geworden.</p>
-                <p>Herr, wohin sollen wir gehen? <hi rend="i">Du hast Worte des ewigen <term type="Sachen" key="Ewiges Leben, Worte des E. W.">Lebens</term></hi>. Das sind die großen, unvergesslichen Augenblicke
+                <p>Herr, wohin sollen wir gehen? <hi rend="italic">Du hast Worte des ewigen <term type="Sachen" key="Ewiges Leben, Worte des E. W.">Lebens</term></hi>. Das sind die großen, unvergesslichen Augenblicke
                     in unserm kleinen Dasein, wenn wir wahrhaftig und aufrichtig sagen dürfen:
                     Das war nun ein Wort ewigen Lebens, das Große, Erstaunliche, Befreiende, das
                         <anchor type="note" xml:id="fn-e"/>da soeben<note type="textcritical" n="e" xml:id="ne" target="fn-e"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
@@ -531,17 +533,17 @@
                     geworden, das ist ewiges <pb ed="A" rend="hidden" n="14"/> Leben, was da in mir
                     erwacht ist. Es war nicht nur etwas Schönes, Gutes und Nützliches, wie es
                     uns auch sonst begegnet und zuteilwird, sondern es war <term type="Sachen" key="Ewigkeit">Ewigkeit</term>. Nicht etwas Gutes neben andern guten
-                    Dingen, sondern <hi rend="i">das</hi>
+                    Dingen, sondern <hi rend="italic">das</hi>
                     <term type="Sachen" key="Gutes / das Gute">Gute</term>, hinter dem es etwas
                     Besseres nicht mehr gibt, nicht eine Wahrheit neben andern, sondern
-                        <hi rend="i">die</hi> Wahrheit, die letzte, oberste <term type="Sachen" key="Wahrheit, letzte">Wahrheit</term>. Wenn das in einem Menschen
+                        <hi rend="italic">die</hi> Wahrheit, die letzte, oberste <term type="Sachen" key="Wahrheit, letzte">Wahrheit</term>. Wenn das in einem Menschen
                     aufleuchtet oder wenn einem Menschen Gott offenbar und gegenwärtig wird, das
                     sind Worte des ewigen Lebens.</p>
                
                 <p> <pb rend="noPipe" xml:id="p451" ed="pga"/> Solche Worte haben <persName ref="kbga-actors-1814">Petrus</persName> und
                     seine Freunde von Christus gehört; Christi ganzes Leben war ein großer,
                     schlichter Fingerzeig auf die <term type="Sachen" key="Jesus Christus, Leben war Fingerzeig auf die Ewigkeit">Ewigkeit</term>. Die <term type="Sachen" key="Jünger">Jünger</term>
-                    haben ihn oft nicht verstanden, <hi rend="i">ganz</hi> haben sie ihn erst
+                    haben ihn oft nicht verstanden, <hi rend="italic">ganz</hi> haben sie ihn erst
                     verstanden, als er nicht mehr bei ihnen war. Aber wenn sie ihn verstanden
                     haben, dann war’s ihnen wie den Kindern am Weihnachtsabend. Sie
                     standen im Dunkeln, aber da und dort sahen sie wie durch eine Spalte in der
@@ -571,22 +573,22 @@
                         <term type="Sachen" key="Paradies">Paradiese</term> über <placeName ref="kbga-places-405">Golgatha</placeName> geht, der Weg zum <term type="Sachen" key="Leben, Weg zum L. durch das Sterben">Leben</term>
                     durchs Sterben des äußern Menschen.</p>
                 <p>Und wenn sie seine Worte und Taten hörten und sahen, dann erwachte so oder so
-                    immer lebendiger der Eindruck in ihnen: <hi rend="i">Der</hi><note type="textcritical" n="f" xml:id="nf"> Im Mskr. mit blauem Stift nachträglich unterstrichen.</note>
+                    immer lebendiger der Eindruck in ihnen: <hi rend="italic">Der</hi><note type="textcritical" n="f" xml:id="nf"> Im Mskr. mit blauem Stift nachträglich unterstrichen.</note>
                     <pb xml:id="p452" ed="pga"/> Mann ist innerlich gegründet und verankert im Grunde
                     der <term type="Sachen" key="Jesus Christus, verankert im Grund der Ewigkeit">Ewigkeit</term>.
                     Das, was wir da sahen und erlebten, das ist die Wahrheit inmitten des
                     Scheins, und das wäre unser Leben und unsre <term type="Sachen" key="Erlösung">Erlösung</term>, wenn wir gesinnt würden, wie er war.
                     Dieser überwältigende Eindruck, den sie von Jesu Art hatten, ist der Inhalt
-                    des <term type="Sachen" key="Bekenntnisse, Petrus-Bekenntnis">Bekenntnisses</term>, das <persName ref="kbga-actors-1814">Petrus</persName> zuletzt aussprach: <hi rend="i">Wir sind zum Glauben gekommen
+                    des <term type="Sachen" key="Bekenntnisse, Petrus-Bekenntnis">Bekenntnisses</term>, das <persName ref="kbga-actors-1814">Petrus</persName> zuletzt aussprach: <hi rend="italic">Wir sind zum Glauben gekommen
                         und haben erkannt, dass du bist der Heilige <term type="Sachen" key="Jesus Christus, Heiliger Gottes">Gottes</term></hi>.</p>
                 <p>Und das ist nun das selbständige, bewusste, eigene Christentum, zu dem ihr,
                     meine jungen Freunde, berufen seid, wenn ihr aufrichtig das bekennen könnt:
                     wir sind zum <term type="Sachen" key="Glaube">Glauben</term> gekommen. Ihr
-                    wisst, was das bedeuten soll: <hi rend="i">nicht</hi>, dass ihr schon vollkommene
+                    wisst, was das bedeuten soll: <hi rend="italic">nicht</hi>, dass ihr schon vollkommene
                     Menschen seid, das ist Petrus dort auch noch nicht gewesen, und das sind wir
-                    Alle noch nicht; auch <hi rend="i">nicht</hi>, dass ihr euch zu Ehren dieses
+                    Alle noch nicht; auch <hi rend="italic">nicht</hi>, dass ihr euch zu Ehren dieses
                     Tages zwingen sollt, eine Lehre über Gott und göttliche Dinge anzunehmen,
-                    wohl aber, dass wie ein fernes großes Licht <hi rend="i">der</hi> Eindruck in
+                    wohl aber, dass wie ein fernes großes Licht <hi rend="italic">der</hi> Eindruck in
                     euch, in euch selbst erwacht ist, dass <term type="Sachen" key="Gott, ist wo Jesus Christus ist">Gott</term> da ist, wo Jesus ist,
                     dass ein Menschenleben da wirklich und wertvoll wird, wo die Gemeinschaft
                     mit diesem Jesus da ist, das will sagen: ein kleiner Anfang von seinem
@@ -603,7 +605,7 @@
                     wissen und ihr wisst es auch, wie schwach und unvollkommen wir sind, aber
                     Christus ist da, durch den Gott uns stark und gerecht macht.</p>
                 <p>Im Namen Christi, durch seine Stärke und Gerechtigkeit, wolle Gott euch den
-                    Eintritt schenken ins <hi rend="i">ewige</hi>
+                    Eintritt schenken ins <hi rend="italic">ewige</hi>
                     <term type="Sachen" key="Ewiges Leben">Leben</term>, heute und allezeit.</p>
                 </div>  
                 <div type="closer">

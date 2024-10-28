@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1033">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 31</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 19. Juli 1925</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1033 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1033 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 49–51.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">31</title>
+          <title type="text">Brief Nr. 31: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -86,7 +87,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:09+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:09+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -104,14 +105,14 @@
         <p>An Herrn <persName ref="kbga-actors-237">Küper</persName><note xml:id="n01">Vermietete Ferienzimmer.</note> in <placeName ref="kbga-places-161">Baltrum</placeName> hatte ich geschrieben und hätte dort auch Quartier bekommen. Aber im letzten Augenblick streikte meine <rs type="person" ref="kbga-actors-74">Frau</rs>: ich dürfe nicht mit Ihnen zusammen in die Ferien, sonst würde ich der Familie entzogen, triebe nur Theologie und hätte keine Erholung. Ob es so schlimm geworden wäre, weiß ich zwar nicht, aber ich gab nach, und wir fahren also am <date when="1925-08-04">4. August</date> nach <placeName ref="kbga-places-247">Langeoog</placeName> (Haus Biel). Wir sind also in der Nachbarschaft, und ich hoffe dringend, daß wir uns einmal in <placeName ref="kbga-places-161">B[altrum]</placeName> und <placeName ref="kbga-places-247">L[angeoog]</placeName> besuchen, denn es ist manches Notwendige zu besprechen. Heute zunächst dies: <persName ref="kbga-actors-182">Hess</persName><note xml:id="n02">
                         <seg type="bio">
                             <persName ref="kbga-actors-182">Hans-Erich Hess</persName> studierte im Sommersemester <date when="1923">1923</date> bei <persName ref="kbga-actors-512">Bultmann</persName>, dann bei <persName ref="kbga-actors-2151">Barth</persName>; später Oberkirchenrat in <placeName ref="kbga-places-14">Darmstadt</placeName>.</seg>
-                    </note> brachte mir ein Manuskript der Prolegomena Ihrer Dogmatik<note xml:id="n03">Es handelt sich um eine studentische Nachschrift von <persName ref="kbga-actors-2151">Barths</persName> Vorlesung im Sommer- und Wintersemester <date from="1924" to="1925">1924/25</date>; vgl. <ref type="pub" target="1023#fn_n01">Nr. 21, Anm. 1</ref>. <ref type="kba-objects-id" target="6619">Original im Karl Barth-Archiv</ref>.</note>, das ich ihm <hi rend="i">vorbehalten</hi> Ihre Zustimmung auch abnahm. Ich habe noch nicht darin gelesen und werde es auch ohne Ihre Zustimmung nicht tun. Um diese möchte ich Sie freilich bitten. — Meinen Göttinger Vortrag schickte ich neulich an <persName ref="kbga-actors-275">Merz</persName> in etwas gebesserter Form, freilich immer noch recht fragwürdig.<note xml:id="n04">Zum Druck in «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>», die <persName ref="kbga-actors-275">Georg Merz</persName> redigierte, s. <ref type="pub" target="1018#fn_n08">Nr. 16, Anm. 8</ref>.</note> Nun, er mag ein Stadium der Diskussion markieren. — Sehr erfreut <pb xml:id="p050" ed="pga"/> bin ich über <persName ref="kbga-actors-317">Petersons</persName> neuste Aufsätze.<note xml:id="n05">
+                    </note> brachte mir ein Manuskript der Prolegomena Ihrer Dogmatik<note xml:id="n03">Es handelt sich um eine studentische Nachschrift von <persName ref="kbga-actors-2151">Barths</persName> Vorlesung im Sommer- und Wintersemester <date from="1924" to="1925">1924/25</date>; vgl. <ref type="pub" target="1023#fn_n01">Nr. 21, Anm. 1</ref>. <ref type="kba-objects-id" target="6619">Original im Karl Barth-Archiv</ref>.</note>, das ich ihm <hi rend="italic">vorbehalten</hi> Ihre Zustimmung auch abnahm. Ich habe noch nicht darin gelesen und werde es auch ohne Ihre Zustimmung nicht tun. Um diese möchte ich Sie freilich bitten. — Meinen Göttinger Vortrag schickte ich neulich an <persName ref="kbga-actors-275">Merz</persName> in etwas gebesserter Form, freilich immer noch recht fragwürdig.<note xml:id="n04">Zum Druck in «<orgName ref="kbga-actors-6169">Zwischen den Zeiten</orgName>», die <persName ref="kbga-actors-275">Georg Merz</persName> redigierte, s. <ref type="pub" target="1018#fn_n08">Nr. 16, Anm. 8</ref>.</note> Nun, er mag ein Stadium der Diskussion markieren. — Sehr erfreut <pb xml:id="p050" ed="pga"/> bin ich über <persName ref="kbga-actors-317">Petersons</persName> neuste Aufsätze.<note xml:id="n05">
                         <bibl corresp="kbga-bibls-1031">
                             <persName ref="kbga-actors-317">E. Peterson</persName>, <title level="a">Der Lobgesang der Engel und der mystische Lobpreis</title>, in: <title>ZdZ</title>, Jg. 3 (1925), S. 141–153</bibl>; <bibl corresp="kbga-bibls-1032">
                             <persName ref="kbga-actors-317">ders</persName>., <title level="a">Über die Forderung einer Theologie des Glaubens. Eine Auseinandersetzung mit Paul Althaus</title>, in: <title>ZdZ</title>, Jg. 3 (1925), S. 281–302</bibl>; <bibl corresp="kbga-bibls-1033">
-                            <persName ref="kbga-actors-317">ders</persName>., <hi rend="i">Was ist Theologie?</hi>, Bonn 1925 (1926<edition rend="sup">2</edition>)</bibl> (= <bibl corresp="kbga-bibls-1034">
-                            <persName ref="kbga-actors-317">E. Peterson</persName>, <hi rend="i">Theologische Traktate</hi>, München
+                            <persName ref="kbga-actors-317">ders</persName>., <hi rend="italic">Was ist Theologie?</hi>, Bonn 1925 (1926<edition rend="sup">2</edition>)</bibl> (= <bibl corresp="kbga-bibls-1034">
+                            <persName ref="kbga-actors-317">E. Peterson</persName>, <hi rend="italic">Theologische Traktate</hi>, München
                         1951, S. 9–43</bibl>; auch in: <bibl corresp="kbga-bibls-1035">
-                            <hi rend="i">Theologie als Wissenschaft. Aufsätze und Thesen</hi>, hrsg. von G. Sauter [<title>ThB</title> 43], München
+                            <hi rend="italic">Theologie als Wissenschaft. Aufsätze und Thesen</hi>, hrsg. von G. Sauter [<title>ThB</title> 43], München
                         1971, S. 132–151).</bibl>
                     </note> Endlich ein Gegner, mit dem die Diskussion sich lohnt! Wir werden sie von <placeName ref="kbga-places-41">Marburg</placeName> aus jedenfalls aufnehmen<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-1036">
                             <persName ref="kbga-actors-362">H. Schlier</persName>, <title level="a">Eine Bemerkung zum Verhältnis von Glauben und Mystik</title>, in: <title>ZdZ</title>, Jg. 3 (1925), S. 410–414</bibl>; <bibl corresp="kbga-bibls-1038">
@@ -123,16 +124,16 @@
                             <persName ref="kbga-actors-2151">Barth</persName> antwortete <persName ref="kbga-actors-317">Peterson</persName> mit seinem Aufsatz: <title level="a">Kirche und Theologie</title>, am <date when="1925-10-07">7.10.1925</date> in <placeName ref="kbga-places-27">Göttingen</placeName> und am <date when="1925-10-23">23.10.1925</date> in <placeName ref="kbga-places-197">Elberfeld</placeName> als Vortrag gehalten, veröffentlicht in: <bibl corresp="kbga-bibls-1042">
                                 <title>ZdZ</title>, Jg. 4 (1926), S. 18–40</bibl> (= <bibl corresp="kbga-bibls-954">
                                 Th. u. K., S. 302–328</bibl>, um einige polemische Anmerkungen gekürzt; auch in: <bibl corresp="kbga-bibls-1035">
-                                <hi rend="i">Theologie als Wissenschaft. Aufsätze und Thesen</hi>, <title>a. a. O.</title>, S. 152–175</bibl>; <bibl corresp="kbga-bibls-1043">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Vortrage und kleinere Arbeiten 1922–1925</hi>, hrsg. von H. Finze [Gesamtausgabe, Abt. III], Zürich 1990, 
+                                <hi rend="italic">Theologie als Wissenschaft. Aufsätze und Thesen</hi>, <title>a. a. O.</title>, S. 152–175</bibl>; <bibl corresp="kbga-bibls-1043">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Vortrage und kleinere Arbeiten 1922–1925</hi>, hrsg. von H. Finze [Gesamtausgabe, Abt. III], Zürich 1990, 
                                     <ref type="pub" target="19026#p644">S. 644–682</ref>).</bibl> <persName ref="kbga-actors-2151">Barths</persName> und <persName ref="kbga-actors-512">Bultmanns</persName> Antworten an <persName ref="kbga-actors-317">Peterson</persName> entstanden unabhängig voneinander; vgl. <bibl corresp="kbga-bibls-451">
-                                <hi rend="i">Vorträge und kleinere Arbeiten 1922–1925</hi>, <title>a. a. O.</title></bibl>.</p>
+                                <hi rend="italic">Vorträge und kleinere Arbeiten 1922–1925</hi>, <title>a. a. O.</title></bibl>.</p>
               <p>Am <date when="1925-10-11">11.10.1925</date>, vier Tage nach <persName ref="kbga-actors-2151">Barths</persName> Göttinger Vortrag, bei dem <persName ref="kbga-actors-317">Peterson</persName> zugegen war, schrieb <persName ref="kbga-actors-317">Peterson</persName> an <persName ref="kbga-actors-512">Bultmann</persName>: «Vor einigen Tagen hat <persName ref="kbga-actors-2151">Barth</persName> in <placeName ref="kbga-places-27">Göttingen</placeName> gegen mich geredet. Ich kann nicht finden, daß meine Argumente widerlegt seien. <persName ref="kbga-actors-2151">Barth</persName> sieht m. E. das Problem noch lange nicht in der Schärfe, in der es gesehen werden muß. Ich will aber erst abwarten, was alles zur Sache gesagt wird, dann will ich mehr sagen. Ich betone nachdrücklich, daß ich kein Heiler bin u. also auch nicht daran denke zu ‹katholisieren›. Die Leute denken, daß wenn man etwas zu e. theol. Problem sagt, das ‹Ausdruck› persönlichen Glaubens u. damit evangelischer Theologie sei. Aber diese Dinge sind viel komplizierter, als daß wir aus der <foreign xml:lang="grc" rend="Ell">Θεωρία</foreign> sofort zur <foreign xml:lang="grc" rend="Ell">πρᾶξις</foreign> übergehen könnten.</p>
                         <p>Lesen Sie bitte, was <persName ref="kbga-actors-4">Althaus</persName> im <orgName ref="kbga-actors-7732">Theol. Literaturblatt</orgName> gegen mich gesagt hat. D.h. sachlich hat er nichts gegen mich gesagt, sondern nur empfohlen, man solle meine Schrift als einen schlechten Witz betrachten, sie aber nicht ernstnehmen.</p>
                         <p>Aber schließlich habe ich doch nicht Überzeugungen, sondern Gründe vorgebracht u. um diese sachliche Auseinandersetzung drückt sich <persName ref="kbga-actors-4">Althaus</persName> ebenso wie <persName ref="kbga-actors-184">Hirsch</persName>. Das ist freilich bezeichnend für diese Leute, die nur Politiker sind u. denen Wahrheit nur eine Etikette für ihre kleinen Ziele ist […]</p>
                         <p>Ich sage noch einmal, es lag mir fern, irgend jemandem persönlich weh zu tun u. ich bedaure, wo das geschehen ist. <persName ref="kbga-actors-2151">Barth</persName> ist seit seinem Vortrag mit mir ausgesöhnt, in der Diskussion sah er sich genötigt, auf meine Seite zu treten. Mir ist diese ganze Diskussion qualvoll, aber wenn wir aus dem Wirrwarr in der Theologie raus kommen wollen, müssen wir klar u. ruhig reden. Die Freiheit ist jetzt ebenso groß wie die Dummheit […]» (<bibl type="archival">Brief im <title level="u">Bultmann-Nachlaß</title>, Tübingen</bibl>).</p>
                     </note> — Ich hätte <pb xml:id="p051" ed="pga"/> Lust, noch allerlei zu erzählen, will es aber auf einen schönen Tag an der See verschieben und freue mich recht darauf. Im Kolleg stehe ich jetzt bei <ref type="can" subtype="bible" target="1.Kor.15">1.Kor 15</ref> und streite mit Ihnen einen schweren Kampf.<note xml:id="n08">Bezieht sich auf <bibl corresp="kbga-bibls-994">
-                            <persName ref="kbga-actors-2151">Barths</persName> Monographie: <hi rend="i">Die Auferstehung der Toten</hi></bibl>. Siehe <ref type="pub" target="1022#fn_n02">Nr. 20, Anm. 2</ref>.</note> In den <orgName ref="kbga-actors-7468">Theol. Bl.</orgName> werde ich davon berichten.</p>
+                            <persName ref="kbga-actors-2151">Barths</persName> Monographie: <hi rend="italic">Die Auferstehung der Toten</hi></bibl>. Siehe <ref type="pub" target="1022#fn_n02">Nr. 20, Anm. 2</ref>.</note> In den <orgName ref="kbga-actors-7468">Theol. Bl.</orgName> werde ich davon berichten.</p>
         <closer>
           <salute>Hoffentlich geht es Ihnen und Ihrer Familie gut! Herzliche Grüße,
 auch von meiner Frau!</salute>

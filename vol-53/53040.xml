@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53040">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 38</title>
         <title type="content">Predigt: Jakobus 2,1-7</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 2,1-7, 24. April 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53040 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53040 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 38: Predigt: Jakobus 2,1-7</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p425" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>38</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-04-24">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-04-24">Sonntag, den
                             24. April 1910</date> <date rend="right">(Sonntag Cantate)</date> </dateline>
                     <epigraph>
                         <cit>
@@ -108,10 +110,10 @@
                     bestimmt Eines ins <pb ed="A" rend="hidden" n="2"/> Auge fassen und die nun ihr
                     Denken und Wollen, ihr Leben dem Einen weihen mit ganzem Herzen und aus
                     allen ihren Kräften, die z. B. auf dem ungeheuren Felde der Wissenschaft nur
-                        <hi rend="i">ein</hi> Problem, nur <hi rend="i">eine</hi> Frage sehen, deren
+                        <hi rend="italic">ein</hi> Problem, nur <hi rend="italic">eine</hi> Frage sehen, deren
                     Beantwortung nun ihr Suchen und Mühen gilt. Die Menschen, deren sittlicher,
-                    moralischer Ernst mit Gewalt auf <hi rend="i">eine</hi> Aufgabe gerichtet ist, in
-                    der sich gerade <hi rend="i">ihnen</hi> das Gesetz des Guten offenbart hat. Wir
+                    moralischer Ernst mit Gewalt auf <hi rend="italic">eine</hi> Aufgabe gerichtet ist, in
+                    der sich gerade <hi rend="italic">ihnen</hi> das Gesetz des Guten offenbart hat. Wir
                     Andern, wir angeblich Vielseitigen haben gut über die Scheuklappen der <term type="Sachen" key="Einseitigkeit">Einseitigkeit</term> die Nase zu
                     rümpfen. Wenn es uns geschenkt ist, die Fülle des <term type="Sachen" key="Leben, Fülle">Lebens</term>, seiner Fragen und Aufgaben zu
                     übersehen, dann verdanken wir es immer der harten, gewaltsamen Arbeit der
@@ -122,7 +124,7 @@
                     rühmen. Es gilt nicht nur für jene großen Führer der Menschheit, sondern für
                     jeden Einzelnen von uns, dass aus der Fülle der Gesichte<note xml:id="n01">Gehobener Ausdruck für: eine Vielzahl von Eindrücken. Vgl.
                         <bibl corresp="kbga-bibls-647">
-                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                         V. 519–521 (Nacht)</bibl>:
                             <q rend="block">
                                 <lg>
@@ -167,7 +169,7 @@
                     Anwendung bestehe.<note xml:id="n03">Der Gebrauch der zitierten
                         Begriffe konnte nicht ermittelt werden; eine inhaltlich sehr ähnliche
                         Aussage findet sich z. B. in den einleitenden Sätzen bei <bibl corresp="kbga-bibls-2679">
-                                <persName ref="kbga-actors-388">H. von Soden</persName>, <hi rend="i">Der
+                                <persName ref="kbga-actors-388">H. von Soden</persName>, <hi rend="italic">Der
                             Jacobusbrief</hi>, in: JPTh 10 (1884), S. 137–192, dort
                         S. 137</bibl>: «Der Brief, der des Jacobus Namen an der Spitze trägt, hat eine
                         rein praktische Haltung; sein Blick ist nur auf das Leben und dessen
@@ -175,7 +177,7 @@
                         den Brief auch nur mit dem Gedanken an das praktische Leben fragen, was
                         er unter Christentum verstehe und was er von Christen verlange.»
                         – Vgl. auch <bibl corresp="kbga-bibls-2680">
-                                <persName ref="kbga-actors-21">Fr. Barth</persName>, <hi rend="i">Einleitung in das Neue Testament</hi>,
+                                <persName ref="kbga-actors-21">Fr. Barth</persName>, <hi rend="italic">Einleitung in das Neue Testament</hi>,
                         Gütersloh 1908, S. 148</bibl>: «In der Tat ist seine Haltung mehr
                         praktisch-verständig als schwungvoll, und wer die Zeichen der Religion
                         in Ekstasen und Zungenreden sucht, wird bei Jakobus enttäuscht. Aber
@@ -199,7 +201,7 @@
                     verstehen Alle ohne Weiteres, was das sagen will, wir kennen alle solche
                     Leute, nämlich erstens uns selbst, zweitens noch einmal uns selbst und
                     drittens zum dritten Mal uns selbst. Halbe Frömmigkeit! Die entsteht durch
-                    den bekannten Vor<pb xml:id="p428" ed="pga"/>gang, dass wir bei der Betätigung
+                    den bekannten Vor<pb xml:id="p428" ed="pga" break="no"/>gang, dass wir bei der Betätigung
                     unsres <term type="Sachen" key="Glaube">Glaubens</term>, d. h. unsres innern
                         <term type="Sachen" key="Leben, inneres">Lebens</term> Abstriche machen,
                     da einen und dort einen; dass wir Ausnahmen konstatieren von der <term type="Sachen" key="Frömmigkeit, halbe Fr. macht Ausnahmen von der Regel">Regel</term>, von der Regel, die wir kennen und anerkennen, Ausnahmen,
@@ -227,9 +229,9 @@
                     erzählt ist bereits als von einer Merkwürdigkeit der christlichen
                     Vergangenheit. Aus derselben Zeit, in der jene Erzählung in der
                     Apostelgeschichte verfasst worden ist, mag unser Brief stammen. Und in
-                        <hi rend="i">dieser</hi> Zeit war es jedenfalls mit der ersten Liebe vorbei
+                        <hi rend="italic">dieser</hi> Zeit war es jedenfalls mit der ersten Liebe vorbei
                     [vgl. <ref type="can" subtype="bible" target="Apk.2.4">Apk. 2,4</ref>], in
-                        <hi rend="i">dieser</hi> Zeit gab es auch unter den Urchristen schon <term type="Sachen" key="Christen, halbe">Halbe</term>. Das kam z. B. darin
+                        <hi rend="italic">dieser</hi> Zeit gab es auch unter den Urchristen schon <term type="Sachen" key="Christen, halbe">Halbe</term>. Das kam z. B. darin
                     zum Ausdruck, dass damals allerlei Gedanken der <term type="Sachen" key="Philosophie, griechische">griechischen</term> und syrischen <term type="Sachen" key="Philosophie, syrische">Philosophie</term> und
                     Sagengeschichte in die christliche <term type="Sachen" key="Lehre, christliche">Lehre</term> eindrangen, die das einfache <term type="Sachen" key="Evangelium">Evangelium</term>, wenn nicht
                     verfälschten, so doch zu einer schwierigen, komplizierten, gebildeten Sache
@@ -241,7 +243,7 @@
                     wenig Interesse. Das war nun einmal nicht seine Art. Wohl aber sehen wir ihn
                     auf die praktische Halbheit der Christen losgehen, die darin bestand, dass
                     sie in ihrer <term type="Sachen" key="Nächstenliebe">Nächstenliebe</term>
-                    böse Unterschiede der Person machten, <hi rend="i">böse</hi> Unterschiede, weil
+                    böse Unterschiede der Person machten, <hi rend="italic">böse</hi> Unterschiede, weil
                     sie dabei doch wieder mit schlechten <term type="Sachen" key="Christen, Vorurteile">Vorurteilen</term> an den Nächsten
                     herantraten, die durch das wirkliche Christentum gerade ausgerottet sein
                     sollten. Er beweist ihnen das an einem bestimmten Fall, der offenbar in der
@@ -266,7 +268,7 @@
                         Klagepunkte gegen Pfarrer Wyss waren keine vorhanden. Man legte ihm zur
                         Last, daß er Mißstände aufgedeckt hatte. Auch sein Sexualunterricht in
                         der Unterweisung verursachte allgemeines Ärgernis. In der Folge wurde
-                        Pfarrer Wyss von der Kirchgemeindeversammlung gesprengt» (<bibl corresp="kbga-bibls-2682"><persName ref="kbga-actors-9260">Fr. Schär</persName>, <hi rend="i">Anlage der
+                        Pfarrer Wyss von der Kirchgemeindeversammlung gesprengt» (<bibl corresp="kbga-bibls-2682"><persName ref="kbga-actors-9260">Fr. Schär</persName>, <hi rend="italic">Anlage der
                             Dokumentation zur Geschichte des Kantons Bern 1850–1945 und
                             Illustration ihres Gehalts</hi>, in: Berner Zeitschrift für
                         Geschichte und Heimatkunde 38 [1976], S. 111–125, dort S. 118</bibl>).
@@ -291,7 +293,7 @@
                         griechisch geschriebene, aber nur in Übersetzungen erhaltene «Traditio
                         apostolica» zurück. Eine kritische, mit <bibl corresp="kbga-bibls-2684">Einleitung und Übersetzung von
                         W. Geerlings
-                        versehene Ausgabe liegt vor in: <hi rend="i">Didache / Die Zwölfapostellehre.
+                        versehene Ausgabe liegt vor in: <hi rend="italic">Didache / Die Zwölfapostellehre.
                             Traditio Apostolica / Apostolische Überlieferung</hi> (FC 1),
                         Freiburg/Br. u. a. 1991, S. 141–313; Text dort S. 222f</bibl>.</note> Da
                     geht die Türe auf, und es tritt ein verspäteter Gottesdienstbesucher über
@@ -333,7 +335,7 @@
                     der Gottesdienst kann beginnen: Aufwärts die Herzen! Wir haben sie droben
                     beim Herrn! –</p>
                 <p>
-                        <hi rend="i">Halt!</hi> fährt <persName ref="kbga-actors-8959">Jakobus</persName>
+                        <hi rend="italic">Halt!</hi> fährt <persName ref="kbga-actors-8959">Jakobus</persName>
                     dazwischen: Seid ihr damit nicht zwiespältig in euch selbst und urteilt nach
                     schlechten Vorurteilen? Habt ihr nicht soeben in eurer <term type="Sachen" key="Nächstenliebe, mit Ansehen der Person">Nächstenliebe</term> einen
                     bösen Unterschied gemacht durch eure Handlungsweise und darum auch in der
@@ -350,10 +352,10 @@
                             <bibl corresp="kbga-bibls-2685">«Kleider machen Leute» ist der
                         Titel einer Novelle von <persName ref="kbga-actors-637">Gottfried Keller</persName> (1819–1890), die in den
                         1860er Jahren entstand und zum ersten Mal gedruckt erschien in: ders.,
-                            <hi rend="i">Die Leute von Seldwyla</hi>, Stuttgart 1874<hi rend="sup">2</hi>.</bibl> Zu der dahinterstehenden älteren Redensart vgl. <bibl corresp="kbga-bibls-828">
+                            <hi rend="italic">Die Leute von Seldwyla</hi>, Stuttgart 1874<hi rend="sup">2</hi>.</bibl> Zu der dahinterstehenden älteren Redensart vgl. <bibl corresp="kbga-bibls-828">
                                 Büchmann,
                         S. 219</bibl>.</note> als ob das Geld der Mann sei, als ob es überhaupt unter
-                    den Menschen einen Unterschied gebe, ernsthaft genug, dass wir seinet<pb xml:id="p432" ed="pga"/>halben zum einen sagen könnten: mit dir hat die
+                    den Menschen einen Unterschied gebe, ernsthaft genug, dass wir seinet<pb xml:id="p432" ed="pga" break="no"/>halben zum einen sagen könnten: mit dir hat die
                     Liebe, die ich üben soll, weil ich den Glauben habe, nichts zu schaffen,
                     oder du musst dich doch mit einer mageren Portion begnügen. Das ist ein
                     schlechtes Vorurteil, weil es ein Urteil ist, das anderswoher fließt denn
@@ -372,8 +374,8 @@
                     annehmen, dass es einen Gott gibt, sondern das heißt: sich in seinem innern
                     und äußern Leben mit Gott in Einklang <term type="Sachen" key="Glauben, sich in Einklang mit Gott setzen lassen">setzen</term>
                     lassen, wie die Instrumente eines Orchesters gestimmt werden auf den Ton,
-                    den die Orgel ihnen angibt. Wo dieser Glaube <hi rend="i">da</hi> ist, da
-                        <hi rend="i">ist</hi> auch die <term type="Sachen" key="Nächstenliebe">Nächstenliebe</term>. Eben darum ist aber zu sagen: wo die
+                    den die Orgel ihnen angibt. Wo dieser Glaube <hi rend="italic">da</hi> ist, da
+                        <hi rend="italic">ist</hi> auch die <term type="Sachen" key="Nächstenliebe">Nächstenliebe</term>. Eben darum ist aber zu sagen: wo die
                     Nächstenliebe halb und verkümmert ist, eingeschränkt durch Vorurteile, die
                     aus der Oberflächlichkeit stammen, da fehlt im Grunde auch der Einklang des
                     Glaubens, da ist er getrübt durch unreine Nebentöne. |</p>
@@ -391,7 +393,7 @@
                     dieser Welt, d. h. die von den Menschen, die auf den Schein sehen, als arm
                     und <pb xml:id="p433" ed="pga"/> ­bedauernswert angesehen sind und vielleicht sich
                     selbst so ansehen, die sollen von jetzt an reich sein. Denn wenn ein Mensch
-                    den Glauben <pb ed="A" rend="hidden" n="10"/> hat und <hi rend="i">im</hi> Glauben
+                    den Glauben <pb ed="A" rend="hidden" n="10"/> hat und <hi rend="italic">im</hi> Glauben
                     Gott hat, dann hat er ein Leben mit Wert und Inhalt und kann das, was die
                     Oberflächlichkeit <term type="Sachen" key="Reichtum">Reichtum</term> und
                     Glück nennt, fröhlich entbehren. Und indem er sich von Gott erwählt weiß zu
@@ -442,7 +444,7 @@
                     Glaubens vor, denn Glauben heißt gesinnt sein, wie Jesus Christus auch war
                     [<ref type="can" subtype="bible" target="Phil.2.5">Phil. 2,5</ref>], und das ist
                     bei euch offenbar nicht der Fall.</p>
-                <p>Meine Freunde! Was sagen <hi rend="i">wir</hi> zu dieser Momentaufnahme aus dem
+                <p>Meine Freunde! Was sagen <hi rend="italic">wir</hi> zu dieser Momentaufnahme aus dem
                     Gemeindeleben der alten Christenheit und zu der Beleuchtung, die sie von
                         <persName ref="kbga-actors-8959">Jakobus</persName> bekommt? Wenn wir <pb ed="A" rend="hidden" n="12"/> uns einfach an den Wortlaut der kleinen
                     Geschichte halten, könnten wir mit einer gelassenen Handbewegung
@@ -469,7 +471,7 @@
                         vergeben wurden, die dann «während des Gottesdienstes bestimmte Plätze
                         ausschließlich nutzen durften»; davon zu unterscheiden sind
                         «Sitzvorrechte von Inhabern bestimmter kirchlicher oder staatlicher
-                        Ämter» (<bibl corresp="kbga-bibls-2686"><persName ref="kbga-actors-9264">H. Böttcher</persName>, Art. «Kirchengestühl», in: RGG<hi rend="sup">4</hi>
+                        Ämter» (<bibl corresp="kbga-bibls-2686">H. Böttcher, Art. «Kirchengestühl», in: RGG<hi rend="sup">4</hi>
                         IV, Sp. 1196f.</bibl>). Solche Rechte wurden oftmals durch in das Gestühl
                         geritzte Wappen oder Zeichen (so z. B. auch im Berner Münster) und
                         später oft durch entsprechende Plaketten kenntlich gemacht. Zwar wurde
@@ -479,27 +481,27 @@
                         «Im Westen, wie seit altersher bei Hofkirchen, die Empore des
                         Landesfürsten, nun hier des Kaisers. […] Die Heraushebung dieses
                         fürstlichen Platzes auch in der Kirche verwies mithin auf diese
-                        besondere Verpflichtung vor und für alle anderen» (<bibl corresp="kbga-bibls-2687"><persName ref="kbga-actors-9265">Th. Buske</persName>, <hi rend="i">Der Berliner
+                        besondere Verpflichtung vor und für alle anderen» (<bibl corresp="kbga-bibls-2687"><persName ref="kbga-actors-9265">Th. Buske</persName>, <hi rend="italic">Der Berliner
                             Dom als okinographisches Gesamtkunstwerk</hi> [Hefte des
                         Evangelischen Kirchenbauvereins, 8], Schwerin 2000, S. 11</bibl>). Vgl.
                         auch: <bibl corresp="kbga-bibls-2688">
                                 <persName ref="kbga-actors-9265">Th. Buske</persName>,
-                            <hi rend="i">Das Kirchengestühl. Allein und gemeinsam im gottesdienstlichen
+                            <hi rend="italic">Das Kirchengestühl. Allein und gemeinsam im gottesdienstlichen
                             Raum</hi> (Hefte des Evangelischen Kirchenbauvereins, 5/6), Berlin
-                        1989</bibl>.</note> Kurzum, die gewöhnlichen Leute müssen ent<pb xml:id="p435" ed="pga"/>weder stehen oder mit geringeren Plätzen vorlieb nehmen, also
+                        1989</bibl>.</note> Kurzum, die gewöhnlichen Leute müssen ent<pb xml:id="p435" ed="pga" break="no"/>weder stehen oder mit geringeren Plätzen vorlieb nehmen, also
                     ganz der Vorgang, den wir eben kennengelernt haben. Ich wäre gerne einmal
                     dabei gewesen, wenn der Oberhofprediger angesichts dieser Tafeln über unsern
                     heutigen Text gepredigt hätte, aber er hat immer andere Texte gewählt.</p>
                 <p> Doch wir wollen schleunigst nach <placeName ref="kbga-places-67">Genf</placeName>
                     zurückkehren, das trägt mehr ab, denn die Sache ist aktuell genug. Von einer
                     kirchlichen, religiösen Versammlung ist also im Text die Rede. Nun ja,
-                        <hi rend="i">da</hi> mögen wir also in Bezug auf das, was das reine
+                        <hi rend="italic">da</hi> mögen wir also in Bezug auf das, was das reine
                     christliche Bewusstsein gebietet und verbietet, vorderhand und vielleicht
                     immer ein ruhiges Gewissen haben. Aber <pb ed="A" rend="hidden" n="13"/> ihr habt
                     schon gemerkt, dass es sich um eine weitere und tiefere Frage handelt denn
                     um eine Frage äußerer Schicklichkeit. Denn wenn wir’s genau nehmen,
-                    so werden wir sagen müssen, dass <hi rend="i">jede</hi> Versammlung, jedes
-                    Beisammensein von Christen eine solche <hi rend="i">religiöse</hi> Versammlung
+                    so werden wir sagen müssen, dass <hi rend="italic">jede</hi> Versammlung, jedes
+                    Beisammensein von Christen eine solche <hi rend="italic">religiöse</hi> Versammlung
                     sein soll, d. h. dass da immer die Ehre <term type="Sachen" key="Gott, Ehre">Gottes</term>, die Förderung der <term type="Sachen" key="Wahrheit">Wahrheit</term> und des <term type="Sachen" key="Recht">Rechts</term>,
                     die Erhebung und Erbauung des inwendigen Menschen Zweck und Ziel sein muss.
                     Ob nun <pb xml:id="p436" ed="pga"/> die <term type="Sachen" key="Familie">Familie</term> beieinander ist, ob Geschäftsleute zusammen konferieren
@@ -530,7 +532,7 @@
                     [vgl. <ref type="can" subtype="bible" target="Mt.18.20">Mt. 18,20</ref>], wir
                     könnten dann mit ruhigem Gewissen in Bezug auf unser ganzes Leben, nicht nur
                     in Bezug auf unsre Gottesdienste, die Forderung und das Verbot des <persName ref="kbga-actors-8959">Jakobus</persName> hinnehmen. |</p>
-                <p>Ja, <hi rend="i">wenn!</hi> Wenn unser christliches <term type="Sachen" key="Bewusstsein, christliches">Bewusstsein</term> in Ordnung, d. h.
+                <p>Ja, <hi rend="italic">wenn!</hi> Wenn unser christliches <term type="Sachen" key="Bewusstsein, christliches">Bewusstsein</term> in Ordnung, d. h.
                     wenn es tatsächlich an der Art Jesu, d. h. aber an Gott orientiert, auf Gott
                     gestimmt wäre. Ihr wisst wohl, dass das nicht so ist, dass wir tatsächlich
                     halbe Leute sind, halb im Glauben und halb in der Liebe. Das eine ergibt
@@ -570,7 +572,7 @@
                     gibt. Das Vorurteil, das uns in solchem Fall treibt, ist vielleicht nicht
                     immer das respektvolle Vorurteil für den <term type="Sachen" key="Reichtum">Reichtum</term> wie dort bei den alten <term type="Sachen" key="Christen, frühe">Christen</term>, wenn es auch das allerhäufigste
                     ist, es gibt <term type="Sachen" key="Vorurteile">Vorurteile</term> für
-                    Ansehen und Titel, Vorurteile des äs<pb xml:id="p438" ed="pga"/>thetischen
+                    Ansehen und Titel, Vorurteile des äs<pb xml:id="p438" ed="pga" break="no"/>thetischen
                     Geschmacks, den wir an den Menschen finden oder nicht finden, Vorurteile der
                     Partei und Ansicht, die wir mit den Leuten gemein haben oder nicht. Diese
                     Vorurteile mögen nach allen möglichen Richtungen begründete und berechtigte

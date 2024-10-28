@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1079">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 77</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 18. Oktober 1931</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1079 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1079 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 128–129.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">77</title>
+          <title type="text">Brief Nr. 77: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -103,13 +104,13 @@ Datum geirrt.</note>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
         <p>Ich möchte Sie in folgender Angelegenheit in Anspruch nehmen: Auch Sie werden über die Vorgänge in <placeName ref="kbga-places-29">Halle</placeName><note xml:id="n02">Widerstand verschiedener studentischer Gruppen gegen die Berufung <persName ref="kbga-actors-87">Günther Dehns</persName> als Ordinarius für Praktische Theologie nach <placeName ref="kbga-places-29">Halle</placeName>. <persName ref="kbga-actors-2151">Barths</persName> Wendung «Vorgänge in <placeName ref="kbga-places-29">Halle</placeName>» bezieht sich auf eine Erklärung der Deutschen Studentenschaft an der <orgName ref="kbga-actors-8275">Universität Halle</orgName> vom <date when="1931-10-17">17.10.1931</date> mit der Ankündigung, alle Studenten zögen aus <placeName ref="kbga-places-29">Halle</placeName> aus, da man ihnen das Studium an einer Universität nicht zumuten könne, an der ein Mann wie <persName ref="kbga-actors-87">Dehn</persName> lehre, dem man «glühenden Haß und tiefste Verachtung» entgegenbringen müsse; zitiert nach: <bibl corresp="kbga-bibls-1158">
-                            <persName ref="kbga-actors-87">G. Dehn</persName>, <hi rend="i">Kirche und Völkerversöhnung. Dokumente zum Halleschen Universitätskonflikt</hi>, Berlin o. J. (1931), S. 49ff.</bibl> Der «Fall <persName ref="kbga-actors-87">Dehn</persName>» begann allerdings schon am <date when="1928-11-06">6.11.1928</date> mit <persName ref="kbga-actors-87">Dehns</persName> Vortrag «Kirche und Völkerversöhnung» im Gemeindesaal der Magdeburger Ulrichskirche; Abdruck des Vortrages in: <bibl corresp="kbga-bibls-1159">
+                            <persName ref="kbga-actors-87">G. Dehn</persName>, <hi rend="italic">Kirche und Völkerversöhnung. Dokumente zum Halleschen Universitätskonflikt</hi>, Berlin o. J. (1931), S. 49ff.</bibl> Der «Fall <persName ref="kbga-actors-87">Dehn</persName>» begann allerdings schon am <date when="1928-11-06">6.11.1928</date> mit <persName ref="kbga-actors-87">Dehns</persName> Vortrag «Kirche und Völkerversöhnung» im Gemeindesaal der Magdeburger Ulrichskirche; Abdruck des Vortrages in: <bibl corresp="kbga-bibls-1159">
                             <title>CW</title>, Jg. 45 (1931), Sp. 194–204.</bibl> Vgl. zum Ganzen die Berichterstattung über den <bibl corresp="kbga-bibls-1160">«<title level="a">Fall Dehn</title>» von <persName ref="kbga-actors-367">K. L. Schmidt</persName> in: <title>ThBl</title>, Jg. 10 (1931) und 11 (1932) passim</bibl>; 
         <bibl corresp="kbga-bibls-1161">
                             <persName ref="kbga-actors-352">H. Sasses</persName> Ausführungen in: <title>KJ</title>, Jg. 59 (1932), S. 77ff.</bibl>; <bibl corresp="kbga-bibls-1162">
                             <persName ref="kbga-actors-408">H. Traub</persName>, <title level="a">Demologie und Theologie. Zum sog. Fall Dehn</title>, in: <title>ZdZ</title>, Jg. 10 (1932), S. 355–375</bibl>; <bibl corresp="kbga-bibls-1163">
-                            <persName ref="kbga-actors-44">E. Bizer</persName>, Der «<title level="a">Fall Dehn</title>», in: <hi rend="i">Festschrift für Günther Dehn zum 75. Geburtstag</hi>, hrsg. von W. Schneemelcher, Neukirchen 1957, S. 239–261</bibl>; <bibl corresp="kbga-bibls-597">
-                            <persName ref="kbga-actors-87">G. Dehn</persName>, <hi rend="i">Die alte Zeit, die vorigen Jahre. Lebenserinnerungen</hi>, München 1962, S. 247–285 (jeweils mit Quellenbelegen).</bibl>
+                            <persName ref="kbga-actors-44">E. Bizer</persName>, Der «<title level="a">Fall Dehn</title>», in: <hi rend="italic">Festschrift für Günther Dehn zum 75. Geburtstag</hi>, hrsg. von W. Schneemelcher, Neukirchen 1957, S. 239–261</bibl>; <bibl corresp="kbga-bibls-597">
+                            <persName ref="kbga-actors-87">G. Dehn</persName>, <hi rend="italic">Die alte Zeit, die vorigen Jahre. Lebenserinnerungen</hi>, München 1962, S. 247–285 (jeweils mit Quellenbelegen).</bibl>
                     </note> unterrichtet sein. <persName ref="kbga-actors-367">K. L. Schmidt</persName> und ich stehen in direkter Fühlung mit <persName ref="kbga-actors-87">Dehn</persName> und sind darüber einig geworden, daß angesichts der dort entstandenen Situation etwas getan werden sollte. Ich lege Ihnen eine Erklärung bei, die, versehen mit unseren beiden Unterschriften, bereits an den Rektor und den Dekan der <orgName ref="kbga-actors-8664">theologischen Fakultät in Halle</orgName> abgegangen ist.<note xml:id="n03">
                         <p>Text der Erklärung: «Die Berufung von Pfarrer D. <persName ref="kbga-actors-87">Günther Dehn</persName> zum ordentlichen Professor der praktischen Theologie an der <orgName ref="kbga-actors-8275">Universität Halle</orgName> hat einer Gruppe dortiger Studierender Anlaß gegeben, sich mit der Aufforderung zum Verlassen der <orgName ref="kbga-actors-8275">Universität Halle</orgName> an ihre Kommilitonen zu wenden.</p>
                         <p>Die unterzeichneten ordentlichen Professoren der Theologie an anderen deutschen Universitäten erklären hiermit, daß sie mit D. <persName ref="kbga-actors-87">Dehn</persName> persönlich und sachlich solidarisch sind.</p>

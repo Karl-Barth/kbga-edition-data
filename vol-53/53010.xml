@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53010">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 8</title>
         <title type="content">Predigt: Lukas 12,54–57</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Lukas 12,54–57, 23. August 1908</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53010 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53010 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 8: Predigt: Lukas 12,54–57</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -64,13 +66,13 @@
                 <pb xml:id="p065" ed="pga"/>
                 
                 <div type="opener">
-                    <head type="0">
+                    <head>
                         <pb ed="A" rend="hidden" n="1"/>
                         <idno>8</idno>
                     </head>
                     <dateline>
                         <placeName ref="kbga-places-1296">
-                            <hi rend="i">Miécourt</hi></placeName>, <date when="1908-08-23">Sonntag, den 23. August 1908</date><note xml:id="n01">Von Ende
+                            <hi rend="italic">Miécourt</hi></placeName>, <date when="1908-08-23">Sonntag, den 23. August 1908</date><note xml:id="n01">Von Ende
                                 August bis Mitte September 1908 versah Barth selbständig ein
                                 Vikariat in <placeName ref="kbga-places-292">Pruntrut /
                                     Porrentruy</placeName> im Berner Jura (heute Kanton Jura); vgl. oben, <ref type="pub" target="../volume/53/pr010#pr010">S. X</ref>.
@@ -102,7 +104,7 @@
                 <div type="main">
                 <p>Das eben verlesene Wort Jesu macht uns auf eine eigentümliche Zwiespältig<pb ed="A" rend="hidden" n="2"/>keit im Wesen des Menschen aufmerksam. Er ist
                     gewohnt, die Erscheinungen der <term type="Sachen" key="Natur">Natur</term>
-                    <hi rend="i">aufmerksam</hi> und durch <hi rend="i">eigene Anschauung</hi> auf ihre
+                    <hi rend="italic">aufmerksam</hi> und durch <hi rend="italic">eigene Anschauung</hi> auf ihre
                     Folgen zu prüfen, er hat durch Erfahrung Verständnis gewonnen von diesen
                     Erscheinungen und weiß dies Verständnis anzuwenden. Ganz anders, wenn es
                     sich darum handelt, sich selber zu beurteilen: nicht nur fehlt ihm dazu die
@@ -111,16 +113,16 @@
                     ziellos. Jeder von uns ist sich solcher Zeiten in seinem Leben bewusst, wo
                     es ihm zu Mute war, als sei er in einem Schifflein ohne Ruder und Steuer dem
                     Ozean preisgegeben durch eigene Schuld. – Aus dieser Not will uns
-                    Jesus frei machen. Es gibt nur einen <hi rend="i">Ausweg;</hi> die
-                        <hi rend="i">Anfangsstrecke</hi> dieses Weges zeigt unser Text<pb ed="A" rend="hidden" n="3"/>wort: <hi rend="i">Wende die Aufmerksamkeit und eigene
+                    Jesus frei machen. Es gibt nur einen <hi rend="italic">Ausweg;</hi> die
+                        <hi rend="italic">Anfangsstrecke</hi> dieses Weges zeigt unser Text<pb ed="A" rend="hidden" n="3"/>wort: <hi rend="italic">Wende die Aufmerksamkeit und eigene
                         Anschauung, die du der Natur widmest, auf dein eigenes Leben an!</hi>
                     Die <term type="Sachen" key="Wahrheit, gegenüber uns selbst">Wahrheit</term>
                     gegen dich selbst ist der Anfang deiner Befreiung!</p>
                 <div>
                     <pb xml:id="p066" ed="pga"/>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">
-                            <hi rend="i">Wenn ihr eine Wolke seht aufgehen vom Westen, so
+                            <hi rend="italic">Wenn ihr eine Wolke seht aufgehen vom Westen, so
                             sprecht ihr alsbald: Es kommt ein Regen; und es geschieht also. Und
                             wenn ihr sehet den Südwind wehen, so sprecht ihr: Es wird heiß
                             werden. Und es geschieht also</hi>. Die Beobachtung, die Jesus
@@ -153,7 +155,7 @@
                             kommerziell abgesicherten Luftschiffbau erst ermöglichte. Vgl. 
                                 <bibl corresp="kbga-bibls-2503">
                                     <persName ref="kbga-actors-9155">G. de Syon</persName>,
-                                <hi rend="i">Zeppelin! Germany and the Airship.
+                                <hi rend="italic">Zeppelin! Germany and the Airship.
                             1900–1939</hi>, Baltimore/MD 2002, S. 35–38.</bibl>
                             </note>
                         Oder denken wir an das große Werk, das gegenwärtig in <placeName ref="kbga-places-233">unserm Kanton</placeName> im Gange ist:
@@ -175,9 +177,9 @@
                         heutige Mensch in viel höherm Grade als die Menschen, zu denen einst
                         Jesus redete. |</p>
                     <p>Aber nun stoßen wir auf eine merkwürdige Tatsache: Das <term type="Sachen" key="Mensch, Wissen">
-                                <hi rend="i">Wissen</hi></term> ist
+                                <hi rend="italic">Wissen</hi></term> ist
                         fortgeschritten, aber auf dem Gebiet des <term type="Sachen" key="Mensch, Wille">
-                                <hi rend="i">Willens</hi></term> sind wir doch jenen
+                                <hi rend="italic">Willens</hi></term> sind wir doch jenen
                         Zeitgenossen Jesu um nichts voran. Sein Vorwurf der Unwahrhaftigkeit
                         trifft uns mit gleicher, ja mit größerer Schärfe als jene, eben weil die
                         Menschen unterdessen gelernt haben, «die Gestalt der Erde und des
@@ -192,13 +194,13 @@
                         genau werden uns selber gegenüber, wie wir es den Erscheinungen der
                             <term type="Sachen" key="Natur">Natur</term> gegenüber sind. Nach
                         zwei Richtungen wollen wir das verfolgen: Der Christ soll gegen sich
-                        selbst <hi rend="i">aufrichtig</hi> und <hi rend="i">selbständig</hi> sein.</p>
+                        selbst <hi rend="italic">aufrichtig</hi> und <hi rend="italic">selbständig</hi> sein.</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                         <pb ed="A" rend="hidden" n="7"/> II</head>
                     <p rend="noindent">
-                            <hi rend="i">Warum prüfet ihr die Zeit nicht?</hi> Das Wort
+                            <hi rend="italic">Warum prüfet ihr die Zeit nicht?</hi> Das Wort
                         ging an die <term type="Sachen" key="Pharisäer">Pharisäer</term> und
                         ihre Genossen als solche, die ihre Zeit nicht verstanden, weil sie sie
                         nicht zu prüfen wussten. Nach ihrem Reden und Tun freilich konnte <pb xml:id="p068" ed="pga"/> es scheinen, als ob sie nur an Gott dächten, ja
@@ -207,7 +209,7 @@
                         hatten sie Gott verloren, sie verstanden es nicht mehr, hinzuhören auf
                         die Stimme seines wahren Willens, und so fand die große Zeit ein kleines
                             Geschlecht:<note xml:id="n04">Vgl. <bibl corresp="kbga-bibls-2504">
-                                    <persName ref="kbga-actors-764">Fr. Schillers</persName> Epigramm <hi rend="i">Der Zeitpunkt</hi> (1791; ders., Sämtliche Werke,
+                                    <persName ref="kbga-actors-764">Fr. Schillers</persName> Epigramm <hi rend="italic">Der Zeitpunkt</hi> (1791; ders., Sämtliche Werke,
                             Bd. 1, München 1962<hi rend="sup">3</hi>, S. 260)</bibl>: 
                             <q rend="block">
                                     <lg>
@@ -226,8 +228,8 @@
                         bis in seine feinsten Teile, wir bauen <term type="Sachen" key="Eisenbahn">Eisenbahnen</term> und <term type="Sachen" key="Luftschiffe">Luftschiffe</term> – und wie oft vergessen
                         wir darüber das, was wichtiger ist, die <term type="Sachen" key="Mensch, Selbstbesinnung">Besinnung</term> auf uns selbst, die
                         Frage: wozu bin ich da? was hat dieses ganze <term type="Sachen" key="Leben, Sinn">Leben</term> eigentlich für einen Sinn? Denn
-                            «<hi rend="i">die Zeit prüfen</hi>» heißt doch wohl nichts Anderes als
-                        sich fragen: <hi rend="i">Was ist not?</hi> Die Zeit prüfen heißt: aus allem
+                            «<hi rend="italic">die Zeit prüfen</hi>» heißt doch wohl nichts Anderes als
+                        sich fragen: <hi rend="italic">Was ist not?</hi> Die Zeit prüfen heißt: aus allem
                         äußern Erleben heraus hören auf die Stimme, die uns sagt, was ewig
                         giltig und wertvoll ist. Gerade das haben Viele nie gelernt und Viele
                         längst verlernt über der Jagd nach Erwerb und <term type="Sachen" key="Vergnügen">Vergnügen</term>. Ihr äußeres Erleben ist ihnen tot,
@@ -235,7 +237,7 @@
                         kennen als die <pb ed="A" rend="hidden" n="9"/> Befriedigung jener natürlichen
                             <term type="Sachen" key="Mensch, Triebe">Triebe</term>. Warum prüfet
                         ihr die Zeit nicht? Besinne dich auf dich selbst: ist ein solches Leben
-                        wert, gelebt zu werden? Jesus nannte diejenigen <hi rend="i">Heuchler</hi>,
+                        wert, gelebt zu werden? Jesus nannte diejenigen <hi rend="italic">Heuchler</hi>,
                         die es nicht wagen, sich diese Frage zu stellen, einfach und aufrichtig,
                         wie man den Himmel auf das kommende Wetter ansieht. Heuchelei aber ist
                         Unwahrhaftigkeit gegen sich selbst, und wir tragen alle ein Stück davon
@@ -250,11 +252,11 @@
                         und der Anfang ist der Wille zum Verstehen oder die Aufrichtigkeit.</p>
                 </div>
                 <div>
-                    <head type="4">III</head>
+                    <head>III</head>
                     <p>
                         <term type="Sachen" key="Aufrichtigkeit">Aufrichtigkeit</term>
-                        <hi rend="i">gegen dich selbst!</hi> Damit ist schon das Zweite gesagt:
-                            <hi rend="i">Warum richtet ihr nicht von euch selber, was recht ist?</hi>
+                        <hi rend="italic">gegen dich selbst!</hi> Damit ist schon das Zweite gesagt:
+                            <hi rend="italic">Warum richtet ihr nicht von euch selber, was recht ist?</hi>
                         Wenn du das <term type="Sachen" key="Naturbeobachtung">Wetter</term>
                         <term type="Sachen" key="Wettervorhersage">vorhersagen</term> willst,
                         wirst du das in einem Buch aufsuchen? Nicht wahr, das wäre ein Tor, der
@@ -267,14 +269,14 @@
                         hieß nun <term type="Sachen" key="Gottesdienst, pharisäischer">Gottesdienst</term>. Wer pünktlich war, war gerecht; aber das war
                         eine schwere Sache, denn links und rechts drohten <term type="Sachen" key="Gebot / Gebote">Gebote</term> und Gebötlein. Jesus nennt diese
                             <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>
-                        <hi rend="i">Heuchelei</hi>. Warum richtet ihr nicht von euch selber, was
+                        <hi rend="italic">Heuchelei</hi>. Warum richtet ihr nicht von euch selber, was
                         recht ist? Die Aufrichtigkeit, deren es bedarf, die Zeit zu prüfen, kann
-                        kein Mensch dem Andern abnehmen, <hi rend="i">er selbst</hi> muss
-                        entscheiden, was recht ist, <hi rend="i">er selbst</hi> muss sich seiner
+                        kein Mensch dem Andern abnehmen, <hi rend="italic">er selbst</hi> muss
+                        entscheiden, was recht ist, <hi rend="italic">er selbst</hi> muss sich seiner
                         Bedürfnisse bewusst werden, sonst ist all seine <term type="Sachen" key="Religion">Religion</term> das Gegenteil von <term type="Sachen" key="Aufrichtigkeit">Aufrichtigkeit</term>. Eins ist not! [<ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>] Aber «da tritt
                         kein Anderer für dich ein!»<note xml:id="n05">Vgl. die <bibl corresp="kbga-bibls-2505">erste
                             Strophe des Gedichtes «Reiterlied» von <persName ref="kbga-actors-764">Fr. Schiller</persName> (a.a.O., S. 413f.,
-                            dort S. 413</bibl>; auch in: <bibl corresp="kbga-bibls-2506">ders., <hi rend="i">Wallensteins Lager</hi>, elfter
+                            dort S. 413</bibl>; auch in: <bibl corresp="kbga-bibls-2506">ders., <hi rend="italic">Wallensteins Lager</hi>, elfter
                             Auftritt [a.a.O., Bd. 2, München 1962<hi rend="sup">3</hi>,
                             S. 309])</bibl>: 
                             <q rend="block">
@@ -291,7 +293,7 @@
                         Du selbst musst ins Auge fassen, wo es dir not<pb ed="A" rend="hidden" n="12"/>tut, wo in deinem Leben das Hindernis liegt,
                         das dem Ewigen, Heiligen den Zutritt versperrt, und du selbst musst Hand
                         anlegen, dieses Hindernis wegzuräumen. Diese Zumutung an uns selbst
-                        scheint uns freilich im<pb xml:id="p070" ed="pga"/>mer wieder das
+                        scheint uns freilich im<pb xml:id="p070" ed="pga" break="no"/>mer wieder das
                         Allerschwerste, und wir tun gut, sie in ihrer Schwierigkeit zu erkennen.
                         Aber wir wollen uns hüten, uns davon zu dispensieren, wenn schon der
                         Möglichkeiten dazu gar viele sind. Wir selbst müssen uns die schwere
@@ -354,9 +356,9 @@
                 <div type="songs">
                     <head>Lieder:</head>
                         <listBibl type="songs" rend="simple">
-                            <bibl type="song">Nr. 43: «Morgenglanz der Ewigkeit» von Chr. Knorr von
-                                Rosenroth, Strophen 1–3 (RG 572; EG 450).</bibl>
-                            <bibl type="song">Nr. 1: «Allein Gott in der Höh’ sei Ehr» von N. Decius,
+                            <bibl type="song" corresp="kbga-songs-57">Nr. 43: «Morgenglanz der Ewigkeit» von Chr. Knorr von
+                                Rosenroth, Strophen 1–3 (RG 572; EG 450).
+</bibl>                            <bibl type="song" corresp="kbga-songs-125">Nr. 1: «Allein Gott in der Höh’ sei Ehr» von N. Decius,
                                 Strophen 1–2 (RG 221; EG 179 [jeweils mit geringen
                                 Textabweichungen]).</bibl>
 

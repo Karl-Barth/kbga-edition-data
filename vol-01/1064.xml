@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1064">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 62</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 23. November 1929</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1064 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1064 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 95–96.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">62</title>
+          <title type="text">Brief Nr. 62: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -100,7 +101,7 @@
                     </dateline>
           <salute>Lieber Herr Kollege <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
-        <p>Ich habe Ihnen für Telegramm und Brief, die Sie mir in der letzten Woche geschickt haben, noch nicht gedankt. Ich empfing dieselbe <pb xml:id="p096" ed="pga"/> Nachricht damals gleichzeitig telegraphisch und telefonisch noch von zwei anderen Seiten<note xml:id="n01">Die telegraphische Nachricht kam von <persName ref="kbga-actors-137">Gogarten</persName> (<placeName ref="kbga-places-73">Dorndorf</placeName>), die telephonische von <persName ref="kbga-actors-367">Karl Ludwig Schmidt</persName> (<placeName ref="kbga-places-10">Bonn</placeName>). <persName ref="kbga-actors-137">Gogartens</persName> Telegramm vom <date when="1929-11-14">14.11.1929</date>, 15.55 Uhr (<ref type="kba-objects-id" target="17061">im Karl Barth-Archiv</ref>): «oberin <persName ref="kbga-actors-405">tiling</persName> telegrafiert mir eben folgendes behoerde erwartet Sondervotum erbitten sie telegrafisch von <persName ref="kbga-actors-2151">barth</persName> festhalten am Sondervotum = <persName ref="kbga-actors-137">gogarten</persName>».</note> und will gern hoffen, daß sie sich, wenn der entscheidende Augenblick da ist, als letztlich begründet erweist. Im Augenblick habe ich eine Bitte, um deren <hi rend="i">eilige</hi> Erfüllung ich Sie bitten möchte. Haben Sie noch ein Konzept Ihres damaligen Separatvotums zugunsten von <persName ref="kbga-actors-137">Gogarten</persName> ofer, wenn nein, können Sie mir aus der Erinnerung ungefähr angeben, was Sie damals nach <placeName ref="kbga-places-8">Berlin</placeName> geschrieben haben? Ich wäre zur Nachhilfe, deren meine eigene literarische Kunst in diesem Fall bedarf, froh, wenn Sie mir das möglichst sofort sagen könnten.<note xml:id="n02">Entwurf und endgültige Fassung von <persName ref="kbga-actors-2151">Barths</persName> Sondervotum: <ref type="pub" target="1121">Anh. 11 I</ref> und <ref type="pub" target="1122">II</ref>.</note>
+        <p>Ich habe Ihnen für Telegramm und Brief, die Sie mir in der letzten Woche geschickt haben, noch nicht gedankt. Ich empfing dieselbe <pb xml:id="p096" ed="pga"/> Nachricht damals gleichzeitig telegraphisch und telefonisch noch von zwei anderen Seiten<note xml:id="n01">Die telegraphische Nachricht kam von <persName ref="kbga-actors-137">Gogarten</persName> (<placeName ref="kbga-places-73">Dorndorf</placeName>), die telephonische von <persName ref="kbga-actors-367">Karl Ludwig Schmidt</persName> (<placeName ref="kbga-places-10">Bonn</placeName>). <persName ref="kbga-actors-137">Gogartens</persName> Telegramm vom <date when="1929-11-14">14.11.1929</date>, 15.55 Uhr (<ref type="kba-objects-id" target="17061">im Karl Barth-Archiv</ref>): «oberin <persName ref="kbga-actors-405">tiling</persName> telegrafiert mir eben folgendes behoerde erwartet Sondervotum erbitten sie telegrafisch von <persName ref="kbga-actors-2151">barth</persName> festhalten am Sondervotum = <persName ref="kbga-actors-137">gogarten</persName>».</note> und will gern hoffen, daß sie sich, wenn der entscheidende Augenblick da ist, als letztlich begründet erweist. Im Augenblick habe ich eine Bitte, um deren <hi rend="italic">eilige</hi> Erfüllung ich Sie bitten möchte. Haben Sie noch ein Konzept Ihres damaligen Separatvotums zugunsten von <persName ref="kbga-actors-137">Gogarten</persName> ofer, wenn nein, können Sie mir aus der Erinnerung ungefähr angeben, was Sie damals nach <placeName ref="kbga-places-8">Berlin</placeName> geschrieben haben? Ich wäre zur Nachhilfe, deren meine eigene literarische Kunst in diesem Fall bedarf, froh, wenn Sie mir das möglichst sofort sagen könnten.<note xml:id="n02">Entwurf und endgültige Fassung von <persName ref="kbga-actors-2151">Barths</persName> Sondervotum: <ref type="pub" target="1121">Anh. 11 I</ref> und <ref type="pub" target="1122">II</ref>.</note>
             </p>
         <closer>
           <salute>Mit freundlichem Gruß von Haus zu Haus</salute>

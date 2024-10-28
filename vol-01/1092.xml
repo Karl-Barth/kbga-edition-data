@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1092">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 90</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 10. Juli 1934</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1092 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1092 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 150–152.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">90</title>
+          <title type="text">Brief Nr. 90: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -106,18 +107,18 @@
                         1934</bibl>, Reprint <date when="1980">1980</date> (= <bibl corresp="kbga-bibls-9">
                             Th. Fr. A., S. 197–213</bibl>). Der französische Text ist die Übersetzung des deutschen Vortrages.</note>, <pb xml:id="p151" ed="pga"/> aber auch darum, weil ich nun wirklich in der Lage bin, ohne Mißtrauen an Ihren Marburger Kreis zu denken.</p>
         <p>Seien Sie nun nicht weiter bewegt, daß ich von diesem Mißtrauen in der Tat in dem Maß erfüllt war, daß ich damit gerechnet hatte, Sie bei den <orgName ref="kbga-actors-8309">D. C.</orgName> auftauchen zu sehen. Es ist nun einfach durch die Tatsachen bewiesen, daß ich mich in diesem Fall verrechnet hatte und daß also auch in meinem grundsätzlichen Bedenken etwas nicht gestimmt haben kann. Sie müssen mir aber nicht nur das Allgemeine zugeben, daß es in diesem tollen Jahr am Platze war, zunächst einmal Allen Alles zuzutrauen — sondern auch das Besondere, daß Sie es mir nicht leicht gemacht haben, zum vornherein darüber klar zu sein, daß Sie nicht tun würden, was <persName ref="kbga-actors-168">Heidegger</persName> nun doch mit Pauken und Trompeten getan hat<note xml:id="n02">Gemeint sind <persName ref="kbga-actors-168">Heideggers</persName> Beitritt zur <orgName ref="kbga-actors-8272">NSDAP</orgName> und sein Engagement als Rektor der <orgName ref="kbga-actors-8282">Freiburger Universität</orgName> <date from="1933" to="1934">1933/34</date> für den Nationalsozialismus. Vgl. <bibl corresp="kbga-bibls-1221">
-                            <persName ref="kbga-actors-168">M. Heidegger</persName>, <hi rend="i">Die Selbstbehauptung der deutschen Universität. Rede, gehalten bei der feierlichen Übernahme des Rektorats der Universität Freiburg i. Br. am 27.5.1933</hi>, (als Neuaufl. des Druckes von 1933), in: ders., <hi rend="i">Das Rektorat 1933/34. Tatsachen und Gedanken</hi> (Erstveröffentl. einer Niederschrift von 1945), hrsg. von H. Heidegger, Frankfurt a. M. 1983.</bibl> Weiteres, die selbstrechtfertigende Darstellung <persName ref="kbga-actors-168">Heideggers</persName> erheblich korrigierendes Material bieten <bibl corresp="kbga-bibls-1222">
-                            H. Ott, <hi rend="i">Martin Heidegger. Unterwegs zu seiner Biographie</hi>, Frankfurt / New York 
+                            <persName ref="kbga-actors-168">M. Heidegger</persName>, <hi rend="italic">Die Selbstbehauptung der deutschen Universität. Rede, gehalten bei der feierlichen Übernahme des Rektorats der Universität Freiburg i. Br. am 27.5.1933</hi>, (als Neuaufl. des Druckes von 1933), in: ders., <hi rend="italic">Das Rektorat 1933/34. Tatsachen und Gedanken</hi> (Erstveröffentl. einer Niederschrift von 1945), hrsg. von H. Heidegger, Frankfurt a. M. 1983.</bibl> Weiteres, die selbstrechtfertigende Darstellung <persName ref="kbga-actors-168">Heideggers</persName> erheblich korrigierendes Material bieten <bibl corresp="kbga-bibls-1222">
+                            H. Ott, <hi rend="italic">Martin Heidegger. Unterwegs zu seiner Biographie</hi>, Frankfurt / New York 
                         1988</bibl>; <bibl corresp="kbga-bibls-1223">
-                            V. Farías, <hi rend="i">Heidegger und der Nationalsozialismus</hi>. Mit einem Vorwort von J. Habermas, Frankfurt a. M. 1989 (frz. Orig. Lagrasse 1987)</bibl>; <bibl corresp="kbga-bibls-1224">
-                            <hi rend="i">Martin Heidegger und das Dritte Reich</hi>, hrsg. von B. Martin, Darmstadt 1989.</bibl>
+                            V. Farías, <hi rend="italic">Heidegger und der Nationalsozialismus</hi>. Mit einem Vorwort von J. Habermas, Frankfurt a. M. 1989 (frz. Orig. Lagrasse 1987)</bibl>; <bibl corresp="kbga-bibls-1224">
+                            <hi rend="italic">Martin Heidegger und das Dritte Reich</hi>, hrsg. von B. Martin, Darmstadt 1989.</bibl>
                     </note> und ebenso <persName ref="kbga-actors-137">Gogarten</persName>, den ich für den von Ihnen geschätzten Normaltheologen halten mußte<note xml:id="n03">
                         <persName ref="kbga-actors-137">Gogartens</persName> Beitritt zur «<orgName ref="kbga-actors-8309">Glaubensbewegung Deutsche Christen</orgName>» — vgl. <bibl corresp="kbga-bibls-1225">
                             <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Abschied</title>, in: <title>ZZ</title>, Jg. 11 (1933), S. 539</bibl> (= ders., <bibl corresp="kbga-bibls-1226">
                             <title level="a">Gottes Wille und unsere Wünsche</title> [<title>ThExh</title> 7], München 
                         1934, Reprint 1980, S. 34</bibl>) — erfolgte im <date when="1933-08">August 1933</date>, gemeinsam mit einem Kreis von Pfarrern und Kirchenjuristen, der mit einem Schreiben vom <date when="1933-08-04">4.8.1933</date> gleichgesinnte Amtsbrüder zu demselben Schritt aufgefordert hatte (abgedruckt in: <bibl corresp="kbga-bibls-1227">
                             <persName ref="kbga-actors-195">E. Hornig</persName>, <title level="a">Die Bekennende Kirche in Schlesien 1933–1945. Geschichte und Dokumente</title> [<title>AGK</title> Erg. 10], Göttingen 
-                        1977, S. 78f.</bibl>). Nach der «Sportpalastkundgebung» vom <date when="1933-11-13">13.11.1933</date> sagte er sich von den <orgName ref="kbga-actors-8309">DC</orgName> wieder los.</note>. Nach meiner Beobachtung war es so, daß alle Leute, die in irgend einem positiven Sinne mit einer natürlichen Theologie oder dgl. arbeiteten, <orgName ref="kbga-actors-8309">D. C.</orgName> werden <hi rend="i">konnten</hi> und es dann meistens vorübergehend oder endgültig auch <hi rend="i">wurden</hi>. <foreign xml:lang="lat">A posse ad esse valet consequentia.</foreign> Daß ich Ihnen nun hinsichtlich des <foreign xml:lang="lat">esse</foreign> Abbitte zu tun habe, ist mir deutlich. Aber das Andere werden Sie mir dann noch einmal erklären müssen: inwiefern nun gerade in <hi rend="i">Ihrer</hi> Fundamental<pb xml:id="p152" ed="pga" break="no"/>theologie jenes <foreign xml:lang="lat">posse</foreign> <hi rend="i">nicht</hi> vorlag. Vielleicht werde ich dann bei diesem Anlaß dahinter kommen, was ich an <hi rend="i">Ihrer</hi> Fundamentaltheologie bisher mißverstanden habe, inwiefern ich Sie schon vor 1933 zu Unrecht mit <persName ref="kbga-actors-137">Gogarten</persName> in einem Topf gesehen habe.</p>
+                        1977, S. 78f.</bibl>). Nach der «Sportpalastkundgebung» vom <date when="1933-11-13">13.11.1933</date> sagte er sich von den <orgName ref="kbga-actors-8309">DC</orgName> wieder los.</note>. Nach meiner Beobachtung war es so, daß alle Leute, die in irgend einem positiven Sinne mit einer natürlichen Theologie oder dgl. arbeiteten, <orgName ref="kbga-actors-8309">D. C.</orgName> werden <hi rend="italic">konnten</hi> und es dann meistens vorübergehend oder endgültig auch <hi rend="italic">wurden</hi>. <foreign xml:lang="lat">A posse ad esse valet consequentia.</foreign> Daß ich Ihnen nun hinsichtlich des <foreign xml:lang="lat">esse</foreign> Abbitte zu tun habe, ist mir deutlich. Aber das Andere werden Sie mir dann noch einmal erklären müssen: inwiefern nun gerade in <hi rend="italic">Ihrer</hi> Fundamental<pb xml:id="p152" ed="pga" break="no"/>theologie jenes <foreign xml:lang="lat">posse</foreign> <hi rend="italic">nicht</hi> vorlag. Vielleicht werde ich dann bei diesem Anlaß dahinter kommen, was ich an <hi rend="italic">Ihrer</hi> Fundamentaltheologie bisher mißverstanden habe, inwiefern ich Sie schon vor 1933 zu Unrecht mit <persName ref="kbga-actors-137">Gogarten</persName> in einem Topf gesehen habe.</p>
         <p>Den Brief von <persName ref="kbga-actors-388">v. Soden</persName> an <persName ref="kbga-actors-224">Kittel</persName> haben wir hier gerne gelesen. Er<note xml:id="n04">
                         <persName ref="kbga-actors-224">Kittel</persName>.</note> hat dann noch einen zweiten langen Brief an mich gerichtet, auf den ich ihm aber nur noch kurz geantwortet habe. Und dann kam von ihm der Vorschlag, diesen ganzen Briefwechsel zu veröffentlichen. Ich hätte von mir aus keine Begierde danach gehabt; aber offenbar findet <persName ref="kbga-actors-224">Kittel</persName> das, was er an mich geschrieben hat, so wichtig und so richtig, daß er es nun auch <foreign xml:lang="lat">urbi et orbi</foreign> mitteilen möchte auf der dunklen Folie meiner Antworten. Mag es denn also geschehen.<note xml:id="n05">Siehe <ref type="pub" target="1091#fn_n01">Nr. 89, Anm. 1</ref>.</note>
             </p>

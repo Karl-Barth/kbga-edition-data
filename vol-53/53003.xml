@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53003">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 1</title>
         <title type="content">Predigt: Markus 8,34–35</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 8,34–35, Juni 1907</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53003 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53003 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 1: Predigt: Markus 8,34–35</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -75,7 +77,7 @@
                         <cit>
                             <ref type="can" subtype="bible" target="Mk.8.34 Mk.8.35">Markus 8,34–35</ref>
                           <quote>
-                                <hi rend="i">Wer mir will nachgehen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, der wird es verlieren; wer aber sein Leben verlieret um meinet- und des Evangeliums willen, der wird es retten.</hi>
+                                <hi rend="italic">Wer mir will nachgehen, der verleugne sich selbst und nehme sein Kreuz auf sich und folge mir nach. Denn wer sein Leben retten will, der wird es verlieren; wer aber sein Leben verlieret um meinet- und des Evangeliums willen, der wird es retten.</hi>
                            </quote>
                          </cit>
                         </epigraph>
@@ -87,15 +89,15 @@
                 <div type="main">
                     <div>
                     <p>Durch unsre Zeit geht ein vielstimmiger Ruf nach <term type="Sachen" key="Leben, Ruf nach L.">
-                                <hi rend="i">Leben</hi></term>. Ihr kennt ihn Alle!
+                                <hi rend="italic">Leben</hi></term>. Ihr kennt ihn Alle!
                         Alte Anschauungsweisen, alte Verhältnisse und Ordnungen sind gefallen und
                         fallen noch. Auf den verschiedensten Gebieten zeigt es sich, dass die
                         bisherigen Geleise ausgefahren sind. Die <term type="Sachen" key="Menschheit">Menschheit</term> sucht auf neuen Wegen neue Werte. Der
                         Grundton in dem Chor dieser Stimmen heißt: «Wir wollen Leben!», d. h.
                         ungehemmte Entfaltung der menschlichen <term type="Sachen" key="Persönlichkeit">
-                                <hi rend="i">Persönlichkeit</hi></term>. In dieser
+                                <hi rend="italic">Persönlichkeit</hi></term>. In dieser
                         Stimmung hat <persName ref="kbga-actors-301">Friedrich Nietzsche</persName> seinem Jahrhundert die Rede vom <term type="Sachen" key="Mensch, Übermensch">Übermenschen</term> entgegengeschleudert.<note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-326">
-                                    <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="i">Also sprach
+                                    <persName ref="kbga-actors-301">Fr. Nietzsche</persName>, <hi rend="italic">Also sprach
                                 Zarathustra. Ein Buch für Alle und Keinen</hi>, Sämtliche Werke.
                             Kritische Studienausgabe in 15 Bänden, hrsg. von G. Colli / W.
                             Montinari, Bd. 4, München / Berlin 1999, S. 14</bibl>: «Ich lehre euch den
@@ -109,7 +111,7 @@
                             […] Seht, ich lehre euch den Übermenschen! Der Übermensch ist der
                             Sinn der Erde. Euer Wille sage: der Übermensch sei der Sinn der
                             Erde!»</note> Unter <pb ed="A" rend="hidden" n="2"/> dieser Losung sehen wir
-                        heute in allen Län<pb xml:id="p004" ed="pga"/>dern Tausende dem Banner der <term type="Sachen" key="Sozialdemokratie">Sozialdemokratie</term> folgen
+                        heute in allen Län<pb xml:id="p004" ed="pga" break="no"/>dern Tausende dem Banner der <term type="Sachen" key="Sozialdemokratie">Sozialdemokratie</term> folgen
                         einem Reiche der <term type="Sachen" key="Gleichheit">Gleichheit</term> und
                             <term type="Sachen" key="Brüderlichkeit">Brüderlichkeit</term>
                             entgegen.<note xml:id="n03">Im 1875 verabschiedeten «Gothaer
@@ -120,7 +122,7 @@
                             Ungleichheit» und die Beherzigung «des internationalen Charakters der
                             Arbeiterbewegung […], um die Verbrüderung aller Menschen zur
                             Wahrheit zu machen», zentrale Punkte (Auszug: <bibl corresp="kbga-bibls-2462">
-                                    <persName ref="kbga-actors-9139">H. Weber</persName>, <hi rend="i">Beiträge zur Diskussion des
+                                    <persName ref="kbga-actors-9139">H. Weber</persName>, <hi rend="italic">Beiträge zur Diskussion des
                                 demokratischen Sozialismus in Deutschland 1848–1990. Eine
                                 Dokumentation</hi>, Berlin 1992, S. 37</bibl>). – In der Schweiz
                             kam es 1888 zur Gründung der Sozialdemokratischen Partei, deren
@@ -130,7 +132,7 @@
                         <term type="Sachen" key="Leben">Leben</term> verlangen sie Alle, Befreiung
                         von Schranken, persönliches Leben!</p>
                     <p> Unsre <term type="Sachen" key="Zeit, heutige">Zeit</term>
-                        <hi rend="i">sucht</hi>. Nur zu oft sind wir <term type="Sachen" key="Christen, gegenwärtige">Christen</term> gegenwärtig ängstlich,
+                        <hi rend="italic">sucht</hi>. Nur zu oft sind wir <term type="Sachen" key="Christen, gegenwärtige">Christen</term> gegenwärtig ängstlich,
                         sehen darin nur das Böse, das Abschreckende, weil es radikal ist, statt uns
                         des göttlich Gewollten und Berechtigten dabei zu freuen. Und doch sollten
                         gerade wir jenen Ruf nach <term type="Sachen" key="Leben, Ruf nach Leben">Leben</term> zum unsren machen, wenn wir Jünger Jesu sein wollen.
@@ -139,7 +141,7 @@
                         auch leben! [<ref type="can" subtype="bible" target="Joh.14.19">Joh. 14,19</ref>]
                         Wir sollen teilnehmen am Suchen der Zeit, und das umso mehr, als wir ihr auf
                         den rechten Weg helfen können, sobald wir selbst einmal wahrhaftig nach dem
-                        Leben trachten, das der <hi rend="i">Nachfolge Jesu</hi>
+                        Leben trachten, das der <hi rend="italic">Nachfolge Jesu</hi>
                         <pb ed="A" rend="hidden" n="3"/> verheißen ist. Wir wollen dann selbst etwas Neues
                         und werden mit mehr Glauben und Verständnis in und mit unsrer Zeit stehen
                         und kämpfen.</p>
@@ -148,7 +150,7 @@
                         <head>I</head>
                         <p>Von der Nachfolge <term type="Sachen" key="Nachfolge">Jesu</term> und von dem, was ihr verheißen ist, redet unser
                             Textwort.</p>
-                        <p>«<hi rend="i">Will jemand mir nachgehen</hi>, der verleugne sich selbst und
+                        <p>«<hi rend="italic">Will jemand mir nachgehen</hi>, der verleugne sich selbst und
                             nehme sein Kreuz auf sich und folge mir.» Groß ist die Zahl derer, die
                             Jesu nachgehen wollten oder doch den Willen dazu ausgesprochen haben.
                             Wer zählt die Millionen, die sich seit dem ersten <term type="Sachen" key="Pfingsten">Pfingstfest</term> zu Christi Namen bekannt haben!
@@ -158,7 +160,7 @@
                                 <term type="Sachen" key="Christentum">Christentum</term> hinter sich
                             hat, von diesem Leben so wenig verspüren?» Es kommt davon, <pb ed="A" rend="hidden" n="4"/> dass wir in menschlicher <term type="Sachen" key="Mensch, Trägheit">Trägheit</term> immer aufs Neue überhören,
                             was Jesus damit gemeint hat, wenn er uns einladet, ihm nachzugehen.</p>
-                        <p>«Der verleugne sich selbst und <hi rend="i">nehme sein Kreuz auf sich</hi>».
+                        <p>«Der verleugne sich selbst und <hi rend="italic">nehme sein Kreuz auf sich</hi>».
                             Die <term type="Sachen" key="Christen, mittelalterliche">Christen</term>
                             des Mittelalters sind dieser Aufforderung in seltsamer Weise
                             nachgekommen: sie hefteten ein Kreuz aus Tuch auf ihre Kleider und zogen
@@ -170,18 +172,18 @@
                             Christen, indem wir teilnehmen an den <term type="Sachen" key="Gottesdienst">Gottesdiensten</term>, an den <term type="Sachen" key="Diakonie">Liebeswerken</term> der christlichen Kirche. <pb ed="A" rend="hidden" n="5"/> Alles schön und gut, aber das, was Jesus in
                             unserm Textwort verlangt, ist damit nicht erfüllt. Was er will, das ist
                             dasselbe Ziel, das unsre <term type="Sachen" key="Zeit, heutige">Zeit</term> auf so vielen Wegen und Irrwegen anstrebt: <term type="Sachen" key="Persönlichkeit">
-                                <hi rend="i">Persönlichkeit</hi></term>, nicht das Kreuz auf deinem
-                            Kleid, sondern <hi rend="i">dich selbst</hi>, um dich frei und stark zu
+                                <hi rend="italic">Persönlichkeit</hi></term>, nicht das Kreuz auf deinem
+                            Kleid, sondern <hi rend="italic">dich selbst</hi>, um dich frei und stark zu
                             machen. Dich selbst sollst du behaupten lernen gegen Alles, was dich von
                             jenem Ziel abbringen will. Nicht wahr, das gefällt uns, wie gerne
                             möchten wir Alle solche Persönlichkeiten werden. Aber wie seltsam ist
                             nun der Weg, den er uns dazu einschlagen heißt!</p>
-                        <p>«<hi rend="i">Der verleugne sich selbst!</hi>» Ein unpraktisches und
+                        <p>«<hi rend="italic">Der verleugne sich selbst!</hi>» Ein unpraktisches und
                             unmodernes Verlangen! Wir wollten selbst sein, und nun sollen wir das
                             Selbst aufgeben! Ein leises Unbehagen erfasst uns bei diesem Wort, und
                             gerade <pb ed="A" rend="hidden" n="6"/> daran zeigt sich deutlich, dass die
                             Hauptsache, die Jesus fordert, noch nicht getan ist. «Verleugne dich
-                            selbst!» will heißen: mach ein Ende mit dir, <hi rend="i">werde ein
+                            selbst!» will heißen: mach ein Ende mit dir, <hi rend="italic">werde ein
                                 Anderer!</hi> Nicht wahr, wenn dieses Anderswerden damit erfüllt
                             wäre, dass wir als konfirmierte <term type="Sachen" key="Christen, konfirmierte">Christen</term> schlecht und recht
                             unsern Weg gehen, ohne mit dem Strafgesetz in Konflikt zu kommen, dass
@@ -189,13 +191,13 @@
                             gemeinnütziger <term type="Sachen" key="Diakonie">Liebe</term>, dann
                             müssten wir ja Alle im Besitze jenes verheißenen <term type="Sachen" key="Leben, verheißenes">Lebens</term> sein! Und doch sind wir das
                             nicht, und wenn wir es zu sein glauben, so müssen wir nur zu oft die
-                            schmerz<pb xml:id="p006" ed="pga"/>liche Erfahrung machen, dass wir uns
+                            schmerz<pb xml:id="p006" ed="pga" break="no"/>liche Erfahrung machen, dass wir uns
                             getäuscht haben. Wo fehlt es uns?</p>
-                        <p>Die dritte Forderung Christi haben wir noch nicht genannt: «<hi rend="i">Folge
+                        <p>Die dritte Forderung Christi haben wir noch nicht genannt: «<hi rend="italic">Folge
                                 mir!</hi>» Wie leicht ist es, den Wunsch auszusprechen, Jesu
-                                «<hi rend="i">nachzugehen</hi>», zu ihm <pb ed="A" rend="hidden" n="7"/> zu
+                                «<hi rend="italic">nachzugehen</hi>», zu ihm <pb ed="A" rend="hidden" n="7"/> zu
                             gehören, ein Christ zu sein! Es ist möglich, ihn
-                                <hi rend="i">nachzuahmen</hi>, <persName ref="kbga-actors-555">Franz von Assisi</persName> und seine Jünger haben
+                                <hi rend="italic">nachzuahmen</hi>, <persName ref="kbga-actors-555">Franz von Assisi</persName> und seine Jünger haben
                             Alles drangegeben, um ihre Lebensweise der des <term type="Sachen" key="Jesus Christus, Heiland">Heilands</term> gleichzumachen. Sie
                             haben allem irdischen Besitz entsagt und sind in apostolischer
                             Einfachheit und Bedürfnislosigkeit durch das Land gezogen, um das <term type="Sachen" key="Evangelium">Evangelium</term> zu predigen.<note xml:id="n04">Die auf den Ordensgründer 
@@ -206,7 +208,7 @@
                                 <bibl corresp="kbga-bibls-654">KTGQ II, S. 126f.</bibl>).</note>
                         </p>
                         <p> Unendlich schwer ist aber das Gebot <term type="Sachen" key="Gebot, Jesu Christi">Christi</term>, ihm
-                                <hi rend="i">nachzufolgen</hi>, gesinnt zu sein, wie er auch war [vgl.
+                                <hi rend="italic">nachzufolgen</hi>, gesinnt zu sein, wie er auch war [vgl.
                            <ref type="can" subtype="bible" target="Phil.2.5">Phil. 2,5</ref>], d. h. sich
                             selber aufzugeben und in den Willen <term type="Sachen" key="Gott, Wille Gottes">Gottes</term> zu stellen. Und doch hat er
                             gerade das gefordert! Jeder von uns soll aus ganzem Herzen sagen können:
@@ -216,8 +218,8 @@
                             Menschen streiten von frühester Jugend an zwei Mächte. Du kennst sie.
                             Die eine treibt dich zu Gott hin, die andre zieht dich bleischwer zur
                             Erde nieder. Die eine Stimme sagt dir: <pb ed="A" rend="hidden" n="8"/> «Du
-                            sollst», die andre lockt: «ich möchte, ich will». <hi rend="i">Hast du Partei
-                                ergriffen in diesem <term type="Sachen" key="Kampf, innerer">Kampfe</term></hi><hi rend="i">?</hi> Das ist die Frage, die Jesus
+                            sollst», die andre lockt: «ich möchte, ich will». <hi rend="italic">Hast du Partei
+                                ergriffen in diesem <term type="Sachen" key="Kampf, innerer">Kampfe</term></hi><hi rend="italic">?</hi> Das ist die Frage, die Jesus
                             jetzt an dich stellt und immer wieder stellen wird. Tritt auf Gottes
                             Seite, damit tust du das, was Jesus Sich-selbst-Verleugnen,
                             Sein-Kreuz-auf-sich-Nehmen heißt. Du weißt aus <term type="Sachen" key="Erfahrung">Erfahrung</term>, wie oft die Macht, die nach unten
@@ -229,7 +231,7 @@
                             Christus gehören will, muss diesen Kampf einmal kämpfen; <pb ed="A" rend="hidden" n="9"/> keiner hat ihn ausgekämpft, keiner wird
                             gekrönt, er kämpfe denn recht! [<ref type="can" subtype="bible" target="2.Tim.2.5">2.Tim. 2,5</ref>] Nimm dein <term type="Sachen" key="Kreuz / Kreuzestod">Kreuz</term> auf dich in Jesu <term type="Sachen" key="Nachfolge">Nachfolge</term>! Was will das sagen?
                             Ich soll mich nicht scheuen, diesen Kampf durchzukämpfen bis zur Hingabe
-                            meines ganzen irdi<pb xml:id="p007" ed="pga"/>schen Selbst, wenn Gott es von
+                            meines ganzen irdi<pb xml:id="p007" ed="pga" break="no"/>schen Selbst, wenn Gott es von
                             mir fordert. Darin ist Jesus uns vorangegangen, indem er sein Kreuz nach
                             <placeName ref="kbga-places-405">Golgatha</placeName> trug und
                             sein Leben dahingab, weil es des Vaters <term type="Sachen" key="Gott, Wille Gottes">Wille</term> war. Du hast vielleicht
@@ -248,7 +250,7 @@
                         <p rend="noindent">«Will jemand mir nachgehen, der verleugne sich selbst und
                             nehme sein Kreuz auf sich und folge mir nach!» Seltsam und beunruhigend
                             ist dieser Befehl. Seltsam ist aber auch die <term type="Sachen" key="Verheißung">Verheißung</term>, die dem Gehorsamen gemacht wird:
-                                «<hi rend="i">Wer sein Leben retten will, der wird es verlieren, wer es
+                                «<hi rend="italic">Wer sein Leben retten will, der wird es verlieren, wer es
                                 aber verliert um meinet- und des Evangeliums willen, der wird es
                                 retten</hi>.» Leben soll der, der sich entschließt, all das, was
                             wir sonst unter <term type="Sachen" key="Leben">Leben</term> verstehen,
@@ -268,9 +270,9 @@
                                 <lg>
                                     <l>Und setzet ihr nicht das <term type="Sachen" key="Leben">Leben</term> ein,</l>
                                     <l>Nie wird euch das Leben gewonnen sein!<note xml:id="n05">
-                                        <bibl corresp="kbga-bibls-1518">
+                                        <bibl corresp="kbga-bibls-2506">
                                             <persName ref="kbga-actors-764">Fr. Schiller</persName>,
-                                                <hi rend="i">Wallensteins Lager</hi>, 11. Auftritt
+                                                <hi rend="italic">Wallensteins Lager</hi>, 11. Auftritt
                                             (Schlussverse)</bibl>.</note>
                                 </l>
                                 </lg>
@@ -295,20 +297,20 @@
                         <p>Ja, und wir könnten niemals zur Gewissheit kommen, dass jener Befehl und
                             diese <term type="Sachen" key="Verheißung">Verheißung</term> nicht
                             wirklich bloß ein schönes Spiegelbild seien, wenn nicht die Person
-                            dessen dahinter stünde, der sie gesprochen, die <hi rend="i">Person <term type="Sachen" key="Jesus Christus, Person">Jesu</term></hi>.
+                            dessen dahinter stünde, der sie gesprochen, die <hi rend="italic">Person <term type="Sachen" key="Jesus Christus, Person">Jesu</term></hi>.
                             Mancher vor ihm und nach ihm hat Ähnliches gelehrt wie er, <pb ed="A" rend="hidden" n="13"/> keiner vermochte es, neues <term type="Sachen" key="Leben, neues">
-                                <hi rend="i">Leben</hi></term> in die
+                                <hi rend="italic">Leben</hi></term> in die
                                 <term type="Sachen" key="Menschheit">Menschheit</term> zu pflanzen,
                             weil er nicht gewesen ist, was Jesus war. Was er uns
-                                <hi rend="i">befohlen</hi> hat, das hat er selbst in seinem Leben und
+                                <hi rend="italic">befohlen</hi> hat, das hat er selbst in seinem Leben und
                                 <term type="Sachen" key="Kreuz / Kreuzestod">Sterben</term> erfüllt,
-                            erfüllt hat sich vor Allem die daran geknüpfte <hi rend="i">Verheißung</hi>.
+                            erfüllt hat sich vor Allem die daran geknüpfte <hi rend="italic">Verheißung</hi>.
                             Er hat sich selbst verleugnet, er hat sein Kreuz getragen, er hat sein
                             Leben verloren, weil Gott es wollte. Aber es ist eine unumstößliche
                             Tatsache der <term type="Sachen" key="Geschichte">Weltgeschichte</term>
                             geworden, dass auf <term type="Sachen" key="Karfreitag">
-                                <hi rend="i">Karfreitag</hi></term> ein <term type="Sachen" key="Ostern">
-                                <hi rend="i">Ostern</hi></term> folgte, dass sein <term type="Sachen" key="Tod">Tod</term> sich in <term type="Sachen" key="Leben">Leben</term> verwandelt hat. In der felsenfesten
+                                <hi rend="italic">Karfreitag</hi></term> ein <term type="Sachen" key="Ostern">
+                                <hi rend="italic">Ostern</hi></term> folgte, dass sein <term type="Sachen" key="Tod">Tod</term> sich in <term type="Sachen" key="Leben">Leben</term> verwandelt hat. In der felsenfesten
                             Überzeugung: Jesus ist nicht gestorben, er lebt! sind seine <term type="Sachen" key="Jünger">Jünger</term> unter <term type="Sachen" key="Juden / Judentum">Juden</term> und <term type="Sachen" key="Heiden / Heidentum">Heiden</term> gegangen und haben in seiner
                             Kraft sein <term type="Sachen" key="Evangelium">Evangelium</term>
                             verkündet. Viele nach ihnen haben dieselbe Erfahrung gemacht. Diese
@@ -320,7 +322,7 @@
                                 <term type="Sachen" key="Gotteskraft">Gotteskraft</term>, die damals
                             gewaltig in die Geschicke der Menschen eingriff, unsern <term type="Sachen" key="Kampf, innerer">Kampf</term> mit Erfolg kämpfen
                             können; auch wir dürfen uns dann dem Dankgebet des Apostels <persName ref="kbga-actors-313">Paulus</persName> anschließen: Gott sei
-                            Dank, der uns den <hi rend="i">Sieg</hi> gegeben in Jesus Christus [<ref type="can" subtype="bible" target="1.Kor.15.57">1.Kor. 15,57</ref>].</p>
+                            Dank, der uns den <hi rend="italic">Sieg</hi> gegeben in Jesus Christus [<ref type="can" subtype="bible" target="1.Kor.15.57">1.Kor. 15,57</ref>].</p>
                         
                         <p rend="margin-top">
                             <pb rend="noPipe" xml:id="p009" ed="pga"/> Nach <term type="Sachen" key="Leben">Leben</term>

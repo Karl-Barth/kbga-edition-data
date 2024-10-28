@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1132">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 20</title>
         <title type="content">Friedrich Wilhelm Schmidt an Karl Barth</title>
         <title type="citation_line_1">Friedrich Wilhelm Schmidt an Karl Barth, 19. Juni 1931</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1132 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1132 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 258–259.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">20</title>
+          <title type="text">Anhang Nr. 20: Friedrich Wilhelm Schmidt an Karl Barth</title>
           <author ref="kba-actors-364">Schmidt, Friedrich Wilhelm</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -83,7 +84,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:46+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:46+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -115,13 +116,13 @@
             als Ihre.</p>
           <p>Soll ich mehr staunen über <persName ref="kbga-actors-512">Bultmanns</persName>
             Zweifel, ob ich «richtige» Informationen gegeben habe, oder über das totale
-            Mißverständnis der Sachlage? Ich habe den <hi rend="i">Marburgern</hi> speziell überhaupt <hi rend="i">nie</hi> eine Information gegeben. Ich habe auf
+            Mißverständnis der Sachlage? Ich habe den <hi rend="italic">Marburgern</hi> speziell überhaupt <hi rend="italic">nie</hi> eine Information gegeben. Ich habe auf
             dem Breslauer Dekanentag mich auf eine
             Frage des Vorsitzenden <persName ref="kbga-actors-365">Hans Schmidt</persName> geäußert
-            und dabei <hi rend="i">Ihren</hi> Na<pb xml:id="p259" ed="pga" break="no"/>men überhaupt
-              <hi rend="i">nicht</hi> genannt. (Ich bemerke noch, daß <persName ref="kbga-actors-512">Bultmann</persName> ja nicht in <placeName ref="kbga-places-179">Breslau</placeName> war, sondern <persName ref="kbga-actors-53">Bornhäuser</persName>
+            und dabei <hi rend="italic">Ihren</hi> Na<pb xml:id="p259" ed="pga" break="no"/>men überhaupt
+              <hi rend="italic">nicht</hi> genannt. (Ich bemerke noch, daß <persName ref="kbga-actors-512">Bultmann</persName> ja nicht in <placeName ref="kbga-places-179">Breslau</placeName> war, sondern <persName ref="kbga-actors-53">Bornhäuser</persName>
             <placeName ref="kbga-places-41">Marburg</placeName> vertrat). Es handelte sich um ein
-            Schreiben <hi rend="i">unserer</hi> Fakultät durch <hi rend="i">
+            Schreiben <hi rend="italic">unserer</hi> Fakultät durch <hi rend="italic">
                             <persName ref="kbga-actors-392">Stählin</persName></hi>* zum Kirchenvertrag im letzten Sommer, das einem Teil der Fakultäten nicht
             zugegangen war. Den Grund dieser ungleichmäßigen Mitteilung (ob St. nur an preußische Fakultäten geschrieben hatte?) konnte ich
             in <placeName ref="kbga-places-179">Breslau</placeName> nicht angeben. Auch hatte ich
@@ -131,14 +132,14 @@
             einen Professor die Kirche befragt sei und sich geäußert habe.</p>
           <p>Das ist der tatsächliche Hergang. Ich wiederhole: Ihren Namen habe ich in diesem
             Zusammenhang überhaupt nicht in den Mund genommen, Sie in <placeName ref="kbga-places-179">Breslau</placeName> mit keiner Silbe erwähnt. Ihre Vermutung
-            eines <hi rend="i">völligen Mißverständnisses</hi> ist also völlig zutreffend.</p>
+            eines <hi rend="italic">völligen Mißverständnisses</hi> ist also völlig zutreffend.</p>
           <p>Hoffentlich geht es Ihnen Allen gut, was auch von uns (von Erkältungen der Kinder
             abgesehen) gilt. Ich habe ordentlich Hörer im Kolleg und Seminar, mache meine Wege ohne
             Begleitung und unternehme manchen schönen Radausflug ins <placeName ref="kbga-places-270">Münsterland</placeName>.</p>
           <p>Demnächst sende ich Ihnen einen Vortrag über «Die theologische Begründung der
               Ethik»<note xml:id="n01">
                             <bibl corresp="kbga-bibls-1418">
-                                <persName ref="kbga-actors-364">Fr. W. Schmidt</persName>, <hi rend="i">Die theologische Begründung der Ethik</hi>, Gütersloh 1931.</bibl>
+                                <persName ref="kbga-actors-364">Fr. W. Schmidt</persName>, <hi rend="italic">Die theologische Begründung der Ethik</hi>, Gütersloh 1931.</bibl>
                         </note>, der Sie vielleicht interessiert.</p>
           <closer>
             <salute rendition="left">Viele herzliche Grüße von Haus zu Haus</salute>

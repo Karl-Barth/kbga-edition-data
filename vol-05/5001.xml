@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5001">
   <teiHeader>
     <fileDesc>
@@ -7,8 +7,8 @@
         <title type="formal">Vorwort</title>
         <title type="content">Vorwort</title>
         <title type="citation_line_1">Fähler, Ursula, Fähler, Jochen: Predigten 1914: Vorwort, 1974</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. VII–XI.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5001 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. VII–XI.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -29,9 +29,11 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">VORWORT</title>
+          <title type="text">Vorwort: Vorwort</title>
           <author ref="kba-actors-5817">Fähler, Ursula</author>
           <author ref="kba-actors-5816">Fähler, Jochen</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -70,7 +72,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:46+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:46+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -81,8 +83,8 @@
         <p>Zehn Jahre (<date>1911–1921</date>) hat <persName ref="kbga-actors-2151">Karl Barth</persName> fast jeden Sonntag in dem Aargauer Arbeiterdorf
                <placeName ref="kbga-places-54">Safenwil</placeName> gepredigt. Bis Mai <date>1918</date> hat er seine Predigten Wort für Wort ausgearbeitet,
                sie aber dann sonntags frei<note xml:id="n01">So <bibl corresp="kbga-bibls-1534">
-                            <persName ref="kbga-actors-403">E. Thurneysen</persName>, <hi rend="i">Die Anfänge</hi>, in:
-                           <hi rend="i">Antwort. Karl Barth zum 70. Geburtstag</hi>.
+                            <persName ref="kbga-actors-403">E. Thurneysen</persName>, <hi rend="italic">Die Anfänge</hi>, in:
+                           <hi rend="italic">Antwort. Karl Barth zum 70. Geburtstag</hi>.
                  Zürich 1956, S. 831</bibl>.</note> und straffer<note xml:id="n02">Nach Auskunft von Frau <persName ref="kbga-actors-26">Nelly
                    Barth</persName>.</note> gehalten. Später hat er sich teilweise mit Stichworten begnügt. Die
                von <persName ref="kbga-actors-2151">Barth</persName> durchgeführte fortlaufende Numerierung der Manuskripte beginnt mit einer
@@ -90,13 +92,13 @@
                   &gt;Nr. 573 vom <date>14. August
                1921</date>, auf die nach einer kleinen Lücke noch einmal vier Stichwortkonzepte vom
                <date when="1921-09">September</date> und <date>Oktober 1921</date> folgen. Das Jahr <date>1914</date> umfaßt die Predigten 200–253.
-               Aufgenommen wurde in diesen Band an entsprechender Stelle die in <bibl corresp="kbga-bibls-1533">«Neue Wege, Blätter für religiöse Arbeit», Basel, VIII, 1914, S. 304–313, veröffentlichte Predigt <hi rend="i">Landesausstellung</hi></bibl> (die erste Predigt, die <persName ref="kbga-actors-2151">Barth</persName> drucken ließ). Sie stellt
+               Aufgenommen wurde in diesen Band an entsprechender Stelle die in <bibl corresp="kbga-bibls-1533">«Neue Wege, Blätter für religiöse Arbeit», Basel, VIII, 1914, S. 304–313, veröffentlichte Predigt <hi rend="italic">Landesausstellung</hi></bibl> (die erste Predigt, die <persName ref="kbga-actors-2151">Barth</persName> drucken ließ). Sie stellt
                eine stark veränderte Fassung der Predigt 224 vom <date>7. Juni 1914</date> dar. Am Schluß des
                Bandes wurde die einzige aus diesem Jahr erhaltene Kasualrede abgedruckt, eine
                Grabrede zu einem Suicid, vermutlich wegen Alkoholabusus. Während <persName ref="kbga-actors-2151">Barth</persName> ab Mitte <date>1915</date>
                zwischen deutscher und lateinischer Handschrift wechselt, sind <date>1914</date> noch alle
                Predigten in einer höchst eigenwilligen deutschen Handschrift geschrieben, die schon
-               seinem Freund <persName ref="kbga-actors-403">Eduard Thurneysen</persName> große Schwierigkeiten machte.<note xml:id="n03"><bibl corresp="kbga-bibls-931"><hi rend="i">K. Barth / E.Thurneysen, Briefwechsel Band 1</hi>,
+               seinem Freund <persName ref="kbga-actors-403">Eduard Thurneysen</persName> große Schwierigkeiten machte.<note xml:id="n03"><bibl corresp="kbga-bibls-931"><hi rend="italic">K. Barth / E.Thurneysen, Briefwechsel Band 1</hi>,
                            Zürich 1973, <ref type="pub" target="../volume/03/p068#p068">S. 68</ref>.</bibl>
                     </note> Das Schriftbild ist überaus einheitlich, Durchstreichungen und Korrekturen
                finden sich nur sehr selten.</p>
@@ -125,17 +127,17 @@
         <p>Manchmal, ab Predigt 244 vom <date when="1914-11-01">1. November 1914</date> regelmäßig, hat Barth die im
                Gottesdienst gesungenen Lieder auf dem Predigtkopf vermerkt. Sie wurden ebenso wie
                die Liedzitate im Predigttext nach dem in Safenwil benutzten <bibl corresp="kbga-bibls-1087">
-                        <hi rend="i">Gesangbuch für die evangelisch-reformierte Kirche der
+                        <hi rend="italic">Gesangbuch für die evangelisch-reformierte Kirche der
                      Schweiz</hi> von 1891<note xml:id="n04">Die Liednummern ohne weitere Angaben in den Anmerkungen beziehen
                  sich auf dieses Gesangbuch.</note></bibl> nachgewiesen und soweit
                <pb xml:id="pr009" ed="pga"/>
                 möglich auch der Fundort im <bibl corresp="kbga-bibls-1086">
-                        <hi rend="i">Evangelischen Kirchengesangbuch</hi>
+                        <hi rend="italic">Evangelischen Kirchengesangbuch</hi>
                   (EKG)</bibl> angegeben. Größere Abweichungen zwischen den
                Textfassungen beider Gesangbücher wurden vermerkt, weil das schweizerische Gesangbuch
                die Liedtexte häufig in einer gegenüber dem Original stark veränderten Fassung
                bringt. Bei den Abkürzungen haben wir uns an <bibl corresp="kbga-bibls-395">
-                        <hi rend="i">Die Religion in Geschichte und Gegenwart</hi>, 3. Aufl.,
+                        <hi rend="italic">Die Religion in Geschichte und Gegenwart</hi>, 3. Aufl.,
                   Tübingen 1957–1965</bibl>, orientiert.</p>
         <p>Viele Gesangbuchzitate hätten wir ohne die Hilfe von Pfr. Dr. Markus Jenny, Zürich,
                nicht aufgefunden. Frau Heide Bieler und Frau Dagmar van Borght haben die Korrekturen

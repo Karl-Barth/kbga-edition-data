@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1105">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 103</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 11. November 1952 – 15. November 1951</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1105 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1105 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 167–191.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">103</title>
+          <title type="text">Brief Nr. 103: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -87,7 +88,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:45+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:45+02:00</change>
+      <change when="2024-10-28T10:45:12+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:12+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -133,7 +134,7 @@
         <p>Ihrer Feststellung (oder Beschwerde) gegenüber, daß es so schwer sei, mich zu
                         verstehen<note xml:id="n03">
                         <bibl corresp="kbga-bibls-1273">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Rudolf Bultmann</hi> (s. Anm. 1), S. 3f. (<edition rend="normal">3. Aufl.</edition>, S. 9f.).</bibl>
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Rudolf Bultmann</hi> (s. Anm. 1), S. 3f. (<edition rend="normal">3. Aufl.</edition>, S. 9f.).</bibl>
                     </note>, könnte ich zunächst fragen. «Verstehe ich mich denn selbst?» Denn
                     jedenfalls wußte ich, als ich mich auf den Weg der Entmythologisierung
                         machte<note xml:id="n04">Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> programmatischen Vortrag von <date when="1941">1941</date>:
@@ -187,7 +188,7 @@
                     vergangenes Weltbild radikal gelöst wird. Letztlich von der Bindung an ein
                     Weltbild des objektivierenden Denkens überhaupt (vgl. <bibl corresp="kbga-bibls-1271">
                         K. u. M.
-                        <hi rend="i">II</hi>, S. 187f., 207</bibl>); aber zunächst kommt es auf das erste an, auf die Befreiung vom
+                        <hi rend="italic">II</hi>, S. 187f., 207</bibl>); aber zunächst kommt es auf das erste an, auf die Befreiung vom
                     mythologischen Weltbild der Bibel, weil dieses für den Menschen von heute ein
                     völlig fremdes geworden ist und weil die Bindung an dieses ihm einen Anstoß —
                     und zwar einen falschen — bereitet und ihm das Verständnis verschließt. Die
@@ -222,7 +223,7 @@
         <p>Ihre vorsichtige Formulierung <bibl corresp="kbga-bibls-1273">S. 39 [46]</bibl>, daß die amerikanische Fach-Philosophie «im Allgemeinen noch nicht beim
                     Existentialismus angelangt» ist, trifft freilich zu. Der dafür gezahlte Preis
                     ist aber der, daß die Fach-Philosophie im amerikanischen Leben keine Rolle spielt. Ich kann natürlich
-                    nicht wissen, wie stark man das <hi rend="i">noch</hi> nicht betonen muß. Aber
+                    nicht wissen, wie stark man das <hi rend="italic">noch</hi> nicht betonen muß. Aber
                     ich meine zu sehen, daß auch in ihr der Existentialismus an Bedeutung gewinnt,
                     was gewiß — wenigstens zu einem Teile — dem Einfluß emigrierter deutscher Philosophen zu danken ist. Es
                     ist übrigens doch interessant, daß <bibl corresp="kbga-bibls-1279">
@@ -247,9 +248,9 @@
                     Entmythologisierung hören, und vielleicht ist es ein Symptom für das amerikanische Interesse an diesem Thema, daß
                     mich drei Verleger angingen, ihnen meine Vorlesungen zum Druck zu
                         überlassen.<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-1280">
-                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi xml:lang="eng" rend="i">Jesus Christ and Mythology</hi>, New York 1958</bibl>; deutsche Übersetzung:
+                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi xml:lang="eng" rend="italic">Jesus Christ and Mythology</hi>, New York 1958</bibl>; deutsche Übersetzung:
                             <bibl corresp="kbga-bibls-1281">
-                            <hi rend="i">Jesus Christus und die Mythologie. Das Neue
+                            <hi rend="italic">Jesus Christus und die Mythologie. Das Neue
                                     Testament im Licht der Bibelkritik</hi> (<title level="s">Stundenbuch 47</title>),
                                     Hamburg
                                 1964 u. ö.</bibl>
@@ -262,7 +263,7 @@
                     deshalb werde ich Ihnen offenbar unverständlich. Ganz zu schweigen von <persName ref="kbga-actors-408">H. Traub</persName>, der das Problem überhaupt nicht
                     sieht! Von seiner Schrift<note xml:id="n11">
                         <bibl corresp="kbga-bibls-1282">
-                            <persName ref="kbga-actors-408">H. Traub</persName>, <hi rend="i">Anmerkungen und Fragen zur neutestamentlichen Hermeneutik und
+                            <persName ref="kbga-actors-408">H. Traub</persName>, <hi rend="italic">Anmerkungen und Fragen zur neutestamentlichen Hermeneutik und
                                     zum Problem der Entmythologisierung</hi>, Neukirchen 1952.</bibl>
                     </note> bin ich geradezu entsetzt. In welcher Welt oder besser: in welcher
                     Weltenferne lebt dieser Mensch eigentlich?</p>
@@ -272,10 +273,10 @@
         <p>Ad. I.</p>
         <p>Zu dem <bibl corresp="kbga-bibls-1273">S. 4–6 (oben) [10–12]</bibl> Gesagten kann ich «Ja» sagen — mit einem Vorbehalt.
                     Meinerseits würde ich den Satz <bibl corresp="kbga-bibls-1273">S. 4/5 [11]</bibl> so formulieren: «Nur indem der
-                    Verstehende seine (des NT) Botschaft <hi rend="i">als
+                    Verstehende seine (des NT) Botschaft <hi rend="italic">als
                         eine an ihn selbst gerichtete Frage</hi> vernimmt, und nur indem er als
                     Ausleger <pb xml:id="p172" ed="pga"/>
-                    <hi rend="i">entweder</hi> selbst zu deren Träger wird <hi rend="i">oder sie
+                    <hi rend="italic">entweder</hi> selbst zu deren Träger wird <hi rend="italic">oder sie
                         protestierend ablehnt</hi>». Das Verständnis kann doch zunächst nur das
                     Verständnis der an mich — den Ausleger — gerichteten Entscheidungsfrage sein.
                     Das Ja, kraft dessen das Verstehen Glaube und die Auslegung selbst schon Predigt
@@ -283,10 +284,10 @@
                     dieses habe ich aber in der methodologischen Besinnung nicht zu reflektieren.
                     Ich kann doch in meinen exegetischen Vorlesungen nicht mit dem Bewußtsein oder
                     mit dem Gefühl der Verpflichtung auftreten, daß ich mich als Glaubenden zu
-                    produzieren hätte. Ich kann auch nicht meine Auslegung als <hi rend="i">direkte</hi> Predigt darbieten. Sondern ich kann mich nur bemühen, die im
+                    produzieren hätte. Ich kann auch nicht meine Auslegung als <hi rend="italic">direkte</hi> Predigt darbieten. Sondern ich kann mich nur bemühen, die im
                     Text gestellte Entscheidungsfrage als eine mir und meinen Hörern gestellte
                     deutlich zu machen, und so wird meine Auslegung (falls sie einigermaßen gelingt)
-                        <hi rend="i">indirekt</hi> Predigt sein.</p>
+                        <hi rend="italic">indirekt</hi> Predigt sein.</p>
         <p>Ihr Einwand <bibl corresp="kbga-bibls-1273">(S. 6) [12]</bibl> dagegen, daß ein Verstehen des NT ein Sichselbst-verstehen sei, beruht doch offenbar auf einem
                     Mißverständnis des Begriffes «Selbstverständnis» (vgl. <bibl corresp="kbga-bibls-1271">
                         Ker. u. Myth. II, S. 201f.</bibl>). Ist dieser Begriff richtig verstanden, so dürfte klar sein,
@@ -299,10 +300,10 @@
                     meint?» <bibl corresp="kbga-bibls-1273">[S. 6 (12)]</bibl> mit «Ja!» beantworten.</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 7f. [13f.]</bibl>: Frage: «Ob ich B.’s Anliegen damit richtig wiedergegeben habe?»
                     Antwort: «Ja!» — mit dem Vorbehalt, daß ich das vorhergehende «zuerst … dann»
-                        <hi rend="i">so</hi> nicht anerkennen kann. Denn wenn die Erkenntnis (der
+                        <hi rend="italic">so</hi> nicht anerkennen kann. Denn wenn die Erkenntnis (der
                     Botschaft des NT) in ihrer Einheit mit jener ersten
-                    historischen Gestalt wirklich <hi rend="i">geschichtliche</hi> Erkenntnis ist,
-                    so vollzieht sich schon <hi rend="i">in ihr</hi> die «Übersetzung» in die
+                    historischen Gestalt wirklich <hi rend="italic">geschichtliche</hi> Erkenntnis ist,
+                    so vollzieht sich schon <hi rend="italic">in ihr</hi> die «Übersetzung» in die
                     Sprache und Begrifflichkeit des Auslegers. Das meinte ich in «Zum Problem der
                         Hermeneutik»<note xml:id="n12">
                         <bibl corresp="kbga-bibls-1268">
@@ -314,15 +315,15 @@
                     sich in eins mit der Erfassung der Botschaft selbst vollzieht. Die Übersetzung
                     beantwortet nicht die Frage: «Wie sage ich’s meinem Kinde?» [<bibl corresp="kbga-bibls-1273">vgl. S. 7 (14)</bibl>],
                     sondern steht in der Frage: «Wie sage ich es mir selbst?» oder vielmehr: «Wie
-                    höre ich selbst?» Als ein mir <hi rend="i">begegnendes</hi> Wort kann ich das
+                    höre ich selbst?» Als ein mir <hi rend="italic">begegnendes</hi> Wort kann ich das
                         NT doch nur verstehen, wenn ich es als in meine
                     Existenz gesprochenes verstehe, und indem ich verstehe, übersetze ich schon. So
                     kann ich zu Ihrem Protest <bibl corresp="kbga-bibls-1273">(S. 8) [15]</bibl> gegen die Identität von Verstehen (=
                     Begegnenlassen) und Übersetzen entweder nur sagen: «<foreign xml:lang="lat">oleum et operam
                         perdidi</foreign>»<note xml:id="n13">
                         <bibl corresp="kbga-bibls-1283">
-                            <persName ref="kbga-actors-323">Plautus</persName>, <hi rend="i">Poenulus</hi> I 2, 119</bibl>; Sprichwort für vergebliche Mühe.</note>, oder ihn so interpretieren,
-                    daß allerdings <hi rend="i">glaubendes</hi> Verstehen und Übersetzen nicht
+                            <persName ref="kbga-actors-323">Plautus</persName>, <hi rend="italic">Poenulus</hi> I 2, 119</bibl>; Sprichwort für vergebliche Mühe.</note>, oder ihn so interpretieren,
+                    daß allerdings <hi rend="italic">glaubendes</hi> Verstehen und Übersetzen nicht
                     identisch sind. Denn wohl sind identisch das Verstehen der im Text an mich
                     gerichteten Entscheidungsfrage und das Übersetzen. Das glaubende Ja jedoch ist,
                     wie ich schon sagte, das<foreign xml:lang="lat"> donum Spiritus Sancti</foreign>.</p>
@@ -332,13 +333,13 @@
                     sagen, welches denn eigentlich das Kerygma sei. Es liegt ja nicht eindeutig in
                     bestimmten Sätzen vor. (Dafür darf ich an meinen Beitrag zur <persName ref="kbga-actors-138">Goguel</persName>-Festschrift<note xml:id="n14">
                         <bibl corresp="kbga-bibls-1285">
-                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Das Problem des Verhältnisses von Theologie und Verkündigung im Neuen Testament</title>, in: <hi rend="i">Aux Sources de la Tradition Chrétienne</hi> (Festschrift für <persName ref="kbga-actors-138">M. Goguel</persName>), Neuchâtel-Paris
+                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Das Problem des Verhältnisses von Theologie und Verkündigung im Neuen Testament</title>, in: <hi rend="italic">Aux Sources de la Tradition Chrétienne</hi> (Festschrift für <persName ref="kbga-actors-138">M. Goguel</persName>), Neuchâtel-Paris
                                 1950, S. 32–42.</bibl>
                     </note> erinnern).</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 11 [17f.]</bibl>: Kann das große und eigene Thema der Theologie, die Botschaft der
-                    Bibel, je anders dargestellt werden (und kommt die Botschaft im NT selbst anders zur Darstellung) als in <hi rend="i">Auseinandersetzung</hi>, als in einer bestimmten Antithese? Sie haben selbst einmal gesagt, das
+                    Bibel, je anders dargestellt werden (und kommt die Botschaft im NT selbst anders zur Darstellung) als in <hi rend="italic">Auseinandersetzung</hi>, als in einer bestimmten Antithese? Sie haben selbst einmal gesagt, das
                     (definitiv formulierte) Dogma sei eine eschatologische Größe.<note xml:id="n15">Vgl. <bibl corresp="kbga-bibls-1050">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Die christliche Dogmatik im Entwurf</hi> (s. <ref type="pub" target="1045#fn_n04">Nr. 43, Anm. 4</ref>),
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Die christliche Dogmatik im Entwurf</hi> (s. <ref type="pub" target="1045#fn_n04">Nr. 43, Anm. 4</ref>),
                                     München
                                 1927, S. 112</bibl> = Neuausgabe
                                     (<bibl corresp="kbga-bibls-1051">Gesamtausgabe, Abt. II), Zürich
@@ -359,14 +360,14 @@
                         «formuliert werden.»</note> («übersetzt») werden muß und daß sie jeweils nur
                     in Auseinandersetzung formuliert werden kann, gehört zusammen.</p>
         <p>Ist es wirklich richtig, daß die Reformation ihr Thema nicht in der
-                    «Auseinandersetzung» mit einer Instanz «<hi rend="i">dieses Charakters</hi>»
+                    «Auseinandersetzung» mit einer Instanz «<hi rend="italic">dieses Charakters</hi>»
                     (nämlich mit dem modernen Welt- und Menschenverständnis) fand? Ich meine, das
                     sei durchaus der Fall gewesen. Denn im Grunde ist die «Auseinandersetzung» immer
                     die mit einem bestimmten menschlichen Selbstverständnis. Für die Reformation war
                     es das der katholischen Lehre und Praxis zugrunde liegende, für die Theologie
                     der Neuzeit das dem modernen Welt- und Menschenbild zugrunde liegende. Der
                     Fehler der Theologie «seit mehr als zwei Jahrhunderten» dürfte aber der gewesen
-                    sein, daß sie das Thema falsch verstand, daß sie sich nämlich nicht mit dem <hi rend="i">Selbstverständnis</hi> des modernen Menschen auseinandersetzte, sondern mit seinen <hi rend="i">wissenschaftlichen Objektivationen</hi>, — weswegen sie denn auch das NT nicht auf das Selbstverständnis hin befragte.</p>
+                    sein, daß sie das Thema falsch verstand, daß sie sich nämlich nicht mit dem <hi rend="italic">Selbstverständnis</hi> des modernen Menschen auseinandersetzte, sondern mit seinen <hi rend="italic">wissenschaftlichen Objektivationen</hi>, — weswegen sie denn auch das NT nicht auf das Selbstverständnis hin befragte.</p>
         <p>Ad III.</p>
         <p>(<bibl corresp="kbga-bibls-1273">S. 13, Z. 8 v. o. [19, Z. 14 v. o.</bibl>]: Druckfehler? Muß es statt «Ergeben» nicht
                     «Erheben» heißen?)<note xml:id="n17">
@@ -374,7 +375,7 @@
                 </p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 13 [19]</bibl>: Gewiß fängt die Botschaft des NT nicht
                     mit einer Explikation des als Hörer der Botschaft sich selbst erfahrenden
-                    Menschen an, und zwar deshalb nicht, weil es vom Handeln Gottes in der <hi rend="i">objektivierenden</hi> Sprache des Mythos redet. Aber das ist ja nun
+                    Menschen an, und zwar deshalb nicht, weil es vom Handeln Gottes in der <hi rend="italic">objektivierenden</hi> Sprache des Mythos redet. Aber das ist ja nun
                     gerade die Frage, ob dieses objektivierende Reden legitim, und d. h. in diesem
                     Falle: der Intention der Botschaft des NT selbst
                     angemessen, sei! Ob die Wirklichkeit, von der das NT reden will, überhaupt durch
@@ -390,8 +391,8 @@
                     verheimliche ich ja nicht nur nicht, sondern stelle ihn deutlich heraus, um den
                     daraus sich für den modernen Menschen ergebenden Anstoß als einen falschen zu
                     entlarven. Das Gefälle des nt-lichen Denkens (insofern es ein mythologisches
-                    ist) ist zwar ein <hi rend="i">anderes</hi> als das Denken des modernen
-                    Menschen, aber (insofern es ein mythologisches, also ein <hi rend="i">objektivierendes</hi> ist) gerade nicht ein <hi rend="i">entgegengesetztes</hi>, weil auch der moderne Mensch versucht, durch
+                    ist) ist zwar ein <hi rend="italic">anderes</hi> als das Denken des modernen
+                    Menschen, aber (insofern es ein mythologisches, also ein <hi rend="italic">objektivierendes</hi> ist) gerade nicht ein <hi rend="italic">entgegengesetztes</hi>, weil auch der moderne Mensch versucht, durch
                     objektivierendes Denken seine Existenz zu verstehen (soweit er nicht als
                     «Existentialist» schon darüber hinausgekommen ist). Für ihn liegt der echte
                     Anstoß darin, daß ihm zugemutet wird, sich nicht durch objektivierendes Denken
@@ -400,7 +401,7 @@
                     liegt gerade darin, die Sicherheit des Menschen zu zerschlagen und ihm zu
                     zeigen, daß er nur in der Preisgabe der eigenen Sicherung und aus der Gnade
                     Gottes in echter Weise existieren kann. Der echte Anstoß ist im Grunde ein für
-                    den <hi rend="i">Willen</hi> gegebener, für das Denken nur insofern, als der
+                    den <hi rend="italic">Willen</hi> gegebener, für das Denken nur insofern, als der
                     Wille sich in einem Denken expliziert! (Der Anstoß ist natürlich für den
                     Existentialisten der gleiche, insofern sich dieser zwar nicht durch das
                     objektivierende Denken, wohl aber durch seinen freien Entschluß sichert.) — Es
@@ -415,7 +416,7 @@
                     Sünde … gesagt wird», etwas «völlig Neues» ist. Meinerseits könnte ich sagen:
                     das Neue ist die Erkenntnis, daß die verkehrte menschliche Entscheidung (für
                     Selbstsicherung), das verkehrte (existentielle) Selbstverständnis, Sünde ist.
-                    Aber ich bemühe mich freilich zu zeigen, daß als <hi rend="i">Sünde</hi> ein
+                    Aber ich bemühe mich freilich zu zeigen, daß als <hi rend="italic">Sünde</hi> ein
                     Phänomen erkannt wird, das existentiale Analyse als solches aufzeigen kann.
                     Sonst müßte doch alles <pb xml:id="p176" ed="pga"/> Reden von Sünde völlig
                     unverständlich bleiben oder moralistisch (wie gewöhnlich) mißverstanden
@@ -437,9 +438,9 @@
                     («durchgängig») lebendigen Bezogenheit auf sein Gegenüber.</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 16 [22]</bibl>: Daß man in der Auslegung des NT die die
                     christliche Existenz begründende Heilstat Gottes erst nachträglich zur Sprache
-                    bringen <hi rend="i">muß</hi>, will ich nicht behaupten (und würde auch in der
-                        <hi rend="i">direkten</hi> Predigt nicht stets so verfahren), daß man es
-                    aber ohne Schaden tun <hi rend="i">kann</hi> und daß ich meine, es heute tun zu
+                    bringen <hi rend="italic">muß</hi>, will ich nicht behaupten (und würde auch in der
+                        <hi rend="italic">direkten</hi> Predigt nicht stets so verfahren), daß man es
+                    aber ohne Schaden tun <hi rend="italic">kann</hi> und daß ich meine, es heute tun zu
                     müssen, ist allerdings meine Überzeugung.<note xml:id="n19">«Meinung» von
                             <persName ref="kbga-actors-512">Bultmann</persName> durchgestrichen,
                         darübergeschrieben: «Überzeugung».</note>
@@ -449,7 +450,7 @@
                     und als solcher begegnet er nur im Kerygma. Wenn er nicht im Geschehen (des
                     Kerygmas und des Glaubens) präsent wäre, so wäre er eine mythische Gestalt. Und
                     eben deshalb will ich Christologie und Soteriologie als Einheit verstehen. Wohl
-                    geht Christus als Gottes Tat meinem Glauben voraus. Das Kerygma ist ja <hi rend="i">Anrede</hi> (<foreign xml:lang="lat">verbum externum</foreign>, vgl. <bibl corresp="kbga-bibls-1271">
+                    geht Christus als Gottes Tat meinem Glauben voraus. Das Kerygma ist ja <hi rend="italic">Anrede</hi> (<foreign xml:lang="lat">verbum externum</foreign>, vgl. <bibl corresp="kbga-bibls-1271">
                         Ker. u. Myth. II, S. 204</bibl>). Aber
                     daraus folgt doch nicht, daß in der theologischen Explikation die Christologie
                     der Soteriologie vorausgehen müßte.</p>
@@ -464,10 +465,10 @@
                     Übergangs»?, und ist sie nicht vielmehr Lehre vom Worte Gottes, in dem Christus
                     präsent ist? Ist das so, so kann ich auf die Frage <bibl corresp="kbga-bibls-1273">(S. 19) [25]</bibl>, inwiefern das
                     Kerygma (nach meinem Verständnis) eigentlich von einer Tat Gottes rede, nur
-                    antworten: es ist <hi rend="i">selbst</hi> die Tat Gottes.</p>
+                    antworten: es ist <hi rend="italic">selbst</hi> die Tat Gottes.</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 20 [26f.]</bibl>: Ich sehe wohl, daß im NT das Kreuz
-                    Christi auch als ein <hi rend="i">in sich</hi> bedeutsames Ereignis beschrieben
-                    wird, das <hi rend="i">dann</hi> auch für den Glauben bedeutsam werden kann und
+                    Christi auch als ein <hi rend="italic">in sich</hi> bedeutsames Ereignis beschrieben
+                    wird, das <hi rend="italic">dann</hi> auch für den Glauben bedeutsam werden kann und
                     mag. Aber ich kann diese im mythologischen Denken mögliche Gedankenfolge nicht
                     nachvollziehen, weil ich ein «in sich bedeutsam» nicht mehr verstehen kann,
                     sondern Bedeutsamkeit nur als eine Relationsbeziehung verstehen kann. Ich muß
@@ -475,22 +476,22 @@
                     Aussagen des NT gegen mich ausspielt, nicht getroffen
                     fühlen. Die Frage ist ja immer die: nach ihrer Interpretation.</p>
         <p>Der «Nachvollzug des Leidens und Sterbens Jesu Christi im Leben der an ihn
-                    Glaubenden» muß m.E., wenn auch nicht als die <hi rend="i">Konsequenz</hi>, so
-                    doch als die ständig neue <hi rend="i">Konkretisierung</hi> des Glaubens
+                    Glaubenden» muß m.E., wenn auch nicht als die <hi rend="italic">Konsequenz</hi>, so
+                    doch als die ständig neue <hi rend="italic">Konkretisierung</hi> des Glaubens
                     bezeichnet werden. In sich selbst ist der Glaube schon der (eben glaubende)
                     Nachvollzug des Leidens und Sterbens (und damit der Auferstehung) Jesu Christi.
                     Was wäre er sonst?</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 21 [27]</bibl>: Die Formulierungen: «… in dem gekreuzigten Jesus Christus … das
-                    Subjekt zu sehen, das das … Todesgericht <hi rend="i">schon</hi> erlitten, ihren
-                        Übergang …<hi rend="i">schon</hi> vollzogen, ihre Versetzung in die
-                    eschatologische Existenz <hi rend="i">schon</hi> vollbracht, das diesen Prozeß
+                    Subjekt zu sehen, das das … Todesgericht <hi rend="italic">schon</hi> erlitten, ihren
+                        Übergang …<hi rend="italic">schon</hi> vollzogen, ihre Versetzung in die
+                    eschatologische Existenz <hi rend="italic">schon</hi> vollbracht, das diesen Prozeß
                     also nicht nur inauguriert, sondern abgeschlossen hat» scheinen mir, wenn sie
                     überhaupt verstanden werden sollen, der Interpretation zu bedürfen. Ich habe
                     versucht, in <bibl corresp="kbga-bibls-1271">
                         Ker. u. Myth. II, S. 204ff</bibl>. meine Interpretation zu geben<note xml:id="n20"><ref corresp="A">Mskr.</ref>: «gegeben zu haben».</note> in dem über das <foreign xml:lang="grc" rend="Ell">ἅπαξ</foreign> und das <foreign xml:lang="lat">verbum externum</foreign> Gesagte. In
                     Ihrer Formulierung scheint mir die Interpretation des Christusgeschehens als des
                         <pb xml:id="p178" ed="pga"/>
-                    <hi rend="i">eschatologischen</hi> Geschehens zwar intendiert, aber nicht klar
+                    <hi rend="italic">eschatologischen</hi> Geschehens zwar intendiert, aber nicht klar
                     zum Ausdruck gebracht zu sein. Denn in dem «schon» vernehme ich immer nur den
                     Rückverweis auf ein Datum der Vergangenheit, während ich mich bemühe, das
                     eschatologische Geschehen als ein nicht auf ein Datum der Weltzeit fixierbares,
@@ -512,9 +513,9 @@
                             KuM I (1948), S. 50 = KuM I (1951<edition rend="sup">2</edition>, 1967<edition rend="sup">5</edition>), S. 46</bibl> = <bibl corresp="kbga-bibls-1530">Nachdruck Jüngel
                         1988<edition rend="sup">3</edition>, S. 61</bibl>: «Nicht weil es das Kreuz Christi ist, ist es
                         das Heilsereignis, sondern weil es das Heilsereignis ist, ist es das Kreuz
-                        Christi.»</note> meint doch einfach, daß es nicht möglich ist, <hi rend="i">zuerst</hi> festzustellen, daß das Kreuz Christi das Heilsereignis ist, und
-                        <hi rend="i">dann</hi> zu glauben (denn das hieße ja, Jesus als Christus zu
-                    sehen <hi rend="i">vor</hi> dem Glauben), sondern daß nur im Glauben das Kreuz
+                        Christi.»</note> meint doch einfach, daß es nicht möglich ist, <hi rend="italic">zuerst</hi> festzustellen, daß das Kreuz Christi das Heilsereignis ist, und
+                        <hi rend="italic">dann</hi> zu glauben (denn das hieße ja, Jesus als Christus zu
+                    sehen <hi rend="italic">vor</hi> dem Glauben), sondern daß nur im Glauben das Kreuz
                     Christi als Heilsereignis (und also er als der Christus) gesehen werden kann; —
                     natürlich nicht so, daß ich zuerst glaube und danach konstatiere: also ist der
                     Gekreuzigte der Christus. Vielmehr ist an Christus glauben und das Kreuz als
@@ -525,7 +526,7 @@
                     «erst im Kerygma von ihm und im Glauben an ihn» und nicht in historischen, «im
                     Raum und in der Zeit <pb xml:id="p179" ed="pga"/> geschauten» Vorgängen wird die
                     Herrlichkeit Christi geschaut bzw. geglaubt. Das bedeutet nun freilich nicht,
-                    das Kerygma besage, «daß Jesus Christus seiner Auferstehung <hi rend="i">in
+                    das Kerygma besage, «daß Jesus Christus seiner Auferstehung <hi rend="italic">in
                         uns</hi> — entgegengeht» <bibl corresp="kbga-bibls-1273">(S. 23) [30]</bibl>, — es sei denn, daß dieser Satz im
                     Sinne des eschatologischen Geschehens, zu dem Verkündigung und Glaube gehören,
                     verstanden wird. Auch dann würde ich freilich nicht sagen «entgegengeht»,
@@ -539,7 +540,7 @@
                         <ref type="can" subtype="bible" target="1.Kor.15.5 1.Kor.15.8">1.Kor. 15,5–8</ref>; wohl aber vgl. 
                         <ref type="can" subtype="bible" target="Kol.2.12">Kol. 2,12</ref>; <ref type="can" subtype="bible" target="Eph.2.6">Eph. 2,6</ref>).</p>
         <p>Ad IV.</p>
-        <p>Zu <bibl corresp="kbga-bibls-1273">S. 27 [33f.]</bibl>: Ich bin mir nicht bewußt, daß ich jene «Elemente» in den <hi rend="i">Mittelpunkt</hi> meiner exegetischen Aufmerksamkeit gerückt habe.
+        <p>Zu <bibl corresp="kbga-bibls-1273">S. 27 [33f.]</bibl>: Ich bin mir nicht bewußt, daß ich jene «Elemente» in den <hi rend="italic">Mittelpunkt</hi> meiner exegetischen Aufmerksamkeit gerückt habe.
                     Ich habe allerdings den Ausgangspunkt meiner hermeneutischen Bemühungen bzw.
                     meiner Bemühungen um das Übersetzungsproblem bei ihnen genommen. Warum? Weil
                     diese Elemente für den Menschen von heute einen Anstoß, und zwar einen falschen
@@ -589,7 +590,7 @@
                     bestimmten Zeit bin. Ich habe also auch gar keinen «Kanon».</p>
         <p>Meine Bemühung führt (vorausgesetzt, daß sie sachgemäß ist, wor<pb xml:id="p181" ed="pga" break="no"/>über ich mich gerne belehren lassen will) keineswegs zu
                     einer vorläufigen «Arbeitshypothese» (eine solche ist etwas ganz anderes),
-                    sondern zu einer an den Text gerichteten <hi rend="i">Fragestellung</hi>. Wenn
+                    sondern zu einer an den Text gerichteten <hi rend="italic">Fragestellung</hi>. Wenn
                     ich diese als die Frage nach dem im Text über Existenz und Existenzverständnis
                     Gesagten zu gewinnen meine, so mögen Sie meinethalben den Begriff der Existenz
                     als meinen Kanon bezeichnen, aber nicht den des Mythos. (Darf ich, um hier nicht
@@ -601,7 +602,7 @@
                     einzugehen, als ob ich den von allen beliebigen Produktionen abnehmen müßte, die
                     sich — wie es heute sehr beliebt ist — als Mythos bezeichnen. Der «Mythos des
                     20. Jahrhunderts»<note xml:id="n25">Vgl. <bibl corresp="kbga-bibls-182">
-                            <persName ref="kbga-actors-345">A. Rosenberg</persName>, <hi rend="i">Der Mythus des 20. Jahrhunderts</hi>, München 1930 (1934<edition rend="sup">24</edition>).</bibl> — <persName ref="kbga-actors-2151">Barth</persName> führt in diesem Zusammenhang noch auf: «marxistischer Mythus, Mythus vom
+                            <persName ref="kbga-actors-345">A. Rosenberg</persName>, <hi rend="italic">Der Mythus des 20. Jahrhunderts</hi>, München 1930 (1934<edition rend="sup">24</edition>).</bibl> — <persName ref="kbga-actors-2151">Barth</persName> führt in diesem Zusammenhang noch auf: «marxistischer Mythus, Mythus vom
                         christlichen Abendland usf.», <bibl corresp="kbga-bibls-1273">S. 31 [38]</bibl>.</note> ist ein pervertierter
                     Mythos. Denn wenn der echte Mythos die Verdiesseitigung des Jenseitigen ist, so
                     ist der des 20. Jahrhunderts die Verjenseitigung (Verabsolutierung) des
@@ -641,11 +642,11 @@
                     geschaut, mit ihren Augen gesehen, mit ihren Ohren gehört, mit ihren Händen
                     betastet haben», halte ich allerdings für bare Mythologie; sie scheint mir auch
                     den Sinn von <ref type="can" subtype="bible" target="1.Joh.1.1">1.Joh. 1,1</ref>
-                    gar nicht zu treffen. Und Ihr «<hi rend="i">so</hi> menschlich, <hi rend="i">so</hi> weltlich …» widerspricht zwar nicht dem Lk-Evg, wohl aber dem
+                    gar nicht zu treffen. Und Ihr «<hi rend="italic">so</hi> menschlich, <hi rend="italic">so</hi> weltlich …» widerspricht zwar nicht dem Lk-Evg, wohl aber dem
                     Joh-Evg (vgl. z. B. <ref type="can" subtype="bible" target="Joh.14.18 Joh.14.31">Joh. 14,18ff.</ref>).</p>
         <p>Natürlich gibt es nicht nur ein Dennoch des Glaubens, sondern auch ein Darum, —
                     vorausgesetzt, daß dieses Darum nicht als ein die Sicherheit des Glaubens
-                    garantierendes Faktum verstanden ist, das dann ja als ein <hi rend="i">vor</hi>
+                    garantierendes Faktum verstanden ist, das dann ja als ein <hi rend="italic">vor</hi>
                     dem Glauben festgestelltes (aber wie? auch wieder durch eine Art Glauben?)
                     gedacht werden müßte. Ich sage also lieber nicht: es gibt ein Darum; wohl aber:
                     es gibt ein Daran!</p>
@@ -677,8 +678,8 @@
         <p>Dagegen haben Sie recht damit, daß ich die Bedeutung des historischen Jesus für
                     das Kerygma bisher nicht explizit erörtert habe.<note xml:id="n28">Vgl. später
                             <bibl corresp="kbga-bibls-1288">
-                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="i">Das Verhältnis der urchristlichen Christusbotschaft zum historischen Jesus</hi> (Sitzungsber. d. Heidelberger Akad. d. Wiss.,
-                                <hi rend="i">Philos.-hist. Kl.</hi>, Jg. 1960, 3. Abh.), Heidelberg
+                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="italic">Das Verhältnis der urchristlichen Christusbotschaft zum historischen Jesus</hi> (Sitzungsber. d. Heidelberger Akad. d. Wiss.,
+                                <hi rend="italic">Philos.-hist. Kl.</hi>, Jg. 1960, 3. Abh.), Heidelberg
                                 1960 (1962<edition rend="sup">3</edition>), S. 5–27</bibl> (= <bibl corresp="kbga-bibls-958">
                             Exegetica, S. 445–469</bibl>).</note> Ich sehe nun freilich nicht, daß ich die Verkündigung Jesu
                     anders denn als die Verkündigung des Gesetzes verstehen könnte, wie auch
@@ -717,9 +718,9 @@
                     hermeneutischen Grundsätze erfolgen müßte, so glaube ich nicht, daß sich bei
                         <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> «die Schlange in den Schwanz
                         beißt»).<note xml:id="n30">
-                        <bibl corresp="kbga-bibls-1273">Vgl. <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Rudolf Bultmann</hi> (s. Anm. 1), S. 54 (3. Aufl., S. 62)</bibl>. — Zu <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> s. <ref type="pub" target="#fn_n43">Anm. 43</ref>.</note>
+                        <bibl corresp="kbga-bibls-1273">Vgl. <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Rudolf Bultmann</hi> (s. Anm. 1), S. 54 (3. Aufl., S. 62)</bibl>. — Zu <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> s. <ref type="pub" target="#fn_n43">Anm. 43</ref>.</note>
                 </p>
-        <p>Zum Begriff des «Vorverständnisses»: Das Vorverständnis ist doch nicht eine <hi rend="i">Erfindung</hi>
+        <p>Zum Begriff des «Vorverständnisses»: Das Vorverständnis ist doch nicht eine <hi rend="italic">Erfindung</hi>
                     <persName ref="kbga-actors-168">Heideggers</persName>, sondern ein von ihm
                     aufgedecktes Phänomen. Ich sehe nicht, daß ein Text verstanden werden kann, wenn
                     nicht ein Vorverständnis der Sache, um die es im Texte geht, vorhanden ist.</p>
@@ -731,13 +732,13 @@
                     gerade, daß das menschliche Subjekt (das menschliche Sein, könnte ich auch
                     sagen) gar nicht ohne seine Welt ist, also auch nicht ohne Gott, sofern der
                     Philosoph es für erlaubt hält, von Gott zu reden, daß also das Selbstverständnis
-                        <hi rend="i">zugleich</hi> das Verstehen von (Gott und) Welt ist. Wie können
+                        <hi rend="italic">zugleich</hi> das Verstehen von (Gott und) Welt ist. Wie können
                     Sie demnach die existentiale Interpretation des menschlichen Seins immer wieder
                     als «Anthropologie» diskriminieren? (<persName ref="kbga-actors-168">Heidegger</persName> hat übrigens ausdrücklich gesagt, daß seine Analyse
                     des menschlichen Seins keine Anthropologie sei.<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-1009">
-                            <persName ref="kbga-actors-168">M. Heidegger</persName>, <hi rend="i">Sein und Zeit</hi>, Halle a.d. Saale 1927, S. 45–50</bibl>: «§ 10 Die Abgrenzung der Daseinsanalytik gegen Anthropologie,
+                            <persName ref="kbga-actors-168">M. Heidegger</persName>, <hi rend="italic">Sein und Zeit</hi>, Halle a.d. Saale 1927, S. 45–50</bibl>: «§ 10 Die Abgrenzung der Daseinsanalytik gegen Anthropologie,
                         Psychologie und Biologie».</note>)</p>
-        <p>Zu <bibl corresp="kbga-bibls-1273">S. 40 [47]</bibl>: Was das Christus-Geschehen als <hi rend="i">Christus</hi>-Geschehen bedeutet, habe ich wenigstens versucht zu zeigen in
+        <p>Zu <bibl corresp="kbga-bibls-1273">S. 40 [47]</bibl>: Was das Christus-Geschehen als <hi rend="italic">Christus</hi>-Geschehen bedeutet, habe ich wenigstens versucht zu zeigen in
                     <bibl corresp="kbga-bibls-1271">
                         Ker. u. M. II, S. 204ff</bibl>. Daß man es besser machen kann, leugne ich nicht. Daß
                     ich aber «aus dem existentialistischen Schema ausgebrochen sei», kann doch nur
@@ -764,9 +765,9 @@
                     <pb rend="noPipe" xml:id="p186" ed="pga"/> <bibl corresp="kbga-bibls-1273">Zu S. 45 [53]</bibl>: Daß in der Suppe aller Theologen auch «philosophische Brocken»
                         schwimmen<note xml:id="n32">
                         <bibl corresp="kbga-bibls-1273">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Rudolf Bultmann</hi> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), S. 45 (<edition rend="normal">3. Aufl.</edition> S. 53)</bibl>, schreibt unter Anspielung auf <bibl corresp="kbga-bibls-1054">
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Rudolf Bultmann</hi> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), S. 45 (<edition rend="normal">3. Aufl.</edition> S. 53)</bibl>, schreibt unter Anspielung auf <bibl corresp="kbga-bibls-1054">
                             <persName ref="kbga-actors-221">S. Kierkegaards</persName> gleichnamige Schrift von 1844:
-                        «‹<hi rend="i">Philosophische Brocken</hi>›</bibl> schwimmen in der theologischen Sprache von uns
+                        «‹<hi rend="italic">Philosophische Brocken</hi>›</bibl> schwimmen in der theologischen Sprache von uns
                         allen.»</note>, — das ist es ja, was mich zwingt, der philosophischen Arbeit
                     für die Theologie grundsätzliche Bedeutung zuzuschreiben. Denn ich halte es für
                     unzulässig, sich unkritisch mit einigen «philosophischen Brocken» zu
@@ -785,7 +786,7 @@
                     gelernt und schätzte ihn hoch (besonders z. B. seinen Aufsatz über die Buße des
                     evangelischen Christen<note xml:id="n33">
                         <bibl corresp="kbga-bibls-1289">
-                            <persName ref="kbga-actors-181">W. Herrmann</persName>, <title level="a">Die Buße des evangelischen Christen</title>, in: <title>ZThK</title>, Jg. 1 (1891), S. 28–81</bibl> (= <bibl corresp="kbga-bibls-1290"><persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Gesammelte Aufsätze</hi>, hrsg. von Fr. W. Schmidt, Tübingen 1923, S. 33–85</bibl>).</note>).</p>
+                            <persName ref="kbga-actors-181">W. Herrmann</persName>, <title level="a">Die Buße des evangelischen Christen</title>, in: <title>ZThK</title>, Jg. 1 (1891), S. 28–81</bibl> (= <bibl corresp="kbga-bibls-1290"><persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Gesammelte Aufsätze</hi>, hrsg. von Fr. W. Schmidt, Tübingen 1923, S. 33–85</bibl>).</note>).</p>
         <p>Ad VIII.</p>
         <p>Zu <bibl corresp="kbga-bibls-1273">S. 48 [55f.]</bibl>: Es führt irre, wenn in der Diskussion des methodologischen
                     Problems der Hermeneutik des NT das NT und das Wort Gottes gleichgesetzt werden. Das Wort Gottes ergeht
@@ -826,7 +827,7 @@
                     zu verstehen, wie man sich im Text verstanden findet. Methodisch kann ich
                     natürlich nur eine existentiale Interpretation erstreben; was der <foreign xml:lang="lat">Divinus
                     Spiritus</foreign> wirkt, ist das existentielle Sich-Verstehen.</p>
-        <p>Zu <bibl corresp="kbga-bibls-1273">S. 50f. [57ff.]</bibl>: Mir scheint, daß Vorverständnis und Vor<hi rend="i">urteil</hi> verwechselt sind. Denn habe ich je geleugnet oder nicht
+        <p>Zu <bibl corresp="kbga-bibls-1273">S. 50f. [57ff.]</bibl>: Mir scheint, daß Vorverständnis und Vor<hi rend="italic">urteil</hi> verwechselt sind. Denn habe ich je geleugnet oder nicht
                     vielmehr betont, <pb xml:id="p188" ed="pga"/> daß ein Verstehen nicht ohne die
                     größte jeweils mögliche Offenheit möglich ist? (z. B.: Zum Problem der
                     Hermeneutik, <bibl corresp="kbga-bibls-1273">S. 63 und bes. S. 64</bibl><note xml:id="n35">Siehe <ref type="pub" target="#fn_n12">Anm. 12</ref>.</note>). Aber
@@ -849,7 +850,7 @@
                     mich ist das gewesen, was Sie im <bibl corresp="kbga-bibls-48">Vorwort zur 2. Auflage Ihres «Römerbriefs»</bibl>
                     einst (1921) geschrieben haben<note xml:id="n36">
                         <bibl corresp="kbga-bibls-48">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Der Römerbrief</hi>, Neubearbeitung München  1922, darin S. VI XVIII</bibl>: Vorwort zur zweiten Auflage (<placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1921-09">September 1921</date>). Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> Besprechung der 2. Auflage
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Der Römerbrief</hi>, Neubearbeitung München  1922, darin S. VI XVIII</bibl>: Vorwort zur zweiten Auflage (<placeName ref="kbga-places-54">Safenwil</placeName>, <date when="1921-09">September 1921</date>). Vgl. <persName ref="kbga-actors-512">Bultmanns</persName> Besprechung der 2. Auflage
                         in: <bibl corresp="kbga-bibls-913">
                             <title>CW</title>, Jg. 36 (1922), Sp. 320–323.330–334.
                                 358–361.369–373</bibl> (= <bibl corresp="kbga-bibls-914">
@@ -880,7 +881,7 @@
                     Eindruck erweckt wird, als habe ich zu allen vorausgehenden Beiträgen Stellung
                     nehmen wollen. Das ist schon deshalb nicht der Fall, weil ich vor dem Erscheinen
                     von <bibl corresp="kbga-bibls-1271">
-                        K. u. M. <hi rend="i">II</hi>
+                        K. u. M. <hi rend="italic">II</hi>
                         </bibl> die Aufsätze von <persName ref="kbga-actors-325">Prenter</persName> und
                         <persName ref="kbga-actors-305">Oepke</persName> überhaupt nicht kannte und
                     den von <persName ref="kbga-actors-76">Buri</persName> im Manuskript zugeschickt
@@ -889,7 +890,7 @@
                             <persName ref="kbga-actors-325">R. Prenter</persName>, <title level="a">Mythos und Evangelium</title>, in: <title>KuM II</title> (1951, 1965<edition rend="sup">2</edition>), S. 69–84 (vorher in: <title level="a">Rev. de Théol. et de Phil.</title>, a. 35
                                     [1947], S. 49ff.)</bibl>; <bibl corresp="kbga-bibls-1292">
                             <persName ref="kbga-actors-305">A. Oepke</persName>, <title level="a">Entmythologisierung des Christentums</title>, in: <title>KuM II</title> (1952, 1965<edition rend="sup">2</edition>), S. 170–175</bibl> (vorher in: <bibl corresp="kbga-bibls-1293">
-                            <hi rend="i">Geschichtliche und übergeschichtliche
+                            <hi rend="italic">Geschichtliche und übergeschichtliche
                                     Schriftauslegung</hi>, Gütersloh 1947<edition rend="sup">2</edition>, S. 56ff.</bibl>); <bibl corresp="kbga-bibls-1294">
                             <persName ref="kbga-actors-76">Fr. Buri</persName>, <title level="a">Entmythologisierung oder Entkerygmatisierung der
                                     Theologie</title>, in: <title>KuM II</title> (1952, 1965<edition rend="sup">2</edition>), S. 85–101.</bibl>
@@ -901,7 +902,7 @@
                             <persName ref="kbga-actors-236">W. G. Kümmel</persName>, <title level="a">Mythische Rede und Heilsgeschehen im Neuen
                                     Testament</title>, in: <title>KuM II</title> (1952, 1965<edition rend="sup">2</edition>), S. 153–169</bibl> (vorher in: <bibl corresp="kbga-bibls-1329">
                             Coniecta Neotestamentica, Jg. 11 [1947], S. 109–131</bibl>; wieder abgedruckt in: <bibl corresp="kbga-bibls-1330">
-                            <persName ref="kbga-actors-236">W. G. Kümmel</persName>, <title level="a">Heilsgeschehen und Geschichte</title>, Bd. I. <hi rend="i">Gesammelte Aufsätze
+                            <persName ref="kbga-actors-236">W. G. Kümmel</persName>, <title level="a">Heilsgeschehen und Geschichte</title>, Bd. I. <hi rend="italic">Gesammelte Aufsätze
                                 1933–1964</hi>, hrsg. von E. Gräßer, O. Merk, A.
                             Fritz (MThSt 3), Marburg
                             1965, S. 153–168</bibl> ); ders., <bibl corresp="kbga-bibls-1331">
@@ -920,18 +921,18 @@
                         werden.)<note xml:id="n43">
                         <bibl corresp="kbga-bibls-1271"> Auf <persName ref="kbga-actors-158">Chr. Hartlich</persName> /
                                     <persName ref="kbga-actors-348">W. Sachs</persName>, <title level="a">Kritische Prüfung der Haupteinwände Barths gegen Bultmann</title>, in: <title>KuM II</title> (1952, 1965<edition rend="sup">2</edition>), S. 113–125</bibl> (= Auszug aus: <bibl corresp="kbga-bibls-1333">
-                            <hi rend="i">Einführung in das Problem der
+                            <hi rend="italic">Einführung in das Problem der
                                         Entmythologisierung</hi>, in: <title level="s">Für Arbeit und Besinnung</title>, Jg. 4–6 [1950–1952])</bibl>, ging <persName ref="kbga-actors-2151">Barth</persName> über das in seinem «Nachwort» zu <bibl corresp="kbga-bibls-1273">
-                            <hi rend="i">Rudolf Bultmann</hi> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), S. 54 (<edition rend="normal">3. Aufl.</edition>, S. 62)</bibl>, Gesagte hinaus nicht mehr ein. <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> kritisierten <persName ref="kbga-actors-2151">Barths</persName> Auseinandersetzung mit <persName ref="kbga-actors-512">Bultmann</persName> in <bibl corresp="kbga-bibls-2">
+                            <hi rend="italic">Rudolf Bultmann</hi> (s. <ref type="pub" target="#fn_n01">Anm. 1</ref>), S. 54 (<edition rend="normal">3. Aufl.</edition>, S. 62)</bibl>, Gesagte hinaus nicht mehr ein. <persName ref="kbga-actors-158">Hartlich</persName> und <persName ref="kbga-actors-348">Sachs</persName> kritisierten <persName ref="kbga-actors-2151">Barths</persName> Auseinandersetzung mit <persName ref="kbga-actors-512">Bultmann</persName> in <bibl corresp="kbga-bibls-2">
                             <title>KD</title> III/2, S. 531–537</bibl> (= <bibl corresp="kbga-bibls-1271">
                             <title>KuM II</title> [1952, 1965<edition rend="sup">2</edition>], S. 102–109).</bibl> <persName ref="kbga-actors-2151">Barth</persName> setzte sich dann weiterhin in <bibl corresp="kbga-bibls-2">
                             <title>KD</title> 
-                                <hi rend="i">III/3</hi>; 
-                                <hi rend="i">IV/1</hi></bibl>, passim, mit <persName ref="kbga-actors-512">Bultmanns</persName>
+                                <hi rend="italic">III/3</hi>; 
+                                <hi rend="italic">IV/1</hi></bibl>, passim, mit <persName ref="kbga-actors-512">Bultmanns</persName>
                         Anliegen auseinander. Im <date when="1953-06">Juni 1953</date> schrieb <persName ref="kbga-actors-2151">Barth</persName> im <bibl corresp="kbga-bibls-2">
                             <title level="a">Vorwort</title> zur
                             KD  
-                                <hi rend="i">IV/1</hi></bibl>: «Die theologische Lage des Augenblicks, aber auch die besonderen
+                                <hi rend="italic">IV/1</hi></bibl>: «Die theologische Lage des Augenblicks, aber auch die besonderen
                         Themata dieses Buches haben es nötig gemacht, daß ich mich weithin in
                         intensivem, in der Hauptsache stillem, Gespräch mit <persName ref="kbga-actors-512">Rudolf Bultmann</persName> befunden habe. Sein
                         Name taucht nicht eben oft auf. Seine Sache war mir immer gegenwärtig: auch
@@ -948,9 +949,9 @@
                         ich bei ihrer Befolgung dasselbe noch freier und wirklich besser sagen
                         könnte. Vorläufig bin ich eben davon nicht überzeugt worden.»</note> Ich
                     wüßte auch nicht, daß man meine Auseinandersetzung mit <persName ref="kbga-actors-372">Schniewind</persName> (<bibl corresp="kbga-bibls-1272">
-                        K. u. M. <hi rend="i">I</hi>
+                        K. u. M. <hi rend="italic">I</hi>
                         , [S.] 122–138</bibl>) oder mit <persName ref="kbga-actors-378">Schumann</persName> (<bibl corresp="kbga-bibls-1271">
-                        K. u. M. <hi rend="i">II</hi>
+                        K. u. M. <hi rend="italic">II</hi>
                         , [S.] 193f.</bibl>) als «Abfertigung» bezeichnen müßte.<note xml:id="n44">
                         <bibl corresp="kbga-bibls-1334">
                             <persName ref="kbga-actors-512">R. Bultmann</persName>, <title level="a">Zu J. Schniewinds

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53047">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 45</title>
         <title type="content">Predigt: Jakobus 3,13-17</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 3,13-17, 24. Juli 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53047 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53047 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 45: Predigt: Jakobus 3,13-17</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p531" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>45</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-07-24">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-07-24">Sonntag, den
                             24. Juli 1910</date> <date rend="right">(9. Sonntag nach Trinitatis)</date> 
                     </dateline>
                     <epigraph>
@@ -97,7 +99,7 @@
                 </div>
                 <div type="main">
                 <p>
-                        <hi rend="i">Was ist <term type="Sachen" key="Bildung">Bildung</term></hi><hi rend="i">?</hi> Das ist die Frage, die uns unser
+                        <hi rend="italic">Was ist <term type="Sachen" key="Bildung">Bildung</term></hi><hi rend="italic">?</hi> Das ist die Frage, die uns unser
                     Text stellt und über die wir uns heute besinnen wollen. Das Wort Bildung
                     kommt zwar im Text nicht vor. Es ist überhaupt kein altes Wort, sondern ein
                     neues. Aber wir haben doch ein gutes Recht, gerade bei diesem Text von
@@ -127,7 +129,7 @@
                     anfangs darüber, meine Freunde: Das ist das, was man so gewöhnlich und
                     oberflächlich Bildung zu nennen pflegt: Die Kenntnis von alledem, was man
                     auf höheren Schulen und aus Lehrbüchern sich einprägen <term type="Sachen" key="Bildung, und Schulkenntnisse">kann</term>: Mathematik, Sprachen,
-                    Literatur und das Andere. Das Alles <hi rend="i">für sich allein</hi>, macht den
+                    Literatur und das Andere. Das Alles <hi rend="italic">für sich allein</hi>, macht den
                     Menschen nicht nur noch nicht gebildet, sondern unerquicklich und schädlich
                     für seine Umgebung. Man kann das Wichtigste aus allen jenen Gebieten am
                     Schnürchen hersagen können und doch ein herzlich ungebildeter <pb ed="A" rend="hidden" n="3"/> Mensch sein, genau so sehr wie ein Anderer, der
@@ -154,16 +156,16 @@
                     werden wir ein solches <term type="Sachen" key="Bildung, und Wissen">Wissen</term> nicht nennen. Denn die Bildung hat es gerade mit dem
                         <term type="Sachen" key="Bildung, und Leben">Leben</term> zu tun. Wer
                     wertlos lebt, der ist ungebildet, gleichviel ob er viel oder wenig
-                    Kenntnisse hat. Und darum nenne ich Bildung die <hi rend="i">Kunst, wertvoll zu
+                    Kenntnisse hat. Und darum nenne ich Bildung die <hi rend="italic">Kunst, wertvoll zu
                             <term type="Sachen" key="Bildung, Kunst wertvoll zu leben">leben</term></hi>. Von dieser Kunst ist jetzt zu reden.</p>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="4"/> I</head>
                     <p rend="noindent">Ich habe in der letzten Zeit ein Buch von einer modernen
                         Schriftstellerin gelesen, das war betitelt «Dilettanten des
                             Lebens».<note xml:id="n01">
                                 <bibl corresp="kbga-bibls-2751">
-                                    <persName ref="kbga-actors-9291">Cl. Viebig</persName>, <hi rend="i">Dilettanten des
+                                    <persName ref="kbga-actors-9291">Cl. Viebig</persName>, <hi rend="italic">Dilettanten des
                                 Lebens</hi>, Berlin 1898.</bibl> Bis 1915 erschienen neun weitere
                             Auflagen des Buches.</note> Den Inhalt des Buches fand ich nicht
                         sehr bemerkenswert, aber dieser Titel hat mir viel zu denken gegeben.
@@ -181,7 +183,7 @@
                         kommt’s zum Vorschein, dass das, was sie bis jetzt geliefert,
                         Pfuscharbeit, dass das, was sie bis jetzt gedacht, gewollt, empfunden,
                         Dilettantenstücklein waren, dass kein ernsthafter und wirklicher
-                            Lebens<hi rend="i">wert</hi> da ist. Dilettanten des <term type="Sachen" key="Dilettanten, des Lebens">Lebens</term>! Ja, meine Freunde, das
+                            Lebens<hi rend="italic">wert</hi> da ist. Dilettanten des <term type="Sachen" key="Dilettanten, des Lebens">Lebens</term>! Ja, meine Freunde, das
                         sind wir Alle, solange wir nicht gebildet sind, und darum müssen wir uns
                         jetzt, wo wir von der <term type="Sachen" key="Bildung">Bildung</term>
                         reden wollen, den <term type="Sachen" key="Dilettanten">Dilettanten</term> recht genau ansehen, d. h. den Menschen, der
@@ -227,7 +229,7 @@
                         eigentlich viel höher als der gebildete Europäer, Jener sei doch im
                         Naturzustand, während Staatsleben, Kunst und Wissenschaft und
                         dergleichen bereits <term type="Sachen" key="Mensch, durch Kultur korrumpiert">Korruption</term> seien.<note xml:id="n04">Vgl. <bibl corresp="kbga-bibls-2753">
-                                    <persName ref="kbga-actors-1846">J.-J. Rousseau</persName>, <hi rend="i">Discours si
+                                    <persName ref="kbga-actors-1846">J.-J. Rousseau</persName>, <hi rend="italic">Discours si
                                 le rétablissement des Sciences et des Arts a contribué à épurer
                                 les mœurs</hi> (1750), Genève 1782, S. 32f.</bibl>:
                             «J’ajouterai seulement une réflexion, c’est
@@ -283,7 +285,7 @@
                     Und aus derselben Zeit stammen die ersten <persName key="Crusoe, Robinson">Robinsongeschichten</persName>,<note xml:id="n06">Vgl. 
                                 <bibl corresp="kbga-bibls-2617">
                                     <persName ref="kbga-actors-9225">D. Defoe</persName>,
-                                <hi rend="i">The Life and Strange Surprizing Adventures of Robinson
+                                <hi rend="italic">The Life and Strange Surprizing Adventures of Robinson
                                 Crusoe of York, Mariner</hi>, London 1719</bibl>; deutsche
                             Übersetzungen erschienen seit 1720, dazu kamen schnell auch
                             Adaptionen des Stoffes.</note> durch die die Pädagogen versuchten,
@@ -291,10 +293,10 @@
                     <p>Das ist ja nun Alles recht gut, und es mag damals wahr gewesen sein und
                         mag auch heute noch wahr sein, dass mancher Wilde in wichtigen
                         Beziehungen vor manchem Europäer im Vorsprung <pb ed="A" rend="hidden" n="6"/> ist. Aber dann ist eben der Europäer mit all seiner
-                            <hi rend="i">angeblichen</hi>
+                            <hi rend="italic">angeblichen</hi>
                         <term type="Sachen" key="Kultur, angebliche">Kultur</term> heimlich ein
                         Wilder und der angebliche Wilde heimlich bereits ein angehend gebildeter
-                        Mensch. Auf alle Fälle darf man <hi rend="i">das</hi> nicht sagen, dass das
+                        Mensch. Auf alle Fälle darf man <hi rend="italic">das</hi> nicht sagen, dass das
                         Kanadierleben an sich besser sei und höher als das <term type="Sachen" key="Leben, Kulturleben">Kulturleben</term>.</p>
                     
                     <p> <pb rend="noPipe" xml:id="p536" ed="pga"/> Denn das Kanadierleben, wie ich es schilderte, und fügen wir gleich
@@ -304,7 +306,7 @@
                         Mensch werden, aber es ist noch keiner. Denn der ungebildete <term type="Sachen" key="Mensch im Naturzustand">Mensch</term> folgt in
                         seinem Tun und Treiben nicht den Anlagen, durch die er ein Mensch ist,
                         sondern den andern Anlagen, die er mit dem Tier gemein hat.<note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-1749">
-                                    <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Ethik</hi>,
+                                    <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Ethik</hi>,
                             Tübingen 1909<edition rend="sup">4</edition>, S. 91</bibl>: «Die innere
                             Selbständigkeit eines wahrhaft menschlichen Lebens erreichen wir
                             also nur, wenn wir unsere gesamte Existenz als einen Ausdruck der
@@ -317,10 +319,10 @@
                         Ungebildete ein Dilettant des <term type="Sachen" key="Dilettanten, des Lebens">Menschenlebens</term> ist. Das
                         Menschliche ist da, aber das eigentlich Wichtige in ihm sind andre
                         Dinge.</p>
-                    <p>So erkennt man den Ungebildeten vor Allem daran, dass er seinem <term type="Sachen" key="Temperament"><hi rend="i">Temperament</hi></term>
+                    <p>So erkennt man den Ungebildeten vor Allem daran, dass er seinem <term type="Sachen" key="Temperament"><hi rend="italic">Temperament</hi></term>
                         unterworfen ist,<note xml:id="n08">Vgl. <bibl corresp="kbga-bibls-2754">
                                     <persName ref="kbga-actors-752">R. Rothe</persName>,
-                                <hi rend="i">Theologische Ethik</hi>, Bd. 4, Wittenberg 1870<edition rend="sup">2</edition>, S. 142f.</bibl>: «Da die Individualität ihrer
+                                <hi rend="italic">Theologische Ethik</hi>, Bd. 4, Wittenberg 1870<edition rend="sup">2</edition>, S. 142f.</bibl>: «Da die Individualität ihrer
                             natürlichen Angelegtheit nach wesentlich auf dem Temperamente
                             beruht, so ist die tugendhafte Selbstbildung namentlich auch die
                             tugendhaft sittliche Bearbeitung, das heißt dann aber zugleich
@@ -329,8 +331,8 @@
                         Leichtsinn. Eine von diesen Neigungen in irgend einem Stärkegrad gehört
                         zu der besondern Naturanlage jedes <term type="Sachen" key="Mensch im Naturzustand, den Neigungen unterworfen">Menschen</term>, etwa wie die Tiere Felle von verschiedener
                         Buntheit haben. Aber nun ist’s das Merkmal des Ungebildeten, dass
-                            <hi rend="i">er</hi> nicht das Temperament hat, sondern das Temperament
-                        hat <hi rend="i">ihn</hi>. «Er lässt sich gehen», pflegt man wohl von solchen
+                            <hi rend="italic">er</hi> nicht das Temperament hat, sondern das Temperament
+                        hat <hi rend="italic">ihn</hi>. «Er lässt sich gehen», pflegt man wohl von solchen
                         zu sagen und meint damit, dass sie jener ihrer persönlichen, natürlichen
                         Neigung freien Lauf lassen. Sie sind jähzornig, polternd und unüberlegt,
                         weil sie ohne Weiteres ihrer Naturanlage folgen, sie sind faul und
@@ -342,12 +344,12 @@
                         gewisse Befriedigung dabei findet, so «natürlich» zu sein, so ist diese
                         Befriedigung unbewusst oder, was noch schlimmer ist: bewusst eine
                         Verleugnung seines Menschentums. Der Ungebildete gibt sich weiter an der
-                        Art zu erkennen, wie er <hi rend="i">Freude</hi> und <hi rend="i">Schmerz</hi>
+                        Art zu erkennen, wie er <hi rend="italic">Freude</hi> und <hi rend="italic">Schmerz</hi>
                             erträgt:<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-2754">
                                     <persName ref="kbga-actors-752">a.a.O.</persName>, S. 145</bibl>: «Die Gebildetheit
                             zeigt sich daher namentlich in der Art und Weise, wie in dem
                             Individuum Lust und Schmerz auftreten.»</note>
-                        <term type="Sachen" key="Mensch im Naturzustand, Fassungslosigkeit"><hi rend="i">fassungslos</hi></term>, nennt man das: er lässt sich
+                        <term type="Sachen" key="Mensch im Naturzustand, Fassungslosigkeit"><hi rend="italic">fassungslos</hi></term>, nennt man das: er lässt sich
                         übernehmen und treiben von den äußern Eindrücken, die ihn lustig oder
                         traurig machen, er hat den Eindrücken nichts entgegenzustellen, was sein
                         inneres Leben im Gleichgewicht hielte, und so sieht man ihn in der
@@ -355,11 +357,11 @@
                         was denn auch äußerlich in seinem Tun und Reden zum Ausdruck zu kommen
                         pflegt.</p>
                     <p>Aber wir müssen uns gleich in eine höhere Sphäre begeben: Auch der
-                        ungebildetste Mensch macht sich <hi rend="i">Gedanken</hi> über die Menschen
+                        ungebildetste Mensch macht sich <hi rend="italic">Gedanken</hi> über die Menschen
                         und Verhältnisse, mit denen er zu tun hat, und er setzt seinem Willen
-                            <hi rend="i">Zwecke</hi>, er möchte dies und das erreichen und
+                            <hi rend="italic">Zwecke</hi>, er möchte dies und das erreichen und
                         durchsetzen. Dass er ein ungebildeter Mensch ist, erkennt man hier
-                        daran, dass seine Gedanken und Zwecke <term type="Sachen" key="Mensch im Naturzustand, Borniertheit"><hi rend="i">borniert</hi></term> sind oder <term type="Sachen" key="Mensch im Naturzustand, Naivität"><hi rend="i">naiv</hi></term>, um
+                        daran, dass seine Gedanken und Zwecke <term type="Sachen" key="Mensch im Naturzustand, Borniertheit"><hi rend="italic">borniert</hi></term> sind oder <term type="Sachen" key="Mensch im Naturzustand, Naivität"><hi rend="italic">naiv</hi></term>, um
                         einen etwas freundlicheren Ausdruck zu gebrauchen. Es sind enge,
                         beschränkte Gedanken, die sich nur gerade mit den nächstliegenden Dingen
                         beschäftigen, Gedanken und Zwecke, die nicht gewohnt noch fähig sind,
@@ -370,8 +372,8 @@
                         Ungebildete mit seinen unabgeschliffenen Gedanken und Zwecken
                         tatsächlich ein Original wäre, wenn es auch oft diesen Anschein haben
                         mag. Denn er folgt auch in seinem Denken und in seinem Willen dem
-                        dumpfen Trieb, den nicht <hi rend="i">er</hi> hat, sondern der <pb ed="A" rend="hidden" n="8"/>
-                        <hi rend="i">ihn</hi> hat. Seine Gedanken sind die naheliegendsten <term type="Sachen" key="Mensch im Naturzustand, angepasste Allerweltsgedanken">Allerweltsgedanken</term>, seiner natürlichen und menschlichen
+                        dumpfen Trieb, den nicht <hi rend="italic">er</hi> hat, sondern der <pb ed="A" rend="hidden" n="8"/>
+                        <hi rend="italic">ihn</hi> hat. Seine Gedanken sind die naheliegendsten <term type="Sachen" key="Mensch im Naturzustand, angepasste Allerweltsgedanken">Allerweltsgedanken</term>, seiner natürlichen und menschlichen
                         Umgebung angepasst, wie sich manche Tiere und Pflanzen ihrer Umgebung
                         anpassen. Nur dass beim ungebildeten Menschen die Anpassung
                         unwillkürlich ist, während seine eigentliche Überzeugung die ist, dass
@@ -391,7 +393,7 @@
                         kümmert uns nicht. «Die Welt, sie war nicht, eh’ ich sie
                             erschuf.»<note xml:id="n10">
                                 <bibl corresp="kbga-bibls-1624"><persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                <hi rend="i">Faust. Der Tragödie zweiter Teil</hi>, V. 6794</bibl>
+                                <hi rend="italic">Faust. Der Tragödie zweiter Teil</hi>, V. 6794</bibl>
                             (Hochgewölbtes, enges gotisches Zimmer).</note> Und ich brauche wohl
                         nicht erst zu sagen, dass solche Vorstellungen, die sich freilich die
                         wenigsten klar machen, immer zum Vorschein kommen in einer
@@ -409,12 +411,12 @@
                         weise und einsichtsvoll? Wer ist gebildet?</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="9"/> II</head>
                     <p rend="noindent">Wenn wir nun davon reden wollen, wie man aus einem
                         ungebildeten Menschen ein gebildeter wird, so müssen wir vor Allem
-                        beachten, dass schon das Wort <term type="Sachen" key="Bildung">«<hi rend="i">Bildung</hi>»</term> nicht einfach einen <term type="Sachen" key="Bildung, kein Zustand">Zustand</term> bezeichnet,
-                        sondern eine <term type="Sachen" key="Bildung, Tätigkeit"><hi rend="i">Tätigkeit</hi></term>. Der Mensch wird gebildet, wenn
+                        beachten, dass schon das Wort <term type="Sachen" key="Bildung">«<hi rend="italic">Bildung</hi>»</term> nicht einfach einen <term type="Sachen" key="Bildung, kein Zustand">Zustand</term> bezeichnet,
+                        sondern eine <term type="Sachen" key="Bildung, Tätigkeit"><hi rend="italic">Tätigkeit</hi></term>. Der Mensch wird gebildet, wenn
                         und indem er sich bildet. Wenn man diese Selbstverständlichkeit denken
                             <pb xml:id="p539" ed="pga"/> würde, würde man nicht immer wieder schon die
                         höhern Schulkenntnisse als <term type="Sachen" key="Bildung, und Wissen">Bildung</term> bezeichnen. Die können ein Mittel sein dazu, aber
@@ -426,7 +428,7 @@
                         den Andern abfinden muss, die auch in der Welt sind – das tun die
                         Ungebildeten ­auch –, sondern in der Einsicht, dass es so
                         recht ist. Nehmen wir den einfachsten Fall eines ungebildeten Menschen:
-                            <hi rend="i">das kleine Kind</hi> in der Wiege. Das ist ganz deutlich so
+                            <hi rend="italic">das kleine Kind</hi> in der Wiege. Das ist ganz deutlich so
                         ein Wesen, das sich selbst für den Mittelpunkt der Welt hält, und eine
                         Zeitlang wird diese Meinung ja von seiner Umgebung auch begünstigt. Aber
                         dann muss es eines Tages die schmerzliche Erfahrung machen, dass seine
@@ -446,7 +448,7 @@
                         Einzelner zu sein mit allerlei Privatinteressen, und anfängt, nicht aus
                         dumpfer Notwendigkeit, sondern bewusst und mit Willen sich zu fühlen als
                         einer von einer <term type="Sachen" key="Bildung, Erkenntnis Teil einer Mehrzahl zu sein">Mehrzahl</term>, das ist der Anfang der Bildung.</p>
-                    <p> Darum ist der Ort, wo der Mensch sich zu bilden <term type="Sachen" key="Bildung, in der Familie">hat</term>, vor Allem die <term type="Sachen" key="Familie"><hi rend="i">Familie</hi></term>.<note xml:id="n11">Auch in den hier und im folgenden
+                    <p> Darum ist der Ort, wo der Mensch sich zu bilden <term type="Sachen" key="Bildung, in der Familie">hat</term>, vor Allem die <term type="Sachen" key="Familie"><hi rend="italic">Familie</hi></term>.<note xml:id="n11">Auch in den hier und im folgenden
                             aufgezählten Orten von immer höherer bzw. erweiterter Bildung
                             (Familie, Stand, Staat, Menschheit) spiegelt sich Barths Lektüre von
                             Richard Rothes «Ethik», die an den in seinem Exemplar angebrachten
@@ -470,15 +472,15 @@
                         traulich begrüßt, dass er spürt: hier ist gut sein, hier sind nicht bloß
                         essende und trinkende Naturwesen, die friedlich oder borstig miteinander
                         sind je nach Anlage und Temperament, sondern hier sind
-                            <hi rend="i">Menschen</hi>, die ihre Naturanlage unterordnen unter die
+                            <hi rend="italic">Menschen</hi>, die ihre Naturanlage unterordnen unter die
                         Gebote des Geistes, hier sind Einzelne, die gelernt haben sich fügen in
                         das Allgemeine.</p>
                     <p>Der nächste Gemeinschaftskreis, an dem und in dem der Mensch seine
-                        Bildung erweitern <term type="Sachen" key="Bildung, in Beruf und Stand">soll</term>, ist sein <term type="Sachen" key="Stand / Gesellschaftsstand"><hi rend="i">Stand</hi></term> und <term type="Sachen" key="Beruf">Beruf</term>. Da wird ja nun die Schule
+                        Bildung erweitern <term type="Sachen" key="Bildung, in Beruf und Stand">soll</term>, ist sein <term type="Sachen" key="Stand / Gesellschaftsstand"><hi rend="italic">Stand</hi></term> und <term type="Sachen" key="Beruf">Beruf</term>. Da wird ja nun die Schule
                         zur unentbehrlichen Vorbereitung, aber ob der Mensch nachher gebildet
                         ist oder nicht, das hängt doch nicht ab davon, ob er eine höhere oder
                         niedere Schule besucht, ob er einen feinern oder weniger feinen Beruf
-                        ergreift, sondern <pb ed="A" rend="hidden" n="11"/> davon, <hi rend="i">wie</hi>
+                        ergreift, sondern <pb ed="A" rend="hidden" n="11"/> davon, <hi rend="italic">wie</hi>
                         er das lernt, was ihm gelehrt wird, und wie er sich nachher innerlich zu
                         seinem Beruf, sei er, welcher er wolle, stellt. Es gibt bei vielen
                         Schülern höherer Schulen, ja auch bei sehr vielen Studenten auf der
@@ -488,7 +490,7 @@
                         Geh doch lieber Steine klopfen! und er hatte ganz recht. Ja, ich habe
                         einmal einem solchen Steineklopfer an der Landstraße zugesehen, der sein
                         unerfreuliches Geschäft mit solch liebevoller 
-                        Akkuratesse be<pb xml:id="p541" ed="pga"/>sorgte, dass ich mir sagen musste: lieber ein
+                        Akkuratesse be<pb xml:id="p541" ed="pga" break="no"/>sorgte, dass ich mir sagen musste: lieber ein
                         Steinklopfer, der seinen Kräften entsprechend mit sachgemäßer Teilnahme
                         an seiner Arbeit ist, als ein Arzt oder Pfarrer, der mit Routine, aber
                         ohne dass er mit dem Herzen dabei ist, Rezepte verschreibt und Predigten
@@ -512,7 +514,7 @@
                         Gemeinschaftskreise aufsehen müssen. Es bleibt immerhin möglich, dass
                         sich in der Familien- und Berufsbildung Reste verbergen der ungebildeten
                         egoistischen Neigungen des Urwaldbewohners. Und da verlangt die <term type="Sachen" key="Kultur">Kultur</term>, dass der Mensch
-                            <hi rend="i">Staatsbürger</hi> nicht nur <term type="Sachen" key="Bildung, im Staat">sei</term>, sondern sein wolle. Im <term type="Sachen" key="Staat">Staat</term> haben wir die höchste und
+                            <hi rend="italic">Staatsbürger</hi> nicht nur <term type="Sachen" key="Bildung, im Staat">sei</term>, sondern sein wolle. Im <term type="Sachen" key="Staat">Staat</term> haben wir die höchste und
                         umfassendste menschliche <term type="Sachen" key="Staat, höchste menschliche Gemeinschaftsform">Gemeinschaftsform</term>, und wenn es uns ernst ist damit, unsre
                         privaten Zwecke den allgemeinen unterzuordnen, dann dürfen wir an dieser
                         obersten Form der Allgemeinheit nicht vorübergehen. Uns Republikanern
@@ -534,7 +536,7 @@
                             aufgenommen; vgl. <bibl corresp="kbga-bibls-2755">
                                     <persName ref="kbga-actors-9292">Y. Voegeli</persName>, Art. «Frauenstimmrecht», in: HLS 4, S. 705f.</bibl>;
                                 <bibl corresp="kbga-bibls-2756">
-                                    <hi rend="i">Paul Wernle und Eduard Thurneysen. Briefwechsel von 1909
+                                    <hi rend="italic">Paul Wernle und Eduard Thurneysen. Briefwechsel von 1909
                                 bis 1934</hi>, hrsg. von Th. K. Kuhn, Göttingen 2016,
                             S. 24f.</bibl>
                             </note> und hat es <pb xml:id="p542" ed="pga"/> bekanntlich in der
@@ -567,7 +569,7 @@
                         natürlichen <term type="Sachen" key="Egoismus, der Ungebildetheit">Egoismus</term> der Ungebildetheit.</p>
                     <p>Aber nun sehe ich jenseits des Staates einen noch weitern
                         Gemeinschaftskreis, und von hier aus erst bekommt das Gebot der <term type="Sachen" key="Bildung, in der und für die Menschheit">Bildung</term> seinen ganzen Ernst und Nachdruck. Der weitere Kreis
-                        ist die <term type="Sachen" key="Menschheit"><hi rend="i">Menschheit</hi></term>. Es gibt keine Organisation der
+                        ist die <term type="Sachen" key="Menschheit"><hi rend="italic">Menschheit</hi></term>. Es gibt keine Organisation der
                         Menschheit wie die Familie, der Beruf, der Staat sie haben. Vielleicht
                         sind wir auf dem Wege dazu: Die <term type="Sachen" key="Schiedsgerichte">Schiedsgerichte</term> und internationalen
                             <term type="Sachen" key="Internationale Verträge">Verträge</term>,
@@ -585,10 +587,10 @@
                             von Streitigkeiten zwischen den Staaten durch Richter ihrer Wahl auf
                             Grund der Achtung vor dem Rechte» (Art. 37, Satz 1; zitiert nach:
                                 <bibl corresp="kbga-bibls-2759">
-                                    <hi rend="i">Der Bundesrat. Das Portal der Schweizer Regierung.
+                                    <hi rend="italic">Der Bundesrat. Das Portal der Schweizer Regierung.
                                 Systematische Sammlung des Bundesrechts [SR]</hi>,
                             Nr. 0.193.212 [­<ref type="url" target="https://www.admin.ch/opc/de/classified-compilation/19070025/index.html">www.admin.ch/opc/de/classified-compilation/19070025/index.html</ref>])</bibl>.</note>
-                        Das wäre ein Zeichen da<pb xml:id="p543" ed="pga"/>für, dass der <term type="Sachen" key="Fortschritt, wirklicher Kultur">Fortschritt</term> wirklicher Kultur doch nicht ein leerer Wahn
+                        Das wäre ein Zeichen da<pb xml:id="p543" ed="pga" break="no"/>für, dass der <term type="Sachen" key="Fortschritt, wirklicher Kultur">Fortschritt</term> wirklicher Kultur doch nicht ein leerer Wahn
                         ist. Jedenfalls muss echte Bildung <term type="Sachen" key="Bildung, Menschheitsbildung">Menschheitsbildung</term> werden;
                         wir müssen lernen, <pb ed="A" rend="hidden" n="13"/> uns als Glieder der
                         großen Einheit fühlen, nicht um ein erhabenes Gefühl mehr zu haben,
@@ -616,13 +618,13 @@
                         Unwahrheit und Phrase im Spiel, aber das ändert nichts daran, dass das
                         Ziel von Beiden richtig erfasst ist. Von der Isolierung, von dem
                         Inseldasein des natürlichen <term type="Sachen" key="Mensch im Naturzustand">Menschen</term> zur Einordnung in die
-                        Ge<pb xml:id="p544" ed="pga"/>meinsamkeit des Allgemeinen, das ist der Weg
+                        Ge<pb xml:id="p544" ed="pga" break="no"/>meinsamkeit des Allgemeinen, das ist der Weg
                         zur <term type="Sachen" key="Bildung">Bildung</term>, zur <term type="Sachen" key="Kultur">Kultur</term>.</p>
                     <q rend="block">
                         <lg>
                             <l>Es wächst der Mensch mit seinen höhern Zwecken.<note xml:id="n19">
-                                <bibl corresp="kbga-bibls-1518">
-                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Wallenstein. Ein dramatisches
+                                <bibl corresp="kbga-bibls-2506">
+                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Wallenstein. Ein dramatisches
                                 Gedicht</hi>, Prolog, V. 60 (ders., Sämtliche Werke, Bd. 2,
                             München 1962<edition rend="sup">3</edition>, S. 271)</bibl>:
                                 <q rend="block">
@@ -635,27 +637,27 @@
                     </q>
                 </div>
                 <div>
-                    <head type="4">III</head>
+                    <head>III</head>
                     <p rend="noindent">Und von diesem Menschen, dem Gebildeten, soll nun noch
                         kurz die Rede sein. Genauer müsste gesagt werden: von <pb ed="A" rend="hidden" n="14"/> dem sich Bildenden, denn die <term type="Sachen" key="Bildung, niemals fertig">Bildung</term> kann ja
                         niemals fertig sein. Die Gebildetheit, die wahre nämlich, oder die <term type="Sachen" key="Weisheit, wahre Bildung">Weisheit</term>
                         beschreibt <persName ref="kbga-actors-8959">Jakobus</persName>
-                        folgendermaßen: Sie <hi rend="i">ist erstens keusch, sodann friedfertig,
+                        folgendermaßen: Sie <hi rend="italic">ist erstens keusch, sodann friedfertig,
                             folgsam, lässt sich etwas sagen, ist voller Teilnahme und guter
                             Früchte, steht über den Parteien, heuchelt nicht</hi>. Wir wollen
                         versuchen, unsrerseits in kurzen Zügen das Wesen des Gebildeten zu
                         zeichnen, wie am Anfang das des Ungebildeten.</p>
                     <p>Das erste Merkmal der Bildung ist, dass sie den Menschen
-                            <hi rend="i">objektiv</hi>
+                            <hi rend="italic">objektiv</hi>
                         <term type="Sachen" key="Bildung, Objektivität">macht</term>. Der
                         Gebildete lebt in den Verhältnissen und unter den Menschen, aber er
                         übersieht, durchschaut, versteht sie in ihren notwendigen Bedingungen
                         und Zusammenhängen, und damit ist er ihnen, vielleicht nicht äußerlich,
-                        aber innerlich überlegen. Der <hi rend="i">Un</hi>gebildete hängt ab von den
+                        aber innerlich überlegen. Der <hi rend="italic">Un</hi>gebildete hängt ab von den
                         zufälligen Eindrücken, die auf ihn einstürmen, und sein Leben bekommt
                         dadurch etwas Zufälliges, Abhängiges; der Gebildete ordnet die
                         Eindrücke, weil er einen Maßstab der Dinge in sich trägt. Der
-                            <hi rend="i">Un</hi>gebildete wird gelebt, weil er sich selbst nicht
+                            <hi rend="italic">Un</hi>gebildete wird gelebt, weil er sich selbst nicht
                         beherrschen kann, geschweige denn das, was von außen auf ihn eindringt,
                         der Gebildete lebt, weil er vor Allem Herrscher seiner <term type="Sachen" key="Bildung, Selbstbeherrschung">selbst</term>
                         geworden ist. Reif sein ist Alles, reif sein ist Bildung. Bildung aber
@@ -664,12 +666,12 @@
                         bewusst den sauren Weg der Bildung geht, den Weg der Einordnung und
                         Unterordnung unter die Gemeinschaftsformen des Menschenlebens, der
                         entdeckt auf diesem Weg die ungeschriebenen und doch unverbrüchlichen
-                        Gesetze, die allem Dasein zu Grunde lie<pb xml:id="p545" ed="pga"/>gen. Ihm
+                        Gesetze, die allem Dasein zu Grunde lie<pb xml:id="p545" ed="pga" break="no"/>gen. Ihm
                         hört die Welt und das Leben auf, eine gestaltlose Masse zu sein, die
                         sich um ihn selbst dreht, ihm fällt Licht ins Chaos, die Nacht
-                            <hi rend="i">weicht</hi> langsam aus den Tälern,<note xml:id="n20">
+                            <hi rend="italic">weicht</hi> langsam aus den Tälern,<note xml:id="n20">
                                 <bibl corresp="kbga-bibls-846">
-                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Wilhelm Tell</hi>, Zweiter Aufzug,
+                                    <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Wilhelm Tell</hi>, Zweiter Aufzug,
                             Zweite Szene (ders., Sämtliche Werke, Bd. 2, München 1962<edition rend="sup">3</edition>, S. 964)</bibl>.</note> und so wandelt er über die
                         Berge als ein Siegreicher, ein Überlegener.</p>
                     <p> Und wahrlich, die Überlegenheit des <term type="Sachen" key="Bildung, Überlegenheit">Gebildeten</term> ist etwas ganz
@@ -680,7 +682,7 @@
                             «Ich bin an den Wechsel gewöhnt, ja er wird mir Bedürfnis, wie man
                             in der Oper immer wieder auf eine neue Dekoration wartet, gerade
                             weil schon so viele dagewesen» (<bibl corresp="kbga-bibls-2760"><persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                <hi rend="i">Wahlverwandtschaften</hi>, Hamburger Ausgabe, Bd. 6,
+                                <hi rend="italic">Wahlverwandtschaften</hi>, Hamburger Ausgabe, Bd. 6,
                             S. 432; vgl. S. 429–434</bibl>).</note> sondern gebildet ist der,
                         der sagen kann:</p>
                         <q rend="block">
@@ -689,7 +691,7 @@
                                 <l>Und ein Mensch heißt Kämpfer sein,<note xml:id="n22">
                                         <bibl corresp="kbga-bibls-2761">Aus der vierten Strophe des Gedichts «Einlaß»
                                         von <persName ref="kbga-actors-136">J. W. von Goethe</persName>
-                                        (ders., <hi rend="i">Westöstlicher Diwan. Buch des
+                                        (ders., <hi rend="italic">Westöstlicher Diwan. Buch des
                                             Paradieses</hi>, Berliner Ausgabe. Poetische
                                         Werke, Bd. 3, Berlin 1965, S. 148f., dort S. 149)</bibl>:
                                             <q rend="block">
@@ -720,7 +722,7 @@
                         Gebildeten zu einer Fülle der Gesichte,<note xml:id="n23">Gehobener Ausdruck für eine Vielzahl von Eindrücken; vgl. oben,
                                 <ref type="pub" target="../volume/53/p426#fn_n01">S. 426, Anm. 1</ref>.</note>
                         er sieht den Reichtum der <term type="Sachen" key="Welt, Reichtum">Welt</term>, und weil er ihn sieht, kann er ihn mit vollen Händen
-                        spenden. <persName ref="kbga-actors-136"><hi rend="i">Goethe</hi></persName> ist ein solcher Mensch gewesen, und
+                        spenden. <persName ref="kbga-actors-136"><hi rend="italic">Goethe</hi></persName> ist ein solcher Mensch gewesen, und
                         das Lied seines Türmers ist der Triumphgesang aller wirklichen
                         Bildung:</p>
                         <q rend="block">
@@ -743,7 +745,7 @@
                                 <l>Es war doch so schön!<note xml:id="n24">
                                             <bibl corresp="kbga-bibls-1624">
                                             <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                        Faust. <hi rend="i">Der Tragödie zweiter Teil</hi>,
+                                        Faust. <hi rend="italic">Der Tragödie zweiter Teil</hi>,
                                         V. 11288–11303 (Tiefe Nacht).</bibl>
                                     </note>
                                 </l>
@@ -757,7 +759,7 @@
                         von den Vielen zu sein, er verlässt die dumpfe Region der
                         Masseninstinkte, der Schlagworte und Vorurteile, er wird, indem er
                         allgemein wird, etwas Besonderes, ein lebendes Atom in der ungeheuren
-                        Welt der Geister. <hi rend="i"><persName ref="kbga-actors-752">Richard Rothe</persName></hi><note xml:id="n25">Richard Rothe (1799–1867),
+                        Welt der Geister. <hi rend="italic"><persName ref="kbga-actors-752">Richard Rothe</persName></hi><note xml:id="n25">Richard Rothe (1799–1867),
                             evangelischer Theologe, dessen Anliegen die Verbindung von
                             protestantischer Weltfrömmigkeit und Kirchlichkeit war.</note> hat
                         sehr fein gesagt, der Wahlspruch des Gebildeten sei jene Zeile aus dem
@@ -772,7 +774,7 @@
                             – Vgl.<bibl corresp="kbga-bibls-2754"> <persName ref="kbga-actors-752">Rothe</persName> (Anm. 8), S. 145 (§ 970)</bibl>: «Der Gebildete gibt sich
                             an die Objektivität hin, an das Ganze, dem er angehört, und zwar
                             nicht an das Nächste, das ihn unmittelbar trägt, sondern an das
-                                <hi rend="i">ganze</hi> Ganze, an die Menschheit überhaupt.
+                                <hi rend="italic">ganze</hi> Ganze, an die Menschheit überhaupt.
                             […] Nichts ist ungebildeter (ordinärer) als von seinem
                             armseligen lieben Ich nicht los und über dasselbe nicht hinaus
                             kommen zu können. Der Ungebildete sieht in der Welt lauter bloße
@@ -790,8 +792,8 @@
                         Geschenk. Denn wer sein Leben lieb hat, der wird es verlieren, wer aber
                         sein Leben in dieser Welt hasset, der wird es erhalten zum ewigen Leben
                         [<ref type="can" subtype="bible" target="Joh.12.25">Joh. 12,25</ref>]. Er
-                        erfüllt seines Wesens eigenste Bestimmung, nein, sie <hi rend="i">wird</hi>
-                        erfüllt, denn <hi rend="i">Gott</hi> ist da, der ihn gerecht macht.</p>
+                        erfüllt seines Wesens eigenste Bestimmung, nein, sie <hi rend="italic">wird</hi>
+                        erfüllt, denn <hi rend="italic">Gott</hi> ist da, der ihn gerecht macht.</p>
                     <q rend="block">
                         <lg>
                     <l>Er, der die Welt gewollt und dessen Namen</l>
@@ -801,7 +803,7 @@
                             wisst!<note xml:id="n27">
                                         <bibl corresp="kbga-bibls-2762">Verse 92–95 des Gedichts
                             «Chidhr» von <persName ref="kbga-actors-9294">O. Ernst</persName>
-                            (ders., <hi rend="i">Siebzig Gedichte</hi>, Leipzig 1907,
+                            (ders., <hi rend="italic">Siebzig Gedichte</hi>, Leipzig 1907,
                             S. 132–135, dort S. 135).</bibl>
                                     </note>
                                 </l>

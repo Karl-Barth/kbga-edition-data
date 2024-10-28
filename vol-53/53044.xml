@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53044">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 42</title>
         <title type="content">Predigt: Jakobus 2,8-13 (III)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 2,8-13 (III), 19. Juni 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53044 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53044 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 42: Predigt: Jakobus 2,8-13 (III)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p485" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>42</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-06-19">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-06-19">Sonntag, den
                             19. Juni 1910</date> <date rend="right">(4. nach Trinitatis)</date>
                     </dateline>
                     <epigraph>
@@ -98,8 +100,8 @@
                     zu besinnen, die <term type="Sachen" key="Gott, Urteil über uns">Gott</term>
                     unsrem Gehorsam oder Ungehorsam diesem Gesetz gegenüber zuteilwerden lässt.
                     Banal gesprochen könnte man sagen, dass es sich heute um die
-                        <hi rend="i">Folgen</hi> des <term type="Sachen" key="Mensch, gutes Wollen">guten</term> oder bösen <term type="Sachen" key="Mensch, böses Wollen">Wollens</term> handelt, nachdem wir uns das letzte Mal über seine
-                        <hi rend="i">Ursachen</hi> klar geworden sind. Aber wir wollen diese
+                        <hi rend="italic">Folgen</hi> des <term type="Sachen" key="Mensch, gutes Wollen">guten</term> oder bösen <term type="Sachen" key="Mensch, böses Wollen">Wollens</term> handelt, nachdem wir uns das letzte Mal über seine
+                        <hi rend="italic">Ursachen</hi> klar geworden sind. Aber wir wollen diese
                     Ausdrücke «Ursache» und «Folge» doch lieber bei Seite lassen auf diesem
                     Gebiet, denn wenn wir’s genau nehmen, werden wir sagen müssen, dass
                         <anchor type="note" xml:id="fn-a"/>Gottes Urteil keineswegs hinter unserm Handeln
@@ -107,14 +109,14 @@
                      wie die Folge hinter der Ursache. Denn Gott ist <term type="Sachen" key="Gott, gegenwärtiger">gegenwärtig</term>,<note xml:id="n02">Titel des im Gottesdienst gesungenen Liedes von <persName ref="kbga-actors-797">G. Tersteegen</persName> (s.
                         unten, Lieder).</note> und wir können auch nicht das Geringste reden und
                     handeln, wir können auch nicht den kleinsten Bruchteil unsres Lebens
-                    zubringen, ohne dass dadurch <hi rend="i">sofort</hi> unser Verhältnis zu diesem
+                    zubringen, ohne dass dadurch <hi rend="italic">sofort</hi> unser Verhältnis zu diesem
                     gegenwärtigen und lebendigen <term type="Sachen" key="Gott, lebendiger">Gott</term> bestimmt und verändert würde im Guten oder im Bösen.</p>
                     <q rend="block">
                         <lg>
                 <l>Es ist kein Vor noch Nach: was morgen soll geschehn,</l>
                 <l>Hat Gott von Ewigkeit schon wesentlich gesehn.<note xml:id="n03">
                                     <bibl corresp="kbga-bibls-1544">
-                                        <hi rend="i">Des Angelus Silesius Cherubinischer Wandersmann</hi>, nach der Ausgabe letzter Hand von 1675
+                                        <hi rend="italic">Des Angelus Silesius Cherubinischer Wandersmann</hi>, nach der Ausgabe letzter Hand von 1675
                         vollständig hrsg. und eingeleitet von W. Bölsche, Jena / Leipzig 1905,
                         S. 65 (Anderes Buch, Nr. 182).</bibl> – Barth erhielt sein Exemplar, in
                         dem dieser Vers am Rand markiert ist, im Mai 1910 «von den Konfirmanden»
@@ -127,9 +129,9 @@
                         <pb rend="noPipe" xml:id="p486" ed="pga"/> So ist auch Gottes <term type="Sachen" key="Gott, Urteil über uns">Urteil</term>, das uns gerecht oder schuldig
                     spricht, in jedem Augenblick unsres Redens, Denkens und Handelns bereits da.
                     Wir können es keinen Augenblick aufschieben, dies Urteil in Empfang zu
-                    nehmen. Es ist gewaltig und erschütternd <hi rend="i">vorhanden</hi>, eben weil
+                    nehmen. Es ist gewaltig und erschütternd <hi rend="italic">vorhanden</hi>, eben weil
                     es das Urteil der <term type="Sachen" key="Ewigkeit">
-                            <hi rend="i">Ewigkeit</hi></term> ist. «Wo soll ich hingehen vor deinem
+                            <hi rend="italic">Ewigkeit</hi></term> ist. «Wo soll ich hingehen vor deinem
                     Geist, und wo soll ich hinfliehen vor deinem Angesicht? Führe ich gen
                     Himmel, so bist du da. Bettete ich mir in die Unterwelt, siehe, so bist du
                     auch da. Nähme ich Flügel der Morgenröte und bliebe am äußersten Meer, so
@@ -137,8 +139,8 @@
                     [<ref type="can" subtype="bible" target="Ps.139.7 Ps.139.10">Ps. 139,7–10</ref>]. Und wenn <persName ref="kbga-actors-764">Schiller</persName> gesagt hat:</p>
                     <q rend="block">
                         <lg>
-                            <l>Die <term type="Sachen" key="Geschichte, Weltgeschichte ist Weltgericht">Welt<hi rend="i">geschichte</hi></term> ist das
-                                    Welt<hi rend="i">gericht</hi>,<note xml:id="n04">
+                            <l>Die <term type="Sachen" key="Geschichte, Weltgeschichte ist Weltgericht">Welt<hi rend="italic">geschichte</hi></term> ist das
+                                    Welt<hi rend="italic">gericht</hi>,<note xml:id="n04">
                                     <bibl corresp="kbga-bibls-1343">Aus
                                     der vorletzten Strophe des Gedichts «Resignation. Eine
                                     Phantasie» von <persName ref="kbga-actors-764">Fr. Schiller</persName> (Erstdruck
@@ -158,28 +160,28 @@
                         </lg>
                     </q>
                 <p rend="noindent">so gilt dasselbe vom Leben jedes einzelnen Menschen. Unsre
-                        Lebens<hi rend="i">geschichte</hi> ist unser <term type="Sachen" key="Leben, Lebensgeschichte ist Lebensgericht">Lebens<hi rend="i">gericht</hi></term>. Da mögen wir wohl <pb ed="A" rend="hidden" n="3"/> angesichts des Ernstes und der Tragweite dieser
+                        Lebens<hi rend="italic">geschichte</hi> ist unser <term type="Sachen" key="Leben, Lebensgeschichte ist Lebensgericht">Lebens<hi rend="italic">gericht</hi></term>. Da mögen wir wohl <pb ed="A" rend="hidden" n="3"/> angesichts des Ernstes und der Tragweite dieser
                     Gedanken ausrufen wie dort der Psalmsänger: «Solche Erkenntnis ist mir zu
                     wunderbar und zu hoch; ich kann sie nicht begreifen» 
                     [<ref type="can" subtype="bible" target="Ps.139.6">Ps. 139,6</ref>]. Es entspricht das nur
                     der Sache, um die es sich handelt: Es sind Gedanken, die wir nicht
-                        <hi rend="i">er</hi>kennen, sondern nur <hi rend="i">aner</hi>kennen können als
+                        <hi rend="italic">er</hi>kennen, sondern nur <hi rend="italic">aner</hi>kennen können als
                     Erkenntnisse, die uns in der Tat zu hoch sind, weil sie letzte und ewige
                     Wahrheit sind.</p>
                 <p> Darum ist aber die Frage nach Gottes Urteil über unser <term type="Sachen" key="Gott, Urteil über uns">Handeln</term> keine andre als die Frage
                     nach dem Ewigen, Wesentlichen, Giltigen in unserm Wollen und Handeln. Je
                     nachdem es beschaffen ist, je nachdem spricht Gott uns gerecht oder
-                    schuldig. Wir können aber das <hi rend="i">Gesetz der <term type="Sachen" key="Gesetz, der Freiheit">Freiheit</term></hi>, von dem unser
+                    schuldig. Wir können aber das <hi rend="italic">Gesetz der <term type="Sachen" key="Gesetz, der Freiheit">Freiheit</term></hi>, von dem unser
                     Text handelt, nicht verstehen, wenn wir uns nicht klar sind eben darüber,
                     dass Gottes ewiges und giltiges Urteil über uns und unser Tun vorhanden ist
                     und dass wir <pb xml:id="p487" ed="pga"/> diesem Urteil an keinem Ort und in
                     keinem Augenblick ausweichen oder entgehen können. Allzu leicht schleicht
                     sich nämlich, wenn von der <term type="Sachen" key="Freiheit">Freiheit</term> die Rede ist, der <term type="Sachen" key="Freiheit, Irrtum menschlicher Beliebigkeit">Irrtum</term> ein, als
                     ob der Mensch mit seinen augenblicklichen Einfällen und <term type="Sachen" key="Stimmungen">Stimmungen</term> das Maß aller Dinge,<note xml:id="n05">Vgl. <bibl corresp="kbga-bibls-1825">
-                                <persName ref="kbga-actors-322">Platon</persName>, <hi rend="i">Theaitetos</hi>, 152<foreign xml:lang="grc" rend="Ell">α</foreign></bibl>: «<foreign xml:lang="grc" rend="Ell">φησὶ γάρ
+                                <persName ref="kbga-actors-322">Platon</persName>, <hi rend="italic">Theaitetos</hi>, 152<foreign xml:lang="grc" rend="Ell">α</foreign></bibl>: «<foreign xml:lang="grc" rend="Ell">φησὶ γάρ
                             που πάντων χρημάτων μέτρον᾽ ἄνθρωπον εἶναι</foreign>».</note> als ob
                     er sein eigener Richter, als ob das <term type="Sachen" key="Gutes / das Gute">gut</term> und erlaubt sei, was ihm gefalle.<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-833">
-                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Torquato
+                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Torquato
                             Tasso</hi>, zweiter Akt, erster Auftritt (Hamburger Ausgabe,
                         Bd. 5, S. 100)</bibl>:
                             <q rend="block">
@@ -195,7 +197,7 @@
                         </note> Ich glaube, ich sei bereits in den beiden letzten
                     Predigten deutlich genug gewesen, um diesen Irrtum auszuschalten, aber es
                     muss heute nun auch noch ausdrücklichst die andere Seite der Sache
-                    konstatiert sein: <hi rend="i">Das Gesetz nur</hi> kann uns <term type="Sachen" key="Freiheit, nur das Gesetz kann Fr. geben">Freiheit</term> geben.
+                    konstatiert sein: <hi rend="italic">Das Gesetz nur</hi> kann uns <term type="Sachen" key="Freiheit, nur das Gesetz kann Fr. geben">Freiheit</term> geben.
                     Denn diese andre Seite erst macht uns aufmerksam auf den tiefen Ernst der
                     Situation, in der wir uns befinden. Da wandern wir unsern Weg in dieser
                     Zeit, einen Schritt nach dem andern. Sieh wohl zu, lieber Freund, wie du
@@ -203,7 +205,7 @@
                     deine Wanderung der des Reiters auf dem vereisten Bodensee.<note xml:id="n07">
                             <bibl corresp="kbga-bibls-1588">«Der Reiter und der Bodensee» ist eine Ballade
                         von <persName ref="kbga-actors-2501">Gustav Schwab</persName>
-                        (ders., <hi rend="i">Gedichte</hi>, Bd. 1, Stuttgart / Tübingen 1826,
+                        (ders., <hi rend="italic">Gedichte</hi>, Bd. 1, Stuttgart / Tübingen 1826,
                         S. 364–366)</bibl>. Mit «Ritt über den Bodensee» wird aufgrund dieser
                         Ballade eine risikoreiche Handlung bezeichnet, deren Verwegenheit dem
                         Handelnden erst im Nachhinein mit Schrecken bewusst wird; vgl. <bibl corresp="kbga-bibls-828">
@@ -216,13 +218,13 @@
                     Zeiten beschreibt [vgl. <ref type="can" subtype="bible" target="Apk.20.10">Apk. 20,10</ref>; <ref type="can" subtype="bible" target="Apk.21.8">21,8</ref>;
                         <ref type="can" subtype="bible" target="Apk.22.1 Apk.22.5">22,1–5</ref>]. Ob sie dir das eine oder das andere wird, das hängt
                     ab von deiner Stellung zum Gesetz, zum königlichen <term type="Sachen" key="Gesetz, königliches">Gesetz</term> der <term type="Sachen" key="Gesetz, der Freiheit">Freiheit</term>. Darum rede und handle als
-                    einer, der durch dies Gesetz <hi rend="i">gerichtet</hi> wird.</p>
+                    einer, der durch dies Gesetz <hi rend="italic">gerichtet</hi> wird.</p>
                 
                 <p> <pb rend="noPipe" xml:id="p488" ed="pga"/> Das will aber ein für allemal sagen: Der freie <term type="Sachen" key="Gehorsam, freier">Gehorsam</term> gegen das freie Gesetz, den wir
                     die letzten Male betrachtet haben, ist nie und nimmer so zu verstehen, als
                     sei es unserm Belieben und Gefallen anheimgegeben, zu tun und zu lassen, was
                     allerlei Gefühle und Stimmungen uns anbefehlen, sondern das <term type="Sachen" key="Gesetz, Majestät">Gesetz</term> steht in ganzer
-                    Majestät <hi rend="i">über</hi> uns, <hi rend="i">über</hi> unsrem subjektiven Wesen,
+                    Majestät <hi rend="italic">über</hi> uns, <hi rend="italic">über</hi> unsrem subjektiven Wesen,
                     es ragt herein aus dem <term type="Sachen" key="Jenseits">Jenseits</term> in
                     unser kleines <term type="Sachen" key="Diesseits, unser kleines">Diesseits</term>, aus der <term type="Sachen" key="Welt, jenseitige W. der Wahrheit">Welt</term> der Wahrheit in die
                         <term type="Sachen" key="Welt, diesseitige W. des Scheins">Welt</term>
@@ -243,8 +245,8 @@
                     der Komposition von <persName ref="kbga-actors-281">Mozart</persName> oder <persName ref="kbga-actors-9284">Schumann</persName><note xml:id="n08">
                             <bibl corresp="kbga-bibls-2725">
                                 <persName ref="kbga-actors-281">W. A. Mozart</persName>,
-                            <hi rend="i">Requiem</hi> (1791), KV 626</bibl>; <bibl corresp="kbga-bibls-2726">
-                                <persName ref="kbga-actors-9284">R. Schumann</persName>, <hi rend="i">Requiem</hi> (komp.
+                            <hi rend="italic">Requiem</hi> (1791), KV 626</bibl>; <bibl corresp="kbga-bibls-2726">
+                                <persName ref="kbga-actors-9284">R. Schumann</persName>, <hi rend="italic">Requiem</hi> (komp.
                         1852, veröffentl. 1864), op. 148</bibl>.</note> gehört hat, wird die Wucht und
                     Wahrheit ihres Inhalts nicht vergessen können. Dies irae, dies illa fängt
                     ihr lateinischer Text an:</p>
@@ -264,7 +266,7 @@
                                     1190–1260) zugeschrieben wird, in der Form, in der er
                                     in Latein sich bei <bibl corresp="kbga-bibls-647">
                                         <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                        <hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                                        <hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                                     V. 3798f.3813–15.3825–3827 (Dom)</bibl>, findet. Die
                                     – vom Faust-Text leicht abweichende –
                                     lateinische Fassung ist im Mskr., mit einer eckigen Klammer
@@ -292,10 +294,10 @@
                 <p> Von dieser <term type="Sachen" key="Krisis">Krisis</term> ist nun zu
                     reden.</p>
                 <p rend="margin-top">Wenn ein Mensch bei sich selbst einkehrt zu ernster <term type="Sachen" key="Mensch, Selbstprüfung">
-                            <hi rend="i">Selbstprüfung</hi></term>, sei es, dass er das aus eigenem
+                            <hi rend="italic">Selbstprüfung</hi></term>, sei es, dass er das aus eigenem
                     innern Drang und Einsicht tut, sei es, dass er durch andre oder durch seine
                     Lebensumstände dazu getrieben wird, dann will das heißen, dass in ihm die
-                    Frage erwacht: was sind die <hi rend="i">Gründe</hi> meines <term type="Sachen" key="Handeln, Gründe">Handelns</term> und <term type="Sachen" key="Worte / das Reden, Gründe">Redens</term>, nicht nur die offenen,
+                    Frage erwacht: was sind die <hi rend="italic">Gründe</hi> meines <term type="Sachen" key="Handeln, Gründe">Handelns</term> und <term type="Sachen" key="Worte / das Reden, Gründe">Redens</term>, nicht nur die offenen,
                     sondern erst recht die verborgenen. Solche Nachforschung ist seit den Tagen
                     des <persName ref="kbga-actors-777">Sokrates</persName>
                     <pb ed="A" rend="hidden" n="6"/>der königliche Weg zur Wahrheit gewesen, denn so
@@ -307,7 +309,7 @@
                     nachzuspüren. Tun wir das, nicht nur einmal, sondern immer wieder, haben wir
                     gemerkt, dass wir uns erst durch solche Nachforschung über die Stufe des
                     besinnungslosen Tieres erheben, dann entrollt sich vor unserm innern Auge
-                    ein wunder<pb xml:id="p490" ed="pga"/>licher und schmerzlicher Vorgang. Da
+                    ein wunder<pb xml:id="p490" ed="pga" break="no"/>licher und schmerzlicher Vorgang. Da
                     überblicken wir in langer Reihe, mehr oder weniger deutlich unsre Gedanken
                     und Gewohnheiten, unsre Ideen und Gefühle, unsre Triebe und Motive, aus
                     denen sich unser inneres <term type="Sachen" key="Leben, inneres">Leben</term> zusammensetzt. Für andre ist dies wallende, wogende Meer
@@ -318,7 +320,7 @@
                     und stündlich aus uns heraustreten, durch die wir unser äußeres Leben
                     bestimmen und einrichten, durch die wir auch ins Leben der Andern
                     eingreifen. Diese unsere <term type="Sachen" key="Handeln, unterliegt dem Urteil anderer">Handlungen</term> und <term type="Sachen" key="Worte / das Reden, unterliegt dem Urteil anderer">Worte</term> unterliegen eben darum auch dem Urteil der
-                        <hi rend="i">Andern</hi>, die Mitmenschen nennen sie gut oder böse und ziehen
+                        <hi rend="italic">Andern</hi>, die Mitmenschen nennen sie gut oder böse und ziehen
                     aus diesem Urteil so oder so Schlüsse auf uns selbst, auf das Ich, auf den
                     Menschen, aus dem sie<note type="textcritical" n="b" xml:id="nb"> Im Mskr. nachträglich mit Bleistift korrigiert aus: «die
                             Handlungen und Worte».</note>
@@ -334,23 +336,23 @@
                     steht’s aber auch so, dass ihr Urteil über uns vollständig daneben
                     geht und dass es uns ist, als redeten sie über irgend einen Andern, nicht
                     über uns. Manchmal beurteilen sie uns als besser, als wir tatsächlich sind,
-                    manchmal wohl auch als schlechter, aber ich meine auf <hi rend="i">alle</hi>
+                    manchmal wohl auch als schlechter, aber ich meine auf <hi rend="italic">alle</hi>
                     Fälle: wehe dem Menschen, der es bei dem Urteil und Gericht der
-                        <hi rend="i">andern</hi> Menschen bewenden lässt. Denn die andern Menschen
+                        <hi rend="italic">andern</hi> Menschen bewenden lässt. Denn die andern Menschen
                     können im Guten und im Bösen nur unsre Handlungen und Worte sehen und hören
                     und danach mit kleinerer oder größerer Wahrscheinlichkeit ihr Urteil über
-                    uns fällen. Dagegen kann es nur jedes Menschen <hi rend="i">eigene</hi> Sache
+                    uns fällen. Dagegen kann es nur jedes Menschen <hi rend="italic">eigene</hi> Sache
                     sein, den Wurzeln seiner Handlungen und Worte nachzugehen bis auf ihren
                     Ursprung in <pb xml:id="p491" ed="pga"/> jenem Labyrinth des Innenlebens. Die
                     Momente aber, wo es uns gelingt, in irgend einer Richtung schonungslos die
                     Wurzeln unsres <term type="Sachen" key="Mensch, Wurzeln seines Wesens">Wesens</term> aufzudecken, das sind die großen <term type="Sachen" key="Mensch, große Momente der Selbsterkenntnis">Momente</term> unsres
                     Lebens, da wir, abgewandt von allem äußern Schein, der <term type="Sachen" key="Wahrheit, Selbsterkenntnis der inneren W.">Wahrheit</term> auf den
                     Grund kommen. Es sind Momente, die herrlich sind und tiefschmerzlich
-                    zugleich. <hi rend="i">Herrlich</hi>, weil da das ewig verhüllte Bild von Saïs,
+                    zugleich. <hi rend="italic">Herrlich</hi>, weil da das ewig verhüllte Bild von Saïs,
                     von dem die Sage des Altertums erzählt,<note xml:id="n11">Gemeint ist eine der Sage nach verhüllte Götterstatue der Isis bzw. der
                         Göttin zu <placeName ref="kbga-places-1138">Saïs</placeName> in Ägypten. Nach
                             <bibl corresp="kbga-bibls-2727">
-                                <persName ref="kbga-actors-4130">Plutarch</persName>, <hi rend="i">Über
+                                <persName ref="kbga-actors-4130">Plutarch</persName>, <hi rend="italic">Über
                             Isis und Osiris</hi>, 9</bibl>, trug sie folgende Inschrift: «<foreign xml:lang="grc" rend="Ell">ἐγώ εἰμι πᾶν τὸ γεγονὸς καὶ ὂν καὶ ἐσόμενον, καὶ
                             τὸν ἐμὸν πέπλον οὐδείς πω θνητὸς ἀπεκάλυψεν</foreign>» («ich bin das
                         All, das Vergangene Gegenwärtige und Zukünftige, meinen Schleier hat
@@ -360,16 +362,16 @@
                     <q rend="block">
                         <lg>
                 <l>Einem gelang es, er hob den Schleier der Göttin von Saïs.</l>
-                <l>Und was sah er, er sah, Wunder des Wunders, <hi rend="i">sich selbst</hi>.<note xml:id="n12">
+                <l>Und was sah er, er sah, Wunder des Wunders, <hi rend="italic">sich selbst</hi>.<note xml:id="n12">
                                     <bibl corresp="kbga-bibls-2728">Fragment aus dem Anhang zum Roman «Die
-                        Lehrlinge zu Saïs» (<hi rend="i">Novalis’ ausgewählte Werke in drei
-                            Bänden</hi>, hrsg. von W. Bölsche, Bd. 3: <hi rend="i">Fragmente</hi>,
+                        Lehrlinge zu Saïs» (<hi rend="italic">Novalis’ ausgewählte Werke in drei
+                            Bänden</hi>, hrsg. von W. Bölsche, Bd. 3: <hi rend="italic">Fragmente</hi>,
                         Leipzig [1908], S. 95).</bibl>
                                 </note>
                             </l>
                         </lg>
                     </q>
-                <p rend="noindent">Aber <hi rend="i">tiefschmerzlich</hi> sind diese Momente, weil
+                <p rend="noindent">Aber <hi rend="italic">tiefschmerzlich</hi> sind diese Momente, weil
                     die erkannte Wahrheit, so sie wahrhaftig erkannt ist, uns zur <term type="Sachen" key="Krisis">Krisis</term> wird, weil wir da mit
                     mathematischer Notwendigkeit zu der Einsicht geführt werden, dass wir nicht
                     sind, was wir sein <term type="Sachen" key="Krisis, Widerspruch von Sein und Sollen">sollten</term>. Denn es
@@ -382,8 +384,8 @@
                     kritische Frage nach den Gründen unsres <term type="Sachen" key="Handeln, Gründe">Handelns</term> und <term type="Sachen" key="Worte / das Reden, Gründe">Redens</term>, und in der Antwort auf
                     diese Frage empfangen wir das Gericht und Urteil – nicht der
                     Menschen, nicht unsrer selbst – sondern das Urteil Gottes über <term type="Sachen" key="Gott, Urteil über uns">uns</term>, Gottes, der
-                        <hi rend="i">im</hi> Gesetz der <term type="Sachen" key="Gott, spricht zu uns im Gesetz der Freiheit">Freiheit</term> zu uns
-                    redet und <hi rend="i">durch</hi> das Gesetz der Freiheit uns <term type="Sachen" key="Gott, richtet uns durch das Gesetz der Freiheit">richtet</term>.</p>
+                        <hi rend="italic">im</hi> Gesetz der <term type="Sachen" key="Gott, spricht zu uns im Gesetz der Freiheit">Freiheit</term> zu uns
+                    redet und <hi rend="italic">durch</hi> das Gesetz der Freiheit uns <term type="Sachen" key="Gott, richtet uns durch das Gesetz der Freiheit">richtet</term>.</p>
                 <p>Das geht so zu: Wir besinnen uns: warum habe ich das damals getan oder
                     gesagt? <anchor type="note" xml:id="fn-c"/>oder: warum will ich das jetzt tun oder sagen?<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. nachträglich mit Bleistift hinzugefügt.</note>
                      Dann <pb xml:id="p492" ed="pga"/> schnellt aus unserm Innern sofort eine
@@ -423,17 +425,17 @@
                         unverdächtige<note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift ergänzt.</note>
                      Zeugen. Ich will seine Art mit einem <pb xml:id="p493" ed="pga"/> Wort
                     bezeichnen, das jedem verständlich sein wird, und nenne sie <term type="Sachen" key="Eigennutz, Essenz des den Menschen leitenden Willens">
-                            <hi rend="i">Eigennutz</hi></term>. Darin ist Alles enthalten, was
+                            <hi rend="italic">Eigennutz</hi></term>. Darin ist Alles enthalten, was
                     seinen Charakter ausmacht. |</p>
                 <p>Erstens nämlich besteht dieser Wille, aus dem jene Nebengründe unsrer
-                    Handlungen und Worte hervorwachsen, darin, dass der Mensch <hi rend="i">an sich
+                    Handlungen und Worte hervorwachsen, darin, dass der Mensch <hi rend="italic">an sich
                         selbst</hi>
                     <term type="Sachen" key="Mensch, denkt instinktiv an sich selbst">denkt</term>. Das ist ein unmittelbarer Instinkt, den wir mit dem Tiere
                     gemein haben. Wir haben darum das unmittelbare Gefühl, dass wir als Menschen
                     uns seiner zu schämen haben, und darum verstecken wir ihn, wenigstens die
                     meisten Menschen. Der Grieche <persName ref="kbga-actors-11">Aristoteles</persName> nannte den <term type="Sachen" key="Mensch, geselliges Wesen">Menschen</term> ein geselliges Wesen<note xml:id="n13">Die Bestimmung des Menschen als «<foreign xml:lang="grc" rend="Ell">ζῷον πολιτικόν</foreign>» findet sich in: <bibl corresp="kbga-bibls-825">
                                 <persName ref="kbga-actors-11">Aristoteles</persName>,
-                            <hi rend="i">Politica</hi> I, 1253a</bibl>.</note> und wollte damit sagen, seine
+                            <hi rend="italic">Politica</hi> I, 1253a</bibl>.</note> und wollte damit sagen, seine
                     geistige Anlage weise ihn unmittelbar und notwendig auf die Andern, auf die
                     Gemeinsamkeit hin. Aber eben gegen diese geistige Anlage revoltiert nun
                     jener verborgene Wille in <term type="Sachen" key="Mensch, Eigennutz und Geselligkeit">uns</term>, und die Tatsache,
@@ -444,7 +446,7 @@
                     Triebes, der nichts weiß vom Nebenmenschen, sondern nur vom Ich. |</p>
                 <p>Und das andre Merkmal des Willens, der uns eigentlich und wirksam beherrscht,
                     besteht darin, dass er auf den <term type="Sachen" key="Mensch, beherrscht von einem utilitaristischen Willen">
-                            <hi rend="i">Nutzen</hi></term> aus ist. Auch das ist ein tierischer
+                            <hi rend="italic">Nutzen</hi></term> aus ist. Auch das ist ein tierischer
                     Trieb. Der Nutzen ist notwendig immer etwas Beschränktes. Wir nennen etwas
                     nützlich, wenn wir davon hoffen, dass es uns irgend eine bestimmte
                     Annehmlichkeit verschafft. Wenn wir also etwas wollen, weil es uns nützlich
@@ -461,7 +463,7 @@
                     Annehmlichkeit in unserm Willen überwiegt und uns tatsächlich beherrscht.
                     |</p>
                 <p>Nehmen wir die beiden Triebe, die ich nannte, zusammen, so haben wir eben
-                    das, was ich als <hi rend="i">Eigennutz</hi> bezeichnete, vor uns. Das ist unser
+                    das, was ich als <hi rend="italic">Eigennutz</hi> bezeichnete, vor uns. Das ist unser
                     Wille, unser eigentlicher <term type="Sachen" key="Eigennutz, Gesetz des den Menschen leitenden Willens">Wille</term>,
                     meine Freunde! Ich weiß wohl, dass er nur bei wenigen Menschen ungescheut
                     und mit Händen greifbar ans Tageslicht tritt, bei den allermeisten ist er
@@ -519,13 +521,13 @@
                             <ref type="pub" target="../volume/53/p155#fn_n09">S. 155, Anm. 5</ref>.</note> und
                     Weissagung war, in Jesus Christus wirksame Erfüllung und <term type="Sachen" key="Jesus Christus, Lebenskraft im Gesetz der Freiheit">Lebenskraft</term> geworden ist. Unter diesem Gesichtspunkt muss nun
                     unser Gegenstand noch betrachtet werden. Der Text leitet uns dazu an, indem
-                    er fortfährt und schließt: <hi rend="i">Das Gericht ist unbarmherzig gegen den, der
+                    er fortfährt und schließt: <hi rend="italic">Das Gericht ist unbarmherzig gegen den, der
                         nicht Barmherzigkeit tut. Barmherzigkeit aber besteht freudig vor
                         Gericht</hi>. Mit diesem Gedanken der <term type="Sachen" key="Barmherzigkeit">Barmherzigkeit</term>, den wir nicht in dem
                     oberflächlichen Sinn von «Mitleid» verstehen müssen, sondern in dem tiefern
-                    von <hi rend="i">Liebe</hi>, tritt nun die <term type="Sachen" key="Krisis">Krisis</term>, von der die Rede war, in eine ganz neue Beleuchtung, und
+                    von <hi rend="italic">Liebe</hi>, tritt nun die <term type="Sachen" key="Krisis">Krisis</term>, von der die Rede war, in eine ganz neue Beleuchtung, und
                     es wird eben damit aufs Deutlichste der Ausweg aufgetan, der von der Krisis
-                    zum Leben führt. Es ist hier nämlich unzweifelhaft von <hi rend="i">Jesus</hi>
+                    zum Leben führt. Es ist hier nämlich unzweifelhaft von <hi rend="italic">Jesus</hi>
                     die <term type="Sachen" key="Jesus Christus, Ausweg von der Krisis zum Leben">Rede</term> und
                     von seiner Bedeutung für das Gericht Gottes, unter dem wir stehen. Sein Name
                     wird nicht genannt, wir könnten auch dem Beispiel des <persName ref="kbga-actors-8959">Jakobus</persName> folgen und ihn ebenfalls nicht nennen; aber
@@ -557,9 +559,9 @@
                     majestätischen Gottes steht, dass das Gesetz nicht mehr als ein fremdes Gut
                     in seinem Leben steht, sondern sein persönlichstes <term type="Sachen" key="Mensch, Gesetz wird persönlichstes Eigentum">Eigentum</term> wird,
                     mit einem Wort: dass der Mensch nicht mehr sagen muss: ich
-                    <hi rend="i">soll</hi>, sondern: ich <hi rend="i">darf</hi>. Das ist die Erfüllung des
+                    <hi rend="italic">soll</hi>, sondern: ich <hi rend="italic">darf</hi>. Das ist die Erfüllung des
                     Gesetzes der Freiheit, so war Jesus im tiefsten Grund seiner einzigartigen
-                    Person, und darum fällt Gottes <term type="Sachen" key="Gott, Urteil über uns">Urteil</term> über uns danach aus, <hi rend="i">wie
+                    Person, und darum fällt Gottes <term type="Sachen" key="Gott, Urteil über uns">Urteil</term> über uns danach aus, <hi rend="italic">wie
                         wir zu Jesus stehen</hi>, und das heißt höchst schlicht und
                     undogmatisch und gemeinverständlich: ob wir gesinnt sind, wie Jesus Christus
                     auch war [<ref type="can" subtype="bible" target="Phil.2.5">Phil. 2,5</ref>]. <pb ed="A" rend="hidden" n="14"/> In dieser Erkenntnis treffen sich die
@@ -575,13 +577,13 @@
                     unsern Unklarheiten und Schwächlichkeiten, die Wahrheit, dass wir durch
                     Christus und in Christus unser <term type="Sachen" key="Mensch, Urteil durch Christus und in Christus">Urteil</term>
                     empfangen.</p>
-                <p>Aber wenn diese Wahrheit den Sinn hat, das <hi rend="i">Gesetz</hi>, dem unser
+                <p>Aber wenn diese Wahrheit den Sinn hat, das <hi rend="italic">Gesetz</hi>, dem unser
                     Wille unterworfen sein soll, noch einmal in erdrückender Hoheit vor uns
                     aufzurichten, so dürfen und wollen wir es im Anschluss an unsern Text nicht
                     unterlassen, dem die andre Seite gegenüberzustellen, die uns die Wahrheit,
                     dass Christus unser <term type="Sachen" key="Jesus Christus, Richter über uns">Richter</term> ist, zeigt als das
                         <term type="Sachen" key="Evangelium">
-                            <hi rend="i">Evangelium</hi></term>, als
+                            <hi rend="italic">Evangelium</hi></term>, als
                     die frohe Botschaft, die uns nicht zu erdrücken, sondern zu befreien
                     bestimmt ist. <persName ref="kbga-actors-8959">Jakobus</persName> legt zwar
                     an dieser Stelle und in seinem ganzen Brief den Nachdruck zweifellos auf
@@ -601,22 +603,22 @@
                     Gesetz und <term type="Sachen" key="Gesetz und Evangelium">Evangelium</term>
                     miteinander. Denn die große Liebe, die sein innerstes Wesen war, ist wohl
                     unserm Wesen gegenüber ein unerreichbar hohes Ideal, durch das wir uns auf
-                    den ersten Blick nur noch schärfer verur<pb xml:id="p498" ed="pga"/>teilt,
+                    den ersten Blick nur noch schärfer verur<pb xml:id="p498" ed="pga" break="no"/>teilt,
                     tiefer gedemütigt fühlen. Aber nun wird es uns wunderbarer Weise aus seinem
                     ganzen Leben und <term type="Sachen" key="Kreuz / Kreuzestod">Sterben</term>
                     deutlich, dass es Liebe zu den <term type="Sachen" key="Jesus Christus, erfüllt von der Liebe zu den Sündern">
-                            <hi rend="i">Sündern</hi></term> war, was ihn erfüllt und bewegt hat.
+                            <hi rend="italic">Sündern</hi></term> war, was ihn erfüllt und bewegt hat.
                     Der Anblick seiner Art lässt es uns tiefer empfinden als je, dass wir nicht
                     sind, was wir sein sollten, aber dann hat er gerade wieder gesagt, dass die
                     Gesunden des Arztes nicht bedürften, sondern die Kranken [vgl. <ref type="can" subtype="bible" target="Lk.5.31">Lk. 5,31</ref>]. Und so ist
-                        <hi rend="i">das</hi> wohl das <term type="Sachen" key="Evangelium, im Gesetz der Freiheit">Evangelium</term> im Gesetz der
+                        <hi rend="italic">das</hi> wohl das <term type="Sachen" key="Evangelium, im Gesetz der Freiheit">Evangelium</term> im Gesetz der
                     Freiheit, das auch <persName ref="kbga-actors-8959">Jakobus</persName>
                     andeutet: Wer sich aufrichtig und demütig unter das Gericht der
                     Barmherzigkeit stellt, dem widerfährt <term type="Sachen" key="Barmherzigkeit">Barmherzigkeit</term>. Das ist der Gedanke des
                         <persName ref="kbga-actors-313">Paulus</persName>, bei dem wir schon am
                     Schluss der letzten Predigt auf anderm Wege angelangt sind, dass der Richter
-                    den aufrichtigen Sünder <term type="Sachen" key="Rechtfertigung">rechtfertigt</term>, dass er ihm sagt: du <hi rend="i">darfst</hi> nun
-                    gerecht werden, du <hi rend="i">darfst</hi> nun ein neues Leben leben trotz der
+                    den aufrichtigen Sünder <term type="Sachen" key="Rechtfertigung">rechtfertigt</term>, dass er ihm sagt: du <hi rend="italic">darfst</hi> nun
+                    gerecht werden, du <hi rend="italic">darfst</hi> nun ein neues Leben leben trotz der
                     großen, schweren Schuld des <term type="Sachen" key="Eigennutz">Eigennutzes</term>, die bis jetzt auf dir lag. Die soll dir abgenommen
                     sein, du sollst nun ein neuer <term type="Sachen" key="Mensch, neuer">Mensch</term> sein, aber das Sollen ist nun Dürfen geworden.</p>
                 <p>Wir wollen mit diesem Ausblick von unserm Gegenstand für diesmal Abschied

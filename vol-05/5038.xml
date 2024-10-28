@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5038">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Philipper 4,6</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Philipper 4,6, 9. August 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5038 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 408–419.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5038 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 408–419.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">233</title>
+          <title type="text">Predigt: Philipper 4,6</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -84,7 +86,7 @@
                     </dateline>
           <argument>
             <ab>
-              <hi rend="i">Krieg zwischen <orgName ref="kbga-actors-7792">Deutschland</orgName>, <orgName ref="kbga-actors-8248">Österreich</orgName> — <orgName ref="kbga-actors-8732">Rußland</orgName>, <orgName ref="kbga-actors-7856">Frankreich</orgName>, <orgName ref="kbga-actors-8733">England</orgName>.</hi>
+              <hi rend="italic">Krieg zwischen <orgName ref="kbga-actors-7792">Deutschland</orgName>, <orgName ref="kbga-actors-8248">Österreich</orgName> — <orgName ref="kbga-actors-8732">Rußland</orgName>, <orgName ref="kbga-actors-7856">Frankreich</orgName>, <orgName ref="kbga-actors-8733">England</orgName>.</hi>
             </ab>
           </argument>
           <epigraph>
@@ -111,9 +113,9 @@
                unter uns hätten, wie <persName ref="kbga-actors-8710">Jesaia</persName> und <persName ref="kbga-actors-208">Jeremia</persName> sie ihrem Volk waren in solchen Zeiten,
                einen Propheten, der uns die Zeichen der Zeit zu deuten, der uns die rechte Stellung
                zu diesen Ereignissen zu zeigen wüßte mit göttlicher Vollmacht und Erleuchtung! Aber
-               das ist vielleicht ein törichter Wunsch. Wir <hi rend="i">haben</hi> ja das
+               das ist vielleicht ein törichter Wunsch. Wir <hi rend="italic">haben</hi> ja das
                prophetische Wort, von dem es heißt, daß es scheine an einem dunklen Ort, bis der Tag
-               anbreche und der Morgenstern aufgehe in unseren Herzen [vgl. <ref type="can" subtype="bible" target="2.Petr.1.19">2.Petr. 1,19</ref>]. Wir <hi rend="i">haben</hi> ja unsere Bibel. Es ist doch etwas Wunderbares um dieses alte Buch.
+               anbreche und der Morgenstern aufgehe in unseren Herzen [vgl. <ref type="can" subtype="bible" target="2.Petr.1.19">2.Petr. 1,19</ref>]. Wir <hi rend="italic">haben</hi> ja unsere Bibel. Es ist doch etwas Wunderbares um dieses alte Buch.
                Jahrelang haben wir vielleicht nicht so recht gewußt, was damit anfangen, haben mehr
                aus Pflichtgefühl als aus innerem Trieb von Zeit zu Zeit darin gelesen. Und nun auf
                einmal, sowie wir wieder einmal haben lernen müssen, aus der Tiefe zum Herrn zu rufen
@@ -140,7 +142,7 @@
                das uns ein für allemal als ein Licht und als eine Kraft gegeben ist. Dann werden wir
                den vollsten Trost und die kräftigste Ermutigung empfangen, auch wenn kein <persName ref="kbga-actors-8710">Jesaia</persName> und
                <persName ref="kbga-actors-208">Jeremia</persName> persönlich unter uns tritt.</p>
-        <p>Aber, meine Freunde, <hi rend="i">nach oben</hi> müssen wir blicken, wenn wir von
+        <p>Aber, meine Freunde, <hi rend="italic">nach oben</hi> müssen wir blicken, wenn wir von
                oben Trost und Ermutigung haben wollen. Es sehnt sich jetzt so manches Herz danach
                und bekommt es nicht, weil es zu Boden sieht und rückwärts statt vorwärts und
                aufwärts. Es greift jetzt auch so Manches zur Bibel und geht in die Kirche und findet
@@ -154,12 +156,12 @@
                ich dann gern zufrieden sein! Und das <pb xml:id="p411" ed="pga"/>
                 ist auch ein sehr begreiflicher und erlaubter Wunsch, den du da hast, und wir wollen
                von Herzen hoffen, daß er dir in Erfüllung gehe. Aber sieh, wenn es dir wirklich
-               darum zu tun ist, Trost zu empfangen und Mut zu fassen, dann <hi rend="i">darfst</hi>
+               darum zu tun ist, Trost zu empfangen und Mut zu fassen, dann <hi rend="italic">darfst</hi>
                du [dich] jetzt nicht Tag und Nacht mit deinen Gedanken einzig um diesen Punkt
                drehen. Wenn du das ernstliche Verlangen hast, Licht und Kraft von Gott zu bekommen,
-               dann <hi rend="i">darfst</hi> du ihn jetzt nicht bloß bestürmen mit diesem deinem
-               einen Wunsch. Das Leben <hi rend="i">ist</hi> nun einmal nicht so, und unser
-               Verhältnis zu Gott <hi rend="i">ist</hi> nicht so, daß wir uns mit solchen Fragen an
+               dann <hi rend="italic">darfst</hi> du ihn jetzt nicht bloß bestürmen mit diesem deinem
+               einen Wunsch. Das Leben <hi rend="italic">ist</hi> nun einmal nicht so, und unser
+               Verhältnis zu Gott <hi rend="italic">ist</hi> nicht so, daß wir uns mit solchen Fragen an
                ihn herandrängen und Antwort von ihm fordern könnten. Wer davon nicht lassen kann,
                wer darüber hinaus nichts Höheres kennt, dem wird nie fester Boden unter die Füße
                kommen. Seht, wenn wir nun immer bloß die eine Frage hin- und herwälzen: Kommen sie
@@ -176,9 +178,9 @@
                geben. Wir können und wir wollen für die vielleicht lange Gedulds- und Kummerzeit,
                die uns bevorsteht, uns nicht abhängig machen von dem, was heute dieser und morgen
                jener behauptet und räsonniert. Wenn wir uns doch das Wort geben wollten in dieser
-               Stunde, daß wir von jetzt an <hi rend="i">nicht</hi> mehr in erster Linie auf diesen
+               Stunde, daß wir von jetzt an <hi rend="italic">nicht</hi> mehr in erster Linie auf diesen
                menschlichen Trost, und wenn er noch so schön und wahr wäre, abstellen, daß wir auch
-               Gott gegenüber <hi rend="i">nicht</hi> mehr in erster Linie unsere menschlichen
+               Gott gegenüber <hi rend="italic">nicht</hi> mehr in erster Linie unsere menschlichen
                Fragen und Anliegen, und wenn sie noch so wichtig und dringend wären,
                <pb xml:id="p412" ed="pga"/>
                 auf dem Herzen tragen wollten! Wir können und sollen ja Beides nicht unterdrücken:
@@ -196,13 +198,13 @@
                davorsäßen.</p>
         <p>Wer von Gott etwas haben will, der muß nach oben blicken, hinaus über unsere
                menschlichen Fragen und Antworten, so sehr sie uns am Herzen liegen mögen. Dann
-               verstehen wir das wunderbare Apostelwort: <hi rend="i">Sorget nichts!</hi>, das zu
+               verstehen wir das wunderbare Apostelwort: <hi rend="italic">Sorget nichts!</hi>, das zu
                unseren Fragen, Zweifeln und Aufregungen so gar nicht paßt. Wer seinen Blick auf den
                Boden oder nach hinten richtet, wer nur danach begehrt, seine menschlichen Anliegen
                zu befriedigen, sich an irgendeinen menschlichen Trost anzuklammern, der kann ein
                solches Wort gar nicht verstehen. Wie kann man einem Menschen, der von Gott verlangt,
-               daß er ihm sagen soll, was gerade <hi rend="i">er</hi> wissen möchte, der von Gott
-               verlangt, daß er tun sollte, was gerade <hi rend="i">er</hi> gerne hätte, wie kann
+               daß er ihm sagen soll, was gerade <hi rend="italic">er</hi> wissen möchte, der von Gott
+               verlangt, daß er tun sollte, was gerade <hi rend="italic">er</hi> gerne hätte, wie kann
                man einem solchen Menschen zumuten: Sorget nichts! Er hört das und hört doch gar
                nichts; es läuft an ihm herunter wie Wasser an einer Glasscheibe. Er denkt: natürlich
                muß ich mich jetzt sorgen, natürlich muß ich jetzt aufgeregt und unruhig sein, das
@@ -230,7 +232,7 @@
                ich darüber den Willen Gottes. Ich werfe meinen Stock in die Höhe, und je nachdem er
                fällt, gehe ich weiter. Diesmal nun mußte ich den Stock siebenmal werfen, bis er den
                Weg zeigte, den ich selbst habe gehen wollen.» — Den ich selbst habe gehen wollen!
-                  <hi rend="i">Mein</hi> Wille ist der Wille Gottes, oder der Wille Gottes soll sich
+                  <hi rend="italic">Mein</hi> Wille ist der Wille Gottes, oder der Wille Gottes soll sich
                eben nach meinem Willen richten.</p>
         <p>Liebe Freunde, denken nicht unzählige Menschen so, wie diese alte Frau es da in aller
                Unschuld und Offenheit aussprach? Denken nicht Unzählige so gerade jetzt, wo ein
@@ -277,7 +279,7 @@
                überwindende Macht hat.</p>
         <p>Und nun, was haben wir davon, für unser Leben, für unser Leben voll Sorge und banger
                Gedanken, wenn wir diesen Gott ansehen, wie er selber ist, wenn wir einmal aufhören,
-               jeden Augenblick wieder dazwischenzufahren: ja aber <hi rend="i">ich,</hi> gerade <hi rend="i">ich</hi> möchte jetzt so gerne, wünsche mir, habe so nötig — wenn das
+               jeden Augenblick wieder dazwischenzufahren: ja aber <hi rend="italic">ich,</hi> gerade <hi rend="italic">ich</hi> möchte jetzt so gerne, wünsche mir, habe so nötig — wenn das
                Alles einmal schweigt in uns und an die zweite Stelle tritt, wo es hingehört — was
                haben wir davon? Seht, da haben wir dann davon, daß uns das freie, kühne Apostelwort:
                Sorget nichts! ganz etwas Natürliches und Selbstverständliches wird, so spanisch es
@@ -302,7 +304,7 @@
                             <l xml:space="preserve">Das ist der Anfang aller Ruhe,</l>
                             <l xml:space="preserve">Das ist das Ende aller Pein,</l>
                             <l xml:space="preserve">Daß man den Willen Gottes tue,</l>
-                            <l xml:space="preserve">Denn Ruhe ist in Gott allein.<note xml:id="n02">Herkunft nicht nachweisbar.<note type="digital" resp="ak" xml:id="n2a"> 1914-1921, <ref type="pub-" target="../volume/48/p586#fn_n94">S. 586f., Anm. 94</ref></note></note></l>
+                            <l xml:space="preserve">Denn Ruhe ist in Gott allein.<note xml:id="n02">Herkunft nicht nachweisbar.<note type="digital" resp="ak" xml:id="n2a" n="2a"> 1914-1921, <ref type="pub-" target="../volume/48/p586#fn_n94">S. 586f., Anm. 94</ref></note></note></l>
                         </lg>
                     </q> <p>Ja, Ruhe ist in Gott allein. Ein Mensch, der das nicht weiß, ein Mensch, der in
                solcher Prüfungszeit nicht seinen einzigen Frieden sucht in der Macht und in der Güte
@@ -321,7 +323,7 @@
                hat immer Hoffnung, eine viel größere Hoffnung als die, die wir ja jetzt alle haben,
                daß Alles glücklich vorübergehen und endigen möge. Diese Hoffnung könnte uns
                enttäuschen. Und ich muß euch auch sagen, daß es eigentlich 
-               etwas <pb xml:id="p417" ed="pga" break="no"/> ganz Erbärmliches ist um diese Art zu hoffen: 
+               etwas <pb xml:id="p417" ed="pga"/> ganz Erbärmliches ist um diese Art zu hoffen: 
                o wenn es nur für uns Schweizer und
                besonders für mich gut endigt — während rings um uns her Millionen von Menschen
                Verlust um Verlust erleben werden. Nein, wer die Ruhe in Gott gefunden, der hofft auf
@@ -330,7 +332,7 @@
                Schritt ist diesem Ziel entgegen. Das ist eine felsenfeste Hoffnung. Und keine
                kleinliche, selbstsüchtige Hoffnung. Eine Hoffnung, die nicht zu Schanden wird [vgl.
                   <ref type="can" subtype="bible" target="Röm.5.5">Röm. 5,5</ref>].</p>
-        <p>Seht, <hi rend="i">das</hi> haben wir davon, wenn wir nach oben blicken in dieser
+        <p>Seht, <hi rend="italic">das</hi> haben wir davon, wenn wir nach oben blicken in dieser
                schweren Zeit, daß wir frei und stark und freudig dastehen können gegenüber Allem,
                was kommen mag. Das heißt: sorget nichts! Die ganze Welt von Leid und Sorgen, von
                Gegenwärtigem und Zukünftigem ist da, und sie drückt uns und tut uns weh, aber wir
@@ -341,14 +343,14 @@
                eigenwilligen, selbstsüchtigen Sinn überlassen?</p>
         <p>Meine Freunde, wenn wir der Einladung des Apostels gefolgt sind: sorget nichts!, so
                wie er es eben gemeint hat, dann ist uns auch das Andere, was er sagt, ganz
-               selbstverständlich: <hi rend="i">sondern in allen Dingen lasset euer Bitten im Gebet
+               selbstverständlich: <hi rend="italic">sondern in allen Dingen lasset euer Bitten im Gebet
                   und Flehen mit Danksagung vor Gott kund werden</hi>. Das ists ja gerade, was wir
                beschrieben haben. Darauf kommts an, ob wir mit unseren Anliegen, den großen und den
                kleinen, bei uns selbst bleiben, immer wieder darum kreisen, darin wühlen mit unseren
                Bedenken und Zweifeln — das heißt Sorgen! — oder ob wir sie im Gebet und Flehen vor
                Gott — aber eben wirklich vor Gott, nicht vor einem selbstgemachten Götzen, sondern
                vor dem mächtigen heiligen Gott kund werden lassen.</p>
-        <p>Mit <hi rend="i">Danksagung</hi> — ich möchte jetzt nur noch dieses unterstreichen
+        <p>Mit <hi rend="italic">Danksagung</hi> — ich möchte jetzt nur noch dieses unterstreichen
                und betonen. Danken heißt anerkennen, wie Großes Gott schon <milestone xml:id="m27" unit="page"/>
                <pb xml:id="p418" ed="pga"/>
                 für uns getan hat. Ich meine, damit müssen wir anfangen, wenn wir zu der Ruhe in
@@ -367,7 +369,7 @@
                Gefecht entgegengehen oder die vielleicht jetzt an diesem schönen Sonntagmorgen
                mitten drin stehen oder bereits auf fremder Erde für ihr Vaterland gefallen sind. Das
                ist wirkliches Elend und das, was dort in den nächsten Wochen sicher alles geschehen
-               wird. Stellt jetzt einen Augenblick eure Herzensfrage zurück und denkt <hi rend="i">daran</hi>, dann wißt ihr, wofür ihr dankbar zu sein habt. Hat es Gott nicht gut
+               wird. Stellt jetzt einen Augenblick eure Herzensfrage zurück und denkt <hi rend="italic">daran</hi>, dann wißt ihr, wofür ihr dankbar zu sein habt. Hat es Gott nicht gut
                gemacht mit uns bisher, besser als wir es verdienten? Versündigen wir uns nicht, wenn
                wir fortfahren zu jammern über das, was vielleicht auch uns geschehen könnte? Und wie
                dankbar müssen wir nicht werden, wenn wir daran denken, wie wenig würdig wir dessen
@@ -381,7 +383,7 @@
         <p>
                         <pb rend="noPipe" xml:id="p419" ed="pga"/> Und wenn er dann, was er gnädig verhüten wolle, wirkliches Elend und wirkliches
                Unglück auch über uns verhängen sollte, dann werden wir stark sein und siegen über
-               Not und Tod. Wir wollen <hi rend="i">jetzt</hi> wachen und beten, ruhig und still
+               Not und Tod. Wir wollen <hi rend="italic">jetzt</hi> wachen und beten, ruhig und still
                werden in Gott, damit wir nicht fallen, wenn die Anfechtung da ist [vgl. <ref type="can" subtype="bible" target="Lk.8.13">Lk. 8,13</ref>]!</p>
       </div>
       <div type="closer">

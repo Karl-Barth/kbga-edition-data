@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53025">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 23</title>
         <title type="content">Predigt: Apokalypse 21,1-5</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Apokalypse 21,1-5, 5. Dezember 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53025 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53025 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 23: Predigt: Apokalypse 21,1-5</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p217" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>23</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, den <date when="1909-12-05">5. Dezember
+                            <hi rend="italic">Genf</hi></placeName>, den <date when="1909-12-05">5. Dezember
                             1909, Sonntag</date> <date rend="right">(2. Advent)</date>
                     </dateline>
                     <epigraph>
@@ -84,10 +86,10 @@
                                     heilige Stadt, das neue Jerusalem, sah ich herabkommen aus
                                     dem Himmel von Gott, bereitet wie eine für ihren Mann
                                     geschmückte Braut, und ich hörte eine laute Stimme vom
-                                    Throne her sprechen:</hi> <hi rend="i">Siehe da, die Hütte Gottes bei
+                                    Throne her sprechen:</hi> <hi rend="italic">Siehe da, die Hütte Gottes bei
                                         den Menschen</hi>, <hi rend="text-recte">und er wird bei ihnen wohnen, und
                                     sie werden seine Völker sein, und er, Gott, wird mit ihnen
-                                    sein. Und</hi> <hi rend="i">er wird abwischen alle Tränen von ihren
+                                    sein. Und</hi> <hi rend="italic">er wird abwischen alle Tränen von ihren
                                         Augen, und der Tod wird nicht mehr sein, noch Leid, noch
                                         Geschrei, noch Pein; denn das Erste ist vergangen. Und
                                         der auf dem Throne saß, sprach: siehe, ich mache Alles
@@ -119,7 +121,7 @@
                     aufdringlich hier, verborgen und stillzufrieden dort. Weihnachtszeit
                     – Freudenzeit.</p>
                 
-                <p> <pb rend="noPipe" xml:id="p218" ed="pga"/> Ja, ist’s denn auch <hi rend="i">wahr?</hi> Man macht sich so viel vor in
+                <p> <pb rend="noPipe" xml:id="p218" ed="pga"/> Ja, ist’s denn auch <hi rend="italic">wahr?</hi> Man macht sich so viel vor in
                     der Welt. Und nie machen sich die Menschen mehr vor als in Festzeiten.
                     Ob’s weltliche oder religiöse Festzeiten sind, ist dabei ganz
                     gleichgiltig. Wir überfließen<note type="textcritical" n="a" xml:id="na">Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
@@ -152,7 +154,7 @@
                     geschmückt [vgl. <ref type="can" subtype="bible" target="Mt.23.29">Mt. 23,29</ref>], dann beginnen die Kränze zu verdorren, die schönen Schleifen
                     mit den goldenen Lettern zu verbleichen, man hängt sie wohl zur Erinnerung
                     unter Glas <pb ed="A" rend="hidden" n="3"/> und Rahmen, in Wirklichkeit ist das
-                    Alles <hi rend="i">gewesen</hi>. War’s Wahrheit oder haben wir uns etwas
+                    Alles <hi rend="italic">gewesen</hi>. War’s Wahrheit oder haben wir uns etwas
                     vorgemacht? – |</p>
                 <p> Und die <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term>,
                     der wir entgegengehen? <anchor type="note" xml:id="fn-c"/>Ich bin euch vielleicht zu negativ,
@@ -172,7 +174,7 @@
                     diese verdient den Namen Weihnachtsfreude. Und von dieser <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> möchte ich
                     reden.</p>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Lasst mich an einem Beispiel zeigen, was ich meine. Ich
                         habe einmal eine Weihnachtspredigt gehört über den Text aus Johannes 1:
                         «Wir sahen seine Herrlichkeit.» [<ref type="can" subtype="bible" target="Joh.1.14">Joh. 1,14</ref>] Nachdem der Prediger geschildert hatte,
@@ -191,7 +193,7 @@
                         Herrlichkeit der <term type="Sachen" key="Weihnachten">Weihnachtszeit</term> für unzählige untere Geschäftsangestellte
                         bedeutet. Wenn ihr’s nicht wisst, so fragt einmal eines der
                         Ladenfräulein aus den großen Warenhäusern! Sie wird’s euch sagen:
-                        Verdoppelte, verdreifachte Arbeit in der Geschäftszeit und nachher Über<pb xml:id="p220" ed="pga"/>stunden, dass die Leute am heiligen Abend am
+                        Verdoppelte, verdreifachte Arbeit in der Geschäftszeit und nachher Über<pb xml:id="p220" ed="pga" break="no"/>stunden, dass die Leute am heiligen Abend am
                         liebsten zusammenbrechen und schlafen möchten, wo sie gerade gehen und
                         stehen. Oder fragt einmal die Beamten auf der Post und auf der
                         Eisenbahn, was die Weihnachtszeit für sie bedeutet! Unsre <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term> ist
@@ -259,12 +261,12 @@
                         Selbstverständlichkeit das große Problem, um das sie ihr Leben lang
                         hilflos, hoffnungslos ringen. Wer zählt die Tränen, die in diesem Kampf
                         alle Tage vergossen werden, unbekannt, nur Gott bekannt? [vgl. <ref type="can" subtype="bible" target="Ps.56.9">Ps. 56,9</ref>] Wollen wir daran
-                        vorbeigehen, weil <hi rend="i">dieser</hi> Kampf uns zufällig nie beschäftigt
+                        vorbeigehen, weil <hi rend="italic">dieser</hi> Kampf uns zufällig nie beschäftigt
                         hat? Ich meine, der Anblick dieser Tränen führt uns direkt vor das
                         letzte, tiefste Problem des Lebens, unser aller Lebens. Und wie kein
                         andrer lässt uns dieser Anblick der großen <term type="Sachen" key="Solidarität">Solidarität</term> uns bewusst werden, in der wir
                         Alle, reich oder arm, gebildet oder ungebildet, stehen, ob wir’s
-                        wollen oder nicht. Was ist denn dies <term type="Sachen" key="Leben">Leben</term>, um das wir die Menschen streiten sehen mit dem <pb xml:id="p222" ed="pga"/> Mut der Verzweiflung? Ist denn <hi rend="i">das</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                        wollen oder nicht. Was ist denn dies <term type="Sachen" key="Leben">Leben</term>, um das wir die Menschen streiten sehen mit dem <pb xml:id="p222" ed="pga"/> Mut der Verzweiflung? Ist denn <hi rend="italic">das</hi><note type="textcritical" n="d" xml:id="nd"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                              Leben, dass wir uns von einem Tag auf den andern
                         unsern Unterhalt verdienen? Dann wären der <term type="Sachen" key="Armut">Arme</term> und der <term type="Sachen" key="Reichtum">Reiche</term> im gleichen Fall, nur dass der eine dabei scheitert
                         und der andre oben bleibt. Aber ist denn das auch wahr? Hat denn der das
@@ -278,7 +280,7 @@
                         Auf-die-Straße-Gesetzt-Werden, und hier ist’s der kaufmännische
                         Ruin, von dessen Tragik wenige eine <pb ed="A" rend="hidden" n="8"/>
                         Vorstellung haben. Ihr habt vielleicht aus den Zeitungsberichten über
-                        die <hi rend="i">
+                        die <hi rend="italic">
                             <anchor type="note" xml:id="fn-f"/>
                             <term type="Sachen" key="Bern, Zentralbankaffäre">Centralbank-Affäre</term> in <placeName ref="kbga-places-9">Bern</placeName></hi><note type="textcritical" n="f" xml:id="nf" target="fn-f"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note><note xml:id="n07">In einer 1914 eingereichten
                                 volkswirtschaftlichen Dissertation wird diese Affäre als ein
@@ -299,13 +301,13 @@
                                 war der, daß eine Liquidation als unumgänglich erschien und der
                                 Endeffekt derselben war, daß von den 1200 Fr. pro
                                 Prioritätsaktie nur 400 Fr. ausbezahlt werden konnten» (<bibl corresp="kbga-bibls-2570"><persName ref="kbga-actors-9188">E. Englich</persName>,
-                                    <hi rend="i">Über die finanziellen Garantien des Aktienkapitals und
+                                    <hi rend="italic">Über die finanziellen Garantien des Aktienkapitals und
                                     der Reserven bei den Aktiengesellschaften auf dem Gebiete
                                     der Sachversicherung</hi>, Diss. Bern 1904, Langensalza
                                 1915, S. 9f.</bibl>). – Am 22. Oktober 1909 wurden zwei Bankiers
                                 des Hauses «wegen Betruges bei Finanztransaktionen» verhaftet
                                     <bibl corresp="kbga-bibls-2571">
-                                    <persName ref="kbga-actors-9189">(H. T[ürler]</persName>, <hi rend="i">Berner Chronik vom 1. Nov. 1908
+                                    <persName ref="kbga-actors-9189">(H. T[ürler]</persName>, <hi rend="italic">Berner Chronik vom 1. Nov. 1908
                                     bis 31. Okt. 1909</hi>, in: Neues Berner Taschenbuch 15
                                 [1909], S. 316–347, dort S. 346</bibl>).</note> euch ein Bild davon gemacht, wie
                         es auch in jenen Regionen Schicksalsschläge gibt, die das Glück und
@@ -337,7 +339,7 @@
                         stehen wir vor der Tatsache, dass Unzählige nichts wissen von dem, was
                         ich die Solidarität des <term type="Sachen" key="Solidarität, des Schmerzes">Schmerzes</term> nannte. Sie
                         seufzen unter ihrer Last, aber sie sehen auch nichts als
-                            <hi rend="i">ihre</hi>
+                            <hi rend="italic">ihre</hi>
                         <pb ed="A" rend="hidden" n="9"/> Last. Sie weinen bittere Tränen, aber was
                         sie bewegt, ist immer nur ihr eigenes Geschick. Seht, das ist die große
                         Erziehung, das große Reif-Werden, von dem ich sprach, wenn wir uns
@@ -358,7 +360,7 @@
                         Bessern, und das Bessere selbst ist die wirkliche <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term>.</p>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Und nun wollen wir’s versuchen, uns mitten
                         hineinzustellen in die bilderreiche und rätselhafte Gedankenwelt des
                             <rs type="person" ref="kbga-actors-4766">Mannes</rs>, der das Buch der Offenbarung, das am Ende unsres
@@ -375,9 +377,9 @@
                             zeitgeschichtlich, chiliastisch, spiritualistisch, mystisch,
                             poetisch-prophetisch zu deuten. Eine ausführliche Übersicht bietet
                             <bibl corresp="kbga-bibls-2573">
-                                    <persName ref="kbga-actors-650">R. Kübel</persName>, <hi rend="i">Die
+                                    <persName ref="kbga-actors-650">R. Kübel</persName>, <hi rend="italic">Die
                                 Offenbarung Johannis</hi>, in zweiter Auflage durchgesehen und
-                            ergänzt von O. Zöckler, in: <hi rend="i">Pastoralbriefe, Hebräerbrief und
+                            ergänzt von O. Zöckler, in: <hi rend="italic">Pastoralbriefe, Hebräerbrief und
                                 Offenbarung Johannis</hi>, ausgelegt von R. Kübel, neubearb.
                             von E. Riggenbach / O. Zöckler (KK.B 5), München 1898<hi rend="sup">2</hi>, S. 155–333, dort
                             S. 162–170</bibl>.</note> sind auch mit Schuld daran. Aber wir
@@ -390,7 +392,7 @@
                          durch das große Land des Menschenleides, das darunter verborgen
                         ist. Er hat aber auch nicht zu den selbstsüchtigen Duldern gehört, die
                         nur ihren eigenen kleinen oder großen Kummer in sich bewegen, hin- und
-                        wie<pb xml:id="p225" ed="pga"/>derwälzen Tag und Nacht. Die Bewegung, die
+                        wie<pb xml:id="p225" ed="pga" break="no"/>derwälzen Tag und Nacht. Die Bewegung, die
                         wir noch aus seinen Worten herausspüren, ist die Bewegung einer tiefen
                         Persönlichkeit, die reif geworden ist in der Anschauung des tiefen
                         Leides der <term type="Sachen" key="Menschheit, Leid">Menschheit</term>.
@@ -407,24 +409,24 @@
                         nun beschreibt er uns in einem gewaltigen Bild, was er vor sich gesehen
                         hat. |</p>
                     <p>
-                            <hi rend="i">Das Erste ist vergangen</hi>. Das Erste ist die <term type="Sachen" key="Welt">Welt</term> mit ihrem Gram und Glücke. Das
+                            <hi rend="italic">Das Erste ist vergangen</hi>. Das Erste ist die <term type="Sachen" key="Welt">Welt</term> mit ihrem Gram und Glücke. Das
                         Glück hat sich ihm als Schein erwiesen bei dem großen Reifwerden, und
                         nun ist’s ihm mit einem Schlag aufgegangen, dass auch das tiefe,
                         tiefe Weh, das darunter verborgen war, vergänglicher Schein war. Und an
                         die Stelle des doppelten Scheins dessen, was wir so <term type="Sachen" key="Leben, doppelter Schein">Leben</term> heißen, ist eine große,
                         wunderbare Wirklichkeit getreten, die er nur stammelnd und mit
-                        unvollkommenem Wort zu schildern vermag: <hi rend="i">Ich sah einen neuen <term type="Sachen" key="Himmel, neuer">Himmel</term></hi>
-                        <hi rend="i">und eine neue <term type="Sachen" key="Erde, neue">Erde</term></hi>
-                            <hi rend="i">, denn der erste Himmel und die erste Erde
+                        unvollkommenem Wort zu schildern vermag: <hi rend="italic">Ich sah einen neuen <term type="Sachen" key="Himmel, neuer">Himmel</term></hi>
+                        <hi rend="italic">und eine neue <term type="Sachen" key="Erde, neue">Erde</term></hi>
+                            <hi rend="italic">, denn der erste Himmel und die erste Erde
                             waren vergangen</hi>. Wer will’s wagen, diesen grandiosen
                         Gedanken nachzudenken oder auszumalen? Es wäre ein törichtes Beginnen.
                         Aber wir ahnen, was er mit dem Bilde will: er hat ein Leben, eine
                         Wirklichkeit gesehen, die mit den Bedingungen und Schranken unsres
                         äußern Daseins nur auch gar nichts gemein hat. Es handelt sich um etwas
                         Neues, das schlechterdings, vollständig neu ist. |</p>
-                    <p>Und nun ein anderes geheimnisvoll klares Bild: <hi rend="i">Und die heilige
+                    <p>Und nun ein anderes geheimnisvoll klares Bild: <hi rend="italic">Und die heilige
                             Stadt, das neue <term type="Sachen" key="Jerusalem, neues">Jerusalem</term></hi>
-                            <hi rend="i">, sah ich herabkommen aus dem
+                            <hi rend="italic">, sah ich herabkommen aus dem
                             Himmel, bereitet wie eine für ihren Mann geschmückte Braut</hi>.
                         Es gab ein altes <placeName ref="kbga-places-37">Jerusalem</placeName>, im Lande <placeName ref="kbga-places-871">Palästina</placeName>, aber das gehört zu dem Ersten, das
                         vergangen ist, es war zu der Zeit, da jener Mann schrieb, dem Untergang
@@ -443,16 +445,16 @@
                         Freude kann gerade spärlich schildern, was das für die Menschen
                         bedeutet: Bräutigam und Braut gehen sich entgegen, um in Zukunft nicht
                         mehr zwei, sondern eins zu sein. Und nun ertönt es vom Thron Gottes her
-                        wie Heroldsruf: <hi rend="i">Siehe da, die Hütte Gottes bei den Menschen, und
+                        wie Heroldsruf: <hi rend="italic">Siehe da, die Hütte Gottes bei den Menschen, und
                             er wird bei ihnen wohnen, und sie werden seine Völker sein, und er,
                             Gott, wird mit ihnen sein</hi>. Gott schenkt sich selbst den
                         Menschen, das ist der Inhalt der frohen <term type="Sachen" key="Evangelium">Botschaft</term>. Gott ist nicht einer, der seine
                         Liebe in milden Gaben à distance erweist, er selbst kommt und schlägt
                         sichtbar seine Hütte auf, um den Seinigen nahe zu sein, näher als irgend
                         ein Mensch dem andern. Und es kommt <term type="Sachen" key="Ordnung">Ordnung</term> ins <term type="Sachen" key="Chaos">Chaos</term>,
-                        die Völker werden <hi rend="i">seine</hi> Völker, die Menschen
-                            <hi rend="i">seine</hi> Menschen. |</p>
-                    <p>Und weiter ruft der Herold: <hi rend="i">Er wird abwischen alle Tränen von ihren
+                        die Völker werden <hi rend="italic">seine</hi> Völker, die Menschen
+                            <hi rend="italic">seine</hi> Menschen. |</p>
+                    <p>Und weiter ruft der Herold: <hi rend="italic">Er wird abwischen alle Tränen von ihren
                             Augen, und der Tod wird nicht mehr sein, noch Leid, noch Geschrei,
                             noch Pein</hi>. Wir sind in einer andern Welt. <term type="Sachen" key="Himmel">Himmel</term> und <term type="Sachen" key="Erde (Planet)">Erde</term> und die <term type="Sachen" key="Natur">Natur</term> mit ihren harten <term type="Sachen" key="Naturgesetze">Gesetzen</term> sind verschwunden; der Schein hat
                         der Wirklichkeit Platz gemacht. Die <term type="Sachen" key="Wirklichkeit, neue W. Gottes">Wirklichkeit</term> ist Gott, und
@@ -467,7 +469,7 @@
                         das Land der <pb xml:id="p227" ed="pga"/>
                         <term type="Sachen" key="Freiheit">Freiheit</term>, <pb ed="A" rend="hidden" n="13"/> wo wir erkennen, dass für seine Kinder Not und Tod nicht
                         mehr sind. Und endlich erhebt sich Gott selbst von seinem Thron und
-                        spricht machtvoll bestätigend: <hi rend="i">Siehe, ich mache Alles neu</hi>.
+                        spricht machtvoll bestätigend: <hi rend="italic">Siehe, ich mache Alles neu</hi>.
                         Gott sagt es und Gott tut es.</p>
                     <p>Ja, liebe Freunde, was sagt ihr zu diesem prophetischen Wort des
                         christlichen <rs type="person" ref="kbga-actors-4766">Sehers</rs> aus alter Zeit? Darin sind wir wohl Alle einig, dass
@@ -486,8 +488,8 @@
                         endlose <term type="Sachen" key="Zeit, endlose">Zeit</term>, die auf
                         diese Zeit folgt. Vielleicht ist dieser Gedanke Manchem von euch
                         ungewohnt, aber ist denn nicht gerade das der frohe Inhalt unsres <term type="Sachen" key="Glaube, Adventglaube">Adventsglaubens</term>,
-                        dass wir wissen, dass Gott <hi rend="i">da ist</hi> in seiner ganzen <term type="Sachen" key="Gott, Fülle">Fülle</term> für jeden, dem er Augen
-                        und Herz auftut, ihn zu sehen? Freilich steht er <hi rend="i">vor</hi> uns,
+                        dass wir wissen, dass Gott <hi rend="italic">da ist</hi> in seiner ganzen <term type="Sachen" key="Gott, Fülle">Fülle</term> für jeden, dem er Augen
+                        und Herz auftut, ihn zu sehen? Freilich steht er <hi rend="italic">vor</hi> uns,
                         ob wir ihn suchen und finden möchten, freilich wächst seine Größe und
                         Herrlichkeit, je tiefer wir in sein <pb ed="A" rend="hidden" n="14"/> Wesen
                         eindringen, aber das ändert nichts an der Tatsache, dass er Wohnung
@@ -514,7 +516,7 @@
                         wannen er kommt, noch wohin er fährt. Also ist ein jeglicher, der aus
                         dem Geist geboren ist [<ref type="can" subtype="bible" target="Joh.3.8">Joh. 3,8</ref>]. Sieh, das ist das Große unsres <term type="Sachen" key="Glaube, Adventsglaube">Adventsglaubens</term>, dass wir auf
                         Gott warten dürfen <pb ed="A" rend="hidden" n="15"/> und nicht auf Menschen.
-                            <hi rend="i">Er</hi> macht Alles neu. Das ist das ganze <term type="Sachen" key="Christentum">Christentum</term>, das sei unsre
+                            <hi rend="italic">Er</hi> macht Alles neu. Das ist das ganze <term type="Sachen" key="Christentum">Christentum</term>, das sei unsre
                             <term type="Sachen" key="Weihnachtsfreude">Weihnachtsfreude</term>.</p>
                     
                         <q rend="block">
@@ -543,7 +545,7 @@
                                 <l> <pb rend="noPipe" xml:id="p229" ed="pga"/> Da lag das ganze Volk auf vollen Garben,</l>
                                 <l>Kein Platz war leer, und keiner durfte darben.<note xml:id="n12"> <bibl corresp="kbga-bibls-2574">
                                             <persName ref="kbga-actors-1383">C. F. Meyer</persName>,
-                                            <hi rend="i">Alle</hi>, in: ders., <hi rend="i">Sämtliche Werke
+                                            <hi rend="italic">Alle</hi>, in: ders., <hi rend="italic">Sämtliche Werke
                                             in zwei Bänden. Vollständiger Text nach den Ausgaben
                                             letzter Hand</hi>, mit einem Nachwort von E.
                                         Laaths, Bd. 2, S. 138, München 1968.</bibl>

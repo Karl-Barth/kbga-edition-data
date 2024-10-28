@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53023">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 21</title>
         <title type="content">Predigt: Deuteronomium 33,25</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Deuteronomium 33,25, 21. November 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53023 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53023 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 21: Predigt: Deuteronomium 33,25</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p195" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>21</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1909-11-21">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1909-11-21">Sonntag, den
                             21. November 1909</date> <date rend="right">(24. nach Trinitatis)</date>
                     </dateline>
                     <epigraph>
@@ -111,7 +113,7 @@
                     wir’s schon so manches Jahr sahen und sehen werden. An die Stelle der
                     freundlichen Sonnenwärme sind die kalten Nebel und Winde getreten. Das Jahr
                     1909 hat die letzten Stücke seines Feiertagsgewandes abgelegt, um hart und
-                        <term type="Sachen" key="Winter">wintermäßig</term> seinem Ende entgegen<pb xml:id="p196" ed="pga"/>zugehen, wie es begonnen hat. Ein Naturprozess,
+                        <term type="Sachen" key="Winter">wintermäßig</term> seinem Ende entgegen<pb xml:id="p196" ed="pga" break="no"/>zugehen, wie es begonnen hat. Ein Naturprozess,
                     nichts weiter. Und doch macht er uns alle Jahre wehmütig und nachdenklich.
                     Wir spüren an solchen Wendepunkten des Naturlebens, wie sehr unser
                     Menschenleben daran Teil hat. Wie <pb ed="A" rend="hidden" n="3"/> uns der <term type="Sachen" key="Frühling">Frühling</term> von Freude und <term type="Sachen" key="Auferstehung">Auferstehung</term> redet, so der
@@ -155,14 +157,14 @@
                     <q rend="block">
                         <lg>
                             <l>
-                                <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
-                                <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
-                                <hi rend="i">.</hi>
+                                <hi rend="italic">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                <hi rend="italic">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                <hi rend="italic">.</hi>
                             </l>
                         </lg>
                     </q>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Wenn die Vergänglichkeit des Lebens einem Menschen
                         schwere Gedanken macht, so ist im letzten Grund immer die Beobachtung
                         daran schuld, dass er alt wird. Altwerden ist ja nichts Anderes, als ein
@@ -175,7 +177,7 @@
                         wir die <term type="Sachen" key="Vergänglichkeit">Vergänglichkeit</term>, das ist’s. Und das merken nicht etwa nur
                         die Menschen, die von den andern «alte <term type="Sachen" key="Alter, alte Leute">Leute»</term> geheißen werden, weil sie 60
                         Jahre und darüber zählen. Was wollen die grauen oder braunen Haare
-                        besagen gegenüber den Lebenstatsachen, die vor <hi rend="i">Aller</hi> Augen
+                        besagen gegenüber den Lebenstatsachen, die vor <hi rend="italic">Aller</hi> Augen
                         stehen? Den 10jährigen, den 15jährigen überläuft’s kalt und warm,
                         wenn er sich dunkel erinnert an die Tage, da er als kleiner und
                         kleinster Geselle auf der Mutter Schoß saß, da Alles so ganz anders
@@ -189,7 +191,7 @@
                             besuchte von April 1892 bis September 1904 das <placeName ref="kbga-places-1128">Freie Gymnasium</placeName> an der Nägeligasse in Bern (davon bis 1896
                             dessen «Elementarabteilung»), das vormals nach seinem Gründer
                             <persName ref="kbga-actors-9185">Theodor von Lerber</persName> (1823–1901) «Lerberschule» genannt wurde;
-                            vgl. <bibl corresp="kbga-bibls-2560">K. Barth, <hi rend="i">Karl Barth</hi>, in: <hi rend="i">Schweizerköpfe der
+                            vgl. <bibl corresp="kbga-bibls-2560">K. Barth, <hi rend="italic">Karl Barth</hi>, in: <hi rend="italic">Schweizerköpfe der
                                 Gegenwart / Figures Suisse Contemporaines / Svizzeri
                                 d’oggi</hi>, Bd. I, Zürich 1945, S. 117–121,
                             dort S. 117</bibl>; <bibl corresp="kbga-bibls-134">Busch, S. 25.43</bibl>.</note> dann ist’s mir jedes
@@ -258,7 +260,7 @@
                     <p> Es gibt ein altgewordenes <term type="Sachen" key="Altwerden, Denken">Denken</term> überall da, wo einer meint, er wisse, so er doch
                         nichts weiß.<note xml:id="n06">Anspielung auf <bibl corresp="kbga-bibls-2558">
                                     <persName ref="kbga-actors-322">Platon</persName>,
-                                <hi rend="i">Apologie</hi>, 21d</bibl>: «[…] <foreign xml:lang="grc" rend="Ell">οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ,
+                                <hi rend="italic">Apologie</hi>, 21d</bibl>: «[…] <foreign xml:lang="grc" rend="Ell">οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ,
                                 ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι· ἔοικα γοῦν τούτου γε σμικρῷ
                                 τινι αὐτῷ τούτῳ σοφώτερος εἶναι, ὅτι, ἃ μὴ οἶδα, οὐδὲ οἴομαι
                                 εἰδέναι</foreign>» («[…] dieser doch meint zu wissen, da
@@ -284,15 +286,15 @@
                         <q rend="block">
                             <lg>
                                 <l>
-                                    <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
-                                    <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
-                                    <hi rend="i">.</hi>
+                                    <hi rend="italic">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                    <hi rend="italic">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                    <hi rend="italic">.</hi>
                                 </l>
                             </lg>
                         </q>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Denn auch Jugend ist wahrlich etwas ganz Anderes, als was
                         die Oberflächlichen in der Welt Jugend nennen. Wenn nur des Lebens
                         Blütenzeit diesen Namen tragen soll, dann ist Jugend etwas <term type="Sachen" key="Jugend, vergänglich">Vergängliches</term>, <pb xml:id="p200" ed="pga"/> denn der Blütenzeit soll die Zeit der Früchte
@@ -381,7 +383,7 @@
                                 <l> <pb ed="A" rend="hidden" n="11"/> Begeisterung die Himmelstochter
                                         lästert.<note xml:id="n08">
                                         <bibl corresp="kbga-bibls-2562">
-                                            <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Don Carlos</hi>, vierter
+                                            <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Don Carlos</hi>, vierter
                                         Akt, einundzwanzigster Auftritt (Sämtliche Werke, Bd. 2,
                                         München 1962<hi rend="sup">3</hi>, S. 173)</bibl>.</note>
                                 </l>
@@ -402,7 +404,7 @@
                             überarbeitete zweite Auflage, mit deren Erarbeitung er 1829 begonnen
                             hatte, erschien 1830/31, also erst wenige Jahre vor seinem Tod. Vgl.
                             <bibl corresp="kbga-bibls-256">
-                                    <persName ref="kbga-actors-360">Fr. D. E. Schleiermacher</persName>, <hi rend="i">Der christliche Glaube nach den
+                                    <persName ref="kbga-actors-360">Fr. D. E. Schleiermacher</persName>, <hi rend="italic">Der christliche Glaube nach den
                                 Grundsätzen der evangelischen Kirche im Zusammenhange
                                 dargestellt. Zweite Auflage (1830/31)</hi></bibl>, Teilbd. 1,
                             Kritische Gesamtausgabe, Abt. 1, Bd. 13/1, hrsg. von R.
@@ -431,19 +433,19 @@
                         <q rend="block">
                             <lg>
                                 <l>
-                                    <hi rend="i">Dein <term type="Sachen" key="Alter">Alter</term></hi>
-                                    <hi rend="i">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
-                                    <hi rend="i">.</hi>
+                                    <hi rend="italic">Dein <term type="Sachen" key="Alter">Alter</term></hi>
+                                    <hi rend="italic">sei wie deine <term type="Sachen" key="Jugend">Jugend</term></hi>
+                                    <hi rend="italic">.</hi>
                                 </l>
                             </lg>
                         </q>
                 </div>
                 <div>
-                    <head type="4">III</head>
+                    <head>III</head>
                     <p rend="noindent">Aber dies Wort aus ferner Vergangenheit ist ein Wort der
                             <term type="Sachen" key="Verheißung">Verheißung</term>, meine
                         Freunde, und wir wollen uns freuen, dass dem so ist. Solange uns diese
-                        Gedanken bloß eine hohe Aufforderung sind, solange mö<pb xml:id="p203" ed="pga"/>gen sie uns erbauen und begeistern, aber sie helfen uns
+                        Gedanken bloß eine hohe Aufforderung sind, solange mö<pb xml:id="p203" ed="pga" break="no"/>gen sie uns erbauen und begeistern, aber sie helfen uns
                         im Grunde nicht, weil sie uns zur selben Zeit beschämen und demütigen.
                         Wenn alle Weisen der Welt es uns geböten und wenn ein Engel vom Himmel
                         käme und uns aufforderte: Du sollst jung sein, wie am Anfang, so in der
@@ -451,9 +453,9 @@
                         nicht. Die Botschaft hör’ ich wohl, doch wie der Klang im Ohr
                         zergehet, der mächtig tönend ihr entschallt,<note xml:id="n11">Kombination der beiden bekannten Verse «Die Botschaft
                             hör’ ich wohl, allein mir fehlt der Glaube» (<bibl corresp="kbga-bibls-647"><persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                <hi rend="i">Faust. Der Tragödie erster Teil</hi>, V. 765 [Nacht]</bibl>)
+                                <hi rend="italic">Faust. Der Tragödie erster Teil</hi>, V. 765 [Nacht]</bibl>)
                             und «Und wie der Klang im Ohr vergehet, / Der mächtig tönend ihr
-                            entschallt» (<bibl corresp="kbga-bibls-1267"><persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Das Lied von der Glocke</hi>, V. 414f.
+                            entschallt» (<bibl corresp="kbga-bibls-1267"><persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Das Lied von der Glocke</hi>, V. 414f.
                             [Erstdruck: 1799; Sämtliche Werke, Bd. 1, München 1962<hi rend="sup">3</hi>, S. 429–442, dort S. 441)</bibl>.</note> so rauschen die
                         schönen Gedanken an mir vorüber und lassen mich zurück, wie ich bin.</p>
                     <p>Meine Freunde! In Allem, was wir über Alter und Jugend <pb ed="A" rend="hidden" n="13"/> eben geredet haben, ist der Name Gottes
@@ -480,13 +482,13 @@
                             </note>. 
                         Ob wir faule oder rüstige Wanderer sind auf dieser
                         verborgenen Pilgerfahrt, davon hängt’s ab, ob wir Alte sind oder
-                        Junge. Gott steht <hi rend="i">vor</hi> uns, meine Freunde! Aber nun sage
+                        Junge. Gott steht <hi rend="italic">vor</hi> uns, meine Freunde! Aber nun sage
                         ich, dass wir uns freuen wollen, dass unser Gott mehr ist als ein
                         schönes Ziel und eine hohe Aufgabe.</p>
                     <p> Gott ist <term type="Sachen" key="Gott, Gegenwart">Gegenwart</term> und
                         Gott ist <term type="Sachen" key="Gott, Gewissheit">Gewissheit</term>,
-                        und wo er ist, da <hi rend="i">ist</hi> dein Alter wie deine Jugend, da
-                            <hi rend="i">ist</hi> dein <term type="Sachen" key="Alter">Alter</term>,
+                        und wo er ist, da <hi rend="italic">ist</hi> dein Alter wie deine Jugend, da
+                            <hi rend="italic">ist</hi> dein <term type="Sachen" key="Alter">Alter</term>,
                         oder was die Menschen so nennen, aufgelöst in unvergänglicher <term type="Sachen" key="Jugend">Jugend</term>.</p>
                    
                     <p> <pb rend="noPipe" xml:id="p204" ed="pga"/> Wir Alle wandern im Glauben und nicht im Schauen [<ref type="can" subtype="bible" target="2.Kor.5.7">2.Kor. 5,7</ref>]. Da ist keiner, der
@@ -502,7 +504,7 @@
                         ganzes Buch geschrieben über den Kampf mit der Tücke des <term type="Sachen" key="Tücke des Objekts">Objekts</term>, mit der Tücke
                         der kleinen, ordinären, langweiligen Dinge, die auf unser aller Weg
                             liegen.<note xml:id="n13">Gemeint ist: <bibl corresp="kbga-bibls-2563">
-                                    <persName ref="kbga-actors-2134">Fr. Th. Vischer</persName>, <hi rend="i">Auch einer. Eine
+                                    <persName ref="kbga-actors-2134">Fr. Th. Vischer</persName>, <hi rend="italic">Auch einer. Eine
                                 Reisebekanntschaft</hi>, 2. Bde., Stuttgart / Leipzig 1879</bibl>.
                             <persName ref="kbga-actors-2134">Friedrich Theodor Vischer</persName> (1807–1887) lehrte seit 1835 als
                             Literaturwissenschaftler in Tübingen und seit 1855 in Zürich; der
@@ -560,7 +562,7 @@
                                 <l>Zur Ewigkeit zu wandern</l>
                                 <l>Von einer Kraft zur andern:</l>
                                 <l>Es ist das Ende gut.<note xml:id="n15">
-                                        <bibl type="song" corresp="kbga-songs-76">Strophe 1
+                                        <bibl type="song" corresp="kbga-songs-132">Strophe 1
                                         des Liedes «Kommt, Brüder, lasst uns gehen» von <persName ref="kbga-actors-797">G. Tersteegen</persName> (GERS 327; EG 393 [dort: «Kommt,
                                         Kinder, lasst uns gehen»])</bibl>.</note>
                                 </l>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1068">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 66</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 16. Februar 1930</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1068 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1068 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 102–104.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">66</title>
+          <title type="text">Brief Nr. 66: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -106,9 +107,9 @@
           nicht so pessimistisch entgegen wie Sie, d. h. ich beurteile die Unterschiede, die sich
           zwischen Ihrer und unserer Arbeit zeigen, anders. Denn, um mit dem Hauptsatz zu beginnen,
           daß wir den Glauben als eine menschliche Möglichkeit oder als in einer solchen begründet
-          verstehen wollen, trifft ja höchstens insofern zu, als «Möglichkeit» hier als <hi rend="i">ontologische</hi> Möglichkeit verstanden ist. In diesem Sinne können aber auch Sie m.E.
+          verstehen wollen, trifft ja höchstens insofern zu, als «Möglichkeit» hier als <hi rend="italic">ontologische</hi> Möglichkeit verstanden ist. In diesem Sinne können aber auch Sie m.E.
           den Satz nicht bestreiten, wenn Sie daran festhalten, daß das Wunder des Glaubens sich am
-            <hi rend="i">Menschen</hi> ereignet, — und das zu bestreiten wäre doch Rückfall in die
+            <hi rend="italic">Menschen</hi> ereignet, — und das zu bestreiten wäre doch Rückfall in die
           katholische Gnadenlehre. — Lassen Sie eine Analogie gelten? So sehr in einem Leben die
           Erfahrung der Liebe (ich meine die eheliche Liebe) einfach ein Widerfahrnis ist und nicht
           wie Wissenschaft ausgebildet werden kann, so sehr ist doch Liebe eine ontologische
@@ -125,7 +126,7 @@
           schreiben. Ich werde Ihnen meine Antwort an <persName ref="kbga-actors-238">Kuhlmann</persName> schicken, wenn sie gedruckt ist, falls sie nicht in «<orgName ref="kbga-actors-6169">Zwischen den
           Zeiten</orgName>» erscheinen wird, wo Sie sie ja ohnehin lesen werden.<note xml:id="n02">
                         <persName ref="kbga-actors-512">Bultmanns</persName> Antwort an <persName ref="kbga-actors-238">Kuhlmann</persName> erschien nicht in ZdZ, sondern in ZThK; s. <ref type="pub" target="1067#fn_n01">Nr. 65, Anm. 1</ref>.</note> Ich <pb xml:id="p103" ed="pga"/> bitte Sie dann nur, mir eine wirkliche
-          Kritik (schriftlich oder mündlich) zu gönnen. Vor allem aber habe ich eine andere <hi rend="i">sehr</hi> dringende Bitte. Sie wissen vielleicht, daß seit einigen Jahren gegen
+          Kritik (schriftlich oder mündlich) zu gönnen. Vor allem aber habe ich eine andere <hi rend="italic">sehr</hi> dringende Bitte. Sie wissen vielleicht, daß seit einigen Jahren gegen
           <date notBefore="1930-10-25" notAfter="1930-10-31">Ende Oktober</date> hier eine <orgName ref="kbga-actors-8270">Zusammenkunft alter Marburger Theologen</orgName> in geschlossenem Kreise stattfindet.<note xml:id="n03">Auf Initiative <persName ref="kbga-actors-512">Bultmanns</persName> kamen seine
             ehemaligen Schüler und Schülerinnen gemeinsam mit seinen jeweiligen Promovenden seit
               <date when="1927">1927</date> (zum ersten Mal <date from="1927-10-24" to="1927-10-26">24.-26.10.1927</date>) alljährlich im Herbst
@@ -139,7 +140,7 @@
             verschoben. Wiedergabe der Referate <persName ref="kbga-actors-512">Bultmanns</persName>
             und <persName ref="kbga-actors-234">Krügers</persName> sowie der anschließenden
             Diskussion im <bibl corresp="kbga-bibls-1133">
-                            <hi rend="i">Protokoll der Tagung des «Kreises ehem. Marburger Theologen» im Oktober 1931 in Marburg über «Die Frage der natürlichen Theologie»</hi>, Marburg 1932.</bibl>
+                            <hi rend="italic">Protokoll der Tagung des «Kreises ehem. Marburger Theologen» im Oktober 1931 in Marburg über «Die Frage der natürlichen Theologie»</hi>, Marburg 1932.</bibl>
             <persName ref="kbga-actors-512">Bultmanns</persName> Referat erschien später leicht
             überarbeitet unter dem Titel: <bibl corresp="kbga-bibls-985">
                             <title level="a">Das Problem der «natürlichen Theologie»</title>, in: GuV I, S. 294–312.</bibl>

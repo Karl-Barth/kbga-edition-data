@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5041">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Jesaia 30,15</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jesaia 30,15, 30. August 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5041 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 443–456.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5041 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 443–456.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">236</title>
+          <title type="text">Predigt: Jesaia 30,15</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -123,7 +125,7 @@
                jetzt. Es soll uns nun helfen, uns über den Willen Gottes mit unserem Volk und Land
                in dieser schweren Zeit gründlich Rechenschaft zu geben.</p>
         <p>
-                        <hi rend="i">Stillesein</hi>, das ist das Erste, was der Prophet vom Volk und von den
+                        <hi rend="italic">Stillesein</hi>, das ist das Erste, was der Prophet vom Volk und von den
                Regierenden in <placeName ref="kbga-places-37">Jerusalem</placeName> forderte. Das «Stillesein», das er meint, ist nichts Anderes
                als das, was man heutzutage mit einem Fremdwort «Neutralität» nennt. Sie sollten sich
                hüten vor Parteinahme, sie sollten weder der einen noch der anderen der Großmächte um
@@ -144,7 +146,7 @@
                <pb xml:id="p445" ed="pga"/>
                 schweren Lage hervorgehen. Stillesein sei jetzt euer hohes Recht und eure unbedingte
                Pflicht.</p>
-        <p>Damit haben wir eigentlich ganz genau gehört, was unsere <hi rend="i">schweizerische
+        <p>Damit haben wir eigentlich ganz genau gehört, was unsere <hi rend="italic">schweizerische
                   Neutralität</hi> im gegenwärtigen Weltkrieg ist und sein soll. Als dieser Krieg
                vor vier Wochen entbrannte, da hat sich unser Bundesrat beeilt, bei den
                Kriegführenden die Erklärung abzugeben: die <orgName ref="kbga-actors-8387">Schweiz</orgName> bleibt neutral, sie stellt sich
@@ -184,7 +186,7 @@
                der Tiefe stille sein, kühl bis ans Herz hinan<note xml:id="n02">Aus dem Anfang von
                      <bibl corresp="kbga-bibls-1555">
                                 <persName ref="kbga-actors-136">J.W. von Goethes</persName> Ballade
-                        <hi rend="i">Der Fischer</hi></bibl>: <q rend="block">
+                        <hi rend="italic">Der Fischer</hi></bibl>: <q rend="block">
                                 <lg>
                                     <l xml:space="preserve">Das Wasser rauscht’, das Wasser schwoll,</l>
                                     <l xml:space="preserve">Ein Fischer saß daran,</l>
@@ -199,8 +201,8 @@
                         </note>
             </p>
         <p>
-                        <hi rend="i">Warum</hi> das alles? Der gegenwärtige Krieg ist zu einem guten Teil ein
-                  <hi rend="i">Rassen</hi>kampf. Der alte Gegensatz von deutscher und französischer
+                        <hi rend="italic">Warum</hi> das alles? Der gegenwärtige Krieg ist zu einem guten Teil ein
+                  <hi rend="italic">Rassen</hi>kampf. Der alte Gegensatz von deutscher und französischer
                Art ist wieder einmal zum offenen Ausbruch gekommen. Diese Völker meinen jetzt, ihre
                natürliche Verschiedenheit und Eifersucht könne nur noch durch Töten und Zerstören
                zum Austrag kommen. Und auf der anderen Seite, im Osten <placeName ref="kbga-places-204">Europas</placeName>, steht Deutschtum
@@ -218,7 +220,7 @@
                zusammengetan, drei «fremde» Völker, und zueinander gesagt: wir wollen sein ein einig
                Volk von Brüdern.<note xml:id="n04">
                             <bibl corresp="kbga-bibls-846">
-                                <persName ref="kbga-actors-764">Fr. von Schiller</persName>, <hi rend="i">Wilhelm Tell</hi> II,
+                                <persName ref="kbga-actors-764">Fr. von Schiller</persName>, <hi rend="italic">Wilhelm Tell</hi> II,
                         2 (Vers 1448)</bibl>: Wir wollen sein ein einzig Volk von Brüdern.</note> Diese unsere Einigkeit
                muß sich jetzt bewähren, aber nicht nur nach innen, auch in unserem Urteil über das
                Ausland. Wir begreifen das nicht und wollen das nicht begreifen, wir Schweizer, daß
@@ -235,14 +237,14 @@
                Nicht mitzuhassen, mitzulieben sind wir da.<note xml:id="n05">
                             <bibl corresp="kbga-bibls-885">
                                 <persName ref="kbga-actors-1407">Sophokles</persName>, <ref type="can">
-                                    <hi rend="i">Antigone</hi>, Vers 523</ref>.</bibl>
+                                    <hi rend="italic">Antigone</hi>, Vers 523</ref>.</bibl>
                         </note> Es ist das hohe
                Vorrecht unserer schweizerischen Freiheit und Unabhängigkeit, daß wir das Gute und
                Edle an allen Völkern ruhig und unparteiisch sehen und anerkennen, daß wir jetzt in
                dieser Zeit der Leidenschaft die Brüderlichkeit aller Völker hochhalten dürfen. Wir
                wollen dieses Vorrecht nicht verscherzen durch törichte Partei<pb xml:id="p448" ed="pga" break="no"/>nahme. Die Zeit könnte kommen, wo man froh ist über ein solches unparteiisches,
                wahrhaftes, internationales Volk, wie wir es durch Gottes Gnade sein dürfen.</p>
-        <p>Und der gegenwärtige Krieg ist zum anderen Teil ein <hi rend="i">Macht</hi>kampf.
+        <p>Und der gegenwärtige Krieg ist zum anderen Teil ein <hi rend="italic">Macht</hi>kampf.
                Jahrzehntelang schon hat er sich vorbereitet, dieser Kampf um die Entscheidung, wer
                der Erste oder die Ersten sein sollen in <placeName ref="kbga-places-204">Europa</placeName>, in der Welt. Der Krieg zwischen
                <orgName ref="kbga-actors-8605">England</orgName> und <orgName ref="kbga-actors-7792">Deutschland</orgName> z. B. hat keinen anderen Hintergrund als diese Machtfrage.
@@ -260,7 +262,7 @@
                aufgespielt, und nun ist seit einigen Jahrzehnten <orgName ref="kbga-actors-7792">Deutschland</orgName> gekommen mit den
                gleichen Parolen: <orgName ref="kbga-actors-7792">Deutschland</orgName> in der Welt voran! Am deutschen Wesen muß die Welt
                   genesen!<note xml:id="n07">Gebräuchliches ungenaues Zitat aus dem Gedicht <bibl corresp="kbga-bibls-1556">
-                                <hi rend="i">Deutschlands Beruf</hi> (1861) von
+                                <hi rend="italic">Deutschlands Beruf</hi> (1861) von
                            <persName ref="kbga-actors-1362">E. Geibel</persName> (1815–1884). Original</bibl>: <q rend="block">
                                 <lg>
                                     <l xml:space="preserve">Und es mag am deutschen Wesen</l>
@@ -317,7 +319,7 @@
                redet der deutsche <persName ref="kbga-actors-839">Kaiser</persName>,<note xml:id="n10">
                             <bibl corresp="kbga-bibls-1557">Vgl. den Erlaß <persName ref="kbga-actors-839">Wilhelms II.</persName> zum Bettag
                   am 5. August 1914, Wortlaut dieses Aufrufs vom 2.8.1914
-                  in: <hi rend="i">Allgemeines Kirchenblatt für das evangelische Deutschland</hi> 63, 1914, S. 386.</bibl>
+                  in: <hi rend="italic">Allgemeines Kirchenblatt für das evangelische Deutschland</hi> 63, 1914, S. 386.</bibl>
                </note> so wird offenbar jetzt von den meisten deutschen Kanzeln geredet, so reden
                selbst einsichtige christliche Männer. Eine ganze Welle von religiöser Begeisterung
                geht durch <placeName ref="kbga-places-151">Deutschland</placeName>. In einem angesehenen Blatt war zu lesen, <orgName ref="kbga-actors-7792">Deutschland</orgName> habe
@@ -388,7 +390,7 @@
                Gottes ergreifen, sollen und wollen wir mit unseren innersten Gedanken und Wünschen,
                mit unserem Beten und Denken und Wollen auf seine Seite, auf die Seite der Wahrheit
                und des Rechtes und des Friedens treten. Das ist das zweite, was schon <persName ref="kbga-actors-2204">Jesaja</persName> von den
-               Leuten in <placeName ref="kbga-places-37">Jerusalem</placeName> forderte: <hi rend="i">Hoffen!</hi> <persName ref="kbga-actors-2204">Jesaja</persName> war nicht ein
+               Leuten in <placeName ref="kbga-places-37">Jerusalem</placeName> forderte: <hi rend="italic">Hoffen!</hi> <persName ref="kbga-actors-2204">Jesaja</persName> war nicht ein
                engherziger Patriot, der nur aus kleinlicher Klugheit seinen Landsleuten geraten
                hatte: laßt die Finger von dem Spiel der Großen, da kommt nichts dabei heraus für
                euch, da könntet ihr zu Schaden kommen! Seine Warnung hatte einen tieferen Grund. Ihr
@@ -418,7 +420,7 @@
                auf dieses herrliche Ende, das Gott nach allem Leid kommen läßt, wir müssen für uns
                und für die Anderen heilige Wächter dieses heiligen Glaubens sein, damit er sich zum
                Segen der ganzen Welt recht bald zur vollen Wirklichkeit entfalten kann.</p>
-        <p>Seht da, meine Freunde, die Aufgabe auch unseres <hi rend="i">Schweizervolkes</hi> in
+        <p>Seht da, meine Freunde, die Aufgabe auch unseres <hi rend="italic">Schweizervolkes</hi> in
                dieser Zeit des Eisens und des Blutens. O, wir sollen nicht gleichgültig sein
                gegenüber den Ereignissen, die sich jetzt um uns her abspielen. Neutralität heißt
                nicht Gleichgültigkeit. Und fern von uns sei auch der erbärmliche pfiffige Geschäfts<pb xml:id="p454" ed="pga" break="no"/>sinn, der uns jetzt vielleicht auch einflüstern könnte: haltet euch hübsch beiseite,

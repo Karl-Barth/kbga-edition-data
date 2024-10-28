@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-songs-file">
   <teiHeader>
     <fileDesc>
@@ -20,8 +20,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-03 12:08:33</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,12,5,27,29,40,55,53,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2024-10-28 10:44:57</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,5,12,27,29,40,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:33+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:33+02:00</change>
+      <change when="2024-10-28T10:44:57+01:00">teiHeader was automatically produced from the database 2024-10-28T10:44:57+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -87,7 +87,7 @@
         </bibl>
         <bibl type="song" xml:id="kbga-songs-294">
           <title>Ach wie hab’ ich einst das Leben</title>
-          <author ref="kbga-actors-3703">Meyer, Johanna</author>
+          <author ref="kbga-actors-9092">Meyer, Maria Rosina Johanna</author>
           <author ref="kbga-actors-10191">Sankey, Ira D.</author>
           <biblScope corresp="kbga-bibls-1090" type="songbook">REICHSLIEDER, Nr. 207</biblScope>
         </bibl>
@@ -114,6 +114,13 @@
           <ref target="https://www.wikidata.org/wiki/Q10405586">wikidata</ref>
           <ref target="https://viaf.org/viaf/3025152563103515560007/">viaf</ref>
           <ref target="https://de.wikipedia.org/wiki/Allein_Gott_in_der_Höh_sei_Ehr">wikipedia</ref>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-309">
+          <title>Allein zu dir, Herr Jesu Christ</title>
+          <author ref="kbga-actors-10312">Schneesing, Johannes</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 215</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 208</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 232</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-269">
           <title>Alles ist an Gottes Segen</title>
@@ -225,7 +232,7 @@
         <bibl type="song" xml:id="kbga-songs-297">
           <title>Brüder, noch gilt es, zu retten!</title>
           <author ref="kbga-actors-">Hoyle, W.</author>
-          <author ref="kbga-actors-3703">Meyer, Johanna</author>
+          <author ref="kbga-actors-9092">Meyer, Maria Rosina Johanna</author>
           <biblScope corresp="kbga-bibls-1090" type="songbook">REICHSLIEDER, Nr. 525</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-232">
@@ -234,7 +241,7 @@
         </bibl>
         <bibl type="song" xml:id="kbga-songs-274">
           <title>ch sag es jedem, dass er lebt</title>
-          <author ref="kbga-actors-4722">Hardenberg, Friedrich Wilhelm von</author>
+          <author ref="kbga-actors-1161">Hardenberg, Friedrich Wilhelm von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 135</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 484</biblScope>
         </bibl>
@@ -306,6 +313,10 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 362</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 257</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-313">
+          <title>Der Frühling naht mit Brausen</title>
+          <author ref="kbga-actors-6441">Klingemann, Karl</author>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-169">
           <title>Der Mond ist aufgegangen</title>
           <author ref="kbga-actors-947">Claudius, Matthias</author>
@@ -317,6 +328,10 @@ von</author>
           <ref target="https://de.wikipedia.org/wiki/Abendlied_(Matthias_Claudius)">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q318900">wikidata</ref>
           <ref target="https://d-nb.info/gnd/7690394-1">gnd</ref>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-316">
+          <title>Der Vater hat zum Schmerzenslohn / der Welt gegeben seinen Sohn</title>
+          <biblScope corresp="kbga-bibls-1629" type="songbook">KNAPP, Nr. 1156</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-234">
           <title>Die Gedanken sind frei</title>
@@ -456,6 +471,11 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-179">
           <title>Es ist ein Schnitter, heißt der Tod</title>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-321">
+          <title>Es ist ein Strom erflossen</title>
+          <author ref="kbga-actors-795">Strauß und Torney, Viktor von</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 156</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-86">
           <title>Es ist nicht schwer, ein Christ zu sein</title>
@@ -632,6 +652,11 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-17">
           <title>Herr Jesu Christ, dich zu uns wend</title>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 199</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-311">
+          <title>Herr nun heb den Wagen selb</title>
+          <author ref="kbga-actors-443">Zwingli, Ulrich</author>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 729</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-110">
           <title>Herr, dein Wort, die edle Gabe</title>
@@ -841,7 +866,6 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-227">
           <title>Jetzt, da die Zeit sich nähert deiner Leiden</title>
           <author ref="kbga-actors-1383">Meyer, Conrad Ferdinand</author>
-          <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 419</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-176">
           <title>Kehre wieder, kehre wieder…</title>
@@ -868,21 +892,14 @@ von</author>
           <author ref="kbga-actors-9041">Woltersdorf, Emil Gottlieb</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 303</biblScope>
         </bibl>
-        <bibl type="song" xml:id="kbga-songs-76">
-          <title>Kommt, Brüder, laßt uns gehen</title>
+        <bibl type="song" xml:id="kbga-songs-132">
+          <title>Kommt, Kinder [Brüder], laßt uns gehen</title>
           <author ref="kbga-actors-797">Tersteegen, Gerhard</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 327</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 325</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 393</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 272</biblScope>
           <ref target="https://d-nb.info/gnd/115998266X">gnd</ref>
-        </bibl>
-        <bibl type="song" xml:id="kbga-songs-132">
-          <title>Kommt, Kinder, laßt uns gehen</title>
-          <author ref="kbga-actors-797">Tersteegen, Gerhard</author>
-          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 327</biblScope>
-          <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 325</biblScope>
-          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 393</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-286">
           <title>Kyrie eleison</title>
@@ -907,6 +924,12 @@ von</author>
           <title>Licht, das in die Welt gekommen</title>
           <author ref="kbga-actors-3934">Stier, Rudolf Ewald</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 363</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-312">
+          <title>Liebe, die du mich zum Bilde</title>
+          <author ref="kbga-actors-864">Angelus Silesius</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 242</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 401</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-122">
           <title>Liebster Jesu, wir sind hier, dich und dein Wort anzuhören</title>
@@ -1139,6 +1162,10 @@ von</author>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 388</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 262</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-310">
+          <title>O Ewigkeit, du Donnerwort</title>
+          <author ref="kbga-actors-1395">Rist, Johann</author>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-91">
           <title>O Gott, du frommer Gott</title>
           <author ref="kbga-actors-1366">Heermann, Johann</author>
@@ -1201,6 +1228,12 @@ von</author>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 84</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 441</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-314">
+          <title>Psalm 8</title>
+          <author ref="kbga-actors-823">Vischer, Wilhelm</author>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 271</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 7</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-195">
           <title>Rufst du, mein Vaterland</title>
           <author ref="kbga-actors-1418">Wyss, Johann Rudolf</author>
@@ -1218,6 +1251,7 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-239">
           <title>Schweizerpsalm</title>
           <author ref="kbga-actors-2685">Widmer, Leonhard</author>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 519</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-265">
           <title>Seele, was ermüd’st du dich</title>
@@ -1348,6 +1382,14 @@ von</author>
           <title>Verleih uns Frieden gnädiglich…</title>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 139</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-318">
+          <title>Völlige Überlassung an Gott</title>
+          <author ref="kbga-actors-797">Tersteegen, Gerhard</author>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-317">
+          <title>Völlige Überlassung der Seele an Gottes Willen</title>
+          <author ref="kbga-actors-797">Tersteegen, Gerhard</author>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-32">
           <title>Vom Himmel hoch, da komm ich her</title>
           <author ref="kbga-actors-261">Luther, Martin</author>
@@ -1391,7 +1433,7 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-109">
           <title>Wachet auf, ruft uns die Stimme</title>
-          <author ref="kbga-actors-1388">Nicolai, Philipp</author>
+          <author ref="kbga-actors-4872">Nicolai, Philipp</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 342</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 380</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 147</biblScope>
@@ -1399,7 +1441,7 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-126">
           <title>Walte, walte nah und fern, allgewaltig Wort des Herrn</title>
           <author ref="kbga-actors-2150">Bahnmaier, Jonathan Friedrich</author>
-          <author ref="kbga-actors-1388">Nicolai, Philipp</author>
+          <author ref="kbga-actors-4872">Nicolai, Philipp</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 190</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 237</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 255</biblScope>
@@ -1420,6 +1462,9 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 282</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 372</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 684</biblScope>
+          <ref target="https://www.wikidata.org/wiki/Q5453989">wikidata</ref>
+          <ref target="https://viaf.org/viaf/235309262/">viaf</ref>
+          <ref target="https://d-nb.info/gnd/7858337-8">gnd</ref>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-225">
           <title>Was mein Gott will, gescheh allzeit</title>
@@ -1474,6 +1519,13 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 246</biblScope>
           <biblScope corresp="kbga-bibls-1090" type="songbook">REICHSLIEDER, Nr. 257</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-307">
+          <title>Wer nur den lieben Gott lässt walten</title>
+          <author ref="kbga-actors-3706">Neumark, Georg</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 268</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 681</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 369</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-105">
           <title>Wer weiß, wie nahe mir mein Ende</title>
           <author ref="kbga-actors-">Schwarzburg-Rudolfstadt, Ämilie Juliane</author>
@@ -1503,7 +1555,7 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-48">
           <title>Wie schön leuchtet der Morgenstern</title>
-          <author ref="kbga-actors-1388">Nicolai, Philipp</author>
+          <author ref="kbga-actors-4872">Nicolai, Philipp</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 255</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 70</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 237</biblScope>
@@ -1528,6 +1580,11 @@ von</author>
           <title>Wie’s Gott gefällt, so g’fällts mir auch</title>
           <author ref="kbga-actors-2157">Blarer, Ambrosius</author>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 281</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-319">
+          <title>Wir glauben all’ an einen Gott</title>
+          <author ref="kbga-actors-261">Luther, Martin</author>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 183</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-193">
           <title>Wir schwören heut’ aufs neue</title>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1045">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 43</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 10. Dezember 1926</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1045 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1045 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 64–67.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">43</title>
+          <title type="text">Brief Nr. 43: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -110,16 +111,16 @@
             ging.</note>, der mir einen Gruß von Ihnen überbrachte. Ich hätte Ihnen längst danken
           sollen für Ihre Schrift vom «Christl. Leben».<note xml:id="n03">
                         <bibl corresp="kbga-bibls-1048">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Vom christlichen
-                  Leben</hi> [Bibelstunden über <ref type="can" subtype="bible" target="Röm.12.1">Röm. 12,1f.</ref>], München
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Vom christlichen
+                  Leben</hi> [Bibelstunden über <ref type="can" subtype="bible" target="Röm.12.1 Röm.12.2">Röm. 12,1f.</ref>], München
                 1926.</bibl>
                     </note> Ich habe an ihr mehr Freude gehabt als Sie an meinem «Jesus»<note xml:id="n04">
                         <bibl corresp="kbga-bibls-1029">
-                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="i">Jesus</hi>
+                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="italic">Jesus</hi>
                 (<title>Die Unsterblichen</title>, Bd. I), Berlin
                 1926</bibl>; s. <ref type="pub" target="1032#fn_n14">Nr. 30, Anm. 14</ref>.
             Vgl. <persName ref="kbga-actors-2151">Barths</persName> Bemerkung zu diesem Buch in: <bibl corresp="kbga-bibls-1050">
-                            <title level="a">Die christliche Dogmatik im Entwurf</title>, Bd. I: <hi rend="i">Die Lehre vom Worte
+                            <title level="a">Die christliche Dogmatik im Entwurf</title>, Bd. I: <hi rend="italic">Die Lehre vom Worte
                   Gottes. Prolegomena zur christlichen Dogmatik</hi>, München 1927, 
                                 <ref type="pub-" target="../volume/14/p236#p236">S. 236</ref></bibl>; <bibl corresp="kbga-bibls-1051">
                             <ref type="pub" target="14001">Neuausgabe</ref>, hrsg. von G. Sauter
@@ -133,47 +134,47 @@
           ich auf Ihren Satz mit einigen Worten eingehe, daß Sie nicht verständen, was ich mit
           meinem Buche wolle.</p>
         <p>Ich meinte, die Absicht sei sehr deutlich, wenn ich das Problem auch im Buche absichtlich
-          nicht ausgesprochen habe. <hi rend="i">Das</hi> Mißverständnis werden Sie mir ja nicht
+          nicht ausgesprochen habe. <hi rend="italic">Das</hi> Mißverständnis werden Sie mir ja nicht
           unterschieben, als meine ich durch meine Darstellung zu zeigen, welches die christliche
           Verkündigung von Jesus sein müsse. Mein Buch hat vielmehr (von anderem abgesehen) eine
           bestimmte Absicht, indem es auf das Problem losgeht, das als das Verhältnis von <persName ref="kbga-actors-1073">Johannes</persName>
           zu den Synoptikern bezeichnet werden kann oder auch als die Frage: wie es zu verstehen
           (natürlich nicht: kausal zu erklären!) ist, daß aus dem Verkündiger Jesus der Verkündigte
           Jesus Christus wird. Ich habe den Eindruck, daß Sie dies Problem verkennen, das mir ein
-          eigentlich theologisches, ja <hi rend="i">das</hi> Problem der neutestamentlichen
+          eigentlich theologisches, ja <hi rend="italic">das</hi> Problem der neutestamentlichen
           Theologie überhaupt zu sein scheint. (Es kann auch als das Problem des Inkognito Christi
           bezeichnet werden.)</p>
         <p>Das Problem ergibt sich am einfachsten aus der Exegese des <persName ref="kbga-actors-1073">Johannes</persName> selbst. Hier
-          erscheint Jesus als der Offenbarer, der — was offenbart? <hi rend="i">daß</hi> er der
-          Offenbarer ist. Nun meinen Sie nicht, ich wolle darauf hinaus, daß er doch <hi rend="i">etwas</hi> offenbaren müsse, daß sein «Wort» einen zu verstehenden Inhalt haben müsse,
-          den man verstehen, wissen und besitzen kann, sodaß man <hi rend="i">ihn</hi> als den
+          erscheint Jesus als der Offenbarer, der — was offenbart? <hi rend="italic">daß</hi> er der
+          Offenbarer ist. Nun meinen Sie nicht, ich wolle darauf hinaus, daß er doch <hi rend="italic">etwas</hi> offenbaren müsse, daß sein «Wort» einen zu verstehenden Inhalt haben müsse,
+          den man verstehen, wissen und besitzen kann, sodaß man <hi rend="italic">ihn</hi> als den
           Offenbarer nicht mehr braucht. Keineswegs; man geht Jesus nicht wie einen Lehrer oder
-          Hierophanten <hi rend="i">um etwas</hi> an, sondern man kommt zu <hi rend="i">ihm</hi>.
-          Aber der Logos ward <hi rend="i">Fleisch</hi>, ward ein <hi rend="i">Jemand</hi>, der auch
-            <hi rend="i">etwas</hi> gesagt hat. Und von diesem Jemand und Etwas berichten die
-          Synoptiker. Dabei ist <hi rend="i">ganz gleichgültig</hi>, daß in der christlichen
-          Verkündigung die Synoptiker als <hi rend="i">christliche</hi> Rede von Jesus gehört
+          Hierophanten <hi rend="italic">um etwas</hi> an, sondern man kommt zu <hi rend="italic">ihm</hi>.
+          Aber der Logos ward <hi rend="italic">Fleisch</hi>, ward ein <hi rend="italic">Jemand</hi>, der auch
+            <hi rend="italic">etwas</hi> gesagt hat. Und von diesem Jemand und Etwas berichten die
+          Synoptiker. Dabei ist <hi rend="italic">ganz gleichgültig</hi>, daß in der christlichen
+          Verkündigung die Synoptiker als <hi rend="italic">christliche</hi> Rede von Jesus gehört
           werden, also historisch formuliert: in der paulinischen oder Johanneischen Beleuchtung.
-          Sie reden jedenfalls <hi rend="i">nicht</hi> so wie <persName ref="kbga-actors-313">Paulus</persName> und <persName ref="kbga-actors-1073">Johannes</persName> von Jesus, sie sagen nicht nur wie <persName ref="kbga-actors-1073">Johannes</persName>, <hi rend="i">daß</hi> Jesus sich als den Offenbarer dargestellt, sondern <hi rend="i">wie</hi> er es getan hat, was <persName ref="kbga-actors-1073">Johannes</persName> <hi rend="i">nicht</hi> tut. Diese Sachlage
+          Sie reden jedenfalls <hi rend="italic">nicht</hi> so wie <persName ref="kbga-actors-313">Paulus</persName> und <persName ref="kbga-actors-1073">Johannes</persName> von Jesus, sie sagen nicht nur wie <persName ref="kbga-actors-1073">Johannes</persName>, <hi rend="italic">daß</hi> Jesus sich als den Offenbarer dargestellt, sondern <hi rend="italic">wie</hi> er es getan hat, was <persName ref="kbga-actors-1073">Johannes</persName> <hi rend="italic">nicht</hi> tut. Diese Sachlage
           scheint mir nun am deutlichsten und damit das Problem am dringendsten herausgestellt zu
           werden, wenn man unter Rücksicht auf die historische Kritik rein herauszustellen versucht,
-            <hi rend="i">was</hi> denn Jesus gesagt habe. Das Ergebnis ließe sich so formulie<pb xml:id="p066" ed="pga" break="no"/>ren: Jesus erscheint als Prophet. Damit ist die
+            <hi rend="italic">was</hi> denn Jesus gesagt habe. Das Ergebnis ließe sich so formulie<pb xml:id="p066" ed="pga" break="no"/>ren: Jesus erscheint als Prophet. Damit ist die
           Inkognitofrage erledigt. Bei <persName ref="kbga-actors-221">Kierkegaard</persName><note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-1052">
-                            <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="i">Einübung im Christentum</hi>, übersetzt von H. Gottsched (<title level="s">Gesammelte Werke</title>, Bd. IX),
+                            <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="italic">Einübung im Christentum</hi>, übersetzt von H. Gottsched (<title level="s">Gesammelte Werke</title>, Bd. IX),
                   Jena
                 1912, S. 114–119.</bibl>
                     </note> erscheint es ja so, daß das Inkognito ein X bedeutet, und man sieht nicht ein,
           daß, was von Jesus gesagt wird, nicht von einem beliebigen Individuum gesagt werden
           könnte, das Gott höchst willkürlich und zufällig erwählt hat, um in ihm den Logos zu
           verbergen. Die Frage aber zu stellen: wie weit darf das Inkognito gehen? ist verboten; und
-          zwar nicht nur insofern (<hi rend="i">das</hi> sieht <persName ref="kbga-actors-221">Kierkegaard</persName> ja auch), daß das Inkognito nicht ein eingeschränktes sein darf,
+          zwar nicht nur insofern (<hi rend="italic">das</hi> sieht <persName ref="kbga-actors-221">Kierkegaard</persName> ja auch), daß das Inkognito nicht ein eingeschränktes sein darf,
           bei dem kluge Leute doch etwas merken können (z. B. indem sich das «Messiasbewußtsein» des
           historischen Jesus nachweisen läßt, wie <persName ref="kbga-actors-63">Brunner</persName><note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-1053">
                             <persName ref="kbga-actors-63">E. Brunner</persName>, <title level="a">Geschichte oder Offenbarung? Ein Wort der Entgegnung an Horst Stephan</title>, in: <title>ZThK</title>, Jg. 6 (1925), S. 266–278, bes. S. 272ff.</bibl>
                     </note> will); sondern auch insofern, als nicht spekuliert werden darf, ob der
           Fleischgewordene auch anders hätte aussehen können, ob es auch eine Frau etwa hätte sein
-          können und dgl.; denn es ist ein konkreter Mensch <hi rend="i">da, den</hi> Gott erwählt
-          hat. Aber es kann und muß allerdings gefragt werden, was damit gesagt ist, daß <hi rend="i">dieser</hi> Mensch erwählt ist. Und zwar muß m. E. die Antwort lauten, daß
+          können und dgl.; denn es ist ein konkreter Mensch <hi rend="italic">da, den</hi> Gott erwählt
+          hat. Aber es kann und muß allerdings gefragt werden, was damit gesagt ist, daß <hi rend="italic">dieser</hi> Mensch erwählt ist. Und zwar muß m. E. die Antwort lauten, daß
           daran die Zusammengehörigkeit von Gesetz und Evangelium deutlich wird. (Ist das «Gesetz»
           nicht in meiner Darstellung ganz ordentlich herausgekommen?). — Ich weiß natürlich wohl,
           daß grundsätzlich <persName ref="kbga-actors-221">Kierkegaard</persName> recht hat, wenn
@@ -181,14 +182,14 @@
           haben geglaubt, daß anno soundsoviel Gott sich in geringer Knechtsgestalt gezeigt, unter
           uns gelebt und gelehrt hat und darauf gestorben ist» (bei <persName ref="kbga-actors-956">Diederichs</persName> <date when="1925">1925</date><note xml:id="n08">
                         <bibl corresp="kbga-bibls-1054">
-                            <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="i">Philosophische Brocken/Abschließende unwissenschaftliche Nachschrift/Erster Teil</hi>, übersetzt von Chr. Schrempf (<title level="s">Gesammelte Werke</title>, Bd. VI), Jena
+                            <persName ref="kbga-actors-221">S. Kierkegaard</persName>, <hi rend="italic">Philosophische Brocken/Abschließende unwissenschaftliche Nachschrift/Erster Teil</hi>, übersetzt von Chr. Schrempf (<title level="s">Gesammelte Werke</title>, Bd. VI), Jena
                 1910, <edition rend="normal">3.-5. Tausend</edition> 1925.</bibl>
                     </note>, S. 94f.). Und meine Darstellung der Verkündigung Jesu hat ja nicht im mindesten
           den Sinn, Jesus als den Christus erscheinen zu lassen (ich tue mir ja sogar etwas darauf
           zu gute, wahrscheinlich machen zu können, daß der historische Jesus sich nicht für den
-          Messias gehalten hat). Aber faktisch überliefern die Synoptiker ja <hi rend="i">mehr</hi>,
+          Messias gehalten hat). Aber faktisch überliefern die Synoptiker ja <hi rend="italic">mehr</hi>,
           als <persName ref="kbga-actors-221">Kierkegaard</persName> für nötig hält, und da dieses
-            <hi rend="i">Mehr</hi> überliefert <hi rend="i">ist</hi>, halte ich es für ein
+            <hi rend="italic">Mehr</hi> überliefert <hi rend="italic">ist</hi>, halte ich es für ein
           theologisches Anliegen, sich für dieses Mehr zu interessieren und es einmal für sich
           darzustellen.</p>
        
@@ -242,7 +243,7 @@
             Manuskript vorgelegen zu haben. Seine Veröffentlichung scheiterte trotz Befürwortung
             durch Bultmann und <persName ref="kbga-actors-367">Schmidt</persName> (laut eines
             Briefes von <persName ref="kbga-actors-367">Schmidt</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom
-            <ref type="kba-objects-id" target="14684">15.4.1927</ref>) am Einspruch <persName ref="kbga-actors-137">Gogartens</persName> (alle <ref type="kba-objects-id">drei Briefe Schmidts im Karl Barth-Archiv</ref>). Das Manuskript ist nicht erhalten. Zu
+            <ref type="kba-objects-id" target="14684">15.4.1927</ref>) am Einspruch <persName ref="kbga-actors-137">Gogartens</persName> (alle drei Briefe Schmidts im Karl Barth-Archiv). Das Manuskript ist nicht erhalten. Zu
             <persName ref="kbga-actors-2151">Barths</persName> späterer Kritik an der Aufnahme von <persName ref="kbga-actors-137">Gogartens</persName> Ethik im pädagogischem Sinne durch <persName ref="kbga-actors-405">von Tiling</persName> s. <ref type="pub" target="1067">Nr. 65</ref>.</note> habe ich mich recht gefreut.</p>
         <closer>
           <salute>Ihr</salute>

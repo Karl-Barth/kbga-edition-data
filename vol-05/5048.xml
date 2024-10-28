@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5048">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 119,142</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 119,142, 25. Oktober 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5048 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 532–543.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5048 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 532–543.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">243</title>
+          <title type="text">Predigt: Psalm 119,142</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -102,7 +104,7 @@
                auseinander, wie Alles gekommen war. Dabei kam er auf <placeName ref="kbga-places-167">Belgien</placeName> zu reden. Die deutschen
                Truppen waren bereits in dieses neutrale, durch einen Vertrag aller großen Länder
                geschützte Königreich eingebrochen, um den nächsten Weg nach <placeName ref="kbga-places-21">Frankreich</placeName> zu nehmen.
-                  <hi rend="i">Not kennt kein Gebot!</hi>, sagte der <rs type="person" ref="kbga-actors-902">deutsche Reichskanzler</rs>, als er
+                  <hi rend="italic">Not kennt kein Gebot!</hi>, sagte der <rs type="person" ref="kbga-actors-902">deutsche Reichskanzler</rs>, als er
                darauf zu reden kam. Wir verletzen jetzt das Völkerrecht, <orgName ref="kbga-actors-8730">Belgien</orgName> hat recht, wenn es
                gegen diese Tat protestiert, aber wir können nicht anders, und wir werden uns
                bemühen, unser Unrecht gutzumachen, sobald der Zweck, den wir damit im Sinn haben,
@@ -130,7 +132,7 @@
                aussprechen sollen. Aber auch das genügt nicht Allen. Begreiflich, man hat bei dieser
                Auskunft das Gefühl, der Boden schwanke einem unter den Füßen. Was ist dann Recht?
                Was Unrecht? Wenn es dann doch in gewissen Notfällen Recht sein soll, Unrecht zu tun?
-               Und darum flüchten sich wieder Andere zu dem Standpunkt, daß sie sagen: wenn <hi rend="i">wir</hi> nicht in das friedliche neutrale Land eingefallen wären, so
+               Und darum flüchten sich wieder Andere zu dem Standpunkt, daß sie sagen: wenn <hi rend="italic">wir</hi> nicht in das friedliche neutrale Land eingefallen wären, so
                hätten es die Anderen getan, wir mußten Unrecht tun, um die Anderen am Unrechttun zu
                verhindern, und somit haben wir doch Recht getan. Man kann ja nur gespannt sein
                darauf, wie lange sich das Gewissen damit zufrieden geben wird. Ich rede von dem
@@ -147,7 +149,7 @@
                und die Regel des Krieges überhaupt, ja nicht nur des Krieges, sondern der
                Menschennatur, der unerlösten Welt. Und darum verdient sein Ausspruch unsere tiefere
                Aufmerksamkeit.</p>
-        <p>Zu all den anderen <hi rend="i">Ereignissen da draußen</hi>, die uns nun seit
+        <p>Zu all den anderen <hi rend="italic">Ereignissen da draußen</hi>, die uns nun seit
                drei Monaten aufregen und erschüttern, haben wir ebensowenig wie zu dem Einbruch der
                Deutschen in <placeName ref="kbga-places-167">Belgien</placeName> eine andere Erklärung als die: Not kennt kein Gebot! Das ist die
                große, die einzige
@@ -163,7 +165,7 @@
                beschießen, Not kennt kein Gebot. Und mit demselben Notrecht rufen wie die Engländer
                die Franzosen ihre schwarzen und braunen Hilfstruppen nach <placeName ref="kbga-places-204">Europa</placeName>, wilde, grausame
                Menschen, von denen es nur heißen kann: wehe, wenn sie losgelassen!<note xml:id="n02">Aus <bibl corresp="kbga-bibls-1267">
-                                <persName ref="kbga-actors-764">Fr. von Schillers</persName> «<hi rend="i">Lied von der Glocke</hi>»</bibl>.</note> Helfe, was helfen mag, die Verhältnisse zwingen uns, nichts zu
+                                <persName ref="kbga-actors-764">Fr. von Schillers</persName> «<hi rend="italic">Lied von der Glocke</hi>»</bibl>.</note> Helfe, was helfen mag, die Verhältnisse zwingen uns, nichts zu
                unterlassen, was nützlich sein kann. Not kennt kein Gebot. Und so weiter durch Alles
                hindurch auf allen Seiten. Überall heißt es als letzte Entschuldigung oder
                Begründung: wir müssen! wir müssen: hart, grausam, rücksichtslos, hinterlistig sein.
@@ -192,7 +194,7 @@
                ist, wenn ein Volk, ein Heer in dieser Lage ist, dann wird eben Unrecht Recht, dann
                muß das, was eigentlich Recht wäre, zurückgestellt werden auf spätere Zeiten.</p>
         <p>Und nun ist das das Merkwürdige, daß diese Regel durchaus nicht nur für die Fürsten
-               und Staatsmänner, für die Völker und Armeen im Kriege gilt, sondern für das <hi rend="i">Menschenleben überhaupt</hi>. Der Angriff der Deutschen auf das
+               und Staatsmänner, für die Völker und Armeen im Kriege gilt, sondern für das <hi rend="italic">Menschenleben überhaupt</hi>. Der Angriff der Deutschen auf das
                neutrale <orgName ref="kbga-actors-8730">Belgien</orgName>, das ganze rücksichtslose Unrecht des Krieges überhaupt ist durchaus
                nicht etwa etwas Neues, Einzigartiges, Besonderes. Es ist nur eine Offenbarung, die
                uns die Augen auftun soll über die Art des Menschen überhaupt, über die Welt, über
@@ -222,7 +224,7 @@
                Geschäft zu machen — freilich kommt ein Anderer oder viele Andere dabei zu kurz, aber
                nicht wahr, Geschäft ist Geschäft: man kann da nicht so bedenklich sein, wo käme man
                hin, wenn man so peinlich Rücksicht nehmen wollte, es gibt eben auch Ausnahmen, und
-               jetzt <hi rend="i">ist</hi> eine Ausnahme, rasch zugegriffen: Not kennt kein
+               jetzt <hi rend="italic">ist</hi> eine Ausnahme, rasch zugegriffen: Not kennt kein
                Gebot!</p>
         <p>Ein Gebot des Rechtes: Bezahle, was du schuldig bist! Natürlich tue ich das — der
                soll mir kommen, der mir etwas Anderes beweist! Wirklich? Wie hast dus denn mit dem,
@@ -238,7 +240,7 @@
                kennt kein Gebot.</p>
         <p>Meine Freunde, was ich da genannt habe, das sind ja noch lauter schlichte, grobe
                Pflichten, Dinge, die sich ohne Weiteres von selbst verstehen. Wenn wirs mit ihnen
-                  <hi rend="i">so</hi> machen, wenn wir <hi rend="i">hier</hi> so schnell bereit
+                  <hi rend="italic">so</hi> machen, wenn wir <hi rend="italic">hier</hi> so schnell bereit
                sind, das Recht durch ein Notrecht oder Kriegsrecht, das eben Unrecht ist, zu
                ersetzen, wie wird es dann erst sein bei den feineren geistigen Geboten, bei den
                Geboten, die uns durch das Evangelium bekannt und lieb sein sollten, etwa bei der
@@ -249,7 +251,7 @@
                erinnern, bei denen wir auch vielleicht einmal ein Anläuflein genommen haben, die wir
                aber im Übrigen immer wieder zurückstellen: das ist jetzt nichts für mich, das kann
                ich jetzt nicht brauchen. Liebe? Friede? mich opfern und drangeben? ja, das ist schön
-               und gut, aber für den Augenblick <hi rend="i">muß</hi> ich das Gegenteil davon tun.
+               und gut, aber für den Augenblick <hi rend="italic">muß</hi> ich das Gegenteil davon tun.
                Später vielleicht, ein andermal will ich dann gern wieder davon hören. Jetzt ist Not,
                Not kennt kein Gebot! Da ist doch Keiner unter uns, der nicht gestehen müßte: So habe
                ichs auch schon gemacht, oft und oft, so mache ichs immer wieder, so richte ich
@@ -270,16 +272,16 @@
                dagegen sagen, es ist eben einfach so. Das ist der Welt Lauf, das ist des Menschen
                Art, und es ist gut, daß es uns jetzt durch den Krieg einmal so recht im Großen an
                die Wand gemalt wird, daß es so ist. Auch die blödesten Augen müßten es merken und
-               begreifen. Was merken und begreifen? Daß es gar nicht anders <hi rend="i">sein</hi>
+               begreifen. Was merken und begreifen? Daß es gar nicht anders <hi rend="italic">sein</hi>
                kann, daß wir lügen und stehlen und töten, hart und grausam und feige und treulos
-               sein, daß wir unrecht tun <hi rend="i">müssen,</hi> wenn dann einmal die Not da ist.
+               sein, daß wir unrecht tun <hi rend="italic">müssen,</hi> wenn dann einmal die Not da ist.
                Unwiderstehlich treibt sie uns ins Unrecht hinein, wir können nichts dagegen machen,
                wir können es nur unter Achselzucken geschehen lassen. Wir bedauern, aber wir können
                nicht anders!, so müssen wir reden wie die Deutschen, als ihre Kanonen schon vor
                <placeName ref="kbga-places-976">Lüttich</placeName> donnerten.<note xml:id="n03">Vgl. Anm. 2 zur Predigt 239 vom <date when="1914-09-20">20. September 1914</date>, <ref target="5044#fn_n02" type="pub">S. 484</ref>.
                </note>
             </p>
-        <p>Wir müssen. Ja, aber was ist denn eigentlich die <hi rend="i">Not</hi>, die uns
+        <p>Wir müssen. Ja, aber was ist denn eigentlich die <hi rend="italic">Not</hi>, die uns
                zwingt, sodaß wir müssen? Die Verhältnisse, sagen wir, die Lage, der besondere Fall,
                sie sind es, die uns nötigen, Böses zu tun gegen unsere bessere Einsicht und Absicht.
                Ganz richtig, das tun sie, wenn sie einmal da sind. Aber woher kommen sie? Fallen sie
@@ -306,13 +308,13 @@
                erzeugen muß? Ja, wo die Not ist, da muß es freilich zum Unrecht und zum Unglück
                kommen, da müssen wir schlecht denken, schlecht reden, schlecht handeln, feiner oder
                gröber, im Großen und im Kleinen. Aber ist denn die Not notwendig?, frage ich.</p>
-        <p>Was ist denn diese Not, die das Unrecht erzeugt? Meine Freunde, diese Not ist <hi rend="i">nicht etwas, was von außen</hi> an den Menschen <hi rend="i">herankommt</hi>. Diese Not kommt nicht von der äußeren Natur des Menschen. Diese
+        <p>Was ist denn diese Not, die das Unrecht erzeugt? Meine Freunde, diese Not ist <hi rend="italic">nicht etwas, was von außen</hi> an den Menschen <hi rend="italic">herankommt</hi>. Diese Not kommt nicht von der äußeren Natur des Menschen. Diese
                Not rührt nicht etwa davon her, daß er essen und trinken und leben muß, daß er ein
                unvollkommenes, beschränktes Wesen ist und nun einmal kein Engel. Diese Not hat ihren
                Grund nicht in den Umständen, wie man etwa so schön sagt, um den Menschen zu
                entschuldigen. (Und weiß doch nicht, wie tief man ihn mit dieser Ausrede erniedrigt!)
                Diese Ausrede wird uns widerlegt durch unser Gewissen und durch Jesus.</p>
-        <p>Unser <hi rend="i">Gewissen</hi> sagt uns unweigerlich und unerbittlich: Auch in der
+        <p>Unser <hi rend="italic">Gewissen</hi> sagt uns unweigerlich und unerbittlich: Auch in der
                größten Schwierigkeit, auch unter den hinderlichsten Umständen und Verhältnissen
                bleibt Recht Recht und Unrecht Unrecht und kann nicht vermischt und verwechselt
                werden. Das
@@ -320,7 +322,7 @@
                 ist das Wunderbare, ich möchte fast sagen, das Göttliche an jener Rede des <rs type="person" ref="kbga-actors-902">deutschen
                Reichskanzlers</rs>, daß er im gleichen Augenblick, wo er das von <orgName ref="kbga-actors-7792">Deutschland</orgName> begangene
                Unrecht entschuldigte mit der Not, mit der Lage, in der es sich befand, doch gestehen
-               mußte: es <hi rend="i">ist</hi> aber ein Unrecht! <hi rend="i">Da</hi> haben die
+               mußte: es <hi rend="italic">ist</hi> aber ein Unrecht! <hi rend="italic">Da</hi> haben die
                Engel im Himmel sich gefreut! Da hat es sich gezeigt, daß Gott doch stärker ist als
                der Teufel, daß er die Menschen an der Hand behält, und wenn sie sich noch so sehr
                gegen ihn sperren! Und diese Gewissensstimme, durch die uns Gott festhält, redet in
@@ -329,7 +331,7 @@
                das Gewissen gibt uns einfach nicht recht, es sagt uns, uns selber zum Trotz, immer
                wieder: du mußt nicht, die äußeren Umstände könnten dich nicht zwingen, wenn du nicht
                wolltest, die Not, die dich zwingt, ist eine andere, du weißt recht gut, welche!</p>
-        <p>Und kräftiger noch als unser Gewissen widerlegt uns <hi rend="i">Jesus</hi>. Jesus
+        <p>Und kräftiger noch als unser Gewissen widerlegt uns <hi rend="italic">Jesus</hi>. Jesus
                zeigt uns, daß unser Gewissen uns nicht einen schönen aber unmöglichen Traum
                vorspiegelt. Jesus war ein Mensch von Fleisch und Bein wie wir. Er mußte auch essen
                und trinken und leben wie wir. Er lebte mitten drin in den Umständen, in den
@@ -372,7 +374,7 @@
                erzeugen. Das ist unsere Gerechtigkeit. Sie ist guter Wille, der aber nicht ernst
                macht. Diese unsere Gerechtigkeit, die eine Scheingerechtigkeit ist, ist unsere
                Not.</p>
-        <p>Gottes Gerechtigkeit ist <hi rend="i">eine ewige Gerechtigkeit</hi>. Auch in Gott ist
+        <p>Gottes Gerechtigkeit ist <hi rend="italic">eine ewige Gerechtigkeit</hi>. Auch in Gott ist
                guter Wille. Aber nur guter Wille. Sein guter Wille herrscht und bestimmt, nichts
                Anderes darf daneben gelten. Ihm sind die
                <pb xml:id="p543" ed="pga"/>
@@ -381,7 +383,7 @@
                ihm [<ref type="can" subtype="bible" target="1.Joh.1.5">1.Joh. 1,5</ref>]. Gott kennt
                die Not nicht, Gott weiß nichts von Unentschiedenheit, Trägheit und Halbheit, und
                darum gelten seine Gebote. Gott will und Gott kann, weil er ernsthaft will.</p>
-        <p>Meine Freunde, unsere Not ist <hi rend="i">nicht notwendig</hi>. Es muß nicht so
+        <p>Meine Freunde, unsere Not ist <hi rend="italic">nicht notwendig</hi>. Es muß nicht so
                sein, daß immer und immer wieder Unrecht und Leid hervorgeht aus dem falschen Zustand
                unseres Inwendigen. Es muß nicht so sein, daß unsere Welt eine Welt der Lüge und des
                Krieges ist. Unserer unsicheren, heuchlerischen und darum schwachen Gerechtigkeit

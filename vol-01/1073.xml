@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1073">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 71</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 30. September 1930</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1073 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1073 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 109–110.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">71</title>
+          <title type="text">Brief Nr. 71: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -115,7 +116,7 @@
         <opener>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>,</salute>
         </opener>
-        <p>soeben erhalte ich ein Brieflein von Frau <persName ref="kbga-actors-361">Schlier</persName><note xml:id="n03">Siehe <ref type="pub" target="1124">Anh. 13</ref>.</note>, die mich freundlich einladet, bei ihr zu herbergen. Zugleich erfahre ich aber auch von ihr, daß <persName ref="kbga-actors-137">Gogarten</persName> <hi rend="i">nicht</hi> kommen wird. Nun wird die Sache wirklich sinnlos für mich. Sie werden sich doch erinnern, daß der ganze Auftrag zu diesem Vortrag an mich erging im Zusammenhang mit unserer Korrespondenz über die dermalige verworrene Lage zwischen den Hauptverantwortlichen von <orgName ref="kbga-actors-6169">Z.d.Z.</orgName> Ich hatte mir nie etwas Anderes unter diesem Marburger Anlaß gedacht als eben eine Aussprache mit Ihnen, <persName ref="kbga-actors-63">Brunner</persName>, <persName ref="kbga-actors-137">Gogarten</persName>, die ich mit meinem zufällig vor dem Forum Ihrer <orgName ref="kbga-actors-8270">Ehemaligen</orgName> zu haltenden Vortrag einzuleiten habe. Wenn nun <persName ref="kbga-actors-137">Gogarten</persName> gar nicht kommt, <persName ref="kbga-actors-63">Brunner</persName> vor meinem Vortrag abreist, <persName ref="kbga-actors-403">Thurneysen</persName> wahrscheinlich gleichfalls, ja, was hat es dann für einen Sinn, wenn ich mich nun, wo ich sonst alle Hände voll zu tun habe, für mindestens vierzehn Tage in das Dickicht der Vorbereitung dieses Vortrags stürze? Ich bitte Sie dringend, zu bedenken, daß die Unzufriedenheit, die ich Ihnen gegenüber im letzten Winter äußerte, sich doch entscheidend gerade gegen <persName ref="kbga-actors-137">Gogarten</persName> richtet. Wenn er nun nicht kommen kann, so fällt der Anlaß der Tagung dahin und scheint der Wink der Vorsehung entscheidend dahin gegeben zu sein, daß sie ein anderes Jahr stattfinden soll.</p>
+        <p>soeben erhalte ich ein Brieflein von Frau <persName ref="kbga-actors-361">Schlier</persName><note xml:id="n03">Siehe <ref type="pub" target="1124">Anh. 13</ref>.</note>, die mich freundlich einladet, bei ihr zu herbergen. Zugleich erfahre ich aber auch von ihr, daß <persName ref="kbga-actors-137">Gogarten</persName> <hi rend="italic">nicht</hi> kommen wird. Nun wird die Sache wirklich sinnlos für mich. Sie werden sich doch erinnern, daß der ganze Auftrag zu diesem Vortrag an mich erging im Zusammenhang mit unserer Korrespondenz über die dermalige verworrene Lage zwischen den Hauptverantwortlichen von <orgName ref="kbga-actors-6169">Z.d.Z.</orgName> Ich hatte mir nie etwas Anderes unter diesem Marburger Anlaß gedacht als eben eine Aussprache mit Ihnen, <persName ref="kbga-actors-63">Brunner</persName>, <persName ref="kbga-actors-137">Gogarten</persName>, die ich mit meinem zufällig vor dem Forum Ihrer <orgName ref="kbga-actors-8270">Ehemaligen</orgName> zu haltenden Vortrag einzuleiten habe. Wenn nun <persName ref="kbga-actors-137">Gogarten</persName> gar nicht kommt, <persName ref="kbga-actors-63">Brunner</persName> vor meinem Vortrag abreist, <persName ref="kbga-actors-403">Thurneysen</persName> wahrscheinlich gleichfalls, ja, was hat es dann für einen Sinn, wenn ich mich nun, wo ich sonst alle Hände voll zu tun habe, für mindestens vierzehn Tage in das Dickicht der Vorbereitung dieses Vortrags stürze? Ich bitte Sie dringend, zu bedenken, daß die Unzufriedenheit, die ich Ihnen gegenüber im letzten Winter äußerte, sich doch entscheidend gerade gegen <persName ref="kbga-actors-137">Gogarten</persName> richtet. Wenn er nun nicht kommen kann, so fällt der Anlaß der Tagung dahin und scheint der Wink der Vorsehung entscheidend dahin gegeben zu sein, daß sie ein anderes Jahr stattfinden soll.</p>
         <closer>
           <salute>Nochmals von Herzen</salute>
           <salute>der Ihrige</salute>

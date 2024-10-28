@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1058">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 56</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 24. Juni 1928</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1058 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1058 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 88.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">56</title>
+          <title type="text">Brief Nr. 56: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -103,7 +104,7 @@
         <p>Herzlichen Dank für Ihren Brief! Auf die Fortsetzung meiner Bemerkungen muß ich Sie leider bitten, noch ein wenig zu warten (es wird aber ja auch keine Eile haben), da ich durch eine Erkrankung meiner <rs type="person" ref="kbga-actors-74">Frau</rs> und anderes sehr aufgehalten war. Ihr Brief erweckte vor allem wieder das schmerzliche Bedauern, daß man sich so selten sieht. Eine mündliche Besprechung würde viel fruchtbarer sein! — Ihr Bruder <persName ref="kbga-actors-27">Peter</persName><note xml:id="n01">
                         <seg type="bio">
                             <persName ref="kbga-actors-27">Peter Barth</persName> (<date from="1888-05-17" to="1940-06-20">17.5.1888–20.6.1940</date>), <date when="1912">1912</date> Pfarrer in <placeName ref="kbga-places-248">Laupen</placeName>, <date when="1918">1918</date> in <placeName ref="kbga-places-418">Madiswil</placeName> (<placeName ref="kbga-places-233">Kanton Bern</placeName>), Schwiegersohn <persName ref="kbga-actors-329">Martin Rades</persName> (<placeName ref="kbga-places-41">Marburg</placeName>), Herausgeber der <bibl corresp="kbga-bibls-41">
-                                <hi rend="i">Opera selecta</hi> von <persName ref="kbga-actors-77">J. Calvin</persName>, München 
+                                <hi rend="italic">Opera selecta</hi> von <persName ref="kbga-actors-77">J. Calvin</persName>, München 
                         1928ff.</bibl>
                         </seg>
                     </note> erfreute mich neulich mit seinem Besuch, leider nur kurz.</p>

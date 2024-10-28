@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1099">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 97</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 10. Dezember 1935</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1099 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1099 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 159–162.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">97</title>
+          <title type="text">Brief Nr. 97: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -86,7 +87,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:45+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:45+02:00</change>
+      <change when="2024-10-28T10:45:12+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:12+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -118,7 +119,7 @@
             Vgl. seine im Wintersemester <date from="1932" to="1933">1932/33</date> und im Sommersemester
               <date when="1933">1933</date> gehaltenen «Übungen in der Predigtvorbereitung», deren Protokoll
             später veröffentlicht wurde: <bibl corresp="kbga-bibls-288">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Homiletik. Wesen
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Homiletik. Wesen
                   und Vorbereitung der Predigt</hi>, Zürich 1966 (1986<edition rend="sup">3</edition>), S. 34f.84.</bibl> Vgl. ders., <bibl corresp="kbga-bibls-1256">
                             <title level="a">Die Kirche Jesu Christi</title> (<title>ThExh</title> 5),
                   München
@@ -129,9 +130,9 @@
           der Thema-Predigten und aus erzieherischen Gründen trete ich heute mit Nachdruck für die
           Homilie ein.</p>
         <p>Dies alles nicht als Apologie meiner 2. Predigt, sondern zum Verständnis. Und das ist
-          auch das Motiv, aus dem ich <hi rend="i">Ihnen</hi> die Predigten sende. Ich weiß, Sie
-          verfolgen <hi rend="i">meine</hi> Arbeit mit mehr oder weniger großem Mißtrauen. Und es
-          wird Ihnen auch nicht verborgen sein, daß ich meinerseits zu manchem, was <hi rend="i">Sie</hi> sagen, traurig den Kopf schüttle. Gleichwohl bin <hi rend="i">ich</hi>
+          auch das Motiv, aus dem ich <hi rend="italic">Ihnen</hi> die Predigten sende. Ich weiß, Sie
+          verfolgen <hi rend="italic">meine</hi> Arbeit mit mehr oder weniger großem Mißtrauen. Und es
+          wird Ihnen auch nicht verborgen sein, daß ich meinerseits zu manchem, was <hi rend="italic">Sie</hi> sagen, traurig den Kopf schüttle. Gleichwohl bin <hi rend="italic">ich</hi>
           überzeugt, daß wir gemeinsam für die gleiche Sache kämpfen; und meine Sendung möchte Sie
           fragen, ob Sie der gleichen Überzeugung sind. Es wäre eine Probe auf die Gemeinsamkeit,
           wenn Sie die Predigten in die «<bibl corresp="kbga-bibls-1254">Theol. Existenz</bibl>» aufnehmen. Daß es mir schmerzlich ist,
@@ -154,9 +155,9 @@
                     </note> habe ich mit voller Zustimmung gelesen, von einigen exegetischen Gewaltsamkeiten
           abgesehen. (Heft 32 S. 6: <foreign xml:lang="grc" rend="Ell">Ἰησοῦ</foreign> in
             <foreign xml:lang="grc" rend="Ell">πίστις Ἰησοῦ</foreign>
-          <ref type="can" subtype="bible" target="Röm.3.22">Röm. 3,22</ref>; <ref type="can" subtype="bible" target="Gal.2.16">Gal. 2,16</ref> etc. ist sicher <hi rend="i">nicht</hi>
+          <ref type="can" subtype="bible" target="Röm.3.22">Röm. 3,22</ref>; <ref type="can" subtype="bible" target="Gal.2.16">Gal. 2,16</ref> etc. ist sicher <hi rend="italic">nicht</hi>
           als Gen. subj. zu verstehen. S. 10: das <foreign xml:lang="grc" rend="Ell">ἔσεσθε</foreign>
-          <ref type="can" subtype="bible" target="Mt.5.48">Mt. 5,48</ref> heißt <hi rend="i">nicht</hi> «genauer und richtiger»: ihr <hi rend="i">werdet</hi> sein, sondern: ihr <hi rend="i">sollt</hi> sein. S. 12: die Aufrichtung des Gesetzes von <ref type="can" subtype="bible" target="Röm.3.21">Röm. 3,21</ref> ist sicher nicht die von <ref type="can" subtype="bible" target="Mt.5.17 Mt.5.18">Mt. 5,17f.</ref> S. 18 das <foreign xml:lang="grc" rend="Ell">τέλος</foreign>
+          <ref type="can" subtype="bible" target="Mt.5.48">Mt. 5,48</ref> heißt <hi rend="italic">nicht</hi> «genauer und richtiger»: ihr <hi rend="italic">werdet</hi> sein, sondern: ihr <hi rend="italic">sollt</hi> sein. S. 12: die Aufrichtung des Gesetzes von <ref type="can" subtype="bible" target="Röm.3.21">Röm. 3,21</ref> ist sicher nicht die von <ref type="can" subtype="bible" target="Mt.5.17 Mt.5.18">Mt. 5,17f.</ref> S. 18 das <foreign xml:lang="grc" rend="Ell">τέλος</foreign>
           <ref type="can" subtype="bible" target="Röm.10.4">Röm. 10,4</ref> heißt trotz <pb xml:id="p161" ed="pga"/>
           <persName ref="kbga-actors-255">Lohmeyer</persName><note xml:id="n08">
                         <bibl corresp="kbga-bibls-1257">
@@ -168,7 +169,7 @@
                         <bibl corresp="kbga-bibls-1258">
                             <title>ThExh</title> 17 (1934): <title level="a">Drei Predigten</title></bibl>; <bibl corresp="kbga-bibls-1259">
                             <title>ThExh</title> 19 (1935): <title level="a">Vier Bibelstunden über Luk. 1</title></bibl>; <bibl corresp="kbga-bibls-1260">
-                            <title>ThExh</title> 22 (1935): <hi rend="i">Vier
+                            <title>ThExh</title> 22 (1935): <hi rend="italic">Vier
                   Predigten</hi>.</bibl>
                     </note> Der Text wird von Ihnen nach dem Rezept einer Dogmatik abgefragt und redet nicht
           mit seiner eigenen Stimme. Nach wenigen Sätzen weiß man schon alles, was Sie sagen werden,
@@ -181,8 +182,8 @@
                             <title>ThExh</title> 33 (1935).</bibl> Alle Hefte von <bibl corresp="kbga-bibls-1254">
                             ThExh: Reprint München 1980.</bibl>
                     </note>, mit schmerzlichem Entsetzen über diese dürre Dogmatik aus der Hand gelegt habe. —
-          Sie werden in meinem Glauben <hi rend="i">und Verstehen</hi><note xml:id="n11">Vgl. <bibl corresp="kbga-bibls-985">
-                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="i">Glauben und
+          Sie werden in meinem Glauben <hi rend="italic">und Verstehen</hi><note xml:id="n11">Vgl. <bibl corresp="kbga-bibls-985">
+                            <persName ref="kbga-actors-512">R. Bultmann</persName>, <hi rend="italic">Glauben und
                   Verstehen. Gesammelte Aufsätze</hi>, Bd. I, Tübingen 1933 (1993<edition rend="sup">9</edition>).</bibl>
                     </note> die Ketzerei wittern. Aber ich bin der Meinung, daß <persName ref="kbga-actors-313">Paulus</persName> anders in die Existenz der Hörer
           hineingesprochen hat, als Sie und <persName ref="kbga-actors-403">Thurneysen</persName> es
@@ -190,7 +191,7 @@
           «<foreign xml:lang="lat">per sui cognitionem infert nobis et nostri cognitionem</foreign>» (<persName ref="kbga-actors-261">Luther</persName>, Schol. zu <ref type="can" subtype="bible" target="Röm.3.5">Röm. 3,5</ref>)<note xml:id="n12">
                         <bibl corresp="kbga-bibls-1262">
                             <persName ref="kbga-actors-512">Bultmann</persName> zitiert nach <title level="a">Luthers Vorlesung über den Römerbrief
-                    1515/1516. Die Scholien</title> (<hi rend="i">Anfänge reformatorischer Bibelauslegung</hi>, Bd. I), hrsg. von J.
+                    1515/1516. Die Scholien</title> (<hi rend="italic">Anfänge reformatorischer Bibelauslegung</hi>, Bd. I), hrsg. von J.
                   Ficker, Leipzig
                 1930<edition rend="sup">4</edition>, S. 67, Z. 22f</bibl>; vgl. <bibl corresp="kbga-bibls-2015">
                             WA 56, 229,21f.</bibl>: «<foreign xml:lang="lat">Et ita Deus per suum exire nos facit ad nos ipsos
@@ -201,7 +202,7 @@
                             GuV III, S. 29</bibl>), hier zusammen mit Barths Satz: «Gottes Wort hören, heißt nicht in metaphysische
             Fernen schweifen, sondern endlich, endlich zu sich selbst kommen, sich selber sehen
             lernen, sich selber offenbar werden, wie man ist», <bibl corresp="kbga-bibls-1051">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Die christliche
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Die christliche
                   Dogmatik im Entwurf</hi> (s. <ref type="pub" target="1050#fn_n01">Nr. 48, Anm. 1</ref>), München
                 1927, S. 398 = Neuausgabe
                   (Gesamtausgabe, Abt. II), Zürich
@@ -216,8 +217,8 @@
                     </note>. — Ich könnte auch sagen: das Element <pb xml:id="p162" ed="pga"/>
           <persName ref="kbga-actors-221">Kierkegaards</persName>, das einst bei Ihnen und <persName ref="kbga-actors-403">Thurneysen</persName> so kräftig wirkte, ist verschwunden. Und in
           der Tat: <persName ref="kbga-actors-221">Kierkegaard</persName> verstand sich auf Exegese!
-          — Und <hi rend="i">Sie?</hi> Ja, Sie predigen viel deutlicher und stärker in Ihren
-          systematischen Aufsätzen als in Ihren Predigten; und <hi rend="i">dort</hi> höre ich auch
+          — Und <hi rend="italic">Sie?</hi> Ja, Sie predigen viel deutlicher und stärker in Ihren
+          systematischen Aufsätzen als in Ihren Predigten; und <hi rend="italic">dort</hi> höre ich auch
           durch Ihre Worte das Schriftwort.</p>
         <p>Vielleicht habe ich nun alles verdorben; aber auf diese Probe mußte ich es ankommen
           lassen.</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53012">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 10</title>
         <title type="content">Predigt: Genesis 1,1</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Genesis 1,1, 6. September 1908</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53012 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53012 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 10: Predigt: Genesis 1,1</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,16 +65,16 @@
             <div type="sermon"> 
                 <pb xml:id="p080" ed="pga"/>
                 <div type="opener">
-                    <head type="0">
+                    <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>10</idno>
                     </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-1296">
-                            <hi rend="i">Miécourt</hi></placeName> und
+                            <hi rend="italic">Miécourt</hi></placeName> und
                                 <placeName ref="kbga-places-1117">
-                            <hi rend="i">Bonfol</hi></placeName>, <date when="1908-09-06">Sonntag, den
+                            <hi rend="italic">Bonfol</hi></placeName>, <date when="1908-09-06">Sonntag, den
                             6. September 1908</date><note xml:id="n01">Das Dorf Bonfol liegt
                                 ca. 12 km nordöstlich von <placeName ref="kbga-places-292">Pruntrut /
                                 Porrentruy</placeName> und beherbergt wie Miécourt / Mieschdorf eine
@@ -95,7 +97,7 @@
                 <div type="main">
                     <div>
                     <p> Das erste Wort der <term type="Sachen" key="Bibel">Bibel</term>, das ich
-                    soeben vorgelesen habe, ist ein <hi rend="i">Wort des Glaubens</hi>. Diejenigen
+                    soeben vorgelesen habe, ist ein <hi rend="italic">Wort des Glaubens</hi>. Diejenigen
                     Menschen, denen Gott aus einem leeren Wort zum Inhalt ihres Lebens geworden,
                     erfahren und bezeugen es, dass die unendlich mannigfaltige äußere
                     Wirklichkeit, in die sie als Menschen hineingestellt sind, vom Milliarden
@@ -104,25 +106,25 @@
                     ihrer Völker bis zu den feinsten, unbewussten Regungen ihres eigenen
                     Herzens, geworden ist durch <term type="Sachen" key="Gott, allmächtiger Schöpfer">Gottes</term> allmächtigen
                     Schöpferwillen, der sie hervorgerufen aus dem Nichts. Für die Menschen, die
-                    Gott <hi rend="i">nicht</hi> erlebt haben, sind diese Gedanken notwendig sinnlos.
+                    Gott <hi rend="italic">nicht</hi> erlebt haben, sind diese Gedanken notwendig sinnlos.
                     Sie können in Himmel und Erde oder, wie wir sagen würden: in der <term type="Sachen" key="Welt">Welt</term> nichts Anderes finden als einen
                     endlosen Zusammenhang der Ursachen und ihrer Wirkungen, eine große <term type="Sachen" key="Welt, Uhrwerk">Uhr</term>, um mit dem oft gebrauchten
                     Gleichnis zu reden, die nach ihrem bestimmten Mechanismus abläuft.<note xml:id="n02">Vgl. unter anderem <persName ref="kbga-actors-1374">Johannes Kepler</persName>
                         (1571–1630): «Scopus meus hic est, ut coelestem machinam dicam
                         non esse instar divini animalis, sed instar horologii» (<bibl corresp="kbga-bibls-2511"><persName ref="kbga-actors-1374">J. Kepler</persName>,
-                            <hi rend="i">Brief an Herwart von Hohenburg vom 10.2.1605</hi>, in:
-                        ders., <hi rend="i">Gesammelte Werke</hi>, Bd. 15: <hi rend="i">Briefe
+                            <hi rend="italic">Brief an Herwart von Hohenburg vom 10.2.1605</hi>, in:
+                        ders., <hi rend="italic">Gesammelte Werke</hi>, Bd. 15: <hi rend="italic">Briefe
                             1604–1607</hi>, hrsg. von M. Caspar, München 2005<hi rend="sup">2</hi>, S. 146</bibl>) und <persName ref="kbga-actors-432">Christian Wolff</persName> (1679–1754): «Mundus
-                        propemodum se habet ut horologium automaton» (<bibl corresp="kbga-bibls-2512"><persName ref="kbga-actors-1374">ders</persName>, <hi rend="i">Gesammelte
-                            Werke</hi>, Abt. 2: <hi rend="i">Lateinische Schriften</hi>, Bd. 4:
-                            <hi rend="i">Cosmologia generalis</hi>, hrsg. und bearb. von J. Ecole,
+                        propemodum se habet ut horologium automaton» (<bibl corresp="kbga-bibls-2512"><persName ref="kbga-actors-1374">ders</persName>, <hi rend="italic">Gesammelte
+                            Werke</hi>, Abt. 2: <hi rend="italic">Lateinische Schriften</hi>, Bd. 4:
+                            <hi rend="italic">Cosmologia generalis</hi>, hrsg. und bearb. von J. Ecole,
                         Nachdr. Hildesheim 1964 = Frankfurt / Leipzig 1737<hi rend="sup">2</hi>,
                         § 117</bibl>). – Sinnfälligen Ausdruck fand der sogenannte
                         «Uhrenvergleich» in den Großuhren etwa des Doms zu Münster oder des
                         Straßburger Münsters, die neben den Stunden auch Tag, Monat, Jahr und
                         die Planetenstellung anzeigen und mit zeitgenössischen Figuren bestückt
-                        sind. Vgl. zum Ganzen <bibl corresp="kbga-bibls-2513">A. Demandt, <hi rend="i">Die Welt als Uhr</hi>, in: ders.,
-                            <hi rend="i">Zeit und Unzeit. Geschichtsphilosophische Essays</hi>
+                        sind. Vgl. zum Ganzen <bibl corresp="kbga-bibls-2513">A. Demandt, <hi rend="italic">Die Welt als Uhr</hi>, in: ders.,
+                            <hi rend="italic">Zeit und Unzeit. Geschichtsphilosophische Essays</hi>
                         (Historica Minora, Bd. 2), Köln / Weimar / Wien 2002,
                         S. 147–153</bibl>.</note> Warum soll gerade ein Gott <pb xml:id="p081" ed="pga"/> am Anfang stehen? Und von ihren Voraussetzungen aus haben diese Menschen
                     ganz recht. Unser Bewusstsein hat seine bestimmten Schranken, es vermag den
@@ -132,7 +134,7 @@
                     an einen <term type="Sachen" key="Gott, gerecht">gerechten</term> und
                     barmherzigen <term type="Sachen" key="Gott, Barmherzigkeit">Gott</term>, uns
                     Christen in Jesus offenbar geworden als unser <term type="Sachen" key="Gott, Vater">Vater</term>. Ja, ich möchte sagen, dies Wort ist ein
-                        <hi rend="i">Prüfstein</hi> für jeden von uns, ob unser <term type="Sachen" key="Glaube">Glaube</term> echt ist oder nur etwas äußerlich
+                        <hi rend="italic">Prüfstein</hi> für jeden von uns, ob unser <term type="Sachen" key="Glaube">Glaube</term> echt ist oder nur etwas äußerlich
                     Angelerntes. Denn auch für den, der das Dasein eines höchsten Wesens für
                     wahr hält, kann diese Behauptung ziemlich belanglos sein. Der Gedanke einer
                     göttlichen <term type="Sachen" key="Schöpfung">Schöpfung</term> kann ihm
@@ -143,32 +145,32 @@
                     Weltschöpfer, von dem er redet, ist nicht der Vater Jesu. In Wirklichkeit
                     enthält der <term type="Sachen" key="Glaube, Schöpfungsglaube">Glaube</term>
                     an Gottes Schöpfung <pb ed="A" rend="hidden" n="4"/>
-                    <hi rend="i">die ganze christliche <term type="Sachen" key="Leben, christliche Lebensauffassung">Lebensauffassung</term></hi>. In wenig Wochen feiern wir <term type="Sachen" key="Schweiz, Eidgenössischer Bettag">
-                                <hi rend="i">Bettag</hi></term>.<note xml:id="n03">Der
+                    <hi rend="italic">die ganze christliche <term type="Sachen" key="Leben, christliche Lebensauffassung">Lebensauffassung</term></hi>. In wenig Wochen feiern wir <term type="Sachen" key="Schweiz, Eidgenössischer Bettag">
+                                <hi rend="italic">Bettag</hi></term>.<note xml:id="n03">Der
                         Eidgenössische Dank-, Buß- und Bettag (vgl. oben, <ref type="pub" target="../volume/53/p046#fn-n12">S. 46, Anm. 12</ref>)
                         fiel 1908 auf den 20. September.</note>
                     Ich glaube, dass die Vertiefung in das, was das erste Wort der <term type="Sachen" key="Bibel">Bibel</term> uns zu sagen hat, uns vorbereiten
                     kann, diesen Tag nicht gedankenlos, sondern wirklich als einen Tag der <term type="Sachen" key="Buße">
-                                <hi rend="i">Buße</hi></term>, des <term type="Sachen" key="Gebet">
-                                <hi rend="i">Gebets</hi></term> und des <term type="Sachen" key="Dank">
-                                <hi rend="i">Dankes</hi></term> zu feiern.</p>
+                                <hi rend="italic">Buße</hi></term>, des <term type="Sachen" key="Gebet">
+                                <hi rend="italic">Gebets</hi></term> und des <term type="Sachen" key="Dank">
+                                <hi rend="italic">Dankes</hi></term> zu feiern.</p>
                     </div>
                     <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Wo ein Mensch das große Glück gehabt hat, Gott als seinen
                         Herrn zu erkennen, dem er gehorchen will und dem er vertraut, da wird es
                         auch nicht an der Überzeugung fehlen, dass Alles durch Gott geworden ist
                         und besteht. Eben die Sicherheit dieser Überzeugung nannte ich einen
                         Prüfstein für unsern <term type="Sachen" key="Glaube, Schöpfungsglaube als Prüfstein">Glauben</term>.</p>
                     
-                    <p> <pb rend="noPipe" xml:id="p082" ed="pga"/> <hi rend="i">Im Anfang schuf Gott Himmel und Erde</hi>. Gott schuf die Welt
+                    <p> <pb rend="noPipe" xml:id="p082" ed="pga"/> <hi rend="italic">Im Anfang schuf Gott Himmel und Erde</hi>. Gott schuf die Welt
                         der sehbaren, hörbaren, fühlbaren Dinge, die <term type="Sachen" key="Welt">Welt</term> unsrer fünf Sinne, in der wir Alle leben,
                         Gott schuf <pb ed="A" rend="hidden" n="5"/> aber vor Allem uns selber mit
                         unsern guten und bösen Anlagen, mit großen Fähigkeiten und Schwächen,
                         mit der Bestimmung zur Herrschaft über die <term type="Sachen" key="Mensch, dominium terrae">Erde</term> [vgl. <ref type="can" subtype="bible" target="Gen.1.26">Gen. 1,26</ref>] und mit dem Los,
                         den Gewalten der <term type="Sachen" key="Natur">Natur</term> zunächst
-                        machtlos gegenüberzustehen. Gott <hi rend="i">schuf</hi> die Welt, daraus
-                        folgt für uns vor Allem, dass <hi rend="i">Gott und Welt nicht dasselbe</hi>
+                        machtlos gegenüberzustehen. Gott <hi rend="italic">schuf</hi> die Welt, daraus
+                        folgt für uns vor Allem, dass <hi rend="italic">Gott und Welt nicht dasselbe</hi>
                         sind. Die <term type="Sachen" key="Welt, ist nicht Gott">Welt</term> ist
                         nicht Gott. Wir wollen uns nicht damit aufhalten, von jenen Lehren zu
                         reden, die heutzutage von manchen Gebildeten und von noch mehr
@@ -187,12 +189,12 @@
                          kennen.</p>
                     <p> <pb ed="A" rend="hidden" n="6"/> Gott ist von der <term type="Sachen" key="Gott, unterschieden von der Welt">Welt</term> unterschieden.
                         Wer also Gott seinen Herrn nennt, kann nicht zur selben Zeit in der Welt
-                        sein höchstes Gut finden. «Ihr könnt nicht Gott dienen <hi rend="i">und</hi>
+                        sein höchstes Gut finden. «Ihr könnt nicht Gott dienen <hi rend="italic">und</hi>
                         dem Mammon» [<ref type="can" subtype="bible" target="Mt.6.24">Mt. 6,24</ref>
                         par.]. Gott schuf die <term type="Sachen" key="Welt, geschaffen von Gott">Welt</term>: wir können nicht das
                         Geschaffene anbeten neben dem <term type="Sachen" key="Gott, Schöpfer">Schöpfer</term>. Diejenigen, die so handeln, nennt die <term type="Sachen" key="Bibel">Bibel</term>
                         <term type="Sachen" key="Götzendienst">
-                                <hi rend="i">Götzendiener</hi></term>,
+                                <hi rend="italic">Götzendiener</hi></term>,
                         und sie sieht darin vom ersten Buch Moses bis zur Offenbarung des
                         Johannes das Schlimmste, was ein Mensch tun kann, die <term type="Sachen" key="Sünde">Sünde</term> aller Sünden. Dass wir als
                         Christen nicht der Welt dienen sollen, sondern Gott, das scheint nun
@@ -245,7 +247,7 @@
                         und seinem <term type="Sachen" key="Wille Gottes">Willen</term>
                         vorgezogen?! – |</p>
                     
-                    <p> <pb rend="noPipe" xml:id="p084" ed="pga"/> Gott <hi rend="i">schuf</hi> Himmel und Erde. <pb ed="A" rend="hidden" n="9"/>
+                    <p> <pb rend="noPipe" xml:id="p084" ed="pga"/> Gott <hi rend="italic">schuf</hi> Himmel und Erde. <pb ed="A" rend="hidden" n="9"/>
                         Nicht Himmel und Erde und ihre Güter können unserm <term type="Sachen" key="Welt, Dinge der W. nicht Inhalt des Lebens">Leben</term> Inhalt
                         geben, sondern nur, der sie <term type="Sachen" key="Leben, Inhalt nur von Gott">geschaffen</term>, Gott, der <term type="Sachen" key="Gott, ist Geist">Geist</term> und <term type="Sachen" key="Gott, Wahrheit">Wahrheit</term> ist [vgl. 
                             <ref type="can" subtype="bible" target="Joh.4.23 Joh.4.24">Joh. 4,23f.</ref>]. Die
@@ -253,18 +255,18 @@
                         auf den Weg führen, der zu ihm zurückleitet.</p>
                     </div>
                     <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">
-                            <hi rend="i">Im Anfang schuf Gott Himmel und Erde</hi>, und
+                            <hi rend="italic">Im Anfang schuf Gott Himmel und Erde</hi>, und
                         darum weiß der Mensch, in dem Gott selbst lebendig geworden, dass
-                            <hi rend="i">alle Dinge von diesem Gott abhängig</hi>, in jedem Moment
+                            <hi rend="italic">alle Dinge von diesem Gott abhängig</hi>, in jedem Moment
                         seinem Willen unterworfen sind. Wir haben gesehen: Die Güter der
                         geschaffenen <term type="Sachen" key="Welt, geschaffen von Gott">Welt</term> dürfen uns als Christen nicht an Stelle Gottes treten,
                         denn als der <term type="Sachen" key="Gott, Schöpfer">Schöpfer</term>
                         steht er hoch über diesen Gütern. Die geschaffene Welt enthält aber
                         nicht nur Gutes, sondern, wie wir Alle wissen, große <term type="Sachen" key="Welt, Übel">Übel</term>, die uns die Welt zum <term type="Sachen" key="Welt, Gegenstand unserer Sorge">Gegenstand</term>
                         unsrer Sorge machen. Und von diesen Übeln gilt: sie sind in der Hand des
-                        Gottes, der unser Bestes will, und <hi rend="i">können uns daher nicht von ihm
+                        Gottes, der unser Bestes will, und <hi rend="italic">können uns daher nicht von ihm
                             trennen</hi>. – Ihr erinnert euch, <pb ed="A" rend="hidden" n="10"/> wie <persName ref="kbga-actors-313">Paulus</persName> das
                         Römer 8 ausdrückt: «Ich bin gewiss, dass weder Tod noch Leben, weder
                         Engel noch Gewalten, weder Gegenwärtiges noch Zukünftiges noch
@@ -274,7 +276,7 @@
                         alle Dinge zum Besten dienen» 
                         [<ref type="can" subtype="bible" target="Röm.8.28">Röm. 8,28</ref>]. – |</p>
                     <p>
-                            <hi rend="i">Alle Dinge</hi>, denn im Anfang schuf Gott <hi rend="i">Himmel und
+                            <hi rend="italic">Alle Dinge</hi>, denn im Anfang schuf Gott <hi rend="italic">Himmel und
                             Erde</hi>, es gibt also schlechterdings nichts, das seinem <term type="Sachen" key="Wille Gottes, ist nichts entzogen">Willen</term>
                         entzogen wäre, und dieser <term type="Sachen" key="Wille Gottes">Wille</term> ist darauf gerichtet, sein Volk frei und selig zu
                         machen.</p>
@@ -321,7 +323,7 @@
                         <q rend="block">
                             <lg>
                                 <l>
-                                    <hi rend="i">Bete</hi> aber auch dabei</l>
+                                    <hi rend="italic">Bete</hi> aber auch dabei</l>
                                 <l>Mitten in dem Wachen;</l>
                                 <l>Denn der Herr nur kann dich frei</l>
                                 <l>Von dem Allem machen!<note xml:id="n6">Beginn der
@@ -349,23 +351,23 @@
                         wir innerlich mit Gott in Verbindung sind.</p>
                     </div>
                     <div>
-                    <head type="4">III</head>
+                    <head>III</head>
                     <p rend="noindent">Die Überzeugung, dass Gott die <term type="Sachen" key="Welt, geschaffen von Gott">Welt</term> schuf, weist uns nicht
                         nur hin auf unsre Bestimmung, <term type="Sachen" key="Gott, Ziel unseres Wollens und Denkens">Gott</term> und nicht
                         die Dinge der Welt als Endziel <term type="Sachen" key="Mensch, Wollen">unsres</term>Wollens und <term type="Sachen" key="Mensch, Denken">Denkens</term> anzustreben, sie gibt uns nicht nur die Gewissheit,
                         dass nichts in dieser Welt uns von Gott trennen kann, sie lehrt uns
                         – und das ist das unveräußerlich Wichtigste an dieser Überzeugung
                         – die <term type="Sachen" key="Welt">Welt</term>, in der wir
-                        leben, verstehen als das <hi rend="i">vergängliche Mittel für einen
+                        leben, verstehen als das <hi rend="italic">vergängliche Mittel für einen
                             unvergänglichen göttlichen <term type="Sachen" key="Welt, Mittel für göttlichen Zweck">Zweck</term></hi>. Im
-                        Anfang schuf <hi rend="i">Gott</hi> Himmel und Erde, nicht eine Macht, die
+                        Anfang schuf <hi rend="italic">Gott</hi> Himmel und Erde, nicht eine Macht, die
                         neben oder unter Gott stünde, nicht ein besonderer <term type="Sachen" key="Weltschöpfergott">Weltschöpfergott</term>, wie eine christliche
                         Sekte des zweiten Jahrhunderts lehrte,<note xml:id="n7">Barth denkt wohl an <persName ref="kbga-actors-678">Marcion</persName> (um 85–160) bzw. die Marcioniten:
                             «Marcion […] charakterisiert den höchsten Gott als den der
                             Liebe und des Erbarmens und den Weltschöpfergott (den er mit dem
                             Gotte des Alten Testaments identifiziert) als den, der Gesetze gibt,
                             Vergeltung übt und die Menschen lehrt, dasselbe zu tun» (<bibl corresp="kbga-bibls-2514"><persName ref="kbga-actors-1243">A. Schweitzer</persName>,
-                                <hi rend="i">Reich Gottes und Christentum</hi> (1947/1951), hrsg. von
+                                <hi rend="italic">Reich Gottes und Christentum</hi> (1947/1951), hrsg. von
                             U. Luz / U. Neuenschwander / J. Zürcher, München 1995,
                             S. 224f.</bibl>).</note>
                         <pb ed="A" rend="hidden" n="14"/> aber auch nicht ein blindes Gesetz der
@@ -375,26 +377,26 @@
                         dass, was er geschaffen, nur Mittel sein <term type="Sachen" key="Schöpfung, Mittel für Gottes Zweck">kann</term> für seinen
                         Zweck, und er hat nur einen Zweck, uns zu sich zu rufen. In dieser
                         Erkenntnis können wir nun das zusammenfassen, was wir vorher gesagt
-                        haben. <hi rend="i">Gott</hi> schuf die Welt, nicht nur den Himmel droben und
-                        die Erde drunten, sondern <hi rend="i">deine</hi> Welt, <hi rend="i">deinen</hi>
-                        Himmel und <hi rend="i">deine</hi> Erde, will sagen: <hi rend="i">deinen</hi>
+                        haben. <hi rend="italic">Gott</hi> schuf die Welt, nicht nur den Himmel droben und
+                        die Erde drunten, sondern <hi rend="italic">deine</hi> Welt, <hi rend="italic">deinen</hi>
+                        Himmel und <hi rend="italic">deine</hi> Erde, will sagen: <hi rend="italic">deinen</hi>
                         ganzen dir so wohlbekannten Kreis von Menschen und <term type="Sachen" key="Gott, Schöpfer der persönlichen Verhältnisse">Verhältnissen</term>, von Sorgen oder Freuden, von Armut oder
                         Reichtum, von Krankheit oder Gesundheit, von Unglück oder <term type="Sachen" key="Gott, Urheber der persönlichen Widerfahrnisse">Glück</term>. In alledem ist nichts, das ohne Gottes <term type="Sachen" key="Wille Gottes, nichts ist ohne den W. G.">Willen</term> wäre! Gott hat dir Vieles geschenkt an innern und
                         äußern Gütern; ihr rechter Gebrauch, die rechte Freude daran kann <pb ed="A" rend="hidden" n="15"/> dich und andere weiterbringen auf dem Wege
                         zu ihm. Gott hat dein Glück gewollt, und wenn du dir das sagst, wirst du
                         Gott <term type="Sachen" key="Dank, gegenüber Gott">
-                                <hi rend="i">danken</hi></term>, und <pb xml:id="p087" ed="pga"/> nicht nur
+                                <hi rend="italic">danken</hi></term>, und <pb xml:id="p087" ed="pga"/> nicht nur
                         das: dein <term type="Sachen" key="Dank, wird Tat">Dank</term> wird Tat
                         werden. Gott hat dir vielleicht noch mehr genommen oder vorenthalten, du
                         siehst nicht, warum und wozu, und doch kannst du felsenfest darauf
                         bauen, dass es zum Guten sein muss. Gott wollte auch dein Unglück, und
                         wenn er in deinem Herzen wirklich Gott ist, kannst du ihm auch dafür
                             <term type="Sachen" key="Dank, auch für das Unglück">
-                                <hi rend="i">danken</hi></term>, durch herzliches Vertrauen und
+                                <hi rend="italic">danken</hi></term>, durch herzliches Vertrauen und
                         tapferes Aushalten. – |</p>
                     <p>Die Gewissheit, dass Gott deinen Himmel und deine Erde geschaffen,
                             <anchor type="note" xml:id="fn-j"/>stellt dein ganzes Leben in ein neues Licht<note type="textcritical" n="j" xml:id="nj" target="fn-j"> Im Mskr. nachträglich mit Bleistift korrigiert aus: «kann
-                                dein ganzes Leben in ein neues Licht stellen».</note>. Die Gewissheit, dass <hi rend="i">er</hi> der Urheber gerade deines
+                                dein ganzes Leben in ein neues Licht stellen».</note>. Die Gewissheit, dass <hi rend="italic">er</hi> der Urheber gerade deines
                             <term type="Sachen" key="Gott, Urheber deines Lebens">Lebens</term>,
                         deiner Verhältnisse ist, wie sie einmal sind, <anchor type="note" xml:id="fn-k"/>gibt dir
                         den Mut<note type="textcritical" n="k" xml:id="nk" target="fn-k"> Im Mskr. nachträglich mit Bleistift korrigiert aus: «kann dir
@@ -460,7 +462,7 @@
                             </item>
                                 <item>Gebet II</item>
                                 <item>
-                                <hi rend="i">Pred[igt]</hi>
+                                <hi rend="italic">Pred[igt]</hi>
                             </item>
                                 <item>
                                 <bibl corresp="kbga-songs-50">Nr. 266, Strophen 1–3</bibl>
@@ -481,7 +483,7 @@
                             </item>
                                 <item>Gebet III</item>
                                 <item>
-                                <hi rend="i">Pred[igt]</hi>
+                                <hi rend="italic">Pred[igt]</hi>
                             </item>
                                 <item>
                                 <bibl corresp="kbga-songs-162">Nr. 270, Strophen 1.2.6</bibl>

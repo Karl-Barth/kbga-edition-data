@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53039">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 37</title>
         <title type="content">Predigt: Jakobus 1,26-27</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,26-27, 3. April 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53039 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53039 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 37: Predigt: Jakobus 1,26-27</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p410" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>37</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-04-03">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-04-03">Sonntag, den
                             3. April 1910</date> <date rend="right">(Sonntag Quasimodogeniti)</date>
                     </dateline>
                     <epigraph>
@@ -108,7 +110,7 @@
                     «Gottesdienst» gegenwärtig zu halten. Die Sache steht nämlich so:
                     Frömmigkeit, will sagen ein inneres Leben, das seine Wurzeln in der Tiefe
                     hat und das eben darum ein starker Baum ist, der den Winden Trotz bietet,
-                    Frömmigkeit ist immer Beides: Got<pb xml:id="p411" ed="pga"/>tes Ruf und des
+                    Frömmigkeit ist immer Beides: Got<pb xml:id="p411" ed="pga" break="no"/>tes Ruf und des
                     Menschen Antwort, ist Glaube und <term type="Sachen" key="Frömmigkeit, Glaube und Leben">Leben</term> ineinander und
                     miteinander, ist Gottesgeschenk und <term type="Sachen" key="Frömmigkeit, Gottesgeschenk und Gottesdienst">Gottesdienst</term>.
                     Beten ist Frömmigkeit und Arbeiten ist <term type="Sachen" key="Frömmigkeit, Beten und Arbeiten">Frömmigkeit</term>. Eins nicht
@@ -154,7 +156,7 @@
                     <pb xml:id="p412" ed="pga"/> kommen.»<note xml:id="n02">
                             <bibl corresp="kbga-bibls-2670">
                                 <persName ref="kbga-actors-1559">J. P. Eckermann</persName>,
-                            <hi rend="i">Gespräche mit Goethe in den letzten Jahren seines
+                            <hi rend="italic">Gespräche mit Goethe in den letzten Jahren seines
                             Lebens</hi>, mit einer Einleitung, erläuternden Anmerkungen und
                         Register hrsg. von L. Geiger, drei Teile in einem Band, Leipzig o. J.,
                         S. 622 (Gespräch vom 11. März 1832)</bibl>. – In Barths Exemplar, das er
@@ -191,31 +193,31 @@
                     Tat. Hat <persName ref="kbga-actors-8959">Jakobus</persName> an Derartiges
                     gedacht, hat er die Meinung aussprechen wollen, gute Religion müsse sich <pb ed="A" rend="hidden" n="4"/> bewähren und betätigen in guten Handlungen,
                         <anchor type="note" xml:id="fn-c"/>eine Meinung, die, wie gesagt, seit 100 Jahren und mehr
-                    die Spatzen von den Dächern pfeifen<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. mit Bleistift in eckige Klammern gesetzt.</note>? Wir müssen in der Tat annehmen, er habe <hi rend="i">auch</hi> an
+                    die Spatzen von den Dächern pfeifen<note type="textcritical" n="c" xml:id="nc" target="fn-c"> Im Mskr. mit Bleistift in eckige Klammern gesetzt.</note>? Wir müssen in der Tat annehmen, er habe <hi rend="italic">auch</hi> an
                     Derartiges gedacht, denn im zweiten Kapitel lesen wir den berühmten Satz,
                     der ganz jene Meinung wiedergibt, den Satz, dass der Glaube, wenn er nicht
                         <term type="Sachen" key="Glaube, und Werke">Werke</term> habe, tot sei
                     an ihm selber [<ref type="can" subtype="bible" target="Jak.2.17">Jak. 2,17</ref>].
                     Allein, wir müssen gegen diese Meinung, so populär und einleuchtend sie ist,
-                    an einem sehr wichtigen Punkt Ein<pb xml:id="p413" ed="pga"/>spruch erheben, auf
+                    an einem sehr wichtigen Punkt Ein<pb xml:id="p413" ed="pga" break="no"/>spruch erheben, auf
                     die Gefahr hin, dadurch in Widerspruch zu geraten zu der Lebensweisheit des
                     großen <persName ref="kbga-actors-136">Goethe</persName>
                     und vielleicht auch zu <persName ref="kbga-actors-8959">Jakobus</persName>.
                     Der wichtige Punkt ist der: Ein Christentum, das nicht ein Christentum der
                     Gesinnung und der <term type="Sachen" key="Christentum, der Tat">Tat</term>
-                    <hi rend="i">ist</hi>, wie Goethe es fordert, wenn auch vielleicht erst als ein
-                    Anfang dazu, ein solches Christentum ist <hi rend="i">kein</hi> Christentum. Ein
+                    <hi rend="italic">ist</hi>, wie Goethe es fordert, wenn auch vielleicht erst als ein
+                    Anfang dazu, ein solches Christentum ist <hi rend="italic">kein</hi> Christentum. Ein
                     Glaube, der bloß aus einer toten Schale besteht, der nicht wenigstens den
                     Keim des Lebens oder der Werke, wie Jakobus sich ausdrückt, <term type="Sachen" key="Glaube, und Werke">enthält</term>, ein solcher Glaube
-                    ist <hi rend="i">kein</hi> Glaube. Ein christliches <term type="Sachen" key="Bekenntnis, christliches">Bekenntnis</term>, das nicht Tat
-                        <hi rend="i">ist</hi>, ist <hi rend="i">kein</hi> Bekenntnis. Eine solche <term type="Sachen" key="Frömmigkeit, wertlose">Frömmigkeit</term> ist nicht
+                    ist <hi rend="italic">kein</hi> Glaube. Ein christliches <term type="Sachen" key="Bekenntnis, christliches">Bekenntnis</term>, das nicht Tat
+                        <hi rend="italic">ist</hi>, ist <hi rend="italic">kein</hi> Bekenntnis. Eine solche <term type="Sachen" key="Frömmigkeit, wertlose">Frömmigkeit</term> ist nicht
                     nur wertlos, sondern überhaupt keine Frömmigkeit. Denn wieder ist Jesu
                     Meinung in dieser Sache die gewesen, dass es sich bei der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term> oder beim Reiche
                         <term type="Sachen" key="Reich Gottes">Gottes</term> verhalte wie bei
                     dem Samen, der aufs Land geworfen ist und nun aufgeht, ohne dass der Säemann
-                    sich dessen annimmt. Denn die Erde bringt <hi rend="i">von ihr selbst</hi> zum
+                    sich dessen annimmt. Denn die Erde bringt <hi rend="italic">von ihr selbst</hi> zum
                     ersten das Gras, danach die Ähren, danach den vollen Weizen in den Ähren
-                    [<ref type="can" subtype="bible" target="Mk.4.26 Mk.4.28">Mk. 4,26–28</ref>]. <hi rend="i">Von sich selbst</hi> ist und wird der
+                    [<ref type="can" subtype="bible" target="Mk.4.26 Mk.4.28">Mk. 4,26–28</ref>]. <hi rend="italic">Von sich selbst</hi> ist und wird der
                     Glaube, der wirkliche <term type="Sachen" key="Glaube, und Leben">Glaube</term> nämlich, Leben, Gesinnung und <term type="Sachen" key="Glaube, und Werke">Tat</term>. Wo diese fehlen, da ist auch kein
                     Glaube. Wo kein lebendiger Baum oder doch der Keim eines solchen ist, da ist
                     auch keine lebendige Wurzel. Es ist also ein Missverständnis, das nur neue
@@ -223,18 +225,18 @@
                     anderes ist als Gesinnung und Tat, so gut es ein Missverständnis ist, wenn
                     einer von hölzernem Eisen redet. Dem, was er sagen wollte, entnehmen wir
                     eben jene bereits ausgesprochene, richtige Erkenntnis, dass wirkliche
-                    Frömmigkeit <pb ed="A" rend="hidden" n="5"/> offenbar werden <hi rend="i">muss</hi> im
+                    Frömmigkeit <pb ed="A" rend="hidden" n="5"/> offenbar werden <hi rend="italic">muss</hi> im
                     Leben, in den Gedanken und Handlungen des Alltags. Und diese Erkenntnis kann
                     zweifellos nicht lebhaft genug ausgesprochen und beherzigt werden.</p>
                 <p>Allein ich glaube doch, unser Text führt uns diesmal noch einen andern Weg
                     als den, der zu dieser Erkenntnis führt.</p>
                 <p>
-                        <hi rend="i">Wenn einer meint, fromm zu sein, und hält seine Zunge nicht im Zaum,
+                        <hi rend="italic">Wenn einer meint, fromm zu sein, und hält seine Zunge nicht im Zaum,
                         sondern betrügt sein Herz, dessen Frömmigkeit ist wertlos</hi>. Ich
                     wiederhole meine Frage: Was ist das für eine <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>? Denn ich vermute, <persName ref="kbga-actors-8959">Jakobus</persName> habe wenigstens an dieser
                     Stelle wirklich nicht an Menschen gedacht, die nur den äußern Schein eines
                     angeblichen «Glaubens» haben, innerlich aber völlig tot und gottlos sind.
-                    Solche gibt es vielleicht überhaupt nur ganz selten. Wohl aber gibt es Unzäh<pb xml:id="p414" ed="pga"/>lige, die zwar etwas erfahren haben von der
+                    Solche gibt es vielleicht überhaupt nur ganz selten. Wohl aber gibt es Unzäh<pb xml:id="p414" ed="pga" break="no"/>lige, die zwar etwas erfahren haben von der
                     Herrlichkeit des wirklichen <term type="Sachen" key="Glaube, Herrlichkeit des wirklichen Gl.">Glaubens</term>, die in
                     freiem <term type="Sachen" key="Gehorsam">Gehorsam</term> und Vertrauen Gott
                     berührt haben, es erwächst auch daraus so etwas wie Leben und Gesinnung,
@@ -303,16 +305,16 @@
                     zu seinen angenehmen und nützlichen Zwecken. Die Frömmigkeit wird uns ein
                     vollkommenes Mittel, unsern offenen und verborgenen Wünschen und Ansprüchen
                     Relief und Nachdruck zu geben. So ist aus der guten Wurzel der alten <term type="Sachen" key="Propheten">Propheten</term> Israels <pb ed="A" rend="hidden" n="8"/> die Krüppelpflanze des spätern <term type="Sachen" key="Juden / Judentum">Judentums</term> gewachsen, dessen
-                    angeblicher Gottesdienst in Wirklichkeit <hi rend="i">ein</hi> großer Schacher
+                    angeblicher Gottesdienst in Wirklichkeit <hi rend="italic">ein</hi> großer Schacher
                     war um zukünftige <term type="Sachen" key="Juden / Judentum, Lohngedanke">Belohnung</term>. Die angeblichen Gottesdiener dienten sich selber. So
                     hat im römischen <term type="Sachen" key="Katholizismus">Katholizismus</term> das liebe Ich nach dem Lichte Jesu gegriffen, und
                     es ist eine Versicherungsanstalt auf das ewige <term type="Sachen" key="Katholizismus, Christentum als Versichernugsanstalt">Heil</term>
                     daraus geworden,<note xml:id="n06">Vgl. <bibl corresp="kbga-bibls-2672">
-                                <persName ref="kbga-actors-155">A. von Harnack</persName>, <hi rend="i">Was
+                                <persName ref="kbga-actors-155">A. von Harnack</persName>, <hi rend="italic">Was
                             wir von der römischen Kirche lernen und nicht lernen sollen</hi>
-                        (1891), in: <hi rend="i">Adolf von Harnack als Zeitgenosse. Reden und Schriften
+                        (1891), in: <hi rend="italic">Adolf von Harnack als Zeitgenosse. Reden und Schriften
                             aus den Jahren des Kaiserreichs und der Weimarer Republik</hi>,
-                        hrsg. und eingeleitet von K. Nowak, Teil 1: <hi rend="i">Der Theologe und
+                        hrsg. und eingeleitet von K. Nowak, Teil 1: <hi rend="italic">Der Theologe und
                             Historiker</hi>, Berlin / New York 1996, S. 344–360, dort
                         S. 346f.</bibl>, nannte die römisch-katholische Kirche «eine
                         Versicherungsanstalt für die, welche die Güter des Evangeliums wünschen,
@@ -339,7 +341,7 @@
                         (1754–1838) zugeschrieben; vgl. <bibl corresp="kbga-bibls-828">
                                 Büchmann, S. 404f</bibl>.</note> Und das wird
                     nicht anders, wenn nun die Frömmigkeit die Formen jenes egoistischen
-                    Scheinlebens annimmt. Jene Redselig<pb xml:id="p417" ed="pga"/>keit wird dann
+                    Scheinlebens annimmt. Jene Redselig<pb xml:id="p417" ed="pga" break="no"/>keit wird dann
                     fromme <term type="Sachen" key="Redseligkeit, fromme">Redseligkeit</term>.
                     Wir sprechen von Gott, vom Guten, von der Sittlichkeit, aber im letzten
                     Grunde sind uns alle diese Dinge doch nur Unterstreichungen, Hilfslinien,
@@ -383,18 +385,18 @@
                             Mainberg</placeName> (bei Schweinfurt). Müller und seine Ideen waren
                         1908/09 Gegenstand mehrerer Artikel in der «Christlichen Welt»; vgl. 
                             <bibl corresp="kbga-bibls-2674">
-                                <persName ref="kbga-actors-4793">G. Koch</persName>, <hi rend="i">Zur
+                                <persName ref="kbga-actors-4793">G. Koch</persName>, <hi rend="italic">Zur
                             Beurteilung der modernen Persönlichkeitskultur</hi>, in: ChW 22
                         (1908), S. 399f.554–562.578–581.602–608</bibl>; <bibl corresp="kbga-bibls-2675">
                                 <persName ref="kbga-actors-286">J. Müller</persName>,
-                            <hi rend="i">Einige Bemerkungen zu dem Aufsatz über
+                            <hi rend="italic">Einige Bemerkungen zu dem Aufsatz über
                             Persönlichkeitskultur</hi>, in: a.a.O., Sp. 656–659</bibl>; <bibl corresp="kbga-bibls-2676">
                                 <persName ref="kbga-actors-4793">G.
-                        Koch</persName>, <hi rend="i">Johannes Müllers Pflege persönlichen Lebens und der
+                        Koch</persName>, <hi rend="italic">Johannes Müllers Pflege persönlichen Lebens und der
                             Idealismus</hi>, in: a.a.O., Sp. 722–728</bibl>; <bibl corresp="kbga-bibls-2677">
-                                <persName ref="kbga-actors-9258">M. Eger</persName>, <hi rend="i">Johannes
+                                <persName ref="kbga-actors-9258">M. Eger</persName>, <hi rend="italic">Johannes
                             Müller als Problem</hi>, in: ChW 23 (1909),
-                        Sp. 74–84</bibl>.</note> in denen Persönlichkeiten gezüch<pb xml:id="p418" ed="pga"/>tet und kultiviert werden wie köstliche holländische Tulpen
+                        Sp. 74–84</bibl>.</note> in denen Persönlichkeiten gezüch<pb xml:id="p418" ed="pga" break="no"/>tet und kultiviert werden wie köstliche holländische Tulpen
                     in einem Treibhaus. Und daneben wachsen zahlreiche große und kleine
                     Persönlichkeiten wild wie die Spargeln im Frühjahr, eine persönlicher als
                     die andre. Gymnasiasten und Lehrmädchen fühlen sich als Persönlichkeiten,
@@ -403,13 +405,13 @@
                         ausdrücklich:<note type="textcritical" n="d" xml:id="nd" target="fn-d"> Im Mskr. nachträglich mit Bleistift eingefügt.</note>
                      Dieser allgemeine Ruf nach persönlichem Leben ist trotz der Schrullen
                     und Absonderlichkeiten, die er zeitigt, etwas vom Erfreulichsten in der
-                    geistigen Physiognomie unsrer <term type="Sachen" key="Zeitgeist">Zeit</term>. Nur wird dabei auf weite Strecken <hi rend="i">eines</hi>
+                    geistigen Physiognomie unsrer <term type="Sachen" key="Zeitgeist">Zeit</term>. Nur wird dabei auf weite Strecken <hi rend="italic">eines</hi>
                     übersehen: <persName ref="kbga-actors-261">Luther</persName> und
                         <persName ref="kbga-actors-136">Goethe</persName>
                     und <persName ref="kbga-actors-500">Bismarck</persName>
                     sind nicht einfach Persönlichkeiten gewesen, sie sind nicht als solche
                     geboren und machten auch als 15-­ und 20-Jährige nicht den Anspruch darauf,
-                    es zu sein, sondern sie sind es <hi rend="i">geworden</hi>. Macht man es
+                    es zu sein, sondern sie sind es <hi rend="italic">geworden</hi>. Macht man es
                     umgekehrt, vergisst man das Werden und fängt mit dem Sein an, dann wird das
                     persönliche Leben unzweifel<pb ed="A" rend="hidden" n="10"/>haft ein Krüppel,
                     denn die angebliche Persönlichkeit ist dann nur eine neue Verkleidung für
@@ -434,7 +436,7 @@
                         Zopfe und den Gamaschen. Seine Genialität bestand darin, dass er alle
                         Lieder, auch die Kirchenlieder, nach der Melodie des Dessauer Marsches
                         sang» (<bibl corresp="kbga-bibls-2678"><persName ref="kbga-actors-9259">H. Laube</persName>,
-                            <hi rend="i">Reise durch das Biedermeier</hi>, Paderborn 2012,
+                            <hi rend="italic">Reise durch das Biedermeier</hi>, Paderborn 2012,
                         S. 66</bibl>).</note> bis man selber und womöglich auch die Andern daran <pb xml:id="p419" ed="pga"/> glauben als an eine Offenbarung. Es ist klar, dass
                     diese angeblichen <term type="Sachen" key="Persönlichkeit, angebliche">Persönlichkeiten</term> das Gegenteil sind von dem, was sie zu sein
                     behaupten. Denn nur da kann von einer Persönlichkeit die Rede sein, wo die
@@ -453,14 +455,14 @@
                     wichtiger ist, dass wir uns selbst als Beispiel nehmen, dass wir uns selbst,
                     jedes für sich, die Frage stellen: was wird <pb ed="A" rend="hidden" n="11"/> bei
                     mir aus dem Samen des ewigen Lebens, den Gott mir in dieser oder jener Weise
-                    geschenkt hat, die höchst einfache Frage: welches ist <hi rend="i">mein</hi>
-                    Gottesdienst, d. h. <hi rend="i">meine</hi>
+                    geschenkt hat, die höchst einfache Frage: welches ist <hi rend="italic">mein</hi>
+                    Gottesdienst, d. h. <hi rend="italic">meine</hi>
                     <term type="Sachen" key="Gottesdienst, Bewährung Gottes im Leben">Bewährung</term> und Betätigung <term type="Sachen" key="Gottesdienst, Betätigung Gottes im Leben">Gottes</term> im Leben.
                     Der Same ist da und er wächst, aber wir sind verantwortlich dafür, ob ein
                     aufrechter, gerader Baum daraus wird oder ein Krüppel.</p>
                 <p>Nachdem wir uns das gefragt haben, wenden wir uns zu der merkwürdigen
                     Beschreibung, die Jakobus nun von dem Gottesdienst gibt, wie er sein soll.
-                    Er sagt nämlich: <hi rend="i">Reine Frömmigkeit, fleckenlose vor Gott dem Vater ist
+                    Er sagt nämlich: <hi rend="italic">Reine Frömmigkeit, fleckenlose vor Gott dem Vater ist
                         das: nach den Waisen und Witwen sehen in ihrer Trübsal, sich selbst aber
                         von der Welt unbefleckt erhalten</hi>.</p>
                 
@@ -470,7 +472,7 @@
                     das will im Neuen <term type="Sachen" key="Neues Testament">Testament</term>
                     nichts Anderes sagen als: vor dem lebendigen, wirklichen <term type="Sachen" key="Gott, lebendiger">Gott</term>, der uns in Jesus und seiner Art
                     deutlich und gegenwärtig ist. Dieser Gott hat in unverdienter <term type="Sachen" key="Gott, Freundlichkeit">Freundlichkeit</term> den Samen
-                    des Lebens in uns gepflanzt, <hi rend="i">so</hi> sieht nun der Baum aus, der
+                    des Lebens in uns gepflanzt, <hi rend="italic">so</hi> sieht nun der Baum aus, der
                     daraus wachsen soll. Verstehst du das?</p>
                 <p>Jakobus zieht zwei einfache Linien: nach den Waisen und Witwen sehen und sich
                     von der Welt unbefleckt erhalten, das ist reine <term type="Sachen" key="Frömmigkeit, reine">Frömmigkeit</term>, reiner <term type="Sachen" key="Gottesdienst, reiner">Gottesdienst</term>. Diese Beschreibung mutet
@@ -482,8 +484,8 @@
                     hervorgeht, wie die Blume sich aus der <pb ed="A" rend="hidden" n="12"/>
                     unscheinbaren Knospe entwickelt, dass von erfreulichem Reichtum hier wie im
                     äußern Leben nur die Rede sein kann, wo ein Mensch von unten herauf
-                        <hi rend="i">ge</hi>dient<note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
-                     und sich das Seine im tapfern Kampf mit dem Leben <hi rend="i">ver</hi>dient<note type="textcritical" n="f" xml:id="nf"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                        <hi rend="italic">ge</hi>dient<note type="textcritical" n="e" xml:id="ne"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
+                     und sich das Seine im tapfern Kampf mit dem Leben <hi rend="italic">ver</hi>dient<note type="textcritical" n="f" xml:id="nf"> Im Mskr. nachträglich mit Bleistift unterstrichen.</note>
                      hat. Es liegt gerade im Wesen der reinen <term type="Sachen" key="Frömmigkeit, reine">Frömmigkeit</term>, dass wir diesen und keinen
                     andern Gang gehen. Machen wir’s umgekehrt, begehren wir mit dem
                     Reichtum anzufangen, mit hohen und erhabenen Ideen und Gefühlen, dann ist
@@ -492,7 +494,7 @@
                 <p> Die nüchterne Anweisung des <persName ref="kbga-actors-8959">Jakobus</persName> charakterisiert sich also gerade dadurch, dass sie uns
                     sehr ernsthaft von uns selbst und unsern Wünschen ablenkt. Wir betrachten
                     sie näher:</p>
-                <p>Der erste Paragraph lautet: <hi rend="i">nach den Waisen und Witwen sehen in ihrer
+                <p>Der erste Paragraph lautet: <hi rend="italic">nach den Waisen und Witwen sehen in ihrer
                         Trübsal</hi>. Dass die allgemeine <term type="Sachen" key="Nächstenliebe">Menschenliebe</term> eine gute Sache sei, das haben
                     auch die <term type="Sachen" key="Juden / Judentum">Juden</term> und <term type="Sachen" key="Heiden / Heidentum">Heiden</term> schon gewusst oder
                     geahnt, und wir Alle haben das unmittelbare Gefühl, dass das zu rechter
@@ -500,12 +502,12 @@
                     Auch die, welche von den sogenannten <term type="Sachen" key="Dogmen">Dogmen</term> des <pb xml:id="p421" ed="pga"/> Christentums nichts wissen
                     wollen, erklären sich mit diesem Prinzip sehr einverstanden, und noch
                     befriedigter wären sie, wenn es zu machen wäre, dass die ganze Kirche sich
-                    in <hi rend="i">eine</hi> große Armen-Anstalt verwandelte. Allein es wird doch
+                    in <hi rend="italic">eine</hi> große Armen-Anstalt verwandelte. Allein es wird doch
                     seinen guten Grund haben, dass <persName ref="kbga-actors-8959">Jakobus</persName> diese scheinbar allgemein angenommene
                     Selbstverständlichkeit in dieser Weise an die Spitze stellt. Ich bitte zu
                     beachten, dass nicht von Wohltätigkeit, nicht von Pensionen und
                     Unterstützungsbons die Rede ist, sondern davon, dass man nach den Waisen und
-                    Witwen <hi rend="i">sehen</hi>, d. h. doch wohl, dass man sich persönlich um sie
+                    Witwen <hi rend="italic">sehen</hi>, d. h. doch wohl, dass man sich persönlich um sie
                     bekümmern solle. Was von uns gefordert wird, ist also nicht unser <term type="Sachen" key="Geld">Geld</term>, sondern unsre <term type="Sachen" key="Liebe">Liebe</term>, unsre Teilnahme. Wir selbst werden gefordert.
                         <pb ed="A" rend="hidden" n="13"/> Das sieht auf den ersten Blick aus wie die
                     geringere Forderung. In Wirklichkeit ist es die größere. Denn unsrer Art
@@ -537,7 +539,7 @@
                 <p> <pb rend="noPipe" xml:id="p422" ed="pga"/>
                     <pb ed="A" rend="hidden" n="14"/> Und nun ahnen wir vielleicht schon, dass das
                     Andre, was von uns gefordert ist, in Wirklichkeit nicht etwas Anderes ist,
-                    sondern dieselbe Sache, von der andern Seite gesehen. Du sollst <hi rend="i">dich
+                    sondern dieselbe Sache, von der andern Seite gesehen. Du sollst <hi rend="italic">dich
                         selbst von der Welt unbefleckt erhalten</hi>. Wenn das erste Gebot uns
                     von der <term type="Sachen" key="Liebestätigkeit">Liebestätigkeit</term> auf
                     die Liebe, von der Liebe auf die uninteressierte <term type="Sachen" key="Liebe, uneigennützige">Liebe</term> ­und von da auf den reinen
@@ -555,7 +557,7 @@
                     Gottes freundliches Geschenk, wenn wir’s sein dürfen. Aber das ist
                     die Befleckung, wenn wir zu uns selbst sagen: so, nun will ich leben, um
                     Geld zu verdienen und fröhlich zu sein, das soll der Inhalt meines Lebens
-                    werden. Es ist nicht wahr: das ist <hi rend="i">kein</hi> Inhalt, sondern bloß
+                    werden. Es ist nicht wahr: das ist <hi rend="italic">kein</hi> Inhalt, sondern bloß
                     eine Form, dein Inhalt aber sei der gute <term type="Sachen" key="Wille, guter">Wille</term>. Sei keine leere Form, sondern ein Gefäß
                     mit Inhalt.</p>
                 <p> Das ist reine <term type="Sachen" key="Frömmigkeit, reine">Frömmigkeit</term> vor Gott dem <term type="Sachen" key="Gott, Vater">Vater</term>. So vereinfacht sich aber die an uns gestellte Forderung
@@ -564,7 +566,7 @@
                     unruhig, bis dass es ruhe in dir.<note xml:id="n12">Vgl. 
                             <bibl corresp="kbga-bibls-1312">
                                 <persName ref="kbga-actors-14">A. Augustinus</persName>,
-                            <hi rend="i">Confessiones</hi> I, 1,1 (CSEL 33/1, S. 1,8f.)</bibl>: «Magnus es,
+                            <hi rend="italic">Confessiones</hi> I, 1,1 (CSEL 33/1, S. 1,8f.)</bibl>: «Magnus es,
                         domine, […]. Tu excitas, ut laudare te delectet, quia fecisti nos
                         ad te et inquietum est cor nostrum, donec requiescat in te.»</note>
                     Etwas von göttlicher Art hat der Mensch empfangen und empfängt es überall
@@ -620,9 +622,9 @@
                             <l>Wonne verheißenden,</l>
                             <l> <pb rend="noPipe" xml:id="p424" ed="pga"/> Euch ist der Meister nah.</l>
                             <l>
-                                <hi rend="i">Euch ist er da!</hi><note xml:id="n13">
+                                <hi rend="italic">Euch ist er da!</hi><note xml:id="n13">
                                     <bibl corresp="kbga-bibls-647">
-                                        <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Faust. Der Tragödie erster
+                                        <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Faust. Der Tragödie erster
                                         Teil</hi>,
                                     V. 737–741.757–761.797–807 (Nacht).</bibl>
                                 </note>

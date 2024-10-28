@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1040">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 38</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 26. Oktober 1925</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1040 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1040 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 58–60.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">38</title>
+          <title type="text">Brief Nr. 38: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -86,7 +87,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:09+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:09+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -102,7 +103,7 @@
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
         <p>Ihr Manuskript traf mich 1 1/2 Stunde, bevor ich von einem kohlbrüggianischen Fabrikanten
-          im Auto von <placeName ref="kbga-places-27">Göttingen</placeName> nach <placeName ref="kbga-places-197">Elberfeld</placeName> entführt wurde, wo ich <hi rend="i">meine</hi>
+          im Auto von <placeName ref="kbga-places-27">Göttingen</placeName> nach <placeName ref="kbga-places-197">Elberfeld</placeName> entführt wurde, wo ich <hi rend="italic">meine</hi>
           Anti-Petersoniade ein zweites Mal steigen ließ unter großem Zulauf des rheinischen Klerus
           und sonstigen theologisch interessierten Publikums.<note xml:id="n01">Vgl. dazu <persName ref="kbga-actors-2151">Barths</persName>
             detaillierte Schilderung in seinem Brief vom <date when="1925-10-25">25.10.1925</date> an <persName ref="kbga-actors-403">Thurneysen</persName>, <bibl corresp="kbga-bibls-932">
@@ -120,21 +121,21 @@
           hat den Vorzug größerer Akribie im Einzelnen. Beide sind aber sicher nebeneinander nicht
           nur möglich, sondern nützlich, ja notwendig. <persName ref="kbga-actors-275">Merz</persName> hat die meinige sofort nach dem <date when="1925-10-07">7. Oktober</date> eingefordert und abschreiben
           lassen; sie ist vermutlich schon im Druck. Ich habe ihm nun gestern die Ihrige angemeldet
-          und ihm die Wahl gelassen, sie beide entweder in einer Broschüre <hi rend="i">oder</hi>
+          und ihm die Wahl gelassen, sie beide entweder in einer Broschüre <hi rend="italic">oder</hi>
           gleichzeitig im nächsten Heft von <orgName ref="kbga-actors-6169">Zw.d.Z.</orgName> erscheinen zu lassen. Vermutlich wird er das
           zweite wählen.<note xml:id="n03">Beide Arbeiten erschienen zusammen in «<orgName ref="kbga-actors-6169">Zwischen den
             Zeiten</orgName>»; s. <ref type="pub" target="1039#fn_n01">Nr. 37, Anm. 1</ref>.</note> Kaiser<note xml:id="n04">
                         <orgName ref="kbga-actors-631">Verlag Chr. Kaiser</orgName>, <placeName ref="kbga-places-43">München</placeName>.</note> läßt sich auf
           Broschüren nicht gerne ein, und in <orgName ref="kbga-actors-6169">Zw.d.Z.</orgName> wird die Sache sicherer und weiter hin gelesen.
-          Die Thurneysencitate müssen Sie, eventuell unter Anzeige an den Autor, ruhig <hi rend="i">stehen</hi> lassen. In meinem Römerbrief sind auch ganze halbe Seiten von <persName ref="kbga-actors-403">Thurneysen</persName>!!<note xml:id="n05">Vgl. das Vorwort zur
+          Die Thurneysencitate müssen Sie, eventuell unter Anzeige an den Autor, ruhig <hi rend="italic">stehen</hi> lassen. In meinem Römerbrief sind auch ganze halbe Seiten von <persName ref="kbga-actors-403">Thurneysen</persName>!!<note xml:id="n05">Vgl. das Vorwort zur
             zweiten Auflage in: <bibl corresp="kbga-bibls-48">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Der Römerbrief</hi>,
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Der Römerbrief</hi>,
                   München 1922<edition rend="sup">2</edition>, S. XVII (Abdrucke seit 1923: S. XVIII;
                   Zürich 1989<edition rend="sup">15</edition>: S. XXVf.).</bibl>
                     </note> Wir sind doch nicht so. Alles in Ihrem Aufsatz ist sehr gut an seinem Platz; nur
           eine kleine historische Anmerkung habe ich mir erlaubt. Der lutherische Bekenntnis-Begriff
-          ist eine merkwürdig <hi rend="i">schillernde</hi> Sache wie die  lutherische Dogmatik
-          überhaupt. In <placeName ref="kbga-places-294">Remscheid</placeName>, wo ich auch war, hat <hi rend="i">
+          ist eine merkwürdig <hi rend="italic">schillernde</hi> Sache wie die  lutherische Dogmatik
+          überhaupt. In <placeName ref="kbga-places-294">Remscheid</placeName>, wo ich auch war, hat <hi rend="italic">
                         <persName ref="kbga-actors-253">Loew</persName></hi> Ihren Aufsatz gelesen und rief laut: Gut, gut! Der Violette soll
           nur zusehen, wie er sich unserem Kreuzverhör entzieht. Auch ich habe ihn so glimpflich als
           möglich behandelt, am Anfang sogar einen heftigen Vorstoß gegen die Leute (gemeint:
@@ -148,7 +149,7 @@
           Gelächter erledigen wollen. Ich sah ihn noch mehrmals <pb xml:id="p060" ed="pga"/> in
           <placeName ref="kbga-places-27">Göttingen</placeName>. Wir wurden menschlich wieder gute Freunde, aber der Eindruck, daß W.i.Th?<note xml:id="n08">
                         <bibl corresp="kbga-bibls-1033">
-                            <hi rend="i">Was ist
+                            <hi rend="italic">Was ist
                       Theologie?</hi> Siehe <ref type="pub" target="1033#fn_n05">Nr. 31, Anm. 5</ref>.</bibl>
                     </note> einer tollen Caprice
           entsprungen ist und (trotz des Ernstes der aufgeworfenen Probleme) ein sträflich
@@ -169,7 +170,7 @@
         </p>
         <p>Ihnen einen einseitig beschriebenen Brief zu schicken<note xml:id="n10"><ref corresp="A">Mskr.</ref>:
             «schreiben» durchgestrichen, «schicken» darübergeschrieben.</note>, werde ich mich bei
-          der Verwendung, die Sie von solchen Scriptis machen, für alle Zeiten <hi rend="i">schwer</hi> hüten.<note xml:id="n11">
+          der Verwendung, die Sie von solchen Scriptis machen, für alle Zeiten <hi rend="italic">schwer</hi> hüten.<note xml:id="n11">
                             <persName ref="kbga-actors-512">Bultmann</persName> benutzte häufig einseitig beschriebene
             oder bedruckte Blätter wieder als Konzeptpapier für Vorlesungen, Vorträge und Aufsätze,
             so vermutlich auch für das Manuskript, das er <persName ref="kbga-actors-2151">Barth</persName> geschickt hatte.</note>

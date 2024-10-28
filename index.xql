@@ -94,19 +94,23 @@ declare function idx:get-first-author($node as element()) {
 };
 
 declare function idx:get-book($target as xs:string) {
-    if (matches($target, '^[0-3]\.')) then substring-before($target, '.') || '.' || substring-before(substring-after($target, '.'), '.') else substring-before($target, '.')
+    let $tokens := tokenize($target, '\.')
+    return
+    if (matches($tokens[1], '^[1-3]')) then string-join(subsequence($tokens, 1, 2), '.')  else $tokens[1]
 };
 
 declare function idx:get-chapter($target as xs:string) {
     for $ref in tokenize($target, '\s+') 
+    let $tokens := tokenize($ref, '\.')
     return 
-     if (matches($ref, '^[1-3]\.')) then replace($ref, '^[1-3]\.[A-Za-zö]+\.([0-9]+)\.?\d*$', '$1') else replace($ref, '^[A-Za-zö]+\.([0-9]+)\.?[0-9]*$', '$1')
+    if (matches($tokens[1], '^[1-3]')) then $tokens[3] else $tokens[2]
 };
 
 declare function idx:get-verse($target as xs:string) {
-    for $ref in tokenize($target, '\s+') 
+    for $ref in tokenize($target, '\s+')
+    let $tokens := tokenize($ref, '\.')
     return 
-        if (matches($ref, '^[1-3]\.')) then replace($ref, '^[1-3]\.[A-Za-zö]+\.[0-9]+\.([0-9]+)$', '$1') else replace($ref, '^[A-Za-zö]+\.[0-9]+\.?([0-9]*)$', '$1')
+        if (matches($tokens[1], '^[1-3]')) then $tokens[4] else $tokens[3]
 
 };
 

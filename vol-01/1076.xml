@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1076">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 74</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 27. Mai 1931</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1076 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1076 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 114–118.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">74</title>
+          <title type="text">Brief Nr. 74: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -138,9 +139,9 @@
                       Kübel</persName>, <persName ref="kbga-actors-120">E. Foerster</persName>, <persName ref="kbga-actors-125">H. Frick</persName>, <persName ref="kbga-actors-321">O.
                       Piper</persName>, <persName ref="kbga-actors-388">H. von Soden</persName> in: <bibl corresp="kbga-bibls-2212">
                                     <title>CW</title>, Jg. 44 (1930) und Jg. 45 (1931)</bibl>, <bibl corresp="kbga-bibls-1140">bes. <persName ref="kbga-actors-329">M. Rade</persName>, <title level="a">Der Marburger Vorschlag</title>, in: <title>CW</title>, Jg. 45 (1931), Sp. 231–234</bibl>; <bibl corresp="kbga-bibls-1141">
-                                    <persName ref="kbga-actors-125">H. Frick</persName>, <hi rend="i">Die Marburger Opposition gegen den
+                                    <persName ref="kbga-actors-125">H. Frick</persName>, <hi rend="italic">Die Marburger Opposition gegen den
                       Fakultätenartikel im Staatsvertrag</hi>, ebd., Sp. 650–662</bibl>; <bibl corresp="kbga-bibls-1142">
-                                    <persName ref="kbga-actors-388">H. von Soden</persName>, <hi rend="i">Noch
+                                    <persName ref="kbga-actors-388">H. von Soden</persName>, <hi rend="italic">Noch
                       einmal: Evangelische Bedenken zum Staatsvertrag zwischen Preußen und den preußischen Landeskirchen</hi>, ebd.,
                     Sp. 1104–1114.</bibl>
               </p>
@@ -218,7 +219,7 @@
           Drohung mit Kirchenaustritt und Amtsniederlegung<note xml:id="n08">Siehe <ref type="pub" target="1127">Anh. 16</ref>; vgl. dazu <ref type="pub" target="#fn_n05">Anm. 5</ref>.</note> würdig mit Ihnen zu
           verhandeln. Diese Drohung mißfiel mir überaus, nicht an sich, aber in ihrem Verhältnis zu
           dem, was Sie von uns wollten: ich meinte und meine noch jetzt, wenn Sie mit uns Anderen
-          ernsthaft diskutieren wollten, dann mußte das <hi rend="i">vor</hi> dem Ergehen solcher
+          ernsthaft diskutieren wollten, dann mußte das <hi rend="italic">vor</hi> dem Ergehen solcher
           Drohung geschehen. Ist die <foreign xml:lang="lat">ultima ratio</foreign> schon geltend gemacht, was sollen dann alle
           <foreign xml:lang="lat">rationes</foreign>? Sie konnten uns nicht vor diese geladene Kanone stellen und verlangen, daß wir
           uns in dieser für Sie offenbar entschiedenen Situation für Ihre theologischen Argumente

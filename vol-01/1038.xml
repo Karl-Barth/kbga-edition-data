@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1038">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 36</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 25. September 1925</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1038 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1038 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 56.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">36</title>
+          <title type="text">Brief Nr. 36: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:09+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:09+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -105,7 +106,7 @@
           sämtlichen Werken und zerbreche mir den Kopf darüber, von wo aus er zu nehmen ist. Für
           Eile bin ich in keinem Fall. Ich habe lange nichts gelesen, was mich so angeregt und
           geärgert hätte wie diese glänzenden und in jeder Beziehung unverschämten Pamphlete, durch
-          die wir Alle wieder in <hi rend="i">eine</hi> Ecke mit <persName ref="kbga-actors-181">Herrmann</persName><note xml:id="n02">
+          die wir Alle wieder in <hi rend="italic">eine</hi> Ecke mit <persName ref="kbga-actors-181">Herrmann</persName><note xml:id="n02">
                         <seg type="bio">
                             <persName ref="kbga-actors-181">Wilhelm
               Herrmann</persName> (<date from="1846-12-06" to="1922-01-02">6.12.1846–2.1.1922</date>), <date from="1879" to="1917">1879–1917</date>
@@ -120,7 +121,7 @@
                             <persName ref="kbga-actors-317">E.
                   Peterson</persName>, <title level="a">Der Lobgesang der Engel und der mystische
                   Lobpreis</title>, in: <title>ZdZ</title>, Jg. 3 (1925), S. 141–153 (1. Aufsatz)</bibl>; <bibl corresp="kbga-bibls-1033">
-                            <persName ref="kbga-actors-317">ders</persName>., <hi rend="i">Was
+                            <persName ref="kbga-actors-317">ders</persName>., <hi rend="italic">Was
                   ist Theologie?</hi>, Bonn 1925 (3.
                 Aufsatz).</bibl>
                     </note> Ob das, was die Theologie tut, identisch ist mit dem
@@ -128,7 +129,7 @@
           sich hat?</p>
         <p>In <placeName ref="kbga-places-44">Münster</placeName> haben wir ein Haus gekauft, weniger schön als dieses, aber annehmbar. Aber nun
           kranken wir wieder daran, daß uns der scheinbar sichere Käufer hier plötzlich entgangen
-          ist. Mein Vortrag für den <date when="1925-10-07">7.</date> ist noch <hi rend="i">ganz</hi> im Stadium des innerlichen
+          ist. Mein Vortrag für den <date when="1925-10-07">7.</date> ist noch <hi rend="italic">ganz</hi> im Stadium des innerlichen
             Rumors.<note xml:id="n04">Vortrag <persName ref="kbga-actors-2151">Barths</persName> am <date when="1925-10-07">7.10.1925</date> in <placeName ref="kbga-places-27">Göttingen</placeName>; s. <ref type="pub" target="1033#fn_n07">Nr. 31, Anm. 7</ref>.</note> An Johannes
           und die Eschatologie<note xml:id="n05">Vorlesungsvorbereitung für das Wintersemester
               <date from="1925" to="1926">1925/26</date>; s. <ref type="pub" target="1019#fn_n08">Nr. 17, Anm. 8</ref>, und <ref type="pub" target="1032#fn_n13">Nr. 30,

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1103">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 101</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 9. November 1950</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1103 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1103 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 166.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">101</title>
+          <title type="text">Brief Nr. 101: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:45+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:45+02:00</change>
+      <change when="2024-10-28T10:45:12+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:12+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -107,8 +108,8 @@
                   Untersuchung</title>, in: <title level="s">Archiv für Philosophie</title>, Jg. 4
                   (1950), H. 1, S. 1–34</bibl> (= <bibl corresp="kbga-bibls-1270">
                             <persName ref="kbga-actors-102">J. Ebbinghaus</persName>, <title level="a">Sittlichkeit
-                  und Recht. Praktische Philosophie 1929–1954</title>. <hi rend="i">Gesammelte Schriften</hi>, Bd. I, hrsg. von H.
-                  Oberer und G. Geismann [<hi rend="i">Aachener Abh. z. Philosophie 5</hi>], Bonn
+                  und Recht. Praktische Philosophie 1929–1954</title>. <hi rend="italic">Gesammelte Schriften</hi>, Bd. I, hrsg. von H.
+                  Oberer und G. Geismann [<hi rend="italic">Aachener Abh. z. Philosophie 5</hi>], Bonn
                 1986, S. 299–332</bibl>). — <seg type="bio">
                             <persName ref="kbga-actors-102">Julius Ebbinghaus</persName>
               (<date from="1885-11-09" to="1981-06-16">9.11.1885–16.6.1981</date>), seit <date when="1940">1940</date> Ordinarius für Philosophie

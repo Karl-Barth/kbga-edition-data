@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53027">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 25</title>
         <title type="content">Predigt: Apokalypse 3,20</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Apokalypse 3,20, 19. Dezember 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53027 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53027 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 25: Predigt: Apokalypse 3,20</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p243" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>25</idno>
                 </head>
                 
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1909-12-19">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1909-12-19">Sonntag, den
                             19. Dezember 1909</date> <date rend="right">(4. Advent)</date>
                     </dateline>
                     <epigraph>
@@ -138,9 +140,9 @@
                     göttlichen <term type="Sachen" key="Gnade, Gottes G.">Gnade</term>, und
                     diese Brücke wird vom andern Ufer aus geschlagen, nicht vom unsrigen.</p>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Christus kommt. Ist das wahr und wie geht das zu?
-                        Zunächst ist doch Christus offenbar <hi rend="i">gewesen</hi>. Er hat einmal
+                        Zunächst ist doch Christus offenbar <hi rend="italic">gewesen</hi>. Er hat einmal
                             <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">gelebt</term> vor bald 2000 Jahren im Lande <placeName ref="kbga-places-871">Palästina</placeName>, wenig mehr als 30
                         Jahre lang gelebt, und dann ist er gestorben. Ich weiß, da ist die <term type="Sachen" key="Auferstehung, Jesu Christi">Auferstehungsbotschaft</term>, und ich weiß auch von den
                         wunderlichen Rechnungen und Verträgen, die die Theologen und die übrigen
@@ -149,7 +151,7 @@
                         Botschaft steckte. Aber offen oder insgeheim sind Alle darin einig, dass
                         das Alles recht lang her sei, dass Christus, seine Person und seine
                         Botschaft zu den Dingen gehören, <pb xml:id="p245" ed="pga"/> die einmal
-                            <hi rend="i">gewesen</hi> sind. Und da ist man dann in der <pb ed="A" rend="hidden" n="4"/>
+                            <hi rend="italic">gewesen</hi> sind. Und da ist man dann in der <pb ed="A" rend="hidden" n="4"/>
                         <term type="Sachen" key="Weihnachten">Weihnachtszeit</term> in einer
                         gewissen Ratlosigkeit. Man muss schon zu allerlei schönen Betrachtungen
                         über das kalte Wetter und über den warmen Ofen zur Winterszeit greifen,
@@ -163,7 +165,7 @@
                         <term type="Sachen" key="Monismus">Monistenbund</term>.<note xml:id="n01">Die monistische Bewegung war «in der Schweiz
                             vor 1912 nur in vier, miteinander nicht enger verbundenen Vereinen
                             (von Zürich, Bern, Basel und Genf)» organisiert (<bibl corresp="kbga-bibls-2577"><persName ref="kbga-actors-9192">K. A. Brodtbeck</persName>,
-                                <hi rend="i">Monismus und Sozialismus in der Schweiz. Teil II</hi>,
+                                <hi rend="italic">Monismus und Sozialismus in der Schweiz. Teil II</hi>,
                             in: Der Schweizer Freidenker 2 [1916], S. 78f., dort S. 78</bibl>; zum
                             einflussreicheren, 1906 gegründeten Deutschen Monistenbund s. oben.
                                 <ref type="pub" target="../volume/53/p179#fn_n12">S. 179, Anm. 12</ref>). – Im 1915 erschienenen ersten
@@ -172,28 +174,28 @@
                             «Weihnachten. Ein Märchen, eine Legende; denn die Wissenschaft weiss
                             nichts Bestimmtes über die Person Jesu. […] ‚Weihnachten‘ war
                             ursprünglich ein heidnisches Fest, […], das
-                                <hi rend="i">Sonnenwendfest</hi>. […] Für uns Modernen kann
+                                <hi rend="italic">Sonnenwendfest</hi>. […] Für uns Modernen kann
                             natürlich die Sonnenwendefeier nur noch symbolischen Charakter
-                            haben. <hi rend="i">Die Sonnenwendefeier sei uns ein Fest der Huldigung,
+                            haben. <hi rend="italic">Die Sonnenwendefeier sei uns ein Fest der Huldigung,
                                 der Hoffnung, ein Fest der Liebe zur Wahrheit!</hi> […]
                             Ich glaube an eine Erlösung, aber an eine Erlösung der Menschheit
                             durch jene, die die Ausbeutung bekämpfen, die Unwissenheit und die
-                            Barbarei, den Krieg. <hi rend="i">Die Erlösung des Einzelnen ist
+                            Barbarei, den Krieg. <hi rend="italic">Die Erlösung des Einzelnen ist
                                 vollbracht, wenn er Mitkämpfer für diese Ideale geworden, die
                                 Erlösung der Menschheit erreicht, wenn soziale Demokratie, wahre
                                 Volksbildung und Friede herrschen</hi>. In diesem Sinne feiern
                             wir Freidenker am 24. Dezember […] als moderne Heiden,
                             huldigend dem Symbol der Wahrheit und des Lichts, indem wir an
-                            ‚Weihnachten‘ das <hi rend="i">Sonnenwendefest</hi> feiern» (<bibl corresp="kbga-bibls-2578">H. G. W.,
-                                <hi rend="i">Weihnachten – Sonnenwende</hi>, in: Der Schweizer
+                            ‚Weihnachten‘ das <hi rend="italic">Sonnenwendefest</hi> feiern» (<bibl corresp="kbga-bibls-2578">H. G. W.,
+                                <hi rend="italic">Weihnachten – Sonnenwende</hi>, in: Der Schweizer
                             Freidenker 1 [1915], Nr. 20 [15.12.1915], S. 80f.</bibl>)</note> Wenn man also sagt: Christus kommt,
                         so muss man damit rechnen, dass in unzähligen Köpfen und Herzen heimlich
-                        geschrieben steht: Nein, umgekehrt, <hi rend="i">Christus ist gegangen</hi>,
+                        geschrieben steht: Nein, umgekehrt, <hi rend="italic">Christus ist gegangen</hi>,
                         längst gegangen! Ich weiß, da gibt’s Unterschiede: für die Einen
                         ist er gegangen, und sie sehen seine Spur nicht mehr. Vielleicht ist er
                         durch Gesetz und Menschenlehre ihrem innern Auge undeutlich und
                         unmöglich geworden. Vielleicht ist’s eigene Verholzung und
-                        Erstarrung? Ich wage nicht, sie anzukla<pb xml:id="p246" ed="pga"/>gen, ich
+                        Erstarrung? Ich wage nicht, sie anzukla<pb xml:id="p246" ed="pga" break="no"/>gen, ich
                         will es nicht tun. Wer ein Geschenk empfangen, dem steht’s übel
                         an, andre anzuklagen, weil sie kein Geschenk empfangen.</p>
                     <p>Für die Andern ist er gegangen, aber es ist ein merkwürdiger Niederschlag
@@ -227,7 +229,7 @@
                         fatalerweise nicht merkt, ob sie ganz <term type="Sachen" key="Theologie, protestantisch-orthodoxe">orthodox</term> oder ganz
                             <term type="Sachen" key="Theologie, liberale">liberal</term> ist?
                         Ist denn nicht das der Inhalt der wirklichen, der alten und immer neuen
-                            <term type="Sachen" key="Weihnachtsbotschaft">Weihnachtsbotschaft</term>, dass Christus <hi rend="i">kommt?</hi> Wenn
+                            <term type="Sachen" key="Weihnachtsbotschaft">Weihnachtsbotschaft</term>, dass Christus <hi rend="italic">kommt?</hi> Wenn
                         Christus einer von den vielen Gewesenen und Gegangenen ist, dann
                         verstehe ich nicht recht, warum wir alle Jahre <term type="Sachen" key="Weihnachten">Weihnacht</term>, seinen Geburtstag, feiern, warum
                         wir uns das ganze Jahr hindurch mit ihm beschäftigen, statt alle 50 <pb ed="A" rend="hidden" n="6"/> und 100 Jahre ein Jubiläum zu feiern, wie
@@ -252,7 +254,7 @@
                         dagewesen, jetzt sei er nicht mehr da, aber ich solle nur daran glauben,
                         dass er Gottes <term type="Sachen" key="Jesus Christus, Sohn Gottes">Sohn</term> gewesen sei, dann komme es gut mit mir. Mir
                         scheint’s eben, wer christliche <term type="Sachen" key="Frömmigkeit, christliche">Frömmigkeit</term>
-                        <hi rend="i">lebt</hi> und nicht bloß denkt oder fühlt, der könne nichts
+                        <hi rend="italic">lebt</hi> und nicht bloß denkt oder fühlt, der könne nichts
                         Andres von sich sagen, als dass er von der großen Kraft <term type="Sachen" key="Gotteskraft">Gottes</term> geführt und getragen
                         werde, dass das die gute Mär sei, von der die <term type="Sachen" key="Weihnachtsbotschaft">Weihnachtsbotschaft</term> redet, und dass
                         daneben sein kleines Zustimmen und <term type="Sachen" key="Glaube">Glauben</term> gar nicht in Betracht komme.</p>
@@ -283,7 +285,7 @@
                     <p> In den Worten Jesu war das unerklärliche Leben, seine <term type="Sachen" key="Jünger">Jünger</term> haben etwas davon gespürt,
                         wenn sie mit ihm durch die Felder gingen und wenn sie ihm fragend in die
                         Augen sahen. Sie haben dies Leben ergriffen, nein, es hat
-                            <hi rend="i">sie</hi> ergriffen in den großen Stunden, wo sie ihn mit den
+                            <hi rend="italic">sie</hi> ergriffen in den großen Stunden, wo sie ihn mit den
                         Armen und Kranken umgehen sahen, wo sie sahen, wie er zu den Zöllnern
                         und zu den Dirnen sich hielt und nicht zu den Braven und Frommen. Und
                         sie wurden überwältigt, gedemütigt und befreit durch dies unerklärliche
@@ -309,7 +311,7 @@
                         zuschütten können, ihre Wasser sind weiter geflossen, ein Tropfen am
                         andern, und sind doch zum Strome geworden.</p>
                     <p>Wie ging das zu? Jesus hat einmal ein merkwürdiges Wort gesprochen: Wo
-                        zwei oder drei unter euch versammelt sind in meinem <pb xml:id="p249" ed="pga"/> Namen, da bin ich mitten unter ihnen [<ref type="can" subtype="bible" target="Mt.18.20">Mt. 18,20</ref>]. <hi rend="i">So</hi> ging das zu, liebe
+                        zwei oder drei unter euch versammelt sind in meinem <pb xml:id="p249" ed="pga"/> Namen, da bin ich mitten unter ihnen [<ref type="can" subtype="bible" target="Mt.18.20">Mt. 18,20</ref>]. <hi rend="italic">So</hi> ging das zu, liebe
                         Freunde! Das unerklärliche Leben, das die paar Freunde Jesu in der
                         kurzen Zeit seines Erdenwallens gesehen haben, ist nicht vergangen.
                             <term type="Sachen" key="Leben, unvergänglich">Leben</term> kann
@@ -323,9 +325,9 @@
                         guten Boden. Und wo das Letztere der Fall war, da war dann auch das
                         Leben da, das die Menschen demütigte und zugleich frei machte. Da war
                         das Reich <term type="Sachen" key="Reich Gottes">Gottes</term>. Es war
-                            <hi rend="i">in</hi> den <term type="Sachen" key="Reich Gottes, in den Menschen">Menschen</term>, es kam
-                            <hi rend="i">durch</hi> die <term type="Sachen" key="Reich Gottes, durch die Menschen">Menschen</term>
-                        <hi rend="i">zu</hi> den <term type="Sachen" key="Reich Gottes, zu den Menschen">Menschen</term>, und doch
+                            <hi rend="italic">in</hi> den <term type="Sachen" key="Reich Gottes, in den Menschen">Menschen</term>, es kam
+                            <hi rend="italic">durch</hi> die <term type="Sachen" key="Reich Gottes, durch die Menschen">Menschen</term>
+                        <hi rend="italic">zu</hi> den <term type="Sachen" key="Reich Gottes, zu den Menschen">Menschen</term>, und doch
                         merkten, die davon wussten, gut, dass es über ihnen und außer ihnen war,
                         dass das Leben, das sie sahen, etwas ganz Anderes war als eine schöne
                             <term type="Sachen" key="Stimmungen">Stimmung</term>, wie sie aus
@@ -371,7 +373,7 @@
                         wirkliche <term type="Sachen" key="Weihnachtsbotschaft">Weihnachtsbotschaft</term>.</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="11"/> II</head>
                     <p rend="noindent">Durch die <term type="Sachen" key="Jesus Christus, geht durch die Geschichte">Geschichte</term>
                         und durch das Leben der <term type="Sachen" key="Jesus Christus, geht durch das menschliche Leben">Menschen</term> schreitet Christus. Höher und weiter rauschen die
@@ -397,7 +399,7 @@
                             solcher soll er später 48 000 Menschen bekehrt haben, bevor er den
                             Märtyrertod fand. Vgl. <bibl corresp="kbga-bibls-2579">
                                     <persName ref="kbga-actors-9193">A. Chr. Sellner</persName>,
-                                <hi rend="i">Immerwährender Heiligenkalender</hi>, erweiterte
+                                <hi rend="italic">Immerwährender Heiligenkalender</hi>, erweiterte
                             Ausgabe, Frankfurt/Main 1998, S. 424–426</bibl>; <bibl corresp="kbga-bibls-2580">
                                     <persName ref="kbga-actors-9194">M.-B. von Stritzky</persName>, Art. «Christophorus», in: LThK<hi rend="sup">3</hi> 2, Sp. 1174–1176</bibl>.</note> So ist’s, wenn
                         Christus zum Menschen kommt: er <pb xml:id="p251" ed="pga"/> stellt ihn
@@ -456,14 +458,14 @@
                         doch Christus die anbetende Ehrfurcht nicht verweigerte,<note xml:id="n08">Während <persName ref="kbga-actors-136">Goethe</persName> in einem Brief
                             an <persName ref="kbga-actors-658">J. C. Lavater</persName> vom 29.7.1782 bekannte, er sei zwar «kein
                             Widerchrist, kein Unchrist, aber doch ein dezidierter Nichtchrist»
-                                (<bibl corresp="kbga-bibls-2582"><hi rend="i">Goethes Briefe</hi>, Hamburger Ausgabe in vier Bänden,
-                            hrsg. von K. R. Mandelkow / B. Morawe, Bd. 1: <hi rend="i">Briefe der Jahre
+                                (<bibl corresp="kbga-bibls-2582"><hi rend="italic">Goethes Briefe</hi>, Hamburger Ausgabe in vier Bänden,
+                            hrsg. von K. R. Mandelkow / B. Morawe, Bd. 1: <hi rend="italic">Briefe der Jahre
                                 1764–1786</hi>, München 1968<hi rend="sup">2</hi>,
                             S. 402</bibl>), sagte er 50 Jahre später, am 11.3.1832: «Fragt man mich, ob
                             es in meiner Natur sei, ihm [= Christus] anbetende Ehrfurcht zu
                             erweisen, so sage ich: Durchaus! Ich beuge mich vor ihm, als der
                             göttlichen Offenbarung des höchsten Prinzips der Sittlichkeit»
-                            (<bibl corresp="kbga-bibls-1872"><persName ref="kbga-actors-1559">J. P. Eckermann</persName>, <hi rend="i">Gespräche mit Goethe in den letzten
+                            (<bibl corresp="kbga-bibls-1872"><persName ref="kbga-actors-1559">J. P. Eckermann</persName>, <hi rend="italic">Gespräche mit Goethe in den letzten
                                 Jahren seines Lebens</hi>, hrsg. von H. Schlaffer [
                                 <persName ref="kbga-actors-136">J. W. von Goethe</persName>, Sämtliche Werke, Münchener Ausgabe, Bd. 19],
                             München / Wien 1986, S. 694)</bibl>.</note> und hier ist’s die
@@ -486,7 +488,7 @@
                     <p> Das <term type="Sachen" key="Abendmahl">Abendmahl</term>, das die
                         christliche Gemeinde feiert, ist nichts Anderes als das Sinnbild der
                             <term type="Sachen" key="Abendmahl, Sinnbild der Gegenwart Christi">Gegenwart</term> dieses lebendigen Christus und als das Sinnbild
-                        der <term type="Sachen" key="Abendmahl, Sinnbild der Gemeinschaft">Gemeinschaft</term> der lebendigen Menschen und de<pb xml:id="p253" ed="pga"/>rer, die es werden sollen. Christus kommt, und wo er
+                        der <term type="Sachen" key="Abendmahl, Sinnbild der Gemeinschaft">Gemeinschaft</term> der lebendigen Menschen und de<pb xml:id="p253" ed="pga" break="no"/>rer, die es werden sollen. Christus kommt, und wo er
                         kommt, da sagt er: hier sind deine Brüder, zeige ihnen, was du gesehen
                         hast. Wie das Brot zerteilt ist auf den Hügeln in den Halmen des
                         Getreides und zusammengebracht in Eines, so gehört die Gemeinde der
@@ -530,7 +532,7 @@
                     
                     <p> <pb rend="noPipe" xml:id="p254" ed="pga"/> Und nun schenke uns Gott ein solches <term type="Sachen" key="Weihnachten">Weihnachtsfest</term> und eine solche <term type="Sachen" key="Abendmahl">Abendmahlsfeier</term>. Er lasse den
                         Ernst und die Freude des verborgenen Lebens reichlicher werden in unsrer
-                        Mitte. <hi rend="i">Er</hi> zeige uns den <hi rend="i">lebendigen</hi>
+                        Mitte. <hi rend="italic">Er</hi> zeige uns den <hi rend="italic">lebendigen</hi>
                         <term type="Sachen" key="Jesus Christus, lebendiger">Christus</term>.</p>
                     </div>  
                     <div type="closer">

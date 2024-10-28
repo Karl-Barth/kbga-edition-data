@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53022">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 20</title>
         <title type="content">Predigt: Markus 1,23-26</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 1,23-26, 14. November 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53022 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53022 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 20: Predigt: Markus 1,23-26</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,7 +65,7 @@
             <div type="sermon"> 
                 <pb xml:id="p184" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>20</idno>
                 </head>
@@ -115,7 +117,7 @@
                     neuen Erklärungsweise völlig durchsichtig. Wer ein wenig tiefer ins <term type="Sachen" key="Leben">Leben</term> hineinzusehen gelernt hat, wird
                     es nicht von sich <pb xml:id="p185" ed="pga"/> weisen, dass es mehr Dinge zwischen
                     Himmel und Erde gibt, als manche Schulweisheit sich träumen lässt.<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1541">
-                                <persName ref="kbga-actors-382">W. Shakespeare</persName>, <hi rend="i">The Tragedy of
+                                <persName ref="kbga-actors-382">W. Shakespeare</persName>, <hi rend="italic">The Tragedy of
                             Hamlet, Prince of Denmark</hi>, Act I, Scene V</bibl>:
                             <q rend="block">
                                 <lg>
@@ -162,13 +164,13 @@
                     kleinen Erzählung gefunden haben. Wir wollen versuchen, sie in ihrer
                     Eigentümlichkeit zu verstehen.</p>
                 <div>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Meine Freunde! Ihr erinnert euch vielleicht, wie<note type="textcritical" n="a" xml:id="na"> Im Mskr. nachträglich korrigiert aus: «dass».</note>
                          wir vor 14 Tagen uns hier gefragt haben, was die Menschen Staunen
                         gemacht habe über die Person <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Jesu</term>, wie sie dazu
                         gekommen sind zu sagen: der ist anders als die andren. Wir haben dann
                         gesehen, dass dies nichts andres war und ist als sein inneres <term type="Sachen" key="Jesus Christus, inneres Leben">Leben</term>,
-                        seine <term type="Sachen" key="Jesus Christus, Persönlichkeit">Persönlichkeit</term>, sein <term type="Sachen" key="Jesus Christus, Heldentum">Heldentum</term>.<note xml:id="n04">Siehe oben, <ref type="pub" target="../volume/53/p169#p169">S. 169f</ref>.</note> Und damit haben wir
+                        seine <term type="Sachen" key="Jesus Christus, Persönlichkeit">Persönlichkeit</term>, sein <term type="Sachen" key="Jesus Christus, Heldentum">Heldentum</term>.<note xml:id="n04">Siehe oben, <ref type="pub" target="../volume/53/p169#p169">S. 169f.</ref></note> Und damit haben wir
                         einen tiefen Blick in die Art unsrer Religion getan, wie sie im
                         Unterschied von aller <term type="Sachen" key="Religion, Lehrreligion">Lehrreligion</term> und <term type="Sachen" key="Religion, Gesetzesreligion">Gesetzesreligion</term> eine
                         Religion der <term type="Sachen" key="Religion, Persönlichkeitsreligion">Persönlichkeit</term> ist. In der Persönlichkeit Jesu, wie sie war
@@ -176,8 +178,8 @@
                     <p>Die merkwürdige Geschichte aus dem Evangelium, die ich heute zum Text
                         genommen, kann uns vielleicht helfen, dies Verständnis des Christentums
                         nach einer bestimmten, sehr ernsten Seite zu vertiefen,
-                            <hi rend="i">besser</hi> noch zu begründen. <pb ed="A" rend="hidden" n="5"/>
-                        Nach einer <hi rend="i">ernsten</hi> Seite, sage ich, denn diese Geschichte
+                            <hi rend="italic">besser</hi> noch zu begründen. <pb ed="A" rend="hidden" n="5"/>
+                        Nach einer <hi rend="italic">ernsten</hi> Seite, sage ich, denn diese Geschichte
                         führt uns bei aufmerksamer Besinnung dicht vor einen verborgenen Abgrund
                         unsres innern Lebens, des Lebens der <term type="Sachen" key="Frömmigkeit, Abgrund">Frömmigkeit</term>. Sie sagt uns zunächst
                         nichts mehr und nichts weniger als das, dass die Mächte und die Faktoren
@@ -186,7 +188,7 @@
                         gewaltige Steigerung, einen Ausbruch sondergleichen erfahren. Die
                         Bekanntschaft mit dem <term type="Sachen" key="Gutes / das Gute">Guten</term> und Reinen steigert zugleich das <term type="Sachen" key="Böses / das Böse">Böse</term> und Unreine in uns. Wollen wir
                         die Augen vor diesem Abgrund schließen, weil wir verlangen, in der
-                        Kirche nichts Trauriges, nichts Pessimisti<pb xml:id="p187" ed="pga"/>sches
+                        Kirche nichts Trauriges, nichts Pessimisti<pb xml:id="p187" ed="pga" break="no"/>sches
                         zu hören? Lasst mich mit einem Gleichnis antworten: ihr habt gewiss die
                         meisten schon einmal einen der Kupferstiche des Holländers <persName ref="kbga-actors-1189">Rembrandt</persName> gesehen.
                         Das Wesen seiner künstlerischen Art ist die harte, plötzliche Art der
@@ -225,7 +227,7 @@
                     <l>In allen Zonen liegt die Menschheit auf den Knien</l>
                     <l>Vor einem Göttlichen, das sie empor soll ziehen.<note xml:id="n06">
                                             <bibl corresp="kbga-bibls-2557">
-                                                <persName ref="kbga-actors-1398">Fr. Rückert</persName>, <hi rend="i">Die Weisheit des Brahmanen. Zwölfte
+                                                <persName ref="kbga-actors-1398">Fr. Rückert</persName>, <hi rend="italic">Die Weisheit des Brahmanen. Zwölfte
                                 Stufe. Frieden</hi>, 10, V. 1f. (ders., Werke, hrsg. von G.
                             Ellinger, Bd. 2, Leipzig / Wien 1897, S. 123).</bibl>
                                         </note>
@@ -254,7 +256,7 @@
                                 <l>Sich an die Welt mit klammernden Organen.<note xml:id="n07">
                                         <bibl corresp="kbga-bibls-647">
                                             <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                            <hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                                            <hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                                         V. 1112–1115 (Vor dem Tor).</bibl>
                                     </note>
                                 </l>
@@ -270,7 +272,7 @@
                         – Zwei Seelen wohnen, ach, in meiner <term type="Sachen" key="Mensch, zwei Seelen">Brust</term> – und das sagt uns
                             <persName ref="kbga-actors-136">Goethe</persName>, der wie kein zweiter uns gelehrt hat, den Menschen
                         als Einheit, Geist und Natur als Einheit zu verstehen! Ich meine, er hat
-                        beide Male recht. Der Mensch, die Natur und der Geist <pb ed="A" rend="hidden" n="8"/> in ihm, <hi rend="i">sind</hi> noch keine <term type="Sachen" key="Mensch, Natur und Geist keine Einheit">Einheit</term>, aber sie sollen eine <hi rend="i">werden</hi>, die
+                        beide Male recht. Der Mensch, die Natur und der Geist <pb ed="A" rend="hidden" n="8"/> in ihm, <hi rend="italic">sind</hi> noch keine <term type="Sachen" key="Mensch, Natur und Geist keine Einheit">Einheit</term>, aber sie sollen eine <hi rend="italic">werden</hi>, die
                         Einheit ist unser Ziel, unsre Aufgabe, aber wir haben sie noch nicht,
                         und solange wohnen zwei Seelen in unsrer Brust.</p>
                     <p>Aber nun haben wir von dem armen Menschen, von dem unsre Geschichte
@@ -278,8 +280,8 @@
                         in der Gewalt des bösen Geistes gestanden. Er redet und tut nicht, was
                         er, sondern was der <term type="Sachen" key="Dämonen">Dämon</term> in
                         ihm will. Ich meine, das Transparentbild dieser Geschichte sagt uns:
-                            <hi rend="i">Du</hi> bist der Mann! [vgl. <ref type="can" subtype="bible" target="2.Sam.12.7">2.Sam. 12,7</ref>] Oder ist’s
-                        dir noch nie so gegangen: wenn wir uns ernst<pb xml:id="p189" ed="pga"/>lich
+                            <hi rend="italic">Du</hi> bist der Mann! [vgl. <ref type="can" subtype="bible" target="2.Sam.12.7">2.Sam. 12,7</ref>] Oder ist’s
+                        dir noch nie so gegangen: wenn wir uns ernst<pb xml:id="p189" ed="pga" break="no"/>lich
                         und ehrlich fragten, was ist eigentlich die Macht, die in Wirklichkeit
                         mein Reden und Tun und Denken und Fühlen regiert, wenn wir bei dieser
                         Frage einmal alle den schönen gebildeten und halbgebildeten Aufputz, den
@@ -299,14 +301,14 @@
                                 <l>Der Gelüste Ketten?<note xml:id="n08">
                                             <bibl corresp="kbga-bibls-1624">
                                             <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                            <hi rend="i">Faust. Der Tragödie zweiter Teil</hi>,
+                                            <hi rend="italic">Faust. Der Tragödie zweiter Teil</hi>,
                                         V. 12024–12027 (Bergschluchten).</bibl>
                                     </note>
                                 </l>
                             </lg>
                         </q>
                     <p> <pb ed="A" rend="hidden" n="9"/> Aber das ist noch nicht Alles, was uns das
-                        Transparentbild unsrer Geschichte zeigt. <hi rend="i">Was willst du von uns,
+                        Transparentbild unsrer Geschichte zeigt. <hi rend="italic">Was willst du von uns,
                             Jesus von Nazareth, bist du gekommen, uns zu verderben?</hi> So
                         schreit dort der Unglückliche auf, von den dunklen Gewalten in ihm
                         getrieben, wie er Jesu ansichtig wird. Dies Aufschreien, dieser wilde
@@ -342,7 +344,7 @@
                         hat mit allem Nachdruck von einem radikalen, wurzelhaften <term type="Sachen" key="Böses / das Böse, radikales">Bösen</term>
                         geredet, das in jedem Menschen sei.<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-1509">
                                     <persName ref="kbga-actors-216">I. Kant</persName>,
-                                <hi rend="i">Die Religion innerhalb der Grenzen der bloßen
+                                <hi rend="italic">Die Religion innerhalb der Grenzen der bloßen
                                 Vernunft</hi>, Akademie-Ausgabe, Bd. VI, Berlin 1907/14,
                             S. 1–202, dort bes. S. 17–53 (Erstes Stück)</bibl>:
                             «Von der Einwohnung des bösen Princips neben dem guten. oder über
@@ -352,10 +354,10 @@
                         nicht zu tun, und wenn es hundert Mal unzeitgemäß wäre.</p>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Aber wir wandern weiter: Da berichtet unsre Geschichte
                         noch von einem der willenlos hervorgestoßenen Worte des Menschen mit dem
-                        unreinen Geist: <hi rend="i">Wir wissen, wer du bist: der Heilige <term type="Sachen" key="Jesus Christus, Heiliger Gottes">Gottes</term></hi>. Das erste Bekenntnis, die erste
+                        unreinen Geist: <hi rend="italic">Wir wissen, wer du bist: der Heilige <term type="Sachen" key="Jesus Christus, Heiliger Gottes">Gottes</term></hi>. Das erste Bekenntnis, die erste
                         Anerkennung Jesu, von der uns das Evangelium erzählt, aus solchem Munde!
                         Der Geist des Bösen ist auf dem <pb ed="A" rend="hidden" n="11"/> Höhepunkt
                         seiner Entwicklung wie gewaltsam genötigt, die überwältigende Größe des
@@ -366,7 +368,7 @@
                             <term type="Sachen" key="Wahrhaftigkeit"/>, die ein Mann wie <persName ref="kbga-actors-777">Sokrates</persName> in seinem Leben zu
                         hören behauptete.<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-2558">
                                     <persName ref="kbga-actors-322">Platon</persName>,
-                                <hi rend="i">Apologie</hi>, 27a–e; 31c–e</bibl>.</note> Das
+                                <hi rend="italic">Apologie</hi>, 27a–e; 31c–e</bibl>.</note> Das
                         führt uns nun tiefer. Die andre Seele in unsrer Brust, der andre Mensch,
                         das <term type="Sachen" key="Böses / das Böse">Böse</term> in uns
                         vollendet seinen Lauf, wenn es uns gebieterisch die Anerkennung des
@@ -434,16 +436,16 @@
                         plötzlicher, jäher als der andre, bei dem die Übergänge verschwimmen.
                         Aber ebenso sicher weiß der nicht, was Frömmigkeit, christliche <term type="Sachen" key="Frömmigkeit, christliche">Frömmigkeit</term> ist,
                         dem Christus nie als das Licht in der <term type="Sachen" key="Jesus Christus, Licht in der Tiefe">
-                                <hi rend="i">Tiefe</hi></term>
+                                <hi rend="italic">Tiefe</hi></term>
                         aufgegangen ist. Er hat von sich gesagt, er sei gekommen, die
-                            <hi rend="i">Sünder</hi> zur Buße zu rufen und nicht die Gerechten [vgl.
+                            <hi rend="italic">Sünder</hi> zur Buße zu rufen und nicht die Gerechten [vgl.
                         <ref type="can" subtype="bible" target="Mk.2.17">Mk. 2,17</ref> par.]. Wer
-                        einmal etwas an sich selbst verspürt hat von der altmodischen <pb ed="A" rend="hidden" n="13"/> Sache <term type="Sachen" key="Sünde">«Sünde»</term>, <hi rend="i">dem</hi>, nur dem, können die Augen
+                        einmal etwas an sich selbst verspürt hat von der altmodischen <pb ed="A" rend="hidden" n="13"/> Sache <term type="Sachen" key="Sünde">«Sünde»</term>, <hi rend="italic">dem</hi>, nur dem, können die Augen
                         aufgehen für den Heiligen <term type="Sachen" key="Jesus Christus, Heiliger Gottes">Gottes</term> und das, was er
                         uns zu sagen hat.</p>
                 </div>
                 <div>
-                    <head type="4">III</head>
+                    <head>III</head>
                     <p rend="noindent">Und wie nun jener Mensch das herausgestoßen hat: Du bist
                         der Heilige Gottes, da ist der Moment da, wo er nicht mehr bloß
                         getrieben, gestoßen wird von dem bösen Geist in ihm oder von seiner
@@ -459,9 +461,9 @@
                         fährt der arme Besessene mit dem Hellblick, den solche Menschen oft
                         haben, heraus mit der Antwort auf diese stille Frage: Er ist da, mitten
                         unter euch, der da kommen soll, der <term type="Sachen" key="Jesus Christus, Messias">Messias</term>, der Heilige <term type="Sachen" key="Jesus Christus, Heiliger Gottes">Gottes</term>.</p>
-                    <p>Und darauf nun augenblicklich die rätselhafte Gegenwirkung Jesu. <hi rend="i">Er
+                    <p>Und darauf nun augenblicklich die rätselhafte Gegenwirkung Jesu. <hi rend="italic">Er
                             bedroht ihn: verstumme und fahre aus von ihm!</hi> Und es
-                        geschieht: <hi rend="i">Der unreine Geist verzerrte ihn und fuhr mit lautem
+                        geschieht: <hi rend="italic">Der unreine Geist verzerrte ihn und fuhr mit lautem
                             Geschrei von ihm aus</hi>. Die Erklärung dessen, was da
                         vorgegangen ist, wollen wir den Ärzten und Psychologen überlassen. Wir
                         sehen nur eines: <pb ed="A" rend="hidden" n="14"/> Es ist in Jesus eine Kraft

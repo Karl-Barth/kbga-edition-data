@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5006">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Römer 1,16 (II)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Römer 1,16 (II), 18. Januar 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5006 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 24–36.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5006 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 24–36.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">202</title>
+          <title type="text">Predigt: Römer 1,16 (II)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:46+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:46+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -135,7 +137,7 @@
                unterscheiden lernen, was denn die Sache, die Gottessache ist, für die wir Christen
                einstehen, uns einsetzen sollen.</p>
         <p>Eine der häufigsten Verwechslungen besteht darin, daß man aus alter Gewohnheit meint,
-               das Evangelium sei dasselbe wie <hi rend="i">die christliche Kirche</hi>, entweder
+               das Evangelium sei dasselbe wie <hi rend="italic">die christliche Kirche</hi>, entweder
                die katholische oder die protestantische oder beide miteinander und dazu noch die
                Menge der übrigen christlichen Gemeinschaften und Richtungen. Es ist ja begreiflich
                genug: das Evangelium tritt einem wenigstens auf dem ersten Blick, hauptsächlich in
@@ -219,7 +221,7 @@
                hätte, wie der Mönch <persName ref="kbga-actors-1376">Konrad von Marburg</persName> der edlen Fürstin <persName ref="kbga-actors-1351">Elisabeth von Thüringen</persName> die
                schwersten Selbstpeinigungen auferlegte zu ihrer
                <pb xml:id="p029" ed="pga"/>
-               angeblichen willigen Heiligung, wie <persName ref="kbga-actors-1364">Papst Gregor der Große</persName><note resp="ak" type="digital" xml:id="n1a">Richtig: <persName ref="kbga-actors-4707">Gregor VII.</persName> (um <date from="1025" to="1085">1025–1085</date>)</note> <persName ref="kbga-actors-1367">Kaiser Heinrich IV.</persName>
+               angeblichen willigen Heiligung, wie <persName ref="kbga-actors-1364">Papst Gregor der Große</persName><note resp="ak" type="digital" xml:id="n1a" n="1a">Richtig: <persName ref="kbga-actors-4707">Gregor VII.</persName> (um <date from="1025" to="1085">1025–1085</date>)</note> <persName ref="kbga-actors-1367">Kaiser Heinrich IV.</persName>
                zwang, drei Tage lang im Büßerhemd in Kälte und Schnee auf ihn zu warten, um ihn so
                recht die Überlegenheit der geistlichen Gewalt über die weltliche fühlen zu lassen,
                wenn er dabeigewesen wäre, als <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-443">Zwingli</persName> wegen der verschiedenen Auslegung
@@ -266,7 +268,7 @@
                gewehrt haben. Man kann wohl mit <persName ref="kbga-actors-136">Goethe</persName> in einem gewissen Sinn richtig sagen: Es ist
                die ganze Kirchengeschichte ein Mischmasch von Irrtum und Gewalt!<note xml:id="n01">
                             <bibl corresp="kbga-bibls-1535">
-                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Zahme Xenien</hi>,
+                                <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Zahme Xenien</hi>,
                         IX. Buch (aus <persName ref="kbga-actors-136">Goethes</persName> Nachlaß).</bibl>
                         </note> und doch ists auch wahr, daß in dieser Geschichte der rote Faden des rechten
                Christusgeistes nicht abgerissen ist. Es kam immer wieder zum Vorschein, daß das
@@ -278,7 +280,7 @@
                beiseite, was du über Pfarrer, Kirchen und Gemeinschaften zu klagen hast, frage dich,
                wie du zu Jesus stehen willst, das ists,
                <pb xml:id="p031" ed="pga"/>
-                worum es sich für dich handelt. Kannst du an Jesus vorbeigehen? Hast du an <hi rend="i">ihm</hi> etwas auszusetzen oder zu vermissen? Kannst du von <hi rend="i">ihm</hi> im Ernst behaupten: er hat mir nichts zu bieten? Nicht wahr, das alles
+                worum es sich für dich handelt. Kannst du an Jesus vorbeigehen? Hast du an <hi rend="italic">ihm</hi> etwas auszusetzen oder zu vermissen? Kannst du von <hi rend="italic">ihm</hi> im Ernst behaupten: er hat mir nichts zu bieten? Nicht wahr, das alles
                kannst du im Grunde nicht. Du mußt selber gestehen: hier ist das Beste, was die
                Menschheit hervorgebracht, das Beste, was es auch für mich geben kann. Hier ist der,
                von dem wahrhaftig nicht nur die christliche Kirche, eine neue religiöse Lehre und
@@ -298,7 +300,7 @@
         <p>Doch nun müssen wir die Sache noch von einer anderen Seite aus betrachten. Nicht nur
                gegen die Kirchen, gegen die Christen, die das Evangelium zu vertreten behaupten,
                kann man mißtrauisch, kritisch, ablehnend sein, sondern auch gegen etwas viel
-               Naheliegenderes, nämlich gegen sich selbst, gegen seine <hi rend="i">eigene
+               Naheliegenderes, nämlich gegen sich selbst, gegen seine <hi rend="italic">eigene
                   Frömmigkeit</hi>, Tugend und Glaubensstärke. Man kann dazu kommen, daß man etwa so
                denkt: ach was, mein inneres Leben, meine Seele, das ist etwas so Schwaches, das ist
                ein so unsicher im Winde flackerndes Lichtlein, darauf mag und kann ich nicht
@@ -417,7 +419,7 @@
                als ob die Schwachheit unseres persönlichen Seelenlebens, unsere Religion diese
                unerfreuliche Wirkung haben dürfe. Beides ist nicht wahr. Das Evange<pb xml:id="p036" ed="pga" break="no"/>lium ist nicht das Christentum und was drin und dran hängt. Und das Evangelium ist
                auch nicht unser bißchen Frommsein. Dieser Dinge mögen und sollen wir uns schämen,
-               wir haben Anlaß dazu. Das Evangelium ist Jesus. Und wer <hi rend="i">ihn</hi> kennt,
+               wir haben Anlaß dazu. Das Evangelium ist Jesus. Und wer <hi rend="italic">ihn</hi> kennt,
                schämt sich seiner nicht, sondern er wagt es mit ihm. Das hat noch keiner bereut.</p>
       </div>
       <div type="closer">

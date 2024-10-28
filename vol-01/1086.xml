@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1086">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 84</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 17. November 1933</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1086 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1086 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 139–140.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">84</title>
+          <title type="text">Brief Nr. 84: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:11+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:11+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -104,12 +105,12 @@
         <p>Ich wurde am Dienstag früh von Pfarrer <persName ref="kbga-actors-202">Jacobi</persName><note xml:id="n01">
                         <seg type="bio">
                             <persName ref="kbga-actors-202">Gerhard Jacobi</persName> (<date from="1891-11-25" to="1971-07-12">25.11.1891–12.7.1971</date>), Pfarrer an der <placeName ref="kbga-places-820">Kaiser-Wilhelm-Gedächtniskirche</placeName> (nach dem 2. Weltkrieg zunächst Generalsuperintendent in <placeName ref="kbga-places-8">Berlin</placeName>, später Bischof in <placeName ref="kbga-places-69">Oldenburg</placeName>), war seit dem <date when="1933-10-20">20.10.1933</date> im <orgName ref="kbga-actors-8277">Bruderrat des Pfarrernotbundes</orgName>,</seg> dem neben <persName ref="kbga-actors-300">Martin Niemöller</persName> und <persName ref="kbga-actors-202">Jacobi</persName> angehörten: Superintendent <persName ref="kbga-actors-152">Hugo Hahn</persName> (<placeName ref="kbga-places-17">Dresden</placeName>), Pfarrer D. <persName ref="kbga-actors-174">Ludwig Heitmann</persName> (<placeName ref="kbga-places-90">Hamburg</placeName>), Pfarrer <persName ref="kbga-actors-225">Eberhard Klügel</persName> (<placeName ref="kbga-places-30">Hannover</placeName>), Pfarrer <persName ref="kbga-actors-258">Karl Lücking</persName> (<placeName ref="kbga-places-599">Dortmund</placeName>), Superintendent <persName ref="kbga-actors-288">Ludolf Müller</persName> (<placeName ref="kbga-places-803">Heiligenstadt</placeName>), Pfarrer <persName ref="kbga-actors-377">Georg Schulz</persName> (<placeName ref="kbga-places-162">Barmen</placeName>).</note> in <placeName ref="kbga-places-8">Berlin</placeName> Hals über Kopf dorthin berufen zur Beratung über die durch den bekannten Sportpalastskandal geschaffene neue Lage.<note xml:id="n02">Zur «Sportpalastkundgebung» der <orgName ref="kbga-actors-8309">Deutschen Christen</orgName> («D. C.») (<date>13.11. 1933</date>) vgl. <bibl corresp="kbga-bibls-329">
-                            K. Meier, <hi rend="i">Die Deutschen Christen. Das Bild einer Bewegung im Kirchenkampf des Dritten Reiches</hi>, Göttingen 1964, S. 32ff.</bibl>; ders., <bibl corresp="kbga-bibls-239">
-                            <hi rend="i">Der evangelische Kirchenkampf</hi>, Bd. I, Göttingen 1984<edition rend="sup">2</edition>, S. 122ff.</bibl>; <bibl corresp="kbga-bibls-173">
-                            K. Scholder, <hi rend="i">Die Kirchen und das Dritte Reich</hi>, Bd. I, Frankfurt a. M. / Berlin/Wien 1977 (Neuausgabe 1986), S. 701ff.</bibl> Zu <persName ref="kbga-actors-2151">Barths</persName> Reise nach <placeName ref="kbga-places-8">Berlin</placeName> und dem Treffen im Hause <persName ref="kbga-actors-202">Jacobi</persName> am <date when="1933-11-15">15.11.1933</date>, wo es u. a. zu einer Auseinandersetzung mit <persName ref="kbga-actors-300">M. Niemöller</persName> (<ref type="pub" target="#fn_n04">s. Anm. 4</ref>) kam, vgl. <persName ref="kbga-actors-2151">Barths</persName> Bericht im Vorwort seiner Broschüre <bibl corresp="kbga-bibls-1203">
+                            K. Meier, <hi rend="italic">Die Deutschen Christen. Das Bild einer Bewegung im Kirchenkampf des Dritten Reiches</hi>, Göttingen 1964, S. 32ff.</bibl>; ders., <bibl corresp="kbga-bibls-239">
+                            <hi rend="italic">Der evangelische Kirchenkampf</hi>, Bd. I, Göttingen 1984<edition rend="sup">2</edition>, S. 122ff.</bibl>; <bibl corresp="kbga-bibls-173">
+                            K. Scholder, <hi rend="italic">Die Kirchen und das Dritte Reich</hi>, Bd. I, Frankfurt a. M. / Berlin/Wien 1977 (Neuausgabe 1986), S. 701ff.</bibl> Zu <persName ref="kbga-actors-2151">Barths</persName> Reise nach <placeName ref="kbga-places-8">Berlin</placeName> und dem Treffen im Hause <persName ref="kbga-actors-202">Jacobi</persName> am <date when="1933-11-15">15.11.1933</date>, wo es u. a. zu einer Auseinandersetzung mit <persName ref="kbga-actors-300">M. Niemöller</persName> (<ref type="pub" target="#fn_n04">s. Anm. 4</ref>) kam, vgl. <persName ref="kbga-actors-2151">Barths</persName> Bericht im Vorwort seiner Broschüre <bibl corresp="kbga-bibls-1203">
                             <title level="a">Lutherfeier 1933</title> (<title>ThExh</title> 4), München 
                         1933, S. 3–7.</bibl> Vgl. ferner dazu und zum weiteren Vorgehen der kirchlichen Opposition: <bibl corresp="kbga-bibls-1205">
-                            J. Schmidt, <title level="a">Martin Niemöller im Kirchenkampf</title> (<hi rend="i">Hamburger Beiträge zur Zeitgeschichte VIII</hi>), Hamburg 
+                            J. Schmidt, <title level="a">Martin Niemöller im Kirchenkampf</title> (<hi rend="italic">Hamburger Beiträge zur Zeitgeschichte VIII</hi>), Hamburg 
                         1971, S. 149f.</bibl>; <bibl corresp="kbga-bibls-173">
                             K. Scholder, <title>a. a. O.</title>, S. 705–709</bibl>.</note> Wollen Sie Herrn <persName ref="kbga-actors-388">von Soden</persName> sagen,</p>
         

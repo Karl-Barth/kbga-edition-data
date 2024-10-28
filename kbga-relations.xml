@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-relations-file">
   <teiHeader>
     <fileDesc>
@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-03 12:08:33</p>
+        <p>Datenbankexport vom 2024-10-28 10:44:57</p>
         <p>Es wurden die Datensätze aus der Tabelle relations exportiert.</p>
         <p>Beziehungen zwischen Begriffen werden innehalb der terms ausgedrückt.</p>
       </sourceDesc>
@@ -46,10 +46,6 @@
             <relation name="RT" xml:id="kbga-relations-14" mutual="kbga-actors-1664 kbga-actors-1908"/>
             <relation name="RT" xml:id="kbga-relations-15" mutual="kbga-actors-1908 kbga-actors-8269"/>
             <relation name="RT" xml:id="kbga-relations-16" mutual="kbga-actors-8269 kbga-actors-1908"/>
-            <relation name="RT" xml:id="kbga-relations-17" mutual="kbga-actors-341 kbga-actors-2799"/>
-            <relation name="RT" xml:id="kbga-relations-18" mutual="kbga-actors-2799 kbga-actors-341"/>
-            <relation name="RT" xml:id="kbga-relations-19" mutual="kbga-actors-392 kbga-actors-2799"/>
-            <relation name="RT" xml:id="kbga-relations-20" mutual="kbga-actors-2799 kbga-actors-392"/>
             <relation name="RT" xml:id="kbga-relations-21" mutual="kbga-places-158 kbga-actors-47"/>
             <relation name="RT" xml:id="kbga-relations-22" mutual="kbga-actors-47 kbga-places-158"/>
             <relation name="RT" xml:id="kbga-relations-23" mutual="kbga-places-181 kbga-places-181"/>
@@ -126,8 +122,6 @@
             <relation name="RT" xml:id="kbga-relations-148" mutual="kbga-actors-8687 kbga-places-275"/>
             <relation name="RT" xml:id="kbga-relations-149" mutual="kbga-actors-3923 kbga-actors-18"/>
             <relation name="RT" xml:id="kbga-relations-150" mutual="kbga-actors-18 kbga-actors-3923"/>
-            <relation name="RT" xml:id="kbga-relations-151" mutual="kbga-actors-442 kbga-actors-913"/>
-            <relation name="RT" xml:id="kbga-relations-152" mutual="kbga-actors-913 kbga-actors-442"/>
             <relation name="RT" xml:id="kbga-relations-153" mutual="kbga-actors-8370 kbga-actors-8371"/>
             <relation name="RT" xml:id="kbga-relations-154" mutual="kbga-actors-8371 kbga-actors-8370"/>
             <relation name="RT" xml:id="kbga-relations-155" mutual="kbga-actors-8372 kbga-actors-8370"/>
@@ -169,8 +163,6 @@
             <relation name="RT" xml:id="kbga-relations-202" mutual="kbga-actors-5873 kbga-actors-5393"/>
             <relation name="RT" xml:id="kbga-relations-205" mutual="kbga-actors-4134 kbga-actors-8343"/>
             <relation name="RT" xml:id="kbga-relations-206" mutual="kbga-actors-8343 kbga-actors-4134"/>
-            <relation name="RT" xml:id="kbga-relations-209" mutual="kbga-actors-8894 kbga-actors-8828"/>
-            <relation name="RT" xml:id="kbga-relations-210" mutual="kbga-actors-8828 kbga-actors-8894"/>
             <relation name="RT" xml:id="kbga-relations-211" mutual="kbga-actors-8378 kbga-actors-8379"/>
             <relation name="RT" xml:id="kbga-relations-212" mutual="kbga-actors-8379 kbga-actors-8378"/>
             <relation name="RT" xml:id="kbga-relations-213" mutual="kbga-actors-8386 kbga-actors-8383"/>
@@ -185,8 +177,6 @@
             <relation name="RT" xml:id="kbga-relations-226" mutual="kbga-actors-7774 kbga-actors-8288"/>
             <relation name="AE" xml:id="kbga-relations-227" mutual="kbga-bibls-951 kbga-bibls-950"/>
             <relation name="AE" xml:id="kbga-relations-228" mutual="kbga-bibls-950 kbga-bibls-951"/>
-            <relation name="RT" xml:id="kbga-relations-229" mutual="kbga-actors-5483 kbga-actors-6403"/>
-            <relation name="RT" xml:id="kbga-relations-230" mutual="kbga-actors-6403 kbga-actors-5483"/>
             <relation name="AE" xml:id="kbga-relations-231" mutual="kbga-bibls-2837 kbga-bibls-1814"/>
             <relation name="AE" xml:id="kbga-relations-232" mutual="kbga-bibls-1814 kbga-bibls-2837"/>
             <relation name="AE" xml:id="kbga-relations-233" mutual="kbga-bibls-2963 kbga-bibls-2954"/>
@@ -203,12 +193,6 @@
             <relation name="RT" xml:id="kbga-relations-244" mutual="kbga-actors-354 kbga-actors-8244"/>
             <relation name="RT" xml:id="kbga-relations-245" mutual="kbga-actors-8244 kbga-actors-1306"/>
             <relation name="RT" xml:id="kbga-relations-246" mutual="kbga-actors-1306 kbga-actors-8244"/>
-            <relation name="RT" xml:id="kbga-relations-247" mutual="kbga-places-332 kbga-places-60"/>
-            <relation name="RT" xml:id="kbga-relations-248" mutual="kbga-places-60 kbga-places-332"/>
-            <relation name="RT" xml:id="kbga-relations-249" mutual="kbga-places-332 kbga-places-60"/>
-            <relation name="RT" xml:id="kbga-relations-250" mutual="kbga-places-60 kbga-places-332"/>
-            <relation name="RT" xml:id="kbga-relations-251" mutual="kbga-places-332 kbga-places-60"/>
-            <relation name="RT" xml:id="kbga-relations-252" mutual="kbga-places-60 kbga-places-332"/>
             <relation name="RT" xml:id="kbga-relations-253" mutual="kbga-actors-9715 kbga-actors-9716"/>
             <relation name="RT" xml:id="kbga-relations-254" mutual="kbga-actors-9716 kbga-actors-9715"/>
             <relation name="AE" xml:id="kbga-relations-255" mutual="kbga-bibls-918 kbga-bibls-111"/>
@@ -259,12 +243,20 @@
             <relation name="AE" xml:id="kbga-relations-304" mutual="kbga-bibls-96 kbga-bibls-4963"/>
             <relation name="AE" xml:id="kbga-relations-305" mutual="kbga-bibls-4962 kbga-bibls-4963"/>
             <relation name="AE" xml:id="kbga-relations-306" mutual="kbga-bibls-4963 kbga-bibls-4962"/>
+            <relation name="RT" xml:id="kbga-relations-307" mutual="kbga-actors-748 kbga-actors-8646"/>
+            <relation name="RT" xml:id="kbga-relations-308" mutual="kbga-actors-8646 kbga-actors-748"/>
+            <relation name="RT" xml:id="kbga-relations-309" mutual="kbga-places-1344 kbga-places-517"/>
+            <relation name="RT" xml:id="kbga-relations-310" mutual="kbga-places-517 kbga-places-1344"/>
+            <relation name="RT" xml:id="kbga-relations-311" mutual="kbga-places-591 kbga-actors-48"/>
+            <relation name="RT" xml:id="kbga-relations-312" mutual="kbga-actors-48 kbga-places-591"/>
+            <relation name="RT" xml:id="kbga-relations-313" mutual="kbga-actors-442 kbga-actors-8265"/>
+            <relation name="RT" xml:id="kbga-relations-314" mutual="kbga-actors-8265 kbga-actors-442"/>
           </listRelation>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:33+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:33+02:00</change>
+      <change when="2024-10-28T10:44:57+01:00">teiHeader was automatically produced from the database 2024-10-28T10:44:57+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

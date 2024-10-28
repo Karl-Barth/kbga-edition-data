@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53016">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 14</title>
         <title type="content">Predigt: 2.Timotheus 3,15</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 2.Timotheus 3,15, 31. Januar 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53016 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53016 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 14: Predigt: 2.Timotheus 3,15</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p118" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>14</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-1066">
-                            <hi rend="i">Niedergrenzebach</hi></placeName> in Hessen<note xml:id="n01">Dass Barth und seine Schweizer
+                            <hi rend="italic">Niedergrenzebach</hi></placeName> in Hessen<note xml:id="n01">Dass Barth und seine Schweizer
                                 Kommilitonen <persName ref="kbga-actors-423">Gottlob Wieser</persName> (1888–1973) und Christian <persName ref="kbga-actors-9158">Walkmeister</persName> (1883–1966) noch im Januar 1909
                                 an einem Sonntag «auf den 3 Kanzeln des Kirchspiels»
                                     <placeName ref="kbga-places-1066">Niedergrenzebach</placeName> in der Landschaft <placeName ref="kbga-places-1122">Schwalm</placeName> predigen sollten
@@ -117,8 +119,8 @@
                 </div>
                 <div type="main">
                     <div>
-                <p>Wir Alle gehören zu denen, die <hi rend="i">von Kind auf die heilige <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term></hi>
-                    <hi rend="i">wissen</hi>. Wir haben im Haus unsrer Eltern oder in der Schule ihre
+                <p>Wir Alle gehören zu denen, die <hi rend="italic">von Kind auf die heilige <term type="Sachen" key="Bibel / Heilige Schrift">Schrift</term></hi>
+                    <hi rend="italic">wissen</hi>. Wir haben im Haus unsrer Eltern oder in der Schule ihre
                     schönsten Geschichten uns erzählen lassen, wir haben uns als Konfirmanden
                     mit ihren größten und wichtigsten Gedanken vertraut gemacht, vielleicht
                     haben wir auch damals das eine oder andre Stück aus der Bibel auswendig
@@ -126,17 +128,17 @@
                         <pb ed="A" rend="hidden" n="2"/> an uns hatten. Und heute noch stellen wir
                     uns <pb xml:id="p119" ed="pga"/> pünktlich Sonntag für Sonntag hier ein, um Gottes
                     Wort zu hören. Wir wissen von Kind an die heilige Schrift, wir können es
-                    nicht leugnen. <hi rend="i">Hat sie uns aber auch unterwiesen zur <term type="Sachen" key="Seligkeit">Seligkeit</term></hi>
-                            <hi rend="i">?</hi>
+                    nicht leugnen. <hi rend="italic">Hat sie uns aber auch unterwiesen zur <term type="Sachen" key="Seligkeit">Seligkeit</term></hi>
+                            <hi rend="italic">?</hi>
                     Denn nicht wahr, darüber sind wir ja einig: damit dass wir die Bibel lesen,
                     daraus auswendig lernen, uns darüber predigen lassen, damit stehen wir erst
                     am Anfang. Die Hauptsache kommt dann erst. Die Bibel ist Mittel zu einem
                     höhern <term type="Sachen" key="Bibel / Heilige Schrift, Mittel zum höheren Zweck">Zweck</term>.
                     Aber kein unfehlbares Mittel, das wir nur einzunehmen brauchten, wie wir ein
                     Arzneimittel einnehmen, um unsern Magen oder unser Blut zu kurieren. Weil du
-                    von Kind auf die heilige Schrift weißt, <hi rend="i">kann</hi> dich dieselbige
-                    unterweisen zur Seligkeit. Sie <hi rend="i">kann</hi> es, sie hat die Fähigkeit
-                    dazu, aber sie <hi rend="i">muss</hi> es nicht, die Wirkung tritt nicht etwa mit
+                    von Kind auf die heilige Schrift weißt, <hi rend="italic">kann</hi> dich dieselbige
+                    unterweisen zur Seligkeit. Sie <hi rend="italic">kann</hi> es, sie hat die Fähigkeit
+                    dazu, aber sie <hi rend="italic">muss</hi> es nicht, die Wirkung tritt nicht etwa mit
                     der selbstverständlichen Notwendigkeit ein, mit der auf das A das B folgt,
                     sondern nur unter ganz bestimmten Bedingungen.</p>
                 <p> <pb ed="A" rend="hidden" n="3"/> Und darum wollen wir es uns recht ernst
@@ -159,23 +161,23 @@
                 <p> Die <term type="Sachen" key="Seligkeit, Kraft der Gegenwart">Seligkeit</term> ist eine Kraft der Gegenwart, und darum wollen wir uns
                     heute fragen nach der
                     <list type="simple">
-                        <item><hi rend="i">Bedeutung der heiligen Schrift für unser Leben</hi>.</item>
-                        <item>Vom <hi rend="i">Lesen in der Bibel</hi>,</item>
-                        <item>Vom <hi rend="i">Inhalt der Bibel</hi> und</item>
+                        <item><hi rend="italic">Bedeutung der heiligen Schrift für unser Leben</hi>.</item>
+                        <item>Vom <hi rend="italic">Lesen in der Bibel</hi>,</item>
+                        <item>Vom <hi rend="italic">Inhalt der Bibel</hi> und</item>
                         <item>
                                     <pb rend="noPipe" xml:id="p120" ed="pga"/> Vom <term type="Sachen" key="Glaube">
-                                        <hi rend="i">Glauben</hi></term> <hi rend="i">wie die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term></hi>
+                                        <hi rend="italic">Glauben</hi></term> <hi rend="italic">wie die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term></hi>
                                 </item>
                         <item>möchte ich euch Einiges sagen.</item>
                     </list>
             </p>
                 </div>
                 <div>
-                    <head type="4">I</head>
-                    <p rend="noindent">Erstens: <hi rend="i">Vom Lesen in der Bibel</hi>.
-                            <hi rend="i">Liesest du überhaupt noch in der Bibel?</hi>
+                    <head>I</head>
+                    <p rend="noindent">Erstens: <hi rend="italic">Vom Lesen in der Bibel</hi>.
+                            <hi rend="italic">Liesest du überhaupt noch in der Bibel?</hi>
                         </p>
-                    <p>Dass du darin gelesen <hi rend="i">hast</hi>, weil <term type="Sachen" key="Schule">Schule</term> und <term type="Sachen" key="Konfirmandenunterricht">Konfirmandenunterricht</term> es so mit
+                    <p>Dass du darin gelesen <hi rend="italic">hast</hi>, weil <term type="Sachen" key="Schule">Schule</term> und <term type="Sachen" key="Konfirmandenunterricht">Konfirmandenunterricht</term> es so mit
                         sich brachten, das ist ja in einem christlichen Lande für die meisten
                         selbstverständlich. Aber wenn dann der Mensch ins Leben hinauskommt, <pb ed="A" rend="hidden" n="5"/> dann wird es eben vielfach anders. Viele
                         verlieren über den Gedanken an die <term type="Sachen" key="Arbeit">Arbeit</term> oder ans <term type="Sachen" key="Vergnügen">Vergnügen</term> überhaupt die Freudigkeit am <term type="Sachen" key="Lesen">Lesen</term>, weil sie wie die Pferde mit Scheuklappen
@@ -205,8 +207,8 @@
                         dich freilich nicht zur Seligkeit, zu einem <pb ed="A" rend="hidden" n="7"/>
                         selbständigen, starken <term type="Sachen" key="Leben, selbständiges">Leben</term> unterweisen. |</p>
                     <p>
-                            <hi rend="i">Wie lesen wir die <term type="Sachen" key="Bibellese">Bibel</term></hi>
-                            <hi rend="i">?</hi> Du sagst mir: ich lese dann und
+                            <hi rend="italic">Wie lesen wir die <term type="Sachen" key="Bibellese">Bibel</term></hi>
+                            <hi rend="italic">?</hi> Du sagst mir: ich lese dann und
                         wann die Bibel, vielleicht alle Tage, ich halte darauf, jeden Morgen mit
                         einem Bibelabschnitt oder -Wort zu beginnen, und in stillen Stunden kann
                         ich mir nicht genug tun, mich in die Geheimnisse dieses Buchs zu
@@ -231,7 +233,7 @@
                         kleine Stückchen zerrissen, einzugeben. Wozu? Damit die Kinder recht
                         fromm würden!<note xml:id="n02">Aus dem schweizerischen
                             Emmental berichtet dies <bibl corresp="kbga-bibls-2521">
-                                    <persName ref="kbga-actors-9159">A. Riser</persName>, <hi rend="i">Volksbrauch und Volksglaube aus dem
+                                    <persName ref="kbga-actors-9159">A. Riser</persName>, <hi rend="italic">Volksbrauch und Volksglaube aus dem
                                 Emmental</hi>, in: SAVK 24 (1922/23), S. 61–70, dort
                             S. 61</bibl>: «Mit dem ersten Brei wird ein aus der Bibel gerissenes Blatt
                             in ganz kleinen Stücken gekocht; das Kind wird dadurch
@@ -256,8 +258,8 @@
                     <p>Alle diese Dinge haben mit dem Glauben nichts zu tun, gar nichts, und wer
                         die Bibel recht <term type="Sachen" key="Bibellese, rechte">lesen</term>
                         will, der muss vor Allem die Einsicht und den Willen haben, mit keiner
-                        andren Frage an sie heranzutreten als mit der: Was muss <hi rend="i">ich</hi>
-                        tun, damit ich <hi rend="i">selig</hi> werde? [<ref type="can" subtype="bible" target="Act.16.30">Act. 16,30</ref>]</p>
+                        andren Frage an sie heranzutreten als mit der: Was muss <hi rend="italic">ich</hi>
+                        tun, damit ich <hi rend="italic">selig</hi> werde? [<ref type="can" subtype="bible" target="Act.16.30">Act. 16,30</ref>]</p>
                     <p>Denn Glaube im Sinn des Evangeliums ist doch wohl eine innere <term type="Sachen" key="Glaube, innere Kraft">Kraft</term>, die wohl in
                         unserm Herzen entsteht, die wir aber nicht selber uns zurechtmachen
                         können aus allerlei schönen oder auch weniger schönen Gedanken, und wenn
@@ -274,8 +276,8 @@
                         Verhältnis zu ihm, das uns frei und stark macht, wollen wir die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> lesen.</p>
                 </div>
                 <div>
-                    <head type="4">II</head>
-                    <p rend="noindent">Zweitens: Vom <hi rend="i">Inhalt der <term type="Sachen" key="Bibel / Heilige Schrift, Inhalt">Bibel</term></hi> wollen
+                    <head>II</head>
+                    <p rend="noindent">Zweitens: Vom <hi rend="italic">Inhalt der <term type="Sachen" key="Bibel / Heilige Schrift, Inhalt">Bibel</term></hi> wollen
                         wir nun reden. – |</p>
                     <p>Mit dem Verlangen nach Glauben wollen wir sie also lesen. Finden wir in
                         ihr etwas, das diesem Verlangen entgegenkommt? Enthält die <pb xml:id="p123" ed="pga"/> Bibel nicht gar zu viel, das mit meinem persönlichen
@@ -288,8 +290,8 @@
                         Offenbarung des Johannes? Führen uns alle diese Dinge nicht geradezu in
                             <term type="Sachen" key="Versuchung">Versuchung</term>, nach irgend<note type="textcritical" n="d" xml:id="nd"> Nachträglich mit Bleistift hinzugefügt.</note>
                          einem tiefern Sinn zu spekulieren und uns so vom <term type="Sachen" key="Glaube">Glauben</term> selbst zu entfernen?
-                        Vielleicht fragst du nur <hi rend="i">so</hi><note type="textcritical" n="e" xml:id="ne"> Nachträglich mit Bleistift unterstrichen.</note>, vielleicht geht aber dein <term type="Sachen" key="Zweifel">Zweifel</term>
-                        <hi rend="i">tiefer</hi><note type="textcritical" n="f" xml:id="nf"> Nachträglich mit Bleistift unterstrichen.</note>. Du hast eine tiefe Sehnsucht in dir nach dem
+                        Vielleicht fragst du nur <hi rend="italic">so</hi><note type="textcritical" n="e" xml:id="ne"> Nachträglich mit Bleistift unterstrichen.</note>, vielleicht geht aber dein <term type="Sachen" key="Zweifel">Zweifel</term>
+                        <hi rend="italic">tiefer</hi><note type="textcritical" n="f" xml:id="nf"> Nachträglich mit Bleistift unterstrichen.</note>. Du hast eine tiefe Sehnsucht in dir nach dem
                         herzlichen <term type="Sachen" key="Glaube">Glauben</term> des <term type="Sachen" key="Evangelium">Evangeliums</term>, von dem wir
                         gesprochen haben. Aber wenn du in der Bibel liesest und aufrichtig gegen
                         dich selbst bist, so fällt es dir bei dieser und jener Stelle, in diesem
@@ -297,7 +299,7 @@
                             <term type="Sachen" key="Mensch, Verhältnis zu Gott">Gott</term> die
                         Rede ist, schmerzlich auf, wie fremdartig dir dieser Ausdruck des
                         Glaubens ist. Du musst dir gestehen, dass du von dir aus niemals auf den
-                        Gedanken kommen würdest, <hi rend="i">deinen</hi> Glauben, <hi rend="i">dein</hi>
+                        Gedanken kommen würdest, <hi rend="italic">deinen</hi> Glauben, <hi rend="italic">dein</hi>
                         Verhältnis zu Gott gerade in diese Gedanken und Worte zu kleiden. Und es
                         ist dir dann nicht geholfen, wenn man dir sagt, du müssest das eben
                         glauben, ohne es zu verstehen, denn du spürst es deutlich, dass dein
@@ -313,7 +315,7 @@
                         schon erfahren, wenn sich auch lange nicht Alle klar darüber sind. Für
                         die, die die Schwierigkeiten des Bibellesens einsehen, und für die, die
                         sie nicht einsehen, ist es aber in gleicher Weise nötig, dass sie sich
-                        in Erinnerung rufen, <hi rend="i">was die Bibel eigentlich sein will und
+                        in Erinnerung rufen, <hi rend="italic">was die Bibel eigentlich sein will und
                             ist</hi>. Dazu braucht es keine gelehrten Spitzfindigkeiten, meine
                         Freunde, sondern nur die einfache Besinnung auf Tatsachen, die für jeden
                             <pb xml:id="p124" ed="pga"/> Christen, der seine Bibel kennt, vor Augen
@@ -323,13 +325,13 @@
                         Verhältnis mit Gott etwas so Großes erlebt hatten, dass sie es auch an
                         Andere weitergeben mussten, dass sie es niederschreiben mussten für alle
                         kommenden Geschlechter. Hinter den Schriften des <term type="Sachen" key="Altes Testament">Alten</term> und Neuen <term type="Sachen" key="Neues Testament">Testaments</term> stehen also
-                            <hi rend="i">Menschen</hi>. Menschen aus Fleisch und Blut wie wir auch.
+                            <hi rend="italic">Menschen</hi>. Menschen aus Fleisch und Blut wie wir auch.
                         Sie Alle, die <term type="Sachen" key="Propheten">Propheten</term> und
                         die <term type="Sachen" key="Apostel">Apostel</term>, haben die
                         Widerwärtigkeiten und Zwiespältigkeiten des Lebens erfahren so gut wie
                         wir, aber dann ist in ihr Leben etwas Neues hineingetreten. Dies Neue
                         ist der lebendige <term type="Sachen" key="Gott, lebendiger">Gott</term>, und vom lebendigen Gott geben sie uns Zeugnis, jeder in
-                        seiner Weise. <hi rend="i">Gott</hi>, das ist der Inhalt der ganzen<note type="textcritical" n="g" xml:id="ng"> Nachträglich mit Bleistift hinzugefügt.</note>
+                        seiner Weise. <hi rend="italic">Gott</hi>, das ist der Inhalt der ganzen<note type="textcritical" n="g" xml:id="ng"> Nachträglich mit Bleistift hinzugefügt.</note>
                         
                         <term type="Sachen" key="Bibel / Heilige Schrift, Gott ist der Inhalt">Bibel</term>. Aber die Erfahrungen dieser Männer mit Gott sind
                         keineswegs gleichförmig. Ein gewaltiges Bild, das in den verschiedensten
@@ -337,13 +339,13 @@
                     <p>Was uns die Propheten über Gott sagen, steht uns höher, als was wir in
                         den Erzählungen der Bücher <term type="Sachen" key="Pentateuch">Mosis</term> lesen, höher als die Propheten stehen uns die Männer
                         des neuen <term type="Sachen" key="Bund, neuer">Bundes</term>. Und doch
-                        hat dies <term type="Sachen" key="Bibel / Heilige Schrift, Mittelpunkt Jesus von Nazareth">Bild</term> einen Mittelpunkt. <hi rend="i">Jesus</hi> von Nazareth ist
+                        hat dies <term type="Sachen" key="Bibel / Heilige Schrift, Mittelpunkt Jesus von Nazareth">Bild</term> einen Mittelpunkt. <hi rend="italic">Jesus</hi> von Nazareth ist
                         dieser <pb ed="A" rend="hidden" n="14"/> Mittelpunkt, von dem aus die
                         Gedanken und Worte der biblischen <term type="Sachen" key="Bibel / Heilige Schrift, biblische Schriftsteller">Schriftsteller</term> Licht empfangen nach rückwärts und vorwärts.
                         Was die <term type="Sachen" key="Propheten">Propheten</term> unsicher
                         und dunkel hofften und ahnten, das haben die <term type="Sachen" key="Apostel">Apostel</term> in<note type="textcritical" n="h" xml:id="nh"> Im Mskr. ursprünglich: «in voller»; mit Bleistift
                                 korrigiert.</note>
-                         Klarheit geschaut, <hi rend="i">einen Menschen, in dem die Kraft und die
+                         Klarheit geschaut, <hi rend="italic">einen Menschen, in dem die Kraft und die
                             Liebe, die uns fehlt, in voller Reinheit und Vollkommenheit
                             gegenwärtig ist</hi>, in dem sie zugleich den Willen <term type="Sachen" key="Wille Gottes">Gottes</term> in seinem ganzen
                         Ernst und seine grenzenlose Barmherzigkeit<note type="textcritical" n="i" xml:id="ni"> Im Mskr. ursprünglich: «Liebe und Barmherzigkeit»; mit
@@ -353,16 +355,16 @@
                         Jesus <term type="Sachen" key="Gott, offenbar in Jesus Christus">offenbar</term> geworden. Und dies Zeugnis ist mannigfaltig, denn
                         jeder hat in persönlicher Wahrhaftigkeit gerade das aufgeschrieben, was
                         ihm an seinem Glauben das Größte und Wichtigste schien. <persName ref="kbga-actors-2930">
-                                <hi rend="i">Matthäus</hi></persName>
+                                <hi rend="italic">Matthäus</hi></persName>
                         schildert uns Jesum als den <pb xml:id="p125" ed="pga"/> erwarteten Messias,
                         der im Gegensatz zu den Gedanken der <term type="Sachen" key="Juden / Judentum">Juden</term> das <term type="Sachen" key="Reich Gottes">Gottesreich</term> der bessern Gerechtigkeit
                         aufrichtet [vgl. <ref type="can" subtype="bible" target="Mt.5.20">Mt. 5,20</ref>]. Bei <persName ref="kbga-actors-313">
-                                <hi rend="i">Paulus</hi></persName> ist <term type="Sachen" key="Jesus Christus, der neue Adam">Christus</term> der neue Adam,
+                                <hi rend="italic">Paulus</hi></persName> ist <term type="Sachen" key="Jesus Christus, der neue Adam">Christus</term> der neue Adam,
                         in <pb ed="A" rend="hidden" n="15"/> dessen Tod unser alter Mensch gestorben,
                         mit dessen <term type="Sachen" key="Auferstehung, Jesu Christi">Auferstehung</term> Alles neu geworden ist [vgl. <ref type="can" subtype="bible" target="Röm.6.4">Röm. 6,4</ref>]. <persName ref="kbga-actors-2297">
-                                <hi rend="i">Johannes</hi></persName> preist ihn als den eingebornen <term type="Sachen" key="Jesus Christus, eingeborner Sohn">Sohn</term> vom
+                                <hi rend="italic">Johannes</hi></persName> preist ihn als den eingebornen <term type="Sachen" key="Jesus Christus, eingeborner Sohn">Sohn</term> vom
                         Vater voller Gnade und Wahrheit [<ref type="can" subtype="bible" target="Joh.1.14">Joh. 1,14</ref>], der Verfasser des
-                        <hi rend="i">Hebräer</hi>briefs als den <term type="Sachen" key="Jesus Christus, Anfänger und Vollender unseres Glaubens">Anfänger</term> und Vollender unsres Glaubens [<ref type="can" subtype="bible" target="Hebr.12.2">Hebr. 12,2</ref>], als den <term type="Sachen" key="Jesus Christus, Hohepriester">Hohepriester</term>, der uns durch sein Blut vor Gott vertritt [vgl.
+                        <hi rend="italic">Hebräer</hi>briefs als den <term type="Sachen" key="Jesus Christus, Anfänger und Vollender unseres Glaubens">Anfänger</term> und Vollender unsres Glaubens [<ref type="can" subtype="bible" target="Hebr.12.2">Hebr. 12,2</ref>], als den <term type="Sachen" key="Jesus Christus, Hohepriester">Hohepriester</term>, der uns durch sein Blut vor Gott vertritt [vgl.
                         <ref type="can" subtype="bible" target="Hebr.9.11 Hebr.9.12">Hebr. 9,11f.</ref>].
                             <anchor type="note" xml:id="fn-j"/>Alle diese Gedanken sind Ausdruck der gemeinsamen
                         Gewissheit, der auch wir unser Bestes verdanken: «Ich bete an die Macht
@@ -380,13 +382,13 @@
                         Verschiedenheit des Ausdrucks des Glaubens waren sie einig im <term type="Sachen" key="Glaube, der biblischen Schriftsteller">Glauben</term> selbst, will sagen in ihrem Verhältnis zu Gott, das
                         so sehr durch ihr Verhältnis zu dem Menschen Jesus bestimmt war, dass
                         sie in ihm den Herrn selbst sahen. Der <term type="Sachen" key="Glaube, des Neuen Testaments">Glaube</term> des Neuen
-                        Testamentes ist <hi rend="i">Glaube an Christum Jesum</hi>, ein persönliches,
+                        Testamentes ist <hi rend="italic">Glaube an Christum Jesum</hi>, ein persönliches,
                         eigenes Verhältnis des Menschen zu diesem andern Menschen und durch ihn
                         zu Gott. In diesem Glauben haben die Männer der <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> Seligkeit, Kraft, Frieden
                         gefunden.</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="16"/> III</head>
                     <p rend="noindent">Meine Freunde! Wenn wir einmal eingesehen haben, wie wir
                         die Bibel <term type="Sachen" key="Bibellese">lesen</term> sollen,
@@ -394,13 +396,13 @@
                         was die Bibel ist, nämlich das <term type="Sachen" key="Bibel / Heilige Schrift, Glaubenszeugnis">Zeugnis</term> vom
                         Glauben der <term type="Sachen" key="Propheten">Propheten</term> und
                             <term type="Sachen" key="Apostel">Apostel</term>, dann sind wir
-                        soweit, um zu verste<pb xml:id="p126" ed="pga"/>hen, zu was uns die <term type="Sachen" key="Bibel / Heilige Schrift, Unterweisung zur Seligkeit">Bibel</term> unterweisen will, nämlich (drittens:) zu einem
-                            <hi rend="i">Glauben wie der der Bibel</hi>, oder der Männer, die in der
+                        soweit, um zu verste<pb xml:id="p126" ed="pga" break="no"/>hen, zu was uns die <term type="Sachen" key="Bibel / Heilige Schrift, Unterweisung zur Seligkeit">Bibel</term> unterweisen will, nämlich (drittens:) zu einem
+                            <hi rend="italic">Glauben wie der der Bibel</hi>, oder der Männer, die in der
                         Bibel zu uns reden.</p>
                     <p>Wir glauben an Christum als den Menschen, der uns zu Gott führt, nicht an
                             <persName ref="kbga-actors-313">Paulus</persName> oder <persName ref="kbga-actors-1814">Petrus</persName>, und darum sagen wir:
                             <term type="Sachen" key="Glaube, wie die Bibel – nicht an die Bibel">Glauben</term>
-                        <hi rend="i">wie</hi> die Bibel, nicht <hi rend="i">an</hi> die Bibel. Aber was
+                        <hi rend="italic">wie</hi> die Bibel, nicht <hi rend="italic">an</hi> die Bibel. Aber was
                         uns Paulus und <persName ref="kbga-actors-1814">Petrus</persName> und die
                         andern Männer der Bibel über Christus sagen, das ist uns darum wichtig
                         und wertvoll, weil es das erste und ursprünglichste Zeugnis ist von dem
@@ -417,7 +419,7 @@
                         unwahrhaftiges Hinnehmen von Dingen, die wir nicht verstehen. Wenn wir
                         die Gedanken der biblischen Männer lesen, dann hören wir hin auf die
                         Stimme ihres <term type="Sachen" key="Glaube, der biblischen Schriftsteller">
-                                <hi rend="i">Glaubens</hi></term>, der sich darin ausspricht, und je
+                                <hi rend="italic">Glaubens</hi></term>, der sich darin ausspricht, und je
                         vertrauter uns die Welt der Bibel wird, desto zahlreicher gehen uns da
                         und dort Lichter auf, die uns zeigen, wie jener Glaube auch im
                         fremdartigsten Gewande tief und kräftig ist und uns immer etwas zu sagen
@@ -426,7 +428,7 @@
                         den Geist <term type="Sachen" key="Gott, Geist Gottes">Gottes</term>,
                         der in den Männern der Bibel war, ihr <term type="Sachen" key="Glaube">Glaube</term>
                         <pb ed="A" rend="hidden" n="18"/> der unsrige geworden ist.</p>
-                    <p>Und dieser <hi rend="i">Glaube unterweist uns zur <term type="Sachen" key="Glaube, unterweist uns zur Seligkeit">Seligkeit</term></hi>. Der Apostel <persName ref="kbga-actors-313">Paulus</persName> sagt es von sich an einer seiner
+                    <p>Und dieser <hi rend="italic">Glaube unterweist uns zur <term type="Sachen" key="Glaube, unterweist uns zur Seligkeit">Seligkeit</term></hi>. Der Apostel <persName ref="kbga-actors-313">Paulus</persName> sagt es von sich an einer seiner
                         herrlichsten Stellen: «Ist jemand in Christo, so ist er eine neue
                         Kreatur. Das Alte ist vergangen, siehe, es ist Alles neu geworden»
                         [<ref type="can" subtype="bible" target="2.Kor.5.17">2.Kor. 5,17</ref>]. <anchor type="note" xml:id="fn-l"/>Was ist neu geworden? Dein Leben, du selber <anchor type="note" xml:id="fn-m"/>mit
@@ -442,22 +444,22 @@
                         wir selbst nichts anzufangen wissen, weil wir ihren Gebrauch<note type="textcritical" n="l" xml:id="nl" target="fn-l"> Auf einem eingeklebten Zettel neu geschriebener Text; der ursprüngliche Text ist nicht entzifferbar.</note>
                         <pb ed="A" rend="hidden" n="19"/> nicht kennen.</p>
                     <p> Das innere Leben der Männer der <term type="Sachen" key="Glaube, der biblischen Schriftsteller">Bibel</term> dagegen
-                        zeigt sich geleitet von einem <hi rend="i">Willen</hi>, der die Dinge ordnet,
+                        zeigt sich geleitet von einem <hi rend="italic">Willen</hi>, der die Dinge ordnet,
                         der den Dingen nicht unterworfen ist, sondern der die<note type="textcritical" n="n" xml:id="nn"> Im Mskr. mit Bleistift hinzugefügt.</note>
                          Dinge beherrscht. Und sie bekennen, dass sie diesen Willen nicht
                         aus sich selbst schöpfen, sondern aus Gott.</p>
                     <p> Nun sieh, diese <term type="Sachen" key="Kraft">Kraft</term>, diese
                         innere <term type="Sachen" key="Gewissheit">Gewissheit</term>, diese
-                            <term type="Sachen" key="Seligkeit"><hi rend="i">Seligkeit</hi></term>,
-                        wie unser Schriftwort sagt, kann auch auf dich <hi rend="i">übergehen</hi><note type="textcritical" n="o" xml:id="no"> Nachträglich mit Bleistift unterstrichen.</note>, wenn du es verstehst, an den Zeugnissen des großen<note type="textcritical" n="p" xml:id="np"> Nachträglich mit Bleistift hinzugefügt.</note>
+                            <term type="Sachen" key="Seligkeit"><hi rend="italic">Seligkeit</hi></term>,
+                        wie unser Schriftwort sagt, kann auch auf dich <hi rend="italic">übergehen</hi><note type="textcritical" n="o" xml:id="no"> Nachträglich mit Bleistift unterstrichen.</note>, wenn du es verstehst, an den Zeugnissen des großen<note type="textcritical" n="p" xml:id="np"> Nachträglich mit Bleistift hinzugefügt.</note>
                          Glaubens jener Menschen deinen eigenen kleinen Glauben
                         aufzurichten. Das ist das Große an der <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term>, das ist die Seligkeit,
                         zu der sie dich unterweisen will.</p>
                     <p>Jesus hat gesagt: Siehe, ich bin bei euch alle Tage! [<ref type="can" subtype="bible" target="Mt.28.20">Mt. 28,20</ref>] Spürst
-                        du auch etwas davon? Dann <hi rend="i">weißt</hi><note type="textcritical" n="q" xml:id="nq"> Nachträglich mit Bleistift unterstrichen.</note>
+                        du auch etwas davon? Dann <hi rend="italic">weißt</hi><note type="textcritical" n="q" xml:id="nq"> Nachträglich mit Bleistift unterstrichen.</note>
                              du die heilige Schrift nicht nur, dann hast du durch
-                        sie im <hi rend="i">Glauben</hi><note type="textcritical" n="r" xml:id="nr"> Nachträglich mit Bleistift unterstrichen.</note>
-                            <term type="Sachen" key="Glaube"/> die <hi rend="i">Seligkeit</hi><note type="textcritical" n="s" xml:id="ns"> Nachträglich mit Bleistift unterstrichen.</note>
+                        sie im <hi rend="italic">Glauben</hi><note type="textcritical" n="r" xml:id="nr"> Nachträglich mit Bleistift unterstrichen.</note>
+                            <term type="Sachen" key="Glaube"/> die <hi rend="italic">Seligkeit</hi><note type="textcritical" n="s" xml:id="ns"> Nachträglich mit Bleistift unterstrichen.</note>
                             <term type="Sachen" key="Seligkeit"/> gefunden. Und
                         dazu wolle Gott uns Allen helfen.</p>
                     </div> 
@@ -472,7 +474,7 @@
                             <bibl type="song" corresp="kbga-songs-157">Nr. 13<note xml:id="n4">Die hier von Barth
                                     angegebenen Liednummern beziehen sich auf:
                                         <bibl corresp="kbga-bibls-2502">
-                                    <hi rend="i">Evangelisches Kirchengesangbuch für den
+                                    <hi rend="italic">Evangelisches Kirchengesangbuch für den
                                         Konsistorialbezirk Cassel</hi>, Cassel 1889; 1907<hi rend="sup">3</hi>.</bibl>
                             </note>: «Tut mir auf die schöne
                                 Pforte» von <persName ref="kbga-actors-5770">B. Schmolck</persName> (GERS 172; RG 160; EG 166).</bibl>

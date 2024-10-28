@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5004">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 31,15-16 (Neujahr)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 31,15-16 (Neujahr), 1. Januar 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5004 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 3–11.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5004 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 3–11.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">200</title>
+          <title type="text">Predigt: Psalm 31,15-16 (Neujahr)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:46+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:46+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -130,7 +132,7 @@
                sagen? Wenig scheinbar oder nichts. Etwas Unabänderliches, Notwendiges verkündigt er
                uns ja, etwas, woran wir nichts ändern können. Das Ticktack der Uhr ist eine Stimme,
                die man nicht aufs erste Anhören versteht. Wir tun aber gut, genau auf das zu hören,
-               was sie uns zu sagen hat. Eine Reihe von <hi rend="i">Fragen</hi> ruft sie uns in die
+               was sie uns zu sagen hat. Eine Reihe von <hi rend="italic">Fragen</hi> ruft sie uns in die
                Seele hinein: Was wird denn aus dir, Menschenkind, wenn die Zeit umgeht? Was bist du
                gewesen und geworden in den Zeiten, die nun verflossen sind? Was wird mit dir
                geschehen, und was wirst du tun in der Zukunft, die nun raschen Schrittes näherkommt?
@@ -142,7 +144,7 @@
                Leben? Was gilt? Wem sind wir unterworfen, und nach was haben wir uns zu rich<pb xml:id="p005" ed="pga" break="no"/>ten? Wer oder was ist die Macht über uns? Das sind die Fragen, die ein Jahreswechsel
                in uns aufweckt, mehr oder weniger deutlich und lebhaft, und auf die wir gut tun,
                Rede zu stehen.</p>
-        <p>Es gibt Menschen, die antworten auf diese Frage: wir sind in den Händen einer <hi rend="i">Schicksals</hi>macht. Man könnte auch sagen: in den Händen des Zufalls,
+        <p>Es gibt Menschen, die antworten auf diese Frage: wir sind in den Händen einer <hi rend="italic">Schicksals</hi>macht. Man könnte auch sagen: in den Händen des Zufalls,
                es kommt auf dasselbe heraus. Sie meinen damit: eine unwiderstehliche, aber blinde
                Gewalt regiert über uns, lenkt uns so und so, rechts herum und links herum, legt uns
                jetzt ein Glück in den Weg und jetzt ein Unglück, wirft uns jetzt zu Boden und stellt
@@ -170,7 +172,7 @@
                alles sind Tatsachen, die nicht zu jenem Schicksals- oder Zufallsglauben passen,
                Tatsachen, aus denen wir sehen können: wir glauben selber heimlich noch an etwas
                Anderes. Wir müssen der Frage gründlich nachgehen: wer hat die Macht über uns?</p>
-        <p>Andere sagen: nicht vom Schicksal hängen wir ab, aber von den <hi rend="i">Menschen</hi> um uns her. Ein jeder ist das geworden, was er in seiner Umgebung
+        <p>Andere sagen: nicht vom Schicksal hängen wir ab, aber von den <hi rend="italic">Menschen</hi> um uns her. Ein jeder ist das geworden, was er in seiner Umgebung
                werden mußte. Dem Einen hat man geholfen, und darum geht es ihm gut. Dem Anderen sind
                Alle zuwider gewesen, und darum hat er nicht emporkommen können. Der Eine ist bei
                rechtschaffenen Leuten aufgewachsen, und darum ist aus ihm selber etwas geworden. Der
@@ -199,7 +201,7 @@
                Wir müssen eine bessere Auskunft haben über die Frage: von wem sind wir abhängig? auf
                wen kommt es an in unserem Leben?</p>
         <p>Da kommen Andere, sehr sicher und fröhlich und zuversichtlich treten sie auf, und die
-               sagen: auf <hi rend="i">mich selber</hi> kommt es an. Ich selber schaffe mir mein
+               sagen: auf <hi rend="italic">mich selber</hi> kommt es an. Ich selber schaffe mir mein
                Leben. Ich selber sitze am Steuerruder und wende die Segel, jetzt nehme ich von
                dieser, jetzt von jener Seite Wind auf, und so fahre ich stolz und flott dahin, und
                es geht sehr gut. Man muß nur vor nichts Angst haben, man muß nur Alles probieren,
@@ -254,13 +256,13 @@
                war es nicht meine eigene Kraft, sondern ich wurde darüber hinweggetragen, und ich
                weiß, es kommt auch für die Zukunft auf etwas Anderes an.</p>
         <p>Seht, wir kommen von allen Seiten darauf: es ist noch etwas Anderes da. Weder sind
-               wir vom <hi rend="i">Schicksal</hi> abhängig, noch von den <hi rend="i">Menschen</hi>, das schon gar nicht, aber auch <hi rend="i">wir selbst</hi> sind
+               wir vom <hi rend="italic">Schicksal</hi> abhängig, noch von den <hi rend="italic">Menschen</hi>, das schon gar nicht, aber auch <hi rend="italic">wir selbst</hi> sind
                nicht unsere Herren und Meister. Wir stoßen überall auf Unvollkommenheiten dieser
                Anschauungsweisen. Ich möchte nicht mit einer von ihnen ins neue Jahr hinübergehen.
                Da könnte man weder ruhig in die Vergangenheit noch ruhig in die Zukunft sehen. Es
                ist allerlei Richtiges an ihnen, aber nur, wenn wir nun auf einen viel höheren Berg
                steigen und sie von da aus betrachten.</p>
-        <p>Der Psalmsänger sagt: <hi rend="i">Ich aber, Herr, hoffe auf dich und spreche: du
+        <p>Der Psalmsänger sagt: <hi rend="italic">Ich aber, Herr, hoffe auf dich und spreche: du
                   bist mein Gott! meine Zeit stehet in deinen Händen</hi>. Das ist eine
                Neujahrslosung, die Stich hält. Wenn wir sie uns doch zu eigen machen wollten! Wenn
                wir doch merken wollten, wie wenig weit wir im Angesicht der Ewigkeit kommen mit
@@ -275,18 +277,18 @@
                <pb xml:id="p010" ed="pga"/>
                 allen jenen Meinungen enthalten und zusammengefaßt ist, und die doch jeder einzelnen
                unter ihnen und ihnen allen miteinander berghoch überlegen ist.</p>
-        <p>Wir wollen das Letzte zuerst nehmen. Das wundervolle Wort: <hi rend="i">Meine
+        <p>Wir wollen das Letzte zuerst nehmen. Das wundervolle Wort: <hi rend="italic">Meine
                   Zeit stehet in deinen Händen</hi>. Da haben wir die rechte Antwort auf die
                Frage, was aus uns Menschenkindern werde im Wandel der Zeiten. Gott ist über uns, und
                wir stehen in Gottes Hand, so lautet die Antwort. Gott! Das ist etwas Anderes, als
                wenn wir sagen: ich bins, ich habs gemacht und werde es machen! Er hat das, was uns
-               allen, auch den Besten und Klügsten fehlt, er ist <hi rend="i">die vollkommene
+               allen, auch den Besten und Klügsten fehlt, er ist <hi rend="italic">die vollkommene
                   Kraft</hi>. Er fängt nicht bloß an, sondern er führt durch und vollendet. Er hat
                nicht bloß einzelne Fähigkeiten und Möglichkeiten, sondern er wirkt und schafft
                Alles, was geschehen muß. Er hat keine Lücken und Mängel in seinem Tun, sondern er
                schafft ein Ganzes. Sein Wirken ist nicht ein allmählich erst Wachsendes, das dann
                eines Tages auch seinem Ende entgegengeht, sondern er wirkt von Ewigkeit zu Ewigkeit.
-               Was die Zeit uns gebracht hat, <hi rend="i">er</hi> hat es uns gebracht, was die
+               Was die Zeit uns gebracht hat, <hi rend="italic">er</hi> hat es uns gebracht, was die
                Zeiten bringen mögen, es wird sein Wille sein. Seine Kraft kennt keine Ausnahmen und
                Unterbrechungen, sie ist immer und überall tätig. Sieh, wie ganz anders stehst du da,
                wenn du ihm — nicht nur gehörst, das tun wir alle — sondern auch gehören willst, dich
@@ -297,7 +299,7 @@
                für uns, wer mag wider uns sein [<ref type="can" subtype="bible" target="Röm.8.31">Röm. 8,31</ref>]?</p>
         <p>Aber Gott ist etwas Anderes als das sogenannte Schicksal. Seine ewige Kraft ist nicht
                eine blindspielende Naturgewalt, da heißts nicht: was kommen muß, kommt, man muß sich
-               drein schicken. Gott ist die <hi rend="i">ewige Liebe</hi>. Die Weihnachtsbotschaft
+               drein schicken. Gott ist die <hi rend="italic">ewige Liebe</hi>. Die Weihnachtsbotschaft
                ist uns ja noch in naher Erinnerung mit all ihren Hinweisen auf Gottes gütige
                Absichten mit uns. Das Wort «Gott» soll uns kein fremder Klang sein, wenn wir von
                Weihnacht herkommen. Wohin strebt Gottes
@@ -315,19 +317,19 @@
                Schicksal? ein rechtes künstliches Menschenbegrifflein. Aber der Vater, der uns lieb
                hat, das ist eine leuchtende gewisse Wahrheit, der man nicht mehr widerstreben kann,
                wenn man ihrer einmal sicher geworden ist.</p>
-        <p>Und dieser Gott der Kraft und der Liebe ist nun zugleich die <hi rend="i">Weisheit</hi>.</p>
+        <p>Und dieser Gott der Kraft und der Liebe ist nun zugleich die <hi rend="italic">Weisheit</hi>.</p>
         <p>Gegensatz: Menschenweisheit — über Schwierigkeiten hinweg — einfachstes und bestes
                Mittel — daran sich halten, statt Menschenräten folgen — nicht nur geleitet werden —
                wollen, was Gott will.</p>
         <p>
-                        <hi rend="i">Zeit in Gottes Händen:</hi> Seine Herrlichkeit muß größer werden: Kraft
+                        <hi rend="italic">Zeit in Gottes Händen:</hi> Seine Herrlichkeit muß größer werden: Kraft
                — Liebe — Weisheit — Was ist unser Leben? — ein Dienst dazu — Alles kann helfen —
                auch Leiden — jeder seinen Beitrag — das deine Aufgabe und Gabe!</p>
         <p>
-                        <hi rend="i">Ich hoffe auf dich</hi> — Gott ist in Allem — nichts Widriges — bereit
+                        <hi rend="italic">Ich hoffe auf dich</hi> — Gott ist in Allem — nichts Widriges — bereit
                sein — auf das Licht warten — Trost — Kraft.</p>
         <p>
-                        <hi rend="i">Du bist mein Gott</hi> — Was wir tun sollen? — ihm angehören und dienen
+                        <hi rend="italic">Du bist mein Gott</hi> — Was wir tun sollen? — ihm angehören und dienen
                — Christus unser Meister — Folge der Hoffnung — Gehorsam, Vertrauen — <placeName ref="kbga-places-54">Safenwil</placeName> —
                Kirchenpflege — Alte. Mit dem Herrn …</p>
         </div>

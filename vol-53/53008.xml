@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53008">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 6</title>
         <title type="content">Predigt: Markus 10,42-45</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 10,42-45, April 1908</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53008 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53008 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 6: Predigt: Markus 10,42-45</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -64,12 +66,12 @@
                 <pb xml:id="p048" ed="pga"/>
                 
                 <div type="opener">
-                    <head type="0">
+                    <head>
                         <pb ed="A" rend="hidden" n="1"/>
                         <idno>6</idno>
                     </head>
                     <dateline>
-                        <date when="1908">Frühling 1908</date> (<hi rend="i">nirgends</hi>
+                        <date when="1908">Frühling 1908</date> (<hi rend="italic">nirgends</hi>
                             gehalten<note xml:id="n01">Im KBA finden sich keine
                             Hinweise, wann genau bzw. für welchen Anlass diese Predigt
                             geschrieben wurde und warum sie nicht gehalten wurde. Schon aus den
@@ -95,7 +97,7 @@
                                         und sein Leben dahinzugehen zum Lösegeld für
                                         Viele.<note xml:id="n02">Eigene
                                         Übersetzung in Anlehnung an: <bibl corresp="kbga-bibls-2412">
-                                        <hi rend="i">Das Neue
+                                        <hi rend="italic">Das Neue
                                             Testament</hi>, übers. von <persName ref="kbga-actors-6226">C. Weizsäcker</persName>,
                                         Tübingen / Leipzig 1903<edition rend="sup">9</edition>,
                                         S. 51</bibl>.</note>
@@ -113,8 +115,8 @@
                     auf. Du ärgerst dich nicht über das Wort vom <term type="Sachen" key="Wort vom Kreuz">Kreuz</term>, aber es bringt dir auch nichts, das
                     dich einen Moment nur in Erstaunen setzte. Nicht wahr, liebe Freunde, solche
                     Stimmungen der <term type="Sachen" key="Gleichgültigkeit">
-                            <hi rend="i">Gleichgiltigkeit</hi></term> gerade in diesen Tagen kennen
-                    wir alle? Sie hängt zusammen mit einer tiefgehenden <hi rend="i">Unklarheit</hi>
+                            <hi rend="italic">Gleichgiltigkeit</hi></term> gerade in diesen Tagen kennen
+                    wir alle? Sie hängt zusammen mit einer tiefgehenden <hi rend="italic">Unklarheit</hi>
                     über die Bedeutung des <term type="Sachen" key="Kreuz / Kreuzestod, Bedeutung">Todes</term>, dessen wir da
                     gedenken. Es sind Viele unter uns, und es sind nicht die Schlechtesten,
                     denen das, was sie einst im <term type="Sachen" key="Katechismus">Katechismus</term> gelernt, fremd geworden, sie wissen selbst nicht
@@ -123,22 +125,22 @@
                     ich glaube, es tut uns Allen not, uns anhand des einfachen Wortes des
                     Evangeliums zu vergegenwärtigen, was Jesu <term type="Sachen" key="Kreuz / Kreuzestod">Sterben</term> uns zu sagen hat. Die <term type="Sachen" key="Geschichte">Geschichte</term> und das <term type="Sachen" key="Leben">Leben</term> zeigen uns, dass Tausende der
                     Besten aller Zeiten in diesem Tod ihren einzigen Trost für Leben und
-                        Sterben<note xml:id="n03">Vgl. <hi rend="i">Heidelberger <term type="Sachen" key="Katechismus, Heidelberger">Katechismus</term></hi>, Frage 1 (<bibl corresp="kbga-bibls-17">BSRK, S. 682,20</bibl>; <bibl corresp="kbga-bibls-440">RefBS II/2,
+                        Sterben<note xml:id="n03">Vgl. <hi rend="italic">Heidelberger <term type="Sachen" key="Katechismus, Heidelberger">Katechismus</term></hi>, Frage 1 (<bibl corresp="kbga-bibls-17">BSRK, S. 682,20</bibl>; <bibl corresp="kbga-bibls-440">RefBS II/2,
                         S. 175,32</bibl>).</note> gefunden haben und noch finden. Das Alte ist
                     vergangen, siehe es ist Alles neu geworden [<ref type="can" subtype="bible" target="2.Kor.5.17">2.Kor. 5,17</ref>], bezeugen sie uns im Aufblick zu dem Mann
                     am <term type="Sachen" key="Jesus Christus, Gekreuzigter">Kreuz</term>.
                     Wohlan, wir wollen uns das Wesen dieses Sterbens zu vergegenwärtigen suchen,
                     damit auch uns die Augen aufgehen für die <term type="Sachen" key="Schöpfung, Neuschöpfung">
-                            <hi rend="i">Neuschöpfung</hi></term>, die Gott
+                            <hi rend="italic">Neuschöpfung</hi></term>, die Gott
                     hier in das Leben der <term type="Sachen" key="Menschheit, Neuschöpfung durch Jesu Sterben">Menschheit</term> und
                     jedes Einzelnen unter uns hineingestellt hat.</p>
             </div>
             <div>
-                <head type="4">
+                <head>
                     <pb ed="A" rend="hidden" n="3"/> A.</head>
                 <p rend="noindent">Es fällt uns heute schwer, zu ermessen, von welch
                     umstürzender Bedeutung die verlesenen Worte des Herrn für seine <term type="Sachen" key="Juden / Judentum, zur Zeit Jesu">
-                            <hi rend="i">Zeitgenossen</hi></term> in Israel <anchor type="note" xml:id="fn-a"/>sein
+                            <hi rend="italic">Zeitgenossen</hi></term> in Israel <anchor type="note" xml:id="fn-a"/>sein
                         mussten<note type="textcritical" n="a" xml:id="na" target="fn-a"> Mskr.: «haben musste»; von den Hrsg. geändert.</note>. Auch in ihnen lebte ja der Gedanke einer solchen Neuschöpfung, er
                     war es, der das <term type="Sachen" key="Israel (Volk)">Volk</term>
                     zusammenhielt in den Zeiten des äußern Drucks und der äußern Zerklüftung.
@@ -148,7 +150,7 @@
                     über die Völker in Gerechtigkeit [vgl. <ref type="can" subtype="bible" target="Jes.2.3 Jes.2.4">Jes. 2,3f.</ref>]. Und je länger, je mehr hatte sich diese
                     Hoffnung zu der Erwartung verdichtet: wir, das auserwählte <term type="Sachen" key="Juden / Judentum, auserwähltes Volks Gottes">Gottesvolk</term>, werden die Heiden beherrschen und die Größten sein
                     auf der bewohnten Erde, wie jetzt die Römer und mehr als sie. Auch im <term type="Sachen" key="Jünger">
-                            <hi rend="i">Jüngerkreis</hi></term> Jesu
+                            <hi rend="italic">Jüngerkreis</hi></term> Jesu
                     spiegelten sich solche Gedanken wider: Sie hatten die Botschaft gehört vom
                     Königreich <term type="Sachen" key="Reich Gottes">Gottes</term>, das nun
                     anbrechen sollte, und, wie konnte es anders sein: sie, die ersten Träger
@@ -156,7 +158,7 @@
                     des <persName ref="kbga-actors-6559">Zebedäus</persName> sprachen es nur aus, was
                     ihrer Aller Hoffnung war: Gib uns, dass wir sitzen Einer zu deiner Rechten
                     und Einer zu deiner Linken in deiner Herrlichkeit [<ref type="can" subtype="bible" target="Mk.10.37">Mk. 10,37</ref> par.]. Sie hatten ihn
-                    missverstanden. Die Herrscher der Völker sind es, die auf <pb ed="A" rend="hidden" n="4"/> Thro<pb xml:id="p050" ed="pga"/>nen sitzen, die
+                    missverstanden. Die Herrscher der Völker sind es, die auf <pb ed="A" rend="hidden" n="4"/> Thro<pb xml:id="p050" ed="pga" break="no"/>nen sitzen, die
                     unterjochen, Gehorsam fordern und Gehorsam erzwingen. Gerade so soll es bei
                     euch nicht sein. Ja, ihr sollt groß sein, aber groß im Dienen, ihr sollt die
                     Ersten sein, aber als die Knechte Aller. Eine Umwälzung aller Begriffe lag
@@ -179,7 +181,7 @@
                     ihre Antwort <pb ed="A" rend="hidden" n="5"/> gewesen, ja, gerade an ein solches
                     Wort hatten die
                     <rs type="person" ref="kbga-actors-1073 kbga-actors-2294">Zebedäussöhne</rs> ihre Bitte um das Sitzen
-                    zur Rechten und Linken angeknüpft. Sein Leben dahingeben <hi rend="i">zum Lösegeld
+                    zur Rechten und Linken angeknüpft. Sein Leben dahingeben <hi rend="italic">zum Lösegeld
                         für Viele!</hi> Was sollten sie damit machen? Auch das ein Wort, das
                     sie zunächst einfach nicht verstanden. Der <term type="Sachen" key="Kreuz / Kreuzestod">Tod</term> des <term type="Sachen" key="Jesus Christus, Messias">Messias</term> war und blieb ihnen ein
                     dumpfes Rätsel, sie sind auseinandergescheucht, als er Wirklichkeit wurde,
@@ -192,7 +194,7 @@
                     der Morgensonne. Wie einfach und selbstverständlich erschien ihnen nun im
                     Lichte des <pb xml:id="p051" ed="pga"/> Neuen das Vorangegangene: Ja, des Menschen
                         <term type="Sachen" key="Jesus Christus, Menschensohn">Sohn</term>
-                    <hi rend="i">musste</hi> sterben, sein Leben <hi rend="i">ist</hi> das Lösegeld für
+                    <hi rend="italic">musste</hi> sterben, sein Leben <hi rend="italic">ist</hi> das Lösegeld für
                     Viele, für Alle, die in ihm Gottes Angesicht schauen. Mit dieser einfachen
                     Kunde sehen wir sie hinausziehen unter die Völker, auf diese Botschaft
                     gründete sich die junge <term type="Sachen" key="Gemeinde, frühe christliche">Gemeinde</term>. <pb ed="A" rend="hidden" n="6"/> Wir hören die Predigt eines <persName ref="kbga-actors-313">Paulus</persName>, eines <persName ref="kbga-actors-1814">Petrus</persName>,
@@ -206,28 +208,28 @@
                     seines <term type="Sachen" key="Kreuz / Kreuzestod">Kreuzes</term>.</p>
             </div>
             <div>
-                <head type="4">B.</head>
-                <p rend="noindent">Liebe Freunde! Ich glaube, es geht <hi rend="i">uns</hi> mit dem
+                <head>B.</head>
+                <p rend="noindent">Liebe Freunde! Ich glaube, es geht <hi rend="italic">uns</hi> mit dem
                     Verständnis des Todes Jesu vielfach gerade wie den <term type="Sachen" key="Jünger">Jüngern</term> vor seiner <term type="Sachen" key="Auferstehung (Christi)">Auferstehung</term>. Wir hören den Schall
                     der Worte: <term type="Sachen" key="Erlösung">Erlösung</term>, <term type="Sachen" key="Versöhnung">Versöhnung</term>, <term type="Sachen" key="Frieden, mit Gott">Friede</term> mit Gott, aber sie bleiben uns
                     innerlich fremd, wir dringen nicht durch zu der Wirklichkeit, die dahinter
                     steht. Sieh, was dort am <term type="Sachen" key="Ostern">Ostermorgen</term>
                     im Großen geschehen ist, das muss sich bei dir und mir wiederholen, bevor
                     wir das Wort vom <term type="Sachen" key="Wort vom Kreuz">Kreuz</term>
-                    aufnehmen können: <hi rend="i">Gott muss sprechen!</hi> Und <term type="Sachen" key="Gott, will zu uns sprechen">Gott</term>
-                    <hi rend="i">will</hi> zu dir sprechen, wenn du Ohr und Herz auftust, ihn zu
+                    aufnehmen können: <hi rend="italic">Gott muss sprechen!</hi> Und <term type="Sachen" key="Gott, will zu uns sprechen">Gott</term>
+                    <hi rend="italic">will</hi> zu dir sprechen, wenn du Ohr und Herz auftust, ihn zu
                     hören, wenn du dich ernstlich besinnst auf das, <pb ed="A" rend="hidden" n="7"/> was deinem <term type="Sachen" key="Leben, Wert">Leben</term> erst Wert
                     geben kann. Von da aus wollen wir zunächst zu der Forderung Jesu, die unser
-                    Textwort enthält, zurückkehren. <hi rend="i">Ihr wisset, dass die, welche als
+                    Textwort enthält, zurückkehren. <hi rend="italic">Ihr wisset, dass die, welche als
                         Herrscher der Welt gelten, und ihre Großen unterjochen und Gewalt
                         ausüben</hi>. |</p>
                 <p>Liebe Freunde! Nicht wahr, wir kennen diesen Ton auch in unsrer Zeit!? Es
                     brauchte nicht jener Lehre mancher <term type="Sachen" key="Naturwissenschaft">Naturwissenschaftler</term>, dass das Leben
                     aller Kreatur erfüllt und bedrängt sei durch den Kampf ums <term type="Sachen" key="Leben, Kampf ums Dasein">Dasein</term>.<note xml:id="n07">Vgl. <bibl corresp="kbga-bibls-2008">
-                                <persName ref="kbga-actors-2013">Ch. Darwin</persName>, <hi rend="i">On the Origin of Species
+                                <persName ref="kbga-actors-2013">Ch. Darwin</persName>, <hi rend="italic">On the Origin of Species
                             by Means of Natural Selection, or the Preservation of Favoured Races
                             in the Struggle for Life</hi>, London 1859/61</bibl> (dt.: <bibl corresp="kbga-bibls-2396">
-                                <hi rend="i">Über die
+                                <hi rend="italic">Über die
                             Entstehung der Arten durch natürliche Zuchtwahl, oder die Erhaltung
                             begünstigter Gattungen im Kampf ums Dasein</hi>, Halle
                         1891</bibl>).</note> Streben, Vorwärtskommen, Etwas Gelten bei den Leuten,
@@ -237,18 +239,18 @@
                     gelten wollen vor den Andern und – auch das gehört zu solchem Kampf
                     ums Dasein, dass sie Andere, Schwächere oder Bescheidenere bei Seite
                     schieben: Heb dich weg, damit ich mich hinsetze! Jesus sagt: So soll es bei
-                    euch <hi rend="i">nicht</hi> sein! Ein folgenschweres Wort: Im <term type="Sachen" key="Reich Gottes, Reich des Wirklichen">Reich</term> des
+                    euch <hi rend="italic">nicht</hi> sein! Ein folgenschweres Wort: Im <term type="Sachen" key="Reich Gottes, Reich des Wirklichen">Reich</term> des
                     allein Wirklichen gibt es keine Herrscherstühle! Verstehen wir uns recht:
                     Jener Trieb nach äußerem Vorwärtskommen gehört mit zur gesunden
                     gottgegebenen <pb ed="A" rend="hidden" n="8"/>
                     <term type="Sachen" key="Mensch, Natur des M.">Natur</term> des Menschen, ja
                     er enthält eine Pflicht, denn auch im äußern <term type="Sachen" key="Leben">Leben</term> sind uns keine Pfunde zum Vergraben gegeben [vgl. 
                         <ref type="can" subtype="bible" target="Mt.25.25">Mt. 25,25</ref> par.]: wir
-                        <hi rend="i">sollen</hi>
-                    <term type="Sachen" key="Arbeit">arbeiten</term>, wir <hi rend="i">sollen</hi>
-                    uns anstrengen auch hier, wir <hi rend="i">sollen</hi> uns und den Unsrigen eine
+                        <hi rend="italic">sollen</hi>
+                    <term type="Sachen" key="Arbeit">arbeiten</term>, wir <hi rend="italic">sollen</hi>
+                    uns anstrengen auch hier, wir <hi rend="italic">sollen</hi> uns und den Unsrigen eine
                     angemessene Existenz sichern. Mit Mönchstum und Tagedieberei hat jenes <term type="Sachen" key="Reich Gottes, Reich des Wirklichen">Reich</term> der
-                    Wirklichkeit nichts zu schaffen. Aber jener äußere Kampf ums <term type="Sachen" key="Kampf ums Dasein">Dasein</term> soll <hi rend="i">nicht zum
+                    Wirklichkeit nichts zu schaffen. Aber jener äußere Kampf ums <term type="Sachen" key="Kampf ums Dasein">Dasein</term> soll <hi rend="italic">nicht zum
                         Inhalt unsres Lebens</hi> werden, so gewiss der äußere Kampf um die
                     Beherrschung der Welt [vgl. <ref type="can" subtype="bible" target="Gen.1.28">Gen. 1,28</ref>] das gottgewollte Gefäß dieses Inhalts ist. Wie Viele sehen
                     wir, und wir selber gehören immer auch ein wenig zu den Vielen, meine
@@ -263,11 +265,11 @@
                     groß werden, ihr sollt die Ersten sein, aber ihr sollt diese Größe nicht in
                     der <term type="Sachen" key="Welt">Welt</term> suchen, sollt über ihrer
                     Beherrschung im Großen und Kleinen das nicht außer Acht lassen, das euer
-                    Dasein erst <hi rend="i">wirklich</hi> im höchsten Sinn macht. Das <hi rend="i">Reich
+                    Dasein erst <hi rend="italic">wirklich</hi> im höchsten Sinn macht. Das <hi rend="italic">Reich
                             <term type="Sachen" key="Reich Gottes">Gottes</term></hi> hat
                     Jesus diese Wirklichkeit genannt. Und nun seht, das ist das große Geheimnis,
                     das nicht erkannt, sondern nur erlebt werden kann: das Reich <term type="Sachen" key="Reich Gottes, Dienen">Gottes</term> ist
-                        <hi rend="i">Dienen</hi>. Solange du nur dich selbst siehst und suchst,
+                        <hi rend="italic">Dienen</hi>. Solange du nur dich selbst siehst und suchst,
                     solange weißt du noch nicht, was wirkliche Größe ist. Soll ich euch an die
                         <term type="Sachen" key="Geschichte">Geschichte</term> erinnern? Welches
                     waren die Leute, die die <pb xml:id="p053" ed="pga"/>
@@ -286,7 +288,7 @@
                 <p> Wenn das nun schon im äußern <term type="Sachen" key="Leben, äußeres">Leben</term> so ist, um wieviel mehr, wenn du bis dahin vorzudringen
                     vermagst, im wirklichen <term type="Sachen" key="Leben, wirkliches">Leben</term> des inwendigen <term type="Sachen" key="Mensch, inwendiger">Menschen</term>! Wirf den Helden in deiner
                         <term type="Sachen" key="Seele">Seele</term> nicht weg, so wirst du in
-                    dir das <hi rend="i">Reich <term type="Sachen" key="Reich Gottes">Gottes</term></hi> entdecken, du wirst schauen, was wirklich Größe
+                    dir das <hi rend="italic">Reich <term type="Sachen" key="Reich Gottes">Gottes</term></hi> entdecken, du wirst schauen, was wirklich Größe
                     ist, und dann ist mit einem Schlag deine Stellung zur Welt eine andre. Nach
                     wie vor stehst du äußerlich in jenem rauen Kampf ums <term type="Sachen" key="Kampf ums Dasein">Dasein</term>, dieser Kampf bleibt nach wie vor
                     deine gottgewollte <term type="Sachen" key="Kampf ums Dasein, gottgewollte Pflicht">Pflicht</term>, aber
@@ -297,67 +299,67 @@
                         <term type="Sachen" key="Mensch, Einzelner">Einzelner</term>, der andre
                     Einzelne überholen und niederhalten muss um seines einzelnen Wohlergehens
                     halben, sondern als Glied einer unsichtbaren <term type="Sachen" key="Mensch, und Gemeinschaft">Gemeinschaft</term>, die vorwärts will,
-                    Gott entgegen, und dann kannst du nicht mehr anders als <hi rend="i">dienen</hi>,
+                    Gott entgegen, und dann kannst du nicht mehr anders als <hi rend="italic">dienen</hi>,
                     d. h. aber <term type="Sachen" key="Nächstenliebe">
-                            <hi rend="i">lieben</hi></term>, denn Gottes Größe, die <term type="Sachen" key="Gott, Liebe">Liebe</term>, ist deine Größe geworden. Und je weiter
+                            <hi rend="italic">lieben</hi></term>, denn Gottes Größe, die <term type="Sachen" key="Gott, Liebe">Liebe</term>, ist deine Größe geworden. Und je weiter
                     dir diese Gemeinschaft der Liebe wird, je mehr deiner Mitmenschen du in
                     diesen Kreis <pb ed="A" rend="hidden" n="11"/> deines Dienens zu ziehen vermagst,
                     umso größer wirst du sein, umso mehr wirst du groß sein, Gott nahe.
-                        <hi rend="i">Der aber wird der Größte unter euch sein, der der Knecht von Allen
+                        <hi rend="italic">Der aber wird der Größte unter euch sein, der der Knecht von Allen
                         ist</hi>. Ein unendlich hohes Ziel hat uns Jesus auch in diesem Worte
-                    gesteckt: der Knecht <hi rend="i">von Allen</hi>. Es ist nicht leicht, auch nur
+                    gesteckt: der Knecht <hi rend="italic">von Allen</hi>. Es ist nicht leicht, auch nur
                     seinem Bruder, seinen Eltern, seinem Gatten, seinen Kindern wirklich zu
                     dienen, es <pb xml:id="p054" ed="pga"/> ist schwer, seinen Freunden und Bekannten
                     aufrichtig zu dienen, aber es ist unendlich schwer, allen, allen Menschen zu
                     dienen, d. h. aber, ihnen herzliches Wohlwollen entgegenzubringen. Und doch
                     nur um diesen Preis verheißt uns Jesus die Größe, von der er redet.</p>
                 <p>Wahrlich, es geht uns hier wie bei so manchem andern Wort Jesu: hätten wir
-                    nur die <hi rend="i">Forderung</hi>, wir müssten <hi rend="i">verzweifeln</hi>, wenn
+                    nur die <hi rend="italic">Forderung</hi>, wir müssten <hi rend="italic">verzweifeln</hi>, wenn
                     anders wir sie ernst nehmen. Dienen? Knecht sein? Das sind harte Worte! Du
                     siehst den Preis, aber das Opfer, das verlangt wird, ist dir zu schwer. Du
                     müsstest nicht mehr du selbst sein, wenn du dieses Opfer bringen könntest.
                     Und wenn du dich aufraffst, danach zu streben, so fürchtest du mit Recht,
                     müde zu werden, einen aussichtslosen Kampf mit dir selbst zu kämpfen. Was
                     hilft <pb ed="A" rend="hidden" n="12"/> uns da selbst die Betrachtung des Lebens
-                    Jesu, wenn es uns <hi rend="i">Lehre</hi> oder <term type="Sachen" key="Jesus Christus, Leben als Vorbild">
-                            <hi rend="i">Vorbild</hi></term>
+                    Jesu, wenn es uns <hi rend="italic">Lehre</hi> oder <term type="Sachen" key="Jesus Christus, Leben als Vorbild">
+                            <hi rend="italic">Vorbild</hi></term>
                     bleibt, himmelhoch fern, ewig fremd den Nöten unsres Inwendigen?</p>
             </div>
             <div>
-                <head type="4">C.</head>
-                <p rend="noindent">Jesus <hi rend="i">will</hi> uns aber mehr sein als Lehrer oder
-                    Vorbild: Er <hi rend="i">gab sein Leben dahin zum Lösegeld</hi>.</p>
+                <head>C.</head>
+                <p rend="noindent">Jesus <hi rend="italic">will</hi> uns aber mehr sein als Lehrer oder
+                    Vorbild: Er <hi rend="italic">gab sein Leben dahin zum Lösegeld</hi>.</p>
                 <p>
-                        <hi rend="i">Worin beruht diese Kraft dieses <term type="Sachen" key="Kreuz / Kreuzestod">Todes</term></hi>, an die sich seit den
+                        <hi rend="italic">Worin beruht diese Kraft dieses <term type="Sachen" key="Kreuz / Kreuzestod">Todes</term></hi>, an die sich seit den
                     ersten Tagen der <term type="Sachen" key="Glaube, christlicher">Glaube</term> der Christen geheftet hat?</p>
-                <p>Sieh, Jesus hat ein <hi rend="i">Leben des <term type="Sachen" key="Jesus Christus, Leben des Dienens">Dienens</term></hi>
+                <p>Sieh, Jesus hat ein <hi rend="italic">Leben des <term type="Sachen" key="Jesus Christus, Leben des Dienens">Dienens</term></hi>
                     geführt nach dem <term type="Sachen" key="Wille Gottes">Willen</term> des
                     Vaters. Dienen war sein Beruf, und er hat ihn erfüllt in einer
                     Vollkommenheit und Reinheit, die über alles Menschenmaß hinausgeht. Derselbe
-                        <hi rend="i">Wille des Vaters</hi>, der ihm diesen Beruf des Dienens gegeben,
+                        <hi rend="italic">Wille des Vaters</hi>, der ihm diesen Beruf des Dienens gegeben,
                     führt ihn nun ans Kreuz, und er hat es auf sich genommen ohne Murren und
-                    stirbt, weil er gehorcht. In <hi rend="i">kindlichem <term type="Sachen" key="Jesus Christus, Vertrauen auf Gott">Vertrauen</term></hi> auf
+                    stirbt, weil er gehorcht. In <hi rend="italic">kindlichem <term type="Sachen" key="Jesus Christus, Vertrauen auf Gott">Vertrauen</term></hi> auf
                     Gottes Führung fügt er sich in dieses Schwerste, das bittere, hoffnungslose
-                    Ende seines gottgeweihten Lebens. Und dies Vertrauen <hi rend="i">wurde nicht
+                    Ende seines gottgeweihten Lebens. Und dies Vertrauen <hi rend="italic">wurde nicht
                         zuschanden</hi>, sondern verherrlicht: nicht blinde Schicksalsmacht,
                     sondern der lebendige <term type="Sachen" key="Gott, lebendiger">Gott</term>
                     führte ihn so und nicht anders, das wissen wir aus der <term type="Sachen" key="Osterbotschaft">Osterbotschaft</term>.</p>
                 <p>Lieber Freund! Hat dir dieses Ende dieses Lebens <pb ed="A" rend="hidden" n="13"/> nichts zu sagen? Sieh, ich denke: der Mann, der so stirbt, kann das, was
                     ich nicht kann, den Willen <term type="Sachen" key="Wille Gottes">Gottes</term>
-                    <hi rend="i">ganz</hi> tun. Was ich nicht vermocht hätte, das hat er in seinem
+                    <hi rend="italic">ganz</hi> tun. Was ich nicht vermocht hätte, das hat er in seinem
                         <term type="Sachen" key="Kreuz / Kreuzestod">Tod</term> getan, er hat
-                    Gott <hi rend="i">ganz</hi> vertraut. Sein großes <term type="Sachen" key="Jesus Christus, Vertrauen auf Gott">Vertrauen</term> erhebt und
+                    Gott <hi rend="italic">ganz</hi> vertraut. Sein großes <term type="Sachen" key="Jesus Christus, Vertrauen auf Gott">Vertrauen</term> erhebt und
                     gründet mein kleines <term type="Sachen" key="Mensch, Vertrauen auf Gott">Vertrauen</term> auf denselben <term type="Sachen" key="Gott, Vater">Vater</term>, der <pb xml:id="p055" ed="pga"/> Weg zu ihm ist frei, denn ich
                     weiß, dass Gott den als <term type="Sachen" key="Mensch, Kind Gottes">Kind</term> annimmt, der im Aufblick zu diesem Mann ihm vertraut.</p>
-                <p>Freilich, <hi rend="i">wie dieses schöpferische Vertrauenfassen zu Gott in uns
+                <p>Freilich, <hi rend="italic">wie dieses schöpferische Vertrauenfassen zu Gott in uns
                         zustande kommt, das ist nicht zu beschreiben</hi>, so wenig wie das,
                     was die <term type="Sachen" key="Jünger">Jünger</term> in den Tagen der
                         <term type="Sachen" key="Jesus Christus, Auferstehung">Auferstehung</term> erlebt haben, beides ist Gottes freie Tat, die du
-                    nur <hi rend="i">erfahren</hi> kannst. Wer es aber erfahren hat, der wird immer
+                    nur <hi rend="italic">erfahren</hi> kannst. Wer es aber erfahren hat, der wird immer
                     wieder im Bild des <term type="Sachen" key="Jesus Christus, Gekreuzigter">Gekreuzigten</term> den höchsten Ausdruck der vertrauenschaffenden
                         <term type="Sachen" key="Kreuz / Kreuzestod, Offenbarung der Liebe Gottes">Offenbarung</term> der Liebe Gottes erblicken.</p>
-                <p>Christus gab sein Leben dahin zum Lösegeld <hi rend="i">für Viele</hi>. Sieh, es
-                    ist kein Zufall, dass Jesus <hi rend="i">nicht</hi> gesagt hat <hi rend="i">für
+                <p>Christus gab sein Leben dahin zum Lösegeld <hi rend="italic">für Viele</hi>. Sieh, es
+                    ist kein Zufall, dass Jesus <hi rend="italic">nicht</hi> gesagt hat <hi rend="italic">für
                         Alle</hi>. Es hat Zeiten gegeben, wo die Christenheit diese ernste
                     Mahnung vergessen hat, wo sie versucht hat, dem menschlichen Verstande, den
                     auch der Gottesleugner besitzt, klar zu machen, wieso dieser <term type="Sachen" key="Kreuz / Kreuzestod, Heilsbedeutung">Tod</term> uns
@@ -373,7 +375,7 @@
                     <q rend="block">
                         <lg>
                             <l>«Herr, nun heb den Wagen selbst!»<note xml:id="n10">Erste Zeile des «Kappeler Liedes» von <bibl corresp="kbga-bibls-1936">U. Zwingli: «Her, nun
-                                    heb den wagen selb!» (ders., <hi rend="i">Sämtliche Werke</hi>
+                                    heb den wagen selb!» (ders., <hi rend="italic">Sämtliche Werke</hi>
                                     VI/5 [CR 93/5], S. 395–398, dort S. 395)</bibl>. Die
                                     hochdeutsche Fassung des Liedes <bibl type="song" corresp="kbga-songs-256">«Herr, nun selbst den Wagen
                                     halt!» von <persName ref="kbga-actors-4485">Fr. Spitta</persName> findet sich in RG 792 und EG 242</bibl>.</note>

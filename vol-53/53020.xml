@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53020">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 18</title>
         <title type="content">Predigt: Markus 1,21-22</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 1,21-22, 31. Oktober 1909</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53020 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53020 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 18: Predigt: Markus 1,21-22</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,7 +65,7 @@
             <div type="sermon"> 
                 <pb xml:id="p160" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                         <pb ed="A" rend="hidden" n="1"/>
                     <idno>18</idno>
                     </head>
@@ -99,8 +101,8 @@
                         Gemeindekirchenrats zusammenhängen, von der Barth seinem Vater
                         berichtete: «Ein wackerer Kirchenrat bat mich sehr angelegentlich, ob
                         ich nicht beim Predigen das ä wie e aussprechen wolle, das ä sei ihm so
-                        étrange (Genfer Deutsch)» (Brief an Fr. Barth vom 26.10.1909 [<idno type="kba-objects-identifier">KBA
-                        9209.79</idno>]).</note> es der Jünger und Apostel <persName ref="kbga-actors-1814">Petrus</persName> gewesen, der später dem Markus als
+                        étrange (Genfer Deutsch)» (Brief an Fr. Barth vom 26.10.1909 
+                        [<idno type="kba-objects-identifier">KBA 9209.79</idno>]).</note> es der Jünger und Apostel <persName ref="kbga-actors-1814">Petrus</persName> gewesen, der später dem Markus als
                     Gewährsmann gedient hätte, als dieser seinen Bericht über das Leben Jesu,
                     unser heutiges Markusevangelium, verfasste. Wie dem auch sei, die gelesene
                     Stelle ist eine von denen, bei denen wir dem Häuflein der ersten <term type="Sachen" key="Christen, frühe">Christen</term> etwa 30 Jahre nach
@@ -110,7 +112,7 @@
                     Katakomben in <placeName ref="kbga-places-53">Rom</placeName>, wo die
                     Glaubensgenossen zur Andacht zusammenkamen. Vielleicht ist der eine oder
                     andre unter ihnen, der, aus <placeName ref="kbga-places-871">Palästina</placeName> herübergekommen, <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">
-                            <hi rend="i">ihn</hi></term> noch
+                            <hi rend="italic">ihn</hi></term> noch
                     gesehen hat, wenn auch nur von weitem, als er noch auf Erden wandelte. Mit
                     Bewunderung, fast mit Neid sehen die Andern zu ihm auf. Und nun werden die
                     Rollen herbeigebracht, die die kleine Gemeinde neulich erhalten, nun
@@ -125,16 +127,16 @@
                         Vergleich mit dem Englischen war das Französische zu dieser Zeit, was
                         seinen weltweiten Einfluss anbelangt, jedoch bereits ins Hintertreffen
                         geraten. Vgl. <bibl corresp="kbga-bibls-2532">
-                                <persName ref="kbga-actors-9168">J. Osterhammel</persName>, <hi rend="i">Die Verwandlung der Welt. Eine
+                                <persName ref="kbga-actors-9168">J. Osterhammel</persName>, <hi rend="italic">Die Verwandlung der Welt. Eine
                             Geschichte des 19. Jahrhunderts</hi>, München 2009,
-                        S. 1110–1112</bibl>.</note> «Da <persName ref="kbga-actors-2206">Johannes</persName> überantwor<pb xml:id="p161" ed="pga"/>tet war, kam Jesus nach <placeName ref="kbga-places-780">Galiläa</placeName> und predigte das <term type="Sachen" key="Evangelium">Evangelium</term> vom Reich Gottes und sprach: Die Zeit
+                        S. 1110–1112</bibl>.</note> «Da <persName ref="kbga-actors-2206">Johannes</persName> überantwor<pb xml:id="p161" ed="pga" break="no"/>tet war, kam Jesus nach <placeName ref="kbga-places-780">Galiläa</placeName> und predigte das <term type="Sachen" key="Evangelium">Evangelium</term> vom Reich Gottes und sprach: Die Zeit
                     ist erfüllet, und das Reich <term type="Sachen" key="Reich Gottes">Gottes</term> ist herbeigekommen…», und dann weiter die
                     Geschichte von der Berufung der ersten <term type="Sachen" key="Jünger">Jünger</term>, mit der wir uns vor drei Wochen beschäftigt haben,<note xml:id="n03">Vgl. oben, <ref type="pub" target="../volume/53/p150#p150">S. 150-159</ref>.</note> und dann unsre Stelle: «Er ging in die
                     Synagoge und lehrte, und sie erstaunten – sie entsetzten sich
                     – über seine Lehre, denn er lehrte wie einer, der Vollmacht hatte,
                     – er lehrte gewaltig – und nicht wie die Schriftgelehrten.»
-                    Eine stille Bewegung geht durch die Versammlung: Ja, <hi rend="i">so</hi> war <pb ed="A" rend="hidden" n="3"/> er, nein, so <hi rend="i">ist</hi> er: <term type="Sachen" key="Jesus Christus, Vollmacht">
-                            <hi rend="i">Vollmacht</hi></term>, das ist sein innerstes Wesen. Seine
+                    Eine stille Bewegung geht durch die Versammlung: Ja, <hi rend="italic">so</hi> war <pb ed="A" rend="hidden" n="3"/> er, nein, so <hi rend="italic">ist</hi> er: <term type="Sachen" key="Jesus Christus, Vollmacht">
+                            <hi rend="italic">Vollmacht</hi></term>, das ist sein innerstes Wesen. Seine
                     Vollmacht hat ja weiter gewirkt im Munde seiner Boten, des <persName ref="kbga-actors-313">Paulus</persName> vor Allem, und hat sie Alle
                     ergriffen, herausgerissen aus der Dunkelheit und dem Schlamm ihres
                     bisherigen Lebens, hat sie in ein <term type="Sachen" key="Leben, des Lichts">Leben</term> des Lichts und der <term type="Sachen" key="Leben, der Freiheit">Freiheit</term> versetzt. Er
@@ -150,17 +152,17 @@
                     Jesus? Was haben wir mit ihm zu schaffen? Warum nennen wir uns nach Christus
                     Christen? Warum stellen wir nicht <persName ref="kbga-actors-136">Goethe</persName> oder <persName ref="kbga-actors-216">Kant</persName> in den Mittelpunkt
                     unsrer religiösen und sittlichen Gedanken? Ich erweitere alle diese Fragen
-                    und fasse sie zusammen in der einen: <hi rend="i">Was ist die Großmacht in
+                    und fasse sie zusammen in der einen: <hi rend="italic">Was ist die Großmacht in
                         deinem</hi>
                     <pb ed="A" rend="hidden" n="4"/>
-                    <hi rend="i">und meinem innern <term type="Sachen" key="Leben, inneres">Leben</term></hi>
-                        <hi rend="i">?</hi>
+                    <hi rend="italic">und meinem innern <term type="Sachen" key="Leben, inneres">Leben</term></hi>
+                        <hi rend="italic">?</hi>
                     </p>
                 <div>
                     <pb xml:id="p162" ed="pga"/>
-                    <head type="4">I</head>
+                    <head>I</head>
                     <p rend="noindent">Vom <term type="Sachen" key="Erstaunen">
-                                <hi rend="i">Erstaunen</hi></term> redet unser Textwort. Wer in
+                                <hi rend="italic">Erstaunen</hi></term> redet unser Textwort. Wer in
                         seinem Leben nie erstaunt ist, der ist ein armer Mensch. Ich rede hier
                         nicht von jenem Erstaunen, das viel eher Neugier heißen <term type="Sachen" key="Erstaunen, neugieriges">könnte</term>, das die
                         Hände über dem Kopf zusammenschlägt über das, was es nicht versteht, um
@@ -183,8 +185,8 @@
                             Jahrhunderts zunehmenden Dominanz
                             naturwissenschaftlich-naturalistischer Deutungsmuster bei <bibl corresp="kbga-bibls-2533">
                                     <persName ref="kbga-actors-9148">Th. Nipperdey</persName>,
-                                <hi rend="i">Deutsche Geschichte 1866–1918</hi>, Bd. I:
-                                <hi rend="i">Arbeitswelt und Bürgergeist</hi>, München 1990,
+                                <hi rend="italic">Deutsche Geschichte 1866–1918</hi>, Bd. I:
+                                <hi rend="italic">Arbeitswelt und Bürgergeist</hi>, München 1990,
                             S. 623–629</bibl>: «Modelle und Abstraktionen spielen eine
                             zunehmende Rolle. Das ‚Wesen‘ der Natur ist nicht verstehbar
                             – und in der Wissenschaft, zumal in der Physik, nimmt die
@@ -212,7 +214,7 @@
                             <l> <pb rend="noPipe" xml:id="p163" ed="pga"/> … nach drüben ist die Aussicht uns verrannt,</l>
                     <l>Tor, wer dorthin die Augen blinzelnd richtet.<note xml:id="n06">
                                         <bibl corresp="kbga-bibls-1624">
-                                            <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Faust.
+                                            <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Faust.
                                 Der Tragödie zweiter Teil</hi>, V. 11442f. (Fünfter Akt,
                             Mitternacht)</bibl>.</note>
                         </l>
@@ -254,8 +256,8 @@
                             1906 war es in Deutschland zudem zur Gründung des ebenfalls
                             freidenkerisch orientierten «Deutschen Monistenbundes» gekommen, dem
                             schon bald mehr als 6000 Mitglieder angehörten (vgl. <bibl corresp="kbga-bibls-2536">
-                                    <persName ref="kbga-actors-9171">J. Mehlhausen</persName> /
-                                 <persName ref="kbga-actors-9172">D. Dunkel</persName>, Art.
+                                    <persName key="Mehlhausen, Joachim">J. Mehlhausen</persName> /
+                                 <persName key="Dunkel, Daniela">D. Dunkel</persName>, Art.
                             «Monismus / Monistenbund», in: TRE 23, S. 212–219, dort
                             S. 216</bibl>).</note> Diese Überzeugung ist offenbar etwas Anderes als <pb xml:id="p164" ed="pga"/> das, was man <pb ed="A" rend="hidden" n="6"/> sieht und
                         hört und schmeckt und greift, mögen sie selbst noch so laut alles andre
@@ -279,7 +281,7 @@
                                         von <persName ref="kbga-actors-301">Friedrich Nietzsche</persName>
                                         (1844–1900), das auch unter den Namen
                                         «Mitternachtslied» oder «Das trunkene Lied» bekannt ist.
-                                        Gedruckt findet es sich in Fr. Nietzsche, <hi rend="i">Also
+                                        Gedruckt findet es sich in Fr. Nietzsche, <hi rend="italic">Also
                                             sprach Zarathustra. Ein Buch für Alle und
                                             Keinen</hi>, Sämtliche Werke. Kritische
                                         Studienausgabe in 15 Bänden, hrsg. von G. Colli / M.
@@ -289,7 +291,7 @@
                                         Gedicht auf der Halbinsel Chasté im <placeName ref="kbga-places-1126">Silsersee</placeName> (Kanton
                                         Graubünden), einem der bevorzugten Aufenthaltsorte
                                         Nietzsches, in den Fels meißeln; vgl. <bibl corresp="kbga-bibls-2538">
-                                            W. Stegmaier, <hi rend="i">Oh Mensch! Gieb Acht!
+                                            W. Stegmaier, <hi rend="italic">Oh Mensch! Gieb Acht!
                                             Kontextuelle Interpretation des Mitternachtslieds
                                             aus Also sprach Zarathustra</hi>, in:
                                         Nietzsche-Studien 42 (2013), S. 85–115, dort
@@ -325,7 +327,7 @@
                         hören, da hat jeder ein feines Gefühl dafür, ob der Redner mit der
                         ganzen Kraft seiner <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term> in der Rede steckt, oder ob die Mühle leer
                             <pb ed="A" rend="hidden" n="8"/> klappert am rauschenden Bach<note xml:id="n10">Vgl. <bibl corresp="kbga-bibls-2539">die erste Zeile des Gedichts und
-                            deutschen Volkslieds «Die Mühle» von <persName ref="kbga-actors-9175">E. Anschütz</persName> (<hi rend="i">Musikalischer
+                            deutschen Volkslieds «Die Mühle» von <persName ref="kbga-actors-9175">E. Anschütz</persName> (<hi rend="italic">Musikalischer
                                 Hausschatz der Deutschen. Eine Sammlung von 1000 Liedern und
                                 Gesängen mit Singweisen und Klavierbegleitung</hi>, gesammelt
                             und hrsg. von G. W. Fink, Leipzig 1843, S. 178)</bibl>: 
@@ -346,14 +348,14 @@
                         getan haben.</p>
                 </div>
                 <div>
-                    <head type="4">II</head>
+                    <head>II</head>
                     <p rend="noindent">Aber nun ist’s eine bekannte Tatsache, dass lange
                         nicht alle, vielleicht nur wenige Menschen im Stand sind, uns den Blick
                         für dies Geheimnis <pb xml:id="p166" ed="pga"/> zu öffnen. Das Leben und Reden
                         der meisten Menschen erstaunt uns nicht im geringsten. Auch unser
                         Textwort redet von solchen Menschen, indem es hervorhebt, dass Jesus
                         anders, gewaltiger gepredigt und geredet habe, als seine galiläischen
-                        Zuhörer es bis dahin gewohnt waren: <hi rend="i">nicht wie die <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term></hi>. Die Schriftgelehrten waren die
+                        Zuhörer es bis dahin gewohnt waren: <hi rend="italic">nicht wie die <term type="Sachen" key="Schriftgelehrte">Schriftgelehrten</term></hi>. Die Schriftgelehrten waren die
                             <term type="Sachen" key="Theologen">Theologen</term>, die Gebildeten
                         unter dem jüdischen <term type="Sachen" key="Juden / Judentum">Volk</term>, die Kenner und Ausleger des <term type="Sachen" key="Gesetz, mosaisches">Gesetzes</term> und der <term type="Sachen" key="Propheten">Propheten</term>. Wir wollen diese Leute nicht
                         schwarz malen, wie es oft geschieht. In ihrer Arbeit, in ihrer Lehre <pb ed="A" rend="hidden" n="9"/> war viel Aufrichtigkeit und viel guter
@@ -376,7 +378,7 @@
                         Menschen fehlt der Unterton, und darum ist ihr Leben und ihr Reden auch
                         nicht geeignet, das Staunen in uns zu erwecken. Und nun weiter: wie oft,
                         wie oft wird unser <term type="Sachen" key="Erstaunen, getäuschtes">Staunen</term>
-                        <hi rend="i">getäuscht!</hi>
+                        <hi rend="italic">getäuscht!</hi>
                         <pb ed="A" rend="hidden" n="10"/> Wir waren ergriffen, gepackt von den Worten
                         eines Menschen, von seinen Ideen, von seiner Persönlichkeit. Wir
                         glaubten das Geheimnis des Lebens, das Ziel und den Zweck unsres
@@ -400,7 +402,7 @@
                         Enttäuschung gewichen. Und wie zahlreich, meine Freunde, sind erst die,
                         die solche Ernüchterung und <term type="Sachen" key="Erstaunen, getäuschtes">Enttäuschung</term> durchgemacht haben,
                         die mitten drin stecken, ohne dass es nach außen sichtbar wird. Sie
-                        suchen es vor sich selbst und den andern zu <hi rend="i">verstecken</hi>,
+                        suchen es vor sich selbst und den andern zu <hi rend="italic">verstecken</hi>,
                         dass sie eigentlich das Staunen, die große innere Überzeugtheit verloren
                         haben. Die Mauern des Hauses stehen noch, wie man im letzten Winter
                         solche Mauern im Trümmerfeld von <placeName ref="kbga-places-1059">Messina</placeName><note xml:id="n11">Der größte Teil von
@@ -425,11 +427,11 @@
                         baut, werden bald ausgebrannte Häuser sein. <pb xml:id="p168" ed="pga"/> Wenn
                         der Arzt selbst krank wird, kann er den andern Kranken nicht mehr
                         helfen. Und seht, meine Freunde, hier stehen wir vor der großen
-                            <hi rend="i">Schranke</hi> unsres menschlichen <term type="Sachen" key="Mensch, Schranke seines Wesens">Wesens</term>, das auch die
+                            <hi rend="italic">Schranke</hi> unsres menschlichen <term type="Sachen" key="Mensch, Schranke seines Wesens">Wesens</term>, das auch die
                         Schranke war bei den Schriftgelehrten der Zeit Jesu. Man redet heute so
-                        viel von <term type="Sachen" key="Persönlichkeit">«<hi rend="i">Persönlichkeit</hi>»</term>,<note xml:id="n12">Vgl. schon <bibl corresp="kbga-bibls-2540">die erste Strophe des Gedichts «Suleika» von
-                            <persName ref="kbga-actors-136">J. W. von Goethe</persName> (ders., We<hi rend="i">st-östlicher Diwan</hi>,
-                                <hi rend="i">Buch Suleika</hi>, Berliner Ausgabe, Bd. 3, S. 95)</bibl>: 
+                        viel von <term type="Sachen" key="Persönlichkeit">«<hi rend="italic">Persönlichkeit</hi>»</term>,<note xml:id="n12">Vgl. schon <bibl corresp="kbga-bibls-2540">die erste Strophe des Gedichts «Suleika» von
+                            <persName ref="kbga-actors-136">J. W. von Goethe</persName> (ders., We<hi rend="italic">st-östlicher Diwan</hi>,
+                                <hi rend="italic">Buch Suleika</hi>, Berliner Ausgabe, Bd. 3, S. 95)</bibl>: 
                                 <q rend="block">
                                     <lg>
                                         <l>Volk und Knecht und Überwinder, </l>
@@ -446,17 +448,17 @@
                             Menschlichen» in KD III/2, S. 82–157</bibl> stellt Barth als
                             Repräsentanten des Operierens mit dem Begriff Person bzw.
                             Persönlichkeit <bibl corresp="kbga-bibls-51">
-                                    <persName ref="kbga-actors-311">R. Otto</persName>, <hi rend="i">Naturalistische und religiöse
+                                    <persName ref="kbga-actors-311">R. Otto</persName>, <hi rend="italic">Naturalistische und religiöse
                                 Weltansicht</hi>, Tübingen 1909<hi rend="sup">2</hi>,</bibl> vor
                             (vgl. <bibl corresp="kbga-bibls-2">KD III/2, S. 96.99.109f.</bibl>).</note> und es ist gut und recht so,
                         aber ich meine, wir wollen nur davon reden als von etwas, das wir
-                            <hi rend="i">werden</hi> sollen und wollen. Denn wenn wir’s ernst
+                            <hi rend="italic">werden</hi> sollen und wollen. Denn wenn wir’s ernst
                         nehmen damit, muss es uns doch bald einleuchten, dass wir Alles andre
                         sind, nur nicht Persönlichkeiten. Denn eine Persönlichkeit ist nur, wer
                         ein festes, gewisses <term type="Sachen" key="Persönlichkeit, besitzt gewisses Innenleben">Innenleben</term>
                         hat. Ein solches Innenleben aber hat wieder nur der, der sich selbst und
                         seine Natur <term type="Sachen" key="Persönlichkeit, hat sich selbst überwunden">
-                                <hi rend="i">überwunden</hi></term> hat.</p>
+                                <hi rend="italic">überwunden</hi></term> hat.</p>
                         <q rend="block">
                             <lg>
                                 <l>Ein Held ist, wer den Feind bezwinget,</l>
@@ -465,7 +467,7 @@
                                         Gedichts «Die Versöhnung oder Ulrich zur Kinden von
                                         Zürich und Arnold Winkelried von Unterwalden. Ao. 1499»
                                         von <persName ref="kbga-actors-4505">J. M. Usteri</persName>
-                                            (<hi rend="i">Dichtungen in Versen und Prosa von Johann
+                                            (<hi rend="italic">Dichtungen in Versen und Prosa von Johann
                                             Martin Usteri</hi>, nebst einer Lebensbeschreibung
                                         des Verfassers hrsg. von D. Heß, Bd. 1, Berlin 1831,
                                         S. 172–175, dort S. 175)</bibl>.</note>
@@ -494,7 +496,7 @@
                                 <l>Bist du nur ein trüber Gast</l>
                                 <l>Auf der dunklen Erde.<note xml:id="n14">
                                         <bibl corresp="kbga-bibls-2404">Strophe 5
-                                        des Gedichts «Selige Sehnsucht» von <persName ref="kbga-actors-136">J. W. von Goethe</persName> (ders., <hi rend="i">West-östlicher Diwan,
+                                        des Gedichts «Selige Sehnsucht» von <persName ref="kbga-actors-136">J. W. von Goethe</persName> (ders., <hi rend="italic">West-östlicher Diwan,
                                             Buch des Sängers</hi>, Berliner Ausgabe, Bd. 3,
                                         S. 22)</bibl>.</note>
                                 </l>
@@ -508,12 +510,12 @@
                         dunklen Erde.</p>
                 </div>
                 <div>
-                    <head type="4">
+                    <head>
                             <pb ed="A" rend="hidden" n="14"/> III</head>
                     <p rend="noindent">Jesus war anders als die andern, und darum konnte er den
                         andern das sein, was er Unzähligen geworden ist. Sie erstaunten über
-                        seine Lehre, <hi rend="i">denn er lehrte wie einer, der <term type="Sachen" key="Jesus Christus, Vollmacht">Vollmacht</term></hi>
-                        <hi rend="i">hat</hi>. Über was haben die Menschen dort gestaunt? Über seine
+                        seine Lehre, <hi rend="italic">denn er lehrte wie einer, der <term type="Sachen" key="Jesus Christus, Vollmacht">Vollmacht</term></hi>
+                        <hi rend="italic">hat</hi>. Über was haben die Menschen dort gestaunt? Über seine
                         Lehre, über die Worte und Gedanken? Sicher, denn wir wissen aus den
                         Sammlungen seiner Sprüche, die uns die Evangelien bieten, dass er Worte
                         getan hat, wie sie an gedanklichem Tiefsinn und Schärfe des Ausdrucks
@@ -522,8 +524,8 @@
                         in dem sie die Welt überwanden [vgl. <ref type="can" subtype="bible" target="1.Joh.5.4">1.Joh. 5,4</ref>] und in dem sie frei und selig wurden,
                         das war nicht die Lehre Jesu, sondern gerade nach der Aussage der alten
                         Nachricht, die wir zum Text genommen, das, was hinter der Lehre stand,
-                            <hi rend="i">er selbst</hi>, der Mensch <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Jesus</term>, die
-                        Persönlichkeit <term type="Sachen" key="Jesus Christus, Persönlichkeit">Jesu</term>, denn <hi rend="i">er war</hi>
+                            <hi rend="italic">er selbst</hi>, der Mensch <term type="Sachen" key="Jesus Christus, Jesus von Nazareth">Jesus</term>, die
+                        Persönlichkeit <term type="Sachen" key="Jesus Christus, Persönlichkeit">Jesu</term>, denn <hi rend="italic">er war</hi>
                         <pb xml:id="p170" ed="pga"/> eine Persönlichkeit. Er lehrte sie wie einer, der
                         Vollmacht hat, und nicht wie die Schriftgelehrten. Die Schriftgelehrten
                         erweckten kein Erstaunen, weil hinter den Wahrheiten, die sie lehrten,
@@ -538,7 +540,7 @@
                         sein Leben Überwindung, Sieg war bis zuletzt, war es Vollmacht, und
                         diese Vollmacht haben die Menschen gespürt, und das war es, was sie
                         staunen machte. Die Vollmacht <term type="Sachen" key="Jesus Christus, Vollmacht">Jesu</term> war aber Vollmacht von
-                            <hi rend="i">Gott</hi>; er wollte in Jesus den Menschen zeigen, wie groß
+                            <hi rend="italic">Gott</hi>; er wollte in Jesus den Menschen zeigen, wie groß
                         sein <term type="Sachen" key="Gott, Ernst">Ernst</term> und wie groß
                         seine <term type="Sachen" key="Gott, Liebe">Liebe</term> sei, er wollte
                         ihrem Leben einen Inhalt geben, den es vorher nicht hatte. Gott hat in

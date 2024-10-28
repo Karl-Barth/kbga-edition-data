@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1121">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 11</title>
         <title type="content">Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung</title>
         <title type="citation_line_1">Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung, 28. November 1929</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1121 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1121 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 232–236.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">11</title>
+          <title type="text">Anhang Nr. 11: Karl Barth an Ministerium für Wissenschaft, Kunst und Volksbildung</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -84,7 +85,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:45+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:45+02:00</change>
+      <change when="2024-10-28T10:45:12+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:12+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -101,8 +102,8 @@
             für die Wiederbesetzung des Lehrstuhls für <orgName ref="kbga-actors-5258">Systematische Theologie in Münster</orgName> an den
             <hi rend="sc">Minister <orgName ref="kbga-actors-8245">für Wissenschaft, Kunst und Volksbildung</orgName>,</hi>
             <placeName ref="kbga-places-8">Berlin</placeName>: undatierter Entwurf vom <date when="1929-11">November
-              1929</date> (<ref type="kba-objects-id">Original mit handschriftlichem Vermerk Barths: «Nicht abgeschickt» im Karl
-              Barth-Archiv</ref>):]
+              1929</date> (Original mit handschriftlichem Vermerk Barths: «Nicht abgeschickt» im Karl
+              Barth-Archiv):]
           </p>
         </div>
         <div>
@@ -110,13 +111,13 @@
             Neubesetzung des planmäßigen Ordinariats für systematische Theologie anzuschließen,
             gestatte ich mir, als<lb/>
             <q rend="center">
-                            <hi rend="i">Separatvotum</hi>
+                            <hi rend="italic">Separatvotum</hi>
                         </q>
           </p>
           <p>Folgendes vorzutragen:</p>
           <p>I. Als ich mich entschloß, dem an mich ergangenen Ruf nach <placeName ref="kbga-places-10">Bonn</placeName> Folge zu leisten, war es mir vom ersten
             Augenblick an klar, daß ich mir einen anderen Nachfolger in meiner hiesigen Stellung
-            nicht wünschen dürfe und könne als <hi rend="i">Pfarrer D. <persName ref="kbga-actors-137">Friedrich Gogarten</persName></hi> in <placeName ref="kbga-places-73">Dorndorf</placeName>, zur Zeit Privatdozent an
+            nicht wünschen dürfe und könne als <hi rend="italic">Pfarrer D. <persName ref="kbga-actors-137">Friedrich Gogarten</persName></hi> in <placeName ref="kbga-places-73">Dorndorf</placeName>, zur Zeit Privatdozent an
             der <orgName ref="kbga-actors-8292">Universität Jena</orgName>. Ich hätte mich an
             anderen Nennungen gemeinsam mit der <orgName ref="kbga-actors-5258">Fakultät</orgName> nur beteiligen können unter der
             Voraussetzung, daß dieser Name an die Spitze aller übrigen gesetzt worden wäre. Nun die
@@ -159,13 +160,13 @@
             neueren Zeit vor ihm und nach ihm kein Anderer getan hat. Die drei Bände gesammelter
               Vorträge<note xml:id="n02">
                             <bibl corresp="kbga-bibls-1411">
-                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="i">Die religiöse Entscheidung</hi>, Jena 1921</bibl>; ders., <bibl corresp="kbga-bibls-1412">
-                                <hi rend="i">Von Glauben und Offenbarung. Vier Vorträge</hi>, Jena 1923</bibl>; ders., <bibl corresp="kbga-bibls-1413">
-                                <hi rend="i">Illusionen. Eine Auseinandersetzung mit dem
+                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="italic">Die religiöse Entscheidung</hi>, Jena 1921</bibl>; ders., <bibl corresp="kbga-bibls-1412">
+                                <hi rend="italic">Von Glauben und Offenbarung. Vier Vorträge</hi>, Jena 1923</bibl>; ders., <bibl corresp="kbga-bibls-1413">
+                                <hi rend="italic">Illusionen. Eine Auseinandersetzung mit dem
                     Kulturidealismus</hi>, Jena  1926.</bibl>
                         </note> und das größere Buch «Ich glaube an den dreieinigen Gott»<note xml:id="n03">
-                            <bibl corresp="kbga-bibls-1091">
-                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="i">Ich glaube an den dreieinigen Gott. Eine Untersuchung über Glauben und Geschichte</hi>,
+                            <bibl corresp="kbga-bibls-1060">
+                                <persName ref="kbga-actors-137">Fr. Gogarten</persName>, <hi rend="italic">Ich glaube an den dreieinigen Gott. Eine Untersuchung über Glauben und Geschichte</hi>,
                     Jena 1926.</bibl>
                         </note>, die er bei <orgName ref="kbga-actors-93">E. Diederichs</orgName> in
               <placeName ref="kbga-places-36">Jena</placeName> hat erscheinen lassen, sind, wie man

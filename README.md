@@ -1,3 +1,4 @@
+<!-- Diese Datei sollte nur im Repository kbga_xml_src bearbeitet werden -->
 # Karl Barth-Gesamtausgabe
 https://kbga.karl-barth.ch
 
@@ -27,10 +28,11 @@ https://kbga.karl-barth.ch
 		* 3.4.1. [Druckausgabe](#Druckausgabe)
 		* 3.4.2. [Webapplikation](#Webapplikation)
 	* 3.5. [Nachhaltigkeit](#Nachhaltigkeit)
-	* 3.6. [Infrastruktur](#Infrastruktur)
-	* 3.7. [Workflow](#Workflow)
-	* 3.8. [3.9 Daten](#Daten)
-	* 3.9. [Lizenzen](#Lizenzen)
+	* 3.6. [e-editiones](#e-editiones)
+	* 3.7. [Infrastruktur](#Infrastruktur)
+	* 3.8. [Workflow](#Workflow)
+	* 3.9. [3.9 Daten](#Daten)
+	* 3.10. [Lizenzen](#Lizenzen)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -66,13 +68,11 @@ Andreas Kränzle, Sabine Meier und Wolfgang Meier ([Jinntec](https://www.jinntec
 - Dr. Andreas Kränzle
 - Sabine Meier
 - Anny Barbey
-- Ruben Candonau
 - Maria Ionescu
 - Meret Tiburzi
-- Timon Walter
 
 ####  1.4.1. <a name='EhemaligeMitarbeitende'></a>Ehemalige Mitarbeitende
-- Laura Klingenberg, Esther Meyer, Thomas Starzynski, Alexander Tontsch
+- Ruben Candonau, Laura Klingenberg, Esther Meyer, Thomas Starzynski, Alexander Tontsch, Timon Walter
 
 ###  1.5. <a name='Kooperationspartner'></a>Kooperationspartner
 - [e-editiones](https://e-editiones.org)
@@ -82,7 +82,8 @@ Andreas Kränzle, Sabine Meier und Wolfgang Meier ([Jinntec](https://www.jinntec
 - [Sources Online](https://sources-online.ch)
 - [Theologischer Verlag Zürich](https://www.tvz-verlag.ch/)
 - [CorrespSearch](https://correspsearch.net/de/start.html)
-
+- [Universitätsbibliothek Basel](https://ub.unibas.ch/de)
+  
 ##  2. <a name='Editionsziele'></a>Editionsziele
 Die Gesamtausgabe soll Barths Text in einer für die wissenschaftliche Beschäftigung massgeblichen Form präsentieren, die zugleich für einen grösseren Interessentenkreis lesbar und verstehbar ist.
 
@@ -148,34 +149,33 @@ Die Quelle aller Pubikationen sind die TEI Text- und die dazugehörigen Register
 Von den TEI-Textdaten werden von der Firma [pagina GmbH Publikationstechnologien](https://www.pagina.gmbh) Satzdaten erstellt, welche dann wie gehabt in den Druck gehen. Die Druckausgabe wird vom [Theologischen Verlag Zürich](https://www.tvz-verlag.ch/) vertrieben.
 
 ####  3.4.2. <a name='Webapplikation'></a>Webapplikation
-Für die Veröffentlichung der Edition im Internet wird der auf [eXist](http://exist-db.org) basierende [TEI Publisher](https://teipublisher.com/index.html) verwendet. Als Implementierung des [TEI Processing Models](https://tei-c.org/release/doc/tei-p5-doc/en/html/TD.html#TDPMPM) ermöglicht der TEI Publisher die Beschreibung von Transformationsregeln wiederum in TEI (ODD). Damit kann der Anteil an individueller Programmierung erheblich reduziert werden, was für die Nachhaltigeit von besonderer Bedeutung ist.
+Für die Veröffentlichung der Edition im Internet wird der auf [eXist](http://exist-db.org) basierende [TEI Publisher](https://teipublisher.com/index.html) verwendet. Als Implementierung des [TEI Processing Models](https://tei-c.org/release/doc/tei-p5-doc/en/html/TD.html#TDPMPM) ermöglicht der TEI Publisher die Beschreibung von Transformationsregeln wiederum in TEI (ODD). Damit kann der Anteil an individueller Programmierung erheblich reduziert werden, was für die Nachhaltigkeit von besonderer Bedeutung ist.
 
-Das Frontend des TEI Publishers besteht aus hauptsächlich aus [Webcomponents](https://developer.mozilla.org/de/docs/Web/Web_Components). Diese kleinen gekappselten Module kommunizieren sowohl mit dem Backend, also der TEI Publisher API, als auch untereinander. Die Webcomponents sind ebenfalls weitgehend konfigurierbar, so dass auch hier ein grosser Teil des Verhaltens nicht eigens programmiert werden musste.
+Das Frontend des TEI Publishers besteht hauptsächlich aus [Webcomponents](https://developer.mozilla.org/de/docs/Web/Web_Components). Diese gekappselten Module kommunizieren sowohl mit dem Backend, also der TEI Publisher API, als auch untereinander. Die Webcomponents sind ebenfalls weitgehend konfigurierbar, so dass auch hier ein grosser Teil des Verhaltens nicht eigens programmiert werden musste.
 
 ###  3.5. <a name='Nachhaltigkeit'></a>Nachhaltigkeit
-Die Erstellung solider, nachhaltiger Daten hat die höchste Priorität. Daneben steht das gedruckte Buch, das ebenfalls die nachhaltige und dauerhafte Nutzbarkeit der Edition sicherstellt. Während das Buch aber einen konsolidierten und autorisierten Stand statisch festhält, können die digitalen Daten auch nach Abschluss der aktuellen Arbeiten dynamisch weiterverwendet und weiterentwickelt werden. Die getaggten Texte sind der wichtigste, langfristige Output der Edition. Dazu gehören die Daten aus der Meta- und Registerdatenbank, die einerseits in die TEI Header der einzelnen Texte geschrieben (Metadaten) werden, andererseits in eigene Registerdateien (ebenfalls in TEI). Im Daten-Repository der Edition sind deshalb sämtliche Daten in einfach lesbaren Textdateien in einem gut dokumentierten Datenstandard verfügbar. Das sichert die Lesbarkeit und die Verständlichkeit der Daten. Die langfristige Nutzbarkeit und Archivierung der Basisdaten kann damit als gesichert gelten.
+Die Erstellung solider, nachhaltiger Daten hat die höchste Priorität. Daneben steht das gedruckte Buch, das ebenfalls die dauerhafte Nutzbarkeit der Edition sicherstellt. Während das Buch aber einen konsolidierten und autorisierten Stand statisch festhält, können die digitalen Daten auch nach Abschluss der aktuellen Arbeiten dynamisch weiterverwendet und weiterentwickelt werden. Die getaggten Texte sind der wichtigste, langfristige Output der Edition. Dazu gehören die Daten aus der Meta- und Registerdatenbank, die einerseits in die TEI Header der einzelnen Texte geschrieben (Metadaten) werden, andererseits in eigene Registerdateien (ebenfalls in TEI). Im Daten-Repository der Edition sind deshalb sämtliche Daten in einfach lesbaren Textdateien in einem gut dokumentierten Datenstandard verfügbar. Das sichert die Lesbarkeit und die Verständlichkeit der Daten. Die langfristige Nutzbarkeit und Archivierung der Basisdaten kann damit als gesichert gelten.
 
 Vor einer grösseren Herausforderung stehen digitale Editionsprojekte, wenn es um die Nachhaltigkeit der jeweiligen Webapplikation geht. Denn diese Technologien sind einem stetigen und schnellem Wandel unterworfen. Das heisst: Regelmässige Updates und Upgrades sind nicht nur notwendig, wenn die Edition verbessert und erweitert werden soll, sondern auch um sie lauffähig und sicher zu erhalten. Bei komplexen Systemen, wie den Endprodukten digitaler Editionen, ist das ein erheblicher Aufwand.
 
 Auf der technischen Ebene versucht die Karl Barth-Edition dies auch hier über die Nutzung von Standards und den Einsatz von Standardsoftware zu lösen. In diesem Fall ist das der TEI Publisher, der mit der Umsetzung des TEI Processing Models eine Ebene zwischen die eigentlichen TEI Editionsdaten und der Webpräsentation schiebt. Damit können wesentliche Merkmale der Erscheinungsform der Edition ebenfalls im TEI beschrieben werden und ohne weitere Programmierung umgesetzt werden. Für das Frontend setzt der TEI Publisher auf Webcomponents, die flexibel wie «Legobausteine» kombiniert und rekombiniert werden können. Damit können einmal programmierte Komponenten in verschiedenen Editionen wiederverwendet werden.
 
-Das ist der technische Teil der Nachhaltigkeit. Der TEI Publisher ist zudem Open Source. Das heisst sämtliche Entwicklungen und Verbesserungen stehen allen wieder zur Verfügung (so ist z.B. die Zeitleistenkomponente das Ergebnis des gemeinsamen Engagements der Karl Barth-Gesamtausgabe und der [Alfred Escher-Briefedition](https://escher.sources-online.org/)). Open Source Projekte haben nur dann eine Chance zu überleben, wenn es eine engagierte Community von Entwickler:innen und Nutzer:innen gibt. Deshalb hat sich die Karl Barth-Stiftung zusammen mit der [Rechtsquellenstiftung des Schweizerischen Juristenverbands](https://www.ssrq-sds-fds.ch) und dem [Stadtarchiv der Ortsbürgergemeinde St. Gallen](https://stadtarchiv.ch/) federführend an der Gründung von [e-editiones](https://www.e-editiones.org) beteiligt. Der Verein e-editiones ist ein internationaler Zusammenschluss zwischen kleineren und grösseren Editionsunternehmungen, Gedächtnisinstitutionen und Einzelforschenden. Ziel ist die Förderung offener Standards und darauf basierender freier Software für digitale wissenschaftliche Editionen. Ausgangspunkt und strategischer Schwerpunkt von e-editiones ist die Fortentwicklung des TEI Publishers. 2020 gegründet wurde der Verein bereits 2021 vom TEI Consortium mit dem [Community Prize](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) ausgezeichnet:
+###  3.6. <a name='e-editiones'></a>e-editiones
+
+Der TEI Publisher ist zudem Open Source. Das heisst sämtliche Entwicklungen und Verbesserungen stehen für andere Projekte wieder zur Verfügung (so ist z.B. die Zeitleistenkomponente das Ergebnis des gemeinsamen Engagements der Karl Barth-Gesamtausgabe und der [Alfred Escher-Briefedition](https://escher.sources-online.org/)). Open Source Projekte haben nur dann eine Chance zu überleben, wenn es eine engagierte Community von Entwickler:innen und Nutzer:innen gibt. Deshalb hat sich die Karl Barth-Stiftung zusammen mit der [Rechtsquellenstiftung des Schweizerischen Juristenverbands](https://www.ssrq-sds-fds.ch) und dem [Stadtarchiv der Ortsbürgergemeinde St. Gallen](https://stadtarchiv.ch/) federführend an der Gründung von [e-editiones](https://www.e-editiones.org) beteiligt. Der Verein e-editiones ist ein internationaler Zusammenschluss zwischen kleineren und grösseren Editionsunternehmungen, Gedächtnisinstitutionen und Einzelforschenden. Ziel ist die Förderung offener Standards und darauf basierender freier Software für digitale wissenschaftliche Editionen. Ausgangspunkt und strategischer Schwerpunkt von e-editiones ist die Weiterentwicklung des TEI Publishers. 2020 gegründet wurde der Verein bereits 2021 vom TEI Consortium mit dem [Community Prize](https://tei-c.org/activities/rahtz-prize-for-tei-ingenuity/) ausgezeichnet:
 
  >The awards panel was especially impressed by the way e-editiones has managed to gather a non-profit community of those creating scholarly digital editions and made the process of doing so easier through the coordination of ongoing development of the TEI Publisher software. The awards panel also noted the provision of training opportunities and open availability of the workshop materials for those wishing to (re)learn the software in their own time.
 
-###  3.6. <a name='Infrastruktur'></a>Infrastruktur
+###  3.7. <a name='Infrastruktur'></a>Infrastruktur
 Trotz aller Standardisierung benötigt eine komplexe Anwendung regelmässige Updates und Upgrades um sicher und funktionstüchtig zu bleiben. Das bedeutet nach wie vor kontinuierlichen Aufwand. Auch hier versucht die Karl Barth-Gesamtausgabe Synergien zu erzeugen und zu nutzen. Deshalb hat sie zusammen mit dem [Staatsarchiv Zürich](https://www.zh.ch) und [e-editiones](https://www.e-editiones.org) den Service [Sources Online](https://sources-online.org) initiiert, der von [Archives Online](https://archives-online.org) betrieben wird. Sources Online bietet ein All-Inclusive-Hosting für TEI Publisher-Editionen (inkl. [IIIF](https://iiif.io/)-Server, den die Karl Barth-Gesamtausgabe allerdings bis jetzt nicht nutzt).
 
-###  3.7. <a name='Workflow'></a>Workflow
+###  3.8. <a name='Workflow'></a>Workflow
 
 ![KBGA Datenerstellung Workflow](https://raw.githubusercontent.com/Karl-Barth/kbga-edition-data/master/images/Workflow_Datenfluss_1.jpg)
 
-###  3.8. <a name='Daten'></a>3.9 Daten
+###  3.9. <a name='Daten'></a>Daten
 Die Daten der Edition können auf [Github](https://github.com/Karl-Barth/kbga-edition-data) heruntergeladen werden.
 
-###  3.9. <a name='Lizenzen'></a>Lizenzen
-Die Karl Barth-Stiftung hat für die Bände 1-52 vom TVZ das Recht erworben, die Texte Karl Barths unter einer [Creative Commons BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de) zu publizieren.
+###  3.10. <a name='Lizenzen'></a>Lizenzen
 
-Ab Band 56 werden die Texte unter einer [Creative Commons  BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) publiziert.
-
-Eigenleistungen der digitalen Edition (Gesamtregister u.ä.) werden ebenfalls unter [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.de) veröffentlicht.
+Die Texte und die Bearbeitungen sind unter [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) lizensiert.

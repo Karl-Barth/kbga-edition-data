@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1050">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 48</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 26. Mai 1927</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1050 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1050 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 74–75.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">48</title>
+          <title type="text">Brief Nr. 48: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -104,14 +105,14 @@
           öffentlich sich dazu äußern, da Sie im Vorwort ja auch für das Folgende mit verantwortlich
           gemacht werden.<note xml:id="n01">
                         <bibl corresp="kbga-bibls-1069">
-                            <hi rend="i">Das Berneuchener Buch. Vom Anspruch des Evangeliums auf die Kirchen
+                            <hi rend="italic">Das Berneuchener Buch. Vom Anspruch des Evangeliums auf die Kirchen
                   der Reformation</hi>, hrsg. von der Berneuchener Konferenz, Hamburg 1926 (Nachdruck <placeName ref="kbga-places-14">Darmstadt</placeName>
                 1978).</bibl> Das Buch basiert im wesentlichen auf Vorarbeiten des Marburger Pfarrers <persName ref="kbga-actors-402">Wilhelm Thomas</persName>, <date when="1925">1925</date>. Die endgültige Gestalt erhielt es durch
               <persName ref="kbga-actors-174">Ludwig Heitmann</persName>, <persName ref="kbga-actors-341">Karl Bernhard Ritter</persName> und <persName ref="kbga-actors-392">Wilhelm Stählin</persName>. — Die <persName ref="kbga-actors-2151">Barth</persName> betreffende Stelle (S. 7) lautet: «Die Verfasser empfinden es als eine Pflicht der Dankbarkeit, an dieser
             Stelle auszusprechen, daß das Buch ohne die grundlegenden Arbeiten anderer nicht
             geschrieben worden wäre; sie nennen aus der Reihe evangelischer Führer hier nur:
               <persName ref="kbga-actors-4">Paul Althaus</persName>, <persName ref="kbga-actors-2151">Karl Barth</persName>, <persName ref="kbga-actors-65">Friedrich Brunstäd</persName>, <persName ref="kbga-actors-406">Paul Tillich</persName>.» <persName ref="kbga-actors-2151">Barth</persName> nahm zum «<title level="a">Berneuchener Buch</title>» beiläufig Stellung in: <bibl corresp="kbga-bibls-1050">
-                            <hi rend="i">Die christliche Dogmatik im Entwurf</hi>, <title>a. a. O.</title> (<ref type="pub" target="1045#fn_n04">Nr. 43, Anm. 4</ref>), S. 385</bibl>                (<bibl corresp="kbga-bibls-1051">Neuausgabe <ref type="pub-" target="../volume/14/p502#p502">S. 502f.</ref></bibl>), sowie in: <bibl corresp="kbga-bibls-2">
+                            <hi rend="italic">Die christliche Dogmatik im Entwurf</hi>, <title>a. a. O.</title> (<ref type="pub" target="1045#fn_n04">Nr. 43, Anm. 4</ref>), S. 385</bibl>                (<bibl corresp="kbga-bibls-1051">Neuausgabe <ref type="pub-" target="../volume/14/p502#p502">S. 502f.</ref></bibl>), sowie in: <bibl corresp="kbga-bibls-2">
                             KD
                             I/1, S. 64</bibl>.</note> Ich will den guten Willen der Berneuchener nicht verkennen, wenn ich mich auch oft
           genug über das unberechtigte Selbstbewußtsein ärgere. Auch verkenne ich manche treffenden
@@ -122,12 +123,12 @@
         <p>Zu unserer Diskussion erlaube ich mir auf einen <persName ref="kbga-actors-261">Luther</persName>-Satz hinzu<pb xml:id="p075" ed="pga" break="no"/>weisen, in der
           Vorlesung über den Galaterbrief 1516/17 ed. <persName ref="kbga-actors-376">Schubert</persName><note xml:id="n02">
                         <bibl corresp="kbga-bibls-1070">
-                            H. von Schubert (Hrsg.), <hi rend="i">Luthers Vorlesung über den Galaterbrief
+                            H. von Schubert (Hrsg.), <hi rend="italic">Luthers Vorlesung über den Galaterbrief
                   1516/17</hi> (Abh. d. <orgName ref="kbga-actors-8289">Heidelb. Akad. d. Wiss.</orgName> — <title level="s">Phil.-hist. Kl. 5</title>), Heidelberg
                 1918.</bibl> Der Text dieser Vorlesung erschien <date when="1939">1939</date> nochmals: im zweiten (neu
             paginierten) Teil von <bibl corresp="kbga-bibls-2007">
-                            WA 57. Das Zitat dort S. 60, Z. 9–11.</bibl>.</note> p. 36, 13ff: <foreign xml:lang="lat">«Sequitur: quod Christus in evangelio multa docuit, fecit <hi rend="i">ad clariorem
-              legis cognitionem</hi> ac per hoc maiorem <hi rend="i">peccati cognitionem</hi>, ut
+                            WA 57. Das Zitat dort S. 60, Z. 9–11.</bibl>.</note> p. 36,13ff: <foreign xml:lang="lat">«Sequitur: quod Christus in evangelio multa docuit, fecit <hi rend="italic">ad clariorem
+              legis cognitionem</hi> ac per hoc maiorem <hi rend="italic">peccati cognitionem</hi>, ut
             gratia tanto ardentius quereretur»</foreign> etc. Das ist doch sehr merkwürdig! Meine
             <persName ref="kbga-actors-261">Luther</persName>-Kenntnis reicht leider nicht aus, um
           zu sagen, ob das ein bei <persName ref="kbga-actors-261">Luther</persName> auch sonst

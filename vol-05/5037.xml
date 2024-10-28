@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5037">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Markus 13,7</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Markus 13,7, 2. August 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5037 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 395–408.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5037 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 395–408.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">232</title>
+          <title type="text">Predigt: Markus 13,7</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -69,7 +71,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -94,7 +96,7 @@
                                     </choice>
                                 </persName>(1805–1884)</bibl>;
                    <bibl corresp="kbga-songs-67" type="song"> Nr. 9 (EKG 233), Strophe 1,5,6: «Sei Lob und Ehr dem höchsten Gut» von <persName ref="kbga-actors-1404">J. J. Schütz</persName>
-                  (1640-1690</bibl>);
+                  (1640–1690</bibl>);
                   <bibl corresp="kbga-songs-115" type="song"> Nr. 168 (EKG 219), Strophe 1,6,7,8: «O daß doch bald dein Feuer brennte …» von <persName ref="kbga-actors-1353">G. F. Fickert</persName>
                   (1758–1815</bibl>). Je zwei Liednummern sind untereinander geschrieben, die
                beiden Kolumnen durch einen senkrechten Strich getrennt. Das dürfte bedeuten, daß die
@@ -103,7 +105,7 @@
          </dateline>
           <argument>
             <ab>
-              <hi rend="i">Krieg zwischen <orgName ref="kbga-actors-8248">Österreich</orgName> und <orgName ref="kbga-actors-8731">Serbien</orgName>. Drohender Konflikt zwischen <orgName ref="kbga-actors-7792">Deutschland</orgName>,
+              <hi rend="italic">Krieg zwischen <orgName ref="kbga-actors-8248">Österreich</orgName> und <orgName ref="kbga-actors-8731">Serbien</orgName>. Drohender Konflikt zwischen <orgName ref="kbga-actors-7792">Deutschland</orgName>,
                <orgName ref="kbga-actors-8732">Rußland</orgName> und <orgName ref="kbga-actors-7856">Frankreich</orgName>. Mobilisation der ganzen <orgName ref="kbga-actors-8712">schweizerischen Armee</orgName> zur Grenzbesetzung.</hi>
             </ab>
           </argument>
@@ -130,7 +132,7 @@
                auch herauskommen mag, wir werden diese Tage der Spannung, der beständigen
                Beunruhigung, Beschwichtigung und neuen Beunruhigung nicht so bald wieder
                vergessen.</p>
-        <p>Was für eine Zaubermacht liegt in diesem Wörtlein <hi rend="i">Krieg!</hi> Wir alle
+        <p>Was für eine Zaubermacht liegt in diesem Wörtlein <hi rend="italic">Krieg!</hi> Wir alle
                haben ihn ja noch nie aus der Nähe erlebt; ein paar ganz alte Leute im Dorf erinnern
                sich noch an das, was ihre Eltern ihnen erzählten vom Durchzug der Franzosen durch
                diese Gegend im Jahr 1798,<note xml:id="n05">
@@ -141,7 +143,7 @@
                liest man die Bemerkung «gefallen unter den 12000 Schweizern in <placeName ref="kbga-places-297">Rußland</placeName>». Und der
                Schatten des großen <persName ref="kbga-actors-292">Napoleon</persName> zeigt sich von weitem dem Geschlecht unserer Tage. Das
                war das letzte Mal, daß wir eigentlich große Kriegsnot im Lande gehabt haben. Was
-               sich seither etwa ereignet hat, kann man nicht eigentlich so nennen. Und was <hi rend="i">wir</hi> vom Krieg wissen, das wissen wir aus Büchern und Zeitungen,
+               sich seither etwa ereignet hat, kann man nicht eigentlich so nennen. Und was <hi rend="italic">wir</hi> vom Krieg wissen, das wissen wir aus Büchern und Zeitungen,
                nicht aus eigener Erfahrung. Und doch erreicht uns das Wort mit einer ganz
                unvergleichlichen Gewalt. Haben wir vielleicht von unseren Vorfahren mit ihrem Blut
                das Grauen geerbt, das ihnen in den schweren Leiden längst vergangener Jahrhunderte
@@ -150,8 +152,8 @@
                losgelassen wird, daß der Mensch dem Menschen, das Volk dem Volke gegenüber steht als
                Feind gegen Feind, als Raubtier gegen Raubtier?</p>
         <p>Das ist sicher und das erleben wir jetzt wieder, daß uns vor dieser Tatsache, auch
-               wenn sie nur aus der Ferne als eine Möglichkeit auftaucht, all <hi rend="i">das
-                  Andere</hi>, was uns sonst bewegt und erfüllt, <hi rend="i">klein und
+               wenn sie nur aus der Ferne als eine Möglichkeit auftaucht, all <hi rend="italic">das
+                  Andere</hi>, was uns sonst bewegt und erfüllt, <hi rend="italic">klein und
                   unbedeutend</hi> wird. Was ist unser Erwerben und Besitzen? Wenn es Krieg wird, so
                werden auch die sichersten Grundlagen unserer Existenz erschüttert und vielleicht
                vernichtet. Was sind unsere Zukunftspläne? Wenn es Krieg wird, müssen wir uns mehr
@@ -168,8 +170,8 @@
                sein mag, schweigen und zurücktreten muß, je mehr die ungeheure Tatsache: Krieg in
                die Nähe zu rücken scheint.</p>
         <p>Und auch darin spüren wir etwas von der unvergleichlichen Gewalt des Krieges, wenn
-               wir sehen, wie da <hi rend="i">das Verborgene</hi> in den Menschen und Völkern auf
-               einmal <hi rend="i">offenbar</hi> wird wie sonst nur ganz selten. Es gibt so Vieles,
+               wir sehen, wie da <hi rend="italic">das Verborgene</hi> in den Menschen und Völkern auf
+               einmal <hi rend="italic">offenbar</hi> wird wie sonst nur ganz selten. Es gibt so Vieles,
                was die Menschen und die Völker in gewöhnlichen Zeiten sorgfältig vor sich selbst und
                voreinander verstecken unter dem dichten Mantel von Civilisation und Kultur, wie man
                diese schönen Dinge nennt, auch wohl unter dem Mantel von Frömmigkeit und
@@ -199,7 +201,7 @@
         <p>Nötiger als je haben wir es in solchen Tagen, wo eine solche neue, furchtbare
                Tatsache in unser Leben hineingestellt wird, wo soviel Ungutes und Schwaches, was in
                uns schlummerte, sich ans Licht drängen will, nötiger als je haben wir es da, zu
-               fragen nach dem, was unserem Leben einen <hi rend="i">festen Halt</hi> geben kann.
+               fragen nach dem, was unserem Leben einen <hi rend="italic">festen Halt</hi> geben kann.
                Freilich, wer ihn nicht schon hat, der wird ihn mitten in solchen Zeiten des Sturmes
                schwerlich finden. Wer nicht aus den ruhigen
                <pb xml:id="p399" ed="pga"/>
@@ -209,7 +211,7 @@
                Weise entgegenzugehen. Was der Mensch gesät hat, das muß er dann ernten [vgl. <ref type="can" subtype="bible" target="Gal.6.7">Gal. 6,7</ref>]. Und es ist immer so
                gewesen, daß in solchen ernsten Zeiten mancher oberflächliche und schwache
                Christenglaube kläglich versagt hat und zusammengebrochen ist. Aber, meine Freunde,
-               wir <hi rend="i">haben</hi> doch einen solchen festen Halt und brauchen ihn nicht
+               wir <hi rend="italic">haben</hi> doch einen solchen festen Halt und brauchen ihn nicht
                erst zu suchen, wenn wir ihn auch oft genug vergessen, nicht gebraucht und mißachtet
                haben. Wir brauchen bloß zu achten auf das, was uns gegeben ist, es zu ergreifen, uns
                darauf zu stützen. Hinuntersteigen aus der Oberfläche in die Tiefe, stark werden
@@ -219,9 +221,9 @@
                und der uns nahegetreten und offenbar geworden ist in Jesus Christus. Wer sich auf
                ihn stützt, der wird nicht versagen und nicht zusammenbrechen in dem Traurigen und
                Schrecklichen, dem wir vielleicht entgegengehen.</p>
-        <p>Und nun laßt uns aus dem Munde Jesu hören, was <hi rend="i">die Gedanken Gottes</hi>
-               sind <hi rend="i">vom Kriege</hi>, der uns in so unheimliche Nähe gerückt ist. <hi rend="i">Wenn ihr hören werdet von Kriegen und Kriegsgeschrei</hi>, sagt er uns,
-                  <hi rend="i">so fürchtet euch nicht. Denn es muß also geschehen; aber das Ende ist
+        <p>Und nun laßt uns aus dem Munde Jesu hören, was <hi rend="italic">die Gedanken Gottes</hi>
+               sind <hi rend="italic">vom Kriege</hi>, der uns in so unheimliche Nähe gerückt ist. <hi rend="italic">Wenn ihr hören werdet von Kriegen und Kriegsgeschrei</hi>, sagt er uns,
+                  <hi rend="italic">so fürchtet euch nicht. Denn es muß also geschehen; aber das Ende ist
                   noch nicht da</hi>. Nicht wahr, wir spüren alle, daß das etwas Höheres, etwas
                Überlegenes ist, was da in unsere Gedanken hineinkommt. Wir sind jetzt voll Unruhe
                über das allgemeine Unglück, das uns bedroht. Sorgenvoll eilen unsere Gedanken in die
@@ -243,10 +245,10 @@
                                     <l xml:space="preserve">Nieder auf mein irdisch Vaterland!»</l>
                                 </lg>
                             </q>
-               </note> Laß den Kelch an uns vorübergehen [vgl. <ref type="can" subtype="bible" target="Mt.26.39">Mt. 26,39</ref>]! Herr, gib uns Frieden gnädiglich!<note xml:id="n07">Vgl. die Antiphon <hi rend="i">Da pacem Domine</hi>, verdeutscht von <persName ref="kbga-actors-261">M. Luther</persName> (<date when="1531">1531</date>): <bibl corresp="kbga-songs-191" type="song">«Verleih uns Frieden gnädiglich …» (EKG 139)</bibl>.</note> Ja, so dürfen und so wollen wir bitten und flehen, solange wir noch können, und sicher hört uns Gott. Aber ob er uns erhört, ob er tut nach unserem
+               </note> Laß den Kelch an uns vorübergehen [vgl. <ref type="can" subtype="bible" target="Mt.26.39">Mt. 26,39</ref>]! Herr, gib uns Frieden gnädiglich!<note xml:id="n07">Vgl. die Antiphon <hi rend="italic">Da pacem Domine</hi>, verdeutscht von <persName ref="kbga-actors-261">M. Luther</persName> (<date when="1531">1531</date>): <bibl corresp="kbga-songs-191" type="song">«Verleih uns Frieden gnädiglich …» (EKG 139)</bibl>.</note> Ja, so dürfen und so wollen wir bitten und flehen, solange wir noch können, und sicher hört uns Gott. Aber ob er uns erhört, ob er tut nach unserem
                Willen — das können wir nicht wissen, das steht ganz in seiner Hand. Er sagt uns
                nicht: ich will euch verschonen, es wird keinen Krieg geben, aber er sagt uns auf
-               alle Fälle: «<hi rend="i">Fürchtet euch nicht!</hi>»</p>
+               alle Fälle: «<hi rend="italic">Fürchtet euch nicht!</hi>»</p>
         <p>Meine Freunde, wir müssen verstehen lernen, daß das das Größte ist, was Gott uns da
                geben will, und daß wir vor Allem um dieses Größte, um die Furchtlosigkeit, bitten
                müssen in diesen Tagen. Gelassen warten können, von einer Stunde zur anderen treu und
@@ -305,7 +307,7 @@
         <p>Aber wie kommen wir zu diesem guten und starken Geist der Furchtlosigkeit, mit dem
                wir allein sicher durch diese Zeiten und Umstände hindurchkommen werden?
                Furchtlosigkeit will einen Grund und eine Hoffnung haben. Gott gibt uns auch diese,
-               wenn [wir] hören wollen auf das, was er uns durch Jesus zu sagen hat. Jesus sagt: <hi rend="i">es muß also geschehen</hi>. Das tönt auf das erste Anhören eher bitter
+               wenn [wir] hören wollen auf das, was er uns durch Jesus zu sagen hat. Jesus sagt: <hi rend="italic">es muß also geschehen</hi>. Das tönt auf das erste Anhören eher bitter
                und entmutigend. Sollte Jesus damit sagen wollen, der Krieg sei ein Übel, das eben
                hingenommen werden müsse? Es sei ein Schicksal, daß die Menschheit von Zeit zu Zeit
                sich gegenseitig zerfleischen und morden müsse, und da gelte es zu schweigen und zu
@@ -334,14 +336,14 @@
                es ist einmal so! Wir wollen hinaufsteigen auf seine Höhe, dann sehen wir, wie er mit
                seinem «es muß» uns Grund und Hoffnung gibt für die Furchtlosigkeit, die wir jetzt so
                nötig haben.</p>
-        <p>Jesus lebte in der Welt des himmlischen <hi rend="i">Vaters</hi>. Er wußte, daß der
-               Vater <hi rend="i">nicht grausam</hi> ist. Gott will nicht das Unrecht, das Leiden,
+        <p>Jesus lebte in der Welt des himmlischen <hi rend="italic">Vaters</hi>. Er wußte, daß der
+               Vater <hi rend="italic">nicht grausam</hi> ist. Gott will nicht das Unrecht, das Leiden,
                das Elend, Gott will den Krieg nicht. Gott ist nur die Liebe, die Seligkeit, der
-               Friede. Der Vater ist auch <hi rend="i">nicht gleichgültig</hi>. Wir gehören zu ihm,
+               Friede. Der Vater ist auch <hi rend="italic">nicht gleichgültig</hi>. Wir gehören zu ihm,
                er will uns nicht steckenlassen in der Nacht der Sünde und Schuld; er will nicht, daß
                wir uns gegenseitig das Leben verbittern; es tut ihm weh, wenn er sieht, wie die
                Menschheit sich selber Not bereitet; er will uns zu sich ziehen. Und der Vater ist
-                  <hi rend="i">nicht schwach</hi>. Er steht nicht neben oder über uns
+                  <hi rend="italic">nicht schwach</hi>. Er steht nicht neben oder über uns
                Menschenkindern und läßt uns unsere verworrenen unglücklichen
                <pb xml:id="p404" ed="pga"/>
                 Wege gehen, sondern er leitet uns und unsere Schicksale. Er kann Alles so wenden,
@@ -357,7 +359,7 @@
                sehen, und er litt auch darunter, aber es konnte schließlich nicht gelten, nicht
                Bestand haben. Er sagte von nichts: das ist nun einmal so, weil er bei Allem Gott
                hinzudachte und weil er von Gott wußte, daß er größer ist als Alles. Er sah bei Allem
-               die <hi rend="i">Vollendung</hi> vor sich, die Gott mit der Welt und der Menschheit
+               die <hi rend="italic">Vollendung</hi> vor sich, die Gott mit der Welt und der Menschheit
                im Sinn hat. Auch das Kapitel, aus dem unser Text genommen ist, ist ganz voll von
                dieser Vollendungshoffnung. Es schildert, wie es durch Alles hindurch den Zielen der
                Liebe Gottes entgegengeht. Nichts kann schließlich bestehen von all den feindseligen
@@ -372,7 +374,7 @@
                Glauben an den heiligen, liebevollen, starken Gott und an die Vollendung, der Alles
                entgegengeht nach Gottes Willen, dann
                <pb xml:id="p405" ed="pga"/>
-                sind wir in diesen schweren Zeiten furchtlos. Wir <hi rend="i">sind</hi> es, wir
+                sind wir in diesen schweren Zeiten furchtlos. Wir <hi rend="italic">sind</hi> es, wir
                brauchen es nicht erst zu werden. Es ist uns dann selbstverständlich, daß auch das
                Schwere und Traurige, was jetzt gegen uns daherkommt, nicht das Letzte, nicht das
                Ende sein kann. Wir sind frei, von vornherein über Alles, was jetzt kommt,
@@ -385,7 +387,7 @@
                eine Stufe, die uns vorwärts, aufwärts bringen muß. Kann man da im Ernst Angst haben,
                kann man sich da in Nervosität und zitternde Unruhe versetzen lassen, wenn man das
                weiß: wir sind auf Gottes Weg, wenn man weiß, daß dieser Weg ein Ziel hat, wenn man
-               weiß, daß der Krieg, auch <hi rend="i">dieser</hi> Krieg, wie alles Schwere ein
+               weiß, daß der Krieg, auch <hi rend="italic">dieser</hi> Krieg, wie alles Schwere ein
                Schritt sein muß auf diesem Weg?</p>
         <p>Meine Freunde, ich sage euch nicht: wir wollen und sollen jetzt furchtlos und getrost
                sein. Das wäre ein ganz nutzloses Gerede. Wie kann mans denn, wenn das Herz so voll
@@ -396,7 +398,7 @@
                mit ihm, mitten im Krieg, mitten unter Tränen und Abschiednehmen und Ratlosigkeit,
                wenn es sein muß, in der Welt des himmlischen Vaters sind, der die Liebe ist. Ja, wir
                können dann auch vom Krieg, von diesem schrecklichen Völkerkrieg, dessen Stürme jetzt
-               von allen Seiten losbrechen wollen, sagen: wenn es sein muß, so <hi rend="i">muß es
+               von allen Seiten losbrechen wollen, sagen: wenn es sein muß, so <hi rend="italic">muß es
                   also geschehen</hi>, so wird es eine Notwendigkeit, aber eine göttliche, gute
                Notwendigkeit sein müssen, daß wir jetzt diese dunkle Bahn geführt werden.</p>
 

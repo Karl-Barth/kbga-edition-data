@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53029">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 27</title>
         <title type="content">Predigt: 2.Korinther 5,17</title>
         <title type="citation_line_1">Barth, Karl: Predigt: 2.Korinther 5,17, 1. Januar 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53029 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53029 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 27: Predigt: 2.Korinther 5,17</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -56,7 +58,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -64,7 +66,7 @@
             <div type="sermon"> 
                 <pb xml:id="p268" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/> <idno>27</idno>
                 </head> 
                 <dateline> <term type="Sachen" key="Neujahr">Neujahr</term>, Samstag, den <date>1. Januar 1910</date>
@@ -105,7 +107,7 @@
                     und innerlich erst recht nicht. Himmelhoch jauchzend <pb xml:id="p269" ed="pga"/>
                     war da das eine Mal der Übergang und das andre Mal zu Tode betrübt,<note xml:id="n01">Vgl. <bibl corresp="kbga-bibls-1552">
                                 <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                        <hi rend="i">Egmont</hi>, dritter Aufzug (Klärchens Lied [Schlusszeilen])</bibl>:
+                        <hi rend="italic">Egmont</hi>, dritter Aufzug (Klärchens Lied [Schlusszeilen])</bibl>:
                             <q rend="block">
                                 <lg>
                                     <l>Himmelhoch jauchzend, </l>
@@ -159,9 +161,9 @@
                     als ein gewöhnlicher Tag, ist aber nicht Alles. Und nicht das
                     Einschneidendste, nicht das, was der <term type="Sachen" key="Neujahr">Neujahrsnacht</term> ihren Ernst gibt. Denn Wünsche und Befürchtungen
                     mögen wohl einen sehr ernsthaften Hintergrund haben, sie bleiben doch
-                    luftige und schwer fassbare <hi rend="i">Gefühle</hi>. Viel ernsthafter sind die
+                    luftige und schwer fassbare <hi rend="italic">Gefühle</hi>. Viel ernsthafter sind die
                         <term type="Sachen" key="Neujahr, Gedankengeister">
-                            <hi rend="i">Gedanken</hi>geister</term>, die in der Neujahrsnacht erwachen.
+                            <hi rend="italic">Gedanken</hi>geister</term>, die in der Neujahrsnacht erwachen.
                     Ein guter Kaufmann vergewissert sich am Ende eines Jahres über Soll und
                     Haben, rechnet auf beiden Seiten zusammen, schreibt in größern Zahlen das
                     Resultat darunter, vergleicht es mit dem des Vorjahrs und des vorletzten
@@ -183,7 +185,7 @@
                     selbst dastand als heute?<note xml:id="n03">In der Betonung des
                         Weiterkommens und der Ausrichtung auch auf das Ewige spiegelt sich
                         möglicherweise Barths eben erfolgte Lektüre von <bibl corresp="kbga-bibls-1749">
-                                <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="i">Ethik</hi>,
+                                <persName ref="kbga-actors-181">W. Herrmann</persName>, <hi rend="italic">Ethik</hi>,
                         Tübingen 1909<hi rend="sup">4</hi></bibl>, wo es im Abschnitt «Die Bedeutung
                         des sittlichen Gesetzes für das Wachstum des persönlichen Lebens»
                         (<bibl corresp="kbga-bibls-1749">a.a.O., S. 57–61</bibl>) unter anderem heißt: «Diese Erkenntnis, daß
@@ -207,7 +209,7 @@
                     Lebens am Auge des Menschen vorübergezogen sind, da ist noch lange nicht
                     Alles fertig. Vielmehr die Hauptsache kommt erst. Das ist aber die
                     Hauptsache, wenn die Gefühle und die Gedanken zurücktreten vor dem <term type="Sachen" key="Neujahr, Willensgeister">
-                            <hi rend="i">Willen</hi></term>.
+                            <hi rend="italic">Willen</hi></term>.
                     An dem Resultat jenes Rechnungsabschlusses ist, was die <term type="Sachen" key="Vergangenheit">Vergangenheit</term> anbetrifft, nichts zu ändern.
                     Du weißt recht gut, dass es da in deinem Innern eine Instanz gibt, die du
                     unmöglich betrügen kannst. In Flammenschrift steht es da geschrieben: das
@@ -247,7 +249,7 @@
                     nichts zu ändern und an der Zukunft auch nicht, das wäre das betrübliche
                     Resultat unsrer Betrachtungen. Aber nun wisst ihr auch alle, dass wir doch
                     nicht davon lassen können, doch daran ändern zu wollen. Zu
-                        <hi rend="i">wollen?</hi> Was heißt das: Wollen? Wenn Wollen nichts Anderes
+                        <hi rend="italic">wollen?</hi> Was heißt das: Wollen? Wenn Wollen nichts Anderes
                     ist als ein recht starkes Wünschen, dann steht es auf ebenso schwachen Füßen
                     wie dieses. Und viel von dem Wollen, viel von den Plänen und Absichten, mit
                     denen <pb ed="A" rend="hidden" n="7"/> der Mensch in der <term type="Sachen" key="Neujahr">Neujahrszeit</term> sich trägt, sind nichts als
@@ -256,7 +258,7 @@
                     doch, wie sie ist. Das Wollen, das eine Veränderung bringt, muss etwas
                     Anderes sein. Das sind nicht die guten <term type="Sachen" key="Neujahr, Willensgeister">Willensgeister</term> der Neujahrsnacht,
                     an die ich denke, die nur zu sagen wissen: Lasst uns tun, was möglich ist,
-                    damit unsre Wünsche in Erfüllung und unsre Befürchtungen nicht in Er<pb xml:id="p273" ed="pga"/>füllung gehen, die nur von Erfolgen und Misserfolgen,
+                    damit unsre Wünsche in Erfüllung und unsre Befürchtungen nicht in Er<pb xml:id="p273" ed="pga" break="no"/>füllung gehen, die nur von Erfolgen und Misserfolgen,
                     Gesundbleiben und Krankwerden, von Trauer und Vergnügen denken und reden.
                     Denn das sind luftige Geister, und es gibt dringendere Angelegenheiten als
                     die, von denen sie denken und reden.</p>
@@ -273,7 +275,7 @@
                     nächste Jahr wieder so sein? Weißt du, was dann kommt? Es kommt der größte
                     Bankrott, den es geben kann. Denn du wirst eines Tages einen <term type="Sachen" key="Silvester">Sylvester</term> erleben, der dein letzter
                     war, und unter den 365 Tagen, die auf diesen Sylvester folgen, wird einer
-                    sein, das ist <hi rend="i">dein</hi> großer Sylvester, und wenn er mitten im
+                    sein, das ist <hi rend="italic">dein</hi> großer Sylvester, und wenn er mitten im
                     Hochsommer <pb ed="A" rend="hidden" n="8"/> wäre! Da wird dann noch einmal
                     Rechnung abgeschlossen, und zum letzten Mal werden die Posten all der
                     vergangenen Jahre zusammengezählt zur Beantwortung der Frage: hat dies
@@ -282,10 +284,10 @@
                     wertvoll werden! Es ist höchste Zeit! So raunen und murmeln die guten <term type="Sachen" key="Neujahr, Willensgeister">Willensgeister</term> der
                     Neujahrsnacht. Und du merkst schon: ja, das wäre freilich das, was sein
                     müsste – aber – aber. Du merkst schon, dass das die eine große
-                    Neujahrsfrage ist: <hi rend="i">nicht:</hi> was wird mir wohl nun Glückliches
-                    oder Unglückliches passieren? und auch <hi rend="i">nicht:</hi> wie ist’s
+                    Neujahrsfrage ist: <hi rend="italic">nicht:</hi> was wird mir wohl nun Glückliches
+                    oder Unglückliches passieren? und auch <hi rend="italic">nicht:</hi> wie ist’s
                     mit mir gestanden bis dahin? sondern: wie wird’s mit mir stehen,
-                        <hi rend="i">was muss ich tun</hi>, damit es anders, besser mit mir steht in
+                        <hi rend="italic">was muss ich tun</hi>, damit es anders, besser mit mir steht in
                     der <term type="Sachen" key="Zukunft">Zukunft</term> als in der <term type="Sachen" key="Vergangenheit">Vergangenheit</term>. |</p>
                 <p> Meine Freunde, wir wissen aber Alle, wie das dann in <term type="Sachen" key="Neujahr">Neujahrszeiten</term> zu gehen pflegt, wie die Stimme der
                     guten Geister übertönt wird vom Lärm und Geschwätz der andern Geister und
@@ -293,7 +295,7 @@
                     leuchtet das <pb xml:id="p274" ed="pga"/> Eine, was nottut [vgl. <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], vor unsern Augen auf,
                     und ebenso blitzartig verschwindet es wieder. Wir können’s nicht
                     lassen, zurückzublicken wie das Weib des <persName ref="kbga-actors-3892">Lot</persName> [vgl. <ref type="can" subtype="bible" target="Gen.19.26">Gen. 19,26</ref>] und uns von den andern Geistern zuraunen zu lassen:
-                    glücklich werden sei halt doch <hi rend="i">noch</hi> wichtiger als lebendig
+                    glücklich werden sei halt doch <hi rend="italic">noch</hi> wichtiger als lebendig
                     werden. Der Moment ist verpasst, und das neue Jahr findet uns richtig als
                     Salzsäulen, als Menschen, die sich nicht entschließen konnten. Nicht wahr,
                     so ist’s uns allen schon manches Jahr ergangen? Nicht wahr, du kennst
@@ -340,7 +342,7 @@
                             <l>O Mensch! Gib Acht!</l>
                             <l>Was spricht die tiefe Mitternacht?<note xml:id="n05">
                                     <bibl corresp="kbga-bibls-326">Eingangszeilen des Gedichts «Oh Mensch! Gieb Acht!» von 
-                                        <persName ref="kbga-actors-301">Fr. Nietzsche</persName> (ders., <hi rend="i">Also sprach Zarathustra.
+                                        <persName ref="kbga-actors-301">Fr. Nietzsche</persName> (ders., <hi rend="italic">Also sprach Zarathustra.
                                         Ein Buch für Alle und Keinen</hi>, Sämtliche Werke.
                                     Kritische Studienausgabe in 15 Bänden, hrsg. von G.
                                     Colli / M. Montinari, Bd. 4, München / Berlin 1999,
@@ -358,7 +360,7 @@
                     trifft. Wo er scharf und hart und hell und doch freundlich hineinklingt in
                     das Stimmengebrause der menschlichen Neujahrsgeister.</p>
                 <p> <pb ed="A" rend="hidden" n="11"/> Ich will dir sagen, was die Glockenstimme aus
-                    der Höhe redet, zu denen, die sie verstehen: Sie ruft: <hi rend="i">Ist jemand in
+                    der Höhe redet, zu denen, die sie verstehen: Sie ruft: <hi rend="italic">Ist jemand in
                         Christo, so ist er eine neue Kreatur. Das Alte ist vergangen; siehe, es
                         ist Alles neu geworden</hi>. Das ist ein Geheimnis, das ist ein
                     Wunder, liebe Freunde, was da die mitternächtliche Stimme aus der Höhe ruft.
@@ -387,7 +389,7 @@
                     auf die Geschichte des Christentums, die ein Stück der <term type="Sachen" key="Geschichte">Weltgeschichte</term> geworden ist, wie auf die
                     verborgene Geschichte des Christentums im Leben der <term type="Sachen" key="Familie">Familien</term> und der Einzelnen, soviel oder so wenig
                     wir davon wissen, wir sehen bei allen ungeheuren Verschiedenheiten, dass es
-                    immer <hi rend="i">eines</hi> war, auf das es ankam, und das eine war das, dass
+                    immer <hi rend="italic">eines</hi> war, auf das es ankam, und das eine war das, dass
                     der <term type="Sachen" key="Mensch, neue Kreatur in Christo">Mensch</term>
                     in Christo eine neue Kreatur wurde.</p>
                 <p>Und nun meine ich, das Zeugnis von dieser Tatsache und das Bekenntnis zu
@@ -395,7 +397,7 @@
                     der Grenzscheide des Jahres wohl tun zu hören. Denn wir haben’s
                     gesehen, wie in <term type="Sachen" key="Neujahr">Neujahrszeiten</term> der
                     Ertrag unsres Lebens uns deutlich werden kann, aber der Ertrag ist eine
-                    große Frage, Alles in Allem genommen. Wohlan, hier ist <hi rend="i">auch</hi> der
+                    große Frage, Alles in Allem genommen. Wohlan, hier ist <hi rend="italic">auch</hi> der
                     Ertrag eines <term type="Sachen" key="Leben, Ertrag">Lebens</term>, aber der
                     Ertrag ist eine Antwort. Wird er die Antwort auf jene Frage sein? Wird die
                     Glockenstimme der Mitternacht den Knäuel von Rätseln lösen, den die <term type="Sachen" key="Neujahr, Willensgeister">Neujahrsgeister</term>
@@ -435,7 +437,7 @@
                     Vorsätze uns sagen könnten. Das will offenbar sagen: Du bist eine neue
                     Kreatur, weil du dann selbst Christi Sinn hast, weil du selbst ein kleines
                     Teil geworden bist von Christus. Und wenn das wahr ist, dann besinn dich nur
-                    deutlich auf das große Weihnachts<pb xml:id="p278" ed="pga"/>licht, besinn dich
+                    deutlich auf das große Weihnachts<pb xml:id="p278" ed="pga" break="no"/>licht, besinn dich
                     auf das, was Jesus war und ist, dann wird’s hell mitten in der
                         Nacht.<note xml:id="n06">Vgl. <bibl type="song" corresp="kbga-songs-5">Strophe 4 des Liedes «Gelobet
                         seist du, Jesu Christ» von <persName ref="kbga-actors-261">M. Luther</persName> (RG 392; EG 23)</bibl>: 
@@ -488,11 +490,11 @@
                     geschehen. Wo der Baum fällt, da liegt er, so spricht man wohl [vgl. 
                         <ref type="can" subtype="bible" target="Pred.11.3">Pred. 11,3</ref>]. Nicht doch:
                     Wenn ein Mensch in Christo eine neue <term type="Sachen" key="Mensch, neue Kreatur in Christo">Kreatur</term> geworden ist, dann
-                    ist die Vergangenheit wie die <term type="Sachen" key="Zukunft">Zukunft</term> aufgenommen in die Ewigkeit des guten Willens <term type="Sachen" key="Wille Gottes">Gottes</term>. <hi rend="i">Unser</hi> Wille
-                    mag oft schlecht gewesen sein, <hi rend="i">unser</hi> Leben wertlos und sinnlos,
+                    ist die Vergangenheit wie die <term type="Sachen" key="Zukunft">Zukunft</term> aufgenommen in die Ewigkeit des guten Willens <term type="Sachen" key="Wille Gottes">Gottes</term>. <hi rend="italic">Unser</hi> Wille
+                    mag oft schlecht gewesen sein, <hi rend="italic">unser</hi> Leben wertlos und sinnlos,
                     und doch <pb xml:id="p279" ed="pga"/> ist’s derselbe alte Wille, dasselbe
                     alte Leben, das neu werden soll in der Gemeinschaft mit Jesus. Ein Christ
-                    werden heißt nicht: aus seiner Haut schlüpfen, sondern <hi rend="i">in</hi>
+                    werden heißt nicht: aus seiner Haut schlüpfen, sondern <hi rend="italic">in</hi>
                     seiner Haut ein neuer <term type="Sachen" key="Christen, neue Menschen">Mensch</term> sein. Dann ist das Alte wohl vergangen, der Druck und die
                     Betrübnis der vielen bösen Rechnungsabschlüsse wird von uns weggenommen,
                     aber noch viel mehr: es gehen uns dann die Augen auf dafür: wie Gott uns
@@ -505,7 +507,7 @@
                     den, der in Christo ist. Denn ihm erst recht ist gesagt: ihr sollt
                     vollkommen sein, wie der himmlische <term type="Sachen" key="Gott, Vater">Vater</term>
                     <term type="Sachen" key="Gott, Vollkommenheit">vollkommen</term> ist [<ref type="can" subtype="bible" target="Mt.5.48">Mt.5,48</ref>]. Aber ihm ist zur
-                    selben Zeit gesagt: Du <hi rend="i">bist</hi> schon ein Anderer. Du tappst nicht
+                    selben Zeit gesagt: Du <hi rend="italic">bist</hi> schon ein Anderer. Du tappst nicht
                     mehr im Dunkeln, du gehörst nicht mehr zum Volk, das im Finstern wandelt
                     [vgl. <ref type="can" subtype="bible" target="Jes.9.1">Jes. 9,1</ref>], du weißt,
                     wo deine Pflicht liegt, du brauchst ja nur den Herrn Jesus anzusehen, so

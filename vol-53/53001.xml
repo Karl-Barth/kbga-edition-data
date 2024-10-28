@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53001">
   <teiHeader>
     <fileDesc>
@@ -6,7 +6,7 @@
         <title type="volume" n="vol-53">Predigten 1907–1910</title>
         <title type="content">Vorwort</title>
         <title type="citation_line_1">Weinreich, Simon, Zocher, Peter: Predigten 1907–1910: Vorwort, April 2018</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53001 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53001 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Vorwort</title>
           <author ref="kba-actors-9027">Weinreich, Simon</author>
           <author ref="kba-actors-8878">Zocher, Peter</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -54,7 +56,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -65,7 +67,7 @@
                  <div>
                   <div>
                     <head type="sub">
-                    <hi rend="i">1.) Dank an Hermann Schmidt</hi>
+                    <hi rend="italic">1.) Dank an Hermann Schmidt</hi>
                 </head>
                     <p>Die Herausgeber möchten einen besonderen Dank an den im Jahre
                     2005 verstorbenen Hermann Schmidt diesem Band voranstellen. Unter
@@ -79,7 +81,7 @@
                     Grund eine überaus wichtige Hilfe war.</p> 
                   </div>
                     <div> <head type="sub">
-                    <hi rend="i">2.) Biographisches</hi>
+                    <hi rend="italic">2.) Biographisches</hi>
                 </head>
                     <p>Dieser Band präsentiert die ersten 55 Predigten Karl <persName ref="kbga-actors-2151">Barths</persName>, die er in
                     den Jahren 1907 bis 1910 gehalten hat. Was wohl insgesamt von Predigtbänden
@@ -90,14 +92,14 @@
                     die beiden kurzen Vikariate in Meiringen und Pruntrut / Porrentruy,
                     eine mehrfache Predigtvertretung im kurhessischen Niedergrenzebach
                     hin zu <persName ref="kbga-actors-2151">Barths</persName> erster größerer Wirkungsstätte Genf.</p>
-                    <p rend="margin-top">Im August 1907 trat Barth ein Vikariat in der Gemeinde <hi rend="i">Meiringen</hi> im
+                    <p rend="margin-top">Im August 1907 trat Barth ein Vikariat in der Gemeinde <hi rend="italic">Meiringen</hi> im
                     Berner Oberland an; er war hier für vier Wochen selbständig und ohne
                     einen Mentor direkt am Ort tätig. Während er Wochen zuvor gegenüber
                     einem Studienkollegen noch scherzend vom «Ende seiner Jugendfröhlichkeit»
                     und einem «Spektakel» schrieb, das dieser Monat
                     als «Pfarrer, d. h. Vikar in Meiringen» bedeuten werde,<note xml:id="n01"> Brief <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-783">W. Spoendlin</persName> vom 11.6.1907 (<idno type="kba-objects-identifier">KBA 9207.27</idno>).</note> ist unmittelbar
                     nach seiner Ankunft doch mehr Respekt vor der Aufgabe zu spüren,
-                    wenn er seinen Eltern schreibt: «[…] die Metamorphose hat be<pb xml:id="pr010" ed="pga"/>gonnen,
+                    wenn er seinen Eltern schreibt: «[…] die Metamorphose hat be<pb xml:id="pr010" ed="pga" break="no"/>gonnen,
                     und ich will über den Anfang gleich berichten, obwohl ich
                     sehr eifrige Fortsetzung nicht garantieren kann, da ich [...] ziemlich
                     beschäftigt sein werde».<note xml:id="n02"> Brief <persName ref="kbga-actors-2151">Barths</persName> an seine Eltern vom 29.7.1907 (<idno type="kba-objects-identifier">KBA 9207.29</idno>).</note> Und mehr als die verschiedenen Besuche –
@@ -113,7 +115,7 @@
                 </p>
                     <p>Fast genau ein Jahr später und wenige Wochen vor seinem Examen
                     war Barth in seinem zweiten, diesmal nur dreiwöchigen Vikariat in
-                    <hi rend="i">Pruntrut / Porrentruy</hi> vor ganz andere Herausforderungen gestellt;
+                    <hi rend="italic">Pruntrut / Porrentruy</hi> vor ganz andere Herausforderungen gestellt;
                     im Mittelpunkt stand ihm aber auch dort das Predigen, und mit der
                     ersten dort zu haltenden Predigt war er noch zwei Tage vor dem Gottesdienst
                     unzufrieden: «Gegenwärtig lerne ich meine Predigt für
@@ -125,14 +127,14 @@
                     isst».<note xml:id="n04"> Postkarte <persName ref="kbga-actors-2151">Barths</persName> an seine Eltern vom 21.8.1908 (<idno type="kba-objects-identifier">KBA 9208.50</idno>).</note>
                 </p>
                     <p>Zwiespältig sollte <persName ref="kbga-actors-2151">Barths</persName> Erinnerung an die Predigtvertretungen in
-                    <hi rend="i">Niedergrenzebach</hi> bleiben, die er dreimal von Marburg aus übernahm.
+                    <hi rend="italic">Niedergrenzebach</hi> bleiben, die er dreimal von Marburg aus übernahm.
                     Den positiven und beinahe liebevollen Eindrücken von der Gemeinde
                     und ihren Gebräuchen stand gegenüber die immer größer werdende
                     Enttäuschung über den ortsansässigen Pfarrer, von dem die im Austausch
                     erwartete fachliche Meinung zu den Predigten des frisch Examinierten
                     in keiner auch nur im Ansatz befriedigenden Weise zu
                     bekommen war.</p>
-                   <p rend="margin-top">  <pb rend="noPipe" xml:id="pr011" ed="pga"/> Mitte September 1909 schließlich trat Barth in <hi rend="i">Genf</hi> die Stelle des
+                   <p rend="margin-top">  <pb rend="noPipe" xml:id="pr011" ed="pga"/> Mitte September 1909 schließlich trat Barth in <hi rend="italic">Genf</hi> die Stelle des
                     Hilfspredigers (pasteur suffragant) an der dortigen, zur «L'Église nationale
                     protestante de Genève» gehörenden Deutschen reformierten
                     Gemeinde an. Der Gemeinde gehörten auf dem Papier viele tausend
@@ -140,7 +142,7 @@
                     hohe Fluktuation und der Umstand, dass die länger
                     Bleibenden sich in der Regel über kurz oder lang einer einheimischen
                     französischsprachigen Gemeinde anschlossen, ließ die Zahl der wirklich
-                    aktiven Gemeindemitglieder aber sehr überschaubar bleiben.<note xml:id="n05"> Vgl. <bibl corresp="kbga-bibls-4"><persName ref="kbga-actors-8821">M. Jehle-Wildberger</persName>, <hi rend="i">Adolf Keller (1872–1963). Pionier der ökumenischen Bewegung</hi>, Zürich 2008, S. 60</bibl>.</note>
+                    aktiven Gemeindemitglieder aber sehr überschaubar bleiben.<note xml:id="n05"> Vgl. <bibl corresp="kbga-bibls-4">M. Jehle-Wildberger, <hi rend="italic">Adolf Keller (1872–1963). Pionier der ökumenischen Bewegung</hi>, Zürich 2008, S. 60</bibl>.</note>
                 </p>
                     <p>Auf <persName ref="kbga-actors-2151">Barths</persName> am 26. Mai 1909 geschriebene Bewerbung hin<note xml:id="n06"> Vgl. das Bestätigungsschreiben des Bureau du Consistoire der L’Église nationale protestante de Genève vom 4.6.1909 (<idno type="kba-objects-identifier">KBA 9309.11</idno>).</note> wurde
                     ihm die Stelle mit Beschluss vom 31. August 1909 übertragen; dies, das
@@ -160,7 +162,7 @@
                     und im Oktober 1909 ein Pfarramt in Zürich antreten. So währte
                     diese erste Zusammenarbeit <persName ref="kbga-actors-2151">Barths</persName> und Kellers nur wenige Wochen,
                     hatte aber eine lebenslange nicht immer kritikfreie, aber doch freundschaftliche
-                    Verbundenheit zur Folge.<note xml:id="n09"> Vgl. <bibl corresp="kbga-bibls-4"><persName ref="kbga-actors-8821">Jehle-Wildberger</persName> (Anm. 5), S. 63f.</bibl>
+                    Verbundenheit zur Folge.<note xml:id="n09"> Vgl. <bibl corresp="kbga-bibls-4">Jehle-Wildberger (Anm. 5), S. 63f.</bibl>
                     </note>
                 </p>
                     <p>Die unmittelbare Folge von Kellers schnellem Weggang jedoch war,
@@ -216,12 +218,12 @@
                     über den eher spärlichen Gottesdienstbesuch. Nicht umsonst
                     wird Barth es 1911, nach seinem Amtsantritt in Safenwil, als einen
                     besonders erfreulichen Umstand hervorheben, dass er dort und nun
-                    das Gefühl habe, wirklich «<hi rend="i">nötig</hi> zu sein».<note xml:id="n12"> Brief <persName ref="kbga-actors-2151">Barths</persName> an seinen <persName ref="kbga-actors-21">Vater</persName> vom 21.9.1911 (<idno type="kba-objects-identifier">KBA 9211.90</idno>). Vgl. dazu <bibl corresp="kbga-bibls-2498">P. Zocher, <hi rend="i">«Hier hat man das erfreuliche Gefühl,</hi> nötig <hi rend="i">zu sein.» Der neue Pfarrer Karl Barth und die Gemeinde Safenwil im Jahre 1911</hi>, in: ZDTh 31 (2015), Nr. 2, S. 109–121</bibl>.</note>
+                    das Gefühl habe, wirklich «<hi rend="italic">nötig</hi> zu sein».<note xml:id="n12"> Brief <persName ref="kbga-actors-2151">Barths</persName> an seinen <persName ref="kbga-actors-21">Vater</persName> vom 21.9.1911 (<idno type="kba-objects-identifier">KBA 9211.90</idno>). Vgl. dazu <bibl corresp="kbga-bibls-2498">P. Zocher, <hi rend="italic">«Hier hat man das erfreuliche Gefühl,</hi> nötig <hi rend="italic">zu sein.» Der neue Pfarrer Karl Barth und die Gemeinde Safenwil im Jahre 1911</hi>, in: ZDTh 31 (2015), Nr. 2, S. 109–121</bibl>.</note>
                 </p>
                     <p>Nicht zuletzt der Konfirmandenunterricht, den er 1909/10 erstmals
                     durchgängig für einen Jahrgang erteilt, gehört in Genf zu den Aufgaben,
                     die Barth besonders am Herzen liegen.<note xml:id="n13"> Vgl. <bibl corresp="kbga-bibls-1641">
-                            <hi rend="i">Konfirmandenunterricht 1909–1921</hi>, <ref type="pub-" target="../volume/18/p001#p001">S. 1–55</ref> (Jahrgang 1909/10) und <ref type="pub-" target="../volume/18/p057#p057">S. 57–106</ref> (Jahrgang 1910/11)</bibl>.</note> Und dieser Unterricht
+                            <hi rend="italic">Konfirmandenunterricht 1909–1921</hi>, <ref type="pub-" target="../volume/18/p001#p001">S. 1–55</ref> (Jahrgang 1909/10) und <ref type="pub-" target="../volume/18/p057#p057">S. 57–106</ref> (Jahrgang 1910/11)</bibl>.</note> Und dieser Unterricht
                     ist es auch, der ihm ganz besonders im Gedächtnis geblieben sein
                     dürfte, war doch unter den Konfirmandinnen dieses Jahrgangs die
                     damals 16jährige Nelly Hoffmann, die Barth drei Jahre später heiraten
@@ -229,7 +231,7 @@
                     getraut – von Adolf Keller.</p> 
                   </div>
                     <div> <head type="sub">
-                    <hi rend="i">3.) Zu dieser Edition</hi>
+                    <hi rend="italic">3.) Zu dieser Edition</hi>
                 </head>
                     <p>Der Band enthält die von Nr. 1 bis 55 durchnummerierten ersten
                     Predigten Barths, die er von 1907 bis 1910 gehalten hat, 40 davon
@@ -255,22 +257,22 @@
                     Predigttext selbst übersetzt; mitunter jedoch hat er ganz oder teilweise
                     den Luthertext<note xml:id="n15"> <bibl corresp="kbga-bibls-2492">Revidierte Ausgabe von 1892, 9. Abdruck, Halle/Saale 1899</bibl>; Predigten <ref type="pub" target="./53010">8</ref>, <ref type="pub" target="./53012">12</ref>, <ref type="pub" target="./53016">14</ref>, <ref type="pub" target="./53017">15</ref>, <ref type="pub" target="./53024">22</ref>, <ref type="pub" target="./53029">27</ref>, <ref type="pub" target="./53049">47</ref>, <ref type="pub" target="./53055">53</ref>, <ref type="pub" target="./53057">55</ref>.</note> bzw. die Übersetzung des Neuen Testaments
                     durch Carl Weizsäcker<note xml:id="n16"> <bibl corresp="kbga-bibls-2412">
-                            <hi rend="i">Das Neue Testament</hi>, übers. von C. Weizsäcker, Tübingen / Leipzig 1903<hi rend="sup">9</hi></bibl>; Predigten <ref type="pub" target="./53003">1</ref>, <ref type="pub" target="./53008">6</ref>, <ref type="pub" target="./53022">20</ref>, <ref type="pub" target="./53025">23</ref>, <ref type="pub" target="./53027">25</ref>, <ref type="pub" target="./53032">30</ref>, <ref type="pub" target="./53033">31</ref>, <ref type="pub" target="./53039">37</ref>.</note> übernommen.</p>
+                            <hi rend="italic">Das Neue Testament</hi>, übers. von C. Weizsäcker, Tübingen / Leipzig 1903<hi rend="sup">9</hi></bibl>; Predigten <ref type="pub" target="./53003">1</ref>, <ref type="pub" target="./53008">6</ref>, <ref type="pub" target="./53022">20</ref>, <ref type="pub" target="./53025">23</ref>, <ref type="pub" target="./53027">25</ref>, <ref type="pub" target="./53032">30</ref>, <ref type="pub" target="./53033">31</ref>, <ref type="pub" target="./53039">37</ref>.</note> übernommen.</p>
                     <p>Die für den Gottesdienst vorgesehenen Lieder, deren Nummern
-                    sich nach dem 1890/91 eingeführten <bibl corresp="kbga-bibls-1085"><hi rend="i">Gesangbuch für die evangelisch-reformierte
+                    sich nach dem 1890/91 eingeführten <bibl corresp="kbga-bibls-1085"><hi rend="italic">Gesangbuch für die evangelisch-reformierte
                     Kirche der deutschen Schweiz</hi> (GERS)</bibl> richten, sind in der
                     Regel oben links auf der ersten Manuskriptseite notiert; sie werden in
                     dieser Ausgabe unterhalb der jeweiligen Predigt mitgeteilt, die Liednummern
-                    im <bibl corresp="kbga-bibls-1089"><hi rend="i">Gesangbuch der Evangelisch-reformierten Kirchen der
-                    deutschsprachigen Schweiz</hi> (RG)</bibl> von 1998 bzw. im (deutschen) <bibl corresp="kbga-bibls-1088"><hi rend="i">Evangelischen
+                    im <bibl corresp="kbga-bibls-1089"><hi rend="italic">Gesangbuch der Evangelisch-reformierten Kirchen der
+                    deutschsprachigen Schweiz</hi> (RG)</bibl> von 1998 bzw. im (deutschen) <bibl corresp="kbga-bibls-1088"><hi rend="italic">Evangelischen
                     Gesangbuch</hi> (EG) von 1992</bibl> sind hinzugefügt, soweit die
                     Lieder dort enthalten sind. Während seiner Zeit in Genf und in der
-                    letzten zuvor gehaltenen Predigt hat Barth ebenfalls oben auf der er<pb xml:id="pr015" ed="pga"/>sten
+                    letzten zuvor gehaltenen Predigt hat Barth ebenfalls oben auf der er<pb xml:id="pr015" ed="pga" break="no"/>sten
                     Seite des Manuskripts die Bibelstelle(n) für die Lesung(en) im
                     Gottesdienst aufgeschrieben. Auch diese Angaben finden sich in dieser
                     Ausgabe unterhalb der jeweiligen Predigt. Nur bei den beiden
                     Predigten vom 23. und 30. August 1908 sind lateinisch nummerierte
-                    Gebete notiert; vermutlich benutzte Barth hier die <hi rend="i">Liturgie für die
+                    Gebete notiert; vermutlich benutzte Barth hier die <hi rend="italic">Liturgie für die
                     Evangelisch-reformirte Kirche des Kantons Bern</hi>, Bern 1888<hi rend="sup">2</hi>, dort
                     S. 9–22 (Gebete vor der Predigt I–VIII) und S. 22–39 (Gebete nach der
                     Predigt I–VIII).</p>
@@ -306,7 +308,7 @@
                   </div>
                     <div> <pb xml:id="pr016" ed="pga"/>
                 <head type="sub">
-                    <hi rend="i">4.) Dank der Herausgeber</hi>
+                    <hi rend="italic">4.) Dank der Herausgeber</hi>
                 </head>
                     <p>Für ihre Hilfe bei Recherchen und Auskünfte in Einzelfragen danken
                     die Herausgeber Prof. Dr. Christophe Chalamet (Genf), Peter Heidtmann-Unglaube
@@ -328,8 +330,8 @@
 
                     <closer> 
                         <dateline rend="left">Basel und Effretikon, im April 2018</dateline> 
-                        <signed rend="right"><hi rend="i">Simon Weinreich</hi></signed>
-                        <signed rend="right"><hi rend="i">Peter Zocher</hi></signed>
+                        <signed rend="right"><hi rend="italic">Simon Weinreich</hi></signed>
+                        <signed rend="right"><hi rend="italic">Peter Zocher</hi></signed>
                 </closer> 
             </div>
           </div>

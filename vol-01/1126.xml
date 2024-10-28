@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1126">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Anhang Nr. 15</title>
         <title type="content">Gerhard Krüger an Karl Barth</title>
         <title type="citation_line_1">Gerhard Krüger an Karl Barth, 7. Oktober 1930</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1126 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1126 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 241–243.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">15</title>
+          <title type="text">Anhang Nr. 15: Gerhard Krüger an Karl Barth</title>
           <author ref="kba-actors-234">Krüger, Gerhard</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -83,7 +84,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:45+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:45+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -122,15 +123,15 @@
             dabei nicht mit allen denen sprechen können, auf die es Ihnen ankommt, aber die
             Möglichkeit, <pb xml:id="p242" ed="pga"/> das in Zukunft zu tun, bliebe Ihnen ja immer
             noch, wenn Sie diesen vorläufigen Anlaß benutzten, nun die Sache auszuarbeiten: <foreign xml:lang="lat">scriptum est, manet.</foreign> Und für die <orgName ref="kbga-actors-8270">Tagung</orgName> wäre es eine Rettung.
-            So nämlich bliebe die ganze Verantwortung dafür — genau genommen — auf <hi rend="i">mir</hi> liegen! <persName ref="kbga-actors-512">Bultmann</persName> kann Ihre Arbeit
-            hier nicht gut ersetzen; das Thema ist eben so bestimmt, daß wirklich nur ein <hi rend="i">Systematiker</hi> darüber sprechen kann. Mit dem Römerbrief, ohne Kenntnis
+            So nämlich bliebe die ganze Verantwortung dafür — genau genommen — auf <hi rend="italic">mir</hi> liegen! <persName ref="kbga-actors-512">Bultmann</persName> kann Ihre Arbeit
+            hier nicht gut ersetzen; das Thema ist eben so bestimmt, daß wirklich nur ein <hi rend="italic">Systematiker</hi> darüber sprechen kann. Mit dem Römerbrief, ohne Kenntnis
             der Dogmatik, läßt sich das doch einfach nicht machen! Ich aber bin nur auf eine
             historische Einleitung gefaßt, bin nicht einmal imstande, die philosophische Seite der
             Sache systematisch zu behandeln, geschweige denn die theologische. Und darauf kommt es
-            doch für die Frage selbst und vor allem auch für die <hi rend="i">Teilnehmer</hi> der
+            doch für die Frage selbst und vor allem auch für die <hi rend="italic">Teilnehmer</hi> der
             <orgName ref="kbga-actors-8270">Tagung</orgName> allein an. <persName ref="kbga-actors-322">Plato</persName> und <persName ref="kbga-actors-11">Aristoteles</persName> sind doch ganz uninteressant, wenn nicht
             gesagt wird, was von ihnen und ihrer Aufnahme in die alte Theologie dogmatisch zu halten
-            sei. Das vorige Mal wurde eben um dieser Lage willen beschlossen, <hi rend="i">Sie</hi>
+            sei. Das vorige Mal wurde eben um dieser Lage willen beschlossen, <hi rend="italic">Sie</hi>
             zu bitten. Daß es nicht gut möglich ist, so kurz vorher ganz etwas andres vorzunehmen,
             ist ja auch klar. Kurz, ich bin in großer Verlegenheit: soll ich auch absagen — was
             Ausfall der <orgName ref="kbga-actors-8270">Tagung</orgName> und eine Gefahr für ihre regelmäßige Fortdauer bedeuten würde, oder
@@ -146,7 +147,7 @@
             Theologische genügend sagen kann.</p>
           <p>Ich kann Ihnen bei dieser Gelegenheit endlich für das freundschaftliche Interesse
             danken, das Sie meiner Kantarbeit<note xml:id="n01">Die Arbeit erschien wenig später: <bibl corresp="kbga-bibls-1414">
-                                <persName ref="kbga-actors-234">G. Krüger</persName>, <hi rend="i">Philosophie und
+                                <persName ref="kbga-actors-234">G. Krüger</persName>, <hi rend="italic">Philosophie und
                     Moral in der kantischen Kritik</hi>, Tübingen 1931.</bibl>
                         </note> widmen. Ich hoffe <pb xml:id="p243" ed="pga"/> immer noch, daß ich Ihnen auch
             für Ihr Kommen nach <placeName ref="kbga-places-41">Marburg</placeName> danken kann!</p>

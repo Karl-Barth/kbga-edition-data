@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1005">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 3</title>
         <title type="content">Karl Barth an Rudolf Bultmann</title>
         <title type="citation_line_1">Karl Barth an Rudolf Bultmann, 14. April 1922</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1005 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1005 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 5–9.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">3</title>
+          <title type="text">Brief Nr. 3: Karl Barth an Rudolf Bultmann</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -86,7 +87,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:42+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:42+02:00</change>
+      <change when="2024-10-28T10:45:08+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:08+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -101,26 +102,26 @@
                     </dateline>
           <salute>Lieber Herr <persName ref="kbga-actors-512">Bultmann</persName>!</salute>
         </opener>
-        <p>Ich sage Ihnen auch gerne aus alter Gewohnheit fernerhin <hi rend="i">so</hi>, wenn Sie
+        <p>Ich sage Ihnen auch gerne aus alter Gewohnheit fernerhin <hi rend="italic">so</hi>, wenn Sie
           erlauben. Haben Sie besten Dank für Ihre Karte. Heute sandte mir <persName ref="kbga-actors-329">Rade</persName> Ihren Artikel, zu welchem Zweck, mögen Sie aus
           seinem beiliegenden Brief ersehen.<note xml:id="n01">
                         <persName ref="kbga-actors-329">Rades</persName> Brief an <persName ref="kbga-actors-2151">Barth</persName> ist nicht mehr auffindbar. Offenbar hatte er darin
-            angeregt, <persName ref="kbga-actors-2151">Barth</persName> möge Kürzungen in <persName ref="kbga-actors-512">Bultmanns</persName> Rezension seines <bibl corresp="kbga-bibls-48">«<hi rend="i">Römerbriefs</hi>»</bibl> (s. <ref type="pub" target="1004#fn_n01">Nr. 2, Anm. 1</ref>) vorschlagen. Einige
+            angeregt, <persName ref="kbga-actors-2151">Barth</persName> möge Kürzungen in <persName ref="kbga-actors-512">Bultmanns</persName> Rezension seines <bibl corresp="kbga-bibls-48">«<hi rend="italic">Römerbriefs</hi>»</bibl> (s. <ref type="pub" target="1004#fn_n01">Nr. 2, Anm. 1</ref>) vorschlagen. Einige
             Kürzungen hat <persName ref="kbga-actors-512">Bultmann</persName> dann in der Tat vorgenommen; vgl. <ref type="pub" target="1006">Nr. 4</ref>.</note> Ich finde es sehr schwer,
           Streichungen vorzunehmen, denn die Citate sind sehr sorgfältig ausgewählt. Aber vielleicht
-          müssen Sie doch jeweilen, wo zwei bis drei gehäuft sind, sich mit <hi rend="i">einem</hi>
-          und Angabe von weitern <hi rend="i">Seitenzahlen</hi> begnügen; ich will nachher noch
+          müssen Sie doch jeweilen, wo zwei bis drei gehäuft sind, sich mit <hi rend="italic">einem</hi>
+          und Angabe von weitern <hi rend="italic">Seitenzahlen</hi> begnügen; ich will nachher noch
           versuchen, Ihnen mit Bleistift ein paar unmaßgebliche Vorschläge zu machen<note xml:id="n02">In <persName ref="kbga-actors-512">Bultmanns</persName> Manuskript.</note>, weil <persName ref="kbga-actors-329">Rade</persName> es denn verlangt. Beachten Sie, daß er das Manuscript am Donnerstag
           wieder haben will.</p>
-        <p>Zur Sache selbst sollten wir uns wirklich am Besten <hi rend="i">sprechen</hi> können.
-          Und zwar ist die Reihe an <hi rend="i">Ihnen</hi>; ich erwarte Sie also bald einmal in
-          <placeName ref="kbga-places-27">Göttingen</placeName>. Ich fühle mich von Ihnen in einer eigentümlichen Weise <hi rend="i">verstanden</hi> (solchen Glauben habe ich unter den Historikern …!<note xml:id="n03">Vgl. <ref type="can" subtype="bible" target="Mt.8.10">Mt. 8,10</ref>.</note>) und dann
-          doch an einem letzten entscheidenden Punkt auch <hi rend="i">noch nicht</hi> verstanden.
+        <p>Zur Sache selbst sollten wir uns wirklich am Besten <hi rend="italic">sprechen</hi> können.
+          Und zwar ist die Reihe an <hi rend="italic">Ihnen</hi>; ich erwarte Sie also bald einmal in
+          <placeName ref="kbga-places-27">Göttingen</placeName>. Ich fühle mich von Ihnen in einer eigentümlichen Weise <hi rend="italic">verstanden</hi> (solchen Glauben habe ich unter den Historikern …!<note xml:id="n03">Vgl. <ref type="can" subtype="bible" target="Mt.8.10">Mt. 8,10</ref>.</note>) und dann
+          doch an einem letzten entscheidenden Punkt auch <hi rend="italic">noch nicht</hi> verstanden.
           Lassen Sie mich Ihnen vor Allem für das Erste, für die große Mühe, die Sie sich mit dem
           dicken Buch gegeben haben, herzlich danken. Wieviel aussichtsreicher ist doch die
           Situation geworden, als sie es noch vor drei Jahren war!<note xml:id="n04">D.h. nach
             <persName ref="kbga-actors-512">Bultmanns</persName> Reaktion auf die erste Fassung des «Römerbriefs», in: <bibl corresp="kbga-bibls-917">
-                            <title level="a">Ethische und mystische Religion im Urchristentum</title></bibl> (s. <ref type="pub" target="1004#fn_n02">Nr. 2, Anm. 2</ref>).</note> Wie soll ich Ihnen das Zweite, das «<hi rend="i">noch nicht</hi> verstanden»,
+                            <title level="a">Ethische und mystische Religion im Urchristentum</title></bibl> (s. <ref type="pub" target="1004#fn_n02">Nr. 2, Anm. 2</ref>).</note> Wie soll ich Ihnen das Zweite, das «<hi rend="italic">noch nicht</hi> verstanden»,
           erklären? Ich könnte sagen, alle Ihre Einwände seien zu sehr orientiert an dem gewissen
           stabilen Entweder-Oder-Denken, mit dem die bisherige systematische und historische
           Theologie ihre Fragen aufzustellen und ihre Entscheidungen herbeizuführen pflegte. Darum
@@ -130,62 +131,62 @@
                         <bibl corresp="kbga-bibls-913">
                             Sp. 332</bibl> (= <bibl corresp="kbga-bibls-914">
                             S. 127</bibl>).</note>, S. 14 wegen des
-          «Glaubens, <hi rend="i">daß</hi> wir glauben»<note xml:id="n07">
+          «Glaubens, <hi rend="italic">daß</hi> wir glauben»<note xml:id="n07">
                         <bibl corresp="kbga-bibls-913">Sp. 358f.</bibl>(= <bibl corresp="kbga-bibls-914">S. 131</bibl>).</note>, S. 19f. wegen der Jahre 1–30<note xml:id="n08">
                         <bibl corresp="kbga-bibls-913">Sp. 370f.</bibl>(= <bibl corresp="kbga-bibls-914">S. 337f.</bibl>).</note> und auch S. 24 wegen meiner Kritiklosigkeit resp. Inspirationsgläubigkeit
           gegenüber <persName ref="kbga-actors-313">Paulus</persName><note xml:id="n09">
                         <bibl corresp="kbga-bibls-913">Sp. 372</bibl> (=
-            <bibl corresp="kbga-bibls-914">S. 141</bibl>).</note>. Es fällt mir auf, wie verhältnismäßig selten Sie die ganze <hi rend="i">zweite</hi> Hälfte des Buches zitieren, wo es mir unter dem Zwang des Textes selber
+            <bibl corresp="kbga-bibls-914">S. 141</bibl>).</note>. Es fällt mir auf, wie verhältnismäßig selten Sie die ganze <hi rend="italic">zweite</hi> Hälfte des Buches zitieren, wo es mir unter dem Zwang des Textes selber
           noch viel deutlicher wurde, wie sehr bei <persName ref="kbga-actors-313">Paulus</persName>
           alle Begriffe, Setzungen, Thesen im Gleiten, Rollen, in der Bewegung sind und nur in der
           Bewegung richtig aufgefaßt werden können. Ihre Einwände kommen mir, um es so auszudrücken
           — humorlos vor. Sie klagen über «Unklarheiten» und sehen nicht, daß ich das, was Sie
-          gesagt zu hören wünschen, <hi rend="i">auch</hi> sagen könnte, an andern Stellen
-          tatsächlich <hi rend="i">auch sage</hi>, aber eben immer nur in dem Zusammenhang, in dem
+          gesagt zu hören wünschen, <hi rend="italic">auch</hi> sagen könnte, an andern Stellen
+          tatsächlich <hi rend="italic">auch sage</hi>, aber eben immer nur in dem Zusammenhang, in dem
           es m. E. gesagt werden muß, denn Ansich-Wahrheiten gibt es da nicht. Haben Sie wohl meine
           «Lehre» vom «ewigen Augenblick» der Offenbarung genügend beachtet, gerade in Bezug auf das
-          Hauptproblem, die <hi rend="i">Jesus</hi>frage? Dürfen Sie mir wirklich wegen der
+          Hauptproblem, die <hi rend="italic">Jesus</hi>frage? Dürfen Sie mir wirklich wegen der
           Jahre 1–30 «Spiegelfechterei» vorwerfen, wo ich doch wahrhaftig die «Verborgenheit» der in
           diesem Zeitraum sich ereignenden Offenbarung genügend unterstrichen und gegen alle
-          direkten Zudringlichkeiten gesichert habe? Wenn «Symbol» <hi rend="i">
+          direkten Zudringlichkeiten gesichert habe? Wenn «Symbol» <hi rend="italic">
                         <foreign xml:lang="lat">verbum
-          visibile</foreign></hi>, <hi rend="i">Predigt</hi> der <hi rend="i">Wahrheit</hi> bedeuten soll,
+          visibile</foreign></hi>, <hi rend="italic">Predigt</hi> der <hi rend="italic">Wahrheit</hi> bedeuten soll,
           dann will ich gut und gerne den historischen Jesus ein Symbol nennen. Das Volk versteht
           aber unter Symbol zunächst etwas Anderes. «Symbol» im gemeinen Sinn ist die Historizität,
-          sofern sie Existentialität bedeuten <hi rend="i">kann</hi> (S. 22 Ihres Aufsatzes)<note xml:id="n10">
-                        <bibl corresp="kbga-bibls-913">Sp. 371</bibl> (= <bibl corresp="kbga-bibls-914">S. 138f.</bibl>).</note>; sofern sie sie aber tatsächlich <hi rend="i">bedeutet</hi> (die Möglichkeit als <hi rend="i">Ereignis!</hi>), <hi rend="i">verliert</hi> sie ihren Symbolcharakter: das Wort wird <hi rend="i">gehört</hi>, die
-          Predigt weckt <hi rend="i">Glauben</hi>. Um diesen <hi rend="i">Schritt von</hi> hier <hi rend="i">nach</hi> dort handelt es sich mir (und doch wohl auch dem <persName ref="kbga-actors-313">Paulus</persName>) in der Jesusfrage. Sind denn meine Sätze, als
-          Schilderung dieses <hi rend="i">Schrittes</hi> verstanden, so schrecklich unklar? Es soll
-          und muß hier eben jede Aussage oszillieren in dieser Bewegung <hi rend="i">von</hi> hier
-            <hi rend="i">nach</hi> dort, während «Symbol» (obwohl ich mich nicht gegen den Terminus
-          versteifen will) — jedenfalls als <hi rend="i">letztes</hi> Wort über den histori<pb xml:id="p007" ed="pga" break="no"/>schen Jesus — für mich eine leblose Eindeutigkeit
+          sofern sie Existentialität bedeuten <hi rend="italic">kann</hi> (S. 22 Ihres Aufsatzes)<note xml:id="n10">
+                        <bibl corresp="kbga-bibls-913">Sp. 371</bibl> (= <bibl corresp="kbga-bibls-914">S. 138f.</bibl>).</note>; sofern sie sie aber tatsächlich <hi rend="italic">bedeutet</hi> (die Möglichkeit als <hi rend="italic">Ereignis!</hi>), <hi rend="italic">verliert</hi> sie ihren Symbolcharakter: das Wort wird <hi rend="italic">gehört</hi>, die
+          Predigt weckt <hi rend="italic">Glauben</hi>. Um diesen <hi rend="italic">Schritt von</hi> hier <hi rend="italic">nach</hi> dort handelt es sich mir (und doch wohl auch dem <persName ref="kbga-actors-313">Paulus</persName>) in der Jesusfrage. Sind denn meine Sätze, als
+          Schilderung dieses <hi rend="italic">Schrittes</hi> verstanden, so schrecklich unklar? Es soll
+          und muß hier eben jede Aussage oszillieren in dieser Bewegung <hi rend="italic">von</hi> hier
+            <hi rend="italic">nach</hi> dort, während «Symbol» (obwohl ich mich nicht gegen den Terminus
+          versteifen will) — jedenfalls als <hi rend="italic">letztes</hi> Wort über den histori<pb xml:id="p007" ed="pga" break="no"/>schen Jesus — für mich eine leblose Eindeutigkeit
           wäre. (Ich bin es gewöhnt, von meinen hiesigen, meist «positiven» Studenten beständig das
-          Verlangen nach <hi rend="i">andern</hi> Eindeutigkeiten vorgetragen zu bekommen; ihnen
-          will ich in Zukunft gerne gelegentlich mit dem Wort «Symbol» dienen — aber nicht als <hi rend="i">letztes</hi> Wort!) Ähnliches würde ich Ihnen in Bezug auf die andern Punkte
-          erwidern. Ich habe überall das Gefühl, von Ihnen mit <hi rend="i">Moment</hi>aufnahmen
-          erwischt worden zu sein, — bleibt nur die Möglichkeit einer <hi rend="i">Zeit</hi>aufnahme bei <hi rend="i">bewegtem</hi> Objekt mit greulicher Folge! werden
+          Verlangen nach <hi rend="italic">andern</hi> Eindeutigkeiten vorgetragen zu bekommen; ihnen
+          will ich in Zukunft gerne gelegentlich mit dem Wort «Symbol» dienen — aber nicht als <hi rend="italic">letztes</hi> Wort!) Ähnliches würde ich Ihnen in Bezug auf die andern Punkte
+          erwidern. Ich habe überall das Gefühl, von Ihnen mit <hi rend="italic">Moment</hi>aufnahmen
+          erwischt worden zu sein, — bleibt nur die Möglichkeit einer <hi rend="italic">Zeit</hi>aufnahme bei <hi rend="italic">bewegtem</hi> Objekt mit greulicher Folge! werden
           Sie sagen — ja, oder der Verzicht auf alles Photographieren! würde ich antworten. Aber ich
           müßte Ihnen das mündlich zeigen können. Haben Sie die etwas dramatische Darlegung zu <ref type="can" subtype="bible" target="Röm.8.33 Röm.8.39">R 8,33–39</ref> (S. 314–15<note xml:id="n11">Scil. in der Erstausgabe der 2. Auflage von <bibl corresp="kbga-bibls-48">
-                            <hi rend="i">Der Römerbrief</hi>,
+                            <hi rend="italic">Der Römerbrief</hi>,
                   München 1922; in den späteren Abdrucken ab
             1923: S. 312f.; Zürich 1989<hi rend="sup">15</hi>: S. 340–342</bibl>.</note>) beachtet? Wenn Sie mich auf diesen 2 Seiten (etwa mit den 2 vorangehenden)
           verstehen, so verstehen Sie mich ganz und werden mich nicht mehr <foreign xml:lang="lat">more theologorum</foreign>
-          aufspießen wollen. Aber ich nehme es Ihnen durchaus nicht übel, wenn Sie mir <hi rend="i">das</hi> nicht abnehmen wollen. Gerade dieses Bewegungsmäßige ist der Punkt meiner
+          aufspießen wollen. Aber ich nehme es Ihnen durchaus nicht übel, wenn Sie mir <hi rend="italic">das</hi> nicht abnehmen wollen. Gerade dieses Bewegungsmäßige ist der Punkt meiner
           Theologie (der entscheidende!), der mir von den Allerwenigsten (auch meiner Lobredner!)
           abgenommen wird.</p>
         <p>Vielleicht noch ein Wort zu S. 24 Ihres Aufsatzes<note xml:id="n12">
                         <bibl corresp="kbga-bibls-913">Sp. 372f.</bibl> (= <bibl corresp="kbga-bibls-914">S. 141f.</bibl>).</note>. Es wird Sie wenig befriedigen, wenn ich Ihnen sage, mein Daimonion warne
           mich vor der von Ihnen gewünschten Kritik an <persName ref="kbga-actors-313">Paulus</persName>. Sehen Sie nicht selbst, daß das für
           mich eine Stilwidrigkeit wäre? (Vielleicht gebe ich Ihnen eine furchtbare Waffe in die
-          Hand, indem ich das schreibe.) Sie mögen meine Kritik in <hi rend="i">diesem</hi> Sinn
+          Hand, indem ich das schreibe.) Sie mögen meine Kritik in <hi rend="italic">diesem</hi> Sinn
           überall dort suchen, wo meine Auslegung wortkarg oder sonst schwach wird. Das bedeutet
           dann: ich verstehe nicht recht, was da los ist! Aber ich will doch in meinem Buch sagen,
-          was ich zu <hi rend="i">verstehen</hi> meine, und nicht, was ich <hi rend="i">nicht</hi>
+          was ich zu <hi rend="italic">verstehen</hi> meine, und nicht, was ich <hi rend="italic">nicht</hi>
           verstehe. Was hülfe es mir, wenn ich mein Nichtverstehen laut ausriefe und mit Hinweisen
           auf die von Ihnen genannten Größen zu begründen suchte? Mein Verfahren hat den Vorteil,
-          daß die Frage offen bleibt, ob an den betr. Stellen ich an <hi rend="i">
+          daß die Frage offen bleibt, ob an den betr. Stellen ich an <hi rend="italic">
                         <persName ref="kbga-actors-313">Paulus</persName></hi> oder
-          <persName ref="kbga-actors-313">Paulus</persName> an <hi rend="i">mir</hi> Kritik übt, was ja auch sein könnte. Und im Übrigen bin
+          <persName ref="kbga-actors-313">Paulus</persName> an <hi rend="italic">mir</hi> Kritik übt, was ja auch sein könnte. Und im Übrigen bin
           ich ein historisch sehr schwach begabter Mensch und könnte doch nur nachplappern, was
           Andere besser gesagt haben. Daß die paulinischen Bäume nicht in den Himmel wachsen, dafür
           ist ge<pb xml:id="p008" ed="pga" break="no"/>sorgt; ich sehe aber nicht ein, daß es
@@ -197,25 +198,25 @@
                     </note> zu sagen
           pflegt, wenn ich ihm einen Einblick in den Abgrund der Bosheit meiner Ansichten
           gestatte?</p>
-        <p>Sehr übel nehme ich Ihnen zwei Dinge: <hi rend="i">I.</hi> die «Spiegelfechterei» S. 21,
+        <p>Sehr übel nehme ich Ihnen zwei Dinge: <hi rend="italic">I.</hi> die «Spiegelfechterei» S. 21,
           für die Sie sicher ein freundlicheres Wort einsetzen können<note xml:id="n14">Der Ausdruck
-            wurde von <persName ref="kbga-actors-512">Bultmann</persName> für den Druck gestrichen (vgl. <ref type="pub" target="1006">Nr. 4</ref>).</note>, <hi rend="i">2.</hi> die Verbeugung vor <persName ref="kbga-actors-210">Jülicher</persName> S. 23 unten<note xml:id="n15">
+            wurde von <persName ref="kbga-actors-512">Bultmann</persName> für den Druck gestrichen (vgl. <ref type="pub" target="1006">Nr. 4</ref>).</note>, <hi rend="italic">2.</hi> die Verbeugung vor <persName ref="kbga-actors-210">Jülicher</persName> S. 23 unten<note xml:id="n15">
                         <bibl corresp="kbga-bibls-913">Sp. 373, Anm. 4</bibl>
               (= <bibl corresp="kbga-bibls-914">S. 141, Anm. 4</bibl>): ein zustimmender Hinweis <persName ref="kbga-actors-512">Bultmanns</persName> auf <persName ref="kbga-actors-210">A. Jülichers</persName> Besprechung der <bibl corresp="kbga-bibls-119">
                             <edition rend="normal">1. Auflage</edition> von <persName ref="kbga-actors-2151">Barths</persName>
-                  «<hi rend="i">Römerbrief</hi></bibl>: <bibl corresp="kbga-bibls-918">
+                  «<hi rend="italic">Römerbrief</hi></bibl>: <bibl corresp="kbga-bibls-918">
                             <title level="a">Ein moderner
                   Paulus-Ausleger</title>, in: <title>CW</title>, Jg. 34
                   (1920), Sp. 453–457.466–469</bibl> (= <bibl corresp="kbga-bibls-111">
                             Anfänge I, S. 87–98</bibl>). Für den Druck
-              kürzte <persName ref="kbga-actors-512">Bultmann</persName> diese Anmerkung (vgl. <ref type="pub" target="1006">Nr. 4</ref>).</note>, die nach dem S. 23 <hi rend="i">oben</hi> Gesagten<note xml:id="n16">
+              kürzte <persName ref="kbga-actors-512">Bultmann</persName> diese Anmerkung (vgl. <ref type="pub" target="1006">Nr. 4</ref>).</note>, die nach dem S. 23 <hi rend="italic">oben</hi> Gesagten<note xml:id="n16">
                         <bibl corresp="kbga-bibls-913">Sp. 372</bibl> (= <bibl corresp="kbga-bibls-914">S. 140</bibl>), wo <persName ref="kbga-actors-512">Bultmann</persName> u. a. schreibt: «Ich will aber nicht
             verschweigen, daß die neue Auflage auf mich einen ungleich tieferen Eindruck gemacht hat
             als die erste. Ich habe auch darauf verzichtet, das Buch als Kommentar zum Römerbrief zu
             betrachten […]».</note> (und in Anbetracht dessen, daß mein Vorwort gerade betr. der
           Aufgabe der Texterklärung polemisch auf <persName ref="kbga-actors-210">Jülicher</persName> Bezug nimmt<note xml:id="n17">
                         <bibl corresp="kbga-bibls-48">
-                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Der
+                            <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Der
             Römerbrief</hi>, 1922, S. XII; ab 1923: S. XIII;
                   1989<edition rend="sup">15</edition>: S. XX</bibl>
                     </note>) wirkt wie die Faust aufs Auge. Und wie steht es mit dem Einfluß
@@ -231,7 +232,7 @@
             Hesse</persName> bin ich nicht gern in einem Atem genannt<note xml:id="n19">Sp. 333 (=
               S. 129f.). <persName ref="kbga-actors-512">Bultmann</persName> zitiert hier eine Stelle aus <bibl corresp="kbga-bibls-919">
                             <persName ref="kbga-actors-183">Hermann
-              Hesses</persName> Roman <hi rend="i">Demian</hi> (1919)</bibl>.</note> — doch es
+              Hesses</persName> Roman <hi rend="italic">Demian</hi> (1919)</bibl>.</note> — doch es
           ist genug; ich scheine Ihnen vielleicht so schon zudringlich, daß ich mir überhaupt
           erlaube, Ihnen dreinzureden. Ohne Ihre Karte würde ich es nicht gewagt haben.</p>
         <closer>
@@ -244,13 +245,13 @@
 
        
         <postscript>
-                    <p> <pb rend="noPipe" xml:id="p009" ed="pga"/> In der nächsten Nr. der «<orgName ref="kbga-actors-994">Furche</orgName>» geht kein Geringerer als <hi rend="i">
+                    <p> <pb rend="noPipe" xml:id="p009" ed="pga"/> In der nächsten Nr. der «<orgName ref="kbga-actors-994">Furche</orgName>» geht kein Geringerer als <hi rend="italic">
                             <persName ref="kbga-actors-359">Schlatter</persName></hi>
           gegen mich vor mit einer mildanerkennenden Ablehnung oder mildablehnenden Anerkennung,
           hauptsächlich pädagogisch auf die «leicht verführbaren» christlichen Studenten
             berechnet.<note xml:id="n20">Vgl. <bibl corresp="kbga-bibls-920">
                                 <persName ref="kbga-actors-359">A. Schlatter</persName>, <title level="a">
-                                    <hi rend="i">Karl Barths</hi> «Römerbrief»</title>  in: Die Furche, Jg. 12 (1922), S. 228-232</bibl> (= <bibl corresp="kbga-bibls-914">
+                                    <hi rend="italic">Karl Barths</hi> «Römerbrief»</title>  in: Die Furche, Jg. 12 (1922), S. 228–232</bibl> (= <bibl corresp="kbga-bibls-914">
                                 Anfänge I, S. 142–147</bibl>).</note> Das Schlimmste, was
           er mir vorwirft, ist: <persName ref="kbga-actors-2151">«Barth</persName> zerschmettert den Denkakt.»<note xml:id="n21">Vgl. <bibl corresp="kbga-bibls-920">
                                 <persName ref="kbga-actors-359">A. Schlatter</persName>,
@@ -270,7 +271,7 @@
             </item>
                             <item n="2"> die oben nicht berücksichtigte Sache mit dem Logos, Natur und Kultur<note xml:id="n24">
                                     <bibl corresp="kbga-bibls-913">Im 5. Abschnitt («<title level="a">Glaube und Logos</title>») von <persName ref="kbga-actors-512">Bultmanns</persName> Rezension, <title>a. a. O.</title>, Sp. 359f.</bibl> (= <bibl corresp="kbga-bibls-914">S. 133f.</bibl>).</note>, auf die ich besonders eingehen müßte</item>
-                            <item n="3"> daß ich eigentlich <hi rend="i">gegen alle</hi> Kürzungen, auch die von mir
+                            <item n="3"> daß ich eigentlich <hi rend="italic">gegen alle</hi> Kürzungen, auch die von mir
               selbst angedeuteten, bin. Könnten Sie den Artikel nicht in <orgName ref="kbga-actors-4524">Z. Th. K.</orgName> erscheinen lassen
               und in der <orgName ref="kbga-actors-5420">Chr. W.</orgName> etwas Kürzeres schreiben?</item>
                         </list>

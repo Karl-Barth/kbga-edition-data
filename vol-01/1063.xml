@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1063">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 61</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 14. November 1929</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1063 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1063 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 94–95.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">61</title>
+          <title type="text">Brief Nr. 61: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:44+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:44+02:00</change>
+      <change when="2024-10-28T10:45:10+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:10+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -114,7 +115,7 @@
           seien, <persName ref="kbga-actors-137">Gogarten</persName> als Ihren Nachfolger nach
             <placeName ref="kbga-places-44">Münster</placeName> zu berufen<note xml:id="n02">
                         <persName ref="kbga-actors-2151">Barth</persName>
-            wurde zum Sommersemester <date when="1930">1930</date> als Nachfolger von <persName ref="kbga-actors-340">O. Ritschl</persName> nach <placeName ref="kbga-places-10">Bonn</placeName> berufen.</note>, wenn von <hi rend="i">Ihnen</hi> ein Sondervotum
+            wurde zum Sommersemester <date when="1930">1930</date> als Nachfolger von <persName ref="kbga-actors-340">O. Ritschl</persName> nach <placeName ref="kbga-places-10">Bonn</placeName> berufen.</note>, wenn von <hi rend="italic">Ihnen</hi> ein Sondervotum
           für <persName ref="kbga-actors-137">Gogarten</persName> vorliege. Ich werde gebeten, Ihnen
           das telegraphisch mitzuteilen, und werde sofort telegraphieren<note xml:id="n03">
                         <persName ref="kbga-actors-512">Bultmann</persName> telegraphierte am
@@ -137,11 +138,11 @@
                             <persName ref="kbga-actors-314">R. Paulus</persName> über die Tagung in: <title>CW</title>, Jg. 43 (1929), Sp. 1018–1026.</bibl>
             <bibl corresp="kbga-bibls-1109">
                             <persName ref="kbga-actors-137">Gogartens</persName> Vortrag erschien in: <title>ZdZ</title>, Jg. 8 (1930), S. 96–119</bibl>. <bibl corresp="kbga-bibls-1112">
-                            <persName ref="kbga-actors-512">Bultmanns</persName> Vortrag <title level="a">Wahrheit und Gewißheit</title> wurde als Anhang 3 seiner <hi rend="i">Theologischen Enzyklopädie</hi>, hrsg. von E. Jüngel und K. W. Müller, <publisher>Tübingen</publisher> 1984, S. 183–205</bibl>, posthum veröffentlicht. <bibl corresp="kbga-bibls-1115">
+                            <persName ref="kbga-actors-512">Bultmanns</persName> Vortrag <title level="a">Wahrheit und Gewißheit</title> wurde als Anhang 3 seiner <hi rend="italic">Theologischen Enzyklopädie</hi>, hrsg. von E. Jüngel und K. W. Müller, <publisher>Tübingen</publisher> 1984, S. 183–205</bibl>, posthum veröffentlicht. <bibl corresp="kbga-bibls-1115">
                             <persName ref="kbga-actors-1">Karl Aés</persName> für
             die Tagung vorbereiteter Vortrag erschien in: <title>CW</title>, Jg. 44 (1930), Sp. 618–625</bibl>.</note> Wie trostlos es dort war, davon ein andermal! <persName ref="kbga-actors-329">Rade</persName> war ratlos und verzweifelt, weil er <persName ref="kbga-actors-137">Gog.’s</persName> und meine Verzweiflung an der theologischen Situation im Kreise des
           «<orgName ref="kbga-actors-3989">Gegenwarts-Christentums</orgName>» nicht verstehen konnte.</p>
-        <p>Sie werden sich ja nicht auf eine Kompromißliste einlassen, es sei denn, daß <persName ref="kbga-actors-137">Gog.</persName> an deren <hi rend="i">erster</hi> Stelle mit allem
+        <p>Sie werden sich ja nicht auf eine Kompromißliste einlassen, es sei denn, daß <persName ref="kbga-actors-137">Gog.</persName> an deren <hi rend="italic">erster</hi> Stelle mit allem
           Nachdruck genannt ist. Da das nicht zu erreichen sein wird, wie ich vermute, bleibt nichts
           als Ihr Sondervotum, durch das Sie — vielleicht ist es nicht zu viel gesagt — <persName ref="kbga-actors-137">Gogarten</persName> retten und der Deutschen Theologie einen entscheidenden Dienst
           erweisen.</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-1036">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Brief Nr. 34</title>
         <title type="content">Rudolf Bultmann an Karl Barth</title>
         <title type="citation_line_1">Rudolf Bultmann an Karl Barth, 22. August 1925</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1036 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/1036 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966, hrsg. v. Jaspert, Bernd (Gesamtausgabe, Abt. V), Zürich 1994, S. 54.</title>
       </titleStmt>
       <editionStmt>
@@ -29,8 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Karl Barth – Rudolf Bultmann. Briefwechsel 1911–1966</title>
-          <title type="text">34</title>
+          <title type="text">Brief Nr. 34: Rudolf Bultmann an Karl Barth</title>
           <author ref="kba-actors-512">Bultmann, Rudolf</author>
+          <editor>Jaspert, Bernd</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1994</date>
@@ -85,7 +86,7 @@
       </correspDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:43+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:43+02:00</change>
+      <change when="2024-10-28T10:45:09+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:09+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -102,9 +103,9 @@
         </opener>
         <p>Schade, daß aus unserm gegenseitigen Besuch nichts wurde. Da mir nun viel daran liegt, Sie noch<note xml:id="n01">D.h. vor <persName ref="kbga-actors-2151">Barths</persName> Umzug nach <placeName ref="kbga-places-44">Münster</placeName>, der im <date when="1925-10">Oktober 1925</date> erfolgte. Die Familie kam im <date when="1926-03">März 1926</date> nach.</note> zu sprechen, würde ich gerne auf der Rückreise einen Tag bei Ihnen in <placeName ref="kbga-places-27">Göttingen</placeName> bleiben; das wäre mutmaßlich am <date from="1925-09-11" to="1925-09-13">11.-13. September</date>. Würde Ihnen mein Besuch an einem dieser Tage passen? Die Frage kompliziert sich freilich dadurch, daß ich um ein Nachtquartier nicht nur für mich, sondern auch für eins der Kinder<note xml:id="n02">
                         <persName ref="kbga-actors-242">Antje</persName> (7 Jahre) und <persName ref="kbga-actors-94">Gesine</persName> (5 Jahre). Die dritte Tochter, <persName ref="kbga-actors-73">Heilke</persName> (1 1/2 Jahre), war zu Hause geblieben bei der Großmutter.</note> bitten müßte, denn meine <rs type="person" ref="kbga-actors-74">Frau</rs> weigert sich, alleine zu reisen, sodaß wir alle zusammen in <placeName ref="kbga-places-27">Göttingen</placeName> Station machen müssen. 2 Personen würden bei einer Freundin meiner <rs type="person" ref="kbga-actors-74">Frau</rs><note xml:id="n03">
-                        <persName ref="kbga-actors-177">Benedicte Henke</persName>, <placeName ref="kbga-places-27">Göttingen</placeName>.</note> unterkommen; können Sie die beiden andern beherbergen? Schreiben Sie ruhig, wenn das zuviel verlangt ist! ich bemerke dazu nur noch, daß für mich selbstverständlich ein Sopha zur Nachtruhe genügt. — Hoffentlich haben Sie mit den Ihren in <placeName ref="kbga-places-161">Baltrum</placeName> die erwünschte Erholung gefunden und spüren jetzt die gute Wirkung! — Über <persName ref="kbga-actors-317">Peterson</persName> wie über die Mandäer später. Heute nur noch <hi rend="i">eines</hi>. <persName ref="kbga-actors-286">Joh. Müller</persName>, dessen «Jesus» ich in einer Anzeige schlecht behandelt habe, schrieb mir einen entrüsteten Brief, in dem er u. a. behauptete, <hi rend="i">Sie</hi> hätten ihm anerkennend über seinen «Jesus» geschrieben.<note xml:id="n04">
+                        <persName ref="kbga-actors-177">Benedicte Henke</persName>, <placeName ref="kbga-places-27">Göttingen</placeName>.</note> unterkommen; können Sie die beiden andern beherbergen? Schreiben Sie ruhig, wenn das zuviel verlangt ist! ich bemerke dazu nur noch, daß für mich selbstverständlich ein Sopha zur Nachtruhe genügt. — Hoffentlich haben Sie mit den Ihren in <placeName ref="kbga-places-161">Baltrum</placeName> die erwünschte Erholung gefunden und spüren jetzt die gute Wirkung! — Über <persName ref="kbga-actors-317">Peterson</persName> wie über die Mandäer später. Heute nur noch <hi rend="italic">eines</hi>. <persName ref="kbga-actors-286">Joh. Müller</persName>, dessen «Jesus» ich in einer Anzeige schlecht behandelt habe, schrieb mir einen entrüsteten Brief, in dem er u. a. behauptete, <hi rend="italic">Sie</hi> hätten ihm anerkennend über seinen «Jesus» geschrieben.<note xml:id="n04">
                         <bibl corresp="kbga-bibls-1045">
-                            <persName ref="kbga-actors-8648">J. Müller</persName>, <hi rend="i">Jesus, wie ich ihn sehe</hi>, in: Grüne Blätter, Jg. 27 (1925), S. 1–96</bibl> (später auch als Buch erschienen). <persName ref="kbga-actors-512">Bultmanns</persName> heute schwer zugängliche Rezension ist im <ref type="pub" target="1116">Anh. 6</ref> nachgedruckt. — Brief <persName ref="kbga-actors-286">Müllers</persName> im <ref type="pub" target="1117">Anh. 7</ref>.</note> Das ist mir rätselhaft. Wie steht es damit? ich wäre für meine Antwort gerne darüber orientiert.</p>
+                            <persName ref="kbga-actors-8648">J. Müller</persName>, <hi rend="italic">Jesus, wie ich ihn sehe</hi>, in: Grüne Blätter, Jg. 27 (1925), S. 1–96</bibl> (später auch als Buch erschienen). <persName ref="kbga-actors-512">Bultmanns</persName> heute schwer zugängliche Rezension ist im <ref type="pub" target="1116">Anh. 6</ref> nachgedruckt. — Brief <persName ref="kbga-actors-286">Müllers</persName> im <ref type="pub" target="1117">Anh. 7</ref>.</note> Das ist mir rätselhaft. Wie steht es damit? ich wäre für meine Antwort gerne darüber orientiert.</p>
         <closer>
           <salute>Herzliche Grüße von Haus zu Haus</salute>
           <salute>Ihr</salute>

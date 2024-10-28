@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53042">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 40</title>
         <title type="content">Predigt: Jakobus 2,8-13 (I)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 2,8-13 (I), 22. Mai 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53042 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53042 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 40: Predigt: Jakobus 2,8-13 (I)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p454" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>40</idno>
                 </head>
               
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, <date when="1910-05-22">Sonntag, den
+                            <hi rend="italic">Genf</hi></placeName>, <date when="1910-05-22">Sonntag, den
                             22. Mai 1910</date> <date rend="right">(Sonntag Trinitatis)</date>
                     </dateline>
                     <epigraph>
@@ -109,28 +111,28 @@
                     dort um den Armen und den Reichen, die in die kirchliche Versammlung kommen,
                     und um die verschiedene Aufnahme, die die Beiden finden.<note xml:id="n01">Siehe oben, <ref type="pub" target="../volume/53/p425#p425">S. 425-438</ref>.</note> <persName ref="kbga-actors-8959">Jakobus</persName> bemerkt dazu: Gute Freunde, hinter <pb ed="A" rend="hidden" n="2"/> der Verschiedenheit eures Redens und Handelns in
                     diesem scheinbar so unbeträchtlichen Fall versteckt sich eine ganz
-                    beträchtliche Halbheit eures <term type="Sachen" key="Christentum, Halbheit">Christentums</term>, d. h. aber eures innern <term type="Sachen" key="Leben, inneres">Lebens</term>. <hi rend="i">Ganze</hi> Christen,
-                        <hi rend="i">ganze</hi> Menschen seid ihr nicht, wenn ihr so seid. Nun fährt
+                    beträchtliche Halbheit eures <term type="Sachen" key="Christentum, Halbheit">Christentums</term>, d. h. aber eures innern <term type="Sachen" key="Leben, inneres">Lebens</term>. <hi rend="italic">Ganze</hi> Christen,
+                        <hi rend="italic">ganze</hi> Menschen seid ihr nicht, wenn ihr so seid. Nun fährt
                     er fort – und damit kommen wir zu dem Gegenstand, der uns heute
                     beschäftigen soll –: Gottes <term type="Sachen" key="Gesetz, göttliches">Gesetz</term>, das ihr ja kennt und anerkennt
-                    ist ein <hi rend="i">ganzes</hi> Gesetz; wer es erfüllen will, muss es
-                        <hi rend="i">ganz</hi> erfüllen, und danach fällt Gottes Urteil und <term type="Sachen" key="Gericht, göttliches">Gericht</term> über uns aus, ob
+                    ist ein <hi rend="italic">ganzes</hi> Gesetz; wer es erfüllen will, muss es
+                        <hi rend="italic">ganz</hi> erfüllen, und danach fällt Gottes Urteil und <term type="Sachen" key="Gericht, göttliches">Gericht</term> über uns aus, ob
                     wir Halbe gewesen sind und sind <pb xml:id="p455" ed="pga"/> im Gehorsam gegen
-                    sein Gesetz oder <hi rend="i">Ganze</hi>. Vom <term type="Sachen" key="Gesetz">
-                            <hi rend="i">Gesetz</hi></term>, von seiner <term type="Sachen" key="Gesetz, Erfüllung">
-                            <hi rend="i">Erfüllung</hi></term> und vom <term type="Sachen" key="Gericht, göttliches">
-                            <hi rend="i">Gericht</hi></term>
+                    sein Gesetz oder <hi rend="italic">Ganze</hi>. Vom <term type="Sachen" key="Gesetz">
+                            <hi rend="italic">Gesetz</hi></term>, von seiner <term type="Sachen" key="Gesetz, Erfüllung">
+                            <hi rend="italic">Erfüllung</hi></term> und vom <term type="Sachen" key="Gericht, göttliches">
+                            <hi rend="italic">Gericht</hi></term>
                     haben wir also heute und das nächste Mal zu reden. Das sind zweifellos
                     harte, trockene Worte, ich wiederhole es, aber ich hoffe doch, dass ich mich
                     nicht täusche, wenn ich annehme, ihr habt auch etwas gespürt von dem
                     Unterton ruhiger, verhaltener Freude und Siegesgewissheit, der in den
                     theoretischen, fast theologischen Ausführungen unsres Textes mitklingt. Ein
-                        <hi rend="i">königliches</hi>
+                        <hi rend="italic">königliches</hi>
                     <term type="Sachen" key="Gesetz, königliches">Gesetz</term> wird das
                     Gottesgesetz der <term type="Sachen" key="Nächstenliebe, Gottesgesetz">Nächstenliebe</term> genannt, als ein Gesetz der <term type="Sachen" key="Gesetz, der Freiheit">
-                            <hi rend="i">Freiheit</hi></term> will es
+                            <hi rend="italic">Freiheit</hi></term> will es
                     verstanden und erfüllt sein, und von dem, der es erfüllt, heißt es, dass er
-                        <hi rend="i">freudig</hi> besteht vor Gericht. Diesen starken, reinen Klang
+                        <hi rend="italic">freudig</hi> besteht vor Gericht. Diesen starken, reinen Klang
                     von der <term type="Sachen" key="Freude">Freude</term> des inwendigen
                     Menschen wollen wir recht kräftig mitklingen lassen, wahrlich nicht, um den
                     großen Ernst des Gedankens, mit dem wir’s zu schaffen haben, zu
@@ -155,7 +157,7 @@
                             <l>Aus der Kirchen ehrwürdiger Nacht</l>
                             <l>Sind sie alle ans Licht gebracht.<note xml:id="n02"> <bibl corresp="kbga-bibls-647">
                                         <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                        <hi rend="i">Faust. Der Tragödie erster Teil</hi>,
+                                        <hi rend="italic">Faust. Der Tragödie erster Teil</hi>,
                                     V. 923–928 (Vor dem Tor).</bibl>
                                 </note>
                             </l>
@@ -176,9 +178,9 @@
                     auch dann, wenn keine schweren Ereignisse unsres äußern und innern Lebens
                     für uns ihre Schatten werfen in all die Herrlichkeit. Im Doppelgesicht der
                         <term type="Sachen" key="Natur, Zweideutigkeit">Natur</term> erkennen
-                    wir wie im Spiegel unser eigenes Doppelgesicht, in unsrer Seele <pb ed="A" rend="hidden" n="4"/>kämpft, was <hi rend="i">wird</hi> und
-                        <hi rend="i">war</hi>, ein keuchend hart verschlungen Ringerpaar.<note xml:id="n03">Vgl.<bibl corresp="kbga-bibls-2547"> <persName ref="kbga-actors-1383">C. F. Meyer</persName>, <hi rend="i">Huttens letzte
-                            Tage</hi>, XXXII: <hi rend="i">Luther</hi>, V. 11f. (ders., Sämtliche
+                    wir wie im Spiegel unser eigenes Doppelgesicht, in unsrer Seele <pb ed="A" rend="hidden" n="4"/>kämpft, was <hi rend="italic">wird</hi> und
+                        <hi rend="italic">war</hi>, ein keuchend hart verschlungen Ringerpaar.<note xml:id="n03">Vgl.<bibl corresp="kbga-bibls-2547"> <persName ref="kbga-actors-1383">C. F. Meyer</persName>, <hi rend="italic">Huttens letzte
+                            Tage</hi>, XXXII: <hi rend="italic">Luther</hi>, V. 11f. (ders., Sämtliche
                         Werke in zwei Bänden, München 1968, Bd. 2, S. 408)</bibl>. – Siehe oben,
                             <ref type="pub" target="../volume/53/p173#p173">S. 173</ref>.</note> Da mag es uns
                     wohl gehen, dass wir vorwärtsblickend aufjauchzen wie <persName ref="kbga-actors-136">Goethe</persName>, als er im Juni 1775 den
@@ -265,7 +267,7 @@
                     wurde und gefragt wird: «Was ist Gottes Gesetz?», dann wurde und wird darauf
                     die Antwort gegeben: Gottes Gesetz sind die <term type="Sachen" key="Gebote">Gebote</term> und Lehren der <term type="Sachen" key="Lehre, kirchliche">Kirche</term> und der <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term>. Da war es dann für ein
                     scharfes und konsequentes Denken selbstverständlich fortzufahren: Gottes
-                    Gesetz kann nicht halb, sondern muss <hi rend="i">ganz</hi>
+                    Gesetz kann nicht halb, sondern muss <hi rend="italic">ganz</hi>
                     <term type="Sachen" key="Gesetz, göttliches G. muss ganz gelten">gelten</term>. Darum, sagten die großen Kirchenlehrer des katholischen
                         <term type="Sachen" key="Katholizismus">Christentums</term>, darum
                     schuldet der Mensch den Geboten der Kirche ganzen Respekt und Gehorsam bis
@@ -287,9 +289,9 @@
                     sagen, dass es nicht mehr die unsre ist. Calvins Auffassung von der
                     Autorität der <term type="Sachen" key="Bibel / Heilige Schrift, Autorität">Bibel</term><note xml:id="n07">Vgl. besonders <bibl corresp="kbga-bibls-16">Inst. I,6f</bibl>.</note>
                     wäre für uns eine Unwahrhaftigkeit, auch wenn wir uns dazu zwingen könnten,
-                    sie anzunehmen. <hi rend="i">Das</hi> war ja schon in der <term type="Sachen" key="Reformationszeit">Reformationszeit</term> allgemein anerkannt,
-                    wenigstens in der Praxis, dass <hi rend="i">die</hi> Gebote der Bibel uns
-                        <hi rend="i">nicht</hi> zum wirklichen Gehorsam verpflichteten, die
+                    sie anzunehmen. <hi rend="italic">Das</hi> war ja schon in der <term type="Sachen" key="Reformationszeit">Reformationszeit</term> allgemein anerkannt,
+                    wenigstens in der Praxis, dass <hi rend="italic">die</hi> Gebote der Bibel uns
+                        <hi rend="italic">nicht</hi> zum wirklichen Gehorsam verpflichteten, die
                     offenkundig nur für das Volk <term type="Sachen" key="Israel (Volk)">Israel</term>, für die damalige Zeit <pb xml:id="p459" ed="pga"/> und
                     Umstände Geltung hätten. Aber je genauer man es genommen hat mit der
                     Erforschung der heiligen <term type="Sachen" key="Bibel / Heilige Schrift, Erforschung">Schrift</term>, desto mehr
@@ -311,7 +313,7 @@
                     oder <placeName ref="kbga-places-8">Berlin</placeName> ist nicht genau
                         dasselbe.»<note xml:id="n09">
                             <bibl corresp="kbga-bibls-2719">
-                                <persName ref="kbga-actors-706">Fr. Naumann</persName>, <hi rend="i">Briefe über
+                                <persName ref="kbga-actors-706">Fr. Naumann</persName>, <hi rend="italic">Briefe über
                             Religion</hi>, Berlin-Schöneberg 1908<edition rend="sup">4</edition>,
                         S. 53</bibl>.</note> |</p>
                 <p>Ihr versteht, was die Entwicklung der Anschauungen, die ich da kurz
@@ -355,7 +357,7 @@
                     uns alle Wege zur <term type="Sachen" key="Erkenntnis, des Gesetzes Gottes">Erkenntnis</term> des Gesetzes Gottes versperrt. Aber nun wiederhole
                     ich das andre: Vielleicht eben darum sind wir tatsächlich dieser Erkenntnis
                     näher, sind wir wieder auf dem Wege zu einer Erkenntnis des Gottesgesetzes
-                    als eines ungebrochenen <hi rend="i">Ganzen</hi>, wie <persName ref="kbga-actors-14">Augustin</persName> und <persName ref="kbga-actors-77">Calvin</persName> in ihrer Art sie hatten. Ich sage
+                    als eines ungebrochenen <hi rend="italic">Ganzen</hi>, wie <persName ref="kbga-actors-14">Augustin</persName> und <persName ref="kbga-actors-77">Calvin</persName> in ihrer Art sie hatten. Ich sage
                     nicht, dass wir sie schon haben, aber wir sind vielleicht auf dem Weg dazu.
                     Denn sowie man begonnen hat und beginnen musste, Abstriche und Abzüge von
                     der alten ungebrochenen Autorität des <term type="Sachen" key="Bibel / Heilige Schrift, Autorität">Bibelworts</term> zu machen,
@@ -367,12 +369,12 @@
                     werden gleich sehen, wie es damit steht. Jedenfalls meine ich, dass es gut
                     ist, dass es so weit gekommen ist. Auch der Weg der Halbheiten ist damit zu
                     Ende gegangen. Eine Autorität, von der man so mit allerlei triftigen und
-                    weniger triftigen Gründen streichen und sub<pb xml:id="p461" ed="pga"/>trahieren
+                    weniger triftigen Gründen streichen und sub<pb xml:id="p461" ed="pga" break="no"/>trahieren
                     kann, ist keine Autorität, am Wenigsten verdiente sie den Namen «Gesetz
                     Gottes».</p>
                 <p>Sondern wir müssen zurückkehren zu der tiefen und richtigen Erkenntnis <persName ref="kbga-actors-77">Calvins</persName>, dass Gottes
                     Gesetz ein <term type="Sachen" key="Gesetz, göttliches G. ist ein Ganzes">Ganzes</term> ist, das nicht gebrochen, aus dem nichts
-                        <hi rend="i">heraus</hi>gebrochen und gestrichen werden kann. Es muss das
+                        <hi rend="italic">heraus</hi>gebrochen und gestrichen werden kann. Es muss das
                     Gerede aufhören, als ob wir <term type="Sachen" key="Christen, heutige">Christen</term> von heute uns von denen früherer Zeiten darin
                     unterschieden, dass wir’s mit Gottes Gesetz nicht mehr so streng
                     nehmen müssten, weil wir freier und aufgeklärter seien als sie, und was
@@ -388,8 +390,8 @@
                     sagen: Werde du ein williger Bürger dieses Reiches, so wirst du es erfahren.
                     Statuten und Paragraphen gibt es da nicht, denn gleich der erste Artikel der
                     Verfassung hebt alle andern auf; der Prophet <persName ref="kbga-actors-208">Jeremia</persName> hat diesen ersten Artikel einmal so
-                    ausgesprochen: Ich will mein Gesetz <hi rend="i">in ihr Herz</hi> geben und
-                        <hi rend="i">in ihren Sinn</hi> schreiben, und sie sollen mein Volk sein, so
+                    ausgesprochen: Ich will mein Gesetz <hi rend="italic">in ihr Herz</hi> geben und
+                        <hi rend="italic">in ihren Sinn</hi> schreiben, und sie sollen mein Volk sein, so
                     will ich ihr Gott sein. Und wird keiner den andern, noch ein Bruder den
                     andern lehren und sagen: Erkenne den Herrn!, sondern sie sollen mich alle
                     kennen, <pb ed="A" rend="hidden" n="10"/> beide, klein und groß, spricht der Herr
@@ -401,13 +403,13 @@
                         vgl. oben, <ref type="pub" target="../volume/53/p155#fn_n05">S. 155, Anm. 5</ref>.</note> aus dieser einen gehen alle andern, die wir für
                     unser Leben brauchen, notwendig hervor.</p>
                 <p>Es ist eine ganz erstaunliche Sache zu sehen, wie diese einfache grundlegende
-                    Einsicht den Christen immer wieder verlorengegangen ist. <hi rend="i">Jesus</hi>
-                    hat sie mit aller Klarheit ausgesprochen. Er ist recht eigent<pb xml:id="p462" ed="pga"/>lich darum Gottes <term type="Sachen" key="Jesus Christus, Offenbarung Gottes">Offenbarung</term> gewesen,
+                    Einsicht den Christen immer wieder verlorengegangen ist. <hi rend="italic">Jesus</hi>
+                    hat sie mit aller Klarheit ausgesprochen. Er ist recht eigent<pb xml:id="p462" ed="pga" break="no"/>lich darum Gottes <term type="Sachen" key="Jesus Christus, Offenbarung Gottes">Offenbarung</term> gewesen,
                     weil er es uns gezeigt und vorgemacht hat, dass rechte, gute Menschen die
                     seien, die reines Herzens sind [vgl. <ref type="can" subtype="bible" target="Mt.5.8">Mt. 5,8</ref>] und die hungert und dürstet nach der
                     Gerechtigkeit [vgl. <ref type="can" subtype="bible" target="Mt.5.6">Mt. 5,6</ref>].
                     Alle seine <term type="Sachen" key="Gebote, Jesu Christi">Gebote</term>
-                    zielten nur auf das eine ab, uns zum Gehorsam gegen dies <hi rend="i">eine</hi>
+                    zielten nur auf das eine ab, uns zum Gehorsam gegen dies <hi rend="italic">eine</hi>
                     Gebot zu erziehen. Man hat das nicht verstanden, man hat seine Gebote
                     hingenommen, ohne zu überlegen, was er damit wollte, und hat aus der <term type="Sachen" key="Bergpredigt">Bergpredigt</term> doch wieder ein
                     Zivilgesetzbuch gemacht, mit dessen Paragraphen man sich dann durch
@@ -415,7 +417,7 @@
                     abzufinden gedachte. Es<note type="textcritical" n="a" xml:id="na"> Im Mskr. mit blauem Stift nachträglich korrigiert aus:
                             «Dann».</note>
                      ist <persName ref="kbga-actors-313">
-                            <hi rend="i">Paulus</hi></persName>
+                            <hi rend="italic">Paulus</hi></persName>
                     gekommen und hat es mit aller wünschenswerten Deutlichkeit gesagt, die
                     Zeiten des Gesetzes seien vorbei, kein äußeres Gesetz könne den Menschen
                     gerecht vor Gott und selig machen. So bestehet nun in der <term type="Sachen" key="Freiheit">Freiheit</term>, zu der euch Christus
@@ -425,20 +427,20 @@
                     wieder im 16. Jahrhundert sind tapfere deutsche Männer der Wahrheit aufs
                     Neue auf die Spur gekommen, wie der Prinz im Märchen dem <persName ref="kbga-actors-9255">Dornröschen</persName> im Dornenhag.<note xml:id="n11">Das genannte Märchen findet sich in:
                             <bibl corresp="kbga-bibls-2666">
-                                <hi rend="i">Kinder- und Hausmärchen</hi>, gesammelt durch die <rs type="person" ref="kbga-actors-2031 kbga-actors-2032">Brüder Grimm</rs>, Große Ausgabe,
+                                <hi rend="italic">Kinder- und Hausmärchen</hi>, gesammelt durch die <rs type="person" ref="kbga-actors-2031 kbga-actors-2032">Brüder Grimm</rs>, Große Ausgabe,
                         Bd. 1, Göttingen 1857, S. 251–254</bibl>.</note> Da haben die <term type="Sachen" key="Mystiker">Mystiker</term> des Mittelalters die
                     Christenheit zur Besinnung aufgerufen auf das Eine, was nottut [vgl. 
                         <ref type="can" subtype="bible" target="Lk.10.42">Lk. 10,42</ref>], da haben <persName ref="kbga-actors-261">Luther</persName> und <persName ref="kbga-actors-272">Melanchthon</persName> in ihrer
                     Heldenzeit den Kampfruf ergehen lassen von der Freiheit des <term type="Sachen" key="Freiheit, des Christenmenschen">Christenmenschen</term>, der ein freier Herr sei aller Dinge, niemand
                     untertan, keinem Gesetz unterworfen.<note xml:id="n12">Vgl. 
                             <bibl corresp="kbga-bibls-1302">
-                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="i">Von
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="italic">Von
                             der Freiheit eines Christenmenschen</hi>, WA 7, 21,1f.</bibl>: «Eyn
                         Christen mensch ist eyn freyer herr über alle ding und niemandt
                         unterthan.»</note> Auch die <pb ed="A" rend="hidden" n="11"/> <term type="Sachen" key="Zehn Gebote, Abschaffung">Zehn Gebote</term> seien
                     abgeschafft, hat <persName ref="kbga-actors-272">Melanchthon</persName> erklärt, Gott verlange vom Menschen nur Eines,
                     nämlich die innere <term type="Sachen" key="Gerechtigkeit, des Glaubens">Gerechtigkeit</term> des Glaubens.<note xml:id="n13">
-                            <bibl corresp="kbga-bibls-2808">«Necesse est itaque fateri decalogum etiam antiquatum esse» (<hi rend="i">Die
+                            <bibl corresp="kbga-bibls-2808">«Necesse est itaque fateri decalogum etiam antiquatum esse» (<hi rend="italic">Die
                             Loci Communes Philipp Melanchthons in ihrer Urgestalt</hi>, nach
                         G. Plitt, neu hrsg. von Th. Kolde, Leipzig 1900, S. 206</bibl>[Abschnitt: De
                         discrimine veteris ac novi testamenti item de abrogatione legis»]); dt.:
@@ -452,7 +454,7 @@
                         oder ist, bringt und das Lob der Gerechtigkeit. Vielmehr allein der
                         Glaube an die Barmherzigkeit und Gnade Gottes in Jesus Christus ist die
                         Gerechtigkeit.» Deutsche Übersetzung nach: <bibl corresp="kbga-bibls-2720">
-                                <persName ref="kbga-actors-272">Ph. Melanchthon</persName>, <hi rend="i">Grundbegriffe
+                                <persName ref="kbga-actors-272">Ph. Melanchthon</persName>, <hi rend="italic">Grundbegriffe
                             der Glaubenslehre (Loci Communes) 1521</hi>, ins Deutsche
                         übertragen von Fr. Schad, München 1931, S. 194 bzw. 132</bibl>.</note> Was
                     nicht aus <pb xml:id="p463" ed="pga"/> diesem Glauben komme, notwendig und
@@ -499,8 +501,8 @@
                         Reichstag von Worms 1521 seine Widerrufsverweigerung abgeschlossen haben
                         soll: «Ich kan nicht anderst, hie stehe ich, Got helff mir, Amen» (<bibl corresp="kbga-bibls-1980">WA 7,
                         838,9</bibl>). Vgl. dazu <bibl corresp="kbga-bibls-2721">
-                                <persName ref="kbga-actors-9283">K. Müller</persName>, <hi rend="i">Luthers Schlußworte in Worms 1521</hi>,
-                        in: A. Harnack u. a. (Hrsg.), <hi rend="i">­Philothesia. Festschrift für P.
+                                <persName ref="kbga-actors-9283">K. Müller</persName>, <hi rend="italic">Luthers Schlußworte in Worms 1521</hi>,
+                        in: A. Harnack u. a. (Hrsg.), <hi rend="italic">­Philothesia. Festschrift für P.
                             Kleinert</hi>, Berlin 1907, S. 269–289</bibl>.</note> sondern wir
                     können sehr wohl auch anders. Das Gesetz und die Regel unsres innern <term type="Sachen" key="Leben, inneres">Lebens</term> ist die Halbheit, weil
                     wir deutlich spüren, dass auch die Autoritäten, denen wir gehorchen, nur
@@ -511,7 +513,7 @@
                     beugt, und zwar nicht halb, sondern ganz.</p>
                 <p> Das Wesen des <term type="Sachen" key="Gesetz, göttliches">Gottesgesetzes</term> erkennen wir dann recht, wenn wir verstehen, was
                         <persName ref="kbga-actors-8959">Jakobus</persName> meint, wenn er es das
-                        <hi rend="i">königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term></hi> nennt. Er will damit sagen: Es ist das Gesetz,
+                        <hi rend="italic">königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term></hi> nennt. Er will damit sagen: Es ist das Gesetz,
                     das für Könige gilt, dem die Könige unterworfen sind. Das war für die
                     Begriffe des <term type="Sachen" key="Altertum">Altertums</term> ein heller
                     Widerspruch: Gesetz und König, wie es noch heute in den wenigen absoluten
@@ -523,8 +525,8 @@
                     und dringender als alle Gesetze und Paragraphen, denen ihre Untertanen
                     gehorchen müssen. Denn es ist das innere Gesetz, das ihnen sagt, wozu sie da
                     sind, nämlich zum Wohl und Heil der Andern, die ihnen anvertraut sind.
-                        <hi rend="i">Liebe deinen <term type="Sachen" key="Nächstenliebe">Nächsten</term></hi>
-                    <hi rend="i">wie dich selbst</hi>, das ist das königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term>, das ist das große <term type="Sachen" key="Gesetz, göttliches">Gottesgesetz</term>, das man in
+                        <hi rend="italic">Liebe deinen <term type="Sachen" key="Nächstenliebe">Nächsten</term></hi>
+                    <hi rend="italic">wie dich selbst</hi>, das ist das königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term>, das ist das große <term type="Sachen" key="Gesetz, göttliches">Gottesgesetz</term>, das man in
                     keine Paragraphen fassen kann, weil es unendlich viel mehr fordert als
                     unsern Gehorsam <pb xml:id="p465" ed="pga"/> gegen diese oder jene Bestimmung,
                     weil es uns selbst, unser Herz, unsern Willen, unsre Ge<pb ed="A" rend="hidden" n="13"/>sinnung fordert. Und nun ist dies Gottesgesetz ein Ganzes. Es
@@ -535,7 +537,7 @@
                     dienstbarer Knecht aller Dinge ist und jedermann untertan.<note xml:id="n16">
                         <bibl corresp="kbga-bibls-1302">
                                 <persName ref="kbga-actors-261">Luther</persName>,
-                            <hi rend="i">Freiheit</hi> (Anm. 12), 21,3-4</bibl>: «Eyn Christen mensch ist
+                            <hi rend="italic">Freiheit</hi> (Anm. 12), 21,3-4</bibl>: «Eyn Christen mensch ist
                         eyn dienstpar knecht aller ding und yderman unterthan.»</note> Seine
                         <term type="Sachen" key="Freiheit, des Christenmenschen">Freiheit</term>
                     ist die Freiheit der <term type="Sachen" key="Verantwortlichkeit">Verantwortlichkeit</term>, weil er weiß, dass eine Freiheit der
@@ -552,7 +554,7 @@
                                 Büchmann, S. 432</bibl>.</note>
                     </p>
                 <p>Das ist das königliche Gottesgesetz, königlich, weil es Wahrheit ist von
-                    innen heraus und weil es uns <hi rend="i">ganz</hi> in Anspruch nimmt, nicht nur
+                    innen heraus und weil es uns <hi rend="italic">ganz</hi> in Anspruch nimmt, nicht nur
                     einzelne, wenige oder viele unsrer Handlungen und Gedanken, sondern uns
                     selbst. Es sagt uns: Du wirst dann ein Mensch und eine <term type="Sachen" key="Persönlichkeit">Persönlichkeit</term>, wenn du rückhaltlos dich
                     selbst als Mittel brauchst, andre zu Menschen und Persönlichkeiten zu
@@ -572,7 +574,7 @@
                     deinen Nächsten wie dich selbst.» [<ref type="can" subtype="bible" target="Gal.5.13 Gal.5.14">Gal. 5,13f.</ref>] Da sagt es uns wieder <persName ref="kbga-actors-261">Luther</persName>, dass Gottes <term type="Sachen" key="Gerechtigkeit, von Gott geforderte">Gerechtigkeit</term>, die er von uns fordert, darin besteht, dass seine
                     Güter fließen aus Einem in den Andern und allgemein werden, dass ein
                     Jeglicher sich seines Nächsten also annehme, als wäre er es selbst.<note xml:id="n18">Vgl. <bibl corresp="kbga-bibls-1302">
-                                <persName ref="kbga-actors-261">Luther</persName>, <hi rend="i">Freiheit</hi> (Anm. 12), 37,32–34</bibl>:
+                                <persName ref="kbga-actors-261">Luther</persName>, <hi rend="italic">Freiheit</hi> (Anm. 12), 37,32–34</bibl>:
                         «Sihe also mussen gottis gutter fliessen auß eynem yn den andern und
                         gemeyn werden, das ein yglicher sich seynis nehsten annehm, als were erß
                         selb.»</note> Da ist <persName ref="kbga-actors-216">Immanuel Kant</persName>, der es mit einer Deutlichkeit, wie sie vielleicht seit
@@ -580,12 +582,12 @@
                     zur Wahrheit nur der Weg der <term type="Sachen" key="Pflicht">Pflicht</term> sein kann, die uns beugt unter das Gesetz des
                     unsichtbaren sittlichen Reiches der <term type="Sachen" key="Gesetz, des sittlichen Reiches der Freiheit">Freiheit</term>, das
                     allen gemeinsam ist und das Alle miteinander verbinden soll.<note xml:id="n19">Vgl. <bibl corresp="kbga-bibls-645">
-                                <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="i">Kritik der praktischen
+                                <persName ref="kbga-actors-216">I. Kant</persName>, <hi rend="italic">Kritik der praktischen
                             Vernunft</hi>, Akademie-Ausgabe, Bd. 5, Berlin 1913,
                         S. 1–163, dort S. 82</bibl>: «Das moralische Gesetz ist […] für
                         den Willen jedes endlichen vernünftigen Wesens aber ein Gesetz der
-                            <hi rend="i">Pflicht</hi>, der moralischen Nötigung und der Bestimmung
-                        der Handlungen desselben durch <hi rend="i">Achtung</hi> für dies Gesetz und
+                            <hi rend="italic">Pflicht</hi>, der moralischen Nötigung und der Bestimmung
+                        der Handlungen desselben durch <hi rend="italic">Achtung</hi> für dies Gesetz und
                         aus Ehrfurcht für seine Pflicht […]. Wir sind zwar gesetzgebende
                         Glieder eines durch Freiheit möglichen, durch praktische Vernunft uns
                         zur Achtung vorgestellten Reichs der Sitten, aber doch zugleich
@@ -594,19 +596,19 @@
                     Große, nur von Wenigen recht Verstandene, der die Menschengeister lehren
                     wollte, sich selber suchen und finden nicht in ihren eigenen kleinen und
                     kleinlichen Kreisen, sondern im Universum der Geister, das uns im Spiegel
-                    der Vielen den Einen zeigt, welcher <hi rend="i">der</hi> Geist und
-                        <hi rend="i">die</hi>
+                    der Vielen den Einen zeigt, welcher <hi rend="italic">der</hi> Geist und
+                        <hi rend="italic">die</hi>
                     <term type="Sachen" key="Wahrheit">Wahrheit</term> ist.<note xml:id="n20"> Wohl eine Anspielung auf die im ersten Abschnitt der
                         Monologen ausgeführte Unterscheidung von «gemeiner», «äußerlicher»,
                         «knechtender» und «innerlicher Selbstbetrachtung», die «befreit»
                         (Kolumnentitel in: <bibl corresp="kbga-bibls-495">
-                                <hi rend="i">Friedrich Schleiermacher’s Monologen.
+                                <hi rend="italic">Friedrich Schleiermacher’s Monologen.
                             Kritische Ausgabe</hi>, hrsg. von Fr. M. Schiele [PhB 84], Leipzig
                         1902, S. 12–15)</bibl>: «Nur für den giebts Freiheit und Unendlichkeit,
                         der weiss was Welt ist und was Mensch, […]. Mir ist der Geist das
                         erste und das einzige: denn was ich als Welt erkenne, ist sein schönstes
                         Werk, sein selbstgeschaffener Spiegel » (<bibl corresp="kbga-bibls-495">a.a.O.</bibl>; vgl. Kritische Gesamtausgabe, Abt. I, <bibl corresp="kbga-bibls-497">Bd. 3:
-                            <hi rend="i">Schriften aus der Berliner Zeit</hi>, hrsg. von G.
+                            <hi rend="italic">Schriften aus der Berliner Zeit</hi>, hrsg. von G.
                         Meckenstock, Berlin / New York 1988, S. 1–61, dort
                         S. 9).</bibl>, hrsg. von G.
                         Meckenstock, Berlin / New York 1988, S. 1–61, dort
@@ -622,7 +624,7 @@
                     freien, starken Menschen ist. Es bedarf dazu eines «Zauberschlages», wie
                         <persName ref="kbga-actors-360">Schleiermacher</persName> das einmal genannt hat,<note xml:id="n21">Vgl. <bibl corresp="kbga-bibls-2723">
                                 <persName ref="kbga-actors-360">ders.</persName>,
-                            <hi rend="i">Monologen. Eine Neujahrsgabe, (2.–) 4. Ausgabe</hi>,
+                            <hi rend="italic">Monologen. Eine Neujahrsgabe, (2.–) 4. Ausgabe</hi>,
                         Kritische Gesamtausgabe, Abt. 1, Bd. 12, hrsg. von G. Meckenstock,
                         Berlin / New York 1995, S. 323–393, dort S. 378</bibl>: «So ists gewiß
                         auch ihr, wo sie auch sein mag, die so geartet ist, daß sie mich lieben,
@@ -640,7 +642,7 @@
                     Weg zum Leben wirklich über <placeName ref="kbga-places-405">Golgatha</placeName> führt, durch den Verzicht, durch das <term type="Sachen" key="Opfer">Opfer</term> für die <term type="Sachen" key="Stellvertretung">Andern</term>, <pb ed="A" rend="hidden" n="15"/> wie
                     Jesus es dargebracht hat. Es muss uns durch ein Wunder deutlich werden, dass
                     Gottes <term type="Sachen" key="Gesetz, göttliches">Gesetz</term> nicht dies
-                    und das ist, nicht etwas, das in unserm Leben <hi rend="i">auch</hi> eine Rolle
+                    und das ist, nicht etwas, das in unserm Leben <hi rend="italic">auch</hi> eine Rolle
                     spielt, wie die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> und das Gesangbuch auf dem Bücherbrett stehen neben
                     allerlei andern Büchern, sondern die verborgene Macht, die uns so lange
                     unruhig und unglücklich macht, bis sie die alleinherrschende Macht auch
@@ -661,7 +663,7 @@
                     brennen» – sagt er – «so ist das Brennen selbst immer der
                     gleiche Vorgang, aber die Flamme ist, je nach der Grundlage des
                     Verbrennungsvorgangs, verschieden in Umfang, Leuchtkraft, Farbe und
-                    Temperatur. <hi rend="i">Man zündet aber die Flamme des zweiten Stoffes an der des
+                    Temperatur. <hi rend="italic">Man zündet aber die Flamme des zweiten Stoffes an der des
                         ersten an</hi>.»<note xml:id="n22">
                         <bibl corresp="kbga-bibls-2719">
                                 <persName ref="kbga-actors-706">Naumann</persName> (Anm. 9),
@@ -684,7 +686,7 @@
                     werden, keinem andern vergleichbar. Denn alle andern Wahrheiten sind nur der
                     Vorhof für die eine große, dass unser inneres <term type="Sachen" key="Leben, inneres">Leben</term> sich sammle und eine aus der
                     Zerstreuung der Selbstsucht zur Ganzheit der Liebe. Wo es zu dieser Ganzheit
-                    kommt unter den Menschen und <hi rend="i">in</hi> den Menschen, da ist Jesus, da
+                    kommt unter den Menschen und <hi rend="italic">in</hi> den Menschen, da ist Jesus, da
                     ist das königliche <term type="Sachen" key="Gesetz, königliches">Gesetz</term>, das wir nötig haben. Wir müssen noch einmal auf diesen
                     Gegenstand zurückkommen. In <pb xml:id="p469" ed="pga"/> dessen gehe du hin und
                     besinne dich, ob du auch schon etwas davon gesehen hast.</p>
@@ -694,7 +696,7 @@
                     zu verstehen und zu behalten!»<note xml:id="n23">
                         <bibl corresp="kbga-bibls-1302">
                                 <persName ref="kbga-actors-261">Luther</persName>,
-                            <hi rend="i">Freiheit</hi> (Anm. 12), 38,12–15 (Schlusswort;
+                            <hi rend="italic">Freiheit</hi> (Anm. 12), 38,12–15 (Schlusswort;
                         modernisierte Fassung)</bibl>.</note>
                     </p>
                     </div>  

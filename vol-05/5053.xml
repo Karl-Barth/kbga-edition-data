@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5053">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Jesaia 42,1-4 (1. Advent)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jesaia 42,1-4 (1. Advent), 29. November 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5053 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 588–600.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5053 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 588–600.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">248</title>
+          <title type="text">Predigt: Jesaia 42,1-4 (1. Advent)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:14+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:14+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -105,7 +107,7 @@
         </div>
         <div type="main">
         <p>Nun sind wir schon wieder in der Adventszeit angekommen, und bald wird die Weihnacht
-               da sein. Aber es wird <hi rend="i">ein merkwürdiges Weihnachtfeiern</hi> sein dies
+               da sein. Aber es wird <hi rend="italic">ein merkwürdiges Weihnachtfeiern</hi> sein dies
                Jahr. Unsere Gedanken werden hinauswandern müssen zu den Millionen von Menschen, die
                sich auch an der Weihnacht zum Kampf gerüstet gegenüberliegen in den Schützengräben.
                Und zu den Tausenden und Abertausenden von Familien, die jetzt Weihnacht feiern
@@ -126,7 +128,7 @@
                anders denken und reden.</p>
         <p>Aber eben, eine arge Oberflächlichkeit wäre es doch, jetzt so zu reden und die
                Weihnacht gering zu achten. Gerade wie es oberflächlich und verkehrt war, wenn man
-               überhaupt da und dort wegen des Krieges Gott angeklagt und mißbilligt hat. <hi rend="i">Gottes Wille</hi> ist ja doch der direkte Gegensatz von dem, wovon
+               überhaupt da und dort wegen des Krieges Gott angeklagt und mißbilligt hat. <hi rend="italic">Gottes Wille</hi> ist ja doch der direkte Gegensatz von dem, wovon
                jetzt die Welt an allen Enden voll ist. Wären wir ihm gehorsam gewesen, so wäre jetzt
                kein Krieg. Uns selbst und nicht ihn müssen wir anklagen. Und das Licht der
                Weihnacht, dem wir jetzt wieder entgegengehen dürfen, verheißt uns doch gerade, daß
@@ -146,9 +148,9 @@
                 diese jetzige Welt triumphieren wird. Indem Gott es jetzt wieder Weihnacht werden
                läßt über uns armen, verwirrten, verlorenen Menschen, führt er uns aus aller Not und
                allem Grauen des Tages hin zu dem Bilde Jesu und sagt uns als Antwort auf alle unsere
-               Seufzer und Klagen, als Antwort auf all unser Sündigen und Leiden: <hi rend="i">Siehe, das ist mein Knecht, den ich aufrecht halte, und mein Auserwählter, an dem meine Seele Wohlgefallen hat. Ich habe ihm meinen Geist gegeben; er wird das Recht unter die Völker bringen</hi>.</p>
-        <p>Oder wollen wir <hi rend="i">anderswo eine Antwort</hi> und einen Ausweg suchen? Die
-               kämpfenden Völker warten jetzt auf den <hi rend="i">Sieg</hi> ihrer Heere. Sie sagen:
+               Seufzer und Klagen, als Antwort auf all unser Sündigen und Leiden: <hi rend="italic">Siehe, das ist mein Knecht, den ich aufrecht halte, und mein Auserwählter, an dem meine Seele Wohlgefallen hat. Ich habe ihm meinen Geist gegeben; er wird das Recht unter die Völker bringen</hi>.</p>
+        <p>Oder wollen wir <hi rend="italic">anderswo eine Antwort</hi> und einen Ausweg suchen? Die
+               kämpfenden Völker warten jetzt auf den <hi rend="italic">Sieg</hi> ihrer Heere. Sie sagen:
                es wird Alles gut sein, wenn wir unser Recht behauptet und den Gegner niedergerungen
                haben. Dann ist ein dauerhafter Friede möglich, und <placeName ref="kbga-places-204">Europa</placeName> hat Ruhe. Hunderttausende
                hoffen jetzt in dieser Adventszeit auf den Frieden, der durch den Sieg erlangt werden
@@ -171,7 +173,7 @@
                <pb xml:id="p591" ed="pga"/>
                 auch die Kriegsrüstungen wieder beginnen, die dereinst die Vergeltung ermöglichen
                sollen.</p>
-        <p>Andere erwarten das Heil von einer allgemeinen <hi rend="i">Revolution</hi>, von
+        <p>Andere erwarten das Heil von einer allgemeinen <hi rend="italic">Revolution</hi>, von
                einer Erhebung der Völker gegen ihre Regierungen, die sie in den Krieg geführt haben.
                Es hat keinen Wert, darüber zu reden, ob so etwas möglich wäre. Sicher ist, daß es
                nicht gut wäre, daß auch das keine Antwort wäre auf die Frage, die jetzt aus
@@ -189,7 +191,7 @@
                wohl die Zustände verändern würde, aber nicht die Menschen, und weil sie selber ein
                Meer von Bitterkeit und Verbrechen entfesseln würde.</p>
         <p>Und unsere katholischen Mitchristen sagen jetzt, die Völker und die Menschen sollten
-               der <hi rend="i">Kirche</hi> wieder Untertan werden. Das heutige Unglück sei eine
+               der <hi rend="italic">Kirche</hi> wieder Untertan werden. Das heutige Unglück sei eine
                Strafe für den Abfall von Rom, und vom <orgName ref="kbga-actors-8736">Stuhle Petri</orgName> aus werde das Wort und die Kraft
                des wirklichen Friedens in die Welt hinausgehen. Ein Mann ist Papst geworden,<note xml:id="n03">
                             <persName ref="kbga-actors-6497">Benedikt XV.</persName> (<date from="1914" to="1922">1914–1922</date>).</note> der hauptsächlich als
@@ -209,7 +211,7 @@
                sondern tiefer hineinführen in die Nacht menschlicher Schlauheiten und
                Gewaltsamkeiten, in der wir ohnehin schon so ratlos und hilflos umhertappen.</p>
         <p>Sondern nun sagt uns Gott selber, sagt es uns in dieser Adventszeit, damit wir unsere
-               Herzen vorbereiten auf eine rechte, ernste, gesegnete Weihnacht: <hi rend="i">Siehe,
+               Herzen vorbereiten auf eine rechte, ernste, gesegnete Weihnacht: <hi rend="italic">Siehe,
                   das ist mein Knecht!</hi> Jesus! Der wird das Recht unter die Völker bringen. Der
                wird die arme seufzende Welt erlösen. Jesus! Wer ist das? Keine Kriegsmacht. All den
                Millionen von Soldaten der Völker der Erde hat er keinen einzigen entgegenzustellen.
@@ -240,7 +242,7 @@
                ihm seinen Geist gegeben hat. Das ist Alles. Das ist seine Macht. Das ist wenig,
                nicht wahr? Und das ist der, den Gott uns gezeigt als seinen Knecht. Wird er die Welt
                erlösen?</p>
-        <p>Wir wollen jetzt hören, wie dieser Knecht Gottes arbeitet. — <hi rend="i">Er wird
+        <p>Wir wollen jetzt hören, wie dieser Knecht Gottes arbeitet. — <hi rend="italic">Er wird
                   nicht schreien noch rufen, und seine Stimme wird man nicht hören auf den
                   Gassen</hi>: Als eine verborgene, stille Macht geht er durch die Welt. Er will
                nicht reden und von sich reden machen, er will nur angenommen sein. Er drängt sich
@@ -258,13 +260,13 @@
                Stärker als die Maschinen und als das Geld. Stärker als die stärksten Netze und
                Ketten der Politik. Er ist der Geist der Wahrheit. Hat nicht Jesus die Wahrheit
                entdeckt, daß ein Vater über uns allen und über jedem von uns ist und daß wir alle
-               Brüder sind? Das <hi rend="i">ist</hi> doch einfach die Wahrheit, und alles Andere,
+               Brüder sind? Das <hi rend="italic">ist</hi> doch einfach die Wahrheit, und alles Andere,
                was die Menschen denken und sinnen und tun, ist Lüge daneben. Sie mögen lange denken
                und sagen: die Welt ist eine Welt der Sorge und des Verdrusses und der Tränen, und es
                kann nicht anders sein — es ist doch einfach nicht wahr: der Vater herrscht in der
                Welt und hält seine Hand über jedes seiner Kinder. Sie mögen lange sagen: wir müssen
                Unrecht tun, und Not kennt kein Gebot<note xml:id="n04">Vgl. Predigt 243 vom <date when="1914-10-25">25. Oktober 1914</date>, <ref type="pub" target="5048">S. 532</ref>.
-               </note> — es ist nicht wahr, es ist Lüge. Du weißt, daß es vor dem Vater nur <hi rend="i">ein</hi> Müssen gibt: du mußt ihm gehorchen. Sie mögen lange einander
+               </note> — es ist nicht wahr, es ist Lüge. Du weißt, daß es vor dem Vater nur <hi rend="italic">ein</hi> Müssen gibt: du mußt ihm gehorchen. Sie mögen lange einander
                vernichten und plagen und chicanieren, sie wissen recht gut: ein solches Leben ist
                Unwahrheit, wir sind ja doch alle Brüder. Jesus ist mit dem, was er bringt, stärker
                als alles das, was ihm gegenübersteht. Das Großkapital und der Klassenhaß, der
@@ -302,7 +304,7 @@
                nicht schreien noch rufen, und seine Stimme wird man nicht hören auf den Gassen. Ob
                wir ihn wohl verstehen und aufnehmen werden?</p>
         <p>
-                        <hi rend="i">Das zerstoßene Rohr wird er nicht zerbrechen, und den glimmenden Docht
+                        <hi rend="italic">Das zerstoßene Rohr wird er nicht zerbrechen, und den glimmenden Docht
                   wird er nicht auslöschen</hi>. Jesus ist nicht eine Kraft des Hasses, des Kampfes,
                der Zerstörung, er ist die Kraft der Aufrichtung, des Trostes, des Verbindens und
                Heilens, die Kraft der Gemeinschaft. Jesus sieht uns still zu, wie wir es machen und
@@ -368,7 +370,7 @@
                glimmenden Docht wird er nicht auslöschen. Er wartet, ob wir wohl herauskommen wollen
                aus unseren Mauslöchern und Sackgassen, ob wir mit ihm von der Liebe Gottes aus durch
                die Welt wandern wollen.</p>
-        <p>Und — <hi rend="i">er wird nicht ermatten und nicht zusammenbrechen, bis er auf Erden
+        <p>Und — <hi rend="italic">er wird nicht ermatten und nicht zusammenbrechen, bis er auf Erden
                   das Recht gegründet hat</hi>. Das ist das Größte, was uns von Jesus unterscheidet:
                Wir lauten und harten Menschen werden so schnell müde. Wir lärmen und eifern eine
                Zeitlang, wir stürmen eine Strecke weit, wir verwickeln uns tief hinein in irgend
@@ -382,7 +384,7 @@
                mitten im Widersprechen und Urteilen gegen Andere eine große Müdigkeit über dich kam?
                Ach, ich bin des Treibens müde!<note xml:id="n06">Aus <bibl corresp="kbga-bibls-1511">
                                 <persName ref="kbga-actors-136">J. W. von Goethes</persName> Gedicht
-                        «<hi rend="i">Wanderers Nachtlied</hi>» I (1776)</bibl>.</note> Ich habe genug, genug, genug geredet. Ich mag nicht mehr. Wie oft
+                        «<hi rend="italic">Wanderers Nachtlied</hi>» I (1776)</bibl>.</note> Ich habe genug, genug, genug geredet. Ich mag nicht mehr. Wie oft
                schon haben die größten Streitigkeiten und Aufregungen, von denen man hätte meinen
                können, es gehe um Tod und Leben, im Sand geendigt: es hatten alle Teile genug. Ja,
                warum mußte man denn überhaupt streiten!</p>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53036">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 34</title>
         <title type="content">Predigt: Jakobus 1,19-21</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Jakobus 1,19-21, 27. Februar 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53036 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53036 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 34: Predigt: Jakobus 1,19-21</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p364" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>34</idno>
                     </head>
                 
                     <dateline>Sonntag, den <date when="1910-02-27">27. Februar 1910</date>,
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName> <date rend="right">(Sonntag Oculi)</date> 
+                            <hi rend="italic">Genf</hi></placeName> <date rend="right">(Sonntag Oculi)</date> 
                     </dateline>
                     <epigraph>
                         <cit>
@@ -107,11 +109,11 @@
                     wolle. Nicht der Zorn dürfe diese innere Verfassung sein, meint Jakobus,
                     sondern die Sanftmut. Wir werden gleich sehen, was diese Dinge zu bedeuten
                     haben. Zunächst redet er von etwas Anderem, das scheinbar nichts damit zu
-                    tun hat. Er ermahnt nämlich seine Zuhörer oder Leser, <hi rend="i">schnell</hi>,
-                    d. h. bereit zu sein <hi rend="i">zum Hören</hi>, aber <hi rend="i">langsam</hi>,
-                    d. h. zurückhaltend <hi rend="i">zum Reden</hi>. Offenbar hat er Menschen
+                    tun hat. Er ermahnt nämlich seine Zuhörer oder Leser, <hi rend="italic">schnell</hi>,
+                    d. h. bereit zu sein <hi rend="italic">zum Hören</hi>, aber <hi rend="italic">langsam</hi>,
+                    d. h. zurückhaltend <hi rend="italic">zum Reden</hi>. Offenbar hat er Menschen
                     gekannt, bei denen das Gegenteil der Fall war, Menschen, die umgekehrt wenig
-                    auf dem ruhigen Hören hielten, aber sehr viel auf dem Reden. Und offen<pb xml:id="p365" ed="pga"/>bar setzt er ähnliche Neigungen voraus bei denen, an
+                    auf dem ruhigen Hören hielten, aber sehr viel auf dem Reden. Und offen<pb xml:id="p365" ed="pga" break="no"/>bar setzt er ähnliche Neigungen voraus bei denen, an
                     die er seine Worte richtet. Nicht von Menschen im Allgemeinen,
                     wohlverstanden, nicht von <term type="Sachen" key="Heiden / Heidentum">Heiden</term> hat er da geredet, sondern von Christen. Meint ihr nicht
                     auch, es sei eine merkwürdige Eigenschaft nicht nur der Großstadt-Menschheit
@@ -136,8 +138,8 @@
                     Es sei nichts mit der Einsamkeit des Glaubens ohne die Gemeinsamkeit des
                     Lebens. Das <term type="Sachen" key="Christentum, Glaube und Leben">Christentum</term> sei nicht ein stiller Genuss des einzelnen Menschen,
                     sondern es müsse sich sofort bewähren und betätigen in der mannigfaltigen
-                    Bewegtheit der menschlichen <term type="Sachen" key="Christentum, Einsamkeit und Gemeinschaft">Gemeinschaft</term>.<note xml:id="n03">In seinem Brief an Fr. Zulauf vom 27.1.1910 (<idno type="kba-objects-identifier">KBA
-                        9210.118</idno>) hatte Barth, nachdem er sich für die Zusendung der
+                    Bewegtheit der menschlichen <term type="Sachen" key="Christentum, Einsamkeit und Gemeinschaft">Gemeinschaft</term>.<note xml:id="n03">In seinem Brief an Fr. Zulauf vom 27.1.1910 
+                        (<idno type="kba-objects-identifier">KBA 9210.118</idno>) hatte Barth, nachdem er sich für die Zusendung der
                         angesprochenen Predigt bedankt hatte, unter anderem ausgeführt: «Doch
                         nun von der äußern Methode zu etwas Zentralerem, zu Deinen
                         Auseinandersetzungen über Stadt und Land in und außerhalb der Predigt.
@@ -146,7 +148,7 @@
                         zu sein scheint. Die Stimmung ‚o beata solitudo, sola beatitudo‘ hat ihr
                         gutes Recht, aber man darf nicht so tun, als ob sie effektiv die
                         Priorität hätte im Leben der Religion gegenüber dem Wirken in der
-                        Gemeinschaft. Ich glaube <hi rend="i">nicht</hi>, dass Jesus immer am
+                        Gemeinschaft. Ich glaube <hi rend="italic">nicht</hi>, dass Jesus immer am
                         liebsten allein gewesen wäre; auch mit Deinem vorsichtigen ‚vielleicht‘
                         muss das, wenn Du es öfters bringst, solche Vorstellungen über das Wesen
                         der christlichen Religion erwecken.»</note> Aber darin hat <pb xml:id="p366" ed="pga"/> mein Freund zweifellos recht, dass der Mangel an Einsamkeit,
@@ -178,7 +180,7 @@
                     geht der Mund am leichtesten über [vgl. <ref type="can" subtype="bible" target="Mt.12.34">Mt. 12,34</ref> par.]. Die <term type="Sachen" key="Versuchung">Versuchung</term> und die Gefahr ist für alle Menschen
                     da, die <term type="Sachen" key="Worte / das Reden">Worte</term> als eine
                     verhüllende Nebelwolke zu gebrauchen, hinter denen sich gewisse Nullpunkte
-                    unsres innern Lebens so angenehm verstecken lassen. Dieser <term type="Sachen" key="Worte / das Reden, Nebelwolken">Nebelwolken-Gebrauch</term>, den wir von den Wor<pb xml:id="p367" ed="pga"/>ten machen, ist aber nirgends beliebter als auf dem Gebiet der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>, und wiederum
+                    unsres innern Lebens so angenehm verstecken lassen. Dieser <term type="Sachen" key="Worte / das Reden, Nebelwolken">Nebelwolken-Gebrauch</term>, den wir von den Wor<pb xml:id="p367" ed="pga" break="no"/>ten machen, ist aber nirgends beliebter als auf dem Gebiet der <term type="Sachen" key="Frömmigkeit">Frömmigkeit</term>, und wiederum
                     sind’s die Menschenmassen der großen Städte, die für fromme <term type="Sachen" key="Redseligkeit, fromme">Redseligkeit</term> ein
                     besonders fruchtbarer Nährboden sind. Reden, verständig und interessant
                     reden über Religion, das tritt für uns nur zu leicht an Stelle der <term type="Sachen" key="Religion">Religion</term> selbst. Die Formen, in
@@ -237,9 +239,9 @@
                         <term type="Sachen" key="Religion, Bewährung">bewähren</term> und
                     betätigen, nicht abseits von unsrem Leben, nicht in den Ferien, nicht im
                     Hochgebirge, sondern mitten drin in den Leiden und Freuden unsrer Tätigkeit.
-                    Ich sage, es kommt darauf an, dass wir <hi rend="i">da</hi> schnell werden zum
+                    Ich sage, es kommt darauf an, dass wir <hi rend="italic">da</hi> schnell werden zum
                         <term type="Sachen" key="Hören / Zuhören">Hören</term>, wie <persName ref="kbga-actors-8959">Jakobus</persName> sich ausdrückt. Und die
-                    Dinge stehen so, dass gerade <hi rend="i">da</hi> die heilsame <term type="Sachen" key="Einsamkeit, heilsame">Einsamkeit</term> möglich und
+                    Dinge stehen so, dass gerade <hi rend="italic">da</hi> die heilsame <term type="Sachen" key="Einsamkeit, heilsame">Einsamkeit</term> möglich und
                     wirklich werden kann, von der eins unsrer Kirchenlieder redet:</p>
                     <q rend="block">
                         <lg>
@@ -275,7 +277,7 @@
                     aufmerken, wenn uns nun in einem solchen, in seiner ganzen Art zu handeln
                     und zu reden, etwas von der Freundlichkeit <term type="Sachen" key="Gott, Freundlichkeit">Gottes</term> entgegentritt. Und so beginnt
                     dann unser inneres, unser religiöses <term type="Sachen" key="Leben, religiöses">Leben</term> in aller Bescheidenheit damit, dass
-                    wir <hi rend="i">empfangen</hi>, wie es seiner Art und seinem Inhalt nach ein
+                    wir <hi rend="italic">empfangen</hi>, wie es seiner Art und seinem Inhalt nach ein
                     Geschenk ist. Ein jeder Mensch sei schnell zum <term type="Sachen" key="Hören / Zuhören">Hören</term>. Prüfe einmal dein inneres Leben
                     daran, ob es ein solches Geschenk ist, das du empfangen hast oder
                     ob’s ein Produkt ist, das du selber irgendwie fertig gebracht hast.
@@ -292,7 +294,7 @@
                     und <term type="Sachen" key="Mensch, Selbstverleugnung">Selbstverleugnung</term> zu stellen, auf dem allein die wirkliche
                     Religion gefunden wird.<note xml:id="n09">Vgl. dazu <bibl corresp="kbga-bibls-2653">
                                 <persName ref="kbga-actors-181">W. Herrmann</persName>,
-                            <hi rend="i">Religion und Sittlichkeit</hi> (Beiträge zur
+                            <hi rend="italic">Religion und Sittlichkeit</hi> (Beiträge zur
                         Weiterentwicklung der christlichen Religion, Lfg. 5), München o. J.
                         [1904], S. 183–202, dort S. 196</bibl>: «Aber eben an dem Anfang der
                         Sittlichkeit allein kann Religion entzündet werden. Sie entsteht daraus
@@ -300,7 +302,7 @@
                         Selbstbesinnung, aus der die sittliche Erkenntnis des Menschen sich
                         entwickelt, ist der Stoff, der in Flammen gesetzt wird, wenn das
                         wunderbare Leben der Religion geboren wird»; <bibl corresp="kbga-bibls-1792">
-                                <persName ref="kbga-actors-181">ders.</persName>, <hi rend="i">Die Religion
+                                <persName ref="kbga-actors-181">ders.</persName>, <hi rend="italic">Die Religion
                             im Verhältniß zum Welterkennen und zur Sittlichkeit. Eine
                             Grundlegung der systematischen Theologie</hi>, Halle 1879, S. 392</bibl>:
                         «Das Ideal einer durch die Nächstenliebe verbundenen Menschheit hat für
@@ -314,7 +316,7 @@
                     Einsamkeit, wird uns nun die Gemeinsamkeit der Menschen zur Gefahr. Weil uns
                     die Wirklichkeit fehlt, greifen wir nach ihren Schattenbildern, d. h. wir
                     fangen an, fromm und interessant über Religion zu reden. Und nun
-                    steht’s eben <hi rend="i">so</hi>: Die Nebelwolken, die wir da entfalten,
+                    steht’s eben <hi rend="italic">so</hi>: Die Nebelwolken, die wir da entfalten,
                     um uns selbst und die andern zu täuschen über das Nichtvorhandensein der
                     Wirklichkeit, diese Nebelwolken unsrer <term type="Sachen" key="Worte / das Reden, Nebelwolken">Worte</term> sind mitnichten ein
                     harmloses Spiel. Sondern <pb ed="A" rend="hidden" n="8"/> wie das Hören und
@@ -351,9 +353,9 @@
                     bekommen.</p>
                 <p>
                         <persName ref="kbga-actors-8959">Jakobus</persName> kann uns dazu zum Führer
-                    dienen. Der Mensch sei <hi rend="i">langsam zum <term type="Sachen" key="Zorn">Zorn</term></hi>, fährt er nämlich fort. Wir fragen uns erstaunt,
+                    dienen. Der Mensch sei <hi rend="italic">langsam zum <term type="Sachen" key="Zorn">Zorn</term></hi>, fährt er nämlich fort. Wir fragen uns erstaunt,
                     was das mit der vorhergehenden Mahnung, langsam zum Reden zu sein, zu tun
-                    habe. Und da fügt er gleich noch hinzu, dass <hi rend="i">des Menschen Zorn nicht
+                    habe. Und da fügt er gleich noch hinzu, dass <hi rend="italic">des Menschen Zorn nicht
                         Gottes Gerechtigkeit tue</hi>, bewirke, erfülle, und stellt dem Zorn<note type="textcritical" n="a" xml:id="na"> Im Mskr. ursprünglich: «Zorn, der Geschäftigkeit» (nachträglich
                             mit Bleistift gestrichen).</note>
                      die <term type="Sachen" key="Sanftmut">Sanftmut</term> gegenüber als
@@ -374,7 +376,7 @@
                             <foreign xml:lang="grc" rend="Ell">ὀργή</foreign> ebenfalls mit «Zorn», fährt
                         aber in Vers 21 fort: «DArumb so leget abe alle Unsauberkeit und alle
                         Bosheit, …» (<bibl corresp="kbga-bibls-2636">WA.DB 7, 391</bibl>).</note> Jakobus hat offenbar Leute
-                    gekannt, die das Evan<pb xml:id="p372" ed="pga"/>gelium mit Gehässigkeit, mit
+                    gekannt, die das Evan<pb xml:id="p372" ed="pga" break="no"/>gelium mit Gehässigkeit, mit
                     Bosheit gegen ihre Nächsten aufnahmen, und er warnt seine Leser und Hörer,
                     es nicht so zu machen. Und wir müssen weiter annehmen, er sei der Ansicht
                     gewesen, zwischen dem raschen Reden und jener gehässigen Gesinnung mancher
@@ -393,13 +395,13 @@
                     dann sofort zum Ausdruck in der Neigung zum schnellen <term type="Sachen" key="Redseligkeit">Reden</term> über diese Gefühle, und die unmittelbare
                     Folge des Ganzen ist ein <term type="Sachen" key="Religion, Illusionsreligiönchen">Illusionsreligiönchen</term> der
                     einen oder der andern Sorte. Sittlich ist allein die Selbstbesinnung, die in
-                    der Frage besteht nach dem, was wir <hi rend="i">sollen</hi>, d. h. in der Frage
+                    der Frage besteht nach dem, was wir <hi rend="italic">sollen</hi>, d. h. in der Frage
                     nach der unbedingten <term type="Sachen" key="Autorität">Autorität</term>,
                     nach der sich unser Wille zu richten hat, wenn er nicht zerflattern will in
                     allerlei gleichigiltigen, wertlosen, subjektiven Wünschen und <term type="Sachen" key="Stimmungen">Stimmungen</term>. Ernstgenommen führt
                     uns nun diese Frage sofort über die enge Begrenztheit unsres eigenen Daseins
                     hinaus. Nur das kann die Autorität sein, die uns nottut, die für
-                        <hi rend="i">alle</hi> gilt und die ebendarum alle miteinander verbindet. Und
+                        <hi rend="italic">alle</hi> gilt und die ebendarum alle miteinander verbindet. Und
                     so ist das die wirkliche, die sittliche Selbstbesinnung, in der der <term type="Sachen" key="Mensch, Selbstbesinnung">Mensch</term> lernt, sein
                     kleines Ich hinter sich lassen und sich dem Gesetze unterwerfen, das ihn auf
                     die andern Menschen, auf seine Brüder hinweist, auf die <term type="Sachen" key="Mensch, und Menschheit">Menschheit</term>, der er angehören soll
@@ -407,7 +409,7 @@
                 
                 <p> <pb rend="noPipe" xml:id="p373" ed="pga"/> Aber es ist eine schwere und seltene Sache um eine solche Selbstbesinnung.
                     Uns Allen liegt eine andre Art viel näher, die nämlich, die bei dem Worte
-                    Selbstbesinnung das <hi rend="i">Selbst</hi> unterstreicht und die darum in
+                    Selbstbesinnung das <hi rend="italic">Selbst</hi> unterstreicht und die darum in
                     dieser oder jener Weise im Kleinmenschlichen stecken bleibt. Wir vermeiden
                     es, ernst zu machen mit der Autorität, die uns über uns selbst hinausweist;
                     wir schieben, vielleicht ohne uns Gedanken darüber zu machen, unsre kleinen
@@ -422,7 +424,7 @@
                     setzt. Erstens der Tatsache, dass wir keine Freude haben am <term type="Sachen" key="Hören / Zuhören">Hören</term>, am Empfangen, sondern
                     dass wir anfangen, über <term type="Sachen" key="Worte / das Reden, religiöses Geschwätz">Religion</term> zu
                     schwatzen. Denn der Egoismus ist im tiefsten Grunde ebenso sehr
-                        Selbst<hi rend="i">sucht</hi> wie <term type="Sachen" key="Egoismus, Selbstgenügsamkeit">Selbst<hi rend="i">genügsamkeit</hi></term>, und den luftleeren Raum, der
+                        Selbst<hi rend="italic">sucht</hi> wie <term type="Sachen" key="Egoismus, Selbstgenügsamkeit">Selbst<hi rend="italic">genügsamkeit</hi></term>, und den luftleeren Raum, der
                     durch diese falsche Genügsamkeit in uns entsteht, suchen wir dann
                     auszufüllen durch die Produktion jener <term type="Sachen" key="Worte / das Reden, Nebelwolken">Nebelwolken</term> von frommen
                     Worten. Und die andre Tatsache, die aus dem egoistischen Scheinchristentum
@@ -476,7 +478,7 @@
                     neuerdings als zu hart und unfreundlich beanstandet und deshalb aus neueren
                     Abendmahlsliturgien entfernen wollen.<note xml:id="n11">Vgl.
                         etwa <bibl corresp="kbga-bibls-2655">
-                                <persName ref="kbga-actors-9254">H. Bassermann</persName>, <hi rend="i">Über Reform des Abendmahls. Briefe an
+                                <persName ref="kbga-actors-9254">H. Bassermann</persName>, <hi rend="italic">Über Reform des Abendmahls. Briefe an
                             einen «Laien»</hi>, Tübingen 1904, S. 47</bibl>: «Die Forderung nun, die
                         dort Paulus für die innere Vorbereitung zum Abendmahlsgenuß stellt,
                         […], werden wir wohl ganz gerechtfertigt finden, aber zugleich
@@ -499,7 +501,7 @@
                     teilnimmt, sich einen Christen nennt, allerlei Schönes an seinem Christentum
                     zu haben meint, der tut es sich selber zum Gericht. D. h. die Katastrophe
                     seines innern Lebens, der er in dunkelm Drange<note xml:id="n12">
-                            <bibl corresp="kbga-bibls-647">Anspielung auf  <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="i">Faust. Eine
+                            <bibl corresp="kbga-bibls-647">Anspielung auf  <persName ref="kbga-actors-136">J. W. von Goethe</persName>, <hi rend="italic">Faust. Eine
                             Tragödie</hi> (Prolog im Himmel; V. 324–329)</bibl>:
                             <q rend="block">
                                 <lg>
@@ -518,11 +520,11 @@
                 <p>So ist der Inhalt unsres Textwortes kein andrer als die ernsthafteste
                     Aufforderung, die Voraussetzungen unsres Christentums der gründlichsten
                     Revision zu unterziehen. Es prüfe jeder sich selbst, und
-                        <hi rend="i">hierauf</hi> nehme er teil am Evangelium. Vor rund 40 Jahren hat
+                        <hi rend="italic">hierauf</hi> nehme er teil am Evangelium. Vor rund 40 Jahren hat
                     der bekannte <persName ref="kbga-actors-398">David Friedrich Strauß</persName> ein lächerliches Buch
                     geschrieben über den alten und den neuen Glauben.<note xml:id="n13">
                         <bibl corresp="kbga-bibls-2656">
-                                <persName ref="kbga-actors-398">D. Fr. Strauß</persName>, <hi rend="i">Der alte und der neue Glaube. Ein
+                                <persName ref="kbga-actors-398">D. Fr. Strauß</persName>, <hi rend="italic">Der alte und der neue Glaube. Ein
                             Bekenntnis</hi>, Bonn 1873<hi rend="sup">4</hi>.</bibl>
                         </note> In diesem
                     Buch ist aber eins sehr gut <pb xml:id="p376" ed="pga"/> und nachahmenswert,
@@ -534,12 +536,12 @@
                     der in jenem Kapitel allerlei christliche <term type="Sachen" key="Dogmen">Dogmen</term> mit den Ergebnissen der modernen <term type="Sachen" key="Astronomie">Astronomie</term> und <term type="Sachen" key="Zoologie">Zoologie</term> vergleicht und deshalb zur Antwort kommt,
                     wir seien keine Christen mehr. Ich bitte euch, was haben die Dogmen, die
                     Astronomie und die Zoo<pb ed="A" rend="hidden" n="14"/>logie mit dem <term type="Sachen" key="Christentum">Christentum</term> zu tun? Nein,
-                        <hi rend="i">dann</hi> ist jene Frage trefflich und sachgemäß, wenn wir
+                        <hi rend="italic">dann</hi> ist jene Frage trefflich und sachgemäß, wenn wir
                     unsern innern Zustand, die Motive und Intentionen, die im letzten Grunde
                     unser Leben regieren, vergleichen mit der Wahrheit und der Liebe, die wir im
                     Charakterbild <term type="Sachen" key="Jesus Christus, Charakter">Jesu</term>, wie das Neue <term type="Sachen" key="Neues Testament">Testament</term> es zeichnet, in aller wünschenswerten Deutlichkeit vor
                     uns haben.<note xml:id="n15">Vgl. <bibl corresp="kbga-bibls-1792">
-                                <persName ref="kbga-actors-181">Herrmann</persName>, <hi rend="i">Religion und
+                                <persName ref="kbga-actors-181">Herrmann</persName>, <hi rend="italic">Religion und
                             Sittlichkeit</hi> (Anm. 7), S. 201</bibl>: «Dass wir es hier mit keinem
                         Kunstprodukt, sondern mit der Offenbarung einer Person zu tun haben, die
                         allen Menschen gegenüber eine schöpferische Macht, der Herr ist,
@@ -553,7 +555,7 @@
                         wird, alles tut und trägt, um uns davon zu überzeugen, dass die Macht
                         sittlicher Güte uns nicht so verderben will, wie wir es in der Pein des
                         Schuldgefühls zu erfahren meinen, sondern uns retten und für sich
-                        gewinnen will.»</note> Und wenn wir <hi rend="i">diesen</hi> Vergleich
+                        gewinnen will.»</note> Und wenn wir <hi rend="italic">diesen</hi> Vergleich
                     antreten mit der Frage: Sind wir noch Christen?, wenn wir dann der <term type="Sachen" key="Christen, Lieblosigkeit">Lieblosigkeit</term> und
                         <term type="Sachen" key="Christen, Unwahrhaftigkeit">Unwahrhaftigkeit</term> gewahr werden, die auf dem verborgenen Grunde
                     unsres Christentums ihr heuchlerisches Spiel treibt, dann kann uns nichts
@@ -602,7 +604,7 @@
                     Empfänglichkeit geweckt hat, so hat unser inneres Leben Ewigkeitswert. Das
                     in uns gepflanzte Wort errettet dann unsre Seelen. Nun wir denn sind gerecht
                     geworden durch <pb xml:id="p378" ed="pga"/>
-                    <hi rend="i">den</hi> Glauben, so haben wir Frieden mit Gott durch unsern Herrn
+                    <hi rend="italic">den</hi> Glauben, so haben wir Frieden mit Gott durch unsern Herrn
                     Jesum Christum [<ref type="can" subtype="bible" target="Röm.5.1">Röm. 5,1</ref>].
                     Einen andern Weg gibt es nicht.</p>
                 </div>  

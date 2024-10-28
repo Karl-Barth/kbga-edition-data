@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-5028">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-05">Predigten 1914</title>
         <title type="content">Predigt: Psalm 8,5-10 und Matthäus 16,26</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Psalm 8,5-10 und Matthäus 16,26, 7. Juni 1914</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5028 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula, Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 287–301.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/5028 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1914, hrsg. v. Fähler, Ursula / Fähler, Jochen (Gesamtausgabe, Abt. I), Zürich 1999, S. 287–301.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,8 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1914</title>
-          <title type="text">224</title>
+          <title type="text">Predigt: Psalm 8,5-10 und Matthäus 16,26</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Fähler, Ursula</editor>
+          <editor>Fähler, Jochen</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">1999</date>
@@ -68,7 +70,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:47+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:47+02:00</change>
+      <change when="2024-10-28T10:45:13+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:13+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -82,10 +84,10 @@
           <dateline>
                         <placeName ref="kbga-places-54">Safenwil</placeName>, Sonntag, den <date when="1914-06-07">7. Juni 1914</date><note xml:id="n01">Eine überarbeitete Fassung dieser Predigt wurde veröffentlicht:
                         <bibl corresp="kbga-bibls-1533">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Landesausstellung</hi>,
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Landesausstellung</hi>,
                            in: Neue Wege. Blätter für religiöse Arbeit
                            (Redaktion: <persName ref="kbga-actors-8709">J. Matthieu</persName>, <persName ref="kbga-actors-330">L. Ragaz</persName>, <persName ref="kbga-actors-3565">L. Stückelberger</persName>),
-                              Basel, Jg. 8 (1914), S. 304–313</bibl>. Wiedergabe dieser überarbeiteten Fassung <ref type="pub" target="../volume/05/p301#p301">S. 301ff</ref>.</note>
+                              Basel, Jg. 8 (1914), S. 304–313</bibl>. Wiedergabe dieser überarbeiteten Fassung <ref type="pub" target="../volume/05/p301#p301">S. 301ff.</ref></note>
                     </dateline>
           <epigraph>
             <cit>
@@ -105,7 +107,7 @@
           <salute>Liebe Freunde!</salute>
         </div>
         <div type="main">
-        <p>Denkt, ich möchte heute über <hi rend="i">die <orgName ref="kbga-actors-8708">Schweizerische Landesausstellung</orgName> in
+        <p>Denkt, ich möchte heute über <hi rend="italic">die <orgName ref="kbga-actors-8708">Schweizerische Landesausstellung</orgName> in
                   <placeName ref="kbga-places-9">Bern</placeName></hi> mit euch reden! Wer die beiden vorgelesenen Bibel<pb xml:id="p288" ed="pga" break="no"/>texte aufmerksam mit angehört hat, der weiß eigentlich jetzt schon, was ich darüber
                sagen werde. Aber es könnten doch auch andere da sein, die zum Voraus mit mir
                unzufrieden sind. Die <orgName ref="kbga-actors-8708">Landesausstellung</orgName>! Das ist doch so etwas Weltliches. Davon hört
@@ -116,7 +118,7 @@
                Kraft für die kommende Woche? Was hat uns die <orgName ref="kbga-actors-8708">Landesausstellung</orgName> von Gott zu
                sagen?</p>
         <p>Nun, ich glaube, man kann das auch ein wenig von einer anderen Seite aus ansehen. Das
-               ist freilich wahr: etwas durch und durch <hi rend="i">Weltliches</hi>, Menschliches,
+               ist freilich wahr: etwas durch und durch <hi rend="italic">Weltliches</hi>, Menschliches,
                Natürliches ist diese <orgName ref="kbga-actors-8708">Ausstellung</orgName>, die jetzt so viel von sich reden macht. Da wollen
                die Leute mit Befriedigung und Stolz zeigen, was sie geleistet haben. Da hoffen sie,
                Aufträge zu bekommen aus dem Inland und aus dem Ausland und fortan noch bessere
@@ -150,7 +152,7 @@
         <p>Aber darum hätten wir doch nicht recht, wenn wir als Christenmenschen sagen wollten:
                sie geht uns nichts an, und es ist schade um die Zeit, eine Sonntagspredigt auf sie
                zu verwenden. Was heißt denn «weltlich»? Weltlich ist doch einfach alles das, wonach
-               wir Menschen trachten und streben, <hi rend="i">außer</hi> dem verborgenen und oft so
+               wir Menschen trachten und streben, <hi rend="italic">außer</hi> dem verborgenen und oft so
                schwachen Zug unseres Herzens, der nach dem Reiche Gottes geht. Weltlich ist der
                weitaus größte Teil unseres inneren Lebens, und ich nehme niemand von uns aus, wenn
                ich das sage. <milestone xml:id="m19" unit="page"/>
@@ -207,7 +209,7 @@
                Augen hat, sie zu lesen. Er fand Gott bei den Blumen auf dem Feld [vgl. <ref type="can" subtype="bible" target="Mt.6.28 Mt.6.30">Mt. 6,28–30</ref>] und beim
                habsüchtigen Kaufmann [vgl. <ref type="can" subtype="bible" target="Mt.13.45 Mt.13.46">Mt. 13,45f.</ref>]. Alles Vergängliche wurde ihm ein Gleichnis.<note xml:id="n04">Vgl.
                      <bibl corresp="kbga-bibls-1624">
-                                <persName ref="kbga-actors-136">J. W. v. Goethe</persName>, <hi rend="i">Faust II</hi>, V.
+                                <persName ref="kbga-actors-136">J. W. v. Goethe</persName>, <hi rend="italic">Faust II</hi>, V.
                         12104f.</bibl>: <q rend="block">
                                 <lg xml:space="preserve"> <l xml:space="preserve">Alles Vergängliche</l> <l xml:space="preserve">Ist nur ein Gleichnis.</l></lg>
                             </q>
@@ -223,7 +225,7 @@
                ist aus dem Alten Testament und das Andere aus dem Neuen Testament. Aber wir müssen
                Beides hören.</p>
         <p>Wir wollen die <orgName ref="kbga-actors-8708">Ausstellung</orgName> zuerst ansehen mit den Augen des Mannes, der den 8. Psalm
-               gedichtet hat. Voll Bewunderung und Freude redet er von der <hi rend="i">Größe,
+               gedichtet hat. Voll Bewunderung und Freude redet er von der <hi rend="italic">Größe,
                   die Gott den Menschen gegeben hat</hi>. Ihm ists aufgegangen, wie wunderbar das
                eigentlich ist, daß der kleine, schwache Mensch so inmitten der unendlichen Natur
                leben und sie durch seinen Geist beherrschen darf. Er sieht die ungeheuren Kräfte der
@@ -264,7 +266,7 @@
                zu geben scheint, die jedem Bedürfnis zu genügen, jedes Hindernis zu bewältigen weiß.
                Wie hätte er da erst demütig und begeistert gebetet: Herr unser Herrscher, wie
                herrlich ist dein Name in allen Landen!</p>
-        <p>Nun, <hi rend="i">er</hi> kann es nicht mehr, aber <hi rend="i">wir</hi> können es,
+        <p>Nun, <hi rend="italic">er</hi> kann es nicht mehr, aber <hi rend="italic">wir</hi> können es,
                meine Freunde. Und das ist das Erste, was uns gerade eine solche <orgName ref="kbga-actors-8708">Ausstellung</orgName>, so
                weltlich und menschlich sie ist, zu sagen hat: wie groß ist doch Gott! Wenig war
                jenem Psalmsänger gegeben, um ihm die Herrlichkeit Gottes in der Menschenwelt zu
@@ -337,7 +339,7 @@
                zu hören! Dann wird einmal eine Zeit kommen, wo die Menschen noch viel freudiger und
                völliger bekennen können angesichts ihrer Arbeit und ihrer Leistungen: Herr unser
                Herrscher, wie herrlich ist dein Name in allen Landen!</p>
-        <p>Damit haben wir eigentlich bereits gesagt, daß wir uns <hi rend="i">nicht
+        <p>Damit haben wir eigentlich bereits gesagt, daß wir uns <hi rend="italic">nicht
                   begnügen</hi> dürfen, in die Freudentöne des 8. Psalms über die Größe des Menschen
                und seiner Werke einzustimmen angesichts des Spiegelbildes, das unser Volk sich in
                seiner <orgName ref="kbga-actors-8708">Ausstellung</orgName> gegenwärtig selber vorhält. So wahr es ist, was er uns zu sagen
@@ -355,7 +357,7 @@
                zum Vorschein kommt, nun auch mit den reifen, ruhigen Augen Jesu anzusehen.</p>
         <p>Was hülfe es dem Menschen …! Ja, gibt es denn eine Gefahr
                <pb xml:id="p297" ed="pga"/>
-               <hi rend="i">für unsere Seele</hi> bei all dem herrlichen Geistesstreben und
+               <hi rend="italic">für unsere Seele</hi> bei all dem herrlichen Geistesstreben und
                Arbeiten, bei all der Entfaltung von Wissenschaft und Kunst, Technik und Industrie,
                die unsere Zeit kennzeichnet?, so möchten wir fragen. Jawohl, diese Gefahr ist
                wirklich da, und es ist tatsächlich so, daß bei all dem, was wir vorhin bewundert und
@@ -450,12 +452,12 @@
                gewesen. Wenn sie uns aber diese Fragen recht klar und lebendig macht, dann hat sie
                uns einen großen Dienst getan, den uns vielleicht manche Predigt des Pfarrers daheim
                nicht tun konnte.</p>
-        <p>Sie kann und soll uns unser Welt- und Menschenwesen <hi rend="i">zeigen</hi> in
+        <p>Sie kann und soll uns unser Welt- und Menschenwesen <hi rend="italic">zeigen</hi> in
                seiner Größe — denn es ist groß und herrlich, von Gott stammt ja der Menschengeist,
                der das alles zustande gebracht und der noch viel mehr zustande bringen kann — aber
                auch in seinem Jammer, denn dieser Menschengeist geht immer wieder in die Irre, heute
                vielleicht bei aller Höhe unserer Kultur mehr als je. Und indem sie uns dieses unser
-               eigenes Wesen zeigt, die <orgName ref="kbga-actors-8708">Landesausstellung</orgName>, hilft sie uns, <hi rend="i">darüber
+               eigenes Wesen zeigt, die <orgName ref="kbga-actors-8708">Landesausstellung</orgName>, hilft sie uns, <hi rend="italic">darüber
                   hinaus</hi> zu kommen. Sie weckt in uns die Sehnsucht, den Glauben und die
                Hoffnung nach einer neuen Menschheit, in der alles Weltliche ganz und völlig von
                göttlichem Geist und von göttlicher Kraft durchdrungen sein wird, in der die großen

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-55005">
   <teiHeader>
     <fileDesc>
@@ -6,8 +6,8 @@
         <title type="volume" n="vol-55">Vorträge und kleinere Arbeiten 1935–1937</title>
         <title type="content">Die theologischen Voraussetzungen kirchlicher Gestaltung</title>
         <title type="citation_line_1">Barth, Karl: Die theologischen Voraussetzungen kirchlicher Gestaltung, 1935</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55005 (Stand: 3. April 2024)</title>
-        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius, Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 70–108.</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/55005 (Stand: 28. Oktober 2024)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Vorträge und kleinere Arbeiten 1935–1937, hrsg. v. Kratzert, Lucius / Zocher, Peter (Gesamtausgabe, Abt. III), Zürich 2020, S. 70–108.</title>
       </titleStmt>
       <editionStmt>
         <edition>Digitale Karl Barth-Gesamtausgabe</edition>
@@ -28,7 +28,10 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Vorträge und kleinere Arbeiten 1935–1937</title>
+          <title type="text">Die theologischen Voraussetzungen kirchlicher Gestaltung</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Kratzert, Lucius</editor>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2020</date>
@@ -56,7 +59,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:48+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:48+02:00</change>
+      <change when="2024-10-28T10:45:17+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:17+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -71,7 +74,7 @@
 <placeName ref="kbga-places-822">Myslibořice</placeName> (<placeName ref="kbga-places-824">Mähren</placeName> / <placeName ref="kbga-places-823">Tschechoslowakei</placeName>), zu der er noch
 in <placeName ref="kbga-places-10">Bonn</placeName> eingeladen worden
 war.</p>
-<p>Im <date>April 1935</date> hatte der Prager Theologieprofessor <persName ref="kbga-actors-1664">Josef L. Hromádka</persName><note place="footnote" xml:id="n01">
+<p>Im <date>April 1935</date> hatte der Prager Theologieprofessor <persName ref="kbga-actors-1664">Josef L. Hromádka</persName><note xml:id="n01">
                             <seg type="bio">
                                 <persName ref="kbga-actors-1664">Josef L. Hromádka</persName>
 (<date>1889–1969</date>), seit <date>1920</date> Professor an der neu gegründeten
@@ -81,42 +84,42 @@ beiden Theologen.</note> im Namen seiner <orgName ref="kbga-actors-8269">Fakult�
 christlichen Weltbundes (<orgName ref="kbga-actors-5662">W.S.C.F.</orgName>)» schriftlich angefragt, ob <persName ref="kbga-actors-2151">Barth</persName> bereit sei,
 der tschechischen «Studentenwelt und der weiteren kirchlichen
 (tschechischen und deutschen) Öffentlichkeit einen oder mehrere Vorträge
-zu halten.»<note place="footnote" xml:id="n02">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom
+zu halten.»<note xml:id="n02">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom
 <date>21.4.1935</date> (<idno type="kba-objects-identifier">KBA 9125.303</idno>; Abdruck: <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch. Der Briefwechsel zwischen Karl
+                                <hi rend="italic">Freundschaft im Widerspruch. Der Briefwechsel zwischen Karl
 Barth, Josef L. Hromádka und Josef B. Souček 1935–1968</hi>,
 hrsg. von M. Rohkrämer, Zürich 1995, S. 31f., dort S. 31)</bibl>.</note> Zugleich äußerte Hromádka den Wunsch, <persName ref="kbga-actors-2151">Barth</persName> am <date when="1935-05-09">9. Mai</date>, auf der
-Rückreise von einer ökumenischen Studientagung in den <placeName ref="kbga-places-514">Niederlanden</placeName>, in <placeName ref="kbga-places-10">Bonn</placeName> zu besuchen.<note place="footnote" xml:id="n03"> Vgl. <bibl corresp="kbga-bibls-477">a.a.O., S. 32</bibl>.</note> Dieser Besuch kam zustande, und <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName> notierte dazu: «Prof. Romádka
+Rückreise von einer ökumenischen Studientagung in den <placeName ref="kbga-places-514">Niederlanden</placeName>, in <placeName ref="kbga-places-10">Bonn</placeName> zu besuchen.<note xml:id="n03"> Vgl. <bibl corresp="kbga-bibls-477">a.a.O., S. 32</bibl>.</note> Dieser Besuch kam zustande, und <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName> notierte dazu: «Prof. Romádka
 [sic!] aus Prag über d[en] Abend da – erzählt viel Interessantes aus
 <placeName ref="kbga-places-826">Böhmen</placeName>, K[arl]
 verabredet mit ihm, dass wir im August z[u] einer Konferenz dorthin
-kommen.»<note place="footnote" xml:id="n04"> Taschenkalender Charlotte von
+kommen.»<note xml:id="n04"> Taschenkalender Charlotte von
 Kirschbaum, Eintrag vom
 <date>9.5.1935</date>.</note> Barths Themen-Vorschlag nahm Hromádka auf und bestätigte wenig
 später den vorläufigen Vortragstitel: «Theologische Voraussetzungen der
-praktischen Ausgestaltung des kirchlichen Lebens.»<note place="footnote" xml:id="n05"> Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom <date>18.5.1935</date> (<idno rend="i">KBA 9125.305</idno>; <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi>
+praktischen Ausgestaltung des kirchlichen Lebens.»<note xml:id="n05"> Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom <date>18.5.1935</date> (<idno rend="i">KBA 9125.305</idno>; <bibl corresp="kbga-bibls-477">
+                                <hi rend="italic">Freundschaft im Widerspruch</hi>
 [<ref type="pub" target="#fn_n02">Anm. 2</ref>], S. 33–35, dort S. 34</bibl>); das endgültige Thema legte
 <persName ref="kbga-actors-2151">Barth</persName> auf einer nicht erhaltenen Postkarte fest; es wurde von
 <persName ref="kbga-actors-1664">Hromádka</persName> am
 <date>15. Juni 1935</date> bestätigt (<idno type="kba-objects-identifier">KBA 9125.306</idno>; <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi>, S. 35f., dort
+                                <hi rend="italic">Freundschaft im Widerspruch</hi>, S. 35f., dort
 S. 35</bibl>).</note> Vortragsort sollte der 60 km westlich von <placeName ref="kbga-places-827">Brünn</placeName> liegende Ort <placeName ref="kbga-places-822">Myslibořice</placeName> in <placeName ref="kbga-places-824">Mähren</placeName> sein, wo Ende <pb xml:id="p071" ed="pga"/> August eine
 viertägige Pfarrkonferenz der «<orgName ref="kbga-actors-8306">Evangelischen Kirche der Böhmischen Brüder</orgName>» stattfinden
 sollte. Für Barths zweigeteilten Vortrag sah man den <date>27. und 28.
-August</date> vor.<note place="footnote" xml:id="n06"> Vgl. <bibl corresp="kbga-bibls-477">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> vom 18.5.1935 (<ref type="pub" target="#fn_n05">Anm. 5</ref>), S. 34</bibl>.</note> Einen von <persName ref="kbga-actors-1664">Hromádka</persName>
+August</date> vor.<note xml:id="n06"> Vgl. <bibl corresp="kbga-bibls-477">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> vom 18.5.1935 (<ref type="pub" target="#fn_n05">Anm. 5</ref>), S. 34</bibl>.</note> Einen von <persName ref="kbga-actors-1664">Hromádka</persName>
 gewünschten längeren Aufenthalt auch in <placeName ref="kbga-places-86">Prag</placeName> in den Tagen zuvor konnte <persName ref="kbga-actors-2151">Barth</persName> nicht zusagen; als
 Ersatz wurde ein kürzerer Aufenthalt nach der Konferenz ins Auge
-gefasst.<note place="footnote" xml:id="n07"> Vgl. <bibl corresp="kbga-bibls-477">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom 15.6.1935 (<ref type="pub" target="#fn_n05">Anm. 5</ref>), S. 36</bibl>.</note>
+gefasst.<note xml:id="n07"> Vgl. <bibl corresp="kbga-bibls-477">Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom 15.6.1935 (<ref type="pub" target="#fn_n05">Anm. 5</ref>), S. 36</bibl>.</note>
 </p>
 <p>
-                        <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-1261">Gertrud Staewen</persName><note place="footnote" xml:id="n08">
+                        <persName ref="kbga-actors-2151">Barth</persName>, <persName ref="kbga-actors-1261">Gertrud Staewen</persName><note xml:id="n08">
                             <seg type="bio">
                                 <persName ref="kbga-actors-1261">Gertrud Staewen</persName>
 (<date>1894–1987</date>), Fürsorgerin, Schwägerin des Essener Anwalts und
 späteren Bundespräsidenten <persName ref="kbga-actors-3266">Gustav W. Heinemann</persName>, seit <date>1922</date> mit <persName ref="kbga-actors-2151">Barth</persName> und
 <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName> freundschaftlich verbunden.</seg> </note> und <persName ref="kbga-actors-316">Rudolf</persName> und
-<persName ref="kbga-actors-315">Gerty Pestalozzi</persName><note place="footnote" xml:id="n09"> Mit <persName ref="kbga-actors-316">Rudolf Pestalozzi</persName>
+<persName ref="kbga-actors-315">Gerty Pestalozzi</persName><note xml:id="n09"> Mit <persName ref="kbga-actors-316">Rudolf Pestalozzi</persName>
 (<date>1882–1961</date>) und seiner Frau <persName ref="kbga-actors-315">Gerty</persName>, geb. Eidenbenz (<date>1883–1978</date>), war <persName ref="kbga-actors-2151">Barth</persName>
 schon seit der Safenwiler Zeit eng befreundet; der Zürcher
 Industrielle unterstützte ihn vielfältig, auch finanziell. Im
@@ -128,7 +131,7 @@ Kirschbaum</persName>, Jahr für Jahr viele Ferienwochen, und
 beide finanzierten und organisierten viele gemeinsame
 Reisen.</note> fuhren am 25. August zunächst nach <placeName ref="kbga-places-828">Walchensee</placeName>. <anchor type="cross" xml:id="kbga-texts-55005_1a"/>Dort trafen sie auf
 <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName>,
-die zwei Tage früher erst nach <placeName ref="kbga-places-43">München</placeName>, dann nach <placeName ref="kbga-places-829">Solln</placeName> zu den Eltern <persName ref="kbga-actors-408">Hellmut Traubs</persName><note place="footnote" xml:id="n10">
+die zwei Tage früher erst nach <placeName ref="kbga-places-43">München</placeName>, dann nach <placeName ref="kbga-places-829">Solln</placeName> zu den Eltern <persName ref="kbga-actors-408">Hellmut Traubs</persName><note xml:id="n10">
                             <seg type="bio">
                                 <persName ref="kbga-actors-408">Hellmut Traub</persName>
 (<date>1904–1994</date>), seit <date>1930</date> in <placeName ref="kbga-places-10">Bonn</placeName> Student und Schüler <persName ref="kbga-actors-2151">Barths</persName>, <date>1934</date>
@@ -140,41 +143,41 @@ Denunziation durch einen Jugendlichen aus seiner Gemeinde unter
 dem Vorwurf der Homosexualität inhaftiert, trotz Einstellung des
 Verfahrens in das Konzentrationslager <placeName ref="kbga-places-830">Dachau</placeName> gebracht und
 erst im <date>Januar 1936</date> entlassen</seg>.</note> gereist war, der kurz zuvor inhaftiert und ins <placeName ref="kbga-places-830">Konzentrationslager Dachau</placeName>
-gebracht worden war.<anchor type="cross" xml:id="kbga-texts-55005_1b"/><note place="footnote" xml:id="n11"> Vgl. Taschenkalender Ch. von Kirschbaum, Einträge vom <date>19.
+gebracht worden war.<anchor type="cross" xml:id="kbga-texts-55005_1b"/><note xml:id="n11"> Vgl. Taschenkalender Ch. von Kirschbaum, Einträge vom <date>19.
 und 22.8.1935</date>. </note> Von Walchensee aus brach man am nächsten Tag – nun gemeinsam und
-wie gewohnt im Auto der Pestalozzis – in die <placeName ref="kbga-places-823">Tschechoslowakei</placeName> auf.<note place="footnote" xml:id="n12"> Vgl. a.a.O., Einträge vom <date>23.–26.8.1935</date>. Eine zu
+wie gewohnt im Auto der Pestalozzis – in die <placeName ref="kbga-places-823">Tschechoslowakei</placeName> auf.<note xml:id="n12"> Vgl. a.a.O., Einträge vom <date>23.–26.8.1935</date>. Eine zu
 einem großen Teil aus den Taschenkalender-Angaben erstellte
 Schilderung der ganzen Vortragsreise ist abgedruckt in <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>),
+                                <hi rend="italic">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>),
 S. 39–43</bibl>.</note>
 </p>
 <p>Die Reise führte über <placeName ref="kbga-places-831">Passau</placeName>
 zunächst nach <placeName ref="kbga-places-832">Prachatice</placeName>,
 dem ersten größeren Ort jenseits der Grenze, wo man über Nacht blieb; am
-<pb xml:id="p072" ed="pga"/> nächsten Tag eilte man über <placeName ref="kbga-places-833">Budweis</placeName> (České Budĕjovice), <placeName ref="kbga-places-834">Tábor</placeName> und <placeName ref="kbga-places-835">Iglau</placeName> (Jihlava) nach <placeName ref="kbga-places-822">Myslibořice</placeName>.<note place="footnote" xml:id="n13"> Vgl. Taschenkalender von Kirschbaum, Eintrag vom
+<pb xml:id="p072" ed="pga"/> nächsten Tag eilte man über <placeName ref="kbga-places-833">Budweis</placeName> (České Budĕjovice), <placeName ref="kbga-places-834">Tábor</placeName> und <placeName ref="kbga-places-835">Iglau</placeName> (Jihlava) nach <placeName ref="kbga-places-822">Myslibořice</placeName>.<note xml:id="n13"> Vgl. Taschenkalender von Kirschbaum, Eintrag vom
 <date>27.8.1935</date>.</note> Im dortigen Schloss, das der <orgName ref="kbga-actors-8306">Kirche</orgName> als Altersheim, aber auch als Veranstaltungsort
 kirchlicher Konferenzen und Kurse diente, hatten sich 113 Teilnehmer und
 dazu noch Feriengäste des Hauses versammelt, so dass bei den Vorträgen
-und Diskussionen ca. 130 bis 140 Personen anwesend waren.<note place="footnote" xml:id="n14"> Vgl. <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>),
+und Diskussionen ca. 130 bis 140 Personen anwesend waren.<note xml:id="n14"> Vgl. <bibl corresp="kbga-bibls-477">
+                                <hi rend="italic">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>),
 S. 41f.</bibl>
                         </note> Den ersten Teil seines Vortrags hielt <persName ref="kbga-actors-2151">Barth</persName> gleich am Abend, nur
 kurz nach seiner Ankunft, «in der kleinen weiß getünchten Hauskapelle»;
-in der anschließenden Diskussion traten ihm «Ragazianer» entgegen.<note place="footnote" xml:id="n15"> Taschenkalender Ch. von Kirschbaum, Eintrag vom
+in der anschließenden Diskussion traten ihm «Ragazianer» entgegen.<note xml:id="n15"> Taschenkalender Ch. von Kirschbaum, Eintrag vom
 <date>27.8.1935</date>.</note> Am nächsten Morgen folgte nach dem Frühstück und einem «Gang
 durch [den] prächtigen Park» um 9 Uhr die zweite Hälfte des Vortrags,
 und bei der anschließenden «Diskussion im Hof» wurden die Fragen nach
 Ansicht <persName ref="kbga-actors-223">Charlotte von
-Kirschbaums</persName> «etwas sachnäher».<note place="footnote" xml:id="n16"> A.a.O., Eintrag vom <date>28.8.1935</date>.</note> Nach einer weiteren Diskussion am Abend und einer zweiten
-Übernachtung in den «saalähnlichen Zimmern» des Schlosses<note place="footnote" xml:id="n17"> Ebd.</note> verließ die Reisegesellschaft <placeName ref="kbga-places-822">Myslibořice</placeName> in Richtung <placeName ref="kbga-places-86">Prag</placeName>. Dort übernachtete man zweimal im Hotel Šroubek am
+Kirschbaums</persName> «etwas sachnäher».<note xml:id="n16"> A.a.O., Eintrag vom <date>28.8.1935</date>.</note> Nach einer weiteren Diskussion am Abend und einer zweiten
+Übernachtung in den «saalähnlichen Zimmern» des Schlosses<note xml:id="n17"> Ebd.</note> verließ die Reisegesellschaft <placeName ref="kbga-places-822">Myslibořice</placeName> in Richtung <placeName ref="kbga-places-86">Prag</placeName>. Dort übernachtete man zweimal im Hotel Šroubek am
 Wenzelsplatz und absolvierte am dazwischen liegenden Tag eine
 Stadtrundfahrt, bevor man am Nachmittag die Gelegenheit zu einer
 Besichtigung der Bibliothek und der Regierungsräume auf dem Hradschin
 nutzte. Später am Abend kam es noch zu einem «langen Gespräch mit
 Pfarrern und Laien in der Jungmannová und zu einem letzten Zusammensein
-mit <persName ref="kbga-actors-1664">Hromádka</persName>».<note place="footnote" xml:id="n18">
+mit <persName ref="kbga-actors-1664">Hromádka</persName>».<note xml:id="n18">
                             <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>), S. 42</bibl>;
+                                <hi rend="italic">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>), S. 42</bibl>;
 vgl. Taschenkalender Ch. von Kirschbaum, Eintrag vom
 <date>30.8.1935</date>. – Laut einem in der Edition nicht
 abgedruckten Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <persName ref="kbga-actors-2151">Barth</persName> vom selben Tag waren alle
@@ -182,12 +185,12 @@ abgedruckten Brief <persName ref="kbga-actors-1664">Hromádkas</persName> an <pe
 gegeben hatte […], höchst erfreut über die Möglichkeit Sie
 kennen zu lernen und über die Aussprache mit Ihnen» (<idno type="kba-objects-identifier">KBA 9125.309</idno>). </note>
 </p>
-<p>Die lange Rückreise gestaltete sich eher touristisch:<note place="footnote" xml:id="n19"> Die Rückreise ist ausführlicher beschrieben <bibl corresp="kbga-bibls-477">a.a.O., S. 42f</bibl>.;
+<p>Die lange Rückreise gestaltete sich eher touristisch:<note xml:id="n19"> Die Rückreise ist ausführlicher beschrieben <bibl corresp="kbga-bibls-477">a.a.O., S. 42f</bibl>.;
 Taschenkalender Ch. von Kirschbaum, Einträge vom
 <date>31.8.–9.9.1935</date>.</note> Unter anderem über <placeName ref="kbga-places-836">Königgrätz</placeName>, wo <persName ref="kbga-actors-2151">Barth</persName> das <term ref="kbga-terms-352">Schlachtfeld von 1866</term> besichtigen wollte, <placeName ref="kbga-places-837">Leitomischl</placeName> (Litomyšl), dem
 Geburtsort <persName ref="kbga-actors-8301">Bedřich Smetanas</persName>,
 <pb xml:id="p073" ed="pga"/> und <placeName ref="kbga-places-838">Jávornik</placeName>, wo <persName ref="kbga-actors-316">Rudolf Pestalozzi</persName> «seltene Trachten
-beim Kirchgang photographieren» wollte,<note place="footnote" xml:id="n20"> Taschenkalender Ch. von Kirschbaum, Eintrag vom
+beim Kirchgang photographieren» wollte,<note xml:id="n20"> Taschenkalender Ch. von Kirschbaum, Eintrag vom
 <date>1.9.1935</date>.</note> erreichte man am 1. September die <placeName ref="kbga-places-839">Hohe Tatra</placeName>, verließ am folgenden
 Tag die <placeName ref="kbga-places-823">Tschechoslawakei</placeName>,
 um über <placeName ref="kbga-places-799">Ungarn</placeName> und das
@@ -196,12 +199,12 @@ nach <placeName ref="kbga-places-841">Triest</placeName>, <placeName ref="kbga-p
 aus am <date>9. September</date> zurück auf das <placeName ref="kbga-places-100">Bergli</placeName>. </p>
 <p>In der <placeName ref="kbga-places-823">Tschechoslowakei</placeName>
 erregte Barths Auftreten große Aufmerksamkeit und fand ein reges
-Echo:<note place="footnote" xml:id="n21"> Eine Anzahl von tschechischen Zeitungsartikeln und Aufsätzen,
+Echo:<note xml:id="n21"> Eine Anzahl von tschechischen Zeitungsartikeln und Aufsätzen,
 die vom Besuch <persName ref="kbga-actors-2151">Barths</persName> berichten, ist genannt in: <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>), S. 45,
+                                <hi rend="italic">Freundschaft im Widerspruch</hi> (<ref type="pub" target="#fn_n02">Anm. 2</ref>), S. 45,
 Anm. 1</bibl>.</note>
 <persName ref="kbga-actors-1664">Hromádka</persName> schrieb gar von
-einem «gewaltigen Eindruck» der Vorträge und Diskussionen,<note place="footnote" xml:id="n22"> Brief an <persName ref="kbga-actors-2151">Barth</persName> vom 30.9.1935 (<idno type="kba-objects-identifier">KBA 9125.310</idno>; <bibl corresp="kbga-bibls-477">a.a.O., S. 44</bibl>).</note> und <persName ref="kbga-actors-1908">Josef B. Souček</persName><note place="footnote" xml:id="n23">
+einem «gewaltigen Eindruck» der Vorträge und Diskussionen,<note xml:id="n22"> Brief an <persName ref="kbga-actors-2151">Barth</persName> vom 30.9.1935 (<idno type="kba-objects-identifier">KBA 9125.310</idno>; <bibl corresp="kbga-bibls-477">a.a.O., S. 44</bibl>).</note> und <persName ref="kbga-actors-1908">Josef B. Souček</persName><note xml:id="n23">
                             <seg type="bio">
                                 <persName ref="kbga-actors-1908">Josef B. Souček</persName>
 (<date>1902–1972</date>), seit <date>1930</date> Sekretär des Synodalrates der
@@ -209,27 +212,27 @@ Evangelischen Kirche der Böhmischen Brüder, seit <date>1933</date> zugleich
 Dozent an der <orgName ref="kbga-actors-8269">Jan-Hus-Fakultät
 in Prag</orgName>, später dort Professor</seg>. </note> konstatierte, <persName ref="kbga-actors-2151">Barth</persName> habe vielen «geholfen, die Grundlinien der
 uns obliegenden theologischen und kirchlichen Arbeit etwas klarer zu
-sehen».<note place="footnote" xml:id="n24"> Brief an <persName ref="kbga-actors-2151">Barth</persName> vom <date>14.11.1935</date> (<idno type="kba-objects-identifier">KBA 9335.1119</idno>; <bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im Widerspruch</hi> [<ref type="pub" target="#fn_n02">Anm. 2</ref>],
+sehen».<note xml:id="n24"> Brief an <persName ref="kbga-actors-2151">Barth</persName> vom <date>14.11.1935</date> (<idno type="kba-objects-identifier">KBA 9335.1119</idno>; <bibl corresp="kbga-bibls-477">
+                                <hi rend="italic">Freundschaft im Widerspruch</hi> [<ref type="pub" target="#fn_n02">Anm. 2</ref>],
 S. 45</bibl>).</note>
 <persName ref="kbga-actors-223">Charlotte von Kirschbaum</persName>
 nannte in einem Brief, den sie noch während der Reise aus <placeName ref="kbga-places-126">Budapest</placeName> schrieb, die «Begegnung
 mit der calvinist[ischen] <orgName ref="kbga-actors-8306">Kirche der
 mähr[ischen] Brüder</orgName> […] gut» und erwähnte, dass es dort
-«sehr aufgeschlossene junge Pfarrer» gebe.<note place="footnote" xml:id="n25"> Brief an <persName ref="kbga-actors-6421">E. Freiling</persName> vom <date rend="i">2.9.1935</date> (<bibl corresp="kbga-bibls-478">
-                                <hi rend="i">Charlotte von Kirschbaum und Elisabeth Freiling.
+«sehr aufgeschlossene junge Pfarrer» gebe.<note xml:id="n25"> Brief an <persName ref="kbga-actors-6421">E. Freiling</persName> vom <date rend="i">2.9.1935</date> (<bibl corresp="kbga-bibls-478">
+                                <hi rend="italic">Charlotte von Kirschbaum und Elisabeth Freiling.
 Briefwechsel 1934–1939</hi>, hrsg. von G. van Norden,
 Göttingen 2014, S. 42</bibl>).</note>
 </p>
 <p rend="margin-top">Vorarbeiten zum Text sind nicht erhalten. Die Erstveröffentlichung des
 Textes erfolgte als Heft 28 der Reihe «Theologische Existenz
-heute».<note place="footnote" xml:id="n26"> <bibl corresp="kbga-bibls-57">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Die theologischen Voraussetzungen
+heute».<note xml:id="n26"> <bibl corresp="kbga-bibls-57">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Die theologischen Voraussetzungen
 kirchlicher Gestaltung</hi> (ThExh 28), München 1935. – Auf
 dem Umschlag des Heftes</bibl>: «Die theologische Voraussetzung
 […]».</note> Nur wenig später erschien – von <persName ref="kbga-actors-1664">Hromádka</persName> forciert und mit einem Vorwort von ihm – eine
-tschechische Übersetzung.<note place="footnote" xml:id="n27"> <bibl corresp="kbga-bibls-58">
-                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="i">Bohoslovecké předpoklady pro výstavbu
+tschechische Übersetzung.<note xml:id="n27"> <bibl corresp="kbga-bibls-58">
+                                <persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Bohoslovecké předpoklady pro výstavbu
 církve</hi>, Prag 1936</bibl>.</note> Ein Wiederabdruck erfolgte in <bibl corresp="kbga-bibls-9">
                             Th.Fr.u.A., S. 233–256</bibl>. Die
 Edition folgt dem Wiederabdruck, auf ihn bezieht sich auch die
@@ -248,12 +251,12 @@ Ländern beschäftigt sehen. «Kirchliche Gestaltung» sagt: dass die <term ref=
 unbekümmert in ihrem bisherigen Bestand hingenommen, dass vielmehr an
 ihr gearbeitet, dass um sie gerungen und gekämpft wird, weil man sich
 bei ihrer bisherigen Gestalt nicht beruhigen kann, weil die Frage nach
-ihrer <hi rend="i">rechten</hi> Gestalt erwacht und aufgestanden ist,
+ihrer <hi rend="italic">rechten</hi> Gestalt erwacht und aufgestanden ist,
 weil man gewisse, die bisherige Gewohnheit unterbrechende, die bisherige
 Lage verändernde Antworten darauf zu geben, weil man sich berufen weiß,
 im Sinne dieser neuen Antworten Hand anzulegen.</p>
 <p>Es gibt Probleme kirchlicher Gestaltung, deren Erwachen nun schon
-Jahrzehnte, zum Teil viele Jahrzehnte <hi rend="i">zurückliegt</hi>, ja
+Jahrzehnte, zum Teil viele Jahrzehnte <hi rend="italic">zurückliegt</hi>, ja
 die vielleicht, wo immer Kirche war, überhaupt nie ruhen konnten und mit
 denen wir heute nur in unserer besonderen Weise beschäftigt sind. Ich
 denke dabei etwa an das Problem der Gestaltung des <term ref="kbga-terms-353">kirchlichen Unterrichts</term> und der
@@ -261,31 +264,31 @@ kirchlichen <term ref="kbga-terms-354">Seelsorge</term>, wie es unter
 dem Einfluss der modernen <term ref="kbga-terms-355">Psychologie</term>
 (bzw. des diese Psychologie bedingenden Gestaltwandels der <term ref="kbga-terms-357">europäisch-amerikanischen Seele</term> in den
 Zeiten vor und nach dem <term ref="kbga-terms-170">Weltkrieg</term>) in
-Bewegung gebracht worden ist.<note place="footnote" xml:id="n28"> Schon vor dem Ersten Weltkrieg gab es einen regen Austausch über
+Bewegung gebracht worden ist.<note xml:id="n28"> Schon vor dem Ersten Weltkrieg gab es einen regen Austausch über
 das Verhältnis von Psychologie und Religion bzw. Seelsorge. In
 den <placeName ref="kbga-places-62">USA</placeName> verfasste der Begründer der dortigen Psychologie,
 <bibl corresp="kbga-bibls-59">
                                 <persName ref="kbga-actors-3685">William James</persName>
 (1842–1910), mit seinem 1902 in New York und London
-veröffentlichten Buch «<hi rend="i">The Varieties of
+veröffentlichten Buch «<hi rend="italic">The Varieties of
 Religious Experience</hi>»</bibl> ein einschlägiges
 Standardwerk; <persName ref="kbga-actors-2151">Barth</persName> besaß dessen deutsche Übersetzung (<bibl corresp="kbga-bibls-60">
                                 <persName ref="kbga-actors-3685">W. James</persName>,
-<hi rend="i">Die religiöse Erfahrung in ihrer
+<hi rend="italic">Die religiöse Erfahrung in ihrer
 Mannigfaltigkeit</hi>, ins Deutsche übertragen von G.
 Wobbermin, Leipzig 1907</bibl>). Vgl. für die aktuellere deutsche
 Diskussion <bibl corresp="kbga-bibls-61">
                                 <persName ref="kbga-actors-296">Fr.
-Niebergall</persName>, <hi rend="i">Christliche Jugend- und
+Niebergall</persName>, <hi rend="italic">Christliche Jugend- und
 Volks<pb xml:id="FN75" ed="pga" break="no"/>erziehung. Eine Religionspädagogik auf
 religionspsychologischer Grundlage</hi>, Göttingen 1924</bibl>;
 <bibl corresp="kbga-bibls-62">
                                 <persName ref="kbga-actors-1173">O.
-Pfister</persName>, <hi rend="i">Analytische Seelsorge.
+Pfister</persName>, <hi rend="italic">Analytische Seelsorge.
 Einführung in die praktische Psychoanalyse für Pfarrer und
 Laien</hi>, Göttingen 1927</bibl>.</note> Ich <pb xml:id="p075" ed="pga"/> denke an das Problem der Gestaltung der <term ref="kbga-terms-358">Evangelisation</term>: Wie erreichen wir die
 dem Leben der Kirche noch oder schon Fernestehenden, die Gebildeten, die
-heranwachsende Jugend, die Massen der städtischen Bevölkerungen?<note place="footnote" xml:id="n29"> Aufgrund der durch den Ersten Weltkrieg ausgelösten
+heranwachsende Jugend, die Massen der städtischen Bevölkerungen?<note xml:id="n29"> Aufgrund der durch den Ersten Weltkrieg ausgelösten
 gesellschaftlichen Erschütterungen sowie des Zusammenbruchs der
 Monarchien am Ende dieses Krieges und der mehr oder weniger
 starken Beteiligung sozialistischer Parteien an den neuen
@@ -296,7 +299,7 @@ Konzept einer «christlichen <term ref="kbga-terms-363">Volksmission</term>», d
 Mitteln der Apologetik und einer erbaulichen Verkündigung
 entgegenwirken sollte (vgl. etwa <bibl corresp="kbga-bibls-63">
                                 <persName ref="kbga-actors-5262">G. Füllkrug</persName>,
-<hi rend="i">Die Bedeutung der Volksmission für die
+<hi rend="italic">Die Bedeutung der Volksmission für die
 Erweckung und Erneuerung unseres Volkes</hi>, Schwerin
 1920</bibl>), hatte <persName ref="kbga-actors-2151">Barth</persName> sich schon <date>1931</date> und im Frühsommer <date>1935</date>
 kritisch auseinandergesetzt und dabei sehr ähnliche
@@ -317,7 +320,7 @@ die Gebildeten, die Jugend oder gar die Massen für sich hat»
 moralischen, ästhetischen und – zum wenigsten! – intellektuellen
 Hintergründen, die hier den Stein ins Rollen gebracht, die u. a. auch
 die <term ref="kbga-terms-359">Heidenmission</term> zu ganz neuen
-Fragestellungen gedrängt hat.<note place="footnote" xml:id="n30">
+Fragestellungen gedrängt hat.<note xml:id="n30">
                             <anchor type="cross" xml:id="kbga-texts-55005_2"/> Der wohl von dem englischen Schriftsteller und Freidenker
 <persName ref="kbga-actors-8302">George Jacob
 Holyoake</persName> (<date>1817–1906</date>) geprägte Begriff des
@@ -325,9 +328,9 @@ Holyoake</persName> (<date>1817–1906</date>) geprägte Begriff des
 angloamerikanischen Raum bereits im 19. Jahrhundert eine größere
 Rolle (vgl. <bibl corresp="kbga-bibls-64">
                                 <persName ref="kbga-actors-8302">G. J.
-Holyoake</persName>, <hi rend="i">Principles of
+Holyoake</persName>, <hi rend="italic">Principles of
 secularism</hi>, London 1870</bibl>; <bibl corresp="kbga-bibls-65">
-                                <persName ref="kbga-actors-8840">T. Verhoeven</persName>, <hi rend="i">Secularists, Religion and Government in Nineteenth-Century
+                                <persName ref="kbga-actors-8840">T. Verhoeven</persName>, <hi rend="italic">Secularists, Religion and Government in Nineteenth-Century
 America</hi>, Cham 2019</bibl>). In die deutschsprachige
 theologische Diskussion fand der Begriff im Zusammenhang mit der
 <orgName ref="kbga-actors-8264">Weltmissionskonferenz von
@@ -349,7 +352,7 @@ nüchterne reformierte <placeName ref="kbga-places-58">Schweiz</placeName> hinei
 Selbstwiderspruch spiegelt, in welchem der moderne <term ref="kbga-terms-362">Mensch</term>, <pb xml:id="p234" ed="A"/>
 seiner Profanität, seiner Laboratorien, seiner Motorräder und Kinos
 müde, nun doch wieder nach Kontemplation und Mysterienspielen Ausschau
-halten muss.<note place="footnote" xml:id="n31"> Nach dem Ersten Weltkrieg entstanden verschiedene liturgische
+halten muss.<note xml:id="n31"> Nach dem Ersten Weltkrieg entstanden verschiedene liturgische
 Reformbewegungen, von denen die <date>1922</date> gegründete <term ref="kbga-terms-369">Berneuchener Bewegung</term> um
 <persName ref="kbga-actors-392">Wilhelm Stählin</persName>
 (<date>1883–1975</date>), Fakultätskollege <persName ref="kbga-actors-2151">Barths</persName> in <placeName ref="kbga-places-44">Münster</placeName>, und <persName ref="kbga-actors-341">Karl Bernhard Ritter</persName>
@@ -361,18 +364,18 @@ betrachtete diese Bewegungen von Anfang an als falsche Antworten
 auf die Herausforderungen der 1920er und 1930er Jahre; vgl. etwa
 <bibl corresp="kbga-bibls-482">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Die Lehre von den Sakramenten
-(1929)</title>, in: V.u.kl.A. 1925–1930, S. 393–441, dort <ref type="pub-" target="../volume/24/p416#p416">S. 416f</ref>.</bibl>;
+(1929)</title>, in: V.u.kl.A. 1925–1930, S. 393–441, dort <ref type="pub-" target="../volume/24/p416#p416">S. 416f.</ref></bibl>;
 <bibl corresp="kbga-bibls-483">ders., <title level="a">Quousque tandem …? (1929/30),</title> in:
 a.a.O., 521–535, dort <ref type="pub-" target="../volume/24/p533#p533">S. 533</ref></bibl>.</note> Alle diese älteren Fragen sind – zum Teil in neuem Lichte – auch
 noch unsere Fragen.</p>
 <p>Es gibt andere Probleme kirchlicher Gestaltung, die sich deutlich als die
 eigentlichen Probleme unserer <term ref="kbga-terms-364">
-                            <hi rend="i">Gegenwart</hi></term> charakterisieren. Da ist das Problem der Gestaltung des
+                            <hi rend="italic">Gegenwart</hi></term> charakterisieren. Da ist das Problem der Gestaltung des
 Zusammenhanges der national und konfessionell <term ref="kbga-terms-209">getrennten Kirchen</term> untereinander, das – in Entsprechung zu
 den vorläufig im <orgName ref="kbga-actors-8266">Völkerbund</orgName> am
-konkretesten realisierten politischen Einigungsplänen<note place="footnote" xml:id="n32"> Siehe oben, <ref type="pub" target="../volume/55/p030#fn_n71">S. 30, Anm. 71</ref>.</note> – zu den in der sogenannten <term ref="kbga-terms-205">ökumenischen Bewegung</term> verkörperten Versuchen
+konkretesten realisierten politischen Einigungsplänen<note xml:id="n32"> Siehe oben, <ref type="pub" target="../volume/55/p030#fn_n71">S. 30, Anm. 71</ref>.</note> – zu den in der sogenannten <term ref="kbga-terms-205">ökumenischen Bewegung</term> verkörperten Versuchen
 zwischenkirchlicher Verständigung, Annäherung und Zusammenarbeit geführt
-hat.<note place="footnote" xml:id="n33"> Zu Barths bis dahin weitgehend kritischer Haltung zur Art und
+hat.<note xml:id="n33"> Zu Barths bis dahin weitgehend kritischer Haltung zur Art und
 Weise, in der die Ökumenische Bewegung ihre Ziele zu erreichen
 suchte, siehe oben, <ref type="pub" target="../volume/55/p003#p003">S. 3–40</ref>.</note> Da ist das Problem der individuellen christlichen <term ref="kbga-terms-365">Lebensgestaltung</term>, mit dessen
 eigentümlicher Lösung die sogenannte <term ref="kbga-terms-366">Gruppenbewegung</term> dem besonderen Mitteilungs- und
@@ -381,9 +384,9 @@ Menschen</term> eine gewisse sanitarisch heilsame Befriedigung zu
 geben weiß und zugleich das Leben der Kirche durch Reaktivierung des
 <term ref="kbga-terms-367">allgemeinen Priestertums</term>, durch
 die Organisation der <foreign xml:lang="lat">mutua consolatio
-fratrum</foreign><note place="footnote" xml:id="n34"> Vgl. <bibl corresp="kbga-bibls-484">
+fratrum</foreign><note xml:id="n34"> Vgl. <bibl corresp="kbga-bibls-484">
                                 <persName ref="kbga-actors-261">M.
-Luther</persName>, <hi rend="i">Schmalkaldische
+Luther</persName>, <hi rend="italic">Schmalkaldische
 Artikeln</hi>, Abschnitt <title level="a">Vom Evangelio</title>:</bibl>
 «Gott ist reich in seiner Gnade: erstlich durchs mundlich Wort,
 darin gepredigt wird Vergebung der Sunde in alle Welt, welchs
@@ -393,18 +396,18 @@ vierden durch die Kraft der Schlussel und auch <foreign xml:lang="lat">per mutuu
 colloquium et consolationem fratrum</foreign>» (<bibl corresp="kbga-bibls-14">
                                 BSLK, S. 449,7–13</bibl>; vgl.
 <bibl corresp="kbga-bibls-15">
-                                BSLK.NE, S. 764,36–765,4)</bibl>.</note> von innen zu erneuern hofft.<note place="footnote" xml:id="n35"> Zur Rolle des gegenseitigen Austauschs und der seelsorgerlichen
+                                BSLK.NE, S. 764,36–765,4)</bibl>.</note> von innen zu erneuern hofft.<note xml:id="n35"> Zur Rolle des gegenseitigen Austauschs und der seelsorgerlichen
 Gemeinschaft innerhalb der Gruppenbewegung vgl. <bibl corresp="kbga-bibls-485">
                                 <persName ref="kbga-actors-63">E. Brunner</persName>,
 <title level="a">Meine Begegnung mit der Oxforder
-Gruppenbewegung (1932)</title>, in: ders., <hi rend="i">Ein offenes Wort</hi>, Bd. 1: <title level="s">Vorträge
+Gruppenbewegung (1932)</title>, in: ders., <hi rend="italic">Ein offenes Wort</hi>, Bd. 1: <title level="s">Vorträge
 und Aufsätze 1917–1934</title>, eingeführt und ausgewählt von
 R. Wehrli, Zürich 1981, S. 268–288, dort bes. S. 272f. 276–279.</bibl>
 <persName ref="kbga-actors-63">Brunner</persName> attestiert der Gruppenbewegung <bibl corresp="kbga-bibls-485">a.a.O., S. 279</bibl>, eine
 «Belebung des allgemeinen Priestertums aller Gläubigen». Vgl.
 auch <bibl corresp="kbga-bibls-66">
                                 <persName ref="kbga-actors-5262">G.
-Füllkrug</persName>, <hi rend="i">Seelsorge</hi>, Schwerin
+Füllkrug</persName>, <hi rend="italic">Seelsorge</hi>, Schwerin
 1933, S. 12–14</bibl>. – Zur <term ref="kbga-terms-366">Gruppenbewegung</term> insgesamt s. unten, <ref type="pub" target="../volume/55/p448#p448">S. 448–470</ref>.</note> 
 Da sind – durch den <term ref="kbga-terms-368">Kirchenstreit</term> in <placeName ref="kbga-places-151">Deutschland</placeName>, das heißt aber durch die Taten eines
 kombattanten Gegenspielers der <term ref="kbga-terms-371">christlichen
@@ -413,7 +416,7 @@ die zusammengehörigen Probleme: 1. der Gestaltung des Lebens und der
 Ordnung der <term ref="kbga-terms-249">Gemeinden</term> und der Kirche
 von dem ihrer besonderen Herkunft und Verantwortung entsprechenden <term ref="kbga-terms-146">Bekenntnis</term> her; 2. der bekenntnismäßigen
 Gestaltung der Abgrenzung und Beziehung der Gemeinden und Kirchen nach
-außen, also der bekenntnismäßigen Gestaltung des Verhältnisses von <term ref="kbga-terms-372">Kirche und Volk</term>, <term ref="kbga-terms-373">Kirche und Gesellschaft</term>, <term ref="kbga-terms-308">Kirche und Staat</term>:<note place="footnote" xml:id="n36"> An zwei der maßgeblichen Neugestaltungen der inneren und äußeren
+außen, also der bekenntnismäßigen Gestaltung des Verhältnisses von <term ref="kbga-terms-372">Kirche und Volk</term>, <term ref="kbga-terms-373">Kirche und Gesellschaft</term>, <term ref="kbga-terms-308">Kirche und Staat</term>:<note xml:id="n36"> An zwei der maßgeblichen Neugestaltungen der inneren und äußeren
 Verfasstheit der Kirchen im Jahr <date>1934</date> <persName ref="kbga-actors-2151">Barth</persName> selbst führend
 beteiligt: an der <bibl corresp="kbga-bibls-486">
                                 <title level="a">Erklärung über das rechte
@@ -436,13 +439,13 @@ geworden, ruft nach neuen Antworten und Lösungen. Und was jetzt in
 einer großen Bühne vor uns in Bewegung ist, könnte paradigmatisch sein,
 könnte sehr, sehr bald auch anderswo aktuell werden und den Zuschauern
 das Zuschauen gänzlich verleiden. Gefragt sind sie wahrlich alle
-miteinander heute schon!<note place="footnote" xml:id="n37"> Vgl. oben, <ref type="pub" target="../p037#p037">S. 37–40<!-- [Text 01, ab FN 80 bis Ende] --></ref>. Vgl. auch schon <bibl corresp="kbga-bibls-487">
+miteinander heute schon!<note xml:id="n37"> Vgl. oben, <ref type="pub" target="../p037#p037">S. 37–40<!-- [Text 01, ab FN 80 bis Ende] --></ref>. Vgl. auch schon <bibl corresp="kbga-bibls-487">
                                 <persName ref="kbga-actors-2151">K. Barth<!-- [Text 01, ab FN 80 bis Ende] --></persName>,
 <title level="a">Vorwort [zu: Die Kirche Jesu Christi]
 (1933)<!-- [Text 01, ab FN 80 bis Ende] --></title>, in: V.u.kl.A. 1930–1933<!-- [Text 01, ab FN 80 bis Ende] -->, S. 600–618, dort <ref type="pub-" target="../volume/49/p618#p618">S. 618<!-- [Text 01, ab FN 80 bis Ende] --></ref><!-- [Text 01, ab FN 80 bis Ende] --><!-- [Text 01, ab FN 80 bis Ende] --></bibl>: «Es
-geht hier nicht um einen zufälligen Irrtum in der <hi rend="i">deutschen</hi> Kirche, sondern um eine <hi rend="i">gemeinsame</hi> Not der <hi rend="i">ganzen</hi>
+geht hier nicht um einen zufälligen Irrtum in der <hi rend="italic">deutschen</hi> Kirche, sondern um eine <hi rend="italic">gemeinsame</hi> Not der <hi rend="italic">ganzen</hi>
 christlichen Kirche; wir fechten hier in Deutschland eine Sache
-aus, die, wenn auch in anderen Formen, früher oder später in <hi rend="i">jeder</hi> modernen Kirche ausgefochten werden
+aus, die, wenn auch in anderen Formen, früher oder später in <hi rend="italic">jeder</hi> modernen Kirche ausgefochten werden
 muss.» <!-- [Text 01, ab FN 80 bis Ende] -->
                         </note>
 </p>
@@ -468,8 +471,8 @@ wohl nur ein sehr fauler Knecht [vgl. <ref type="can" subtype="bible" target="Mt
 Zeitgenosse in Abrede stellen.</p>
 </div>
      <div>
-<head>
-                        <pb xml:id="p079" ed="pga" rend="noPipe"/> I.</head>
+      <pb xml:id="p079" ed="pga"/>
+<head>I.</head>
 <p>
                         <term ref="kbga-terms-188">Kirchliche Gestaltung</term> hat nun aber,
 wie alles menschliche Tun, bestimmte Voraussetzungen. Ja, kirchliche
@@ -480,7 +483,7 @@ recht» (<ref type="can" subtype="bible" target="2.Tim.2.5">II. Tim.
 2,5</ref>). «Wer ist aber unter euch, der einen Turm bauen will und
 sitzt nicht zuvor und überschlägt die Kosten, ob er’s habe,
 hinauszuführen?» (<ref type="can" subtype="bible" target="Lk.14.28">Lc.
-14,28</ref>). <hi rend="i">Die</hi> Voraussetzung kirchlicher
+14,28</ref>). <hi rend="italic">Die</hi> Voraussetzung kirchlicher
 Gestaltung, an die wir uns damit erinnern lassen, besteht nun gewiss
 darin, dass diese nicht nach irgendeiner Willkür, sondern entsprechend
 dem <term ref="kbga-terms-76">Willen</term> und <term ref="kbga-terms-264">Gebot Gottes</term> und also im <term ref="kbga-terms-377">Gehorsam gegen ihn</term> geschieht. Kirchliche
@@ -489,7 +492,7 @@ als das nichtigste andere Menschenwerk, weil es in der Kirche ja gerade
 geht um die <term ref="kbga-terms-252">Verkündigung</term> und um das
 Hören der Gehorsamsforderung, des Willens und Gebotes Gottes. Was wäre
 das für ein Predigen und selber Verwerflichwerden [vgl. <ref type="can" subtype="bible" target="1.Kor.9.27">1.Kor. 9,27</ref>], was wäre
-das für ein Hören und nicht Tun [vgl. <ref type="can" subtype="bible" target="Hes.33.31f.">Hes. 33,31f.</ref>], wenn etwa gerade die
+das für ein Hören und nicht Tun [vgl. <ref type="can" subtype="bible" target="Hes.33.31 Hes.33.32">Hes. 33,31f.</ref>], wenn etwa gerade die
 Kirche bei ihrem Suchen, Arbeiten und Ringen um ihre rechte <term ref="kbga-terms-330">Gestalt</term> diese einfachste, <pb xml:id="p236" ed="A"/> alles umfassende und entscheidende Bedingung:
 dass ihr Gestalten Gehorsam gegen Gott sein muss, außer acht ließe! Wie
 profan wären wir in unsern eifrigsten und radikalsten Bemühungen um eine
@@ -503,8 +506,8 @@ Profanität in der <term ref="kbga-terms-379">Welt</term>, in der <term ref="kbg
 will und nach dem Willen Gottes nicht fragt oder nicht recht fragt,
 nicht so fragt, wie nach dem <term ref="kbga-terms-76">Willen
 Gottes</term> gefragt werden muss? Hatte <persName ref="kbga-actors-261">Luther</persName> nicht recht, wenn er einmal
-sagte, dass ein Hurenhaus einer solchen Kirche vorzuziehen sei?<note place="footnote" xml:id="n38"> So nicht ermittelt. Vgl. aber <bibl corresp="kbga-bibls-488">
-                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="i">Wider Hans
+sagte, dass ein Hurenhaus einer solchen Kirche vorzuziehen sei?<note xml:id="n38"> So nicht ermittelt. Vgl. aber <bibl corresp="kbga-bibls-488">
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="italic">Wider Hans
 Worst</hi> (1541), WA 51, <pb xml:id="FN80" ed="pga"/> 461–572, dort 501,17–503,5</bibl>
 (deutsche Fassung nach <bibl corresp="kbga-bibls-496">Erlanger Ausgabe</bibl>): «Und was also getauft
 lebt und stirbt bis in das siebent oder acht Jahr, ehe denn es
@@ -561,9 +564,9 @@ entzogen allem menschlichen Sehen, Wahrnehmen und Begreifen. Wer kann
 Gnade bei sich oder Anderen feststellen? Gnade kann man nur glauben,
 indem man nicht auf seine eigene oder fremde, sondern auf Gottes Güte
 vertraut. Diese Bedingung und Voraussetzung <term ref="kbga-terms-188">kirchlicher Gestaltung</term> bedenken, wird also nur heißen
-können: <hi rend="i">Wissen</hi> um die Notwendigkeit ihrer Erfüllung,
-<hi rend="i">Beten</hi> ohne Unterlass [vgl. <ref type="can" subtype="bible" target="1.Thess.5.17">1.Thess. 5,17</ref>] um das
-Geschehen dieser Erfüllung, <hi rend="i">Glauben</hi> an ihr
+können: <hi rend="italic">Wissen</hi> um die Notwendigkeit ihrer Erfüllung,
+<hi rend="italic">Beten</hi> ohne Unterlass [vgl. <ref type="can" subtype="bible" target="1.Thess.5.17">1.Thess. 5,17</ref>] um das
+Geschehen dieser Erfüllung, <hi rend="italic">Glauben</hi> an ihr
 Geschehensein ohne unser Verdienst und wider unsere Vernunft. Und nun
 hätten wir freilich an alle kirchliche Gestaltung, noch bevor wir ihre
 Voraussetzungen, die theologischen mitinbegriffen, auch nur erwähnt
@@ -587,12 +590,12 @@ die es darum nicht hinaus-, an der es darum nie vorbeigehen kann. Wir
 können und sollen das <term ref="kbga-terms-388">Gottesgericht</term>
 über alle kirchliche Gestaltung, auf das damit hingewiesen wird, nicht
 vollstrecken. Wir können und sollen aber auch nicht zweifeln, dass es
-von dem, der <pb xml:id="p082" ed="pga"/> dazu das Recht und die Macht hat, vollstreckt <hi rend="i">wird</hi>. «Wir müssen alle offenbar werden vor dem Richt­stuhl
+von dem, der <pb xml:id="p082" ed="pga"/> dazu das Recht und die Macht hat, vollstreckt <hi rend="italic">wird</hi>. «Wir müssen alle offenbar werden vor dem Richt­stuhl
 Christi» (<ref type="can" subtype="bible" target="2.Kor.5.10">II.Cor.
 5,10</ref>): Wir alle – vor dem Richt­stuhl Christi! Es geht ja um
 Jesus Christus bei dieser einfachsten, alles umfassenden, entscheidenden
 Bedingung und Voraussetzung <term ref="kbga-terms-188">kirchlicher
-Gestaltung</term>.<note place="footnote" xml:id="n39"> Mit Blick auf die Reformatoren betonte <persName ref="kbga-actors-2151">Barth</persName> schon <date>1931</date>, dass
+Gestaltung</term>.<note xml:id="n39"> Mit Blick auf die Reformatoren betonte <persName ref="kbga-actors-2151">Barth</persName> schon <date>1931</date>, dass
 hier die Identität der evangelischen Kirche als «<term ref="kbga-terms-394">Kirche unter dem Kreuz</term>» auf dem
 Spiel steht. Diese sahen sich nämlich, so <persName ref="kbga-actors-2151">Barth</persName>, von «zwei
 Seiten her», sowohl durch die «Bibel Alten und Neues Testaments»
@@ -612,7 +615,7 @@ unserer großen oder kleinen, so oder so beschaffenen Anteilnahme an
 dieser Gestaltung entweder zur Rechten oder zur Linken stehen.</p>
 <p>Oberflächliche Menschen – und solche gibt es auch unter christlichen
 Theologen – pflegen die Erinnerung an diese grundlegende Bedingung
-kirchlicher Gestaltung «entmutigend», ja «lähmend» zu nennen.<note place="footnote" xml:id="n40"> In einer frühen Reaktion auf <persName ref="kbga-actors-2151">Barths</persName> neue Theologie hieß es bei
+kirchlicher Gestaltung «entmutigend», ja «lähmend» zu nennen.<note xml:id="n40"> In einer frühen Reaktion auf <persName ref="kbga-actors-2151">Barths</persName> neue Theologie hieß es bei
 <bibl corresp="kbga-bibls-489">
                                 <persName ref="kbga-actors-282">A. D.
 Müller</persName>, <title level="a">Streiflicht auf die
@@ -621,8 +624,8 @@ Ausblick</title>, in: Neue Wege, Jg. 15 (1921),
 S. 228–235.270–283, dort S. 276f.</bibl>: «Kann es […] überhaupt
 etwas Entmutigenderes geben als den Gedanken, daß es im Hinblick
 auf das absolute Ziel gleichgültig sei, wie weit wir von ihm
-entfernt sind, es bleibe doch stets <hi rend="i">gleich</hi>
-unerreichbar? Das mag theoretisch richtig sein, <hi rend="i">praktisch</hi> ist auch die <hi rend="i">kleinste
+entfernt sind, es bleibe doch stets <hi rend="italic">gleich</hi>
+unerreichbar? Das mag theoretisch richtig sein, <hi rend="italic">praktisch</hi> ist auch die <hi rend="italic">kleinste
 Annäherung von unermeßlicher Bedeutung</hi>. Muß solche
 Entmutigung aber nicht ganz unfehlbar dazu führen, die Welt zu
 lassen [,] wie sie ist […]! Wir fürchten, dass <persName ref="kbga-actors-2151">Barth</persName> hier zum
@@ -631,14 +634,14 @@ geraden Gegenteil von dem führen wird, was er will.» – Von einer
 dialektischen Theologie schrieb <bibl corresp="kbga-bibls-67">
                                 <persName ref="kbga-actors-2437">S. Knak</persName>, <title level="a">Missionsmotiv
 und Missionsmethode unter der Fragestellung der
-dialektischen Theologie</title>, in: <hi rend="i">Botschafter
+dialektischen Theologie</title>, in: <hi rend="italic">Botschafter
 an Christi Statt. Von Wesen und Werk deutscher
 Missionsarbeit [Festschrift für Julius Richter]</hi>, hrsg.
 von M. Schlunk, Gütersloh 1932, S. 58–80, dort S. 66</bibl>; vgl. dazu
 <bibl corresp="kbga-bibls-434">
                                 <persName ref="kbga-actors-2151">Barth</persName>, <title level="a">Die Theologie und die Mission</title>
 (<ref type="pub" target="#fn_n30">Anm. 30</ref>), <ref type="pub-" target="../volume/49/p177#p177">S. 177</ref></bibl>.</note> Sie wissen nicht, was sie sagen. Das Bedenken, von dem wir
-sprachen, ist vielmehr geradezu <hi rend="i">das</hi> aktive Prinzip
+sprachen, ist vielmehr geradezu <hi rend="italic">das</hi> aktive Prinzip
 <term ref="kbga-terms-188">kirchlicher Ge<pb xml:id="p083" ed="pga" break="no"/>staltung</term> – und das
 darum, weil wir, gerade wenn wir ihm Raum geben, sozusagen zurückkehren
 in die wahrlich sehr lebendige Anfangs- und Ausgangssituation der
@@ -659,20 +662,20 @@ handlungsfähigen <term ref="kbga-terms-272">Jüngern</term>. Um unsere
 neue Versetzung in dieses fruchtbare Gegenüber geht es bei dem Bedenken
 jener ersten entscheidenden Voraussetzung kirchlicher Gestaltung. Nein,
 wer hier etwas von Passivität murmeln zu müssen glaubt, der weiß nicht,
-was er sagt. Er weiß wohl auch nicht, <hi rend="i">welcher</hi>
-Aktivität, <hi rend="i">welcher</hi> Fruchtbarkeit es bedarf zu wirklich
+was er sagt. Er weiß wohl auch nicht, <hi rend="italic">welcher</hi>
+Aktivität, <hi rend="italic">welcher</hi> Fruchtbarkeit es bedarf zu wirklich
 kirchlicher Gestaltung.</p>
 <p>Auf dem Boden und im Lichte dieser ersten Voraussetzung sollte eine
 Verständigung über das Wesen, die Würde und Geltung der anderen und
-insbesondere der theologischen Voraussetzungen <term ref="kbga-terms-188">kirchlicher Gestaltung</term> möglich sein. <pb xml:id="p239" ed="A"/>
+insbesondere der theologischen Voraussetzungen <term ref="kbga-terms-188">kirchlicher Gestaltung</term> möglich sein. 
 </p>
 </div>
 <div>
 <head> II.</head>
-<p>Die verschiedenen Möglichkeiten kirchlicher Gestaltung pflegen nicht
-<term ref="kbga-terms-395">senkrecht vom Himmel her</term><note place="footnote" xml:id="n41"> Vgl. <bibl corresp="kbga-bibls-68">
+<p><pb n="239" ed="A"/> Die verschiedenen Möglichkeiten kirchlicher Gestaltung pflegen nicht
+<term ref="kbga-terms-395">senkrecht vom Himmel her</term><note xml:id="n41"> Vgl. <bibl corresp="kbga-bibls-68">
                                 <persName ref="kbga-actors-851">Fr.
-Zündel</persName>, <hi rend="i">Aus der Apostelzeit</hi>,
+Zündel</persName>, <hi rend="italic">Aus der Apostelzeit</hi>,
 Zürich 1886, S. 26</bibl>: «Es war aber gewiß ein Gewaltiges, als die
 Erschütterung des senkrecht vom Himmel hernieder fahrenden
 Sturmes den Aposteln kund gab, daß ein unerhört Neues <pb xml:id="FN84" ed="pga"/> geworden
@@ -687,15 +690,15 @@ Diskussion gestellt zu werden. Und auch wenn an ihrer Verwirklichung im
 wird, so ist damit nicht gesagt, dass diese Arbeit nicht unter dem <term ref="kbga-terms-76">Willen Gottes</term>, sekundär, im menschlichen
 Bereich, auch noch aus ganz andern Motiven entspringen, ganz andern
 Notwendigkeiten sich anpassen würde und müsste. <term ref="kbga-terms-188">Kirchliche Gestaltung</term> geschieht nicht im
-<term ref="kbga-terms-397">luftleeren Raum</term>,<note place="footnote" xml:id="n42"> Vom deutschchristlichen Theologen <persName ref="kbga-actors-6486">Franz Tügel</persName> war <persName ref="kbga-actors-2151">Barth</persName> – wohl im Anschluss an <bibl corresp="kbga-bibls-96">Römerbrief 2, 
+<term ref="kbga-terms-397">luftleeren Raum</term>,<note xml:id="n42"> Vom deutschchristlichen Theologen <persName ref="kbga-actors-6486">Franz Tügel</persName> war <persName ref="kbga-actors-2151">Barth</persName> – wohl im Anschluss an <bibl corresp="kbga-bibls-96">Römerbrief 2, 
                                     <ref type="pub-" target="../volume/47/p154#p154">S. 154</ref></bibl> –
 vorgeworfen worden, er betreibe «Gottesgelahrtheit im luftleeren
 Raum» (<bibl corresp="kbga-bibls-69">
                                 <persName ref="kbga-actors-6486">Fr.
-Tügel</persName>, <hi rend="i">Unmögliche Existenz! Ein Wort
+Tügel</persName>, <hi rend="italic">Unmögliche Existenz! Ein Wort
 wider Karl Barth</hi>, Hamburg 1933, S. 6; vgl.
 S. 22.44.47</bibl>). Vgl. <bibl corresp="kbga-bibls-70">
-                                <persName ref="kbga-actors-5356">W. Stapel</persName>, <hi rend="i">Die Kirche
+                                <persName ref="kbga-actors-5356">W. Stapel</persName>, <hi rend="italic">Die Kirche
 Christi und der Staat Hitlers</hi>, Hamburg 1933<edition rend="sup">3</edition>, S. 45</bibl>:
 «Theologie wird nicht im luftleeren Raum getrieben, sondern in
 einem lebendigen Volk.»</note> sondern immer in bestimmten Zusammenhängen der politischen,
@@ -707,7 +710,7 @@ verstandene <term ref="kbga-terms-264">Gebot Gottes</term>, sondern auch
 der große <term ref="kbga-terms-170">Krieg 1914–18</term> mit der ganzen
 äußeren und vor allem inneren Veränderung des <term ref="kbga-terms-400">Weltbildes</term>, die sein Ergebnis ist: unübersehbar vorliegend
 in den <term ref="kbga-terms-401">Friedensverträgen</term> und ihren
-konkreten politischen Folgen,<note place="footnote" xml:id="n43"> Auf dem Gebiet des aus dem Erbe der untergegangenen <orgName ref="kbga-actors-8248">österreich-ungarischen
+konkreten politischen Folgen,<note xml:id="n43"> Auf dem Gebiet des aus dem Erbe der untergegangenen <orgName ref="kbga-actors-8248">österreich-ungarischen
 Doppelmonarchie</orgName> am <date>28. Oktober 1918</date>
 neu gegründeten <orgName ref="kbga-actors-8307">tschechoslowakischen Staates</orgName>, bestehend aus
 Böhmen, Mähren, der Slowakei, Teilen Schlesiens und der
@@ -726,7 +729,7 @@ scheint, und noch mehr schließlich in einer seither eingetretenen und,
 wie es scheint, durch keinen Verstand der Verständigen [vgl. <ref type="can" subtype="bible" target="Jes.29.14">Jes. 29,14</ref>;
 <ref type="can" subtype="bible" target="1.Kor.1.19">1.Kor.
 1,19</ref>] zu behebenden allgemeinen wirtschaftlichen Unordnung und
-Unsicherheit.<note place="footnote" xml:id="n44"> <persName ref="kbga-actors-2151">Barth</persName> meint wohl die von ihm in Deutschland miterlebte <term ref="kbga-terms-409">Hyperinflation</term> <pb xml:id="FN85" ed="pga"/> des Jahres <date>1923</date>
+Unsicherheit.<note xml:id="n44"> <persName ref="kbga-actors-2151">Barth</persName> meint wohl die von ihm in Deutschland miterlebte <term ref="kbga-terms-409">Hyperinflation</term> <pb xml:id="FN85" ed="pga"/> des Jahres <date>1923</date>
 und die <date>1929</date> mit dem <term ref="kbga-terms-410">Börsencrash</term> einsetzende <term ref="kbga-terms-168">Weltwirtschaftskrise</term>. Die <orgName ref="kbga-actors-8307">Tschechoslowakei</orgName> hatte
 zunächst von der auf ihrem Gebiet starken, auf die
 österreichisch-ungarische Zeit zurückgehenden Industrialisierung
@@ -734,7 +737,7 @@ profitiert und entwickelte sich in den 1920er Jahren
 wirtschaftlich sehr gut. <date>1929</date> geriet aber auch sie in den Sog
 der Weltwirtschaftskrise, und die Arbeitslosenzahl stieg bis
 <date>1933</date> auf über eine Million. Vgl. <bibl corresp="kbga-bibls-490">
-                                <hi rend="i">Der tschechische
+                                <hi rend="italic">Der tschechische
 Weg. Transformation einer Industriegesellschaft
 (1918–1998)</hi>, hrsg. von D. Tänzler, Frankfurt/Main 1999,
 S. 31ff</bibl>.</note> Hinter aller <pb xml:id="p085" ed="pga"/> heutigen kirchlichen Gestaltung steht weiter (eine
@@ -742,24 +745,24 @@ seltsame Frucht des <term ref="kbga-terms-630">liberalen 19.
 Jahrhunderts</term>!) die immer noch zunehmende <term ref="kbga-terms-404">Rationalisierung</term>, <term ref="kbga-terms-405">Technisierung</term> und <term ref="kbga-terms-412">Uniformierung</term>, der allmählich nicht mehr
 nicht zu beklagende <term ref="kbga-terms-413">Freiheitsverlust</term>
 unseres ganzen Lebens samt den dazugehörigen mehr oder weniger
-künstlichen oder echten Reaktionen dagegen,<note place="footnote" xml:id="n45"> Zu den Auswirkungen der zunehmenden Arbeitsteilung,
+künstlichen oder echten Reaktionen dagegen,<note xml:id="n45"> Zu den Auswirkungen der zunehmenden Arbeitsteilung,
 Technisierung und Verwissenschaftlichung auf die Gestaltung des
 menschlichen Lebens vgl. schon <bibl corresp="kbga-bibls-112">Ethik I, <ref type="pub-" target="../volume/02/p284#p284">S. 284–291</ref></bibl>.</note> steht endlich, in einem tiefen Gegensatz und zugleich
 Zusammenhang mit dem allem das Erwachen und die teilweise
 Machtergreifung der primitiven Masseninstinkte des Geltenwollens, der
 Angst, der Abwehr, des Führungsbedürfnisses, des Zusammenlaufens, des
 <term ref="kbga-terms-414">Gewaltgenusses</term> samt den sie
-begleitenden und verklärenden, bald <term ref="kbga-terms-415">märchenhaft romantisch</term>, bald <term ref="kbga-terms-416">wissenschaftlich-biologisch</term> schmeckenden <term ref="kbga-terms-417">Mythen</term> und <term ref="kbga-terms-418">Ideologien</term><note place="footnote" xml:id="n46">
+begleitenden und verklärenden, bald <term ref="kbga-terms-415">märchenhaft romantisch</term>, bald <term ref="kbga-terms-416">wissenschaftlich-biologisch</term> schmeckenden <term ref="kbga-terms-417">Mythen</term> und <term ref="kbga-terms-418">Ideologien</term><note xml:id="n46">
                             <anchor type="cross" xml:id="kbga-texts-55005_3"/> Vgl. etwa <bibl corresp="kbga-bibls-182">
                                 <persName ref="kbga-actors-345">A.
-Rosenberg</persName>, <hi rend="i">Der Mythus des 20.
+Rosenberg</persName>, <hi rend="italic">Der Mythus des 20.
 Jahrhunderts. Eine Wertung der seelisch-geistigen
 Gestaltenkämpfe unserer Zeit, München 1930</hi> (1935<edition rend="sup">59–60</edition>)</bibl>.
 <persName ref="kbga-actors-345">Alfred Rosenberg</persName>
 (<date>1893–1946</date>), lange führender Ideologe der <orgName ref="kbga-actors-8272">NSDAP</orgName>, fasste darin
 dessen religiös-völkische Weltanschauung zusammen. Auf diese
 Schrift antwortete <bibl corresp="kbga-bibls-71">
-                                <persName ref="kbga-actors-6029">W. Künneth</persName>, <hi rend="i">Antwort
+                                <persName ref="kbga-actors-6029">W. Künneth</persName>, <hi rend="italic">Antwort
 auf den Mythus. Die Entscheidung zwischen dem nordischen
 Mythos und dem biblischen Christus</hi>, Berlin 1935
 (1936<edition rend="sup">4</edition>)</bibl>.</note> – samt den sie begleitenden Wahnsinnserscheinungen, werden wir
@@ -771,7 +774,7 @@ unentbehrlich mitlaufendes Rad bis ins kleinste Dorf hinein auch in
 unsere kirchliche Aufbau- oder Umbauarbeit hineinwirkt. Wer um dieses
 Geschehen nicht wüsste oder nicht wissen wollte, wer es nicht beständig
 vor Augen und im Sinne hätte, der würde einer Fata morgana nachlaufen,
-und wenn sein Wirken und <pb xml:id="p086" ed="pga"/> Werk aussehen sollte wie das eines <persName ref="kbga-actors-874">Athanasius</persName><note place="footnote" xml:id="n47">
+und wenn sein Wirken und <pb xml:id="p086" ed="pga"/> Werk aussehen sollte wie das eines <persName ref="kbga-actors-874">Athanasius</persName><note xml:id="n47">
                             <persName ref="kbga-actors-874">Athanasius</persName>
 (<date>299?–373</date>), seit <date>328</date> Patriarch von Alexandria, war als
 Verteidiger der konstantinischen Reichskirche Wortführer der
@@ -791,7 +794,7 @@ sein, um deren <term ref="kbga-terms-188">Gestaltung</term> es uns geht.
 Also, es gibt unter dem <term ref="kbga-terms-76">Willen Gottes</term>,
 innerhalb des Raumes geschöpflicher Wirkung und Gegenwirkung, jedenfalls
 auch <term ref="kbga-terms-349">
-                            <hi rend="i">realgeschichtliche Voraussetzungen</hi></term> kirchlicher Gestaltung: Ereignisse, Verhältnisse, Gestalten,
+                            <hi rend="italic">realgeschichtliche Voraussetzungen</hi></term> kirchlicher Gestaltung: Ereignisse, Verhältnisse, Gestalten,
 Ordnungen, Katastrophen und Neuordnungen, an denen auch die Träger der
 kirchlichen Verantwortung, auch die christliche <term ref="kbga-terms-249">Gemeinde</term>, auch die <term ref="kbga-terms-421">Diener am Worte Gottes</term> mit ihrem ganzen
 Dasein passiv und aktiv beteiligt sind und die nicht zu bedenken und zu
@@ -814,16 +817,16 @@ entgegentreten würde. So brauchten wir vielleicht nur demütig und klug
 zu lauschen auf das Flüstern, Sausen und Donnern der geschicht<pb xml:id="p241" ed="A" break="no"/>lichen Bewegung, an der wir alle teilnehmen,
 und siehe, wir würden in der wohlverstandenen <pb xml:id="p087" ed="pga"/> <term ref="kbga-terms-425">Stimme der Geschichte</term> die Stimme Gottes vernehmen, die uns
 in seinen Werken seinen <term ref="kbga-terms-76">Willen</term>
-verkündet.<note place="footnote" xml:id="n48"> Solche Deutungen, in denen Gottes Wirken in der Geschichte
+verkündet.<note xml:id="n48"> Solche Deutungen, in denen Gottes Wirken in der Geschichte
 gesucht wurde, kannte <persName ref="kbga-actors-2151">Barth</persName> besonders von <bibl corresp="kbga-bibls-72">
                                 <persName ref="kbga-actors-184">E. Hirsch</persName>,
-<hi rend="i">Deutschlands Schicksal. Staat, Volk und
+<hi rend="italic">Deutschlands Schicksal. Staat, Volk und
 Menschheit im Licht einer ethischen Geschichtsansicht</hi>,
-Göttingen 1922</bibl>; <bibl corresp="kbga-bibls-322">ders., <hi rend="i">Die gegenwärtige geistige
+Göttingen 1922</bibl>; <bibl corresp="kbga-bibls-322">ders., <hi rend="italic">Die gegenwärtige geistige
 Lage im Spiegel philosophischer und theologischer Besinnung.
 Akademische Vorlesungen zum Verständnis des deutschen Jahres
 1933</hi>, Göttingen 1934</bibl>, oder von <bibl corresp="kbga-bibls-73">
-                                <persName ref="kbga-actors-4">P. Althaus</persName>, <hi rend="i">Die deutsche Stunde der Kirche</hi>, Göttingen,
+                                <persName ref="kbga-actors-4">P. Althaus</persName>, <hi rend="italic">Die deutsche Stunde der Kirche</hi>, Göttingen,
 1933. Dort heißt es (S. 13)</bibl>: «Wenn die geschichtliche Ordnung
 des Volkstums oder des Staates Gewalt über unser Herz gewinnt
 […], dann erfahren wir im Ernste und unmittelbar, was ein
@@ -836,7 +839,7 @@ eine Deutung der Werke, der Taten Gottes in der geschichtlichen Führung
 des <term ref="kbga-terms-427">Volkes Israel</term>, aber auch der
 andern Völker? Sollten wir es ihnen nicht nachtun und also aus dem offen
 vor uns liegenden Buch des <term ref="kbga-terms-364">Gegenwartsgeschehens</term> zum Beispiel folgende
-Voraussetzungen<note place="footnote" n="a" type="textcritical" xml:id="na"> <ref corresp="A">ThFr.u.A</ref>.: «Voraussetzung»; von den Hrsg. korrigiert in
+Voraussetzungen<note n="a" type="textcritical" xml:id="na"> <ref corresp="A">ThFr.u.A</ref>.: «Voraussetzung»; von den Hrsg. korrigiert in
 Übereinstimmung mit ThExh 28.</note>
 <term ref="kbga-terms-349">kirchlicher Gestaltung</term> ablesen:</p>
 <p>Entweder: die Kirche entsteht und besteht überall in einer ursprünglichen
@@ -844,7 +847,7 @@ Beziehung zu der natürlichen Gemeinschaft des <term ref="kbga-terms-428">Volkes
 den <term ref="kbga-terms-431">Kampf</term> als die eigentliche
 Grundform des menschlichen Lebens zu anerkennen. Sie hat sich aufzubauen
 auf dem Gedanken der <term ref="kbga-terms-432">Führung</term> und der
-Gefolgschaft. Sie hat sozusagen inneren Kriegsdienst zu leisten.<note place="footnote" xml:id="n49"> Vgl. aus den «Richtlinien der ‚<orgName ref="kbga-actors-8309">Glaubensbewegung Deutsche Christen</orgName>‘» vom
+Gefolgschaft. Sie hat sozusagen inneren Kriegsdienst zu leisten.<note xml:id="n49"> Vgl. aus den «Richtlinien der ‚<orgName ref="kbga-actors-8309">Glaubensbewegung Deutsche Christen</orgName>‘» vom
 <date>26.5.1932</date>: «5. Wir wollen das wiedererwachte
 deutsche Lebensgefühl in unserer Kirche zur Geltung bringen und
 unsere Kirche lebenskräftig machen. […] Wir wollen, daß unsere
@@ -861,13 +864,13 @@ sie ihn versteht, indem sie sich seiner praktischen, realistischen, ein
 Art anpasst. Sie zeige ihm, wie er neben allem andern kurz und gut auch
 noch etwas für seine <term ref="kbga-terms-356">Seele</term> und für das
 <term ref="kbga-terms-434">Reich Gottes</term> tun muss und auch tun
-kann.<note place="footnote" xml:id="n50"> Diese ‚liberale‘ Option verbindet <persName ref="kbga-actors-2151">Barth</persName> <date>1922</date> z. B. mit den Namen
+kann.<note xml:id="n50"> Diese ‚liberale‘ Option verbindet <persName ref="kbga-actors-2151">Barth</persName> <date>1922</date> z. B. mit den Namen
 <persName ref="kbga-actors-360">Schleiermacher</persName>,
 <persName ref="kbga-actors-752">Richard Rothe</persName>
 (<date>1799–1867</date>) und <persName ref="kbga-actors-410">Ernst 
 ­Troeltsch</persName> (<date>1865–1923</date>); vgl. <bibl corresp="kbga-bibls-492">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das Problem der Ethik in der Gegenwart (1922)</title>,
-in: V.u.kl.A. 1922–1925, S. 102–143, dort <ref type="pub" target="../volume/19/p112#p112">S. 112f</ref>.</bibl>
+in: V.u.kl.A. 1922–1925, S. 102–143, dort <ref type="pub" target="../volume/19/p112#p112">S. 112f.</ref></bibl>
                         </note>
 </p>
 <p>Oder aber: Die <term ref="kbga-terms-435">Kirche ist der Hort</term> der
@@ -875,11 +878,11 @@ zu den verschiedenen <term ref="kbga-terms-292">Zeitbewegungen</term>
 notwendig zugehörigen Negationen und Reaktionen. Sie sammle, tröste und
 ermutige auf den verschiedenen Feldern je die Opposition, die
 Minderheiten, die Verkürzten und Missvergnügten, die «<term ref="kbga-terms-436">Verschworenen einer besseren
-Zukunft</term>».<note place="footnote" xml:id="n51"> Die bei <persName ref="kbga-actors-2151">Barth</persName> und in seinem Freundeskreis häufiger benutzte
+Zukunft</term>».<note xml:id="n51"> Die bei <persName ref="kbga-actors-2151">Barth</persName> und in seinem Freundeskreis häufiger benutzte
 Wendung (vgl. <bibl corresp="kbga-bibls-26">
                                 V.u.kl.A. 1930–1933, <ref type="pub-" target="../volume/49/p419#fn_n24">S. 419, Anm. 24</ref></bibl>) geht wohl
 zurück auf <persName ref="kbga-actors-360">Schleiermacher</persName>. Siehe <bibl corresp="kbga-bibls-495">
-                                <hi rend="i">Friedrich
+                                <hi rend="italic">Friedrich
 Schleiermacher’s Monologen. Kritische Ausgabe</hi>, hrsg.
 von Fr. M. Schiele (PhB 84), Leipzig 1902, S. 62</bibl> (vgl. <bibl corresp="kbga-bibls-497">
                                 <title level="s">Kritische
@@ -894,9 +897,9 @@ Welt, und hindert jedes Erkennen der befreundeten Gemüther, und
 trachtet die Saat der bessern Zukunft zu verderben.»</note> Sie sei überall auf dem Platz, wo es Fragen aufzuwerfen und
 Proteste anzumelden gibt. Sie ordne sich in der Weise in die <term ref="kbga-terms-398">Geschichte</term> ein, dass sie sich
 konstituiert als das große Fragezeichen gegenüber den verschiedenen
-Entwicklungstendenzen dieses Säkulums.<note place="footnote" xml:id="n52"> Charakteristisch für diese Position sind z. B. die
+Entwicklungstendenzen dieses Säkulums.<note xml:id="n52"> Charakteristisch für diese Position sind z. B. die
 ‚sozialistischen‘ Schriften von <persName ref="kbga-actors-406">Paul Tillich</persName> (<date>1886–1965</date>); vgl.<bibl corresp="kbga-bibls-75"> <persName ref="kbga-actors-406">ders</persName>., <title level="a">Der Sozialismus als Kirchenfrage (1919)</title>, in:
-<hi rend="i">Gesammelte Werke</hi>, Bd. II: <hi rend="i">Christentum und soziale
+<hi rend="italic">Gesammelte Werke</hi>, Bd. II: <hi rend="italic">Christentum und soziale
 Gestaltung. Frühe Schriften zum religiösen Sozialismus</hi>,
 Stuttgart 1962, S. 14</bibl>: «Die Ethik der christlichen Liebe erhebt
 Anklage gegen […] den grundsätzlichen Egoismus der Privat- und
@@ -904,7 +907,7 @@ Profitwirtschaft, […] gegen den grundsätzlichen Egoismus einer
 Gliederung der Gesellschaft nach Klassen, […] gegen den
 grundsätzlichen Egoismus der nationalen Machtpolitik […].» Vgl.
 auch <bibl corresp="kbga-bibls-498">
-                                <persName ref="kbga-actors-406">ders</persName>., <hi rend="i">Die sozialistische
+                                <persName ref="kbga-actors-406">ders</persName>., <hi rend="italic">Die sozialistische
 Entscheidung (1933)</hi>, in: a.a.O., S. 219–365</bibl>.</note>
 </p>
 <p>Ich habe drei sehr verschiedene Gruppen derartiger Voraussetzungen <term ref="kbga-terms-188">kirchlicher Gestaltung</term>
@@ -915,7 +918,7 @@ merkwürdigsten Eindrücke aus dem deutschen <term ref="kbga-terms-368">Kirchens
 wenn auch unter anderem Vorzeichen, das Pathos und die Sprache der mir
 aus meiner eigenen schweizerischen Vergangenheit nur zu wohl bekannten
 <term ref="kbga-terms-438">religiösen Sozialisten</term> wieder zu
-finden.<note place="footnote" xml:id="n53"> <persName ref="kbga-actors-2151">Barth</persName> wurde während seiner Safenwiler Zeit zeitweise dem <term ref="kbga-terms-438">Religiösen Sozialismus</term>
+finden.<note xml:id="n53"> <persName ref="kbga-actors-2151">Barth</persName> wurde während seiner Safenwiler Zeit zeitweise dem <term ref="kbga-terms-438">Religiösen Sozialismus</term>
 zugeordnet und hatte damals enge Verbindungen zu zwei der
 führenden Religiösen Sozialisten in der Schweiz, <persName ref="kbga-actors-330">Leonhard Ragaz</persName> (<date>1868–1945</date>)
 und <persName ref="kbga-actors-240">Hermann Kutter</persName>
@@ -948,7 +951,7 @@ also auf das <term ref="kbga-terms-264">Gebot Gottes</term> berief man
 sich hüben und drüben! Man wird es aber auch dem liberalen, etwa dem
 anglo-amerikanischen <term ref="kbga-terms-440">Realismus</term> nicht
 so leicht abstreiten können, dass er in seiner Weise im Grunde dasselbe
-meint.<note place="footnote" xml:id="n54"> In den <placeName ref="kbga-places-62">USA</placeName> hatte
+meint.<note xml:id="n54"> In den <placeName ref="kbga-places-62">USA</placeName> hatte
 sich verstärkt seit Ende der 1920er Jahre, u. a. von <persName ref="kbga-actors-406">Paul Tillich</persName> und <persName ref="kbga-actors-8303">H. Richard Niebuhr</persName>
 (<date>1894–1962</date>) ausgehend, unter dem Stichwort religiöser /
 christlicher / gläubiger «Realismus» eine neue theologische
@@ -958,18 +961,18 @@ empfundenen ‚Barthianismus‘ und einem für zu optimistisch
 erachteten idealistischen Liberalismus zu gelangen: einer
 «realistischen Theologie». Vgl. etwa <bibl corresp="kbga-bibls-501">
                                 <persName ref="kbga-actors-8402">J. C.
-Bennett</persName>, <hi rend="i">After Liberalism –
+Bennett</persName>, <hi rend="italic">After Liberalism –
 What?</hi>, in: CCen 50 (1933), S. 1403–1406</bibl>; <bibl corresp="kbga-bibls-77">
                                 <persName ref="kbga-actors-8398">W. M.
-Horton</persName>, <hi rend="i">Realistic Theology</hi>, New
+Horton</persName>, <hi rend="italic">Realistic Theology</hi>, New
 York 1934</bibl>.</note> Wir haben es hier gewiss mit einer nahen Nachbarschaft, um nicht
 zu sagen: mit einer Familie zu tun. Nur dass es in dieser Familie, wie
 das so vorkommt, leider bekümmernd viel gegenseitige Verachtung,
-Verunglimpfung <pb xml:id="p090" ed="pga"/> und Bekämpfung gibt. Kann man sich vor dem <term ref="kbga-terms-442">Gottseibeiuns</term><note place="footnote" xml:id="n55"> Vgl. <bibl corresp="kbga-bibls-98">Art. «<title level="a">Gottseibeiuns</title>», in: DWb 8, Sp. 1402</bibl>: «euphemistische
+Verunglimpfung <pb xml:id="p090" ed="pga"/> und Bekämpfung gibt. Kann man sich vor dem <term ref="kbga-terms-442">Gottseibeiuns</term><note xml:id="n55"> Vgl. <bibl corresp="kbga-bibls-98">Art. «<title level="a">Gottseibeiuns</title>», in: DWb 8, Sp. 1402</bibl>: «euphemistische
 bezeichnung des teufels. seit etwa <date>1800</date> zusammengerückt aus der
-älteren bewahrungsformel <hi rend="i">gott sei bei uns</hi>, die
+älteren bewahrungsformel <hi rend="italic">gott sei bei uns</hi>, die
 gern dort auftaucht, wo vom teufel die rede ist.»</note> kräftiger bekreuzen, als es in den weiten kirchlichen Kreisen
-Deutschlands gegenüber dem sogenannten christlichen «Westlertum»<note place="footnote" xml:id="n56"> Sammelbegriff für die in <placeName ref="kbga-places-844">Westeuropa</placeName> ausgebildeten Vorstellungen von
+Deutschlands gegenüber dem sogenannten christlichen «Westlertum»<note xml:id="n56"> Sammelbegriff für die in <placeName ref="kbga-places-844">Westeuropa</placeName> ausgebildeten Vorstellungen von
 <term ref="kbga-terms-320">Demokratie</term>, <term ref="kbga-terms-448">Parlamentarismus</term>, <term ref="kbga-terms-449">Pluralismus</term>, aber auch <term ref="kbga-terms-444">Pazifismus</term> oder <term ref="kbga-terms-437">Sozialismus</term>. Vgl. <bibl corresp="kbga-bibls-498">
                                 <persName ref="kbga-actors-406">P. Tillich</persName>,
 <title level="a">Die Sozialistische Entscheidung</title> (<ref type="pub" target="#fn_n52">Anm. 52</ref>),
@@ -1023,9 +1026,9 @@ Meinungen. Aber eben doch nur Meinungen! Und darum dürfte es nicht
 wohlgetan sein, diese <term ref="kbga-terms-349">Voraussetzung</term>:
 die geschichtlichen Hintergründe und Gründe <term ref="kbga-terms-188">kirchlicher Gestaltung</term> ungeprüft mit der Würde und Autorität
 jener ersten Voraussetzung, des <term ref="kbga-terms-264">Gebotes
-Gottes</term>, zu bekleiden.<note place="footnote" xml:id="n57"> Vgl. paradigmatisch und bezogen auf das <term ref="kbga-terms-261">erste Gebot</term> schon <bibl corresp="kbga-bibls-473">
+Gottes</term>, zu bekleiden.<note xml:id="n57"> Vgl. paradigmatisch und bezogen auf das <term ref="kbga-terms-261">erste Gebot</term> schon <bibl corresp="kbga-bibls-473">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Das erste Gebot als theologisches Axiom
-(1933)</title>, in: V.u.kl.A. 1930–1933, S. 209–241, dort <ref type="pub-" target="../volume/49/p233#p233">S. 233f</ref>.</bibl>:
+(1933)</title>, in: V.u.kl.A. 1930–1933, S. 209–241, dort <ref type="pub-" target="../volume/49/p233#p233">S. 233f.</ref></bibl>:
 «Wenn die Theologie es, wissend um ihre Verantwortlichkeit
 gegenüber dem ersten Gebot, in der Tat nicht unterlassen kann,
 indem sie von der Offenbarung redet, auch vom Menschen, von
@@ -1048,7 +1051,7 @@ beeinflusst. Es kommt aber alles darauf an, dass uns die Bedingtheit
 unseres Urteils und also auch unserer Stellungnahmen deutlich bleibt und
 also auch die Notwendigkeit, sie anderen Voraussetzungen – von denen
 noch zu reden ist – unterzuordnen. Es kommt alles darauf an, dass der
-Einfluss unserer Stellungnahmen auf die kirchliche Gestaltung gerade <hi rend="i">nicht</hi> ein entscheidender, sondern ein von einer
+Einfluss unserer Stellungnahmen auf die kirchliche Gestaltung gerade <hi rend="italic">nicht</hi> ein entscheidender, sondern ein von einer
 kritischen Instanz her korrigierter und regulierter Einfluss ist. In dem
 Maße, als dem irgendwo nicht so sein sollte, müsste das Ergebnis <term ref="kbga-terms-188">kirchlicher Gestaltung</term> – und wenn das
 Wohlmeinen, die Energie und auch die <term ref="kbga-terms-457">Frömmigkeit</term>, die wir daran verwendeten, noch so groß wäre –
@@ -1069,7 +1072,7 @@ höchstens ein vorletztes Vertrauen entgegenzubringen.</p>
 aber außer den geschichtlichen Zusammenhängen auch noch einer auf einer
 ganz anderen, sozusagen zeitlosen Ebene liegenden Bedingung. Sie steht
 unter bestimmten <term ref="kbga-terms-350">
-                            <hi rend="i">psychologisch-moralischen Voraussetzungen</hi></term> auf Seiten der für sie verantwortlichen und an ihr tätigen
+                            <hi rend="italic">psychologisch-moralischen Voraussetzungen</hi></term> auf Seiten der für sie verantwortlichen und an ihr tätigen
 Menschen. Es ist einfach nicht zu leugnen, dass die Glaubwürdigkeit und
 damit auch die Bedeutsamkeit und wohl auch der Erfolg aller Tendenzen
 und Bewegungen kirchlicher Gestaltung mit dadurch bedingt ist: wer die
@@ -1079,13 +1082,13 @@ Hinsicht nicht im <term ref="kbga-terms-397">leeren Raum</term>, sondern
 durch Menschen unter Menschen; und wo immer ein Werk kirchlicher
 Gestaltung im Entstehen oder im Gange ist – und <pb xml:id="p093" ed="pga"/> wäre es nur eine so
 schlichte Sache wie etwa die Gründung oder Neubelebung einer
-Pfarrerkonferenz<note place="footnote" xml:id="n58"> Die Pfarrerkonferenz in <placeName ref="kbga-places-822">Myslibořice</placeName>, an der <persName ref="kbga-actors-2151">Barth</persName> diesen Vortrag hielt,
+Pfarrerkonferenz<note xml:id="n58"> Die Pfarrerkonferenz in <placeName ref="kbga-places-822">Myslibořice</placeName>, an der <persName ref="kbga-actors-2151">Barth</persName> diesen Vortrag hielt,
 war von einem «Ausschuß von jüngeren Pfarrern, durchweg Schüler
 von <persName ref="kbga-actors-1664">Hromádka</persName>, […]
 geplant und vorbereitet» worden; eingeladen waren «alle Pfarrer
 der Kirche mit ihren Frauen» und «unabhängig von ihrer
 theologischen Richtung» (<bibl corresp="kbga-bibls-477">
-                                <hi rend="i">Freundschaft im
+                                <hi rend="italic">Freundschaft im
 Widerspruch</hi> [<ref type="pub" target="#fn_n02">Anm. 2</ref>], S. 41</bibl>); die Beschreibung dieser
 besonderen Vorbereitung und <persName ref="kbga-actors-2151">Barths</persName> Bemerkung legen die Vermutung
 nahe, dass es sich auch hier um eine solche «Gründung oder
@@ -1142,19 +1145,19 @@ ohne welche wird niemand den Herrn sehen» (<ref type="can" subtype="bible" targ
 kann das anderes bedeuten als dies, dass wir die erste und
 vordringlichste Aufgabe kirchlicher Gestaltung in der vielleicht längst
 sehr zu Unrecht übersehenen und vernachlässigten Aufgabe unserer eigenen
-Gestaltung<note place="footnote" n="b" type="textcritical" xml:id="nb"> <ref corresp="B">ThExh 28</ref>: «Gestaltung, der Gestaltung».</note> des äußern und innern Haushalts unseres persönlichen und
+Gestaltung<note n="b" type="textcritical" xml:id="nb"> <ref corresp="B">ThExh 28</ref>: «Gestaltung, der Gestaltung».</note> des äußern und innern Haushalts unseres persönlichen und
 persönlichsten <term ref="kbga-terms-459">Lebens</term> erkennen? So hat
 es der <term ref="kbga-terms-12">Pietismus</term> bekanntlich immer
-gesagt<note place="footnote" xml:id="n59"> Zu <persName ref="kbga-actors-2151">Barths</persName> grundsätzlicher Sicht auf den Pietismus vgl.
+gesagt<note xml:id="n59"> Zu <persName ref="kbga-actors-2151">Barths</persName> grundsätzlicher Sicht auf den Pietismus vgl.
 <bibl corresp="kbga-bibls-34">
                                 Prot.Theol., S. 93–103</bibl>.</note> und <pb xml:id="p246" ed="A"/> so haben es sich heute manche
 durch die <term ref="kbga-terms-366">Gruppenbewegung</term> als etwas
-ganz Neues sagen lassen.<note place="footnote" xml:id="n60"> Vgl. oben, <ref type="pub" target="#fn_n35">Anm. 35</ref>; s. auch unten, <ref type="pub" target="../volume/55/p448#p448">S. 448–470</ref>.</note> Müssten nicht als Voraussetzung aller kirchlichen Gestaltung vor
+ganz Neues sagen lassen.<note xml:id="n60"> Vgl. oben, <ref type="pub" target="#fn_n35">Anm. 35</ref>; s. auch unten, <ref type="pub" target="../volume/55/p448#p448">S. 448–470</ref>.</note> Müssten nicht als Voraussetzung aller kirchlichen Gestaltung vor
 allem kirchliche Menschen und Persönlichkeiten, oder sagen wir biblisch:
 wahre Nachfolger Jesu auf den Plan gestellt werden, und sollten zu deren
 Beschaffung nicht gewisse <pb xml:id="p095" ed="pga"/> Disziplinen und Observanzen auch in der <term ref="kbga-terms-460">evangelischen Kirche</term> ganz neu in
 Betracht gezogen werden? Es ist von daher gesehen kein Zufall, dass in
-unsern Tagen einerseits die altreformierte <term ref="kbga-terms-461">Kirchenzucht</term>,<note place="footnote" xml:id="n61"> Vom Vorhaben, eine solche Kirchenzucht nach Rücksprache mit
+unsern Tagen einerseits die altreformierte <term ref="kbga-terms-461">Kirchenzucht</term>,<note xml:id="n61"> Vom Vorhaben, eine solche Kirchenzucht nach Rücksprache mit
 «Männern und Frauen» des Dorfes in seiner Gemeinde <placeName ref="kbga-places-845">Gödenroth/Hunsrück</placeName> wieder
 einzuführen bzw. zu erneuern, berichtete <seg type="bio">
                                 <persName ref="kbga-actors-8304">Friedrich Langensiepen</persName>
@@ -1163,7 +1166,7 @@ des Bruderrats der Bekennenden Kirche im Rheinland</seg>) <persName ref="kbga-ac
 einem Brief vom <date>5.3.1935</date> (<idno type="kba-objects-identifier">KBA 9335.267</idno>), dem eine
 Ausarbeitung «Erneuerte Kirchenzucht» beilag (im KBA im Original
 nicht erhalten; Abdruck: <bibl corresp="kbga-bibls-502">
-                                <persName ref="kbga-actors-8304">Fr. Langensiepen</persName>, <hi rend="i">Lebenserinnerungen</hi>, Bd. 2., hektographiertes
+                                <persName ref="kbga-actors-8304">Fr. Langensiepen</persName>, <hi rend="italic">Lebenserinnerungen</hi>, Bd. 2., hektographiertes
 Typoskript, S. 250–255</bibl> [<idno type="kba-objects-identifier">KBA 8823</idno>]), zu der er <persName ref="kbga-actors-2151">Barth</persName> um
 Stellungnahme bat. In seiner ausführlichen Antwort konstatierte
 <persName ref="kbga-actors-2151">Barth</persName>, er habe «das Blatt nicht ohne eine gewisse Unruhe
@@ -1187,7 +1190,7 @@ Aufgeschlossenheit müsste da gehört worden sein, wenn es bei
 diesem Exercitium mit rechten Dingen zugehen sollte!» (Brief
 <persName ref="kbga-actors-2151">Barths</persName> an <persName ref="kbga-actors-8304">Langensiepen</persName> vom <date>10.4.1935</date>; <idno type="kba-objects-id">KBA 9235.87</idno>).</note> anderseits das Kloster als Vorbild mindestens für evangelische
 <term ref="kbga-terms-462">Predigerseminare</term> neue Freunde
-gefunden haben.<note place="footnote" xml:id="n62"> Die in <placeName ref="kbga-places-151">Deutschland</placeName> schon länger existierenden Predigerseminare
+gefunden haben.<note xml:id="n62"> Die in <placeName ref="kbga-places-151">Deutschland</placeName> schon länger existierenden Predigerseminare
 erlangten im Kirchenkampf für die Bekennende Kirche eine
 besondere Bedeutung als Orte, an denen sie im Gegensatz zu
 vielen deutsch-christlich dominierten theologischen Fakultäten
@@ -1198,9 +1201,9 @@ Bonhoeffer</persName> und setzte diese in den
 Predigerseminaren <placeName ref="kbga-places-846">Zingst</placeName> und <placeName ref="kbga-places-847">Finkenwalde</placeName> um, wobei er sich maßgeblich auf
 <bibl corresp="kbga-bibls-503">
                                 <persName ref="kbga-actors-77">Johannes Calvins</persName>
-«Ordonnances ecclesiastiques» (1561; CR 38/I [= <hi rend="i">Calvini Opera
+«Ordonnances ecclesiastiques» (1561; CR 38/I [= <hi rend="italic">Calvini Opera
 10</hi>], col. 91–124)</bibl> berief. Vgl. <bibl corresp="kbga-bibls-78">
-                                <persName ref="kbga-actors-1474">E. Bethge</persName>, <hi rend="i">Dietrich
+                                <persName ref="kbga-actors-1474">E. Bethge</persName>, <hi rend="italic">Dietrich
 Bonhoeffer. Eine Biographie</hi>, Gütersloh 2005<edition rend="sup">9</edition>,
 S. 481–560</bibl>. – Gerade wenige Tage zuvor, am <date>21. August
 1935</date>, war <persName ref="kbga-actors-2151">Barth</persName> in <placeName ref="kbga-places-5">Basel</placeName> von <seg type="bio">
@@ -1210,7 +1213,7 @@ Studieninspektor in Finkenwalde an der Seite <persName ref="kbga-actors-50">Bonh
 besucht worden, der <pb xml:id="FN96" ed="pga"/> ihm von «Reformbestrebungen mit mönchischer
 Tendenz des neuen Predigerseminars Finkenwalde unter Bonhoeffer»
 berichtete; <persName ref="kbga-actors-223">Charlotte von
-Kirschbaum</persName> notierte weiter: «Karl <hi rend="i">warnt</hi>. Es scheint uns eine Fluchtburg»
+Kirschbaum</persName> notierte weiter: «Karl <hi rend="italic">warnt</hi>. Es scheint uns eine Fluchtburg»
 (Taschenkalender von Kirschbaum, Eintrag vom
 <date>21.8.1935</date>).</note> Ich denke, man wird auch <pb xml:id="p096" ed="pga"/> das von dieser Seite kommende Fragen
 und Anliegen nicht ernst genug nehmen können. Es bedarf keines Beweises,
@@ -1252,7 +1255,7 @@ eine gewisse Abneigung gegen <term ref="kbga-terms-26">Entscheidungen</term>, ge
 bestimmten Möglichkeit Platz zu greifen. Wir haben es in Deutschland
 erlebt, dass die <term ref="kbga-terms-12">Pietisten</term> und <term ref="kbga-terms-471">Gemeinschaftsleute</term> aller Richtungen,
 darunter auch die Leute der <term ref="kbga-terms-366">Gruppenbewegung</term>, mit den <term ref="kbga-terms-472">deutsch-christlichen Zerstörern der Kirche</term> wenigstens am
-Anfang auf der ganzen Linie fraternisiert haben,<note place="footnote" xml:id="n63"> In <bibl corresp="kbga-bibls-397">
+Anfang auf der ganzen Linie fraternisiert haben,<note xml:id="n63"> In <bibl corresp="kbga-bibls-397">
                                 <title level="a">Theologische Existenz heute!</title> (<ref type="pub" target="#fn_n53">Anm. 53</ref>),
 
                                     <ref type="pub-" target="../volume/49/p331#p331">S. 331</ref></bibl>, sprach <persName ref="kbga-actors-2151">Barth</persName> von der «Widerstandslosigkeit, in der
@@ -1267,11 +1270,11 @@ nahmen teil.»</note> ganz einfach, weil sie auch bei ihnen so etwas wie den Wil
 einer allgemeinen <term ref="kbga-terms-473">Lebenserneuerung</term>
 wahrzunehmen meinten. Man erzählte sich, dass der und jener im Grunde
 ein frommer Mann sei und wohl gar beständig ein Neues Testament in der
-Tasche trage, und damit war alles gut.<note place="footnote" xml:id="n64"> Gemeint ist wohl die persönliche Achtung, die man <persName ref="kbga-actors-289">Ludwig Müller</persName>, dem
+Tasche trage, und damit war alles gut.<note xml:id="n64"> Gemeint ist wohl die persönliche Achtung, die man <persName ref="kbga-actors-289">Ludwig Müller</persName>, dem
 deutschchristlichen Kandidat für das Amt des Reichsbischofs, im
 Sommer <date>1933</date> auch in traditionell kirchlich gesonnenen Kreisen
 entgegenbrachte; vgl. <bibl corresp="kbga-bibls-321">
-                                <persName ref="kbga-actors-7400">Th. M. Schneider</persName>, <hi rend="i">Reichsbischof Ludwig Müller. Eine Untersuchung zu Leben,
+                                <persName ref="kbga-actors-7400">Th. M. Schneider</persName>, <hi rend="italic">Reichsbischof Ludwig Müller. Eine Untersuchung zu Leben,
 Werk und Persönlichkeit</hi> (
                                     <choice>
                                         <sic>AKZG</sic>
@@ -1302,7 +1305,7 @@ und also auch die Wahl <pb xml:id="p248" ed="A"/> bestimmter
 Möglichkeiten <term ref="kbga-terms-188">kirchlicher Gestaltung</term>
 in sich schließen sollte, dann wäre zu sagen: Jene Form kann auch
 täuschen. Sie bürgt als solche nicht für den rechten Inhalt. Wir werden
-auf ihr Vorhandensein oder auf ihre Herstellung gerade <hi rend="i">nicht</hi> entscheidendes Gewicht legen dürfen, so wenig wie auf
+auf ihr Vorhandensein oder auf ihre Herstellung gerade <hi rend="italic">nicht</hi> entscheidendes Gewicht legen dürfen, so wenig wie auf
 jene andere Voraussetzung: unsere menschlichen Geschichtsbilder. Wir
 haben allerdings entscheidendes Gewicht zu legen auf die Frage unseres
 <term ref="kbga-terms-42">Gehorsams</term> gegen <term ref="kbga-terms-264">Gottes Gebot</term> und also in der Tat auf die
@@ -1316,19 +1319,19 @@ herausgegriffen – zu beschaffen ist. Wir werden uns sodann dafür
 offenhalten müssen, dass Gottes Wort und Geist nach der ihm eigenen
 <term ref="kbga-terms-481">Weisheit</term> und <term ref="kbga-terms-482">Geduld</term> die Menschen auch immer wieder
 ganz andere Wege führen kann als die, auf denen die nach irgendeinem
-unserer<note place="footnote" n="c" type="textcritical" xml:id="nc"> <ref corresp="B">ThExh 28</ref>: «unsern».</note> Begriffe «guten» Menschen bisher gewandelt sind: Die «Früchte
+unserer<note n="c" type="textcritical" xml:id="nc"> <ref corresp="B">ThExh 28</ref>: «unsern».</note> Begriffe «guten» Menschen bisher gewandelt sind: Die «Früchte
 des Geistes» [<ref type="can" subtype="bible" target="Gal.5.22">Gal.
-5,22</ref>] sind die Früchte des <hi rend="i">Geistes</hi>, und der
-Geist weht, wo <hi rend="i">er</hi> will [vgl. <ref type="can" subtype="bible" target="Joh.3.8">Joh. 3,8</ref>]. Was
+5,22</ref>] sind die Früchte des <hi rend="italic">Geistes</hi>, und der
+Geist weht, wo <hi rend="italic">er</hi> will [vgl. <ref type="can" subtype="bible" target="Joh.3.8">Joh. 3,8</ref>]. Was
 Gerechtigkeit, Friede und Freude im Heiligen Geist [vgl. <ref type="can" subtype="bible" target="Röm.14.17">Röm. 14,17</ref>] ist, das
-werden wir wohl immer wieder <hi rend="i">lernen</hi> müssen. Wir werden
+werden wir wohl immer wieder <hi rend="italic">lernen</hi> müssen. Wir werden
 endlich damit rechnen müssen, dass <term ref="kbga-terms-483">Gottes
 wahre Heilige</term> oft genug in den Augen der Welt und auch der
 kirchlichen Welt nicht als anziehende und einleuchtende, sondern als
 sehr fragwürdige Gestalten dastehen müssen: Beispiele dafür aus <term ref="kbga-terms-110">Bibel</term> und <term ref="kbga-terms-464">Kirchengeschichte</term> brauche ich wohl nicht anzuführen. Das
 alles weist uns aber darauf hin, dass die <pb xml:id="p099" ed="pga"/> Dinge, die wir vielleicht an
 uns selbst und an Anderen ohne weiteres als «Früchte des Geistes»
-anzusehen geneigt sein<note place="footnote" n="d" type="textcritical" xml:id="nd"> <ref corresp="B">ThExh 28</ref>: «sehen».</note> möchten, sich als solche immer erst erweisen und bewähren
+anzusehen geneigt sein<note n="d" type="textcritical" xml:id="nd"> <ref corresp="B">ThExh 28</ref>: «sehen».</note> möchten, sich als solche immer erst erweisen und bewähren
 müssen. Gerade wer weiß um die Notwendigkeit der <term ref="kbga-terms-36">Gnade Gottes</term>, gerade wer um sie bittet,
 gerade wer an sie glaubt, also gerade wer in wirklichem <term ref="kbga-terms-376">Gehorsam</term> steht, wird es nicht anders
 sagen. Ich denke jetzt an <persName ref="kbga-actors-77">Calvin</persName>, der in seiner Abschiedsrede an die Pfarrer von
@@ -1336,24 +1339,24 @@ sagen. Ich denke jetzt an <persName ref="kbga-actors-77">Calvin</persName>, der 
 Tode nachdrücklich erklärt hat: «Alles was ich getan habe, ist im Grunde
 nichts wert. Die Gottlosen werden sich freilich dieses bemächtigen, um
 es zu verdrehen; aber doch wiederhole ich es noch einmal: Alles was ich
-getan, ist nichts wert und ich bin eine erbärmliche Kreatur».<note place="footnote" xml:id="n65"> Vgl. <bibl corresp="kbga-bibls-504">
+getan, ist nichts wert und ich bin eine erbärmliche Kreatur».<note xml:id="n65"> Vgl. <bibl corresp="kbga-bibls-504">
                                 <persName ref="kbga-actors-77">J.
 Calvin</persName>, <title level="a">Discours d’adieu aux
-ministres</title> (28. Mai 1564) (CR 37 [= <hi rend="i">Calvini Opera 9</hi>],
+ministres</title> (28. Mai 1564) (CR 37 [= <hi rend="italic">Calvini Opera 9</hi>],
 col. 891–894, dort col. 893</bibl>: «[…] <foreign xml:lang="fre">et
 mesmes tout ce que i’ay faict n’a rien vallu. Les meschans
 prendront bien ce mot: mais ie dis encores que tout ce que
 i’ay faict n’a rien vallu, et que ie suis une miserable
 creature</foreign>.»</note> Der authentische Kommentar zu dem Wort Jesu: «Lasset euer Licht
-leuchten vor den Leuten!» [<ref type="can" subtype="bible" target="Mt.5.16">Mt. 5,16</ref>] ist sein anderes Wort: «<hi rend="i">Ich</hi> bin das Licht der Welt!» [<ref type="can" subtype="bible" target="Joh.8.12">Joh. 8,12</ref>] und <pb xml:id="p249" ed="A"/> das Wort des <persName ref="kbga-actors-2297">4. Evangelisten</persName> über <persName ref="kbga-actors-2206">Johannes den Täufer</persName>: «<hi rend="i">Er</hi> war <hi rend="i">nicht</hi> das Licht, sondern dass er <hi rend="i">zeugte</hi>
+leuchten vor den Leuten!» [<ref type="can" subtype="bible" target="Mt.5.16">Mt. 5,16</ref>] ist sein anderes Wort: «<hi rend="italic">Ich</hi> bin das Licht der Welt!» [<ref type="can" subtype="bible" target="Joh.8.12">Joh. 8,12</ref>] und <pb xml:id="p249" ed="A"/> das Wort des <persName ref="kbga-actors-2297">4. Evangelisten</persName> über <persName ref="kbga-actors-2206">Johannes den Täufer</persName>: «<hi rend="italic">Er</hi> war <hi rend="italic">nicht</hi> das Licht, sondern dass er <hi rend="italic">zeugte</hi>
 von dem Licht.» [<ref type="can" subtype="bible" target="Joh.1.8">Joh.
 1,8</ref>] Das bedeutet aber, dass wir es auch bei den wohl zu
 bedenkenden <term ref="kbga-terms-350">moralisch-psychologischen
 Voraussetzungen</term> kirchlicher Gestaltung mit einer relativen
 und untergeordneten Instanz zu tun haben, der wir als solcher nur ein
 vorletztes Vertrauen entgegenbringen können. Was wir als menschliche
-Größe und Güte kennen, <hi rend="i">kann</hi>
-<term ref="kbga-terms-377">Gehorsam</term> gegen <term ref="kbga-terms-264">Gottes Gebot</term> sein. Es <hi rend="i">kann</hi> das, was Menschenaugen da wahrnehmen, kraft der <term ref="kbga-terms-485">Gerechtigkeit</term> und <term ref="kbga-terms-115">Barmherzigkeit Gottes</term> wohl ein Zeichen
+Größe und Güte kennen, <hi rend="italic">kann</hi>
+<term ref="kbga-terms-377">Gehorsam</term> gegen <term ref="kbga-terms-264">Gottes Gebot</term> sein. Es <hi rend="italic">kann</hi> das, was Menschenaugen da wahrnehmen, kraft der <term ref="kbga-terms-485">Gerechtigkeit</term> und <term ref="kbga-terms-115">Barmherzigkeit Gottes</term> wohl ein Zeichen
 sein, dass hier sein Werk geschieht, dass hier sein Gebot Gehorsam
 gefunden hat. Es ist aber an sich so wenig mit diesem Gehorsam
 identisch, dass es – wir denken an das Wort von den Wölfen im Schafspelz
@@ -1375,20 +1378,20 @@ unserer sehr unchristlichen <term ref="kbga-terms-750">Sündhaftigkeit</term> be
 versucht: von der umfassenden und entscheidenden Voraussetzung des
 Gehorsams, von den geschichtlichen und moralisch-psychologischen
 Voraussetzungen. Es bleiben uns nun noch übrig die spezifisch <term ref="kbga-terms-351">
-                            <hi rend="i">theologischen Voraussetzungen</hi></term>. Wer Ohren hatte zu hören [vgl. <ref type="can" subtype="bible" target="Mt.11.15">Mt. 11,15</ref>], der hat schon im
-Bisherigen<note place="footnote" n="e" type="textcritical" xml:id="ne"> In <ref corresp="A">Th.Fr.u.A.</ref> folgt hier irrtümlich eine Wiederholung der
+                            <hi rend="italic">theologischen Voraussetzungen</hi></term>. Wer Ohren hatte zu hören [vgl. <ref type="can" subtype="bible" target="Mt.11.15">Mt. 11,15</ref>], der hat schon im
+Bisherigen<note n="e" type="textcritical" xml:id="ne"> In <ref corresp="A">Th.Fr.u.A.</ref> folgt hier irrtümlich eine Wiederholung der
 einleitenden Zeilen dieses Abschnittes ab «von den allgemeinen
 Voraussetzungen». </note> einiges über sie zu hören bekommen. Wir haben ja schon im
 Bisherigen die Dinge in einem ganz bestimmten Licht betrachtet, mit ganz
 bestimmten Maßstäben gemessen. Wir hatten einen Standort, und dieser
 Standort war nicht zufällig bezogen und auch nicht <pb xml:id="p250" ed="A"/> freiwillig gewählt. Er war der theologische Standpunkt.
 «Theologisch» kann hier nichts anderes bedeuten als: sachgemäß, nämlich
-gemäß dem, worum es geht, wenn nach den Voraussetzungen <hi rend="i">kirchlicher</hi> Gestaltung gefragt werden soll. Theologisch heißt
-hier konkret sehr einfach: dem Sein der Kirche entsprechend.<note place="footnote" xml:id="n66"> Vgl. <bibl corresp="kbga-bibls-2">
+gemäß dem, worum es geht, wenn nach den Voraussetzungen <hi rend="italic">kirchlicher</hi> Gestaltung gefragt werden soll. Theologisch heißt
+hier konkret sehr einfach: dem Sein der Kirche entsprechend.<note xml:id="n66"> Vgl. <bibl corresp="kbga-bibls-2">
                                 KD
                                  I/1, S. 5</bibl>: Die Aufgabe der Theologie «ist die […] Kritik
-und Korrektur der Rede von Gott nach Maßgabe des der Kirche <hi rend="i">eigenen</hi> Prinzips. Theologie ist diejenige
-Wissenschaft, die sich letztlich <hi rend="i">diese</hi> und <hi rend="i">nur</hi> diese Aufgabe stellt.»</note> Also auch ein Jurist, ein Politiker, ein Soziologe, ein Dichter
+und Korrektur der Rede von Gott nach Maßgabe des der Kirche <hi rend="italic">eigenen</hi> Prinzips. Theologie ist diejenige
+Wissenschaft, die sich letztlich <hi rend="italic">diese</hi> und <hi rend="italic">nur</hi> diese Aufgabe stellt.»</note> Also auch ein Jurist, ein Politiker, ein Soziologe, ein Dichter
 müsste, wenn er sachgemäß von den Voraussetzungen kirchlicher Gestaltung
 und also von der Kirche reden wollte, endlich und zuletzt theologisch
 reden, er müsste auf das <term ref="kbga-terms-386">Geheimnis der freien
@@ -1403,7 +1406,7 @@ sagen.</p>
 <p>Wir meinen, wenn wir nun zuletzt auch noch die <term ref="kbga-terms-351">theologischen Voraussetzungen</term> kirchlicher Gestaltung als
 solche und für sich zur Sprache bringen, eine dritte relative Instanz,
 die in besonderer Weise zu berücksichtigen ist, wo immer es um
-kirchliche Gestaltung geht. Eine dritte <hi rend="i">relative</hi>
+kirchliche Gestaltung geht. Eine dritte <hi rend="italic">relative</hi>
 Instanz, sage ich ausdrücklich. Sie steht also gewissermaßen in einer
 Linie mit den beiden vorher genannten. Wir dürfen nicht erwarten,
 nunmehr von Dingen zu hören, denen wir im Unterschied zu vorhin ein
@@ -1412,12 +1415,12 @@ Himmel</term>. Sie ist auch <term ref="kbga-terms-490">nicht Gottes
 Offenbarung</term> auf Erden oder deren vollmächtige Vertretung.
 Auch sie ist <term ref="kbga-terms-491">Menschenwerk</term>, kein Ersatz
 für <term ref="kbga-terms-50">Gottes Wort</term> und <term ref="kbga-terms-179">Geist</term>, nicht identisch mit dem <term ref="kbga-terms-377">Gehorsam</term> gegen <term ref="kbga-terms-264">Gottes Gebot</term> als der Grundvoraussetzung
-kirchlicher Gestaltung. Auch sie <hi rend="i">zielt</hi> gleichsam nur
+kirchlicher Gestaltung. Auch sie <hi rend="italic">zielt</hi> gleichsam nur
 nach dieser letzten Voraussetzung. Man darf also von der Theologie nicht
 zu viel erwarten. Man darf in ihrem Namen kein Papsttum aufrichten in
 der Kirche. Man hat sie aber an ihrem Ort, in ihrem Wesen und in ihrer
 besonderen Würde zu respektieren, und es geschieht im Einzelnen und im
-Ganzen nie ungestraft, wenn das unterlassen wird.<note place="footnote" xml:id="n67"> Vgl. <bibl corresp="kbga-bibls-2">a.a.O., S. 78</bibl>: «Wie katastrophal muss die Kirche sich
+Ganzen nie ungestraft, wenn das unterlassen wird.<note xml:id="n67"> Vgl. <bibl corresp="kbga-bibls-2">a.a.O., S. 78</bibl>: «Wie katastrophal muss die Kirche sich
 selbst missverstehen, wenn sie wähnen kann, theologische
 Besinnung sei eine Angelegenheit ruhiger, zur Kontemplation […]
 einladender Situationen und Zeiten, eine Art Friedensluxus, für
@@ -1434,59 +1437,59 @@ sekundären, der geschichtlichen und der psychologischen Instanzen, so
 bedeutet schon das das Bestehen einer höchst besonderen Beziehung, der
 sich alle kirchliche Gestaltungsarbeit verhaftet weiß. Diese Beziehung
 als solche ist der Gegenstand der eigentümlich <term ref="kbga-terms-351">theologischen Voraussetzung</term>. Die
-Theologie weist darauf hin, dass es <hi rend="i">unter</hi> <pb xml:id="p102" ed="pga"/> allen
-geschichtlichen und psychologischen Bedingungen und zugleich auch <hi rend="i">jenseits</hi> aller dieser Bedingungen <term ref="kbga-terms-492">Gottes freie Gnade</term> ist, die in Sachen
+Theologie weist darauf hin, dass es <hi rend="italic">unter</hi> <pb xml:id="p102" ed="pga"/> allen
+geschichtlichen und psychologischen Bedingungen und zugleich auch <hi rend="italic">jenseits</hi> aller dieser Bedingungen <term ref="kbga-terms-492">Gottes freie Gnade</term> ist, die in Sachen
 der kirchlichen Gestaltung nun wirklich zu entscheiden hat. Sie erinnert
 also die Kirche daran, dass ihre Gestaltung nicht Sache ihrer Willkür,
 sondern Sache einer ihr gegebenen, von ihr immer neu zu erkennenden und
-anzuerkennenden Ordnung ist.<note place="footnote" xml:id="n68"> Diesen Gedanken äußerte <persName ref="kbga-actors-2151">Barth</persName> schon Anfang <date>1934</date> an der <orgName ref="kbga-actors-5873">Freien reformierten Synode</orgName>:
+anzuerkennenden Ordnung ist.<note xml:id="n68"> Diesen Gedanken äußerte <persName ref="kbga-actors-2151">Barth</persName> schon Anfang <date>1934</date> an der <orgName ref="kbga-actors-5873">Freien reformierten Synode</orgName>:
 «Der Irrtum, dass die Kirche ihre zeitliche und sichtbare
 Gestalt aus eigener Willkür oder äußeren Notwendigkeiten
 empfange, beruht auf dem Irrtum, die Kirche sei ein Verein. […]
-<hi rend="i">Die Kirche ist aber kein Verein</hi>, sondern
-die sichtbar-zeitlich gestaltete Wirklichkeit als <hi rend="i">Kirche Jesu Christi</hi>. Sie ist die vom Herrn selbst
+<hi rend="italic">Die Kirche ist aber kein Verein</hi>, sondern
+die sichtbar-zeitlich gestaltete Wirklichkeit als <hi rend="italic">Kirche Jesu Christi</hi>. Sie ist die vom Herrn selbst
 berufene Gemeinde Jesu Christi. […] Alles hängt daran, dass
 Rechtfertigung und Heiligung hier nicht auseinandergerissen
-werden. Auch als <hi rend="i">Gestalt</hi> hört die Kirche auf
+werden. Auch als <hi rend="italic">Gestalt</hi> hört die Kirche auf
 göttlichen Befehl» (<bibl corresp="kbga-bibls-505">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Bekenntnis der freien
 Kirchensynode</title>, in: V.u.kl.A. 1934–1935, S. 3–64, dort
 <ref type="pub-" target="../volume/52/p055#p055">S. 55</ref></bibl>).</note> Und sie erinnert sie an die Wege, die zu dieser Erkenntnis und
 Anerkennung führen. Sie erinnert sie – was alle <term ref="kbga-terms-447">Geschichtsprophetie</term> und was alle <term ref="kbga-terms-477">moralische Bemühung</term> an sich nicht tun –
 an die <term ref="kbga-terms-340">
-                            <hi rend="i">Wahrheit</hi></term>, die ihre Gestaltung beherrschen muss, wenn sie <term ref="kbga-terms-188">kirchliche Gestaltung</term> sein soll.<note place="footnote" xml:id="n69"> Vgl. schon <bibl corresp="kbga-bibls-506">
+                            <hi rend="italic">Wahrheit</hi></term>, die ihre Gestaltung beherrschen muss, wenn sie <term ref="kbga-terms-188">kirchliche Gestaltung</term> sein soll.<note xml:id="n69"> Vgl. schon <bibl corresp="kbga-bibls-506">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Reformation als
 Entscheidung</title>, in: V.u.kl.A. 1930–1933, S. 516–552, dort
 <ref type="pub-" target="../volume/49/p529#p529">S. 529</ref></bibl>: «Evangelische Kirche im Sinn der Reformation ist da und
-ist nur da, wo es um die reine <hi rend="i">Lehre</hi> der
-christlichen <hi rend="i">Wahrheiten</hi> geht, wo das ganze
+ist nur da, wo es um die reine <hi rend="italic">Lehre</hi> der
+christlichen <hi rend="italic">Wahrheiten</hi> geht, wo das ganze
 Leben der Kirche auf diese eine Aufgabe ausgerichtet, an ihr
 gemessen ist.»</note> Das ist der umschränkte, aber unentbehrliche Dienst, den die
 <term ref="kbga-terms-493">Theologie</term> der Kirche leisten kann.
 Indem sie ihn ausübt, entsteht eine dritte, besondere Gruppe von
-Voraussetzungen kirchlicher Gestaltung. Dass hier eine <hi rend="i">besondere</hi> Funktion eingreift, dass hier <hi rend="i">besondere</hi> Voraussetzungen sichtbar werden, das ist darin
+Voraussetzungen kirchlicher Gestaltung. Dass hier eine <hi rend="italic">besondere</hi> Funktion eingreift, dass hier <hi rend="italic">besondere</hi> Voraussetzungen sichtbar werden, das ist darin
 begründet, dass sowohl das Bestehen wie die Erkenntnis jener primären
 Instanz, die die Kirche letztlich möglich und wirklich macht – mit
-anderen Worten: sowohl die <hi rend="i">Offenbarung</hi> der <term ref="kbga-terms-494">Wahrheit</term> wie unsere <hi rend="i">Teilnahme</hi> an ihr – keine Selbstverständlichkeiten, sondern
-Gottes freies Geschenk sind.<note place="footnote" xml:id="n70"> Vgl. <bibl corresp="kbga-bibls-418">
+anderen Worten: sowohl die <hi rend="italic">Offenbarung</hi> der <term ref="kbga-terms-494">Wahrheit</term> wie unsere <hi rend="italic">Teilnahme</hi> an ihr – keine Selbstverständlichkeiten, sondern
+Gottes freies Geschenk sind.<note xml:id="n70"> Vgl. <bibl corresp="kbga-bibls-418">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Offenbarung, Kirche, Theologie
 (1934)</title>, in: V.u.kl.A. 1934–1935, S. 169–217, dort <ref type="pub-" target="../volume/52/p180#p180">S. 180</ref></bibl>:
 «Erkenntnis von Offenbarung heißt immer Anerkennung des Wunders
 dieser Begegnung: der Gnade, der Barmherzigkeit, der
 Herablassung Gottes. Aber damit ist ja gerade gesagt: sie ist
-Erkenntnis einer wirklichen <hi rend="i">Beziehung</hi> zwischen
+Erkenntnis einer wirklichen <hi rend="italic">Beziehung</hi> zwischen
 Gott und Mensch.»</note> Man kann die <term ref="kbga-terms-495">notwendige Existenz der
 Theologie</term> insofern ein <pb xml:id="p103" ed="pga"/> kleines Zeichen dafür nennen, dass die
-Gnade <hi rend="i">Gnade</hi> ist! Dass dem so ist, das will wahrlich
-immer wieder <hi rend="i">besonders</hi> bedacht sein. Möchte die
+Gnade <hi rend="italic">Gnade</hi> ist! Dass dem so ist, das will wahrlich
+immer wieder <hi rend="italic">besonders</hi> bedacht sein. Möchte die
 Theologie nur davor bewahrt bleiben, mit der Gnade nun doch wieder wie
 mit einem Stück <term ref="kbga-terms-329">Natur</term> umzugehen! Es
 gibt keine Wissenschaft, der so wie der Theologie durch ihren Gegenstand
 von Haus aus <term ref="kbga-terms-496">Bescheidenheit</term> nahegelegt
 und zugemutet wäre.</p>
-<p>Die Theologie <hi rend="i">erinnert</hi> die Kirche, sagten wir. Ich
+<p>Die Theologie <hi rend="italic">erinnert</hi> die Kirche, sagten wir. Ich
 möchte darunter vor allem dies verstehen, dass die <term ref="kbga-terms-497">Theologie die Kirche an sich selbst</term>, an
-die <hi rend="i">Kirche</hi> erinnert. Sie erinnert den einzelnen
+die <hi rend="italic">Kirche</hi> erinnert. Sie erinnert den einzelnen
 Pfarrer und seine Gemeinde daran, dass sie <term ref="kbga-terms-498">nicht ein beliebiger Verein</term> mit beliebigen Tendenzen und
 Instituten, sondern nun eben <term ref="kbga-terms-371">christliche
 Kirche</term> sind. Sie erinnert die <pb xml:id="p252" ed="A"/>
@@ -1508,7 +1511,7 @@ zu sein. Dies geschieht dann, wenn sie, sei es aus Angst um ihre
 Existenz, sei es aus dem Vorwitz, ihre Sache in eigenmächtiger Weise gut
 machen zu wollen, darauf verfällt, neben der Stimme des guten Hirten
 [vgl. <ref type="can" subtype="bible" target="Joh.10.11">Joh.
-10,11</ref>.<ref type="can" subtype="bible" target="Joh.10.14">14</ref>] andere Stimmen maßgebend zu hören,<note place="footnote" xml:id="n71"> Anspielung auf die erste der <term ref="kbga-terms-189">Berner
+10,11</ref>.<ref type="can" subtype="bible" target="Joh.10.14">14</ref>] andere Stimmen maßgebend zu hören,<note xml:id="n71"> Anspielung auf die erste der <term ref="kbga-terms-189">Berner
     Thesen</term> von <date>1528</date> (<bibl corresp="kbga-bibls-17">
                                 BSRK, S. 30</bibl>; <bibl corresp="kbga-bibls-20">
                                 RefBS I/1, S. 203</bibl>), die
@@ -1531,13 +1534,13 @@ Erfahrung gemacht, dass es einen <term ref="kbga-terms-508">lutherischen</term>,
 Methoden der <term ref="kbga-terms-65">natürlichen Theologie</term>
 nicht im Geringsten verschieden ist. Nach allen diesen Seiten, wirklich
 zur Linken und zur Rechten, gegen <term ref="kbga-terms-631">Liberalismus</term>
-<hi rend="i">und</hi>
+<hi rend="italic">und</hi>
 <term ref="kbga-terms-511">Konservativismus</term>, hat die Theologie in
 der Kirche <term ref="kbga-terms-512">Wächterdienst</term> zu tun. Dass
 dies geschieht, das ist die erste <term ref="kbga-terms-351">theologische Voraussetzung</term>
 <term ref="kbga-terms-188">kirchlicher Gestaltung</term>.</p>
 <p>Sie erinnert die Kirche an sich selbst, indem sie sie an die <term ref="kbga-terms-110">
-                            <hi rend="i">Heilige Schrift</hi></term> erinnert, sagten wir eben.
+                            <hi rend="italic">Heilige Schrift</hi></term> erinnert, sagten wir eben.
 Wir kommen damit zu den beiden positiven Aufgaben der Theologie. Die
 erste ist die immer wieder aufzunehmende Aufgabe der <term ref="kbga-terms-513">Schriftauslegung</term>. Die Kirche ist darin
 entscheidend Kirche, dass in ihr auf die Schrift gehört wird. Auch alle
@@ -1556,14 +1559,14 @@ Schrift auslegt, weist sie hin auf jene Beziehung der Kirche zu der
 primären Voraussetzung ihrer Gestaltung. Sie weist ja eben damit auf
 Jesus Christus hin, der der <term ref="kbga-terms-515">Ursprung</term>,
 die <term ref="kbga-terms-516">Mitte</term> und der <term ref="kbga-terms-517">Gegenstand</term> der Schrift ist. Sie weist
-jetzt also die Kirche über sich selber <hi rend="i">hinaus</hi> auf den
+jetzt also die Kirche über sich selber <hi rend="italic">hinaus</hi> auf den
 Grund, aus dem sie geworden ist. Nur in diesem Sinne kann sie ja die
 Kirche auch an <pb xml:id="p105" ed="pga"/> sich selbst erinnern wollen. Und dass dies geschieht, das
 ist die zweite <term ref="kbga-terms-351">theologische
 Voraussetzung</term>
 <term ref="kbga-terms-188">kirchlicher Gestaltung</term>.</p>
 <p>Sie erinnert die Kirche endlich, indem sie sie an sich selbst und an die
-Schrift erinnert, an <hi rend="i">Jesus Christus</hi>, also an ihren
+Schrift erinnert, an <hi rend="italic">Jesus Christus</hi>, also an ihren
 <term ref="kbga-terms-200">Herrn</term>, der letztlich und
 eigentlich auch allein ihr Gestalter sein kann. Dies ist, über die bloße
 Auslegung hinausgehend, die zweite positive Aufgabe der Theologie: das
@@ -1580,8 +1583,8 @@ des monarchisch-<term ref="kbga-terms-520">königlichen Amtes Jesu
 Christi</term>, als ein Regimentsakt dessen verstehen lassen, von
 dem das <term ref="kbga-terms-48">Glaubensbekenntnis</term> sagt:
 <foreign xml:lang="lat">resurrexit tertia die, ascendit ad coelos,
-sedet ad dexteram Dei patris omnipotentis</foreign>.<note place="footnote" xml:id="n72"> <bibl corresp="kbga-bibls-544">
-                                <hi rend="i">Apostolikum</hi>, 2. Art.</bibl>; dort: «<foreign xml:lang="lat">tertia die
+sedet ad dexteram Dei patris omnipotentis</foreign>.<note xml:id="n72"> <bibl corresp="kbga-bibls-544">
+                                <hi rend="italic">Apostolikum</hi>, 2. Art.</bibl>; dort: «<foreign xml:lang="lat">tertia die
 resurrexit a mortuis</foreign> […]».</note> Theologie als Zeugnis besteht in der bei dem Werk kirchlicher
 Gestaltung jederzeit aktuellen Hervorhebung der Selbständigkeit und
 <term ref="kbga-terms-521">Einzigkeit Jesu Christi</term> sowohl
@@ -1596,7 +1599,7 @@ Voraussetzung</term>
 <term ref="kbga-terms-188">kirchlicher Gestaltung</term>.</p>
 <p>Es bleibt uns über diese theologischen Voraussetzungen noch Folgendes zu
 sagen:</p>
-<p>1. Sie wollen <hi rend="i">gepflegt</hi>, das heißt, sie wollen in ihrer
+<p>1. Sie wollen <hi rend="italic">gepflegt</hi>, das heißt, sie wollen in ihrer
 Bedeutung für alle kirchliche Gestaltung lebendig erhalten bleiben. Ist
 <term ref="kbga-terms-491">Theologie Menschenwerk</term> wie
 irgendein anderes, so ist damit jedenfalls auch gesagt: sie ist eine
@@ -1615,7 +1618,7 @@ kummervoller Weise anmerkt, dass keine oder eine schlechte Theologie
 dahintersteht.</p>
 <p>2. Die <term ref="kbga-terms-351">theologischen Voraussetzungen</term>
 wollen in der <term ref="kbga-terms-188">kirchlichen Gestaltung</term>
-zur <hi rend="i">Geltung</hi> kommen. <term ref="kbga-terms-522">Theologie ist kein Luxusartikel</term>,<note place="footnote" xml:id="n73"> Vgl. <bibl corresp="kbga-bibls-434">
+zur <hi rend="italic">Geltung</hi> kommen. <term ref="kbga-terms-522">Theologie ist kein Luxusartikel</term>,<note xml:id="n73"> Vgl. <bibl corresp="kbga-bibls-434">
                                 <persName ref="kbga-actors-2151">K. Barth</persName>, <title level="a">Die Theologie und die Mission</title>
 (<ref type="pub" target="#fn_n30">Anm. 30</ref>), <ref type="pub-" target="../volume/49/p168#168">S. 168</ref></bibl>: «Theologie ist freilich nicht der Luxus einer
 von der Verkündigung der Kirche unabhängigen intellektuellen
@@ -1630,7 +1633,7 @@ Konferenzen vielleicht in Form einer Morgenandacht eine kleine Reverenz
 erweisen, dann aber über sie hinweg und an ihr vorbei zur eigentlichen
 Sache, nämlich zur <term ref="kbga-terms-523">Kirchenpolitik</term>, zu
 Organisations- und Verwaltungsfragen usw. übergehen zu können
-meint.<note place="footnote" xml:id="n74"> In diesem Sinn brachte <persName ref="kbga-actors-2151">Barth</persName> schon 20 Jahre zuvor, am <date>11.
+meint.<note xml:id="n74"> In diesem Sinn brachte <persName ref="kbga-actors-2151">Barth</persName> schon 20 Jahre zuvor, am <date>11.
 November 1915</date>, in die aargauische Synode einen <bibl corresp="kbga-bibls-508">
                                 <title level="a">Antrag betr. Abschaffung des
 Synodalgottesdienstes</title> (V.u.kl.A. 1914–1921, 
@@ -1657,7 +1660,7 @@ Umständen unfruchtbar ausgehen werden. Die lächerliche <term ref="kbga-terms-5
 bloß intellektuellen Angelegenheit sollte, nachdem sie im deutschen
 <term ref="kbga-terms-368">Kirchenstreit</term> als ein
 Hauptargument der <term ref="kbga-terms-223">Deutschen Christen</term>
-noch einmal ihre Rolle gespielt hat,<note place="footnote" xml:id="n75"> Mit diesem «Argument» setzte sich <persName ref="kbga-actors-2151">Barth</persName> bereits auseinander in
+noch einmal ihre Rolle gespielt hat,<note xml:id="n75"> Mit diesem «Argument» setzte sich <persName ref="kbga-actors-2151">Barth</persName> bereits auseinander in
 <bibl corresp="kbga-bibls-397">
                                 <title level="a">Theologische Existenz heute!</title> (<ref type="pub" target="#fn_n53">Anm. 53</ref>),
 bes. <ref type="pub-" target="../volume/49/p313#p313">S. 313f</ref>;</bibl> vgl. zur Auseinandersetzung mit einer
@@ -1668,7 +1671,7 @@ a.a.O., S. 478–487, dort <ref type="pub-" target="../volume/49/p483#p483">S. 
 <p>3. Die <term ref="kbga-terms-351">theologischen Voraussetzungen</term>
 <term ref="kbga-terms-188">kirchlicher Gestaltung</term> müssen
 gegenüber den <term ref="kbga-terms-349">geschichtlichen</term> und
-<term ref="kbga-terms-350">psychologischen</term> den <hi rend="i">Primat</hi> – keinen absoluten, aber einen relativen Primat haben.
+<term ref="kbga-terms-350">psychologischen</term> den <hi rend="italic">Primat</hi> – keinen absoluten, aber einen relativen Primat haben.
 Es darf bei allen an der kirchlichen Gestaltung Beteiligten kein Zweifel
 darüber bestehen, dass die geschichtlichen und psychologischen
 Bedingungen bei dieser Gestaltung zwar beständig in Rechnung zu ziehen,
@@ -1676,7 +1679,7 @@ aber eben vom theologischen Standort aus in Rechnung zu ziehen sind. Sie
 können nicht ihrerseits zu Standorten, zu Prinzipien, zu <term ref="kbga-terms-267">Dogmen</term> oder <term ref="kbga-terms-525">Axiomen</term> werden. Was soll man dazu sagen, wenn mir ein sehr
 intensiv arbeitender kirchlicher Gestalter neulich sehr feierlich
 erklären konnte, das gegenwärtige Hauptproblem der <term ref="kbga-terms-456">schweizerischen Kirche</term> bestehe in der
-ungenügenden Teilnahme der Männerwelt am Sonntags<term ref="kbga-terms-96">gottesdienst</term>?!<note place="footnote" xml:id="n76"> Es ließ sich nicht ermitteln, wer diese Meinung vertrat.
+ungenügenden Teilnahme der Männerwelt am Sonntags<term ref="kbga-terms-96">gottesdienst</term>?!<note xml:id="n76"> Es ließ sich nicht ermitteln, wer diese Meinung vertrat.
 Möglicherweise handelte es sich um eines der vielen Gespräche,
 die <persName ref="kbga-actors-2151">Barth</persName> anlässlich seines Aufenthaltes in <placeName ref="kbga-places-67">Genf</placeName> hielt; u. a. traf er
 dort mehrfach mit <persName ref="kbga-actors-636">Adolf
@@ -1701,12 +1704,12 @@ Gottes</term> in Jesus Christus, sie können das Geheimnis des <term ref="kbga-t
 <term ref="kbga-terms-90">Betens</term> und <term ref="kbga-terms-73">Glaubens</term> nicht ersetzen. Es bleibt auch
 ihnen gegenüber wahr: «Die Liebe höret nimmer auf, so doch die
 Weissagungen aufhören werden und die Sprachen aufhören <pb xml:id="p256" ed="A"/> werden und die Erkenntnis aufhören wird. Denn unser Wissen
-ist Stückwerk und unser Weissagen ist Stückwerk» (<ref type="can" subtype="bible" target="1.Kor.13.8f.">I.Kor. 13,8–9</ref>).
+ist Stückwerk und unser Weissagen ist Stückwerk» (<ref type="can" subtype="bible" target="1.Kor.13.8 1.Kor.13.9">I.Kor. 13,8–9</ref>).
 Voraussetzungen wirklich <term ref="kbga-terms-188">kirchlicher
 Gestaltung</term> sind auch sie nur in der damit angezeigten
-Beschränkung. Eben in dieser <hi rend="i">Beschränkung</hi> empfangen
+Beschränkung. Eben in dieser <hi rend="italic">Beschränkung</hi> empfangen
 die theologischen mit allen andern Voraussetzungen kirchlicher
-Gestaltung ihre <hi rend="i">Bestimmung</hi>.</p>
+Gestaltung ihre <hi rend="italic">Bestimmung</hi>.</p>
 <anchor type="cross" xml:id="kbga-texts-55005_end"/>
 </div>
 </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-53054">
   <teiHeader>
     <fileDesc>
@@ -7,7 +7,7 @@
         <title type="formal">Predigt Nr. 52</title>
         <title type="content">Predigt: Römer 5,1-2 (Reformationsfest)</title>
         <title type="citation_line_1">Barth, Karl: Predigt: Römer 5,1-2 (Reformationsfest), 6. November 1910</title>
-        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53054 (Stand: 3. April 2024)</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/53054 (Stand: 28. Oktober 2024)</title>
         <title type="citation_line_3">Druck: Karl Barth, Predigten 1907–1910, hrsg. v. Zocher, Peter (Gesamtausgabe, Abt. I), Zürich 2018, S. .</title>
       </titleStmt>
       <editionStmt>
@@ -29,7 +29,9 @@
         <!-- The printed Gesamtausgabe -->
         <bibl type="pga" xml:id="pga">
           <title type="volume">Predigten 1907–1910</title>
+          <title type="text">Predigt Nr. 52: Predigt: Römer 5,1-2 (Reformationsfest)</title>
           <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Zocher, Peter</editor>
           <pubPlace>Zürich</pubPlace>
           <publisher>Theologischer Verlag</publisher>
           <date type="publication">2018</date>
@@ -55,7 +57,7 @@
       </textClass>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-03T12:08:49+02:00">teiHeader was automatically produced from the database 2024-04-03T12:08:49+02:00</change>
+      <change when="2024-10-28T10:45:16+01:00">teiHeader was automatically produced from the database 2024-10-28T10:45:16+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -63,14 +65,14 @@
             <div type="sermon"> 
                 <pb xml:id="p641" ed="pga"/>
                 <div type="opener">
-                <head type="0">
+                <head>
                     <pb ed="A" rend="hidden" n="1"/>
                     <idno>52</idno>
                 </head>
                
                     <dateline>
                         <placeName ref="kbga-places-67">
-                            <hi rend="i">Genf</hi></placeName>, 
+                            <hi rend="italic">Genf</hi></placeName>, 
                         Sonntag, den <date when="1910-11-06">6. November 1910</date> <date rend="right">24. nach Trinitatis</date> 
                     </dateline>
                     <head type="event">
@@ -105,7 +107,7 @@
                     Weltgeschichte gemacht haben, der an innerer <pb ed="A" rend="hidden" n="3"/>
                     Bedeutsamkeit wenig andre zur Seite zu stellen sind. Wir sehen <bibl corresp="kbga-bibls-1321"><persName ref="kbga-actors-261">Luther</persName> seine 95 Thesen gegen
                     den Ablass</bibl> an die Türe der <term type="Sachen" key="Wittenberg, Schlosskirche">Schlosskirche</term> von <placeName ref="kbga-places-65">Wittenberg</placeName> schlagen, wir sehen
-                        den<hi rend="i">selben</hi> vor Kaiser und Reich zu <placeName ref="kbga-places-676">Worms</placeName> seine Überzeugung bekennen, sehen ihn auf der
+                        den<hi rend="italic">selben</hi> vor Kaiser und Reich zu <placeName ref="kbga-places-676">Worms</placeName> seine Überzeugung bekennen, sehen ihn auf der
                     stillen <term type="Sachen" key="Wartburg">Wartburg</term> an der Arbeit,
                     das Neue <term type="Sachen" key="Neues Testament">Testament</term> in sein
                     geliebtes Deutsch zu übertragen. Da ist <persName ref="kbga-actors-443">Zwingli</persName>, nach Charakter und Geistesart der
@@ -146,14 +148,14 @@
                             <lg>
                                 <l>Sag an, Helvetien, du Heldenvaterland,</l>
                                 <l>Wie ist dein jetzig Volk dem unsrigen verwandt?<note xml:id="n03">Es handelt sich um die wohl bekanntesten Verse aus dem <bibl corresp="kbga-bibls-91">Gedicht «Die
-                        verdorbenen Sitten» von <persName ref="kbga-actors-2867">A. von Haller</persName> (1731; <hi rend="i">Gedichte des Herrn
+                        verdorbenen Sitten» von <persName ref="kbga-actors-2867">A. von Haller</persName> (1731; <hi rend="italic">Gedichte des Herrn
                             von Haller</hi>, neueste Aufl., Wien 1765, S. 183–204, dort
                         S. 186</bibl>; vgl. <bibl corresp="kbga-bibls-2803">
-                                        <persName ref="kbga-actors-658">J. C. Lavater</persName>, <hi rend="i">Schweizerlieder</hi>, Bern 1768, S. 56</bibl>;
+                                        <persName ref="kbga-actors-658">J. C. Lavater</persName>, <hi rend="italic">Schweizerlieder</hi>, Bern 1768, S. 56</bibl>;
                         verwendet z. B. auch als Motto auf der Titelei von: <bibl corresp="kbga-bibls-2804">
-                                        <persName ref="kbga-actors-9309">J. von Müller</persName>, <hi rend="i">Die
+                                        <persName ref="kbga-actors-9309">J. von Müller</persName>, <hi rend="italic">Die
                             Geschichten Schweizerischer Eidgenossenschaft</hi>, Bd. 1:
-                            <hi rend="i">Von des Volks Ursprung</hi>, neue verbesserte Aufl.,
+                            <hi rend="italic">Von des Volks Ursprung</hi>, neue verbesserte Aufl.,
                         Reutlingen 1824</bibl>); bei <persName ref="kbga-actors-2867">Haller</persName>: «Wie ist dein altes Volk dem jetzigen
                         verwandt?»</note>
                             </l>
@@ -177,7 +179,7 @@
                             <l>Weh dir, dass du ein Enkel bist!<note xml:id="n05">
                                     <bibl corresp="kbga-bibls-647">
                                         <persName ref="kbga-actors-136">J. W. von Goethe</persName>,
-                                        <hi rend="i">Faust. Der Tragödie erster Teil</hi>, V. 1977
+                                        <hi rend="italic">Faust. Der Tragödie erster Teil</hi>, V. 1977
                                     (Studierzimmer II).</bibl>
                                 </note>
                             </l>
@@ -207,14 +209,14 @@
                         polemischen Reaktionen wie der des Dogmatikers und Pastors an St.
                         Pierre, <persName ref="kbga-actors-4689">Georges Fulliquet</persName> (1863–1940), der am 24. Juni 1910 einen
                         Vortrag vor über 2000 Zuhörern hielt; vgl. <bibl corresp="kbga-bibls-2806">
-                                <persName ref="kbga-actors-9310">M. Delgado</persName>, <hi rend="i">Die Borromäus-Enzyklika
+                                <persName ref="kbga-actors-9310">M. Delgado</persName>, <hi rend="italic">Die Borromäus-Enzyklika
                             «Editae saepe» Pius’ X. vom 26. Mai 1910 und die
-                            Folgen</hi>, in: <hi rend="i">Karl Borromäus und die katholische Reform.
+                            Folgen</hi>, in: <hi rend="italic">Karl Borromäus und die katholische Reform.
                             Akten des Freiburger Symposiums zur 400. Wiederkehr der
                             Heiligsprechung des Schutzpatrons der katholischen Schweiz</hi>,
                         hrsg. von M. Delgado / M. Ries (Studien zur christlichen Religions- und
                         Kulturgeschichte, 13), Freiburg/CH / Stuttgart 2010, S. 340–362,
-                        dort bes. S. 353f</bibl>.</note> Aber es ist doch bei all den gutgemein<pb xml:id="p644" ed="pga"/>ten Erklärungen und Resolutionen, die damals von den
+                        dort bes. S. 353f</bibl>.</note> Aber es ist doch bei all den gutgemein<pb xml:id="p644" ed="pga" break="no"/>ten Erklärungen und Resolutionen, die damals von den
                     Kanzeln und Rednerpulten und in den Zeitungen in die Öffentlichkeit
                     gedrungen sind, mehr als eine Stimme laut geworden, die der Meinung war, wir
                     täten besser, in Gesinnungen und Taten <term type="Sachen" key="Protestanten, Gesinnsungsprotestanten">Protestanten</term> zu sein
@@ -224,7 +226,7 @@
                     äußerlich das Recht hätten, jene Männer gegen die Angriffe der <term type="Sachen" key="Borromäusenzyklika, Bosheit">Bosheit</term> und <term type="Sachen" key="Borromäusenzyklika, Dummheit">Dummheit</term> in
                     Schutz zu nehmen. Heute erwacht das protestantische Bewusstsein in Vielen
                     dann, wenn es <pb ed="A" rend="hidden" n="4"/> gilt, in dieser oder jener Weise
-                    gegen Rom Front zu machen, aber auch <hi rend="i">nur</hi> dann, und man sollte
+                    gegen Rom Front zu machen, aber auch <hi rend="italic">nur</hi> dann, und man sollte
                     sich über den Wert solcher Demonstrationen keinen Täuschungen hingeben:
                     Innere Überlegenheit gegenüber <term type="Sachen" key="Katholizismus">Rom</term> hat einen <term type="Sachen" key="Protestantismus">Protestantismus</term> zur Voraussetzung, der mehr ist als ein
                     gelegentliches Allgemeingefühl.</p>
@@ -239,11 +241,11 @@
                     und <persName ref="kbga-actors-77">Calvins</persName> für dich
                     ungedacht, dass du über die Dinge des Lebens und der Gottheit so obenhin und
                     ungründlich reden kannst? Wir Menschen und Christen von heutzutage sind ein
-                    geschichtsloses Geschlecht geworden. Wir sind viel zu rasch be<pb xml:id="p645" ed="pga"/>reit, zu denken und zu sagen: das war einmal. Täuschen wir
+                    geschichtsloses Geschlecht geworden. Wir sind viel zu rasch be<pb xml:id="p645" ed="pga" break="no"/>reit, zu denken und zu sagen: das war einmal. Täuschen wir
                     uns nicht: solche <term type="Sachen" key="Geschichtslosigkeit">Geschichtslosigkeit</term> ist nahe verwandt mit Sinnlosigkeit und
                     Gedankenlosigkeit. Wir müssen es wieder verstehen lernen, dass die großen
-                    Männer und Gedanken der Vorzeit nicht <hi rend="i">waren</hi>, sondern
-                        <hi rend="i">sind</hi>, und dass wir, wenn wir selbst etwas sein wollen,
+                    Männer und Gedanken der Vorzeit nicht <hi rend="italic">waren</hi>, sondern
+                        <hi rend="italic">sind</hi>, und dass wir, wenn wir selbst etwas sein wollen,
                     nicht vorübergehen dürfen an den Geistestatsachen, die als die Felsen der
                     Ewigkeit aus den wechselnden Flüssen der Zeit hervorragen.</p>
                 <p> Am <term type="Sachen" key="Reformationstag">Reformationsfest</term> des
@@ -253,7 +255,7 @@
                         <term type="Sachen" key="Reformation">Reformation</term> gebracht, in
                     sich verkörpert hat wie kein Zweiter. Heute möchte ich euch jene Grundge<pb ed="A" rend="hidden" n="5"/>danken des evangelischen Christentums vorführen
                     im Spiegelbild einer andern geistigen Persönlichkeit jener Tage,
-                        <hi rend="i">
+                        <hi rend="italic">
                             <persName ref="kbga-actors-272">Philipp Melanchthons</persName></hi>, des Mannes, der damals in
                         <placeName ref="kbga-places-65">Wittenberg</placeName>, der
                     Hochburg der neuen Gedankenwelt, als gelehrter Kenner der Theologie, der
@@ -269,11 +271,11 @@
                     des 16. Jahrhunderts aus verstehen müssen. Er hat damals in lateinischer
                     Sprache ein Buch geschrieben, betitelt: «Die Grundsätze der Theologie»,<note xml:id="n08">
                             <bibl corresp="kbga-bibls-2807">
-                                <persName ref="kbga-actors-272">Ph. Melanchthon</persName>, <hi rend="i">Loci communes rerum
+                                <persName ref="kbga-actors-272">Ph. Melanchthon</persName>, <hi rend="italic">Loci communes rerum
                             Theologiae seu Hypotyposes Theologicae</hi> (1521), CR 21,
                         col. 81–228.</bibl> – Barth besaß 1910 und arbeitete mit:
                             <bibl corresp="kbga-bibls-2808">
-                                <hi rend="i">Die Loci Communes Philipp Melanchthons. In ihrer Urgestalt
+                                <hi rend="italic">Die Loci Communes Philipp Melanchthons. In ihrer Urgestalt
                             nach G. L. Plitt</hi>, in dritter Auflage von neuem hrsg. und
                         erläutert von Th. Kolde, Leipzig 1900</bibl>.<term type="Sachen" key="Loci communes"/>
                         </note> die erste wissenschaftliche
@@ -285,7 +287,7 @@
                     verworrene Zeit dringendes Bedürfnis hat nach gesunder und reiner <term type="Sachen" key="Lehre, gesunde">Lehre</term> [vgl. <ref type="can" subtype="bible" target="Tit.2.1">Tit. 2,1</ref>], nach positiver
                     Gedankenarbeit an den höchsten Dingen des Lebens, und dazu kann uns der
                     Mann, dem seine Zeit den Ehrennamen «Lehrer Deutschlands» beilegte,<note xml:id="n09">Vgl. <bibl corresp="kbga-bibls-2809">
-                                <persName ref="kbga-actors-9311">K. Hartfelder</persName>, <hi rend="i">Philipp Melanchthon
+                                <persName ref="kbga-actors-9311">K. Hartfelder</persName>, <hi rend="italic">Philipp Melanchthon
                             als Praeceptor Germaniae</hi>, Berlin 1889 (Reprint: Nieuwkoop
                         1972), S. VIII</bibl>: «In den Statuten der Universität Greifswald [= 1545]
                         wird Melanchthon ‚unser aller gemeinsamer und mit höchster Treue und
@@ -296,9 +298,9 @@
                         Mann Praeceptor Germaniae und magister veritatis heißen, […].»;
                         vgl. auch <bibl corresp="kbga-bibls-2809">a.a.O., S. 99–101</bibl>.</note> Führer und Vorbild sein.</p>
                 <p rend="margin-top">Das Erste, was uns bei <persName ref="kbga-actors-272">Melanchthon</persName> entgegentritt, ist eine
-                    neue Auffassung vom <hi rend="i">Menschen</hi>. Bevor ich Gott erkennen kann,
+                    neue Auffassung vom <hi rend="italic">Menschen</hi>. Bevor ich Gott erkennen kann,
                     muss ich mich selbst erkennen, muss erkennen vor Allem, was von mir
-                        <hi rend="i">gefordert ist</hi>, was ich sein sollte. Melanchthon ist
+                        <hi rend="italic">gefordert ist</hi>, was ich sein sollte. Melanchthon ist
                     Humanist gewesen, <pb ed="A" rend="hidden" n="6"/> d. h. er stand schon, bevor er
                         <persName ref="kbga-actors-261">Luthers</persName> Freund und
                     Arbeitsgenosse wurde, in den Reihen jener Bewegung, die darauf ausging, an
@@ -318,7 +320,7 @@
                     Vorfrage zu, was denn der Inhalt des <term type="Sachen" key="Gesetz, Inhalt">Gesetzes</term> sei.<note xml:id="n10">Melanchthon entfaltet seine Gesetzeslehre, indem er einerseits die
                         natürlichen, die göttlichen und die menschlichen Gesetze unterscheidet
                         und andererseits die göttlichen Gesetze in Moral-, Judizial- und
-                        Zeremonialgesetze untergliedert (<bibl corresp="kbga-bibls-2807"><hi rend="i">Loci</hi> [Anm. 8], 21,
+                        Zeremonialgesetze untergliedert (<bibl corresp="kbga-bibls-2807"><hi rend="italic">Loci</hi> [Anm. 8], 21,
                         col. 116–139</bibl>).</note> Und darüber hat er nun Gedanken geäußert,
                     in denen ebenso sehr altes köstliches Gut menschlichen Geisteslebens wieder
                     ans Licht gebracht wurde, wie sie andrerseits seiner Zeit vorauseilten und
@@ -337,7 +339,7 @@
                     gefunden. Er sagt: Das Gesetz befiehlt uns, Gemeinschaft zu halten, nicht
                     für uns selbst zu leben, sondern als Glieder der menschlichen Gesellschaft.
                     Vorher sind wir keine Menschen. Also dürfen wir niemanden in seinen
-                        <hi rend="i">Rechten</hi> verletzen, und es muss unsre <hi rend="i">Pflicht</hi>
+                        <hi rend="italic">Rechten</hi> verletzen, und es muss unsre <hi rend="italic">Pflicht</hi>
                     sein, Alles fürs Gemeinsame zu tun. Diesen letzten Gedanken hat Melanchthon
                     ausdrücklich so verstanden, dass es kein <term type="Sachen" key="Eigentum">Privateigentum</term>, sondern – dies ganz im Sinne des modernen
                         <term type="Sachen" key="Sozialismus">Sozialismus</term> – nur
@@ -345,7 +347,7 @@
                     aufrechtzuerhalten, weil die menschliche <term type="Sachen" key="Mensch, Schwachheit">Schwachheit</term> und <term type="Sachen" key="Mensch, Bosheit">Bosheit</term> die sozialistische Ordnung der
                     Dinge noch zu Ungunsten des Nächsten missbrauchen würde; der <term type="Sachen" key="Saat">Staat</term> sei dazu da, mit seinen Ordnungen
                     und Verträgen den Verkehr und Austausch der Güter zwischen den Einzelnen zu
-                    regeln, aber <hi rend="i">der</hi> Staat sei der beste, heißt es mit
+                    regeln, aber <hi rend="italic">der</hi> Staat sei der beste, heißt es mit
                     ausdrücklicher Berufung auf <persName ref="kbga-actors-322">Plato</persName>,
                     in <pb xml:id="p648" ed="pga"/> dem das Privatwesen und <term type="Sachen" key="Eigentum">Privateigentum</term> immer mehr verschwinde zugunsten
                     der Gemeinsamkeit aller <term type="Sachen" key="Gütergemeinschaft">Güter</term> und aller Interessen.<note xml:id="n11">Vgl.
@@ -356,7 +358,7 @@
                         Plato erfolgt <bibl corresp="kbga-bibls-2807">a.a.O., col. 119</bibl>.</note> |</p>
                 <p>Melanchthon hat geschwankt in seiner Ansicht, ob neben dies Gebot der
                     Gemeinschaft das zweite des <term type="Sachen" key="Gehorsam">Gehorsams</term> gegen Gott zu stellen sei. Er hat sich schließlich
-                    dahin entschieden, es <hi rend="i">nicht</hi> zu tun, weil dies aus der <term type="Sachen" key="Vernunft">Vernunft</term> nicht abzuleiten sei wie
+                    dahin entschieden, es <hi rend="italic">nicht</hi> zu tun, weil dies aus der <term type="Sachen" key="Vernunft">Vernunft</term> nicht abzuleiten sei wie
                     jenes andre. Die Wahrheit dürfte sein, dass beide Gebote letzten Grundes
                     eins und dasselbe sind, denn Gott ist die <term type="Sachen" key="Gott, Gerechtigkeit">Gerechtigkeit</term>, Gerechtigkeit aber kann
                     für uns nichts Anderes sein als Pflichterfüllung gegen den Andern. Dies
@@ -386,7 +388,7 @@
                         iudicat deus, non de externo opere»; <bibl corresp="kbga-bibls-2807">col. 122</bibl>: «Vides itaque tria
                         praecepta, Deo fidendum esse, Laudandum esse deum et tollerandum eius
                         opus in nobis, comprehendi hac sententia, dilige deum ex toto
-                        corde».</note>. Nichts su<pb xml:id="p649" ed="pga"/>chen außer Gott [vgl.
+                        corde».</note>. Nichts su<pb xml:id="p649" ed="pga" break="no"/>chen außer Gott [vgl.
                     <ref type="can" subtype="bible" target="Dtn.4.29">Dtn. 4,29</ref>], ihm aus allen
                     seinen Kräften dienen [vgl. <ref type="can" subtype="bible" target="Dtn.6.13">Dtn. 6,13</ref>] und ihn in seinem Innersten wirken lassen, das ist nach
                     Melanchthons Meinung der Inhalt der zehn <term type="Sachen" key="Zehn Gebote">Gebote</term> des alten <term type="Sachen" key="Bund">Bundes</term> und der <term type="Sachen" key="Bergpredigt">Bergpredigt</term> Jesu. Was Gott von uns fordere, das seien zunächst
@@ -395,7 +397,7 @@
                     Menschen, weil sie alle dieselbe Forderung enthalten, auf die es ankommt. Es
                     gibt kein Extragesetz für Mönche und Nonnen zur Leistung besonderer
                     Frömmigkeitsübungen, denn es gibt vor Gott nicht Menschen erster und zweiter
-                    Klasse, sondern nur den <hi rend="i">einen</hi> Menschen, dem gesagt ist, was gut
+                    Klasse, sondern nur den <hi rend="italic">einen</hi> Menschen, dem gesagt ist, was gut
                     ist und was er tun soll [vgl. <ref type="can" subtype="bible" target="Mi.6.8">Mi. 6,8</ref>]. Wir spüren bereits hier die ganze Energie, den ganzen
                     Ernst des neuen Geistes, der damals zu wehen begann, wenn wir diese Gedanken
                     neben das stellen, was die römische <term type="Sachen" key="Kirche, römisch-katholische">Kirche</term> unter Erfüllung des
@@ -418,11 +420,11 @@
                     innerlich um diese Frage gemüht, die Bekanntschaft mit der Niederlage, die
                     Luther erlitten, und mit dem Sieg, den er gewonnen, sie führt nun auch ihn
                     weiter von der hohen Selbsterkenntnis der <term type="Sachen" key="Philosophie">Philosophen</term> zu der höhern des Neuen <term type="Sachen" key="Neues Testament">Testaments</term>. Und darum ist nun
-                    seine Antwort auf die Frage: kann der Mensch guten <term type="Sachen" key="Wille, guter">Willen</term> haben? ein rundes <hi rend="i">Nein</hi>. Es
+                    seine Antwort auf die Frage: kann der Mensch guten <term type="Sachen" key="Wille, guter">Willen</term> haben? ein rundes <hi rend="italic">Nein</hi>. Es
                     ist die berühmte reformatorische Lehre von der Unfreiheit des <term type="Sachen" key="Wille, unfreier">Willens</term>, von der wir da <pb xml:id="p650" ed="pga"/> zu reden haben. Ich hörte unlängst mit großer
-                    Sicherheit behaupten: O doch, der Wille <hi rend="i">ist</hi> frei, der Mensch
-                        <hi rend="i">ist</hi> eine freie, sittliche Persönlichkeit, er
-                        <hi rend="i">kann</hi> wählen. Die <term type="Sachen" key="Reformatoren">Reformatoren</term> waren andrer Meinung. Die damals eine solche
+                    Sicherheit behaupten: O doch, der Wille <hi rend="italic">ist</hi> frei, der Mensch
+                        <hi rend="italic">ist</hi> eine freie, sittliche Persönlichkeit, er
+                        <hi rend="italic">kann</hi> wählen. Die <term type="Sachen" key="Reformatoren">Reformatoren</term> waren andrer Meinung. Die damals eine solche
                     Freiheit des Willens behaupteten, das waren ihre katholischen Gegner. Ihnen
                     entgegnet Melanchthon: Das Gesetz fordert etwas von uns, was unsre Kräfte
                         übersteigt.<note xml:id="n16">Die Lehre von der Unfreiheit
@@ -437,10 +439,10 @@
                         complecti per omnia voluntatem divinam, etiam tum cum damnat et
                         mortificat.»</note> Und doch ist gerade das von uns verlangt, das und
                     nichts weniger, das allein ist guter Wille. Können wir uns für
-                        <hi rend="i">diesen</hi> guten Willen entscheiden? Ja, in unsern äußern
+                        <hi rend="italic">diesen</hi> guten Willen entscheiden? Ja, in unsern äußern
                     Handlungen haben wir <term type="Sachen" key="Wille, freier in äußeren Handlungen">Freiheit</term>, dies zu tun
                     und jenes zu lassen. Aber was sollen die äußern Handlungen? Gott sieht das
-                        <hi rend="i">Herz</hi> an [<ref type="can" subtype="bible" target="1.Sam.16.7">1.Sam. 16,7</ref>]. Ein Mensch kann alle Gebote der <term type="Sachen" key="Moral, bürgerliche">bürgerlichen</term> und kirchlichen <term type="Sachen" key="Moral, kirchliche">Moral</term> erfüllen, das
+                        <hi rend="italic">Herz</hi> an [<ref type="can" subtype="bible" target="1.Sam.16.7">1.Sam. 16,7</ref>]. Ein Mensch kann alle Gebote der <term type="Sachen" key="Moral, bürgerliche">bürgerlichen</term> und kirchlichen <term type="Sachen" key="Moral, kirchliche">Moral</term> erfüllen, das
                     übersteigt seine Kräfte nicht, er kann sich entschließen, den Weg der <term type="Sachen" key="Buße">Buße</term> zu gehen, auch innerlich, indem er
                     seine Gedanken zwingt, sich mit Reue und Besserung zu beschäftigen; in den
                     Klöstern gab es genug solcher Leute, auch das übersteigt schließlich seine
@@ -450,13 +452,13 @@
                     Gehorsam, den das Gesetz <term type="Sachen" key="Gesetz, göttliches">Gottes</term> von uns verlangt. Unser Herz soll diesem Gesetz gehorchen
                     und Buße tun, wir selbst sollen in freier Liebe, in spontanem Gehorsam uns
                     auf die Seite des Gesetzes stellen. |</p>
-                <p>Und <hi rend="i">das</hi> können wir nicht von uns aus, sagt <persName ref="kbga-actors-272">Melanchthon</persName>, dazu, d. h. aber <pb ed="A" rend="hidden" n="10"/> gerade in der Hauptsache fehlt uns der freie
+                <p>Und <hi rend="italic">das</hi> können wir nicht von uns aus, sagt <persName ref="kbga-actors-272">Melanchthon</persName>, dazu, d. h. aber <pb ed="A" rend="hidden" n="10"/> gerade in der Hauptsache fehlt uns der freie
                         <term type="Sachen" key="Wille, freier">Wille</term>. Gerade unser Herz,
                     unser eigentlichster innerster Sinn ist von Natur einem andern Gesetze
                     gehorsam, dem Gesetze nicht der Gottesliebe, sondern der
-                        <hi rend="i">Selbstliebe</hi>. Wie es für den Reformator nur <hi rend="i">ein <term type="Sachen" key="Gutes / das Gute, Einssein mit Gott">Gutes</term></hi> gibt, den Willen, der im tiefsten Grund mit Gott
+                        <hi rend="italic">Selbstliebe</hi>. Wie es für den Reformator nur <hi rend="italic">ein <term type="Sachen" key="Gutes / das Gute, Einssein mit Gott">Gutes</term></hi> gibt, den Willen, der im tiefsten Grund mit Gott
                     eins ist, so gibt es für ihn <pb xml:id="p651" ed="pga"/> auch nur ein <term type="Sachen" key="Böses / das Böse, Selbstliebe">
-                            <hi rend="i">Böses</hi></term>, und das ist der Wille, der nicht Gott,
+                            <hi rend="italic">Böses</hi></term>, und das ist der Wille, der nicht Gott,
                     sondern sich selbst sucht, eben die <term type="Sachen" key="Selbstliebe">Selbstliebe</term>.<note xml:id="n18">Vgl. <bibl corresp="kbga-bibls-2807">a.a.O.,
                         col. 97f</bibl>.: «Ita fit, ut anima luce, vitaque coelesti carens excecetur,
                         et sese ardentissime amet, sua quaerat, non cupiat, non velit, nisi
@@ -483,23 +485,23 @@
                     uns aber von Natur gegen den Strich, und darum sind wir von Natur unfrei zum
                         <term type="Sachen" key="Gutes / das Gute">Guten</term>, gefangen unter
                     die <term type="Sachen" key="Sünde">
-                            <hi rend="i">Sünde</hi></term>. Es kann keine
+                            <hi rend="italic">Sünde</hi></term>. Es kann keine
                     Rede davon sein, dass wir von uns aus, durch unsre Anstrengung, durch unser
                     Verdienst, ins rechte Verhältnis zu Gott kommen. |</p>
                 <p> Ihr seht, meine Freunde, wie dieser zweite Grundgedanke der <term type="Sachen" key="Reformation">Reformation</term> im engsten
                     Zusammenhang steht mit jenem ersten: das Herz, den innern Sinn, den Willen
-                    sollen wir Gott geben, das ist das <hi rend="i">Gesetz <term type="Sachen" key="Gesetz, göttliches">Gottes</term></hi>, aber das Herz, den
+                    sollen wir Gott geben, das ist das <hi rend="italic">Gesetz <term type="Sachen" key="Gesetz, göttliches">Gottes</term></hi>, aber das Herz, den
                     innern Sinn, den Willen geben wir Gott nicht, sondern lieben offen oder
-                    heimlich nur uns selbst, das ist die <hi rend="i">Sünde</hi>. Man hat oft gesagt,
+                    heimlich nur uns selbst, das ist die <hi rend="italic">Sünde</hi>. Man hat oft gesagt,
                     das reformatorische Dogma von der <term type="Sachen" key="Sünde, reformatorisches Dogma von der S.">Sünde</term> sei finster
                     und rückschrittlich; das gerade Gegenteil ist richtig; es <pb ed="A" rend="hidden" n="11"/> ist das eigentliche Prinzip wirklichen <term type="Sachen" key="Fortschritt">Fortschritts</term> im Gegensatz zu <pb xml:id="p652" ed="pga"/> der Oberflächlichkeit des gewöhnlichen Denkens, das
                     im <term type="Sachen" key="Katholizismus">Katholizismus</term> seine
                     glänzendste Vertretung gefunden hat. Weil <persName ref="kbga-actors-272">Melanchthon</persName> groß denkt von der
-                        <hi rend="i">Würde</hi> des <term type="Sachen" key="Menschenwürde">Menschen</term>, d. h. von seiner Aufgabe, eben darum denkt er tief und
+                        <hi rend="italic">Würde</hi> des <term type="Sachen" key="Menschenwürde">Menschen</term>, d. h. von seiner Aufgabe, eben darum denkt er tief und
                     gründlich über des Menschen <term type="Sachen" key="Mensch, Elend">
-                            <hi rend="i">Elend</hi></term>; weil er eine hohe Vorstellung hat von
-                    dem, was der Mensch <hi rend="i">sein sollte</hi>, hat er eine niedrige von dem,
-                    was er <hi rend="i">ist</hi>. Gerade dieser Spannung aber bedürfen wir, wenn wir
+                            <hi rend="italic">Elend</hi></term>; weil er eine hohe Vorstellung hat von
+                    dem, was der Mensch <hi rend="italic">sein sollte</hi>, hat er eine niedrige von dem,
+                    was er <hi rend="italic">ist</hi>. Gerade dieser Spannung aber bedürfen wir, wenn wir
                     vorwärts kommen sollen. Gott sei Dank, dass die <term type="Sachen" key="Reformatoren">Reformatoren</term> uns gelehrt haben, scharf und
                     radikal darüber zu denken, und wir wollen uns zweimal besinnen, bevor wir
                     uns, auch von wohlmeinenden Leuten, durch Abschwächungen dieses Gedankens
@@ -507,20 +509,20 @@
                 
                 <p rend="margin-top">Nach Melanchthons Anschauung zerfällt die <term type="Sachen" key="Bibel / Heilige Schrift">Bibel</term> in zwei Teile. Das Gesetz ist
                     der eine, das <term type="Sachen" key="Gesetz, und Evangelium">Evangelium</term> ist der andre. Und doch sind es eigentlich nicht zwei
-                        <hi rend="i">Teile</hi>, sondern zwei <hi rend="i">Seiten</hi> derselben Sache
+                        <hi rend="italic">Teile</hi>, sondern zwei <hi rend="italic">Seiten</hi> derselben Sache
                     sind es, nämlich der <term type="Sachen" key="Offenbarung">Offenbarung</term> Gottes. <term type="Sachen" key="Gott, fordert und schenkt">Gott</term> fordert und Gott
                         schenkt.<note xml:id="n21">Vgl. <bibl corresp="kbga-bibls-2807">a.a.O.,
                     col. 139f</bibl>.</note>
                     </p>
                 <p>Vom <term type="Sachen" key="Gesetz">
-                            <hi rend="i">Gesetz</hi></term> haben wir
-                    eben geredet. Es ist dazu bestimmt, den Menschen zur <term type="Sachen" key="Menschwürde">Menschen<hi rend="i">würde</hi></term> zu erheben, ihn ins
-                    rechte Verhältnis zu Gott zu setzen. So wie der Mensch <hi rend="i">ist</hi>, hat
+                            <hi rend="italic">Gesetz</hi></term> haben wir
+                    eben geredet. Es ist dazu bestimmt, den Menschen zur <term type="Sachen" key="Menschwürde">Menschen<hi rend="italic">würde</hi></term> zu erheben, ihn ins
+                    rechte Verhältnis zu Gott zu setzen. So wie der Mensch <hi rend="italic">ist</hi>, hat
                     es diesen Erfolg nicht, denn seine Forderung übersteigt das, was der Mensch
                     ist und kann; er ist unfähig, sich zum <term type="Sachen" key="Gutes / das Gute">Guten</term> zu entscheiden. Und so würde die
                     Stimme des Gesetzes für sich allein den Menschen verzweifeln lassen. Aber
                     nun ist seit ewigen Zeiten noch eine andre Stimme da, das <term type="Sachen" key="Evangelium">
-                            <hi rend="i">Evangelium</hi></term>, die
+                            <hi rend="italic">Evangelium</hi></term>, die
                     Botschaft von Gottes <term type="Sachen" key="Gnade, Gottes G.">Gnade</term>
                     und <term type="Sachen" key="Gott, Erbarmen">Erbarmen</term>, die Gewissheit
                     vor der Verzweiflung unsres Unvermögens, vom Vorhandensein des guten Willens
@@ -564,7 +566,7 @@
                     die behaupten, das <term type="Sachen" key="Evangelium">Evangelium</term>
                     bestehe in solchen Ideen, und das sind wieder seine katholischen Gegner.
                     Christus erkennen, das heiße seine <term type="Sachen" key="Jesus Christus, Wohltaten">
-                            <hi rend="i">Wohltaten</hi></term>
+                            <hi rend="italic">Wohltaten</hi></term>
                     <pb ed="A" rend="hidden" n="13"/> erkennen, sagt er.<note xml:id="n24">Vgl. <bibl corresp="kbga-bibls-2807">a.a.O., col. 85</bibl>: «[…] hoc est Christum cognoscere,
                         beneficia eius cognoscere, non, quod isti docent, eius naturas, modos
                         incarnationis contueri.»</note> Er hat von Christus mehr zu sagen als
@@ -595,8 +597,8 @@
                     </p>
                 <p>Es kommt nur auf das Eine an, dass wir Christus erkennen, und das heißt:
                     seine Wohltaten erkennen. Solche Erkenntnis ist der christliche <term type="Sachen" key="Glaube, Erkenntnis der Wohltaten Jesu Christi">
-                            <hi rend="i">Glaube</hi></term>. Er ist das Einzige, das absolut
-                    Einzige, was nötig ist. Der Mensch wird gerecht gemacht <hi rend="i">allein</hi>
+                            <hi rend="italic">Glaube</hi></term>. Er ist das Einzige, das absolut
+                    Einzige, was nötig ist. Der Mensch wird gerecht gemacht <hi rend="italic">allein</hi>
                     durch den <term type="Sachen" key="sola fide">Glauben</term> [<ref type="can" subtype="bible" target="Röm.3.28">Röm. 3,28</ref>].<note xml:id="n27">Vgl. <bibl corresp="kbga-bibls-2807">a.a.O., col. 162</bibl>: «Iustificat igitur sola fides.»</note>
                     So kommt auch Melanchthon zu diesem Bollwerk der reformatorischen Religion,
                     von dem <persName ref="kbga-actors-261">Luther</persName> gesagt hat:
@@ -604,7 +606,7 @@
                     nicht weichen oder nachgeben; es falle Himmel und Erde oder was nicht
                     bleiben will.<note xml:id="n28">
                             <bibl corresp="kbga-bibls-484">
-                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="i">Schmalkaldische
+                                <persName ref="kbga-actors-261">M. Luther</persName>, <hi rend="italic">Schmalkaldische
                             Artikel</hi>, Teil II, Art. 1 (BSLK, S. 415,21f.; <bibl corresp="kbga-bibls-15">BSLK.NE,
                         S. 728,7f.</bibl>)</bibl>.</note> Was ist das, <term type="Sachen" key="Glaube">Glauben</term>? Nicht ein Werk des Kopfes, antwortet <persName ref="kbga-actors-272">Melanchthon</persName> vor Allem,
                     nicht die Annahme, dass die Geschichten des Evangeliums wahr seien; das wäre
@@ -632,9 +634,9 @@
                     wenn unser eigener guter Wille zusammengebrochen ist, dass jenseits von
                     unserm persönlichen Streben der allwaltende gute Wille Gottes ist, der uns
                     wie eine große Welle hebt und trägt und mitnimmt. Wenn wir aber dies
-                    Zutrauen haben, dann <hi rend="i">sind</hi> wir auch gerecht. «Alles hat und
+                    Zutrauen haben, dann <hi rend="italic">sind</hi> wir auch gerecht. «Alles hat und
                     Alles kann, wer Christus hat», sagt Melanchthon.<note xml:id="n30">
-                            <bibl corresp="kbga-bibls-2807">Melanchthon, <hi rend="i">Loci</hi> (Anm. 8), col. 175</bibl>: «Omnia
+                            <bibl corresp="kbga-bibls-2807">Melanchthon, <hi rend="italic">Loci</hi> (Anm. 8), col. 175</bibl>: «Omnia
                         habet, omnia potest, qui Christum habet».</note> Die Erkenntnis des
                         <term type="Sachen" key="Erkenntnis, Glaubenserkenntnis">Glaubens</term>
                     ist ja nicht ein müßiger Vorgang in unserm Verstand, sondern die Verwandlung
@@ -650,7 +652,7 @@
                     über die <term type="Sachen" key="Bekehrung">Bekehrung</term> gedacht als
                     manche ihrer Nachfolger. «Begonnen ist das Gerechtwerden, nicht
                         vollendet.»<note xml:id="n31">Vgl. <bibl corresp="kbga-bibls-846">
-                                <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="i">Wilhelm
+                                <persName ref="kbga-actors-764">Fr. Schiller</persName>, <hi rend="italic">Wilhelm
                         Tell</hi>, fünfter Aufzug, erste Szene (Sämtliche Werke, Bd. 2,
                         S. 1017)</bibl>:
                         <q rend="block">
@@ -660,7 +662,7 @@
                             </q>
                         </note> Denn von
                     dem neugewordenen Mittelpunkt aus muss nun der ganze Umkreis des Lebens
-                    erneuert, gereinigt, gerecht ge<pb xml:id="p656" ed="pga"/>macht werden, und da
+                    erneuert, gereinigt, gerecht ge<pb xml:id="p656" ed="pga" break="no"/>macht werden, und da
                     steht jeder immer aufs Neue vor unendlichen Aufgaben. Aber wir dürfen jetzt
                     nicht mehr daran zweifeln, dass die Zukunft unser ist. Wo ein Mensch glaubt,
                     da kann es nicht anders sein, als dass <pb ed="A" rend="hidden" n="15"/> der
@@ -685,7 +687,7 @@
                         untern Händen verschied» (<bibl corresp="kbga-bibls-2814">CR 9, col. 1104</bibl>). – Davon, dass der
                         oben genannte Vers Melanchthon in den letzten Tagen vor seinem Tod
                         mehrfach im Traum erschienen sei, berichtet <bibl corresp="kbga-bibls-2810">
-                                <persName ref="kbga-actors-9312">M. Meurer</persName>, <hi rend="i">Philipp
+                                <persName ref="kbga-actors-9312">M. Meurer</persName>, <hi rend="italic">Philipp
                             Melanchthon’s Leben. Für christliche Leser insgemein aus den
                             Quellen erzählt</hi>, Leipzig / Dresden 1860,
                         S. 177.179f</bibl>.</note> [Röm. 8,31]</p>
@@ -698,14 +700,14 @@
                     Gedanken, in denen die <term type="Sachen" key="Reformatoren">Reformatoren</term> den Weg zu diesem Ziel sehen: Vom <term type="Sachen" key="Gesetz">Gesetz</term> zur <term type="Sachen" key="Sünde">Sünde</term>, von der Sünde zu Christus, von Christus zur
                         <term type="Sachen" key="Gnade, Gottes G.">Gnade</term>, von der Gnade
                     zur <term type="Sachen" key="Freiheit">Freiheit</term>, von der Freiheit zum
-                    Frieden <term type="Sachen" key="Frieden, Gottes">Gottes</term>, zum <term type="Sachen" key="Ewiges Leben">ewigen</term>, wahr<pb xml:id="p657" ed="pga"/>haftigen Leben. Es sind keine leichten Gedanken; sie zu
+                    Frieden <term type="Sachen" key="Frieden, Gottes">Gottes</term>, zum <term type="Sachen" key="Ewiges Leben">ewigen</term>, wahr<pb xml:id="p657" ed="pga" break="no"/>haftigen Leben. Es sind keine leichten Gedanken; sie zu
                     verstehen, sich anzueignen, erfordert immer neuer gründlicher Überlegung. Es
                     sind auch keine selbstverständlichen Gedanken; Gott behüte uns davor, dass
                     sie uns zum <pb ed="A" rend="hidden" n="16"/> religiösen Handwerkszeug werden,
                     wie es so oft geschehen ist. Dies und das werden wir uns auch im Einzelnen
                     anders zurechtlegen, als es die Reformatoren getan haben; denn es darf auch
                     auf diesem Gebiet keinen Stillstand oder Rückschritt geben. Aber es sind
-                        <hi rend="i">große</hi> Gedanken; und gerade an solchen leiden wir Mangel. Es
+                        <hi rend="italic">große</hi> Gedanken; und gerade an solchen leiden wir Mangel. Es
                     sind Gedanken, die dem innern <term type="Sachen" key="Leben, inneres">Leben</term> Nahrung geben, wenn man sie ernst nimmt, was man von
                     manchen modernen Gedanken nicht sagen kann. Und es sind Gedanken, die
                     aufbauend wirken, die uns anleiten, die <term type="Sachen" key="Ewigkeit">Ewigkeit</term> nicht nur im Herzen zu haben, sondern wirksam werden zu
