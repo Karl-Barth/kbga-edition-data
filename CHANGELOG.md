@@ -1,12 +1,18 @@
 ## Aktuell
 
-### 28. Oktober 2024 (Version: epsilon)
+### 7. Februar
 
-Neue Bände online: 3 «Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921» und 19 «Vorträge und kleinere Arbeiten 1922–1925». Sämtliche Texte sind nun mit einer [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) lizensiert.
+Neue Bände: 39 «Predigten 1919» und 50 «Unveröffentlichte Texte zur Kirchlichen Dogmatik». 
 
 Für Vorschlage und Korrekturen sind wir dankbar.
 
 info@karl-barth.ch
+
+
+### 28. Oktober 2024 (Version: epsilon)
+
+Neue Bände online: 3 «Karl Barth – Eduard Thurneysen. Briefwechsel Bd I 1913–1921» und 19 «Vorträge und kleinere Arbeiten 1922–1925». Sämtliche Texte sind nun mit einer [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) lizensiert.
+
 
 ### 4. April 2024 (Version: delta)
 

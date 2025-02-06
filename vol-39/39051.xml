@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39052">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Psalm 118,14-18</title>
+        <title type="citation_line_1">Barth, Karl: Psalm 118,14-18, 21. Dezember 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39052 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 434.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39052</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Psalm 118,14-18</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">434</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">51</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 118,14-18 (4. Advent), 21. Dezember 1919. <ref target="https://kba.karl-barth.ch/objects/1936">KBA 1479</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-12-21">21. Dezember 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:32+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p416" ed="pga"/>
+        <div type="opener">
+          <head><idno>496</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName>, Sonntag, den <date when="1919-12-14">14. Dezember
+              1919</date><note xml:id="n01">Am Sonntag, <date when="1919-12-07">7. Dezember</date> besuchte <persName ref="kbga-actors-2151">Barth</persName> <persName ref="kbga-actors-403">Thurneysen</persName> zum
+              Gottesdienst, zur Kinderlehre und zum Gespräch. Wer in <placeName ref="kbga-places-54">Safenwil</placeName> predigte, ist nicht
+              ersichtlich (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p356#p356">S. 356</ref></bibl>).</note>
+          </dateline>
+          <head type="event">III. Advent</head>
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Lk.3.1 Lk.3.6">Lukas 3,1-6</ref>
+              <quote><hi rend="italic" resp="kb">[In dem fünfzehnten Jahr des Kaisertums Kaisers
+                  <persName ref="kbga-actors-5786">Tiberius</persName>, da <persName ref="kbga-actors-2239">Pontius Pilatus</persName> Landpfleger in <placeName ref="kbga-places-1064">Judäa</placeName> war und <persName ref="kbga-actors-6511">Herodes</persName> ein Vierfürst in
+                  <placeName ref="kbga-places-780">Galiläa</placeName> und sein Bruder <persName ref="kbga-actors-2238">Philippus</persName> ein Vierfürst in <placeName ref="kbga-places-1479">Ituräa</placeName> und in der Gegend
+                  <placeName ref="kbga-places-1480">Trachonitis</placeName> und <persName ref="kbga-actors-10435">Lysanias</persName> ein Vierfürst zu <placeName ref="kbga-places-1481">Abilene</placeName>, da <persName ref="kbga-actors-10436">Hannas</persName> und <persName ref="kbga-actors-3875">Kaiphas</persName>
+                  Hohepriester waren: da geschah der Befehl Gottes zu <persName ref="kbga-actors-2206">Johannes</persName>, des <persName ref="kbga-actors-6493">Zacharias</persName> Sohn,
+                  in der Wüste. Und er kam in alle Gegend um den <placeName ref="kbga-places-926">Jordan</placeName> und predigte die Taufe der
+                  Buße zur Vergebung der Sünden, wie geschrieben steht in dem Buch der Reden
+                  <persName ref="kbga-actors-2204">Jesaja's</persName>, des Propheten, der da sagt: «Es ist eine Stimme eines Predigers in der
+                  Wüste: Bereitet den Weg des Herrn und machet seine Steige richtig! Alle Täler
+                  sollen voll werden, und alle Berge und Hügel sollen erniedrigt werden; und was
+                  krumm ist, soll richtig werden, und was uneben ist, soll schlichter Weg werden.
+                  Und alles Fleisch wird den Heiland Gottes sehen».] 
+                </hi></quote>
+            </cit>
+          </epigraph>
+        </div>
+        <div type="main">
+          <p><hi rend="italic">1.</hi>
+            <hi rend="italic">Das Große und Bedeutende</hi> in unserem Text liegt in der Art, wie da
+            Vergangenheit, Gegenwart und Zukunft ineinander verschlungen sind in der Person <persName ref="kbga-actors-2206">Johannes
+            des Täufers</persName>. Ruhig und gründlich wird da die <hi rend="italic">Gegenwart</hi>
+            betrachtet, die <hi rend="italic">Zukunft</hi> aber, nach der man fragen möchte, wird
+            sofort klar durch die <hi rend="italic">Vergangenheit</hi>, die in die Gegenwart
+            hineintritt und zeigt, wo Alles hinaus will. <hi rend="italic">Einst und jetzt</hi> sind
+            ja nicht getrennte Dinge in <persName ref="kbga-actors-2206">Johannes dem Täufer</persName>. Er steht mitten in seiner <hi rend="italic">Gegenwart.</hi> Aber wie er dasteht, ist er doch nichts Anderes als die
+            lebendige, erfüllte <hi rend="italic">Vergangenheit</hi>, von der geschrieben steht. <hi rend="italic">Die Zeit rückwärts</hi>, die ihn vom Jetzigen trennt, ist aufgehoben.
+            Das Einst ist in ihm Jetzt geworden. Darum ist auch <hi rend="italic">die Zeit
+              vorwärts</hi> für ihn kein Hindernis. Er <hi rend="italic">sieht durch sie
+              hindurch</hi>, er <hi rend="italic">schreitet</hi> in die kommende Zeit hinein. Sein
+              <hi rend="italic">Blick</hi> und sein <hi rend="italic">Wesen</hi> ist auf die Zukunft
+            gerichtet, und sein <hi rend="italic">Wort</hi> ist Wort für die Zukunft.</p>
+          <p>Eben darum ist dieser Text ein <hi rend="italic">rechter Adventstext</hi> und <persName ref="kbga-actors-2206">Johannes
+            der Täufer</persName>, wie er uns da geschildert wird, der rechte Adventsmensch. <pb ed="pga" xml:id="p417"/> Das gerade <hi rend="italic">suchen wir</hi> und haben wir nötig.
+            Advent heißt ja <hi rend="italic">Zukunft.</hi> Wir <hi rend="italic">sollten auch</hi>
+            in die Zukunft hineinschauen und hineinschreiten können mit festen Schritten. Wir <hi rend="italic">sollten wissen</hi>, was wir zu denken und zu tun haben in den kommenden
+            Zeiten. Aber dazu <hi rend="italic">müssen wir neben</hi> <persName ref="kbga-actors-2206">Johannes den Täufer</persName> treten und
+            mit ihm eins werden in der Aufhebung der Zeit. Denn die Zukunft ist <hi rend="italic">kein getrenntes Ding</hi> für sich, sondern sie ist immer die <hi rend="italic">Erfüllung der Vergangenheit.</hi> Die lebendig gewordene Vergangenheit, die in die
+            Gegenwart <hi rend="italic">hinein</hi>tritt und aus der Gegenwart gleichsam <hi rend="italic">heraus</hi>springt als Zukunft. Wenn in unserem <hi rend="italic">Heute</hi> unser <hi rend="italic">Gestern</hi> zu Ehren kommt, dann haben wir auch
+            ein <hi rend="italic">Morgen</hi> und wissen, wie wir ihm entgegengehen sollen.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi>
+            <hi rend="italic">Die Gegenwart</hi> kommt in unserem Text, wie es sich gehört, zuerst
+            zu Wort. Das, <hi rend="italic">was jetzt ist</hi>, empfinden wir ja immer am stärksten.
+            Was den <hi rend="italic">Augenblick</hi>, den wir jetzt leben, erfüllt, das
+            beschäftigt, das erfreut, das bedrückt uns, das müssen wir verstehen. Nur die Gelehrten
+            in ihren Büchern machen es anders, fangen immer mit der alten Geschichte
+               an, als ob man verstehen könnte, was
+            gestern, was vor 100 und 1000 Jahren gewesen ist, wenn man nicht einen lebendigen Sinn
+            hat für das, was heute ist. Es gibt aber auch Ungelehrte, die immer zuerst rückwärts
+            schauen, in ihre Jugendzeit, in die gute alte Zeit und Alles von dort aus wehmütig und
+            anklagend betrachten. Das ist ein <hi rend="italic">Krankheitszeichen</hi>, ein Zeichen,
+            daß man kein Heute hat, keinen festen Grund unter den Füßen, ein Zeichen, daß wir nicht
+            in Bewegung sind. Wenn wir <hi rend="italic">gesund sind</hi>, dann leben wir zunächst
+            immer ganz fest im Augenblick, im Heute, mit aller Verlegenheit, die uns dieses Heute
+            bereitet, aber auch mit aller Hoffnung, die es in sich schließt.</p>
+          <p>Vom Heute aus müssen wir dann vorwärtsschauen und vorwärtskommen ins Morgen, <hi rend="italic">in die Zukunft</hi> hinein. Lebendige Menschen sind immer <hi rend="italic">Zukunftsmenschen.</hi> Sie schauen ganz ernst und tief und ruhig in die
+              <hi rend="italic">Gegenwart</hi> hinein und siehe [?] da, das Wesen der Gegenwart ist
+            nichts Anderes als das <hi rend="italic">Samenkörnlein</hi> der Zukunft. In dem, was
+            ist, schlummert schon das, was <hi rend="italic">werden will.</hi> Und an <hi rend="italic">diesem Werdenden</hi> freuen sie sich nun, das hüten und pflegen sie,
+            seiner Entfaltung und Enthüllung ist nun ihr Leben gewidmet.</p>
+          <p>Aber wenn es ihnen damit ernst ist, dann geschieht ihnen etwas Merkwürdiges. <hi rend="italic">Nicht allein</hi>, nicht verlassen, nicht hilflos stehen sie in <pb ed="pga" xml:id="p418"/> der Gegenwart vor der Zukunft, die noch nicht da ist, sondern
+            nun ist auf einmal etwas scheinbar ganz <hi rend="italic">Verschwundenes</hi> bei und
+            mit ihnen, die <hi rend="italic">Vergangenheit.</hi> Was gewesen ist, es <hi rend="italic">ist nicht tot</hi>, nicht historisch, nicht eine goldene Jugendzeit,
+            nicht eine gute alte Zeit, die nicht mehr wiederkehrt. Sie erinnern sich seiner wieder.
+            Nein, es selbst <hi rend="italic">stellt sich wieder ein.</hi> Es wird ihnen lebendig,
+            bedeutungsvoll, es kommt ihnen <hi rend="italic">zu Hilfe.</hi> Sieh, sagt ihnen ihr
+            Gestern, <hi rend="italic">ich bin nichts Anderes</hi> als das, was du heute erkannt und
+            verstanden hast, ich bin nichts Anderes als das Morgen, dessen du wartest. <hi rend="italic">Ich bin</hi>, ich war, ich werde sein. <hi rend="italic">Dein Alter</hi>
+            soll sein wie deine Jugend [<ref type="can" subtype="bible" target="Dtn.33.25">Dtn. 33,25</ref>]! <hi rend="italic">Wage es nur</hi> mit mir! Ich <hi rend="italic">habe dich geleitet</hi>, und ich werde dich leiten! Die <hi rend="italic">harte
+              Schale</hi> der Vergangenheit bricht auf, und die Frucht, die sie uns bietet, ist ein
+            Unterpfand für die Zukunft.</p>
+          <p>Das war <hi rend="italic">die große Lebenskunde</hi> der Menschen, die das Neue
+            Testament geschrieben haben, daß sich ihnen Alles: Gegenwärtiges, Künftiges und
+            Einstiges so miteinander verband. Sie verstanden ihre <hi rend="italic">Gegenwart</hi>
+            so gut, sie schauten ihrem Heute auf den Grund und lebten es von Grund aus, und wenn sie
+            sich dann fragten: <hi rend="italic">Was nun?</hi> Wie soll es nun weiter gehen?, dann
+            wurde ihnen das <hi rend="italic">Vergangene</hi> lebendig, das gar nicht vergangen ist,
+               und wenn es längst gewesen wäre, es
+              <hi rend="italic">erlöste sie</hi> von allem Zweifel und wurde ihre <hi rend="italic">Kraft</hi> und ihre Parole für die Zukunft. Darum ist ihnen die <hi rend="italic">Gestalt <persName ref="kbga-actors-2206">Johannes des Täufers</persName></hi> so wichtig gewesen.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">3.</hi>   <hi rend="italic">Die Gegenwart</hi> hieß
+            in der Zeit, von der unser Text redet, <hi rend="italic">zunächst einfach <persName ref="kbga-actors-5786">Kaiser
+              Tiberius</persName></hi>, Landpfleger <persName ref="kbga-actors-2239">Pontius Pilatus</persName>, Vierfürsten <persName ref="kbga-actors-6511">Herodes</persName>, <persName ref="kbga-actors-2238">Philippus</persName>, <persName ref="kbga-actors-10435">Lysanias</persName>,
+            Hohepriester <persName ref="kbga-actors-10436">Hannas</persName> und <persName ref="kbga-actors-3875">Kaiphas</persName>. Ein unerfreuliches Bild. Eine böse Gegenwart. Jeder <hi rend="italic">einzelne</hi> dieser Namen bedeutete Gewalt und Unrecht, Lüge und
+            Torheit. Alle diese Namen <hi rend="italic">miteinander</hi> bedeuteten: In der Welt
+            ist's dunkel!<note xml:id="n02">Vgl. <bibl corresp="kbga-bibls-5426"><persName ref="kbga-actors-984">G. Frei</persName> (1851-1901): «In der Welt ist's dunkel,
+              leuchten müssen wir, du in deiner Ecke, ich in meiner hier», in: P. Zauleck, <hi rend="italic">Deutsches Kindergesangbuch</hi>, Gütersloh o. J., Nr. 227</bibl>.</note> Macht
+            geht vor Recht!<note xml:id="n03">Zu Unrecht <persName ref="kbga-actors-500">Bismarck</persName> zugeschriebenes Schlagwort; vgl.
+              darüber <bibl corresp="kbga-bibls-2429">Büchmann, S. 728f.</bibl></note> Geld regiert die Welt!<note xml:id="n04">Vgl.
+              <bibl corresp="kbga-bibls-5427"><persName ref="kbga-actors-3456">Publilius Syrus</persName>: «<foreign xml:lang="lat">Pecunia una regimen est rerum omnium</foreign>» (<hi rend="italic">Sentenzen</hi> 364)</bibl>.</note> Das Volk Gottes liegt am Boden <pb ed="pga" xml:id="p419"/> und wird nicht mehr aufstehen; es ist gar nicht mehr das Volk Gottes,
+            denn das Licht, das es einst trug, ist längst verloschen. Etwa wie wenn man <hi rend="italic">heute sagen würde:</hi> <persName ref="kbga-actors-841">Wilson</persName>, <persName ref="kbga-actors-6603">Clemenceau</persName>, <persName ref="kbga-actors-672">Lloyd George</persName>, <persName ref="kbga-actors-243">Lenin</persName>, <persName ref="kbga-actors-806">Tirpitz</persName>
+            und <persName ref="kbga-actors-673">Ludendorff</persName> und wenn man dann an die Ohnmacht und Bedeutungslosigkeit der Kirche, des
+            sogenannten Christentums denken wollte. Unerfreuliches Bild, böse Gegenwart auch heute.
+            Eine solche Gegenwart war die <hi rend="italic">Gegenwart <persName ref="kbga-actors-2206">Johannes des Täufers</persName>.</hi>
+            Aber nun bedenkt, <hi rend="italic">was das heißt:</hi> «Im 15. Jahr des Kaisers
+            <persName ref="kbga-actors-5786">Tiberius</persName> geschah das Wort Gottes zu <persName ref="kbga-actors-2206">Johannes</persName>, des <persName ref="kbga-actors-6493">Zacharias</persName> Sohn, in der Wüste.» Also
+            gab es da auch eine <hi rend="italic">andere Gegenwart</hi> als das, was jedermann dafür
+            hielt, mitten in dem großen, offenkundigen Jetzt der Kaiser, Landpfleger … noch ein <hi rend="italic">verborgenes Jetzt.</hi> Und dort stand <persName ref="kbga-actors-2206">Johannes</persName>. Das war allerdings <hi rend="italic">nicht in den Fürstenpalästen</hi> und auf den Marktplätzen und in den
+            Tempeln, wo scheinbar das volle Leben der Gegenwart sich abspielte. Das war <hi rend="italic">in der Wüste</hi>, und <hi rend="italic">niemand</hi> war dabei, der es
+            miterleben und dann erzählen konnte. <hi rend="italic">Nur nachher</hi> wurde man dessen
+            gewahr, aus den Wirkungen, die dieses stille Ereignis in der Wüste hatte, daß da noch
+            eine besondere Gegenwart in der Gegenwart vorhanden gewesen war. Seht, wie merkwürdig,
+            daß die Gegenwart nach dieser Beschreibung gleichsam <hi rend="italic">einen doppelten
+              Boden</hi> hat. <hi rend="italic">Da oben</hi> auf der <hi rend="italic">Oberfläche</hi>, da steht der Mensch unter Millionen anderer Menschen in der Welt
+            drin und ist ein <hi rend="italic">Kind seiner Zeit</hi>, und auf dieser Oberfläche
+            sieht es fast immer trübe und verworren und <hi rend="italic">hoffnungslos</hi> aus, und
+            wenn es auch auf dieser Weltoberfläche neben den Kaisern und anderen großen Herren immer
+            auch Hohepriester und Kirchen und Kapellen gegeben hat, so ändert das leider doch gar
+            nichts an dem ganzen, dem traurigen Bild. <hi rend="italic">Da unten</hi> aber, in der
+            Tiefe, «in der Wüste», da steht derselbe Mensch <hi rend="italic">einsam vor Gott</hi>,
+            und Gottes Wort geschieht zu ihm. Und wenn wir auch noch nicht wissen, was das für ein
+            Wort Gottes ist, das da geschieht zu ihm, wo niemand es hört als er allein - das
+               kann man doch schon wissen, <hi rend="italic">die</hi> Gegenwart des Menschen da in der Tiefe, dort wo er nicht mehr
+            ein Kind seiner Zeit ist, sondern <hi rend="italic">einfach ein Mensch</hi>, eine freie,
+            offene Seele - diese Gegenwart ist <hi rend="italic">eine ganz andere</hi> als die da
+            droben. Da ist <hi rend="italic">jetzt schon wahr</hi>, was droben noch unbegreiflich
+            ist. Da ist <hi rend="italic">jetzt schon gestürzt</hi>, was droben noch in Macht und
+            Herrlichkeit steht. Da ist <hi rend="italic">jetzt schon erledigt</hi>, was droben noch
+            1000 Fragen sind, da ist <hi rend="italic">jetzt schon alt</hi>, was droben noch das
+            Neueste vom Neuen ist. |</p>
+          <p><pb ed="pga" xml:id="p420" rend="noPipe"/> Daß wir es doch wagen würden, <hi rend="italic">radikal in der Gegenwart zu leben!</hi> Aber radikal, nicht nur
+            oberflächlich. Es gibt <hi rend="italic">nicht nur Weltgeschichte</hi> und
+            Lebensgeschichten, es gibt in der Weltgeschichte und in allen Lebensgeschichten auch
+            Gottesgeschichte. Du brauchst <hi rend="italic">nicht bloß <persName ref="kbga-actors-5786">Tiberius</persName></hi> zu sein oder
+            <persName ref="kbga-actors-2239">Pontius Pilatus</persName> oder einer von den Millionen, die damals mit ihnen aßen und tranken und
+            morgen tot waren [vgl. <ref type="can" subtype="bible" target="1.Kor.15.32">1.Kor. 15,32</ref>] und mit ihnen die oberflächliche Gegenwart bildeten. Du brauchst
+            dich <hi rend="italic">nicht darauf zu beschränken</hi>, mit <persName ref="kbga-actors-6511">Herodes</persName> zu sündigen und mit
+            den Hohenpriestern zu andächteln. Du kannst auch mit <persName ref="kbga-actors-2206">Johannes</persName> in die Wüste gehen. <hi rend="italic">Die Wüste</hi>, die innere Abgeschiedenheit, bei der doch die Augen ganz
+            offen sind für Alles, was da oben vorgeht, und die Füße ganz bereit, jetzt hierhin und
+            jetzt dorthin zu eilen, wenn es sein muß, die <hi rend="italic">Freiheit und Offenheit
+              der Seele</hi> für das Wort Gottes, das zu ihr geschehen will, ist auch Gegenwart. Ja,
+            noch mehr, hier ist die wahre, <hi rend="italic">die lebendige Gegenwart.</hi> <persName ref="kbga-actors-2206">Johannes</persName>
+            in der Wüste lebte stärker in der Gegenwart als der Kaiser von <placeName ref="kbga-places-53">Rom</placeName> in seinen
+            Zirkuslogen [?]. <hi rend="italic">Dort in der Tiefe</hi>, wo der Mensch <hi rend="italic">ganz erfüllt</hi> vom Jammer, von den Fragen und Aufgaben seiner Zeit,
+            aber <hi rend="italic">ohne etwas zu wissen</hi>, ohne etwas zu wollen, ohne schon 1000
+            Pläne und Absichten in der Tasche zu haben, gleichsam nackt vor Gott steht, da ist der
+              <hi rend="italic">Sinn der Gegenwart</hi>, da ist das Herz einer Zeit, da ist das
+            Licht, während die Weltvorgänge und Lebensvorgänge nur Schattenbilder sind. Da ist nicht
+            Bild und Gleichnis, sondern <hi rend="italic">Wesen und Wahrheit.</hi> Wir <hi rend="italic">würden staunen</hi>, wenn da <persName ref="kbga-actors-2206">Johannes</persName>, der zweifellos verborgen noch in
+            unserer Gegenwart lebt, seinen Mund auftun und reden und uns sagen könnte, was das
+            unerfreuliche Bild, das unsere Augen sehen, bedeutet. <hi rend="italic">Warum kann er
+              nicht reden?</hi>
+            <hi rend="italic">Warum verstehen wir unsere Zeit nicht?</hi> Weil wir viel zu wenig in
+            unserer Zeit leben. In der Zeitung ja, aber in der Zeit nicht. <hi rend="italic">Gegenwartsmenschen</hi> sind uns heute not, Menschen mit <hi rend="italic">Fragen</hi> ohne Antworten, Menschen mit <hi rend="italic">Sorgen</hi> ohne Trost und
+            Beschwichtigungen, Menschen, die <hi rend="italic">suchen</hi> und sich noch nicht
+            zurecht gefunden haben, Menschen, bei denen sich etwas <hi rend="italic">geöffnet</hi>
+            und noch nicht  wieder verschlossen hat,
+            Menschen, zu denen <hi rend="italic">Gottes Wort geschehen kann.</hi></p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">4.</hi> Zu <persName ref="kbga-actors-2206">Johannes</persName> <hi rend="italic">konnte</hi>
+            es geschehen. Und darum sah er eine <hi rend="italic">Zukunft</hi> vor sich und ging ihr
+            entgegen. Freilich eine ganz <hi rend="italic">ungewöhnliche Zu<pb ed="pga" xml:id="p421" break="no"/>kunft</hi>, höchst verschieden von den Zukünften, an die
+            wohl noch der Kaiser, <persName ref="kbga-actors-6511">Herodes</persName> und die Hohepriester dachten. Eine <hi rend="italic">Aufgabe</hi>, ein Programm, eine Erwartung, eine Hoffnung, die sich mit keiner
+            anderen auch nur von ferne vergleichen läßt. Es fehlt ja auch unserer Zeit nicht an <hi rend="italic">Zukunftsbestrebungen</hi> und Zukunftserwartungen. Aber sie sind sehr
+            anders als die, die <persName ref="kbga-actors-2206">Johannes</persName> aus der Wüste mitbringt, sie stammen <hi rend="italic">nicht aus dem Worte Gottes</hi>, das in ganz freien, offenen Seelen geschehen ist.
+            Sie haben alle so etwas <hi rend="italic"><persName ref="kbga-actors-5786">Tiberius</persName>haftes</hi> und <persName ref="kbga-actors-6511">Herodes</persName>mäßiges oder
+            auch Hohepriesterliches an sich. Darum sind sie auch so <hi rend="italic">phantastisch.</hi> Darum <hi rend="italic">widersprechen</hi> sie sich gegenseitig.
+            Darum muß immer wieder eine der anderen das <hi rend="italic">Feld räumen.</hi> Weil wir
+            heute keine radikalen Gegenwartsmenschen haben, <hi rend="italic">fehlt es uns auch an
+              radikalen Zukunftsmenschen.</hi> Und weil <persName ref="kbga-actors-2206">Johannes</persName> heute nicht reden kann von dem, was
+            ist, kann er auch nicht <hi rend="italic">reden von dem, was sein wird.</hi> Dort konnte
+            er reden davon und <hi rend="italic">hat davon</hi>
+            <hi rend="italic">geredet.</hi> Das, was er nur sah und dem er entgegenging, das, was er
+              <hi rend="italic">zu sagen hatte</hi>, als er aus der Wüste zurückkam unter die
+            Menschen und von ihnen gefragt wurde: Was nun? Was bringst du uns mit aus der Wüste, du
+            merkwürdiger Gegenwartskünder<note xml:id="n05">Könnte auch «Gegenwartsbruder»
+              heißen.</note> ?, das faßte er zusammen in das eine Wort: <hi rend="italic">Vergebung
+              der Sünden!</hi> Bedenkt, was das sagen will! Wie das wirken würde, wenn man das all
+            den Zukunftsplänen für Staat und Gesellschaft, Kirche und Schule, die heute durch die
+            Luft schwirren, <hi rend="italic">entgegenstellen</hi> wollte als den Zukunftsplan
+            <persName ref="kbga-actors-2206">Johannes des Täufers</persName>: Nein, nicht das alles, sondern - Vergebung der Sünden! Wir spüren
+            schon, nicht wahr, diesen Plan kann man nicht neben andere stellen, nicht mit ihnen
+            vergleichen. Er steht <hi rend="italic">außer Konkurrenz.</hi> Er kann nur der <hi rend="italic">Anfang und das Ende und der Sinn</hi> aller anderen Pläne sein, sonst
+            ist er gar nichts. Vergebung der Sünden! Das ist ja eine ganz neue, ganz <hi rend="italic">andere Betrachtung</hi> des Menschen. Der Mensch <hi rend="italic">ohne
+              das Böse</hi>, freilich auch ohne all das Gute, das er jetzt so krampfhaft denkt und
+            tut. Die Vergebung <hi rend="italic">hebt ja Beides</hi> auf, das Böse und das Gute
+            damit, sie stellt den Menschen <hi rend="italic">wieder an den Anfang</hi>, sie gibt ihn
+            sich selbst, sie gibt ihn Gott zurück. <hi rend="italic">Aber was heißt das:</hi> der
+            Mensch, Gott wieder <hi rend="italic">zurückgegeben</hi>, <hi rend="italic">nicht
+              mehr</hi> ein Sünder, nicht mehr ein Gerechter, der Mensch <hi rend="italic">freigesprochen</hi>, indem er an Gott gebunden wird? Was heißt das: <hi rend="italic">dieser erlöste</hi>, dieser ganz andere Mensch?|</p>
+          <p><pb ed="pga" xml:id="p422" rend="noPipe"/> Was heißt das, wenn man das auf die <hi rend="italic">Zukunft</hi> der Menschheit anwendet? Das heißt offenbar etwas für alle Zukunft <hi rend="italic">Unmögliches</hi>, Undenkbares, etwas, was auch die radikalste Fortschrittpartei und
+            die eifrigste Missionsgesellschaft <hi rend="italic">nicht auf ihrem Programm</hi> zu
+            nennen wagt. Und doch ist <hi rend="italic">gerade das</hi> das Programm <persName ref="kbga-actors-2206">Johannes des
+            Täufers</persName> gewesen! Es gibt offenbar nicht nur eine doppelte Gegenwart, sondern auch eine
+              <hi rend="italic">doppelte Zukunft.</hi> Die eine Zukunftserwartung rechnet <hi rend="italic">mit dem Möglichen</hi>, mit Entwicklung, Verbesserung, Erziehung und
+            allmählichem Fortschritt. Die andere Zukunftserwartung rechnet in der Tat <hi rend="italic">mit dem Unmöglichen</hi>, mit der Vergebung der Sünden, mit dem Reiche
+            Gottes, mit dem Heiland. Wir müssen Beides zunächst <hi rend="italic">scharf
+              auseinanderhalten</hi>, denn Beides hat zunächst gar nichts miteinander zu tun,
+            sowenig als das Kaiserleben in <placeName ref="kbga-places-53">Rom</placeName> mit dem Johannesleben in der Wüste etwas zu tun
+            hatte. Der Reichsgottesglaube stammt eben in der Tat <hi rend="italic">aus der
+              Wüste</hi>, aus der Einsamkeit des Menschen vor Gott, während der christliche oder
+            weltliche Fortschrittsglaube <hi rend="italic">aus dem Wissen und Wollen und
+              Vorhaben</hi> des Oberflächenmenschen stammt. <hi rend="italic">Wir sind alle
+              Beides</hi>, <persName ref="kbga-actors-5786">Tiberius</persName> und ein ganz klein wenig <persName ref="kbga-actors-2206">Johannes</persName>, Oberflächenmensch und ein
+            ganz klein wenig Wüstenmensch und Tiefenmensch. Es sind aber <hi rend="italic">zwei
+              verschiedene</hi> Quellen, die da fließen in uns, und <hi rend="italic">zwei
+              verschiedene Zukunft</hi>serwartungen, die daraus hervorgehen. |</p>
+          <p>Aber es ist doch <hi rend="italic">ein Zusammenhang</hi> da zwischen diesen beiden
+            Erwartungen. Das sieht man gerade heute ganz deutlich. Überall da, wo die
+            Fortschrittshoffnungen der Menschen wirklich <hi rend="italic">groß und lebendig</hi>
+            sind, da steckt eben tatsächlich etwas von der <hi rend="italic">Reichsgotteshoffnung</hi> dahinter, da müssen es die Menschen wagen, ob sie es wollen
+            oder nicht, an einen <hi rend="italic">ganz anderen Menschen</hi> zu glauben, an einen
+            Menschen, der <hi rend="italic">eine Einsicht</hi>, eine Liebe, ein Rechtsgefühl hat,
+            das wir jetzt eigentlich nirgends wahrnehmen. Da muß man es wagen, die Menschen zum
+            vornherein [?] in einem ganz <hi rend="italic">anderen Licht</hi> zu betrachten, da muß
+            man es wagen, nicht nur mit der natürlichen Entwicklung und mit Erziehungskräften,
+            sondern mit dem <hi rend="italic">Unmöglichen</hi>, mit dem Wunder zu rechnen, daß es
+            ganz andere Menschen geben könnte, als es bis jetzt gegeben hat und als wir alle sind.
+            Ohne dieses <hi rend="italic">Stücklein Reichsgottesglaube</hi> wäre der
+            Fortschrittsglaube längst am Boden, und wo dieser Reichsgottesglaube den Menschen
+            verloren <pb ed="pga" xml:id="p423"/> geht, wo sie gar nicht mehr mit dem Unmöglichen,
+            mit dem Unerhörten, mit dem Unendlichen rechnen, da ist tatsächlich auch der
+            Fortschrittsglaube längst am Boden. <hi rend="italic">Aller Mut</hi>, alle Zuversicht,
+            alle Kraft, die wir in der Erziehung, in der Wissenschaft, in der Politik und vielleicht
+            mit der Zeit auch wieder in der Kirche lebendig werden sehen, sie stammen
+             aus der Wüste, aus dem Worte Gottes,
+            das zum Menschen geschieht, wo es geschehen kann. <hi rend="italic">Ohne den
+              Zukunftsplan <persName ref="kbga-actors-2206">Johannes des Täufers</persName></hi>, ohne die Vergebung der Sünden, ohne die
+            Erwartung des Heilands kommen wir alle keinen Schritt vorwärts. |</p>
+          <p>Wir haben aber diesen Zukunftsplan <hi rend="italic">in uns.</hi>
+            <hi rend="italic">Wenn wir ihn doch auch ganz anders</hi> um uns hätten! Wenn es uns
+            doch <hi rend="italic">bewußter wäre</hi>, um was es eigentlich <hi rend="italic">geht</hi> bei unserem Hoffen und Planen, was wir eigentlich <hi rend="italic">meinen</hi> bei unserem Eifer für unsere Arbeit und für die Verbesserung unserer
+            Zustände, für Mission und Kirche, für freisinnigen oder sozialen Fortschritt! Wenn wir
+            doch <hi rend="italic">Buße getan</hi>, d. h. ein Umdenken vollzogen hätten,
+            durchgebrochen wären zu der Erkenntnis, <hi rend="italic">daß Gott es ist</hi>, den wir
+            mit unserem Wollen und Laufen eigentlich meinen, dem wir aber auch gehorsam werden
+            müssen, wenn das, was wir meinen, wirklich werden soll. Wieviel Enttäuschungen und
+            Irrtümer und Mißgriffe könnten wir uns <hi rend="italic">ersparen</hi>, wenn wir mit
+            <persName ref="kbga-actors-2206">Johannes</persName> aus der Wüste kämen und von da aus in die Zukunft sehen und gehen würden!
+            Wieviel <hi rend="italic">kräftigeren Schwung</hi> hätte unser Eifer und unsere
+            Erwartung, wenn es uns ganz bis ins Herz hinein klar wäre: nicht um meine Einsicht und
+            mein Wollen handelt es sich im Grunde, da bleibt ja doch gerade das Beste immer
+            unmöglich, sondern um das Kommen des Heilands in die Welt, um die Auferstehung, um die
+            Verwandlung des Verweslichen ins Unverwesliche [vgl. <ref type="can" subtype="bible" target="1.Kor.15.42">1.Kor. 15,42</ref>], um den neuen Himmel und die neue Erde [<ref type="can" subtype="bible" target="Jes.65.17">Jes. 65,17</ref>], um den Tag des Menschensohns [<ref type="can" subtype="bible" target="Lk.17.22">Lk. 17,22</ref>.<ref type="can" subtype="bible" target="Lk.17.26">26</ref>]. Wenn doch der verborgene <persName ref="kbga-actors-2206">Johannes</persName> heute <hi rend="italic">hervor</hi>träte und uns allen sagen würde, was wir eigentlich meinen und was uns
+            nötig ist, damit es nicht beim bloßen Meinen bleibt!</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">5.</hi> Bei <persName ref="kbga-actors-2206">Johannes dem Täufer</persName> ist es nach dem
+            Urteil seiner Zeitgenossen <hi rend="italic">nicht beim bloßen Meinen</hi> geblieben.
+            Wer so wartet und hofft wie er, der <hi rend="italic">sieht dann auch.</hi> <persName ref="kbga-actors-2206">Johannes</persName>
+            bekam zu sehen. Er sah den <hi rend="italic">Tag</hi> anbrechen, von dessen Kommen er in
+            der Wüste geredet. Er sah <pb ed="pga" xml:id="p424"/>
+            <hi rend="italic">den anderen Menschen</hi>, den neuen Menschen, den Menschen ohne Sünde
+            und ohne Gerechtigkeit, den mit Gott geeinigten Menschen. Er sah das <hi rend="italic">Lamm Gottes</hi>, welches der Welt Sünde trägt [<ref type="can" subtype="bible" target="Joh.1.29">Joh. 1,29</ref>]. Er sah die <hi rend="italic">Vergebung der Sünden</hi>
+            eine Macht werden auf Erden. So steht er <hi rend="italic">auf der Grenze zweier
+              Welten:</hi> Im <hi rend="italic">Fragen</hi> und doch schon im Antworten, im <hi rend="italic">Suchen</hi> und doch schon im Finden, im <hi rend="italic">Anklopfen</hi> und doch schon vor der offenen Tür [vgl. <ref type="can" subtype="bible" target="Mt.7.7">Mt. 7,7</ref> par.], in der <hi rend="italic">Erwartung</hi> und doch schon in der Erfüllung. Und da sahen seine Zeitgenossen auf
+            einen Schlag die ganze <hi rend="italic">Vergangenheit</hi> in diesem Mann lebendig
+            werden. Das <hi rend="italic">Alte Testament ging wie von selbst auf</hi>, und sie
+             verstanden es; das ist's, was
+            geschrieben steht in dem alten Buch: Es ist eine Stimme [eines Predigers in der Wüste] …
+            Das, was diesem Mann <hi rend="italic">geschehen ist</hi> in der Wüste und was er dann
+              <hi rend="italic">getan hat</hi> unter den Menschen, <hi rend="italic">das</hi> ist
+            die Bibel. <hi rend="italic">Das ist <persName ref="kbga-actors-444">Abraham</persName></hi>, <persName ref="kbga-actors-2198">Isaak</persName> und <persName ref="kbga-actors-2199">Jakob</persName>, das ist <persName ref="kbga-actors-2897">Joseph</persName>, <persName ref="kbga-actors-2228">Mose</persName>
+            und <persName ref="kbga-actors-2172">David</persName>, das ist <persName ref="kbga-actors-2147">Amos</persName>, <persName ref="kbga-actors-2204">Jesaja</persName> und <persName ref="kbga-actors-208">Jeremia</persName>. <hi rend="italic">So ist's gemeint</hi> in
+            den alten Rätselbuchstaben: Bereitet dem Herrn den Weg!|</p>
+          <p>Es gibt ja auch eine <hi rend="italic">doppelte Vergangenheit: eine tote</hi>,
+            sinnlose, unzusammenhängende Vergangenheit. Da sind alle die <hi rend="italic">Sprüche</hi> und Geschichten der Bibel nur seltsame Meinungen und Ereignisse, ihre
+              <hi rend="italic">Gestalten</hi> auffallende religiöse Persönlichkeiten. Da muß man
+            sich krampfhaft <hi rend="italic">anstrengen</hi>, um in diesem Buch etwas Sinnvolles
+            und Brauchbares zu finden, und schließlich bleibt Einem doch nichts übrig. Da sind <persName ref="kbga-actors-555">Franz
+            von Assisi</persName> oder <persName ref="kbga-actors-77">Calvin</persName> oder Pfarrer <persName ref="kbga-actors-47">Blumhardt</persName> entweder <hi rend="italic">Heilige</hi>,
+            die man verhimmelt, oder seltsame <hi rend="italic">Fanatiker</hi>, über die man die
+            Achseln zuckt. Die <hi rend="italic">lebendige</hi> Vergangenheit aber wirkt unmittelbar
+            in die <hi rend="italic">Gegenwart</hi> und Zukunft hinein. Da heißt's: sie sind
+            gestorben und <hi rend="italic">leben noch!</hi> Da versteht man, daß alle diese
+            Lebendigen solche <hi rend="italic">freien, offenen Seelen</hi> vor Gott gewesen sind
+            und daß ihre Größe darin bestand, daß sie irgendwo wieder ein <hi rend="italic">solches
+              Fenster</hi> öffneten gegen das Reich Gottes, gegen das Unmögliche und Unendliche hin.
+            Da sieht man sie alle als <hi rend="italic">Wegbereiter</hi> für den Heiland und ist
+            ihnen <hi rend="italic">dankbar</hi>, daß sie neben einen treten, wie wenn sie heute da
+            wären. Ja, auch <hi rend="italic">Vergangenheitsmenschen</hi> sollten wir heute wieder
+            werden. Man redet zwar heute viel von Geschichte und gräbt immer neue vergangene Dinge
+            aus. Aber in Wahrheit gleichen die heutigen Geschichtsforscher den Totengräbern, die nur
+            die alten Särge und Leichen wieder ans Licht bringen, um sie schaudernd alsbald wieder
+              zu<pb ed="pga" xml:id="p425" break="no"/>zudecken. <hi rend="italic">Lebendig</hi>
+            wäre die Geschichte nur den lebendigen Menschen. Nur die lebendige Geschichte wird uns
+            zu einem <hi rend="italic">Zeugnis</hi> und zu einer Kraft für die Zukunft. <persName ref="kbga-actors-2206">Johannes der
+            Täufer</persName> war <hi rend="italic">eins mit der Geschichte.</hi> Er war <hi rend="italic">selber Geschichte.</hi> «Alles Fleisch wird den Heiland Gottes sehen.» Das ist <hi rend="italic">das Alte Testament</hi> in kürzesten Worten. Das war das Leben des
+            <persName ref="kbga-actors-2206">Johannes</persName>: Gegenwart, Zukunft und Vergangenheit zugleich. Wenn es doch auch <hi rend="italic">unser Leben</hi> würde! Christus können wir nicht werden und sollen es
+            gar nicht, aber <persName ref="kbga-actors-2206">Johannes der Täufer</persName>, der Christus den Weg bereitet.
+            
+          </p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <head> Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-128" type="song"> Nr. 89 «Nun jauchzet all, ihr Frommen» von
+              <persName ref="kbga-actors-1401">M. Schirmer</persName>, Strophen 1.3.4 (RG [1998] 365,1.4.5; EG 9,1.4.5; jeweils mit
+              Textabweichungen)</bibl>
+            <bibl corresp="kbga-songs-38" type="song">Nr. 99 «Jauchzet, ihr Himmel» von
+              <persName ref="kbga-actors-797">G. Tersteegen</persName>, Strophen 1.2.4 (RG [1998] 404,1.2.4; EG 41,1.2.4)</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

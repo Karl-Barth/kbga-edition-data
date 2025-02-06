@@ -14,14 +14,14 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-01 14:13:21</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,40,53,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2025-02-06 09:15:26</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-11-01T14:13:21+01:00">teiHeader was automatically produced from the database 2024-11-01T14:13:21+01:00</change>
+      <change when="2025-02-06T09:15:26+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:26+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -120,7 +120,7 @@
           <orgName>Aargauische reformierte Kirchensynode</orgName>
           <orgName type="full">Aargauische reformierte Kirchensynode</orgName>
           <listBibl/>
-          <desc>Höchstes (‹Parlament›) der aargauischen reformierten Kantonalkirche.</desc>
+          <desc>Höchstes Gremium (‹Parlament›) der aargauischen reformierten Kantonalkirche.</desc>
         </org>
         <org xml:id="kbga-actors-8784">
           <orgName>Ägypten</orgName>
@@ -923,9 +923,13 @@
         </org>
         <org xml:id="kbga-actors-8745">
           <orgName>Bolschewiki</orgName>
-          <orgName type="full">Bolschewiki</orgName>
-          <orgName type="alternative">Bolschewisten</orgName>
-          <orgName type="alternative">Bolschwistische Partei</orgName>
+          <orgName type="full">Bolschewiki (1912-1991)</orgName>
+          <orgName type="alternative">Kommunistische Partei Russlands (Bolschewiki)</orgName>
+          <orgName type="alternative">Kommunistische Partei der Sowjetunion</orgName>
+          <orgName type="variant">Bolschewisten</orgName>
+          <orgName type="variant">Bolschewistische Partei</orgName>
+          <birth when="1912"/>
+          <death when="1991-08-29"/>
           <ref target="https://de.wikipedia.org/wiki/Bolschewiki">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q83372">wikidata</ref>
           <ref target="https://www.britannica.com/topic/Bolshevik">encyclopaedia-britannica-online</ref>
@@ -952,6 +956,7 @@
               <ptr type="viaf" target="https://viaf.org/viaf/125556967/"/>
             </bibl>
           </listBibl>
+          <desc>Ursprünglich die von Lenin angeführte radikale Fraktion innerhalb der «Sozialdemokratischen Arbeiterpartei Russlands», nach deren Spaltung 1912 eigenständig, seit 1918 «Kommunistische Partei Russlands (Bolschewiki)», seit 1952 «Kommunistische Partei der Sowjetunion» (KPdSU).</desc>
         </org>
         <org xml:id="kbga-actors-8285">
           <orgName>Bonner Landgericht</orgName>
@@ -1169,6 +1174,32 @@
           <orgName type="variant">Bundes religiöser Sozialisten Deutschlands</orgName>
           <listBibl/>
         </org>
+        <org xml:id="kbga-actors-10462">
+          <orgName>Bund Evangelischer Jugend Schweiz</orgName>
+          <orgName type="full">Bund Evangelischer Jugend Schweiz (1937-1991)</orgName>
+          <orgName type="alternative">Junge Kirche Schweiz</orgName>
+          <birth when="1937"/>
+          <death when="1991"/>
+          <ref target="https://d-nb.info/gnd/2086597-1">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Bund_Evangelischer_Jugend_Schweiz">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q106861662">wikidata</ref>
+          <ref target="https://kba.karl-barth.ch/actors/6119">kba</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2086597-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bund_Evangelischer_Jugend_Schweiz"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q106861662"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/actors/6119"/>
+            </bibl>
+          </listBibl>
+          <desc>Schweizerischer evangelischer Jugendverband, Zusammenschluss von vorher regional organisierten Gruppen.</desc>
+        </org>
         <org xml:id="kbga-actors-8750">
           <orgName>Bund Freie Volkskirche</orgName>
           <orgName type="full">Bund Freie Volkskirche</orgName>
@@ -1252,10 +1283,70 @@
           <orgName type="full">Chicago University</orgName>
           <listBibl/>
         </org>
+        <org xml:id="kbga-actors-631">
+          <orgName>Chr. Kaiser Verlag</orgName>
+          <orgName type="full">Chr. Kaiser Verlag (1845-1993)</orgName>
+          <orgName type="variant">Kaiser, Chr. Verlag</orgName>
+          <orgName type="variant">Kaiser, Chr.</orgName>
+          <orgName type="variant">Christian Kaiser Verlag</orgName>
+          <orgName type="variant">Chr. Kaiser-Verlag</orgName>
+          <birth when="1845"/>
+          <death when="1993"/>
+          <ref target="https://de.wikipedia.org/wiki/Christian_Kaiser_Verlag">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/2006926-1">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1080544">wikidata</ref>
+          <ref target="https://viaf.org/viaf/146641685/">viaf</ref>
+          <ref target="https://id.loc.gov/authorities/n85065156">lcnaf</ref>
+          <ref target="https://www.worldcat.org/identities/lccn-n85065156/">worldcat</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Christian_Kaiser_Verlag"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2006926-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1080544"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/146641685/"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85065156"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n85065156/"/>
+            </bibl>
+          </listBibl>
+          <desc>1845 in München gegründet, seit der Übernahme der ersten Auflage des «Römerbriefs» wichtigster deutscher Verlag Karl Barths; 1937 indirekt ausgesprochenes Verbot, weitere Schriften Barths zu veröffentlichen, 1943 aufgrund seines Engagements für Verfasser aus der Bekennenden Kirche geschlossen, 1946 wieder gegründet, 1993 vom Gütersloher Verlagshaus übernommen.</desc>
+        </org>
         <org xml:id="kbga-actors-8646">
           <orgName>Christengemeinschaft</orgName>
-          <orgName type="full">Christengemeinschaft</orgName>
-          <listBibl/>
+          <orgName type="full">Christengemeinschaft (1922- )</orgName>
+          <birth when="1922-09-16"/>
+          <ref target="https://d-nb.info/gnd/2007045-7">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q666614">wikidata</ref>
+          <ref target="https://id.loc.gov/authorities/n87931461">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/147221023">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Die_Christengemeinschaft">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2007045-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q666614"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n87931461"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/147221023"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Die_Christengemeinschaft"/>
+            </bibl>
+          </listBibl>
+          <desc>Der Anthroposohie nahestehende, selbständige Kultusgemeinschaft, die nach Anregungen Rudolf Steiners unter der Leitung von Friedrich Rittelmeyer in Dornach SO gegründet wurde.</desc>
         </org>
         <org xml:id="kbga-actors-9771">
           <orgName>Christian Science</orgName>
@@ -1290,14 +1381,18 @@
         </org>
         <org xml:id="kbga-actors-9871">
           <orgName>Christliche Studentenvereinigung</orgName>
-          <orgName type="full">Christliche Studentenvereinigung</orgName>
-          <orgName type="alternative">CSV</orgName>
-          <listBibl/>
-        </org>
-        <org xml:id="kbga-actors-8766">
-          <orgName>Christliche Studentenvereinigung Bern</orgName>
-          <orgName type="full">Christliche Studentenvereinigung Bern</orgName>
-          <listBibl/>
+          <orgName type="full">Christliche Studentenvereinigung (1896- )</orgName>
+          <orgName type="alternative">Schweizerische Christliche Studentenvereinigung</orgName>
+          <orgName type="abbreviation">CSV</orgName>
+          <orgName type="abbreviation">SCSV</orgName>
+          <birth when="1896"/>
+          <ref target="https://d-nb.info/gnd/4377770-3">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4377770-3"/>
+            </bibl>
+          </listBibl>
+          <desc>Im Gefolge der von John R. Mott beeinflussten Gründung des Studenten-Weltbunds gegründeter Schweizer christlicher Studentenbund, dem lokale Vereinigungen an Universitätsorten angehören, unter anderem in Basel und Bern.</desc>
         </org>
         <org xml:id="kbga-actors-9869">
           <orgName>Christliche Volksblatt</orgName>
@@ -1328,24 +1423,44 @@
         </org>
         <org xml:id="kbga-actors-5239">
           <orgName>Christlicher Verein junger Männer</orgName>
-          <orgName type="full">Christlicher Verein junger Männer</orgName>
+          <orgName type="full">Christlicher Verein junger Männer (1844- )</orgName>
+          <orgName type="alternative">Young Men’s Christian Association</orgName>
           <orgName type="variant">CVJM</orgName>
           <orgName type="abbreviation">C.V.J.M.</orgName>
           <orgName type="abbreviation">CVJM</orgName>
-          <ref target="https://de.wikipedia.org/wiki/Christlicher_Verein_Junger_Menschen">wikipedia</ref>
-          <ref target="https://d-nb.info/gnd/7784275-3">gnd</ref>
+          <orgName type="abbreviation">YMCA</orgName>
+          <birth when="1844-06-06"/>
           <ref target="https://kba.karl-barth.ch/actors/3866">kba</ref>
+          <ref target="https://d-nb.info/gnd/2026538-4">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q157169">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/YMCA">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n80044742">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/315945386">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Christlicher_Verein_Junger_Menschen">wikipedia</ref>
           <listBibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Christlicher_Verein_Junger_Menschen"/>
-            </bibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/7784275-3"/>
-            </bibl>
             <bibl>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/3866"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2026538-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q157169"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/YMCA"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80044742"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/315945386"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Christlicher_Verein_Junger_Menschen"/>
+            </bibl>
           </listBibl>
+          <desc>Überkonfessionell-christliche, weltweite Jugendorganisation mit nationalen Verbänden; 1844 in Grossbritannien gegründet, in Deutschland 1848, in Frankreich 1852; Sitz des CVJM-Weltbundes ist heute Genf.</desc>
         </org>
         <org xml:id="kbga-actors-9068">
           <orgName>Church of England</orgName>
@@ -1380,14 +1495,20 @@
         </org>
         <org xml:id="kbga-actors-3997">
           <orgName>Coetus der reformierten Prediger Ostfrieslands</orgName>
-          <orgName type="full">Coetus der reformierten Prediger Ostfrieslands</orgName>
+          <orgName type="full">Coetus der reformierten Prediger Ostfrieslands (1544- )</orgName>
           <orgName type="variant">Coetus reformierter Prediger in Osrfriesland</orgName>
+          <birth when="1544"/>
           <ref target="https://de.wikipedia.org/wiki/Coetus_der_reformierten_Prediger_Ostfrieslands">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/5555361-8">gnd</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Coetus_der_reformierten_Prediger_Ostfrieslands"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/5555361-8"/>
+            </bibl>
           </listBibl>
+          <desc>Von Johannes a Lasco gegründete Pastoren-Vereinigung, die sich regelmässig in Emden zu Versammlungen trifft; älteste Pastorenvereinigung in der Evangelischen Kirche in Deutschland.</desc>
         </org>
         <org xml:id="kbga-actors-3147">
           <orgName>Coetus reformierter Prediger Deutschlands</orgName>
@@ -1704,15 +1825,18 @@
         </org>
         <org xml:id="kbga-actors-5247">
           <orgName>Deutsche Christliche Studentenvereinigung</orgName>
-          <orgName type="full">Deutsche Christliche Studentenvereinigung</orgName>
+          <orgName type="full">Deutsche Christliche Studentenvereinigung (1895-1938)</orgName>
           <orgName type="abbreviation">D. C. S. V.</orgName>
           <orgName type="abbreviation">DCSV</orgName>
+          <birth when="1895"/>
+          <death when="1938"/>
           <ref target="https://de.wikipedia.org/wiki/Deutsche_Christliche_Studentenvereinigung">wikipedia</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Deutsche_Christliche_Studentenvereinigung"/>
             </bibl>
           </listBibl>
+          <desc>Unter dem Einfluss von John R. Mott und unter der Leitung von Eduard Graf Pückler 1895 gegründete christliche Studentenorganisation, die 1938 verboten wurde.</desc>
         </org>
         <org xml:id="kbga-actors-8773">
           <orgName>Deutsche Demokratische Republik</orgName>
@@ -1834,11 +1958,38 @@
           <orgName type="full">Deutsche Reformierte Gemeinde, Genf</orgName>
           <listBibl/>
         </org>
-        <org xml:id="kbga-actors-9822">
-          <orgName>Deutschen christlichen Studentenvereinigung</orgName>
-          <orgName type="full">Deutschen christlichen Studentenvereinigung</orgName>
-          <orgName type="alternative">D.C.S.V.</orgName>
-          <listBibl/>
+        <org xml:id="kbga-actors-10398">
+          <orgName>Deutsche Wehrmacht</orgName>
+          <orgName type="full">Deutsche Wehrmacht (1935-1945)</orgName>
+          <birth when="1935-03-16"/>
+          <death when="1945-09-20"/>
+          <ref target="https://de.wikipedia.org/wiki/Wehrmacht">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q128781">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/Wehrmacht">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/no2015002790">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/130135419/">viaf</ref>
+          <ref target="https://d-nb.info/gnd/26159-2">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Wehrmacht"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q128781"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Wehrmacht"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2015002790"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/130135419/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/26159-2"/>
+            </bibl>
+          </listBibl>
+          <desc>Deutsche Armee unter dem NS-Regime, hervorgegangen aus der Reichswehr, aufgelöst durch den Alliierten Kontrollrat.</desc>
         </org>
         <org xml:id="kbga-actors-8295">
           <orgName>Deutscher Evangelisch-Theologischer Fakultätentag</orgName>
@@ -2219,8 +2370,11 @@
         </org>
         <org xml:id="kbga-actors-8422">
           <orgName>Drei-Männer-Kollegium</orgName>
-          <orgName type="full">Drei-Männer-Kollegium</orgName>
+          <orgName type="full">Drei-Männer-Kollegium (1933)</orgName>
+          <birth when="1933"/>
+          <death when="1933"/>
           <listBibl/>
+          <desc>Aus Hermann Albert Hesse, Hermann Kapler und August Marahrens bestehendes Kollegium, das 1933 die «Reform der Verfassung des deutschen Protestantismus» einleiten sollte und einen Entwurf für die Verfassung der kommenden Deutschen Evangelischen Kirche erarbeitete.</desc>
         </org>
         <org xml:id="kbga-actors-8219">
           <orgName>Drew University School of Theology</orgName>
@@ -4036,7 +4190,9 @@
         </org>
         <org xml:id="kbga-actors-9772">
           <orgName>Grütliverein</orgName>
-          <orgName type="full">Grütliverein</orgName>
+          <orgName type="full">Grütliverein (1838-1925)</orgName>
+          <birth when="1838"/>
+          <death when="1925"/>
           <ref target="https://de.wikipedia.org/wiki/Grütliverein">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q683672">wikidata</ref>
           <ref target="https://worldcat.org/identities/lccn-no2010102118/">worldcat</ref>
@@ -4067,6 +4223,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/44180-6"/>
             </bibl>
           </listBibl>
+          <desc>1838 gegründete Handwerksgesellen- und Arbeiterorganisation, die eine wichtige Rolle in der Schweizer Arbeiterbewegung spielte; 1901 bei organisatorisch weiterbestehender Selbständigkeit mit der ideologisch nahestehenden SP fusioniert, 1916 wieder selbständig, 1925 aufgelöst bzw. endgültig mit der SP fusioniert.</desc>
         </org>
         <org xml:id="kbga-actors-8425">
           <orgName>Gustav-Adolf-Verein</orgName>
@@ -4108,6 +4265,8 @@
         <org xml:id="kbga-actors-8812">
           <orgName>Habsburg</orgName>
           <orgName type="full">Habsburg</orgName>
+          <orgName type="alternative">Habsburger</orgName>
+          <orgName type="variant">Haus Habsburg</orgName>
           <ref target="https://de.wikipedia.org/wiki/Habsburg">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q65968">wikidata</ref>
           <ref target="https://viaf.org/viaf/9192155832955233490001/">viaf</ref>
@@ -4146,6 +4305,7 @@
               <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd118544233.html"/>
             </bibl>
           </listBibl>
+          <desc>Ursprünglich aus dem aargauisch-oberelsässischen Raum stammende europäische Adelsdynastie, deren Angehörige vom Mittelalter bis ins 20. Jahrhundert in verschiedenen Territorien und Staaten herrschten, u. a. als Kaiser des Heiligen Römischen Reichs, Regenten von Spanien, Österreich und Ungarn. Mit Ende des Ersten Weltkriegs endete die österreichische Monarchie der Habsburger.</desc>
         </org>
         <org xml:id="kbga-actors-8296">
           <orgName>Hannoversche Landeskirche</orgName>
@@ -4479,15 +4639,20 @@
           <listBibl/>
         </org>
         <org xml:id="kbga-actors-6002">
-          <orgName>Junge Kirche</orgName>
-          <orgName type="full">Junge Kirche (1933- )</orgName>
+          <orgName>Junge Kirche (Zeitschrift)</orgName>
+          <orgName type="full">Junge Kirche (Zeitschrift) (1933- )</orgName>
           <birth when="1933"/>
           <ref target="https://de.wikipedia.org/wiki/Junge_Kirche">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/16263836-X">gnd</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Junge_Kirche"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/16263836-X"/>
+            </bibl>
           </listBibl>
+          <desc>1933 als «Mitteilungsblatt der Jungreformatorischen Bewegung» gegründet (später: «Halbmonatsschrift für reformatorisches Christentum»); eines der wichtigsten publizistischen Organe der Bekennenden Kirche. Das Erscheinen wurde 1941 eingestellt und 1949 wieder aufgenommen.</desc>
         </org>
         <org xml:id="kbga-actors-9847">
           <orgName>Jünglingsbote</orgName>
@@ -4496,8 +4661,9 @@
         </org>
         <org xml:id="kbga-actors-6005">
           <orgName>Jungreformatorische Bewegung</orgName>
-          <orgName type="full">Jungreformatorische Bewegung (1933- )</orgName>
+          <orgName type="full">Jungreformatorische Bewegung (1933)</orgName>
           <birth when="1933"/>
+          <death when="1933"/>
           <ref target="https://de.wikipedia.org/wiki/Jungreformatorische_Bewegung">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/19537">kba</ref>
           <ref target="https://d-nb.info/gnd/4162916-4">gnd</ref>
@@ -4512,6 +4678,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4162916-4"/>
             </bibl>
           </listBibl>
+          <desc>Kirchenpolitische Gruppierung evangelischer Theologen und Laien, die sich 1933 dem überwältigenden Einfluss der «Deutschen Christen» entgegenstellten und bei den Kirchenwahlen im Juli 1933 gegen sie antraten. Nach der Wahl beendete die Bewegung ihre kirchenpolitische Tätigkeit; bei der Gründung des Pfarrernotbunds - einer Keimzelle der späteren Bekennenden Kirche - spielten ehemalige Mitglieder der Jungereformatorischen Bewegung eine große Rolle.</desc>
         </org>
         <org xml:id="kbga-actors-9367">
           <orgName>Kairos-Kreis</orgName>
@@ -4530,43 +4697,6 @@
             </bibl>
           </listBibl>
           <desc>Von evangelischen Theologen und Sozialwissenschaftlern gegründeter Arbeitskreis, der das Versagen von Kirche, Theologie und sozialistischer Arbeiterbewegung reflektierte und bestimmt war von Paul Tillichs Versuch, den Sozialismus in sein kulturphilosophisch-theologisches System zu integrieren.</desc>
-        </org>
-        <org xml:id="kbga-actors-631">
-          <orgName>Kaiser, Christian (Verlag)</orgName>
-          <orgName type="full">Kaiser, Christian (Verlag) (1845-1993)</orgName>
-          <orgName type="variant">Kaiser, Chr. Verlag</orgName>
-          <orgName type="variant">Kaiser, Chr.</orgName>
-          <orgName type="variant">Christian Kaiser Verlag</orgName>
-          <orgName type="variant">Chr. Kaiser-Verlag</orgName>
-          <birth when="1845"/>
-          <death when="1993"/>
-          <ref target="https://de.wikipedia.org/wiki/Christian_Kaiser_Verlag">wikipedia</ref>
-          <ref target="https://d-nb.info/gnd/2006926-1">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q1080544">wikidata</ref>
-          <ref target="https://viaf.org/viaf/146641685/">viaf</ref>
-          <ref target="https://id.loc.gov/authorities/n85065156">lcnaf</ref>
-          <ref target="https://www.worldcat.org/identities/lccn-n85065156/">worldcat</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Christian_Kaiser_Verlag"/>
-            </bibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/2006926-1"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1080544"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/146641685/"/>
-            </bibl>
-            <bibl>
-              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85065156"/>
-            </bibl>
-            <bibl>
-              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n85065156/"/>
-            </bibl>
-          </listBibl>
-          <desc>1845 in München gegründet, seit der Übernahme der ersten Auflage des «Römerbriefs» wichtigster deutscher Verlag Karl Barths; 1937 indirekt ausgesprochenes Verbot, weitere Schriften Barths zu veröffentlichen, 1943 aufgrund seines Engagements für Verfasser aus der Bekennenden Kirche geschlossen, 1946 wieder gegründet, 1993 vom Gütersloher Verlagshaus übernommen.</desc>
         </org>
         <org xml:id="kbga-actors-9087">
           <orgName>Kamaldulenserorden</orgName>
@@ -4674,17 +4804,27 @@
           <orgName type="full">Kirchenausschuss der Kirchenprovinz Westfalen</orgName>
           <listBibl/>
         </org>
-        <org xml:id="kbga-actors-8634">
+        <org xml:id="kbga-actors-10458">
           <orgName>Kirchenbewegung Deutsche Christen (Nationalkirchliche Bewegung)</orgName>
-          <orgName type="full">Kirchenbewegung Deutsche Christen (Nationalkirchliche Bewegung)</orgName>
-          <orgName type="variant">Thüringer Deutsche Christen</orgName>
-          <listBibl/>
+          <orgName type="full">Kirchenbewegung Deutsche Christen (Nationalkirchliche Bewegung) (1929-1939)</orgName>
+          <orgName type="variant">Thüringer Deutschen Christen</orgName>
+          <birth when="1929"/>
+          <death when="1939"/>
+          <ref target="https://d-nb.info/gnd/5022694-0">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/5022694-0"/>
+            </bibl>
+          </listBibl>
+          <desc>Radikaler Thüringer Flügel der «Deutschen Christen» (DC), 1933 kurzzeitig in der Reichsbewegung der DC aufgegangen, dann wieder eigenständig, in der zweiten Hälfte der 1930er Jahre die bestimmende Gruppierung innerhalb der DC.</desc>
         </org>
         <org xml:id="kbga-actors-4787">
           <orgName>Kirchenblatt für die reformierte Schweiz</orgName>
-          <orgName type="full">Kirchenblatt für die reformierte Schweiz</orgName>
+          <orgName type="full">Kirchenblatt für die reformierte Schweiz (1844-1986)</orgName>
           <orgName type="variant">Kirchenblatt für die reformierte Schweiz</orgName>
           <orgName type="abbreviation">KBRS</orgName>
+          <birth when="1844-04-14"/>
+          <death when="1986"/>
           <ref target="https://kba.karl-barth.ch/actors/21747">kba</ref>
           <ref target="https://d-nb.info/gnd/1086242025">gnd</ref>
           <listBibl>
@@ -4695,6 +4835,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/1086242025"/>
             </bibl>
           </listBibl>
+          <desc>Wöchentlich erscheinende Zeitung für den schweizerischen Protestantismus, sowohl für eine kirchlich als auch für eine theologisch interessierte Leserschaft gedacht. Unter Gottlob Wieser, der 1936-1970 Hauptredaktor war, als barthianisch orientiertes Blatt profiliert.</desc>
         </org>
         <org xml:id="kbga-actors-8639">
           <orgName>Kirchenführerkonferenz der Deutschen Evangelischen Kirche</orgName>
@@ -4912,6 +5053,11 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Preußische_Akademie_der_Wissenschaften"/>
             </bibl>
           </listBibl>
+        </org>
+        <org xml:id="kbga-actors-10428">
+          <orgName>KPR</orgName>
+          <orgName type="full">KPR</orgName>
+          <listBibl/>
         </org>
         <org xml:id="kbga-actors-9064">
           <orgName>Kriegsruf</orgName>
@@ -5456,6 +5602,13 @@
             </bibl>
           </listBibl>
         </org>
+        <org xml:id="kbga-actors-10383">
+          <orgName>NATO</orgName>
+          <orgName type="full">NATO (1049- )</orgName>
+          <orgName type="alternative">North Atlantic Treaty Organization</orgName>
+          <birth when="1049"/>
+          <listBibl/>
+        </org>
         <org xml:id="kbga-actors-7974">
           <orgName>Neue Basler Zeitung</orgName>
           <orgName type="full">Neue Basler Zeitung</orgName>
@@ -5720,9 +5873,20 @@
             </bibl>
           </listBibl>
         </org>
+        <org xml:id="kbga-actors-10376">
+          <orgName>Ökumenischer Arbeitskreis Evangelischer und Katholischer Theologen</orgName>
+          <orgName type="full">Ökumenischer Arbeitskreis Evangelischer und Katholischer Theologen (1950- )</orgName>
+          <birth when="1950"/>
+          <listBibl/>
+        </org>
         <org xml:id="kbga-actors-6077">
           <orgName>Ökumenischer Rat der Kirchen</orgName>
-          <orgName type="full">Ökumenischer Rat der Kirchen</orgName>
+          <orgName type="full">Ökumenischer Rat der Kirchen (1948- )</orgName>
+          <orgName type="alternative">Weltkirchenrat</orgName>
+          <orgName type="variant">World Council of Churches</orgName>
+          <orgName type="abbreviation">ÖRK</orgName>
+          <orgName type="abbreviation">WCC</orgName>
+          <birth when="1948-08-23"/>
           <ref target="https://de.wikipedia.org/wiki/Ökumenischer_Rat_der_Kirchen">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/21565">kba</ref>
           <listBibl>
@@ -5733,6 +5897,7 @@
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/21565"/>
             </bibl>
           </listBibl>
+          <desc>Der Ökumenische Rat der Kirchen (ÖRK; auch Weltkirchenrat; englisch World Council of Churches, WCC) mit Sitz in Genf ist ein weltweiter Zusammenschluss von 348 Mitgliedskirchen (Stand: 2016) in mehr als 120 Ländern auf allen Kontinenten.</desc>
         </org>
         <org xml:id="kbga-actors-8234">
           <orgName>Ökumenisches Archiv</orgName>
@@ -5742,8 +5907,10 @@
         </org>
         <org xml:id="kbga-actors-8259">
           <orgName>Ökumenisches Seminar Genf</orgName>
-          <orgName type="full">Ökumenisches Seminar Genf</orgName>
+          <orgName type="full">Ökumenisches Seminar Genf (1934-1938)</orgName>
           <orgName type="variant">Internationales Theologisches Seminar Genf</orgName>
+          <birth when="1934"/>
+          <death when="1938"/>
           <ref target="https://kba.karl-barth.ch/actors/20925">kba</ref>
           <ref target="https://d-nb.info/gnd/1086214390">gnd</ref>
           <listBibl>
@@ -5754,6 +5921,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/1086214390"/>
             </bibl>
           </listBibl>
+          <desc>Vorläufer des Ökumenischen Instituts Bossey; 1934 von Adolf Keller in Kooperation mit der Theologischen Fakultät Genf gegründet; 1934/35 sollte Karl Barth für eine ständige Professur am Ökumenischen Seminar gewonnen werden, was sich jedoch nicht realisierten liess.</desc>
         </org>
         <org xml:id="kbga-actors-9075">
           <orgName>Osmanisches Reich</orgName>
@@ -5935,6 +6103,13 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/1217272-8"/>
             </bibl>
           </listBibl>
+          <desc>Friedenskonferenz nach dem Ersten Weltkrieg, die unter Ausschluss der besiegten Mächte stattfand und deren Ergebnis die sog. Pariser Vorortverträge waren, unter ihnen der Versailler Vertrag, der dem Deutschen Reich die Friedensbedingungen diktierte.</desc>
+        </org>
+        <org xml:id="kbga-actors-10434">
+          <orgName>Parlament der Schweiz</orgName>
+          <orgName type="full">Parlament der Schweiz</orgName>
+          <orgName type="alternative">Schweizer Parlament</orgName>
+          <listBibl/>
         </org>
         <org xml:id="kbga-actors-9887">
           <orgName>Pastoralblätter für Predigt, Seelsorge und kirchliche Unterweisung</orgName>
@@ -5972,7 +6147,9 @@
         </org>
         <org xml:id="kbga-actors-6086">
           <orgName>Pfarrernotbund</orgName>
-          <orgName type="full">Pfarrernotbund</orgName>
+          <orgName type="full">Pfarrernotbund (1933-1948)</orgName>
+          <birth when="1933-09-21"/>
+          <death when="1948"/>
           <ref target="https://de.wikipedia.org/wiki/Pfarrernotbund">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/19221">kba</ref>
           <ref target="https://d-nb.info/gnd/4512206-4">gnd</ref>
@@ -5995,6 +6172,7 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Pastors-Emergency-League"/>
             </bibl>
           </listBibl>
+          <desc>Zusammenschluss evangelischer Theologen und Pfarrer, die in Opposition zu den seit Sommer 1933 die entscheidenden Gremien der Deutschen Evangelischen Kirche dominierenden «Deutschen Christen» stand; eine Keimzelle der späteren Bekennenden Kirche.</desc>
         </org>
         <org xml:id="kbga-actors-8658">
           <orgName>Pfarrerschaft Hessen</orgName>
@@ -6609,6 +6787,40 @@
           </listBibl>
           <desc>Königtum (753-509 v.Chr.), Republik (509-27 v.Chr.) und Kaisertum (27 v.Chr. - 476 [weströmisches Reich] bzw. 1453 [oströmisches, später Byzantinisches Reich]), das von Rom aus zunächst das Gebiet des späteren Italiens, dann nach und nach den gesamten Mittelmeerraum über Jahrhunderte beherrschte.</desc>
         </org>
+        <org xml:id="kbga-actors-10397">
+          <orgName>Rote Armee</orgName>
+          <orgName type="full">Rote Armee (1918-1946)</orgName>
+          <orgName type="alternative">Rote Arbeiter- und Bauernarmee</orgName>
+          <birth when="1918"/>
+          <death when="1946"/>
+          <ref target="https://d-nb.info/gnd/130443-4">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Rote_Armee">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q251395">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/Red-Army">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n80126258">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/316748224">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/130443-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rote_Armee"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q251395"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Red-Army"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80126258"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/316748224"/>
+            </bibl>
+          </listBibl>
+          <desc>Heer und Luftstreitkräfte Sowjetrusslands (ab 1922 der Sowjetunion); 1946 umbenannt in Sowjetarmee.</desc>
+        </org>
         <org xml:id="kbga-actors-8718">
           <orgName>Rotes Kreuz</orgName>
           <orgName type="full">Rotes Kreuz</orgName>
@@ -7005,7 +7217,8 @@
         </org>
         <org xml:id="kbga-actors-8337">
           <orgName>Schweizerischer Evangelisch-Kirchlicher Verein</orgName>
-          <orgName type="full">Schweizerischer Evangelisch-Kirchlicher Verein</orgName>
+          <orgName type="full">Schweizerischer Evangelisch-Kirchlicher Verein (1871- )</orgName>
+          <birth when="1871"/>
           <ref target="https://d-nb.info/gnd/1018241-X">gnd</ref>
           <ref target="https://kba.karl-barth.ch/actors/7807">kba</ref>
           <listBibl>
@@ -7016,6 +7229,7 @@
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/7807"/>
             </bibl>
           </listBibl>
+          <desc>Schweizweiter Zusammenschluss der «positiv» (= konservativ) gesonnenen kirchlichen «Richtung».</desc>
         </org>
         <org xml:id="kbga-actors-8035">
           <orgName>Schweizerischer Evangelischer Kirchenbund</orgName>
@@ -7185,13 +7399,43 @@
         </org>
         <org xml:id="kbga-actors-8346">
           <orgName>Schwyz (Kanton)</orgName>
-          <orgName type="full">Schwyz (Kanton)</orgName>
+          <orgName type="full">Schwyz (Kanton) (1291- )</orgName>
+          <birth when="1291"/>
           <ref target="https://de.wikipedia.org/wiki/Kanton_Schwyz">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/4054019-4">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q12433">wikidata</ref>
+          <ref target="https://www.geonames.org/2658664">geonames</ref>
+          <ref target="https://www.britannica.com/place/Schwyz-canton-Switzerland">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n80093609">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/007385">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/134271490">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanton_Schwyz"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4054019-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q12433"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2658664"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Schwyz-canton-Switzerland"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80093609"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007385"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/134271490"/>
+            </bibl>
           </listBibl>
+          <desc>Kanton in der Zentralschweiz mit gleichnamigem Hauptort; einer der drei Gründungskantone der Eidgenossenschaft.</desc>
         </org>
         <org xml:id="kbga-actors-8731">
           <orgName>Serbien</orgName>
@@ -7490,6 +7734,44 @@
           <orgName>Synodalrat Bern</orgName>
           <orgName type="full">Synodalrat Bern</orgName>
           <listBibl/>
+        </org>
+        <org xml:id="kbga-actors-10360">
+          <orgName>Synode von Elvira</orgName>
+          <orgName type="full">Synode von Elvira (306-313)</orgName>
+          <orgName type="alternative">Konzil von Elvira</orgName>
+          <birth when="0306"/>
+          <death when="0313"/>
+          <ref target="https://d-nb.info/gnd/4266645-4">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Synode_von_Elvira">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1262455">wikidata</ref>
+          <ref target="https://www.britannica.com/event/Council-of-Elvira">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/05395b.htm">catholic-encyclopedia</ref>
+          <ref target="https://id.loc.gov/authorities/n97086719">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/123327820">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4266645-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Synode_von_Elvira"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1262455"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Council-of-Elvira"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/05395b.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n97086719"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/123327820"/>
+            </bibl>
+          </listBibl>
+          <desc>Regionale Kirchenversammlung in Elvira (heute Granada, Spanien), von der 81 Canones (Beschlüsse) überliefert sind, deren genauer Zeitpunkt aber nicht bekannt ist.</desc>
         </org>
         <org xml:id="kbga-actors-8695">
           <orgName>Syracuse University</orgName>
@@ -7946,6 +8228,7 @@
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/027053"/>
             </bibl>
           </listBibl>
+          <desc>Das von der römisch-katholischen Kirche als 19. ökumenisches Konzil gerechnete Konzil von Trient fand zwischen 1545 und 1563 in drei Tagungsperioden (25 Sitzungen) statt; Hauptanlass war die Notwendigkeit, in Reaktion auf die Reformation die gültige römisch-katholische Lehre zu formulieren.</desc>
         </org>
         <org xml:id="kbga-actors-8307">
           <orgName>Tschechoslowakei (Staat)</orgName>
@@ -8542,6 +8825,39 @@
           </listBibl>
           <desc>Älteste Universität Schottlands und nach Oxford und Cambridge die drittälteste Universität in der englischsprachigen Welt. Die Universität verlieh Barth im März 1937 den Titel eines juristischen Ehrendoktors.</desc>
         </org>
+        <org xml:id="kbga-actors-10399">
+          <orgName>Unterwalden (Kanton)</orgName>
+          <orgName type="full">Unterwalden (Kanton) (1291-1999)</orgName>
+          <birth when="1291"/>
+          <death when="1999"/>
+          <ref target="https://de.wikipedia.org/wiki/Unterwalden">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q214069">wikidata</ref>
+          <ref target="https://www.britannica.com/place/Unterwalden">encyclopaedia-britannica-online</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/007409">hls-dhs-dss</ref>
+          <ref target="https://d-nb.info/gnd/4062039-6">gnd</ref>
+          <ref target="https://viaf.org/viaf/244083259">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Unterwalden"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q214069"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Unterwalden"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007409"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4062039-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/244083259"/>
+            </bibl>
+          </listBibl>
+          <desc>Einer der Urkantone der Eidgenossenschaft in der Zentralschweiz; ab 1803 in Ob- und Nidwalden geteilt, mit der Streichung des Begriffs Halbkanton in der Bundesverfassung  von 1999 verschwand auch der Name Unterwalden.</desc>
+        </org>
         <org xml:id="kbga-actors-9698">
           <orgName>Uri (Kanton)</orgName>
           <orgName type="full">Uri (Kanton) (1291- )</orgName>
@@ -8836,6 +9152,45 @@
             </bibl>
           </listBibl>
         </org>
+        <org xml:id="kbga-actors-10364">
+          <orgName>Viertes Konzil von Konstantinopel</orgName>
+          <orgName type="full">Viertes Konzil von Konstantinopel (869-870)</orgName>
+          <orgName type="alternative">Ignatianische Synode</orgName>
+          <orgName type="alternative">Photianische Synode</orgName>
+          <birth when="0869"/>
+          <death when="0870"/>
+          <ref target="https://d-nb.info/gnd/4032376-6">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q732816">wikidata</ref>
+          <ref target="https://www.britannica.com/event/Council-of-Constantinople-AD-869-870">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/04310b.htm">catholic-encyclopedia</ref>
+          <ref target="https://id.loc.gov/authorities/n86120820">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/145503773">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Viertes_Konzil_von_Konstantinopel_(869/870)">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4032376-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q732816"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Council-of-Constantinople-AD-869-870"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/04310b.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n86120820"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/145503773"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Viertes_Konzil_von_Konstantinopel_(869/870)"/>
+            </bibl>
+          </listBibl>
+          <desc>Das vierte Konzil von Konstantinopel (869–870) war das achte ökumenische Konzil der römisch-katholischen Kirche und behandelte den Patriarchenstreit zwischen Ignatios und Photios von Konstantinopel. Es führte zur Absetzung von Photios und betonte die Autorität des Papstes in kirchlichen Angelegenheiten. Das Konzil verstärkte jedoch die Spannungen zwischen der östlichen und westlichen Kirche und hatte langfristig Auswirkungen auf das Große Schisma von 1054.</desc>
+        </org>
         <org xml:id="kbga-actors-8266">
           <orgName>Völkerbund</orgName>
           <orgName type="full">Völkerbund</orgName>
@@ -9068,19 +9423,21 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62685751"/>
             </bibl>
           </listBibl>
+          <desc>Die erste Weltkonferenz über Glauben und Kirchenverfassung (Faith and Order movement), zu der sich mehr als 400 Vertreter von 127 Kirchen anglikanischer, evangelischer und orthodoxer Konfession versammelten.</desc>
         </org>
         <org xml:id="kbga-actors-8609">
           <orgName>Weltkonferenz für Praktisches Christentum (Oxford 1937)</orgName>
           <orgName type="full">Weltkonferenz für Praktisches Christentum (Oxford 1937) (1937)</orgName>
           <orgName type="alternative">Weltkirchenkonferenz für Praktisches Christentum (Oxford 1937)</orgName>
-          <birth when="1937"/>
-          <death when="1937"/>
+          <birth when="1937-07-12"/>
+          <death when="1937-07-26"/>
           <ref target="https://d-nb.info/gnd/5089546-1">gnd</ref>
           <listBibl>
             <bibl>
               <ptr type="gnd" target="https://d-nb.info/gnd/5089546-1"/>
             </bibl>
           </listBibl>
+          <desc>Zweite Weltkonferenz für Praktisches Christentum zum Thema «Kirche, Volk und Staat».</desc>
         </org>
         <org xml:id="kbga-actors-8612">
           <orgName>Weltkonferenz für Praktisches Christentum (Oxford 1937), Theologischer Forschungsausschuss</orgName>
@@ -9418,6 +9775,44 @@
           <listBibl/>
           <desc>Stadtstaat / Kanton in der zentralen Schweiz, seit 1218 reichsunmittelbare Stadt, deren Herrschaft sich nach und nach im Westen, Norden und Osten des Zürichsees ausdehnte, seit 1803 ein Kanton der Schweiz.</desc>
         </org>
+        <org xml:id="kbga-actors-10085">
+          <orgName>Zweite Internationale</orgName>
+          <orgName type="full">Zweite Internationale (1889-1914)</orgName>
+          <orgName type="variant">2. Internationale</orgName>
+          <birth when="1889"/>
+          <death when="1914"/>
+          <ref target="https://d-nb.info/gnd/1013867-5">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Sozialistische_Internationale">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q159454">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/Socialist-International-association-of-political-parties-1951">encyclopaedia-britannica-online</ref>
+          <ref target="https://worldcat.org/identities/lccn-n80044454/">worldcat</ref>
+          <ref target="https://id.loc.gov/authorities/n80044454">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/137001209/">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1013867-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Sozialistische_Internationale"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q159454"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Socialist-International-association-of-political-parties-1951"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n80044454/"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80044454"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/137001209/"/>
+            </bibl>
+          </listBibl>
+          <desc>1889 in Paris gegründeter, weltweiter Zusammenschluss sozialistischer und sozialdemokratischer Parteien und Organisationen, der an den mit dem Beginn des Ersten Weltkriegs eintretenden fundamentalen Differenzen zerbrach. In der Tradition dieser Zweiten Internationale erfolgte 1951 die Gründung der «Sozialistischen Internationale».</desc>
+        </org>
         <org xml:id="kbga-actors-8380">
           <orgName>Zweite Weltkonferenz der Bewegung für Glaube und Kirchenverfassung</orgName>
           <orgName type="full">Zweite Weltkonferenz der Bewegung für Glaube und Kirchenverfassung (1937)</orgName>
@@ -9437,6 +9832,63 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62685751"/>
             </bibl>
           </listBibl>
+        </org>
+        <org xml:id="kbga-actors-10361">
+          <orgName>Zweites Konzil von Nicäa</orgName>
+          <orgName type="full">Zweites Konzil von Nicäa (787)</orgName>
+          <birth when="0787"/>
+          <death when="0787"/>
+          <ref target="https://d-nb.info/gnd/4032380-8">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Zweites_Konzil_von_Nicäa">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q187201">wikidata</ref>
+          <ref target="https://www.wikidata.org/wiki/Q187201">wikidata</ref>
+          <ref target="https://www.britannica.com/event/Council-of-Nicaea-Christianity-787">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.britannica.com/event/Council-of-Nicaea-Christianity-787">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/11045a.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.newadvent.org/cathen/11045a.htm">catholic-encyclopedia</ref>
+          <ref target="https://id.loc.gov/authorities/n84177500">lcnaf</ref>
+          <ref target="https://id.loc.gov/authorities/n84177500">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/140413644">viaf</ref>
+          <ref target="https://viaf.org/viaf/140413644">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4032380-8"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Zweites_Konzil_von_Nicäa"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q187201"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q187201"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Council-of-Nicaea-Christianity-787"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Council-of-Nicaea-Christianity-787"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/11045a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/11045a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84177500"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84177500"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/140413644"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/140413644"/>
+            </bibl>
+          </listBibl>
+          <desc>Siebtes ökumenisches Konzil der christlichen Kirche, das von der byzantinischen Kaiserin Irene einberufen wurde und das Ende des sogenannten Bilderstreits (Ikonoklasmus) markiert.</desc>
         </org>
         <org xml:id="kbga-actors-9960">
           <orgName>Zwingli-Kalender</orgName>

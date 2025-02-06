@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39003">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Psalm 23 (Neujahr)</title>
+        <title type="citation_line_1">Barth, Karl: Psalm 23 (Neujahr), 1. Januar 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39003 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 12.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39003</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Psalm 23 (Neujahr)</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">12</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">3</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt:  (Neujahr), 1. Januar 1919. <ref target="https://kba.karl-barth.ch/objects/1888">KBA 1431</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-01-01">1. Januar 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:31+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p003" ed="pga"/>
+        <div type="opener">
+          <head>
+            <idno>449</idno>
+          </head>
+          <dateline>
+            <placeName ref="kbga-places-54">Safenwil</placeName> und <hi rend="italic"><placeName ref="kbga-places-382">Ürkheim</placeName></hi><note xml:id="n01">An Neujahr wie auch an den beiden
+              folgenden Sonntagen predigte <persName ref="kbga-actors-2151">Barth</persName> auch im Nachbarort <placeName ref="kbga-places-382">Ürkheim</placeName> in Vertretung des
+              Ortspfarrers <persName ref="kbga-actors-763">Paul Schild</persName>.</note>, <date when="1919-01-01">1. Januar 1919</date>
+          </dateline>
+          <head type="event">Neujahr</head>
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Ps.23">Psalm 23</ref>
+              <quote>[Der Herr ist mein Hirte; mir wird nchts mangeln. Er weidet mich auf einer
+                grünen Aue und führet mich zum frischen Wasser. Er erquicket meine Seele; er führet
+                mich auf rechter Straße um seines Namens willen. Und ob ich schon wanderte im
+                finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und Stab
+                trösten mich. Du bereitest vor mir einen Tisch im Angesicht meiner Feinde. Du
+                salbest mein Haupt mit Öl und schenkest mir voll ein. Gutes und Barmherzigkeit
+                werden mir folgen mein Leben lang, und ich werde bleiben im Hause des Herrn
+                immerdar.]</quote>
+            </cit>
+          </epigraph>
+
+        </div>
+        <div type="main">
+
+          <p><hi rend="italic">1. Die Zeiten</hi>, wo wir mit harmlos vergnügten und zufriedenen Grüßen
+            und gegenseitigen Glückwünschen die Schwelle des neuen Jahres überschreiten konnten,
+            liegen weit hinter uns. Die Welt hat ein ernstes Gesicht bekommen. Aufmerksame Menschen
+              <hi rend="underlined-later">merken</hi> das. Menschen, die nicht nur für sich selbst
+            und in ihrem kleinen Kreise leben, sondern mitleidend tragen die Beschwerden der ganzen
+              Zeitgenossenschaft<note xml:id="n02">Aus der <bibl type="song" corresp="kbga-songs-328">5. Strophe des Liedes «Zerstreut und
+              mannigfach geschieden» von <persName ref="kbga-actors-736">S. Preiswerk</persName> (<bibl corresp="kbga-bibls-3559"><hi rend="italic">Evangelischer Liederkranz aus
+                älterer und neuerer Zeit</hi>, Basel 1844, Nr.124, S. 155f.</bibl></bibl>): <q rend="block">
+                <lg>
+                  <l>Laß uns ein Salz der Erde werden,</l>
+                  <l>Und als der Menschheit erste Kraft</l>
+                  <l>Mitleidend tragen die Beschwerden</l>
+                  <l>Der ganzen Zeitgenossenschaft.</l>
+                </lg></q></note>, solche Menschen gehen heute mit einem Herzen <hi rend="underlined-later">voll Sorge</hi> ins neue Jahr hinein. Mit größerer Sorge als
+            während der vergangenen Kriegszeit. Der Krieg ist vorüber, und dabei könnten wir uns
+            vielleicht einen Augenblick beruhigen.<note xml:id="n03">Im <ref corresp="A">Mskr.</ref> steht hier wie an
+              den entsprechenden Stellen im folgenden ein dicker, senkrechter, nachträglich zur
+              Markierung eines Abschnitts eingetragener Blaustift-Strich.</note>  –</p>
+          <p>Aber die <hi rend="italic">Abrechnung</hi> über den Krieg, über die Schuld, die ihn
+            verursacht, über das Böse, das er nun [?] erzeugt hat, über das, was wir in dieser
+            Kriegszeit gelernt oder noch nicht gelernt haben, diese Ab <pb ed="pga" xml:id="p004"/>
+            rechnung steht noch bevor.<note xml:id="n04">Am <date when="1919-01-18">18.1.1919</date>
+              wurde die Friedenskonferenz in <placeName ref="kbga-places-63">Versailles</placeName> von den Delegationen der Siegerstaaten
+              eröffnet.</note> Aufmerksame Menschen merken, daß die <hi rend="underlined-later">Aussicht</hi> keine erfreuliche ist. Die Luft über uns ist voll von den Anzeichen [?]
+            kommender schwerer Gewitter, und der Boden zittert unter unseren Füßen von den
+            Ankündigungen kommender schwerer Erdbeben. Es gibt Augenblicke, wo man die fast <hi rend="underlined-later">beneiden</hi> möchte, die in dem Schweren, das uns bevorsteht,
+            schon drinstehen, die jetzt schon büßen müssen für die Sünden der alten Zeit. Ich denke
+            an das unglückliche Rußland<note xml:id="n05">Während des noch bis 1921 andauernden
+              «Kriegskommunismus» sanken die Industrie- und Agrarproduktionen dramatisch. Außerdem
+              bestimmten die militärischen Auseinandersetzungen zwischen der «<orgName ref="kbga-actors-10397">Roten Armee</orgName>» und den
+              «weißen» Armeen der Gegenrevolutionäre das Jahr 1918 und die Folgejahre.</note>. Ich
+            denke an das tief gedemütigte deutsche Volk. Was mag <hi rend="underlined-later">uns
+              Anderen</hi> bevorstehen, denen, die jetzt mit den Mienen der Gerechten den Sieg
+            auskosten, und uns Zuschauern? Wir haben doch auf unsere Weise genau so sehr wie das
+            alte Rußland, das alte Deutschland geglaubt an die Mächte, die den Krieg und die
+            Revolution verursacht haben: an das Geld, an eine bloß äußerliche Kultur, an ein
+            Christentum, das bloß Verzierung ist, an die militärische Macht, an die
+            gesellschaftlichen Vorurteile. Wer glaubt mehr daran als die Engländer, die Amerikaner,
+            die Schweizer? An einigen Stellen der Menschheit ist das Haus, das auf diesen <hi rend="underlined-later">Grundlagen</hi> erbaut war, nun unter Schrecken und Schmerzen
+            zusammengebrochen. Ich erinnere mich an das letzte Wort des ermordeten Tisza<note xml:id="n06"><persName ref="kbga-actors-10423">István Graf Tisza</persName> war 1903-1905 und 1913-1917 ungarischer
+              Minister-Präsident. Er wurde am <date when="1918-10-31">31.10.1918</date> in <placeName ref="kbga-places-126">Budapest</placeName>
+              ermordet. Er hatte sich 1914 dem Angriffskrieg gegen Serbien widersetzt, später aber
+              die Kriegsanstrengungen der Mittelmächte gefördert. Zu seiner Ermordung und zu seinen
+              letzten Worten vgl. <bibl corresp="kbga-bibls-5434">G. Vermes, <hi rend="italic">István Tisza. The Liberal Vision and
+                Conservative Statecraft of A Magyar Nationalist</hi>, New York 1985, S. 453 und
+              S. 566, Anm.58</bibl>.</note>: <hi rend="underlined-later">Es mußte</hi> so kommen! Werden
+            die verkehrten Grundlagen, auf denen wir Alles gebaut haben, bei uns etwa tragfähiger
+            sein als dort? Es wird auch in England, auch in Frankreich,
+            auch bei uns einmal so kommen, wie es kommen muß. Die <hi rend="underlined-later">Weltgeschichte</hi> ist unheimlich konsequent und gewissenhaft, sie vergißt nichts,
+            sie bringt Alles an den Tag. Was der Mensch sät, das muß er ernten [vgl. <ref type="can" subtype="bible" target="Gal.6.7">Gal. 6,7</ref>]. –</p>
+          <p><pb ed="pga" xml:id="p005" rend="noPipe"/>
+            <hi rend="italic">Wer das weiß</hi>, der muß heute erschrecken beim Gedanken an die Zukunft.
+            Man wird beim besten Willen nicht behaupten können, daß die heutigen Sieger im Weltkrieg
+            in den letzten Monaten <hi rend="underlined-later">guten Samen</hi> gesät haben. Man
+            kann das auch von uns Schweizern nicht sagen. Wir haben erschreckend wenig gelernt.
+            Vielleicht sind uns in dem, was das Umdenken und Umlernen betrifft, die heutigen
+            Besiegten längst weit voraus. Wir gehen mit erstaunlicher Sicherheit und
+            Selbstgerechtigkeit <hi rend="underlined-later">weiter auf den Wegen,</hi> die in den
+            Weltkrieg hineingeführt haben. Wir sind erstaunlich getrost in der Zuversicht, die alte
+            Zeit mit ihren Götzen könne und müsse in Ewigkeit fortbestehen. Das muß sich einmal
+            rächen. Und daran denkt heute ein ernsthafter Mensch <hi rend="underlined-later">mit
+              Sorge.</hi> Wir haben nicht Ruhe zu erwarten, sondern neue Unruhe, nicht Frieden und
+            Verständigung, sondern neue Gegensätze, nicht Auflösung der Spannungen, sondern neue
+            schwere Bewegungen [?] und Schmerzen. Wir wollen es offenbar so haben. Es kann nicht
+            anders sein, als daß wir es so haben müssen. Wir wählen den <hi rend="underlined-later">Weg</hi> des alten Rußland, des alten Deutschland. Wir werden auf irgend eine Weise
+            und zu irgend einer Zeit auch ihr <hi rend="underlined-later">Schicksal</hi> aus der
+            Nähe kennen lernen müssen. Denn Gott läßt sich nicht spotten [<ref type="can" subtype="bible" target="Gal.6.7">Gal. 6,7</ref>]. –</p>
+          <!-- leerzeile -->
+          <p><hi rend="italic">2.</hi> Es ist <hi rend="italic">etwas Hohes, Gewaltiges</hi>, meine Freunde,
+            an diesem Neujahrstag die <hi rend="underlined-later">Worte des <ref type="can" subtype="bible" target="Ps.23">23. Psalms</ref></hi> zu lesen, zu hören, in den Mund
+            zu nehmen und auf uns anzuwenden: Der Herr ist mein Hirte … Wenn wir's doch <hi rend="italic">könnten</hi> und dürften! Wenn wir <hi rend="italic">greifen</hi> dürften nach diesem
+            wunderbaren Trost, nach dieser Fülle von Verheißung mitten in dieser dunklen Zeit! Wenn
+            wir jetzt <hi rend="italic">sagen dürften:</hi> Ja, Gott läßt sich nicht spotten. Die
+            Weltgeschichte ist das Weltgericht.<note xml:id="n07">Aus der <bibl corresp="kbga-bibls-1343">vorletzten Strophe des
+              Gedichts «Resignation» von <persName ref="kbga-actors-764">Fr. von Schiller</persName></bibl>.</note> Was kommen muß, kommt. Wir aber,
+            unser Volk, unsere Gemeinde, wir hier Versammelten, wir wenden uns und sehen mit Mut und
+            Hoffnung in die Zukunft, wir sprechen: Der Herr ist mein Hirte … –</p>
+          <p>Aber <hi rend="italic">es ist nicht an dem</hi>, daß wir ohne weiteres so reden dürften. Wir
+            dürfen uns die Erkenntnis nicht ersparen, daß diese Worte in unseren Mund zunächst <hi rend="underlined-later">nicht passen.</hi> Der Trost und die Verheißung, die uns da
+            leuchten, sind <hi rend="italic">Früchte</hi>, die erst wachsen müssen; es fragt <pb ed="pga" xml:id="p006"/> sich, ob sie bei uns gewachsen sind. Es fragt sich, ob man da stehen
+            kann, wo wir stehen, und <hi rend="italic">gleichzeitig</hi> den <ref type="can" subtype="bible" target="Ps.23">23. Psalm</ref> auf sich beziehen kann. Es fragt
+             sich, ob sich diese Worte als <hi rend="italic">Neujahrsparole</hi> für uns eignen. <hi rend="underlined-later">Ich sage nicht:</hi>
+            es ist unmöglich. Denn Gott hat die Tür auch für uns nicht verschlossen, für Keinen von
+            uns. Aber es hat auch Keiner von uns ohne weiteres <hi rend="italic">das Recht</hi>, sich
+            einzubilden, er könne und dürfe so mutig und hoffnungsvoll in die Zukunft blicken, wie
+            es da beschrieben ist. <hi rend="italic">Keiner</hi>, ich auch nicht, auch alle die nicht,
+            die ernster und frommer sind als ich. Es ist sehr <hi rend="italic">töricht</hi>, die Bibel
+            dazu zu mißbrauchen, uns mit solchen Worten der Zuversicht über <hi rend="italic">unsere</hi>
+            Lage hinwegzutäuschen. Es steht für uns alle in Frage, ob wir sie auf uns anwenden
+            dürfen. –</p>
+          <p>Denn zunächst müssen wir uns gestehen, daß <hi rend="italic">wir alle in der
+              Entwicklung</hi>, die jetzt, wie es scheint, unaufhaltsam dem Gericht entgegentreibt,
+            mitten drin stehen. <hi rend="italic">Wir alle</hi>, auch der Pfarrer, auch die Ernsten, auch
+            die Frommen, auch die Wohlgesinnten. Wir stehen auf der Seite der <hi rend="italic">alten
+              Zeit.</hi> Wir haben unser Interesse und unsere Freude daran, daß Alles so weitergehe,
+            wie es vor dem Kriege gewesen ist. <hi rend="italic">Wir helfen</hi> den Mächten der alten
+            Zeit, indem wir ihnen immer noch <hi rend="italic">Respekt</hi> entgegenbringen, indem wir
+            ihnen auf Schritt und Tritt <hi rend="italic">nachgeben</hi>, indem wir reden, wo wir <hi rend="italic">schweigen</hi>, und schweigen, wo wir <hi rend="italic">reden</hi> sollten. Wir
+              <hi rend="italic">bestätigen</hi> und verstärken das, was heute still verschwinden sollte,
+            und wir <hi rend="italic">entsetzen</hi> uns über das, was man heute ruhig verstehen sollte.
+            Wir sind mit unserem <hi rend="italic">Herzen</hi>, mit unserer Liebe, mit unserem Gebet
+            nicht bei dem, was wird, sondern bei dem, was vergeht. Wir haben im Innersten noch nicht
+            gemerkt, um was es sich handelt. Wir haben den <hi rend="italic">Ruf zur Buße</hi>, den diese
+            Zeit für die ganze Menschheit bedeutet, noch nicht gehört. Und dieses <hi rend="italic">«noch
+              nicht»</hi> steht zwischen uns und dem <ref type="can" subtype="bible" target="Ps.23">23. Psalm</ref>. –</p>
+          <p><hi rend="italic">Erst jenseits</hi> des Grabens, den wir noch nicht übersprungen, auf der
+            anderen Seite der innerlichen Umwälzung, des Umdenkens, Umlernens, Umfühlens kann man
+            sagen: Der Herr ist mein Hirte … Der Mann, der das gesagt hat, hat den <hi rend="underlined-later">Sprung getan.</hi> Er hat dem Gott, der die Welt richtet, <hi rend="italic">nicht widerstanden</hi>, sondern sich ihm in die Arme geworfen und gefangen
+            gegeben. Er ist <hi rend="italic">nicht mit dem Strom</hi>, sondern gegen den Strom
+            geschwommen. Es hat sich in ihm etwas <hi rend="italic">gekehrt</hi> von den Götzen zu Gott
+            hin, er hat sich <hi rend="italic">gebeugt</hi> unter das Gericht, er hat <pb ed="pga" xml:id="p007"/> die <hi rend="italic">Wahrheit</hi> wenigstens in seinem Herzen Wahrheit
+            sein lassen, er hat sich wenigstens einmal <hi rend="italic">innerlich gelöst</hi> von den
+            Gewalten der alten Welt, auch wenn er ihnen äußerlich noch nicht überlegen war, er hat
+            begonnen, wenigstens <hi rend="italic">anders zu denken</hi>, in eine andere Richtung zu
+            sehen. Seht, von da an und <hi rend="underlined-later">darum konnte er</hi> ohne
+            Übertreibung und Einbildung sagen: der Herr ist mein Hirte … Von da an wurde das <hi rend="italic">wahr</hi> für ihn. Für uns aber ist  das <hi rend="italic">nicht ohne weiteres</hi> wahr, denn nicht wahr, es ist nicht ohne weiteres
+            sicher, daß wir in diesem Umwandlungsprozeß auch drin stehen und stehen wollen. –</p>
+          <p>An uns treten seine Worte heute heran als <hi rend="italic">Frage und Aufforderung:</hi> Gib
+            dich <hi rend="italic">hinein</hi> in diese Umwandlung! <hi rend="italic">Werde</hi> ein Mensch,
+            ein <hi rend="italic">harrender</hi>, merkender, verständiger Mensch, ein von den Götzen zu
+            Gott <hi rend="italic">gekehrter</hi> Mensch, der so reden darf und kann!, werde ein Mensch,
+            der in der <hi rend="italic">Erneuerung</hi> ist und der damit für den Mut und für die
+            Hoffnung, die wir heute so nötig hätten, das <hi rend="italic">Organ</hi> hat. <hi rend="italic">Bist du</hi> ein solcher bewegter Mensch? Und wenn du's nicht bist, weißt du, daß du
+            es <hi rend="italic">werden</hi> mußt, um heutzutage nicht einfach rat- und trostlos
+            dazustehen? Und wenn du's weißt, <hi rend="italic">was tust du</hi> dafür, es zu werden?
+            Liebe Freunde, wer von uns hätte es <hi rend="underlined-later">nicht nötig,</hi> sich
+            heute diese Frage nach seinem Werden stellen zu lassen? Wer von uns dürfte es heute
+            wagen, frech nach den göttlichen Früchten des Trostes und der Verheißung <hi rend="underlined-later">zu greifen,</hi> ohne einer von den Werdenden zu sein, für die
+            sie gewachsen sind? Spüren wir's, daß wir <hi rend="underlined-later">lügen würden</hi>
+            gegen Gott, wenn wir den <ref type="can" subtype="bible" target="Ps.23">23. Psalm</ref>
+            etwa nachsagen würden, ohne es zu dürfen?</p>
+          <!-- leerzeile -->
+          <p><hi rend="italic">3.</hi> Seht, ich könnte mir auch <hi rend="italic">heute einen Menschen
+              denken</hi>, der es dürfte. O wenn jetzt Einer von uns aufstehen und uns anderen sagen
+            könnte: Ich, <hi rend="italic">ich darf!</hi> Ich will euch sagen, wie ich <hi rend="italic">dran
+              bin</hi>, wenn ich an die Zukunft denke. Und dann würde er etwa <hi rend="italic">so mit
+              uns reden:</hi> –</p>
+          <p>Ja, ich gehe <hi rend="italic">auch mit schwerer Sorge beladen</hi> ins neue Jahr hinein.
+            Ich sehe die Dinge nicht durch eine <hi rend="italic">rosige Brille.</hi> Ich stelle mir die
+              <hi rend="italic">Menschen</hi> nicht besser vor, als sie sind. Ich weiß, daß alle <hi rend="italic">Schuld</hi> sich einmal rächen muß und wird. Ich nehme mich selbst und mein
+            Land und meine Familie <hi rend="italic">nicht aus</hi> von dieser Schuld. Ich erwarte harte,
+            ernste, verworrene <hi rend="italic">Zeiten</hi> für mich und meine Kinder. Ich <hi rend="italic">verlasse mich auf nichts</hi> mehr, weder auf mein bißchen Geld, noch auf<note xml:id="n08"><ref corresp="A">Mskr.</ref>: «in». Korrektur vom Hrsg.</note> das, <pb ed="pga" xml:id="p008"/>
+            was jetzt Recht und Ordnung genannt wird, noch auf meine gute Gesinnung, noch auf den
+            guten Willen der Menschen mir gegenüber. Ich weiß, daß wir in einer Zeit leben, in der
+              <hi rend="italic">Alles ins Wanken kommt:</hi> Königsthrone, Kirchen und Staaten [?], um
+            wieviel mehr das kleine Gerüst von Rechten und Pflichten, das mich bis jetzt gehalten
+            und geschützt hat. –</p>
+          <p>Aber in dem allem <hi rend="italic">erkenne ich Gottes Hand,</hi> Gottes richtende Hand
+            gewiß, unter deren Streichen vielleicht Vieles fällt, was mir teuer ist, aber Gottes
+            Hand, nicht eines Teufels Hand. Mag <hi rend="italic">fallen</hi>, was fallen muß, mag auch
+            mich <hi rend="italic">treffen</hi>, was mich treffen muß. <hi rend="italic">Er ist mir</hi>
+            teurer  als [das] Teuerste, was ich habe, ich habe ihn in den
+            guten Zeiten lange genug vergessen, ich will ihn in der bösen Zeit nicht aufs Neue
+            verlieren. <hi rend="italic">Ich verstehe ihn</hi>, ich will ihn verstehen. Ich sehe ihn
+            Gericht üben, weil er seine <hi rend="italic">Gnade</hi> offenbaren will auf der Erde. Ich
+            sehe ihn zerstören, weil er <hi rend="italic">bauen</hi> will. Ich höre ihn Nein sagen, damit
+            sein großes <hi rend="italic">Ja</hi> einmal gehört werden kann. Ich <hi rend="italic">hoffe</hi>
+            auf ihn. Und darum bin ich jetzt schon <hi rend="italic">geborgen</hi> mitten im
+              Unwetter.<note xml:id="n09">Im <ref corresp="A">Mskr.</ref> befindet sich hier ein Wurzelzeichen: <persName ref="kbga-actors-2151">Barth</persName>
+              wollte hier noch etwas einfügen, hat es aber nicht niedergeschrieben.</note> Ich <hi rend="italic">warte</hi> auf sein Licht, und darum kann mich alles Dunkel der Gegenwart <hi rend="italic">nicht</hi> verfinstern. Der Herr ist mein Hirte [; mir wird nichts mangeln.
+            Er weidet mich auf einer grünen Aue und führet mich zum frischen Wasser,] er erquicket
+            meine Seele. Jawohl, denn man kann <hi rend="italic">seufzen und doch</hi> selig sein.<note xml:id="n10"><bibl corresp="kbga-bibls-1591"><persName ref="kbga-actors-48">J. Chr. Blumhardt</persName>, Blätter aus Bad Boll, Jg.5 (1877), S. 85</bibl>: «Wir können
+              seufzen und doch selig sein.»</note> –</p>
+          <p>Ich bin zwar <hi rend="italic">einsam und fast immer ratlos</hi> im Gewühl dieser Welt. So
+            bitter <hi rend="underlined-later">wenig Menschen</hi> sehe ich um mich, mit denen ich
+            mich verstehen kann über das, was jetzt gesagt und getan werden müßte. So bitter wenige,
+            mit denen man im Ernst gemeinsam <hi rend="italic">arbeiten</hi> und beten kann. So bitter
+            wenige, die einem eine wirkliche <hi rend="italic">Hilfe</hi> sind, von denen man sich auch
+            nur raten lassen kann. Und <hi rend="underlined-later">ich selber bin</hi> voll Irrtum
+            und Sünde. Ich <hi rend="italic">strauchle</hi> noch wie ein Unmündiger.<note xml:id="n11"><bibl type="song" corresp="kbga-songs-329">Schlußzeile von Strophe 3 des Liedes Nr.48 «Der Tag ist hin» von <persName ref="kbga-actors-2670">J. Neander</persName> (EKG
+              365,3).</bibl></note> Ich <hi rend="italic">weiß fast nie</hi>, was und wie ich es machen soll, um
+            der großen Lüge und dem Herzeleid der Welt etwas wirklich Neues, Besseres
+            entgegenzustellen. <pb ed="pga" xml:id="p009"/> Alle meine <hi rend="italic">Dämme</hi>, die
+            ich gegen die Flut baue, zerreißen so gut wie die der Anderen. Ich <hi rend="italic">vergreife</hi> mich immer wieder in den Mitteln, ich pfusche, ich überhöre Gottes
+            Wort und störe seine freundliche Absicht und werde immer wieder <hi rend="italic">mitschuldig</hi> mit der Welt. –</p>
+          <p>Aber eins läßt mich nicht los: <hi rend="italic">Gott redet</hi>
+            <hi rend="underlined-later">mit mir.</hi> Es ist eine <hi rend="italic">Weisheit</hi> in mir,
+            nicht meine eigene Weisheit, auch keine Weisheit von Anderen, aber etwas wie die
+            Weisheit Gottes selbst, die leitet mich. Ich habe ein <hi rend="italic">Gefühl</hi> für das
+            Richtige, dem ich oft untreu bin und das mir doch nie untreu wird. Es ist ein <hi rend="italic">Licht in mir</hi>, dem zu folgen mich noch nie gereut hat. Ich bekomme ganz
+            bestimmte <hi rend="italic">Weisungen:</hi> jetzt links! jetzt rechts! jetzt vorwärts! jetzt
+            rückwärts!, und wenn ich ihnen gehorche, so <hi rend="italic">lichtet</hi> sich das Gewühl,
+            so spüre ich <hi rend="italic">Grund</hi> unter meinen Füßen, so kommt etwas <hi rend="italic">Neues</hi> dabei heraus, das sich lohnt, das sich bewährt. Ich habe oft den Eindruck,
+            ich sei nur ein <hi rend="italic">Werkzeug</hi> in meinem Tun, nur ein Sprachrohr in meiner
+            Rede, den Eindruck von einem inneren Müssen!, und das tröstet mich, das kann mir niemand
+            nehmen. Etwas Ähnliches sehe ich dann auch da und dort <hi rend="italic">bei einem
+              Anderen</hi>, wie Schiffe des Nachts die Lichter anderer Schiffe sehen. Es ist mir,
+            ich sei auf einer Wanderung begriffen, auf der ungesehen <hi rend="italic">viele</hi> Andere
+            mitgehen,  viel mehr als ich ahne vielleicht. Ich freue mich
+            da und dort, so einen Mitpilger zu <hi rend="italic">grüßen.</hi> Und so bin ich <hi rend="italic">nicht allein</hi>, nicht verlassen. Er führet mich auf rechter Straße [um seines
+            Namens willen. Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn
+            du bist bei mir,] dein Stecken und Stab trösten mich. –</p>
+          <p>Ich bin zwar <hi rend="italic">angefochten auf diesem Weg</hi> von allen Seiten. Es ist
+            aller Ernst damit, daß ich <hi rend="italic">auch ein Kind</hi> dieser dunklen,
+            schuldbeladenen Zeit und Welt bin. Ich gebe gerechten <hi rend="italic">Anstoß</hi> durch
+            meine Fehler und Versäumnisse. Ich habe mehr als eine <hi rend="italic">schwache Seite.</hi>
+            Und darüber hinaus muß ich leiden darum, <hi rend="italic">weil ich recht habe</hi>, weil ich
+            Sprachrohr und Werkzeug eines Höheren bin, muß leiden um meiner Sache willen. Das ist
+            kein Kinderspiel. Denn Gottes Sache ist gar <hi rend="italic">angreifbar</hi> in dieser Welt.
+            Es läßt sich gar <hi rend="italic">Vieles sagen</hi> mit tausend Vernunftgründen und
+            Erfahrungsgründen gegen das Unternehmen, es dem Schein zum Trotz mit Gott zu wagen. Es
+            läßt sich gar Vieles <hi rend="italic">einwenden</hi> gegen einen, der nur ein Argument, nur
+            einen Beweis, nur einen Triumph hat, die stille göttliche Wahrheit. Man kann gar <hi rend="italic">Vieles machen</hi> gegen einen, der sich nur auf Gott stützt. Da stehe ich
+            wie ein <pb ed="pga" xml:id="p010"/> wehrloses <hi rend="italic">Kind</hi> im
+            Schlachtgetümmel. Ich kann sie nicht widerlegen, nicht zurückschlagen, nicht zunichte
+            machen, wenn ich schon wollte. –</p>
+          <p>Aber in dem allem <hi rend="italic">hat mich die Erfahrung noch nie verlassen</hi> und
+            wird mich nicht verlassen, daß ich <hi rend="italic">gedeckt</hi> bin, daß es ihnen nicht
+            gelingen wird. Es kann mir schlimm gehen, aber ich werde <hi rend="italic">nicht
+              überwältigt</hi> werden. Ich kann zum Gelächter und Gespött werden, aber zu
+            allerinnerst bin ich der, der <hi rend="italic">unter Tränen lächeln</hi><note xml:id="n12">Vgl. <bibl corresp="kbga-bibls-3613"><persName ref="kbga-actors-240">H. Kutter</persName>, <hi rend="italic">Reden an die deutsche Nation</hi>, Jena 1916,
+              S. 98.113.225</bibl>.</note> kann. Eben darum, weil mein Leben nicht <hi rend="italic">mein</hi>
+            Leben, meine Sache <hi rend="italic">nicht meine Sache</hi> ist. Gott müßte sich selbst
+            aufgeben, wenn ich ganz untergehen sollte, und dafür ist gesorgt, daß Gott sich nicht
+            aufgibt. Mich kann man ängstigen und chicanieren, aber was hilft's, wenn <hi rend="italic">in
+              mir noch etwas ist, das nicht ich selber bin?</hi> Gott bekommt nicht Angst. Der im
+            Himmel wohnt, lachet ihrer [<ref type="can" subtype="bible" target="Ps.2.4">Ps.
+              2,4</ref>]. Versucht's, was ihr könnt; ich hoffe und weiß, daß bei dem allem <hi rend="italic">etwas in mir ruhig</hi> [und] unangefochten bleiben wird. Du bereitest [vor
+            mir einen Tisch im Angesicht meiner Feinde. Du salbest mein Haupt mit Öl und schenkest]
+            mir voll ein. –</p>
+          <p>Auch das weiß ich schließlich, daß ich ein <hi rend="italic">Mensch bin mit einem kurzen
+              Leben</hi> und einmal, sehr bald vielleicht, sterben muß. <hi rend="italic">Was bin
+              ich</hi> dann? Werde ich bis dahin einen <hi rend="italic">Erfolg</hi> sehen? Werde ich
+            auch nur einen <hi rend="italic">Strahl sehen</hi> vom Morgenglanz des endlich einbrechenden
+            Reiches Gottes? Werde ich sterbend auf etwas <hi rend="italic">pochen</hi> können gegenüber
+            den Anderen, die mit dem Strom geschwommen sind? Werde ich
+            je die Freude haben, dazustehen als der, der <hi rend="italic">schließlich doch recht</hi>
+            hat? Sehr wahrscheinlich nein und abermals nein das alles. Ich weiß, daß ich zum <hi rend="italic">Verzicht auf jeden Erfolg</hi> gefaßt sein muß. Ich weiß, daß ich es mir noch
+            zur höchsten Ehre anrechnen [?] muß, wenn ich <hi rend="italic">im Buch des Lebens zu denen
+              gezählt bin</hi>, von denen es <ref type="can" subtype="bible" target="Heb.11.39">Hebräer 11 [V.39]</ref> heißt: <hi rend="italic">Diese alle haben</hi> durch den Glauben Zeugnis überkommen und nicht empfangen die
+            Verheißung. Wenn es meinen klügeren Kindern gefällt, mögen sie auf meinen <hi rend="italic">Grabstein</hi> schreiben: Hier ruht auch Einer, der geträumt und sich getäuscht
+            hat! –</p>
+          <p>Aber über dem allem weiß ich, daß <hi rend="italic">mein kleines Leben nicht
+              umsonst</hi> ist. Wiederum aus dem Grund, weil es <hi rend="italic">nicht mehr mein Leben
+              ist</hi>, weil es gefangen und verkauft ist an Gott. <hi rend="italic">Was Gott gehört,
+              ist</hi> nicht umsonst. Aus vielen solchen Pilgerleben und Kämpferleben <hi rend="italic">baut er sein <pb ed="pga" xml:id="p011"/> ewiges</hi>
+            <hi rend="italic">Reich.</hi> Das sind die <hi rend="italic">Kräfte der Gnade</hi>, die durch das
+            Dunkel des Gerichts hindurchbricht. Von solchen Menschen <hi rend="italic">leben schon jetzt
+              auch die Anderen</hi>, auch die, die besinnungslos mit dem Strom schwimmen. Wenn es
+            keine solchen Menschen gäbe, es wäre nicht zum Aushalten. <hi rend="italic">Es genügt
+              mir</hi>, [für] diese höchste und unverdiente Ehre zu danken, daß mein Name <hi rend="italic">geschrieben</hi> steht im Buch des Lebens [vgl. <ref type="can" subtype="bible" target="Apk.17.8">Apk. 17,8</ref> u. ö.], daß Gott mich <hi rend="italic">braucht</hi> für seine Zwecke und daß jetzt schon Viele <hi rend="italic">von mir sich
+              nähren</hi> [?], ohne es zu wissen. Es genügt mir, daß ich unbegreiflicherweise <hi rend="italic">ein wenig Salz sein darf</hi> [vgl. <ref type="can" subtype="bible" target="Mt.5.13">Mt. 5,13</ref>]. Das Salz mag vergehen, die Durchsäuerung bleibt. Ich
+            mag leben und sterben, in Gottes Hand bin ich kein Sterbender, denn Gott ist nicht ein
+            Gott der Toten [<ref type="can" subtype="bible" target="Mk.12.27">Mk. 12,27</ref> par.].
+            Gutes und Barmherzigkeit [werden mir folgen mein Leben lang, und ich werde bleiben im
+            Hause des Herrn] immerdar. Auf dieses <hi rend="italic">«immerdar»</hi> hin will ich leben,
+            in die dunkle, verhangene Zukunft hinein leben, als ein <hi rend="italic">Getrösteter</hi>,
+            als ein Mutiger, als ein Hoffnungsvoller.</p>
+          <!-- leerzeile -->
+          <p><hi rend="italic">4.</hi> Liebe Freunde, denkt euch, wir würden einen Menschen <hi rend="italic">so reden hören.</hi> Wohlverstanden: ich sage nicht etwa, daß <hi rend="underlined-later">ich mir anmaße,</hi> so reden zu dürfen. Was ich gesagt habe,
+            habe ich im Namen des <ref type="can" subtype="bible" target="Ps.23">23. Psalms</ref>,
+            nicht in meinem Namen gesagt. Was mich betrifft, könnte ich nur hinzufügen, daß ich
+            wünschte, so reden zu dürfen. Nicht wahr, das <hi rend="italic">wünschen wir ja eigentlich
+              alle.</hi> Denn das spüren wir: das wäre die Haltung, in der wir dem neuen Jahr und
+            der ganzen Zeit, die kommt, bei aller Aufrichtigkeit und Nüchternheit <hi rend="italic">freudig</hi> entgegensehen könnten, <hi rend="italic">ohne</hi> rote Brille, aber auch
+            ohne schwarzen Pessimismus, <hi rend="italic">ruhig und tapfer und aufrecht</hi> und
+             sicher: es wird <hi rend="italic">recht</hi> kommen. Denn wenn
+            einem Menschen das gewiß ist, daß Gott kommt, dann ist er auch gewiß, daß es recht
+            kommt. Wohlverstanden, ich sage nun nicht etwa: Also <hi rend="underlined-later">laßt
+              uns auch so reden.</hi> Das wäre wieder ein kirchlicher Betrug, und damit wollen wir
+            nicht schließen. Denn das ist eben die Frage, ob wir <hi rend="italic">so reden dürfen.</hi>
+            Ich <hi rend="italic">beantworte</hi> die Frage nicht, weder für dich noch für mich, wohl
+            aber möchte ich schließen mit dem <hi rend="italic">Hinweis</hi> darauf, daß wir eigentlich
+            dürften. <hi rend="underlined-later">In Christus,</hi> im Blick auf die Wendung, die es
+            mit der Menschheit durch ihn genommen, in seiner Nachfolge dürften wir, trotz alles
+            Dunkels, das bis heute die Erde erfüllt. Christus ist <hi rend="underlined-later">nicht
+              umsonst</hi> geboren. Er ist dazu geboren, <pb ed="pga" xml:id="p012"/> daß der <ref type="can" subtype="bible" target="Ps.23">23. Psalm</ref> an uns, auch an uns wahr
+            werde. Aber da stehen wir vor der <hi rend="underlined-later">Frage aller Fragen,</hi>
+            vor der Frage, die die tiefste und brennendste <hi rend="italic">Zeitfrage</hi> ist, vor der
+            Frage, von der das neue Jahr und alle Zukunft <hi rend="italic">beherrscht und bestimmt sein
+              wird</hi> wie von keiner anderen, ob wir mit dem alten Simeon im Tempel sagen können,
+            daß unsere Augen das Heil Gottes <hi rend="italic">gesehen</hi> haben [vgl. <ref type="can" subtype="bible" target="Lk.2.30">Lk. 2,30</ref>].<note xml:id="n13">Zu dieser Predigt
+              gibt es keine Liedangaben.</note>
+          </p>
+
+
+
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

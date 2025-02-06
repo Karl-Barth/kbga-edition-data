@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2024-11-01
+2025-02-06
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -14,25 +14,16 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 | Vorträge und kleinere Arbeiten 1922–1925 (Abt. III Vorträge und kleinere Arbeiten), Zürich 1990 | [[Band 19](https://kbga-pilot.karl-barth.ch/volume/19)] |
 | Predigten 1915 (Abt. I Predigten), Zürich 1996 | [[Band 27](https://kbga-pilot.karl-barth.ch/volume/27)] |
 | Predigten 1916 (Abt. I Predigten), Zürich 1998 | [[Band 29](https://kbga-pilot.karl-barth.ch/volume/29)] |
+| Predigten 1919 (Abt. I Predigten), Zürich 2003 | [[Band 39](https://kbga-pilot.karl-barth.ch/volume/39)] |
 | Die Theologie Zwinglis 1922/1923 (Abt. II Akademische Werke), Zürich 2004 | [[Band 40](https://kbga-pilot.karl-barth.ch/volume/40)] |
+| Unveröffentlichte Texte zur Kirchlichen Dogmatik (Abt. II Akademische Werke), Zürich 2014 | [[Band 50](https://kbga-pilot.karl-barth.ch/volume/50)] |
 | Predigten 1907–1910 (Abt. I Predigten), Zürich 2018 | [[Band 53](https://kbga-pilot.karl-barth.ch/volume/53)] |
 | Vorträge und kleinere Arbeiten 1935–1937 (Abt. III Vorträge und kleinere Arbeiten), Zürich 2020 | [[Band 55](https://kbga-pilot.karl-barth.ch/volume/55)] |
 | Predigten 1912 (Abt. I Predigten), Zürich 2022 | [[Band 56](https://kbga-pilot.karl-barth.ch/volume/56)] |
 
-### Statistik
-|Entität|fertig bearbeitet|verwendet|
-|:---|---:|---:|
-|Bände | 11 |11 |
-|Personen | 3002 |3416 |
-|Organisationen | 173 |562 |
-|Orte | 544 |812 |
-|Literaturangaben | 1489 |2925 |
-|Lieder | 235 |235 |
-|Begriffe | 1955 |1955 |
 
-Bei den Personen, Organisationen, Orten und Literaturangaben müssen die Beschreibungen durch den Gesamtherausgeber autorisiert werden.
 
 ### Karl Barth-Archiv
 Über 90000 Verzeichnungseinheiten, knapp 20000 Akteure (Dubletten und Überschneidungen), über 5000 Orte und über 88000 Medien (der grösste Teil davon sind PDFs, die s/w-Fotografien der Dokumente enthalten)
 
-<small>generated 2024-11-01 13:14:46</small>
+<small>generated 2025-02-06 08:16:49</small>

@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39018">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Matthäus 27,1-2.11-31</title>
+        <title type="citation_line_1">Barth, Karl: Matthäus 27,1-2.11-31, 13. April 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39018 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 138.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39018</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Matthäus 27,1-2.11-31</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">138</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">18</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 27,1-2.11-31, 13. April 1919. <ref target="https://kba.karl-barth.ch/objects/1902">KBA 1445</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-04-13">13. April 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:32+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p129" ed="pga"/>
+        <div type="opener">
+          <head><idno>463</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName>, Sonntag, den <date when="1919-04-13">13. April 1919</date><note xml:id="n01">Am <date when="1919-04-13">13. April 1919</date> schrieb
+              <persName ref="kbga-actors-2151">Barth</persName> an <persName ref="kbga-actors-403">Thurneysen</persName>: «In den Predigten Erwägungen über <persName ref="kbga-actors-2301">Judas</persName>, <persName ref="kbga-actors-3875">Kaiphas</persName>, <persName ref="kbga-actors-1814">Petrus</persName> und
+              <persName ref="kbga-actors-2239">Pilatus</persName> (ich lege sie gleich bei …)» (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="3276">S. 324</ref></bibl>).</note>
+          </dateline>
+
+
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Mt.27.1 Mt.27.2">Matthäus 27,1-2</ref>
+              <ref type="can" subtype="bible" target="Mt.27.11 Mt.27.31">.11–31</ref>
+            <quote><hi rend="italic" resp="kb">[Des Morgens aber hielten alle Hohenpriester und die Ältesten des Volks einen Rat über Jesum, daß sie ihn töteten. Und banden ihn, führten ihn hin und überantworteten ihn dem Landpfleger <persName ref="kbga-actors-2239">Pontius Pilatus</persName>. Jesus aber stand vor dem Landpfleger; und der Landpfleger fragte ihn: Bist du der Juden König? Jesus aber sprach zu ihm: Du sagst es. Und da er verklagt ward von den Hohenpriestern und Ältesten, antwortete er nichts. Da sprach <persName ref="kbga-actors-2239">Pilatus</persName> zu ihm: Hörst du nicht, wie hart sie dich verklagen? Und er antwortete ihm nicht auf <hi rend="spaced">ein</hi> Wort also daß sich auch der Landpfleger sehr verwunderte. Auf das Fest aber hatte der Landpfleger die Gewohnheit, dem Volk <hi rend="spaced">einen</hi> Gefangenen loszugeben, welchen sie wollten. Er hatte aber zu der Zeit einen Gefangenen, einen sonderlichen vor andern, der hieß <persName ref="kbga-actors-10427">Barrabas</persName>. Und da sie versammelt waren, sprach <persName ref="kbga-actors-2239">Pilatus</persName> zu ihnen: Welchen wollt ihr, daß ich euch losgebe? <persName ref="kbga-actors-10427">Barrabas</persName> oder Jesus, von dem gesagt wird, er sei Christus? Denn er wußte wohl, daß sie ihn aus Neid überantwortet hatten. Und da er auf dem Richtstuhl saß, schickte sein Weib zu ihm und ließ ihm sagen: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum seinetwegen. Aber die Hohepriester und die Ältesten überredeten das Volk, daß sie um <persName ref="kbga-actors-10427">Barrabas</persName> bitten sollten und Jesum umbrächten. Da antwortete nun der Landpfleger und sprach zu ihnen: Welchen wollt ihr unter diesen zweien, den ich euch soll losgeben? Sie sprachen: <persName ref="kbga-actors-10427">Barrabas</persName>. <persName ref="kbga-actors-2239">Pilatus</persName> sprach zu ihnen: Was soll ich denn machen mit Jesu, von dem gesagt wird, er sei Christus? Sie sprachen alle: Laß ihn kreuzigen! Der Landpfleger sagte; Was hat er denn Übles getan? Sie schrieen aber noch mehr und sprachen: Laß ihn kreuzigen! Da aber <persName ref="kbga-actors-2239">Pilatus</persName> sah, daß er nichts schaffte, sondern daß ein viel größer Getümmel ward, nahm er Wasser und wusch die Hände vor dem Volk und sprach: Ich bin unschuldig an dem Blut dieses Gerechten; sehet ihr zu! Da antwortete das ganze Volk und sprach: Sein Blut komme über uns und über unsre Kinder! Da gab er ihnen <persName ref="kbga-actors-10427">Barrabas</persName> los; aber Jesum ließ er geißeln und überantwortete ihn, daß er gekreuzigt würde. Da nahmen die Kriegsknechte des Landpflegers Jesum zu sich in das Richthaus und sammelten über ihn die ganze Schar und zogen ihn aus und legten ihm einen Purpurmantel an und flochten eine Dornenkrone und setzten sie auf sein Haupt und ein Rohr in seine rechte Hand und beugten die Kniee vor ihm und verspotteten ihn und sprachen: Gegrüßet seist du, der Juden König! und <pb ed="pga" xml:id="p130"/> spieen ihn an und nahmen das Rohr und schlugen damit sein Haupt. Und da sie ihn verspottet hatten, zogen sie ihm den Mantel aus und zogen ihm seine Kleider an und führten ihn hin, daß sie ihn kreuzigten.]</hi></quote>
+            </cit>
+          </epigraph>
+
+        </div>
+        <div type="main">
+          <p>
+            <hi rend="italic">1.</hi> Was hat der Hohepriester Gottes, <persName ref="kbga-actors-3875">Kaiphas</persName>, <hi rend="italic">mit dem Heiden <persName ref="kbga-actors-2239">Pilatus</persName> zu schaffen?</hi> - <note xml:id="n02">Hier und an den
+              entsprechenden Stellen im folgenden markierte <persName ref="kbga-actors-2151">Barth</persName> sich die Stufen des Gedankengangs
+              mit dicken senkrechten Blaustiftstrichen, die wir durch Gedankenstriche
+              wiedergeben.</note>Wie kommt es nur, daß die Kinder Gottes in <placeName ref="kbga-places-37">Jerusalem</placeName>, die
+            ernstgesinnten, die frommen, die religiösen Kreise jener Stadt insgesamt auf einmal so
+            geschlossen und dringend danach verlangen, mit dem <hi rend="italic">Weltmenschen</hi>
+            gemeinsame Sache zu machen? Wie ist's möglich, daß diese Gerechten auf einmal den <hi rend="italic">Ungerechten</hi>, seine Staatsgewalt, sein richterliches Urteil, seine
+            Kriegsknechte und Henker so nötig haben, so eifrig danach schreien und schreien, als ob
+            es um das heiligste Gut ginge? Was soll man nur denken, wenn man sieht, wie sie ihn zu
+            einem <hi rend="italic">ärgeren Tyrannen</hi> machen wollen, als er es ohnehin schon
+            ist, wie sie ihn zu einem Vorgehen antreiben, das <hi rend="italic">rücksichtsloser</hi>, heidnischer, staatlicher ist, als er es selber gewöhnt ist, das
+              <hi rend="italic">weltlicher</hi> ist, als sogar er es vor seinem nicht eben zarten
+            Gewissen verantworten kann? - Die Juden haben sonst diesen Mann <hi rend="italic">verachtet.</hi> Gott und der Kaiser in <placeName ref="kbga-places-53">Rom</placeName> mit seinem Landpfleger, das waren Dinge,
+            die für sie <hi rend="italic">weit auseinander</hi> lagen. Alle Tage haben sie <hi rend="italic">gebetet um Erlösung</hi> von der römischen Gesetzesgewalt und
+            Schwertgewalt. Und nun diese Gemeinschaft, dieses Zusammenarbeiten, diese vertauschten
+            Rollen!</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi> Seht, da hat sich's zeigen müssen: <hi rend="italic">Es ist hier kein Unterschied,</hi> sie sind allzumal Sünder und
+            ermangeln des Ruhmes, den sie vor Gott haben sollten [<ref type="can" subtype="bible" target="Röm.3.23">Röm. 3,23</ref>]! - Jesus, gegen den sich dieses seltsame Bündnis richtete,
+            hat <hi rend="italic">Klarheit</hi> in die Welt gebracht. Das haben ihm ja die Guten in
+            Israel am meisten <hi rend="italic">gezürnt</hi> von Anfang an, daß er ihre
+            Überlegenheit antastete, daß er die Scheidung von Gerechten und Ungerechten Gott
+            gegenüber nicht anerkannte, daß er von ihnen, den Guten, verlangte, sie sollten sich als
+            Brüder neben die Bösen stellen. Gerade darin sahen sie den Umsturz aller Moral und
+            Frömmigkeit, [an] dem sie ihm schuld gaben, und gerade dagegen verwahrten sie sich aufs
+              leiden<pb ed="pga" xml:id="p131" break="no"/>schaftlichste. - Und nun, als ihre
+            Gegenwehr gegen diese Beleidigung, gegen dieses Attentat auf dem Gipfel war, da mußten
+            sie selbst durch die Tat <hi rend="italic">beweisen</hi>, daß er recht hatte. Jesus
+            hatte nicht geträumt und keine Theorie gesponnen, sondern auf eine <hi rend="italic">Tatsache</hi> hingewiesen, als er den Gerechten neben den Ungerechten, den Pharisäer
+            neben den Zöllner, den Priester und Leviten neben den Samariter, den Juden neben den
+            Heiden gestellt hatte. Die  Tatsache
+            wurde nun offenbar. <hi rend="italic">Wenn Gott</hi> in Frage kommt, dann werden die
+            Menschen, ob sie sich nun auf der höchsten oder tiefsten Stufe befinden, solidarisch,
+            zusammengehörig. Solange dem Leben der Menschen die <hi rend="italic">Hauptsache
+              fehlt</hi>, sind alle noch so gewaltigen Unterschiede und Nebensachen nicht ernst,
+            nicht wichtig, nicht bedeutsam. In der Welt ohne Gott, ohne Liebe, ohne Geist, in des
+              <hi rend="italic">Menschen eigener Welt</hi> kann alle sogenannte Gerechtigkeit von
+            heute auf morgen heruntersteigen zur Ungerechtigkeit, wird die Ungerechtigkeit
+            vergrößert, gekräftigt, überboten, zur schlimmsten Entfaltung gebracht durch die
+            sogenannte Gerechtigkeit der Menschen. Dem Gott gegenüber, der eine <hi rend="italic">neue Welt</hi> schafft, einen neuen Anfang setzt, gibt es keine menschliche
+            Erhabenheit, keine Schönheit, keine Größe. Dem Gott gegenüber, der ein <hi rend="italic">neues Wort</hi> redet und ein neues Hören verlangt, stehen die Ersten und die Letzten
+            unter den Nicht-Hörenden nebeneinander, ja es können die Ersten hinter die Letzten zu
+            stehen kommen [vgl. <ref type="can" subtype="bible" target="Mk.10.31">Mk. 10,31</ref> par.],
+            wenn es sich zeigt, daß sie<note xml:id="n03">Mskr.: «sich»; Korr. vom Hrsg.</note>
+            vielleicht noch weniger hören wollen und können als jene. - Bei Jesus <hi rend="italic">kam Gott in Frage</hi>, Gottes neue Welt und Gottes neues Wort. Darum mußte ihm
+            gegenüber bei den Menschen der alten Welt und der alten Taubheit die <hi rend="italic">Tatsache dieser Gleichheit</hi> offenbar werden, diese Vermischung von Guten und
+            Bösen, diese Verwirrung von Frommen und Gottlosen. Wollte <persName ref="kbga-actors-3875">Kaiphas</persName> nicht der Bruder des
+            <persName ref="kbga-actors-2239">Pilatus</persName> sein im Gottesreiche, so mußte er nun sein Geselle und Kollege sein im
+            Menschenreiche.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">3.</hi>
+            <hi rend="italic"><persName ref="kbga-actors-3875">Kaiphas</persName> hatte <persName ref="kbga-actors-2239">Pilatus</persName> nötig.</hi> Er und alle seinesgleichen vertraten
+            zwar <hi rend="italic">eine gute Sache.</hi> Sie waren die Träger und Hüter einer hohen,
+            edlen, reinen menschlichen Gerechtigkeit. <placeName ref="kbga-places-37">Jerusalem</placeName> hatte ein altes, wahres und
+            wertvolles Gotteslicht. Aber Jesus hatte sie vor eine <hi rend="italic">schwere Fra<pb ed="pga" xml:id="p132" break="no"/>ge</hi> gestellt: Wollt ihr erkennen, daß Gott
+            eine <hi rend="italic">neue Zeit</hi> hat anbrechen lassen, eine Zeit, die einen <hi rend="italic">Glauben</hi> und einen Gehorsam verlangt, wie ihr sie bis jetzt noch
+            nicht geübt habt, ein weites <hi rend="italic">Herz</hi>, einen freien, beweglichen <hi rend="italic">Sinn</hi>, einen rücksichtslosen <hi rend="italic">Mut?</hi> Wollt ihr
+              <hi rend="italic">demütig</hi> werden, um diesen Mut zu bekommen? Wollt ihr <hi rend="italic">Buße</hi> tun, um diese Freiheit zu gewinnen? Wollt ihr Alles, was ihr
+            seid und habt, <hi rend="italic">dran geben</hi>, um das Eine zu gewinnen: Gottes neue
+            Gegenwart und Führung und Hilfe? - Jesus wollte sie <hi rend="italic">mitnehmen.</hi> Um
+            mitgenommen zu werden, mußten sie aber <hi rend="italic">gehen</hi> und nicht stehen
+            wollen. Wollten sie <hi rend="italic">nicht gehen</hi>, sondern stehen, so war dieses
+            Mitnehmen Jesu ein Raub, ein Attentat gegen ihre Stellung. Es lag nicht daran, daß Jesus
+              <hi rend="italic">etwa zu schroff</hi>, nicht gütig und geduldig genug aufgetreten
+            wäre mit seiner Einladung. Wo man die Wahrheit nicht  hören will, da mag sie noch so freundlich und friedlich ausgesprochen
+            werden, sie wird eben doch beißen, weil sie die Wahrheit ist. Es lag auch nicht daran,
+            daß sie <hi rend="italic">zu wenig hatten sehen</hi> und merken können vom tatsächlichen
+            Anbruch einer neuen Zeit. Wo man stehen bleiben will, da können alle Zeichen und Wunder
+            den Haß nur vermehren gegen die Aufforderung, sich zu bewegen. Sie wollten <hi rend="italic">verharren in ihrer Stellung</hi>, darum konnten sie in Jesu ganzer
+            Person, Tätigkeit und Botschaft nur Feindschaft, Gegensatz, Angriff, Umsturz spüren. -
+            |</p>
+          <p>Man kommt eben in eine <hi rend="italic">eigentümliche Lage</hi>, wenn man nicht
+            mitgehen will, wenn Gott ruft. Wenn man dabei <hi rend="italic">beharrt:</hi> ich habe
+              <hi rend="italic">schon gehört</hi> und gehorcht! ich brauche <hi rend="italic">kein
+              neues</hi> Wort Gottes! ich habe mein <hi rend="italic">Schäflein</hi> schon ins
+            Trockene gebracht! Ich weiß und will <hi rend="italic">bereits das Gute</hi> und brauche
+            mir nichts mehr sagen zu lassen! ich bin <hi rend="italic">kein Kind</hi> mehr und habe
+            es nicht nötig, heute von vorn anzufangen! Man kommt in eine <hi rend="italic">merkwürdige Lage</hi>, wenn man sich gegen Gott wehren will oder wehren muß mit der
+            Begründung: Um meiner guten Sache willen, im Namen Gottes tue ich das! Da kommt man
+            nämlich <hi rend="italic">sofort in die Lage</hi>, daß man bei der höchsten
+            Gerechtigkeit einen Bund schließen muß mit der Ungerechtigkeit. Da muß man auf einmal zu
+              <hi rend="italic">Mitteln</hi> und Methoden greifen, die man sonst verabscheut, da muß
+            man plötzlich sehr weltliche, gewöhnliche <hi rend="italic">Wege</hi> gehen. Da muß man
+            plötzlich nach Bundesgenossen suchen, für die man sich sonst bedanken würde. Da muß
+            <persName ref="kbga-actors-3875">Kaiphas</persName> zu <hi rend="italic"><persName ref="kbga-actors-2239">Pilatus</persName></hi> laufen. - |</p>
+          <p><pb ed="pga" xml:id="p133" rend="noPipe"/> Denn <hi rend="italic">mit Gott gehen</hi>
+            kann man nur, wenn man mit Gott einig ist. Und <hi rend="italic">mit Gott einig</hi>
+            sein kann nur, wer heute auf seine Stimme hört. <persName ref="kbga-actors-3875">Kaiphas</persName> und seine Freunde hatten viele
+            Gottesworte von gestern in den Ohren; weil sie aber heute nicht hören wollten, kamen sie
+            in <hi rend="italic">Widerspruch zu Gott</hi> und konnten nicht mehr mit ihm gehen. So
+            mußten sie nun <hi rend="italic">mit den Menschen gehen</hi>, nach menschlicher Art und
+            Weise dem entgegentreten, den sie für ihren Feind hielten. <hi rend="italic">Von Gott
+              verlassen</hi>, weil sie Gott verlassen hatten, konnten sie es auf einmal nicht mehr
+            machen ohne Prozeß und Urteil und Hinrichtung, sahen in <persName ref="kbga-actors-2239">Pontius Pilatus</persName> mit seiner Garde
+            ein notwendiges Werkzeug Gottes, mußten: Kreuzige ihn! kreuzige ihn! schreien, als ob
+            sie am Ertrinken wären. - <hi rend="italic">So gerieten die Gerechten</hi> in die
+            Nachbarschaft und Kameradschaft der Ungerechten. Natürlich <hi rend="italic">nur für
+              einen Augenblick!</hi>, dachten sie. Nachher lösen wir das Bündnis wieder auf. Nachher
+            werden wir wieder anständig und vornehm. Nachher kämpfen wir für das Gute wieder mit den
+            Waffen des Guten. Nachher sind wir wieder weit weg von <persName ref="kbga-actors-2239">Pilatus</persName>. Und daher <hi rend="italic">merkten sie gar nicht</hi>, daß sie mit ihren blinden, grundlosen
+            Anklagen, mit der wilden Gleichgiltigkeit, in der  sie den Mörder <persName ref="kbga-actors-10427">Barrabas</persName> Jesus vorzogen, mit dem Grimm, in dem sie nach dem
+            Blut ihres Feindes trachteten, schon weit über <persName ref="kbga-actors-2239">Pilatus</persName> hinaus waren, <hi rend="italic">merkten gar nicht</hi>, wie schwer, wie unmöglich es ist, sich nachher von der
+            Ungerechtigkeit wieder frei zu machen, wenn man überhaupt auf die Ungerechtigkeit
+            angewiesen ist. Das war eben <hi rend="italic">die</hi>
+            <hi rend="italic">Not und das Gericht</hi>, in dem sie standen, daß sie weder vorher
+            noch nachher die Wahl hatten, besser zu sein als <persName ref="kbga-actors-2239">Pilatus</persName>. Sie gehörten nun einmal in
+            seine Gesellschaft von dem Augenblick an, wo sie sich gegenüber dem lebendigen Gott von
+            heute die Ohren verstopft hatten.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">4.</hi> Das ist sicher, daß <hi rend="italic"><persName ref="kbga-actors-3875">Kaiphas</persName> und die Seinen Jesus besser verstanden haben</hi> als der Weltmensch <persName ref="kbga-actors-2239">Pilatus</persName>.
+            Sie begriffen besser und tiefer, um was es sich handelte. Eben darum haben sie <hi rend="italic">sich so aufgeregt</hi>, so unerbittlich, so widerwärtig hitzig benommen,
+            während man an <persName ref="kbga-actors-2239">Pilatus</persName> verhältnismäßig den Eindruck eines ruhigen, überlegenen Mannes
+            hat, der wenigstens gerecht sein wollte, wenn er es auch nicht ganz konnte. <persName ref="kbga-actors-2239">Pilatus</persName>
+            konnte als ein solcher Mann dastehen, weil er nicht merkte, um was es ging. Wenn man die
+            Leidensgeschichte Jesu als einen großen <hi rend="italic">Kampf zwischen der Menschheit
+              und Gott</hi> auffassen <pb ed="pga" xml:id="p134"/> will, so muß man jedenfalls
+            sagen, daß die Juden die Sache der Menschheit tapferer und umsichtiger vertraten als der
+            Heide, der nicht recht wußte, was er tat. - Ihnen war es wenigstens teilweise ganz klar,
+              <hi rend="italic">was Jesus bedeutete</hi> und wollte: eine Veränderung, eine
+            Umwälzung, wie die Welt sie noch nie gesehen hatte. Wenn <hi rend="italic">Jesus Recht
+              hatte</hi>, dann hatten alle Menschen Unrecht. Wenn <hi rend="italic">Jesus die
+              Wahrheit redete</hi>, dann hörte alles weitere Reden und Predigen von Gott auf. Wenn
+              <hi rend="italic">Jesus siegte</hi>, dann konnte der Tempel abgerissen, die Bibel
+            geschlossen werden. Wenn <hi rend="italic">Jesus gehört wurde</hi> vom Volk - und es war
+            nicht weit davon -, dann wurden die Menschen Brüder, alle von Gott selbst gelehrt [vgl.
+              <ref type="can" subtype="bible" target="Jer.31.34">Jer. 31,34</ref>]. <hi rend="italic"><persName ref="kbga-actors-2228">Mose</persName>
+              und die Propheten</hi>, die vielgelesenen und vielgerühmten, waren dann wieder
+            lebendig. <hi rend="italic">Gott redete</hi> wieder mit den Menschen, wunderbar auf
+            Erden war nun Alles. Wie eine verlassene <hi rend="italic">Ruine</hi> stand dann ihre
+            Frömmigkeit und Gerechtigkeit da, überflüssig, unnnütz geworden, beschienen von der
+            fröhlichen Sonne. Es gibt <hi rend="italic">keine Kirche mehr</hi>, keine Pfarrer, keine
+            abgesonderte Religion, keine Extramenschen mit Vorzugsstellungen, wenn der Messias das
+            Reich Gottes aufrichtet. <hi rend="italic">Das verstanden <persName ref="kbga-actors-3875">Kaiphas</persName> und die Seinen</hi> an
+            Jesus. Sie verstanden zwar sein <hi rend="italic">eigentlich</hi> Neues, die Liebe und
+            die Kraft Gottes, die das alles möglich macht, nicht, denn wenn sie Gott verstanden
+            hätten, hätten sie ihm auch Glauben geschenkt. Aber daß sein Neues das Alte
+              
+            <hi rend="italic">stürzen</hi> oder vielmehr aufsaugen und zerschmelzen würde wie die
+            Sonne einen Schneehaufen, das verstanden sie. Darum nannten sie ihn ja eben einen
+            Gotteslästerer [<ref type="can" subtype="bible" target="Mk.14.64">Mk. 14,64</ref> par.]. -
+            |</p>
+          <p>Und <hi rend="italic">dieses Gefährliche an Jesus</hi>, das sie verstanden hatten,
+            suchten sie nun mit allem Eifer <hi rend="italic">auch dem <persName ref="kbga-actors-2239">Pilatus</persName></hi> klar zu machen.
+            Sie verklagten Jesus, indem sie sich dem Verständnis des <persName ref="kbga-actors-2239">Pilatus</persName> anpaßten, er maße sich
+            an, ein König, der König der Juden zu sein. Er predigt die Revolution!, würde man heute
+            sagen. Sie wollten <persName ref="kbga-actors-2239">Pilatus</persName> zeigen: <hi rend="italic">auch auf dem Gebiet der
+              Politik</hi>, für das Römerreich, das du zu vertreten hast, ist dieser Mann eine
+            Gefahr. Als getreuer Diener des Kaisers mußt du gegen ihn vorgehen! Laß ihn kreuzigen!
+            So haben sie geschrieen <hi rend="italic">gegen ihre eigenen Hoffnungen und Gebete</hi>,
+            denn sie selbst hätten ja das Römerjoch lieber heute als morgen abgeschüttelt, wenn sie
+            gekonnt hätten. Aber der Kaiser und sein Landpfleger schien ihnen auf einmal <hi rend="italic">die kleinere Not</hi> gegenüber der Gefahr, die von Jesus drohte. <hi rend="italic">Mochte immer</hi> der Kaiser Recht haben, solange der Kaiser Recht <pb ed="pga" xml:id="p135"/> hatte, hatten sie auch Recht. <hi rend="italic">Nur das
+              nicht</hi>, daß Jesus Recht bekam und damit alle Menschen Unrecht! <hi rend="italic">Nur das nicht</hi>, daß durch das Neue, das sie in Jesus witterten, <hi rend="italic">alles</hi> Alte, Kirche und Staat, Moral und Gesellschaftsordnung, Thron und Altar
+            ins Wanken käme! Nur dieses große <hi rend="italic">Neu!</hi> nicht, das Jesus allem
+            menschlich Großen entgegenstellte! Nur diese <hi rend="italic">neue Schöpfung</hi>
+            nicht, die von Jesus drohte. <hi rend="italic">Lieber</hi> in Ewigkeit der Heiden
+            Knechte! <hi rend="italic">Lieber</hi> <persName ref="kbga-actors-8705">Barabbas</persName> los, was tut's, ob ein Schelm mehr oder
+            weniger die Freiheit genießt, wenn nur das nicht kommt, daß Alles, Alles in Frage und
+            Unruhe versetzt wird. <hi rend="italic">Lieber</hi> die Verantwortung auf sich genommen
+            für ein ungerechtes Urteil: Sein Blut komme über uns und unsere Kinder!, <hi rend="italic">nur das nicht</hi>, daß es mit Gott so furchtbar ernst werde, wie es
+            jetzt zu werden droht. - Man muß mit <hi rend="italic">Bewunderung</hi> sagen, daß
+            <persName ref="kbga-actors-3875">Kaiphas</persName> und seine Freunde ihren Standpunkt <hi rend="italic">meisterhaft</hi>
+            durchgeführt haben. Sie wußten, was sie wollten und warum sie es wollten.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">5.</hi>
+            <hi rend="italic"><persName ref="kbga-actors-2239">Pilatus</persName> steht kurzsichtig und schwächlich da neben ihnen.</hi> Er <hi rend="italic">versteht im Grunde nichts</hi> von Allem, was vorgeht. Er ist wie alle
+            Leute, die nur politisch denken können, ein etwas beschränkter Kopf. - Er <hi rend="italic">hört nur die Anklage</hi>, Jesus sei ein politischer Revolutionär, und
+            von dem Augenblick an, wo er einsieht, daß es damit nichts sei, daß das nicht in
+            Betracht komme, weiß er nur noch die Achseln zu zucken. Daß es <hi rend="italic">eine
+              andere gefährlichere Macht</hi> geben könnte als allenfalls die Macht eines
+            aufständischen Judenkönigs, davon ahnt er nichts. Daß es <hi rend="italic">eine
+              drohendere</hi>
+            
+            <hi rend="italic">Umwälzung</hi> geben könnte als die Empörungen, die er zu bekämpfen
+            gewöhnt war, das entgeht ihm gänzlich. Er <hi rend="italic">begreift die Aufregung</hi>
+            der Juden, ihren Schreck und ihre Wut gegen Jesus durchaus nicht. «<hi rend="italic">Was
+              soll ich denn</hi> machen mit Jesu, von dem gesagt wird, er sei Christus?» Ja eben,
+            was soll so ein Weltmensch machen, wenn er auf einmal entscheiden soll, ob das Göttliche
+            vom Guten oder vom Bösen sei, das Göttliche, dem er weder im Guten noch im Bösen
+            überhaupt beizukommen vermag? Er stand da wie die Wahrsager des Königs <persName ref="kbga-actors-2743">Nebukadnezar</persName>, die
+            ihm einen Traum auslegen sollten, den er ihnen nicht sagen konnte [vgl. <ref type="can" subtype="bible" target="Dan.2.1 Dan.2.12">Dan. 2,1-12</ref>]. Er sollte Richter sein in einer Sache,
+            die er nicht im mindesten überblickte. - Der <hi rend="italic">Blick für das menschlich
+              Schöne</hi> und Unschuldige an Jesus hat ihm zwar offenbar nicht ganz gefehlt. Er
+            hätte es gern gesehen, wenn Jesus sich wir<pb ed="pga" xml:id="p136" break="no"/>kungsvoll <hi rend="italic">verteidigt hätte.</hi> Er sucht durch das kleine <hi rend="italic">Kunststück</hi> mit <persName ref="kbga-actors-8705">Barabbas</persName> die Juden zu veranlassen, von ihrem
+            Vorhaben abzustehen. Er <hi rend="italic">wäscht schließlich</hi> feierlich seine Hände
+            in Unschuld. Er hatte offenbar die Absicht, Jesus zu retten, und <hi rend="italic">seine
+              Frau</hi>, die vielleicht auch ein klein wenig weiter ahnte, bestärkte ihn darin. Er
+            war offenbar der kleinere, viel <hi rend="italic">kleinere Feind</hi> des Gottesreiches
+            als <persName ref="kbga-actors-3875">Kaiphas</persName>. Wenig fehlte, und Jesus wäre durch ihn am <hi rend="italic">Leben
+              erhalten</hi> geblieben. –</p>
+          <p>Aber <hi rend="italic">das sollte nun nicht sein,</hi> durch Gottes guten Willen nicht
+            so sein. Jesus sollte sein Leben nicht der Kurzsichtigkeit und Schwachheit eines <persName ref="kbga-actors-2239">Pilatus</persName>
+            verdanken. <hi rend="italic">Hätte <persName ref="kbga-actors-2239">Pilatus</persName> Jesus verstanden</hi> wie <persName ref="kbga-actors-3875">Kaiphas</persName>, er hätte
+            ihn ja sofort zum Tode verurteilt. Nun mußte er es <hi rend="italic">tun, ohne ihn zu
+              verstehen.</hi> Jesus hat <hi rend="italic">keinen Freispruch</hi> von ihm begehrt. Er
+            ist ihm mit keiner Entschuldigung oder Rechtfertigung <hi rend="italic">entgegen</hi>
+            gekommen. Er hat den <hi rend="italic">Schein eines Empörers</hi> diesem Mann gegenüber
+            ruhig auf sich genommen: Du sagst es!, ganz recht, <hi rend="italic">ich bin der
+              Gefährliche</hi>, als den man mich bei dir verklagt hat. Er hat ihm durch sein
+            bedeutsames <hi rend="italic">Schweigen</hi> auf alle weiteren Fragen allen Anlaß
+            gegeben, tiefer über ihn nachzudenken wie <persName ref="kbga-actors-3875">Kaiphas</persName> und sich auf die Seite seiner Ankläger
+            zu stellen. Ein <hi rend="italic">Wunder hätte geschehen müssen</hi>, damit <persName ref="kbga-actors-2239">Pilatus</persName>
+    Jesus verstanden und ihm - anders als <persName ref="kbga-actors-3875">Kaiphas</persName> - Glauben und Gehorsam geschenkt hätte.
+            Das Wunder geschah nicht. <hi rend="italic">Nicht jeder Zöllner</hi> ist auch ein
+            Sünder, der nach Gnade begehrt. - <persName ref="kbga-actors-2239">Pilatus</persName> <hi rend="italic">konnte auch nachgeben</hi>,
+            wenn es denn sein mußte, und er gab nach, nicht Gott, sondern den Menschen. Es war viel
+              <hi rend="italic">natürlicher</hi> für ihn so. Mehr als einen <hi rend="italic">Schwärmer</hi> sah er ja doch nicht in<note xml:id="n04">Mskr. «ihn»; Korr. vom
+              Hrsg.</note> Jesus. Er konnte den Schwärmer auch preisgeben zur Geißelung, zur
+            Kreuzigung. In diesem Nachgeben kam's zum Vorschein,  daß auch er <hi rend="italic">im Widerspruch war zu Gott.</hi> Das
+            Todesgeschrei der Juden zeigt, wie man sich Gott widersetzen kann in fanatischer <hi rend="italic">Frömmigkeit.</hi> Die Verhöhnung Jesu durch die Soldaten des <persName ref="kbga-actors-2239">Pilatus</persName>
+            beweist, daß man dasselbe auch mit behaglichem <hi rend="italic">Grinsen</hi> tun kann.
+            Das Eine ist gescheiter, das Andere ist dümmer. Man kann streiten darüber, was schlimmer
+            ist.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">6.</hi>
+            <hi rend="italic">Jesus selber sehen wir auch in dieser ganzen Geschichte nur schweigen,
+              nur tragen.</hi> Das ist das Erlösende an dieser Geschichte. - Er <hi rend="italic">wundert <pb ed="pga" xml:id="p137"/> sich nicht</hi> über <persName ref="kbga-actors-3875">Kaiphas</persName> und nicht über
+            <persName ref="kbga-actors-2239">Pilatus</persName>. Er wundert sich nicht über den <hi rend="italic">Bund</hi>, den die menschliche
+            Gerechtigkeit mit der menschlichen Ungerechtigkeit schließt gegen ihn, und nicht
+            darüber, daß die Ungerechtigkeit nun wirklich <hi rend="italic">Ungerechtigkeit</hi> ist
+            und bleibt und daß in dieser Beziehung kein Wunder geschieht. Er wundert sich nicht
+            darüber, daß er <hi rend="italic">neben <persName ref="kbga-actors-8705">Barabbas</persName></hi> gestellt und daß ihm dieser
+            vorgezogen wird, und nicht über die grausamen <hi rend="italic">Gemeinheiten</hi>, die
+            die Garde des <persName ref="kbga-actors-2239">Pilatus</persName> mit ihm treibt. Er <hi rend="italic">widerspricht nicht.</hi> Er
+            wehrt sich nicht. Er sucht sich nichts zu erleichtern. <hi rend="italic">Es muß Alles so
+              sein.</hi> Es entspricht das alles der <hi rend="italic">Lage.</hi> Es entwickelt sich
+            das alles mit einer gewissen <hi rend="italic">Notwendigkeit.</hi> In der <hi rend="italic">Welt</hi>, die Gottes neuen Schöpferruf noch nicht gehört, in der Gottes
+            Reich noch nicht unzweideutig und endgültig triumphiert hat, muß es ungefähr so gehen.
+              <hi rend="italic">Die Frommen</hi>, die Gott verstehen, um ihm nicht zu gehorchen, und
+            die <hi rend="italic">Gottlosen</hi>, die ihn nicht verstehen, um ihm auch nicht zu
+            gehorchen, die <hi rend="italic">Kirche</hi>, die von Haus [aus] das Gute will, um dann
+            doch noch das Böse zu tun [vgl. <ref type="can" subtype="bible" target="Röm.7.19">Röm.
+              7,19</ref>], und der <hi rend="italic">Staat</hi>, der von Haus aus das Böse will, um
+            dann rüstig auch das Böse zu vollbringen, die merkwürdige <hi rend="italic">Einigkeit</hi> der ganzen menschlichen Gesellschaft, wenn es sich darum handelt, an
+            der Hauptsache vorbei zu gehen, das alles ist soweit in der Ordnung. - Jesus <hi rend="italic">unterwirft sich dieser Ordnung.</hi>
+            <hi rend="italic">Er unterwirft sich ihr, um sie zu durchbrechen.</hi> Das ist der Sinn
+            der Leidensgeschichte. Er hat die alte <hi rend="italic">Welt ertragen</hi>, damit eine
+            neue werden kann. Er ist Gott im <hi rend="italic">jetzigen Menschenwesen</hi> getreu
+            gewesen und geblieben, damit das zukünftige Gestalt gewinnen kann. Er hat die Not und
+            das Gericht, unter dem wir stehen, <hi rend="italic">erduldet</hi>, damit der Segen
+            Gottes reifen kann. Er hat den Fanatismus und die Beschränktheit des heutigen Menschen
+              <hi rend="italic">walten lassen</hi> gegen sich, damit der kommende Mensch geboren
+            werde. Er hat sich <hi rend="italic">gebeugt</hi> unter die Notwendigkeit, damit
+            Freiheit entstünde. Er hat <hi rend="italic">gelitten</hi> unter der jetzigen Ordnung,
+            damit wir nicht mehr darunter leiden müßten. So hat er auch für <persName ref="kbga-actors-3875">Kaiphas</persName> und <persName ref="kbga-actors-2239">Pilatus</persName>
+            gelitten und für uns alle, die wir ihresgleichen sind. - 
+            |</p>
+          <p> In diesem Schweigen und Tragen liegt <hi rend="italic">die Kraft
+              des Heilands</hi>, die Erlösungskraft, die Auferstehungskraft, die uns nicht ganz
+            fremd ist. Wir können den Heiland <hi rend="italic">nicht nachahmen</hi> wollen in
+            diesem Schweigen und Tragen. Wir können uns nur dankbar freuen, daß er es <hi rend="italic">vollbracht</hi> hat [vgl. <ref type="can" subtype="bible" target="Joh.19.30">Joh. 19,30</ref>], daß diese Kraft <hi rend="italic">nun da ist</hi> und daß sie uns
+              <pb ed="pga" xml:id="p138"/> alle, während wir tausendfach auf den Wegen des <persName ref="kbga-actors-3875">Kaiphas</persName>
+            und <persName ref="kbga-actors-2239">Pilatus</persName> gehen, tausendfach über die Welt der <persName ref="kbga-actors-3875">Kaiphas</persName> und <persName ref="kbga-actors-2239">Pilatus</persName> hinaushebt. Können
+            uns nur freuen darüber, daß <hi rend="italic">gerade das</hi>, was <persName ref="kbga-actors-3875">Kaiphas</persName> verstand und
+            <persName ref="kbga-actors-2239">Pilatus</persName> nicht verstand, das große Werk der Erneuerung der Welt durch Gottes Willen und
+            Geist tatsächlich im Gang ist und daß kein <placeName ref="kbga-places-37">Jerusalem</placeName> und kein <placeName ref="kbga-places-53">Rom</placeName> sich schließlich
+            diesem Werk widersetzen kann. In dieser <hi rend="italic">Freude</hi> über das, was
+            durch Jesus geschehen <hi rend="italic">ist</hi> und geschehen <hi rend="italic">wird</hi>, wollen wir <hi rend="italic">Ostern</hi> feiern.</p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <head>Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-77" type="song"> Nr. 124 «Marter Jesu, wer kann dein vergessen»
+              von <persName ref="kbga-actors-2142">Chr. R. von Zinzendorf</persName>, Strophen 1.2.4 (GERS [1952] 155,1.2.4)</bibl>
+            <bibl corresp="kbga-songs-15" type="song">Nr. 142 «Jesus Christus herrscht als König» von
+              <persName ref="kbga-actors-2192">Ph. Fr. Hiller</persName>, Strophen 1-3 (RG [1998] 492,1.3b.4b.5; EG 123,1.3b.4b.5)</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

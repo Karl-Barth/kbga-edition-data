@@ -14,14 +14,14 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-01 14:13:37</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,40,53,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2025-02-06 09:15:38</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-11-01T14:13:37+01:00">teiHeader was automatically produced from the database 2024-11-01T14:13:37+01:00</change>
+      <change when="2025-02-06T09:15:38+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:38+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -110,6 +110,7 @@
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 1</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 179</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 131</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 221</biblScope>
           <ref target="https://d-nb.info/gnd/1157123503">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q10405586">wikidata</ref>
           <ref target="https://viaf.org/viaf/3025152563103515560007/">viaf</ref>
@@ -325,6 +326,12 @@ von</author>
           <ref target="https://www.wikidata.org/wiki/Q318900">wikidata</ref>
           <ref target="https://d-nb.info/gnd/7690394-1">gnd</ref>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-329">
+          <title>Der Tag ist hin</title>
+          <author ref="kbga-actors-2670">Neander, Joachim</author>
+          <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 365</biblScope>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 48</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-316">
           <title>Der Vater hat zum Schmerzenslohn / der Welt gegeben seinen Sohn</title>
           <biblScope corresp="kbga-bibls-1629" type="songbook">KNAPP, Nr. 1156</biblScope>
@@ -380,6 +387,13 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 170</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 360</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 801</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-326">
+          <title>Dies ist der Tag, den Gott gemacht</title>
+          <author ref="kbga-actors-1000">Gellert, Christian Fürchtegott</author>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 408</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 42</biblScope>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 100</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-165">
           <title>Dir will ich danken bis zum Grabe</title>
@@ -455,7 +469,7 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-127">
           <title>Ermuntert euch, ihr Frommen</title>
-          <author ref="kbga-actors-6257">Cordatus, Conrad</author>
+          <author ref="kbga-actors-8761">Laurentius Laurentii</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 345</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 381</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 151</biblScope>
@@ -537,6 +551,11 @@ von</author>
           <author ref="kbga-actors-643">Knapp, Albert</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 69</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-330">
+          <title>Geduld ist euch vonnöten</title>
+          <author ref="kbga-actors-131">Gerhardt, Paul</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 293</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-61">
           <title>Gelobet sei der Herr</title>
           <author ref="kbga-actors-5745">Olearius, Johann</author>
@@ -598,6 +617,11 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 278</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 287</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 689</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-323">
+          <title>Gott ist's, der regiert</title>
+          <author ref="kbga-actors-">Wolf, S.</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 22</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-288">
           <title>Gott ist’s, der regiert</title>
@@ -692,7 +716,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 30</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 65</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 397</biblScope>
-          <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 65</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 651</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 247</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-133">
@@ -756,6 +780,8 @@ von</author>
           <title>Ich singe Dir mit Herz und Mund</title>
           <author ref="kbga-actors-131">Gerhardt, Paul</author>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 324</biblScope>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 4</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 723</biblScope>
           <ref target="https://de.wikipedia.org/wiki/Ich_singe_dir_mit_Herz_und_Mund">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q25303395">wikidata</ref>
         </bibl>
@@ -766,6 +792,12 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 318</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 400</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 682</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-324">
+          <title>Ich will dich lieben, meine Stärke</title>
+          <author ref="kbga-actors-">Scheffler, J.</author>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 682</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 400</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-85">
           <title>Im Wald und auf der Heide, da such’ ich meine Freude</title>
@@ -814,6 +846,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 371</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 150</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 320</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 851</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-70">
           <title>Jesu, meine Freude</title>
@@ -853,6 +886,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 169</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 132</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 115</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 482</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-89">
           <title>Jesus, meine Zuversicht</title>
@@ -888,6 +922,8 @@ von</author>
           <author ref="kbga-actors-1360">Fröhlich, Abraham Emanuel</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 146</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 177</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 126</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 499</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-250">
           <title>Kommt ins Reich der Liebe</title>
@@ -941,6 +977,11 @@ von</author>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 161</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 159</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-322">
+          <title>Lied Nr.43</title>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 572</biblScope>
+          <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 450</biblScope>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-55">
           <title>Lob Gott getrost mit Singen</title>
           <author ref="kbga-actors-8755">Weiße, Michael</author>
@@ -954,6 +995,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 234</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 6</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 317</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 242</biblScope>
           <ref target="https://de.wikipedia.org/wiki/Lobe_den_Herren,_den_mächtigen_König_der_Ehren">wikipedia</ref>
           <ref target="https://www.wikidata.org/wiki/Q1729571">wikidata</ref>
           <ref target="https://viaf.org/viaf/181989990/">viaf</ref>
@@ -1005,10 +1047,6 @@ von</author>
           <author ref="kbga-actors-2142">Zinzendorf, Christian Renatus von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 124</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 155</biblScope>
-        </bibl>
-        <bibl type="song" xml:id="kbga-songs-254">
-          <title>Matthäus-Passion</title>
-          <author ref="kbga-actors-455">Bach, Johann Sebastian</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-3">
           <title>Mein ganzes Herz erhebet dich</title>
@@ -1072,6 +1110,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 5</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 46</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 322</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 235</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-4">
           <title>Nun danket alle Gott</title>
@@ -1138,7 +1177,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 337</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 255</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 219</biblScope>
-          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 806</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 816</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-167">
           <title>O daß ich tausend Zungen hätte</title>
@@ -1200,12 +1239,14 @@ von</author>
           <author ref="kbga-actors-1360">Fröhlich, Abraham Emanuel</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 147</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 186</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 507</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-112">
           <title>O Höchster, deine Gütigkeit</title>
           <author ref="kbga-actors-5724">Jorissen, Matthias</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 23</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 10</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 27</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-299">
           <title>O Jesu Christ, mein Leben</title>
@@ -1272,6 +1313,9 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-233">
           <title>Sempacher Lied</title>
           <author ref="kbga-actors-2635">Bosshard, Heinrich</author>
+          <ref target="https://de.wikipedia.org/wiki/Sempacherlied">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q2269444">wikidata</ref>
+          <ref target="https://d-nb.info/gnd/1219164186">gnd</ref>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-66">
           <title>Sieh, hier bin ich, Ehrenkönig</title>
@@ -1417,13 +1461,12 @@ von</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-10">
           <title>Wach auf, mein Herz, die Nacht ist hin</title>
-          <author ref="kbga-actors-8761">Laurentius Laurenti</author>
-          <author ref="kbga-actors-6257">Cordatus, Conrad</author>
-          <author ref="kbga-actors-6527">Lorenzen, Lorenz</author>
+          <author ref="kbga-actors-8761">Laurentius Laurentii</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 167</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 88</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 129</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 114</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 483</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-111">
           <title>Wach auf, mein Herz, und singe</title>
@@ -1443,12 +1486,12 @@ von</author>
         <bibl type="song" xml:id="kbga-songs-126">
           <title>Walte, walte nah und fern, allgewaltig Wort des Herrn</title>
           <author ref="kbga-actors-2150">Bahnmaier, Jonathan Friedrich</author>
-          <author ref="kbga-actors-4872">Nicolai, Philipp</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 190</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 237</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 255</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 70</biblScope>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 359</biblScope>
+          <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 257</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-124">
           <title>Warum sollt ich mich denn grämen</title>
@@ -1502,6 +1545,10 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 250</biblScope>
           <biblScope corresp="kbga-bibls-1090" type="songbook">REICHSLIEDER, Nr. 322</biblScope>
         </bibl>
+        <bibl type="song" xml:id="kbga-songs-325">
+          <title>Wenn ich ihn nur habe</title>
+          <author ref="kbga-actors-">von Hardenberg, Fr.</author>
+        </bibl>
         <bibl type="song" xml:id="kbga-songs-83">
           <title>Wenn mich die Sünden kränken</title>
           <author ref="kbga-actors-8800">Gesenius, Justus</author>
@@ -1535,6 +1582,11 @@ von</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 379</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 530</biblScope>
           <biblScope corresp="kbga-bibls-1086" type="songbook">EKG, Nr. 331</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-331">
+          <title>Werde Licht, du Volk der Heiden</title>
+          <author ref="kbga-actors-10440">Mudre, Johann Friedrich</author>
+          <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 101</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-170">
           <title>Wie ist der Tag so freudenreich</title>
@@ -1599,7 +1651,7 @@ von</author>
           <biblScope corresp="kbga-bibls-1090" type="songbook">REICHSLIEDER, Nr. 587</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-27">
-          <title>Womit soll ich dich wohl loben</title>
+          <title>Womit soll ich dich wohl loben?</title>
           <author ref="kbga-actors-1363">Gotter, Ludwig Andreas</author>
           <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 55</biblScope>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 12</biblScope>
@@ -1609,7 +1661,7 @@ von</author>
           <title>Wort aus Gottes Munde</title>
           <author ref="kbga-actors-5711">Hecker, Heinrich Cornelius</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 187</biblScope>
-          <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 253</biblScope>
+          <biblScope corresp="kbga-bibls-1085" type="songbook">RKG, Nr. 263</biblScope>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-275">
           <title>Wunderbarer König</title>
@@ -1617,6 +1669,11 @@ von</author>
           <biblScope corresp="kbga-bibls-1087" type="songbook">GERS, Nr. 7</biblScope>
           <biblScope corresp="kbga-bibls-1089" type="songbook">RG, Nr. 161</biblScope>
           <biblScope corresp="kbga-bibls-1088" type="songbook">EG, Nr. 327</biblScope>
+        </bibl>
+        <bibl type="song" xml:id="kbga-songs-328">
+          <title>Zerstreut und mannigfach geschieden</title>
+          <author ref="kbga-actors-">Preiswerk, S.</author>
+          <author ref="kbga-actors-">Vermes, G.</author>
         </bibl>
         <bibl type="song" xml:id="kbga-songs-255">
           <title>Zeuch ein zu deinen Toren</title>

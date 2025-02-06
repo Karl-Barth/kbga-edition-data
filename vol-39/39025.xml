@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39025">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Epheser 2,1-10</title>
+        <title type="citation_line_1">Barth, Karl: Epheser 2,1-10, 18. Mai 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39025 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 197.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39025</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Epheser 2,1-10</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">197</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">25</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Eph 2,1-10, 18. Mai 1919. <ref target="https://kba.karl-barth.ch/objects/1909">KBA 1452</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-05-18">18. Mai 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:32+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p189" ed="pga"/>
+        <div type="opener">
+          <head><idno>470</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName> und
+              <placeName ref="kbga-places-418"><hi rend="italic">Madiswil</hi></placeName><note xml:id="n01">Der Gottesdienst «in <persName ref="kbga-actors-27">Peters</persName> bernischem Tempel in <placeName ref="kbga-places-418">Madiswil</placeName>» (<bibl corresp="kbga-bibls-931">Bw. Th. I, <ref type="pub" target="../volume/03/p328#p328">S. 328</ref></bibl>) fand am Sonntag abend statt. <persName ref="kbga-actors-2151">Barths</persName> Bruder war von <placeName ref="kbga-places-248">Laupen</placeName>, obwohl dort im Frühjahr 1918
+              wiedergewählt, nach <placeName ref="kbga-places-418">Madiswil</placeName> übersiedelt,
+              wo er bis zu seinem Tode 1940 amtierte.</note>, Sonntag, den <date when="1919-05-18">18. Mai 1919</date>
+          </dateline>
+
+
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Eph.2.1 Eph.2.10">Epheser 2,1-10</ref>
+              <quote><p><hi rend="italic" resp="kb">Auch ihr waret tot in euren Übertretungen und
+                    Sünden, in welchen ihr einst gewandelt seid nach dem Lauf dieser Welt, nach dem
+                    Fürsten, der in der Luft herrscht, nämlich nach dem Geist, der zu dieser Zeit
+                    sein Werk treibt in den Kindern des Ungehorsams. Unter welchen auch wir <hi rend="spaced">alle</hi> einst unsern Wandel gehabt haben in den Lüsten des
+                    Fleisches und taten den Willen des Fleisches und der Vernunft und waren auch
+                    Kinder des Zorns von Natur, gleichwie auch die anderen.</hi></p>
+                <p><hi rend="italic" resp="kb"><hi rend="spaced">Gott</hi> aber, der da reich ist an
+                    Barmherzigkeit, hat uns - um seiner großen Liebe willen, mit der er uns liebt,
+                      <hi rend="spaced">obwohl</hi> wir tot waren in den Übertretungen - <hi rend="spaced">samt</hi> Christo lebendig gemacht (durch Gnade seid ihr
+                    gerettet!) und hat uns <hi rend="spaced">samt</hi> ihm auferweckt und <hi rend="spaced">samt</hi> ihm in die himmlische Welt versetzt in Christo Jesu,
+                    auf daß er erzeigte in den zukünftigen Zeiten den überschwenglichen Reichtum
+                    seiner Güte gegen uns in Christo Jesu.</hi></p>
+                <p><hi rend="italic" resp="kb">Denn aus <hi rend="spaced">Gnade</hi> seid ihr
+                    gerettet worden durch den Glauben - und dasselbige nicht aus <hi rend="spaced">euch</hi>: <hi rend="spaced">Gottes</hi> Gabe ist es - nicht aus Werken, auf
+                    daß sich nicht jemand rühme. Denn wir sind <hi rend="spaced">sein</hi> Werk,
+                    geschaffen in Christo Jesu zu guten Werken, welche Gott zuvor bereitet hat, daß
+                    wir darin wandeln sollen.</hi></p></quote>
+            </cit>
+          </epigraph>
+
+        </div>
+        <div type="main">
+          <p><hi rend="italic">1.</hi>
+            <hi rend="italic">Wir sind umschlossen,</hi> geführt, getragen und bewegt von einer
+            Gottesmacht. «Von allen Seiten umgibst du mich und hältst deine Hand über mir» [<ref type="can" subtype="bible" target="Ps.139.5">Ps. 139,5</ref>]. Gott ist uns unendlich
+            viel mehr als ein bloßer Gedanke, eine kirchliche Lehre, eine begeisterte menschliche
+            Meinung. Wir sind <hi rend="italic">mißtrauisch</hi> gegen alle bloßen Gedanken, sogar
+            wenn es schöne, fromme Gedanken sind, und wir haben ganz recht. Aber wenn uns jemand
+            sagen wollte, Gott sei ein bloßer Gedanke, so könnten wir alle ihm <hi rend="italic">antworten</hi>, daß das nicht wahr ist. Wir könnten es, ohne auch nur einen
+            Augenblick zu zögern oder uns zu besinnen. Denn wir wissen es. Ohne daß es uns jemand
+            gesagt hat oder zu sagen brauchte, wissen wir, daß Gott <hi rend="italic">das Leben</hi>
+            unseres Lebens ist. <hi rend="italic">Wir können zweifeln,</hi> gewiß. Aber es ist
+            merkwürdig, wie wir, wenn wir nur ehrlich zweifeln, wenn es uns um die Wahrheit zu tun
+            ist, wenn wir <pb ed="pga" xml:id="p190"/> unablässig uns mühend den Dingen auf den
+            Grund gehen, <hi rend="italic">vorwärts</hi> geführt werden, wie wir <hi rend="italic">nicht stecken</hi> bleiben können im Nein, wie auch das Zweifeln und gerade das
+            Zweifeln  uns <hi rend="italic">helfen</hi> muß zum schließlichen Jasagen. Dann spüren wir's, daß <hi rend="italic">Gott mehr ist</hi> als unsere Gedanken, daß er der <hi rend="italic">Ursprung und das
+              Ziel</hi> unserer Gedanken ist, daß unsere Gedanken wohl <hi rend="italic">irren</hi>
+            und schwanken können in der Mitte [?] des Weges, um schließlich das Ziel doch nicht zu
+            verfehlen, wenn sie nur dem großen, tapferen Vorwärts treu verbleiben, das ihnen mit auf
+            den Weg gegeben ist. Es gibt Gotteszweifler, <hi rend="italic">Gottesleugner</hi>, ja,
+            Menschen, die mit ihren irrigen Gedanken scheinbar stehen bleiben dort, wo man nicht
+            stehen bleiben sollte, beim Nein. Das ist ein großes <hi rend="italic">Rätsel</hi>, daß
+            das möglich ist. Aber es ist doch auch Tatsache, daß gerade solche Menschen dann oft
+            durch ihr übriges Leben und Wesen <hi rend="italic">Zeugnis</hi> ablegen müssen von
+            Gottes Wahrheit und Liebe. Er ist der Gott auch der Gottesleugner. Er hat schon die
+            größten, wichtigsten Dinge ausgerichtet gerade durch solche Gottesleugner. Wer Augen hat
+            zu sehen, der sehe [vgl. <ref type="can" subtype="bible" target="Mk.4.9">Mk. 4,9</ref>
+            par.]. |</p>
+          <p><hi rend="italic">Wir können sündigen,</hi> das ist auch wahr. Aber auch wahr ist's,
+            daß wir über die Sünde <hi rend="italic">seufzen</hi> und uns ihrer schämen, wenn sie
+            uns bewußt wird. Wir gehen oft lange, lange im Bann einer solchen Übertretung, aber
+            nicht wahr, wie <hi rend="italic">sonnenklar</hi> ist es uns im Grunde, daß es wirklich
+            ein Bann, eine Gefangenschaft ist, in der wir sind, wie unmöglich ist es uns, das <hi rend="italic">Heimweh</hi> nach der Freiheit loszuwerden. Wir sehen unsere Sünde, und
+            wie lange müssen wir sie oft sehen und immer nur sehen, aber wir sehen sie doch
+            eigentlich immer als etwas, was <hi rend="italic">nicht zu uns gehört</hi>, <hi rend="italic">zusammengebunden</hi> liegt sie zu unseren Füßen, da: mein Hochmut,
+            meine Bequemlichkeit, meine Kleinlichkeit, mein jäher [?], ungöttlicher Eifer, aber <hi rend="italic">das bin nicht ich</hi> - ein fremder Bestandteil ist's. Es ist auch die
+            Gottesmacht über uns, daß wir das alles können. Wir können vor Allem <hi rend="italic">Gott nicht in Verbindung</hi> bringen mit unserer Sünde. Gott will meine Frechheit,
+            meine Übereilung [?], Gott macht mich lieblos und eitel! Das ist so unmöglich wie 2 x 2
+            = 5. Gott verbündet sich vielmehr immer <hi rend="italic">mit uns gegen</hi> die Sünde.
+            Er stellt sich <hi rend="italic">zwischen</hi> uns und sie. Er ist's, der uns <hi rend="italic">sagt</hi>: das bist nicht du, das kannst du nicht sein. Von ihm her
+            heißt's immer: ihr waret tot in euren Übertretungen und Sünden. Gott aber, der da reich
+            ist an Barmherzigkeit, hat uns lebendig gemacht. Dieses «Ihr waret» und dieses <pb ed="pga" xml:id="p191"/> «Gott aber», das wir nicht überhören können, ist die <hi rend="italic">Gottesmacht</hi> auch in unserer Sünde. |</p>
+          <p><hi rend="italic">Wir können sterben,</hi> auch das ist wahr. Aber <hi rend="italic">warum wehrt sich</hi> dann unser Körper und unsere Seele so leidenschaftlich gegen
+            das Sterben, wenn es tatsächlich unser natürliches, letztes Los sein sollte? Warum <hi rend="italic">sträubt sich Alles</hi> in uns gegen die Vorstellung, daß es mit dem
+            Tode  aus, tatsächlich aus sein sollte
+            mit uns? Warum können wir nur mit <hi rend="italic">halbem Ohr</hi> hören auf das, was
+            da Weltweisheit und ein falsch verstandenes Christentum uns predigen, daß der Tod mit
+            seiner Grabesruhe nicht nur das Schicksal, sondern sogar der Erlöser des Menschen sei?
+            Warum klammern wir uns <hi rend="italic">an das Leben</hi>, wenn es doch so vergänglich
+            ist? Warum gibt's eine <hi rend="italic">Liebe über den Tod</hi> hinaus, nicht nur auf
+            den Grabsteinen, sondern als stärkste Tatsache in vielen, vielen vereinsamten
+            Menschenleben? Warum suchen wir alle unserem Leben <hi rend="italic">so viel Inhalt</hi>
+            und Wert als möglich zu geben, wenn ja doch Alles für nichts ist, wenn wir ja doch nur
+            in ein Gefäß ohne Boden schöpfen? Warum tun wir, mit anderen Worten, als ob <hi rend="italic">nicht Sterben, sondern Leben</hi> die eigentliche Wahrheit wäre? Ahnen
+            wir's etwa, haben wir etwa schon etwas davon gesehen auch in den erlöschenden Augen
+            eines Sterbenden, daß <hi rend="italic">Sterben zum Leben</hi> werden könnte, daß <hi rend="italic">ein anderes Leben ist</hi>, an dem wir jetzt bauen im Verborgenen, bis
+            von einer anderen Seite die Enthüllung kommt? Wie dem auch sei, wir stehen offenbar auch
+            in dieser ernsten Beziehung <hi rend="italic">unter einer höheren Macht</hi>, die
+            irgendwie mit dem Leben gegen den Tod verbündet ist. |</p>
+          <p>Wir können uns dieser Gottesmacht scheinbar widersetzen durch <hi rend="italic">selbstbewußtes eigenes Tun</hi> unter der Losung: nicht Gotteshilfe, <hi rend="italic">Selbsthilfe</hi><note xml:id="n02">Die von <persName ref="kbga-actors-706">Friedrich Naumann</persName> 1895-1919 herausgegebene
+              Wochenschrift «<orgName ref="kbga-actors-4741">Die Hilfe</orgName>» trug den Untertitel «Gotteshilfe, Selbsthilfe, Staatshilfe,
+              Bruderhilfe». Vgl. <bibl corresp="kbga-bibls-3518"><persName ref="kbga-actors-2151">K. Barth</persName>, <hi rend="italic">Vergangenheit und Zukunft</hi> (in:
+                Anfänge I, S. 40)</bibl>.</note>! Nicht die Mächte des Himmels, sondern des Menschen
+              <hi rend="italic">eigene Kraft!</hi> Nicht das Gute, das von Gott kommt und gefordert
+            wird, sondern das Gute, das wir selbst in uns finden und das aus uns selbst <hi rend="italic">fließt!</hi> Aber es ist doch merkwürdig, wie auch unter dieser jetzt so
+            oft gehörten Losung der Mensch tatsächlich vor Allem glauben muß an etwas, das größer
+            ist als er selbst, wenn er sie ernst nehmen will. Wie er <hi rend="italic">gehorchen</hi>, sich persönlich unterwerfen muß alle Tage, wenn aus die<pb ed="pga" xml:id="p192" break="no"/>sem Eigenen etwas werden soll. Und es ist vor Allem
+            merkwürdig, wie das Gute, das die Menschen angeblich aus eigener Kraft anstreben,
+            tatsächlich doch immer und <hi rend="italic">überall im Grunde</hi>
+            <hi rend="italic">das Gleiche</hi> ist, wenn es wirklich das Gute ist. Wahrheit bleibt
+            Wahrheit. Gerechtigkeit bleibt Gerechtigkeit, Liebe bleibt Liebe, gerade als käme das
+            Gute eben doch von dem einen Himmel, der sich über allen Menschen wölbt, mögen sich die
+            Einzelnen noch so trotzig auf ihre eigenen Ideen und Kräfte berufen. Deutlich erkennbar
+            sind die Punkte, wo die verschiedensten menschlichen Bestrebungen, wenn sie lebendig
+            sind, aus einer Quelle hervorgehen und einem Ziele schließlich zustreben. Alle ernsthaft
+            strebenden Menschen <hi rend="italic">führen offenbar etwas aus</hi>, was nicht aus
+            ihnen selbst stammt, dessen sie sich nicht persönlich rühmen können, sondern das höher
+            ist als sie, das ihnen sozusagen nur zur Ausführung vorgeschrieben ist. Davon haben
+               ganz besonders die <hi rend="italic">Künstler</hi>, die großen Musiker und die Maler aller Zeiten ein starkes Bewußtsein
+            gehabt. Ganz wie <persName ref="kbga-actors-313">Paulus</persName> es beschreibt in unserem Text, daß die guten Werke <hi rend="italic">zuvor bereitet sind</hi> von Gott, daß wir darin wandeln sollen. |</p>
+          <p>Und gerade so ist es auch, wenn der Mensch in die schönste, aber auch gefährlichste
+            Lage kommt Gott gegenüber, wenn er nämlich <hi rend="italic">fromm wird,</hi> ein
+            eigenes Erlebnis macht mit Gott und in ein besonderes Verhältnis zu ihm kommt. Das ist
+            darum so schön, weil Gott <hi rend="italic">solche Menschen braucht</hi> und immer
+            wieder darauf wartet, daß es solche Menschen gibt, um durch sie zu den anderen Menschen
+            zu reden, wie es in der Bibel oft beschrieben ist. Es ist aber darum so gefährlich, weil
+            es so leicht geschieht, daß der Mensch gerade dann <hi rend="italic">Gott nicht
+              dient</hi>, sondern meint, Gott habe nun ihm zu dienen, und dann entstehen alle die
+            Meinungen, Standpunkte, Glaubensrichtungen, Kirchen und Parteien, die für Gott ein so
+            schweres Hindernis werden können und oft geworden sind. Aber man darf auch diese Gefahr
+            nicht zu ernst nehmen. Es ist eben tatsächlich doch eine merkwürdige <hi rend="italic">Kraftäußerung Gottes</hi>, daß in den verschiedensten Weisen und ohne daß man es
+            äußerlich erklären kann, Menschen auf Gott in solch besonderer Weise <hi rend="italic">aufmerksam</hi> werden und sich ihm zuwenden müssen, daß eigentlich alle Menschen
+            gewissermaßen ein <hi rend="italic">Organ haben</hi>, kraft dessen ihnen das eines Tages
+            auch widerfahren könnte, daß tatsächlich aus jedem <hi rend="italic">Saulus auch ein
+              <persName ref="kbga-actors-313">Paulus</persName></hi> werden kann, und zwar ein brauchbares Werk<pb ed="pga" xml:id="p193" break="no"/>zeug Gottes, nicht notwendig [?] ein Klotz, der dann Gott erst recht im
+            Wege liegt, wie es allerdings leider vorkommt. Und es ist eine noch <hi rend="italic">merkwürdigere Kraftäußerung Gottes</hi>, daß alle wirklich frommen Menschen in dem,
+            was sie meinen, irgendwie <hi rend="italic">zusammen</hi>kommen und sich verstehen
+            können und jedenfalls, wenn auch als verschiedene Werkzeuge, in der gleichen <hi rend="italic">Arbeit</hi> stehen. Da haben wir es ja: Und dasselbige nicht aus euch,
+            Gottes Gabe ist es! Und daran dürfen wir uns durch keine religiösen Irrungen und
+            Verwirrungen, die etwa vorkommen mögen, irre machen lassen, daß es doch <hi rend="italic">Gottes Macht</hi> ist, die irgendwie das Ganze der Menschen umschließt
+            und trägt. |</p>
+          <p>Und etwas davon können wir sogar sehen, wenn wir über das Persönliche hinweg <hi rend="italic">in die große Weltgeschichte</hi> hinausblicken, etwa mit den Augen eines
+            fleißigen Zeitungslesers. Da scheint einem allerdings auf den ersten Blick das <hi rend="italic">verständlich</hi>, was <persName ref="kbga-actors-313">Paulus</persName> vom «Lauf dieser Welt» schreibt oder von
+            dem «Fürsten, der in der Luft herrscht», oder von dem «Geist, der zu dieser Zeit sein
+            Werk treibt in den Kindern des Ungehorsams», z. B., wenn man an die <orgName ref="kbga-actors-9861">Pariser
+            Friedenskonferenz</orgName><note xml:id="n03">Vgl. oben <ref target="../volume/39/p186#fn_n02" type="pub">S. 186, Anm.2</ref>.</note> denkt oder
+               an das Verhältnis zwischen Bauern und
+            Arbeitern, wie es bei uns in der <placeName ref="kbga-places-58">Schweiz</placeName> in den letzten Jahren geworden ist<note xml:id="n04">Während der Kriegsjahre kam es dadurch zu Spannungen zwischen Arbeitern
+              und Bauern, daß die Arbeiter den wirtschaftlichen Problemen viel stärker ausgeliefert
+              waren (Teuerung, Aufhebung der Schutzbestimmungen des Fabrikgesetzes) als die Bauern,
+              die «am wenigsten verloren», ja zu «Kriegsgewinnlern» wurden (<bibl corresp="kbga-bibls-5430"><hi rend="italic">Handbuch der Schweizer Geschichte</hi>,
+                Bd.2, Zürich 1977, S. 1127f.</bibl>)</note>, oder an die große Sehnsucht ganzer
+            Völker, die etwas so Tiefes, Vollkommenes meint und es doch nicht weiter bringt als zu
+            wüsten, aufrührerischen Gewalttaten, die dann mit ebenso wüster Gewalt wieder
+            niedergeschlagen werden müssen<note xml:id="n05">Vor allem ist an den unter Einsatz des
+              Militärs unterdrückten Generalstreik in der <placeName ref="kbga-places-58">Schweiz</placeName> im November 1918 zu denken (<bibl corresp="kbga-bibls-5430"><hi rend="italic">Handbuch</hi>, a. a. O., S. 1136-1140</bibl>), aber auch an die
+              revolutionären Unruhen und ihre Niederschlagung in <placeName ref="kbga-places-151">Deutschland</placeName> und <placeName ref="kbga-places-380">Österreich</placeName>.</note>. Da möchte man <hi rend="italic">sich nur
+            schämen</hi>, daß die Menschheit sich selber immer noch nicht besser verstanden hat,
+            besonders wenn man sich aufrichtigerweise sagt, daß diese Menschheit nicht nur Andere
+            sind, sondern zu einem Teil immer auch <hi rend="italic">wir selbst</hi>, daß die
+            Weltgeschichte, so weit weg sie geschehen mag, immer auch <pb ed="pga" xml:id="p194"/>
+            <hi rend="italic">unsere eigene Geschichte</hi> ist: «Unter welchen auch wir alle einst
+            unseren Wandel gehabt haben nach den Lüsten des Fleisches und taten den Willen des
+            Fleisches und der Vernunft und waren Kinder des Zorns von Natur, gleichwie auch die
+            anderen». Aber gerade wenn wir von dieser großen Beschämung etwas empfinden, und man
+            kann ihr ja fast nicht ausweichen heute, wenn man nicht ein ganz eitler, selbstgerechter
+            Mensch ist, so ist darin doch auch wieder <hi rend="italic">etwas von der großen
+              Liebe</hi>, mit der Gott uns geliebt hat, obwohl wir tot waren in den Übertretungen.
+            Das, was jetzt geschieht, könnte uns nicht so bewegen, wenn wir nicht <hi rend="italic">schon bewegt</hi> wären davon, daß etwas Anderes geschehen könnte. Wir könnten uns
+            nicht so erregen über das Böse, wenn wir nicht von Haus aus <hi rend="italic">auf die
+              Seite</hi> des Guten gestellt wären. Wir könnten nicht so mittrauern mit denen, die
+            jetzt Sünde tun und Strafe erleiden, wenn wir nicht <hi rend="italic">Gott vor Augen
+              hätten</hi>, der auch nicht bloß Zuschauer ist, sondern diese unsere ganze böse Welt
+            mitleidsvoll auf dem Herzen trägt. Und so ist's überhaupt in dieser Welt der Menschen:
+            wir beten so viele Götzen an, weil wir überall den <hi rend="italic">lebendigen Gott
+              suchen.</hi> Wir stürzen uns in so tiefe Nöte, weil uns <hi rend="italic">so hohe
+              Dinge ins Herz</hi> geschrieben sind. Wir sind so ratlos gegenüber den tausend Fragen,
+            die sich in der heutigen Lage aufdrängen, weil wir mit unserer eigenen Weisheit zu Ende
+            sind, weil Alles heute auf einen <hi rend="italic">neuen Anfang</hi> hindrängt. Sie sind
+            wahr, die Worte, mit denen ein Schriftsteller unserer Tage sein Buch überschrieben hat,
+            das die Greuel des Krieges schildert: <hi rend="italic">Der Mensch ist gut!</hi><note xml:id="n06"><bibl corresp="kbga-bibls-5431"><persName ref="kbga-actors-10430">Leonhard Frank</persName>, <hi rend="italic">Der
+                  Mensch ist gut</hi>, Zürich / Leipzig 1917</bibl>. Der Novellenzyklus des 1915 in
+              die <placeName ref="kbga-places-58">Schweiz</placeName> emigrierten Autors wurde bei
+              seinem Erscheinen in <placeName ref="kbga-places-151">Deutschland</placeName> sogleich
+              verboten. Für sein Manifest gegen den Krieg wurde er 1920 mit dem Kleistpreis
+              ausgezeichnet.</note> Nicht weil er aus sich selbst gut ist, aber weil er gegenüber
+            allen Greueln, die er tut und leidet, immer und immer wieder getrieben wird von der
+            Macht des Guten, von der Macht Gottes selbst.</p>
+          <p><hi rend="italic">Gott ist die Macht,</hi> die über uns ist. Es sind noch andere Mächte
+            über uns, aber Gott ist der erste auf dem Plan, das entscheidende, das
+            nachdrückliche [?], <hi rend="italic">das letzte Wort</hi> wird überall von ihm
+            gesprochen. - Sein Wort ist nicht nur in <hi rend="italic">der Bibel.</hi> Oder
+            vielmehr: die Bibel erklärt  uns nur das
+            Wort Gottes, das wir in unserem Leben tatsächlich hören. - Wir staunen darüber, wie
+            wunderbar dieses Gotteswort überall in <pb ed="pga" xml:id="p195"/> unser Leben
+            hineingreift, aber noch bevor wir gestaunt haben, ist es bereits <hi rend="italic">wahr
+              geworden.</hi> Wir stehen verwundert über das Neue, das es uns verkündigt, und stehen
+            doch selber <hi rend="italic">in diesem Neuen</hi> schon drin. Wir begreifen nicht und
+              <hi rend="italic">sind doch schon ergriffen.</hi> Wir sind befremdet, zurückhaltend
+            und können es doch nicht hindern, daß wir in Gott <hi rend="italic">leben, weben und
+              sind</hi>, wie es <persName ref="kbga-actors-313">Paulus</persName> ein andermal vor den heidnischen Athenern gesagt hat [vgl.
+              <ref type="can" subtype="bible" target="Act.17.28">Act. 17,28</ref>]. - «Aus Gnaden
+            seid ihr gerettet». Das ist kein schöner Bibelspruch, das ist die tiefste <hi rend="italic">Lebenswahrheit.</hi> Diese Errettung ist jetzt an allen Punkten das <hi rend="italic">Verborgene</hi>, das ans Licht muß, <hi rend="italic">das
+              Vergessene</hi>, dessen wir uns wieder erinnern müssen, <hi rend="italic">das
+              Unaussprechliche</hi>, für das wir die rechten Worte erst wieder finden müssen, das
+              <hi rend="italic">Vernachlässigte</hi>, das wieder Geltung bekommen muß. Aber diese
+            Errettung ist <hi rend="italic">geschehen</hi>, sie ist im Gang. Gott ist keine Frage,
+            sondern <hi rend="italic">unsere Antwort.</hi> Wir sind nicht draußen, sondern drinnen.
+            Wir können suchen, denn wir haben auch schon <hi rend="italic">gefunden.</hi> Wir können
+            bitten, denn wir können nicht sagen, es werde uns nicht <hi rend="italic">gegeben.</hi>
+            Wir können anklopfen, denn wir wissen von Türen, die bereits <hi rend="italic">aufgetan</hi> sind [vgl. <ref type="can" subtype="bible" target="Mt.7.7">Mt. 7,7</ref> par.]. Wir können hören, wenn uns volle Freiheit verkündigt wird, denn
+            das Wörtlein ist <hi rend="italic">gesprochen</hi>, durch das der Fürst, der in der Luft
+            herrscht, gebunden ist. Die Rechte des Herrn <hi rend="italic">behält</hi> den Sieg
+              [<ref type="can" subtype="bible" target="Ps.118.15">Ps. 118,15</ref>].</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi>
+            <hi rend="italic">Die Macht Gottes ist Jesus.</hi> Nicht das Christentum. Nicht der
+            christliche Glaube. Nicht die christliche Liebe. Nicht die christliche Kirche. Nicht die
+            christliche Kultur. <hi rend="italic">Jesus selber.</hi> «Am dritten Tage auferstanden
+            von den Toten, aufgefahren gen Himmel, sitzend zur Rechten Gottes, des allmächtigen
+            Vaters, von dannen er kommen wird, zu richten die Lebendigen und die Toten».<note xml:id="n07"><bibl corresp="kbga-bibls-544"><hi rend="italic">Symbolum
+                  Apostolicum</hi>, BSLK, S. 21</bibl>.</note>- <hi rend="underlined-later">Er
+              ist's,</hi> der <hi rend="italic">hinter uns</hi> und über uns steht. Er ist die <hi rend="italic">treibende Gewalt</hi> unseres Lebens. Er ist unsere <hi rend="italic">Ruhe</hi> und unsere Unruhe. Er hat uns unseren Ursprung und unser Ziel in Gott <hi rend="italic">gegeben.</hi> Er ist das entscheidende <hi rend="italic">Übergewicht</hi> für Gott, das wir nirgends ganz verkennen können. Er ist das große
+              <hi rend="italic">Vorwärts</hi> von Gott her!, das uns von allen Seiten entgegentritt.
+            Er ist's, in dem unsere <hi rend="italic">Errettung verborgen</hi> ist, die Gemeinschaft
+            der Heiligen, die Vergebung der Sünden, die Auferstehung des Leibes<note xml:id="n08"><bibl corresp="kbga-bibls-544">Ebd</bibl>.</note>, die <pb ed="pga" xml:id="p196"/>
+            neue, die ewige Welt, von der einst alle Dinge ausgegangen sind, um dereinst in sie
+            zurückzukehren. Verborgen und doch <hi rend="italic">nicht unwirksam</hi>, sondern
+            gegenwärtig. - <hi rend="underlined-later">Denn er ist's,</hi> durch den wir uns selbst
+            und die Welt schon [?] jetzt <hi rend="italic">verstehen</hi> können, wenn wir uns
+               die Augen unseres Herzens öffnen
+            lassen [vgl. <ref type="can" subtype="bible" target="Eph.1.18">Eph. 1,18</ref>]. Er
+            ist's, durch den Gott jetzt allen Menschen an allen Enden gebietet, <hi rend="italic">Buße zu tun</hi> [<ref type="can" subtype="bible" target="Act.17.30">Act. 17,30</ref>], das Größere zu erkennen, dem Großen gehorsam zu werden, in dem sie
+            leben und weben und sind durch seine Gnade. <hi rend="italic">Samt ihm</hi> sind wir
+            lebendig gemacht, samt ihm auferweckt, samt ihm versetzt in die himmlische Welt. - In
+            diesem «samt ihm» ist die <hi rend="italic">Hand des lebendigen Gottes</hi>, der seine
+            Macht größer machen will, als sie jetzt ist. Darin liegt die <hi rend="italic">stärkste
+              Aufforderung</hi> an uns, Ja zu sagen zu Gottes Macht, damit sie auch durch uns
+            wachsen kann. Darin liegt die <hi rend="italic">Bewegung, die Gottes Werk</hi>
+            weiterführen will an allen Punkten. - Gott sucht <hi rend="italic">Verstand und
+              Gehorsam</hi> auf Erden, um weiterzumachen, um jenes Haus, das nicht von Händen
+            gemacht ist, das ewig ist, im Himmel zu vollenden und zu enthüllen [vgl. <ref type="can" subtype="bible" target="2.Kor.5.1">2.Kor. 5,1</ref>]. Unser dumpfes, unbewußtes Wesen
+            ist's, was ihm <hi rend="italic">im Wege</hi> ist.</p>
+          <q rend="block">
+            <lg>
+              <l>Jesu, gib <hi rend="italic">gesunde Augen</hi>, die was taugen,</l>
+              <l>rühre unsre Augen an.</l>
+              <l>Denn das ist die größte Plage, wenn am Tage</l>
+              <l>man das Licht nicht schauen kann!<note xml:id="n09"><bibl type="song" corresp="kbga-songs-40">Letzte Strophe des Liedes «Hüter, wird die Nacht der
+                    Sünden» von <persName ref="kbga-actors-2243">Chr. Fr. Richter</persName> (GERS [1952] 308,8; EKG 266,7)</bibl>. Im Original:
+                  «… meine Augen» und «… nicht sehen kann».</note></l>
+            </lg></q>
+          <p>Jesus ist's, der <hi rend="italic">hervortreten muß</hi> aus der Verborgenheit, in der
+            er jetzt steht, um uns Verstand und Gehorsam zu geben. Aber immer heißt's für uns ihm
+            gegenüber «samt ihm», und so müssen auch wir <hi rend="italic">verstehen und gehorchen
+              wollen</hi> kraft der Klarheit, die er uns jetzt schon gibt. Immer aber <hi rend="italic">ist er es und wird er es sein</hi>, durch den Gott uns bezeugt, daß er
+            der Schöpfer und Erlöser und Vollender ist, in ihm [sind] Erfüllung und Verheißung und
+            neue Erfüllung, auf daß Gott erzeige in den zukünftigen Zeiten den überschwenglichen
+            Reichtum seiner Güte gegen uns. Wir stehen tief in den Anfängen. Jesus aber lebt. <hi rend="italic">Ihr</hi> sollt ihn <hi rend="italic">hören.</hi></p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <pb ed="pga" xml:id="p197"/>
+          <head>Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-167" type="song"> Nr. 11 «O daß ich tausend Zungen hätte» von
+              <persName ref="kbga-actors-5549">J. Mentzer</persName>, Strophen 1.7.11 (RG [1998] 728,1.-. 10; EG 330,1.5.7 mit
+              Textabweichungen)</bibl>
+            <bibl corresp="kbga-songs-125" type="song">Nr. 1 «Allein Gott in der Höh sei Ehr» von
+              <persName ref="kbga-actors-1349">N. Decius</persName>, Strophen 2.3.4 (RG [1998] 221,2.3.4; EG 179,2.3.4 mit
+              Textabweichungen)</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39030">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Epheser 4,7-16</title>
+        <title type="citation_line_1">Barth, Karl: Epheser 4,7-16, 22. Juni 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39030 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 239.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39030</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Epheser 4,7-16</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">239</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">30</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Eph 4,7-16, 22. Juni 1919. <ref target="https://kba.karl-barth.ch/objects/1914">KBA 1457</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-06-22">22. Juni 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:32+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p232" ed="pga"/>
+        <div type="opener">
+          <head><idno>475</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName>, Sonntag, den <date when="1919-06-22">22. Juni 1919</date>
+          </dateline>
+
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Eph.4.7 Eph.4.16">Epheser 4,7-16</ref>
+              <quote><p><hi rend="italic" resp="kb">Einem Jeden von uns ist die Gnade in dem Maß
+                    gegeben, als sie ihm <hi rend="spaced">in Christus geschenkt</hi> ist. Darum
+                    heißt es: Er ist aufgefahren in die Höhe und hat das Gefängnis gefangen genommen
+                    und hat den Menschen Gaben gegeben. «Aufgefahren» - was heißt das Anderes, als
+                    daß er auch niedergefahren ist in die Tiefe der Erde. Der niedergefahren ist,
+                    ist derselbe, der auch aufgefahren ist über alle Himmel, auf daß er Alles
+                    erfülle.</hi></p>
+                <p><hi rend="italic" resp="kb">Und derselbe ist's, der die Einen als Apostel, die
+                    Anderen als Propheten, die Anderen als Evangelisten, die Anderen als Hirten und
+                    Lehrer gegeben hat - Alles, um die Heiligen zuzubereiten zu ihrer Dienstleistung
+                    am Bau des Leibes Christi - <hi rend="spaced">bis wir alle hinankommen zur
+                      Einheit</hi> im Glauben und in der Erkenntnis des Sohnes Gottes, zum
+                    vollkommenen Mannesalter nach dem Maßstab der Fülle Christi, so daß wir nicht
+                    mehr unwürdig sind, geschaukelt und umhergeworfen von jedem Wind der Lehre durch
+                    das Spiel, das die Menschen treiben in ihrer Schlauheit, im Dienst trügerischen
+                    Irrtums, sondern der Wahrheit dienen in Liebe und so wachsen in allen Stücken an
+                    dem, der das Haupt ist, Christus.</hi></p>
+                <p><hi rend="italic" resp="kb">Von ihm aus kann der ganze Leib, zusammengesetzt und
+                    zusammengehalten durch den Dienst aller Gelenke, <hi rend="spaced">unter
+                      bestimmter Betätigung jedes einzelnen Teiles wachsen</hi> und so sich selbst
+                    auferbauen in der Liebe.</hi></p></quote>
+            </cit>
+          </epigraph>
+
+        </div>
+        <div type="main">
+          <p><hi rend="italic">1.</hi>
+            <hi rend="italic">«Der Mensch ist frei</hi> geboren, ist frei, und wäre er in Ketten
+              geboren!»<note xml:id="n01"><bibl corresp="kbga-bibls-1574"><persName ref="kbga-actors-764">Fr. von Schiller</persName>, «Die Worte des Glaubens»</bibl>: <q rend="block">
+                <lg>
+                  <l>Der Mensch ist frei geschaffen, ist frei,</l>
+                  <l>Und würd' er in Ketten geboren.</l>
+                </lg></q></note> Nicht nur die Gedanken sind frei<note xml:id="n02">«Die Gedanken
+              sind frei»: <bibl corresp="kbga-bibls-3718">«Lied der Verfolgten im Turm» eines unbekannten Verfassers in: <hi rend="italic">Des Knaben Wunderhorn. Alte deutsche Lieder</hi>, gesammelt von <persName ref="kbga-actors-4311">L. A.
+              von Arnim</persName> (1781-1831) und <persName ref="kbga-actors-3823">Cl. Brentano</persName> (1778-1842)</bibl>.</note> - das ist nur der
+            unvollkommene Anfang der Freiheit - <hi rend="italic">der Mensch selbst ist frei.</hi>
+            Er darf sich <hi rend="italic">selber</hi><note xml:id="n03">= er selber.</note> sein.
+            Er darf seinen eigenen <hi rend="italic">Weg</hi> gehen. Es ist in Jedem etwas <hi rend="italic">Besonderes</hi>, dieses Besondere darf sich zeigen, sich erfüllen und
+            ausleben. Es hat Jeder seine <hi rend="italic">Bestimmung</hi> ganz für sich, dieser
+            Bestimmung darf er treu sein. Kein Mensch hat das Recht, andere Menschen daran zu <hi rend="italic">hindern.</hi>
+            <hi rend="italic">Kein Mensch hat das Recht</hi>, dich oder mich mit <pb ed="pga" xml:id="p233"/>
+            <hi rend="italic">Mißtrauen oder Verachtung</hi> zu behandeln aus dem Grunde, weil wir
+            nicht sind, was er und wie er ist. Weder großer Besitz, noch große Klugheit und
+            Erfahrung, noch große Frömmigkeit geben dir die Erlaubnis, zu einem Anderen zu sagen
+            oder auch nur von ihm zu denken: du solltest <hi rend="italic">dich mir anpassen</hi>,
+            dahin stehen, wo ich stehe! Weder die Rücksicht auf  Familienzusammengehörigkeit noch die besten Erziehungsabsichten,
+            weder die Aufrechterhaltung der besten Ordnung noch die Erzielung des größten
+            Fortschritts geben uns die Erlaubnis, <hi rend="italic">die Freiheit Anderer zu
+              bedrücken</hi> [?]. Wir dürfen sie dem Anderen <hi rend="italic">unter keinem
+              Vorwand</hi> nehmen wollen, und wir dürfen sie uns selbst unter keinem Vorwand nehmen
+            lassen. Was gegen die Freiheit des Menschen geht, <hi rend="italic">ist Sünde</hi>, und
+            wenn es die größte Gerechtigkeit wäre. Denn <hi rend="italic">in Gott ist Freiheit.</hi>
+            Gott will freie Menschen. Gott will in freien Menschen zu Ehren kommen auf der Erde. Es
+            ist eine <hi rend="italic">direkte Beziehung</hi> zwischen Gott und jedem einzelnen
+            Menschen, die duldet keine Störung, keine Einmischung, keinen Zwang. <hi rend="italic">Ihre Engel</hi> im Himmel sehen allezeit das Angesicht meines Vaters! Das hat Jesus
+            von den Kindern, von den Geringsten gesagt [<ref type="can" subtype="bible" target="Mt.18.10">Mt. 18,10</ref>]. Es hat also allgemeine Geltung. Wir haben nicht nur das Recht,
+            sondern die Pflicht, diese direkte Beziehung <hi rend="italic">rein zu halten</hi>,
+            unsere eigene und die anderer. Es handelt sich um etwas, mit dem wir um Gottes Willen
+              <hi rend="italic">mit Respekt</hi> umgehen müssen. Freiheit ist nicht nur
+            Menschen-Recht, sondern <hi rend="italic">göttliche Gerechtigkeit</hi> für den Menschen.
+            Wer sich danach sehnt, sich dafür wehrt, darum kämpft, meint <hi rend="italic">im Grunde
+              das Richtige</hi>, auch wenn er vielleicht im Übrigen mit allerlei Irrtümern belastet
+            ist.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi> «Einem Jeden von uns ist die Gnade in dem
+            Maß gegeben, als sie ihm in Christus geschenkt ist.» Ich möchte diese Worte den <hi rend="italic">Geburtsschein der Freiheit</hi> nennen. Wer die Freiheit nicht <hi rend="italic">versteht</hi>, wem es schwer fällt, mit seiner eigenen Freiheit und der
+            Anderer einmal <hi rend="italic">ernst</hi> zu machen, wer sich nicht getraut, an die
+            Notwendigkeit und an den Triumph der Freiheit zu <hi rend="italic">glauben</hi>, der
+            sollte immer wieder diese Worte lesen und überdenken und sich fragen, ob es ihm nicht
+            doch möglich wäre, zu verstehen, wie es gemeint ist. Diese Worte sind <hi rend="italic">eine Siegesbotschaft.</hi> Man sieht ja im Leben Vieles, was Einem an der Freiheit
+              <hi rend="italic">irremachen</hi> könnte. Man sieht Millionen Menschen, die <hi rend="italic">unfrei sind</hi> und nicht einmal frei werden wollen. Man sieht die
+            großen <hi rend="italic">Gefäng<pb ed="pga" xml:id="p234" break="no"/>nisse und
+              Knechtungen</hi>, unter denen sich die Menschen befinden, ohne es zu wissen, z. B. das
+            Geld. Man sieht die großen <hi rend="italic">moralischen Unterschiede</hi> zwischen den
+            Menschen, man sieht, wie der Gedanke der Freiheit in der Welt <hi rend="italic">mißbraucht</hi> wird, wie man von Freiheit redet, wo es sich nur um Torheit und
+            Selbstsucht handelt. Man sieht in sich selber eine so große <hi rend="italic">Schwachheit</hi>, ein so großes Bedürfnis, sich anzulehnen und leiten zu lassen. Das
+            alles kann einen in Versuchung führen, die Freiheit zu <hi rend="italic">verdächtigen</hi> als etwas Gefährliches und Unmögliches, uns darein zu
+              
+            <hi rend="italic">ergeben</hi>, daß wir selbst und Andere ohne Druck und Zwang nicht
+            auskommen, die Freiheit als ein hohes <hi rend="italic">Vorrecht</hi> einzelner edler
+            Seelen zu betrachten. <hi rend="italic">Aber die Bibel</hi> ist nicht dieser Meinung.
+            «Einem Jeden von uns ist die Gnade gegeben». Da haben wir die <hi rend="italic">direkte
+              Beziehung</hi> von Gott zu jedem Einzelnen. Es ist ein <hi rend="italic">Durchbruch</hi> geschehen durch alle Arten von Unfreiheit hindurch. Es ist eine <hi rend="italic">göttliche Erlaubnis</hi> gegeben: Du darfst dich selber sein! und ein
+              <hi rend="italic">göttlicher Befehl:</hi> Du sollst auch die Anderen sich selber sein
+            lassen! Es ist von Gott in Christus <hi rend="italic">Jedem Gnade</hi> gegeben. Es mag
+            Alles wahr sein, was man gegen die Freiheit des Menschen einwenden kann, aber <hi rend="italic">in Christus hat sich Alles gewendet.</hi> Der Mensch ist Allem zum Trotz
+            doch frei in Christus. <hi rend="italic">Wer diesen göttlichen Sieg begreift</hi> und
+            sich auf diesen Boden stellt, der muß an die Freiheit glauben und Freiheit betätigen.
+            Alles, was er <hi rend="italic">dagegen sagen und tun</hi> könnte, ginge ja an Christus
+            und an seinem Sieg vorbei, es würde gleichsam im Schatten geschehen, wo das Licht noch
+            nicht hingedrungen ist. Er verehrt die Freiheit als <hi rend="italic">das große
+              göttliche Wunder</hi> und macht eben darum keine Vernunftgründe mehr dagegen geltend.
+            Er <hi rend="italic">seufzt zum mindesten darüber</hi>, wenn er teilweise noch nicht
+            frei ist und wohl auch Anderen noch nicht Freiheit lassen kann. Es kann ihm <hi rend="italic">nicht wohl sein</hi> beim Zwängen und Drängen, sondern er schreit in
+            seinem Inneren zu Gott um mehr Gnade, mehr Freiheit für sich und die Anderen. Er <hi rend="italic">fürchtet sich nicht</hi> mehr vor der Freiheit, sondern er sagt Ja dazu
+            aus ganzem Herzen und ohne Mißtrauen. Er wagt es, <hi rend="italic">den Anderen immer
+              ein wenig voran</hi> zu sein im freien Denken, freien Reden und freien Handeln, im
+            Freigeben auch seiner Mitmenschen, und wenn man ihn darum einen Toren nennen würde. <hi rend="italic">Wer das weiß</hi>, daß Freiheit ein Geschenk ist, ein Wunder, ein Sieg
+            Gottes, der wird keinen Anfang damit und keine Befreiungen [?] verachten. Was man als
+              <hi rend="italic">göttliches Geschenk</hi>
+            <pb ed="pga" xml:id="p235"/> bekommt und versteht und annimmt und gebraucht, das muß zum
+            Segen ausschlagen.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">3.</hi>
+            <hi rend="italic">Die Freiheit ist für alle Menschen.</hi> Wenn wir unseren Text lesen,
+            bekommen wir den Eindruck, als ob tausende und <hi rend="italic">tausende von Türen</hi>
+            aufgingen von Gott her gegen die Menschenwelt hin. Da ist <hi rend="italic">Keines, für
+              das sich nicht</hi> eine Tür öffnete vom Himmel her. Es ist wohl wahr, daß es Menschen
+            gibt, die <hi rend="italic">in einer so grausigen Tiefe</hi> von Sünde und Not leben,
+            daß es fast wie ein Hohn aussieht, zu ihnen zu sagen: auch du bist ein freier Mensch,
+            frei in Gott. Aber es ist <hi rend="italic">noch wahrer</hi><note xml:id="n04">Die
+              beiden Worte «noch wahrer» sind durch einen Bogen unterstrichen.</note>, daß das Wort
+            Gottes, das Wort der Erlösung <hi rend="italic">an alle Menschen gerichtet</hi> ist, an
+            die auf der Höhe und an die in der Tiefe. <hi rend="italic">Mit Menschenaugen</hi>
+            betrachtet  mag es unerreichbare,
+            unerlösbare, hoffnungslos unfreie Menschen geben, <hi rend="italic">vom Standpunkte
+              Gottes</hi> aus gibt es nichts Unerreichbares [?]. <hi rend="italic">Christus ist
+              niedergefahren</hi> zur Hölle und aufgefahren gen Himmel.<note xml:id="n05"><bibl corresp="kbga-bibls-544"><hi rend="italic">Symbolum Apostolicum</hi>, BSLK, S. 21</bibl>.</note> Er ist <hi rend="italic">der Heiland</hi> der Sünder und der Gerechten, der Blöden und der
+            Klugen. Im Reich Gottes herrscht in diesem Sinn <hi rend="italic">volle Demokratie.</hi>
+            Wenn wir es damit ernst nehmen würden, so würden wir sehen, wie wahr das tatsächlich
+            ist. |</p>
+          <p>Auch das ist wahr, daß <hi rend="italic">wir alle in Gefängnissen</hi> sind, die es uns
+              <hi rend="italic">verleiden</hi> möchten, an die Freiheit des Menschen zu glauben. <hi rend="italic">Muß man nicht</hi> fast an die Notwendigkeit von Zwang und Gewalt
+            glauben, wenn man etwa an einem <persName ref="kbga-actors-841">Wilson</persName><note xml:id="n06">Vgl. oben <ref target="../volume/39/p204#fn_n05" type="pub">S. 204, Anm.5</ref>.</note>
+            sieht, wie abhängig auch die besten Menschen von Anderen sind, von Mächten, gegen die
+            sie nichts vermögen? Aber es ist auch da <hi rend="italic">noch wahrer</hi><note xml:id="n07">Die beiden Worte «noch wahrer» sind durch einen Bogen
+              unterstrichen.</note>, daß das <hi rend="italic">Urteil</hi> über alle solche
+            Abhängigkeiten von Gott gesprochen ist, wir würden sonst nicht so darunter <hi rend="italic">leiden</hi>, wir würden es gar nicht <hi rend="italic">merken</hi>, wir
+            wären nicht so <hi rend="italic">enttäuscht</hi> über diesen Mann, nachdem wir so viel
+            von ihm erwartet haben. Das Gefängnis ist <hi rend="italic">gefangen</hi> genommen!,
+            sagt <persName ref="kbga-actors-313">Paulus</persName>. Es geht ein Hauch von <hi rend="italic">Freiheitsluft</hi> durch alle die
+            Löcher, in denen wir uns befinden. Wir <hi rend="italic">müßten nicht</hi> in diesen
+            Löchern sein, niemand müßte. <hi rend="italic">Niemand</hi> ist ausgeschlossen. Wir
+            müßten auch das nur ernst nehmen, um schon zu sehen, wie wahr es ist. |</p>
+          <p>
+            <pb ed="pga" xml:id="p236" rend="noPipe"/> Auch das ist wahr, daß es <hi rend="italic">unter den Menschen so große Unterschiede</hi> der Richtung und des Charakters gibt,
+            daß man <hi rend="italic">das Schlimmste befürchten</hi> müßte, wenn jeder die Erlaubnis
+            bekommt, sich selber zu sein und in Gottes Sonne seinen eigenen Weg zu gehen. Aber <hi rend="italic">noch wahrer</hi><note xml:id="n08">Die beiden Worte «noch wahrer» sind
+              durch einen Bogen unterstrichen.</note> ist's, daß der <hi rend="italic">Irrtum</hi>
+            gerade da sein Spiel treibt, wo man die Freiheit nicht versteht, wo man sich nicht
+            getraut, geradeaus zu gehen und andere geradeaus gehen zu lassen. Wenn dagegen die
+            Freiheit kommt, dann <hi rend="italic">kommt mit ihr die Wahrheit</hi>, dann <hi rend="italic">dienen die Menschen</hi> von selbst der Wahrheit, und zwar in Liebe, wie
+            es in unserem Text so schön heißt. Das «Geschaukelt- und Umhergeworfenwerden von jedem
+            Wind der Lehre» <hi rend="italic">hört auf</hi>, wenn der Mensch auf seine eigenen Füße
+            zu stehen kommt. Der Betrug liegt immer darin, daß man <hi rend="italic">nach dem
+              Anderen schielt.</hi> Würde nur ein Jedes <hi rend="italic">aufrichtig sich selber
+              suchen und finden</hi>, würde man nur ganz ernst damit machen, so würden wir gerade
+            damit aus dem Durcheinander und den Trennungen <hi rend="italic">heraus</hi>kommen und
+            es lernen, einander <hi rend="italic">wirklich</hi> zu dienen. Denn dienen kann man
+            einander nur mit der <hi rend="italic">Wahrheit.</hi> Die Wahrheit aber gedeiht nur in
+            der Luft der <hi rend="italic">Freiheit.</hi></p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">4.</hi> Seht, das ist gerade das Große, daß die <hi rend="italic">Freiheit der Friede</hi> ist, daß die Freiheit den Streit und die
+            Gegensätze aufhebt. Man kann nur 
+            solange <hi rend="italic">zanken</hi>, als man die Freiheit noch nicht verstanden hat.
+            Es sind tausend und tausend von <hi rend="italic">verschiedenen</hi> Türen, große und
+            kleine, enge und weite, schöne und weniger schöne, die sich von Gott her öffnen gegen
+            die Menschenwelt. Es ist in der Gnade und im Dienste der Wahrheit ein unendlicher <hi rend="italic">Reichtum</hi> von Möglichkeiten. Im Reich Gottes gibt es keine öden <hi rend="italic">Uniformen</hi> und keine langweiligen <hi rend="italic">Fabrikwaren</hi>, wo ein Stück dem anderen gleichen muß. Hier darf man <hi rend="italic">ungleich</hi> sein. Hier darf man seine <hi rend="italic">Meinung</hi>
+            haben und seinen Weg gehen. Hier hat man's nicht wie in gewissen <hi rend="italic">Vereinen</hi>, wo man sich das Wort gibt: von dem und dem wird bei uns nicht geredet,
+            weil wir sonst doch nur auseinander kommen. Im Reich Gottes kann man von Allem reden und
+            kommt doch nicht auseinander, im Gegenteil: <hi rend="italic">je aufrichtiger</hi> und
+            tapferer jedes seinen Weg sucht und findet und geht, <hi rend="italic">um so
+              sicherer</hi> kommt das Ganze zueinander, wie es beim Singen darauf <pb ed="pga" xml:id="p237"/> ankommt, daß jede Stimme ihren eigenen Ton trifft und sich nicht durch
+            die anderen verwirren läßt. Denn <hi rend="italic">Gott ist's nicht leid</hi>, daß du so
+            bist und du so und ich so, sondern er <hi rend="italic">will gerade das haben</hi>, er
+            hat mit <hi rend="italic">Absicht</hi> jedem seinen Ton gegeben, und nun kommt es nur
+            darauf an, daß wir ihn mit aller Treue <hi rend="italic">sicher und fest</hi> halten.
+            Dann können wir sicher sein, daß es im Ganzen <hi rend="italic">stimmt</hi> zueinander.
+            Ich möchte als größtes Beispiel <hi rend="italic">die Bibel selbst</hi> nennen mit ihrer
+            wahrhaft erstaunlichen Mannigfaltigkeit. Es ist <hi rend="italic">Alles Wort
+            Gottes</hi>, gerade darum darf es so mannigfaltig sein. Und gerade in seiner <hi rend="italic">Mannigfaltigkeit</hi> redet es um so deutlicher und kräftiger von dem
+            Einen. «Derselbe ist's, der die Einen als Apostel, die Anderen als Propheten, die
+            Anderen als Evangelisten, die Anderen als Hirten und Lehrer gegeben hat.» Es haben alle
+            Platz <hi rend="italic">nebeneinander</hi>, gerade darum, weil sie eigentlich nicht
+            nebeneinander stehen in ihrer Verschiedenheit, sondern miteinander an der großen,
+            gemeinsamen Sache Gottes. Und sie können die <hi rend="italic">gemeinsame
+              Gottessache</hi> vertreten, weil sie auch wieder ruhig nebeneinander stehen können in
+            ihrer Verschiedenheit. Wo es sich um die <hi rend="italic">Wahrheit</hi> handelt, da
+            waltet Freiheit. Und wo <hi rend="italic">Freiheit</hi> ist, da gerade kommt auch die
+            Wahrheit zu Ehren, und das eben in der Liebe, im Frieden, in der Einheit. |</p>
+          <p>Wenn jeder <hi rend="italic">einzelne Teil</hi> seine bestimmte Tätigkeit hat, dann
+            wächst <hi rend="italic">der Leib Christi</hi>, sagt <persName ref="kbga-actors-313">Paulus</persName>. Er will uns auffordern,
+            doch endlich einmal <hi rend="italic">Vertrauen zu fassen zu dem Ganzen</hi>, zum
+            Zusammenhang, in dem wir stehen - und dann auch zu uns selber - und dann auch zu den
+            Mitmenschen. Sind wir in Christus, so wagen wir es, uns selbst ganz <hi rend="italic">ernst zu nehmen</hi>, unseren eigenen Weg nicht mehr als einen Zufall aufzufassen,
+            sondern  als eine hohe Berufung, der wir
+            folgen müssen. Sind wir in Christus, dann nehmen wir aber <hi rend="italic">auch die
+              Anderen ganz ernst</hi>, trauen es ihnen zu, daß auch sie nicht nur aus Laune oder
+            Bosheit ihren Weg gehen, glauben ihnen, daß auch sie ihre Berufung haben, und freuen
+            uns, wenn sie ihr folgen, und helfen ihnen dazu aus allen Kräften. Sind wir in Christus,
+            dann <hi rend="italic">verlieren wir die Angst</hi>, als ob der Mangel an Uniform, der
+            Mangel an Friedhofsfrieden ein Unglück sei, dann suchen wir das, was uns und die Anderen
+            zusammenhält, zusammenbringt, zusammenführt dem gleichen Ziel entgegen. Sind wir in
+            Christus, dann brauchen wir die faule Ermahnung zur sogenannten <hi rend="italic">Toleranz nicht.</hi> Toleranz heißt: sich gehen las<pb ed="pga" xml:id="p238" break="no"/>sen. Wir sollen uns nicht gehen lassen, wir sollen miteinander gehen, und
+            zwar in Gott miteinander gehen, und dazu muß man wissen, was man will, muß man eine
+            feste Wahrheit vor Augen haben. Sind wir in Christus, dann wird doch <hi rend="italic">kein Zank daraus</hi>, sondern man geht respektvoll und zart miteinander um, man
+            schont sich, man trägt sich, man hilft einander. Wenn wir doch Vertrauen fassen wollten,
+              <hi rend="italic">Vertrauen zu Gott</hi>, der dein und mein Herr ist und der Herr
+            aller Menschen! Es ist ja doch nur ein Mangel an Gottvertrauen, wenn wir so unfrei sind.
+            Ein starker Glaube lebt in einer großen Freiheit. Wem es <hi rend="italic">ernst
+              wird</hi> mit dem Leben, der steht und geht auf <hi rend="italic">seinen</hi> Füßen.
+            Wer <hi rend="italic">Gott versteht</hi>, der wird demütig, sanftmütig, geduldig [vgl.
+              <ref type="can" subtype="bible" target="Eph.4.2">Eph. 4,2</ref>]. Nur <hi rend="italic">ohne
+              Gott</hi> sind wir abhängig, furchtsam, auf Andere angewiesen. Nur <hi rend="italic">ohne Gott</hi> können wir Andere bedrängen, knechten, meistern. In Gott gibt es <hi rend="italic">nichts Steifes</hi>, Gefrorenes, Hölzernes. In Gott ist Alles <hi rend="italic">lebendig</hi>, ein jegliches nach seiner Art [vgl. <ref type="can" subtype="bible" target="Gen.1.21">Gen. 1,21</ref>.<ref type="can" subtype="bible" target="Gen.1.24 Gen.1.31">24f.</ref>]. Und daß <hi rend="italic">das Böse</hi>, die Lüge, das Unrecht sein
+            Gericht finde, dafür ist gerade in Gott gesorgt. Es hat jetzt seine Zeit, aber es wird
+            mit Feuer verbrannt, wenn seine Stunde da ist [vgl. <ref type="can" subtype="bible" target="Mt.13.40">Mt. 13,40</ref>]. Wir aber sollen <hi rend="italic">Gottes klaren
+              Willen</hi> ernster nehmen als das Böse, das ihm entgegensteht. Laß dich nicht vom
+            Bösen überwinden, sondern überwinde du das Böse <hi rend="italic">mit Gutem</hi> [<ref type="can" subtype="bible" target="Röm.12.21">Röm. 12,21</ref>]!</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">5.</hi>
+            <hi rend="italic">In Gott ist Freiheit.</hi> <persName ref="kbga-actors-313">Paulus</persName> hat nicht von schönen Idealen
+            geredet, sondern von dem, was <hi rend="italic">in Gott</hi> wahr ist und wirklich wird.
+            Wir wollen nicht heimgehen und sagen: ja, das ist schön, so sollte man sein!, um dann
+            seufzend zu erkennen, daß wir doch nicht so sind. Sondern wir wollen heimgehen und uns
+            fragen, <hi rend="italic">wie wir zu Gott stehen.</hi>
+            <hi rend="italic">Ohne Gott</hi> ist keine Freiheit. <hi rend="italic">Ohne Gott</hi>
+            müssen wir die schwersten Bedenken haben gegen die Freiheit. <hi rend="italic">Ohne
+              Gott</hi> sehen wir überall die Schranken, die uns und Anderen die Freiheit unmöglich
+            machen. Ohne Gott fällt Alles auseinander: die  Freiheit der Welt ist der Krieg Aller gegen Alle<note xml:id="n09">Vgl.
+              <bibl corresp="kbga-bibls-5421"><persName ref="kbga-actors-2041">Th. Hobbes</persName>, <hi rend="italic">Elementa philosophica de cive</hi>, Paris 1642,
+              Amsterdam 1647, S. 12f.</bibl>: der Zustand der Menschen außerhalb der Gesellschaft war kein
+              anderer als ein «<foreign xml:lang="lat">bellum omnium contra omnes</foreign>».</note>. Aber <hi rend="italic">es muß ja
+              nicht sein</hi>, daß wir «ohne Gott in der Welt» [<ref type="can" subtype="bible" target="Eph.2.12">Eph. 2,12</ref>] stehen. Wir können auch <hi rend="italic">ernsthaft</hi>
+            werden. Wir können <pb ed="pga" xml:id="p239"/> auch <hi rend="italic">glauben.</hi> Wir
+            können auch <hi rend="italic">Verständnis</hi> und Zutrauen gewinnen zu Gott. Wir können
+            auch, statt lahm und tot und abgeschnitten zu sein, <hi rend="italic">wachsen</hi> in
+            allen Stücken an dem, der das Haupt ist, Christus. Wir können uns auch <hi rend="italic">bekehren</hi> zu dem, der uns geschaffen und erlöst hat. Dann wird Alles anders. Auf
+            den <hi rend="italic">Bergen</hi> ist Freiheit.<note xml:id="n10"><bibl corresp="kbga-bibls-1543"><persName ref="kbga-actors-764">Fr. von Schiller</persName>, <hi rend="italic">Die Braut von Messina</hi>, V.2586</bibl>.</note> Wir sind <hi rend="italic">noch nicht</hi> auf den Bergen. Aber wir können unsere <hi rend="italic">Augen
+              erheben</hi> zu den Bergen, von denen uns Hilfe kommt [<ref type="can" subtype="bible" target="Ps.121.1">Ps. 121,1</ref>].</p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <head>Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-66" type="song"> Nr. 33 «Sieh, hier bin ich, Ehrenkönig» von
+              <persName ref="kbga-actors-2670">J. Neander</persName>, Strophen 1-3 (Reichs-Lieder 513,1-3)</bibl>
+            <bibl corresp="kbga-songs-120" type="song">Nr. 159 «Fahre fort, fahre fort» von
+              <persName ref="kbga-actors-5610">J. E. Schmidt</persName>, Strophen 1.4.5 (GERS [1952] 351,1.5.6; EKG 213,1.5.6)</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

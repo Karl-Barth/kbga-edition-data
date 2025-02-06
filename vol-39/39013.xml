@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39013">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Matthäus 9,18-19.23-26</title>
+        <title type="citation_line_1">Barth, Karl: Matthäus 9,18-19.23-26, 9. März 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39013 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 98.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39013</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Matthäus 9,18-19.23-26</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">98</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">13</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Mt 9,18-19.23-26, 9. März 1919. <ref target="https://kba.karl-barth.ch/objects/1897">KBA 1440</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-03-09">9. März 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:31+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:31+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb xml:id="p089" ed="pga"/>
+        <div type="opener">
+          <head><idno>458</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName>, Sonntag, den <date when="1919-03-09">9. März 1919</date><note xml:id="n01"><persName ref="kbga-actors-2151">Barth</persName> hielt sich vom <date when="1919-02-28">28.2.</date> bis
+              zum <date when="1919-03-04">4.3.1919</date> in <placeName ref="kbga-places-5">Basel</placeName> auf. Am <date when="1919-03-02">2. März</date> hat <persName ref="kbga-actors-2151">Barth</persName> deshalb
+              nicht gepredigt, sondern sich - durch wen, ist nicht bekannt - vertreten
+              lassen.</note>
+          </dateline>
+
+
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Mt.9.18 Mt.9.19">Matthäus 9,18-19</ref>
+              <ref type="can" subtype="bible" target="Mt.9.23 Mt.9.26">.23-26</ref>
+              <quote><hi rend="italic" resp="kb">[Da er solches mit ihnen redete, siehe, da kam der
+                  Obersten einer und fiel vor ihm nieder und sprach: Herr, meine Tochter ist jetzt
+                  gestorben; aber komm und lege deine Hand auf sie, so wird sie lebendig. Und Jesus
+                  stand auf und folgte ihm nach und seine Jünger. Und als er in des Obersten Haus
+                  kam und sah die Pfeifer und das Getümmel des Volks, sprach er zu ihnen: Weichet!
+                  denn das Mägdlein ist nicht tot, sondern es schläft. Und sie verlachten ihn. Als
+                  aber das Volk hinausgetrieben war, ging er hinein und ergriff es bei der Hand; da
+                  stand das Mägdlein auf. Und dies Gerücht erscholl in dasselbe ganze
+                Land.]</hi></quote>
+            </cit>
+          </epigraph>
+
+        </div>
+        <div type="main">
+          <p>
+            <hi rend="italic">1.</hi>
+            <hi rend="italic">Der Tod hatte angeklopft</hi> an der Tür des Synagogenvorstehers
+            <persName ref="kbga-actors-10424">Jairus</persName> in <placeName ref="kbga-places-862">Kapernaum</placeName>. Hoffnungslos krank lag sein Kind danieder. Unaufhaltsam rückte das
+            bittere Ende näher und näher. Vielleicht war es schon eingetreten, als der Vater sich
+            angsterfüllt mit einer letzten Hoffnung Jesu zu Füßen warf. Es scheint, daß er selber
+            damit gerechnet hat, daß es so sei, noch bevor er es genau wußte: Herr, meine Tochter
+            ist jetzt gestorben! Vielleicht erinnern wir uns aus unserem eigenen Leben an <hi rend="italic">solche Augenblicke</hi> furchtbaren Drucks, wo wir Schrecken und
+            Verderben über uns und unsere Lieben unwiderstehlich hereinbrechen sahen. Vielleicht ist
+            es schon geschehen!, dachten wir. Und in dem «Vielleicht» schlummerte drohend das
+            «Schon». Aber wichtiger als solche persönlichen Erinnerungen wäre heute die Erkenntnis,
+            daß <hi rend="italic">unsere ganze Zeit und Lage</hi> unter solchem Druck steht. Es kann
+            heute kein Zweifel mehr darüber bestehen, daß <hi rend="italic">die ganze
+              Entwicklung</hi>, in der wir uns befinden, sehr schweren und schmerzlichen Ereignissen
+            und Verhältnissen entgegentreibt. Sie werden <hi rend="italic">um so schmerzlicher
+              sein</hi>, je weniger wir uns darauf gefaßt machen, je gedankenloser wir uns von der
+            Entwicklung bloß treiben lassen. Sie können vielleicht noch einige Zeit <hi rend="italic">auf sich warten</hi> lassen, um dann nur um so unwiderstehlicher über
+            uns hereinzubrechen. Es kann aber geradeso gut sein, daß sie schon <hi rend="italic">unmittelbar bevorstehen</hi>, ja vielleicht, ohne daß wir's ahnen, schon eingetreten
+            sind wie der Tod des Kindes des <persName ref="kbga-actors-10424">Jairus</persName>. <pb ed="pga" xml:id="p090"/> In der Bibel heißen
+            solche schmerzlichen Ereignisse und Verhältnisse <hi rend="underlined-later">«Gerichte».</hi> Es ist mit diesem Ausdruck gemeint, daß sie nicht von ungefähr
+            kommen, nicht nach bloßer Naturordnung und auch nicht bloß infolge einzelner Torheiten
+            und Bosheiten der Menschen, sondern gleichsam als reife <hi rend="italic">Früchte</hi>
+            eines langen Wachstums, als Rechnungs<hi rend="italic">abschlüsse</hi>, wie sie eben von
+            Zeit zu Zeit gemacht werden müssen über Soll und Haben, als <hi rend="italic">Urteils</hi>sprüche über lange, verwickelte Prozesse, die niemand überhören kann,
+            weil sie nicht in Worten, sondern in Tatsachen erscheinen. |</p>
+          <p>So war's auch im Falle des <persName ref="kbga-actors-10424">Jairus</persName>. Auch <hi rend="italic">Krankheit und Tod</hi> im
+            Leben des einzelnen Menschen sind nicht Zufälle, nicht Naturnotwendigkeiten, sondern
+            eben göttliche Gerichte, die auf lange böse Entwicklungen zurückweisen, auch wenn die in
+            den meisten Fällen äußerlich nicht erkennbar sind. Heute aber sind es nicht Einzelne
+            nur, sondern <hi rend="italic">ganze</hi>
+            
+            <hi rend="italic">Völker und Klassen</hi>, über die das Gericht hereinbricht. Eine Woge
+            von Unordnung, Gewalt und Schrecken wälzt sich von Osten her über Europa, und sie steht
+            jetzt dicht vor der Tür des Schweizerhauses. Wollte Gott, <hi rend="underlined-later">wir würden merken,</hi> was die Stunde geschlagen hat. Ob wir das, was jetzt in
+            Rußland und Deutschland geschieht<note xml:id="n02">Die «<orgName ref="kbga-actors-5804">Basler Nachrichten</orgName>» berichteten
+              aus <placeName ref="kbga-places-297">Rußland</placeName> z. B. am <date when="1919-03-05">5.3.1919</date> vom Bürgerkrieg vor allem
+              in <placeName ref="kbga-places-886">Petersburg</placeName> und am <date when="1919-03-08">8.3.</date> von einem Appell der Sowjetregierung: es würde binnen eines
+              Monats zur Katastrophe kommen, weil jeden Tag tausende von Arbeitern die Hauptstadt
+              verließen, ohne sich um die Interessen des Landes zu kümmern. Aus <placeName ref="kbga-places-151">Deutschland</placeName> brachten
+              sie z. B. am <date when="1919-03-05">5.3.</date> und <date when="1919-03-06">6.3.</date> Meldungen über Straßenkämpfe und Plünderungen in <placeName ref="kbga-places-8">Berlin</placeName> und
+              <placeName ref="kbga-places-29">Halle</placeName>, am <date when="1919-03-08">8.3.</date> über schwere Kämpfe und zunehmende Plünderungen in <placeName ref="kbga-places-8">Berlin</placeName>.</note>, <hi rend="italic">billigen</hi> oder mißbilligen, ist sehr gleichgültig. Ob wir uns
+            bemühen, die <hi rend="italic">Kanäle</hi>, durch die die böse Flut auch zu uns
+            hereindringen will, künstlich zu verstopfen oder künstlich zu vergrößern, kommt fast
+            aufs Gleiche heraus, sie kommt mit oder ohne Kanäle, sie ist schon da. Wichtig wäre
+            jetzt nur eins, nämlich die <hi rend="italic">Erkenntnis</hi>, daß das, was jetzt kommen
+            will, das Ergebnis einer langen Rechnung ist. Wir <hi rend="italic">ernten jetzt</hi>
+            die bitteren Früchte, die zur Zeit unserer Großväter und Väter und in unserer eigenen
+            Lebenszeit gewachsen sind. <hi rend="italic">Die Wege</hi> der Völker Europas, über
+            deren Richtung uns der Weltkrieg vor Türschluß noch einmal unzweideutige Klarheit
+            gegeben hat, führen unaufhaltsam diesem Ziel entgegen, und so sehr wir auf den
+              bisheri<pb ed="pga" xml:id="p091" break="no"/>gen alten Wegen weitergehen, so sehr
+            werden wir jenes Ziel, vor dem uns mit Recht schaudert, erreichen. Es kann aber auch
+            sein, daß es <hi rend="underlined-later">zu spät</hi> ist umzukehren, weil das Ziel
+            schon erreicht ist. Es gab in der Geschichte des Volkes Israel <hi rend="italic">solche
+              Augenblicke</hi>, wo die Propheten nach langen vergeblichen Warnungen sagen mußten:
+            nun ist's zu spät! nun kommt, was kommen muß, und niemand wird es aufhalten [vgl. z. B.
+              <ref type="can" subtype="bible" target="Am.9.1 Am.9.6">Amos 9,1-6</ref>]. Ich bin kein Prophet.
+              <hi rend="italic">Ich sage nicht:</hi> es ist zu spät. Aber ich sage: es könnte heute
+            bereits zu spät sein für uns.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi> Zu spät! Nämlich zu spät <hi rend="underlined-later">für alle menschlichen Versuche,</hi> dem Unheil zu wehren. Wie
+            es für den <hi rend="italic"><persName ref="kbga-actors-10424">Jairus</persName></hi> zu spät war, sein Kind durch bessere Nahrung
+            oder durch einen Ferienaufenthalt oder durch Zuziehung anderer Ärzte oder durch eine
+            Operation am Leben zu erhalten. Das alles hätte <hi rend="italic">früher</hi> geschehen
+            müssen. Jetzt war der Tod <hi rend="italic">schneller</hi> als der besorgte Vater. Er
+            war schon da. So könnte es heute zu spät sein für <hi rend="underlined-later">allerlei
+              Menschlichkeiten,</hi> zu spät für den Acht-Stunden-Tag, zu spät für die
+            Altersversicherung, zu spät für wohlgemeinte Fürsorgebestrebungen, zu spät für das
+            Bekenntnis: Ich bin ja im Grunde auch sozial gesinnt! Warum ist nicht vor fünf, vor drei
+            Jahren, vor einem Jahr <hi rend="italic">so geredet</hi> und vor Allem danach gehandelt
+            worden? Jetzt steht <hi rend="italic">der Tod vor der Tür</hi>, und der Tod heißt heute
+            Bolschewismus, Spartakus<note xml:id="n03">Nach dem römischen Sklavenführer <persName ref="kbga-actors-10425">Spartacus</persName>
+              († 71 v. Chr.) nannte sich die innerhalb der <orgName ref="kbga-actors-6133">SPD</orgName> entstandene Gruppe um <persName ref="kbga-actors-1381">Rosa Luxemburg</persName>,
+              <persName ref="kbga-actors-1117">K. Liebknecht</persName> und <persName ref="kbga-actors-10426">Fr. Mehring</persName>. Die <orgName ref="kbga-actors-9755">Spartakisten</orgName> stritten für eine radikale
+              sozialistische Demokratie, beteiligten sich an den Aufständen im Dezember 1918 und
+              gründeten nach dem Bruch mit der <orgName ref="kbga-actors-9877">USPD</orgName> am <date when="1918-12-30">30.12.1918</date> die
+              <orgName ref="kbga-actors-8624">KPD</orgName>.</note> oder wie man das unaufhaltsame östliche Ungetüm nennen mag. Ich bin der
+            Überzeugung, wir würden besser tun, uns wie <persName ref="kbga-actors-10424">Jairus</persName> <hi rend="italic">einzurichten, als
+              ob</hi> es für alle menschlichen Abwehr- und Hilfsversuche bereits zu spät wäre. Das
+            will  nicht sagen, man solle die Hände in
+            den Schoß legen, wie man ja auch an einem Sterbebett bis zum letzten Augenblick <hi rend="italic">Alles versucht</hi>, um den immer dünner werdenden Lebensfaden nicht
+            abreißen zu lassen. Aber <hi rend="italic">rechnen</hi> sollten wir heute mit dem Tode
+            des Patienten, und stellen sollten wir uns heute der Frage: <hi rend="italic">Was
+              dann?</hi> Was dann, wenn das Unheil kommt, wenn die Flut auch zu uns hereinbricht und
+            neben vielem, was den Einzelnen jetzt lieb und teuer ist, auch die edelsten Güter
+            unseres Volkes <hi rend="italic">hinwegschwemmt</hi>, unsere gei<pb ed="pga" xml:id="p092" break="no"/>stige und moralische Kultur um Jahrhunderte <hi rend="italic">zurückwirft.</hi> Es wäre uns besser, wir würden uns diese Frage: Was
+            dann? ernsthaft stellen. Denn es ist <hi rend="italic">nicht sehr wahrscheinlich</hi>,
+            daß diese Flut, die das starke, geistig so hoch stehende Deutschland bereits
+            überschwemmt hat, vor den dünnen Wänden unseres Schweizerhäusleins endgültig Halt machen
+            wird. <hi rend="italic">Was dann?</hi>, wenn es heute für die bestgemeinten menschlichen
+            Hilfsversuche - denn von den Christen wollen wir gar nicht reden! - bereits <hi rend="italic">zu spät</hi> sein sollte?</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">3.</hi> Dann müßten wir mit <persName ref="kbga-actors-10424">Jairus</persName> <hi rend="italic">vordringen</hi> zu der weiteren Erkenntnis, daß es für die Hilfe, die im
+            wörtlichen, buchstäblichen Sinn <hi rend="underlined-later">von Gott, von oben</hi>
+            kommt, nie zu spät ist. Von Gott, von oben, ist <hi rend="italic">die</hi> Hilfe, die
+            uns zuteil wird, wenn wir uns ohne Vorbehalt eingestehen, daß <hi rend="italic">das
+              Gericht, das uns trifft, gerecht</hi> ist, wenn wir uns eingestehen, daß der Weg, den
+            wir bisher gegangen sind, <hi rend="italic">zu diesem Ziel führen mußte</hi>, daß es
+            sich in keiner Weise darum handeln kann, diesen Weg fortzusetzen, sondern darum, einen
+              <hi rend="italic">neuen Anfang zu machen.</hi> Alle Versuche, uns an dieser Einsicht
+            vorbeizudrücken, sind menschlich, von unten. Sie werden uns gerade in der heutigen Lage
+            nicht mehr lange helfen. <persName ref="kbga-actors-10424">Jairus</persName> war <hi rend="underlined-later">demütig und mutig
+              genug,</hi> als der Tod schon da war, die Augen und Hände zu <hi rend="italic">erheben</hi> nach einem solchen ganz neuen Anfang. Es braucht Beides dazu: Demut und
+            Mut. Diese <hi rend="italic">zwei Eigenschaften</hi> gehören überhaupt zusammen. Nur wer
+            von Herzen demütig ist, kann wirklich Mut haben. Aber wer demütig ist, der hat dann auch
+            Mut. Es braucht <hi rend="italic">Demut</hi> dazu, diese Wendung zu nehmen nach der
+            Hilfe, die von Gott kommt. Denn es liegt davor eben das <hi rend="italic">Eingeständnis:</hi> die Hauptsache hat uns bis jetzt <hi rend="italic">gefehlt</hi>,
+            wir sind im Ganzen bis jetzt einen <hi rend="italic">verkehrten</hi> Weg gegangen, wir
+            haben es <hi rend="italic">verdient</hi>, da zu stehen, wo wir stehen. Es ist dem <hi rend="italic"><persName ref="kbga-actors-10424">Jairus</persName></hi>, der als Synagogenvorsteher einer der angesehensten und wohl
+            auch religiösesten Leute von <placeName ref="kbga-places-862">Kapernaum</placeName> war, sicher nicht leicht gefallen, mit diesem
+            stillen Eingeständnis zu Jesus zu gehen. <hi rend="italic">Andere</hi>, die mit solcher
+            Bitte zu Jesus kamen, wie etwa der arme Aussätzige [<ref type="can" subtype="bible" target="Mt.8.2">Mt. 8,2</ref> par.] oder der heidnische  Hauptmann [<ref type="can" subtype="bible" target="Mt.8.6">Mt. 8,6</ref>
+            par.] hatten es darin viel leichter, weil sie nicht wie <persName ref="kbga-actors-10424">Jairus</persName> so viel hatten, auf das
+            sie sich etwas einbilden konnten, weil sie zum vornherein geistlich ärmer waren. Es ist
+              <hi rend="underlined-later">auch heute so,</hi> daß gerade <hi rend="italic">alle
+              Tüchtigen</hi>, rechtlich Denkenden, Gebildeten, religiös Gesinnten es <pb ed="pga" xml:id="p093"/> besonders schwer haben, sich einzugestehen: Wir empfangen, was unsere
+            Taten wert sind [<ref type="can" subtype="bible" target="Lk.23.41">Lk. 23,41</ref>], wir waren
+            auf einem Holzweg, wir müssen ganz vorne anfangen, auf eine innerste, letzte
+            Verteidigungslinie uns zurückziehen. Gerade solche <hi rend="italic">Menschen, die etwas
+              sind und haben</hi> im besten Sinn, können es heute meist gar nicht fassen, daß an
+            unserem bisherigen Wesen wirklich nichts zu retten ist, daß nur Eines uns helfen kann.
+            Wir können aber gerade an <persName ref="kbga-actors-10424">Jairus</persName> sehen, daß es auch einem ehrenhaften, frommen Menschen
+              <hi rend="italic">möglich ist, diesen neuen Weg anzutreten.</hi> Du kannst demütig
+            werden, wer du auch seist, wenn du's nur merken willst, daß Demut die einzig mögliche
+            Antwort ist auf die jetzt unmittelbar drohende Gerichtszeit. |</p>
+          <p>Es braucht freilich auch <hi rend="italic">Mut</hi> dazu, in solcher Lage, wo alles
+            Alte zusammenzubrechen droht, unverzagt <hi rend="italic">an ein Neues zu glauben.</hi>
+            Aber eben: <hi rend="italic">wo Demut ist</hi>, da ist dann von selber auch Mut. Wenn es
+            heute <hi rend="italic">so wenig Menschen</hi> gibt, die mit wirklichem Mut in die
+            Zukunft blicken, so kommt es sicher davon her, weil es so wenig wirklich demütige
+            Menschen gibt. Vielleicht müßte man schon zu Leuten gehen, die vom Leben ganz tief
+            gebeugt und niedergedrückt, die gleichsam von Natur demütig sind, um diesen Mut zu
+            finden. Wir anderen sind wohl alle noch <hi rend="italic">viel zu gescheit</hi> oder zu
+            fromm oder zu reich dazu, um wirklich mutig zu sein. Man muß eben <hi rend="italic">ganz
+              fertig sein</hi> mit dem alten Wesen, um den Mut für die Zukunft doch aufzubringen. Es
+            brauchte etwas für <hi rend="italic"><persName ref="kbga-actors-10424">Jairus</persName></hi>, sich mit dem sicheren Tode seines
+            Kindes abzufinden und sich dann doch an Jesus zu wenden als an den Schöpfer eines neuen
+            Lebens. In den Worten: Aber komm und lege deine Hand auf sie, so wird sie lebendig!
+            liegt eine <hi rend="italic">Mannestat</hi> sondergleichen. Es war eine Tat wie die
+            Abrahams, als er dem Ruf Gottes gehorchte: Zieh aus aus deinem Vaterland [… in ein Land,
+            das ich dir zeigen will (<ref type="can" subtype="bible" target="Gen.12.1">Gen. 12,1</ref>)].
+            Es war nicht selbstverständlich, daß er gehorchte. Es war auch nicht selbstverständlich,
+            daß er als Hundertjähriger noch Bäume pflanzte zu Beerseba, von denen <hi rend="italic">er</hi> jedenfalls keine Frucht mehr erwarten durfte [<ref type="can" subtype="bible" target="Gen.21.33">Gen. 21,33</ref>]. Mit allen Patriarchen und Propheten und Adventsmenschen
+            hat <persName ref="kbga-actors-10424">Jairus</persName> den großen <hi rend="italic">Sprung ins Ungewisse</hi> gewagt und getan. <hi rend="italic">Wenigen</hi> von denen, die mit solcher Bitte zu Jesus kamen, wurde es
+            so schwer zu glauben wie gerade ihm, weil bei Wenigen die offenkundige Wirklichkeit in
+            so starkem Widerspruch stand  wie bei ihm
+            zu dem, was er glaubte. |</p>
+          <p><pb ed="pga" xml:id="p094" rend="noPipe"/>
+            <hi rend="underlined-later">Wir haben es heute</hi> vielleicht auch besonders schwer zu
+            glauben. <hi rend="italic">Neues Leben</hi>, wo der Tod sein Regiment schon aufgerichtet
+            hat? Eine <hi rend="italic">bessere Zukunft</hi>, wo Umwälzungen drohen, die nach den
+            bisherigen Erfahrungen überhaupt Alles zu vernichten drohen? <hi rend="italic">Gerechtigkeit und Frieden</hi>, wo der unverhüllte Zorn und Gewaltgeist die
+            Menschheit erst recht zu erfassen scheint? <hi rend="italic">Brüderlichkeit und
+              Hilfe</hi> in einem Augenblick, wo Alles schreit: Hassen, hassen wollen wir! <hi rend="italic">Arbeit und Aufbau</hi>, wo die Freude am Vernichten über Millionen von
+            Menschen gekommen ist und wo wir von dem allem sagen müssen: es ist <hi rend="italic">nicht unbegreiflich</hi>, nicht unverdient, nicht ungerecht, es ist nur zu
+            verständlich nach Allem, was in den letzten hundert Jahren geschehen ist, daß das das
+            Ende ist? <hi rend="italic">Hoffen</hi> in der heutigen Lage? <hi rend="italic">Wissen</hi>, daß wir an einem Haus bauen, das für den Abbruch reif und bestimmt ist
+            und an dem sehr wahrscheinlich alle Reparaturen umsonst sind, und ruhig ausschauen nach
+            einem neuen Bauplatz und neuem Baumaterial? <hi rend="italic">Glauben</hi>, im Ernst an
+            das Gute glauben im Jahr 1919, - das kann nur, wer eben mit <persName ref="kbga-actors-10424">Jairus</persName> an Gott glaubt. <hi rend="italic">Wohl verständlich</hi>, daß Viele heutzutage Augen und Hände müde sinken
+            lassen. Der Glaube ist nicht jedermanns Ding [<ref type="can" subtype="bible" target="Mk.16.15">Mk. 16,15</ref>)]. Lasset euer Licht leuchten [vor den Leuten (<ref type="can" subtype="bible" target="2.Thess.3.2">2.Thess. 3,2</ref>]. Aber das soll uns <persName ref="kbga-actors-10424">Jairus</persName> doch sagen,
+            daß es <hi rend="italic">möglich ist</hi>, auch wenn man wie er vor einer Mauer steht,
+            zu glauben. Es ist möglich, mutig zu sein. Wir können ja damit anfangen, was wir wollen,
+            aber das müssen wir uns von ihm sagen lassen: es ist möglich. |</p>
+          <p>Und das wollen wir uns auch von ihm sagen lassen: Wenn es heute zu spät sein sollte für
+            allerlei Hilfsversuche und Auswege, so ist es jedenfalls für die Hilfe, die von Gott,
+            von oben kommt und nur von dort, <hi rend="underlined-later">nicht zu spät.</hi> Es ist
+            auch heute nicht zu spät, rein und göttlich und himmlisch <hi rend="italic">auszuschauen</hi> und uns auszustrecken nach der Welt, der kein Tod, kein Weltkrieg,
+            keine Revolution etwas anhaben kann. Wenn wir das tun, dann fällt doch <hi rend="italic">ein großes Licht</hi> auf unsere Gegenwart und Zukunft. Wir können an Vielem, an
+            Allem <hi rend="italic">zweifeln</hi>, was wir jetzt sind und haben und tun, und es wäre
+            gut, wenn wir einmal gründlich zu Zweiflern würden, aber verzweifeln können wir nicht.
+            Wir können den <hi rend="italic">Untergang</hi> erwarten von Allem, was jetzt groß ist
+            in der Welt, aber wir können an kein Vergehen glauben von dem, was wirklich groß ist.
+            Wir können <hi rend="italic">das Gericht</hi> kommen sehen, aber keine Vernichtung von
+            dem, was nach seiner Natur nicht vernichtet werden <pb ed="pga" xml:id="p095"/> kann.
+            Wir können uns beugen vor der eintretenden <hi rend="italic">Majestät des Todes</hi>,
+            aber es gibt keinen ewigen Tod, dem wir uns beugen könnten. <hi rend="underlined-later">Was dann?,</hi> fragten wir uns. Was dann, wenn das Schlimmste
+               eintreten sollte und vielleicht schon
+            in Bewegung ist wie in der Geschichte des <persName ref="kbga-actors-10424">Jairus</persName>? Dann muß <hi rend="italic">das
+              Verwesliche</hi> anziehen die Unverweslichkeit, und das Sterbliche muß anziehen die
+            Unsterblichkeit [<ref type="can" subtype="bible" target="Mk.16.15">Mk. 16,15</ref>)]. Lasset
+            euer Licht leuchten [vor den Leuten (<ref type="can" subtype="bible" target="1.Kor.15.53">1.Kor. 15,53</ref>]. Wir wissen aber, so unser irdisch Haus zerbrochen wird, daß wir
+              <hi rend="italic">einen Bau</hi> haben, von Gott erbauet, nicht mit Händen gemacht,
+            der ewig ist, im Himmel [<ref type="can" subtype="bible" target="Mk.16.15">Mk. 16,15</ref>)].
+            Lasset euer Licht leuchten [vor den Leuten (<ref type="can" subtype="bible" target="2.Kor.5.1">2.Kor. 5,1</ref>]. Das ist nicht nur vom Leben der Seelen nach dem Tode gemeint, das
+            will auch leiblich und irdisch und diesseitig <hi rend="italic">wahr werden.</hi> Die
+            Erfahrung des <persName ref="kbga-actors-10424">Jairus</persName> zeigt es uns. «Meine Tochter ist jetzt gestorben, aber komm und
+            lege deine Hand auf sie, so wird sie lebendig!» O wir ahnen noch gar nicht, was wir <hi rend="italic">machen könnten</hi> in dieser Zeit, wo niemand weiß, was er machen soll,
+            wenn wir nur so glauben und so reden würden!</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">4.</hi> Dazu brauchte es nun freilich schon damals
+            eine <hi rend="underlined-later">große Rücksichtslosigkeit,</hi> nämlich gegenüber den
+            Pfeifern und dem Getümmel des Volkes, das das Haus des <persName ref="kbga-actors-10424">Jairus</persName> mit seinen Totenklagen
+            erfüllte. Von allen <hi rend="italic">Hindernissen des Reiches Gottes</hi> sind die
+            Klageweiber, die männlichen und die weiblichen, eines von den schlimmsten. Man muß sie
+            sich mit aller Energie <hi rend="italic">vom Leibe</hi> halten, denn wo sie sind, da
+            kann man nicht glauben, da geschehen keine Wunder. Sie machen es sich zum Beruf, überall
+            das Irdische, das Menschliche, <hi rend="italic">das Diesseitige zu betonen</hi> an den
+            Ereignissen und Verhältnissen. Solange der Himmel blau ist, leben sie friedlich und
+            gedankenlos wie alle Anderen, wenn aber der böse Winter da ist, dann erheben sie ihre
+            Stimmen: <hi rend="italic">Wir haben es immer gesagt!</hi> So geht es! So sind die
+            Menschen! So ist die Welt! <hi rend="italic">Sie glauben grundsätzlich nicht an
+              Gott</hi>, obwohl sie oft und viel von ihm reden, sie glauben an den Tod! Es ist ihnen
+            ein wahres Fest, zu <hi rend="italic">klagen und zu schelten</hi>, und nur dabei werden
+            sie vollkommen ernst. So sind sie gleichsam die <hi rend="italic">Nachteulen und Unken
+              und Krähen</hi> des lieben Gottes, die seine Gerichte mit ihrem unvermeidlichen,
+            lauten Gekrächz begleiten. Man muß sehr <hi rend="italic">freundlich</hi> und schonend
+              <hi rend="underlined-later">umgehen</hi> mit diesen Leuten, besonders wenn man gemerkt
+            hat, daß wir alle, heutzutage besonders, manchmal in Versuchung sind, zu den
+            Klageweibern und Pfeifern zu gehen und Trauerlärm zu machen. Aber man muß ihnen <pb ed="pga" xml:id="p096"/>
+            <hi rend="italic">bestimmt</hi> und rücksichtslos begegnen: Ich weiß so gut wie ihr, daß
+            Unheil Unheil ist und Unrecht Unrecht und Tod Tod, aber ich <hi rend="italic">erwarte
+              nichts davon</hi>, diese Tatsachen zu bejammern. <hi rend="italic">Ich danke</hi> für
+            eure feierlichen Andeutungen und Fingerzeige. Wenn ihr mir nicht helfen wollt zu
+            glauben, so <hi rend="italic">hindert mich wenigstens nicht</hi>, wenn ich es tun
+            möchte. <hi rend="italic">Weichet!</hi> Man sollte das heute laut herausrufen in die
+               Welt und hinein in so manche Häuser und
+            Herzen: Weichet! <hi rend="italic">Haltet euch still</hi> und macht euch unsichtbar,
+            wenn ihr nur klagen und schelten wollt. Ihr mit eurem Kopfschütteln und eurem Seufzen,
+            ihr mit euren unerlösten Redensarten vom Schicksal und von der menschlichen
+            Unvollkommenheit und von den unerforschlichen Ratschlüssen Gottes, ihr seid's, die ihr
+            Gott im Wege steht! Wir sollten alle darin <hi rend="italic">viel strenger werden auch
+              gegen uns selbst</hi>, daß wir es uns nicht alle paar Wochen leisten, in Stimmungen zu
+            versinken, wo wir nur noch zu seufzen wissen: Ja, nun ist es aber so! Was soll das
+            heißen? <hi rend="italic">Nur ohne Gott</hi> ist es so und bleibt es so. Mit Gott wird
+            es anders. Gott hat dem Tode nicht dazu Macht gegeben, damit die Klageweiber Arbeit
+            haben, sondern damit wir uns nach dem Leben ausstrecken sollen.</p>
+         
+          <p rend="margin-top"><hi rend="italic">5.</hi>
+            <hi rend="underlined-later">Das Mägdlein ist nicht tot, sondern es schläft!</hi> Das war
+            das Wort, das Jesus dem Geschrei und Getue der Klageweiber entgegenstellte. Und dafür
+            mußte er sich von ihnen <hi rend="italic">auslachen</hi> lassen. Sie waren doch so viel
+              <hi rend="italic">klüger</hi> als er. Sie <hi rend="italic">wußten:</hi> Tot ist tot,
+            aus ist aus! Sie nahmen die Welt, <hi rend="italic">wie sie ist</hi>, und verhielten
+            sich danach; er aber war ein Schwärmer und Phantast. In der Tat ein <hi rend="italic">merkwürdiges</hi> Wort. Jesus hat ein andermal die Lebendigen Tote genannt: «Laß die
+            Toten ihre Toten begraben» [<ref type="can" subtype="bible" target="Lk.9.60">Lk. 9,60</ref>]!
+            Diesmal nennt er das tote Kind lebendig. Wir sind immer <hi rend="underlined-later">in
+              Versuchung,</hi> bei solchen Bibelstellen zu denken: ja das sind <hi rend="italic">schöne Gedanken, schöne Worte.</hi> Wir sollten uns das abgewöhnen. Wenn das nur
+            schön gedacht und schön geredet war von Jesus, dann war es Spielerei. Dann wollte ich es
+            mit den Klageweibern halten, die Alles nehmen, wie es ist, und das Übrige [?]
+            verlachen [?]. Aber Jesus hat mit diesem Wort nicht etwas Schönes sagen wollen, sondern
+              <hi rend="italic">etwas Wahres.</hi> Er hat nicht eine tiefe Idee ausgesprochen in
+            einem seltsamen Wortspiel, sondern er hat sehr nüchtern <hi rend="italic">eine
+              Handlung</hi> damit eröffnet. Er hat wieder einmal ausgesprochen, <hi rend="italic">was werden sollte.</hi> Er hat <hi rend="italic">an Gott</hi> gedacht. Und das heißt
+            bei ihm: er hat an <hi rend="italic">sein eigenes Leben</hi> gedacht und an seine <pb ed="pga" xml:id="p097"/> Aufgabe, zu suchen und zu retten, was verloren ist [<ref type="can" subtype="bible" target="Lk.19.10">Lk. 19,10</ref> par.]. Er hat an Alles gedacht,
+            was er schon <hi rend="italic">getan</hi> hatte und was er <hi rend="italic">noch
+              tun</hi> wollte in der Erfüllung dieser Aufgabe. Das ist <hi rend="italic">zweierlei:</hi> schöne Gedanken und Worte und eine solche Reihe von göttlichen Taten.
+            Für Jesus <hi rend="underlined-later">gehörte das tote Kind bereits</hi> hinein in die
+            Reihe der göttlichen Taten, in sein eigenes Heilandsleben. Er stellte es mitten hinein
+            durch sein Wort. Und darum konnte er es <hi rend="italic">schon nicht mehr tot</hi>
+            nennen. In Gott ist kein Tod, sind keine Toten. Ihm leben sie alle [<ref type="can" subtype="bible" target="Lk.20.38">Lk. 20,38</ref>]. | 
+          </p>
+          <p> Das war eben das <hi rend="italic">große Licht</hi>, das der
+            Erkenntnis des <persName ref="kbga-actors-10424">Jairus</persName>, seiner Demut und seinem Mut antwortete. Wenn wir seine Erkenntnis
+            teilen würden, dann <hi rend="underlined-later">würden uns heute auch</hi> Bolschewismus
+            und Spartakismus und wie diese Todeserscheinungen einer untergehenden Weltperiode heißen
+            mögen, <hi rend="italic">in dieses große Licht treten.</hi> Schöne Gedanken und schöne
+            Worte lassen sich freilich nicht darüber machen. Häßlich ist häßlich, und schrecklich
+            ist schrecklich, und Tod ist Tod. Wohl aber könnten auch die Gerichte, denen wir heute
+            wahrscheinlich entgegengehen, <hi rend="italic">hineingestellt werden</hi> in die große
+            Reihe göttlicher Taten, die auch heute noch nicht zu Ende ist. Sie könnten einen anderen
+            Sinn und einen <hi rend="italic">anderen Inhalt</hi> bekommen. Was jetzt Unrecht ist,
+            könnte <hi rend="italic">höchstes Recht</hi>, was jetzt Leid ist, könnte <hi rend="italic">Freude</hi>, was jetzt Verderben ist, könnte <hi rend="italic">Heil</hi>, was jetzt Untergang ist, könnte zum <hi rend="italic">neuen Werden</hi> sich
+            gestalten. Denn auch die großen Gerichte, die über die Menschheit gehen, sind <hi rend="italic">nicht das Ende</hi> der Wege Gottes, so wenig der Tod des einzelnen
+            Menschen das Ende der Wege Gottes mit ihm ist: Das Ende ist immer Gnade und Leben.
+            Dieses Ende könnte <hi rend="italic">sichtbar</hi> werden, so daß wir angesichts des
+            großen Jammers, des blutigsten Unrechts sagen dürften: Das Mägdlein ist nicht tot,
+            sondern es <hi rend="italic">schläft nur.</hi> So könnte es sein, so wahr Gott lebt,
+            wenn Gott heute <hi rend="italic">unserem Glauben antworten</hi> könnte, wenn der
+            Heiland heute <hi rend="italic">aussprechen</hi> könnte, was werden soll. Wenn wir heute
+              <hi rend="italic">dazu verurteilt</hi> sind, in dem, was kommt, nur Unheil und
+            Verderben zu sehen, dann aus dem einen Grunde, weil wir <hi rend="italic">nur noch so
+              schwach</hi> in dem Heilandsleben, in der Heilandsbewegung drin stehen, die das
+            Gericht in Gnade verwandelt. Ist es aber so, dann können wir heute vielleicht hilflos,
+            aber <hi rend="italic">nicht ratlos</hi> sein. Wir können wissen, was uns nötig ist. <hi rend="italic">Warum rufen wir nicht</hi> lauter, nicht sehnsüchtiger, nicht
+            ernsthafter nach dem Strom des Geistes von oben, der den Tod in Leben, den Untergang in
+            Auferstehung verwan<pb ed="pga" xml:id="p098" break="no"/>delt? Warum liegen und sitzen
+            und stehen wir, wo wir uns mit dem Heiland <hi rend="italic">bewegen sollten?</hi> Warum
+            lassen wir's nicht zu, daß er uns wieder <hi rend="italic">mitnehme auf seinen
+              Wegen?</hi> Wir würden dann heute schon zu sehen bekommen, daß in Gott keine Toten
+            sind. Denn alle Dinge sind möglich dem, der glaubt [<ref type="can" subtype="bible" target="Mk.9.23">Mk. 9,23</ref>].</p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <head>Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-222" type="song"> Nr. 4 «Ich singe dir mit Herz und Mund» von
+              <persName ref="kbga-actors-131">P. Gerhardt</persName>, Strophen 1-3.12.13 (RG [1998] 723; EG 324)</bibl>
+            <bibl corresp="kbga-songs-89" type="song">Nr. 344 «Jesus, meine Zuversicht» von <persName ref="kbga-actors-8792">O. von
+              Schwerin</persName>, Strophen 1.6.7 (RG [1998] 478,1.3.4; EG 526,1.6.7; jeweils mit
+              Textabweichungen in der mittleren Strophe) </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

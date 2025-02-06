@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kbga-texts-39042">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="volume" n="vol-39">Predigten 1919</title>
+        <title type="content">Psalm 84,10-13</title>
+        <title type="citation_line_1">Barth, Karl: Psalm 84,10-13, 5. Oktober 1919</title>
+        <title type="citation_line_2">https://kbga.karl-barth.ch/texts/39042 (Stand: 6. Februar 2025)</title>
+        <title type="citation_line_3">Druck: Karl Barth, Predigten 1919, hrsg. v. Schmidt, Hermann (Gesamtausgabe, Abt. I), Zürich 2003, S. 350.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>Digitale Karl Barth-Gesamtausgabe</edition>
+        <sponsor>Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)</sponsor>
+        <sponsor>Schweizerischer Nationalfonds (SNF)</sponsor>
+        <sponsor>Karl Barth-Stiftung</sponsor>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Karl Barth-Archiv</publisher>
+        <pubPlace>Basel</pubPlace>
+        <date when="2025">2025</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
+        </availability>
+        <idno type="url">https://kbga.karl-barth.ch/texts/39042</idno>
+      </publicationStmt>
+      <sourceDesc>
+        <!-- The printed Gesamtausgabe -->
+        <bibl type="pga" xml:id="pga">
+          <title type="volume">Predigten 1919</title>
+          <title type="text">Psalm 84,10-13</title>
+          <author ref="kba-actors-2151">Barth, Karl</author>
+          <editor>Schmidt, Hermann</editor>
+          <pubPlace>Zürich</pubPlace>
+          <publisher>Theologischer Verlag</publisher>
+          <date type="publication">2003</date>
+          <biblScope unit="page">350</biblScope>
+          <!--position within a volume-->
+          <biblScope unit="part">42</biblScope>
+        </bibl>
+        <!-- Data from KBA (https://kba.karl-barth.ch) -->
+        <bibl xml:id="A" type="source">A (Vorlage der Edition): Barth, Karl, Predigt: Ps 84,10-13, 5. Oktober 1919. <ref target="https://kba.karl-barth.ch/objects/1926">KBA 1469</ref>. </bibl>
+        <!-- we should provide more types: <bibl type="not-found-in-kba"></bibl> <bibl type="not-in-kba"></bibl>  -->
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date type="creation" when="1919-10-05">5. Oktober 1919</date>
+      </creation>
+      <langUsage>
+        <language ident="ger">German</language>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term>sermon</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2025-02-06T09:16:32+01:00">teiHeader was automatically produced from the database 2025-02-06T09:16:32+01:00</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="sermon">
+        <pb ed="pga" xml:id="p343"/>
+        <div type="opener">
+          <head><idno>487</idno></head>
+          <dateline>
+            <placeName ref="kbga-places-54"><hi rend="italic">Safenwil</hi></placeName>, Sonntag,
+            den <date when="1919-10-05">5. Oktober 1919</date><note xml:id="n01">In der Morgenfrühe
+              des Bettags, <date when="1919-09-21">21.9.</date>, an dem Pfarrer <persName ref="kbga-actors-582">Grob</persName> aus <placeName ref="kbga-places-1">Aarau</placeName>
+              <persName ref="kbga-actors-2151">Barth</persName> vertrat - «welche Erleichterung, so
+              einmal dem Bettag zu entrinnen!!» (<bibl corresp="kbga-bibls-931">Bw. Th. I,
+                <ref type="pub" target="../volume/03/p344#p344">S. 344</ref></bibl>) -, reiste <persName ref="kbga-actors-2151">Barth</persName> bis
+                <placeName ref="kbga-places-20">Frankfurt/Main</placeName>, am <date when="1919-09-22">22.9.</date> nach <placeName ref="kbga-places-334">Tambach</placeName> (Thüringen), wo er am <date when="1919-09-25">25.9. </date>den
+              Vortrag «<ref type="pub" target="48061">Der Christ in der Gesellschaft</ref>» hielt. Am <date to="1919-09-27" from="1919-09-26">26./27.9.</date> reiste er zurück bis <placeName ref="kbga-places-5">Basel</placeName>, wo er am Sonntag, <date when="1919-09-28">28.9.</date>, eine Predigt von <persName ref="kbga-actors-733">Adolf
+                Preiswerk</persName> hörte. Wer in <placeName ref="kbga-places-54">Safenwil</placeName> predigte, ist nicht ersichtlich.</note>
+          </dateline>
+          <epigraph>
+            <cit>
+              <ref type="can" subtype="bible" target="Ps.84.10 Ps.84.13">Psalm 84,10-13</ref>
+              <quote><hi rend="italic" resp="kb">[Gott, unser Schild, schaue doch; siehe an das
+                  Antlitz deines Gesalbten! Denn ein Tag in deinen Vorhöfen ist besser denn sonst
+                  tausend; ich will lieber der Tür hüten in meines Gottes Hause, denn wohnen in der
+                  Gottlosen Hütten. Denn Gott der Herr ist Sonne und Schild, der Herr gibt Gnade und
+                  Ehre; er wird kein Gutes mangeln lassen den Frommen. Herr <persName ref="kbga-actors-8713">Zebaoth</persName>, wohl dem
+                  Menschen, der sich auf dich verläßt!]</hi>
+              </quote>
+            </cit>
+          </epigraph>
+        </div>
+        <div type="main">
+          <p>
+            <hi rend="italic">1.</hi> «Gott, unser Schild, schaue doch; siehe an das Antlitz deines
+            Gesalbten!» Da hat in alter Zeit ein Mensch <hi rend="italic">nach Gott gerufen.</hi> Er
+            fühlte, daß der Mensch <hi rend="italic">ungedeckt</hi>, preisgegeben, verloren ist,
+            darum nennt er Gott unseren Schild. Er wußte, daß es nicht auf unser Wissen, Denken,
+            Reden und Leben ankommt, sondern darauf, daß die <hi rend="italic">Augen Gottes</hi> uns
+            begleiten; darum bat er nur um Eins: Gott, schaue doch, schau mich doch an! Er merkte,
+            daß bei aller Verlorenheit und Tiefe, in der sich der Mensch befinden kann, immer eine
+              <hi rend="italic">Beziehung besteht</hi> zwischen ihm und Gott; darum nannte er sich
+            selbst einen Gesalbten, einen Geweihten, der gleichsam das Recht hat, von Gott väterlich
+            angeschaut zu werden. Das heißt nach Gott rufen.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">2.</hi> Das Rufen nach Gott ist immer und überall
+            in den Herzen der Menschen. Aber uns Menschen der heutigen Zeit <hi rend="italic">liegt
+              es sozusagen auf den Lippen.</hi> Was sonst das Verborgenste ist, drängt heute zur <hi rend="italic">Offenbarung.</hi> Längst Vergessenes, immer Übersehenes will endlich zur
+              <hi rend="italic">Geltung</hi> kommen. Altes Unverständnis, alte Mißverständnisse sind
+            am <hi rend="italic">Verschwinden.</hi> Wir <hi rend="italic">merken wieder</hi>, wovon
+            wir leben und woran es uns fehlt. Wir können uns nicht mehr <hi rend="italic">ganz
+              verlieren</hi> im sorgenlosen und gedankenlosen Genuß und Betrieb des Lebens. Wir
+            können uns auch nicht mehr <hi rend="italic">ganz sinken lassen</hi> in trostloses
+            Seufzen und Klagen. Selbst wenn wir das noch Stunden und Tage tun, die Erinnerung stellt
+              <pb ed="pga" xml:id="p344"/> sich rasch wieder ein, daß das ja nicht wahr und nicht
+            möglich ist. Die <hi rend="italic">Oberflächlichkeit</hi> ist gerichtet. Oberflächliche
+            Freude und Friede und Ruhe und Christentum, das paßte vielleicht in die alte Zeit, aber
+            diese alte Zeit ist vorbei und kehrt nicht wieder, und wenn wir es etwa versuchen, zu
+            tun, als ob sie immer noch da wäre, so müssen wir mit Schmerzen erfahren, wie das ist,
+            wenn man sich selber anlügt. <hi rend="italic">Der Boden</hi>, auf dem wir einst standen
+            und gingen, die Gedanken, die uns einst selbstverständlich waren, der Mantel der
+            Gerechtigkeit, in den wir uns einst hüllten, die Götter, die wir einst anbeteten, das
+            alles ist heute unterwühlt wie von einem Erdbeben, geborsten, niedergesunken, ein
+            Trümmerfeld, in dem man nicht mehr wirklich wohnen kann. So ist uns das <hi rend="italic">Rufen nach Gott</hi> auf die Lippen gelegt. <hi rend="italic">Es
+              versteht sich freilich</hi> nicht von selbst, daß wir ihm einen ehrlichen Klang,
+            deutliche Worte, herzliche Kraft geben. Es kann auch 
+            <hi rend="italic">hinuntergeschluckt</hi> werden. Es kann auch <hi rend="italic">ersterben</hi> in einem feigen, unehrlichen Flüstern oder Brummen. Wir können auch
+            heute uns selbst <hi rend="italic">anlügen, rückwärts</hi> blicken statt vorwärts, uns
+              <hi rend="italic">anklammern</hi> an das, was vergehen will und vergehen muß, statt
+            uns auszustrecken nach dem, was kommen will. Wir können uns auch heute als solche, die
+            immer <hi rend="italic">zu spät</hi> kommen, auf dem Trümmerfeld herumtreiben, lachend
+            oder klagend, ruhig oder aufgeregt, friedlich oder streitsüchtig. Wir können auch heute
+            tun, als ob es sich <hi rend="italic">nicht um Gott</hi> handelte. Aber es muß nicht so
+            sein. Wir stehen in einer Zeit großer <hi rend="italic">Möglichkeiten</hi> und
+            Gelegenheiten.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">3.</hi> Wir stehen heute jedenfalls vor großen <hi rend="italic">Entscheidungen.</hi> Angesichts des Vielen, was heute in Umwandlung und
+              <hi rend="italic">Zusammenbruch</hi> begriffen ist, müssen wir entweder zu der <hi rend="italic">schmerzlichen Erkenntnis</hi> kommen, daß wir nichts sind, nichts haben,
+            nichts ausrichten, oder aber uns dem <hi rend="italic">Einen zuwenden</hi>, von dem uns
+            Alles, was uns jetzt genommen wird und genommen werden kann, in neuer, tieferer,
+            vollständigerer Weise wiedergegeben wird. Alles <hi rend="italic">drängt uns heute
+              dazu</hi>, entweder ganz ungläubig zu werden oder dann ganz gläubig. Mit dem <hi rend="italic">alten halben Glauben</hi> geht es nicht mehr. Wir würden uns selbst den
+            schlechtesten Dienst tun, wenn wir uns das verhehlen wollten. Wir haben wie der
+            Psalmsänger <hi rend="italic">tausend Tage zugebracht</hi> außerhalb der Vorhöfe Gottes.
+            Wir haben ausgiebige <hi rend="italic">Erfahrung</hi> von dem, was in den Hütten der
+            Gottlosen zu sehen und zu erleben ist. Wir haben <hi rend="italic">lange geglaubt</hi>
+            an <pb ed="pga" xml:id="p345"/> die vortreffliche Natur des Menschen, an den sicheren,
+            allmählichen Fortschritt, an unsere Tugend und Frömmigkeit, an unsere Kirchen und
+            Kapellen<note xml:id="n02">Vgl. oben <ref target="../volume/39/p051#fn_n01" type="pub">S. 51, Anm.1</ref>.</note>. Es geht <hi rend="italic">nicht mehr.</hi> Wir sind <hi rend="italic">müde</hi> und mißtrauisch geworden. Der
+              <hi rend="italic">Sturm</hi>, der durch die Welt geht, ist daran, diese alten Bäume zu
+            entwurzeln, und dann werden [?] sie verdorren [?]. Es wird heute <hi rend="italic">Gericht</hi> gehalten über Alles, was nicht ganz echt und wahr ist. Zahllos sind
+            heute die Menschen, die heimlich oder offen an <hi rend="italic">gar nichts mehr</hi>
+            glauben. Man sollte das <hi rend="italic">nicht bedauern.</hi></p>
+          <p><hi rend="italic">Es muß so</hi> sein um der Entscheidung willen, in der wir stehen.
+            Wenn der Mensch <hi rend="italic">anfängt</hi> zu rufen: Gott, mein Schild, schaue
+            doch!, wenn es <hi rend="italic">wahr wird</hi>, daß ihm ein Tag in den Vorhöfen Gottes
+            lieber wird als sonst tausend, wenn es <hi rend="italic">wahr wird</hi>, daß er lieber
+            der Tür hüten will im Hause Gottes, als wohnen in der Gottlosen Hütten, dann ist das
+            etwas <hi rend="italic">Neues</hi>, eine Entdeckung, ein Durchbruch. Er muß <hi rend="italic">in den Unglauben</hi> hinein und durch den Unglauben hindurch, um Gott
+            zu erkennen. Und durch die Erkenntnis Gottes wird er von allem anderen Glauben <hi rend="italic">frei</hi>- und losgesprochen.</p>
+          <p>Wenn wir menschlich betrachtet <hi rend="italic">vor dem Nichts stehen</hi>,
+           dann kann es sein, daß wir eben damit
+            endlich vor Gott gestellt werden. Wenn unsere alten <hi rend="italic">Götter ins
+              Wanken</hi> kommen, dann kann er zu Ehren kommen. Wenn die Menschen <hi rend="italic">unruhig fragen:</hi> was hilft uns nun unsere Religion, unsere Tüchtigkeit, unsere
+            Rechtschaffenheit, unser Christentum?, dann kann es sein, daß er hervortritt und uns
+            antwortet: ich, ich allein bin es, der helfen kann und will. Wenn wir überall das <hi rend="italic">Ende unserer Wege</hi> vor uns sehen, dann kann es geschehen, daß sich
+            uns der Anfang der Wege Gottes auftut. Wenn uns <hi rend="italic">unsere alten
+              Sachen</hi>, auf die wir uns verließen, an denen wir uns freuten, die wir rühmten und
+            für groß und ewig hielten, heute wie von einer starken Hand weggenommen und zum alten
+            Eisen gelegt werden, so kann es sein, daß uns die Heilandsstimme vernehmbar wird, die
+            uns sagt, daß es sich im Leben noch um eine ganz andere Sache handelt, als wir bisher
+            dachten, daß es einen Dienst, eine Aufgabe, ein Ziel gibt, an denen wir bis jetzt
+            achtlos vorbeigingen, weil wir sie ob all dem Anderen einfach nicht verstanden - die
+            Heilandsstimme, die uns ruft: Folge du <hi rend="italic">mir</hi> nach [<ref type="can" subtype="bible" target="Joh.21.22">Joh. 21,22</ref>]!</p>
+          <p><pb ed="pga" xml:id="p346" rend="noPipe"/> Wir wollen also <hi rend="italic">nicht
+              erschrecken</hi> darüber, wenn wir heute Andere und uns selbst unsicher werden sehen.
+            In Entscheidungszeiten <hi rend="italic">müssen die Menschen</hi> unsicher werden. Es
+            handelt sich um eine <hi rend="italic">Veränderung.</hi> Wir können uns aber nicht
+            verändern, wenn wir nicht zuerst <hi rend="italic">unsicher</hi> werden.</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">4.</hi> Und nun wollen wir uns auch darüber nicht
+            den Kopf zerbrechen, ob wir und die Anderen die große Möglichkeit und Gelegenheit, die
+            jetzt vorhanden ist, denn auch <hi rend="italic">richtig erkennen und benützen</hi>
+            werden. O <hi rend="italic">unser Herz</hi> erkennt sie, unser Herz hat schon <hi rend="italic">längst Ja</hi> gesagt, unser Herz ist immer zum vornherein <hi rend="italic">auf Gottes</hi> Seite. Es ist uns <hi rend="italic">nicht gleich
+              natürlich</hi>, auf der alten Oberfläche zu lachen und klagen oder nach Gott zu rufen.
+            Es ist uns natürlicher, nach Gott zu rufen. Ja, <hi rend="italic">wir sind
+              vielleicht</hi>
+            <hi rend="italic">noch sehr unsicher</hi> mitten drin zwischen dem Trümmerfeld unseres
+            bisherigen Lebens, unserer alten Welt und der Möglichkeit, es nun mit Gott zu wagen. Wir
+            sind vielleicht kaum <hi rend="italic">erst unruhig geworden</hi> in unserem tiefen
+            Schlaf (wir hier in der <placeName ref="kbga-places-58">Schweiz</placeName>, die wir eigentlich gar nichts
+            Schweres persönlich durchzumachen hatten, vielleicht noch besonders!<note xml:id="n03">Die besondere Situation der Schweizer aufzuhellen, gehört zu den Aufgaben des
+              Bettags, dem <persName ref="kbga-actors-2151">Barth</persName> diesmal «entronnen»
+              war; vgl. oben <ref type="pub" target="#fn_n01">Anm.1</ref>.</note>), wir <hi rend="italic">zweifeln vielleicht</hi> mit
+            gewissem Recht an dem Ernst und der Aufrichtigkeit unserer Zeitgenossen, wir stehen
+            vielleicht <hi rend="italic">noch sehr abseits</hi> von der großen Bewegung und Frage,
+            die heute durch die Welt geht. Aber darum sollten wir weder uns selbst noch Andere davon
+            ausschließen. Die Frage, ob denn heute die Menschen wirklich nach Gott rufen, kann man
+              <hi rend="italic">nur damit beantworten</hi>, daß man selbst damit den Anfang
+               macht. <hi rend="italic">Gott ist uns
+              nicht fremd.</hi> Unsere Oberflächlichkeit ist uns fremd. Unsere alten Götter sind uns
+            fremd. Alles das, was uns jetzt unsicher wird, ist uns fremd. Aber Gott, der uns heute
+            ruft, damit wir nach ihm rufen sollen, ist uns nicht fremd. Es ist die <hi rend="italic">Heimat</hi>, die uns ruft, wenn er uns ruft. Wir waren <hi rend="italic">zuerst bei
+              ihm</hi>, und dann erst kamen wir in alles das hinein, dessen Vergehen sich heute
+            ankündigt. Wir <hi rend="italic">kommen von Gott her</hi>, darum können wir heute
+            weniger als je glauben an all das, was nicht wirklich zu ihm hinführt. O siehe, wie an
+            allen Orten sich deiner Kinder <hi rend="italic">Herz und Sinn bewegt!</hi> <note xml:id="n04">Aus <bibl type="song" corresp="kbga-songs-65">Strophe 3 des Liedes 162
+                «Wach auf, du Geist der ersten Zeugen» von <persName ref="kbga-actors-2805">K. H. von Bogatzky</persName> (EG 241,3; die
+                Strophe fehlt in den jüngeren schweizerischen Gesangbüchern)</bibl>.</note> Es
+            bewegt sich ja auch in uns. Und wie es sich in uns <pb ed="pga" xml:id="p347"/> bewegt,
+            so bewegt es sich auch in den Anderen. Wir müssen nur von innen heraus <hi rend="italic">mitfühlen</hi> mit der Not und Sehnsucht unserer Zeit, statt sie von außen zu
+            betrachten und kluge Gedanken darüber zu spinnen. <hi rend="italic">Es bewegt sich</hi>,
+            weil wir Menschen alle ursprünglich und anfänglich Gottes sind<note xml:id="n05">Vgl.
+              oben <ref target="../volume/39/p206#fn_n01" type="pub">S. 206, Anm.1</ref>.</note>, seine verirrten Kinder, seines Geschlechts verlorene
+            Angehörige [vgl. <ref type="can" subtype="bible" target="Act.17.28">Act. 17,28</ref>],
+            seines Reiches fremdgewordene Bürger. <hi rend="italic">Aber doch</hi> immer noch
+            Kinder, Angehörige, Bürger, Gesalbte Gottes, die nur darauf warten, daß Gott uns wieder
+            anschaut. Laß leuchten dein Angesicht, so genesen wir [<ref type="can" subtype="bible" target="Ps.80.4">Ps. 80,4</ref><ref type="can" subtype="bible" target="Ps.80.20">.20</ref>]! Das ist die tiefste Wahrheit über den heutigen Menschen. <hi rend="italic">O nichts Fremdes</hi>, Unbekanntes, Fernes müssen wir begreifen, um Gott
+            zu begreifen - nur uns selbst verstehen, uns selber treu werden, unser Herz, unser
+            tiefstes Herz endlich reden lassen. <hi rend="italic">Nicht an unsere Gottlosigkeit</hi>
+            und [an] die Anderer zuviel denken, in der wir heute scheinbar mit Gott fertig sind,
+            sondern an die Vergebung, von der wir auch in unserer Gottlosigkeit getragen sind und
+            mit uns die vielen Anderen und die uns gerade heute die Macht gibt, mit Gott neu
+            anzufangen. <hi rend="italic">Dann verstehen wir Gott,</hi>
+            <hi rend="italic">verstehen</hi> unsere Zeit, <hi rend="italic">klagen nicht</hi> mehr
+            über das große Erdbeben, treiben kein törichtes <hi rend="italic">Spiel</hi> mehr
+            zwischen den Trümmern, <hi rend="italic">verlieren</hi> keine Kraft mehr, zu halten, was
+            doch nicht zu halten ist, verirren uns nicht mehr auf <hi rend="italic">sinnlose</hi>,
+            böse Wege, sondern brechen durch: Gott, unser Schild, schaue doch!</p>
+          <!-- leerzeile -->
+          <p rend="margin-top"><hi rend="italic">5.</hi> Aber darüber müssen wir uns klar sein, daß
+            das <hi rend="italic">etwas Großes ist,</hi> wenn Gott uns wieder anschaut. Wir müssen
+              <hi rend="italic">wissen, was wir tun</hi>, wenn wir nach Gott rufen. Wir kommen damit
+            nicht mitten in die Seligkeit und Gerechtigkeit hinein, sondern auf einen <hi rend="italic">Wachtposten</hi> gleichsam an einer Grenze. Nicht umsonst ist in unserem
+            Psalm von den <hi rend="italic">Vorhöfen Gottes</hi> die Rede, in die wir dann
+            allenfalls zu stehen kommen, an die <hi rend="italic">Tür seines Hauses</hi>, die wir
+            dann allenfalls hüten dürfen. Wenn wir <hi rend="italic">mehr wollen</hi>, erreichen wir
+            weniger.</p>
+          <p>Wohl braucht es ein stürmisches <hi rend="italic">Wagen und</hi>
+            <hi rend="italic">Hindurchbrechen</hi> zur Erkenntnis Gottes. Aber das Verhältnis, in
+            das wir dann zu Gott kom<pb ed="pga" xml:id="p348" break="no"/>men, ist ein überaus <hi rend="italic">feines, zartes.</hi> In aller <hi rend="italic">Ehrfurcht</hi>,
+            Aufmerksamkeit und Zurückhaltung müssen wir ihm gegenüberstehen. Da gibt's <hi rend="italic">nichts zu stürmen</hi>, zu rauben, an uns zu reißen. Da können wir nur
+              <hi rend="italic">lebendig werden</hi> und dann wachsen und reifen. Auf einen <hi rend="italic">hohen Berggrat</hi> sind wir gestellt [?]; da müssen wir wandeln [?],
+            ein Abgrund zur Rechten, ein Abgrund zur Linken, und vorsichtig und fein unsere Schritte
+            setzen [?]. Ein <hi rend="italic">kostbares Gefäß</hi> ist in unsere Hand gegeben, mit
+            erhobenen, festen Händen müssen wir es tragen, und kein Tropfen sollte verschüttet
+            werden. Es liegt also auch wieder <hi rend="italic">ein gewisser Verzicht</hi> darin,
+            eine Einschränkung unserer Wünsche und Hoffnungen, wenn wir anfangen, nach Gott zu
+            rufen. Wir müssen <hi rend="italic">warten können.</hi> Das <hi rend="italic">weiß
+              Mancher nicht</hi>, der heute gerne von Herzen nach Gott rufen möchte. Er versteht das
+            Feine daran nicht, den Respekt, das Warten, das dazu gehört. Wir dürfen z. B. nicht
+            erwarten, daß wir mit Gott sofort große oder auch nur kleine <hi rend="italic">Wirkungen
+              und Erfolge</hi> erzielen werden. Ganz wird das ja nicht fehlen; aber das wird dann
+            nur gleichsam <hi rend="italic">hinzugetan.</hi> Damit rechnen dürfen wir nicht. Böse
+            werden, wenn es uns nicht gelingen will, dürfen wir nicht. Die Erkenntnis Gottes wird
+            uns vielmehr zunächst in Vielem die <hi rend="italic">Hände binden</hi>, uns zu Vielem
+            in einen gewissen <hi rend="italic">Abstand</hi> bringen. Gott drückt uns nicht ein
+            Rezept oder einen Fahrplan in die Hand für die Einzelheiten des Lebens, wir müssen es
+            erst wieder lernen, <hi rend="italic">zum Ganzen des Lebens</hi> ins rechte Verhältnis
+            zu kommen. Darüber kann <hi rend="italic">lange Zeit</hi> verstreichen, und unterdessen
+            stehen wir oft recht ratlos da, ratloser als solche, die von Gott nichts wissen. Wir
+            müssen es uns gefallen lassen, uns von ihnen überflügeln zu lassen. Wenn wir nur bei
+            aller Ungeschicklichkeit und Erfolglosigkeit weiter <hi rend="italic">offen und
+              bereit</hi> bleiben zu lernen. Wir stehen eben <hi rend="italic">in den Vorhöfen</hi>,
+            aber ein Tag in den Vorhöfen ist besser denn sonst tausend. |</p>
+          <p>Wir dürfen auch das nicht erwarten, daß wir mit Gott gleich zu einer großen <hi rend="italic">Einigkeit und Gemeinschaft</hi> mit anderen gleichgesinnten Menschen
+            kommen werden. Man kann oft beobachten, daß <hi rend="italic">gerade Menschen</hi>,
+            denen es mit Gott ernst wird, gar nicht eins werden untereinander, während die Gottlosen
+            ganz gut miteinander auskommen. Dabei dürfte es freilich nicht bleiben, aber es ist auch
+              <hi rend="italic">nichts Schreckliches</hi> dabei, sondern es hat etwas Natürliches.
+            Wenn es uns mit Gott ernst wird, dann werden wir eben damit stark auf <hi rend="italic">uns selbst gestellt</hi>, <pb ed="pga" xml:id="p349"/> gegen andere Einflüsse
+            abgeschlossen, zugespitzt gleichsam, d. h. auf ein Ziel gerichtet. Wenn wir dabei mit
+            Anderen zusammentreffen, so ist das wieder eine glückliche
+            <hi rend="italic">Zugabe</hi>, für die wir dankbar sein wollen, aber es versteht sich
+            nicht von selbst. Es ist besser, wir <hi rend="italic">rechnen damit, zunächst</hi>
+            einsam zu werden auch unter unseren Nächsten. Es ist darum ganz verfehlt, wenn die
+            Menschen, sobald sie ein wenig erwacht sind, meinen, alsbald zusammenlaufen und einen
+            Klumpen [?] bilden zu müssen. Damit wird die rechte Einigkeit <hi rend="italic">verdorben</hi>, die in der Stille wachsen möchte. Wir müssen <hi rend="italic">warten
+              und der Tür hüten</hi> lernen, jeder seiner Türe zunächst; ich will aber lieber der
+            Tür hüten in meines Gottes Hause als wohnen in der Gottlosen Hütten. |</p>
+          <p>Und so ist's sogar mit dem inneren <hi rend="italic">Frieden der Seele.</hi> Man darf
+            auch da nicht erwarten, mit Gott alsbald ein großes <hi rend="italic">inneres
+            Licht</hi>, eine große Freude und Freiheit zu bekommen. Etwas davon wird sich ja
+            schon [?] <hi rend="italic">einstellen</hi> mit der Zeit, aber es ist verdächtig, wenn 
+            es zu schnell kommt, und es ist besonders verdächtig, wenn man zu laut und sicher davon
+            reden kann. Ein ruhiges Gewissen, ein getröstetes Herz, eine aufrichtige Zuversicht,
+            eine klare, weise Einsicht ins Leben - das sind große Dinge, die man sich nicht nur so
+            vom Baum reißen kann. Die Menschen, die es <hi rend="italic">ohne Gott machen</hi>,
+            kommen auch darin viel schneller weit, und wir dürfen uns dadurch nicht irre machen
+            lassen. <hi rend="italic">Gott tut uns die Augen auf</hi>, und da sehen wir in unserem
+            Leben und in dem Anderer Vieles, was nicht geeignet ist, uns ruhig zu machen. Gott führt
+            uns aus dem sicheren Hafen <hi rend="italic">aufs hohe Meer</hi> heraus, und da sind
+            Wellen und Stürme. Gott führt uns nicht breite, lichte, volle Straßen<note xml:id="n06">Anspielung auf <bibl type="song" corresp="kbga-songs-71">Strophe 2 des Liedes 250
+                «Wenn ich ihn nur habe» von <persName ref="kbga-actors-1161">Fr. von Hardenberg</persName></bibl>: <q rend="block">
+                <lg>
+                  <l> … </l>
+                  <l>Lasse still die andern</l>
+                  <l>Breite, lichte, volle Straßen wandern.</l>
+                </lg></q></note>, sondern <hi rend="italic">schmale Wege</hi> und durch enge Pforten
+            [vgl. <ref type="can" subtype="bible" target="Mt.7.13 Mt.7.29">Mt. 7,13f.</ref>], und da
+            geht es ohne Seufzen nicht ab. Es ist ein viel besseres Zeichen für unsere Gemeinschaft
+            mit Gott, wenn wir tief innen in unserem Herzen noch unruhig sind und zu seufzen haben;
+            es ist ein Zeichen dafür, daß Gott noch <hi rend="italic">etwas vor hat mit uns.</hi>
+            Wenn wir so ölglatt zufrieden und sicher geworden sind, könnte es das Zeichen sein
+            dafür, daß Gott uns <hi rend="italic">bereits weggeworfen</hi> hat. In den Vorhöfen ist
+            unser <hi rend="italic">Platz</hi>, Tür hüten ist unser <hi rend="italic">Amt</hi>,
+            freuen wir uns, wenn wir diesen <pb ed="pga" xml:id="p350"/> Platz und dieses Amt
+            bekommen. Alles Andere sind <hi rend="italic">Übergriffe</hi>, die uns nicht
+            zustehen.</p>
+          <p>Das muß <hi rend="italic">heute gesagt sein,</hi> wie es auch im Psalm gesagt ist. Denn
+            wenn heute die <hi rend="italic">Gefahr</hi> besteht, daß Viele nicht aufwachen, nicht
+            merken, daß man jetzt nach Gott rufen müßte, so besteht gerade heute auch die <hi rend="italic">andere Gefahr</hi>, daß Viele zu schnell, zu hitzig, zu aufdringlich
+            werden und Gott zu nahe treten. Beides führt uns an Gott und am Leben vorbei. Gott will
+              <hi rend="italic">in Ehrfurcht angerufen sein.</hi> Das ist's, was heute zur Geltung
+            kommen muß. 
+          </p>
+          <!-- leerzeile -->
+          <p rend="margin-top">
+            <hi rend="italic">6.</hi> Wenn wir das begreifen und zur Geltung kommen lassen, dann <hi rend="italic">gehen wir sicher.</hi> Wir brauchen dann <hi rend="italic">nichts zu
+              befürchten:</hi> weder den Sturm und Drang der Welt, der uns ängstigt, solange wir
+            Gott <hi rend="italic">nicht erkannt</hi> haben, noch die Erfolglosigkeit, die
+            Einsamkeit, die Unruhe, in die wir hineinkommen, wenn wir Gott <hi rend="italic">erkannt</hi> haben. Es handelt sich bei dem allem ja nicht um uns, sondern <hi rend="italic">um Gottes Ehre</hi>, die an den Tag kommen will. Wenn wir uns diesem
+            Gedanken hingeben, dann sind wir <hi rend="italic">geborgen.</hi> Es wird uns dann Alles
+              <hi rend="italic">wieder gegeben</hi>, was uns jetzt scheinbar genommen wird [vgl.
+              <ref type="can" subtype="bible" target="Lk.18.29 Lk.18.43">Lk. 18,29f.</ref> par.]. Es
+            wächst und <hi rend="italic">kommt dann Alles</hi>, was jetzt scheinbar nur in so
+            nichtigen Anfängen vorhanden ist in uns. Wir müssen nur <hi rend="italic">treu</hi>
+            werden und treu sein, daran liegt Alles [vgl. <ref type="can" subtype="bible" target="1.Kor.4.2">1.Kor. 4,2</ref>]. Darin erfüllt sich dann auch der <hi rend="italic">Sinn unserer Zeit.</hi> Die neue Welt kommt, wenn wir treu werden und
+            treu sind im Rufen nach Gott. Je weniger wir nach links und rechts und auf uns selber
+            sehen, um so näher kommt die Erfüllung. Möchten sich heute Viele bereit machen, <hi rend="italic">unentwegt auf Gott</hi> zu schauen, damit er auch uns wieder anschauen
+            kann.</p>
+          <!-- leerzeile -->
+        </div>
+        <div type="songs">
+          <head>Lieder:</head>
+          <listBibl type="songs">
+            <bibl corresp="kbga-songs-115" type="song"> Nr. 168 «O daß doch bald dein Feuer brennte»
+              von <persName ref="kbga-actors-1353">G. Fr. Fickert</persName>, Strophen 1-3. 6 (RG [1998] 816,1-3.6; EG 255,1-3.6 mit geringen
+              Textabweichungen)</bibl>
+            <bibl corresp="kbga-songs-273" type="song">Nr. 294 «Mir nach! spricht Christus, unser
+              Held» von <persName ref="kbga-actors-864">J. Scheffler</persName>, Strophen 1.5.6 (RG [1998] 812,1.4.5; EG 385,1.4.5; jeweils mit
+              Textabweichungen)</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

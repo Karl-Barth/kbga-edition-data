@@ -20,8 +20,10 @@
                 <field name="date" expression="nav:get-date(ancestor::tei:TEI)" type="xs:date"/>
                 <field name="file" expression="util:document-name(.)"/>
                 
+                <field name="person" expression="ancestor::tei:TEI//tei:persName/@ref/string()"/>
+                
                 <!-- Zusätzliche Felder für Portal -->
-		<facet dimension="author" expression="ancestor::tei:TEI//tei:persName/@ref/string()"/>
+            	<facet dimension="author" expression="ancestor::tei:TEI//tei:persName/@ref/string()"/>
                 <field name="year" expression="nav:get-date(ancestor::tei:TEI)[1]"/>
                 <field name="author" expression="(ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='sent']/tei:persName, 'Karl Barth')[1]"/>
                 <field name="receiver" expression="ancestor::tei:TEI//tei:correspDesc/tei:correspAction[@type='received']/tei:persName"/>
@@ -32,6 +34,7 @@
                 <field name="language" expression="nav:get-language(ancestor::tei:TEI)"/>
                 <field name="corpus" expression="'kb'"/>
             </text>
+            <text qname="tei:div"/>
             <text qname="tei:person" index="no">
                 <field name="name" expression="tei:persName[not(@type)]"/>
             </text>

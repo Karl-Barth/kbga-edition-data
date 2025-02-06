@@ -14,14 +14,14 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-11-01 14:13:35</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,40,53,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2025-02-06 09:15:35</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-11-01T14:13:35+01:00">teiHeader was automatically produced from the database 2024-11-01T14:13:35+01:00</change>
+      <change when="2025-02-06T09:15:35+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:35+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -227,7 +227,7 @@
         </place>
         <place type="H" xml:id="kbga-places-960">
           <placeName>Aare</placeName>
-          <placeName type="full">Aare</placeName>
+          <placeName type="full">Aare </placeName>
           <location>
             <geo>47.60559 8.22334</geo>
           </location>
@@ -315,7 +315,7 @@
         </place>
         <place type="P" xml:id="kbga-places-810">
           <placeName>Aberdeen</placeName>
-          <placeName type="full">Aberdeen</placeName>
+          <placeName type="full">Aberdeen </placeName>
           <location>
             <geo>57.14369 -2.09814</geo>
           </location>
@@ -358,7 +358,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1006">
           <placeName>Abessinien</placeName>
-          <placeName type="full">Abessinien</placeName>
+          <placeName type="full">Abessinien </placeName>
           <placeName type="alternative">Äthiopien</placeName>
           <location>
             <geo>9 39.5</geo>
@@ -387,14 +387,18 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="A" xml:id="kbga-places-1481">
+          <placeName>Abilene</placeName>
+          <placeName type="full">Abilene </placeName>
+          <listBibl/>
+        </place>
         <place type="H" xml:id="kbga-places-1291">
           <placeName>Adria</placeName>
-          <placeName type="full">Adria</placeName>
+          <placeName type="full">Adria </placeName>
           <placeName type="alternative">Adriatisches Meer</placeName>
           <location>
-            <geo>45.05649 12.05492</geo>
+            <geo>43 16</geo>
           </location>
-          <idno type="geonames" target="https://www.geonames.org/3183462">https://www.geonames.org/3183462</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q13924">https://www.wikidata.org/wiki/Q13924</idno>
           <idno type="viaf" target="https://viaf.org/viaf/316741867/">https://viaf.org/viaf/316741867/</idno>
           <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85001020">https://id.loc.gov/authorities/sh85001020</idno>
@@ -403,10 +407,8 @@
           <idno type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/A/adria-or-adriatic-sea.html">https://www.biblicalcyclopedia.com/A/adria-or-adriatic-sea.html</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Adriatic-Sea">https://www.britannica.com/place/Adriatic-Sea</idno>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Adriatisches_Meer">https://de.wikipedia.org/wiki/Adriatisches_Meer</idno>
+          <idno type="geonames" target="https://www.geonames.org/3183462">https://www.geonames.org/3183462</idno>
           <listBibl>
-            <bibl>
-              <ptr type="geonames" target="https://www.geonames.org/3183462"/>
-            </bibl>
             <bibl>
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q13924"/>
             </bibl>
@@ -431,11 +433,15 @@
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Adriatisches_Meer"/>
             </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/3183462"/>
+            </bibl>
           </listBibl>
+          <note type="description">Meeresarm des Mittelmeers zwischen der Apennin- und der Balkanhalbinsel.</note>
         </place>
         <place type="A" xml:id="kbga-places-786">
           <placeName>Afrika</placeName>
-          <placeName type="full">Afrika</placeName>
+          <placeName type="full">Afrika </placeName>
           <location>
             <geo>7.1881 21.09375</geo>
           </location>
@@ -481,7 +487,7 @@
         </place>
         <place type="A" xml:id="kbga-places-379">
           <placeName>Ägypten</placeName>
-          <placeName type="full">Ägypten</placeName>
+          <placeName type="full">Ägypten </placeName>
           <location>
             <geo>27 30</geo>
           </location>
@@ -575,7 +581,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1362">
           <placeName>Alba Longa</placeName>
-          <placeName type="full">Alba Longa</placeName>
+          <placeName type="full">Alba Longa </placeName>
           <location>
             <geo>41.74007 12.65331</geo>
           </location>
@@ -617,7 +623,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1099">
           <placeName>Albanien</placeName>
-          <placeName type="full">Albanien</placeName>
+          <placeName type="full">Albanien </placeName>
           <location>
             <geo>41 20</geo>
           </location>
@@ -681,12 +687,12 @@
         </place>
         <place type="P" xml:id="kbga-places-1134">
           <placeName>Alexandria</placeName>
-          <placeName type="full">Alexandria</placeName>
+          <placeName type="full">Alexandria </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-996">
           <placeName>Algerien</placeName>
-          <placeName type="full">Algerien</placeName>
+          <placeName type="full">Algerien </placeName>
           <location>
             <geo>28 3</geo>
           </location>
@@ -775,7 +781,7 @@
         </place>
         <place type="T" xml:id="kbga-places-153">
           <placeName>Alpen</placeName>
-          <placeName type="full">Alpen</placeName>
+          <placeName type="full">Alpen </placeName>
           <location>
             <geo>46.41667 10</geo>
           </location>
@@ -902,7 +908,7 @@
         </place>
         <place type="A" xml:id="kbga-places-2">
           <placeName>Amerika</placeName>
-          <placeName type="full">Amerika</placeName>
+          <placeName type="full">Amerika </placeName>
           <location>
             <geo>39.76 -98.5</geo>
           </location>
@@ -1011,12 +1017,12 @@
         </place>
         <place xml:id="kbga-places-614">
           <placeName>Ansbach</placeName>
-          <placeName type="full">Ansbach</placeName>
+          <placeName type="full">Ansbach </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1135">
           <placeName>Antiochia</placeName>
-          <placeName type="full">Antiochia</placeName>
+          <placeName type="full">Antiochia </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-156">
@@ -1064,7 +1070,7 @@
         </place>
         <place type="A" xml:id="kbga-places-384">
           <placeName>Appenzell (Kanton)</placeName>
-          <placeName type="full">Appenzell (Kanton)</placeName>
+          <placeName type="full">Appenzell (Kanton) </placeName>
           <location>
             <geo>47.33103 9.40996</geo>
           </location>
@@ -1138,7 +1144,7 @@
         </place>
         <place xml:id="kbga-places-506">
           <placeName>Arbon</placeName>
-          <placeName type="full">Arbon</placeName>
+          <placeName type="full">Arbon </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1369">
@@ -1186,7 +1192,7 @@
         </place>
         <place type="A" xml:id="kbga-places-963">
           <placeName>Asien</placeName>
-          <placeName type="full">Asien</placeName>
+          <placeName type="full">Asien </placeName>
           <location>
             <geo>29.84064 89.29688</geo>
           </location>
@@ -1228,7 +1234,7 @@
         </place>
         <place type="A" xml:id="kbga-places-966">
           <placeName>Assyrien</placeName>
-          <placeName type="full">Assyrien</placeName>
+          <placeName type="full">Assyrien </placeName>
           <placeName type="alternative">Assyria</placeName>
           <location>
             <geo>36.09622 43.32925</geo>
@@ -1322,7 +1328,7 @@
         </place>
         <place type="H" xml:id="kbga-places-1076">
           <placeName>Atlantischer Ozean</placeName>
-          <placeName type="full">Atlantischer Ozean</placeName>
+          <placeName type="full">Atlantischer Ozean </placeName>
           <placeName type="alternative">Atlantik</placeName>
           <location>
             <geo>10 -25</geo>
@@ -1404,6 +1410,7 @@
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001684"/>
             </bibl>
           </listBibl>
+          <note type="description">Einwohnergemeinde im Kanton Aargau, an der Aare gelegen.</note>
         </place>
         <place type="P" xml:id="kbga-places-645">
           <placeName>Augsburg</placeName>
@@ -1529,7 +1536,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1339">
           <placeName>Aussersihl</placeName>
-          <placeName type="full">Aussersihl / Zürich</placeName>
+          <placeName type="full">Aussersihl / Zürich </placeName>
           <location>
             <geo>47.37752 8.52127</geo>
           </location>
@@ -1577,7 +1584,7 @@
         </place>
         <place type="P" xml:id="kbga-places-852">
           <placeName>Babylon</placeName>
-          <placeName type="full">Babylon</placeName>
+          <placeName type="full">Babylon </placeName>
           <placeName type="alternative">Babel</placeName>
           <location>
             <geo>32.54083 44.42417</geo>
@@ -1621,7 +1628,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1129">
           <placeName>Babylonien</placeName>
-          <placeName type="full">Babylonien</placeName>
+          <placeName type="full">Babylonien </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-687">
@@ -1768,7 +1775,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1139">
           <placeName>Bad Iburg</placeName>
-          <placeName type="full">Bad Iburg</placeName>
+          <placeName type="full">Bad Iburg </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-920">
@@ -1978,7 +1985,7 @@
         </place>
         <place type="L" xml:id="kbga-places-788">
           <placeName>Balkan</placeName>
-          <placeName type="full">Balkan</placeName>
+          <placeName type="full">Balkan </placeName>
           <location>
             <geo>43.97233 22.11567</geo>
           </location>
@@ -2059,7 +2066,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1051">
           <placeName>Banat</placeName>
-          <placeName type="full">Banat</placeName>
+          <placeName type="full">Banat </placeName>
           <location>
             <geo>45.5 21.75</geo>
           </location>
@@ -2092,7 +2099,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1329">
           <placeName>Barfüsserkirche</placeName>
-          <placeName type="full">Barfüsserkirche / Bern</placeName>
+          <placeName type="full">Barfüsserkirche / Bern </placeName>
           <location>
             <geo>46.94725 7.45116</geo>
           </location>
@@ -2220,7 +2227,7 @@
         </place>
         <place type="A" xml:id="kbga-places-973">
           <placeName>Basan</placeName>
-          <placeName type="full">Basan</placeName>
+          <placeName type="full">Basan </placeName>
           <placeName type="alternative">Baschan</placeName>
           <location>
             <geo>32.4306 35.77419</geo>
@@ -2518,7 +2525,7 @@
         </place>
         <place type="A" xml:id="kbga-places-167">
           <placeName>Belgien</placeName>
-          <placeName type="full">Belgien</placeName>
+          <placeName type="full">Belgien </placeName>
           <location>
             <geo>50.75 4.5</geo>
           </location>
@@ -2573,7 +2580,7 @@
         </place>
         <place type="H" xml:id="kbga-places-1104">
           <placeName>Beresina</placeName>
-          <placeName type="full">Beresina</placeName>
+          <placeName type="full">Beresina </placeName>
           <location>
             <geo>52.5501 30.2495</geo>
           </location>
@@ -2995,7 +3002,7 @@
         </place>
         <place type="S" xml:id="kbga-places-993">
           <placeName>Berner Münster</placeName>
-          <placeName type="full">Berner Münster / Bern</placeName>
+          <placeName type="full">Berner Münster / Bern </placeName>
           <location>
             <geo>46.94725 7.45116</geo>
           </location>
@@ -3073,12 +3080,12 @@
         </place>
         <place xml:id="kbga-places-493">
           <placeName>Beromünster</placeName>
-          <placeName type="full">Beromünster</placeName>
+          <placeName type="full">Beromünster </placeName>
           <listBibl/>
         </place>
         <place type="S" xml:id="kbga-places-951">
           <placeName>Beth-El</placeName>
-          <placeName type="full">Beth-El</placeName>
+          <placeName type="full">Beth-El </placeName>
           <placeName type="alternative">Bet-El</placeName>
           <placeName type="alternative">Bethel</placeName>
           <location>
@@ -3114,7 +3121,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1140">
           <placeName>Bethanien</placeName>
-          <placeName type="full">Bethanien</placeName>
+          <placeName type="full">Bethanien </placeName>
           <placeName type="alternative">Betanien</placeName>
           <location>
             <geo>31.77078 35.26917</geo>
@@ -3210,7 +3217,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1039">
           <placeName>Bethesda</placeName>
-          <placeName type="full">Bethesda / Jerusalem</placeName>
+          <placeName type="full">Bethesda / Jerusalem </placeName>
           <location>
             <geo>31.78097 35.23607</geo>
           </location>
@@ -3246,7 +3253,7 @@
         </place>
         <place type="P" xml:id="kbga-places-385">
           <placeName>Bethlehem</placeName>
-          <placeName type="full">Bethlehem</placeName>
+          <placeName type="full">Bethlehem </placeName>
           <location>
             <geo>31.70487 35.20376</geo>
           </location>
@@ -3367,7 +3374,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1127">
           <placeName>Bièvres</placeName>
-          <placeName type="full">Bièvres</placeName>
+          <placeName type="full">Bièvres </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-443">
@@ -3457,7 +3464,7 @@
         </place>
         <place xml:id="kbga-places-777">
           <placeName>Birrwil</placeName>
-          <placeName type="full">Birrwil</placeName>
+          <placeName type="full">Birrwil </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-455">
@@ -3547,7 +3554,7 @@
         </place>
         <place type="H" xml:id="kbga-places-850">
           <placeName>Bodensee</placeName>
-          <placeName type="full">Bodensee</placeName>
+          <placeName type="full">Bodensee </placeName>
           <location>
             <geo>47.58333 9.46667</geo>
           </location>
@@ -3592,15 +3599,33 @@
           </listBibl>
           <note type="description">See in Mitteleuropa, gehört im Norden zu Deutschland, im Süden zur Schweiz und im Osten zu Österreich.</note>
         </place>
-        <place xml:id="kbga-places-1345">
-          <placeName>Böhler (Pass)</placeName>
-          <placeName type="full">Böhler (Pass) (Aargau)</placeName>
+        <place type="T" xml:id="kbga-places-1345">
+          <placeName>Böhler</placeName>
+          <placeName type="full">Böhler (AG)</placeName>
+          <placeName type="alternative">Böhler-Passhöchi</placeName>
+          <location>
+            <geo>47.30729 8.08449</geo>
+          </location>
           <country>Schweiz</country>
-          <listBibl/>
+          <idno type="geonames" target="https://www.geonames.org/11074154">https://www.geonames.org/11074154</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Böhler_(Pass)">https://de.wikipedia.org/wiki/Böhler_(Pass)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q686516">https://www.wikidata.org/wiki/Q686516</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/11074154"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Böhler_(Pass)"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q686516"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Schweizer Passhöhe (611 m. ü. M.) im Kanton Aargau unweit von Safenwil, die Schöftland mit Unterkulm verbindet.</note>
         </place>
         <place type="A" xml:id="kbga-places-826">
           <placeName>Böhmen</placeName>
-          <placeName type="full">Böhmen</placeName>
+          <placeName type="full">Böhmen </placeName>
           <location>
             <geo>50.08804 14.42076</geo>
           </location>
@@ -3779,7 +3804,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1102">
           <placeName>Bosnien-Herzegowina</placeName>
-          <placeName type="full">Bosnien-Herzegowina</placeName>
+          <placeName type="full">Bosnien-Herzegowina </placeName>
           <location>
             <geo>44.25 17.83333</geo>
           </location>
@@ -3877,7 +3902,7 @@
         </place>
         <place type="P" xml:id="kbga-places-148">
           <placeName>Bourges</placeName>
-          <placeName type="full">Bourges</placeName>
+          <placeName type="full">Bourges </placeName>
           <location>
             <geo>47.08333 2.4</geo>
           </location>
@@ -3921,12 +3946,12 @@
         </place>
         <place type="A" xml:id="kbga-places-1261">
           <placeName>Brabant</placeName>
-          <placeName type="full">Brabant</placeName>
+          <placeName type="full">Brabant </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-805">
           <placeName>Brandenburg</placeName>
-          <placeName type="full">Brandenburg</placeName>
+          <placeName type="full">Brandenburg </placeName>
           <location>
             <geo>52.45905 13.01582</geo>
           </location>
@@ -4070,7 +4095,7 @@
         </place>
         <place type="P" xml:id="kbga-places-179">
           <placeName>Breslau</placeName>
-          <placeName type="full">Breslau</placeName>
+          <placeName type="full">Breslau </placeName>
           <placeName type="alternative">Wrocław</placeName>
           <location>
             <geo>51.1 17.03333</geo>
@@ -4155,6 +4180,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4829902-9"/>
             </bibl>
           </listBibl>
+          <note type="description">Stadt an der Westgrenze des heutigen Belarus (Weissrussland); historisch dem Territorium Litauens, Russlands, Polens und der Sowjetunion zugehörig. 1918 wurden hier die Friedensverträge zwischen dem Deutschen Reich und der Ukraine (9.2.) sowie Sowjetrussland (3.3.) unterzeichnet.</note>
         </place>
         <place type="S" xml:id="kbga-places-181">
           <placeName>Bromerhof / Isnyberg</placeName>
@@ -4303,7 +4329,7 @@
         </place>
         <place type="P" xml:id="kbga-places-827">
           <placeName>Brünn</placeName>
-          <placeName type="full">Brünn</placeName>
+          <placeName type="full">Brünn </placeName>
           <placeName type="alternative">Brno</placeName>
           <location>
             <geo>49.19522 16.60796</geo>
@@ -4419,6 +4445,7 @@
               <ptr type="kba" target="https://kba.karl-barth.ch/places/334"/>
             </bibl>
           </listBibl>
+          <note type="description">Einwohnergemeinde im Kanton Aargau, Bezirk Aarau.</note>
         </place>
         <place type="P" xml:id="kbga-places-469">
           <placeName>Buckten</placeName>
@@ -4460,7 +4487,7 @@
         </place>
         <place type="P" xml:id="kbga-places-126">
           <placeName>Budapest</placeName>
-          <placeName type="full">Budapest</placeName>
+          <placeName type="full">Budapest </placeName>
           <location>
             <geo>47.49835 19.04045</geo>
           </location>
@@ -4503,7 +4530,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1035">
           <placeName>Bukarest</placeName>
-          <placeName type="full">Bukarest</placeName>
+          <placeName type="full">Bukarest </placeName>
           <location>
             <geo>44.43225 26.10626</geo>
           </location>
@@ -4555,7 +4582,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1052">
           <placeName>Bukowina</placeName>
-          <placeName type="full">Bukowina</placeName>
+          <placeName type="full">Bukowina </placeName>
           <placeName type="alternative">Bucovina</placeName>
           <location>
             <geo>47.88982 25.99415</geo>
@@ -4589,7 +4616,7 @@
         </place>
         <place xml:id="kbga-places-1353">
           <placeName>Bulgarien</placeName>
-          <placeName type="full">Bulgarien</placeName>
+          <placeName type="full">Bulgarien </placeName>
           <country>Bulgarien</country>
           <listBibl/>
         </place>
@@ -4634,7 +4661,7 @@
         </place>
         <place xml:id="kbga-places-479">
           <placeName>Büren an der Aare</placeName>
-          <placeName type="full">Büren an der Aare</placeName>
+          <placeName type="full">Büren an der Aare </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-854">
@@ -4719,7 +4746,7 @@
         </place>
         <place type="P" xml:id="kbga-places-851">
           <placeName>Caesarea Philippi</placeName>
-          <placeName type="full">Caesarea Philippi</placeName>
+          <placeName type="full">Caesarea Philippi </placeName>
           <location>
             <geo>33.24606 35.69283</geo>
           </location>
@@ -4787,6 +4814,12 @@
           </listBibl>
           <note type="description">Stadt im US-Bundesstaat Massachusetts, Vorort von Boston; Sitz der Harvard University sowie des Massachusetts Institute of Technology (MIT).</note>
         </place>
+        <place type="A" xml:id="kbga-places-1451">
+          <placeName>Cannae</placeName>
+          <placeName type="full">Cannae (Apulien)</placeName>
+          <country>Italien</country>
+          <listBibl/>
+        </place>
         <place type="S" xml:id="kbga-places-1370">
           <placeName>Canossa</placeName>
           <placeName type="full">Canossa (Italien)</placeName>
@@ -4816,7 +4849,7 @@
         </place>
         <place type="P" xml:id="kbga-places-790">
           <placeName>Cardiff</placeName>
-          <placeName type="full">Cardiff</placeName>
+          <placeName type="full">Cardiff </placeName>
           <location>
             <geo>51.48 -3.18</geo>
           </location>
@@ -4851,7 +4884,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1112">
           <placeName>Casablanca</placeName>
-          <placeName type="full">Casablanca</placeName>
+          <placeName type="full">Casablanca </placeName>
           <placeName type="alternative">Casablancas</placeName>
           <listBibl/>
         </place>
@@ -4957,12 +4990,12 @@
         </place>
         <place type="P" xml:id="kbga-places-1259">
           <placeName>Celle</placeName>
-          <placeName type="full">Celle</placeName>
+          <placeName type="full">Celle </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-833">
           <placeName>České Budĕjovice</placeName>
-          <placeName type="full">České Budĕjovice / Budweis</placeName>
+          <placeName type="full">České Budĕjovice / Budweis </placeName>
           <location>
             <geo>48.97447 14.47434</geo>
           </location>
@@ -4997,7 +5030,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1004">
           <placeName>Chalcedon</placeName>
-          <placeName type="full">Chalcedon</placeName>
+          <placeName type="full">Chalcedon </placeName>
           <placeName type="alternative">Chalkedon</placeName>
           <location>
             <geo>40.97882 29.08268</geo>
@@ -5171,7 +5204,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1072">
           <placeName>Chiesa del Santissmo Nome di Gesù all’Argentina</placeName>
-          <placeName type="full">Chiesa del Santissmo Nome di Gesù all’Argentina / Rom</placeName>
+          <placeName type="full">Chiesa del Santissmo Nome di Gesù all’Argentina / Rom </placeName>
           <location>
             <geo>41.89588 12.47983</geo>
           </location>
@@ -5207,7 +5240,7 @@
         </place>
         <place type="A" xml:id="kbga-places-798">
           <placeName>China</placeName>
-          <placeName type="full">China</placeName>
+          <placeName type="full">China </placeName>
           <location>
             <geo>35 105</geo>
           </location>
@@ -5302,6 +5335,53 @@
             </bibl>
           </listBibl>
           <note type="description">Hauptort des Schweizer Kantons Graubünden, gelegen am rechten Ufer des Alpenrheins; Sitz des gleichnamigen Bistums.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1391">
+          <placeName>Clermont-Ferrand</placeName>
+          <placeName type="full">Clermont-Ferrand (Auvergne-Rhône-Alpes)</placeName>
+          <location>
+            <geo>45.77969 3.08682</geo>
+          </location>
+          <settlement>Clermont-Ferrand</settlement>
+          <country>Frankreich</country>
+          <idno type="geonames" target="https://www.geonames.org/6440000">https://www.geonames.org/6440000</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/2557">https://kba.karl-barth.ch/places/2557</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Clermont-Ferrand">https://de.wikipedia.org/wiki/Clermont-Ferrand</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q42168">https://www.wikidata.org/wiki/Q42168</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Clermont-Ferrand">https://www.britannica.com/place/Clermont-Ferrand</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n80118654/">https://worldcat.org/identities/lccn-n80118654/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80118654">https://id.loc.gov/authorities/n80118654</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/158903836/">https://viaf.org/viaf/158903836/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4090482-9">https://d-nb.info/gnd/4090482-9</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6440000"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/2557"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Clermont-Ferrand"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q42168"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Clermont-Ferrand"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n80118654/"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80118654"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/158903836/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4090482-9"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="P" xml:id="kbga-places-918">
           <placeName>Colmar</placeName>
@@ -5481,7 +5561,7 @@
         </place>
         <place type="P" xml:id="kbga-places-946">
           <placeName>Damaskus</placeName>
-          <placeName type="full">Damaskus</placeName>
+          <placeName type="full">Damaskus </placeName>
           <location>
             <geo>33.5102 36.29128</geo>
           </location>
@@ -5528,7 +5608,7 @@
         </place>
         <place type="A" xml:id="kbga-places-630">
           <placeName>Dänemark</placeName>
-          <placeName type="full">Dänemark</placeName>
+          <placeName type="full">Dänemark </placeName>
           <location>
             <geo>56 10</geo>
           </location>
@@ -5579,7 +5659,7 @@
         </place>
         <place type="P" xml:id="kbga-places-78">
           <placeName>Danzig</placeName>
-          <placeName type="full">Danzig</placeName>
+          <placeName type="full">Danzig </placeName>
           <placeName type="alternative">Gdańsk</placeName>
           <location>
             <geo>54.35227 18.64912</geo>
@@ -5675,7 +5755,7 @@
         </place>
         <place type="P" xml:id="kbga-places-889">
           <placeName>Debrecen</placeName>
-          <placeName type="full">Debrecen</placeName>
+          <placeName type="full">Debrecen </placeName>
           <placeName type="alternative">Debreczin</placeName>
           <location>
             <geo>47.53167 21.62444</geo>
@@ -5719,12 +5799,12 @@
         </place>
         <place type="P" xml:id="kbga-places-1338">
           <placeName>Delsberg</placeName>
-          <placeName type="full">Delsberg</placeName>
+          <placeName type="full">Delsberg </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-997">
           <placeName>Demokratische Republik Kongo</placeName>
-          <placeName type="full">Demokratische Republik Kongo</placeName>
+          <placeName type="full">Demokratische Republik Kongo </placeName>
           <location>
             <geo>-2.5 23.5</geo>
           </location>
@@ -5770,7 +5850,7 @@
         </place>
         <place type="P" xml:id="kbga-places-403">
           <placeName>Den Haag</placeName>
-          <placeName type="full">Den Haag</placeName>
+          <placeName type="full">Den Haag </placeName>
           <placeName type="alternative">The Hague</placeName>
           <location>
             <geo>52.07667 4.29861</geo>
@@ -5857,7 +5937,7 @@
         </place>
         <place type="A" xml:id="kbga-places-186">
           <placeName>Deutsche Demokratische Republik</placeName>
-          <placeName type="full">Deutsche Demokratische Republik</placeName>
+          <placeName type="full">Deutsche Demokratische Republik </placeName>
           <placeName type="alternative">Sowjet-Zone</placeName>
           <placeName type="alternative">Mitteldeutschland</placeName>
           <placeName type="alternative">Ostdeutschland</placeName>
@@ -5906,7 +5986,7 @@
         </place>
         <place type="A" xml:id="kbga-places-189">
           <placeName>Deutsches Reich</placeName>
-          <placeName type="full">Deutsches Reich</placeName>
+          <placeName type="full">Deutsches Reich </placeName>
           <location>
             <geo>51.5 10.5</geo>
           </location>
@@ -5937,7 +6017,7 @@
         </place>
         <place type="A" xml:id="kbga-places-151">
           <placeName>Deutschland</placeName>
-          <placeName type="full">Deutschland</placeName>
+          <placeName type="full">Deutschland </placeName>
           <location>
             <geo>51.5 10.5</geo>
           </location>
@@ -6030,10 +6110,11 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Diessbach"/>
             </bibl>
           </listBibl>
+          <note type="description">Politische Gemeinde im Kanton Bern, Amtsbezirk Büren.</note>
         </place>
         <place xml:id="kbga-places-527">
           <placeName>Dießbach bei Büren</placeName>
-          <placeName type="full">Dießbach bei Büren</placeName>
+          <placeName type="full">Dießbach bei Büren </placeName>
           <listBibl/>
         </place>
         <place type="S" xml:id="kbga-places-1017">
@@ -6066,7 +6147,7 @@
         </place>
         <place type="H" xml:id="kbga-places-962">
           <placeName>Donau</placeName>
-          <placeName type="full">Donau</placeName>
+          <placeName type="full">Donau </placeName>
           <location>
             <geo>47.75 18.15</geo>
           </location>
@@ -6111,7 +6192,7 @@
         </place>
         <place type="P" xml:id="kbga-places-923">
           <placeName>Dordrecht</placeName>
-          <placeName type="full">Dordrecht</placeName>
+          <placeName type="full">Dordrecht </placeName>
           <placeName type="alternative">Dordt</placeName>
           <location>
             <geo>51.81 4.67361</geo>
@@ -6482,7 +6563,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1083">
           <placeName>East End</placeName>
-          <placeName type="full">East End / London</placeName>
+          <placeName type="full">East End / London </placeName>
           <location>
             <geo>51.51667 -0.05</geo>
           </location>
@@ -6545,7 +6626,7 @@
         </place>
         <place type="P" xml:id="kbga-places-71">
           <placeName>Edinburgh</placeName>
-          <placeName type="full">Edinburgh</placeName>
+          <placeName type="full">Edinburgh </placeName>
           <location>
             <geo>55.95206 -3.19648</geo>
           </location>
@@ -6593,19 +6674,19 @@
         </place>
         <place xml:id="kbga-places-482">
           <placeName>Eichberg</placeName>
-          <placeName type="full">Eichberg</placeName>
+          <placeName type="full">Eichberg </placeName>
           <listBibl/>
         </place>
         <place xml:id="kbga-places-1384">
           <placeName>Eiffelturm</placeName>
-          <placeName type="full">Eiffelturm / Paris</placeName>
+          <placeName type="full">Eiffelturm / Paris </placeName>
           <settlement>Paris</settlement>
           <country>Frankreich</country>
           <listBibl/>
         </place>
         <place type="T" xml:id="kbga-places-1014">
           <placeName>Eigernordwand</placeName>
-          <placeName type="full">Eigernordwand</placeName>
+          <placeName type="full">Eigernordwand </placeName>
           <placeName type="alternative">Eiger-Nordwand</placeName>
           <location>
             <geo>46.57761 8.00529</geo>
@@ -6671,7 +6752,7 @@
         </place>
         <place type="H" xml:id="kbga-places-916">
           <placeName>Elbe</placeName>
-          <placeName type="full">Elbe</placeName>
+          <placeName type="full">Elbe </placeName>
           <location>
             <geo>53.92222 8.72222</geo>
           </location>
@@ -6838,7 +6919,7 @@
         </place>
         <place type="A" xml:id="kbga-places-199">
           <placeName>Elsass</placeName>
-          <placeName type="full">Elsass</placeName>
+          <placeName type="full">Elsass </placeName>
           <location>
             <geo>48.33333 7.43333</geo>
           </location>
@@ -6928,7 +7009,7 @@
         </place>
         <place type="P" xml:id="kbga-places-949">
           <placeName>Emmaus</placeName>
-          <placeName type="full">Emmaus</placeName>
+          <placeName type="full">Emmaus </placeName>
           <location>
             <geo>31.79357 35.15776</geo>
           </location>
@@ -7035,14 +7116,48 @@
             </bibl>
           </listBibl>
         </place>
-        <place xml:id="kbga-places-501">
-          <placeName>Engelberg</placeName>
-          <placeName type="full">Engelberg</placeName>
-          <listBibl/>
+        <place type="P" xml:id="kbga-places-501">
+          <placeName>Engelberg (Gemeinde)</placeName>
+          <placeName type="full">Engelberg (Gemeinde) (OW)</placeName>
+          <location>
+            <geo>46.82107 8.40133</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7285728">https://www.geonames.org/7285728</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Engelberg">https://de.wikipedia.org/wiki/Engelberg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q64108">https://www.wikidata.org/wiki/Q64108</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n84058729">https://id.loc.gov/authorities/n84058729</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000741">https://hls-dhs-dss.ch/de/articles/000741</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4014751-4">https://d-nb.info/gnd/4014751-4</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/870145857935423020098">https://viaf.org/viaf/870145857935423020098</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7285728"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Engelberg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64108"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84058729"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000741"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4014751-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/870145857935423020098"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Kanton Obwalden am Nordfuss des Titlis.</note>
         </place>
         <place type="A" xml:id="kbga-places-18">
           <placeName>England</placeName>
-          <placeName type="full">England</placeName>
+          <placeName type="full">England </placeName>
           <location>
             <geo>52.16045 -0.70312</geo>
           </location>
@@ -7089,7 +7204,7 @@
         </place>
         <place type="P" xml:id="kbga-places-809">
           <placeName>Ephesus</placeName>
-          <placeName type="full">Ephesus</placeName>
+          <placeName type="full">Ephesus </placeName>
           <location>
             <geo>37.93972 27.34083</geo>
           </location>
@@ -7183,7 +7298,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1228">
           <placeName>Erlach</placeName>
-          <placeName type="full">Erlach</placeName>
+          <placeName type="full">Erlach </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-19">
@@ -7322,13 +7437,13 @@
         </place>
         <place type="A" xml:id="kbga-places-1226">
           <placeName>Etschland</placeName>
-          <placeName type="full">Etschland</placeName>
+          <placeName type="full">Etschland </placeName>
           <country>Österreich</country>
           <listBibl/>
         </place>
         <place type="H" xml:id="kbga-places-945">
           <placeName>Euphrat</placeName>
-          <placeName type="full">Euphrat</placeName>
+          <placeName type="full">Euphrat </placeName>
           <location>
             <geo>33.634 42.85112</geo>
           </location>
@@ -7369,7 +7484,7 @@
         </place>
         <place type="A" xml:id="kbga-places-204">
           <placeName>Europa</placeName>
-          <placeName type="full">Europa</placeName>
+          <placeName type="full">Europa </placeName>
           <location>
             <geo>48.69096 9.14062</geo>
           </location>
@@ -7450,7 +7565,7 @@
         </place>
         <place type="P" xml:id="kbga-places-901">
           <placeName>Feketić</placeName>
-          <placeName type="full">Feketić</placeName>
+          <placeName type="full">Feketić </placeName>
           <placeName type="alternative">Feketitsch</placeName>
           <location>
             <geo>45.66431 19.69974</geo>
@@ -7486,17 +7601,17 @@
         </place>
         <place type="P" xml:id="kbga-places-1357">
           <placeName>Feldis</placeName>
-          <placeName type="full">Feldis</placeName>
+          <placeName type="full">Feldis </placeName>
           <country>Schweiz</country>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-847">
           <placeName>Finkenwalde</placeName>
           <placeName type="full">Finkenwalde (Westpommern)</placeName>
+          <placeName type="alternative">Zdroje</placeName>
           <location>
             <geo>53.37966 14.63705</geo>
           </location>
-          <settlement>Finkenwalde</settlement>
           <country>Polen</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Zdroje_(Stettin)">https://de.wikipedia.org/wiki/Zdroje_(Stettin)</idno>
           <idno type="geonames" target="https://www.geonames.org/3080427">https://www.geonames.org/3080427</idno>
@@ -7524,10 +7639,11 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4592745-5"/>
             </bibl>
           </listBibl>
+          <note type="description">Südöstlicher Vorort Stettins am Ostarm der unteren Oder; 1935-1937 Sitz des Dietrich Bonhoeffer im Auftrag der Bekennenden Kirche geführten Predigerseminars.</note>
         </place>
         <place type="T" xml:id="kbga-places-1132">
           <placeName>Finsteraarhorn</placeName>
-          <placeName type="full">Finsteraarhorn</placeName>
+          <placeName type="full">Finsteraarhorn </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1325">
@@ -7540,7 +7656,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1060">
           <placeName>Flandern</placeName>
-          <placeName type="full">Flandern</placeName>
+          <placeName type="full">Flandern </placeName>
           <location>
             <geo>51.1 4.08333</geo>
           </location>
@@ -7567,7 +7683,7 @@
         </place>
         <place xml:id="kbga-places-782">
           <placeName>Fluntern</placeName>
-          <placeName type="full">Fluntern</placeName>
+          <placeName type="full">Fluntern </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-20">
@@ -7623,7 +7739,7 @@
         </place>
         <place type="A" xml:id="kbga-places-21">
           <placeName>Frankreich</placeName>
-          <placeName type="full">Frankreich</placeName>
+          <placeName type="full">Frankreich </placeName>
           <location>
             <geo>46 2</geo>
           </location>
@@ -7931,7 +8047,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1128">
           <placeName>Freies Gymnasium Bern</placeName>
-          <placeName type="full">Freies Gymnasium Bern / Bern</placeName>
+          <placeName type="full">Freies Gymnasium Bern / Bern </placeName>
           <settlement>Bern</settlement>
           <country>Schweiz</country>
           <listBibl/>
@@ -8144,7 +8260,7 @@
         </place>
         <place type="A" xml:id="kbga-places-780">
           <placeName>Galiläa</placeName>
-          <placeName type="full">Galiläa</placeName>
+          <placeName type="full">Galiläa </placeName>
           <location>
             <geo>32.9 35.33333</geo>
           </location>
@@ -8179,7 +8295,7 @@
         </place>
         <place type="A" xml:id="kbga-places-961">
           <placeName>Galizien</placeName>
-          <placeName type="full">Galizien</placeName>
+          <placeName type="full">Galizien </placeName>
           <location>
             <geo>49.5 23</geo>
           </location>
@@ -8221,7 +8337,7 @@
         </place>
         <place type="H" xml:id="kbga-places-843">
           <placeName>Gardasee</placeName>
-          <placeName type="full">Gardasee</placeName>
+          <placeName type="full">Gardasee </placeName>
           <location>
             <geo>45.66667 10.68333</geo>
           </location>
@@ -8260,9 +8376,42 @@
         </place>
         <place type="T" xml:id="kbga-places-1116">
           <placeName>Garizim</placeName>
-          <placeName type="full">Garizim</placeName>
-          <country>Staat Palestina</country>
-          <listBibl/>
+          <placeName type="full">Garizim </placeName>
+          <placeName type="alternative">Jabal aţ Ţūr</placeName>
+          <location>
+            <geo>32.19429 35.26411</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/281572">https://www.geonames.org/281572</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Garizim">https://de.wikipedia.org/wiki/Garizim</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1288751">https://www.wikidata.org/wiki/Q1288751</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Mount-Gerizim">https://www.britannica.com/place/Mount-Gerizim</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh00007127">https://id.loc.gov/authorities/sh00007127</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/315150356/">https://viaf.org/viaf/315150356/</idno>
+          <idno type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/G/gerizim.html">https://www.biblicalcyclopedia.com/G/gerizim.html</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/281572"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Garizim"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1288751"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Mount-Gerizim"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh00007127"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/315150356/"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/G/gerizim.html"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Berg (881m) in Samarien / Westjordanland (heutiges Palästinensisches Autonomiegebiet) bei Nablus.</note>
         </place>
         <place type="P" xml:id="kbga-places-884">
           <placeName>Garmisch-Partenkirchen</placeName>
@@ -8308,7 +8457,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1012">
           <placeName>Gaza-Streifen</placeName>
-          <placeName type="full">Gaza-Streifen</placeName>
+          <placeName type="full">Gaza-Streifen </placeName>
           <placeName type="alternative">Gaza</placeName>
           <location>
             <geo>31.50161 34.46672</geo>
@@ -8343,12 +8492,12 @@
         </place>
         <place type="P" xml:id="kbga-places-1262">
           <placeName>Geldern</placeName>
-          <placeName type="full">Geldern</placeName>
+          <placeName type="full">Geldern </placeName>
           <listBibl/>
         </place>
         <place xml:id="kbga-places-490">
           <placeName>Gelterkinden</placeName>
-          <placeName type="full">Gelterkinden</placeName>
+          <placeName type="full">Gelterkinden </placeName>
           <listBibl/>
         </place>
         <place type="S" xml:id="kbga-places-861">
@@ -8385,7 +8534,7 @@
         </place>
         <place type="H" xml:id="kbga-places-212">
           <placeName>Genfersee</placeName>
-          <placeName type="full">Genfersee</placeName>
+          <placeName type="full">Genfersee </placeName>
           <placeName type="alternative">Lac Léman</placeName>
           <location>
             <geo>46.43774 6.46906</geo>
@@ -8500,7 +8649,7 @@
         </place>
         <place type="T" xml:id="kbga-places-864">
           <placeName>Gethsemane</placeName>
-          <placeName type="full">Gethsemane</placeName>
+          <placeName type="full">Gethsemane </placeName>
           <location>
             <geo>31.77965 35.23972</geo>
           </location>
@@ -8543,7 +8692,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1018">
           <placeName>Gibeon</placeName>
-          <placeName type="full">Gibeon</placeName>
+          <placeName type="full">Gibeon </placeName>
           <location>
             <geo>31.84763 35.18318</geo>
           </location>
@@ -8577,7 +8726,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1067">
           <placeName>Gibraltar</placeName>
-          <placeName type="full">Gibraltar</placeName>
+          <placeName type="full">Gibraltar </placeName>
           <location>
             <geo>36.14474 -5.35257</geo>
           </location>
@@ -8726,7 +8875,7 @@
         </place>
         <place type="P" xml:id="kbga-places-808">
           <placeName>Glasgow</placeName>
-          <placeName type="full">Glasgow</placeName>
+          <placeName type="full">Glasgow </placeName>
           <location>
             <geo>55.86515 -4.25763</geo>
           </location>
@@ -8863,7 +9012,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1098">
           <placeName>Goldküste</placeName>
-          <placeName type="full">Goldküste</placeName>
+          <placeName type="full">Goldküste </placeName>
           <location>
             <geo>8.1 -1.2</geo>
           </location>
@@ -8885,7 +9034,7 @@
         </place>
         <place type="T" xml:id="kbga-places-405">
           <placeName>Golgatha</placeName>
-          <placeName type="full">Golgatha / Jerusalem</placeName>
+          <placeName type="full">Golgatha / Jerusalem </placeName>
           <location>
             <geo>31.77847 35.22979</geo>
           </location>
@@ -9008,7 +9157,7 @@
         </place>
         <place type="R" xml:id="kbga-places-1024">
           <placeName>Gotthard-Tunnel</placeName>
-          <placeName type="full">Gotthard-Tunnel</placeName>
+          <placeName type="full">Gotthard-Tunnel </placeName>
           <placeName type="alternative">Gotthardtunnel</placeName>
           <location>
             <geo>46.51667 8.61667</geo>
@@ -9181,6 +9330,7 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gränichen"/>
             </bibl>
           </listBibl>
+          <note type="description">Einwohnergemeinde im Kanton Aargau.</note>
         </place>
         <place type="A" xml:id="kbga-places-213">
           <placeName>Graubünden</placeName>
@@ -9274,7 +9424,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1016">
           <placeName>Greenwich</placeName>
-          <placeName type="full">Greenwich / London</placeName>
+          <placeName type="full">Greenwich / London </placeName>
           <location>
             <geo>51.47785 -0.01176</geo>
           </location>
@@ -9357,7 +9507,7 @@
         </place>
         <place type="A" xml:id="kbga-places-812">
           <placeName>Griechenland</placeName>
-          <placeName type="full">Griechenland</placeName>
+          <placeName type="full">Griechenland </placeName>
           <location>
             <geo>39 22</geo>
           </location>
@@ -9455,7 +9605,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1078">
           <placeName>Grönland</placeName>
-          <placeName type="full">Grönland</placeName>
+          <placeName type="full">Grönland </placeName>
           <location>
             <geo>72 -40</geo>
           </location>
@@ -9506,7 +9656,7 @@
         </place>
         <place type="A" xml:id="kbga-places-876">
           <placeName>Großbritannien</placeName>
-          <placeName type="full">Großbritannien</placeName>
+          <placeName type="full">Großbritannien </placeName>
           <location>
             <geo>54.75844 -2.69531</geo>
           </location>
@@ -9637,7 +9787,7 @@
         </place>
         <place xml:id="kbga-places-898">
           <placeName>Großwardein</placeName>
-          <placeName type="full">Großwardein</placeName>
+          <placeName type="full">Großwardein </placeName>
           <placeName type="alternative">Oradea</placeName>
           <placeName type="alternative">Nagyvárad</placeName>
           <location>
@@ -9658,7 +9808,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1236">
           <placeName>Grüningen</placeName>
-          <placeName type="full">Grüningen</placeName>
+          <placeName type="full">Grüningen </placeName>
           <placeName type="alternative">Herrschaft Grüningen</placeName>
           <location>
             <geo>47.28333 8.75</geo>
@@ -9682,6 +9832,12 @@
             </bibl>
           </listBibl>
           <note type="description">Landvogtei im Osten des Kantons Zürich, um den Ort Grüningen, Bubikon und Rüti, bestehend von 1416 bis 1798.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1459">
+          <placeName>Guam</placeName>
+          <placeName type="full">Guam (Marianen-Archipel)</placeName>
+          <country>Vereinigte Staaten von Amerika</country>
+          <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-28">
           <placeName>Gütersloh</placeName>
@@ -9733,7 +9889,7 @@
         </place>
         <place type="P" xml:id="kbga-places-900">
           <placeName>Győr</placeName>
-          <placeName type="full">Győr</placeName>
+          <placeName type="full">Győr </placeName>
           <location>
             <geo>47.68333 17.63512</geo>
           </location>
@@ -10135,8 +10291,9 @@
         </place>
         <place type="T" xml:id="kbga-places-454">
           <placeName>Hauenstein</placeName>
-          <placeName type="full">Hauenstein</placeName>
+          <placeName type="full">Hauenstein </placeName>
           <placeName type="alternative">Unterer Hauenstein</placeName>
+          <placeName type="alternative">Oberer Hauenstein</placeName>
           <location>
             <geo>47.38124 7.86905</geo>
           </location>
@@ -10159,6 +10316,7 @@
               <ptr type="geonames" target="https://www.geonames.org/11075801"/>
             </bibl>
           </listBibl>
+          <note type="description">Schweizer Jura-Pass, der Läufelfingen im Kanton Basel-Landschaft mit Trimbach im Kanton Solothurn verbindet. Über den Pass führt die Hauptstrasse 2 von Olten nach Basel.</note>
         </place>
         <place type="A" xml:id="kbga-places-1185">
           <placeName>Hegau</placeName>
@@ -10329,7 +10487,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1368">
           <placeName>Heiliggeistkirche</placeName>
-          <placeName type="full">Heiliggeistkirche / Bern</placeName>
+          <placeName type="full">Heiliggeistkirche / Bern </placeName>
           <location>
             <geo>46.94783 7.44023</geo>
           </location>
@@ -10518,9 +10676,48 @@
           </listBibl>
           <note type="description">Territorium des 1945 aus mehreren unabhängigen hessischen Gebieten gebildeten gleichnamigen heutigen Bundeslandes in der Mitte der Bundesrepublik Deutschland.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1453">
+          <placeName>Hiroshima</placeName>
+          <placeName type="full">Hiroshima </placeName>
+          <location>
+            <geo>34.4 132.45</geo>
+          </location>
+          <country>Japan</country>
+          <idno type="geonames" target="https://www.geonames.org/1862412">https://www.geonames.org/1862412</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Hiroshima">https://de.wikipedia.org/wiki/Hiroshima</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q34664">https://www.wikidata.org/wiki/Q34664</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hiroshima-Japan">https://www.britannica.com/place/Hiroshima-Japan</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80103774">https://id.loc.gov/authorities/n80103774</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/136221777/">https://viaf.org/viaf/136221777/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4072524-8">https://d-nb.info/gnd/4072524-8</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/1862412"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hiroshima"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q34664"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hiroshima-Japan"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80103774"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/136221777/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4072524-8"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Hafenstadt im Südwesten der japanischen Hauptinsel Honshū, Hauptort der gleichnamigen Präfektur; 1945 durch den ersten Atombombenabwurf der Geschichte weitgehend zerstört.</note>
+        </place>
         <place type="T" xml:id="kbga-places-839">
           <placeName>Hohe Tatra</placeName>
-          <placeName type="full">Hohe Tatra</placeName>
+          <placeName type="full">Hohe Tatra </placeName>
           <location>
             <geo>49.16436 20.13369</geo>
           </location>
@@ -10554,7 +10751,7 @@
         </place>
         <place type="T" xml:id="kbga-places-1366">
           <placeName>Hohwacht</placeName>
-          <placeName type="full">Hohwacht / Madiswil</placeName>
+          <placeName type="full">Hohwacht / Madiswil </placeName>
           <settlement>Madiswil</settlement>
           <country>Schweiz</country>
           <listBibl/>
@@ -10649,10 +10846,11 @@
               <ptr type="geonames" target="https://www.geonames.org/12382148"/>
             </bibl>
           </listBibl>
+          <note type="description">Erhebung nördlich von Reinach im Kanton Aargau, zwischen Wynental und Seetal gelegen (787 m.ü.M.).</note>
         </place>
         <place type="P" xml:id="kbga-places-835">
           <placeName>Iglau / Jihlava</placeName>
-          <placeName type="full">Iglau / Jihlava</placeName>
+          <placeName type="full">Iglau / Jihlava </placeName>
           <location>
             <geo>49.3961 15.59124</geo>
           </location>
@@ -10722,7 +10920,7 @@
         </place>
         <place type="A" xml:id="kbga-places-372">
           <placeName>Indien</placeName>
-          <placeName type="full">Indien</placeName>
+          <placeName type="full">Indien </placeName>
           <location>
             <geo>22 79</geo>
           </location>
@@ -10773,7 +10971,7 @@
         </place>
         <place type="A" xml:id="kbga-places-785">
           <placeName>Indonesien</placeName>
-          <placeName type="full">Indonesien</placeName>
+          <placeName type="full">Indonesien </placeName>
           <location>
             <geo>-5 120</geo>
           </location>
@@ -10871,7 +11069,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1225">
           <placeName>Inntal</placeName>
-          <placeName type="full">Inntal</placeName>
+          <placeName type="full">Inntal </placeName>
           <country>Österreich</country>
           <listBibl/>
         </place>
@@ -10928,7 +11126,7 @@
         </place>
         <place type="A" xml:id="kbga-places-33">
           <placeName>Irland</placeName>
-          <placeName type="full">Irland</placeName>
+          <placeName type="full">Irland </placeName>
           <location>
             <geo>53 -8</geo>
           </location>
@@ -10975,7 +11173,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1215">
           <placeName>Isenheim</placeName>
-          <placeName type="full">Isenheim</placeName>
+          <placeName type="full">Isenheim </placeName>
           <placeName type="alternative">Issenheim</placeName>
           <location>
             <geo>47.90357 7.25235</geo>
@@ -11011,7 +11209,7 @@
         </place>
         <place type="A" xml:id="kbga-places-34">
           <placeName>Israel</placeName>
-          <placeName type="full">Israel</placeName>
+          <placeName type="full">Israel </placeName>
           <location>
             <geo>31.5 34.75</geo>
           </location>
@@ -11062,7 +11260,7 @@
         </place>
         <place type="P" xml:id="kbga-places-868">
           <placeName>Istanbul</placeName>
-          <placeName type="full">Istanbul</placeName>
+          <placeName type="full">Istanbul </placeName>
           <location>
             <geo>41.01384 28.94966</geo>
           </location>
@@ -11081,7 +11279,7 @@
         </place>
         <place type="A" xml:id="kbga-places-35">
           <placeName>Italien</placeName>
-          <placeName type="full">Italien</placeName>
+          <placeName type="full">Italien </placeName>
           <location>
             <geo>42.83333 12.83333</geo>
           </location>
@@ -11130,9 +11328,22 @@
           </listBibl>
           <note type="description">Gebiet des gleichnamigen heutigen Staates in Südeuropa.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1479">
+          <placeName>Ituräa</placeName>
+          <placeName type="full">Ituräa </placeName>
+          <listBibl/>
+        </place>
+        <place type="A" xml:id="kbga-places-1460">
+          <placeName>Iwojima</placeName>
+          <placeName type="full">Iwojima (Ogasawara-Inseln)</placeName>
+          <placeName type="alternative">Iwo Jima</placeName>
+          <placeName type="alternative">Iōtō</placeName>
+          <country>Japan</country>
+          <listBibl/>
+        </place>
         <place type="H" xml:id="kbga-places-957">
           <placeName>Jabbok</placeName>
-          <placeName type="full">Jabbok</placeName>
+          <placeName type="full">Jabbok </placeName>
           <placeName type="alternative">Nahr ez-Zarqa</placeName>
           <location>
             <geo>32.11226 35.57037</geo>
@@ -11163,13 +11374,13 @@
         </place>
         <place type="A" xml:id="kbga-places-911">
           <placeName>Japan</placeName>
-          <placeName type="full">Japan</placeName>
+          <placeName type="full">Japan </placeName>
           <listBibl/>
           <note type="description">Gebiet des gleichnamige Inselstaates in Ostasien.</note>
         </place>
         <place type="P" xml:id="kbga-places-838">
           <placeName>Jávornik</placeName>
-          <placeName type="full">Jávornik</placeName>
+          <placeName type="full">Jávornik </placeName>
           <placeName type="alternative">Johannisberg</placeName>
           <location>
             <geo>50.39077 17.00272</geo>
@@ -11249,12 +11460,12 @@
         </place>
         <place xml:id="kbga-places-1181">
           <placeName>Jericho</placeName>
-          <placeName type="full">Jericho</placeName>
+          <placeName type="full">Jericho </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-37">
           <placeName>Jerusalem</placeName>
-          <placeName type="full">Jerusalem</placeName>
+          <placeName type="full">Jerusalem </placeName>
           <location>
             <geo>31.76904 35.21633</geo>
           </location>
@@ -11302,7 +11513,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1049">
           <placeName>Jesreelebene</placeName>
-          <placeName type="full">Jesreelebene</placeName>
+          <placeName type="full">Jesreelebene </placeName>
           <location>
             <geo>32.60417 35.23639</geo>
           </location>
@@ -11333,7 +11544,7 @@
         </place>
         <place type="H" xml:id="kbga-places-926">
           <placeName>Jordan</placeName>
-          <placeName type="full">Jordan</placeName>
+          <placeName type="full">Jordan </placeName>
           <location>
             <geo>31.83639 35.54833</geo>
           </location>
@@ -11379,7 +11590,7 @@
         </place>
         <place type="A" xml:id="kbga-places-964">
           <placeName>Juda</placeName>
-          <placeName type="full">Juda</placeName>
+          <placeName type="full">Juda </placeName>
           <location>
             <geo>31.58333 35</geo>
           </location>
@@ -11406,7 +11617,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1064">
           <placeName>Judäa</placeName>
-          <placeName type="full">Judäa</placeName>
+          <placeName type="full">Judäa </placeName>
           <location>
             <geo>32.50234 34.89324</geo>
           </location>
@@ -11485,7 +11696,7 @@
         </place>
         <place type="A" xml:id="kbga-places-840">
           <placeName>Jugoslawien</placeName>
-          <placeName type="full">Jugoslawien</placeName>
+          <placeName type="full">Jugoslawien </placeName>
           <location>
             <geo>44 19.75</geo>
           </location>
@@ -11566,7 +11777,10 @@
         </place>
         <place type="T" xml:id="kbga-places-230">
           <placeName>Jura (Gebirge)</placeName>
-          <placeName type="full">Jura (Gebirge)</placeName>
+          <placeName type="full">Jura (Gebirge) </placeName>
+          <location>
+            <geo>47.16667 7</geo>
+          </location>
           <country>Schweiz</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Jura_(Gebirge)">https://de.wikipedia.org/wiki/Jura_(Gebirge)</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q178611">https://www.wikidata.org/wiki/Q178611</idno>
@@ -11575,6 +11789,7 @@
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Jura-Mountains">https://www.britannica.com/place/Jura-Mountains</idno>
           <idno type="viaf" target="https://viaf.org/viaf/153346880/">https://viaf.org/viaf/153346880/</idno>
           <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85071076">https://id.loc.gov/authorities/sh85071076</idno>
+          <idno type="geonames" target="https://www.geonames.org/3012052">https://www.geonames.org/3012052</idno>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Jura_(Gebirge)"/>
@@ -11597,7 +11812,11 @@
             <bibl>
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85071076"/>
             </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/3012052"/>
+            </bibl>
           </listBibl>
+          <note type="description">Gebirge nordwestlich des Alpenkammes, bedeckt Teile der Kantone Waadt, Neuenburg, Jura, Bern, Solothurn, Basel-Landschaft, Aargau und Zürich.</note>
         </place>
         <place type="P" xml:id="kbga-places-801">
           <placeName>Jüterbog</placeName>
@@ -11639,7 +11858,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1088">
           <placeName>Kairo</placeName>
-          <placeName type="full">Kairo</placeName>
+          <placeName type="full">Kairo </placeName>
           <location>
             <geo>30.06263 31.24967</geo>
           </location>
@@ -11728,14 +11947,14 @@
         </place>
         <place type="A" xml:id="kbga-places-1124">
           <placeName>Kalabrien</placeName>
-          <placeName type="full">Kalabrien</placeName>
+          <placeName type="full">Kalabrien </placeName>
           <placeName type="alternative">Calabrien</placeName>
           <country>Italien</country>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-1045">
           <placeName>Kanaan</placeName>
-          <placeName type="full">Kanaan</placeName>
+          <placeName type="full">Kanaan </placeName>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kanaan">https://de.wikipedia.org/wiki/Kanaan</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q163329">https://www.wikidata.org/wiki/Q163329</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4029455-9">https://d-nb.info/gnd/4029455-9</idno>
@@ -11762,7 +11981,7 @@
         </place>
         <place type="A" xml:id="kbga-places-931">
           <placeName>Kanada</placeName>
-          <placeName type="full">Kanada</placeName>
+          <placeName type="full">Kanada </placeName>
           <location>
             <geo>60.10867 -113.64258</geo>
           </location>
@@ -11812,13 +12031,13 @@
         </place>
         <place type="T" xml:id="kbga-places-1340">
           <placeName>Kapaten</placeName>
-          <placeName type="full">Kapaten</placeName>
+          <placeName type="full">Kapaten </placeName>
           <placeName type="alternative">Karpathen</placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-862">
           <placeName>Kapernaum</placeName>
-          <placeName type="full">Kapernaum</placeName>
+          <placeName type="full">Kapernaum </placeName>
           <location>
             <geo>32.88055 35.57541</geo>
           </location>
@@ -12100,6 +12319,12 @@
           </listBibl>
           <note type="description">Hafenstadt und Marinestützpunkt an der Ostsee; Landeshauptstadt des Bundeslandes Schleswig-Holsteins.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1478">
+          <placeName>Kiew</placeName>
+          <placeName type="full">Kiew </placeName>
+          <country>Ukraine</country>
+          <listBibl/>
+        </place>
         <place type="S" xml:id="kbga-places-849">
           <placeName>Kirche St. Mangen</placeName>
           <placeName type="full">Kirche St. Mangen / St. Gallen (SG)</placeName>
@@ -12214,7 +12439,7 @@
         </place>
         <place type="H" xml:id="kbga-places-1050">
           <placeName>Kison</placeName>
-          <placeName type="full">Kison</placeName>
+          <placeName type="full">Kison </placeName>
           <placeName type="alternative">Kishon, Kischon</placeName>
           <location>
             <geo>32.73412 35.0954</geo>
@@ -12289,7 +12514,7 @@
         </place>
         <place type="P" xml:id="kbga-places-897">
           <placeName>Klausenburg</placeName>
-          <placeName type="full">Klausenburg</placeName>
+          <placeName type="full">Klausenburg </placeName>
           <placeName type="alternative">Cluj-Napoca</placeName>
           <placeName type="alternative">Kolozsvár</placeName>
           <placeName type="alternative">Cluj</placeName>
@@ -12336,7 +12561,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1363">
           <placeName>Kleinasien</placeName>
-          <placeName type="full">Kleinasien</placeName>
+          <placeName type="full">Kleinasien </placeName>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kleinasien">https://de.wikipedia.org/wiki/Kleinasien</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q51614">https://www.wikidata.org/wiki/Q51614</idno>
           <idno type="geonames" target="https://www.geonames.org/323835">https://www.geonames.org/323835</idno>
@@ -12456,7 +12681,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1193">
           <placeName>Kloster Marienthron</placeName>
-          <placeName type="full">Kloster Marienthron / Nimbschen</placeName>
+          <placeName type="full">Kloster Marienthron / Nimbschen </placeName>
           <placeName type="alternative">Kloster Nimbschen</placeName>
           <location>
             <geo>51.21492 12.7423</geo>
@@ -12492,7 +12717,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1208">
           <placeName>Kloster Oetenbach</placeName>
-          <placeName type="full">Kloster Oetenbach</placeName>
+          <placeName type="full">Kloster Oetenbach </placeName>
           <location>
             <geo>47.37188 8.54036</geo>
           </location>
@@ -12558,7 +12783,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1191">
           <placeName>Kloster St. Gallen</placeName>
-          <placeName type="full">Kloster St. Gallen</placeName>
+          <placeName type="full">Kloster St. Gallen </placeName>
           <location>
             <geo>47.42328 9.37741</geo>
           </location>
@@ -12831,7 +13056,7 @@
         </place>
         <place type="P" xml:id="kbga-places-836">
           <placeName>Königgrätz</placeName>
-          <placeName type="full">Königgrätz / Hradec Králové</placeName>
+          <placeName type="full">Königgrätz / Hradec Králové </placeName>
           <location>
             <geo>50.20923 15.83277</geo>
           </location>
@@ -12963,7 +13188,7 @@
         </place>
         <place type="P" xml:id="kbga-places-38">
           <placeName>Konstantinopel</placeName>
-          <placeName type="full">Konstantinopel</placeName>
+          <placeName type="full">Konstantinopel </placeName>
           <placeName type="alternative">Byzanz</placeName>
           <location>
             <geo>41.01384 28.94966</geo>
@@ -13062,7 +13287,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1324">
           <placeName>Konstanz (Bistum)</placeName>
-          <placeName type="full">Konstanz (Bistum)</placeName>
+          <placeName type="full">Konstanz (Bistum) </placeName>
           <location>
             <geo>47.66033 9.17582</geo>
           </location>
@@ -13096,7 +13321,7 @@
         </place>
         <place type="P" xml:id="kbga-places-112">
           <placeName>Kopenhagen</placeName>
-          <placeName type="full">Kopenhagen</placeName>
+          <placeName type="full">Kopenhagen </placeName>
           <location>
             <geo>55.67594 12.56553</geo>
           </location>
@@ -13139,7 +13364,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1081">
           <placeName>Korinth</placeName>
-          <placeName type="full">Korinth</placeName>
+          <placeName type="full">Korinth </placeName>
           <location>
             <geo>37.94007 22.9513</geo>
           </location>
@@ -13269,7 +13494,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1019">
           <placeName>Kreml</placeName>
-          <placeName type="full">Kreml / Moskau</placeName>
+          <placeName type="full">Kreml / Moskau </placeName>
           <location>
             <geo>55.75167 37.61778</geo>
           </location>
@@ -13342,7 +13567,7 @@
         </place>
         <place type="A" xml:id="kbga-places-998">
           <placeName>Kuba</placeName>
-          <placeName type="full">Kuba</placeName>
+          <placeName type="full">Kuba </placeName>
           <location>
             <geo>22 -79.5</geo>
           </location>
@@ -13524,7 +13749,7 @@
         </place>
         <place type="P" xml:id="kbga-places-912">
           <placeName>Kyoto</placeName>
-          <placeName type="full">Kyoto</placeName>
+          <placeName type="full">Kyoto </placeName>
           <location>
             <geo>35.02107 135.75385</geo>
           </location>
@@ -13631,7 +13856,7 @@
         </place>
         <place type="P" xml:id="kbga-places-593">
           <placeName>Landsberg an der Warthe</placeName>
-          <placeName type="full">Landsberg an der Warthe</placeName>
+          <placeName type="full">Landsberg an der Warthe </placeName>
           <placeName type="alternative">Gorzów Wielkopolski</placeName>
           <location>
             <geo>52.73679 15.22878</geo>
@@ -13811,7 +14036,7 @@
         </place>
         <place xml:id="kbga-places-497">
           <placeName>Läufelfingen</placeName>
-          <placeName type="full">Läufelfingen</placeName>
+          <placeName type="full">Läufelfingen </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-248">
@@ -13910,7 +14135,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1342">
           <placeName>Lauterbrunnental</placeName>
-          <placeName type="full">Lauterbrunnental</placeName>
+          <placeName type="full">Lauterbrunnental </placeName>
           <country>Schweiz</country>
           <listBibl/>
         </place>
@@ -13921,7 +14146,7 @@
         </place>
         <place type="P" xml:id="kbga-places-83">
           <placeName>Leiden (NL)</placeName>
-          <placeName type="full">Leiden (NL)</placeName>
+          <placeName type="full">Leiden (NL) </placeName>
           <location>
             <geo>52.15833 4.49306</geo>
           </location>
@@ -14039,7 +14264,7 @@
         </place>
         <place type="P" xml:id="kbga-places-837">
           <placeName>Leitomischl / Litomyšl</placeName>
-          <placeName type="full">Leitomischl / Litomyšl</placeName>
+          <placeName type="full">Leitomischl / Litomyšl </placeName>
           <location>
             <geo>49.86809 16.31298</geo>
           </location>
@@ -14124,6 +14349,34 @@
           </listBibl>
           <note type="description">Kleinstadt im Kanton Aargau.</note>
         </place>
+        <place type="T" xml:id="kbga-places-251">
+          <placeName>Leuenberg</placeName>
+          <placeName type="full">Leuenberg / Hölstein (BL)</placeName>
+          <location>
+            <geo>47.42989 7.77735</geo>
+          </location>
+          <settlement>Hölstein</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/11765356">https://www.geonames.org/11765356</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/6526">https://kba.karl-barth.ch/places/6526</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q15825730">https://www.wikidata.org/wiki/Q15825730</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Leuenberg">https://de.wikipedia.org/wiki/Leuenberg</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/11765356"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/6526"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q15825730"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Leuenberg"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Hügel nahe Hölstein bei Basel; langjähriger Sitz eines evangelisch-reformierten Tagungszentrums.</note>
+        </place>
         <place type="P" xml:id="kbga-places-76">
           <placeName>Leutwil</placeName>
           <placeName type="full">Leutwil (AG)</placeName>
@@ -14170,12 +14423,12 @@
         </place>
         <place type="A" xml:id="kbga-places-1110">
           <placeName>Libanon</placeName>
-          <placeName type="full">Libanon</placeName>
+          <placeName type="full">Libanon </placeName>
           <listBibl/>
         </place>
         <place type="H" xml:id="kbga-places-1096">
           <placeName>Limmat</placeName>
-          <placeName type="full">Limmat</placeName>
+          <placeName type="full">Limmat </placeName>
           <location>
             <geo>47.49401 8.2449</geo>
           </location>
@@ -14265,7 +14518,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1123">
           <placeName>Lissabon</placeName>
-          <placeName type="full">Lissabon</placeName>
+          <placeName type="full">Lissabon </placeName>
           <location>
             <geo>38.71667 -9.13333</geo>
           </location>
@@ -14308,7 +14561,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1079">
           <placeName>Liverpool</placeName>
-          <placeName type="full">Liverpool</placeName>
+          <placeName type="full">Liverpool </placeName>
           <location>
             <geo>53.41058 -2.97794</geo>
           </location>
@@ -14395,6 +14648,7 @@
               <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/09319a.htm"/>
             </bibl>
           </listBibl>
+          <note type="description">Ehemalige Zisterzienser-Abtei in der Nähe Hannovers; Sitz eines im 16. Jahrhundert aus dem früheren Kloster hervorgegangenen, evangelischen Konvents, sowie eines Predigerseminars der hannoverschen Landeskirche; 1933 Ort der Verhandlungen des Drei-Männer-Kollegiums über eine Verfassung für die Deutsche Evangelische Kirche.</note>
         </place>
         <place type="S" xml:id="kbga-places-1382">
           <placeName>Lohnhof</placeName>
@@ -14549,10 +14803,11 @@
               <ptr type="geonames" target="https://www.geonames.org/2997551"/>
             </bibl>
           </listBibl>
+          <note type="description">Region in Nordostfrankreich, 1871-1918 und 1940-1944 zum Deutschen Reich gehörig.</note>
         </place>
         <place type="P" xml:id="kbga-places-975">
           <placeName>Löwen</placeName>
-          <placeName type="full">Löwen</placeName>
+          <placeName type="full">Löwen </placeName>
           <placeName type="alternative">Leuven</placeName>
           <placeName type="alternative">Louvain</placeName>
           <location>
@@ -14682,7 +14937,7 @@
         </place>
         <place type="P" xml:id="kbga-places-254">
           <placeName>Lund</placeName>
-          <placeName type="full">Lund</placeName>
+          <placeName type="full">Lund </placeName>
           <location>
             <geo>55.70584 13.19321</geo>
           </location>
@@ -14904,7 +15159,7 @@
         </place>
         <place type="P" xml:id="kbga-places-735">
           <placeName>Lyon</placeName>
-          <placeName type="full">Lyon</placeName>
+          <placeName type="full">Lyon </placeName>
           <placeName type="alternative">Lugdunum</placeName>
           <location>
             <geo>45.74846 4.84671</geo>
@@ -14999,7 +15254,7 @@
         </place>
         <place type="A" xml:id="kbga-places-824">
           <placeName>Mähren</placeName>
-          <placeName type="full">Mähren</placeName>
+          <placeName type="full">Mähren </placeName>
           <location>
             <geo>49.19522 16.60796</geo>
           </location>
@@ -15050,7 +15305,7 @@
         </place>
         <place type="P" xml:id="kbga-places-103">
           <placeName>Mailand</placeName>
-          <placeName type="full">Mailand</placeName>
+          <placeName type="full">Mailand </placeName>
           <location>
             <geo>45.46427 9.18951</geo>
           </location>
@@ -15172,7 +15427,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1031">
           <placeName>Makedonien</placeName>
-          <placeName type="full">Makedonien</placeName>
+          <placeName type="full">Makedonien </placeName>
           <location>
             <geo>41.66667 21.75</geo>
           </location>
@@ -15307,7 +15562,7 @@
         </place>
         <place type="P" xml:id="kbga-places-796">
           <placeName>Marienburg</placeName>
-          <placeName type="full">Marienburg</placeName>
+          <placeName type="full">Marienburg </placeName>
           <placeName type="alternative">Malbork</placeName>
           <location>
             <geo>54.03591 19.0266</geo>
@@ -15351,7 +15606,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1198">
           <placeName>Marignano</placeName>
-          <placeName type="full">Marignano</placeName>
+          <placeName type="full">Marignano </placeName>
           <placeName type="alternative">Melegnano</placeName>
           <country>Italien</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Melegnano">https://de.wikipedia.org/wiki/Melegnano</idno>
@@ -15411,7 +15666,7 @@
         </place>
         <place type="H" xml:id="kbga-places-597">
           <placeName>Marne</placeName>
-          <placeName type="full">Marne</placeName>
+          <placeName type="full">Marne </placeName>
           <location>
             <geo>48.81641 2.41162</geo>
           </location>
@@ -15450,7 +15705,13 @@
         </place>
         <place xml:id="kbga-places-909">
           <placeName>Marokko</placeName>
-          <placeName type="full">Marokko</placeName>
+          <placeName type="full">Marokko </placeName>
+          <listBibl/>
+        </place>
+        <place type="A" xml:id="kbga-places-1466">
+          <placeName>Marshallinseln</placeName>
+          <placeName type="full">Marshallinseln </placeName>
+          <placeName type="alternative">Marshall-Inseln</placeName>
           <listBibl/>
         </place>
         <place type="S" xml:id="kbga-places-513">
@@ -15487,7 +15748,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1385">
           <placeName>Masuren</placeName>
-          <placeName type="full">Masuren</placeName>
+          <placeName type="full">Masuren </placeName>
           <placeName type="alternative">Mazury</placeName>
           <location>
             <geo>53.5 21.5</geo>
@@ -15644,7 +15905,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1404">
           <placeName>Mazedonien</placeName>
-          <placeName type="full">Mazedonien</placeName>
+          <placeName type="full">Mazedonien </placeName>
           <placeName type="alternative">Makedonien</placeName>
           <location>
             <geo>40.64361 22.93086</geo>
@@ -15902,10 +16163,11 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Menziken"/>
             </bibl>
           </listBibl>
+          <note type="description">Einwohnergemeinde im Oberen Wynental im Kanton Aargau.</note>
         </place>
         <place type="P" xml:id="kbga-places-1048">
           <placeName>Meros</placeName>
-          <placeName type="full">Meros</placeName>
+          <placeName type="full">Meros </placeName>
           <placeName type="alternative">Meroz</placeName>
           <location>
             <geo>32.56006 35.47681</geo>
@@ -15929,7 +16191,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1053">
           <placeName>Mesopotamien</placeName>
-          <placeName type="full">Mesopotamien</placeName>
+          <placeName type="full">Mesopotamien </placeName>
           <placeName type="alternative">Zweistromland</placeName>
           <location>
             <geo>32.54083 44.42417</geo>
@@ -16040,7 +16302,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1085">
           <placeName>Mittelland</placeName>
-          <placeName type="full">Mittelland</placeName>
+          <placeName type="full">Mittelland </placeName>
           <location>
             <geo>47 7.75</geo>
           </location>
@@ -16063,7 +16325,7 @@
         </place>
         <place type="H" xml:id="kbga-places-985">
           <placeName>Mittelmeer</placeName>
-          <placeName type="full">Mittelmeer</placeName>
+          <placeName type="full">Mittelmeer </placeName>
           <location>
             <geo>35 20</geo>
           </location>
@@ -16142,6 +16404,40 @@
           </listBibl>
           <note type="description">Ehemalige politische Gemeinde im Kanton Glarus, seit 2011 zu Glarus Nord gehörig.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1468">
+          <placeName>Montebello-Inseln</placeName>
+          <placeName type="full">Montebello-Inseln </placeName>
+          <location>
+            <geo>-20.46667 115.53333</geo>
+          </location>
+          <country>Australien</country>
+          <idno type="geonames" target="https://www.geonames.org/2065957">https://www.geonames.org/2065957</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Montebello-Inseln">https://de.wikipedia.org/wiki/Montebello-Inseln</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1268314">https://www.wikidata.org/wiki/Q1268314</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Montebello-Islands">https://www.britannica.com/place/Montebello-Islands</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh95001120">https://id.loc.gov/authorities/sh95001120</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/248286015/">https://viaf.org/viaf/248286015/</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2065957"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Montebello-Inseln"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1268314"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Montebello-Islands"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh95001120"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/248286015/"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="P" xml:id="kbga-places-1199">
           <placeName>Monza</placeName>
           <placeName type="full">Monza (Lombardei)</placeName>
@@ -16185,14 +16481,42 @@
           </listBibl>
           <note type="description">Stadt in der Lombardei im nordwestlichen Italien, Hauptort der Provinz Monza und Brianza.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1406">
+          <placeName>Morgarten</placeName>
+          <placeName type="full">Morgarten (ZG)</placeName>
+          <placeName type="alternative">Hauptsee</placeName>
+          <location>
+            <geo>47.10261 8.63979</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2659589">https://www.geonames.org/2659589</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803357969">https://search.ortsnamen.ch/de/record/803357969</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q20826973">https://www.wikidata.org/wiki/Q20826973</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Morgarten_ZG">https://de.wikipedia.org/wiki/Morgarten_ZG</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2659589"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803357969"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q20826973"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Morgarten_ZG"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Dorf in der Gemeinde Oberägeri im Kanton Zug, Schweiz; ursprünglicher Name: Hauptsee, 1905 in Erinnerung an die Schlacht am Morgarten von 1315 umbenannt.</note>
+        </place>
         <place xml:id="kbga-places-494">
           <placeName>Morschach</placeName>
-          <placeName type="full">Morschach</placeName>
+          <placeName type="full">Morschach </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-42">
           <placeName>Moskau</placeName>
-          <placeName type="full">Moskau</placeName>
+          <placeName type="full">Moskau </placeName>
           <location>
             <geo>55.75222 37.61556</geo>
           </location>
@@ -16267,6 +16591,7 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4450865-7"/>
             </bibl>
           </listBibl>
+          <note type="description">1972 eingemeindeter Ortsteil der Stadt Bad Liebenzell; 1838–1852 Wirkungsort Johann Christoph Blumhardts (vor seiner Übersiedlung nach Bad Boll).</note>
         </place>
         <place type="P" xml:id="kbga-places-974">
           <placeName>Mulhouse</placeName>
@@ -16314,7 +16639,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1379">
           <placeName>München-Pasing</placeName>
-          <placeName type="full">München-Pasing</placeName>
+          <placeName type="full">München-Pasing </placeName>
           <location>
             <geo>48.14146 11.45599</geo>
           </location>
@@ -16509,7 +16834,7 @@
         </place>
         <place type="P" xml:id="kbga-places-822">
           <placeName>Myslibořice</placeName>
-          <placeName type="full">Myslibořice</placeName>
+          <placeName type="full">Myslibořice </placeName>
           <location>
             <geo>49.10289 15.98456</geo>
           </location>
@@ -16526,6 +16851,12 @@
             </bibl>
           </listBibl>
           <note type="description">Gemeinde im Süden der Tschechischen Republik, etwa 60km westlich von Brünn/Brno gelegen. Barth hielt hier im August 1935 den Vortrag «Die theologischen Voraussetzungen kirchlicher Gestaltung» an einer Pfarrerkonferenz.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1454">
+          <placeName>Nagasaki</placeName>
+          <placeName type="full">Nagasaki </placeName>
+          <country>Japan</country>
+          <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-271">
           <placeName>Nashville</placeName>
@@ -16576,7 +16907,7 @@
         </place>
         <place type="A" xml:id="kbga-places-272">
           <placeName>Nassau</placeName>
-          <placeName type="full">Nassau</placeName>
+          <placeName type="full">Nassau </placeName>
           <placeName type="alternative">Hessen-Nassau</placeName>
           <location>
             <geo>50.08258 8.24932</geo>
@@ -16608,7 +16939,7 @@
         </place>
         <place type="P" xml:id="kbga-places-948">
           <placeName>Nazareth</placeName>
-          <placeName type="full">Nazareth</placeName>
+          <placeName type="full">Nazareth </placeName>
           <placeName type="alternative">Nazaret</placeName>
           <location>
             <geo>32.70056 35.29722</geo>
@@ -16657,7 +16988,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1263">
           <placeName>Neapel</placeName>
-          <placeName type="full">Neapel</placeName>
+          <placeName type="full">Neapel </placeName>
           <placeName type="alternative">Neapolis</placeName>
           <location>
             <geo>40.88333 14.41667</geo>
@@ -16709,7 +17040,7 @@
         </place>
         <place type="T" xml:id="kbga-places-1105">
           <placeName>Nebo</placeName>
-          <placeName type="full">Nebo</placeName>
+          <placeName type="full">Nebo </placeName>
           <location>
             <geo>31.76546 35.7223</geo>
           </location>
@@ -16831,7 +17162,7 @@
               <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n50004037"/>
             </bibl>
           </listBibl>
-          <note type="description">Hauptort des westschweizerischen Kantons Neuenburg.</note>
+          <note type="description">Hauptort des gleichnamigen westschweizerischen Kantons.</note>
         </place>
         <place type="A" xml:id="kbga-places-411">
           <placeName>Neuenburg (Kanton)</placeName>
@@ -16854,7 +17185,7 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q257353"/>
             </bibl>
           </listBibl>
-          <note type="description">Zweisprachiger Kanton in der Romandie / Westschweiz.</note>
+          <note type="description">Territorium des gleichnamigen Kantons in der Romandie / Westschweiz.</note>
         </place>
         <place type="P" xml:id="kbga-places-882">
           <placeName>Neuenhaus</placeName>
@@ -16967,6 +17298,12 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="A" xml:id="kbga-places-1462">
+          <placeName>New Mexico</placeName>
+          <placeName type="full">New Mexico </placeName>
+          <country>Vereinigte Staaten von Amerika</country>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-47">
           <placeName>New York</placeName>
           <placeName type="full">New York (NY)</placeName>
@@ -16993,7 +17330,7 @@
         </place>
         <place type="H" xml:id="kbga-places-1002">
           <placeName>Niagara</placeName>
-          <placeName type="full">Niagara</placeName>
+          <placeName type="full">Niagara </placeName>
           <location>
             <geo>43.07732 -79.07501</geo>
           </location>
@@ -17029,6 +17366,43 @@
           </listBibl>
           <note type="description">Grenzfluss zwischen Kanada (Provinz Ontario) und den USA (Bundesstaat New York); berühmt wegen der gleichnamigen Wasserfälle.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1450">
+          <placeName>Nicaea</placeName>
+          <placeName type="full">Nicaea </placeName>
+          <placeName type="alternative">Nicäa</placeName>
+          <placeName type="alternative">İznik</placeName>
+          <location>
+            <geo>40.42861 29.72111</geo>
+          </location>
+          <settlement>Nicaea</settlement>
+          <country>Türkei</country>
+          <idno type="geonames" target="https://www.geonames.org/745026">https://www.geonames.org/745026</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/İznik">https://de.wikipedia.org/wiki/İznik</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q217125">https://www.wikidata.org/wiki/Q217125</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n82075687">https://id.loc.gov/authorities/n82075687</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4027895-5">https://d-nb.info/gnd/4027895-5</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/144877764">https://viaf.org/viaf/144877764</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/745026"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/İznik"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q217125"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82075687"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4027895-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/144877764"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="P" xml:id="kbga-places-1066">
           <placeName>Niedergrenzebach</placeName>
           <placeName type="full">Niedergrenzebach (Hessen)</placeName>
@@ -17062,7 +17436,7 @@
         </place>
         <place type="A" xml:id="kbga-places-514">
           <placeName>Niederlande</placeName>
-          <placeName type="full">Niederlande</placeName>
+          <placeName type="full">Niederlande </placeName>
           <placeName type="alternative">Holland</placeName>
           <location>
             <geo>52.25 5.75</geo>
@@ -17114,12 +17488,12 @@
         </place>
         <place type="H" xml:id="kbga-places-1133">
           <placeName>Nil</placeName>
-          <placeName type="full">Nil</placeName>
+          <placeName type="full">Nil </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1235">
           <placeName>Ninive</placeName>
-          <placeName type="full">Ninive</placeName>
+          <placeName type="full">Ninive </placeName>
           <location>
             <geo>36.36768 43.15667</geo>
           </location>
@@ -17162,7 +17536,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1101">
           <placeName>Nord-Mazedonien</placeName>
-          <placeName type="full">Nord-Mazedonien</placeName>
+          <placeName type="full">Nord-Mazedonien </placeName>
           <location>
             <geo>41.66667 21.75</geo>
           </location>
@@ -17208,7 +17582,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1027">
           <placeName>Nordafrika</placeName>
-          <placeName type="full">Nordafrika</placeName>
+          <placeName type="full">Nordafrika </placeName>
           <location>
             <geo>32.95337 9.97559</geo>
           </location>
@@ -17253,7 +17627,7 @@
         </place>
         <place type="A" xml:id="kbga-places-940">
           <placeName>Nordamerika</placeName>
-          <placeName type="full">Nordamerika</placeName>
+          <placeName type="full">Nordamerika </placeName>
           <placeName type="alternative">North America</placeName>
           <location>
             <geo>46.07323 -100.54688</geo>
@@ -17296,7 +17670,7 @@
         </place>
         <place type="A" xml:id="kbga-places-277">
           <placeName>Norddeutschland</placeName>
-          <placeName type="full">Norddeutschland</placeName>
+          <placeName type="full">Norddeutschland </placeName>
           <location>
             <geo>53.69965 10.77256</geo>
           </location>
@@ -17414,7 +17788,7 @@
         </place>
         <place type="H" xml:id="kbga-places-984">
           <placeName>Nordsee</placeName>
-          <placeName type="full">Nordsee</placeName>
+          <placeName type="full">Nordsee </placeName>
           <location>
             <geo>55.33333 3</geo>
           </location>
@@ -17455,7 +17829,7 @@
         </place>
         <place type="A" xml:id="kbga-places-870">
           <placeName>Norwegen</placeName>
-          <placeName type="full">Norwegen</placeName>
+          <placeName type="full">Norwegen </placeName>
           <location>
             <geo>62 10</geo>
           </location>
@@ -17573,7 +17947,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1206">
           <placeName>Novara</placeName>
-          <placeName type="full">Novara</placeName>
+          <placeName type="full">Novara </placeName>
           <location>
             <geo>45.44694 8.62118</geo>
           </location>
@@ -17620,7 +17994,7 @@
         </place>
         <place type="P" xml:id="kbga-places-145">
           <placeName>Noyon</placeName>
-          <placeName type="full">Noyon</placeName>
+          <placeName type="full">Noyon </placeName>
           <location>
             <geo>49.58333 3</geo>
           </location>
@@ -17854,6 +18228,12 @@
           </listBibl>
           <note type="description">Einwohnergemeinde im Schweizer Kanton Aargau, in direkter Nachbarschaft zu Safenwil gelegen.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1461">
+          <placeName>Okinawa</placeName>
+          <placeName type="full">Okinawa </placeName>
+          <country>Japan</country>
+          <listBibl/>
+        </place>
         <place type="L" xml:id="kbga-places-950">
           <placeName>Ölberg</placeName>
           <placeName type="full">Ölberg / Jerusalem (Bezirk Jerusalem)</placeName>
@@ -17946,7 +18326,7 @@
         </place>
         <place type="A" xml:id="kbga-places-414">
           <placeName>Oldenburg</placeName>
-          <placeName type="full">Oldenburg</placeName>
+          <placeName type="full">Oldenburg </placeName>
           <location>
             <geo>53.14118 8.21467</geo>
           </location>
@@ -18029,12 +18409,12 @@
         </place>
         <place xml:id="kbga-places-505">
           <placeName>Oltingen</placeName>
-          <placeName type="full">Oltingen</placeName>
+          <placeName type="full">Oltingen </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-1125">
           <placeName>Olympia</placeName>
-          <placeName type="full">Olympia</placeName>
+          <placeName type="full">Olympia </placeName>
           <country>Griechenland</country>
           <listBibl/>
         </place>
@@ -18189,7 +18569,7 @@
         </place>
         <place type="P" xml:id="kbga-places-283">
           <placeName>Oslo</placeName>
-          <placeName type="full">Oslo</placeName>
+          <placeName type="full">Oslo </placeName>
           <placeName type="alternative">Christiana</placeName>
           <placeName type="alternative">Kristiana</placeName>
           <location>
@@ -18282,12 +18662,12 @@
         </place>
         <place type="P" xml:id="kbga-places-480">
           <placeName>Ostermundigen</placeName>
-          <placeName type="full">Ostermundigen</placeName>
+          <placeName type="full">Ostermundigen </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-380">
           <placeName>Österreich</placeName>
-          <placeName type="full">Österreich</placeName>
+          <placeName type="full">Österreich </placeName>
           <location>
             <geo>47.33333 13.33333</geo>
           </location>
@@ -18334,7 +18714,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1041">
           <placeName>Österreich-Ungarn</placeName>
-          <placeName type="full">Österreich-Ungarn</placeName>
+          <placeName type="full">Österreich-Ungarn </placeName>
           <location>
             <geo>48.20849 16.37208</geo>
           </location>
@@ -18419,7 +18799,7 @@
         </place>
         <place type="A" xml:id="kbga-places-866">
           <placeName>Ostpreußen</placeName>
-          <placeName type="full">Ostpreußen</placeName>
+          <placeName type="full">Ostpreußen </placeName>
           <location>
             <geo>54.70649 20.51095</geo>
           </location>
@@ -18462,7 +18842,7 @@
         </place>
         <place type="A" xml:id="kbga-places-922">
           <placeName>Ostschweiz</placeName>
-          <placeName type="full">Ostschweiz</placeName>
+          <placeName type="full">Ostschweiz </placeName>
           <location>
             <geo>47.41322 9.03625</geo>
           </location>
@@ -18489,7 +18869,7 @@
         </place>
         <place type="H" xml:id="kbga-places-986">
           <placeName>Ostsee</placeName>
-          <placeName type="full">Ostsee</placeName>
+          <placeName type="full">Ostsee </placeName>
           <location>
             <geo>56 18</geo>
           </location>
@@ -18559,7 +18939,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1057">
           <placeName>Oxford</placeName>
-          <placeName type="full">Oxford</placeName>
+          <placeName type="full">Oxford </placeName>
           <location>
             <geo>51.75222 -1.25596</geo>
           </location>
@@ -18606,7 +18986,7 @@
         </place>
         <place type="A" xml:id="kbga-places-871">
           <placeName>Palästina</placeName>
-          <placeName type="full">Palästina</placeName>
+          <placeName type="full">Palästina </placeName>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Palästina_(Region)">https://de.wikipedia.org/wiki/Palästina_(Region)</idno>
           <listBibl>
             <bibl>
@@ -18786,7 +19166,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1061">
           <placeName>Patmos</placeName>
-          <placeName type="full">Patmos</placeName>
+          <placeName type="full">Patmos </placeName>
           <location>
             <geo>37.30895 26.54723</geo>
           </location>
@@ -18853,7 +19233,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1233">
           <placeName>Pavia</placeName>
-          <placeName type="full">Pavia</placeName>
+          <placeName type="full">Pavia </placeName>
           <location>
             <geo>45.19205 9.15917</geo>
           </location>
@@ -18894,9 +19274,15 @@
           </listBibl>
           <note type="description">Stadt in der Lombardei, südlich von Mailand gelegen; 1524/25 von französischen Truppen unter Franz I. belagert, die in der Schlacht von Pavia im Februar 1525 den spanischen Truppen unter Karl V. unterlagen.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1467">
+          <placeName>Peenemünde</placeName>
+          <placeName type="full">Peenemünde (Mecklenburg-Vorpommern)</placeName>
+          <country>Deutschland</country>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-285">
           <placeName>Peking</placeName>
-          <placeName type="full">Peking</placeName>
+          <placeName type="full">Peking </placeName>
           <placeName type="alternative">Běijīng</placeName>
           <location>
             <geo>39.9075 116.39723</geo>
@@ -18984,7 +19370,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1114">
           <placeName>Persien</placeName>
-          <placeName type="full">Persien</placeName>
+          <placeName type="full">Persien </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-466">
@@ -19025,10 +19411,11 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Peseux_NE"/>
             </bibl>
           </listBibl>
+          <note type="description">Ortschaft im Kanton Neuenburg, ehemalige politische Gemeinde, heute Teil der Gemeinde Neuenburg.</note>
         </place>
         <place type="S" xml:id="kbga-places-1091">
           <placeName>Petersdom</placeName>
-          <placeName type="full">Petersdom / Rom</placeName>
+          <placeName type="full">Petersdom / Rom </placeName>
           <placeName type="alternative">San Pietro del Vaticano</placeName>
           <placeName type="alternative">Peterskirche</placeName>
           <settlement>Rom</settlement>
@@ -19100,7 +19487,7 @@
         </place>
         <place type="A" xml:id="kbga-places-642">
           <placeName>Pfalz</placeName>
-          <placeName type="full">Pfalz</placeName>
+          <placeName type="full">Pfalz </placeName>
           <placeName type="alternative">Kurpfalz</placeName>
           <placeName type="alternative">Kurfürstentum Pfalz</placeName>
           <placeName type="alternative">kurfürstlich rheinische Pfalzgrafschaft</placeName>
@@ -19137,7 +19524,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1047">
           <placeName>Philippi</placeName>
-          <placeName type="full">Philippi</placeName>
+          <placeName type="full">Philippi </placeName>
           <location>
             <geo>41.01161 24.28427</geo>
           </location>
@@ -19176,7 +19563,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1023">
           <placeName>Philippinen</placeName>
-          <placeName type="full">Philippinen</placeName>
+          <placeName type="full">Philippinen </placeName>
           <location>
             <geo>13.40882 122.56155</geo>
           </location>
@@ -19257,10 +19644,11 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Piave-River"/>
             </bibl>
           </listBibl>
+          <note type="description">Tal entlang des Laufs des gleichnamigen Flusses in Norditalien, zwischen Karnischen Alpen und Adria.</note>
         </place>
         <place type="A" xml:id="kbga-places-146">
           <placeName>Picardie</placeName>
-          <placeName type="full">Picardie</placeName>
+          <placeName type="full">Picardie </placeName>
           <location>
             <geo>49.63333 2.8</geo>
           </location>
@@ -19307,7 +19695,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1069">
           <placeName>Pisa</placeName>
-          <placeName type="full">Pisa</placeName>
+          <placeName type="full">Pisa </placeName>
           <location>
             <geo>43.70853 10.4036</geo>
           </location>
@@ -19354,7 +19742,7 @@
         </place>
         <place type="T" xml:id="kbga-places-1106">
           <placeName>Pisgah</placeName>
-          <placeName type="full">Pisgah</placeName>
+          <placeName type="full">Pisgah </placeName>
           <placeName type="alternative">Pisga</placeName>
           <location>
             <geo>31.76508 35.72144</geo>
@@ -19407,7 +19795,7 @@
         </place>
         <place type="S" xml:id="kbga-places-956">
           <placeName>Pniel</placeName>
-          <placeName type="full">Pniel / Israel</placeName>
+          <placeName type="full">Pniel / Israel </placeName>
           <placeName type="alternative">Penuel</placeName>
           <placeName type="alternative">Peniel</placeName>
           <location>
@@ -19432,7 +19820,7 @@
         </place>
         <place type="A" xml:id="kbga-places-286">
           <placeName>Polen</placeName>
-          <placeName type="full">Polen</placeName>
+          <placeName type="full">Polen </placeName>
           <placeName type="alternative">Republik Polen</placeName>
           <location>
             <geo>52 20</geo>
@@ -19484,7 +19872,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1013">
           <placeName>Port Fuad</placeName>
-          <placeName type="full">Port Fuad / Port Said</placeName>
+          <placeName type="full">Port Fuad / Port Said </placeName>
           <placeName type="alternative">Port Fuod</placeName>
           <location>
             <geo>31.25221 32.32531</geo>
@@ -19508,7 +19896,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1009">
           <placeName>Port Said</placeName>
-          <placeName type="full">Port Said</placeName>
+          <placeName type="full">Port Said </placeName>
           <location>
             <geo>31.26531 32.3019</geo>
           </location>
@@ -19547,7 +19935,7 @@
         </place>
         <place type="A" xml:id="kbga-places-1275">
           <placeName>Portugal</placeName>
-          <placeName type="full">Portugal</placeName>
+          <placeName type="full">Portugal </placeName>
           <location>
             <geo>39.6945 -8.13057</geo>
           </location>
@@ -19698,7 +20086,7 @@
         </place>
         <place type="P" xml:id="kbga-places-86">
           <placeName>Prag</placeName>
-          <placeName type="full">Prag</placeName>
+          <placeName type="full">Prag </placeName>
           <location>
             <geo>50.08804 14.42076</geo>
           </location>
@@ -19788,7 +20176,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1218">
           <placeName>Predigerkloster</placeName>
-          <placeName type="full">Predigerkloster / Zürich</placeName>
+          <placeName type="full">Predigerkloster / Zürich </placeName>
           <location>
             <geo>47.37385 8.54523</geo>
           </location>
@@ -19811,7 +20199,7 @@
         </place>
         <place type="A" xml:id="kbga-places-289">
           <placeName>Preußen</placeName>
-          <placeName type="full">Preußen</placeName>
+          <placeName type="full">Preußen </placeName>
           <placeName type="alternative">Herzogtum Preußen</placeName>
           <placeName type="alternative">Königlich Preußen</placeName>
           <placeName type="alternative">Königreich Preußen</placeName>
@@ -19944,7 +20332,7 @@
         </place>
         <place xml:id="kbga-places-778">
           <placeName>Rämismühle</placeName>
-          <placeName type="full">Rämismühle</placeName>
+          <placeName type="full">Rämismühle </placeName>
           <listBibl/>
         </place>
         <place type="T" xml:id="kbga-places-1241">
@@ -20066,7 +20454,7 @@
         </place>
         <place type="P" xml:id="kbga-places-474">
           <placeName>Regensberg</placeName>
-          <placeName type="full">Regensberg</placeName>
+          <placeName type="full">Regensberg </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-624">
@@ -20336,7 +20724,7 @@
         </place>
         <place type="H" xml:id="kbga-places-295">
           <placeName>Rhein</placeName>
-          <placeName type="full">Rhein</placeName>
+          <placeName type="full">Rhein </placeName>
           <location>
             <geo>51.97198 5.91545</geo>
           </location>
@@ -20385,7 +20773,7 @@
         </place>
         <place type="A" xml:id="kbga-places-914">
           <placeName>Rheinland</placeName>
-          <placeName type="full">Rheinland</placeName>
+          <placeName type="full">Rheinland </placeName>
           <location>
             <geo>50.25 7.11667</geo>
           </location>
@@ -20428,7 +20816,7 @@
         </place>
         <place type="H" xml:id="kbga-places-1040">
           <placeName>Rhone</placeName>
-          <placeName type="full">Rhone</placeName>
+          <placeName type="full">Rhone </placeName>
           <placeName type="alternative">Rhône</placeName>
           <location>
             <geo>45.99334 5.80781</geo>
@@ -20553,7 +20941,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1374">
           <placeName>Riga</placeName>
-          <placeName type="full">Riga</placeName>
+          <placeName type="full">Riga </placeName>
           <country>Lettland</country>
           <listBibl/>
         </place>
@@ -20598,7 +20986,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1380">
           <placeName>Rijeka</placeName>
-          <placeName type="full">Rijeka</placeName>
+          <placeName type="full">Rijeka </placeName>
           <placeName type="alternative">Fiume</placeName>
           <location>
             <geo>45.32673 14.44241</geo>
@@ -20657,7 +21045,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1354">
           <placeName>Rochdale bei Manchester</placeName>
-          <placeName type="full">Rochdale bei Manchester</placeName>
+          <placeName type="full">Rochdale bei Manchester </placeName>
           <country>Vereinigtes Königreich Großbritannien und Nordirland</country>
           <listBibl/>
         </place>
@@ -20701,17 +21089,17 @@
         </place>
         <place xml:id="kbga-places-473">
           <placeName>Rohr bei Aarau</placeName>
-          <placeName type="full">Rohr bei Aarau</placeName>
+          <placeName type="full">Rohr bei Aarau </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-481">
           <placeName>Romanshorn</placeName>
-          <placeName type="full">Romanshorn</placeName>
+          <placeName type="full">Romanshorn </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-53">
           <placeName>Rom</placeName>
-          <placeName type="full">Rom</placeName>
+          <placeName type="full">Rom </placeName>
           <location>
             <geo>41.89193 12.51133</geo>
           </location>
@@ -20763,17 +21151,17 @@
         </place>
         <place type="P" xml:id="kbga-places-1130">
           <placeName>Roncesvalles</placeName>
-          <placeName type="full">Roncesvalles</placeName>
+          <placeName type="full">Roncesvalles </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1120">
           <placeName>Rörshain</placeName>
-          <placeName type="full">Rörshain</placeName>
+          <placeName type="full">Rörshain </placeName>
           <listBibl/>
         </place>
         <place type="T" xml:id="kbga-places-1109">
           <placeName>Rosenlaui</placeName>
-          <placeName type="full">Rosenlaui</placeName>
+          <placeName type="full">Rosenlaui </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1103">
@@ -20852,7 +21240,7 @@
         </place>
         <place type="H" xml:id="kbga-places-979">
           <placeName>Rotes Meer</placeName>
-          <placeName type="full">Rotes Meer</placeName>
+          <placeName type="full">Rotes Meer </placeName>
           <location>
             <geo>20.26735 38.53455</geo>
           </location>
@@ -21074,7 +21462,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-793">
           <placeName>Rumänien</placeName>
-          <placeName type="full">Rumänien</placeName>
+          <placeName type="full">Rumänien </placeName>
           <placeName type="alternative">România</placeName>
           <location>
             <geo>46 25</geo>
@@ -21122,15 +21510,45 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/003369"/>
             </bibl>
           </listBibl>
+          <note type="description">Territorium des gleichnamigen Staates in Südosteuropa.</note>
         </place>
-        <place xml:id="kbga-places-496">
+        <place type="P" xml:id="kbga-places-496">
           <placeName>Rümlingen</placeName>
-          <placeName type="full">Rümlingen</placeName>
-          <listBibl/>
+          <placeName type="full">Rümlingen (BL)</placeName>
+          <location>
+            <geo>47.42435 7.84839</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/7286985">https://www.geonames.org/7286985</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Rümlingen">https://de.wikipedia.org/wiki/Rümlingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q67954">https://www.wikidata.org/wiki/Q67954</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001235">https://hls-dhs-dss.ch/de/articles/001235</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/148778345/">https://viaf.org/viaf/148778345/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/7501176-1">https://d-nb.info/gnd/7501176-1</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286985"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rümlingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q67954"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001235"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/148778345/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/7501176-1"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Kanton Basel-Landschaft, Bezirk Sissach.</note>
         </place>
         <place type="A" xml:id="kbga-places-297">
           <placeName>Russland</placeName>
-          <placeName type="full">Russland</placeName>
+          <placeName type="full">Russland </placeName>
           <location>
             <geo>60 100</geo>
           </location>
@@ -21351,9 +21769,15 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Einwohnergemeinde im Schweizer Kanton Aargau. Von 1911 bis 1921 lebte und wirkte Karl Barth hier als Pfarrer.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1458">
+          <placeName>Saipan</placeName>
+          <placeName type="full">Saipan (Marianen-Archipel)</placeName>
+          <country>Vereinigte Staaten von Amerika</country>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-1138">
           <placeName>Saïs</placeName>
-          <placeName type="full">Saïs</placeName>
+          <placeName type="full">Saïs </placeName>
           <country>Ägypten</country>
           <listBibl/>
         </place>
@@ -21435,7 +21859,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-965">
           <placeName>Samaria</placeName>
-          <placeName type="full">Samaria</placeName>
+          <placeName type="full">Samaria </placeName>
           <placeName type="alternative">Shomeron</placeName>
           <placeName type="alternative">Shomron</placeName>
           <location>
@@ -21471,7 +21895,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-303">
           <placeName>Sarajewo</placeName>
-          <placeName type="full">Sarajewo</placeName>
+          <placeName type="full">Sarajewo </placeName>
           <placeName type="alternative">Sarajevo</placeName>
           <location>
             <geo>43.84864 18.35644</geo>
@@ -21602,7 +22026,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-305">
           <placeName>Schanghai</placeName>
-          <placeName type="full">Schanghai</placeName>
+          <placeName type="full">Schanghai </placeName>
           <placeName type="alternative">Shanghai</placeName>
           <location>
             <geo>31.22222 121.45806</geo>
@@ -21649,12 +22073,12 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place xml:id="kbga-places-502">
           <placeName>Scharans</placeName>
-          <placeName type="full">Scharans</placeName>
+          <placeName type="full">Scharans </placeName>
           <listBibl/>
         </place>
         <place type="A" xml:id="kbga-places-1231">
           <placeName>Schenkenberg</placeName>
-          <placeName type="full">Schenkenberg</placeName>
+          <placeName type="full">Schenkenberg </placeName>
           <location>
             <geo>47.44214 8.1007</geo>
           </location>
@@ -21677,7 +22101,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place xml:id="kbga-places-764">
           <placeName>Schiers (Graubünden)</placeName>
-          <placeName type="full">Schiers (Graubünden)</placeName>
+          <placeName type="full">Schiers (Graubünden) </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1240">
@@ -21725,7 +22149,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-545">
           <placeName>Schlesien</placeName>
-          <placeName type="full">Schlesien</placeName>
+          <placeName type="full">Schlesien </placeName>
           <location>
             <geo>51 18</geo>
           </location>
@@ -21768,7 +22192,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-626">
           <placeName>Schleswig</placeName>
-          <placeName type="full">Schleswig</placeName>
+          <placeName type="full">Schleswig </placeName>
           <placeName type="alternative">Herzogtum Schleswig</placeName>
           <location>
             <geo>54.52156 9.5586</geo>
@@ -22134,7 +22558,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-1343">
           <placeName>Schmadribachfall</placeName>
-          <placeName type="full">Schmadribachfall</placeName>
+          <placeName type="full">Schmadribachfall </placeName>
           <country>Schweiz</country>
           <listBibl/>
         </place>
@@ -22253,10 +22677,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schönenwerd"/>
             </bibl>
           </listBibl>
+          <note type="description">Einwohnergemeinde im Bezirk Olten des Kantons Solothurn, seit Mitte des 19ten bis Ende des 20. Jahrhunderts besonders von den dort ansässigen Bally-Schuhfabriken geprägt, die auch viele Arbeiter aus dem benachbarten Safenwil beschäftigten.</note>
         </place>
         <place type="A" xml:id="kbga-places-669">
           <placeName>Schottland</placeName>
-          <placeName type="full">Schottland</placeName>
+          <placeName type="full">Schottland </placeName>
           <location>
             <geo>56 -4</geo>
           </location>
@@ -22342,7 +22767,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1237">
           <placeName>Schwaben</placeName>
-          <placeName type="full">Schwaben</placeName>
+          <placeName type="full">Schwaben </placeName>
           <location>
             <geo>48.33333 10.5</geo>
           </location>
@@ -22440,7 +22865,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-628">
           <placeName>Schweden</placeName>
-          <placeName type="full">Schweden</placeName>
+          <placeName type="full">Schweden </placeName>
           <location>
             <geo>62 15</geo>
           </location>
@@ -22491,11 +22916,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-58">
           <placeName>Schweiz</placeName>
-          <placeName type="full">Schweiz /  </placeName>
+          <placeName type="full">Schweiz </placeName>
           <location>
             <geo>47.00016 8.01427</geo>
           </location>
-          <settlement> </settlement>
+          <country>Schweiz</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schweiz">https://de.wikipedia.org/wiki/Schweiz</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/6715">https://kba.karl-barth.ch/places/6715</idno>
           <idno type="geonames" target="https://www.geonames.org/2658434">https://www.geonames.org/2658434</idno>
@@ -22589,7 +23014,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-947">
           <placeName>See Genezareth</placeName>
-          <placeName type="full">See Genezareth</placeName>
+          <placeName type="full">See Genezareth </placeName>
           <location>
             <geo>32.80723 35.59279</geo>
           </location>
@@ -22604,9 +23029,34 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-531">
           <placeName>Seetal</placeName>
-          <placeName type="full">Seetal (AG)</placeName>
+          <placeName type="full">Seetal </placeName>
+          <location>
+            <geo>47.26509 8.20523</geo>
+          </location>
           <country>Schweiz</country>
-          <listBibl/>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Seetal">https://de.wikipedia.org/wiki/Seetal</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2265704">https://www.wikidata.org/wiki/Q2265704</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4688020-3">https://d-nb.info/gnd/4688020-3</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/247672329">https://viaf.org/viaf/247672329</idno>
+          <idno type="geonames" target="https://www.geonames.org/7285181">https://www.geonames.org/7285181</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Seetal"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2265704"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4688020-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/247672329"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7285181"/>
+            </bibl>
+          </listBibl>
+          <note type="description">In Nord-Süd-Richtung verlaufendes Tal zwischen Emmen (nördlich von Luzern) und Lenzburg AG.</note>
         </place>
         <place type="P" xml:id="kbga-places-319">
           <placeName>Selfranga</placeName>
@@ -22715,7 +23165,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-320">
           <placeName>Serbien</placeName>
-          <placeName type="full">Serbien</placeName>
+          <placeName type="full">Serbien </placeName>
           <location>
             <geo>44.81892 20.45998</geo>
           </location>
@@ -22762,7 +23212,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-896">
           <placeName>Siebenbürgen</placeName>
-          <placeName type="full">Siebenbürgen</placeName>
+          <placeName type="full">Siebenbürgen </placeName>
           <placeName type="alternative">Transsylvanien</placeName>
           <placeName type="alternative">Transsilvanien</placeName>
           <location>
@@ -22846,7 +23296,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-413">
           <placeName>Sierra Leone</placeName>
-          <placeName type="full">Sierra Leone</placeName>
+          <placeName type="full">Sierra Leone </placeName>
           <location>
             <geo>8.5 -11.5</geo>
           </location>
@@ -22907,12 +23357,12 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1136">
           <placeName>Simmental</placeName>
-          <placeName type="full">Simmental</placeName>
+          <placeName type="full">Simmental </placeName>
           <listBibl/>
         </place>
         <place type="T" xml:id="kbga-places-865">
           <placeName>Sinai</placeName>
-          <placeName type="full">Sinai</placeName>
+          <placeName type="full">Sinai </placeName>
           <location>
             <geo>28.53914 33.97496</geo>
           </location>
@@ -22935,7 +23385,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1011">
           <placeName>Sinai-Halbinsel</placeName>
-          <placeName type="full">Sinai-Halbinsel</placeName>
+          <placeName type="full">Sinai-Halbinsel </placeName>
           <location>
             <geo>29 33.8</geo>
           </location>
@@ -22992,7 +23442,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-1334">
           <placeName>Sixtinische Kapelle</placeName>
-          <placeName type="full">Sixtinische Kapelle</placeName>
+          <placeName type="full">Sixtinische Kapelle </placeName>
           <location>
             <geo>41.90305 12.4544</geo>
           </location>
@@ -23030,10 +23480,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="gnd" target="https://d-nb.info/gnd/4104970-6"/>
             </bibl>
           </listBibl>
+          <note type="description">Eine der Kapellen des Apostolischen Palastes im Vatikan, Ort des Konklaves; in der Sixtinischen Kapelle befinden sich einige der berühmtesten Gemälde der Welt (u. a. von Sandro Boticelli und Michelangelo).</note>
         </place>
         <place type="A" xml:id="kbga-places-1028">
           <placeName>Sizilien</placeName>
-          <placeName type="full">Sizilien</placeName>
+          <placeName type="full">Sizilien </placeName>
           <location>
             <geo>37.75 14.25</geo>
           </location>
@@ -23068,7 +23519,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1003">
           <placeName>Skopje</placeName>
-          <placeName type="full">Skopje</placeName>
+          <placeName type="full">Skopje </placeName>
           <placeName type="alternative">Skoplje</placeName>
           <location>
             <geo>41.99646 21.43141</geo>
@@ -23112,7 +23563,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1042">
           <placeName>Sodom und Gomorra</placeName>
-          <placeName type="full">Sodom und Gomorra</placeName>
+          <placeName type="full">Sodom und Gomorra </placeName>
           <placeName type="alternative">Sodom und Gomorrha</placeName>
           <location>
             <geo>31.84131 35.6754</geo>
@@ -23144,6 +23595,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="geonames" target="https://www.geonames.org/249273"/>
             </bibl>
           </listBibl>
+          <note type="description">Zwei in der Bibel genannte Städte.</note>
         </place>
         <place type="P" xml:id="kbga-places-681">
           <placeName>Soest</placeName>
@@ -23189,8 +23641,41 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-616">
           <placeName>Solingen</placeName>
-          <placeName type="full">Solingen</placeName>
-          <listBibl/>
+          <placeName type="full">Solingen (NRW)</placeName>
+          <location>
+            <geo>51.17343 7.0845</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/3247433">https://www.geonames.org/3247433</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Solingen">https://de.wikipedia.org/wiki/Solingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2942">https://www.wikidata.org/wiki/Q2942</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Solingen">https://www.britannica.com/place/Solingen</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80146743">https://id.loc.gov/authorities/n80146743</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/265231507/">https://viaf.org/viaf/265231507/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4055431-4">https://d-nb.info/gnd/4055431-4</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/3247433"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Solingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2942"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Solingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80146743"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/265231507/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4055431-4"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Kreisfreie Großstadt in Nordrhein-Westfalen, Regierungsbezirk Düsseldorf; traditionelles Zentrum der deutschen Schneidwarenindustrie.</note>
         </place>
         <place type="P" xml:id="kbga-places-829">
           <placeName>Solln</placeName>
@@ -23324,7 +23809,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-944">
           <placeName>Sophienkirche</placeName>
-          <placeName type="full">Sophienkirche / Konstantinopel</placeName>
+          <placeName type="full">Sophienkirche / Konstantinopel </placeName>
           <placeName type="alternative">Hagia Sophia</placeName>
           <location>
             <geo>41.0086 28.98</geo>
@@ -23415,7 +23900,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1077">
           <placeName>Southampton</placeName>
-          <placeName type="full">Southampton</placeName>
+          <placeName type="full">Southampton </placeName>
           <location>
             <geo>50.90395 -1.40428</geo>
           </location>
@@ -23456,6 +23941,42 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Hafenstadt an der englischen Südküste.</note>
         </place>
+        <place type="A" xml:id="kbga-places-1425">
+          <placeName>Sowjetunion</placeName>
+          <placeName type="full">Sowjetunion </placeName>
+          <placeName type="alternative">Sowjetrussland, Russland</placeName>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q15180">https://www.wikidata.org/wiki/Q15180</idno>
+          <idno type="geonames" target="https://www.geonames.org/8354411">https://www.geonames.org/8354411</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Soviet-Union">https://www.britannica.com/place/Soviet-Union</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80126312">https://id.loc.gov/authorities/n80126312</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/134262032/">https://viaf.org/viaf/134262032/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4077548-3">https://d-nb.info/gnd/4077548-3</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Sowjetunion">https://de.wikipedia.org/wiki/Sowjetunion</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q15180"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/8354411"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Soviet-Union"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80126312"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/134262032/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4077548-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Sowjetunion"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Territorium des gleichnamigen ehemaligen sozialistischen Staates (1922–1991), das sich von Osteuropa und den Kaukasus bis nach Zentralsien und über das gesamte Nordasien erstreckte.</note>
+        </place>
         <place type="S" xml:id="kbga-places-321">
           <placeName>Spalentor</placeName>
           <placeName type="full">Spalentor / Basel (BS)</placeName>
@@ -23489,7 +24010,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-736">
           <placeName>Spanien</placeName>
-          <placeName type="full">Spanien</placeName>
+          <placeName type="full">Spanien </placeName>
           <location>
             <geo>40 -4</geo>
           </location>
@@ -23532,7 +24053,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1070">
           <placeName>Sparta</placeName>
-          <placeName type="full">Sparta</placeName>
+          <placeName type="full">Sparta </placeName>
           <location>
             <geo>37.07446 22.43009</geo>
           </location>
@@ -23578,7 +24099,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-322">
           <placeName>St. Andrews</placeName>
-          <placeName type="full">St. Andrews</placeName>
+          <placeName type="full">St. Andrews </placeName>
           <location>
             <geo>56.33871 -2.79902</geo>
           </location>
@@ -23751,7 +24272,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-1107">
           <placeName>St. James's Palace</placeName>
-          <placeName type="full">St. James's Palace / London</placeName>
+          <placeName type="full">St. James's Palace / London </placeName>
           <settlement>London</settlement>
           <country>Vereinigtes Königreich Großbritannien und Nordirland</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/St_James’s_Palace">https://de.wikipedia.org/wiki/St_James’s_Palace</idno>
@@ -23883,14 +24404,54 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Grösste reformierte Kirche im Kanton Graubünden, erbaut im spätgotischen Stil.</note>
         </place>
-        <place xml:id="kbga-places-886">
+        <place type="P" xml:id="kbga-places-886">
           <placeName>St. Petersburg</placeName>
-          <placeName type="full">St. Petersburg</placeName>
-          <listBibl/>
+          <placeName type="full">St. Petersburg </placeName>
+          <placeName type="alternative">Leningrad</placeName>
+          <placeName type="alternative">Petrograd</placeName>
+          <location>
+            <geo>59.93863 30.31413</geo>
+          </location>
+          <country>Russische Föderation</country>
+          <idno type="geonames" target="https://www.geonames.org/498817">https://www.geonames.org/498817</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Sankt_Petersburg">https://de.wikipedia.org/wiki/Sankt_Petersburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q656">https://www.wikidata.org/wiki/Q656</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/St-Petersburg-Russia">https://www.britannica.com/place/St-Petersburg-Russia</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/13374b.htm">https://www.newadvent.org/cathen/13374b.htm</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81039599">https://id.loc.gov/authorities/n81039599</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/139487820/">https://viaf.org/viaf/139487820/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4267026-3">https://d-nb.info/gnd/4267026-3</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/498817"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Sankt_Petersburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q656"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/St-Petersburg-Russia"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/13374b.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81039599"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/139487820/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4267026-3"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Zweitgrösste Stadt Russlands, 1703 von Peter d. Gr. gegründet, 1712 bis 1918 Hauptstadt des Russischen Kaiserreiches, 1914 umbenannt in Petrograd, 1924-1991 Leningrad.</note>
         </place>
         <place type="S" xml:id="kbga-places-1209">
           <placeName>St. Peterskirche</placeName>
-          <placeName type="full">St. Peterskirche / Zürich</placeName>
+          <placeName type="full">St. Peterskirche / Zürich </placeName>
           <location>
             <geo>47.3711 8.54083</geo>
           </location>
@@ -23969,7 +24530,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-326">
           <placeName>St. Salvatorkirche</placeName>
-          <placeName type="full">St. Salvatorkirche / Breslau</placeName>
+          <placeName type="full">St. Salvatorkirche / Breslau </placeName>
           <settlement>Breslau</settlement>
           <country>Polen</country>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Salvatorkirche_(Breslau)">https://de.wikipedia.org/wiki/Salvatorkirche_(Breslau)</idno>
@@ -24105,6 +24666,14 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Politische Gemeinde am oberen rechten Zürichseeufer im Bezirk Meilen im Kanton Zürich.</note>
         </place>
+        <place xml:id="kbga-places-1447">
+          <placeName>Stalingrad</placeName>
+          <placeName type="full">Stalingrad </placeName>
+          <placeName type="alternative">Volgograd</placeName>
+          <placeName type="alternative">Wolgograd</placeName>
+          <country>Russische Föderation</country>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-1216">
           <placeName>Stammheim</placeName>
           <placeName type="full">Stammheim (ZH)</placeName>
@@ -24134,7 +24703,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="S" xml:id="kbga-places-1032">
           <placeName>Staudamm von Vaiant</placeName>
-          <placeName type="full">Staudamm von Vaiant / Longarone</placeName>
+          <placeName type="full">Staudamm von Vaiant / Longarone </placeName>
           <placeName type="alternative">Vajont-Staumauer</placeName>
           <location>
             <geo>46.26724 12.3292</geo>
@@ -24162,7 +24731,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place xml:id="kbga-places-484">
           <placeName>Steinerberg</placeName>
-          <placeName type="full">Steinerberg</placeName>
+          <placeName type="full">Steinerberg </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-328">
@@ -24235,7 +24804,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-329">
           <placeName>Stockholm</placeName>
-          <placeName type="full">Stockholm</placeName>
+          <placeName type="full">Stockholm </placeName>
           <location>
             <geo>59.32938 18.06871</geo>
           </location>
@@ -24411,7 +24980,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1007">
           <placeName>Südamerika</placeName>
-          <placeName type="full">Südamerika</placeName>
+          <placeName type="full">Südamerika </placeName>
           <placeName type="alternative">Lateinamerika</placeName>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Südamerika">https://de.wikipedia.org/wiki/Südamerika</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q18">https://www.wikidata.org/wiki/Q18</idno>
@@ -24447,7 +25016,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1242">
           <placeName>Süddeutschland</placeName>
-          <placeName type="full">Süddeutschland</placeName>
+          <placeName type="full">Süddeutschland </placeName>
           <location>
             <geo>48.83777 10.0933</geo>
           </location>
@@ -24478,7 +25047,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1005">
           <placeName>Süditalien</placeName>
-          <placeName type="full">Süditalien</placeName>
+          <placeName type="full">Süditalien </placeName>
           <location>
             <geo>40.40542 15.93279</geo>
           </location>
@@ -24517,7 +25086,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1008">
           <placeName>Suez</placeName>
-          <placeName type="full">Suez</placeName>
+          <placeName type="full">Suez </placeName>
           <placeName type="alternative">Sues</placeName>
           <location>
             <geo>29.97371 32.52627</geo>
@@ -24622,12 +25191,12 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="T" xml:id="kbga-places-1373">
           <placeName>Sustenhorn</placeName>
-          <placeName type="full">Sustenhorn</placeName>
+          <placeName type="full">Sustenhorn </placeName>
           <listBibl/>
         </place>
         <place type="R" xml:id="kbga-places-434">
           <placeName>Sustenstrasse</placeName>
-          <placeName type="full">Sustenstrasse</placeName>
+          <placeName type="full">Sustenstrasse </placeName>
           <placeName type="alternative">Sustenpass</placeName>
           <location>
             <geo>46.72871 8.44899</geo>
@@ -24655,7 +25224,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-952">
           <placeName>Syrien</placeName>
-          <placeName type="full">Syrien</placeName>
+          <placeName type="full">Syrien </placeName>
           <location>
             <geo>35 38</geo>
           </location>
@@ -24706,7 +25275,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-834">
           <placeName>Tábor</placeName>
-          <placeName type="full">Tábor</placeName>
+          <placeName type="full">Tábor </placeName>
           <location>
             <geo>49.41441 14.6578</geo>
           </location>
@@ -24826,17 +25395,17 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place xml:id="kbga-places-615">
           <placeName>Taufkirchen</placeName>
-          <placeName type="full">Taufkirchen</placeName>
+          <placeName type="full">Taufkirchen </placeName>
           <listBibl/>
         </place>
         <place xml:id="kbga-places-934">
           <placeName>Tecklenburg</placeName>
-          <placeName type="full">Tecklenburg</placeName>
+          <placeName type="full">Tecklenburg </placeName>
           <listBibl/>
         </place>
         <place type="H" xml:id="kbga-places-1038">
           <placeName>Teich von Siloah</placeName>
-          <placeName type="full">Teich von Siloah / Jerusalem</placeName>
+          <placeName type="full">Teich von Siloah / Jerusalem </placeName>
           <location>
             <geo>31.77101 35.23474</geo>
           </location>
@@ -24860,7 +25429,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="T" xml:id="kbga-places-953">
           <placeName>Tempelberg</placeName>
-          <placeName type="full">Tempelberg / Jerusalem</placeName>
+          <placeName type="full">Tempelberg / Jerusalem </placeName>
           <location>
             <geo>31.77801 35.23595</geo>
           </location>
@@ -25083,7 +25652,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-863">
           <placeName>Tiberias</placeName>
-          <placeName type="full">Tiberias</placeName>
+          <placeName type="full">Tiberias </placeName>
           <location>
             <geo>32.79221 35.53124</geo>
           </location>
@@ -25130,7 +25699,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-855">
           <placeName>Tirol</placeName>
-          <placeName type="full">Tirol</placeName>
+          <placeName type="full">Tirol </placeName>
           <location>
             <geo>47 11.5</geo>
           </location>
@@ -25185,6 +25754,21 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
           <note type="description">Region im Kanton St. Gallen.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1310">
+          <placeName>Tokio</placeName>
+          <placeName type="full">Tokio </placeName>
+          <location>
+            <geo>35.6895 139.69171</geo>
+          </location>
+          <country>Japan</country>
+          <idno type="geonames" target="https://www.geonames.org/1850147">https://www.geonames.org/1850147</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/1850147"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Japanische Metropole und Hauptstadt</note>
         </place>
         <place type="P" xml:id="kbga-places-930">
           <placeName>Toronto</placeName>
@@ -25275,7 +25859,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-1068">
           <placeName>Totes Meer</placeName>
-          <placeName type="full">Totes Meer</placeName>
+          <placeName type="full">Totes Meer </placeName>
           <location>
             <geo>31.55747 35.49545</geo>
           </location>
@@ -25309,6 +25893,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Totes_Meer"/>
             </bibl>
           </listBibl>
+        </place>
+        <place type="A" xml:id="kbga-places-1480">
+          <placeName>Trachonitis</placeName>
+          <placeName type="full">Trachonitis </placeName>
+          <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-942">
           <placeName>Treysa</placeName>
@@ -25351,7 +25940,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-397">
           <placeName>Trient</placeName>
-          <placeName type="full">Trient</placeName>
+          <placeName type="full">Trient </placeName>
           <placeName type="alternative">Trento</placeName>
           <placeName type="alternative">Tridentum</placeName>
           <placeName type="alternative">Trènt</placeName>
@@ -25401,7 +25990,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-841">
           <placeName>Triest</placeName>
-          <placeName type="full">Triest</placeName>
+          <placeName type="full">Triest </placeName>
           <location>
             <geo>45.64953 13.77678</geo>
           </location>
@@ -25482,7 +26071,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-823">
           <placeName>Tschechoslowakei</placeName>
-          <placeName type="full">Tschechoslowakei</placeName>
+          <placeName type="full">Tschechoslowakei </placeName>
           <location>
             <geo>50.08292 14.46672</geo>
           </location>
@@ -25580,7 +26169,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-404">
           <placeName>Turin</placeName>
-          <placeName type="full">Turin</placeName>
+          <placeName type="full">Turin </placeName>
           <placeName type="alternative">Torino</placeName>
           <location>
             <geo>45.07049 7.68682</geo>
@@ -25632,7 +26221,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-419">
           <placeName>Türkei</placeName>
-          <placeName type="full">Türkei</placeName>
+          <placeName type="full">Türkei </placeName>
           <placeName type="alternative">Türkiye</placeName>
           <location>
             <geo>39 35</geo>
@@ -25682,9 +26271,50 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Gebiet des heutigen gleichnamigen Staates zwischen Schwarzem Meer und Mittelmeer, das aus einem kleinen europäischen (Ostthrakien) und einen großen vorderasiatischen Teil (Anatolien) besteht.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1442">
+          <placeName>Turm von Pisa</placeName>
+          <placeName type="full">Turm von Pisa / Pisa </placeName>
+          <placeName type="alternative">Schiefer Turm von Pisa</placeName>
+          <location>
+            <geo>43.72301 10.39645</geo>
+          </location>
+          <settlement>Pisa</settlement>
+          <country>Italien</country>
+          <idno type="geonames" target="https://www.geonames.org/6269273">https://www.geonames.org/6269273</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schiefer_Turm_von_Pisa">https://de.wikipedia.org/wiki/Schiefer_Turm_von_Pisa</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q39054">https://www.wikidata.org/wiki/Q39054</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Leaning-Tower-of-Pisa">https://www.britannica.com/topic/Leaning-Tower-of-Pisa</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh89006632">https://id.loc.gov/authorities/sh89006632</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/7350150325548010090001/">https://viaf.org/viaf/7350150325548010090001/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/1047787296">https://d-nb.info/gnd/1047787296</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6269273"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schiefer_Turm_von_Pisa"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q39054"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Leaning-Tower-of-Pisa"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh89006632"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/7350150325548010090001/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1047787296"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ursprünglich seit dem späten 12. Jahrhundert als Glockenturm gebaut, aufgrund seiner Neigung heute das Wahrzeichen der Stadt Pisa.</note>
+        </place>
         <place type="S" xml:id="kbga-places-1046">
           <placeName>Turm zu Babel</placeName>
-          <placeName type="full">Turm zu Babel</placeName>
+          <placeName type="full">Turm zu Babel </placeName>
           <placeName type="alternative">Turm von Babel</placeName>
           <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Turmbau_zu_Babel">https://de.wikipedia.org/wiki/Turmbau_zu_Babel</idno>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q41213">https://www.wikidata.org/wiki/Q41213</idno>
@@ -25720,7 +26350,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1224">
           <placeName>Tyrol</placeName>
-          <placeName type="full">Tyrol</placeName>
+          <placeName type="full">Tyrol </placeName>
           <country>Österreich</country>
           <listBibl/>
         </place>
@@ -25840,7 +26470,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-980">
           <placeName>Ulster</placeName>
-          <placeName type="full">Ulster</placeName>
+          <placeName type="full">Ulster </placeName>
           <placeName type="alternative">Cúige Uladh</placeName>
           <location>
             <geo>54.58333 -7</geo>
@@ -25874,7 +26504,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1036">
           <placeName>Umbrien</placeName>
-          <placeName type="full">Umbrien</placeName>
+          <placeName type="full">Umbrien </placeName>
           <placeName type="alternative">Umbria</placeName>
           <location>
             <geo>43 12.5</geo>
@@ -25956,10 +26586,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="kba" target="https://kba.karl-barth.ch/places/300"/>
             </bibl>
           </listBibl>
+          <note type="description">Dorf und ehemalige politische Gemeinde (heute zu Brugg) im Kanton Aargau.</note>
         </place>
         <place type="A" xml:id="kbga-places-799">
           <placeName>Ungarn</placeName>
-          <placeName type="full">Ungarn</placeName>
+          <placeName type="full">Ungarn </placeName>
           <location>
             <geo>47 20</geo>
           </location>
@@ -26049,7 +26680,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-399">
           <placeName>Unterwalden</placeName>
-          <placeName type="full">Unterwalden</placeName>
+          <placeName type="full">Unterwalden </placeName>
           <country>Schweiz</country>
           <idno type="wikidata" target="https://www.wikidata.org/wiki/Q214069">https://www.wikidata.org/wiki/Q214069</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4062039-6">https://d-nb.info/gnd/4062039-6</idno>
@@ -26081,7 +26712,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-343">
           <placeName>Uppsala</placeName>
-          <placeName type="full">Uppsala</placeName>
+          <placeName type="full">Uppsala </placeName>
           <location>
             <geo>59.85882 17.63889</geo>
           </location>
@@ -26256,7 +26887,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-1021">
           <placeName>Vatikan</placeName>
-          <placeName type="full">Vatikan / Rom</placeName>
+          <placeName type="full">Vatikan / Rom </placeName>
           <location>
             <geo>41.90268 12.45414</geo>
           </location>
@@ -26399,7 +27030,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-62">
           <placeName>Vereinigte Staaten von Amerika</placeName>
-          <placeName type="full">Vereinigte Staaten von Amerika</placeName>
+          <placeName type="full">Vereinigte Staaten von Amerika </placeName>
           <location>
             <geo>39.76 -98.5</geo>
           </location>
@@ -26592,7 +27223,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-507">
           <placeName>Vierwaldstättersee</placeName>
-          <placeName type="full">Vierwaldstättersee</placeName>
+          <placeName type="full">Vierwaldstättersee </placeName>
           <location>
             <geo>47.01667 8.4</geo>
           </location>
@@ -26883,7 +27514,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-477">
           <placeName>Walenstadt</placeName>
-          <placeName type="full">Walenstadt</placeName>
+          <placeName type="full">Walenstadt </placeName>
           <location>
             <geo>47.12411 9.31194</geo>
           </location>
@@ -26896,7 +27527,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-350">
           <placeName>Wales</placeName>
-          <placeName type="full">Wales</placeName>
+          <placeName type="full">Wales </placeName>
           <location>
             <geo>52.5 -3.5</geo>
           </location>
@@ -26995,6 +27626,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
               <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000023"/>
             </bibl>
           </listBibl>
+          <note type="description">Gebiet des gleichnamigen Kantons im Südwesten der Schweiz.</note>
         </place>
         <place type="P" xml:id="kbga-places-1073">
           <placeName>Walterswil-Rothacker</placeName>
@@ -27070,7 +27702,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1010">
           <placeName>Warschau</placeName>
-          <placeName type="full">Warschau</placeName>
+          <placeName type="full">Warschau </placeName>
           <location>
             <geo>52.22977 21.01178</geo>
           </location>
@@ -27160,7 +27792,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-95">
           <placeName>Washington, D.C.</placeName>
-          <placeName type="full">Washington, D.C.</placeName>
+          <placeName type="full">Washington, D.C. </placeName>
           <location>
             <geo>38.89511 -77.03637</geo>
           </location>
@@ -27330,9 +27962,45 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Politische Gemeinde im Kanton St. Gallen am westlichen Ufer des Walensees; 1489-1494 lebte Ulrich Zwingli hier bei seinem Onkel Bartholomäus Zwingli.</note>
         </place>
-        <place xml:id="kbga-places-504">
+        <place type="P" xml:id="kbga-places-504">
           <placeName>Weggis</placeName>
-          <placeName type="full">Weggis</placeName>
+          <placeName type="full">Weggis (LU)</placeName>
+          <location>
+            <geo>47.03208 8.43219</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7287553">https://www.geonames.org/7287553</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Weggis">https://de.wikipedia.org/wiki/Weggis</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q14580">https://www.wikidata.org/wiki/Q14580</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000632">https://hls-dhs-dss.ch/de/articles/000632</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4064967-2">https://d-nb.info/gnd/4064967-2</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/240802550">https://viaf.org/viaf/240802550</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7287553"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Weggis"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q14580"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000632"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4064967-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/240802550"/>
+            </bibl>
+          </listBibl>
+        </place>
+        <place type="A" xml:id="kbga-places-1456">
+          <placeName>Weihnachtsinsel</placeName>
+          <placeName type="full">Weihnachtsinsel </placeName>
+          <placeName type="alternative">Kiritimati</placeName>
+          <country>Kiribati</country>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-353">
@@ -27467,7 +28135,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-969">
           <placeName>Welschschweiz</placeName>
-          <placeName type="full">Welschschweiz</placeName>
+          <placeName type="full">Welschschweiz </placeName>
           <placeName type="alternative">Romandie</placeName>
           <placeName type="alternative">Suisse romande</placeName>
           <placeName type="alternative">französische Schweiz</placeName>
@@ -27681,9 +28349,14 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
         </place>
+        <place type="A" xml:id="kbga-places-1457">
+          <placeName>Westdeutschland</placeName>
+          <placeName type="full">Westdeutschland </placeName>
+          <listBibl/>
+        </place>
         <place type="A" xml:id="kbga-places-844">
           <placeName>Westeuropa</placeName>
-          <placeName type="full">Westeuropa</placeName>
+          <placeName type="full">Westeuropa </placeName>
           <location>
             <geo>50.21909 7.42676</geo>
           </location>
@@ -27748,7 +28421,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-939">
           <placeName>Westminster</placeName>
-          <placeName type="full">Westminster / London</placeName>
+          <placeName type="full">Westminster / London </placeName>
           <placeName type="alternative">City of Westminster</placeName>
           <location>
             <geo>51.4975 -0.1357</geo>
@@ -27784,7 +28457,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="A" xml:id="kbga-places-150">
           <placeName>Westschweiz</placeName>
-          <placeName type="full">Westschweiz</placeName>
+          <placeName type="full">Westschweiz </placeName>
           <placeName type="alternative">Romandie</placeName>
           <location>
             <geo>46.516 6.63282</geo>
@@ -28195,7 +28868,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-811">
           <placeName>Woolwich</placeName>
-          <placeName type="full">Woolwich / London</placeName>
+          <placeName type="full">Woolwich / London </placeName>
           <location>
             <geo>51.491 0.0648</geo>
           </location>
@@ -28428,14 +29101,49 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Gebiet des gleichnamigen ehemaligen Königreichs; mittlerer und östlicher Teil des heutigen Bundeslandes Baden-Württemberg.</note>
         </place>
-        <place xml:id="kbga-places-609">
+        <place type="P" xml:id="kbga-places-609">
           <placeName>Würzburg</placeName>
-          <placeName type="full">Würzburg</placeName>
-          <listBibl/>
+          <placeName type="full">Würzburg (BY)</placeName>
+          <location>
+            <geo>49.79391 9.95121</geo>
+          </location>
+          <settlement>Würzburg</settlement>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2805615">https://www.geonames.org/2805615</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Würzburg">https://de.wikipedia.org/wiki/Würzburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2999">https://www.wikidata.org/wiki/Q2999</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Wurzburg">https://www.britannica.com/place/Wurzburg</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80139921">https://id.loc.gov/authorities/n80139921</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4067037-5">https://d-nb.info/gnd/4067037-5</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/145418613">https://viaf.org/viaf/145418613</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2805615"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Würzburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2999"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Wurzburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80139921"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4067037-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/145418613"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Universitätsstadt und Sitz des gleichnamigen röm.-kath. Bistums in Franken (Bayern); Zentrum und Regierungssitz des Bezirks Unterfranken.</note>
         </place>
         <place type="H" xml:id="kbga-places-1381">
           <placeName>Wyna</placeName>
-          <placeName type="full">Wyna</placeName>
+          <placeName type="full">Wyna </placeName>
           <location>
             <geo>47.20612 8.19265</geo>
           </location>
@@ -28462,7 +29170,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1131">
           <placeName>Yvorne bei Aigle VD</placeName>
-          <placeName type="full">Yvorne bei Aigle VD</placeName>
+          <placeName type="full">Yvorne bei Aigle VD </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-457">
@@ -28547,7 +29255,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="T" xml:id="kbga-places-1043">
           <placeName>Zion</placeName>
-          <placeName type="full">Zion / Jerusalem</placeName>
+          <placeName type="full">Zion / Jerusalem </placeName>
           <placeName type="alternative">Berg Zion</placeName>
           <location>
             <geo>31.77801 35.23595</geo>
@@ -28713,7 +29421,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="T" xml:id="kbga-places-499">
           <placeName>Zugerberg</placeName>
-          <placeName type="full">Zugerberg</placeName>
+          <placeName type="full">Zugerberg </placeName>
           <location>
             <geo>47.14254 8.54193</geo>
           </location>
@@ -28747,7 +29455,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-464">
           <placeName>Zugersee</placeName>
-          <placeName type="full">Zugersee</placeName>
+          <placeName type="full">Zugersee </placeName>
           <location>
             <geo>47.1313 8.48335</geo>
           </location>
@@ -28865,7 +29573,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="H" xml:id="kbga-places-362">
           <placeName>Zürichsee</placeName>
-          <placeName type="full">Zürichsee</placeName>
+          <placeName type="full">Zürichsee </placeName>
           <placeName type="alternative">Zürchersee</placeName>
           <placeName type="alternative">Züricher See</placeName>
           <location>
