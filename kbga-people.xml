@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-02-06 09:15:27</p>
+        <p>Datenbankexport vom 2025-05-11 10:20:41</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-02-06T09:15:27+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:27+01:00</change>
+      <change when="2025-05-11T10:20:41+02:00">teiHeader was automatically produced from the database 2025-05-11T10:20:41+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2389,18 +2389,52 @@
           <death when="0000"/>
           <listBibl/>
         </person>
-        <person xml:id="kbga-actors-450">
-          <persName>Antonius</persName>
-          <persName type="full">Antonius</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <ref target="https://de.wikipedia.org/wiki/Marcus_Antonius">wikipedia</ref>
+        <person xml:id="kbga-actors-6231">
+          <persName>Antonius der Große</persName>
+          <persName type="full">Antonius der Große (251-356)</persName>
+          <persName type="alternative">Antonius der Einsiedler</persName>
+          <persName type="alternative">Antonius Eremita</persName>
+          <persName type="alternative">Antonius Abbas</persName>
+          <birth when="0251"/>
+          <death when="0356"/>
+          <ref target="https://de.wikipedia.org/wiki/Antonius_der_Große">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118649728">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q170547">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Saint-Anthony-of-Egypt">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/01553d.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienA/Antonius_der_Grosse.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118649728.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n50030399">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/48510659">viaf</ref>
           <listBibl>
             <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Marcus_Antonius"/>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Antonius_der_Große"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118649728"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q170547"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Saint-Anthony-of-Egypt"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01553d.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienA/Antonius_der_Grosse.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118649728.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50030399"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/48510659"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-9020">
           <persName>Aphrodite</persName>
@@ -2463,7 +2497,7 @@
               <ptr type="gosteli" target="https://gosteli.anton.ch/actors/9519"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutsch- schweizerische Theologin; Studium u.a. in Bonn bei Karl Barth, Emigration in die Schweiz aufgrund ihrer jüdischen Abstammung, Arbeit im Haus «Sonneblick» in Walzenhausen bei Paul Vogt; umfangreiche Korrespondenz mit Barth und Charlotte von Kirschbaum.</note>
         </person>
         <person xml:id="kbga-actors-2267">
           <persName>Apollos</persName>
@@ -3013,13 +3047,11 @@
         </person>
         <person xml:id="kbga-actors-874">
           <persName>Athanasius</persName>
-          <persName type="full">Athanasius (300-375)</persName>
+          <persName type="full">Athanasius (300-373)</persName>
           <persName type="alternative">Athanasius der Grosse</persName>
-          <persName type="alternative">Athanasius der Unsterbliche</persName>
           <persName type="alternative">Athanasius von Alexandria</persName>
-          <persName type="alternative">Athanasi</persName>
           <birth when="0300"/>
-          <death when="0375-05-05"/>
+          <death when="0373-05-02"/>
           <ref target="https://de.wikipedia.org/wiki/Athanasius_der_Große">wikipedia</ref>
           <ref target="http://d-nb.info/gnd/118504843">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q44024">wikidata</ref>
@@ -3074,6 +3106,7 @@
               <ptr type="helveticat" target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118504843&amp;vid=41SNL_51_INST:helveticat"/>
             </bibl>
           </listBibl>
+          <note type="bio">Altkirchlicher Theologe; Patriarch von Alexandrien und Kirchenvater, Gegner des Arianismus.</note>
         </person>
         <person xml:id="kbga-actors-8785">
           <persName>Atlas</persName>
@@ -6654,6 +6687,7 @@
               <ptr type="metagrid" target="https://api.metagrid.ch/concordance/vwD5GnYBlFrJZhV3XTmm.json"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher evangelischer Theologe; einer der ersten Vikare im Predigerseminar Finkenwalde, später Studieninspektor, 1955 Studentenpfarrer und Referent des Berliner Bischofs, später Pfarrer der deutschsprachigen Gemeinde in London; Herausgeber der theologischen Arbeit Dietrich Bonhoeffers, mit dem er befreundet war.</note>
         </person>
         <person xml:id="kbga-actors-902">
           <persName>Bethmann-Hollweg, Theobald von</persName>
@@ -7361,6 +7395,43 @@
             </bibl>
           </listBibl>
           <note type="bio">Deutscher Politiker; 1862-1890 Ministerpräsident von Preußen, 1867-1871 Kanzler des Norddeutschen Bundes, 1871-1890 Reichskanzler. 1870/71 massgeblich an der Gründung des Deutschen Kaiserreichs beteiligt.</note>
+        </person>
+        <person xml:id="kbga-actors-10499">
+          <persName>Bitzius, Albert</persName>
+          <persName type="full">Bitzius, Albert (1835-1882)</persName>
+          <birth when="1835-11-06"/>
+          <death when="1882-09-20"/>
+          <ref target="https://d-nb.info/gnd/118663607">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1285698">wikidata</ref>
+          <ref target="https://www.deutsche-biographie.de/118663607.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n84045558">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/004421">hls-dhs-dss</ref>
+          <ref target="https://www.biblicalcyclopedia.com/B/bitzius-albert.html">mcclintock-and-strong-biblical-cyclopedia</ref>
+          <ref target="https://viaf.org/viaf/77109606">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118663607"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1285698"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118663607.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84045558"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/004421"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/B/bitzius-albert.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/77109606"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Schweizer reformierter Theologe und Politiker; 1863 Pfarrer in Courtelary, 1868 in Twann, Einstieg in die Politik, 1878 Berner Regierungsrat (Erziehungs- und Gefängniswesen), 1879 zugleich  Ständerat; Sohn von Albert Bitzius alias Jeremias Gotthelf.</note>
         </person>
         <person xml:id="kbga-actors-44">
           <persName>Bizer, Ernst</persName>
@@ -9414,15 +9485,56 @@
         <person xml:id="kbga-actors-2163">
           <persName>Borromäus, Karl</persName>
           <persName type="full">Borromäus, Karl (1538-1584)</persName>
+          <persName type="variant">Borromeo, Carlo</persName>
           <birth when="1538-10-02"/>
           <death when="1584-11-03"/>
           <ref target="https://de.wikipedia.org/wiki/Karl_Borromäus">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q216946">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Saint-Charles-Borromeo">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/03619a.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienK/Karl_Carlo_Borromaeus.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118661957.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n50032432">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/010211">hls-dhs-dss</ref>
+          <ref target="https://d-nb.info/gnd/118661957">gnd</ref>
+          <ref target="https://www.biblicalcyclopedia.com/B/borromeo-carlo.html">mcclintock-and-strong-biblical-cyclopedia</ref>
+          <ref target="https://viaf.org/viaf/69005084">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Karl_Borromäus"/>
             </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q216946"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Saint-Charles-Borromeo"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03619a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienK/Karl_Carlo_Borromaeus.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118661957.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50032432"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/010211"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118661957"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/B/borromeo-carlo.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/69005084"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Italienischer römisch-katholischer Geistlicher und Jurist; 1560 Kardinal, 1564 Erzbischof von Mailand, führende Rolle bei der Umsetzung der Reformbeschlüsse des Konzils von Trient (1545–1563); 1610 heiliggesprochen.</note>
         </person>
         <person xml:id="kbga-actors-2541">
           <persName>Börsch, Ekkehard</persName>
@@ -13262,6 +13374,19 @@
           <death when="0000"/>
           <listBibl/>
         </person>
+        <person xml:id="kbga-actors-3995">
+          <persName>César, August</persName>
+          <persName type="full">César, August (1863-1959)</persName>
+          <birth when="1863"/>
+          <death when="1959"/>
+          <ref target="https://d-nb.info/gnd/1141074478">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1141074478"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Deutscher evangelischer Pfarrer; 1891 Pfarrer in Wiesenthal (Wartburgkreis), 1912 in Jena; 1906 wurde ihm ein Wechsel nach Dortmund gegen den Willen der dortigen Gemeinde verwehrt, weil er im obligatorischen Kolloquium zur Prüfung seiner Anstellungsfähigkeit die Jungfrauengeburt geleugnet hatte («Fall César»).</note>
+        </person>
         <person xml:id="kbga-actors-80">
           <persName>Chamberlain, Houston Stewart</persName>
           <persName type="full">Chamberlain, Houston Stewart (1855-1927)</persName>
@@ -14756,6 +14881,7 @@
               <ptr type="viaf" target="http://viaf.org/viaf/114423167"/>
             </bibl>
           </listBibl>
+          <note type="bio">Schweizer reformierter Theologe; 1911 Pfarrer in Zürich (Franz. Kirche), 1924 in Lausanne (Marterey).</note>
         </person>
         <person xml:id="kbga-actors-8550">
           <persName>Cutts, Leonard</persName>
@@ -15409,10 +15535,10 @@
         </person>
         <person xml:id="kbga-actors-1349">
           <persName>Decius, Nikolaus</persName>
-          <persName type="full">Decius, Nikolaus</persName>
-          <persName type="alternative">Decius, Nikolaus</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
+          <persName type="full">Decius, Nikolaus (1485-1546)</persName>
+          <birth when="1485"/>
+          <death when="1546"/>
+          <note type="date_comment">Kein Todesdatum, keine Erwähnung nach 1546</note>
           <ref target="https://de.wikipedia.org/wiki/Nikolaus_Decius">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/119486725">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q65601">wikidata</ref>
@@ -15443,7 +15569,7 @@
               <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd119486725.html"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher evangelisch-lutherischer Theologe und Kirchenlieddichter; 1524 Reformator und Pfarrer in Stettin, 1527 Diakon in Ostpreußen, 1540 Hofprediger und Unterkantor in Königsberg; Todesdatum unbekannt, nach 1546 keine Erwähnung mehr.</note>
         </person>
         <person xml:id="kbga-actors-9225">
           <persName>Defoe, Daniel</persName>
@@ -15740,20 +15866,6 @@
           <death when="1942"/>
           <listBibl/>
         </person>
-        <person xml:id="kbga-actors-709">
-          <persName>der Flüe, Nikolaus von</persName>
-          <persName type="full">der Flüe, Nikolaus von (1417-1487)</persName>
-          <persName type="variant">der Flüe, Niklaus von</persName>
-          <birth when="1417"/>
-          <death when="1487"/>
-          <ref target="https://de.wikipedia.org/wiki/Niklaus_von_Flüe">wikipedia</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Niklaus_von_Flüe"/>
-            </bibl>
-          </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
-        </person>
         <person xml:id="kbga-actors-2710">
           <persName>Descartes, René</persName>
           <persName type="full">Descartes, René (1596-1650)</persName>
@@ -15987,12 +16099,44 @@
           <birth when="1812-02-07"/>
           <death when="1870-06-09"/>
           <ref target="https://de.wikipedia.org/wiki/Charles_Dickens">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118525239">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q5686">wikidata</ref>
+          <ref target="https://www.perlentaucher.de/autor/charles-dickens.html">perlentaucher</ref>
+          <ref target="https://data.europeana.eu/agent/base/59904">europeana</ref>
+          <ref target="https://www.britannica.com/biography/Charles-Dickens-British-novelist">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.deutsche-biographie.de/118525239.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/no2012115982">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/88666393">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Charles_Dickens"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118525239"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q5686"/>
+            </bibl>
+            <bibl>
+              <ptr type="perlentaucher" target="https://www.perlentaucher.de/autor/charles-dickens.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="europeana" target="https://data.europeana.eu/agent/base/59904"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Charles-Dickens-British-novelist"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118525239.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2012115982"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/88666393"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Englischer Schriftsteller und Journalist, Verfasser einiger der bedeutendsten Romane des 19. Jahrhunderts.</note>
         </person>
         <person xml:id="kbga-actors-8488">
           <persName>Diderot, Denis</persName>
@@ -17405,18 +17549,6 @@
           <death when="1908-07-27"/>
           <listBibl/>
           <note type="bio">Schweizerischer konservativer Journalist und Politiker; seit 1880 Redaktor der «Berner Volkszeitung», Grossvater von Friedrich und Peter Dürrenmatt.</note>
-        </person>
-        <person xml:id="kbga-actors-1557">
-          <persName>Dürst, Fritz</persName>
-          <persName type="full">Dürst, Fritz</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <ref target="https://kba.karl-barth.ch/actors/14622">kba</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="kba" target="https://kba.karl-barth.ch/actors/14622"/>
-            </bibl>
-          </listBibl>
         </person>
         <person xml:id="kbga-actors-8477">
           <persName>Duvernoy, Jacob Christoph</persName>
@@ -21015,10 +21147,36 @@
         </person>
         <person xml:id="kbga-actors-9335">
           <persName>Flower Adams, Sarah</persName>
-          <persName type="full">Flower Adams, Sarah</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <listBibl/>
+          <persName type="full">Flower Adams, Sarah (1805-1848)</persName>
+          <birth when="1805-02-22"/>
+          <death when="1848-08-14"/>
+          <ref target="https://d-nb.info/gnd/1044390980">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q269879">wikidata</ref>
+          <ref target="https://data.europeana.eu/agent/base/86283">europeana</ref>
+          <ref target="https://id.loc.gov/authorities/n83021556">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/62914875">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Sarah_Flower_Adams">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1044390980"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q269879"/>
+            </bibl>
+            <bibl>
+              <ptr type="europeana" target="https://data.europeana.eu/agent/base/86283"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83021556"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/62914875"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Sarah_Flower_Adams"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Englischer Schriftstellerin und Schauspielerin; Textautorin des Chorals «Nearer, my God, to Thee».</note>
         </person>
         <person xml:id="kbga-actors-120">
           <persName>Foerster, Erich</persName>
@@ -21637,9 +21795,6 @@
         <person xml:id="kbga-actors-7855">
           <persName>Franco, Francisco</persName>
           <persName type="full">Franco, Francisco (1892-1975)</persName>
-          <persName type="alternative">Franco y Bahamonde Salgado Pardo, Francisco Paulino Hermenegildo Teódulo</persName>
-          <persName type="variant">Franco Bahamonde, Francisco</persName>
-          <persName type="variant">Franco y Bahamonde, Francisco</persName>
           <birth when="1892-12-04"/>
           <death when="1975-11-20"/>
           <ref target="https://de.wikipedia.org/wiki/Francisco_Franco">wikipedia</ref>
@@ -21704,6 +21859,7 @@
               <ptr type="sudoc" target="http://www.idref.fr/088342840/id"/>
             </bibl>
           </listBibl>
+          <note type="bio">Spanischer General und Diktator (1939-1975).</note>
         </person>
         <person xml:id="kbga-actors-122">
           <persName>Frank, Erich</persName>
@@ -23359,10 +23515,36 @@
         </person>
         <person xml:id="kbga-actors-4689">
           <persName>Fulliquet, Georges</persName>
-          <persName type="full">Fulliquet, Georges</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <listBibl/>
+          <persName type="full">Fulliquet, Georges (1863-1924)</persName>
+          <birth when="1863-02-14"/>
+          <death when="1924-11-17"/>
+          <ref target="https://d-nb.info/gnd/1055362312">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q59526241">wikidata</ref>
+          <ref target="https://id.loc.gov/authorities/nr00013965">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/011118">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/12699496">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Georges_Fulliquet">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1055362312"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q59526241"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr00013965"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011118"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/12699496"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Georges_Fulliquet"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Schweizer reformierter Theologe; 1891-1908 Pfarrer in Lyon, 1906 Prof. für Dogmatik in Genf; 1920-1922 Rektor der Universität Genf.</note>
         </person>
         <person xml:id="kbga-actors-5262">
           <persName>Füllkrug, Gerhard</persName>
@@ -24345,6 +24527,11 @@
           <death when="1929-12-23"/>
           <ref target="https://de.wikipedia.org/wiki/Christian_Geyer_(Theologe)">wikipedia</ref>
           <ref target="https://kba.karl-barth.ch/actors/17567">kba</ref>
+          <ref target="https://d-nb.info/gnd/118694472">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q44258833">wikidata</ref>
+          <ref target="https://www.deutsche-biographie.de/118694472.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/no2016013537">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/69391730">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Christian_Geyer_(Theologe)"/>
@@ -24352,8 +24539,23 @@
             <bibl>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/17567"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118694472"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q44258833"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118694472.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2016013537"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/69391730"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher evangelischer Theologe; 1889 Pfarrer in Nördlingen, 1902 Hauptprediger von St. Sebald in Nürnberg, 1910 Mitgründer der liberal-protestantischen Monatsschrift «Christentum und Gegenwart».</note>
         </person>
         <person xml:id="kbga-actors-3853">
           <persName>Gideon</persName>
@@ -25164,7 +25366,7 @@
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80061235"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher MIlitär und nationalsozialistischer Politiker; Jagdflieger im Ersten Weltkrieg, 1923 Teilnahme am Hitler-Putschversuch in München, 1932 Reichstagspräsident, 1933 Minister ohne Geschäftsbereich, Reichskommissar für das Innenministerium und Ministerpräsident Preußens, 1935 Oberbefehlshaber der deutschen Luftwaffe. 1946 Selbstmord nach der Verurteilung zum Tode im Nürnberger Kriegsverbrecherprozess.</note>
         </person>
         <person xml:id="kbga-actors-9352">
           <persName>Gorolicius, Martin</persName>
@@ -25454,6 +25656,7 @@
         <person xml:id="kbga-actors-1624">
           <persName>Graham, Billy</persName>
           <persName type="full">Graham, Billy (1918-2018)</persName>
+          <persName type="alternative">Graham, William Franklin</persName>
           <birth when="1918-11-07"/>
           <death when="2018-02-21"/>
           <ref target="https://de.wikipedia.org/wiki/Billy_Graham">wikipedia</ref>
@@ -31070,6 +31273,7 @@ und von</persName>
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/nb2003029248"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher evangelischer Theologe und Publizist; 1918 Direktor des Evangelischen Preßverbandes für Deutschland (EPD) in Berlin.</note>
         </person>
         <person xml:id="kbga-actors-2193">
           <persName>Hiob</persName>
@@ -31561,9 +31765,16 @@ und von</persName>
         <person xml:id="kbga-actors-5823">
           <persName>Hoffmann, Anna Elisabeth</persName>
           <persName type="full">Hoffmann, Anna Elisabeth (1854-1934)</persName>
-          <birth when="1854"/>
-          <death when="1934"/>
-          <listBibl/>
+          <persName type="alternative">Hugentobler, Anna Elisabeth</persName>
+          <birth when="1854-02-17"/>
+          <death when="1934-10-25"/>
+          <ref target="https://kba.karl-barth.ch/actors/298">kba</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/actors/298"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Geborene Anna Elisabeth Hugentobler von Amlikon / Thurgau, verwitwete Locher; 1884 Heirat mit Robert Hoffmann; Mutter Nelly Barths.</note>
         </person>
         <person xml:id="kbga-actors-5824">
           <persName>Hoffmann, Arthur</persName>
@@ -31972,23 +32183,6 @@ und von</persName>
             </bibl>
           </listBibl>
           <note type="bio">Deutscher Jurist, Komponist und Lieddichter; 1793-1798 Jura- und Theologie-Studium, 1800 Advokat in Dresden, 1819 Armenadvokat am Königlich-Sächsischen Appellationsgericht.</note>
-        </person>
-        <person xml:id="kbga-actors-4064">
-          <persName>Hohlwein, Hans</persName>
-          <persName type="full">Hohlwein, Hans (1902-1996)</persName>
-          <birth when="1902-11-23"/>
-          <death when="1996-04-29"/>
-          <ref target="https://de.wikipedia.org/wiki/Hans_Hohlwein">wikipedia</ref>
-          <ref target="https://kba.karl-barth.ch/actors/18629">kba</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hans_Hohlwein"/>
-            </bibl>
-            <bibl>
-              <ptr type="kba" target="https://kba.karl-barth.ch/actors/18629"/>
-            </bibl>
-          </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-9364">
           <persName>Holbein d.J., Hans</persName>
@@ -35129,7 +35323,7 @@ Wilhelm</persName>
               <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/041197/2008-01-29/"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher Psychiater und Philosoph; 1913 Habilitation in Psychologie, 1916 Prof. für Psychologie in Heidelberg, 1921 dort Prof. für Philosophie, 1948 Prof. für Philosophie in Basel.</note>
         </person>
         <person xml:id="kbga-actors-205">
           <persName>Jaspert, Bernd</persName>
@@ -38783,8 +38977,8 @@ Johannes XXIII.</persName>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-2060">
-          <persName>Knorr von Rosenroth, Christian von</persName>
-          <persName type="full">Knorr von Rosenroth, Christian von (1636-1689)</persName>
+          <persName>Knorr von Rosenroth, Christian</persName>
+          <persName type="full">Knorr von Rosenroth, Christian (1636-1689)</persName>
           <persName type="variant">Knorr von Rosenroth, Christian
 Anton Philipp</persName>
           <birth when="1636-07-15"/>
@@ -38962,6 +39156,7 @@ Anton Philipp</persName>
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88618256"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher reformierter Theologe; Studium u.a. bei Barth in Bonn, mit dem er verbunden blieb, 1935/36 Vikariat in Wuppertal-Barmen, 1936 verhaftet, 1937/38 KZ-Haft, dann Arbeit beim Evangelischen Presseverband für das Rheinland, Kriegsdienst, 1945 Pfarrer im Kriegsgefangenenlager Ascot, ab 1947 Pfarrer in Berlin, Espelkamp und Netphen, 1969 Religionslehrer in der Grafschaft Bentheim.</note>
         </person>
         <person xml:id="kbga-actors-228">
           <persName>Koechlin, Alphons</persName>
@@ -39354,13 +39549,13 @@ Anton Philipp</persName>
         </person>
         <person xml:id="kbga-actors-2218">
           <persName>Konstantin der Große</persName>
-          <persName type="full">Konstantin der Große (270-337)</persName>
+          <persName type="full">Konstantin der Große (280-337)</persName>
           <persName type="alternative">Flavius Valerius Constantinus</persName>
           <persName type="variant">Konstantin</persName>
           <persName type="variant">Konstantin d. Gr.</persName>
           <persName type="variant">Constantin</persName>
           <persName type="variant">Constantin der Große</persName>
-          <birth when="0270"/>
+          <birth when="0280"/>
           <death when="0337-05-22"/>
           <ref target="https://de.wikipedia.org/wiki/Konstantin_der_Große">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/118565184">gnd</ref>
@@ -45934,7 +46129,7 @@ Anton Philipp</persName>
               <ptr type="loc" target="http://id.loc.gov/authorities/names/nno2002044445"/>
             </bibl>
           </listBibl>
-          <note type="bio">Französischer evangelisch-reformierter Theologe; 1943-50 Prof. für Dogmatik an der Faculté libre de Théologie Protestante in Paris; 1950-53 Präsident der Reformierten Kirche in Frankreich. Mit Barth, für dessen Theologie er in Frankreich ein wichtiger Wegbereiter war, eng verbunden</note>
+          <note type="bio">Französischer reformierter Theologe; 1919 Generalsekretär der «Fédération Française des Associations Chrétiennes d’Étudiants», 1925 Pfarrer in Ferney-Voltaire, 1929-1934 Arbeit im Christlichen Studentenweltbund in Genf, 1934 Pfarrer in Paris-Passy, 1943 Prof. für Dogmatik an der Faculté libre de Théologie Protestante in Paris, 1950 Präsident der Reformierten Kirche in Frankreich; befreundet mit W. A. Visser &amp;#039;t Hooft, Marc Boegner und mit Karl Barth, für dessen Theologie er in Frankreich ein wichtiger Wegbereiter war.</note>
         </person>
         <person xml:id="kbga-actors-10386">
           <persName>Mauthner, Fritz</persName>
@@ -46263,21 +46458,65 @@ Anton Philipp</persName>
         </person>
         <person xml:id="kbga-actors-534">
           <persName>Meister Eckhart</persName>
-          <persName type="full">Meister Eckhart</persName>
-          <persName type="variant">Eckehart</persName>
-          <persName type="variant">Eckehart (Meister)</persName>
-          <persName type="variant">Eckart</persName>
-          <persName type="variant">Eckhardt (Eckehart), Meister</persName>
-          <persName type="variant">Eckhart</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
+          <persName type="full">Meister Eckhart (1260-1328)</persName>
+          <persName type="alternative">Eckhart von Hochheim</persName>
+          <birth when="1260"/>
+          <death when="1328-04-30"/>
           <ref target="https://de.wikipedia.org/wiki/Meister_Eckhart">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118528823">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q76548">wikidata</ref>
+          <ref target="https://www.perlentaucher.de/autor/meister-eckhart.html">perlentaucher</ref>
+          <ref target="https://data.europeana.eu/agent/base/146304">europeana</ref>
+          <ref target="https://www.britannica.com/biography/Meister-Eckhart">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/05274a.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienE/Meister_Eckhard_Eckart.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118528823.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n80062926">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/012560">hls-dhs-dss</ref>
+          <ref target="https://plato.stanford.edu/entries/meister-eckhart/">stanford-encyclopedia-of-philosophy</ref>
+          <ref target="https://viaf.org/viaf/88809752">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Meister_Eckhart"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118528823"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q76548"/>
+            </bibl>
+            <bibl>
+              <ptr type="perlentaucher" target="https://www.perlentaucher.de/autor/meister-eckhart.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="europeana" target="https://data.europeana.eu/agent/base/146304"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Meister-Eckhart"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/05274a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienE/Meister_Eckhard_Eckart.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118528823.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80062926"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/012560"/>
+            </bibl>
+            <bibl>
+              <ptr type="stanford-encyclopedia-of-philosophy" target="https://plato.stanford.edu/entries/meister-eckhart/"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/88809752"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Thüringischer Theologe und Philosoph des Spätmittelalters, Mystiker; Dominikaner, 1294 Prior in Erfurt, 1302/03 und 1311-1313 Magister der Theologie in Paris, nach 1313 Wirksamkeit als Seelsorger vor allem in Dominikanerinnenklöstern.</note>
         </person>
         <person xml:id="kbga-actors-272">
           <persName>Melanchthon, Philipp</persName>
@@ -47025,12 +47264,36 @@ Anton Philipp</persName>
           <birth when="1800-01-10"/>
           <death when="1873-06-21"/>
           <ref target="https://de.wikipedia.org/wiki/Heinrich_August_Wilhelm_Meyer">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/117559245">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q5699946">wikidata</ref>
+          <ref target="https://www.deutsche-biographie.de/117559245.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n88672247">lcnaf</ref>
+          <ref target="https://www.biblicalcyclopedia.com/M/meyer-heinrich-august-wilhelm.html">mcclintock-and-strong-biblical-cyclopedia</ref>
+          <ref target="https://viaf.org/viaf/45083525">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Heinrich_August_Wilhelm_Meyer"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/117559245"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q5699946"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/117559245.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88672247"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/M/meyer-heinrich-august-wilhelm.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/45083525"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher evangelisch-lutherischer Theologe; 1831 Pfarrer in Harste, 1837 Superintendent in Hoya, 1841 Superintendent in Hannover und Berufung in das Konsistorium der Landeskirche, 1861 Oberkonsistorialrat; Initiator der Kommentarreihe «Kritisch-exegetischer Kommentar über das Neue Testament».</note>
         </person>
         <person xml:id="kbga-actors-5838">
           <persName>Meyer, Joseph</persName>
@@ -49571,13 +49834,6 @@ Anton Philipp</persName>
           </listBibl>
           <note type="bio">Französischer General, 1799 als «Erster Konsul» Alleinherrscher, 1804 als Napoleon I. Kaiser von Frankreich (bis 1814).</note>
         </person>
-        <person xml:id="kbga-actors-4196">
-          <persName>Nassau-Oranien, Wilhelm von</persName>
-          <persName type="full">Nassau-Oranien, Wilhelm von</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <listBibl/>
-        </person>
         <person xml:id="kbga-actors-2668">
           <persName>Nasser, Gamal Abdel</persName>
           <persName type="full">Nasser, Gamal Abdel (1918-1970)</persName>
@@ -50665,6 +50921,61 @@ Anton Philipp</persName>
           </listBibl>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
+        <person xml:id="kbga-actors-709">
+          <persName>Nikolaus von Flüe</persName>
+          <persName type="full">Nikolaus von Flüe (1417-1487)</persName>
+          <persName type="alternative">Bruder Klaus</persName>
+          <persName type="variant">Niklaus von Flüe</persName>
+          <birth when="1417"/>
+          <death when="1487"/>
+          <ref target="https://de.wikipedia.org/wiki/Niklaus_von_Flüe">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118588087">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q115550">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Saint-Nicholas-of-Flue">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/11062a.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienN/Nikolaus_von_Fluee.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118588087.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n50083311">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/010224">hls-dhs-dss</ref>
+          <ref target="https://www.biblicalcyclopedia.com/F/flue-nikolaus-von-der.html">mcclintock-and-strong-biblical-cyclopedia</ref>
+          <ref target="https://viaf.org/viaf/29782027">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Niklaus_von_Flüe"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118588087"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q115550"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Saint-Nicholas-of-Flue"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/11062a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienN/Nikolaus_von_Fluee.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118588087.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50083311"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/010224"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/F/flue-nikolaus-von-der.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/29782027"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Schweizer Bergbauer, Soldat, Einsiedler und Mystiker; gilt als Schutzpatron der Schweiz und wurde 1947 heiliggesprochen.</note>
+        </person>
         <person xml:id="kbga-actors-9148">
           <persName>Nipperdey, Thomas</persName>
           <persName type="full">Nipperdey, Thomas</persName>
@@ -51377,6 +51688,53 @@ Anton Philipp</persName>
             </bibl>
           </listBibl>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
+        </person>
+        <person xml:id="kbga-actors-4196">
+          <persName>Oranien, Wilhelm von</persName>
+          <persName type="full">Oranien, Wilhelm von (1533-1584)</persName>
+          <persName type="alternative">Nassau-Oranien, Wilhelm von</persName>
+          <persName type="alternative">Wilhelm I. (Oranien)</persName>
+          <birth when="1533-04-24"/>
+          <death when="1584-07-10"/>
+          <ref target="https://d-nb.info/gnd/118738062">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q78454">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/William-I-stadholder-of-United-Provinces-of-The-Netherlands">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienW/Wilhelm_von_Oranien.html">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118738062.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n50017277">lcnaf</ref>
+          <ref target="https://www.biblicalcyclopedia.com/W/william-i-of-orange.html">mcclintock-and-strong-biblical-cyclopedia</ref>
+          <ref target="https://viaf.org/viaf/261981977">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Wilhelm_I._(Oranien)">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118738062"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q78454"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/William-I-stadholder-of-United-Provinces-of-The-Netherlands"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienW/Wilhelm_von_Oranien.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118738062.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50017277"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/W/william-i-of-orange.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/261981977"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Wilhelm_I._(Oranien)"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Fürst von Oranien und Graf von Nassau-Dillenburg. Anführer im niederländischen Unabhängigkeitskrieg.</note>
         </person>
         <person xml:id="kbga-actors-716">
           <persName>Orell Füßli (Verlag)</persName>
@@ -52322,6 +52680,50 @@ Anton Philipp</persName>
             </bibl>
           </listBibl>
           <note type="bio">Apostel und Autor der ältesten Schriften des Neuen Testaments. Wirkmächtigster Theologe des Urchristentums.</note>
+        </person>
+        <person xml:id="kbga-actors-10529">
+          <persName>Paulus von Theben</persName>
+          <persName type="full">Paulus von Theben (228-341)</persName>
+          <birth when="0228"/>
+          <death when="0341"/>
+          <ref target="https://de.wikipedia.org/wiki/Paulus_von_Theben">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q313798">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Saint-Paul-of-Thebes">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/11590b.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienP/Paulus_von_Theben.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118739638.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/no97060587">lcnaf</ref>
+          <ref target="https://d-nb.info/gnd/118739638">gnd</ref>
+          <ref target="https://viaf.org/viaf/128587042">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Paulus_von_Theben"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q313798"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Saint-Paul-of-Thebes"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/11590b.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienP/Paulus_von_Theben.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118739638.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no97060587"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118739638"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/128587042"/>
+            </bibl>
+          </listBibl>
         </person>
         <person xml:id="kbga-actors-314">
           <persName>Paulus, Rudolf</persName>
@@ -53787,9 +54189,7 @@ Anton Philipp</persName>
         <person xml:id="kbga-actors-2476">
           <persName>Pius XII.</persName>
           <persName type="full">Pius XII. (1876-1958)</persName>
-          <persName type="variant">Pacelli, Eugenio s. Pius XII.</persName>
-          <persName type="variant">Pius XII.</persName>
-          <persName type="variant">Pius XII., Papst</persName>
+          <persName type="alternative">Pacelli, Eugenio</persName>
           <birth when="1876-03-02"/>
           <death when="1958-10-09"/>
           <ref target="https://de.wikipedia.org/wiki/Pius_XII.">wikipedia</ref>
@@ -53846,7 +54246,7 @@ Anton Philipp</persName>
               <ptr type="dodis" target="https://dodis.ch/P800"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Italienischer katholischer Theologe und Kirchenrechtler; 1917 Nuntius in München (für das ganze Deutsche Reich), 1939 zum Papst gewählt.</note>
         </person>
         <person xml:id="kbga-actors-322">
           <persName>Platon</persName>
@@ -57139,6 +57539,7 @@ Anton Philipp</persName>
               <ptr type="metagrid" target="https://api.metagrid.ch/concordance/Bd75GnYBUPOEfqBYvuo1.json"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher evangelischer Theologe und Politiker; 1919 Pfarrer in Berlin, 1921-1924 Mitglied des Preussischen Landtags, 1925 Pfarrer in Marburg, 1946 Kirchenrat, 1952 Dekan in Marburg-Stadt; Mitbegründer der Berneuchener Bewegung und der Michaelsbruderschaft.</note>
         </person>
         <person xml:id="kbga-actors-9003">
           <persName>Rittmeyer, Johann</persName>
@@ -60170,9 +60571,37 @@ Anton Philipp</persName>
           <birth when="1865-07-26"/>
           <death when="1939-11-29"/>
           <ref target="https://de.wikipedia.org/wiki/Philipp_Scheidemann">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118754351">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q70581">wikidata</ref>
+          <ref target="https://www.perlentaucher.de/autor/philipp-scheidemann.html">perlentaucher</ref>
+          <ref target="https://www.britannica.com/biography/Philipp-Scheidemann">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.deutsche-biographie.de/118754351.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n90704672">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/30332391">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Philipp_Scheidemann"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118754351"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q70581"/>
+            </bibl>
+            <bibl>
+              <ptr type="perlentaucher" target="https://www.perlentaucher.de/autor/philipp-scheidemann.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Philipp-Scheidemann"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118754351.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n90704672"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/30332391"/>
             </bibl>
           </listBibl>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
@@ -60389,8 +60818,8 @@ von</persName>
         <person xml:id="kbga-actors-3502">
           <persName>Scherffig, Wolfgang</persName>
           <persName type="full">Scherffig, Wolfgang (1913-2007)</persName>
-          <birth when="1913"/>
-          <death when="2007"/>
+          <birth when="1913-10-18"/>
+          <death when="2007-11-10"/>
           <ref target="https://kba.karl-barth.ch/actors/4898">kba</ref>
           <ref target="http://d-nb.info/gnd/172357144">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q59528560">wikidata</ref>
@@ -60425,6 +60854,7 @@ von</persName>
               <ptr type="metagrid" target="https://api.metagrid.ch/concordance/ZiUTG3YBUPOEfqBY6TER.json"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher evangelischer Theologe; Studium u.a. bei Karl Barth in Bonn, Vikariat und Hilfsdienst in Münster/Westf. und Düsseldorf, 1938 Leitung der Bruderschaft Rheinischer Hilfsprediger und Vikare, 1940 Kriegsdienst, 1947 Pfarrer in Düsseldorf, 1963 in Essen-Rellinghausen, 1972 in der Krankenhausseelsorge in Essen.</note>
         </person>
         <person xml:id="kbga-actors-4471">
           <persName>Schian, Martin</persName>
@@ -63191,11 +63621,20 @@ von</persName>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-8908">
-          <persName>Senden, H. van</persName>
-          <persName type="full">Senden, H. van</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <listBibl/>
+          <persName>Senden, Hermann van</persName>
+          <persName type="full">Senden, Hermann van (1880-1955)</persName>
+          <birth when="1880"/>
+          <death when="1955"/>
+          <ref target="https://d-nb.info/gnd/1156243173">gnd</ref>
+          <ref target="https://api.metagrid.ch/concordance/U5YzG3YBlFrJZhV34J_U.json">metagrid</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1156243173"/>
+            </bibl>
+            <bibl>
+              <ptr type="metagrid" target="https://api.metagrid.ch/concordance/U5YzG3YBlFrJZhV34J_U.json"/>
+            </bibl>
+          </listBibl>
         </person>
         <person xml:id="kbga-actors-1406">
           <persName>Seneca, Lucius Annaeus</persName>
@@ -63742,15 +64181,53 @@ von</persName>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Simeon_(Prophet)"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Simeon ist ein Lk. 2,25–35 erwähnter frommer und gotesfürchtiger Mann, der bei Jesu Darstellung im Tempel Jesus als den Messias erkennt.</note>
         </person>
         <person xml:id="kbga-actors-9162">
-          <persName>Simeon der Stylite</persName>
-          <persName type="full">Simeon der Stylite (389-459)</persName>
+          <persName>Simeon Stylites der Ältere</persName>
+          <persName type="full">Simeon Stylites der Ältere (389-459)</persName>
           <persName type="alternative">Symeon Stylites</persName>
           <birth when="0389"/>
           <death when="0459"/>
-          <listBibl/>
+          <ref target="https://d-nb.info/gnd/118620282">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q310987">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Saint-Simeon-Stylites">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/13795a.htm">catholic-encyclopedia</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienS/Simeon_Stylites_der_Aeltere.html">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118620282.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n92017615">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/75503404">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Symeon_Stylites_der_Ältere">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118620282"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q310987"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Saint-Simeon-Stylites"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/13795a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienS/Simeon_Stylites_der_Aeltere.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118620282.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n92017615"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/75503404"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Symeon_Stylites_der_Ältere"/>
+            </bibl>
+          </listBibl>
+          <note type="bio">Syrisch-christlicher Mönch, Einsiedler und Säulenheiliger.</note>
         </person>
         <person xml:id="kbga-actors-4957">
           <persName>Simmel, Georg</persName>
@@ -64235,7 +64712,6 @@ von</persName>
               <ptr type="helveticat" target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118751433&amp;vid=41SNL_51_INST:helveticat"/>
             </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
         </person>
         <person xml:id="kbga-actors-9631">
           <persName>Sophie Chotek, Herzogin von Hohenberg</persName>
@@ -64516,12 +64992,40 @@ von</persName>
           <birth when="1635-01-13"/>
           <death when="1705-02-05"/>
           <ref target="https://de.wikipedia.org/wiki/Philipp_Jacob_Spener">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/118616099">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q311231">wikidata</ref>
+          <ref target="https://www.britannica.com/biography/Philipp-Jakob-Spener">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.heiligenlexikon.de/BiographienP/Philipp_Jakob_Spener.htm">okumenisches-heiligenlexikon</ref>
+          <ref target="https://www.deutsche-biographie.de/118616099.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/n50021161">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/19723023">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Philipp_Jacob_Spener"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/118616099"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q311231"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Philipp-Jakob-Spener"/>
+            </bibl>
+            <bibl>
+              <ptr type="okumenisches-heiligenlexikon" target="https://www.heiligenlexikon.de/BiographienP/Philipp_Jakob_Spener.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118616099.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50021161"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/19723023"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher lutherischer Theologe und Genealoge; 1653 Magister, 1653 Freiprediger am Straßburger Münster, 1666 Pfarrer in Frankfurt/Main, 1686 Oberhofprediger in Dresden, 1691 Propst in Berlin; Begründer und einer der bedeutendsten Vertreter des lutherischen Pietismus.</note>
         </person>
         <person xml:id="kbga-actors-780">
           <persName>Spengler, Oswald</persName>
@@ -66482,6 +66986,7 @@ von</persName>
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81141827"/>
             </bibl>
           </listBibl>
+          <note type="bio">Deutscher Politiker und Publizist; NSDAP-Gauleiter in Franken, Herausgeber der antisemitischen Wochenzeitung «Der Stürmer», 1933 Leiter des «Zentralkomitees zur Abwehr jüdischer Greuel- und Boykotthetze», 1946 im Nürnberger Prozess als Kriegsverbrecher verurteilt und hingerichtet.</note>
         </person>
         <person xml:id="kbga-actors-5361">
           <persName>Stresemann, Gustav</persName>
@@ -66891,13 +67396,6 @@ von</persName>
             </bibl>
           </listBibl>
           <note type="bio">Noch keine Beschreibung vorhanden.</note>
-        </person>
-        <person xml:id="kbga-actors-9913">
-          <persName>Susi Thurneysen (Schwester von Ed. Th.)</persName>
-          <persName type="full">Susi Thurneysen (Schwester von Ed. Th.)</persName>
-          <birth when="0000"/>
-          <death when="0000"/>
-          <listBibl/>
         </person>
         <person xml:id="kbga-actors-8852">
           <persName>Sv. Kinas</persName>
@@ -68117,6 +68615,13 @@ von</persName>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/647"/>
             </bibl>
           </listBibl>
+        </person>
+        <person xml:id="kbga-actors-9913">
+          <persName>Thurneysen, Susi (Schwester von Ed. Th.)</persName>
+          <persName type="full">Thurneysen, Susi (Schwester von Ed. Th.)</persName>
+          <birth when="0000"/>
+          <death when="0000"/>
+          <listBibl/>
         </person>
         <person xml:id="kbga-actors-5786">
           <persName>Tiberius, Kaiser</persName>
@@ -69780,12 +70285,36 @@ von</persName>
           <birth when="1877-01-10"/>
           <death when="1962-05-19"/>
           <ref target="https://de.wikipedia.org/wiki/Benjamin_Vallotton">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/1045784680">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q2896259">wikidata</ref>
+          <ref target="https://www.deutsche-biographie.de/1045784680.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/no2001047435">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/016178">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/89522450">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Benjamin_Vallotton"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1045784680"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2896259"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/1045784680.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2001047435"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/016178"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/89522450"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Waadtländer reformierter Theologe, Schriftsteller, Lehrer und Redaktor; 1899 Lic. theol., Lehrer im Elsass, 1911 in Lausanne, 1921 in Strassburg, dort auch Redaktor des «Alsace française», ab 1935 freier Schriftsteller in Sanary-sur-Mer (Frankreich).</note>
         </person>
         <person xml:id="kbga-actors-7497">
           <persName>Vasady, Béla</persName>
@@ -70739,12 +71268,32 @@ von</persName>
           <birth when="1870-02-22"/>
           <death when="1942-02-05"/>
           <ref target="https://de.wikipedia.org/wiki/Dietrich_Vorwerk">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/117494712">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1224076">wikidata</ref>
+          <ref target="https://www.deutsche-biographie.de/117494712.html">deutsche-biographie</ref>
+          <ref target="https://id.loc.gov/authorities/no2005043336">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/8166777">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Dietrich_Vorwerk"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/117494712"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1224076"/>
+            </bibl>
+            <bibl>
+              <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/117494712.html"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2005043336"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/8166777"/>
+            </bibl>
           </listBibl>
-          <note type="bio">Noch keine Beschreibung vorhanden.</note>
+          <note type="bio">Deutscher evangelischer Pädagoge, Pfarrer und religiöser Schriftsteller; 1902 Pfarrer in Schierke, 1908 Superintendent und Konsistorialrat in Roßla, 1915 Pfarrer in Buslar, 1918 in Dresden; Verfasser zahlreicher christlich orientierter Schriften.</note>
         </person>
         <person xml:id="kbga-actors-4514">
           <persName>Voß, Johann Heinrich</persName>
@@ -72971,6 +73520,7 @@ von</persName>
         <person xml:id="kbga-actors-839">
           <persName>Wilhelm II. (Deutsches Reich)</persName>
           <persName type="full">Wilhelm II. (Deutsches Reich) (1859-1941)</persName>
+          <persName type="alternative">Friedrich Wilhelm Viktor Albert von Preußen</persName>
           <birth when="1859-01-27"/>
           <death when="1941-06-04"/>
           <ref target="https://de.wikipedia.org/wiki/Wilhelm_II._(Deutsches_Reich)">wikipedia</ref>
@@ -73007,7 +73557,7 @@ von</persName>
               <ptr type="viaf" target="https://viaf.org/viaf/121621349/"/>
             </bibl>
           </listBibl>
-          <note type="bio">Friedrich Wilhelm Viktor Albert von Preußen, 1888-1918 letzter Deutscher Kaiser und König von Preußen. Nach der Abdankung 1918 im Exil in Doorn (Niederlande).</note>
+          <note type="bio">Mitglied des Hauses Hohenzollern; 1888 letzter Deutscher Kaiser und König von Preußen, 1918 Abfankung und Exil in Doorn (Niederlande).</note>
         </person>
         <person xml:id="kbga-actors-840">
           <persName>Wille, Ulrich</persName>

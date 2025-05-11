@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-02-06 09:15:26</p>
+        <p>Datenbankexport vom 2025-05-11 10:20:41</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-02-06T09:15:26+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:26+01:00</change>
+      <change when="2025-05-11T10:20:41+02:00">teiHeader was automatically produced from the database 2025-05-11T10:20:41+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -264,11 +264,11 @@
           </listBibl>
         </org>
         <org xml:id="kbga-actors-8325">
-          <orgName>Baselland (Kanton)</orgName>
-          <orgName type="full">Baselland (Kanton) (1501- )</orgName>
-          <orgName type="alternative">Basel-Land</orgName>
-          <orgName type="alternative">Basel-Landschaft</orgName>
-          <orgName type="variant">Baselbiet</orgName>
+          <orgName>Basel-Landschaft (Kanton)</orgName>
+          <orgName type="full">Basel-Landschaft (Kanton) (1501- )</orgName>
+          <orgName type="alternative">Baselbiet</orgName>
+          <orgName type="variant">Basel-Land</orgName>
+          <orgName type="variant">Baselland</orgName>
           <orgName type="abbreviation">BL</orgName>
           <birth when="1501"/>
           <ref target="https://de.wikipedia.org/wiki/Kanton_Basel-Landschaft">wikipedia</ref>
@@ -305,6 +305,48 @@
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007477"/>
             </bibl>
           </listBibl>
+          <desc>Halbkanton im Nordwesten der Schweiz; ursprünglich mit dem heutigen Halbkanton Basel-Stadt in einem Kanton verbunden, so 1501 Beitritt zur Eidgenossenschaft, 1833 Trennung in Halbkantone.</desc>
+        </org>
+        <org xml:id="kbga-actors-10391">
+          <orgName>Basel-Stadt (Kanton)</orgName>
+          <orgName type="full">Basel-Stadt (Kanton) (1501- )</orgName>
+          <orgName type="abbreviation">BS</orgName>
+          <birth when="1501"/>
+          <ref target="https://d-nb.info/gnd/1077172354">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q12172">wikidata</ref>
+          <ref target="https://www.geonames.org/2661602">geonames</ref>
+          <ref target="https://www.britannica.com/place/Basel-Stadt">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n80158613">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/007478">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/157749613/">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Kanton_Basel-Stadt">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1077172354"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q12172"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2661602"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Basel-Stadt"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80158613"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007478"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/157749613/"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanton_Basel-Stadt"/>
+            </bibl>
+          </listBibl>
+          <desc>Halbkanton im Nordwesten der Schweiz, umfassend die Stadt Basel und die Gemeinden Bettingen und Riehen; ursprünglich mit dem heutigen Halbkanton Basel-Landschaft in einem Kanton verbunden, so 1501 Beitritt zur Eidgenossenschaft, 1833 Trennung in Halbkantone.</desc>
         </org>
         <org xml:id="kbga-actors-8324">
           <orgName>Basler Arbeiter-Zeitung</orgName>
@@ -461,8 +503,16 @@
         </org>
         <org xml:id="kbga-actors-8273">
           <orgName>Bekennende Kirche in Kurhessen</orgName>
-          <orgName type="full">Bekennende Kirche in Kurhessen</orgName>
-          <listBibl/>
+          <orgName type="full">Bekennende Kirche in Kurhessen (1934-1945)</orgName>
+          <birth when="1934"/>
+          <death when="1945"/>
+          <ref target="https://d-nb.info/gnd/4463572-2">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4463572-2"/>
+            </bibl>
+          </listBibl>
+          <desc>Massgeblich durch Hans von Soden gegründeter kurhessischer Zweig der Bekennenden Kirche.</desc>
         </org>
         <org xml:id="kbga-actors-8358">
           <orgName>Bekenntniskirche</orgName>
@@ -1122,8 +1172,11 @@
         </org>
         <org xml:id="kbga-actors-8277">
           <orgName>Bruderrat des Pfarrernotbundes</orgName>
-          <orgName type="full">Bruderrat des Pfarrernotbundes</orgName>
+          <orgName type="full">Bruderrat des Pfarrernotbundes (1933-1948)</orgName>
+          <birth when="1933"/>
+          <death when="1948"/>
           <listBibl/>
+          <desc>Leitendes Gremium des Pfarrernotbundes.</desc>
         </org>
         <org xml:id="kbga-actors-9126">
           <orgName>Bulgarien</orgName>
@@ -1569,14 +1622,41 @@
         </org>
         <org xml:id="kbga-actors-3760">
           <orgName>Concilium Chalcedonense</orgName>
-          <orgName type="full">Concilium Chalcedonense</orgName>
+          <orgName type="full">Concilium Chalcedonense (451)</orgName>
           <orgName type="variant">Chalcedonense, Conc.</orgName>
+          <birth when="0451-10-08"/>
+          <death when="0451-11-01"/>
           <ref target="https://de.wikipedia.org/wiki/Konzil_von_Chalcedon">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/2047219-5">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q170531">wikidata</ref>
+          <ref target="https://www.britannica.com/event/Council-of-Chalcedon">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/03555a.htm">catholic-encyclopedia</ref>
+          <ref target="https://id.loc.gov/authorities/n79100865">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/153263073">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Konzil_von_Chalcedon"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2047219-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q170531"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Council-of-Chalcedon"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03555a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79100865"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/153263073"/>
+            </bibl>
           </listBibl>
+          <desc>Das vierte der sieben ökumenischen Konzilien der Alten Kirche; seine Entscheide sind in der katholischen Kirche und den orthodoxen Kirchen als unfehlbar anerkannt und stehen auch in den  protestantischen und anglikanischen Kirchen in Geltung. Ein Ergebnis dieses Konzils war die  Annahme eines neuen Glaubensbekenntnisses, des „Chalcedonense“.</desc>
         </org>
         <org xml:id="kbga-actors-3999">
           <orgName>Conference on Christian Politics, Economics and Citizenship</orgName>
@@ -1880,7 +1960,7 @@
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80125938"/>
             </bibl>
           </listBibl>
-          <desc>Ostdeutscher Teilstaat; 1949 in Abgrenzung zur westorientierten Bundesrepublik Deutschland als eigener Staat im sowjetischen Einflussbereich gegründet, despektierlich im Westen lange auch als «Ostzone» bezeichnet, 1990 durch Beitritt zur Bundesrepublik aufgelöst.</desc>
+          <desc>Ostdeutscher Teilstaat; 1949 in Abgrenzung zur westorientierten Bundesrepublik Deutschland als eigener Staat auf dem Territorium der Sowjetischen Besatzungszone gegründet, im Westen häufig despektierlich als «Ostzone» bezeichnet, 1990 durch Beitritt zur Bundesrepublik aufgelöst.</desc>
         </org>
         <org xml:id="kbga-actors-8262">
           <orgName>Deutsche Evangelische Kirche</orgName>
@@ -2427,6 +2507,31 @@
           </listBibl>
           <desc>1919 in Moskau gegründeter internationaler Zusammenschluss kommunistischer Parteien zu einer weltweiten gemeinsamen Organisation.</desc>
         </org>
+        <org xml:id="kbga-actors-8708">
+          <orgName>Dritte Schweizerische Landesausstellung</orgName>
+          <orgName type="full">Dritte Schweizerische Landesausstellung (1914)</orgName>
+          <birth when="1914-05-15"/>
+          <death when="1914-10-15"/>
+          <ref target="https://d-nb.info/gnd/5115250-2">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q1121146">wikidata</ref>
+          <ref target="https://viaf.org/viaf/142705695/">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Schweizerische_Landesausstellung_1914">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/5115250-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1121146"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/142705695/"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schweizerische_Landesausstellung_1914"/>
+            </bibl>
+          </listBibl>
+          <desc>Diese Dritte Schweizerische Landesausstellung fand 1914 in Bern statt; sie war geprägt von der Unterstreichung des Konzept der bewaffneten Neutralität (Armeepavillon) und vom Gegensatz zwischen Romandie und Deutschschweiz (Kritik an der Tendenz zur vereinheitlichenden Darstellung Schweizer Tradition). Nach Ausbruch des Ersten Weltkriegs blieb die Ausstellung für zwei Wochen geschlossen.</desc>
+        </org>
         <org xml:id="kbga-actors-8323">
           <orgName>Drittes Reich</orgName>
           <orgName type="full">Drittes Reich (1933-1945)</orgName>
@@ -2582,6 +2687,27 @@
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/666"/>
             </bibl>
           </listBibl>
+        </org>
+        <org xml:id="kbga-actors-8265">
+          <orgName>Erste Weltkonferenz für Glauben und Kirchenverfassung in Lausanne</orgName>
+          <orgName type="full">Erste Weltkonferenz für Glauben und Kirchenverfassung in Lausanne (1927)</orgName>
+          <birth when="1927-08-03"/>
+          <death when="1927-08-21"/>
+          <ref target="https://d-nb.info/gnd/4136894-0">gnd</ref>
+          <ref target="https://de.wikipedia.org/wiki/Bewegung_für_Glauben_und_Kirchenverfassung">wikipedia</ref>
+          <ref target="https://www.wikidata.org/wiki/Q62685751">wikidata</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4136894-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bewegung_für_Glauben_und_Kirchenverfassung"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62685751"/>
+            </bibl>
+          </listBibl>
+          <desc>Die erste Weltkonferenz über Glauben und Kirchenverfassung (Faith and Order movement), zu der sich mehr als 400 Vertreter von 127 Kirchen anglikanischer, evangelischer und orthodoxer Konfession versammelten.</desc>
         </org>
         <org xml:id="kbga-actors-8377">
           <orgName>Erziehungsdepartement des Kantons Basel-Stadt</orgName>
@@ -2831,6 +2957,7 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Église_Évangélique_Réformée_du_canton_de_Vaud"/>
             </bibl>
           </listBibl>
+          <desc>Reformierte Landeskirche im  französischsprachigen Gliedstaat (Kanton) Waadt (Vaud) der Schweiz, die auf das reformatorische Wirken von Guillaume Farel und Pierre Viret zurückgeht (1526), 1845 Abspaltung einer freien Kirche, 1966 in ihrer heutigen Form durch Wiedervereinigung der Église nationale und der Église évangélique libre du Canton de Vaud 1966 entstanden.</desc>
         </org>
         <org xml:id="kbga-actors-5257">
           <orgName>Evangelisch-reformierte Kirche in Nordwestdeutschland</orgName>
@@ -2850,6 +2977,20 @@
             </bibl>
           </listBibl>
           <desc>Reformierte Landeskirche mit Sitz in Aurich; gegründet 1882 als «Evangelisch-reformirte Kirche der Provinz Hannover», 1922 umbenannt in «Evangelisch-reformierte Landeskirche der Provinz Hannover», 1949 in «Evangelisch-reformierte Kirche in Nordwestdeutschland»; 1989 mit der «Evangelisch-reformierten Kirche in Bayern» zur «Evangelisch-reformierten Kirche» fusioniert.</desc>
+        </org>
+        <org xml:id="kbga-actors-10222">
+          <orgName>Evangelisch-Reformierte Kirchgemeinde Neumünster Zürich</orgName>
+          <orgName type="full">Evangelisch-Reformierte Kirchgemeinde Neumünster Zürich (1834-2018)</orgName>
+          <orgName type="variant">Kirchgemeinde Zürich-Neumünster</orgName>
+          <birth when="1834"/>
+          <death when="2018"/>
+          <ref target="https://d-nb.info/gnd/1086379098">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1086379098"/>
+            </bibl>
+          </listBibl>
+          <desc>Ehemals selbständige Kirchgemeinde, die sich über die heutigen Zürcher Stadtquartiere Seefeld, Riesbach und Teile von Hirslanden erstreckte; seit 2019 Teil der Kirchgemeinde Zürich.</desc>
         </org>
         <org xml:id="kbga-actors-8331">
           <orgName>Evangelisch-reformierte Landeskirche des Kantons Aargau</orgName>
@@ -4497,8 +4638,43 @@
         </org>
         <org xml:id="kbga-actors-8783">
           <orgName>Israel (Staat)</orgName>
-          <orgName type="full">Israel (Staat)</orgName>
-          <listBibl/>
+          <orgName type="full">Israel (Staat) (1948- )</orgName>
+          <birth when="1948-05-14"/>
+          <ref target="https://d-nb.info/gnd/4027808-6">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q801">wikidata</ref>
+          <ref target="https://www.geonames.org/294640">geonames</ref>
+          <ref target="https://www.britannica.com/place/Israel">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n79003285">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/003411">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/146498911">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/Israel">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4027808-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q801"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/294640"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Israel"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79003285"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003411"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/146498911"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Israel"/>
+            </bibl>
+          </listBibl>
+          <desc>Staat in Vorderasien an der Ostküste des Mittelmeeres, gegründet auf UNO-Beschluss als Heimstatt des jüdischen Volkes.</desc>
         </org>
         <org xml:id="kbga-actors-8696">
           <orgName>Istituto di Studi Filosofici</orgName>
@@ -5059,6 +5235,19 @@
           <orgName type="full">KPR</orgName>
           <listBibl/>
         </org>
+        <org xml:id="kbga-actors-10221">
+          <orgName>Krankenkasse für Schweizerische Evangelische Geistliche</orgName>
+          <orgName type="full">Krankenkasse für Schweizerische Evangelische Geistliche (1906-1957)</orgName>
+          <birth when="1906"/>
+          <death when="1957"/>
+          <ref target="https://d-nb.info/gnd/1086551508">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/1086551508"/>
+            </bibl>
+          </listBibl>
+          <desc>Im Umfeld der Schweizerischen reformierten Predigergesellschaft gegründete berufsständische Krankenkasse; Nachfolger: Schweizerische Krankenkasse für Evangelische Pfarrer.</desc>
+        </org>
         <org xml:id="kbga-actors-9064">
           <orgName>Kriegsruf</orgName>
           <orgName type="full">Kriegsruf (1880-2007)</orgName>
@@ -5602,13 +5791,6 @@
             </bibl>
           </listBibl>
         </org>
-        <org xml:id="kbga-actors-10383">
-          <orgName>NATO</orgName>
-          <orgName type="full">NATO (1049- )</orgName>
-          <orgName type="alternative">North Atlantic Treaty Organization</orgName>
-          <birth when="1049"/>
-          <listBibl/>
-        </org>
         <org xml:id="kbga-actors-7974">
           <orgName>Neue Basler Zeitung</orgName>
           <orgName type="full">Neue Basler Zeitung</orgName>
@@ -5822,11 +6004,44 @@
           <birth when="1648"/>
           <note type="date_comment">Unabhängig anerkannt (bereits 1581 proklamiert)</note>
           <ref target="https://de.wikipedia.org/wiki/Niederlande">wikipedia</ref>
+          <ref target="https://d-nb.info/gnd/4042203-3">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q55">wikidata</ref>
+          <ref target="https://www.geonames.org/2750405">geonames</ref>
+          <ref target="https://www.britannica.com/place/Netherlands">encyclopaedia-britannica-online</ref>
+          <ref target="https://www.newadvent.org/cathen/10759a.htm">catholic-encyclopedia</ref>
+          <ref target="https://id.loc.gov/authorities/n78085423">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/003364">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/156652814">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Niederlande"/>
             </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4042203-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q55"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2750405"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Netherlands"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/10759a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n78085423"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003364"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/156652814"/>
+            </bibl>
           </listBibl>
+          <desc>Parlamentarische Monarchie in Westeuropa, der auch einige Karibik-Inseln angehören (gemeint ist in der Regel nur der europäische Teil, die eigentlichen «Niederlande»).</desc>
         </org>
         <org xml:id="kbga-actors-9048">
           <orgName>Norddeutscher Lloyd</orgName>
@@ -5861,6 +6076,43 @@
           </listBibl>
           <desc>Deutsche Reederei mit Sitz in Bremen; 1970 mit der  Hamburg-Amerikanischen Packetfahrt-Actien-Gesellschaft (HAPAG) zur Hapag-Lloyd-AG fusioniert.</desc>
         </org>
+        <org xml:id="kbga-actors-10383">
+          <orgName>North Atlantic Treaty Organization</orgName>
+          <orgName type="full">North Atlantic Treaty Organization (1949- )</orgName>
+          <orgName type="abbreviation">NATO</orgName>
+          <birth when="1949-04-04"/>
+          <ref target="https://d-nb.info/gnd/377-3">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q7184">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/North-Atlantic-Treaty-Organization">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n79006743">lcnaf</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/041283">hls-dhs-dss</ref>
+          <ref target="https://viaf.org/viaf/148423701">viaf</ref>
+          <ref target="https://de.wikipedia.org/wiki/NATO">wikipedia</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/377-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q7184"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/North-Atlantic-Treaty-Organization"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79006743"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/041283"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/148423701"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/NATO"/>
+            </bibl>
+          </listBibl>
+          <desc>Als Reaktion auf die Vorherrschaft der Sowjetunion in Osteuropa gegründetes Schutz- und Verteidigungsbündnis unter der Führung der USA und Großbritanniens.</desc>
+        </org>
         <org xml:id="kbga-actors-8381">
           <orgName>Notgemeinschaft Deutscher Wissenschaftler im Ausland</orgName>
           <orgName type="full">Notgemeinschaft Deutscher Wissenschaftler im Ausland (1933-1946)</orgName>
@@ -5883,6 +6135,7 @@
           <orgName>Ökumenischer Rat der Kirchen</orgName>
           <orgName type="full">Ökumenischer Rat der Kirchen (1948- )</orgName>
           <orgName type="alternative">Weltkirchenrat</orgName>
+          <orgName type="alternative">Weltrat der Kirchen</orgName>
           <orgName type="variant">World Council of Churches</orgName>
           <orgName type="abbreviation">ÖRK</orgName>
           <orgName type="abbreviation">WCC</orgName>
@@ -7043,6 +7296,13 @@
           <listBibl/>
           <desc>Schweizer Sektion der «International Organization of Good Templars» (Guttempler).</desc>
         </org>
+        <org xml:id="kbga-actors-10500">
+          <orgName>Schweizerisch-kirchliche Gesellschaft</orgName>
+          <orgName type="full">Schweizerisch-kirchliche Gesellschaft (1871- )</orgName>
+          <birth when="1871"/>
+          <listBibl/>
+          <desc>Schweizweiter Zusammenschluss der Angehörigen kirchlichen «Richtung» der sogenannten «Vermittler».</desc>
+        </org>
         <org xml:id="kbga-actors-8387">
           <orgName>Schweizerische Eidgenossenschaft</orgName>
           <orgName type="full">Schweizerische Eidgenossenschaft (1291- )</orgName>
@@ -7108,35 +7368,11 @@
           <orgName type="alternative">SKP</orgName>
           <listBibl/>
         </org>
-        <org xml:id="kbga-actors-8708">
-          <orgName>Schweizerische Landesausstellung 1914</orgName>
-          <orgName type="full">Schweizerische Landesausstellung 1914 (1914)</orgName>
-          <birth when="1914-05-15"/>
-          <death when="1914-10-15"/>
-          <ref target="https://d-nb.info/gnd/5115250-2">gnd</ref>
-          <ref target="https://www.wikidata.org/wiki/Q1121146">wikidata</ref>
-          <ref target="https://viaf.org/viaf/142705695/">viaf</ref>
-          <ref target="https://de.wikipedia.org/wiki/Schweizerische_Landesausstellung_1914">wikipedia</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/5115250-2"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1121146"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/142705695/"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schweizerische_Landesausstellung_1914"/>
-            </bibl>
-          </listBibl>
-          <desc>Diese Dritte Schweizerische Landesausstellung fand 1914 in Bern statt und war geprägt vom Ausbruch des Ersten Weltkriegs.</desc>
-        </org>
         <org xml:id="kbga-actors-3389">
           <orgName>Schweizerische Politische Korrespondenz</orgName>
           <orgName type="full">Schweizerische Politische Korrespondenz (1917-1993)</orgName>
           <orgName type="alternative">Mittelpresse</orgName>
+          <orgName type="abbreviation">SPK</orgName>
           <birth when="1917"/>
           <death when="1993"/>
           <ref target="https://d-nb.info/gnd/1086108035">gnd</ref>
@@ -7165,6 +7401,7 @@
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/043156"/>
             </bibl>
           </listBibl>
+          <desc>Schweizer Nachrichtenagentur mit Sitz in Bern für Informationen aus Politik, Wirtschaft, Gesellschaft und Kultur.</desc>
         </org>
         <org xml:id="kbga-actors-8493">
           <orgName>Schweizerische Reformblätter Bern</orgName>
@@ -7526,6 +7763,7 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Soviet-Union"/>
             </bibl>
           </listBibl>
+          <desc>Von der Kommunistischen Partei der Sowjetunion (KPdSU) zentralistisch regierter, föderativer Vielvölker- und Einparteienstaat, dessen Territorium sich über Osteuropa und den Kaukasus bis nach Zentral- und über das gesamte Nordasien erstreckte.</desc>
         </org>
         <org xml:id="kbga-actors-6132">
           <orgName>Sozialdemokratische Partei der Schweiz</orgName>
@@ -7638,12 +7876,6 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q15718748"/>
             </bibl>
           </listBibl>
-        </org>
-        <org xml:id="kbga-actors-8491">
-          <orgName>Staatsarchiv des Kantons Zürich</orgName>
-          <orgName type="full">Staatsarchiv des Kantons Zürich</orgName>
-          <orgName type="variant">Staatsarchiv Zürich</orgName>
-          <listBibl/>
         </org>
         <org xml:id="kbga-actors-8697">
           <orgName>Staatsuniversität Rom</orgName>
@@ -8526,6 +8758,7 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Rhenish-Friedrich-Wilhelm-University-of-Bonn"/>
             </bibl>
           </listBibl>
+          <desc>Als Kurkölnische Akademie Bonn 1777 ins Leben gerufen, am 18. Oktober 1818 als insgesamt sechsten preußische Universität gegründet, um für die neuen Provinzen Rheinland und Westfalen eine akademische Ausbiildungsstätte zu schaffen; Barth lehrte hier von 1930 bis 1935.</desc>
         </org>
         <org xml:id="kbga-actors-8300">
           <orgName>Universität Boston</orgName>
@@ -8701,6 +8934,16 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Friedrich-Schiller-University"/>
             </bibl>
           </listBibl>
+        </org>
+        <org xml:id="kbga-actors-10526">
+          <orgName>Universität Lausanne</orgName>
+          <orgName type="full">Universität Lausanne</orgName>
+          <listBibl/>
+        </org>
+        <org xml:id="kbga-actors-10527">
+          <orgName>Universität Neuenburg</orgName>
+          <orgName type="full">Universität Neuenburg</orgName>
+          <listBibl/>
         </org>
         <org xml:id="kbga-actors-8660">
           <orgName>Universität Tübingen</orgName>
@@ -8920,8 +9163,8 @@
           <desc>Kirchenstaat; wird auch synonym für die Römische Kurie verwendet.</desc>
         </org>
         <org xml:id="kbga-actors-6021">
-          <orgName>Vatikanum I / Erstes Vatikanisches Konzil 1869/70</orgName>
-          <orgName type="full">Vatikanum I / Erstes Vatikanisches Konzil 1869/70 (1869-1870)</orgName>
+          <orgName>Vatikanum I / Erstes Vatikanisches Konzil</orgName>
+          <orgName type="full">Vatikanum I / Erstes Vatikanisches Konzil (1869-1870)</orgName>
           <birth when="1869-12-08"/>
           <death when="1870-10-20"/>
           <ref target="https://de.wikipedia.org/wiki/Erstes_Vatikanisches_Konzil">wikipedia</ref>
@@ -8954,6 +9197,7 @@
               <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/15303a.htm"/>
             </bibl>
           </listBibl>
+          <desc>Das Erste Vatikanische Konzil (das 20. Ökumenische Konzil nach römisch-katholischer Zählung) wurde 1867 von Papst Pius IX. einberufen. Am Konzil wurde u.a. die Unfehlbarkeit des Papstes in Fragen der Glaubens- und Sittenlehre zum Dogma erklärt. Als nach dem Beginn des Deutsch-Französischen Krieges italienische Truppen den Vatikanstaat besetzten, wurde das Konzil auf unbestimmte Zeit vertagt.</desc>
         </org>
         <org xml:id="kbga-actors-9628">
           <orgName>Venedig</orgName>
@@ -9115,8 +9359,10 @@
         </org>
         <org xml:id="kbga-actors-5649">
           <orgName>Vereinte Nationen</orgName>
-          <orgName type="full">Vereinte Nationen</orgName>
+          <orgName type="full">Vereinte Nationen (1945- )</orgName>
+          <orgName type="alternative">United Nations Organization</orgName>
           <orgName type="variant">UNO</orgName>
+          <birth when="1945-06-26"/>
           <ref target="https://de.wikipedia.org/wiki/Vereinte_Nationen">wikipedia</ref>
           <ref target="https://d-nb.info/gnd/333-5">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q1065">wikidata</ref>
@@ -9151,6 +9397,7 @@
               <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/026469"/>
             </bibl>
           </listBibl>
+          <desc>Die Vereinte Nationen sind ein internationaler Bund von heute 193 Nationen, das den Auftrag hat, den Weltfrieden zu sichern und Völker- und Menschenrecht einzuhalten und zu schützen; 1945 als Nachfolger des gescheiterten Völkerbunds gegründet.</desc>
         </org>
         <org xml:id="kbga-actors-10364">
           <orgName>Viertes Konzil von Konstantinopel</orgName>
@@ -9403,27 +9650,6 @@
           <orgName>Weltkirchenrat</orgName>
           <orgName type="full">Weltkirchenrat</orgName>
           <listBibl/>
-        </org>
-        <org xml:id="kbga-actors-8265">
-          <orgName>Weltkonferenz für Glauben und Kirchenverfassung (Lausanne 1927)</orgName>
-          <orgName type="full">Weltkonferenz für Glauben und Kirchenverfassung (Lausanne 1927) (1927)</orgName>
-          <birth when="1927-08-03"/>
-          <death when="1927-08-21"/>
-          <ref target="https://d-nb.info/gnd/4136894-0">gnd</ref>
-          <ref target="https://de.wikipedia.org/wiki/Bewegung_für_Glauben_und_Kirchenverfassung">wikipedia</ref>
-          <ref target="https://www.wikidata.org/wiki/Q62685751">wikidata</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/4136894-0"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bewegung_für_Glauben_und_Kirchenverfassung"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62685751"/>
-            </bibl>
-          </listBibl>
-          <desc>Die erste Weltkonferenz über Glauben und Kirchenverfassung (Faith and Order movement), zu der sich mehr als 400 Vertreter von 127 Kirchen anglikanischer, evangelischer und orthodoxer Konfession versammelten.</desc>
         </org>
         <org xml:id="kbga-actors-8609">
           <orgName>Weltkonferenz für Praktisches Christentum (Oxford 1937)</orgName>
@@ -9814,8 +10040,8 @@
           <desc>1889 in Paris gegründeter, weltweiter Zusammenschluss sozialistischer und sozialdemokratischer Parteien und Organisationen, der an den mit dem Beginn des Ersten Weltkriegs eintretenden fundamentalen Differenzen zerbrach. In der Tradition dieser Zweiten Internationale erfolgte 1951 die Gründung der «Sozialistischen Internationale».</desc>
         </org>
         <org xml:id="kbga-actors-8380">
-          <orgName>Zweite Weltkonferenz der Bewegung für Glaube und Kirchenverfassung</orgName>
-          <orgName type="full">Zweite Weltkonferenz der Bewegung für Glaube und Kirchenverfassung (1937)</orgName>
+          <orgName>Zweite Weltkonferenz für Glaube und Kirchenverfassung in Edinburgh</orgName>
+          <orgName type="full">Zweite Weltkonferenz für Glaube und Kirchenverfassung in Edinburgh (1937)</orgName>
           <birth when="1937-08-03"/>
           <death when="1937-08-18"/>
           <ref target="https://d-nb.info/gnd/4136894-0">gnd</ref>
@@ -9832,6 +10058,7 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62685751"/>
             </bibl>
           </listBibl>
+          <desc>Zweite und letzte Konferenz der Bewegung für Glaube und Kirchenverfassung, auf der man sich in Fragen der Rechtfertigungslehre annäherte, auf der es aber nicht gelang, sich auf eine gemeinsame Vorstellung von kirchlicher Einheit zu einigen. Ein Jahr später schloss sich die Bewegung mit jener für Praktisches Christentum zusammen; aus beiden erwuchs schliesslich der Ökumenische Rat der Kirchen.</desc>
         </org>
         <org xml:id="kbga-actors-10361">
           <orgName>Zweites Konzil von Nicäa</orgName>

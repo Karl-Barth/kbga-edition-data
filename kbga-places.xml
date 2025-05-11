@@ -20,7 +20,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-02-06 09:15:35</p>
+        <p>Datenbankexport vom 2025-05-11 10:20:43</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-02-06T09:15:35+01:00">teiHeader was automatically produced from the database 2025-02-06T09:15:35+01:00</change>
+      <change when="2025-05-11T10:20:43+02:00">teiHeader was automatically produced from the database 2025-05-11T10:20:43+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2815,42 +2815,6 @@
           </listBibl>
           <note type="description">Auf der Museumsinseln in Berlin-Mitte gelegene evangelische Kirche, die 1747 bis 1750 als Hofkirche und Grablege der Hohenzollern errichtet und mehrfach umgebaut wurde. Der Neubau der heutigen Domanlage als repräsentative Hauptkirche Berlins erfolgte von 1894 bis1905.</note>
         </place>
-        <place type="S" xml:id="kbga-places-881">
-          <placeName>Berliner Sportpalast</placeName>
-          <placeName type="full">Berliner Sportpalast / Berlin (BE)</placeName>
-          <placeName type="alternative">Sportpalast</placeName>
-          <location>
-            <geo>52.49404 13.36104</geo>
-          </location>
-          <settlement>Berlin</settlement>
-          <country>Deutschland</country>
-          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Berliner_Sportpalast">https://de.wikipedia.org/wiki/Berliner_Sportpalast</idno>
-          <idno type="geonames" target="https://www.geonames.org/6945336">https://www.geonames.org/6945336</idno>
-          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q686156">https://www.wikidata.org/wiki/Q686156</idno>
-          <idno type="viaf" target="https://viaf.org/viaf/150707224/">https://viaf.org/viaf/150707224/</idno>
-          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-150707224/">https://www.worldcat.org/identities/viaf-150707224/</idno>
-          <idno type="gnd" target="https://d-nb.info/gnd/4250707-8">https://d-nb.info/gnd/4250707-8</idno>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Berliner_Sportpalast"/>
-            </bibl>
-            <bibl>
-              <ptr type="geonames" target="https://www.geonames.org/6945336"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q686156"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/150707224/"/>
-            </bibl>
-            <bibl>
-              <ptr type="worldcat" target="https://www.worldcat.org/identities/viaf-150707224/"/>
-            </bibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/4250707-8"/>
-            </bibl>
-          </listBibl>
-        </place>
         <place type="A" xml:id="kbga-places-233">
           <placeName>Bern (Kanton)</placeName>
           <placeName type="full">Bern (Kanton) (BE)</placeName>
@@ -3375,7 +3339,33 @@
         <place type="P" xml:id="kbga-places-1127">
           <placeName>Bièvres</placeName>
           <placeName type="full">Bièvres </placeName>
-          <listBibl/>
+          <location>
+            <geo>48.75772 2.21881</geo>
+          </location>
+          <country>Frankreich</country>
+          <idno type="geonames" target="https://www.geonames.org/6451951">https://www.geonames.org/6451951</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bièvres_(Essonne)">https://de.wikipedia.org/wiki/Bièvres_(Essonne)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q114877">https://www.wikidata.org/wiki/Q114877</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4306494-2">https://d-nb.info/gnd/4306494-2</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/360149489077493810000">https://viaf.org/viaf/360149489077493810000</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6451951"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bièvres_(Essonne)"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q114877"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4306494-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/360149489077493810000"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Im Department Essone nahe bei Paris gelegene Kleinstadt; in einem der «Fédération française des associations chrétiennes d&amp;#039;étudiants» gehörenden Landgut dort fand 1948 ein Gespräch mit Barth statt; Charlotte von Kirschbaum hielt dort im Frühjahr 1949 vier Referate zum Thema &amp;quot;Die wirkliche Frau&amp;quot;.</note>
         </place>
         <place type="P" xml:id="kbga-places-443">
           <placeName>Binningen</placeName>
@@ -6677,12 +6667,45 @@
           <placeName type="full">Eichberg </placeName>
           <listBibl/>
         </place>
-        <place xml:id="kbga-places-1384">
+        <place type="S" xml:id="kbga-places-1384">
           <placeName>Eiffelturm</placeName>
           <placeName type="full">Eiffelturm / Paris </placeName>
+          <location>
+            <geo>48.85832 2.29452</geo>
+          </location>
           <settlement>Paris</settlement>
           <country>Frankreich</country>
-          <listBibl/>
+          <idno type="geonames" target="https://www.geonames.org/6254976">https://www.geonames.org/6254976</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Eiffelturm">https://de.wikipedia.org/wiki/Eiffelturm</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q243">https://www.wikidata.org/wiki/Q243</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Eiffel-Tower-Paris-France">https://www.britannica.com/topic/Eiffel-Tower-Paris-France</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85136247">https://id.loc.gov/authorities/sh85136247</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4102872-7">https://d-nb.info/gnd/4102872-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/236835198">https://viaf.org/viaf/236835198</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6254976"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Eiffelturm"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q243"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Eiffel-Tower-Paris-France"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85136247"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4102872-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/236835198"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Eines der Wahrzeichen von Paris, 330m hoher Eisenfachwerkturm, der für die Weltausstellung von 1889 gebaut wurde.</note>
         </place>
         <place type="T" xml:id="kbga-places-1014">
           <placeName>Eigernordwand</placeName>
@@ -8531,6 +8554,12 @@
             </bibl>
           </listBibl>
           <note type="description">Evangelische Kirche im Zentrum von Barmen (Wuppertal), in der am 31. Mai 1934 die Barmer Theologische Erklärung verabschiedet wurde.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1506">
+          <placeName>Genf</placeName>
+          <placeName type="full">Genf (Kanton)</placeName>
+          <country>Schweiz</country>
+          <listBibl/>
         </place>
         <place type="H" xml:id="kbga-places-212">
           <placeName>Genfersee</placeName>
@@ -12322,8 +12351,41 @@
         <place type="P" xml:id="kbga-places-1478">
           <placeName>Kiew</placeName>
           <placeName type="full">Kiew </placeName>
+          <location>
+            <geo>50.45466 30.5238</geo>
+          </location>
           <country>Ukraine</country>
-          <listBibl/>
+          <idno type="geonames" target="https://www.geonames.org/703448">https://www.geonames.org/703448</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Kiew">https://de.wikipedia.org/wiki/Kiew</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1899">https://www.wikidata.org/wiki/Q1899</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Kyiv">https://www.britannica.com/place/Kyiv</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81022031">https://id.loc.gov/authorities/n81022031</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4030522-3">https://d-nb.info/gnd/4030522-3</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/150028026">https://viaf.org/viaf/150028026</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/703448"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kiew"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1899"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Kyiv"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81022031"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4030522-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/150028026"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Am Dnepr gelegene Hauptstadt und grösste Stadt der Ukraine (1934-1991: der Ukrainischen Sozialistischen Sowjetrepublik).</note>
         </place>
         <place type="S" xml:id="kbga-places-849">
           <placeName>Kirche St. Mangen</placeName>
@@ -13526,6 +13588,7 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/The-Kremlin"/>
             </bibl>
           </listBibl>
+          <note type="description">Ältester Teil der russischen Hauptstadt Moskau und deren historischer Mittelpunkt; vor 1732 und seit 1918 Zentrum der Staatsmacht: Sitz der Sowjet-Regierung, seit 1992 der Amtssitz des Präsidenten der Russischen Föderation.</note>
         </place>
         <place type="P" xml:id="kbga-places-739">
           <placeName>Kreuzlingen</placeName>
@@ -17212,49 +17275,6 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4041751-7"/>
             </bibl>
           </listBibl>
-        </place>
-        <place type="P" xml:id="kbga-places-276">
-          <placeName>Neumünster</placeName>
-          <placeName type="full">Neumünster (SH)</placeName>
-          <location>
-            <geo>54.07477 9.98195</geo>
-          </location>
-          <country>Deutschland</country>
-          <idno type="kba" target="https://kba.karl-barth.ch/places/2918">https://kba.karl-barth.ch/places/2918</idno>
-          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q3879">https://www.wikidata.org/wiki/Q3879</idno>
-          <idno type="gnd" target="https://d-nb.info/gnd/4041845-5">https://d-nb.info/gnd/4041845-5</idno>
-          <idno type="viaf" target="https://viaf.org/viaf/129024242/">https://viaf.org/viaf/129024242/</idno>
-          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n82039905/">https://www.worldcat.org/identities/lccn-n82039905/</idno>
-          <idno type="lcnaf" target="https://id.loc.gov/authorities/n82039905">https://id.loc.gov/authorities/n82039905</idno>
-          <idno type="geonames" target="https://www.geonames.org/2864475">https://www.geonames.org/2864475</idno>
-          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Neumünster">https://de.wikipedia.org/wiki/Neumünster</idno>
-          <listBibl>
-            <bibl>
-              <ptr type="kba" target="https://kba.karl-barth.ch/places/2918"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3879"/>
-            </bibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/4041845-5"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/129024242/"/>
-            </bibl>
-            <bibl>
-              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n82039905/"/>
-            </bibl>
-            <bibl>
-              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82039905"/>
-            </bibl>
-            <bibl>
-              <ptr type="geonames" target="https://www.geonames.org/2864475"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Neumünster"/>
-            </bibl>
-          </listBibl>
-          <note type="description">Kreisfreie Stadt in Schleswig-Holstein.</note>
         </place>
         <place type="P" xml:id="kbga-places-813">
           <placeName>New Haven</placeName>
@@ -24096,6 +24116,42 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
           <note type="description">Antiker Stadtstaat und heutige griechische Stadt und Gemeinde auf der griechischen Halbinsel Peloponnes.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-881">
+          <placeName>Sportpalast</placeName>
+          <placeName type="full">Sportpalast / Berlin (BE)</placeName>
+          <location>
+            <geo>52.49404 13.36104</geo>
+          </location>
+          <settlement>Berlin</settlement>
+          <country>Deutschland</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Berliner_Sportpalast">https://de.wikipedia.org/wiki/Berliner_Sportpalast</idno>
+          <idno type="geonames" target="https://www.geonames.org/6945336">https://www.geonames.org/6945336</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q686156">https://www.wikidata.org/wiki/Q686156</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/150707224/">https://viaf.org/viaf/150707224/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-150707224/">https://www.worldcat.org/identities/viaf-150707224/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4250707-8">https://d-nb.info/gnd/4250707-8</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Berliner_Sportpalast"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6945336"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q686156"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/150707224/"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://www.worldcat.org/identities/viaf-150707224/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4250707-8"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ehemalige große Veranstaltungshalle im Berliner Stadtteil Schöneberg, die insbesondere aufgrund zahlreicher Sportveranstaltungen, aber auch wegen der von Joseph Goebbels dort gehaltenen «Sportpalastrede» (18.2.1943) Berühmtheit erlangte; 1944 ausgebombt, 1953 repariert, 1973 abgerissen.</note>
         </place>
         <place type="P" xml:id="kbga-places-322">
           <placeName>St. Andrews</placeName>

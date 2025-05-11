@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2025-02-06
+2025-05-11
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -26,4 +26,4 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 ### Karl Barth-Archiv
 Über 90000 Verzeichnungseinheiten, knapp 20000 Akteure (Dubletten und Überschneidungen), über 5000 Orte und über 88000 Medien (der grösste Teil davon sind PDFs, die s/w-Fotografien der Dokumente enthalten)
 
-<small>generated 2025-02-06 08:16:49</small>
+<small>generated 2025-05-11 08:21:05</small>
