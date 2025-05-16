@@ -20,8 +20,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-05-16 11:32:53</p>
-        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,50,53,55,56 verwendet wurden.</p>
+        <p>Datenbankexport vom 2025-05-16 11:57:03</p>
+        <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,47,50,53,55,56,57 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-05-16T11:32:53+02:00">teiHeader was automatically produced from the database 2025-05-16T11:32:53+02:00</change>
+      <change when="2025-05-16T11:57:03+02:00">teiHeader was automatically produced from the database 2025-05-16T11:57:03+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -579,6 +579,24 @@
           </listBibl>
           <note type="description">Politische Gemeinde im Kanton Waadt und Hauptort des gleichnamigen Bezirks. Ab 1526 wirkte hier Guillaume Farel als Reformator.</note>
         </place>
+        <place type="H" xml:id="kbga-places-1333">
+          <placeName>Ajalon</placeName>
+          <placeName type="full">Ajalon </placeName>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Ajalon">https://de.wikipedia.org/wiki/Ajalon</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q412019">https://www.wikidata.org/wiki/Q412019</idno>
+          <idno type="geonames" target="https://www.geonames.org/295588">https://www.geonames.org/295588</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Ajalon"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q412019"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/295588"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="P" xml:id="kbga-places-1362">
           <placeName>Alba Longa</placeName>
           <placeName type="full">Alba Longa </placeName>
@@ -948,6 +966,54 @@
             </bibl>
           </listBibl>
           <note type="description">Eigentlich Doppelkontinent (Nord- und Südamerika); in der Regel ist mit Amerika nur Nordamerika gemeint, oft wird es auch als Synonym für die Vereinigten Staaten von Amerika (USA) verwendet.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-82">
+          <placeName>Amsterdam</placeName>
+          <placeName type="full">Amsterdam </placeName>
+          <location>
+            <geo>52.37403 4.88969</geo>
+          </location>
+          <settlement>Amsterdam</settlement>
+          <country>Niederlande</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Amsterdam">https://de.wikipedia.org/wiki/Amsterdam</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/151">https://kba.karl-barth.ch/places/151</idno>
+          <idno type="geonames" target="https://www.geonames.org/2759794">https://www.geonames.org/2759794</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q727">https://www.wikidata.org/wiki/Q727</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/158212776">https://viaf.org/viaf/158212776</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n78095634">https://id.loc.gov/authorities/n78095634</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4001783-7">https://d-nb.info/gnd/4001783-7</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n78095634">https://www.worldcat.org/identities/lccn-n78095634</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Amsterdam">https://www.britannica.com/place/Amsterdam</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Amsterdam"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/151"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2759794"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q727"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/158212776"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n78095634"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4001783-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n78095634"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Amsterdam"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Hauptstadt und größte Stadt der Niederlande.</note>
         </place>
         <place type="P" xml:id="kbga-places-917">
           <placeName>Andernach</placeName>
@@ -3890,6 +3956,45 @@
           </listBibl>
           <note type="description">Größte Stadt in Neuengland im Nordosten der USA; Hauptstadt des Bundesstaates Massachusetts.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1499">
+          <placeName>Bottmingen</placeName>
+          <placeName type="full">Bottmingen (BL)</placeName>
+          <location>
+            <geo>47.52343 7.57211</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7285306">https://www.geonames.org/7285306</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Bottmingen">https://de.wikipedia.org/wiki/Bottmingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q70036">https://www.wikidata.org/wiki/Q70036</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n88664828">https://id.loc.gov/authorities/n88664828</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001195">https://hls-dhs-dss.ch/de/articles/001195</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4236516-8">https://d-nb.info/gnd/4236516-8</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/154887821">https://viaf.org/viaf/154887821</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7285306"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bottmingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q70036"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88664828"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001195"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4236516-8"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/154887821"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Kanton Basel-Landschaft, Bezirk Arlesheim, nahe Basel.</note>
+        </place>
         <place type="P" xml:id="kbga-places-148">
           <placeName>Bourges</placeName>
           <placeName type="full">Bourges </placeName>
@@ -4398,6 +4503,54 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="P" xml:id="kbga-places-1367">
+          <placeName>Brüssel</placeName>
+          <placeName type="full">Brüssel </placeName>
+          <placeName type="alternative">Bruxelles</placeName>
+          <location>
+            <geo>50.85045 4.34878</geo>
+          </location>
+          <settlement>Brüssel</settlement>
+          <country>Belgien</country>
+          <idno type="geonames" target="https://www.geonames.org/2800866">https://www.geonames.org/2800866</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/421">https://kba.karl-barth.ch/places/421</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q239">https://www.wikidata.org/wiki/Q239</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Brussels">https://www.britannica.com/place/Brussels</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79013830/">https://worldcat.org/identities/lccn-n79013830/</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03021a.htm">https://www.newadvent.org/cathen/03021a.htm</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79013830">https://id.loc.gov/authorities/n79013830</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/150675140/">https://viaf.org/viaf/150675140/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4008460-7">https://d-nb.info/gnd/4008460-7</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2800866"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/421"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q239"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Brussels"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n79013830/"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03021a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79013830"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/150675140/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4008460-7"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="P" xml:id="kbga-places-447">
           <placeName>Buchs</placeName>
           <placeName type="full">Buchs (AG)</placeName>
@@ -4872,6 +5025,22 @@
           </listBibl>
           <note type="description">Hauptstadt von Wales.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1518">
+          <placeName>Casa Locarno</placeName>
+          <placeName type="full">Casa Locarno / Locarno-Monti (TI)</placeName>
+          <location>
+            <geo>46.17361 8.78942</geo>
+          </location>
+          <settlement>Locarno-Monti</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/10394821">https://www.geonames.org/10394821</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/10394821"/>
+            </bibl>
+          </listBibl>
+          <note type="description">1932 erbaute Villa, die nach dem Zweiten Weltkrieg vom Ökumenischen Rat der Kirchen als Erholungsheim und Begegnungsstätte genutzt wurde; heute ein Hotel.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1112">
           <placeName>Casablanca</placeName>
           <placeName type="full">Casablanca </placeName>
@@ -5105,6 +5274,38 @@
             </bibl>
           </listBibl>
           <note type="description">1705 bis 1920 selbständige Stadt, dann als Teil Groß-Berlins eingemeindet.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1520">
+          <placeName>Château Coppet</placeName>
+          <placeName type="full">Château Coppet (VD)</placeName>
+          <location>
+            <geo>46.31701 6.1917</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/8199121">https://www.geonames.org/8199121</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Coppet">https://de.wikipedia.org/wiki/Schloss_Coppet</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2969038">https://www.wikidata.org/wiki/Q2969038</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/267278647">https://viaf.org/viaf/267278647</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/8199121"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Coppet"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2969038"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/267278647"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Schloss in der gleichnamigen Ortschaft im Kanton Waadt, mit Blick auf den Genfersee, ab 1804 im Bestz von Germaine Necker / Madame de Staël, Treffpunkt einer Gruppe von europäischen Intellektuellen aus Literatur und Politik (Coppet-Gruppe), die sich gegen Napoleon stellten.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1336">
+          <placeName>Cherubim</placeName>
+          <placeName type="full">Cherubim </placeName>
+          <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-816">
           <placeName>Chester</placeName>
@@ -5458,6 +5659,45 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="P" xml:id="kbga-places-1536">
+          <placeName>Couvet</placeName>
+          <placeName type="full">Couvet (NE)</placeName>
+          <location>
+            <geo>46.92525 6.6327</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2661086">https://www.geonames.org/2661086</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/804000252">https://search.ortsnamen.ch/de/record/804000252</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Couvet">https://de.wikipedia.org/wiki/Couvet</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q688493">https://www.wikidata.org/wiki/Q688493</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002876">https://hls-dhs-dss.ch/de/articles/002876</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4627341-4">https://d-nb.info/gnd/4627341-4</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/234337987">https://viaf.org/viaf/234337987</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2661086"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/804000252"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Couvet"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q688493"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002876"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4627341-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/234337987"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ehemalige politische Gemeinde im Kanton Neuenburg / Neuchâtel, Bezirk Val-de-Travers.</note>
+        </place>
         <place type="S" xml:id="kbga-places-830">
           <placeName>Dachau (Konzentrationslager)</placeName>
           <placeName type="full">Dachau (Konzentrationslager) / Dachau (Bayern)</placeName>
@@ -5743,6 +5983,12 @@
           </listBibl>
           <note type="description">Großstadt im Rhein-Main-Gebiet; Sitz der Evangelischen Kirche in Hessen und Nassau (EKHN), deren Kirchenpräsident 1947-1964 Martin Niemöller war.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1337">
+          <placeName>Davos</placeName>
+          <placeName type="full">Davos (Graubünden)</placeName>
+          <country>Schweiz</country>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-889">
           <placeName>Debrecen</placeName>
           <placeName type="full">Debrecen </placeName>
@@ -5881,6 +6127,41 @@
             </bibl>
           </listBibl>
           <note type="description">Parlaments- und Regierungssitz der Niederlande.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1525">
+          <placeName>Denzlingen</placeName>
+          <placeName type="full">Denzlingen (BW)</placeName>
+          <location>
+            <geo>48.06667 7.88333</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/6555765">https://www.geonames.org/6555765</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Denzlingen">https://de.wikipedia.org/wiki/Denzlingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q538523">https://www.wikidata.org/wiki/Q538523</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n98105651">https://id.loc.gov/authorities/n98105651</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4195055-0">https://d-nb.info/gnd/4195055-0</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/158456254">https://viaf.org/viaf/158456254</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6555765"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Denzlingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q538523"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n98105651"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4195055-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/158456254"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Gemeinde im Landkreis Emmendingen, nördlich von Freiburg/Br.</note>
         </place>
         <place type="P" xml:id="kbga-places-748">
           <placeName>Detmold</placeName>
@@ -6060,6 +6341,41 @@
           </listBibl>
           <note type="description">Region im nördlichen Mitteleuropa, die von dem/n verkürzt mit diesem Namen benannten Staat/en umfasst wird.</note>
         </place>
+        <place type="A" xml:id="kbga-places-970">
+          <placeName>Deutschschweiz</placeName>
+          <placeName type="full">Deutschschweiz </placeName>
+          <location>
+            <geo>46.9804 8.2572</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Deutschschweiz">https://de.wikipedia.org/wiki/Deutschschweiz</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q689055">https://www.wikidata.org/wiki/Q689055</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/315160381/">https://viaf.org/viaf/315160381/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh86002732">https://id.loc.gov/authorities/sh86002732</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4070352-6">https://d-nb.info/gnd/4070352-6</idno>
+          <idno type="geonames" target="https://www.geonames.org/2659201">https://www.geonames.org/2659201</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Deutschschweiz"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q689055"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/315160381/"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh86002732"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4070352-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2659201"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Deutschsprachige, im Norden und Westen und in der Zentralschweiz gelegene Teile des Territotiums der Schweiz.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1149">
           <placeName>Diessbach</placeName>
           <placeName type="full">Diessbach (BE)</placeName>
@@ -6106,6 +6422,41 @@
           <placeName>Dießbach bei Büren</placeName>
           <placeName type="full">Dießbach bei Büren </placeName>
           <listBibl/>
+        </place>
+        <place type="P" xml:id="kbga-places-933">
+          <placeName>Dillenburg</placeName>
+          <placeName type="full">Dillenburg (HE)</placeName>
+          <location>
+            <geo>50.74114 8.28699</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/6557783">https://www.geonames.org/6557783</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Dillenburg">https://de.wikipedia.org/wiki/Dillenburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q517381">https://www.wikidata.org/wiki/Q517381</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n84112529">https://id.loc.gov/authorities/n84112529</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4012326-1">https://d-nb.info/gnd/4012326-1</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/239406451">https://viaf.org/viaf/239406451</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6557783"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Dillenburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q517381"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84112529"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4012326-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/239406451"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Stadt im mittelhessischen Lahn-Dill-Kreis, nahe Herborn.</note>
         </place>
         <place type="S" xml:id="kbga-places-1017">
           <placeName>Dominikanerkirche</placeName>
@@ -7555,6 +7906,59 @@
           </listBibl>
           <note type="description">Subkontinent, der sich über das westliche Fünftel der eurasischen Landmasse erstreckt, aus historischen und kulturellen Gründen in der Regel als eigenständiger Kontinent betrachtet.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1524">
+          <placeName>Evangelisches Jugendheim Geroldseck</placeName>
+          <placeName type="full">Evangelisches Jugendheim Geroldseck </placeName>
+          <location>
+            <geo>48.33246 7.98039</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/12501465">https://www.geonames.org/12501465</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/12501465"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Im Ortenaukreis nördlich der Burg Hohengeroldseck gelegenes Jugendheim für Seminare, Freizeiten u.ä.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1532">
+          <placeName>Evanston</placeName>
+          <placeName type="full">Evanston (IL)</placeName>
+          <location>
+            <geo>42.04114 -87.69006</geo>
+          </location>
+          <country>Vereinigte Staaten von Amerika</country>
+          <idno type="geonames" target="https://www.geonames.org/4891382">https://www.geonames.org/4891382</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Evanston_(Illinois)">https://de.wikipedia.org/wiki/Evanston_(Illinois)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q462799">https://www.wikidata.org/wiki/Q462799</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Evanston-Illinois">https://www.britannica.com/place/Evanston-Illinois</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79040139">https://id.loc.gov/authorities/n79040139</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4085637-9">https://d-nb.info/gnd/4085637-9</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/136663122">https://viaf.org/viaf/136663122</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/4891382"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Evanston_(Illinois)"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q462799"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Evanston-Illinois"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79040139"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4085637-9"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/136663122"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Stadt nördlich von Chicago; 1954 Ort der zweiten Vollversammlung des Ökumenischen Rates der Kirchen.</note>
+        </place>
         <place type="P" xml:id="kbga-places-1055">
           <placeName>Exter</placeName>
           <placeName type="full">Exter / Vlotho (NW)</placeName>
@@ -7703,6 +8107,45 @@
             </bibl>
           </listBibl>
           <note type="description">Nördliche, überwiegend von den Flamen bewohnte Region Belgiens.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1483">
+          <placeName>Flensburg</placeName>
+          <placeName type="full">Flensburg (SH)</placeName>
+          <location>
+            <geo>54.78431 9.43961</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2926272">https://www.geonames.org/2926272</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Flensburg">https://de.wikipedia.org/wiki/Flensburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q3798">https://www.wikidata.org/wiki/Q3798</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Flensburg">https://www.britannica.com/place/Flensburg</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80132177">https://id.loc.gov/authorities/n80132177</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4017506-6">https://d-nb.info/gnd/4017506-6</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/168669942">https://viaf.org/viaf/168669942</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2926272"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Flensburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3798"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Flensburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80132177"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4017506-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/168669942"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Stadt im Norden von Schleswig-Holstein an der deutsch-dänischen Grenze.</note>
         </place>
         <place xml:id="kbga-places-782">
           <placeName>Fluntern</placeName>
@@ -8281,6 +8724,41 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="A" xml:id="kbga-places-1511">
+          <placeName>Galatien</placeName>
+          <placeName type="full">Galatien </placeName>
+          <location>
+            <geo>39.92336 32.85384</geo>
+          </location>
+          <country>Türkei</country>
+          <idno type="geonames" target="https://www.geonames.org/8378498">https://www.geonames.org/8378498</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Galatien">https://de.wikipedia.org/wiki/Galatien</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q26847">https://www.wikidata.org/wiki/Q26847</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Galatia">https://www.britannica.com/place/Galatia</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4092608-4">https://d-nb.info/gnd/4092608-4</idno>
+          <idno type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/G/galatia.html">https://www.biblicalcyclopedia.com/G/galatia.html</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/8378498"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Galatien"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q26847"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Galatia"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4092608-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/G/galatia.html"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Region in Kleinasien, heute Zentralanatolien (Türkei); nach Act. 16,6 und 18,23 von Paulus auf seiner zweiten und dritten Missionsreise besucht.</note>
+        </place>
         <place type="A" xml:id="kbga-places-780">
           <placeName>Galiläa</placeName>
           <placeName type="full">Galiläa </placeName>
@@ -8718,6 +9196,11 @@
             </bibl>
           </listBibl>
           <note type="description">Garten am Ölberg bei Jerusalem, Ort in der biblischen Passionsgeschichte.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1332">
+          <placeName>Gibea</placeName>
+          <placeName type="full">Gibea </placeName>
+          <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-1018">
           <placeName>Gibeon</placeName>
@@ -9868,6 +10351,33 @@
           <country>Vereinigte Staaten von Amerika</country>
           <listBibl/>
         </place>
+        <place type="P" xml:id="kbga-places-1529">
+          <placeName>Gunsbach</placeName>
+          <placeName type="full">Gunsbach </placeName>
+          <placeName type="alternative">Günsbach</placeName>
+          <location>
+            <geo>48.04777 7.17595</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/6441449">https://www.geonames.org/6441449</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Gunsbach">https://de.wikipedia.org/wiki/Gunsbach</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q392034">https://www.wikidata.org/wiki/Q392034</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/234853879">https://viaf.org/viaf/234853879</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6441449"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gunsbach"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q392034"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/234853879"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Gemeinde im Elsass (Dep. Haut-Rhin), westlich von Colmar; Albert Schweitzer, dessen Vater der Pfarrer des Ortes war, verlebte hier seine Jugend.</note>
+        </place>
         <place type="P" xml:id="kbga-places-28">
           <placeName>Gütersloh</placeName>
           <placeName type="full">Gütersloh (NW)</placeName>
@@ -10619,6 +11129,45 @@
           <country>Schweiz</country>
           <listBibl/>
         </place>
+        <place type="P" xml:id="kbga-places-691">
+          <placeName>Herborn</placeName>
+          <placeName type="full">Herborn (HE)</placeName>
+          <location>
+            <geo>50.68135 8.30369</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2906199">https://www.geonames.org/2906199</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Herborn">https://de.wikipedia.org/wiki/Herborn</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q18998">https://www.wikidata.org/wiki/Q18998</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n83135619">https://id.loc.gov/authorities/n83135619</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/029430">https://hls-dhs-dss.ch/de/articles/029430</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4024455-6">https://d-nb.info/gnd/4024455-6</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/168635918">https://viaf.org/viaf/168635918</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2906199"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Herborn"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q18998"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83135619"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/029430"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4024455-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/168635918"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Stadt im mittelhessischen Lahn-Dill-Kreis, deren historische Altstadt mit vielen Fachwerkbauten zu den besterhaltenen mittelalterlichen Stadtanlagen Deutschlands. Ab dem 16. Jahrhundert war das in der Stadt gelegene Schloss Sitz der «Hohen Schule Herborn», deren Gebäude seit dem späten 19. Jahrhundert als Theologisches Seminar / Predigermseminar genutzt wurden</note>
+        </place>
         <place type="P" xml:id="kbga-places-226">
           <placeName>Herzogenbuchsee</placeName>
           <placeName type="full">Herzogenbuchsee (BE)</placeName>
@@ -10820,6 +11369,85 @@
           </listBibl>
           <note type="description">Ort im Nordosten des US-Bundesstaats Arizona.</note>
         </place>
+        <place type="P" xml:id="kbga-places-535">
+          <placeName>Holderbank</placeName>
+          <placeName type="full">Holderbank (AG)</placeName>
+          <location>
+            <geo>47.43094 8.17066</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7286101">https://www.geonames.org/7286101</idno>
+          <idno type="ortsnamen" target="http://onch-api/de/record/802004199">http://onch-api/de/record/802004199</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/4062">https://kba.karl-barth.ch/places/4062</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q65627">https://www.wikidata.org/wiki/Q65627</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001764">https://hls-dhs-dss.ch/de/articles/001764</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4353410-7">https://d-nb.info/gnd/4353410-7</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Holderbank_AG">https://de.wikipedia.org/wiki/Holderbank_AG</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286101"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="http://onch-api/de/record/802004199"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/4062"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q65627"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001764"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4353410-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Holderbank_AG"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Einwohnergemeinde an der Aare im Bezirk Lenzburg (Kanton Aargau).</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1501">
+          <placeName>Hollywood</placeName>
+          <placeName type="full">Hollywood / Los Angeles (CA)</placeName>
+          <location>
+            <geo>34.09834 -118.32674</geo>
+          </location>
+          <settlement>Los Angeles</settlement>
+          <country>Vereinigte Staaten von Amerika</country>
+          <idno type="geonames" target="https://www.geonames.org/5357527">https://www.geonames.org/5357527</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Hollywood">https://de.wikipedia.org/wiki/Hollywood</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q34006">https://www.wikidata.org/wiki/Q34006</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hollywood-California">https://www.britannica.com/place/Hollywood-California</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n50038252">https://id.loc.gov/authorities/n50038252</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4099817-4">https://d-nb.info/gnd/4099817-4</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/167948520">https://viaf.org/viaf/167948520</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/5357527"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hollywood"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q34006"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hollywood-California"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50038252"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4099817-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/167948520"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Stadtteil von Los Angeles, der insbesondere für die dort ansässige Filmindustrie berühmt ist; der Name wird oft synonym für die US-Filmindustrie verwendet.</note>
+        </place>
         <place type="P" xml:id="kbga-places-451">
           <placeName>Holziken</placeName>
           <placeName type="full">Holziken (AG)</placeName>
@@ -10877,6 +11505,22 @@
           </listBibl>
           <note type="description">Erhebung nördlich von Reinach im Kanton Aargau, zwischen Wynental und Seetal gelegen (787 m.ü.M.).</note>
         </place>
+        <place type="S" xml:id="kbga-places-1517">
+          <placeName>Hotel Reber au Lac</placeName>
+          <placeName type="full">Hotel Reber au Lac / Muralto (TI)</placeName>
+          <location>
+            <geo>46.17337 8.81046</geo>
+          </location>
+          <settlement>Muralto</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/10390118">https://www.geonames.org/10390118</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/10390118"/>
+            </bibl>
+          </listBibl>
+          <note type="description">1886 eröffnetes Hotel in Muralto, Viale Verbano 55; 2006 geschlossen und abgerissen.</note>
+        </place>
         <place type="P" xml:id="kbga-places-835">
           <placeName>Iglau / Jihlava</placeName>
           <placeName type="full">Iglau / Jihlava </placeName>
@@ -10909,6 +11553,49 @@
             </bibl>
             <bibl>
               <ptr type="geonames" target="https://www.geonames.org/3074199"/>
+            </bibl>
+          </listBibl>
+        </place>
+        <place type="P" xml:id="kbga-places-1330">
+          <placeName>Ikonium</placeName>
+          <placeName type="full">Ikonium </placeName>
+          <placeName type="alternative">Konya</placeName>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Konya">https://de.wikipedia.org/wiki/Konya</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q79857">https://www.wikidata.org/wiki/Q79857</idno>
+          <idno type="geonames" target="https://www.geonames.org/306571">https://www.geonames.org/306571</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Konya">https://www.britannica.com/place/Konya</idno>
+          <idno type="worldcat" target="https://worldcat.org/identities/lccn-n80145386/">https://worldcat.org/identities/lccn-n80145386/</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/07619a.htm">https://www.newadvent.org/cathen/07619a.htm</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n80145386">https://id.loc.gov/authorities/n80145386</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/155942204/">https://viaf.org/viaf/155942204/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4110361-0">https://d-nb.info/gnd/4110361-0</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Konya"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q79857"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/306571"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Konya"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n80145386/"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/07619a.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80145386"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/155942204/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4110361-0"/>
             </bibl>
           </listBibl>
         </place>
@@ -11152,6 +11839,46 @@
             </bibl>
           </listBibl>
           <note type="description">Politische Gemeinde und Hauptort des Verwaltungskreises Interlaken-Oberhasli im Kanton Bern, zwischen Thunersee und Brienzersee gelegen.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1515">
+          <placeName>Invalidendom</placeName>
+          <placeName type="full">Invalidendom / Paris </placeName>
+          <location>
+            <geo>48.85502 2.31251</geo>
+          </location>
+          <settlement>Paris</settlement>
+          <country>Frankreich</country>
+          <idno type="geonames" target="https://www.geonames.org/6269537">https://www.geonames.org/6269537</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Invalidendom">https://de.wikipedia.org/wiki/Invalidendom</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q152109">https://www.wikidata.org/wiki/Q152109</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Dome-des-Invalides">https://www.britannica.com/place/Dome-des-Invalides</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n93005183">https://id.loc.gov/authorities/n93005183</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4237008-5">https://d-nb.info/gnd/4237008-5</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/168523798">https://viaf.org/viaf/168523798</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6269537"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Invalidendom"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q152109"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Dome-des-Invalides"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n93005183"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4237008-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/168523798"/>
+            </bibl>
+          </listBibl>
+          <note type="description">1679 bis 1708 errichteter Kuppelbau, der ursprünglich als Kirche diente und 1840 zur Grabstätte für Napoleon I. umgebaut wurde.</note>
         </place>
         <place type="A" xml:id="kbga-places-33">
           <placeName>Irland</placeName>
@@ -12266,6 +12993,13 @@
           </listBibl>
           <note type="description">Dreischiffige Basilika und Hauptkirche der ‹Église protestante de Genève›, erbaut ab 1160 mit romanischen und gotischen Stilelementen; Predigtkirche Calvins von 1535 bis 1558.</note>
         </place>
+        <place xml:id="kbga-places-1335">
+          <placeName>Kenchreai</placeName>
+          <placeName type="full">Kenchreai </placeName>
+          <placeName type="alternative">Kenchreae</placeName>
+          <placeName type="alternative">Kenchreä</placeName>
+          <listBibl/>
+        </place>
         <place type="P" xml:id="kbga-places-967">
           <placeName>Kiautschou</placeName>
           <placeName type="full">Kiautschou (Shandong)</placeName>
@@ -13021,6 +13755,22 @@
           </listBibl>
           <note type="description">politische Gemeinde in der Region Prättigau/Davos im schweizerischen Kantons Graubünden.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1513">
+          <placeName>Koepelkerk</placeName>
+          <placeName type="full">Koepelkerk / Amsterdam </placeName>
+          <location>
+            <geo>52.35999 4.88536</geo>
+          </location>
+          <settlement>Amsterdam</settlement>
+          <country>Niederlande</country>
+          <idno type="geonames" target="https://www.geonames.org/6884785">https://www.geonames.org/6884785</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6884785"/>
+            </bibl>
+          </listBibl>
+          <note type="description">1884 eröffnete Kirche der niederländischen Hervormde Kerk an der Stadhouderskade 21; 1972 geschlossen und abgerissen.</note>
+        </place>
         <place type="P" xml:id="kbga-places-243">
           <placeName>Kölliken</placeName>
           <placeName type="full">Kölliken (AG)</placeName>
@@ -13423,6 +14173,48 @@
             </bibl>
           </listBibl>
           <note type="description">Groß- und Hafenstadt am Öresund, Hauptstadt Dänemarks.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1527">
+          <placeName>Korea</placeName>
+          <placeName type="full">Korea </placeName>
+          <location>
+            <geo>36.5 127.75</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/1835841">https://www.geonames.org/1835841</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Korea">https://de.wikipedia.org/wiki/Korea</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q18097">https://www.wikidata.org/wiki/Q18097</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Korea">https://www.britannica.com/place/Korea</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n79109033">https://id.loc.gov/authorities/n79109033</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003416">https://hls-dhs-dss.ch/de/articles/003416</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4032466-7">https://d-nb.info/gnd/4032466-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/155862313">https://viaf.org/viaf/155862313</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/1835841"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Korea"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q18097"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Korea"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79109033"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003416"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4032466-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/155862313"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Halbinsel in Südostasien; Territorium der seit dem Koreakrieg 1950-1953 getrennten und verfeindeten Staaten Süd- und Nordkorea.</note>
         </place>
         <place type="P" xml:id="kbga-places-1081">
           <placeName>Korinth</placeName>
@@ -13885,6 +14677,49 @@
               <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n2005003046/"/>
             </bibl>
           </listBibl>
+        </place>
+        <place type="H" xml:id="kbga-places-1519">
+          <placeName>Lago Maggiore</placeName>
+          <placeName type="full">Lago Maggiore </placeName>
+          <placeName type="alternative">Langensee</placeName>
+          <location>
+            <geo>46.01175 8.70754</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/2659792">https://www.geonames.org/2659792</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Lago_Maggiore">https://de.wikipedia.org/wiki/Lago_Maggiore</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q14379">https://www.wikidata.org/wiki/Q14379</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Lake-Maggiore">https://www.britannica.com/place/Lake-Maggiore</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85079596">https://id.loc.gov/authorities/sh85079596</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008662">https://hls-dhs-dss.ch/de/articles/008662</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4034092-2">https://d-nb.info/gnd/4034092-2</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/312586992">https://viaf.org/viaf/312586992</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2659792"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Lago_Maggiore"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q14379"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Lake-Maggiore"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85079596"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008662"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4034092-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/312586992"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Italienisch-schweizerischer See, an dessen nördlichem, schweizerischen Ufer Locarno liegt.</note>
         </place>
         <place type="A" xml:id="kbga-places-246">
           <placeName>Lahntal</placeName>
@@ -14412,6 +15247,45 @@
           </listBibl>
           <note type="description">Kleinstadt im Kanton Aargau.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1534">
+          <placeName>Les Bayards</placeName>
+          <placeName type="full">Les Bayards (NE)</placeName>
+          <location>
+            <geo>46.9159 6.51243</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2659940">https://www.geonames.org/2659940</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Les_Bayards">https://de.wikipedia.org/wiki/Les_Bayards</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q689685">https://www.wikidata.org/wiki/Q689685</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002872">https://hls-dhs-dss.ch/de/articles/002872</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/7615506-7">https://d-nb.info/gnd/7615506-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/247424662">https://viaf.org/viaf/247424662</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802006501">https://search.ortsnamen.ch/de/record/802006501</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2659940"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Les_Bayards"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q689685"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002872"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/7615506-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/247424662"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802006501"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Kanton Neuenburg / Neuchâtel, Bez. Val-de-Travers, südwestlich von Neuchâtel gelegen.</note>
+        </place>
         <place type="T" xml:id="kbga-places-251">
           <placeName>Leuenberg</placeName>
           <placeName type="full">Leuenberg / Hölstein (BL)</placeName>
@@ -14668,6 +15542,49 @@
             </bibl>
           </listBibl>
           <note type="description">Groß- und Hafenstadt im Westen Englands.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-555">
+          <placeName>Locarno</placeName>
+          <placeName type="full">Locarno (TI)</placeName>
+          <location>
+            <geo>46.17086 8.79953</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7286361">https://www.geonames.org/7286361</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Locarno">https://de.wikipedia.org/wiki/Locarno</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q11935">https://www.wikidata.org/wiki/Q11935</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Locarno">https://www.britannica.com/place/Locarno</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n2002032238">https://id.loc.gov/authorities/n2002032238</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002108">https://hls-dhs-dss.ch/de/articles/002108</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4036106-8">https://d-nb.info/gnd/4036106-8</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/155934804">https://viaf.org/viaf/155934804</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286361"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Locarno"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q11935"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Locarno"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n2002032238"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002108"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4036106-8"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/155934804"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde, Hauptort des gleichnamigen Kreises und Bezirks im Kanton Tessin, gelegen am Ufer des Langensees / Lago Maggiore.</note>
         </place>
         <place type="S" xml:id="kbga-places-880">
           <placeName>Loccum (Kloster)</placeName>
@@ -15267,6 +16184,20 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="P" xml:id="kbga-places-1331">
+          <placeName>Lystra</placeName>
+          <placeName type="full">Lystra </placeName>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Lystra">https://de.wikipedia.org/wiki/Lystra</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q535982">https://www.wikidata.org/wiki/Q535982</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Lystra"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q535982"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="S" xml:id="kbga-places-888">
           <placeName>Madeleinekirche</placeName>
           <placeName type="full">Madeleinekirche / Genf (GE)</placeName>
@@ -15622,6 +16553,40 @@
             </bibl>
           </listBibl>
           <note type="description">Universitätsstadt in Hessen. Barth studierte hier 1908 und arbeitete 1908/09 als Redaktionsgehilfe an der «Christlichen Welt».</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1497">
+          <placeName>Mariastein</placeName>
+          <placeName type="full">Mariastein (SO)</placeName>
+          <location>
+            <geo>47.47568 7.48924</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/7286498">https://www.geonames.org/7286498</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Metzerlen-Mariastein">https://de.wikipedia.org/wiki/Metzerlen-Mariastein</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q70025">https://www.wikidata.org/wiki/Q70025</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001102">https://hls-dhs-dss.ch/de/articles/001102</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/7537695-7">https://d-nb.info/gnd/7537695-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/122674597">https://viaf.org/viaf/122674597</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286498"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Metzerlen-Mariastein"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q70025"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001102"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/7537695-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/122674597"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ortsteil der vormaligen Gemeinde Metzerlen (heute Gemeinde Metzerlen-Mariastein) im Kanton Solothurn, Bezirk Dorneck, südwestlich von Basel gelegen; dank des im Ort gelegenen gleichnamigen Benediktinerklosters ein bedeutender Wallfahrtsort.</note>
         </place>
         <place type="P" xml:id="kbga-places-796">
           <placeName>Marienburg</placeName>
@@ -16871,6 +17836,41 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="P" xml:id="kbga-places-1516">
+          <placeName>Muralto</placeName>
+          <placeName type="full">Muralto (TI)</placeName>
+          <location>
+            <geo>46.17323 8.80219</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6692335">https://www.geonames.org/6692335</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Muralto">https://de.wikipedia.org/wiki/Muralto</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69961">https://www.wikidata.org/wiki/Q69961</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002115">https://hls-dhs-dss.ch/de/articles/002115</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4101783-3">https://d-nb.info/gnd/4101783-3</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/244571306">https://viaf.org/viaf/244571306</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6692335"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Muralto"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69961"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002115"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4101783-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/244571306"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Kreis Locarno, Kanton Tessin, direkt benachbart zu Locarno.</note>
+        </place>
         <place type="S" xml:id="kbga-places-867">
           <placeName>Mustermesse Basel</placeName>
           <placeName type="full">Mustermesse Basel / Basel (BS)</placeName>
@@ -16919,6 +17919,11 @@
           <placeName>Nagasaki</placeName>
           <placeName type="full">Nagasaki </placeName>
           <country>Japan</country>
+          <listBibl/>
+        </place>
+        <place xml:id="kbga-places-938">
+          <placeName>Nantes</placeName>
+          <placeName type="full">Nantes </placeName>
           <listBibl/>
         </place>
         <place type="P" xml:id="kbga-places-271">
@@ -17250,6 +18255,49 @@
           </listBibl>
           <note type="description">Territorium des gleichnamigen Kantons in der Romandie / Westschweiz.</note>
         </place>
+        <place type="P" xml:id="kbga-places-275">
+          <placeName>Neuendettelsau</placeName>
+          <placeName type="full">Neuendettelsau (BY)</placeName>
+          <location>
+            <geo>49.28333 10.78333</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2865798">https://www.geonames.org/2865798</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/4538">https://kba.karl-barth.ch/places/4538</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q502872">https://www.wikidata.org/wiki/Q502872</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4041749-9">https://d-nb.info/gnd/4041749-9</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/123811231/">https://viaf.org/viaf/123811231/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-n85286971/">https://www.worldcat.org/identities/lccn-n85286971/</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n85286971">https://id.loc.gov/authorities/n85286971</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Neuendettelsau">https://de.wikipedia.org/wiki/Neuendettelsau</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2865798"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/4538"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q502872"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4041749-9"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/123811231/"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n85286971/"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85286971"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Neuendettelsau"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Gemeinde in Mittelfranken, seit 1854 Sitz der gleichnamigen Diakonissenanstalt, seit 1949 Sitz der theologischen Augustana-Hochschule.</note>
+        </place>
         <place type="P" xml:id="kbga-places-882">
           <placeName>Neuenhaus</placeName>
           <placeName type="full">Neuenhaus (NI)</placeName>
@@ -17275,6 +18323,45 @@
               <ptr type="gnd" target="https://d-nb.info/gnd/4041751-7"/>
             </bibl>
           </listBibl>
+        </place>
+        <place type="P" xml:id="kbga-places-1530">
+          <placeName>Neuhausen am Rheinfall</placeName>
+          <placeName type="full">Neuhausen am Rheinfall (SH)</placeName>
+          <location>
+            <geo>47.67924 8.59938</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7286627">https://www.geonames.org/7286627</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Neuhausen_am_Rheinfall">https://de.wikipedia.org/wiki/Neuhausen_am_Rheinfall</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69372">https://www.wikidata.org/wiki/Q69372</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/no2008088680">https://id.loc.gov/authorities/no2008088680</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001279">https://hls-dhs-dss.ch/de/articles/001279</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4133329-9">https://d-nb.info/gnd/4133329-9</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/131740052">https://viaf.org/viaf/131740052</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286627"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Neuhausen_am_Rheinfall"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69372"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2008088680"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001279"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4133329-9"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/131740052"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Dorf und politische Gemeinde am Rhein, südlich von Schaffhausen.</note>
         </place>
         <place type="P" xml:id="kbga-places-813">
           <placeName>New Haven</placeName>
@@ -17506,6 +18593,42 @@
           </listBibl>
           <note type="description">Gebiet des heutigen gleichnamigen Staates in Westeuropa.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1512">
+          <placeName>Nieuwe Kerk</placeName>
+          <placeName type="full">Nieuwe Kerk / Amsterdam </placeName>
+          <location>
+            <geo>52.37393 4.89178</geo>
+          </location>
+          <settlement>Amsterdam</settlement>
+          <country>Niederlande</country>
+          <idno type="geonames" target="https://www.geonames.org/6951729">https://www.geonames.org/6951729</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam)">https://de.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam)</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1419675">https://www.wikidata.org/wiki/Q1419675</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n96006703">https://id.loc.gov/authorities/n96006703</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4842959-4">https://d-nb.info/gnd/4842959-4</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/137923044">https://viaf.org/viaf/137923044</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6951729"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Nieuwe_Kerk_(Amsterdam)"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1419675"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n96006703"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4842959-4"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/137923044"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Spätgotische Basilika; zweitälteste Kirche in Amsterdam und Krönungskirche der niederländischen Monarchen.</note>
+        </place>
         <place type="H" xml:id="kbga-places-1133">
           <placeName>Nil</placeName>
           <placeName type="full">Nil </placeName>
@@ -17553,6 +18676,40 @@
             </bibl>
           </listBibl>
           <note type="description">Mesopotamische Stadt am linken Ufer des Tigris, im heutigen Mossul; seit Mitte des 2. Jahrtausends v. Vhr. eine der assyrischen Residenzstädte, im 1. Jahrtausend vor Christus zu einer Metropole angewachsen, 612 v. Chr. durch ein medisch.babylonisches Heer weitgehend zerstört.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1523">
+          <placeName>Nonnenweier</placeName>
+          <placeName type="full">Nonnenweier </placeName>
+          <location>
+            <geo>48.34919 7.76006</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/3209276">https://www.geonames.org/3209276</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schwanau">https://de.wikipedia.org/wiki/Schwanau</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q550771">https://www.wikidata.org/wiki/Q550771</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n85175747">https://id.loc.gov/authorities/n85175747</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4053718-3">https://d-nb.info/gnd/4053718-3</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/124401793">https://viaf.org/viaf/124401793</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/3209276"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schwanau"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q550771"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85175747"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4053718-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/124401793"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ehemals selbständige Gemeinde (heute Schwanau) im Ortenaukreis, westlich von Lahr.</note>
         </place>
         <place type="A" xml:id="kbga-places-1101">
           <placeName>Nord-Mazedonien</placeName>
@@ -20350,6 +21507,40 @@
           </listBibl>
           <note type="description">Politische Gemeinde im Kanton Jura.</note>
         </place>
+        <place type="T" xml:id="kbga-places-1526">
+          <placeName>Pyrenäen</placeName>
+          <placeName type="full">Pyrenäen </placeName>
+          <location>
+            <geo>42.66667 1</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/3112616">https://www.geonames.org/3112616</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Pyrenäen">https://de.wikipedia.org/wiki/Pyrenäen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q12431">https://www.wikidata.org/wiki/Q12431</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Pyrenees">https://www.britannica.com/place/Pyrenees</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4047911-0">https://d-nb.info/gnd/4047911-0</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/316429411">https://viaf.org/viaf/316429411</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/3112616"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Pyrenäen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q12431"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Pyrenees"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4047911-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/316429411"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Zwischen Atlantik und Mittelmeer sich erstreckende Gebirgskette, durch die die Iberische Halbinsel vom übrigen Europa getrennt ist.</note>
+        </place>
         <place xml:id="kbga-places-778">
           <placeName>Rämismühle</placeName>
           <placeName type="full">Rämismühle </placeName>
@@ -21111,6 +22302,45 @@
           <placeName>Rohr bei Aarau</placeName>
           <placeName type="full">Rohr bei Aarau </placeName>
           <listBibl/>
+        </place>
+        <place type="P" xml:id="kbga-places-1533">
+          <placeName>Rolle</placeName>
+          <placeName type="full">Rolle (VD)</placeName>
+          <location>
+            <geo>46.4582 6.33499</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7286935">https://www.geonames.org/7286935</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Rolle_VD">https://de.wikipedia.org/wiki/Rolle_VD</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69570">https://www.wikidata.org/wiki/Q69570</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/no2002046148">https://id.loc.gov/authorities/no2002046148</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002606">https://hls-dhs-dss.ch/de/articles/002606</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4537536-7">https://d-nb.info/gnd/4537536-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/132862780">https://viaf.org/viaf/132862780</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286935"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rolle_VD"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69570"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2002046148"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/002606"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4537536-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/132862780"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Politische Gemeinde im Bezirk Nyon (ehemals Bez. Rolle) am Genfersee, zwischen Genf und Lausanne gelegen.</note>
         </place>
         <place type="P" xml:id="kbga-places-481">
           <placeName>Romanshorn</placeName>
@@ -22325,6 +23555,37 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Schloss im Spätrenaissance-Stil im Kanton Thurgau, Gemeinde Wigoltingen.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1500">
+          <placeName>Schloss Bottmingen</placeName>
+          <placeName type="full">Schloss Bottmingen (BL)</placeName>
+          <location>
+            <geo>47.52437 7.57138</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803388702">https://search.ortsnamen.ch/de/record/803388702</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Bottmingen">https://de.wikipedia.org/wiki/Schloss_Bottmingen</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q687250">https://www.wikidata.org/wiki/Q687250</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4822062-0">https://d-nb.info/gnd/4822062-0</idno>
+          <idno type="geonames" target="https://www.geonames.org/10380064">https://www.geonames.org/10380064</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803388702"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Bottmingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q687250"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4822062-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/10380064"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Wasserschloss aus dem 13. Jahrhundert, in dem sich schon seit längerem ein Restaurant befindet.</note>
+        </place>
         <place type="S" xml:id="kbga-places-1082">
           <placeName>Schloss Chillon</placeName>
           <placeName type="full">Schloss Chillon (VD)</placeName>
@@ -22504,6 +23765,86 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
         </place>
+        <place type="S" xml:id="kbga-places-1498">
+          <placeName>Schloss Rotberg</placeName>
+          <placeName type="full">Schloss Rotberg (SO)</placeName>
+          <placeName type="alternative">Burg Rotberg</placeName>
+          <location>
+            <geo>47.46548 7.48396</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/10173829">https://www.geonames.org/10173829</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/109002216">https://search.ortsnamen.ch/de/record/109002216</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Rotberg">https://de.wikipedia.org/wiki/Burg_Rotberg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q1013732">https://www.wikidata.org/wiki/Q1013732</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007709">https://hls-dhs-dss.ch/de/articles/007709</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4822665-8">https://d-nb.info/gnd/4822665-8</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/245435270">https://viaf.org/viaf/245435270</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/10173829"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/109002216"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Rotberg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1013732"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007709"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4822665-8"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/245435270"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Unweit von Basel, südwestlich von Metzerlen-Mariastein gelegen Burg aus dem 13. Jahrhundert, 1934/35 zur Jugendherberge umgebaut.</note>
+        </place>
+        <place type="S" xml:id="kbga-places-1514">
+          <placeName>Schloss Versailles</placeName>
+          <placeName type="full">Schloss Versailles (IDF)</placeName>
+          <placeName type="alternative">Château de Versailles</placeName>
+          <location>
+            <geo>48.80494 2.12131</geo>
+          </location>
+          <country>Frankreich</country>
+          <idno type="geonames" target="https://www.geonames.org/6284980">https://www.geonames.org/6284980</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Versailles">https://de.wikipedia.org/wiki/Schloss_Versailles</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2946">https://www.wikidata.org/wiki/Q2946</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Palace-of-Versailles">https://www.britannica.com/topic/Palace-of-Versailles</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh85022755">https://id.loc.gov/authorities/sh85022755</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4194431-8">https://d-nb.info/gnd/4194431-8</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/127977992">https://viaf.org/viaf/127977992</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6284980"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schloss_Versailles"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2946"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Palace-of-Versailles"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85022755"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4194431-8"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/127977992"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Barockschloss, das als Höhepunkt europäischer Palastarchitektur gilt; ab Mitte des 17. Jahrhunderts Hauptresidenz der Könige von Frankreich. Der ursprünglich als Jagdschloss für Ludwig XIII. errichtete Bau wurde ab 1661 unter Ludwig XIV. um- und ausgebaut.</note>
+        </place>
         <place type="S" xml:id="kbga-places-1090">
           <placeName>Schlosskirche</placeName>
           <placeName type="full">Schlosskirche / Wittenberg (ST)</placeName>
@@ -22655,6 +23996,21 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
           <note type="description">Gemeinde in der Oberlausitz (Landkreis Görlitz), nahe der Grenze zur Tschechischen Republik. 1882-1892 war Martin Rade hier Pfarrer.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-1522">
+          <placeName>Schönberg</placeName>
+          <placeName type="full">Schönberg (BW)</placeName>
+          <location>
+            <geo>48.32406 7.97553</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="geonames" target="https://www.geonames.org/2837007">https://www.geonames.org/2837007</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2837007"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Siedlung östlich von Lahr, bis 1971 selbständige Gemeinde.</note>
         </place>
         <place type="P" xml:id="kbga-places-441">
           <placeName>Schönenwerd</placeName>
@@ -24117,6 +25473,50 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Antiker Stadtstaat und heutige griechische Stadt und Gemeinde auf der griechischen Halbinsel Peloponnes.</note>
         </place>
+        <place type="P" xml:id="kbga-places-1471">
+          <placeName>Spiez</placeName>
+          <placeName type="full">Spiez (BE)</placeName>
+          <location>
+            <geo>46.68473 7.69111</geo>
+          </location>
+          <settlement>Spiez</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2658536">https://www.geonames.org/2658536</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Spiez">https://de.wikipedia.org/wiki/Spiez</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q69484">https://www.wikidata.org/wiki/Q69484</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n87914487">https://id.loc.gov/authorities/n87914487</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008454">https://hls-dhs-dss.ch/de/articles/008454</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/129103845/">https://viaf.org/viaf/129103845/</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4118755-6">https://d-nb.info/gnd/4118755-6</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802000768">https://search.ortsnamen.ch/de/record/802000768</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2658536"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Spiez"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69484"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n87914487"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008454"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/129103845/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4118755-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802000768"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Schweizer Gemeinde am Thunersee im Kanton Bern.</note>
+        </place>
         <place type="S" xml:id="kbga-places-881">
           <placeName>Sportpalast</placeName>
           <placeName type="full">Sportpalast / Berlin (BE)</placeName>
@@ -25483,6 +26883,46 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           </listBibl>
           <note type="description">Ein Teich in Jerusalem, in den das Wasser der Gihonquelle (am Ostfuß des Berges Zion) geleitet wurde. Er diente der Wasserversorgung Jerusalems.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1510">
+          <placeName>Tell El-Amarna</placeName>
+          <placeName type="full">Tell El-Amarna </placeName>
+          <placeName type="alternative">Amarna</placeName>
+          <location>
+            <geo>27.65 30.96667</geo>
+          </location>
+          <country>Ägypten</country>
+          <idno type="geonames" target="https://www.geonames.org/347585">https://www.geonames.org/347585</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Amarna">https://de.wikipedia.org/wiki/Amarna</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q5736">https://www.wikidata.org/wiki/Q5736</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Tell-el-Amarna">https://www.britannica.com/place/Tell-el-Amarna</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/sh86003874">https://id.loc.gov/authorities/sh86003874</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4001620-1">https://d-nb.info/gnd/4001620-1</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/235451847">https://viaf.org/viaf/235451847</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/347585"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Amarna"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q5736"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Tell-el-Amarna"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh86003874"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4001620-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/235451847"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Archäologische Fundstätte in Mittelägypten, in der die Reste der von Pharao Echnaton gegründeten kurzzeitigen Hauptstadt des Alten Ägypten, Achet-Aton erhalten sind.</note>
+        </place>
         <place type="T" xml:id="kbga-places-953">
           <placeName>Tempelberg</placeName>
           <placeName type="full">Tempelberg / Jerusalem </placeName>
@@ -25618,6 +27058,61 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
           <placeName type="full">Theodorskirche / Basel (BS)</placeName>
           <settlement>Basel</settlement>
           <listBibl/>
+        </place>
+        <place type="S" xml:id="kbga-places-1487">
+          <placeName>Theologisches Alumneum</placeName>
+          <placeName type="full">Theologisches Alumneum / Basel (BS)</placeName>
+          <location>
+            <geo>47.56062 7.5816</geo>
+          </location>
+          <settlement>Basel</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/11427662">https://www.geonames.org/11427662</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/11427662"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Seit dem 16. Jahrhundert existierendes Wohnheim für Theologiestudierende in Basel (seit 1853 an der Hebelstrasse 17).</note>
+        </place>
+        <place type="P" xml:id="kbga-places-525">
+          <placeName>Thun</placeName>
+          <placeName type="full">Thun (BE)</placeName>
+          <location>
+            <geo>46.75118 7.62166</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7287306">https://www.geonames.org/7287306</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Thun">https://de.wikipedia.org/wiki/Thun</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q68978">https://www.wikidata.org/wiki/Q68978</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81054170">https://id.loc.gov/authorities/n81054170</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000541">https://hls-dhs-dss.ch/de/articles/000541</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4059991-7">https://d-nb.info/gnd/4059991-7</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/157114971">https://viaf.org/viaf/157114971</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7287306"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Thun"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68978"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81054170"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000541"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4059991-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/157114971"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Einwohnergemeinde und Hauptort des gleichnamigen Verwaltungskreises im Kanton Bern, gelegen am Ausfluss der Aare aus dem Thunersee.</note>
         </place>
         <place type="A" xml:id="kbga-places-336">
           <placeName>Thurgau</placeName>
@@ -26901,6 +28396,41 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
           <note type="description">Hauptstadt der gleichnamigen niederländischen Provinz und viertgrösste Stadt der Niederlande. Im Februar und März 1935 hielt Barth an der dortigen Universität eine Vorlesung über das Credo.</note>
+        </place>
+        <place type="A" xml:id="kbga-places-1535">
+          <placeName>Val-de-Travers</placeName>
+          <placeName type="full">Val-de-Travers (NE)</placeName>
+          <location>
+            <geo>46.90357 6.5631</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2658327">https://www.geonames.org/2658327</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/801002406">https://search.ortsnamen.ch/de/record/801002406</idno>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Val_de_Travers">https://de.wikipedia.org/wiki/Val_de_Travers</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q2507850">https://www.wikidata.org/wiki/Q2507850</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007619">https://hls-dhs-dss.ch/de/articles/007619</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4593144-6">https://d-nb.info/gnd/4593144-6</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2658327"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/801002406"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Val_de_Travers"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2507850"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007619"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4593144-6"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Tal und Bezirk im Kanton Neuenburg / Neuchâtel, südwestlich der Stadt Neuchâtel, von der Areuse durchflossen.</note>
         </place>
         <place type="P" xml:id="kbga-places-610">
           <placeName>Varel</placeName>
@@ -29586,6 +31116,31 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
             </bibl>
           </listBibl>
           <note type="description">Territorium des gleichnamigen Kantons.</note>
+        </place>
+        <place type="P" xml:id="kbga-places-540">
+          <placeName>Zürich-Schwamendingen</placeName>
+          <placeName type="full">Zürich-Schwamendingen / Zürich (Zürich)</placeName>
+          <placeName type="alternative">Zürich (Kreis 12)</placeName>
+          <location>
+            <geo>47.4063 8.57242</geo>
+          </location>
+          <settlement>Zürich</settlement>
+          <country>Schweiz</country>
+          <idno type="wikipedia" target="https://de.wikipedia.org/wiki/Schwamendingen">https://de.wikipedia.org/wiki/Schwamendingen</idno>
+          <idno type="hls" target="https://hls-dhs-dss.ch/de/articles/003126">https://hls-dhs-dss.ch/de/articles/003126</idno>
+          <idno type="geonames" target="https://www.geonames.org/6295491">https://www.geonames.org/6295491</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schwamendingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/003126"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6295491"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Ehemalige politische Gemeinde bei Zürich, 1934 nach Zürich eingemeindet.</note>
         </place>
         <place type="T" xml:id="kbga-places-1285">
           <placeName>Zürichberg</placeName>
