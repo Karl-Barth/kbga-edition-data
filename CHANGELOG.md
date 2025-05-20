@@ -1,12 +1,12 @@
 ## Aktuell
 
-### 16. Mai 2025 (Version eta)
+### 20. Mai 2025 (Version eta-01)
 
 Neue Bände: 47 «Der Römerbrief (Zweite Fassung) 1922» und Preprint 57: «Gespräche 1948–1952» (Seitenzahlen sowie die letzten Korrekturen für die Druckfassung fehlen noch).
 
 Für Vorschlage und Korrekturen sind wir dankbar.
 
-info@karl-barth.ch
+[info@karl-barth.ch](mailto:info@karl-barth.ch)
 
 ### 7. Februar 2025 (Version zeta)
 
