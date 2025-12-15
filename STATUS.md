@@ -1,6 +1,6 @@
 # Karl Barth-Gesamtausgabe: Stand der digitalen Edition
 
-2025-05-21
+2025-12-15
 
 ### Bände online
 Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publiziert. Die Texte der bereits gedruckten Bände werden nach und nach aufgearbeitet und publiziert.
@@ -18,6 +18,7 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 | Die Theologie Zwinglis 1922/1923 (Abt. II Akademische Werke), Zürich 2004 | [[Band 40](https://kbga-pilot.karl-barth.ch/volume/40)] |
 | Der Römerbrief 1922 (Abt. II Akademische Werke), Zürich 2010 | [[Band 47](https://kbga-pilot.karl-barth.ch/volume/47)] |
 | Unveröffentlichte Texte zur Kirchlichen Dogmatik (Abt. II Akademische Werke), Zürich 2014 | [[Band 50](https://kbga-pilot.karl-barth.ch/volume/50)] |
+| Predigten 1911 (Abt. I Predigten), Zürich 2015 | [[Band 51](https://kbga-pilot.karl-barth.ch/volume/51)] |
 | Predigten 1907–1910 (Abt. I Predigten), Zürich 2018 | [[Band 53](https://kbga-pilot.karl-barth.ch/volume/53)] |
 | Vorträge und kleinere Arbeiten 1935–1937 (Abt. III Vorträge und kleinere Arbeiten), Zürich 2020 | [[Band 55](https://kbga-pilot.karl-barth.ch/volume/55)] |
 | Predigten 1912 (Abt. I Predigten), Zürich 2022 | [[Band 56](https://kbga-pilot.karl-barth.ch/volume/56)] |
@@ -28,4 +29,4 @@ Die neuen Bände werden als TEI-Texte erstellt und mit der Drucklegung publizier
 ### Karl Barth-Archiv
 Über 90000 Verzeichnungseinheiten, knapp 20000 Akteure (Dubletten und Überschneidungen), über 5000 Orte und über 88000 Medien (der grösste Teil davon sind PDFs, die s/w-Fotografien der Dokumente enthalten)
 
-<small>generated 2025-05-21 06:18:59</small>
+<small>generated 2025-12-15 16:29:53</small>

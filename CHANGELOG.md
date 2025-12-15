@@ -1,12 +1,16 @@
 ## Aktuell
 
-### 20. Mai 2025 (Version eta-01)
+### 15. Dezember 2025 (Version theta)
 
-Neue Bände: 47 «Der Römerbrief (Zweite Fassung) 1922» und Preprint 57: «Gespräche 1948–1952» (Seitenzahlen sowie die letzten Korrekturen für die Druckfassung fehlen noch).
+Neuer Band: 51 «Predigten 1911», hrsg. v. Busch, Eberhard / Busch-Blum, Beate (Gesamtausgabe, Abt. I), Zürich 2015
 
 Für Vorschlage und Korrekturen sind wir dankbar.
 
 [info@karl-barth.ch](mailto:info@karl-barth.ch)
+
+### 20. Mai 2025 (Version eta-01)
+
+Neue Bände: 47 «Der Römerbrief (Zweite Fassung) 1922» und Preprint 57: «Gespräche 1948–1952» (Seitenzahlen sowie die letzten Korrekturen für die Druckfassung fehlen noch).
 
 ### 7. Februar 2025 (Version zeta)
 
