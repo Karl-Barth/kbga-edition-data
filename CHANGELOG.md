@@ -1,12 +1,12 @@
 ## Aktuell
 
+Die Edition ist inhaltlich und technisch im Aufbau. Für 2026 sind grössere Umbauten vorgesehen. Für Vorschlage und Korrekturen sind wir dankbar.
+
+[info@karl-barth.ch](mailto:info@karl-barth.ch)
+
 ### 15. Dezember 2025 (Version theta)
 
 Neuer Band: 51 «Predigten 1911», hrsg. v. Busch, Eberhard / Busch-Blum, Beate (Gesamtausgabe, Abt. I), Zürich 2015
-
-Für Vorschlage und Korrekturen sind wir dankbar.
-
-[info@karl-barth.ch](mailto:info@karl-barth.ch)
 
 ### 20. Mai 2025 (Version eta-01)
 

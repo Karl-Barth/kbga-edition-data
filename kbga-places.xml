@@ -14,13 +14,13 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2025">2025</date>
+        <date when="2026">2026</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-12-15 17:29:07</p>
+        <p>Datenbankexport vom 2026-04-19 16:13:00</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,47,51,50,53,55,56,57 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -59,7 +59,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-12-15T17:29:07+01:00">teiHeader was automatically produced from the database 2025-12-15T17:29:07+01:00</change>
+      <change when="2026-04-19T16:13:00+02:00">teiHeader was automatically produced from the database 2026-04-19T16:13:00+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -2715,6 +2715,7 @@
           <idno type="viaf" target="https://viaf.org/viaf/248267007">https://viaf.org/viaf/248267007</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4398613-4">https://d-nb.info/gnd/4398613-4</idno>
           <idno type="worldcat" target="https://www.worldcat.org/identities/viaf-248267007">https://www.worldcat.org/identities/viaf-248267007</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/399">https://kba.karl-barth.ch/places/399</idno>
           <listBibl>
             <bibl>
               <ptr type="geonames" target="https://www.geonames.org/6292918"/>
@@ -2733,6 +2734,9 @@
             </bibl>
             <bibl>
               <ptr type="worldcat" target="https://www.worldcat.org/identities/viaf-248267007"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/399"/>
             </bibl>
           </listBibl>
           <note type="description">Sommerhaus der mit Karl Barth befreundeten Familie Pestalozzi, in Oberrieden am Zürichsee gelegen. Von den 1920er bis in die 1940er Jahre regelmässiger Ferienorts Barths.</note>
@@ -4600,7 +4604,7 @@
         </place>
         <place type="P" xml:id="kbga-places-1367">
           <placeName>Brüssel</placeName>
-          <placeName type="full">Brüssel </placeName>
+          <placeName type="full">Brüssel (Brussels Capital)</placeName>
           <placeName type="alternative">Bruxelles</placeName>
           <location>
             <geo>50.85045 4.34878</geo>
@@ -4609,13 +4613,14 @@
           <country>Belgien</country>
           <idno type="geonames" target="https://www.geonames.org/2800866">https://www.geonames.org/2800866</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/421">https://kba.karl-barth.ch/places/421</idno>
-          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q239">https://www.wikidata.org/wiki/Q239</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q9005">https://www.wikidata.org/wiki/Q9005</idno>
           <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Brussels">https://www.britannica.com/place/Brussels</idno>
           <idno type="worldcat" target="https://worldcat.org/identities/lccn-n79013830/">https://worldcat.org/identities/lccn-n79013830/</idno>
           <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/03021a.htm">https://www.newadvent.org/cathen/03021a.htm</idno>
           <idno type="lcnaf" target="https://id.loc.gov/authorities/n79013830">https://id.loc.gov/authorities/n79013830</idno>
           <idno type="viaf" target="https://viaf.org/viaf/150675140/">https://viaf.org/viaf/150675140/</idno>
           <idno type="gnd" target="https://d-nb.info/gnd/4008460-7">https://d-nb.info/gnd/4008460-7</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Brüssel">https://de.wikipedia.org/wiki/Brüssel</idno>
           <listBibl>
             <bibl>
               <ptr type="geonames" target="https://www.geonames.org/2800866"/>
@@ -4624,7 +4629,7 @@
               <ptr type="kba" target="https://kba.karl-barth.ch/places/421"/>
             </bibl>
             <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q239"/>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q9005"/>
             </bibl>
             <bibl>
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Brussels"/>
@@ -4643,6 +4648,9 @@
             </bibl>
             <bibl>
               <ptr type="gnd" target="https://d-nb.info/gnd/4008460-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Brüssel"/>
             </bibl>
           </listBibl>
         </place>
@@ -6071,6 +6079,7 @@
           <location>
             <geo>49.87167 8.65027</geo>
           </location>
+          <settlement>Darmstadt</settlement>
           <country>Deutschland</country>
           <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Darmstadt">https://de.wikipedia.org/wiki/Darmstadt</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/175">https://kba.karl-barth.ch/places/175</idno>
@@ -8187,7 +8196,7 @@
         </place>
         <place type="P" xml:id="kbga-places-901">
           <placeName>Feketić</placeName>
-          <placeName type="full">Feketić </placeName>
+          <placeName type="full">Feketić (Vojvodina)</placeName>
           <placeName type="alternative">Feketitsch</placeName>
           <location>
             <geo>45.66431 19.69974</geo>
@@ -8358,6 +8367,7 @@
           <location>
             <geo>50.11552 8.68417</geo>
           </location>
+          <settlement>Frankfurt am Main</settlement>
           <country>Deutschland</country>
           <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Frankfurt_am_Main">https://de.wikipedia.org/wiki/Frankfurt_am_Main</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/196">https://kba.karl-barth.ch/places/196</idno>
@@ -9196,10 +9206,40 @@
           <placeName type="full">Geldern </placeName>
           <listBibl/>
         </place>
-        <place xml:id="kbga-places-490">
+        <place type="P" xml:id="kbga-places-490">
           <placeName>Gelterkinden</placeName>
-          <placeName type="full">Gelterkinden </placeName>
-          <listBibl/>
+          <placeName type="full">Gelterkinden (Basel-Landschaft)</placeName>
+          <location>
+            <geo>47.46497 7.85174</geo>
+          </location>
+          <settlement>Gelterkinden</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/7285897">https://www.geonames.org/7285897</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Gelterkinden">https://de.wikipedia.org/wiki/Gelterkinden</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q65936">https://www.wikidata.org/wiki/Q65936</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4086689-0">https://d-nb.info/gnd/4086689-0</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001222">https://hls-dhs-dss.ch/de/articles/001222</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/245658042">https://viaf.org/viaf/245658042</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7285897"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Gelterkinden"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q65936"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4086689-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001222"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/245658042"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="S" xml:id="kbga-places-861">
           <placeName>Gemarker Kirche</placeName>
@@ -11117,6 +11157,45 @@
           </listBibl>
           <note type="description">Schweizer Jura-Pass, der Läufelfingen im Kanton Basel-Landschaft mit Trimbach im Kanton Solothurn verbindet. Über den Pass führt die Hauptstrasse 2 von Olten nach Basel.</note>
         </place>
+        <place type="S" xml:id="kbga-places-1444">
+          <placeName>Haus der Sing-Akademie</placeName>
+          <placeName type="full">Haus der Sing-Akademie / Berlin </placeName>
+          <settlement>Berlin</settlement>
+          <idno type="gnd" target="https://d-nb.info/gnd/2118215-2">https://d-nb.info/gnd/2118215-2</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Sing-Akademie_zu_Berlin">https://de.wikipedia.org/wiki/Sing-Akademie_zu_Berlin</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q521789">https://www.wikidata.org/wiki/Q521789</idno>
+          <idno type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb12171483x">https://catalogue.bnf.fr/ark:/12148/cb12171483x</idno>
+          <idno type="idref" target="https://www.idref.fr/030982278">https://www.idref.fr/030982278</idno>
+          <idno type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/2118215-2">https://kalliope-verbund.info/gnd/2118215-2</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n88629954">https://id.loc.gov/authorities/n88629954</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/146334295">https://viaf.org/viaf/146334295</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2118215-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Sing-Akademie_zu_Berlin"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q521789"/>
+            </bibl>
+            <bibl>
+              <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb12171483x"/>
+            </bibl>
+            <bibl>
+              <ptr type="idref" target="https://www.idref.fr/030982278"/>
+            </bibl>
+            <bibl>
+              <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/2118215-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88629954"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/146334295"/>
+            </bibl>
+          </listBibl>
+        </place>
         <place type="A" xml:id="kbga-places-1185">
           <placeName>Hegau</placeName>
           <placeName type="full">Hegau (BW)</placeName>
@@ -11384,7 +11463,7 @@
         </place>
         <place type="S" xml:id="kbga-places-1355">
           <placeName>Helvetiaplatz</placeName>
-          <placeName type="full">Helvetiaplatz / Zürich (Zürich)</placeName>
+          <placeName type="full">Helvetiaplatz / Zürich (ZH)</placeName>
           <settlement>Zürich</settlement>
           <country>Schweiz</country>
           <listBibl/>
@@ -16433,6 +16512,7 @@
           <location>
             <geo>50.63373 5.56749</geo>
           </location>
+          <settlement>Lüttich</settlement>
           <country>Belgien</country>
           <idno type="geonames" target="https://www.geonames.org/2792413">https://www.geonames.org/2792413</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/3191">https://kba.karl-barth.ch/places/3191</idno>
@@ -18451,9 +18531,50 @@
         </place>
         <place type="P" xml:id="kbga-places-1454">
           <placeName>Nagasaki</placeName>
-          <placeName type="full">Nagasaki </placeName>
+          <placeName type="full">Nagasaki (Nagasaki)</placeName>
+          <location>
+            <geo>32.75 129.88333</geo>
+          </location>
+          <settlement>Nagasaki</settlement>
           <country>Japan</country>
-          <listBibl/>
+          <idno type="geonames" target="https://www.geonames.org/1856152">https://www.geonames.org/1856152</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Nagasaki">https://de.wikipedia.org/wiki/Nagasaki</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q38234">https://www.wikidata.org/wiki/Q38234</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4041134-5">https://d-nb.info/gnd/4041134-5</idno>
+          <idno type="idref" target="https://www.idref.fr/258075139">https://www.idref.fr/258075139</idno>
+          <idno type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Nagasaki-Japan">https://www.britannica.com/place/Nagasaki-Japan</idno>
+          <idno type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/10667c.htm">https://www.newadvent.org/cathen/10667c.htm</idno>
+          <idno type="lcnaf" target="https://id.loc.gov/authorities/n81018707">https://id.loc.gov/authorities/n81018707</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/234580694">https://viaf.org/viaf/234580694</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/1856152"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Nagasaki"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q38234"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4041134-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="idref" target="https://www.idref.fr/258075139"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Nagasaki-Japan"/>
+            </bibl>
+            <bibl>
+              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/10667c.htm"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81018707"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/234580694"/>
+            </bibl>
+          </listBibl>
         </place>
         <place xml:id="kbga-places-938">
           <placeName>Nantes</placeName>
@@ -19988,12 +20109,48 @@
             </bibl>
           </listBibl>
         </place>
+        <place type="A" xml:id="kbga-places-414">
+          <placeName>Oldenburg</placeName>
+          <placeName type="full">Oldenburg </placeName>
+          <location>
+            <geo>53.14118 8.21467</geo>
+          </location>
+          <country>Deutschland</country>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg">https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q693669">https://www.wikidata.org/wiki/Q693669</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/4043465-5">https://d-nb.info/gnd/4043465-5</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/148100585/">https://viaf.org/viaf/148100585/</idno>
+          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-no2004088210/">https://www.worldcat.org/identities/lccn-no2004088210/</idno>
+          <idno type="geonames" target="https://www.geonames.org/2857458">https://www.geonames.org/2857458</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q693669"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4043465-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/148100585/"/>
+            </bibl>
+            <bibl>
+              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-no2004088210/"/>
+            </bibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2857458"/>
+            </bibl>
+          </listBibl>
+          <note type="description">Gebiet im Nordwesten Deutschlands, das dem Kerngebiet des ehemaligen gleichnamigen Staates und Landes (ohne dessen Exklaven) entspricht.</note>
+        </place>
         <place type="P" xml:id="kbga-places-69">
           <placeName>Oldenburg</placeName>
           <placeName type="full">Oldenburg (NI)</placeName>
           <location>
             <geo>53.14118 8.21467</geo>
           </location>
+          <settlement>Oldenburg</settlement>
           <country>Deutschland</country>
           <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Oldenburg_(Oldb)">https://de.wikipedia.org/wiki/Oldenburg_(Oldb)</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/494">https://kba.karl-barth.ch/places/494</idno>
@@ -20034,41 +20191,6 @@
             </bibl>
           </listBibl>
           <note type="description">Stadt in Niedersachsen und Sitz des Oberkirchenrats der oldenburgischen Landeskirche; bis 1918 Hauptstadt des gleichnamigen Großherzogtums.</note>
-        </place>
-        <place type="A" xml:id="kbga-places-414">
-          <placeName>Oldenburg</placeName>
-          <placeName type="full">Oldenburg </placeName>
-          <location>
-            <geo>53.14118 8.21467</geo>
-          </location>
-          <country>Deutschland</country>
-          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg">https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg</idno>
-          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q693669">https://www.wikidata.org/wiki/Q693669</idno>
-          <idno type="gnd" target="https://d-nb.info/gnd/4043465-5">https://d-nb.info/gnd/4043465-5</idno>
-          <idno type="viaf" target="https://viaf.org/viaf/148100585/">https://viaf.org/viaf/148100585/</idno>
-          <idno type="worldcat" target="https://www.worldcat.org/identities/lccn-no2004088210/">https://www.worldcat.org/identities/lccn-no2004088210/</idno>
-          <idno type="geonames" target="https://www.geonames.org/2857458">https://www.geonames.org/2857458</idno>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Großherzogtum_Oldenburg"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q693669"/>
-            </bibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/4043465-5"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/148100585/"/>
-            </bibl>
-            <bibl>
-              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-no2004088210/"/>
-            </bibl>
-            <bibl>
-              <ptr type="geonames" target="https://www.geonames.org/2857458"/>
-            </bibl>
-          </listBibl>
-          <note type="description">Gebiet im Nordwesten Deutschlands, das dem Kerngebiet des ehemaligen gleichnamigen Staates und Landes (ohne dessen Exklaven) entspricht.</note>
         </place>
         <place type="P" xml:id="kbga-places-50">
           <placeName>Olten</placeName>
@@ -20121,7 +20243,47 @@
         <place xml:id="kbga-places-505">
           <placeName>Oltingen</placeName>
           <placeName type="full">Oltingen </placeName>
-          <listBibl/>
+          <location>
+            <geo>47.43297 7.93919</geo>
+          </location>
+          <idno type="geonames" target="https://www.geonames.org/7286739">https://www.geonames.org/7286739</idno>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802002855">https://search.ortsnamen.ch/de/record/802002855</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/381">https://kba.karl-barth.ch/places/381</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q66095">https://www.wikidata.org/wiki/Q66095</idno>
+          <idno type="gnd" target="https://d-nb.info/gnd/7569383-5">https://d-nb.info/gnd/7569383-5</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001231">https://hls-dhs-dss.ch/de/articles/001231</idno>
+          <idno type="viaf" target="https://viaf.org/viaf/242327222">https://viaf.org/viaf/242327222</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Oltingen">https://de.wikipedia.org/wiki/Oltingen</idno>
+          <idno type="wikipedia-en" target="https://en.wikipedia.org/wiki/Oltingen">https://en.wikipedia.org/wiki/Oltingen</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/7286739"/>
+            </bibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802002855"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/381"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q66095"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/7569383-5"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001231"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/242327222"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Oltingen"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Oltingen"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="A" xml:id="kbga-places-1125">
           <placeName>Olympia</placeName>
@@ -22834,10 +22996,36 @@
             </bibl>
           </listBibl>
         </place>
-        <place xml:id="kbga-places-473">
-          <placeName>Rohr bei Aarau</placeName>
-          <placeName type="full">Rohr bei Aarau </placeName>
-          <listBibl/>
+        <place type="P" xml:id="kbga-places-473">
+          <placeName>Rohr</placeName>
+          <placeName type="full">Rohr (Aargau)</placeName>
+          <location>
+            <geo>47.40166 8.07959</geo>
+          </location>
+          <settlement>Rohr</settlement>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/6692164">https://www.geonames.org/6692164</idno>
+          <idno type="kba" target="https://kba.karl-barth.ch/places/5874">https://kba.karl-barth.ch/places/5874</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Aarau_Rohr">https://de.wikipedia.org/wiki/Aarau_Rohr</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q183441">https://www.wikidata.org/wiki/Q183441</idno>
+          <idno type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001630">https://hls-dhs-dss.ch/de/articles/001630</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/6692164"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/places/5874"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Aarau_Rohr"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q183441"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001630"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="P" xml:id="kbga-places-1533">
           <placeName>Rolle</placeName>
@@ -23149,9 +23337,17 @@
         <place type="S" xml:id="kbga-places-1365">
           <placeName>Rotmatt</placeName>
           <placeName type="full">Rotmatt / Buus (BL)</placeName>
+          <location>
+            <geo>47.03781 7.66537</geo>
+          </location>
           <settlement>Buus</settlement>
           <country>Schweiz</country>
-          <listBibl/>
+          <idno type="ortsnamen" target="https://search.ortsnamen.ch/de/record/309072658">https://search.ortsnamen.ch/de/record/309072658</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/309072658"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="H" xml:id="kbga-places-907">
           <placeName>Rubikon</placeName>
@@ -25601,7 +25797,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-616">
           <placeName>Solingen</placeName>
-          <placeName type="full">Solingen (NRW)</placeName>
+          <placeName type="full">Solingen (NW)</placeName>
           <location>
             <geo>51.17343 7.0845</geo>
           </location>
@@ -27269,8 +27465,25 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="T" xml:id="kbga-places-1373">
           <placeName>Sustenhorn</placeName>
-          <placeName type="full">Sustenhorn </placeName>
-          <listBibl/>
+          <placeName type="full">Sustenhorn (Uri)</placeName>
+          <location>
+            <geo>46.69893 8.45512</geo>
+          </location>
+          <country>Schweiz</country>
+          <idno type="geonames" target="https://www.geonames.org/2658437">https://www.geonames.org/2658437</idno>
+          <idno type="wikipedia-de" target="https://de.wikipedia.org/wiki/Sustenhorn">https://de.wikipedia.org/wiki/Sustenhorn</idno>
+          <idno type="wikidata" target="https://www.wikidata.org/wiki/Q16527">https://www.wikidata.org/wiki/Q16527</idno>
+          <listBibl>
+            <bibl>
+              <ptr type="geonames" target="https://www.geonames.org/2658437"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Sustenhorn"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q16527"/>
+            </bibl>
+          </listBibl>
         </place>
         <place type="R" xml:id="kbga-places-434">
           <placeName>Sustenstrasse</placeName>
@@ -30028,10 +30241,11 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-1010">
           <placeName>Warschau</placeName>
-          <placeName type="full">Warschau </placeName>
+          <placeName type="full">Warschau (Mazovia)</placeName>
           <location>
             <geo>52.22977 21.01178</geo>
           </location>
+          <settlement>Warschau</settlement>
           <country>Polen</country>
           <idno type="geonames" target="https://www.geonames.org/756135">https://www.geonames.org/756135</idno>
           <idno type="kba" target="https://kba.karl-barth.ch/places/137">https://kba.karl-barth.ch/places/137</idno>
@@ -31873,7 +32087,7 @@ Adria mündender Fluss, der zu römischer Zeit die nördliche Grenze des von Mil
         </place>
         <place type="P" xml:id="kbga-places-540">
           <placeName>Zürich-Schwamendingen</placeName>
-          <placeName type="full">Zürich-Schwamendingen / Zürich (Zürich)</placeName>
+          <placeName type="full">Zürich-Schwamendingen / Zürich (ZH)</placeName>
           <placeName type="alternative">Zürich (Kreis 12)</placeName>
           <location>
             <geo>47.4063 8.57242</geo>

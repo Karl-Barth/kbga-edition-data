@@ -14,13 +14,13 @@
       <publicationStmt>
         <publisher>Karl Barth-Archiv</publisher>
         <pubPlace>Basel</pubPlace>
-        <date when="2025">2025</date>
+        <date when="2026">2026</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-12-15 17:29:04</p>
+        <p>Datenbankexport vom 2026-04-19 16:12:58</p>
         <p>Es wurden die Datensätze exportiert die in den Bänden 1,3,5,12,19,27,29,39,40,47,51,50,53,55,56,57 verwendet wurden.</p>
       </sourceDesc>
     </fileDesc>
@@ -66,7 +66,7 @@
       </listPrefixDef>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-12-15T17:29:04+01:00">teiHeader was automatically produced from the database 2025-12-15T17:29:04+01:00</change>
+      <change when="2026-04-19T16:12:58+02:00">teiHeader was automatically produced from the database 2026-04-19T16:12:58+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -79,11 +79,6 @@
           <orgName type="alternative">Religiös-Soziales Kränzchen</orgName>
           <listBibl/>
           <desc>Regelmäßige, teils örtlich getrennt stattfindende  Treffen sich nahestehender, zu Beginn v.a. religiös-sozial orientierter reformierter Pfarrer aus dem Aargau, Basel-Stadt und Basel-Land; an den zu Austausch und Weiterbildung gedachten Zusammenkünften nahmen neben Barth u.a. Lukas Christ, Max Dietschi, Paul Schild, Eduard Thurneysen und Gottlob Wieser häufig teil.</desc>
-        </org>
-        <org xml:id="kbga-actors-9824">
-          <orgName>Aarburger Kirchentag</orgName>
-          <orgName type="full">Aarburger Kirchentag</orgName>
-          <listBibl/>
         </org>
         <org xml:id="kbga-actors-9010">
           <orgName>Aargau (Kanton)</orgName>
@@ -304,9 +299,13 @@
           <orgName>Arbeiterverein Safenwil</orgName>
           <orgName type="full">Arbeiterverein Safenwil</orgName>
           <ref target="https://kba.karl-barth.ch/actors/548">kba</ref>
+          <ref target="https://d-nb.info/gnd/138180358X">gnd</ref>
           <listBibl>
             <bibl>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/548"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/138180358X"/>
             </bibl>
           </listBibl>
           <desc>Sozialdemokratisch orientierte Vereinigung von Arbeitern in Safenwil, an deren Versammlungen Barth mehrfach Vorträge hielt.</desc>
@@ -550,8 +549,61 @@
         </org>
         <org xml:id="kbga-actors-8494">
           <orgName>Basler Missionsgesellschaft</orgName>
-          <orgName type="full">Basler Missionsgesellschaft</orgName>
-          <listBibl/>
+          <orgName type="full">Basler Missionsgesellschaft (1815-2001)</orgName>
+          <orgName type="alternative">Basler Mission</orgName>
+          <birth when="1815-09-25"/>
+          <death when="2001"/>
+          <ref target="https://kba.karl-barth.ch/actors/20133">kba</ref>
+          <ref target="https://d-nb.info/gnd/2009918-6">gnd</ref>
+          <ref target="https://api.metagrid.ch/concordance/3NTbMIsBMU1bXjGtt3r6.json">metagrid</ref>
+          <ref target="https://kbga.karl-barth.ch/actors/8494">kbga</ref>
+          <ref target="https://de.wikipedia.org/wiki/Basler_Mission">wikipedia-de</ref>
+          <ref target="https://www.wikidata.org/wiki/Q355684">wikidata</ref>
+          <ref target="https://hls-dhs-dss.ch/de/articles/045256">hls-dhs-dss</ref>
+          <ref target="https://catalogue.bnf.fr/ark:/12148/cb11972850j">bnf</ref>
+          <ref target="https://www.idref.fr/02775328X">idref</ref>
+          <ref target="https://kalliope-verbund.info/gnd/2009918-6">kalliope-verbund</ref>
+          <ref target="https://id.loc.gov/authorities/n82040770">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/154377835">viaf</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/actors/20133"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2009918-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="metagrid" target="https://api.metagrid.ch/concordance/3NTbMIsBMU1bXjGtt3r6.json"/>
+            </bibl>
+            <bibl>
+              <ptr type="kbga" target="https://kbga.karl-barth.ch/actors/8494"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Basler_Mission"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q355684"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/045256"/>
+            </bibl>
+            <bibl>
+              <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb11972850j"/>
+            </bibl>
+            <bibl>
+              <ptr type="idref" target="https://www.idref.fr/02775328X"/>
+            </bibl>
+            <bibl>
+              <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/2009918-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82040770"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/154377835"/>
+            </bibl>
+          </listBibl>
+          <desc>Als Tochtergesellschaft der Deutschen Christentumsgesellschaft von Christian Friedrich Spittler und Nikolaus von Brunn gegründete und in Übersee missionarisch, zuletzt partnerschaftlich tätige Organisation, 2001  aufgegangen in mission 21.</desc>
         </org>
         <org xml:id="kbga-actors-5804">
           <orgName>Basler Nachrichten</orgName>
@@ -733,6 +785,7 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q815016"/>
             </bibl>
           </listBibl>
+          <desc>3. Reichsbekenntnissynode der Deutschen Evangelischen Kirche, auf der die im November 1934 eingesetzte (erste) Vorläufige Kirchenleitung der Bekennenden Kirche bestätigt wurde. Barth nahm nicht teil; man hatte ihm vorher bedeutet, dass seine Anwesenheit nicht erwünscht ist.</desc>
         </org>
         <org xml:id="kbga-actors-8432">
           <orgName>Bekenntnissynode Bad Oeynhausen 1936 (Deutsche Evangelische Kirche)</orgName>
@@ -900,7 +953,9 @@
         </org>
         <org xml:id="kbga-actors-8439">
           <orgName>Bekenntnissynode Siegen 1935 (Freie reformierte)</orgName>
-          <orgName type="full">Bekenntnissynode Siegen 1935 (Freie reformierte)</orgName>
+          <orgName type="full">Bekenntnissynode Siegen 1935 (Freie reformierte) (1935)</orgName>
+          <birth when="1935-03-26"/>
+          <death when="1935-03-28"/>
           <listBibl/>
         </org>
         <org xml:id="kbga-actors-8730">
@@ -1256,6 +1311,7 @@
           <ref target="https://worldcat.org/identities/lccn-n82154776/">worldcat</ref>
           <ref target="https://id.loc.gov/authorities/no2016018217">lcnaf</ref>
           <ref target="https://viaf.org/viaf/125556967/">viaf</ref>
+          <ref target="https://d-nb.info/gnd/2052151-0">gnd</ref>
           <listBibl>
             <bibl>
               <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Bolschewiki"/>
@@ -1274,6 +1330,9 @@
             </bibl>
             <bibl>
               <ptr type="viaf" target="https://viaf.org/viaf/125556967/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/2052151-0"/>
             </bibl>
           </listBibl>
           <desc>Ursprünglich die von Lenin angeführte radikale Fraktion innerhalb der «Sozialdemokratischen Arbeiterpartei Russlands», nach deren Spaltung 1912 eigenständig, seit 1918 «Kommunistische Partei Russlands (Bolschewiki)», seit 1952 «Kommunistische Partei der Sowjetunion» (KPdSU).</desc>
@@ -1399,50 +1458,31 @@
         </org>
         <org xml:id="kbga-actors-7796">
           <orgName>Bruderrat der Evangelischen Kirche der altpreußischen Union</orgName>
-          <orgName type="full">Bruderrat der Evangelischen Kirche der altpreußischen Union</orgName>
-          <ref target="https://d-nb.info/gnd/26146-4">gnd</ref>
+          <orgName type="full">Bruderrat der Evangelischen Kirche der altpreußischen Union (1934-1949)</orgName>
+          <birth when="1934"/>
+          <death when="1949"/>
           <ref target="https://kba.karl-barth.ch/actors/3890">kba</ref>
-          <ref target="https://de.wikipedia.org/wiki/Evangelische_Kirche_der_altpreußischen_Union">wikipedia-de</ref>
-          <ref target="https://www.wikidata.org/wiki/Q163202">wikidata</ref>
-          <ref target="https://viaf.org/viaf/135457733/">viaf</ref>
-          <ref target="https://id.loc.gov/authorities/n80004103">lcnaf</ref>
-          <ref target="https://www.worldcat.org/identities/lccn-n80004103/">worldcat</ref>
-          <ref target="https://www.britannica.com/topic/Prussian-Union-German-religious-history-1817">encyclopaedia-britannica-online</ref>
           <listBibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/26146-4"/>
-            </bibl>
             <bibl>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/3890"/>
             </bibl>
-            <bibl>
-              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Evangelische_Kirche_der_altpreußischen_Union"/>
-            </bibl>
-            <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q163202"/>
-            </bibl>
-            <bibl>
-              <ptr type="viaf" target="https://viaf.org/viaf/135457733/"/>
-            </bibl>
-            <bibl>
-              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80004103"/>
-            </bibl>
-            <bibl>
-              <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n80004103/"/>
-            </bibl>
-            <bibl>
-              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Prussian-Union-German-religious-history-1817"/>
-            </bibl>
           </listBibl>
+          <desc>Leitendes Gremium der Bekennenden Kirche im Bereich der Evangelischen Kirche der altpreußischen Union, besetzt aus den Bruderräten der einzelnen Provinzialkirchen.</desc>
         </org>
         <org xml:id="kbga-actors-10533">
           <orgName>Bruderrat der Evangelischen Kirche in Deutschland</orgName>
-          <orgName type="full">Bruderrat der Evangelischen Kirche in Deutschland (1945- )</orgName>
+          <orgName type="full">Bruderrat der Evangelischen Kirche in Deutschland (1945-1949)</orgName>
           <birth when="1945"/>
+          <death when="1949"/>
+          <note type="date_comment">Ende der Sitzungen des Reichsbruderrates; Geschäftsstelle 1952 geschlossen</note>
           <ref target="https://d-nb.info/gnd/1053097-6">gnd</ref>
+          <ref target="https://kba.karl-barth.ch/actors/20292">kba</ref>
           <listBibl>
             <bibl>
               <ptr type="gnd" target="https://d-nb.info/gnd/1053097-6"/>
+            </bibl>
+            <bibl>
+              <ptr type="kba" target="https://kba.karl-barth.ch/actors/20292"/>
             </bibl>
           </listBibl>
           <desc>Leitungsgremium der Bekennenden Kirche, Nachfolgeorganisation des Reichsbruderrats.</desc>
@@ -1622,7 +1662,8 @@
         </org>
         <org xml:id="kbga-actors-9866">
           <orgName>Bundesversammlung (Schweiz)</orgName>
-          <orgName type="full">Bundesversammlung (Schweiz)</orgName>
+          <orgName type="full">Bundesversammlung (Schweiz) (1848- )</orgName>
+          <birth when="1848"/>
           <ref target="https://d-nb.info/gnd/1010290-5">gnd</ref>
           <ref target="https://de.wikipedia.org/wiki/Bundesversammlung_(Schweiz)">wikipedia-de</ref>
           <ref target="https://www.wikidata.org/wiki/Q684719">wikidata</ref>
@@ -1649,6 +1690,7 @@
               <ptr type="viaf" target="https://viaf.org/viaf/125463439/"/>
             </bibl>
           </listBibl>
+          <desc>Parlament der Schweizerischen Eidgenossenschaft, bestehend aus dem Nationalrat (grosse Kammer, zu Beginn 111, aktuell 200 Abgeordnete, Bevölkerungsvertretung) und dem Ständerat (kleine Kammer, aktuell 46 Abgeordnete, Kantonsvertretung).</desc>
         </org>
         <org xml:id="kbga-actors-10741">
           <orgName>Centre protestant d'études</orgName>
@@ -2527,22 +2569,21 @@
               <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Deutscher_Evangelischer_Kirchenbund"/>
             </bibl>
           </listBibl>
+          <desc>Zusammenschluss der evangelischen Landeskirchen auf dem Gebiet des Deutschen Reiches. Der DEKB war eine lockere Dachorganisation &amp;quot;zur Wahrung und Vertretung der gemeinsamen Interessen der deutschen evangelischen Landeskirchen&amp;quot;, die kaum übergreifende Befugnisse hatte; sein nach aussen wirksames Organ sollte der &amp;quot;Deutsche Evangelische Kirchentag&amp;quot; sein.</desc>
         </org>
-        <org xml:id="kbga-actors-4081">
-          <orgName>Deutscher Evangelischer Kirchentag</orgName>
-          <orgName type="full">Deutscher Evangelischer Kirchentag</orgName>
-          <ref target="https://de.wikipedia.org/wiki/Deutscher_Evangelischer_Kirchentag">wikipedia-de</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Deutscher_Evangelischer_Kirchentag"/>
-            </bibl>
-          </listBibl>
+        <org xml:id="kbga-actors-10929">
+          <orgName>Deutscher Evangelischer Kirchentag in Bethel</orgName>
+          <orgName type="full">Deutscher Evangelischer Kirchentag in Bethel (1924)</orgName>
+          <birth when="1924-06-14"/>
+          <death when="1924-06-17"/>
+          <listBibl/>
+          <desc>Erste Zusammenkunft des Kirchentags, der als öffentliches Forum des 1922 gebildeten Deutschen Evangelischen Kirchenbunds gedacht war; Präsident: Wilhelm Freiherr von Pechmann.</desc>
         </org>
         <org xml:id="kbga-actors-8268">
-          <orgName>Deutscher Evangelischer Kirchentag 1919 (Dresden)</orgName>
-          <orgName type="full">Deutscher Evangelischer Kirchentag 1919 (Dresden) (1919-1930)</orgName>
-          <birth when="1919"/>
-          <death when="1930"/>
+          <orgName>Deutscher Evangelischer Kirchentag in Dresden</orgName>
+          <orgName type="full">Deutscher Evangelischer Kirchentag in Dresden (1919)</orgName>
+          <birth when="1919-09-01"/>
+          <death when="1919-09-05"/>
           <ref target="https://d-nb.info/gnd/5187572-X">gnd</ref>
           <ref target="https://de.wikipedia.org/wiki/Deutscher_Evangelischer_Kirchentag_(1919–1930)">wikipedia-de</ref>
           <ref target="https://www.wikidata.org/wiki/Q1204745">wikidata</ref>
@@ -2569,6 +2610,20 @@
               <ptr type="worldcat" target="https://www.worldcat.org/identities/lccn-n50062313/"/>
             </bibl>
           </listBibl>
+          <desc>Erste Tagung des von Reformern als &amp;quot;Reichssynode&amp;quot; gedachten Kirchentags, dessen Teilnehmer nach dem Wegfall des landesherrlichen Kirchenregiments eine neue Ordnung der evangelischen Kirchen in Deutschland vorbereiten sollten.</desc>
+        </org>
+        <org xml:id="kbga-actors-8557">
+          <orgName>Deutscher Evangelischer Kirchentag in Königsberg</orgName>
+          <orgName type="full">Deutscher Evangelischer Kirchentag in Königsberg (1927)</orgName>
+          <birth when="1927-06-17"/>
+          <death when="1927-06-21"/>
+          <ref target="https://d-nb.info/gnd/5063608-X">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/5063608-X"/>
+            </bibl>
+          </listBibl>
+          <desc>Zweite Zusammenkunft des Kirchentags, der als öffentliches Forum des 1922 gebildeten Deutschen Evangelischen Kirchenbunds gedacht war; Präsident: Wilhelm Freiherr von Pechmann.</desc>
         </org>
         <org xml:id="kbga-actors-8743">
           <orgName>Deutscher Notbund gegen die schwarze Schmach e.V.</orgName>
@@ -5753,12 +5808,24 @@
           <orgName type="abbreviation">KBA</orgName>
           <birth when="1971"/>
           <ref target="https://d-nb.info/gnd/10364680-2">gnd</ref>
+          <ref target="https://www.wikidata.org/wiki/Q19362817">wikidata</ref>
+          <ref target="https://id.loc.gov/authorities/n96114944">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/124204995">viaf</ref>
           <listBibl>
             <bibl>
               <ptr type="gnd" target="https://d-nb.info/gnd/10364680-2"/>
             </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q19362817"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n96114944"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/124204995"/>
+            </bibl>
           </listBibl>
-          <desc>Letztes Wohnhaus Karl Barths in Basel, in dem sein Nachlass (Bibliothek, Dokumente, Arbeitszimmer, einige weitere Stücke aus seinem Besitz) gesammelt ist. - Homepage: https://karlbarth.unibas.ch/de/</desc>
+          <desc>Letztes Wohnhaus Karl Barths in Basel, in dem sein Nachlass (Bibliothek, Dokumente, Arbeitszimmer, einige weitere Stücke aus seinem Besitz) gesammelt ist. - Homepage: https://karlbarth.unibas.ch</desc>
         </org>
         <org xml:id="kbga-actors-9114">
           <orgName>Katholisch-Apostolische Gemeinde</orgName>
@@ -5932,16 +5999,6 @@
             </bibl>
           </listBibl>
           <desc>Geschäftsführendes Organ der Landeskirche, dem ein Präsident vorsteht.</desc>
-        </org>
-        <org xml:id="kbga-actors-8557">
-          <orgName>Kirchentag Königsberg 1927</orgName>
-          <orgName type="full">Kirchentag Königsberg 1927</orgName>
-          <ref target="https://d-nb.info/gnd/5063608-X">gnd</ref>
-          <listBibl>
-            <bibl>
-              <ptr type="gnd" target="https://d-nb.info/gnd/5063608-X"/>
-            </bibl>
-          </listBibl>
         </org>
         <org xml:id="kbga-actors-10734">
           <orgName>Kirchenversammlung von Eisenach</orgName>
@@ -6287,11 +6344,6 @@
             </bibl>
           </listBibl>
         </org>
-        <org xml:id="kbga-actors-8582">
-          <orgName>Landesbruderrat</orgName>
-          <orgName type="full">Landesbruderrat</orgName>
-          <listBibl/>
-        </org>
         <org xml:id="kbga-actors-10321">
           <orgName>Le Genevois</orgName>
           <orgName type="full">Le Genevois (1875- )</orgName>
@@ -6520,9 +6572,11 @@
         </org>
         <org xml:id="kbga-actors-8275">
           <orgName>Martin-Luther Universität Halle-Wittenberg</orgName>
-          <orgName type="full">Martin-Luther Universität Halle-Wittenberg (1502- )</orgName>
+          <orgName type="full">Martin-Luther Universität Halle-Wittenberg (1817- )</orgName>
+          <orgName type="alternative">Vereinigte Friedrichs-Universität Halle-Wittenberg</orgName>
+          <orgName type="alternative">Universität Halle-Wittenberg</orgName>
           <orgName type="variant">Universität Halle</orgName>
-          <birth when="1502-10-18"/>
+          <birth when="1817-04-12"/>
           <ref target="https://d-nb.info/gnd/2024276-1">gnd</ref>
           <ref target="https://www.wikidata.org/wiki/Q32120">wikidata</ref>
           <ref target="https://viaf.org/viaf/131344908/">viaf</ref>
@@ -6557,6 +6611,7 @@
               <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Martin-Luther-Universität_Halle-Wittenberg"/>
             </bibl>
           </listBibl>
+          <desc>Aus der Vereinigung der 1502 gegründeten Universität Wittenberg und der 1694 gegründeten Friedrichs-Universität Halle entstandene Universität mit Standort in Halle/Saale, die seit 1933 (vorgeschlagen bereits 1932) den Namen Martin Luthers trägt.</desc>
         </org>
         <org xml:id="kbga-actors-8221">
           <orgName>Mc. Cormick Theol. Seminary</orgName>
@@ -6705,6 +6760,7 @@
               <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q5416275"/>
             </bibl>
           </listBibl>
+          <desc>Leitungsorgan des Reformierten Bundes in Deutschland, das den Bund zwischen den Hauptversammlungen leitet. Der Vorsitzende des 24 Mitglieder grossen Leitungsgremiums heisst „Moderator“.</desc>
         </org>
         <org xml:id="kbga-actors-280">
           <orgName>Mohr, J. C. B.</orgName>
@@ -7744,8 +7800,11 @@
         </org>
         <org xml:id="kbga-actors-9995">
           <orgName>Patmos-Kreis</orgName>
-          <orgName type="full">Patmos-Kreis</orgName>
+          <orgName type="full">Patmos-Kreis (1919-1921)</orgName>
+          <birth when="1919"/>
+          <death when="1921"/>
           <listBibl/>
+          <desc>Kreis aus Juden, Christen und Philosophen um Eugen Rosenstock-Huessy, Hans und Rudolf Ehrenberg und andere, der sich in den Umbruchsjahren nach dem Ende des Ersten Weltkriegs um eine religiös-geistige Erneuerung in Deutschland bemühte und für die Aussöhnung der Religionen einsetzte.</desc>
         </org>
         <org xml:id="kbga-actors-9862">
           <orgName>Patmos-Verlag</orgName>
@@ -8189,14 +8248,18 @@
         </org>
         <org xml:id="kbga-actors-7337">
           <orgName>Reformierte Kirchenzeitung</orgName>
-          <orgName type="full">Reformierte Kirchenzeitung</orgName>
+          <orgName type="full">Reformierte Kirchenzeitung (1854-2000)</orgName>
           <orgName type="variant">RKZ</orgName>
+          <orgName type="variant">Reformierte Kirchenzeitung. Organ des Reformierten Bundes für Deutschland</orgName>
+          <birth when="1854"/>
+          <death when="2000"/>
           <ref target="https://kba.karl-barth.ch/actors/2568">kba</ref>
           <listBibl>
             <bibl>
               <ptr type="kba" target="https://kba.karl-barth.ch/actors/2568"/>
             </bibl>
           </listBibl>
+          <desc>Mitteilungsblatt des Reformierten Bundes, erschienen in Wuppertal; 2000 aufgegangen in zeitzeichen.</desc>
         </org>
         <org xml:id="kbga-actors-8509">
           <orgName>Reformierter Arbeitsausschuss</orgName>
@@ -8221,9 +8284,38 @@
           <desc>Deutsche reformierte vereinsrechtliche Föderation in Deutschland. Dachverband der ca. zwei Millionen Reformierten (Stand 2021), dem sowohl Kirchen, als auch Gemeinden und Einzelmitglieder angehören. Seit 2005 Sitz in Hannover.</desc>
         </org>
         <org xml:id="kbga-actors-8669">
-          <orgName>Reformierter Bund für Deutschland</orgName>
-          <orgName type="full">Reformierter Bund für Deutschland</orgName>
-          <listBibl/>
+          <orgName>Reformierter Bund</orgName>
+          <orgName type="full">Reformierter Bund (1884- )</orgName>
+          <orgName type="variant">Reformierter Bund für Deutschland</orgName>
+          <orgName type="variant">Reformierter Bund in Deutschland</orgName>
+          <birth when="1884"/>
+          <ref target="https://de.wikipedia.org/wiki/Reformierter_Bund">wikipedia-de</ref>
+          <ref target="https://www.wikidata.org/wiki/Q25226658">wikidata</ref>
+          <ref target="https://www.britannica.com/topic/Reformed-Alliance">encyclopaedia-britannica-online</ref>
+          <ref target="https://id.loc.gov/authorities/n84155243">lcnaf</ref>
+          <ref target="https://viaf.org/viaf/140195765">viaf</ref>
+          <ref target="https://d-nb.info/gnd/4224424-9">gnd</ref>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Reformierter_Bund"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q25226658"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Reformed-Alliance"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n84155243"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/140195765"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4224424-9"/>
+            </bibl>
+          </listBibl>
+          <desc>Föderation reformierter Kirchen, Gemeinden, Verbände und Einzelpersonen zur Vertretung der gemeinsamen Interessen und Belange der Reformierten in Deutschland.</desc>
         </org>
         <org xml:id="kbga-actors-8507">
           <orgName>Reformierter Kirchenausschuss</orgName>
@@ -8232,8 +8324,11 @@
         </org>
         <org xml:id="kbga-actors-8506">
           <orgName>Reformierter Kirchenkonvent</orgName>
-          <orgName type="full">Reformierter Kirchenkonvent</orgName>
+          <orgName type="full">Reformierter Kirchenkonvent (1934-1936)</orgName>
+          <birth when="1934-04-18"/>
+          <death when="1936-06-22"/>
           <listBibl/>
+          <desc>Im Zuge der Auseinandersetzungen um die Bildung einer deutschen Reichskirche und des Kirchenkampfes als Vertretung aller Reformierten in Deutschland in Osnabrück gegründetes Gremium, das ursprünglich zu einem Zusammenschluss zu einer einheitlichen reformierten Kirche beitragen sollte, aber schon auf seiner zweiten Tagung in Hagen an den inneren Gegensätzen zerbrach.</desc>
         </org>
         <org xml:id="kbga-actors-4135">
           <orgName>Reformierter Weltbund / Weltbund der Presbyterianer</orgName>
@@ -8272,6 +8367,7 @@
           <orgName type="full">Reichsbruderrat der Bekennenden Kirche (1934-1937)</orgName>
           <orgName type="alternative">Bruderrat der Bekennenden Kirche</orgName>
           <orgName type="alternative">Bruderrat der Deutschen Evangelischen Kirche</orgName>
+          <orgName type="alternative">Bruderrat der Reichsbekenntnissynode</orgName>
           <orgName type="variant">Reichsbruderrates</orgName>
           <orgName type="variant">Reichsbruderrat der Deutschen Evangelischen Kirche</orgName>
           <birth when="1934-05-29"/>
@@ -9173,6 +9269,7 @@
           <birth when="1911"/>
           <death when="1964"/>
           <listBibl/>
+          <desc>Schweizerische reformierte Kirchenzeitung.</desc>
         </org>
         <org xml:id="kbga-actors-8321">
           <orgName>Schweizerisches Reformiertes Volksblatt</orgName>
